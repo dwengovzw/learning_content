@@ -27,5 +27,5 @@ content_location: example-location
 
 ## Eindtermen - leerplandoelen
 
-*(Wetenschappen en techniek) De leerlingen kunnen met enkele voorbeelden aantonen dat energie nodig is voor het functioneren van levende en niet-levende systemen en kunnen daarvan de energiebronnen benoemen.
+* (Wetenschappen en techniek) De leerlingen kunnen met enkele voorbeelden aantonen dat energie nodig is voor het functioneren van levende en niet-levende systemen en kunnen daarvan de energiebronnen benoemen.
 
