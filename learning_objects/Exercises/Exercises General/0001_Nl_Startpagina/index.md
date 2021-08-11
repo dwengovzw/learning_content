@@ -1,9 +1,9 @@
 ---
-hruid: Uitleg programmeren in de simulatie-v1.0.00
+hruid: Startpagina-v1.0.1
 version: 1
 language: nl
-title: Uitleg programmeren in de simulatie
-description: Uitleg
+title: Startpagina
+description: Beschrijving van de onderdelen van de simulator
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
     {source: Source, id: id}, 
@@ -24,7 +24,6 @@ return_value: {
 }
 content_location: example-location
 ---
-
 # 1. DwenguinoBlockly, een programmeeromgeving
 
 De programmeeromgeving met simulator is online beschikbaar op [https://www.dwengo.org/dwenguinoblockly](https://www.dwengo.org/dwenguinoblockly "link simulator").
