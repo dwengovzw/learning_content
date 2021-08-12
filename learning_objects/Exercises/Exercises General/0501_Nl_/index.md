@@ -25,6 +25,11 @@ return_value: {
 content_location: example-location
 ---
 
-## titel
+# Het LCD-scherm
 
-Oefening
+Het LCD-scherm kan je gebruiken om tekst te tonen. Dit kan handig bijvoorbeeld handig zijn voor het uitlezen van sensoren.
+
+Op het lcd-scherm van de Dwenguino passen
+maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm kunnen worden ingesteld.
+
+**Afbeeldingen fiches SR**
