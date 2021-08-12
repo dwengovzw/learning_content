@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: LCD
 description: Uitleg LCD
-keywords: [voorbeeld, voorbeeld2]
+keywords: [LCD, voorbeeld2]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -25,6 +25,6 @@ return_value: {
 content_location: example-location
 ---
 
-## titel
+## Uitleg LCD
 
-Oefening
+Uitleg
