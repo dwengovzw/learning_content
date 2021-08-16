@@ -1,10 +1,10 @@
 ---
-hruid: LCD-v1.0.1
+hruid: lcd oefening 2-v1.0.1
 version: 1
 language: nl
-title: LCD
+title: lcd oefening 2
 description: Uitleg LCD
-keywords: [voorbeeld, voorbeeld2]
+keywords: [lcd, lcd-scherm]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -25,8 +25,6 @@ return_value: {
 content_location: example-location
 ---
 
-## 2. LEDs
+### 1.2.1
 
-De LEDs op de Dwenguino vind je terug onder het lcd-scherm. Deze LEDs kan je programmeren om aan en uit te gaan. In totaal zijn er 9 LEDs, genummerd 0 - 7 en 13. Het laatste LED heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
-
-**Afbeelding Dwenguino met LEDs aangeduid**
+Bekijk onderstaande lcd-schermen. Maak de figuren na door gebruik te maken van de volgende symbolen: \ / _ < >

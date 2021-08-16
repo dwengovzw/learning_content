@@ -1,9 +1,9 @@
 ---
-hruid: LCD-v1.0.1
+hruid: Lln_Algemeen-v1.0.0
 version: 1
 language: nl
-title: LCD
-description: Uitleg LCD
+title: Leerling Algemeen
+description: Inleiding tot het leerspoor
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
     {source: Source, id: id}, 
@@ -25,8 +25,4 @@ return_value: {
 content_location: example-location
 ---
 
-## 2. LEDs
-
-De LEDs op de Dwenguino vind je terug onder het lcd-scherm. Deze LEDs kan je programmeren om aan en uit te gaan. In totaal zijn er 9 LEDs, genummerd 0 - 7 en 13. Het laatste LED heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
-
-**Afbeelding Dwenguino met LEDs aangeduid**
+# Wat ga je doen?

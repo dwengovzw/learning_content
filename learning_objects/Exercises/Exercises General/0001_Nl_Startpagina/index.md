@@ -24,6 +24,7 @@ return_value: {
 }
 content_location: example-location
 ---
+
 # 1. DwenguinoBlockly, een programmeeromgeving
 
 De programmeeromgeving met simulator is online beschikbaar op [https://www.dwengo.org/dwenguinoblockly](https://www.dwengo.org/dwenguinoblockly "link simulator").
@@ -34,7 +35,7 @@ Hieronder zie je een screenshot van de omgeving met de beschrijving van de versc
 
 
 1. De *toolbox*: In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In 
-![alt](https://scholen.dwengo.org/static/dwenguino.png "Afb. Dwenguino") kan je alle blokken vinden om de tekenrobot te besturen.
+![alt](https://scholen.dwengo.org/static/dwenguino.png "Afb. Dwenguino") kan je bijvoorbeeld alle blokken vinden om de tekenrobot te besturen.
 
 2. Het *codeveld*: Hier staat het programma dat je maakt. Het 'zet klaar/herhaal'-blok staat er al klaar.
 
@@ -57,3 +58,12 @@ Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaa
 . Het laat je ook toe om een specifiek scenario te kiezen waarbinnen je je code wil uitvoeren. 
 
 5. Het *simulatievenster*: In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de Dwenguino, waarop je je code kan uitvoeren. Op de afbeelding is het scenario van de tekenrobot geselecteerd. Bovenaan zie je een virtueel Dwenguino-bord, onderaan een virtuele tekenrobot die je kan programmeren.
+
+
+In de toolbox kan je dus de blokken terugvinden die je nodig hebt voor programma's te maken. Deze blokken moet je hieruit slepen om nadien vast te klikken in de gewenste volgorde.
+
+Doorheen de oefeningen zal er voor nieuwe blokken verwijzingen staan naar de plaats in de toolbox waar je deze kan terugvinden. Een voorbeeld van zo'n verwijzing is ![alt](https://scholen.dwengo.org/static/dwenguino.png "Afb. Dwenguino") .
+
+
+
+# Oefeningen
