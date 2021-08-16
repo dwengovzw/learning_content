@@ -1,10 +1,10 @@
 ---
-hruid: LCD Voorbeeld-v1.0.1
+hruid: lcd Voorbeeld-v1.0.1
 version: 1
 language: nl
-title: LCD Voorbeeld
-description: LCD Voorbeeld
-keywords: [LCD, voorbeeld2]
+title: lcd Voorbeeld
+description: lcd Voorbeeld
+keywords: [lcd, lcd-scherm]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -27,14 +27,11 @@ content_location: example-location
 
 ### Voorbeeld
 
-Op het LCD-scherm kan je dus tekst laten verschijnen. Hiervoor zijn er 2 rijen en 16 kolommen beschikbaar. Je kan ook kiezen waar de tekst begint!
-
-Bekijk onderstaande voorbeelden.
-
-
 Opgave 1:
 
-Laat 'Welkom robot' op het LCD-scherm verschijnen.
+Laat 'Welkom robot' op het lcd-scherm verschijnen.
+
+Oplossing:
 
 **Voorbeeld 1**
 
@@ -45,9 +42,11 @@ Opgave 2:
 
 Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.
 
+Oplossing:
+
 **Voorbeeld 2**
 
-Om de tekst in 2 rijen te splitsen, heb je een tweede LCD-scherm-blok nodig.
+Om de tekst in 2 rijen te splitsen, heb je een tweede lcd-scherm-blok nodig.
 Verander je bij 'op rij:' de 0 in een 1, dan komt je tekst op de tweede lijn.
 
 
@@ -55,10 +54,12 @@ Opgave 3:
 
 Plaats de tekst nu ook in het midden van het LCD-scherm.
 
+Oplossing:
+
 **Voorbeeld 3**
 
 Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 4 plaatsen op naar rechts.
 
 
-Als je denkt deze voorbeeldjes te pakken te hebben, dan kan je nu zelf aan de slag!
+Test deze voorbeeldjes alvast eens uit in de simulator! Eens je de werking wat te pakken hebt, kan je zelf aan de slag.
 

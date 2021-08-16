@@ -1,10 +1,10 @@
 ---
-hruid: LCD-v1.0.1
+hruid: lcd-v1.0.1
 version: 1
 language: nl
-title: LCD
-description: Uitleg LCD
-keywords: [LCD, voorbeeld2]
+title: lcd
+description: Uitleg lcd
+keywords: [lcd, lcd-scherm]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -25,6 +25,10 @@ return_value: {
 content_location: example-location
 ---
 
-## Uitleg LCD
+## 1. lcd-scherm
 
-Uitleg
+Het lcd-scherm kan je gebruiken om tekst te tonen. Dit kan bijvoorbeeld handig zijn voor het uitlezen van sensoren.
+
+Op het lcd-scherm van de Dwenguino passen maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm zijn ook aanpasbaar, maar deze worden hier niet verder behandeld.
+
+**Afbeeldingen fiches SR**

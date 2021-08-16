@@ -1,9 +1,9 @@
 ---
-hruid: LCD-v1.0.1
+hruid: "Opdracht: programmeren in de simulatie-v1.0.00"
 version: 1
 language: nl
-title: LCD
-description: Uitleg LCD
+title: Opdracht: programmeren in de simulatie
+description: Opdracht 1.1
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
     {source: Source, id: id}, 
@@ -25,8 +25,8 @@ return_value: {
 content_location: example-location
 ---
 
-## 2. LEDs
+# Voorbereidende oefeningen Tekenrobot
 
-De LEDs op de Dwenguino vind je terug onder het lcd-scherm. Deze LEDs kan je programmeren om aan en uit te gaan. In totaal zijn er 9 LEDs, genummerd 0 - 7 en 13. Het laatste LED heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
+* Ga naar [https://www.dwengo.org/dwenguinoblockly](https://www.dwengo.org/dwenguinoblockly "Link simulator").
 
-**Afbeelding Dwenguino met LEDs aangeduid**
+* Kies in de simulatieomgeving voor het scenario van de spirograaf.
