@@ -1,9 +1,9 @@
 ---
-hruid: Beschrijving-v1.0.0
+hruid: Beschrijving sociale robot-v1.0.0
 version: 1
 language: nl
-title: Beschrijving leerspoor
-description: Beschrijving van het leerspoor
+title: Beschrijving sociale robot
+description: Beschrijving sociale robot
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
     {source: Source, id: id}, 
@@ -25,6 +25,6 @@ return_value: {
 content_location: example-location
 ---
 
-# WeGoSTEM- Bouw je eigen tekenrobot
+# Sociale Robot
 
-Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les. Mocht er iets niet duidelijk zijn, dan kan je voor vragen ook altijd terecht bij jouw WeGoSTEM-buddy, een ervaren ICT'er met een hart voor WeGoSTEM.
+Laat de leerlingen een eigen 'sociale robot' ontwerpen en programmeren. Een combinatie van creativiteit, computationeel denken en techniek die leidt tot leuke robots die kunnen interageren met de leerlingen!
