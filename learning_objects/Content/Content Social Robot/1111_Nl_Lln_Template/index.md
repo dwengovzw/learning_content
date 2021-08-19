@@ -1,9 +1,9 @@
 ---
-hruid: Programmeren Robot-v1.0.0
+hruid: T-v1.0.0
 version: 1
 language: nl
-title: Programmeren robot
-description: Programmeren Robot
+title: T
+description: T
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
     {source: Source, id: id}, 
@@ -25,12 +25,10 @@ return_value: {
 content_location: example-location
 ---
 
-# Programmeren van de robot
+# Titel
 
-In het **hoofdmenu** vind je algemene functies terug voor het beheren van je programma:
+## Tussentitel
 
-**Afbeelding menu**
+### Subtitel
 
-Het **simulatormenu** bevat de volgende knoppen om je programma uit te voeren:
-
-**afbeelding simulatormenu**
+**Onderverdeling**
