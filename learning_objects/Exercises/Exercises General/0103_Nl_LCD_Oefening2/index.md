@@ -28,3 +28,5 @@ content_location: example-location
 ### 1.2.1
 
 Bekijk onderstaande lcd-schermen. Maak de figuren na door gebruik te maken van de volgende symbolen: \ / _ < >
+
+**Afbeeldingen 1 & 2**

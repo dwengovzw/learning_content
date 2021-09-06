@@ -24,6 +24,7 @@ return_value: {
 }
 content_location: example-location
 ---
+## 1.1 Opdracht LCD
 
 ### 1.1.1
 
@@ -46,4 +47,4 @@ Zorg er nu voor dat je voor- en achternaam mooi gecentreerd (in het midden) weer
 Test ook dit uit in de simulator.
 
 
-Na deze oefening zal niet meer expliciet vermeld worden dat je het programma ook moet testen!
+**Na deze oefening zal niet meer expliciet vermeld worden dat je het programma ook moet testen!**
