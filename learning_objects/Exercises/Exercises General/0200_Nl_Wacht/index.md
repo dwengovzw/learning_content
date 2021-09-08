@@ -1,9 +1,9 @@
 ---
-hruid: Wacht Voorbeeld-v1.0.1
+hruid: Wacht-v1.0.1
 version: 1
 language: nl
-title: Wacht Voorbeeld
-description: Wacht Voorbeeld
+title: Wacht
+description: Wacht
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
     {source: Source, id: id}, 
@@ -25,11 +25,8 @@ return_value: {
 content_location: example-location
 ---
 
-# Het LCD-scherm
+# Wacht
 
-Het LCD-scherm kan je gebruiken om tekst te tonen. Dit kan handig bijvoorbeeld handig zijn voor het uitlezen van sensoren.
-
-Op het lcd-scherm van de Dwenguino passen
-maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm kunnen worden ingesteld.
+Het wacht-blok is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
 
 **Afbeeldingen fiches SR**

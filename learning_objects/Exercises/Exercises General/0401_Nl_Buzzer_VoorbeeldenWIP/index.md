@@ -25,11 +25,34 @@ return_value: {
 content_location: example-location
 ---
 
-# Het LCD-scherm
+### Voorbeeld
 
-Het LCD-scherm kan je gebruiken om tekst te tonen. Dit kan handig bijvoorbeeld handig zijn voor het uitlezen van sensoren.
+OPGAVE 1
 
-Op het lcd-scherm van de Dwenguino passen
-maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm kunnen worden ingesteld.
+Laat de buzzer een toon afspelen gedurende 2 seconden.
 
-**Afbeeldingen fiches SR**
+Oplossing:
+
+**Voorbeeld 1**
+
+
+OPGAVE 2
+
+Laat een S.O.S. uitzenden door de Dwenguino. Dit doe je in morsecode . . . - - - . . . (kort kort kort lang lang lang kort kort kort)
+
+Oplossing:
+
+**Voorbeeld 2**
+
+
+OPGAVE 3:
+
+Programmeer een deuntje. Maak hiervoor gebruik van de volgende frequentietabel.
+
+**Frequentietabel tonen**
+
+Oplossing:
+
+**Voorbeeld 3**
+
+Oplossing:

@@ -25,11 +25,13 @@ return_value: {
 content_location: example-location
 ---
 
-# Het LCD-scherm
+## 2.2 Opdracht Wacht
 
-Het LCD-scherm kan je gebruiken om tekst te tonen. Dit kan handig bijvoorbeeld handig zijn voor het uitlezen van sensoren.
+Schrijf een programma dat je voor- en achternaam afwisselend op de eerste en tweede regel van het lcd-scherm laat verschijnen als volgt:
 
-Op het lcd-scherm van de Dwenguino passen
-maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm kunnen worden ingesteld.
+* Voornaam op eerste regel en achternaam op tweede regel.
+* Achternaam op eerste regel en voornaam op tweede regel.
+* Herhaal.
 
-**Afbeeldingen fiches SR**
+
+*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
