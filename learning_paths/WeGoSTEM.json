@@ -1,0 +1,31 @@
+{
+  "hruid": "WeGoSTEM-v1",
+  "language": "nl",
+  "title": "WeGoSTEM",
+  "description": "beschrijving",
+  "image": "",
+  "nodes": [
+    {
+      "learningobject_hruid": "Beschrijving-v1",
+      "language": "nl",
+      "version": "3",
+      "start_node": true,
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Lln_Algemeen-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Lln_Algemeen-v1",
+      "version": "3",
+      "language": "nl"
+      
+    }
+  ]
+}
