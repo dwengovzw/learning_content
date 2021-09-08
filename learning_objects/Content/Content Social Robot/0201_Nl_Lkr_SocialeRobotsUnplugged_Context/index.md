@@ -1,10 +1,10 @@
 ---
-hruid: Doel SR unplugged-v1.0.0
+hruid: Context_SRunplugged-v1
 version: 1
 language: nl
-title: Doel SR unplugged
-description: Doel SR unplugged
-keywords: [voorbeeld, voorbeeld2]
+title: Context SR unplugged
+description: Context SR unplugged
+keywords: [sociale robot]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [4, 3]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,8 +23,16 @@ return_value: {
     }
 }
 content_location: example-location
+estimated_time: 1
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
+    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+]
+teacher_exclusive: true
 ---
 
 # Sociale robot unplugged
 
-Het doel van de volgende activiteiten is om de leerlingen kennis te laten maken met sociale robots. Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren, maar tijdens deze activiteit focussen we op het geven van een ‘gezicht’ aan de robot. We verkennen hoe we emoties of gelaatsuitdrukkingen kunnen programmeren bij robots. We doen dit via twee ‘unplugged’ opdrachten, namelijk programmeren zonder de computer: creëer-een-gezicht en de emotiemachine. 
+Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren.
+
+Tijdens deze activiteit focus je op het geven van een 'gezicht' aan de robot. Je verkent hoe je emoties of gelaatsuitdrukkingen kunt programmeren bij robots.
