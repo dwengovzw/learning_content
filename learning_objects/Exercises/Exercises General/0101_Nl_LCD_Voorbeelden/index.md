@@ -27,7 +27,7 @@ content_location: example-location
 
 ### Voorbeeld
 
-Opgave 1:
+OPGAVE 1
 
 Laat 'Welkom robot' op het lcd-scherm verschijnen.
 
@@ -38,7 +38,7 @@ Oplossing:
 De tekst 'Welkom robot' kan je aanpassen. De twee nullen betekenen: eerste lijn, eerste karakter.
 
 
-Opgave 2:
+OPGAVE 2
 
 Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.
 
@@ -50,7 +50,7 @@ Om de tekst in 2 rijen te splitsen, heb je een tweede lcd-scherm-blok nodig.
 Verander je bij 'op rij:' de 0 in een 1, dan komt je tekst op de tweede lijn.
 
 
-Opgave 3:
+OPGAVE 3
 
 Plaats de tekst nu ook in het midden van het LCD-scherm.
 
@@ -61,6 +61,6 @@ Oplossing:
 Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 4 plaatsen op naar rechts.
 
 
-Test deze voorbeeldjes alvast eens uit in de simulator! Eens je de werking wat te pakken hebt, kan je zelf aan de slag.
+*Test deze voorbeeldjes alvast eens uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
 
 **Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte Dwenguino! Hieronder Wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de Dwenguino.**

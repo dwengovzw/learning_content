@@ -25,11 +25,15 @@ return_value: {
 content_location: example-location
 ---
 
-# Het LCD-scherm
+## 3.2 Opdracht LED
 
-Het LCD-scherm kan je gebruiken om tekst te tonen. Dit kan handig bijvoorbeeld handig zijn voor het uitlezen van sensoren.
+Schrijf een programma dat het volgende doet:
 
-Op het lcd-scherm van de Dwenguino passen
-maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm kunnen worden ingesteld.
+1. LEDs 0 en 7 gaan aan.
+2. Wacht 100 ms. LEDs 1 en 6 gaan aan.
+3. Wacht 100 ms. LEDs 0 en 7 gaan uit. LEDs 2 en 5 gaan aan.
+4. Wacht 100 ms. LEDs 1 en 6 gaan uit. LEDs 3 en 4 gaan aan.
+5. Wacht 100 ms. LEDs 2 en 5 gaan uit. LEDs 0 en 7 gaan aan.
+6. Wacht 100 ms. LEDs 3 en 4 gaan uit.
 
-**Afbeeldingen fiches SR**
+*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
