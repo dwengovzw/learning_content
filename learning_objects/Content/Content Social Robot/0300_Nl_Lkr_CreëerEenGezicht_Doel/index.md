@@ -1,10 +1,10 @@
 ---
-hruid: Doel unplugged Opdracht 1-v1.0.0
+hruid: UnpluggedOpdracht 1-v1
 version: 1
 language: nl
 title: Doel unplugged Opdracht 1
 description: Creëer een gezicht
-keywords: [voorbeeld, voorbeeld2]
+keywords: [sociale robot]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [4, 3]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,8 +23,14 @@ return_value: {
     }
 }
 content_location: example-location
+estimated_time: 1
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
+    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+]
+teacher_exclusive: true
 ---
 
-## Creëer een gezicht (X minuten)
+## Creëer een gezicht (20 minuten)
 
 Het doel van deze activiteit is om aan te tonen hoe iets dat op het eerste gezicht heel moeilijk lijkt, toch geprogrammeerd kan worden met enkele eenvoudige regels. Het toont ook aan hoe programma’s slechts regels zijn die gevolgd worden door computers. De activiteit laat zien hoe het opsplitsen van een programma in verschillende facetten veel gemakkelijker kan zijn dan het in één keer te proberen doen. De groep zal enkele eenvoudige programma’s mogen schrijven om het gezicht dat ze ontworpen hebben te controleren.
