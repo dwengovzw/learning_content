@@ -1,9 +1,9 @@
 ---
-hruid: Uitleg lcd-v1.0.00
+hruid: LED-v1.0.1
 version: 1
 language: nl
-title: Uitleg lcd
-description: Uitleg lcd
+title: LED
+description: Uitleg LED
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
     {source: Source, id: id}, 
@@ -25,12 +25,15 @@ return_value: {
 content_location: example-location
 ---
 
-# 2. Het lcd-scherm
+## 2. LEDs
 
-Als je aan de slag gaat met de tekenrobot, dan beschik je ook over een Dwenguino-bord. De Dwenguino heeft een lcd-scherm *waarop je tekst kunt tonen*:
+Links onderaan op het Dwenguino-bord vind je acht leds:
 
-![alt](https://scholen.dwengo.org/static/uitleglcd.png "Afb. moederbordje")
+![alt](https://scholen.dwengo.org/static/leds.png "Afb. Leds")
 
-Dit resultaat bekom je met de code:
+Deze leds zijn *LED 0*,*LED 1*, ..., *LED 7*, van rechts naar links.
 
-![alt](https://scholen.dwengo.org/static/amuseerje.png "Afb. code")
+Links bovenaan is er nog een ledje: *LED 13*.
+Dit laatste LED heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
+
+**Afbeelding Dwenguino met LEDs aangeduid**
