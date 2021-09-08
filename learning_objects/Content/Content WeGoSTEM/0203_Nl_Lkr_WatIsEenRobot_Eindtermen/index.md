@@ -1,6 +1,6 @@
 ---
 hruid: ET_WatIsEenRobot-v1
-version: 1
+version: 3
 language: nl
 title: ET: Wat is een robot?
 description: Lijst eindtermen

@@ -1,6 +1,6 @@
 ---
 hruid: Uitleg_ProgrammerenInDeSimulatie-v1
-version: 1
+version: 3
 language: nl
 title: Uitleg programmeren in de simulatie
 description: Uitleg

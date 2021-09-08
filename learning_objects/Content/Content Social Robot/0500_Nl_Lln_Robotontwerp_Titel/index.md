@@ -1,6 +1,6 @@
 ---
 hruid: Robotontwerp-v1
-version: 1
+version: 3
 language: nl
 title: Robotontwerp
 description: Robotontwerp inleiding

@@ -1,6 +1,6 @@
 ---
 hruid: Opdracht_ProgrammeerEensEenMens-v1
-version: 1
+version: 3
 language: nl
 title: Programmeer eens een mens
 description: De activiteit

@@ -1,6 +1,6 @@
 ---
 hruid: Opdracht_ProgrammerenTekenrobot-v1
-version: 1
+version: 3
 language: nl
 title: Programmeren van de tekenrobot
 description: De leerlingen programmeren de gemonteerde robotarm

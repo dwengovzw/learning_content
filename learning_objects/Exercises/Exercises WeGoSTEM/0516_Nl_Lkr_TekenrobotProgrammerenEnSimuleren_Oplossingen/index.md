@@ -1,6 +1,6 @@
 ---
 hruid: OplossingenOpdrachten-v1
-version: 1
+version: 3
 language: nl
 title: Oplossingen opdrachten
 description: Oplossingen opdrachten

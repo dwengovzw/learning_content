@@ -1,6 +1,6 @@
 ---
 hruid: Lkr_Algemeen-v1
-version: 1
+version: 3
 language: nl
 title: Leerkracht Algemeen
 description: Inleiding tot het leerspoor

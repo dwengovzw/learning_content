@@ -1,6 +1,6 @@
 ---
 hruid: UitlegAlsDan-v1
-version: 1
+version: 3
 language: nl
 title: Uitleg als-dan
 description: Uitleg als-dan

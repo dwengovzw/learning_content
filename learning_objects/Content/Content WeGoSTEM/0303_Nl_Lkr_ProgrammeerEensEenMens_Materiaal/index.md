@@ -1,6 +1,6 @@
 ---
 hruid: Materiaal_ProgrammeerEensEenMens-v1
-version: 1
+version: 3
 language: nl
 title: "Materiaal: Programmeer eens een mens"
 description: Materiaal

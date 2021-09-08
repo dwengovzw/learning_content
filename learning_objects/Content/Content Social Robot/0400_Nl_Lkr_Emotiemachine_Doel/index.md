@@ -1,6 +1,6 @@
 ---
 hruid: Doel_SRunplugged_Opdracht2-v1
-version: 1
+version: 3
 language: nl
 title: Doel SR unplugged Opdracht 2
 description: Emotiemachine

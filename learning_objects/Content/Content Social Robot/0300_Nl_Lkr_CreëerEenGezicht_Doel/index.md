@@ -1,6 +1,6 @@
 ---
 hruid: UnpluggedOpdracht 1-v1
-version: 1
+version: 3
 language: nl
 title: Doel unplugged Opdracht 1
 description: Creëer een gezicht

@@ -1,6 +1,6 @@
 ---
 hruid: Doel_WatIsEenRobot-v1
-version: 1
+version: 3
 language: nl
 title: Doel: Wat is een robot?
 description: Beschrijving

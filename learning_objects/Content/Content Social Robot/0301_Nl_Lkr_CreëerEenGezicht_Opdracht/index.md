@@ -1,6 +1,6 @@
 ---
 hruid: SRunplugged_Opdracht1-v1
-version: 1
+version: 3
 language: nl
 title: SR unplugged Opdracht 1
 description: Creëer een gezicht

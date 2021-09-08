@@ -1,6 +1,6 @@
 ---
 hruid: WatNaWeGoSTEM-v1
-version: 1
+version: 3
 language: nl
 title: Wat na WeGoSTEM?
 description: Overlopen extra materiaal

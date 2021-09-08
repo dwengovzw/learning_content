@@ -1,6 +1,6 @@
 ---
 hruid: UitlegLussen-v1
-version: 1
+version: 3
 language: nl
 title: Uitleg lussen
 description: Uitleg lussen

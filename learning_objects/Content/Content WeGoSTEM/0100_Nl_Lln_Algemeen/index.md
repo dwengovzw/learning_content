@@ -1,6 +1,6 @@
 ---
 hruid: Lln_Algemeen-v1
-version: 1
+version: 3
 language: nl
 title: Leerling Algemeen
 description: Inleiding tot het leerspoor

@@ -1,6 +1,6 @@
 ---
 hruid: Robotassemblage-v1
-version: 1
+version: 3
 language: nl
 title: Robotassemblage
 description: Robotassemblage

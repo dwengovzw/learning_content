@@ -1,6 +1,6 @@
 ---
 hruid: ET_BouwenVanEenTekenrobot-v1
-version: 1
+version: 3
 language: nl
 title: "ET: Bouwen van een tekenrobot"
 description: Lijst eindtermen

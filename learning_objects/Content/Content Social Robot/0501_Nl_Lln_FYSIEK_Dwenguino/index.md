@@ -1,6 +1,6 @@
 ---
 hruid: Dwenguino_intro-v1
-version: 1
+version: 3
 language: nl
 title: Dwenguino intro
 description: Dwenguino intro

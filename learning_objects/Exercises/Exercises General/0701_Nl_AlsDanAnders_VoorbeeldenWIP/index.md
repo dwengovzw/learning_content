@@ -1,10 +1,10 @@
 ---
-hruid: AlsDanAnders Voorbeeld-v1.0.1
-version: 1
+hruid: AlsDanAnders_Voorbeeld-v1
+version: 3
 language: nl
 title: AlsDanAnders Voorbeeld
-description: AlsDanAnders Voorbeeld
-keywords: [voorbeeld, voorbeeld2]
+description: AlsDanAndersVoorbeeld
+keywords: [StartToDwenguino, AlsDanAnders]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [4, 3]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,13 +23,48 @@ return_value: {
     }
 }
 content_location: example-location
+estimated_time: 10
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
+    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+]
+teacher_exclusive: false
 ---
 
-# Het LCD-scherm
+### Voorbeeld
 
-Het LCD-scherm kan je gebruiken om tekst te tonen. Dit kan handig bijvoorbeeld handig zijn voor het uitlezen van sensoren.
+OPGAVE 1
 
-Op het lcd-scherm van de Dwenguino passen
-maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm kunnen worden ingesteld.
 
-**Afbeeldingen fiches SR**
+
+
+Oplossing:
+
+**Voorbeeld 1**
+
+
+
+
+OPGAVE 2
+
+
+
+Oplossing:
+
+**Voorbeeld 2**
+
+
+
+
+OPGAVE 3
+
+
+
+Oplossing:
+
+**Voorbeeld 3**
+
+
+
+
+*Test deze voorbeeldjes alvast eens uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

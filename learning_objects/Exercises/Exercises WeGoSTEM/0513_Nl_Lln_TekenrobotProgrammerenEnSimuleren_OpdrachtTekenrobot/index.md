@@ -1,6 +1,6 @@
 ---
 hruid: OpdrachtTekenrobot-v1
-version: 1
+version: 3
 language: nl
 title: Opdracht tekenrobot
 description: Opdracht tekenrobot

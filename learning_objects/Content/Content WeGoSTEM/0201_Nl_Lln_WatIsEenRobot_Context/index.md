@@ -1,6 +1,6 @@
 ---
 hruid: WatIsEenRobot-v1
-version: 1
+version: 3
 language: nl
 title: Wat is een robot?
 description: Geschiedenis en bouw van robots

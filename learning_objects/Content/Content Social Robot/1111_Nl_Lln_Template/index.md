@@ -1,10 +1,10 @@
 ---
 hruid: T-v1
-version: 1
+version: 3
 language: nl
 title: T
 description: T
-keywords: [voorbeeld, voorbeeld2]
+keywords: []
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -1,6 +1,6 @@
 ---
 hruid: Doel_ProgrammeerEensEenMens-v1
-version: 1
+version: 3
 language: nl
 title: Doel: Programmeer eens een mens
 description: beschrijving van de activiteit

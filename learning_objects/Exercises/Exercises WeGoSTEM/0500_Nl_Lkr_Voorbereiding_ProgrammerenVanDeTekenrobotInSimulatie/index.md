@@ -1,6 +1,6 @@
 ---
 hruid: Voorbereiding_ProgrammerenTekenrobotSimulatie-v1
-version: 1
+version: 3
 language: nl
 title: Voorbereiding Programmeren van de tekenrobot in simulatie
 description: Korte inhoudstafel en verwijzing naar de oefeningen
