@@ -2,7 +2,7 @@
 hruid: Materiaal_BouwenVanEenTekenrobot-v1
 version: 3
 language: nl
-title: "Materiaal: Bouwen van een tekenrobot"
+title: Materiaal Bouwen van een tekenrobot
 description: Lijst materiaal
 keywords: [WeGoSTEM]
 educational_goals: [
