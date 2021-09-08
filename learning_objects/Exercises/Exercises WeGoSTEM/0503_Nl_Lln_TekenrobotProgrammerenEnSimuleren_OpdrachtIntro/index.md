@@ -41,5 +41,5 @@ content_location: example-location
 
 * Voer dit programma uit met de simulator door in het simulatormenu (4) te klikken op de afspeelknop ![alt](https://scholen.dwengo.org/static/play.png "Afb. Play").
 
-Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox*nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
+Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox* nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
 
