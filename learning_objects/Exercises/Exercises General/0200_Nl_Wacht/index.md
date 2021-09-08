@@ -1,6 +1,6 @@
 ---
 hruid: Wacht-v1
-version: 1
+version: 3
 language: nl
 title: Wacht
 description: Wacht
