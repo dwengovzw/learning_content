@@ -2,7 +2,7 @@
 hruid: Opdracht_ProgrammerenInDeSimulatie-v1
 version: 3
 language: nl
-title: Opdracht: programmeren in de simulatie
+title: Opdracht programmeren in de simulatie
 description: Opdracht 1.1
 keywords: [WeGoSTEM]
 educational_goals: [

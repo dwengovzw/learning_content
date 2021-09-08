@@ -2,7 +2,7 @@
 hruid: Materiaal_ProgrammeerEensEenMens-v1
 version: 3
 language: nl
-title: "Materiaal: Programmeer eens een mens"
+title: Materiaal Programmeer eens een mens
 description: Materiaal
 keywords: [WeGoSTEM]
 educational_goals: [
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [10, 11, 12, 13, 14]]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
