@@ -1,6 +1,6 @@
 ---
 hruid: WaarOntlenen-v1
-version: 1
+version: 3
 language: nl
 title: Waar ontlenen
 description: Waar en hoe men materiaal kan ontlenen

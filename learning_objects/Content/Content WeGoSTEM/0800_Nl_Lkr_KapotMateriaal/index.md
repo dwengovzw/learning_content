@@ -1,6 +1,6 @@
 ---
 hruid: KapotMateriaal-v1
-version: 1
+version: 3
 language: nl
 title: kapot materiaal?
 description: Wat doe je als iets kapot is

@@ -1,6 +1,6 @@
 ---
 hruid: Overzicht_robotonderdelen-v1
-version: 1
+version: 3
 language: nl
 title: Overzicht robotonderdelen
 description: Overzicht robotonderdelen

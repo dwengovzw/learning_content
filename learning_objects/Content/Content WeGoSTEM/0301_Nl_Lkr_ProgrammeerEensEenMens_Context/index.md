@@ -1,6 +1,6 @@
 ---
 hruid: ProgrammeerEensEenMens-v1
-version: 1
+version: 3
 language: nl
 title: Programmeer eens een mens
 description: De leerlingen zijn robot en programmeur. Kan de programmeur de tekening perfect laten overtekenen door de robots?

@@ -1,6 +1,6 @@
 ---
 hruid: TekenrobotProgrammerenEnSimmuleren-v1
-version: 1
+version: 3
 language: nl
 title: Tekenrobot programmeren en simuleren
 description: Korte intro tot oefeningen

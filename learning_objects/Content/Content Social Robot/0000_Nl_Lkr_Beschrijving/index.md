@@ -1,6 +1,6 @@
 ---
 hruid: BeschrijvingSocialeRobot-v1
-version: 1
+version: 3
 language: nl
 title: Beschrijving sociale robot
 description: Beschrijving sociale robot

@@ -1,6 +1,6 @@
 ---
 hruid: DwenguinoBlockly-v1
-version: 1
+version: 3
 language: nl
 title: DwenguinoBlockly
 description: DwenguinoBlockly

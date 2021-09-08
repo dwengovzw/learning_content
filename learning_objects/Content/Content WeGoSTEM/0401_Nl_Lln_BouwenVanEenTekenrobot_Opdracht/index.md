@@ -1,6 +1,6 @@
 ---
 hruid: Opdracht_BouwenVanEenTekenrobot-v1
-version: 1
+version: 3
 language: nl
 title: Bouwen van een tekenrobot
 description: Tijdens deze activiteit gaan de leerlingen aan de slag met het materiaal en monteren ze de robotarm.

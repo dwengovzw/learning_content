@@ -1,10 +1,10 @@
 ---
-hruid: AlsDanAnders Oefening 1-v1.0.1
-version: 1
+hruid: AlsDanAnders_Oef1-v1
+version: 3
 language: nl
-title: AlsDanAnders Oefening 1
-description: AlsDanAnders Oefening 1
-keywords: [voorbeeld, voorbeeld2]
+title: ALsDanAnders oef 1
+description: AlsDanAnders oef 1
+keywords: [StartToDwenguino, ALsDan]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [4, 3]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,13 +23,27 @@ return_value: {
     }
 }
 content_location: example-location
+estimated_time: 10
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
+    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+]
+teacher_exclusive: false
 ---
+## 7.1 Opdracht Als - Dan - Anders
 
-# Het LCD-scherm
+### 7.1.1
 
-Het LCD-scherm kan je gebruiken om tekst te tonen. Dit kan handig bijvoorbeeld handig zijn voor het uitlezen van sensoren.
 
-Op het lcd-scherm van de Dwenguino passen
-maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm kunnen worden ingesteld.
 
-**Afbeeldingen fiches SR**
+
+### 7.1.2
+
+
+
+
+### 7.1.3
+
+
+
+*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

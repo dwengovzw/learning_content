@@ -1,6 +1,6 @@
 ---
 hruid: UitlegExtraOefeningenSimulatie-v1
-version: 1
+version: 3
 language: nl
 title: Extra oefeningen simulatie
 description: Extra oefeningen simulatie

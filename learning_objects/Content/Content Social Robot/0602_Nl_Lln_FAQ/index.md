@@ -1,6 +1,6 @@
 ---
 hruid: Problemen-v1
-version: 1
+version: 3
 language: nl
 title: Problemen
 description: Vaak voorkomende problemen

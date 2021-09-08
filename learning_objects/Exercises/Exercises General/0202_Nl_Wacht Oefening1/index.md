@@ -1,10 +1,10 @@
 ---
-hruid: Wacht Oefening 1-v1.0.1
-version: 1
+hruid: Wacht_Oef1-v1
+version: 3
 language: nl
 title: Wacht Oefening 1
 description: Wacht Oefening 1
-keywords: [voorbeeld, voorbeeld2]
+keywords: [StartToDwenguino, wacht]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [4, 3]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,6 +23,12 @@ return_value: {
     }
 }
 content_location: example-location
+estimated_time: 5
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
+    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+]
+teacher_exclusive: false
 ---
 
 ## 2.1 Opdracht Wacht

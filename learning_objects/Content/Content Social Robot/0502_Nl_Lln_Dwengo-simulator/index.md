@@ -1,6 +1,6 @@
 ---
 hruid: Dwengo_simulator-v1
-version: 1
+version: 3
 language: nl
 title: Dwengo simulator
 description: Dwengo simulator
