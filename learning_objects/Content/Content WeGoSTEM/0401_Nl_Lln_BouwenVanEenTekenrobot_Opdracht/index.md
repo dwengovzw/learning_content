@@ -1,10 +1,10 @@
 ---
-hruid: "Opdracht: Bouwen van een tekenrobot-v1.0.0"
+hruid: Opdracht_BouwenVanEenTekenrobot-v1
 version: 1
 language: nl
 title: Bouwen van een tekenrobot
 description: Tijdens deze activiteit gaan de leerlingen aan de slag met het materiaal en monteren ze de robotarm.
-keywords: [voorbeeld, voorbeeld2]
+keywords: [WeGoSTEM]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [4, 3]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,6 +23,12 @@ return_value: {
     }
 }
 content_location: example-location
+estimated_time: 10
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
+    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+]
+teacher_exclusive: false
 ---
 
 # Bouwen van een tekenrobot
