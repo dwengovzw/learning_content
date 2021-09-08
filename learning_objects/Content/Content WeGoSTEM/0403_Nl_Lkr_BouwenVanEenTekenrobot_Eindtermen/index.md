@@ -2,7 +2,7 @@
 hruid: ET_BouwenVanEenTekenrobot-v1
 version: 3
 language: nl
-title: "ET: Bouwen van een tekenrobot"
+title: ET Bouwen van een tekenrobot
 description: Lijst eindtermen
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [

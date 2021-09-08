@@ -2,7 +2,7 @@
 hruid: ProgrammerenTekenrobot-v1
 version: 3
 language: nl
-title: "Materiaal: Programmeren van de tekenrobot"
+title: Materiaal Programmeren van de tekenrobot
 description: Lijst materiaal
 keywords: [WeGoSTEM]
 educational_goals: [

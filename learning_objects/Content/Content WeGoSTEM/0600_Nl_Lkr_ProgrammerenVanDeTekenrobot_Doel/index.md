@@ -2,7 +2,7 @@
 hruid: Doel_ProgrammerenTekenrobot-v1
 version: 3
 language: nl
-title: "Doel: Programmeren van de tekenrobot"
+title: Doel Programmeren van de tekenrobot
 description: Beschrijving van de activiteit
 keywords: [WeGoSTEM]
 educational_goals: [
