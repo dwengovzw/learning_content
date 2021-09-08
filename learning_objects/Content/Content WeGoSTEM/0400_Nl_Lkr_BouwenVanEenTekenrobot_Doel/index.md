@@ -2,7 +2,7 @@
 hruid: Doel_BouwenVanEenTekenrobotekenrobot-v1
 version: 3
 language: nl
-title: "Doel: Bouwen van een tekenrobot"
+title: Doel Bouwen van een tekenrobot
 description: beschrijving opdracht
 keywords: [WeGoSTEM]
 educational_goals: [

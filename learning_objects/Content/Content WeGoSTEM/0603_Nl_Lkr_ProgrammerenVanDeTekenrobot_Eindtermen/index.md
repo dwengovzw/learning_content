@@ -2,7 +2,7 @@
 hruid: ET_ProgrammerenTekenrobot-v1
 version: 3
 language: nl
-title: "ET: Programmeren van de tekenrobot"
+title: ET Programmeren van de tekenrobot
 description: Lijst eindtermen
 keywords: [WEGoSTEM]
 educational_goals: [
