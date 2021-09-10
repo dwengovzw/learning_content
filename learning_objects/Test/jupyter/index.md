@@ -22,6 +22,7 @@ return_value: {
         att2: test2
     }
 }
+content_location: none
 estimated_time: 20
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
