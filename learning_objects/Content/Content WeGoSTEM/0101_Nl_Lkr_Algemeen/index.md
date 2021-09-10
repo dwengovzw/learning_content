@@ -37,12 +37,12 @@ teacher_exclusive: true
 
 WeGoSTEM bundelt een aantal interessante activiteiten die je op twee lesuren kan realiseren in de klas. De activiteiten omvatten vijf verschillende stappen:
 
-**Eerste lesuur**
+###### Eerste lesuur
 * een klasgesprek over robots (10 - 15 min):
 * programmeer eens een mens (10 - 15 min);
 * bouwen van een tekenrobot (25 min);
   
-**Tweede lesuur**  
+###### Tweede lesuur
 * programmeren van de tekenrobot en experimenteren (40min);
 * opruimen (10 min).
 
