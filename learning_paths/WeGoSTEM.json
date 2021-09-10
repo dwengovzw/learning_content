@@ -25,7 +25,7 @@
       "learningobject_hruid": "Lln_Algemeen-v1",
       "version": "3",
       "language": "nl",
-      "transitions": [
+      "transitions": [ 
         {
           "default": true,
           "next": {
@@ -53,6 +53,21 @@
     },
     {
       "learningobject_hruid": "Doel_WatIsEenRobot-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "WatIsEenRobot-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "WatIsEenRobot-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
