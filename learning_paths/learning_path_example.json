@@ -29,8 +29,8 @@
         {
           "default": true,
           "next": {
-            "hruid": "test-v1",
-            "version": "3",
+            "hruid": "test-jupyter-nb-5",
+            "version": "1",
             "language": "nl"
           }
         }
