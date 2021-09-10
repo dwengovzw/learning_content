@@ -33,4 +33,4 @@ skos_concepts: [
 # Test van notebook als externe link
 
 [beginnen met jupyter notebooks](https://kiks.ilabt.imec.be/jupyterhub?id=12 "Link naar jupyter notebook")
-![](@notebook/https://kiks.ilabt.imec.be/jupyterhub?id=12)
+![](@notebook/https://kiks.ilabt.imec.be/jupyterhub?id=12) co
