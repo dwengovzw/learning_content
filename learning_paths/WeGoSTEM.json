@@ -119,36 +119,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "Opdracht_ProgrammeerEensEenMens-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Opdracht_ProgrammeerEensEenMens-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Materiaal_ProgrammeerEensEenMens-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Materiaal_ProgrammeerEensEenMens-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "Doel_BouwenVanEenTekenrobotekenrobot-v1",
             "version": "3",
             "language": "nl"
