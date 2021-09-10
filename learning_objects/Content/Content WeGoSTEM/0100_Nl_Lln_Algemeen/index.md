@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 0
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -33,8 +33,12 @@ teacher_exclusive: false
 
 # Wat ga je doen?
 
-In dit leerpad ga je uitgedaagd worden om zelf een tekenrobot te bouwen en te programmeren!
+In dit leerpad ga je dus uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!
 
 ![](@youtube/https://www.youtube.com/embed/w-s2-Vn-OTs)
 
-Voor je hiermee aan de slag kunt, zal je wel eerst enkele supertoffe opdrachten moeten doen om je een beter idee te geven over hoe je het moet aanpakken. Veel plezier! 
+Voor je hiermee aan de slag kunt, zal je wel eerst enkele supertoffe opdrachten moeten uitvoeren om je een beter idee te geven over hoe je het moet aanpakken. 
+
+Deze opdrachten omvatten uitleg over robots, activiteiten zoals *"Programmeer eens een Mens"* en  programmeeroefeningen.
+
+Veel succes! 
