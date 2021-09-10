@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 15
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -35,20 +35,18 @@ teacher_exclusive: false
 
 ![alt](https://scholen.dwengo.org/static/mensrobotudavi.jpg "Programmeer eens een mens")
 
-## Inleiding
+#### Inleiding
 Opdat robots zinvolle dingen zouden kunnen doen, moeten ze geprogrammeerd worden. Dat wil zeggen dat ze ondubbelzinnige instructies moeten krijgen. Robots kunnen immers niet interpreteren en voeren iedere instructie die je ze geeft, letterlijk uit. Het schrijven van die instructies, noemen we programmeren. 
 
 De uitdaging van de programmeur bestaat erin problemen op te lossen door ze op te delen in kleine stappen die uitvoerbaar zijn door de computer. 
 
-
-## Benodigdheden 
+#### Benodigdheden 
 Voor deze opdracht heb je enkel potlood en papier nodig.
 
-
-## Vaardigheden
+#### Vaardigheden
 Een robot doet alleen dat wat je programmeert. Je moet dus heel precieze instructies geven. Je leert een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen.
 
-## Opdracht
+#### Opdracht
 Kies een programmeur. De anderen zijn robots. De programmeur beschrijft de tekening voor de klas en de robots tekenen deze na. Het doel is om te zien hoe snel en nauwkeurig de tekening wordt nagetekend. **Toon de originele tekening dus niet aan de robots tot ze klaar zijn met tekenen!**
 
 1. Begin met een eenvoudige afbeelding te gebruiken vooor deze oefening.
