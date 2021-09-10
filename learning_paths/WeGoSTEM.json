@@ -74,21 +74,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "Materiaal_WatIsEenRobot-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Materiaal_WatIsEenRobot-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "Doel_ProgrammeerEensEenMens-v1",
             "version": "3",
             "language": "nl"
@@ -143,21 +128,6 @@
     },
     {
       "learningobject_hruid": "Opdracht_BouwenVanEenTekenrobot-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Materiaal_BouwenVanEenTekenrobot-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Materiaal_BouwenVanEenTekenrobot-v1",
       "version": "3",
       "language": "nl",
       "transitions": [

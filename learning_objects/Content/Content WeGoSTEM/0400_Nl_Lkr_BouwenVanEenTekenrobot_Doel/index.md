@@ -2,7 +2,7 @@
 hruid: Doel_BouwenVanEenTekenrobotekenrobot-v1
 version: 3
 language: nl
-title: Doel Bouwen van een tekenrobot
+title: Voorbereiding Bouwen van een tekenrobot
 description: beschrijving opdracht
 keywords: [WeGoSTEM]
 educational_goals: [
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 0
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,11 +31,19 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Doel: Bouwen van een tekenrobot (30 minuten)
+# Voorbereiding - Bouwen van een tekenrobot 
+## 20 - 30 minuten
 
 In deze activiteit gaan de leerlingen voor het eerst aan de slag met het materiaal. Ze leren over de verschillende componenten van een robotarm en moeten deze correct monteren. 
 
 Voor het bouwen van de tekenrobot hebben we voor elk groepje een foto voorzien. Op basis van deze foto kunnen de kinderen meestal afleiden hoe ze de tekenrobot moeten bouwen. Zitten ze toch vast, dan kan je wat extra uitleg voorzien. De stappen die nodig zijn om de robot te bouwen, zie je in het volgende filmpje: 
 
 ![Bouwen van een tekenrobot](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Bouwen van een tekenrobot")
+
+## Materiaal voor in de klas
+
+* Doosje met robotcomponenten (wordt ook meegeleverd)
+* [foto](https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtrobot.pdf "afgewerkte robot") met afgewerkte robot (wordt ook meegeleverd)
+![](https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtrobot.pdf "afgewerkte robot")
+
 

@@ -31,7 +31,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Doel: Programmeer eens een mens (15 - 20 minuten)
+# Voorbereiding - Programmeer eens een mens 
+## 10 - 15 minuten
 
 Kinderen zullen medeleerlingen ‘programmeren’ om een tekening te repliceren op basis van instructies. Ondertussen oefenen de leerlingen enkele computationele vaardigheden: Een robot doet alleen dat wat je programmeert. Leerlingen moeten dus heel precieze instructies geven. Leerlingen leren een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen.
 
