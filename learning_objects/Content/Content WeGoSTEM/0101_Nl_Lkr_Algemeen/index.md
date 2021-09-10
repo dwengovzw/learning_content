@@ -2,7 +2,7 @@
 hruid: Lkr_Algemeen-v1
 version: 3
 language: nl
-title: Leerkracht Algemeen
+title: Inleiding leerkracht
 description: Inleiding tot het leerspoor
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
