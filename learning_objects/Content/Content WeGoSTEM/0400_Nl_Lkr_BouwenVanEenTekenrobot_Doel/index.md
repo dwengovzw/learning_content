@@ -44,6 +44,7 @@ Voor het bouwen van de tekenrobot hebben we voor elk groepje een foto voorzien. 
 
 * Doosje met robotcomponenten (wordt ook meegeleverd)
 * [foto](https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtrobot.pdf "afgewerkte robot") met afgewerkte robot (wordt ook meegeleverd)
-![](https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtrobot.pdf "afgewerkte robot")
+
+![](@pdf/https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtrobot.pdf "afgewerkte robot")
 
 

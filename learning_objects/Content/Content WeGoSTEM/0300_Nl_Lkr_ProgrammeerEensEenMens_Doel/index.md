@@ -36,7 +36,8 @@ teacher_exclusive: true
 
 Kinderen zullen medeleerlingen ‘programmeren’ om een tekening te repliceren op basis van instructies. Ondertussen oefenen de leerlingen enkele computationele vaardigheden: Een robot doet alleen dat wat je programmeert. Leerlingen moeten dus heel precieze instructies geven. Leerlingen leren een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen.
 
-Waarom deze oefening? Leerlingen leren een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen. Leerlingen moeten heel precieze instructies geven en dit in de juiste volgorde. 
+Waarom deze oefening?  
+Leerlingen leren een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen. Leerlingen moeten heel precieze instructies geven en dit in de juiste volgorde. 
 Aandachtspunt: Hou de tijd in de gaten!
 
 ## Materiaal voor in de klas
