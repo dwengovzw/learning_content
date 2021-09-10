@@ -2,7 +2,7 @@
 hruid: Lln_Algemeen-v1
 version: 3
 language: nl
-title: Leerling Algemeen
+title: Inleiding leerling
 description: Inleiding tot het leerspoor
 keywords: [WeGoSTEM]
 educational_goals: [

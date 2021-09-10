@@ -2,7 +2,7 @@
 hruid: Beschrijving-v1
 version: 3
 language: nl
-title: Beschrijving leerspoor
+title: Algemene inleiding
 description: Beschrijving van het leerspoor
 keywords: [WeGoSTEM]
 educational_goals: [
@@ -33,4 +33,6 @@ teacher_exclusive: true
 
 # WeGoSTEM- Bouw je eigen tekenrobot
 
-Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les. Mocht er iets niet duidelijk zijn, dan kan je voor vragen ook altijd terecht bij jouw WeGoSTEM-buddy, een ervaren ICT'er met een hart voor WeGoSTEM.
+Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les.
+
+![alt](https://scholen.dwengo.org/static/wegostem.png "Front")
