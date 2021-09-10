@@ -2,7 +2,7 @@
 hruid: Doel_ProgrammeerEensEenMens-v1
 version: 3
 language: nl
-title: Doel Programmeer eens een mens
+title: Voorbereiding Programmeer eens een mens
 description: beschrijving van de activiteit
 keywords: [WeGoSTEM]
 educational_goals: [
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 0
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -38,3 +38,9 @@ Kinderen zullen medeleerlingen ‘programmeren’ om een tekening te repliceren 
 Waarom deze oefening? Leerlingen leren een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen. Leerlingen moeten heel precieze instructies geven en dit in de juiste volgorde. 
 Aandachtspunt: Hou de tijd in de gaten!
 
+## Materiaal voor in de klas
+
+* Pen en papier (zelf voorzien)
+* [Afbeeldingen](https://scholen.dwengo.org/downloads/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens") voor de oefening (wordt ook meegeleverd). Begin met de eenvoudigste tekening!
+
+![](@pdf/https://scholen.dwengo.org/downloads/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens")

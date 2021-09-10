@@ -28,7 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # WeGoSTEM- Bouw je eigen tekenrobot
@@ -38,7 +38,7 @@ Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonder
 ![alt](https://scholen.dwengo.org/static/wegostem.png "Front")
 
 
-# Wat ga je doen?
+## Wat ga je doen?
 
 In dit leerpad ga je dus uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!
 
