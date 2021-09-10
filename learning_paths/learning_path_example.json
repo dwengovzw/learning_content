@@ -37,9 +37,9 @@
       ]
     },
     {
-      "learningobject_hruid": "test-v1",
+      "learningobject_hruid": "test-jupyter-nb-5",
       "language": "nl",
-      "version": "3"
+      "version": "1"
     }
   ]
 }
