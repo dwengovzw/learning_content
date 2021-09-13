@@ -33,7 +33,6 @@ teacher_exclusive: true
 
 ## Materiaal voor in de klas
 
-*[Foto's](https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Robots") van verschillende robots (wordt ook meegeleverd)
+[Foto's](https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt ook meegeleverd)
 
-
-
+![](@pdf/https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek")

@@ -1,5 +1,5 @@
 ---
-hruid: Lkr_Algemeen-v1
+hruid: Lkr_AlgemeenSR-v1
 version: 3
 language: nl
 title: Leerkracht Algemeen

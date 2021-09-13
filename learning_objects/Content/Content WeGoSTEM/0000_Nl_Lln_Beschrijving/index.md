@@ -1,9 +1,9 @@
 ---
-hruid: Lln_Algemeen-v1
+hruid: Beschrijving-v1
 version: 3
 language: nl
-title: Inleiding leerling
-description: Inleiding tot het leerspoor
+title: Algemene inleiding
+description: Beschrijving van het leerspoor
 keywords: [WeGoSTEM]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 0
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,7 +31,14 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Wat ga je doen?
+# WeGoSTEM- Bouw je eigen tekenrobot
+
+Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les.
+
+![alt](https://scholen.dwengo.org/static/wegostem.png "Front")
+
+
+## Wat ga je doen?
 
 In dit leerpad ga je dus uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!
 
@@ -41,4 +48,4 @@ Voor je hiermee aan de slag kunt, zal je wel eerst enkele supertoffe opdrachten 
 
 Deze opdrachten omvatten uitleg over robots, activiteiten zoals *"Programmeer eens een Mens"* en  programmeeroefeningen.
 
-Veel succes! 
+Veel plezier! 

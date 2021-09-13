@@ -1,5 +1,5 @@
 ---
-hruid: Lln_Algemeen-v1
+hruid: Lln_AlgemeenSR-v1
 version: 3
 language: nl
 title: Leerling Algemeen
