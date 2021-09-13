@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 25
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -35,4 +35,8 @@ teacher_exclusive: false
 
 Nu je een idee hebt van hoe een robot werkt, kan je beginnen aan het bouwen van de robot zelf! Dit zal je doen door gebruik te maken van de [foto](https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtrobot.pdf "afgewerkte robot") en de componenten uit het doosje.
 
-Als het niet lukt om de robotarm te bouwen op basis van de foto, bekijk dan dit [filmpje](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Bouwen van een tekenrobot") 
+![](@pdf/https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtrobot.pdf "afgewerkte robot")
+
+Probeer dit zeker eerst te doen a.d.h.v. de afbeelding! Als het niet lukt om de robotarm te bouwen op basis van de foto, bekijk dan onderstaand filmpje.
+
+![filmpje](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Bouwen van een tekenrobot")

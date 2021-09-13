@@ -2,7 +2,7 @@
 hruid: Doel_WatIsEenRobot-v1
 version: 3
 language: nl
-title: Doel Wat is een robot?
+title: Voorbereiding Wat is een robot?
 description: Beschrijving
 keywords: [WeGoSTEM]
 educational_goals: [
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 0
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,7 +31,18 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Doel: Wat is een robot? (15 - 20 minuten)
+# Voorbereiding - Wat is een robot? 
+## 10 - 15 minuten
 
 In dit onderdeel wordt er kort wat context gegeven omtrent de geschiedenis en bouw van robots. Dit schept inzicht bij de leerlingen over het nut, de bouw en de werking van robots.
+
+## Materiaal voor in de klas
+
+[Foto's](https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt ook meegeleverd)
+
+![](@pdf/https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek")
+
+
+
+
 
