@@ -14,21 +14,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "Lln_Algemeen-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Lln_Algemeen-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [ 
-        {
-          "default": true,
-          "next": {
             "hruid": "Lkr_Algemeen-v1",
             "version": "3",
             "language": "nl"
@@ -128,21 +113,6 @@
     },
     {
       "learningobject_hruid": "Opdracht_BouwenVanEenTekenrobot-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Voorbereiding_ProgrammerenTekenrobotSimulatie-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Voorbereiding_ProgrammerenTekenrobotSimulatie-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
