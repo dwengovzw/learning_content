@@ -119,7 +119,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "SRunplugged_Opdracht1-v1",
+            "hruid": "SRunplugged_Opdracht2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "learningobject_hruid": "SRunplugged_Opdracht1-v1",
+      "learningobject_hruid": "SRunplugged_Opdracht2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
