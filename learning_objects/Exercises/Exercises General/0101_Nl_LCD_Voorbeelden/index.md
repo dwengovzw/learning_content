@@ -69,4 +69,4 @@ Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 4 plaatsen op naa
 
 *Test deze voorbeeldjes alvast eens uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
 
-**Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte Dwenguino! Hieronder Wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de Dwenguino.**
+**Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte Dwenguino! Hieronder wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de Dwenguino.**
