@@ -1,9 +1,9 @@
 ---
-hruid: SRunplugged_Opdracht1-v1
+hruid: SRunplugged_Opdracht2-v1
 version: 3
 language: nl
-title: SR unplugged Opdracht 1
-description: Creëer een gezicht
+title: SR unplugged Opdracht 2
+description: Emotiemachine
 keywords: [sociale robot, activiteit]
 educational_goals: [
     {source: Source, id: id}, 
