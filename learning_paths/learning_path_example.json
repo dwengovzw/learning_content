@@ -29,17 +29,17 @@
         {
           "default": true,
           "next": {
-            "hruid": "test-jupyter-nb-5",
-            "version": "1",
+            "hruid": "test-v4",
+            "version": "3",
             "language": "nl"
           }
         }
       ]
     },
     {
-      "learningobject_hruid": "test-jupyter-nb-5",
+      "learningobject_hruid": "test-v4",
       "language": "nl",
-      "version": "1"
+      "version": "3"
     }
   ]
 }
