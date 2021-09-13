@@ -34,3 +34,6 @@ teacher_exclusive: false
 # StartToDwenguino
 
 DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft leerlingen de mogelijkheid om een robot te programmeren. Voor zij die geen fysiek materiaal ter beschikking hebben, is er ook een simulator. In de simulator kan men kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot). Deze oefeningen kan je uitvoeren in de simulator, een fysieke robot is dus niet noodzakelijk. 
+
+Het volledige *StartToDwenguino*-traject bestaat uit oefeningen op alle scenario's en componenten beschikbaar in de simulator. Afhankelijk van het leerpad waar je mee aan de slag gaat, zal je een selectie van oefeningen aangeboden krijgen. Voor het volledige *StartToDwenguino*-traject kan je 
+[hier]() terecht.
