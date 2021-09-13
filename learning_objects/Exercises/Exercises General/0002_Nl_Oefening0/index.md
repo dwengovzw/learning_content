@@ -2,7 +2,7 @@
 hruid: Oefening0-v1
 version: 3
 language: nl
-title: Startpagina
+title: Inleidende oefening
 description: Beschrijving van de onderdelen van de simulator
 keywords: [StartToDwenguino]
 educational_goals: [
@@ -30,4 +30,4 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
+ # Werken met de simulator
