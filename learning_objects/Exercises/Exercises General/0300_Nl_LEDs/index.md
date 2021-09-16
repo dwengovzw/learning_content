@@ -1,10 +1,10 @@
 ---
-hruid: LED-v1
+hruid: led-v1
 version: 3
 language: nl
-title: LED
-description: Uitleg LED
-keywords: [StartToDwenguino, LED]
+title: led
+description: Uitleg led
+keywords: [StartToDwenguino, led]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,15 +31,15 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 2. LEDs
+## 2. leds
 
 Links onderaan op het Dwenguino-bord vind je acht leds:
 
-![alt](https://scholen.dwengo.org/static/leds.png "Afb. Leds")
+![alt](https://scholen.dwengo.org/static/leds.png "Afb. leds")
 
-Deze leds zijn *LED 0*,*LED 1*, ..., *LED 7*, van rechts naar links.
+Deze leds zijn *led 0*,*led 1*, ..., *led 7*, van rechts naar links.
 
-Links bovenaan is er nog een ledje: *LED 13*.
-Dit laatste LED heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
+Links bovenaan is er nog een ledje: *led 13*.
+Dit laatste led heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
 
-**Afbeelding Dwenguino met LEDs aangeduid**
+**Afbeelding Dwenguino met leds aangeduid**

@@ -47,6 +47,6 @@ Hieronder zie je nog een voorbeeld van een beperkte herhaling, deze lus zal de c
 
 ![alt](https://scholen.dwengo.org/static/forlus2.png "Afb. Lussen")
 
-We zetten de gepaste code hierin als we LED 5 op het Dwenguino-bord exact vijf keer willen laten knipperen en het knipperen dus moet stoppen:
+We zetten de gepaste code hierin als we led 5 op het Dwenguino-bord exact vijf keer willen laten knipperen en het knipperen dus moet stoppen:
 
 ![alt](https://scholen.dwengo.org/static/forlus3.png "Afb. Lussen")
