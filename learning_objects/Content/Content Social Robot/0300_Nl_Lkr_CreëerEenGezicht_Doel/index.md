@@ -3,7 +3,7 @@ hruid: UnpluggedOpdracht 1-v1
 version: 3
 language: nl
 title: Doel unplugged Opdracht 1
-description: Creëer een gezicht
+description: Maak een gezicht
 keywords: [sociale robot]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,6 +31,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-## Creëer een gezicht (20 minuten)
+## Maak een gezicht (20 minuten)
 
 Het doel van deze activiteit is om aan te tonen hoe iets dat op het eerste gezicht heel moeilijk lijkt, toch geprogrammeerd kan worden met enkele eenvoudige regels. Het toont ook aan hoe programma’s slechts regels zijn die gevolgd worden door computers. De activiteit laat zien hoe het opsplitsen van een programma in verschillende facetten veel gemakkelijker kan zijn dan het in één keer te proberen doen. De groep zal enkele eenvoudige programma’s mogen schrijven om het gezicht dat ze ontworpen hebben te controleren.
