@@ -42,6 +42,6 @@ Eens de fysieke robot naar behoren werkt, kan het verfijnen beginnen. Nieuwe fun
 
 Daag de jongeren uit om ambitieus en creatief te zijn. Laat ze eventueel een verhaal schrijven waarin hun robot de hoofdrol speelt. Laat ze dromen over de toekomst en proberen dat in een filmpje te vatten. Laat ze de robot tentoonstellen en andere jongeren enthousiasmeren.     
 
-Voor meer informatie over sociale robots in onze maatschappij en concrete voorbeelden kan je het Dwengo-boekje Hallo robot! doornemen. Daar staat ook extra uitleg in over de 'unplugged' oefeningen die je kan doen (oefeningen over programmeren en de werking van computers, maar dan zonder computers), zoals bijvoorbeeld "De Emotiemachine" en "Creëer-een-gezicht". 
+Voor meer informatie over sociale robots in onze maatschappij en concrete voorbeelden kan je het [Dwengo-boekje Hallo robot!](@pdf/https://www.aiopschool.be/media/public/files/socialerobot/SocialeRobot_handleiding_eerstedruk.pdf "Link 'Hallo Robot'") doornemen. Daar staat ook extra uitleg in over de 'unplugged' oefeningen die je kan doen (oefeningen over programmeren en de werking van computers, maar dan zonder computers), zoals bijvoorbeeld "De Emotiemachine" en "maak-een-gezicht". 
 
 Bij deze handleiding hoort ook een reeks filmpjes. Je vindt de volledige afspeellijst [hier](@youtube/https://www.youtube.com/playlist?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Playlist") terug.

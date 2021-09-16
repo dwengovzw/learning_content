@@ -33,7 +33,7 @@ teacher_exclusive: false
 
 ## De Dwenguino
 
-Voor het maken van de sociale robot zal je gebruikmaken van de Dwenguino. De Dwenguino is een Arduino-gebaseerde microcontroller die telaat om heel wat robotica-projecten uit te voeren dankzij z'n gebruiksvriendelijlkheid en zeer uitgebreide mogelijkheden op het vlak van sensorenen actuatoren.
+Voor het maken van de sociale robot zal je gebruikmaken van de Dwenguino. De Dwenguino is een Arduino-gebaseerde microcontroller die te laat om heel wat robotica-projecten uit te voeren dankzij z'n gebruiksvriendelijlkheid en zeer uitgebreide mogelijkheden op het vlak van sensorenen actuatoren.
 
 Tijdens het project zal je zowel met een digitale (gesimuleerde) versie van de Dwenguino werken als met de fysieke, echte Dwenguino.
 
