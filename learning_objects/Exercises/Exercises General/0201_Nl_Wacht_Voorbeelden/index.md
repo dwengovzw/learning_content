@@ -44,7 +44,7 @@ Oplossing:
 
 **Voorbeeld 1**
 
-De wacht-blok die **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
+De *'wacht'-blok* die **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
 
 Het probleem dat zich nu voordoet, is dat "ik ben Dwenguino" op het scherm blijft staan. *Denk even na over wat dit zou veroorzaken.*
 
@@ -59,7 +59,7 @@ De eerste manier is om de tekst te verwijderen. Hiervoor gebruik je het blok **M
 
 **Manier 2**
 
-De tweede manier is om alle code te verplaatsen van het "*Zet klaar*"-deel naar het "*herhaal*"-deel. Dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.
+De tweede manier is om alle code te verplaatsen van het *'Zet klaar'-deel* naar het *'herhaal'-deel*. Dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.
 
 **Voorbeeld 13**
 

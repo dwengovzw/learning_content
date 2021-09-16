@@ -42,7 +42,7 @@ teacher_exclusive: false
 
 ## Opdracht 8.2
 
-* Experimenteer met de tekenrobot en het 'als-dan-anders'-blok.
+* Experimenteer met de tekenrobot en het *'als-dan-anders'-blok*.
 
 * *While-lus*: Je kan in je programma ook een voorwaardelijke herhaling inbouwen. Hier zie je een voorbeeld van een programma met zo'n lus:
 

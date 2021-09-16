@@ -44,7 +44,7 @@ Oplossing:
 
 OPGAVE 2
 
-Laat een S.O.S. uitzenden door de Dwenguino. Dit doe je in morsecode . . . - - - . . . (kort kort kort lang lang lang kort kort kort)
+Laat een S.O.S. uitzenden door de Dwenguino. Dit doe je in morsecode . . . - - - . . . (kort kort kort lang lang lang kort kort kort).
 
 Oplossing:
 

@@ -50,7 +50,7 @@ Hieronder zie je een screenshot van de omgeving met de beschrijving van de versc
 
 De belangrijkste categorieën zijn **AfbeeldingDwenguino** en **Afbeelding Sociale robot**. In deze categorieën kan je alle blokken vinden om de specifieke sensoren en actuatoren van de sociale robot te programmeren. Daarnaast kan je blokken uit de andere categorieën gebruiken voor extra functionaliteit.
 
-2. **Codeveld**. Hierstaat het programma dat je maakt. Het 'zet klaar / herhaal'-blok staat er al klaar. Je breidt het programma uit door blokken uit de toolbox naar het codeveld te slepen. Alle code komt ofwel in het 'zet klaar'-gedeelte van dit blok ofwel in het 'herhaal'-gedeelte. Code op een andere plaats wordt niet uitgevoerd. Dus om te programmeren sleep je blokken uit de toolbox naar het codeveld en klik je deze vast in het 'zet klaar / herhaal'-blok.
+2. **Codeveld**. Hierstaat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar. Je breidt het programma uit door blokken uit de toolbox naar het codeveld te slepen. Alle code komt ofwel in het 'zet klaar'-gedeelte van dit blok ofwel in het 'herhaal'-gedeelte. Code op een andere plaats wordt niet uitgevoerd. Dus om te programmeren sleep je blokken uit de toolbox naar het codeveld en klik je deze vast in het *'zet klaar/herhaal'-blok*.
 
 3. **Hoofdmenu** Met dit menu kan je acties uitvoeren zoals je code opslaan (met **knop download**) of terug inladen (met **knop upload**) of de simulatieomgeving openen of sluiten (met **knop snelheidsmeter?**). Als je Dwenguino verbonden is met de computer, kan je het programma ook uploaden naar het bordje via de knop **knop uploaden dwenguino**.
 

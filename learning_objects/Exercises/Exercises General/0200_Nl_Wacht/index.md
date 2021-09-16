@@ -33,6 +33,6 @@ teacher_exclusive: false
 
 # Wacht
 
-Het wacht-blok is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
+Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
 
 **Afbeeldingen fiches SR**

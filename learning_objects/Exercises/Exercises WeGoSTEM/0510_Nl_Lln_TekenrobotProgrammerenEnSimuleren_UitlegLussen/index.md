@@ -35,7 +35,7 @@ teacher_exclusive: false
 
 *Een lus is een structuur waarbij een bepaald stuk code een aantal keer of voortdurend herhaald zal worden.* We spreken van een **herhalingslus**.
 
-Als je code in het ‘**herhaal**’-gedeelte van het ‘zet klaar / herhaal’-blok plaatst, dan maak je eigenlijk gebruik van een lus. De code daar wordt voortdurend herhaald.
+Als je code in het ‘**herhaal**’-gedeelte van het *‘zet klaar/herhaal’-blok* plaatst, dan maak je eigenlijk gebruik van een lus. De code daar wordt voortdurend herhaald.
 
 Wil je echter dat de code slechts een bepaald aantal keer wordt herhaald, dan gebruik je het blok voor een ‘**beperkte herhaling**’:
 
