@@ -1,10 +1,10 @@
 ---
-hruid: LED_Oef1-v1
+hruid: led_Oef1-v1
 version: 3
 language: nl
-title: LED Oefening 1
-description: LED Oefening 1
-keywords: [StartToDwenguino, LED]
+title: led Oefening 1
+description: led Oefening 1
+keywords: [StartToDwenguino, led]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,9 +31,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 3.1 Opdracht LED
+## 3.1 Opdracht led
 
-Laat de tweede LED branden. Verwar de tweede LED niet met LED 2!
+Laat de tweede led branden. Verwar de tweede led niet met led 2!
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
 

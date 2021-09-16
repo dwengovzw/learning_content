@@ -39,6 +39,6 @@ In het ‘als-dan’-blok wordt nagegaan of een bepaalde voorwaarde (conditie) w
 
 Op het Dwenguino-bord staan er ook *knoppen*.
 
-Hieronder zie je een voorbeeld van het gebruik van het ‘als-dan’-blok. Bij de opstart van het programma brandt LED 13. Deze code gaat na of de NOORD-knop, dus de bovenste knop, is ingedrukt. Zodra de NOORD-knop wordt ingedrukt, dooft LED 13 (linksboven op het Dwenguino-bord).
+Hieronder zie je een voorbeeld van het gebruik van het ‘als-dan’-blok. Bij de opstart van het programma brandt led 13. Deze code gaat na of de NOORD-knop, dus de bovenste knop, is ingedrukt. Zodra de NOORD-knop wordt ingedrukt, dooft led 13 (linksboven op het Dwenguino-bord).
 
 ![alt](https://scholen.dwengo.org/static/alsdancode.png "Afb. alsdan")

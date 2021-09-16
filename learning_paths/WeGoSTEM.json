@@ -284,7 +284,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "LED-v1",
+            "hruid": "led-v1",
             "version": "3",
             "language": "nl"
           }
@@ -292,14 +292,14 @@
       ]
     },
     {
-      "learningobject_hruid": "LED-v1",
+      "learningobject_hruid": "led-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "LED_Voorbeeld-v1",
+            "hruid": "led_Voorbeeld-v1",
             "version": "3",
             "language": "nl"
           }
@@ -307,14 +307,14 @@
       ]
     },
     {
-      "learningobject_hruid": "LED_Voorbeeld-v1",
+      "learningobject_hruid": "led_Voorbeeld-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "LED_Oef1-v1",
+            "hruid": "led_Oef1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -322,14 +322,14 @@
       ]
     },
     {
-      "learningobject_hruid": "LED_Oef1-v1",
+      "learningobject_hruid": "led_Oef1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "LED_Oef2-v1",
+            "hruid": "led_Oef2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "learningobject_hruid": "LED_Oef2-v1",
+      "learningobject_hruid": "led_Oef2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [

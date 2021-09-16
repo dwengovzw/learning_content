@@ -1,10 +1,10 @@
 ---
-hruid: LED_Voorbeeld-v1
+hruid: led_Voorbeeld-v1
 version: 3
 language: nl
-title: LED Voorbeeld
-description: LED Voorbeeld
-keywords: [StartToDwenguinom, LED]
+title: ledD Voorbeeld
+description: led Voorbeeld
+keywords: [StartToDwenguinom, led]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -35,18 +35,18 @@ teacher_exclusive: false
 
 OPGAVE 1
 
-Laat LED 0 branden.
+Laat led 0 branden.
 
 Oplossing:
 
 **Voorbeeld 1**
 
-Merk op dat LED 0 het eerste LED is aan de **rechterkant**!
+Merk op dat led 0 het eerste led is aan de **rechterkant**!
 
 
 OPGAVE 2
 
-Laat de "oneven" LEDs (behalve LED 13) branden voor 2 seconden.
+Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
 
 Oplossing:
 
@@ -57,7 +57,7 @@ Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opga
 
 OPGAVE 3
 
-Laat alle LEDs een halve seconde flikkeren in numerieke volgorde. Dit betekent dat LED 0 eerst brandt en dan uitgaat wanneer LED 1 gaat branden, LED 1 uitgaat wanneer LED 2 gaat branden...
+Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent dat led 0 eerst brandt en dan uitgaat wanneer led 1 gaat branden, led 1 uitgaat wanneer led 2 gaat branden...
 
 Oplossing:
 
