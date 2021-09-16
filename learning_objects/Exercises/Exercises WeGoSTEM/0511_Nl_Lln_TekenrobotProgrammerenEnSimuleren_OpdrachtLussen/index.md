@@ -37,7 +37,7 @@ teacher_exclusive: false
 
 * Voer het uit en kijk wat er gebeurt.
 
-* Merk op dat de code nu in het ‘zet klaar’-gedeelte staat, aangezien het ‘tellen met’-blok slechts één keer uitgevoerd mag worden en niet herhaald mag worden. 
+* Merk op dat de code nu in het ‘zet klaar’-gedeelte staat, aangezien het *‘tellen met’-blok* slechts één keer uitgevoerd mag worden en niet herhaald mag worden. 
 
 
 ## Opdracht 5.2

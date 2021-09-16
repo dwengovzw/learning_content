@@ -43,11 +43,11 @@ Hieronder zie je een screenshot van de omgeving met de beschrijving van de versc
 1. De *toolbox*: In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In 
 ![alt](https://scholen.dwengo.org/static/dwenguino.png "Afb. Dwenguino") kan je alle blokken vinden om de tekenrobot te besturen.
 
-2. Het *codeveld*: Hier staat het programma dat je maakt. Het 'zet klaar/herhaal'-blok staat er al klaar.
+2. Het *codeveld*: Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar.
 
 [alt](https://scholen.dwengo.org/static/zetklaarherhaal.png "Afb. zetklaarherhaal")
 
-Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaatst is, wordt uitgevoerd. Code op een andere plaats wordt niet uitgevoerd. Om te programmeren sleep je dus blokken uit de toolbox naar het codeveld en klik je deze vast in het ‘zet klaar/herhaal’-blok. 
+Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaatst is, wordt uitgevoerd. Code op een andere plaats wordt niet uitgevoerd. Om te programmeren sleep je dus blokken uit de toolbox naar het codeveld en klik je deze vast in het *‘zet klaar/herhaal’-blok*. 
 
 3. Het *hoofdmenu*: Met dit menu kan je acties uitvoeren zoals je code opslaan (met 
 ![alt](https://scholen.dwengo.org/static/download.png "Afb. Download")

@@ -33,4 +33,4 @@ teacher_exclusive: false
 
 # Uitdagingen
 
-Voor zij die graag wat meer de mogelijkheden van de simulator willen ontdekkenm zijn er ook nog een aantal extra uitdagingen!
+Voor zij die graag wat meer de mogelijkheden van de simulator willen ontdekken, zijn er ook nog een aantal extra uitdagingen!

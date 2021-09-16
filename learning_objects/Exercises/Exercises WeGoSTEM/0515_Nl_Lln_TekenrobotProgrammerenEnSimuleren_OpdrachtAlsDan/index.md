@@ -59,4 +59,4 @@ Door dit blok in het ‘zet klaar’-gedeelte te zetten, zal het programma pas o
 
 * Schrijf een programma voor de tekenrobot, waarbij de motoren pas beginnen draaien eens de centrale knop werd ingedrukt, en de motoren stoppen met draaien als de NOORD-knop wordt ingedrukt.
 
-**Na deze oefening kan je werken met het 'als-dan’-blok en het ‘wacht tot ...’-blok. Je weet wat een conditie is.**
+**Na deze oefening kan je werken met het *'als-dan’-blok* en het *‘wacht tot’-blok*. Je weet wat een conditie is.**
