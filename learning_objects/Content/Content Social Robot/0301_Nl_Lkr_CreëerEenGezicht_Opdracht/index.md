@@ -3,7 +3,7 @@ hruid: SRunplugged_Opdracht1-v1
 version: 3
 language: nl
 title: SR unplugged Opdracht 1
-description: Creëer een gezicht
+description: Maak een gezicht
 keywords: [sociale robot, activiteit]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-## Creëer een gezicht
+## Maak een gezicht
 
 Programmeer gelaatsuitdrukkingen op een robotgezicht en simuleer emoties. Je doet dit zonder computer. Programmeer het zodanig dat het kan reageren op verschillende geluiden (vervelend, leuk, plots) en verschillende emoties kan tonen (verdrietig, blij, verrast).  Bedenk vervolgens nog enkele andere gelaatsuitdrukkingen en programmeer regels om het gezicht met de nieuwe uitdrukkingen op geluiden te laten reageren.
 
@@ -40,7 +40,7 @@ Programmeer gelaatsuitdrukkingen op een robotgezicht en simuleer emoties. Je doe
 Bekijk zeker het volgende filmpje en maak de onderdelen van het gezicht op voorhand klaar uit een stuk karton.
 
 
-![](@youtube/https://www.youtube.com/embed/7S3_QkAMi3Y "voorbereiding creëer een gezicht")
+![](@youtube/https://www.youtube.com/embed/7S3_QkAMi3Y "voorbereiding maak een gezicht")
 
 
 ### Werkwijze
