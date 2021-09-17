@@ -30,6 +30,6 @@ skos_concepts: [
 ---
 Hier is een jupyter notebook:
 
-![](@learning-object/images/LEDs.xml)
+![](@learning-object/extern-test-v1/1/nl)
 
 Tadaaaa!
