@@ -30,6 +30,6 @@ skos_concepts: [
 ---
 Hier is een jupyter notebook:
 
-[notebook](@learning-object/extern-test-v1/nl/1)
+![notebook](@learning-object/extern-test-v1/nl/1)
 
 Tadaaaa!
