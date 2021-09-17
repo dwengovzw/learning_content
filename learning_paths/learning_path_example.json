@@ -29,17 +29,17 @@
         {
           "default": true,
           "next": {
-            "hruid": "test-v4",
-            "version": "3",
+            "hruid": "extern_in_other_object",
+            "version": "1",
             "language": "nl"
           }
         }
       ]
     },
     {
-      "learningobject_hruid": "test-v4",
+      "learningobject_hruid": "extern_in_other_object",
       "language": "nl",
-      "version": "3"
+      "version": "1"
     }
   ]
 }
