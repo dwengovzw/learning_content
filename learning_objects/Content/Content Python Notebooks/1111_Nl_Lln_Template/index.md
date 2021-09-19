@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-content_location: https://kiks.ilabt.imec.be/jupyterhub/user/fbad5b7b-5e9b-4551-b635-f78179df1383/notebooks/0100_ExponentieleGroeiCovid.ipynb
+content_location: https://kiks.ilabt.imec.be/jupyterhub/user/fbad5b7b-5e9b-4551-b635-f78179df1383/tree?id=12
 estimated_time: 0
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
