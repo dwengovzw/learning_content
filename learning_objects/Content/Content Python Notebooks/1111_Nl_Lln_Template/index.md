@@ -1,5 +1,5 @@
 ---
-hruid: 1-v1
+hruid: Python1-v1
 version: 3
 language: nl
 title: T
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: https://kiks.ilabt.imec.be/jupyterhub/user/fbad5b7b-5e9b-4551-b635-f78179df1383/tree?id=1
-estimated_time: 1
+estimated_time: 0
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
