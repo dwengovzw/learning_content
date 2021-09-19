@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-content_location: "https://kiks.ilabt.imec.be/jupyterhub/?id=12"
+content_location: https://kiks.ilabt.imec.be/jupyterhub/?id=12
 estimated_time: 0
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
