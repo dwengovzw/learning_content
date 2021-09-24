@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 2.1 Opdracht Wacht
+## 2.1 Wacht
 
 Schrijf een programma dat het volgende doet:
 

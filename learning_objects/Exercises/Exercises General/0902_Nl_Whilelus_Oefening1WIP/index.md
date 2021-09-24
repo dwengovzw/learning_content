@@ -2,7 +2,7 @@
 hruid: Whilelus_Oef1-v1
 version: 3
 language: nl
-title: Whilelus oef 1
+title: Whilelus Oefening 1
 description: Whilelus oef 1
 keywords: [StartToDwenguino, whilelus]
 educational_goals: [
@@ -23,14 +23,14 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
-## 9.1 Opdracht While-lus
+## 9.1 While-lus
 
 ### 9.1.1
 

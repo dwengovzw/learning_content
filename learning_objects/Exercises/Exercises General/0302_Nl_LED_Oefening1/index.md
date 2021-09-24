@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 3.1 Opdracht led
+## 3.1 leds
 
 Laat de tweede led branden. Verwar de tweede led niet met led 2!
 

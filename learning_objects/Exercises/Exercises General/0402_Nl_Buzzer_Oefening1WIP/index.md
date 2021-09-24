@@ -2,7 +2,7 @@
 hruid: Buzzer_Oef1-v1
 version: 3
 language: nl
-title: Buzzer oef 1
+title: Buzzer Oefening 1
 description: Buzzer oef 1
 keywords: [StartToDwenguino, buzzer]
 educational_goals: [
@@ -23,14 +23,14 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
-## 4.1 Opdracht buzzer
+## 4.1 Buzzer
 
 ### 4.1.1
 
