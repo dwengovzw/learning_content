@@ -119,6 +119,51 @@
         {
           "default": true,
           "next": {
+            "hruid": "Doel_ProgrammerenTekenrobot-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Doel_ProgrammerenTekenrobot-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Opdracht_ProgrammerenTekenrobot-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Opdracht_ProgrammerenTekenrobot-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ProgrammerenTekenrobot-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ProgrammerenTekenrobot-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "Introductie_oefeningen-v1",
             "version": "3",
             "language": "nl"
@@ -329,36 +374,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "OpdrachtAlsDan-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "OpdrachtAlsDan-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "OplossingenOpdrachten-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "OplossingenOpdrachten-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "UitlegExtraOefeningenSimulatie-v1",
             "version": "3",
             "language": "nl"
@@ -368,66 +383,6 @@
     },
     {
       "learningobject_hruid": "UitlegExtraOefeningenSimulatie-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "OpdrachtExtraOefeningen-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "OpdrachtExtraOefeningen-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Doel_ProgrammerenTekenrobot-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Doel_ProgrammerenTekenrobot-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Opdracht_ProgrammerenTekenrobot-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Opdracht_ProgrammerenTekenrobot-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "ProgrammerenTekenrobot-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ProgrammerenTekenrobot-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
