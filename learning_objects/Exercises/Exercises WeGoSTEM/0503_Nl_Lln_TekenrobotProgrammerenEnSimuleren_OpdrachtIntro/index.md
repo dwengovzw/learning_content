@@ -41,7 +41,9 @@ teacher_exclusive: false
 
 ![alt](https://scholen.dwengo.org/static/lcd.jpg "Afb. lcd")
 
-* Sleep dit blok naar het codeveld en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.
+* Sleep dit blok naar het codeveld en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.  
+
+![alt](https://drive.google.com/drive/u/1/folders/1o_IPvywcBvk86RGO-7R1T7E0paQAYZaK "afbeelding eerste programma")
 
 * Je schreef zonet je eerste programma!
 
