@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 0
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -51,6 +51,6 @@ De activiteiten kan je volledig uitgewerkt terugvinden in dit leerspoor. Een han
 downloaden. 
 
 Over WeGoSTEM werd goed nagedacht! We voorzien een logische opbouw van programmeren tot bouwen van een robot. Tijdsduur, prijs en leeftijdsgroep werden in rekening gebracht.  
-Bovendien hebben we WeGoSTEM ondertussen getest met meer dan 25000 kinderen over heel Europa. De vijf vooropgestelde activiteiten vormen een mooie leidraad voor een hands-on workshop van drie lesuren. 
+Bovendien hebben we WeGoSTEM ondertussen getest met meer dan 25000 kinderen over heel Europa. De vijf vooropgestelde activiteiten vormen een mooie leidraad voor een hands-on workshop van twee lesuren. 
 
 Als je eigen/extra voorbeelden hebt over robots, geef die dan gerust! De tijdsindicatie is een suggestie, maar uiteraard aanpasbaar aan de noden van de klas. Kinderen zijn laaiend enthousiast wanneer ze met hun eigen robottekening naar huis kunnen!
