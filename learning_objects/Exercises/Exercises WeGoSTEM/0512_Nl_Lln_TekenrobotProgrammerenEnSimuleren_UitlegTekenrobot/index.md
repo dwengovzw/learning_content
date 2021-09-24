@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# 6. De tekenrobot aansturen
+# De tekenrobot aansturen
 
 De tekenrobot van WeGoSTEM heeft *twee motoren* en *twee armen*. Elke arm is verbonden met één van de motoren. Als deze motoren draaien, dan bewegen de armen van de tekenrobot. Elke motor kan *naar rechts* en *naar links* draaien en kan op *verschillende snelheden* worden ingesteld.
 

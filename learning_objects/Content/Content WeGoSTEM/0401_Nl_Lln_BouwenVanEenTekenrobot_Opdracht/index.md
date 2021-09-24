@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Bouwen van een tekenrobot
+# Bouwen van een Tekenrobot
 
 Nu je een idee hebt van hoe een robot werkt, kan je beginnen aan het bouwen van de robot zelf! Dit zal je doen door gebruik te maken van de [foto](https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtrobot.pdf "afgewerkte robot") en de componenten uit het doosje.
 

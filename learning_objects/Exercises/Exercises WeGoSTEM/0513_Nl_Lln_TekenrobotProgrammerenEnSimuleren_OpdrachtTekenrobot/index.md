@@ -31,23 +31,23 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Opdracht 6.1
+## Opdracht 1: Motoren
 
 * Bouw het volgende programma op en kijk wat het doet.
 
 ![alt](https://scholen.dwengo.org/static/dcmotorcode.png "Afb. tekenrobot")
 
 
-## Opdracht 6.2
+## Opdracht 2: Testen
 
-* Laat de tekenrobot sneller bewegen.
+* Laat de tekenrobot sneller tekenen.
 
-* Laat de tekenrobot trager bewegen
+* Laat de tekenrobot trager tekenen.
 
 * Laat de motoren van de tekenrobot naar de andere kant draaien.
 
 
-## Opdracht 6.3
+## Opdracht 3: Uitbreiding
 
 * Laat een van de motoren naar rechts en de andere naar links draaien.
 

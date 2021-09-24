@@ -149,36 +149,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "ProgrammerenTekenrobot-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ProgrammerenTekenrobot-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Introductie_oefeningen-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Introductie_oefeningen-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "ProgrammerenLeerkrachtWeGoSTEM-v1",
             "version": "3",
             "language": "nl"
@@ -353,36 +323,6 @@
     },
     {
       "learningobject_hruid": "OpdrachtTekenrobot-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "UitlegAlsDan-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "UitlegAlsDan-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "UitlegExtraOefeningenSimulatie-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "UitlegExtraOefeningenSimulatie-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
