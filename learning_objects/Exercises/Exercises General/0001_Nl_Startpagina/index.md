@@ -2,7 +2,7 @@
 hruid: Startpagina-v1
 version: 3
 language: nl
-title: Startpagina
+title: StartToDwenguino Basis
 description: Beschrijving van de onderdelen van de simulator
 keywords: [StartToDwenguino]
 educational_goals: [
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -43,17 +43,15 @@ Hieronder zie je een screenshot van de omgeving met de beschrijving van de versc
 1. De *toolbox*: In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In 
 ![alt](https://scholen.dwengo.org/static/dwenguino.png "Afb. Dwenguino") kan je bijvoorbeeld alle blokken vinden om de tekenrobot te besturen.
 
-2. Het *codeveld*: Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar.
-
+2. Het *codeveld*: Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar.  
 ![alt](https://scholen.dwengo.org/static/zetklaarherhaal.png "Afb. zetklaarherhaal")
 
 Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaatst is, wordt uitgevoerd. Code op een andere plaats wordt niet uitgevoerd. Om te programmeren sleep je dus blokken uit de toolbox naar het codeveld en klik je deze vast in het *‘zet klaar/herhaal’-blok*. 
 
 3. Het *hoofdmenu*: Met dit menu kan je acties uitvoeren zoals je code opslaan (met 
-![alt](https://scholen.dwengo.org/static/download.png "Afb. Download")
-), terug inladen (met 
+![alt](https://scholen.dwengo.org/static/download.png "Afb. Download")), terug inladen (met 
 ![alt](https://scholen.dwengo.org/static/upload.png "Afb. Upload")
-), of de simulatieomgeving openen of sluiten (met 
+), of de simulatieomgeving openen en sluiten (met 
 ![alt](https://scholen.dwengo.org/static/dashboard.png "Afb. Simulatieomgeving")
 ).
 
@@ -69,7 +67,3 @@ Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaa
 In de toolbox kan je dus de blokken terugvinden die je nodig hebt om programma's te maken. Deze blokken moet je hieruit slepen om nadien vast te klikken in de gewenste volgorde.
 
 Doorheen de oefeningen zal er voor nieuwe blokken verwijzingen staan naar de plaats in de toolbox waar je deze kan terugvinden. Een voorbeeld van zo'n verwijzing is ![alt](https://scholen.dwengo.org/static/dwenguino.png "Afb. Dwenguino") .
-
-
-
-# Oefeningen

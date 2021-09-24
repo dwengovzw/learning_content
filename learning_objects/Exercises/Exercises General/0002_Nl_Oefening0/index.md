@@ -30,4 +30,18 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
- # Werken met de simulator
+# Werken met de simulator
+Nu je weet wat waar staat, kan je beginnen programmeren!
+
+* Kies in de simulatieomgeving voor het scenario van de tekenrobot (spirograaf).
+
+* Ga in de categorie ![alt](https://scholen.dwengo.org/static/dwenguino.png "Afb. Dwenguino") op zoek naar dit blok:  
+![alt](https://scholen.dwengo.org/static/lcd.jpg "Afb. lcd")
+
+* Sleep dit blok naar het codeveld en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.
+
+* Je schreef zonet je eerste programma!
+
+* Voer dit programma uit met de simulator door in het simulatormenu (4) te klikken op de afspeelknop ![alt](https://scholen.dwengo.org/static/play.png "Afb. Play").
+
+Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox* nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
