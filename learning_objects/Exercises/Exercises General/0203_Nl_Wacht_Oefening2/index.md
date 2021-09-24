@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 2.2 Opdracht Wacht
+## 2.2 Wacht
 
 Schrijf een programma dat je voor- en achternaam afwisselend op de eerste en tweede regel van het lcd-scherm laat verschijnen als volgt:
 

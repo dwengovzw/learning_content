@@ -2,7 +2,7 @@
 hruid: Knoppen_Oef1-v1
 version: 3
 language: nl
-title: Knoppen oef 1
+title: Knoppen Oefening 1
 description: Knoppen oef 1
 keywords: [StartToDwenguino, knoppen]
 educational_goals: [
@@ -23,14 +23,14 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
-## 5.1 Opdracht Knoppen
+## 5.1 Knoppen
 
 ### 5.1.1
 

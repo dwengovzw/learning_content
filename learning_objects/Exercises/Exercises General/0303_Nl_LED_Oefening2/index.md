@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 3.2 Opdracht ledD
+## 3.2 leds
 
 Schrijf een programma dat het volgende doet:
 

@@ -314,7 +314,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "led-v1",
+            "hruid": "Knoppen-v1",
             "version": "3",
             "language": "nl"
           }
@@ -322,14 +322,14 @@
       ]
     },
     {
-      "learningobject_hruid": "led-v1",
+      "learningobject_hruid": "Knoppen-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "led_Voorbeeld-v1",
+            "hruid": "Knoppen_Voorbeeld-v1",
             "version": "3",
             "language": "nl"
           }
@@ -337,14 +337,14 @@
       ]
     },
     {
-      "learningobject_hruid": "led_Voorbeeld-v1",
+      "learningobject_hruid": "Knoppen_Voorbeeld-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "led_Oef1-v1",
+            "hruid": "Knoppen_Oef1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -352,14 +352,14 @@
       ]
     },
     {
-      "learningobject_hruid": "led_Oef1-v1",
+      "learningobject_hruid": "Knoppen_Oef1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "led_Oef2-v1",
+            "hruid": "Knoppen_Oef2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -367,7 +367,7 @@
       ]
     },
     {
-      "learningobject_hruid": "led_Oef2-v1",
+      "learningobject_hruid": "Knoppen_Oef2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [

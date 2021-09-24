@@ -2,7 +2,7 @@
 hruid: AlsDanAnders_Oef1-v1
 version: 3
 language: nl
-title: ALsDanAnders oef 1
+title: AlsDanAnders Oefening 1
 description: AlsDanAnders oef 1
 keywords: [StartToDwenguino, ALsDan]
 educational_goals: [
@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## 7.1 Opdracht Als - Dan - Anders
+## 7.1 Als - Dan - Anders
 
 ### 7.1.1
 

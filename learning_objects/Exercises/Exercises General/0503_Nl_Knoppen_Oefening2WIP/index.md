@@ -2,7 +2,7 @@
 hruid: Knoppen_Oef2-v1
 version: 3
 language: nl
-title: Knoppen oef 2
+title: Knoppen Oefening 2
 description: Knoppen oef 2
 keywords: [StartToDwenguino, knoppen]
 educational_goals: [
@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## 5.2 Opdracht Knoppen
+## 5.2 Knoppen
 
 ### 5.2.1
 
