@@ -23,14 +23,20 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
+# Programmeren van de Tekenrobot
 
-Na de oefeningen in de simulator ben je in staat om de tekenrobot te programmeren. Programmeer nu zelf de robot zodat deze een mooie tekening maakt. Is er nog iets onduidelijk? Bekijk dan het volgende filmpje:
+DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft leerlingen de mogelijkheid om een robot te programmeren. Voor zij die geen fysiek materiaal ter beschikking hebben, is er ook een simulator. In de simulator kan men kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot). Deze oefeningen kan je uitvoeren in de simulator, een fysieke robot is dus niet noodzakelijk. 
+
+Het *StartToDwenguino*-traject bestaat uit oefeningen op alle scenario's en componenten beschikbaar in de simulator. Afhankelijk van het leerpad waar je mee aan de slag gaat, zal je een selectie van de blokken moeten gebruiken. Voor het volledige *StartToDwenguino*-traject kan je 
+[hier]() terecht.
+
+Programmeer nu zelf de robot zodat deze een mooie tekening maakt! Hiervoor kan je gebruikmaken van een oefeningenblad of onderstaand filmpje:
 
 ![](@youtube/https://www.youtube.com/embed/zQ22ZWX64mU )
