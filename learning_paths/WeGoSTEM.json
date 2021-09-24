@@ -134,6 +134,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "ProgrammerenLeerkrachtWeGoSTEM-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ProgrammerenLeerkrachtWeGoSTEM-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "Startpagina-v1",
             "version": "3",
             "language": "nl"
