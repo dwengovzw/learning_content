@@ -23,13 +23,18 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 20
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
+# Programmeren van de Tekenrobot
+
+Als je niet reeds stiekem begonnen bent, is het nu eindelijk tijd om zelf met je tekenrobot te experimenteren! Maak het basisprogramma en test gerust de onderstaande zaken uit!
+
+**Hoe de tijd goed in de gaten, zodat je nog voldoende tijd hebt om een mooie tekening te maken na het testen!**
 
 ## Opdracht 1: Motoren
 
