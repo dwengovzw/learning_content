@@ -1,10 +1,10 @@
 ---
-hruid: AlsDan_Voorbeeld-v1
+hruid: Lln_Knoppen_Voorbeeld-v1
 version: 3
 language: nl
-title: AlsDan Voorbeeld
-description: AlsDan Voorbeeld
-keywords: [StartToDwenguino, AlsDan]
+title: Knoppen Voorbeeld
+description: Knoppen Voorbeeld
+keywords: [StartToDwenguino, knoppen]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

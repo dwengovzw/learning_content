@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 60
+estimated_time: 30
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 # StartToDwenguino
 
-We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-pakket doorneemt om de leerlingen optimaal te kunnen begeleiden. Dit bevat de volgende elementen:  
+We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-traject doorneemt om de leerlingen optimaal te kunnen begeleiden. Dit bevat de volgende elementen:  
 *Elementen tussen haakjes worden als optioneel beschouwd voor het WeGoStem-traject.*
 
 * LCD-scherm
@@ -45,3 +45,5 @@ We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartTo
 * (Als - Dan - Anders)
 * (For-lus)
 * (While-lus)
+
+In dit leerpad werden de voorbeelden voor de essentiële blokken reeds opgenomen. Om dit zelf in te oefenen, verwijzen we u naar het *StartToDwenguino*-traject.
