@@ -2,7 +2,7 @@
 hruid: led_Voorbeeld-v1
 version: 3
 language: nl
-title: led Voorbeeld
+title: Led Voorbeeld
 description: led Voorbeeld
 keywords: [StartToDwenguinom, led]
 educational_goals: [

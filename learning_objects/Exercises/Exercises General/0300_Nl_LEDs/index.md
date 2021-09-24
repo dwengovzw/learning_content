@@ -2,7 +2,7 @@
 hruid: led-v1
 version: 3
 language: nl
-title: led
+title: Led
 description: Uitleg led
 keywords: [StartToDwenguino, led]
 educational_goals: [
