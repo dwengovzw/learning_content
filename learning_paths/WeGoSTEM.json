@@ -224,36 +224,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "lcd_Oef1-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "lcd_Oef1-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "lcd_Oef2-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "lcd_Oef2-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "Wacht-v1",
             "version": "3",
             "language": "nl"
@@ -284,36 +254,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "Wacht_Oef1-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Wacht_Oef1-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Wacht_Oef2-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Wacht_Oef2-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "Knoppen-v1",
             "version": "3",
             "language": "nl"
@@ -338,36 +278,6 @@
     },
     {
       "learningobject_hruid": "Knoppen_Voorbeeld-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Knoppen_Oef1-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Knoppen_Oef1-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Knoppen_Oef2-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Knoppen_Oef2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
