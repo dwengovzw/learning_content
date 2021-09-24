@@ -1,10 +1,10 @@
 ---
-hruid: Voorbereiding_ProgrammerenTekenrobotSimulatie-v1
+hruid: ProgrammerenLeerkrachtWeGoSTEM-v1
 version: 3
 language: nl
-title: Voorbereiding Programmeren van de tekenrobot in simulatie
-description: Korte inhoudstafel en verwijzing naar de oefeningen
-keywords: [WeGoSTEM]
+title: StartToDwenguino Leerkracht
+description: Uitleg voor de leerkracht
+keywords: [StartToDwenguino, WeGoSTEM]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 0
+estimated_time: 60
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,9 +31,17 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Programmeren van de tekenrobot in simulatie (voorbereiding)
+# StartToDwenguino
 
-Voor de voorbereidende oefeningen hebben we een reeks van 7 oefeningen gemaakt die je op jouw computer kan doen zonder robot. De oefeningen kan je vinden op 
-[deze](https://scholen.dwengo.org/nl/wegostemoefeningen.html "oefeningen robotarm")
-pagina.
+We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-pakket doorneemt om de leerlingen optimaal te kunnen begeleiden. Dit bevat de volgende elementen:  
+*Elementen tussen haken worden als optioneel beschouwd voor het WeGoStem-traject.*
 
+* LCD-scherm
+* Wacht
+* (Leds)
+* (Buzzer)
+* knoppen
+* (Als - Dan)
+* (Als - Dan - Anders)
+* For-lus
+* (While-lus)
