@@ -2,8 +2,8 @@
 hruid: lcd_Oef1-v1
 version: 3
 language: nl
-title: lcd oef 1
-description: lcd oef 1
+title: lcd Oefening 1
+description: lcd oef. 1
 keywords: [StartToDwenguino, lcd, lcd-scherm]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,14 +23,14 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
-## 1.1 Opdracht LCD
+## 1.1 lcd-scherm
 
 ### 1.1.1
 

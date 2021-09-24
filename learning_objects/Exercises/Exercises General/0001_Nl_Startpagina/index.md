@@ -31,7 +31,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# 1. DwenguinoBlockly, een programmeeromgeving
+# 1. DwenguinoBlockly  
+# Een programmeeromgeving
 
 De programmeeromgeving met simulator is online beschikbaar op [https://www.dwengo.org/dwenguinoblockly](https://www.dwengo.org/dwenguinoblockly "link simulator").
 
