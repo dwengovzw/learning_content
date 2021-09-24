@@ -2,7 +2,7 @@
 hruid: Doel_ProgrammerenTekenrobot-v1
 version: 3
 language: nl
-title: Doel Programmeren van de tekenrobot
+title: Voorbereiding Programmeren van de tekenrobot
 description: Beschrijving van de activiteit
 keywords: [WeGoSTEM]
 educational_goals: [
@@ -31,14 +31,15 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Doel: programmeren van de tekenrobot (40 - 60 minuten)
+# Voorbereiding Programmeren van de Tekenrobot 
+## 40 min
 
 Wanneer de kinderen de tekenrobot programmeren, is het niet de bedoeling dat je hen alle programmeerblokken geeft. Speciaal voor hen hebben we [een oefeningenblad voorzien], waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. De oefeningen omvatten:
 
-    1. Hun naam schrijven op het lcd
-    2. De robot pas laten starten wanneer een knopje ingedrukt wordt
-    3. De motoren laten draaien zodat de robot tekent
-    4. Experimenteren met de mechanica en snelheid van de motoren
+1. Hun naam schrijven op het lcd
+2. De robot pas laten starten wanneer een knopje ingedrukt wordt
+3. De motoren laten draaien zodat de robot tekent
+4. Experimenteren met de mechanica en snelheid van de motoren
 
 *Tip*: Deel de computers en bladen met programmeeroefeningen pas uit wanneer de leerlingen klaar zijn met het bouwen van hun tekenrobot.
 

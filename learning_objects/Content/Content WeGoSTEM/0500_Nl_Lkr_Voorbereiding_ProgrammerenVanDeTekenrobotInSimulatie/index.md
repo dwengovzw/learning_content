@@ -41,7 +41,7 @@ We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartTo
 * (Leds)
 * (Buzzer)
 * knoppen
-* (Als - Dan)
+* Als - Dan
 * (Als - Dan - Anders)
-* For-lus
+* (For-lus)
 * (While-lus)
