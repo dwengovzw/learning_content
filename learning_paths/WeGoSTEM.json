@@ -179,6 +179,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "UploadenDwenguino-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "UploadenDwenguino-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "lcd-v1",
             "version": "3",
             "language": "nl"

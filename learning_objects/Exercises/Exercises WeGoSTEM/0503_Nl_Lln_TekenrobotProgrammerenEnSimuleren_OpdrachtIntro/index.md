@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Opdracht 1.1
+## Inleidende oefening
 
 * Ga naar [https://www.dwengo.org/dwenguinoblockly](https://www.dwengo.org/dwenguinoblockly "Link simulator").
 

@@ -1,10 +1,10 @@
 ---
-hruid: lcd_Oef2-v1
+hruid: UploadenDwenguino-v1
 version: 3
 language: nl
-title: lcd Oefening 2
-description: Uitleg LCD
-keywords: [StartToDwenguino, lcd, lcd-scherm]
+title: Uploaden Dwenguino
+description: Instructiefilmpje voor het uploaden van een programma
+keywords: [StartToDwenguino]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,10 +30,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## 1.1 lcd-scherm
+# Uploaden naar de Dwenguino
 
-### 1.2.1
+In het onderstaande filmpje wordt getoond hoe je een programma van eender welke computer en browser kan uploaden naar je Dwenguino.
 
-Bekijk onderstaande lcd-schermen. Maak de figuren na door gebruik te maken van de volgende symbolen: \ / _ < >
-
-**Afbeeldingen 1 & 2**
+![](@youtube/https://www.youtube.com/embed/LRuwpsPxMc0 "Uploaden Dwenguino")

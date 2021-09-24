@@ -34,7 +34,7 @@ teacher_exclusive: true
 # StartToDwenguino
 
 We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-pakket doorneemt om de leerlingen optimaal te kunnen begeleiden. Dit bevat de volgende elementen:  
-*Elementen tussen haken worden als optioneel beschouwd voor het WeGoStem-traject.*
+*Elementen tussen haakjes worden als optioneel beschouwd voor het WeGoStem-traject.*
 
 * LCD-scherm
 * Wacht
