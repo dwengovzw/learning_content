@@ -1,5 +1,5 @@
 ---
-hruid: Lln_Knoppen_Voorbeeld-v1
+hruid: Knoppen_Voorbeeld-v1
 version: 3
 language: nl
 title: Knoppen Voorbeeld

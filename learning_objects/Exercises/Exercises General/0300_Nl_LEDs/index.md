@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 2. leds
+## leds
 
 Links onderaan op het Dwenguino-bord vind je acht leds:
 

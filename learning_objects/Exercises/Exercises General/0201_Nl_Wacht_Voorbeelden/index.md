@@ -1,5 +1,5 @@
 ---
-hruid: Lln_Wacht_Voorbeeld-v1
+hruid: Wacht_Voorbeeld-v1
 version: 3
 language: nl
 title: Wacht Voorbeeld
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-### Voorbeeld
+### Voorbeeld Wacht
 
 OPGAVE 1
 

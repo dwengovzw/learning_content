@@ -31,4 +31,4 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 6. Als - Dan
+## Als - Dan
