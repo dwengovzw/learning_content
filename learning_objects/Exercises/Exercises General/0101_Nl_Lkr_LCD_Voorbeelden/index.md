@@ -2,7 +2,7 @@
 hruid: Lkr_lcd_Voorbeeld-v1
 version: 3
 language: nl
-title: lcd Voorbeeld
+title: Lcd Voorbeeld
 description: lcd Voorbeeld
 keywords: [StartToDwenguino, lcd, lcd-scherm]
 educational_goals: [

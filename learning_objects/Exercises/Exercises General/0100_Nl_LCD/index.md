@@ -2,7 +2,7 @@
 hruid: lcd-v1
 version: 3
 language: nl
-title: lcd
+title: Lcd
 description: Uitleg lcd
 keywords: [StartToDwenguino, lcd, lcd-scherm]
 educational_goals: [
