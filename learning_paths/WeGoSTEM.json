@@ -224,7 +224,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "lcd_Voorbeeld-v1",
+            "hruid": "Lkr_lcd_Voorbeeld-v1",
             "version": "3",
             "language": "nl"
           }
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "learningobject_hruid": "lcd_Voorbeeld-v1",
+      "learningobject_hruid": "Lkr_lcd_Voorbeeld-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -254,7 +254,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Wacht_Voorbeeld-v1",
+            "hruid": "Lkr_Wacht_Voorbeeld-v1",
             "version": "3",
             "language": "nl"
           }
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Wacht_Voorbeeld-v1",
+      "learningobject_hruid": "Lkr_Wacht_Voorbeeld-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -284,7 +284,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Knoppen_Voorbeeld-v1",
+            "hruid": "Lkr_Knoppen_Voorbeeld-v1",
             "version": "3",
             "language": "nl"
           }
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Knoppen_Voorbeeld-v1",
+      "learningobject_hruid": "Lkr_Knoppen_Voorbeeld-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -368,21 +368,6 @@
     },
     {
       "learningobject_hruid": "WatNaWeGoSTEM-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Problemsolving-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Problemsolving-v1",
       "version": "3",
       "language": "nl",
       "transitions": [

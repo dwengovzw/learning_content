@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -37,6 +37,6 @@ DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde
 Het *StartToDwenguino*-traject bestaat uit oefeningen op alle scenario's en componenten beschikbaar in de simulator. Afhankelijk van het leerpad waar je mee aan de slag gaat, zal je een selectie van de blokken moeten gebruiken. Voor het volledige *StartToDwenguino*-traject kan je 
 [hier]() terecht.
 
-Programmeer nu zelf de robot zodat deze een mooie tekening maakt! Hiervoor kan je gebruikmaken van een oefeningenblad of onderstaand filmpje:
+Programmeer nu zelf de robot zodat deze een mooie tekening maakt! Hiervoor kan je gebruikmaken van een oefeningenblad of het [filmpje](@youtube/https://www.youtube.com/watch?v=zQ22ZWX64mU)
 
-![](@youtube/https://www.youtube.com/embed/zQ22ZWX64mU )
+Hierna worden de simulatieomgeving en het uploadproces nog kort uitgelegd, en dan kan je eindelijk **zelf** je tekenrobot gaan programmeren.

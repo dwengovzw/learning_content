@@ -31,4 +31,4 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 1. While-lus
+## While-lus

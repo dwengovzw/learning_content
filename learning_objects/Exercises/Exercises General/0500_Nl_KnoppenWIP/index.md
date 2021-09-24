@@ -31,4 +31,4 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 5. Knoppen
+## Knoppen
