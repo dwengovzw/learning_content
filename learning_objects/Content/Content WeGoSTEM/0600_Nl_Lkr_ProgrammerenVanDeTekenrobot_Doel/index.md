@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Voorbereiding Programmeren van de Tekenrobot 
+# Voorbereiding - Programmeren van de Tekenrobot 
 ## 40 min
 
 Wanneer de kinderen de tekenrobot programmeren, is het niet de bedoeling dat je hen alle programmeerblokken geeft. Speciaal voor hen hebben we [een oefeningenblad voorzien], waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. De oefeningen omvatten:
