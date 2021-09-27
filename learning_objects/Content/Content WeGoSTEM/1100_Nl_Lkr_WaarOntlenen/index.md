@@ -39,10 +39,36 @@ Met het materiaal in deze doos kan je een WeGoSTEM-workshop geven voor een klas 
 Het is de bedoeling dat je het materiaal na twee weken terugbrengt naar de bibliotheek!
 
 ## Locaties
-* Hasselt: https://bibliotheek.hasselt.be/provincielimburg.net?id=75442
-* Leuven: ...
-* Brussel: ...
-* Kortrijk: ...
-* Gent: https://gent.bibliotheek.be/formulier/aanvraagformulier-wegostem
-* Antwerpen: ...
-* Brugge: ...
+* [Hasselt](https://bibliotheek.hasselt.be/provincielimburg.net?id=75442 "Reserveren")  
+Bibliotheek Hasselt Limburg
+Martelarenlaan 17
+3500 Hasselt
+
+* [Leuven]( "Reserveren")  
+Bib Kessel-Lo
+Stadionlaan 4
+3010 Kessel-Lo
+
+* [Brussel]( "Reserveren")  
+Muntpunt
+Tav. Erika Gebruers
+Munt 6
+1000 Brussel
+
+* [Kortrijk]( "Reserveren")  
+Manon Vergote - Jurgen van Lerberghe
+Konventstraat 1 
+8500 Kortrijk
+
+* [Gent](https://gent.bibliotheek.be/formulier/aanvraagformulier-wegostem "Reserveren")  
+Miriam Makebaplein 1
+9000 Gent
+
+* [Antwerpen]( "Reserveren")  
+Straatsburgdok-Noordkaai 29, 
+2030 Antwerpen
+
+* [Brugge]( "Reserveren")  
+Bibliotheek Xaverianen
+Xaverianenstraat 3 bus 002
+8200 Sint-Michiels (Brugge)
