@@ -35,40 +35,51 @@ teacher_exclusive: true
 
 Het WeGoSTEM-materiaal wordt gratis aangeboden door Dwengo VZW. Hou het in goede staat voor de volgende scholen.
 
+Om het verdelen van ons materiaal zo vlot mogelijk te laten verlopen, werken we samen met lokale bibliotheken. Deze kunt u op het einde van de uitleg terugvinden (met links naar het reservatieformulier).
+
 Met het materiaal in deze doos kan je een WeGoSTEM-workshop geven voor een klas tot maximaal 30 leerlingen. Maak jouw collega's ook warm voor WeGoSTEM en geef de workshop samen voor alle leerlingen van 5de en 6de leerjaar!
 Het is de bedoeling dat je het materiaal na twee weken terugbrengt naar de bibliotheek!
 
+## Inhoud
+De doos bevat:
+* 15 robotpakketten
+* 1 groene doos met reservemateriaal
+* 1 rode doos met alles wat stuk is
+* Prenten van robots om in de klas te tonen
+* Tekeningen voor de activiteit *Programmeer eens een Mens*
+* Voorbeeldfoto's van hoe de robot gebouwd kan worden om uit te delen aan elk duo
+
 ## Locaties
 * [Hasselt](https://bibliotheek.hasselt.be/provincielimburg.net?id=75442 "Reserveren")  
-Bibliotheek Hasselt Limburg
-Martelarenlaan 17
+Bibliotheek Hasselt Limburg  
+Martelarenlaan 17  
 3500 Hasselt
 
 * [Leuven]( "Reserveren")  
-Bib Kessel-Lo
-Stadionlaan 4
+Bib Kessel-Lo  
+Stadionlaan 4  
 3010 Kessel-Lo
 
 * [Brussel]( "Reserveren")  
-Muntpunt
-Tav. Erika Gebruers
-Munt 6
+Muntpunt  
+Tav. Erika Gebruers  
+Munt 6  
 1000 Brussel
 
 * [Kortrijk]( "Reserveren")  
-Manon Vergote - Jurgen van Lerberghe
-Konventstraat 1 
+Manon Vergote - Jurgen van Lerberghe  
+Konventstraat 1  
 8500 Kortrijk
 
 * [Gent](https://gent.bibliotheek.be/formulier/aanvraagformulier-wegostem "Reserveren")  
-Miriam Makebaplein 1
+Miriam Makebaplein 1  
 9000 Gent
 
 * [Antwerpen]( "Reserveren")  
-Straatsburgdok-Noordkaai 29, 
+Straatsburgdok-Noordkaai 29  
 2030 Antwerpen
 
 * [Brugge]( "Reserveren")  
-Bibliotheek Xaverianen
-Xaverianenstraat 3 bus 002
+Bibliotheek Xaverianen  
+Xaverianenstraat 3 bus 002  
 8200 Sint-Michiels (Brugge)
