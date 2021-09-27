@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-
+# WIP
 # Voorbereiding - Programmeren van de Tekenrobot 
 ## 40 min
 
