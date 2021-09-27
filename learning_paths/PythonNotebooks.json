@@ -14,7 +14,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Datatypes-v1",
+            "hruid": "SpreidingsdiagramEnRegressie-v1",
             "version": "3",
             "language": "nl"
           }
@@ -22,14 +22,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Datatypes-v1",
+      "learningobject_hruid": "SpreidingsdiagramEnRegressie-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Structuren-v1",
+            "hruid": "GrafiekenEnRechten-v1",
             "version": "3",
             "language": "nl"
           }
@@ -37,14 +37,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Structuren-v1",
+      "learningobject_hruid": "GrafiekenEnRechten-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "IPadres-v1",
+            "hruid": "Klimaatverandering-v1",
             "version": "3",
             "language": "nl"
           }
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "learningobject_hruid": "IPadres-v1",
+      "learningobject_hruid": "Klimaatverandering-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Sentimentanalyse-v1",
+            "hruid": "WerkingNotebooks-v1",
             "version": "3",
             "language": "nl"
           }
@@ -67,37 +67,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Sentimentanalyse-v1",
-      "version": "3",
-      "language": "nl",    
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Parameters-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Parameters-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "FunctiesDefiniëren-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "FunctiesDefiniëren-v1",
+      "learningobject_hruid": "WerkingNotebooks-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
