@@ -32,11 +32,9 @@ teacher_exclusive: false
 ---
 # Programmeren van de Tekenrobot
 
-DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft leerlingen de mogelijkheid om een robot te programmeren. Voor zij die geen fysiek materiaal ter beschikking hebben, is er ook een simulator. In de simulator kan men kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot). Deze oefeningen kan je uitvoeren in de simulator, een fysieke robot is dus niet noodzakelijk. 
+DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft jou de mogelijkheid om een robot te programmeren. Als je geen fysiek materiaal ter beschikking hebt, is er ook een simulator. In de simulator kan je kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot). De volgende opdrachten kan je uitvoeren in de simulator, een fysieke robot is dus niet noodzakelijk. 
 
-Het *StartToDwenguino*-traject bestaat uit oefeningen op alle scenario's en componenten beschikbaar in de simulator. Afhankelijk van het leerpad waar je mee aan de slag gaat, zal je een selectie van de blokken moeten gebruiken. Voor het volledige *StartToDwenguino*-traject kan je 
-[hier]() terecht.
+Indien je na het programmeren van de tekenrobot nog meer met de simulator aan de slag wilt, dan kan je
+[hier]( "TBD") terecht voor meer leuke oefeningen.
 
-Programmeer nu zelf de robot zodat deze een mooie tekening maakt! Hiervoor kan je gebruikmaken van een oefeningenblad of het [filmpje](@youtube/https://www.youtube.com/watch?v=zQ22ZWX64mU)
-
-Hierna worden de simulatieomgeving en het uploadproces nog kort uitgelegd, en dan kan je eindelijk **zelf** je tekenrobot gaan programmeren.
+Veel succes!
