@@ -2,7 +2,7 @@
 hruid: SpreidingsdiagramGeiser-v1
 version: 3
 language: nl
-title: SpreidingsdiagramGeiser
+title: Spreidingsdiagram geiser
 description: Notebooks over ...
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
