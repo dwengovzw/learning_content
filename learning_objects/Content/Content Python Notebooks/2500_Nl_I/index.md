@@ -2,7 +2,7 @@
 hruid: SpreidingsdiagramTrein-v1
 version: 3
 language: nl
-title: SpreidingsdiagramTrein
+title: Spreidingsdiagram trein
 description: Notebooks over ...
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [

@@ -61,3 +61,7 @@ Als je niet reeds stiekem begonnen bent, is het nu eindelijk tijd om zelf met je
 * Experimenteer met de snelheden van de motoren.
 
 **Na deze oefening kan je de tekenrobot aansturen. Je begrijpt dat de bekomen tekening afhangt van de draaizin en de snelheid van de motoren.**
+
+Indien er nog iets onduidelijk is, vat het onderstaande filmpje nog eens alles samen.
+
+![alt](@youtube/https://www.youtube.com/embed/4e1iohfi9rw "Video WeGoSTEM")
