@@ -14,7 +14,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "SpreidingsdiagramEnRegressie-v1",
+            "hruid": "17-v1",
             "version": "3",
             "language": "nl"
           }
@@ -22,14 +22,14 @@
       ]
     },
     {
-      "learningobject_hruid": "SpreidingsdiagramEnRegressie-v1",
+      "learningobject_hruid": "17-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "GrafiekenEnRechten-v1",
+            "hruid": "18-v1",
             "version": "3",
             "language": "nl"
           }
@@ -37,14 +37,14 @@
       ]
     },
     {
-      "learningobject_hruid": "GrafiekenEnRechten-v1",
+      "learningobject_hruid": "18-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Klimaatverandering-v1",
+            "hruid": "19-v1",
             "version": "3",
             "language": "nl"
           }
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Klimaatverandering-v1",
+      "learningobject_hruid": "19-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "WerkingNotebooks-v1",
+            "hruid": "20-v1",
             "version": "3",
             "language": "nl"
           }
@@ -67,14 +67,14 @@
       ]
     },
     {
-      "learningobject_hruid": "WerkingNotebooks-v1",
+      "learningobject_hruid": "20-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Datatypes-v1",
+            "hruid": "Tekenvenster2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -82,14 +82,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Datatypes-v1",
+      "learningobject_hruid": "Tekenvenster2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Structuren-v1",
+            "hruid": "SpreidingsdiagramManueel-v1",
             "version": "3",
             "language": "nl"
           }
@@ -97,14 +97,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Structuren-v1",
+      "learningobject_hruid": "SpreidingsdiagramManueel-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "IPadres-v1",
+            "hruid": "SpreidingsdiagramIngelezen-v1",
             "version": "3",
             "language": "nl"
           }
@@ -112,14 +112,14 @@
       ]
     },
     {
-      "learningobject_hruid": "IPadres-v1",
+      "learningobject_hruid": "SpreidingsdiagramIngelezen-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Sentimentanalyse-v1",
+            "hruid": "SpreidingsdiagramVisualiseren-v1",
             "version": "3",
             "language": "nl"
           }
@@ -127,14 +127,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Sentimentanalyse-v1",
+      "learningobject_hruid": "SpreidingsdiagramVisualiseren-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Parameters-v1",
+            "hruid": "SpreidingsdiagramTrein-v1",
             "version": "3",
             "language": "nl"
           }
@@ -142,14 +142,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Parameters-v1",
+      "learningobject_hruid": "SpreidingsdiagramTrein-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "FunctiesDefiniëren-v1",
+            "hruid": "SpreidingsdiagramGeiser-v1",
             "version": "3",
             "language": "nl"
           }
@@ -157,14 +157,14 @@
       ]
     },
     {
-      "learningobject_hruid": "FunctiesDefiniëren-v1",
+      "learningobject_hruid": "SpreidingsdiagramGeiser-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "NotebookDoorlopen-v1",
+            "hruid": "Standaardiseren-v1",
             "version": "3",
             "language": "nl"
           }
@@ -172,14 +172,14 @@
       ]
     },
     {
-      "learningobject_hruid": "NotebookDoorlopen-v1",
+      "learningobject_hruid": "Standaardiseren-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "StringIntFloat-v1",
+            "hruid": "LineaireRegressie2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -187,14 +187,14 @@
       ]
     },
     {
-      "learningobject_hruid": "StringIntFloat-v1",
+      "learningobject_hruid": "LineaireRegressie2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "InputOutput-v1",
+            "hruid": "SpreidingsdiagramLRV-v1",
             "version": "3",
             "language": "nl"
           }
@@ -202,14 +202,14 @@
       ]
     },
     {
-      "learningobject_hruid": "InputOutput-v1",
+      "learningobject_hruid": "SpreidingsdiagramLRV-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Spreidingsdiagram-v1",
+            "hruid": "RegressieGeiser-v1",
             "version": "3",
             "language": "nl"
           }
@@ -217,14 +217,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Spreidingsdiagram-v1",
+      "learningobject_hruid": "RegressieGeiser-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "LineaireRegressie-v1",
+            "hruid": "RegressieBelgië-v1",
             "version": "3",
             "language": "nl"
           }
@@ -232,9 +232,9 @@
       ]
     },
     {
-      "learningobject_hruid": "LineaireRegressie-v1",
+      "learningobject_hruid": "RegressieBelgië-v1",
       "version": "3",
-      "language": "nl",
-    }  
+      "language": "nl"
+    } 
   ]
 }
