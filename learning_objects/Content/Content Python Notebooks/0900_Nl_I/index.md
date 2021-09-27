@@ -1,5 +1,5 @@
 ---
-hruid: Sentimentanalyse_v1
+hruid: Sentimentanalyse-v1
 version: 3
 language: nl
 title: Sentimentanalyse
