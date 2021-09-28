@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 # Doe mee met WeGoSTEM
 
-Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les. De bijhorende kits kunt u reserveren bij een lokale bibliotheek (zie )
+Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les. De bijhorende kits kunt u reserveren bij een lokale bibliotheek (zie einde leerpad).
 
 ![](@youtube/https://www.youtube.com/embed/RqyxGvzavCw)
 
