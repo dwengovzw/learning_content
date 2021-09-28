@@ -50,36 +50,36 @@ De doos bevat:
 * Voorbeeldfoto's van hoe de robot gebouwd kan worden om uit te delen aan elk duo
 
 ## Locaties
-* [Hasselt](https://bibliotheek.hasselt.be/provincielimburg.net?id=75442 "Reserveren")  
+* Hasselt: [Reserveer hier](https://bibliotheek.hasselt.be/provincielimburg.net?id=75442 "Reserveren")  
 Bibliotheek Hasselt Limburg  
 Martelarenlaan 17  
 3500 Hasselt
 
-* [Leuven]( "Reserveren")  
+* Leuven [Reserveer hier]( "Reserveren")  
 Bib Kessel-Lo  
 Stadionlaan 4  
 3010 Kessel-Lo
 
-* [Brussel]( "Reserveren")  
+* Brussel [Reserveer hier]( "Reserveren")  
 Muntpunt  
 Tav. Erika Gebruers  
 Munt 6  
 1000 Brussel
 
-* [Kortrijk]( "Reserveren")  
+* Kortrijk [Reserveer hier]( "Reserveren")  
 Manon Vergote - Jurgen van Lerberghe  
 Konventstraat 1  
 8500 Kortrijk
 
-* [Gent](https://gent.bibliotheek.be/formulier/aanvraagformulier-wegostem "Reserveren")  
+* Gent [Reserveer hier](https://gent.bibliotheek.be/formulier/aanvraagformulier-wegostem "Reserveren")  
 Miriam Makebaplein 1  
 9000 Gent
 
-* [Antwerpen]( "Reserveren")  
+* GAntwerpen [Reserveer hier]( "Reserveren")  
 Straatsburgdok-Noordkaai 29  
 2030 Antwerpen
 
-* [Brugge]( "Reserveren")  
+* Brugge [Reserveer hier]( "Reserveren")  
 Bibliotheek Xaverianen  
 Xaverianenstraat 3 bus 002  
 8200 Sint-Michiels (Brugge)
