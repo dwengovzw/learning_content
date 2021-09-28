@@ -31,16 +31,14 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# WeGoSTEM - Bouw je eigen tekenrobot
 
-Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les.
 
-![alt](https://scholen.dwengo.org/static/wegostem.png "Front")
+
 
 
 ## Wat ga je doen?
 
-In dit leerpad ga je dus uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!
+In dit leerpad ga je uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!
 
 ![](@youtube/https://www.youtube.com/embed/w-s2-Vn-OTs)
 
