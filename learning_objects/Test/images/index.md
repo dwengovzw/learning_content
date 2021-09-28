@@ -33,5 +33,5 @@ teacher_exclusive: true
 
 # Afbeelding
 
-[test logo](images/Test/dwengo_logo.png "dit is een afbeelding")
-![](images/Test/dwengo_logo.png "dwengo logo")
+[test logo](Test/dwengo_logo.png "dit is een afbeelding")
+![](Test/dwengo_logo.png "dwengo logo")
