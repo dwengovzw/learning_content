@@ -32,7 +32,7 @@ teacher_exclusive: true
 ---
 
 # Voorbereiding - Bouwen van een tekenrobot 
-## 20 - 30 minuten
+## 20 - 30 minuten tijdens de les
 
 In deze activiteit gaan de leerlingen voor het eerst aan de slag met het materiaal. Ze leren over de verschillende componenten van een robotarm en moeten deze correct monteren. 
 

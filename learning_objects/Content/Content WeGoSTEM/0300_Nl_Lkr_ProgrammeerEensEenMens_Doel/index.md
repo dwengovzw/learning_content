@@ -32,7 +32,7 @@ teacher_exclusive: true
 ---
 
 # Voorbereiding - Programmeer eens een mens 
-## 10 - 15 minuten
+## 10 - 15 minuten tijdens de les
 
 De leerlingen programmeren elkaar om een tekening te maken. Eén leerling is de ‘programmeur’ en geeft zorgvuldige instructies aan de andere leerlingen om een bepaalde tekening te reproduceren. De andere leerlingen zijn ‘de computer’. Hoe snel en nauwkeurig wordt de tekening voltooid?
 
