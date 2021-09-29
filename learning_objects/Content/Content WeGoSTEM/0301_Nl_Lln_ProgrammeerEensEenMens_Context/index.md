@@ -47,7 +47,8 @@ Voor deze opdracht heb je enkel potlood en papier nodig.
 Een robot doet alleen dat wat je programmeert. Je moet dus heel precieze instructies geven. Je leert een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen.
 
 #### Opdracht
-Kies een programmeur. De anderen zijn robots. De programmeur beschrijft de tekening voor de klas en de robots tekenen deze na. Het doel is om te zien hoe snel en nauwkeurig de tekening wordt nagetekend. **Toon de originele tekening dus niet aan de robots tot ze klaar zijn met tekenen!**
+Kies een programmeur. De anderen zijn robots. De programmeur beschrijft de tekening voor de klas en de robots tekenen deze na. De robots mogen niet praten of vragen stellen tijdens het tekenproces!  
+Het doel is om te zien hoe snel en nauwkeurig de tekening wordt nagetekend. **Toon de originele tekening dus niet aan de robots tot ze klaar zijn met tekenen!**
 
 1. Begin met een eenvoudige afbeelding te gebruiken vooor deze oefening.
 2. Bespreek het resultaat. Wat ging er goed? Wat ging er minder goed? Zijn alle figuren even groot? Kon je de instructies op verschillende manieren uitvoeren?

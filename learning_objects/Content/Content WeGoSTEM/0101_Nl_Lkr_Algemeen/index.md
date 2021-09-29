@@ -57,4 +57,6 @@ Bovendien hebben we WeGoSTEM ondertussen getest met meer dan 25000 kinderen over
 
 Als je eigen/extra voorbeelden hebt over robots, geef die dan gerust! De tijdsindicatie is een suggestie, maar uiteraard aanpasbaar aan de noden van de klas. Kinderen zijn laaiend enthousiast wanneer ze met hun eigen robottekening naar huis kunnen!
 
+Indien er na het leerpad nog vragen zijn, kunt u altijd terecht op [mail]( "mail").
+
 ![alt](https://scholen.dwengo.org/static/wegostem.png "Front")
