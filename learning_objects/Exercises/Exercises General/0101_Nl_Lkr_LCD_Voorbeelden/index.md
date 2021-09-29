@@ -39,7 +39,7 @@ Laat 'Welkom robot' op het lcd-scherm verschijnen.
 
 Oplossing:
 
-**Voorbeeld 1**
+![](@blockly/Voorbeeld1.xml)
 
 De tekst 'Welkom robot' kan je aanpassen. De twee nullen betekenen: eerste lijn, eerste karakter.
 
@@ -50,7 +50,7 @@ Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.
 
 Oplossing:
 
-**Voorbeeld 2**
+![](@blockly/Voorbeeld2.xml)
 
 Om de tekst in 2 rijen te splitsen, heb je een tweede *'lcd-scherm'-blok* nodig.
 Verander je bij 'op rij:' de 0 in een 1, dan komt je tekst op de tweede lijn.
@@ -62,7 +62,7 @@ Plaats de tekst nu ook in het midden van het LCD-scherm.
 
 Oplossing:
 
-**Voorbeeld 3**
+![](@blockly/Voorbeeld3.xml)
 
 Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 4 plaatsen op naar rechts.
 

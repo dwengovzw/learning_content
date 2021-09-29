@@ -40,7 +40,7 @@ OPGAVE 1
 
 Oplossing:
 
-**Voorbeeld 1**
+![](@blockly/blocks.xml)
 
 
 
@@ -51,7 +51,7 @@ OPGAVE 2
 
 Oplossing:
 
-**Voorbeeld 2**
+![](@blockly/blocks.xml)
 
 
 
@@ -62,7 +62,7 @@ OPGAVE 3
 
 Oplossing:
 
-**Voorbeeld 3**
+![](@blockly/blocks.xml)
 
 
 
