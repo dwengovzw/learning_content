@@ -66,7 +66,7 @@ updated
 
 # pdf
 
-![](@pdf/vergadering.pdf)
+![](vergadering.pdf)
 
 # blocks
 
