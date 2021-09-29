@@ -35,4 +35,4 @@ teacher_exclusive: true
 
 [Foto's](https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt ook meegeleverd)
 
-![](@pdf/https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek")
+![](https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek")

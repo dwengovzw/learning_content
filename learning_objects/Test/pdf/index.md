@@ -30,4 +30,4 @@ estimated_time: 20
 # Allernieuwste versie
 
 [pdf](pdfs/ver/vergadering.pdf "dit is een pdf")
-![](@pdf/pdfs/ver/vergadering.pdf)
+![](pdfs/ver/vergadering.pdf)
