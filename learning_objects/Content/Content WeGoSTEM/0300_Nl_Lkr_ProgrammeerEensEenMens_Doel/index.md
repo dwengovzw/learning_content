@@ -44,6 +44,6 @@ Aandachtspunt: Hou de tijd in de gaten!
 ## Materiaal voor in de klas
 
 * Pen en papier (zelf voorzien)
-* [Afbeeldingen](https://scholen.dwengo.org/downloads/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens") voor de oefening (wordt ook meegeleverd). Begin met de eenvoudigste tekening!
+* [Afbeeldingen](@pdf/embed/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens") voor de oefening (wordt ook meegeleverd). Begin met de eenvoudigste tekening!
 
-![](@pdf/https://scholen.dwengo.org/downloads/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens")
+![](@pdf/embed/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens")

@@ -45,4 +45,4 @@ Voor het bouwen van de tekenrobot hebben we voor elk groepje een foto voorzien. 
 * Doosje met robotcomponenten (wordt ook meegeleverd)
 * [foto](embed/Voorbeeld.pdf "afgewerkte robot") met afgewerkte robot (wordt ook meegeleverd)
 
-![](@pdf/embed/Voorbeeld.PNG
+![](@pdf/embed/Voorbeeld.PNG "Afgewerkte robot")
