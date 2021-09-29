@@ -34,7 +34,7 @@ teacher_exclusive: true
 # Voorbereiding - Programmeer eens een mens 
 ## 10 - 15 minuten
 
-Kinderen zullen medeleerlingen ‘programmeren’ om een tekening te repliceren op basis van instructies. Ondertussen oefenen de leerlingen enkele computationele vaardigheden: Een robot doet alleen dat wat je programmeert. Leerlingen moeten dus heel precieze instructies geven. Leerlingen leren een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen.
+De leerlingen programmeren elkaar om een tekening te maken. Eén leerling is de ‘programmeur’ en geeft zorgvuldige instructies aan de andere leerlingen om een bepaalde tekening te reproduceren. De andere leerlingen zijn ‘de computer’. Hoe snel en nauwkeurig wordt de tekening voltooid?
 
 *Waarom deze oefening?*
 

@@ -1,8 +1,8 @@
 ---
-hruid: Opdracht_ProgrammeerEensEenMens-v1
+hruid: Besluit_ProgrammeerEensEenMens-v1
 version: 3
 language: nl
-title: Programmeer eens een mens
+title: Besluit Programmeer eens een Mens
 description: De activiteit
 keywords: [WeGoSTEM, activiteit]
 educational_goals: [
@@ -31,11 +31,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Opdracht
+## Besluit
 
-Geef een leerling (vraag hiervoor een vrijwilliger) een afbeelding (zie verder). De vrijwilliger (de programmeur) beschrijft de tekening voor de rest van de klas en de anderen (= de robots) tekenen. Het doel is te zien hoe snel en nauwkeurig de oefening kan worden voltooid.
+Zoals je wel zult gemerkt hebben is het niet altijd even eenvoudig om duidelijke instructies te geven. Om een specifiek resultaat te bekomen, is "Teken een huis" bijvoorbeeld veel te vaag. Wat is de vorm van het huis? Hoe groot moet het huis zijn? Waar op mijn blad moet ik beginnen tekenen? Doordat de robots geen vragen mogen/kunnen stellen, wordt dit des te duidelijker.
 
-    Begin met de eenvoudige afbeelding te gebruiken voor deze oefening, omdat de leerlingen heel snel kunnen verdwalen.
-    Bespreek het resultaat. Wat ging er goed? Wat ging er minder goed? Zijn alle figuren even groot? Waren de instructies eenduidig (men kon niet vrij interpreteren)?
-    Herhaal stap 1 en 2 met de lachende gezichtjes. Laat dit doen door een nieuwe vrijwilliger. Ging dit beter?
-    Vraag tot slot een derde vrijwilliger om de moeilijke tekening te brengen. Wijs hen achteraf op het feit dat moeilijke programma's veel meer denkwerk vergen voor de programmeur.
+Computers kunnen niet interpreteren en voeren letterlijk iedere instructie uit die je ze geeft. De uitdaging van de programmeur bestaat er in problemen op te lossen door ze op te delen in kleine stappen die uitvoerbaar zijn door de computer en de instructies op de juiste manier aan de computer te geven.

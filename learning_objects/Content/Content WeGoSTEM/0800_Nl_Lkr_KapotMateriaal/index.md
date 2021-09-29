@@ -33,5 +33,12 @@ teacher_exclusive: true
 
 # Kapot materiaal?
 
-Is er iets kapot? Vooreerst geen paniek. Stiften die leeg/kapot zijn mag je gewoon wegsmijten in de vuilnisbak. Deze worden door het WeGoSTEM-team aangevuld. Is er iets mis met de hardware, mechanica of dwenguino, neem dan eens een kijkje in de reservedoos. Daarin zit extra materiaal dat je kan gebruiken en de robotset mee kan aanvullen. Met een post-it kan je dan het kapotte materiaal aanduiden en in de reservedoos steken. Zodoende blijven de 15 robotsets voltallig en moet enkel de reservedoos aangevuld/bekeken worden door het WeGoSTEM-team. Geef je ook een seintje aan jouw WeGoSTEM-buddy?
+Is er iets kapot? Vooreerst geen paniek. 
 
+###### **Groene doos**
+In de groene doos vindt u reservemateriaal. Als iets niet werkt, kan je het vervangen door het materiaal in deze doos.
+
+###### **Rode doos**
+In de rode doos plaats je dan het materiaal dat niet werkt.
+
+Zodoende blijven de 15 robotsets voltallig en moet enkel de reservedoos aangevuld/bekeken worden door het WeGoSTEM-team. Geef je ook een seintje aan jouw WeGoSTEM-buddy?
