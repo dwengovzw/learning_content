@@ -59,4 +59,4 @@ Als je eigen/extra voorbeelden hebt over robots, geef die dan gerust! De tijdsin
 
 Indien er na het leerpad nog vragen zijn, kunt u altijd terecht op [mail]( "mail").
 
-![alt](https://scholen.dwengo.org/static/wegostem.png "Front")
+![](embed/WeGoSTEM_Front.jpg "close-up")
