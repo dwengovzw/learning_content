@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Voorbereiding - Programmeren van de Tekenrobot 
-## 40 min
+## 40 min tijdens de les
 
 Het is niet de bedoeling dat u de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
 

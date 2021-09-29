@@ -89,6 +89,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "Besluit_ProgrammeerEensEenMens-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Besluit_ProgrammeerEensEenMens-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "Doel_BouwenVanEenTekenrobotekenrobot-v1",
             "version": "3",
             "language": "nl"

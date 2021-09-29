@@ -42,7 +42,7 @@ Shchrijf een programma dat het volgende doet:
 
 Oplossing:
 
-**Voorbeeld 1**
+![](@blockly/Wacht_Voorbeeld1.xml)
 
 De *'wacht'-blok* die **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
 
@@ -54,14 +54,14 @@ Dit kan je op 2 manieren oplossen.
 
 De eerste manier is om de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.
 
-**Voorbeeld 11**
+![](@blockly/Wacht_Voorbeeld11.xml)
 
 
 **Manier 2**
 
 De tweede manier is om alle code te verplaatsen van het *'Zet klaar'-deel* naar het *'herhaal'-deel*. Dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.
 
-**Voorbeeld 13**
+![](@blockly/Wacht_Voorbeeld13.xml)
 
 
 OPGAVE 2
@@ -70,7 +70,7 @@ Maak een reclamebord voor de UGent en Dwengo. De namen moeten afwisselend versch
 
 Oplossing:
 
-**Voorbeeld 2**
+![](@blockly/Voorbeeld2.xml)
 
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

@@ -40,7 +40,7 @@ In 1495 ontwierp Leonardo da Vinci een ‘mechanische leeuw' die kon voortbewege
 Parallel met de ontwikkeling van zo’n industriële robots startten onderzoekers in 1950 met het systematisch bouwen van robots met poten. De meest bekende afstammelingen hiervan zijn ongetwijfeld Honda’s ASIMO (die een menselijke gedaante heeft) en Sony’s Aibo (een robothond).  
 Bovendien houden onderzoekers zich niet alleen bezig met de mechanische bouw: ze focussen ook meer en meer op de sociale vaardigheden van robots. KISMET van MIT, uit de jaren negentig, lacht bijvoorbeeld naar je. Robots met gelaatsexpressie worden onder andere ingezet als baliemedewerkers in hotels of ziekenhuizen.
 
-*Uit wat bestaat een robot?* 
+*Waaruit bestaat een robot?* 
 
 Een robot bestaat uit hardware (zijn lichaam, met bedrading, rekeneenheid en batterijen) en software (het programma dat hem aanstuurt).  
 Het ‘lichaam’ van een robot bevat mechanische onderdelen die uit veel materialen kunnen bestaan: wielen, een arm, een hoofd, ...  
