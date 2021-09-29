@@ -39,7 +39,7 @@ teacher_exclusive: false
 
 Deelnemeers kunnen gebruikmaken van de voorziene **stencils** (zie afbeelding) om de uitsparingen in het karton gemakkelijker uit te snijden. Het uitsnijden kan vervolgens met het bijgeleverde **mesje** gebeuren of door het prikken met de bijgeleverde **priem** in de voorziene gleuven. Er zit een snijmat in de kit die kan dienen als stabiele ondergrond. Er is ook een metalen liniaal voor als je grotere vormen wil uitsnijden.
 
-![](https://www.youtube.com/embed/AYcoFGi99Ns "Montage")
+![](@youtube/https://www.youtube.com/embed/AYcoFGi99Ns "Montage")
 
 **Opgelet**
 
@@ -160,7 +160,7 @@ Wees voorzichtig wanneer je het arm-hulpstukje weer van de servomotor wil verwij
 
 In tegenstelling tot de dc-motor is de volgorde van de kabels bij aansluiting op de Dwenguino wel van belang om de motor niet stuk te maken. Je kan de kleuren van de kabels als referentie nemen, waarbij bruin steeds de GND-pin (-) is.
 
-![](https://www.youtube.com/embed/skUcew02LGw "servomotor")
+![](@youtube/https://www.youtube.com/embed/skUcew02LGw "servomotor")
 
 
 ### Sonar-sensor
