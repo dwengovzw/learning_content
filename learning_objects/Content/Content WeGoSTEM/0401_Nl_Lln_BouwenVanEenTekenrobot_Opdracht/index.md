@@ -35,7 +35,7 @@ teacher_exclusive: false
 
 Nu je een idee hebt van hoe een robot werkt, kan je beginnen aan het bouwen van de robot zelf! Dit zal je doen door gebruik te maken van de [foto](embed/Voorbeeld.pdf "afgewerkte robot") en de componenten uit het doosje.
 
-![](@pdf/embed/Voorbeeld.PNG "afgewerkte robot")
+![](embed/Voorbeeld.PNG "afgewerkte robot")
 
 Probeer dit zeker eerst te doen a.d.h.v. de afbeelding! Als het niet lukt om de robotarm te bouwen op basis van de foto, bekijk dan onderstaand filmpje.
 
