@@ -38,9 +38,9 @@ In dit onderdeel wordt er kort wat context gegeven omtrent de geschiedenis en bo
 
 ## Materiaal voor in de klas
 
-[Foto's](https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt ook meegeleverd)
+[Foto's](@pdf/embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt ook meegeleverd)
 
-![](@pdf/https://scholen.dwengo.org/downloads/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek")
+![](@pdf/embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek")
 
 
 
