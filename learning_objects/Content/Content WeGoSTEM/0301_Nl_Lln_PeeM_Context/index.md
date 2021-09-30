@@ -33,7 +33,7 @@ teacher_exclusive: false
 
 # Programmeer eens een mens
 
-![](embed/PeeMKind.jpg) "Programmeer eens een mens")
+![](embed/PeeMKind.jpg "Programmeer eens een mens")
 
 #### Inleiding
 Opdat robots zinvolle dingen zouden kunnen doen, moeten ze geprogrammeerd worden. Dat wil zeggen dat ze ondubbelzinnige instructies moeten krijgen. Robots kunnen immers niet interpreteren en voeren iedere instructie die je ze geeft, letterlijk uit. Het schrijven van die instructies, noemen we programmeren. 
