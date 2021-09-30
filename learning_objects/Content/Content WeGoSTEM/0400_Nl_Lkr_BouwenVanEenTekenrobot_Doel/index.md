@@ -46,4 +46,4 @@ Voor het bouwen van de tekenrobot hebben we voor elk groepje een foto voorzien. 
 * [foto](images/Voorbeeld.pdf "afgewerkte robot") met afgewerkte robot (wordt ook meegeleverd)
 
 
-![](images/Voorbeeld.PNG "Afgewerkte robot")
+![](images/Voorbeeld.png "Afgewerkte robot")

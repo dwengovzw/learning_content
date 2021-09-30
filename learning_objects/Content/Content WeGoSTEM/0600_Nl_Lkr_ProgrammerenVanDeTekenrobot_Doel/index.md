@@ -35,7 +35,7 @@ teacher_exclusive: true
 
 Het is niet de bedoeling dat u de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
 
-Er is wat ondersteuning voorzien voor de leerlingen in het leerpad zelf, waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. De voorbereidinde leerobjecten omvatten:
+Er is wat ondersteuning voorzien voor de leerlingen in het leerpad zelf, waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. De voorbereidende leerobjecten omvatten:
 
 1. Hun naam schrijven op het lcd
 2. De robot pas laten starten wanneer een knopje ingedrukt wordt
