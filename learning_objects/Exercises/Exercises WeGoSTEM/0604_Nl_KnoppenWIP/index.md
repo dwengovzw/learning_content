@@ -1,5 +1,5 @@
 ---
-hruid: Knoppen-v1
+hruid: KnoppenWGS-v1
 version: 3
 language: nl
 title: Knoppen

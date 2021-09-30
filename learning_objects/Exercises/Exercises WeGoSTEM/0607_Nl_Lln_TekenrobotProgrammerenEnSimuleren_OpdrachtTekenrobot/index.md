@@ -1,5 +1,5 @@
 ---
-hruid: OpdrachtTekenrobot-v1
+hruid: ExperimenterenMotorenWGS-v1
 version: 3
 language: nl
 title: Opdracht tekenrobot

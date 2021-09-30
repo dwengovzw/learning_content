@@ -1,5 +1,5 @@
 ---
-hruid: Lkr_lcd_Voorbeeld-v1
+hruid: lkr_lcdWGS-v1
 version: 3
 language: nl
 title: Lcd Voorbeeld

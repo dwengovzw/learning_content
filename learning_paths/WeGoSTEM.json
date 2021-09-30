@@ -209,7 +209,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "lcd-v1",
+            "hruid": "lcdWGS-v1",
             "version": "3",
             "language": "nl"
           }
@@ -217,14 +217,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lcd-v1",
+      "learningobject_hruid": "lcdWGS-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_lcd_Voorbeeld-v1",
+            "hruid": "Lkr_lcdWGS-v1",
             "version": "3",
             "language": "nl"
           }
@@ -232,14 +232,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_lcd_Voorbeeld-v1",
+      "learningobject_hruid": "Lkr_lcdWGS-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Wacht-v1",
+            "hruid": "WachtWGS-v1",
             "version": "3",
             "language": "nl"
           }
@@ -247,14 +247,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Wacht-v1",
+      "learningobject_hruid": "WachtWGS-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_Wacht_Voorbeeld-v1",
+            "hruid": "Lkr_WachtWGS-v1",
             "version": "3",
             "language": "nl"
           }
@@ -262,14 +262,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_Wacht_Voorbeeld-v1",
+      "learningobject_hruid": "Lkr_WachtWGS-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Knoppen-v1",
+            "hruid": "KnoppenWGS-v1",
             "version": "3",
             "language": "nl"
           }
@@ -277,14 +277,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Knoppen-v1",
+      "learningobject_hruid": "KnoppenWGS-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_Knoppen_Voorbeeld-v1",
+            "hruid": "Lkr_KnoppenWGS-v1",
             "version": "3",
             "language": "nl"
           }
@@ -292,14 +292,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_Knoppen_Voorbeeld-v1",
+      "learningobject_hruid": "Lkr_KnoppenWGS-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "UitlegTekenrobot-v1",
+            "hruid": "MotorenWGS-v1",
             "version": "3",
             "language": "nl"
           }
@@ -307,14 +307,14 @@
       ]
     },
     {
-      "learningobject_hruid": "UitlegTekenrobot-v1",
+      "learningobject_hruid": "MotorenWGS-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "OpdrachtTekenrobot-v1",
+            "hruid": "ExperimenterenMotorenWGS-v1",
             "version": "3",
             "language": "nl"
           }
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "learningobject_hruid": "OpdrachtTekenrobot-v1",
+      "learningobject_hruid": "ExperimenterenMotorenWGS-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
