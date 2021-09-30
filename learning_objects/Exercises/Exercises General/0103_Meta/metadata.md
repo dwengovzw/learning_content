@@ -1,5 +1,5 @@
 ---
-hruid: LDCM2-v1
+hruid: LCDM2-v1
 version: 3
 language: nl
 title: Meta
