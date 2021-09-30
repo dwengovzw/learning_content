@@ -1,5 +1,5 @@
 ---
-hruid: UitlegTekenrobot-v1
+hruid: MotorenWGS-v1
 version: 3
 language: nl
 title: Uitleg tekenrobot

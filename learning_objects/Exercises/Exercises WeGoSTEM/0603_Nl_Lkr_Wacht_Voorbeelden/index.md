@@ -1,5 +1,5 @@
 ---
-hruid: Lkr_Wacht_Voorbeeld-v1
+hruid: Lkr_WachtWGS-v1
 version: 3
 language: nl
 title: Wacht Voorbeeld
