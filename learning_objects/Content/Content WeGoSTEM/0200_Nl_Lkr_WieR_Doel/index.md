@@ -31,14 +31,4 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Voorbereiding - Wat is een robot? 
-## 10 - 15 minuten tijdens les
-
-[Foto's](embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt ook meegeleverd)
-
-![](embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek")
-
-
-
-
-
+Test
