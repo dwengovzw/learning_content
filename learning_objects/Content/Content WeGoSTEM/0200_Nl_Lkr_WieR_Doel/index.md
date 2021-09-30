@@ -34,4 +34,12 @@ teacher_exclusive: true
 # Voorbereiding - Wat is een robot? 
 ## 10 - 15 minuten in de klas
 
+### Wat gebeurt er in de klas?
 In dit onderdeel wordt er kort wat context gegeven omtrent de geschiedenis en bouw van robots. Dit schept inzicht bij de leerlingen over het nut, de bouw en de werking van robots.
+
+## Voorbereiding
+### Materiaal voor in de klas
+
+[Foto's](embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt meegeleverd)
+
+![](embed/WeGoSTEMrobotfotos.pdf)
