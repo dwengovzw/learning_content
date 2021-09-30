@@ -39,7 +39,7 @@ Laat 'Welkom robot' op het lcd-scherm verschijnen.
 
 Oplossing:
 
-![](@learning-object/LCDM1-v1/nl/3)
+![blockly](@learning-object/LCDM1-v1/nl/3)
 
 De tekst 'Welkom robot' kan je aanpassen. De twee nullen betekenen: eerste lijn, eerste karakter.
 
@@ -50,7 +50,7 @@ Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.
 
 Oplossing:
 
-![](@learning-object/LCDM2-v1/nl/3)
+![blockly](@learning-object/LCDM2-v1/nl/3)
 
 Om de tekst in 2 rijen te splitsen, heb je een tweede *'lcd-scherm'-blok* nodig.
 Verander je bij 'op rij:' de 0 in een 1, dan komt je tekst op de tweede lijn.
@@ -62,7 +62,7 @@ Plaats de tekst nu ook in het midden van het LCD-scherm.
 
 Oplossing:
 
-![](@learning-object/LCDM3-v1/nl/3)
+![blockly](@learning-object/LCDM3-v1/nl/3)
 
 Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 4 plaatsen op naar rechts.
 
