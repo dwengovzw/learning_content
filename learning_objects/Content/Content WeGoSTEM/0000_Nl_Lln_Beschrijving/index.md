@@ -30,12 +30,6 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-
-
-
-
-
 ## Wat ga je doen?
 
 In dit leerpad ga je uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!

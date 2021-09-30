@@ -36,7 +36,10 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 * Kies in de simulatieomgeving voor het scenario van de tekenrobot (spirograaf).
 
 * Ga in de categorie ![alt](embed/Afb2.png "Afb. Dwenguino") op zoek naar dit blok:  
+
+
 ![alt](embed/Afb9.jpg "Afb. lcd")
+
 
 * Sleep dit blok naar het codeveld en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.
 
