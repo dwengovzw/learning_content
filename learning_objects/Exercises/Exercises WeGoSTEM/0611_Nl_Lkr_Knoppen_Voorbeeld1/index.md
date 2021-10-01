@@ -42,4 +42,4 @@ Oplossing:
 
 ![blockly](@learning-object/KNOPWGS1-v1/nl/3)
 
-*Test deze voorbeeldjes alvast eens uit in de simulator!*
+*Test deze voorbeelden ook zelf uit in de simulator!*

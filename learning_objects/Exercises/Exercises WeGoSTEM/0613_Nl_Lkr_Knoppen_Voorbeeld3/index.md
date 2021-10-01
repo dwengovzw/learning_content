@@ -66,4 +66,4 @@ Oplossing:
 
 
 
-*Test deze voorbeeldjes alvast eens uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
