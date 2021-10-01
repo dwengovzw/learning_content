@@ -44,7 +44,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "WatIsEenRobot-v1",
+            "hruid": "WieR1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -52,7 +52,37 @@
       ]
     },
     {
-      "learningobject_hruid": "WatIsEenRobot-v1",
+      "learningobject_hruid": "WieR1-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "WieR2-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "WieR2-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "WieR3-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "WieR3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
