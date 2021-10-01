@@ -29,5 +29,5 @@ skos_concepts: [
 ]
 ---
 
-![notebook](@learning-object/Parameters-v1/nl/3)
+![notebook](@learning-object/MParameters-v1/nl/3)
 
