@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 In dit leerpad ga je uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!
 
-![](@youtube/https://www.youtube.com/embed/w-s2-Vn-OTs)
+![](@youtube/https://www.youtube.com/embed/5zK8zEZL7rk)
 
 Voor je hiermee aan de slag kunt, zal je wel eerst enkele supertoffe opdrachten moeten uitvoeren om je een beter idee te geven over hoe je het moet aanpakken. 
 

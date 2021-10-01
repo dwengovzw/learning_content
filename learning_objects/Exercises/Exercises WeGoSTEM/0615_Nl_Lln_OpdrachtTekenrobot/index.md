@@ -64,4 +64,4 @@ Als je niet reeds stiekem begonnen bent, is het nu eindelijk tijd om zelf met je
 
 Indien er nog iets onduidelijk is, vat het onderstaande filmpje nog eens alles samen.
 
-![alt](@youtube/https://www.youtube.com/embed/4e1iohfi9rw "Video WeGoSTEM")
+![alt](@youtube/https://www.youtube.com/embed/XPbozIs9NcE "Video WeGoSTEM")
