@@ -30,7 +30,6 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# WIP
 ## Wacht
 
 Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
