@@ -42,9 +42,6 @@ De leerlingen programmeren elkaar om een tekening te maken. Eén leerling is de 
 Leerlingen leren hoe ze een relatief moeilijk probleem kunnen oplossen door het op te splitsen in kleine stappen. Ze moeten heel precieze instructies geven en dit in de juiste volgorde. 
 Aandachtspunt: Hou de tijd in de gaten!
 
-## Voorbereiding
-### Materiaal voor in de klas
-
 * Pen en papier (zelf voorzien)
 * [Afbeeldingen](embed/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens") voor de oefening (wordt ook meegeleverd). Begin met de eenvoudigste tekening!
 
