@@ -45,7 +45,7 @@ Voorbeelden van actuatoren zijn een lcd-scherm, een zoemer en een servomotor. Jo
 
 Cruciaal is de rekeneenheid waarmee je robot ‘beslissingen’ neemt. Hiervoor gebruik je bijvoorbeeld een processor (zoals in een computer) of een microcontroller (zoals op de Dwenguino). 
 
-![](embed/Dwenguinoborddje.png "Rekeneenheid")
+![](embed/Dwenguinobordje.png "Rekeneenheid")
 
 De bedrading zorgt ervoor dat de rekeneenheid, de sensoren en de actuatoren met elkaar in verbinding staan. Hoe de robot zijn actuatoren aanstuurt, hangt af van de informatie die hij verzamelt via zijn sensoren en van de manier waarop de rekeneenheid geprogrammeerd is. De batterijen in de robot voorzien de motoren van de nodige energie. 
 
