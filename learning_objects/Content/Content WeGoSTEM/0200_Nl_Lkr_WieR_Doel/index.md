@@ -39,3 +39,7 @@ In dit onderdeel wordt er kort wat context gegeven omtrent de geschiedenis en bo
 
 ## Voorbereiding
 ### Materiaal
+
+[Foto's](@pdf/embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt meegeleverd)
+
+![](@pdf/embed/WeGoSTEMrobotfotos.pdf)
