@@ -224,7 +224,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_lcdWGS-v1",
+            "hruid": "Lkr_lcdWGS1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -232,7 +232,37 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_lcdWGS-v1",
+      "learningobject_hruid": "Lkr_lcdWGS1-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Lkr_lcdWGS2-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Lkr_lcdWGS2-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Lkr_lcdWGS3-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Lkr_lcdWGS3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -254,7 +284,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS-v1",
+            "hruid": "Lkr_WachtWGS1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -262,7 +292,52 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS-v1",
+      "learningobject_hruid": "Lkr_WachtWGS1-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Lkr_WachtWGS2-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Lkr_WachtWGS2-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Lkr_WachtWGS3-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Lkr_WachtWGS3-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Lkr_WachtWGS4-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Lkr_WachtWGS4-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -284,7 +359,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_KnoppenWGS-v1",
+            "hruid": "Lkr_KnoppenWGS1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -292,7 +367,22 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_KnoppenWGS-v1",
+      "learningobject_hruid": "Lkr_KnoppenWGS1-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Lkr_KnoppenWGS2-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Lkr_KnoppenWGS2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
