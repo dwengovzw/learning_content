@@ -44,8 +44,8 @@ Voor het bouwen van de tekenrobot hebben we voor elk groepje een foto voorzien. 
 ## Voorbereiding
 ### Materiaal voor in de klas
 
-* Doosje met robotcomponenten (wordt ook meegeleverd)
-* [foto](images/Voorbeeld.pdf "afgewerkte robot") met afgewerkte robot (wordt ook meegeleverd)
+* Doosje met robotcomponenten (wordt meegeleverd)
+* [foto](images/Voorbeeld.pdf "afgewerkte robot") met afgewerkte robot (wordt meegeleverd)
 
 
 ![](images/Voorbeeld.PNG "Afgewerkte robot")
