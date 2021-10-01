@@ -224,7 +224,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_lcdWGS1-v1",
+            "hruid": "lkr_lcdWGS1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -232,14 +232,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_lcdWGS1-v1",
+      "learningobject_hruid": "lkr_lcdWGS1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_lcdWGS2-v1",
+            "hruid": "lkr_lcdWGS2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -247,14 +247,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_lcdWGS2-v1",
+      "learningobject_hruid": "lkr_lcdWGS2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_lcdWGS3-v1",
+            "hruid": "lkr_lcdWGS3-v1",
             "version": "3",
             "language": "nl"
           }
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_lcdWGS3-v1",
+      "learningobject_hruid": "lkr_lcdWGS3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
