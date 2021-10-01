@@ -42,7 +42,7 @@ Een motor aansturen doe je met een *'motor'-blok*:
 Met dit blok controleer je de snelheid en de draaizin van de motor.
 
 
-![](embed/positiemotorentekenrobot.png "Afb. Tekenrobot")
+![](embed/positiemotorentekenrobot.jpg "Afb. Tekenrobot")
 
 Op de plaats van de onderste rode bolletjes bevinden zich de motoren.
 De twee motoren hebben nummers: de linkse motor is motor nummer 1 en de rechtse motor is motor nummer 2. Dit komt overeen met het nummer dat je ziet naast de tekst “nummer” op het *'motor'-blok*. 
