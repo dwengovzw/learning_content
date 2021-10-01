@@ -37,6 +37,5 @@ teacher_exclusive: true
 ### Wat gebeurt er in de klas?
 In dit onderdeel wordt er kort wat context gegeven omtrent de geschiedenis en bouw van robots. Dit schept inzicht bij de leerlingen over het nut, de bouw en de werking van robots.
 
-[Foto's](embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt meegeleverd)
-
-![](embed/WeGoSTEMrobotfotos.pdf)
+## Voorbereiding
+### Materiaal
