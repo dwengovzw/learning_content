@@ -28,11 +28,11 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Sociale robot unplugged
 
 Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren.
 
-Tijdens deze inleidende activiteiten focus je op het geven van een 'gezicht' aan de robot. Hoe kan je emoties en gelaatsuitdrukkingen programmeren bij robots?
+Tijdens de inleidende activiteiten focus je op het geven van een 'gezicht' aan de robot. Hoe kan je emoties en gelaatsuitdrukkingen programmeren bij robots?
