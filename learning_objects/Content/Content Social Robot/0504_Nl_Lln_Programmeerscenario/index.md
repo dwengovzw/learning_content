@@ -53,25 +53,26 @@ In het 'rijdende robot'-scenario staat er al een rijdende robot klaar op het sim
 
 Het scenario van de sociale robot ziet er zo uit:
 
-**Afbeelding SR scenario**
+![](embed/ScenarioSR.png "Scenario Sociale Robot")
 
 De volgende onderdelen worden ook getoond in dit [filmpje](https://www.youtube.com/watch?v=_Scu3aiCK8k&feature=youtu.be "filmpje onderdelen SR")
 
 
 **Achtergrond veranderen**
 
-In het 'sociale robot'-scenario is er in het begin enkel een lichaam van de robot aanwezig. Je moet zelf nog selecteren welke onderdelen je op dit lichaam wil bevestigen. Voor het lichaam heb je de keuze tussen: een kartonnen doos, een bloempotje of een melkdoos. Je kan wisselen van achtergrond met het icoontje rechts onderaan **afbeelding wisselicoon**.
+In het 'sociale robot'-scenario is er in het begin enkel een lichaam van de robot aanwezig. Je moet zelf nog selecteren welke onderdelen je op dit lichaam wil bevestigen. Voor het lichaam heb je de keuze tussen: een kartonnen doos, een bloempotje of een melkdoos. Je kan wisselen van achtergrond met het icoontje rechts onderaan ![](embed/Wissel.png "Wisselicoon").
 
 
 **Robotonderdelen toevoegen of verwijderen**
 
 Onder het simulatiemenu vind je de robotonderdelen uit het overzicht terug:
 
-**afbeelding robotonderdelen**
+![](embed/Onderdelen1.png "Onderdelen")  
+![](embed/Onderdelen2.png "Onderdelen")
 
-Door gebruik te maken van de knoppen onder de robotonderdelen (**knop plusmin onderdelen**) kan je een robotonderdeel toevoegen aan of verwijderen van het lichaam van de robot.
+Door gebruik te maken van de knoppen onder de robotonderdelen ![](embed/OnderdelenKnoppen.png "Knoppen") kan je een robotonderdeel toevoegen aan of verwijderen van het lichaam van de robot.
 
-Als je op **afbeelding +** klikt verschijnt het nieuwe robotonderdeel op het simulatieveld. Je kan van elk robotonderdeel maar een beperkt aantal toevoegen, omdat de aansluitingen op het Dwenguino-bord gelimiteerd zijn. Op het simulatieveld kan je het robotonderdeel verplaatsen door te slepen met de muis.
+Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robotonderdeel op het simulatieveld. Je kan van elk robotonderdeel maar een beperkt aantal toevoegen, omdat de aansluitingen op het Dwenguino-bord gelimiteerd zijn. Op het simulatieveld kan je het robotonderdeel verplaatsen door te slepen met de muis.
 
 
 **Voorbeeld**

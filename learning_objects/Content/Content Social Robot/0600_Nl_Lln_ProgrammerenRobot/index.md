@@ -35,8 +35,8 @@ teacher_exclusive: false
 
 In het **hoofdmenu** vind je algemene functies terug voor het beheren van je programma:
 
-**Afbeelding menu**
+![](embed/Hoofdmenu.png "Hoofdmenu")
 
 Het **simulatormenu** bevat de volgende knoppen om je programma uit te voeren:
 
-**afbeelding simulatormenu**
+![](embed/Simulatormenu.png "Simulatormenu")
