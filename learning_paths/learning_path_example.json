@@ -6,7 +6,7 @@
   "image": "base64 representation of image attached to the learning path",
   "nodes": [
     {
-      "learningobject_hruid": "opdracht_leds",
+      "learningobject_hruid": "Xopdracht_leds",
       "language": "nl",
       "version": "2",
       "start_node": true,
