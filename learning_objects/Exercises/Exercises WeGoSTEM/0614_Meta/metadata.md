@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: Copyright by dwengo vzw.
 licence: CC by dwengo vzw.
-content_type: blockly
+content_type: text/markdown
 available: true
 target_ages: [4, 3]
 difficulty: 3

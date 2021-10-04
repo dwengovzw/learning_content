@@ -30,5 +30,5 @@ skos_concepts: [
 ]
 ---
 # ook vernieuwd! (en nu helemaal)
-[pdf](pdfs/vergadering.pdf "dit is een pdf")
-![](pdfs/vergadering.pdf)
+[pdf](@pdf/pdfs/vergadering.pdf "dit is een pdf")
+![](@pdf/pdfs/vergadering.pdf)
