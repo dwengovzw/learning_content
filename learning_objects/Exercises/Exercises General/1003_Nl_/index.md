@@ -1,10 +1,10 @@
 ---
-hruid: t-v1
+hruid: Uitbreiding_Reclamebord-v1
 version: 3
 language: nl
-title: t
-description: t
-keywords: [StartToDwenguino]
+title: uitbreiding reclamebord
+description: Uitbreiding reclamebord
+keywords: [StartToDwenguino, lcd, wacht]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
