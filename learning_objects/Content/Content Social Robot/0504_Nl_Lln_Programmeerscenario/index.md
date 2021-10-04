@@ -79,7 +79,8 @@ Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robot
 
 Servomotor en led-matrix werden toegevoegd aan het simulatieveld en versleept naar hun gewenste locatie:
 
-**Afbeelding SR voorbeeld**
+![](embed/SRVoorbeeld11.png "Onderdelen")
+![](embed/SRVoorbeeld12.png "Scenario")
 
 
 **Eigenschappen aanpassen**
@@ -95,11 +96,11 @@ Als je dubbelklikt op de servomotor op het simulatieveld, krijg je de eigenschap
 
 * Het uiterlijk van de servomotor kan je hier ook selecteren.
 
-**afbeelding pinnen**
+![](embed/ScenarioPinnen.png "Pinnen")
 
 
 **Robotontwerp downloaden en weer inladen**
 
-**afbeelding robotontwerp**
+![](embed/DownEnUpload.png "Knoppen")
 
 Wil je het robotontwerp bewaren om volgende keer verder te werken? Dat kan! In het simulatieveld van de sociale robot zijn knoppen voorzien om het ontwerp te downloaden of in te laden. Vergeet niet na het downloaden het bestand een geschikte naam te geven en op te slaan op je computer.
