@@ -40,7 +40,7 @@ OPGAVE 1
 
 Oplossing:
 
-![](@blockly/blocks.xml)
+
 
 
 
@@ -51,7 +51,7 @@ OPGAVE 2
 
 Oplossing:
 
-![](@blockly/blocks.xml)
+
 
 
 
@@ -62,7 +62,7 @@ OPGAVE 3
 
 Oplossing:
 
-![](@blockly/blocks.xml)
+
 
 
 
