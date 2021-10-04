@@ -35,9 +35,9 @@ teacher_exclusive: false
 
 ## Uitsnijden van de uitsparingen
 
-**Afbeelding stencil**
+![](embed/Stencil.png "Stencil")
 
-Deelnemeers kunnen gebruikmaken van de voorziene **stencils** (zie afbeelding) om de uitsparingen in het karton gemakkelijker uit te snijden. Het uitsnijden kan vervolgens met het bijgeleverde **mesje** gebeuren of door het prikken met de bijgeleverde **priem** in de voorziene gleuven. Er zit een snijmat in de kit die kan dienen als stabiele ondergrond. Er is ook een metalen liniaal voor als je grotere vormen wil uitsnijden.
+Deelnemers kunnen gebruikmaken van de voorziene **stencils** (zie afbeelding) om de uitsparingen in het karton gemakkelijker uit te snijden. Het uitsnijden kan vervolgens met het bijgeleverde **mesje** gebeuren of door het prikken met de bijgeleverde **priem** in de voorziene gleuven. Er zit een snijmat in de kit die kan dienen als stabiele ondergrond. Er is ook een metalen liniaal voor als je grotere vormen wil uitsnijden.
 
 ![](@youtube/https://www.youtube.com/embed/AYcoFGi99Ns "Montage")
 
@@ -83,7 +83,7 @@ Vooraleer je de onderdelen bevestigt op het lichaam van de robot, kan je best ee
 
 Onderstaande afbeelding toont welke onderdelen aanwezig zijn op de Dwenguino en welke actuatoren hier rechtstreeks op kunnen worden aangesloten.
 
-**Afbeelding dwenguino**
+![](embed/Assemblage1.png "Dwenguino")
 
 *Op de Dwenguino kunnen rechtstreeks twee dc-motoren en twee servomotoren worden aangesloten. Het contrastvan het lcd-scherm kan worden aangepast. Je kan het microcontrollerplatform van stroom voorzien via de USB-kabel of een adapter.*
 
@@ -99,7 +99,8 @@ Het voordeel van een breadboard te gebruiken is dat de connectoren op het breadb
 
 Wees voorzichtig wanneer je het breadboard en de Dwenguino aan elkaar koppelt of van elkaar haalt. De pinnen kunnen gemakkelijk buigen als je te veel kracht gebruikt, waardoor het breadboard en de Dwenguino niet meer goed op elkaar aansluiten.
 
-**Voorbeeldafbeelding dwenguino met breadboard**
+![](embed/Assemblage2.png "Dwenguino")  
+![](embed/Assemblage3.png "Dwenguino")
 
 *Led-matrix aangesloten op het breadboard van de Dwenguino. De led-matrix kan nadien vastgemaakt worden op het lichaan van de robot.*
 
@@ -108,8 +109,7 @@ Wees voorzichtig wanneer je het breadboard en de Dwenguino aan elkaar koppelt of
 
 Als je geen breadboard gebruikt (bijvoorbeeld omdat er niet voldoende plaats is in de robot), dan kan je de sensoren rechtstreeks op de extension connector aansluiten. Gebruik daarvoor het onderstaande diagram om de functie van elke aansluiting na te gaan.
 
-**afbeelding extension connector**
-
+![](embed/Assemblage4.png "Dwenguino")
 
 ### Controleren van de aansluitpinnen
 
@@ -124,9 +124,13 @@ Onderstaande afbeelding toont de standaard pinnummers voor de verschillende sens
 
 * Deze onderdelen moeten nog verbonden worden met de Dwenguino. Je kan dus gebruikmaken van de default pinnummers zoals ze in de simulator voorzien zijn (aangeraden) of eigen pinnummers kiezen.
 
+![](embed/Assemblage5.png "Onderdelen")
+
 **lcd, buzzer, led 0-7 en 13, drukknoppen NOORD, OOST, WEST, ZUID, CENTRAAL, dc-motor 1 en 2, servomotor 1 en 2**
 
 * Deze onderdelen zijn al voorzien op de microcontroller en de pinnummers kunnen dus niet aangepast worden.
+
+![](embed/Assemblage6.png "Onderdelen")
 
 
 ## Bevestigen van sensoren en actuatoren
@@ -138,7 +142,8 @@ Controleer of je eerst de bedrading van de sensoren en actuatoren in orde moet b
 
 Bij het Dwengo-materiaal zit een kit met hulpstukjes voor de bevestiging van de verschillende sensoren en actuatoren. Het materiaal van de kit ziet er ongeveer zo uit:
 
-**afbeeldingdwenguino schematic?**
+![](embed/Assemblage7.png "Dwenguino")
+
 
 Daarnaast is er een doos met verschillende soorten bouten (dikte steeds 3 mm, maar van verschillende lengte) en moeren. Die kan je gebruiken voor alle onderdelen.
 
@@ -156,6 +161,12 @@ De dc-motor kan door middel van twee bouten en moeren worden vastgezet op een an
 
 Wees voorzichtig wanneer je het arm-hulpstukje weer van de servomotor wil verwijderen, want het is fragiel. Gebruik zeker twee handen, zodat het arm-hulpstukje niet breekt.
 
+
+### Servomotor
+
+De servomotor zet je vast met een hulpstukje en twee bouten en moeren. Je moet bovendien zorgen dat er een uitsnijding is voor het uitstekende deel. 
+Het onderdeel dat je op de as van de servomotor wil bevestigen, kan je uitrusten met het arm-hulpstukje voor de servomotor. Zo kan je het onderdeel nadien gemakkelijk vastklikken op de as van de servomotor. Nadat het onderdeel is vastgeklikt, kan je het eventueel vastzetten met het extra schroefje dat in de verpakking van de servomotor zit. 
+
 **Opgelet**
 
 In tegenstelling tot de dc-motor is de volgorde van de kabels bij aansluiting op de Dwenguino wel van belang om de motor niet stuk te maken. Je kan de kleuren van de kabels als referentie nemen, waarbij bruin steeds de GND-pin (-) is.
@@ -171,3 +182,6 @@ De bevestiging van de sonar-sensor is eenvoudig. Nadat je de twee gaten (met beh
 ### Geluidssensor
 
 De geluidssensor kan op dezelfde manier bevestigd worden als de sonar-sensor.
+
+
+### Led-matrix

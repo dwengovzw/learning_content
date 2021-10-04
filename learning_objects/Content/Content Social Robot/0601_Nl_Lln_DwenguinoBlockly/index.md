@@ -35,7 +35,7 @@ teacher_exclusive: false
 
 ### Code uitvoeren
 
-Je kan je DwenguinoBlockly-programma uitvoeren in het gekozen scenario van de simulator om te kijken wat het resultaat zal zijn op de Dwenguino. De simulatie kan bediend worden met de knoppen uit het simulatormenu. Zo kan je de simulatie starten met **knop play** en stoppen met **knop stop**.
+Je kan je DwenguinoBlockly-programma uitvoeren in het gekozen scenario van de simulator om te kijken wat het resultaat zal zijn op de Dwenguino. De simulatie kan bediend worden met de knoppen uit het simulatormenu. Zo kan je de simulatie starten met ![](embed/Playknop.png "Play") en stoppen met ![](embed/Stopknop.png "Stop").
 
 ![](@youtube/https://www.youtube.com/embed/hmr5smg7l8Y "voorbeeld")
 
@@ -44,17 +44,17 @@ Afhankelijk van het gekozen scenario zal je een andere simulatie te zien krijgen
 
 ### Debuggen
 
-Doet je code niet wat je verwacht, dan kan je de code debuggen met **knop stapsgewijs**: je spoort fouten op door de code blok per blok uit te voeren. Telkens je op de debug-knop klikt, wordt het volgende blok uit je programma uitgevoerd en gesimuleerd. Je kan dan op je eigen tempo ontdekken waar er een foute blok in het programma zit. Wil je niet vanaf het eerste blok debuggen? Dan kan je de simulatie eerst starten en pauzeren met **knop pauze** waar je wil starten met debuggen.
+Doet je code niet wat je verwacht, dan kan je de code debuggen met ![](embed/Stapknop.png "Stap"): je spoort fouten op door de code blok per blok uit te voeren. Telkens je op de debug-knop klikt, wordt het volgende blok uit je programma uitgevoerd en gesimuleerd. Je kan dan op je eigen tempo ontdekken waar er een foute blok in het programma zit. Wil je niet vanaf het eerste blok debuggen? Dan kan je de simulatie eerst starten en pauzeren met ![](embed/Pauzeknop.png "Pauze") waar je wil starten met debuggen.
 
 ![](@youtube/https://www.youtube.com/embed/PhblfDjUXPQ&list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu&index=2 "Lijst simulatortutorials")
 
 
 ### Code uploaden naar de Dwenguino
 
-In het hoofdmenu (en dus niet in het simulatormenu) kan je ook de knop **uploaden** vinden om je programma te uploaden naar de fysieke Dwenguino. Zorg ervoor dat de Dwenguino verbonden is met de computer m.b.v. de bijgeleverde USB-kabel.
+In het hoofdmenu (en dus niet in het simulatormenu) kan je de knop ![](embed/Upload.png "Upload") vinden om je programma te uploaden naar de fysieke Dwenguino. Zorg ervoor dat de Dwenguino verbonden is met de computer m.b.v. de bijgeleverde USB-kabel.
 
 
-Tijdens het uploaden verandert het robot-icoontje **icoon robot** in een draaiend tandwieltje **icoon tandwiel**. Op het lcd-scherm van de Dwenguino verschijnt een boodschap om aan te geven dat de microcontroller in gebruik is. Wanneer het robot-icoontje terug verschijnt, is het programma succesvol geüpload naar de Dwenguino
+Tijdens het uploaden verandert het robot-icoontje ![](embed/RobotIcoon.png "Robot icoon") in een draaiend tandwieltje ![](embed/Settings.png "Bezig"). Op het lcd-scherm van de Dwenguino verschijnt een boodschap om aan te geven dat de microcontroller in gebruik is. Wanneer het robot-icoontje terug verschijnt, is het programma succesvol geüpload naar de Dwenguino
 
 *Filmpje Hoe uploaden**
 
@@ -75,7 +75,7 @@ Volg deze stappen om het Dwenguino-bord te herstarten:
 
 * Los daarna de ZUID-knop;
 
-* Upload het programma opnieuw via de **play** in het hoofdmenu.
+* Upload het programma opnieuw via de ![](embed/Upload.png "Upload") in het hoofdmenu.
 
 
 2. Er zit een fout in je programma
