@@ -33,7 +33,7 @@ teacher_exclusive: true
 updated
 # link pdf
 
-[Vergadering pdf!](vergadering.pdf)
+[Vergadering pdf!](@pdf/vergadering.pdf)
 
 # link audio
 
@@ -62,11 +62,11 @@ updated
 
 # yt
 
-![](@youtube/https://www.youtube.com/watch?v=ANJ9JLV4IPg)
+![](@youtube/https://www.youtube.com/embed/ANJ9JLV4IPg)
 
 # pdf
 
-![](vergadering.pdf)
+![](@pdf/vergadering.pdf)
 
 # blocks
 
