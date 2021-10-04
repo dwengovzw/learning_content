@@ -31,7 +31,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Sociale Robot
+# Inleiding
+
+![Overgang van simulatie naar fysiek: verfijnen](embed/OvergangSimFys.png "Overgang van simulatie naar fysiek")
 
 Het project ‘Sociale robot’ start het best met een inleiding over sociale robots. Wat zijn sociale robots? Waar worden sociale robots ingezet? Hoe ziet de toekomst met sociale robots eruit? Hoe kan zo’n robot communiceren en kan hij ook emoties tonen? Een sociale robot die vlot in omgang is, is in staat om emoties te simuleren. Enkele unplugged activiteiten verschaffen inzicht aan de jongeren hoe een computerprogrammeur dat kan bewerkstelligen.   
 
