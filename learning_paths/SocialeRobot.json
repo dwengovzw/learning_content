@@ -135,21 +135,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "Robotontwerp-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Robotontwerp-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "Dwenguino_intro-v1",
             "version": "3",
             "language": "nl"
