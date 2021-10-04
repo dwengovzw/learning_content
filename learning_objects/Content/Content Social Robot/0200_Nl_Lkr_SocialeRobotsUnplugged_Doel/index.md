@@ -33,4 +33,4 @@ teacher_exclusive: true
 
 # Sociale robot unplugged
 
-Het doel van de volgende activiteiten is om de leerlingen kennis te laten maken met sociale robots. Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren, maar tijdens deze activiteit focussen we op het geven van een ‘gezicht’ aan de robot. We verkennen hoe we emoties of gelaatsuitdrukkingen kunnen programmeren bij robots. We doen dit via twee ‘unplugged’ opdrachten, namelijk programmeren zonder de computer: maak-een-gezicht en de emotiemachine. 
+Het doel van de volgende activiteiten is om de leerlingen kennis te laten maken met sociale robots. Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren, maar tijdens deze activiteit focussen we op het geven van een ‘gezicht’ aan de robot. We verkennen hoe we emoties of gelaatsuitdrukkingen kunnen programmeren bij robots. We doen dit via twee ‘unplugged’ opdrachten; programmeren zonder de computer: maak-een-gezicht en de emotiemachine. 

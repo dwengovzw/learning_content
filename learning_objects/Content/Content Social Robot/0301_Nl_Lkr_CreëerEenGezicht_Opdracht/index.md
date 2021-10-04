@@ -33,6 +33,8 @@ teacher_exclusive: true
 
 ## Maak een gezicht
 
+![gezichtje](embed/gezichtje.png "gezichtje")
+
 Programmeer gelaatsuitdrukkingen op een robotgezicht en simuleer emoties. Je doet dit zonder computer. Programmeer het zodanig dat het kan reageren op verschillende geluiden (vervelend, leuk, plots) en verschillende emoties kan tonen (verdrietig, blij, verrast).  Bedenk vervolgens nog enkele andere gelaatsuitdrukkingen en programmeer regels om het gezicht met de nieuwe uitdrukkingen op geluiden te laten reageren.
 
 ### Voorbereiding
@@ -66,7 +68,7 @@ Bekijk zeker het volgende filmpje en maak de onderdelen van het gezicht op voorh
 
 2. Geef elke persoon in het gezicht de bijbehorende instructies voor het besturen van hun object. Ze staan op het einde van deze activiteit. Ze zijn gemaakt van ALS-DAN regels:
 
-**Afbeelding Regels**
+![regels](embed/regels.png "regels")
 
 3. Leg uit dat ze moeten luisteren naar de geluiden van het publiek en dan de corresponderende actie moeten uitvoeren. De wenkbrauwen kunnen ze zo hoog houden als ze willen en verlagen tot net boven de ogen. De ogen kunnen wijd open of toegeknepen zijn. De mond kan in het midden naar beneden of naar boven wijzen of de twee buizen die elke persoon vasthoudt, kunnen worden geopend. De regels vertellen hen in welke stand ze moeten staan, afhankelijk van de geluiden die ze horen.
 

@@ -35,4 +35,4 @@ teacher_exclusive: true
 
 Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren.
 
-Tijdens deze activiteit focus je op het geven van een 'gezicht' aan de robot. Je verkent hoe je emoties of gelaatsuitdrukkingen kunt programmeren bij robots.
+Tijdens deze inleidende activiteiten focus je op het geven van een 'gezicht' aan de robot. Hoe kan je emoties en gelaatsuitdrukkingen programmeren bij robots?
