@@ -2,9 +2,9 @@
 hruid: ExperimenterenMotorenWGS-v1
 version: 3
 language: nl
-title: Opdracht tekenrobot
-description: Opdracht tekenrobot
-keywords: [WeGoSTEM]
+title: "Opdracht tekenrobot"
+description: "Opdracht tekenrobot"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

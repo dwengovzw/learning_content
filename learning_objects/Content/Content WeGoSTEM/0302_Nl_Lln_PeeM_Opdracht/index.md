@@ -2,9 +2,9 @@
 hruid: Besluit_ProgrammeerEensEenMens-v1
 version: 3
 language: nl
-title: Besluit Programmeer eens een Mens
-description: De activiteit
-keywords: [WeGoSTEM, activiteit]
+title: "Besluit Programmeer eens een Mens"
+description: "De activiteit"
+keywords: ["WeGoSTEM", "activiteit"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

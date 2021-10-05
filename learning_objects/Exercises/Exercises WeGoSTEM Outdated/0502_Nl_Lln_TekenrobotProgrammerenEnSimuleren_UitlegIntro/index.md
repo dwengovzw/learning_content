@@ -2,9 +2,9 @@
 hruid: Uitleg_ProgrammerenInDeSimulatie-v1
 version: 3
 language: nl
-title: Uitleg programmeren in de simulatie
-description: Uitleg
-keywords: [WeGoSTEM]
+title: "Uitleg programmeren in de simulatie"
+description: "Uitleg"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

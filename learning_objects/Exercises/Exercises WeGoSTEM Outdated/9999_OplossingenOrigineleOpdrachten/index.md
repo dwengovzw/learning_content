@@ -2,9 +2,9 @@
 hruid: OpdrachtExtraOefeningen-v1
 version: 3
 language: nl
-title: Opdracht extra oefeningen
-description: Opdracht extra oefeningen
-keywords: [WeGoSTEM]
+title: "Opdracht extra oefeningen"
+description: "Opdracht extra oefeningen"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

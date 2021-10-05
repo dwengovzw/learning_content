@@ -2,9 +2,9 @@
 hruid: UploadenDwenguinoWGS-v1
 version: 3
 language: nl
-title: Uploaden Dwenguino
-description: Instructiefilmpje voor het uploaden van een programma
-keywords: [StartToDwenguino]
+title: "Uploaden Dwenguino"
+description: "Instructiefilmpje voor het uploaden van een programma"
+keywords: ["StartToDwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

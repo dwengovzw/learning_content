@@ -2,9 +2,9 @@
 hruid: KnoppenWGS-v1
 version: 3
 language: nl
-title: Knoppen
-description: Uitleg Knoppen
-keywords: [StartToDwenguino, knoppen]
+title: "Knoppen"
+description: "Uitleg Knoppen"
+keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

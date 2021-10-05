@@ -2,9 +2,9 @@
 hruid: lcd_Oef1-v1
 version: 3
 language: nl
-title: lcd Oefening 1
-description: lcd oef. 1
-keywords: [StartToDwenguino, lcd, lcd-scherm]
+title: "lcd Oefening 1"
+description: "lcd oef. 1"
+keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

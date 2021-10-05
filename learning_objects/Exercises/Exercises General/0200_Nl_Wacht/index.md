@@ -2,9 +2,9 @@
 hruid: Wacht-v1
 version: 3
 language: nl
-title: Wacht
-description: Wacht
-keywords: [StartToDwenguino, wacht]
+title: "Wacht"
+description: "Wacht"
+keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: WaarOntlenen-v1
 version: 3
 language: nl
-title: Waar ontlenen
-description: Waar en hoe men materiaal kan ontlenen
-keywords: [WeGoSTEM]
+title: "Waar ontlenen"
+description: "Waar en hoe men materiaal kan ontlenen"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

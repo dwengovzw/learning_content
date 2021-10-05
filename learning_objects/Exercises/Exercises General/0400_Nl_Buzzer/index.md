@@ -2,9 +2,9 @@
 hruid: Buzzer-v1
 version: 3
 language: nl
-title: Buzzer
-description: Buzzer
-keywords: [StartToDwenguino, buzzer]
+title: "Buzzer"
+description: "Buzzer"
+keywords: ["StartToDwenguino", "buzzer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

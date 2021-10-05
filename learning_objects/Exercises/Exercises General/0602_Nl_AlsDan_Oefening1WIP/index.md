@@ -2,9 +2,9 @@
 hruid: AlsDan_Oef1-v1
 version: 3
 language: nl
-title: AlsDan Oefening 1
-description: AlsDan oef 1
-keywords: [StartToDwenguino, ALsDan]
+title: "AlsDan Oefening 1"
+description: "AlsDan oef 1"
+keywords: ["StartToDwenguino", "AlsDan"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

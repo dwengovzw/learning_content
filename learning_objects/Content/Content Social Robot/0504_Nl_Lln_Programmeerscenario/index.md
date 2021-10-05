@@ -2,9 +2,9 @@
 hruid: Programmeerscenario-v1
 version: 3
 language: nl
-title: Programmeerscenario
-description: Programmeerscenario
-keywords: [sociale robot]
+title: "Programmeerscenario"
+description: "Programmeerscenario"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

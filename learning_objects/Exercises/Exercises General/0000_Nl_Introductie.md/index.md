@@ -2,9 +2,9 @@
 hruid: Introductie_oefeningen-v1
 version: 3
 language: nl
-title: StartToDwenguino Introductie
-description: Uitleg voor het beginnen van de algemene oefeningen voor de dwenguinoblockly simulator
-keywords: [StartToDwenguino]
+title: "StartToDwenguino Introductie"
+description: "Uitleg voor het beginnen van de algemene oefeningen voor de dwenguinoblockly simulator"
+keywords: ["StartToDwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: Context_SRunplugged-v1
 version: 3
 language: nl
-title: Context SR unplugged
-description: Context SR unplugged
-keywords: [sociale robot]
+title: "Context SR unplugged"
+description: "Context SR unplugged"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

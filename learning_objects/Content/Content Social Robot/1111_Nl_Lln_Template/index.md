@@ -2,9 +2,9 @@
 hruid: T-v1
 version: 3
 language: nl
-title: T
-description: T
-keywords: []
+title: "T"
+description: "T"
+keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: RegressieBelgië-v1
 version: 3
 language: nl
-title: Regressie België
-description: Notebooks over ...
-keywords: [voorbeeld, voorbeeld2]
+title: "Regressie België"
+description: "Notebooks over ..."
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

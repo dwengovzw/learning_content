@@ -2,9 +2,9 @@
 hruid: UitlegLussen-v1
 version: 3
 language: nl
-title: Uitleg lussen
-description: Uitleg lussen
-keywords: [WeGoSTEM, lus]
+title: "Uitleg lussen"
+description: "Uitleg lussen"
+keywords: ["WeGoSTEM", "lus"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

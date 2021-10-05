@@ -2,9 +2,9 @@
 hruid: Opruimen-v1
 version: 3
 language: nl
-title: Opruimen
-description: Hoe moet het materiaal opgeruimd worden
-keywords: [WeGoSTEM]
+title: "Opruimen"
+description: "Hoe moet het materiaal opgeruimd worden"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

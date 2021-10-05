@@ -2,7 +2,7 @@
 hruid: test-jupyter-nb-5
 version: 1
 language: nl
-title: Introductie python
+title: "Introductie python"
 description: "Deze jupyter hub module bevat een aantal notebooks om te leren omgaan met de basisfuncties van jupyter notebooks en python"
 keywords: ["python", "jupyter notebook", "notebook"]
 educational_goals: [

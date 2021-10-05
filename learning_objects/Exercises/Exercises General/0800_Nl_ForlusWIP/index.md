@@ -2,9 +2,9 @@
 hruid: Forlus-v1
 version: 3
 language: nl
-title: Forlus
-description: Uitleg Forlus
-keywords: [StartToDwenguino, forlus]
+title: "Forlus"
+description: "Uitleg Forlus"
+keywords: ["StartToDwenguino", "forlus"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: Wacht_Oef1-v1
 version: 3
 language: nl
-title: Wacht Oefening 1
-description: Wacht Oefening 1
-keywords: [StartToDwenguino, wacht]
+title: "Wacht Oefening 1"
+description: "Wacht Oefening 1"
+keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

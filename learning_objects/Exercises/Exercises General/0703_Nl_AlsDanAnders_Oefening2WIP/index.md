@@ -2,9 +2,9 @@
 hruid: AlsDanAnders_Oef2-v1
 version: 3
 language: nl
-title: AlsDanAnders Oefening 2
-description: AlsDanAnders oef 2
-keywords: [StartToDwenguino, ALsDan]
+title: "AlsDanAnders Oefening 2"
+description: "AlsDanAnders oef 2"
+keywords: ["StartToDwenguino", "AlsDanAnders"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

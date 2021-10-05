@@ -2,9 +2,9 @@
 hruid: Datatypes-v1
 version: 3
 language: nl
-title: Datatypes
-description: Notebooks over ...
-keywords: [voorbeeld, voorbeeld2]
+title: "Datatypes"
+description: "Notebooks over ..."
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

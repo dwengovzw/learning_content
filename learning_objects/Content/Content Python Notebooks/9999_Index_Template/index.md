@@ -2,9 +2,9 @@
 hruid: TemplateI-v1
 version: 3
 language: nl
-title: Opdracht Leds 2
-description: Opdracht Leds
-keywords: [voorbeeld, voorbeeld2]
+title: "Opdracht Leds 2"
+description: "Opdracht Leds"
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

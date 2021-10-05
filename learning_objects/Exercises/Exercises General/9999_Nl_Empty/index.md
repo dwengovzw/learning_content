@@ -2,9 +2,9 @@
 hruid: t-v1
 version: 3
 language: nl
-title: t
-description: t
-keywords: [StartToDwenguino]
+title: "t"
+description: "t"
+keywords: ["StartToDwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: Problemen-v1
 version: 3
 language: nl
-title: Problemen
-description: Vaak voorkomende problemen
-keywords: [sociale robot, FAQ]
+title: "Problemen"
+description: "Vaak voorkomende problemen"
+keywords: ["sociale robot", "FAQ"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

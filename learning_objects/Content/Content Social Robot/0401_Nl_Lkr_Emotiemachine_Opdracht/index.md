@@ -2,9 +2,9 @@
 hruid: SRunplugged_Opdracht2-v1
 version: 3
 language: nl
-title: SR unplugged Opdracht 2
-description: Emotiemachine
-keywords: [sociale robot, activiteit]
+title: "SR unplugged Opdracht 2"
+description: "Emotiemachine"
+keywords: ["sociale robot", "activiteit"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

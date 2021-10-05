@@ -2,9 +2,9 @@
 hruid: Overzicht_robotonderdelen-v1
 version: 3
 language: nl
-title: Overzicht robotonderdelen
-description: Overzicht robotonderdelen
-keywords: [sociale robot]
+title: "Overzicht robotonderdelen"
+description: "Overzicht robotonderdelen"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

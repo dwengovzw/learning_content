@@ -2,9 +2,9 @@
 hruid: Programmeeropdrachten-v1
 version: 3
 language: nl
-title: Programmeeropdrachten
-description: Programmeeropdrachten
-keywords: [sociale robot]
+title: "Programmeeropdrachten"
+description: "Programmeeropdrachten"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

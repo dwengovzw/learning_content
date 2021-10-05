@@ -2,9 +2,9 @@
 hruid: Knoppen_Oef1-v1
 version: 3
 language: nl
-title: Knoppen Oefening 1
-description: Knoppen oef 1
-keywords: [StartToDwenguino, knoppen]
+title: "Knoppen Oefening 1"
+description: "Knoppen oef 1"
+keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

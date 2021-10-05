@@ -2,9 +2,9 @@
 hruid: Dwengo_simulator-v1
 version: 3
 language: nl
-title: Dwengo simulator
-description: Dwengo simulator
-keywords: [sociale robot]
+title: "Dwengo simulator"
+description: "Dwengo simulator"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

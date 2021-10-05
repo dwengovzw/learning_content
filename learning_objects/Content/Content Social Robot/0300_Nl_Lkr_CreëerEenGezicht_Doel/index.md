@@ -2,9 +2,9 @@
 hruid: UnpluggedOpdracht 1-v1
 version: 3
 language: nl
-title: Doel unplugged Opdracht 1
-description: Maak een gezicht
-keywords: [sociale robot]
+title: "Doel unplugged Opdracht 1"
+description: "Maak een gezicht"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

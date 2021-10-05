@@ -2,9 +2,9 @@
 hruid: "bouwen_van_een_tekenrobot"
 version: 1
 language: nl
-title: Bouwen van een tekenrobot
-description: Tijdens deze activiteit gaan de leerlingen aan de slag met het materiaal en monteren ze de robotarm.
-keywords: [voorbeeld, voorbeeld2]
+title: "Bouwen van een tekenrobot"
+description: "Tijdens deze activiteit gaan de leerlingen aan de slag met het materiaal en monteren ze de robotarm."
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

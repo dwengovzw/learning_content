@@ -2,9 +2,9 @@
 hruid: Opdracht_ProgrammerenInDeSimulatie-v1
 version: 3
 language: nl
-title: Opdracht programmeren in de simulatie
-description: Opdracht 1.1
-keywords: [WeGoSTEM]
+title: "Opdracht programmeren in de simulatie"
+description: "Opdracht 1.1"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

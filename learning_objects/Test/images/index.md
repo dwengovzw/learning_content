@@ -2,9 +2,9 @@
 hruid: Image
 version: 3
 language: nl
-title: test
-description: Beschrijving van de activiteit
-keywords: [WeGoSTEM]
+title: "test"
+description: "Beschrijving van de activiteit"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

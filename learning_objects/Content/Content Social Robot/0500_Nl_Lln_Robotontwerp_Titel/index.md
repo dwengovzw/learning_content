@@ -2,9 +2,9 @@
 hruid: Robotontwerp-v1
 version: 3
 language: nl
-title: Robotontwerp
-description: Robotontwerp inleiding
-keywords: [sociale robot]
+title: "Robotontwerp"
+description: "Robotontwerp inleiding"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: AlsDanAnders-v1
 version: 3
 language: nl
-title: AlsDanAnders
-description: Uitleg AlsDanAnders
-keywords: [StartToDwenguino, AlsDanAnders]
+title: "AlsDanAnders"
+description: "Uitleg AlsDanAnders"
+keywords: ["StartToDwenguino", "AlsDanAnders"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

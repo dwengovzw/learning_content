@@ -2,9 +2,9 @@
 hruid: Opdracht_ProgrammerenTekenrobot-v1
 version: 3
 language: nl
-title: Programmeren van de tekenrobot
-description: De leerlingen programmeren de gemonteerde robotarm
-keywords: [WeGoSTEM]
+title: "Programmeren van de tekenrobot"
+description: "De leerlingen programmeren de gemonteerde robotarm"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

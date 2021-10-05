@@ -2,9 +2,9 @@
 hruid: MotorenWGS-v1
 version: 3
 language: nl
-title: Uitleg tekenrobot
-description: Uitleg tekenrobot
-keywords: [WeGoSTEM]
+title: "Uitleg tekenrobot"
+description: "Uitleg tekenrobot"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

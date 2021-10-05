@@ -2,9 +2,9 @@
 hruid: Whilelus_Voorbeeld-v1
 version: 3
 language: nl
-title: Whilelus Voorbeeld
-description: Whilelus Voorbeeld
-keywords: [StartToDwenguino, whilelus]
+title: "Whilelus Voorbeeld"
+description: "Whilelus Voorbeeld"
+keywords: ["StartToDwenguino", "whilelus"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

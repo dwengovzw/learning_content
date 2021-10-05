@@ -2,9 +2,9 @@
 hruid: Programmeren_Robot-v1
 version: 3
 language: nl
-title: Programmeren robot
-description: Programmeren Robot
-keywords: [sociale robot]
+title: "Programmeren robot"
+description: "Programmeren Robot"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

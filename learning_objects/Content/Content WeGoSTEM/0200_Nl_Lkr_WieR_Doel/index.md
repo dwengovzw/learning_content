@@ -2,9 +2,9 @@
 hruid: Doel_WatIsEenRobot-v1
 version: 3
 language: nl
-title: Voorbereiding Wat is een robot?
-description: Beschrijving
-keywords: [WeGoSTEM]
+title: "Voorbereiding Wat is een robot?"
+description: "Beschrijving"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

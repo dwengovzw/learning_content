@@ -2,9 +2,9 @@
 hruid: Lln_AlgemeenSR-v1
 version: 3
 language: nl
-title: Leerling Algemeen
-description: Inleiding tot het leerspoor
-keywords: [sociale robot]
+title: "Leerling Algemeen"
+description: "Inleiding tot het leerspoor"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

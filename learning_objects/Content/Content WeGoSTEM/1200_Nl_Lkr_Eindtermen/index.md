@@ -2,9 +2,9 @@
 hruid: Onderwijsdoelen-v1
 version: 3
 language: nl
-title: Onderwijsdoelen
-description: Een samenvatting van eindtermen/onderwijsdoelen
-keywords: [WeGoSTEM]
+title: "Onderwijsdoelen"
+description: "Een samenvatting van eindtermen/onderwijsdoelen"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: https://onderwijsdoelen.be, id: Lagere school}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: Robotassemblage-v1
 version: 3
 language: nl
-title: Robotassemblage
-description: Robotassemblage
-keywords: [sociale robot]
+title: "Robotassemblage"
+description: "Robotassemblage"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
