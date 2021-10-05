@@ -2,9 +2,9 @@
 hruid: Doel_BouwenVanEenTekenrobotekenrobot-v1
 version: 3
 language: nl
-title: Voorbereiding Bouwen van een tekenrobot
-description: beschrijving opdracht
-keywords: [WeGoSTEM]
+title: "Voorbereiding Bouwen van een tekenrobot"
+description: "beschrijving opdracht"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

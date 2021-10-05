@@ -2,9 +2,9 @@
 hruid: UitlegAlsDan-v1
 version: 3
 language: nl
-title: Uitleg als-dan
-description: Uitleg als-dan
-keywords: [WeGoSTEM]
+title: "Uitleg als-dan"
+description: "Uitleg als-dan"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

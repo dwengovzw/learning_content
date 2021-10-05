@@ -2,9 +2,9 @@
 hruid: ProgrammeerEensEenMens-v1
 version: 3
 language: nl
-title: Programmeer eens een mens
-description: De leerlingen zijn robot en programmeur. Kan de programmeur de tekening perfect laten overtekenen door de robots?
-keywords: [WeGOSTEM]
+title: "Programmeer eens een mens"
+description: "De leerlingen zijn robot en programmeur. Kan de programmeur de tekening perfect laten overtekenen door de robots?"
+keywords: ["WeGOSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

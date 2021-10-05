@@ -2,9 +2,9 @@
 hruid: Buzzer_Oef2-v1
 version: 3
 language: nl
-title: Buzzer Oefening 2
-description: Buzzer oef 2
-keywords: [StartToDwenguino, buzzer]
+title: "Buzzer Oefening 2"
+description: "Buzzer oef 2"
+keywords: ["StartToDwenguino", "buzzer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

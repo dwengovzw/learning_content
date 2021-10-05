@@ -2,9 +2,9 @@
 hruid: extern-test-v1
 version: 1
 language: nl
-title: Testing external content as learning object
-description: This is a description
-keywords: [voorbeeld, voorbeeld2]
+title: "Testing external content as learning object"
+description: "This is a description"
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

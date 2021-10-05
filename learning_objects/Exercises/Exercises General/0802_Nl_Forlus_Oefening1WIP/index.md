@@ -2,9 +2,9 @@
 hruid: Forlus_Oef1-v1
 version: 3
 language: nl
-title: Forlus Oefening 1
-description: Forlus oef 1
-keywords: [StartToDwenguino, forlus]
+title: "Forlus Oefening 1"
+description: "Forlus oef 1"
+keywords: ["StartToDwenguino", "forlus"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

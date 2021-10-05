@@ -2,9 +2,9 @@
 hruid: Doel_ProgrammeerEensEenMens-v1
 version: 3
 language: nl
-title: Voorbereiding Programmeer eens een mens
-description: beschrijving van de activiteit
-keywords: [WeGoSTEM]
+title: "Voorbereiding Programmeer eens een mens"
+description: "beschrijving van de activiteit"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

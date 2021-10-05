@@ -2,9 +2,9 @@
 hruid: GrafiekenEnRechten-v1
 version: 3
 language: nl
-title: Grafieken en rechten
-description: Notebooks over ...
-keywords: [voorbeeld, voorbeeld2]
+title: "Grafieken en rechten"
+description: "Notebooks over ..."
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

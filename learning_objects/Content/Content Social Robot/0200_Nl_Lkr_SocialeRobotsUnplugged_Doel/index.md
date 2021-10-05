@@ -2,9 +2,9 @@
 hruid: Doel_SRunplugged-v1
 version: 3
 language: nl
-title: Doel SR unplugged
-description: Doel SR unplugged
-keywords: [sociale robot]
+title: "Doel SR unplugged"
+description: "Doel SR unplugged"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

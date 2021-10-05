@@ -2,9 +2,9 @@
 hruid: DwenguinoBlockly-v1
 version: 3
 language: nl
-title: DwenguinoBlockly
-description: DwenguinoBlockly
-keywords: [Sociale robot]
+title: "DwenguinoBlockly"
+description: "DwenguinoBlockly"
+keywords: ["Sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

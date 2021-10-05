@@ -2,9 +2,9 @@
 hruid: Whilelus-v1
 version: 3
 language: nl
-title: Whilelus
-description: Uitleg Whilelus
-keywords: [StartToDwenguino, whilelus]
+title: "Whilelus"
+description: "Uitleg Whilelus"
+keywords: ["StartToDwenguino", "whilelus"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

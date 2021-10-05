@@ -2,9 +2,9 @@
 hruid: UitlegExtraOefeningenSimulatie-v1
 version: 3
 language: nl
-title: Extra oefeningen simulatie
-description: Extra oefeningen simulatie
-keywords: [WeGoSTEM]
+title: "Extra oefeningen simulatie"
+description: "Extra oefeningen simulatie"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

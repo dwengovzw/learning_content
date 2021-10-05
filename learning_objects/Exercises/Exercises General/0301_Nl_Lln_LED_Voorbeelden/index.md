@@ -2,9 +2,9 @@
 hruid: lln_led_Voorbeeld-v1
 version: 3
 language: nl
-title: Led Voorbeeld
-description: led Voorbeeld
-keywords: [StartToDwenguinom, led]
+title: "Led Voorbeeld"
+description: "led Voorbeeld"
+keywords: ["StartToDwenguinom", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

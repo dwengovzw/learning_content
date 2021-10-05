@@ -2,9 +2,9 @@
 hruid: Whilelus_Oef1-v1
 version: 3
 language: nl
-title: Whilelus Oefening 1
-description: Whilelus oef 1
-keywords: [StartToDwenguino, whilelus]
+title: "Whilelus Oefening 1"
+description: "Whilelus oef 1"
+keywords: ["StartToDwenguino", "whilelus"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

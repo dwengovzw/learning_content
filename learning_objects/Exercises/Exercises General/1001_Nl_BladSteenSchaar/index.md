@@ -2,9 +2,9 @@
 hruid: BladSteenSchaar-v1
 version: 3
 language: nl
-title: Blad Steen Schaar
-description: De leerlingen programmeren de Dwenguino om blad-steen-schaar te spelen.
-keywords: [StartToDwenguino, LCD, wacht, knoppen, AlsDanAnders]
+title: "Blad Steen Schaar"
+description: "De leerlingen programmeren de Dwenguino om blad-steen-schaar te spelen."
+keywords: ["StartToDwenguino", "LCD", "wacht", "knoppen", "AlsDanAnders"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

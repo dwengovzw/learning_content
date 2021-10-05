@@ -2,9 +2,9 @@
 hruid: led_Oef1-v1
 version: 3
 language: nl
-title: led Oefening 1
-description: led Oefening 1
-keywords: [StartToDwenguino, led]
+title: "led Oefening 1"
+description: "led Oefening 1"
+keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: test-v8
 version: 4
 language: nl
-title: This is a title
-description: This is a description
-keywords: [voorbeeld, voorbeeld2]
+title: "This is a title"
+description: "This is a description"
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

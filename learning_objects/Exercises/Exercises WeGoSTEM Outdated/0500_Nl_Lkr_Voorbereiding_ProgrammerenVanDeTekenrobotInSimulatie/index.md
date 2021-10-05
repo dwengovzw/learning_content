@@ -2,9 +2,9 @@
 hruid: Voorbereiding_ProgrammerenTekenrobotSimulatie-v1
 version: 3
 language: nl
-title: Voorbereiding Programmeren van de tekenrobot in simulatie
-description: Korte inhoudstafel en verwijzing naar de oefeningen
-keywords: [WeGoSTEM]
+title: "Voorbereiding Programmeren van de tekenrobot in simulatie"
+description: "Korte inhoudstafel en verwijzing naar de oefeningen"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

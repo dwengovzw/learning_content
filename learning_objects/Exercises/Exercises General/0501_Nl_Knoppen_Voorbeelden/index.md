@@ -2,9 +2,9 @@
 hruid: Knoppen_Voorbeeld-v1
 version: 3
 language: nl
-title: Knoppen Voorbeeld
-description: Knoppen Voorbeeld
-keywords: [StartToDwenguino, knoppen]
+title: "Knoppen Voorbeeld"
+description: "Knoppen Voorbeeld"
+keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

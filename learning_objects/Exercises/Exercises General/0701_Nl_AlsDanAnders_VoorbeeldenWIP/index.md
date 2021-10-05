@@ -2,9 +2,9 @@
 hruid: AlsDanAnders_Voorbeeld-v1
 version: 3
 language: nl
-title: AlsDanAnders Voorbeeld
-description: AlsDanAndersVoorbeeld
-keywords: [StartToDwenguino, AlsDanAnders]
+title: "AlsDanAnders Voorbeeld"
+description: "AlsDanAndersVoorbeeld"
+keywords: ["StartToDwenguino", "AlsDanAnders"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

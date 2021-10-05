@@ -2,9 +2,9 @@
 hruid: Standaardiseren-v1
 version: 3
 language: nl
-title: Standaardiseren
-description: Notebooks over ...
-keywords: [voorbeeld, voorbeeld2]
+title: "Standaardiseren"
+description: "Notebooks over ..."
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: KapotMateriaal-v1
 version: 3
 language: nl
-title: Kapot materiaal?
-description: Wat doe je als iets kapot is
-keywords: [WeGoSTEM]
+title: "Kapot materiaal?"
+description: "Wat doe je als iets kapot is"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: Dwenguino_intro-v1
 version: 3
 language: nl
-title: Dwenguino intro
-description: Dwenguino intro
-keywords: [sociale robot]
+title: "Dwenguino intro"
+description: "Dwenguino intro"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: OplossingenOpdrachten-v1
 version: 3
 language: nl
-title: Oplossingen opdrachten
-description: Oplossingen opdrachten
-keywords: [WeGoSTEM]
+title: "Oplossingen opdrachten"
+description: "Oplossingen opdrachten"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

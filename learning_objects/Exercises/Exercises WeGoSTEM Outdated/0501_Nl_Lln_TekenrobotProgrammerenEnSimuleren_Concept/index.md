@@ -2,9 +2,9 @@
 hruid: TekenrobotProgrammerenEnSimmuleren-v1
 version: 3
 language: nl
-title: Tekenrobot programmeren en simuleren
-description: Korte intro tot oefeningen
-keywords: [WeGoSTEM]
+title: "Tekenrobot programmeren en simuleren"
+description: "Korte intro tot oefeningen"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

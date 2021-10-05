@@ -2,9 +2,9 @@
 hruid: Startpagina-v1
 version: 3
 language: nl
-title: StartToDwenguino Basis
-description: Beschrijving van de onderdelen van de simulator
-keywords: [StartToDwenguino]
+title: "StartToDwenguino Basis"
+description: "Beschrijving van de onderdelen van de simulator"
+keywords: ["StartToDwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: led-v1
 version: 3
 language: nl
-title: Led
-description: Uitleg led
-keywords: [StartToDwenguino, led]
+title: "Led"
+description: "Uitleg led"
+keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

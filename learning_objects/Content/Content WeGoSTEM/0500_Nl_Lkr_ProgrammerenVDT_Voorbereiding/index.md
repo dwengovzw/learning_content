@@ -2,9 +2,9 @@
 hruid: Doel_ProgrammerenTekenrobot-v1
 version: 3
 language: nl
-title: Voorbereiding Programmeren van de tekenrobot
-description: Beschrijving van de activiteit
-keywords: [WeGoSTEM]
+title: "Voorbereiding Programmeren van de tekenrobot"
+description: "Beschrijving van de activiteit"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

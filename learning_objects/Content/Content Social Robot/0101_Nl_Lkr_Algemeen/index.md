@@ -2,9 +2,9 @@
 hruid: Lkr_AlgemeenSR-v1
 version: 3
 language: nl
-title: Leerkracht Algemeen
-description: Inleiding tot het leerspoor
-keywords: [sociale robot]
+title: "Leerkracht Algemeen"
+description: "Inleiding tot het leerspoor"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

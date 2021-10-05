@@ -2,9 +2,9 @@
 hruid: Beschrijving-v1
 version: 3
 language: nl
-title: Algemene inleiding
-description: Beschrijving van het leerspoor
-keywords: [WeGoSTEM]
+title: "Algemene inleiding"
+description: "Beschrijving van het leerspoor"
+keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
