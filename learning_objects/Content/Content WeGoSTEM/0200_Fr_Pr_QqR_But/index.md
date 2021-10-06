@@ -1,9 +1,9 @@
 ---
-hruid: Doel_WatIsEenRobot-v1
+hruid: But_QqR-v1
 version: 3
-language: nl
-title: "Voorbereiding Wat is een robot?"
-description: "Beschrijving"
+language: fr
+title: "Préparation Qu'est-ce qu'un robot?"
+description: "Description"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,15 +31,15 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Voorbereiding - Wat is een robot? 
-## 10 - 15 minuten in de klas
+# Préparation - Qu'est-ce qu'un robot ?
+## 10 - 15 minutes en classe
 
-### Wat gebeurt er in de klas?
-In dit onderdeel wordt er kort wat context gegeven omtrent de geschiedenis en bouw van robots. Dit schept inzicht bij de leerlingen over het nut, de bouw en de werking van robots.
+### Que se passe-t-il dans la classe ?
+Cette section fournit brièvement un certain contexte sur l'histoire et la construction des robots. Cela donne aux étudiants un aperçu de l'utilité, de la construction et du fonctionnement des robots.
 
-## Voorbereiding
-### Materiaal
+## Préparation
+### Matériel
 
-[Foto's](embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt meegeleverd)
+[Photos](embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") de différents robots (inclus)
 
 ![](@pdf/embed/WeGoSTEMrobotfotos.pdf)

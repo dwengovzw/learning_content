@@ -1,9 +1,9 @@
 ---
-hruid: Doel_BouwenVanEenTekenrobotekenrobot-v1
+hruid: But_ConstruireRdD-v1
 version: 3
-language: nl
-title: "Voorbereiding Bouwen van een tekenrobot"
-description: "beschrijving opdracht"
+language: fr
+title: "Préparation Construction"
+description: "Description"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,21 +31,21 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Voorbereiding - Bouwen van een tekenrobot 
-## 20 - 30 minuten tijdens de les
+# Préparation - Construire un robot de dessin
+## 20 - 30 minutes pendant le cours
 
-### Wat gebeurt er in de klas?
-In deze activiteit gaan de leerlingen voor het eerst aan de slag met het materiaal. Ze leren over de verschillende componenten van een robotarm en moeten deze correct monteren. 
+### Que se passe-t-il dans la classe ?
+Dans cette activité, les élèves travailleront avec le matériel pour la première fois. Ils apprennent les différentes composantes d'un bras robotisé et doivent les assembler correctement.
 
-Voor het bouwen van de tekenrobot hebben we voor elk groepje een foto voorzien. Op basis van deze foto kunnen de kinderen meestal afleiden hoe ze de tekenrobot moeten bouwen. Zitten ze toch vast, dan kan je wat extra uitleg voorzien. De stappen die nodig zijn om de robot te bouwen, zie je in het volgende filmpje: 
+Nous avons fourni une photo à chaque groupe pour construire le robot de dessin. Sur la base de cette image, les enfants peuvent généralement déduire comment construire le robot de dessin. S'ils sont bloqués, vous pouvez fournir des explications supplémentaires. Les étapes nécessaires à la construction du robot peuvent être vues dans la vidéo suivante :
 
-![Bouwen van een tekenrobot](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Bouwen van een tekenrobot")
+![Construire un robot de dessin](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Construire un robot de dessin")
 
-## Voorbereiding
-### Materiaal voor in de klas
+## Préparation
+### Matériel pour la classe
 
-* Doosje met robotcomponenten (wordt meegeleverd)
-* [foto](images/Voorbeeld.pdf "afgewerkte robot") met afgewerkte robot (wordt meegeleverd)
+* Boîte avec composants de robot (inclus)
+* [photo](images/Example.pdf "robot fini") avec robot fini (inclus)
 
 
-![](images/Voorbeeld.PNG "Afgewerkte robot")
+![](images/Sample.PNG "Robot fini")

@@ -1,9 +1,9 @@
 ---
-hruid: KapotMateriaal-v1
+hruid: MateriauCasse-v1
 version: 3
-language: nl
-title: "Kapot materiaal?"
-description: "Wat doe je als iets kapot is"
+language: fr
+title: "Matériau cassé"
+description: "Que faites-vous quand quelque chose est cassé"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,15 +30,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Matériel cassé ?
 
-# Kapot materiaal?
+Est-ce que quelque chose est cassé ? Tout d'abord, ne paniquez pas.
 
-Is er iets kapot? Vooreerst geen paniek. 
+###### **Boîte verte**
+Vous trouverez du matériel de rechange dans la boîte verte. Si quelque chose ne fonctionne pas, vous pouvez le remplacer par le matériel de cette boîte.
 
-###### **Groene doos**
-In de groene doos vindt u reservemateriaal. Als iets niet werkt, kan je het vervangen door het materiaal in deze doos.
+###### **Boîte rouge**
+Dans la case rouge, vous placez le matériel qui ne fonctionne pas.
 
-###### **Rode doos**
-In de rode doos plaats je dan het materiaal dat niet werkt.
-
-Zodoende blijven de 15 robotsets voltallig en moet enkel de reservedoos aangevuld/bekeken worden door het WeGoSTEM-team. Geef je ook een seintje aan jouw WeGoSTEM-buddy?
+Ainsi, les 15 ensembles de robots restent complets et seule la boîte de rechange doit être réapprovisionnée/visualisée par l'équipe WeGoSTEM. Allez-vous également informer votre ami WeGoSTEM ?

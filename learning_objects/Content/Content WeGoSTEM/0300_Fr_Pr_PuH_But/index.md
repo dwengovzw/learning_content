@@ -1,9 +1,9 @@
 ---
-hruid: Doel_ProgrammeerEensEenMens-v1
+hruid: But_PuH-v1
 version: 3
-language: nl
-title: "Voorbereiding Programmeer eens een mens"
-description: "beschrijving van de activiteit"
+language: fr
+title: "Préparation Programmer un humain"
+description: "Description"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,24 +31,24 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Voorbereiding - Programmeer eens een mens 
-## 10 - 15 minuten tijdens de les
+# Préparation - Programmer un humain
+## 10 - 15 minutes pendant le cours
 
-### Wat gebeurt er in de klas?
-De leerlingen programmeren elkaar om een tekening te maken. Eén leerling is de ‘programmeur’ en geeft zorgvuldige instructies aan de andere leerlingen om een bepaalde tekening te reproduceren. De andere leerlingen zijn ‘de computer’. Hoe snel en nauwkeurig wordt de tekening voltooid?
+### Que se passe-t-il dans la classe ?
+Les élèves se programment mutuellement pour faire un dessin. Un étudiant est le "programmeur" et demande soigneusement aux autres étudiants de reproduire un dessin particulier. Les autres étudiants sont « l'ordinateur ». Avec quelle rapidité et précision le dessin est-il terminé ?
 
-*Waarom deze oefening?*
+*Pourquoi cet exercice ?*
 
-Leerlingen leren hoe ze een relatief moeilijk probleem kunnen oplossen door het op te splitsen in kleine stappen. Ze moeten heel precieze instructies geven en dit in de juiste volgorde. 
-Aandachtspunt: Hou de tijd in de gaten!
+Les élèves apprennent à résoudre un problème relativement difficile en le décomposant en petites étapes. Ils doivent donner des instructions très précises et ceci dans le bon ordre.
+Point d'attention : Gardez un œil sur l'heure !
 
-## Voorbereiding
-### Materiaal
+## Préparation
+### Matériel
 
-* Pen en papier (zelf voorzien)
-* [Afbeeldingen](embed/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens") voor de oefening (wordt ook meegeleverd). Begin met de eenvoudigste tekening!
+* Stylo et papier (à fournir vous-même)
+* [Photos](embed/WeGoSTEMmensrobot.pdf "Photos programmer un humain") pour l'exercice (inclus). Commencez par le dessin le plus simple !
 
-![](@pdf/embed/WeGoSTEMmensrobot.pdf "Afbeeldingen Programmeer eens een mens")
+![](@pdf/embed/WeGoSTEMmensrobot.pdf "Photos programmer un humain")
 
 
 

@@ -1,9 +1,9 @@
 ---
-hruid: Doel_ProgrammerenTekenrobot-v1
+hruid: But_ProgrammerRdD-v1
 version: 3
-language: nl
-title: "Voorbereiding Programmeren van de tekenrobot"
-description: "Beschrijving van de activiteit"
+language: fr
+title: "Préparation programmer"
+description: "Description"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,42 +30,42 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Voorbereiding - Programmeren van de Tekenrobot 
-## 40 min tijdens de les
+# Préparation - Programmation du robot de dessin
+## 40 min pendant le cours
 
-### Wat gebeurt er in de klas?
-Het is niet de bedoeling dat u de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
+### Que se passe-t-il dans la classe ?
+Ce n'est pas l'intention que vous mettiez immédiatement la bouillie dans la bouche des étudiants. N'hésitez pas à les laisser expérimenter le simulateur de temps en temps pour les aider.
 
-Er is wat ondersteuning voorzien voor de leerlingen in het leerpad zelf, waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. De voorbereidende leerobjecten omvatten:
+Un accompagnement est prévu pour les étudiants dans le parcours d'apprentissage lui-même, avec lequel ils travailleront de manière investigatrice. Si quelque chose n'est pas clair pour les enfants, vous êtes prêt à les soutenir dans votre préparation. Les objets d'apprentissage préparatoires comprennent :
 
-1. Hun naam schrijven op het lcd
-2. De robot pas laten starten wanneer een knopje ingedrukt wordt
-3. De motoren laten draaien zodat de robot tekent
-4. Experimenteren met de mechanica en snelheid van de motoren
+1. Écrivez leur nom sur l'écran LCD
+2. Ne laissez le robot démarrer que lorsqu'un bouton est enfoncé
+3. Faites tourner les moteurs pour que le robot tire
+4. Expérimentez avec la mécanique et la vitesse des moteurs
 
-*Tip*: Laat de leerlingen pas programmeren wanneer ze klaar zijn met het bouwen van hun tekenrobot.
+*Astuce* : Ne laissez pas les élèves programmer tant qu'ils n'ont pas fini de construire leur robot de dessin.
 
-Sommige kinderen merken op dat de tekening in de simulator anders is dan de tekening in het echt. In het bijzonder kan de robot in de simulator heel nauwkeurig werken, terwijl de robot in het echt altijd naast de vorige lijn kleurt. Dit komt omdat de echte robot een mechanisch systeem is met tal van kleine onnauwkeurigheden: de tandwielen geven soms mee, de verbindingen tussen de verschillende armen (stukken C) zitten wat los, enz. In de robotica is dit verschil ook wel gekend als het gat tussen de echte wereld en de simulatie. Men kan dit oplossen door ofwel betere robots te bouwen (met duurdere, maar nauwkeurigere componenten), ofwel door in de simulator rekening te houden met al deze onnauwkeurigheden.
+Certains enfants remarquent que le dessin dans le simulateur est différent du dessin dans la vraie vie. En particulier, le robot dans le simulateur peut travailler de manière très précise, alors que dans la vraie vie, le robot colorie toujours à côté de la ligne précédente. En effet, le vrai robot est un système mécanique avec de nombreuses petites imprécisions : les engrenages cèdent parfois, les liaisons entre les différents bras (pièces C) sont un peu lâches, etc. En robotique, cette différence est aussi appelée l'écart entre les monde réel et la simulation. Cela peut être résolu soit en construisant de meilleurs robots (avec des composants plus chers mais plus précis), soit en prenant en compte toutes ces imprécisions dans le simulateur.
 
-## Voorbereiding
+## Préparation
 
-We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-traject doorneemt om de leerlingen optimaal te kunnen begeleiden. Dit bevat de volgende elementen:  
-*Elementen tussen haakjes worden als optioneel beschouwd voor het WeGoStem-traject.*
+Nous vous recommandons, en tant qu'enseignant, de suivre au moins les exercices de base de la trajectoire *StartToDwenguino* afin de guider les élèves de manière optimale. Celui-ci contient les éléments suivants :
+*Les éléments entre parenthèses sont considérés comme facultatifs pour le voyage WeGoStem.*
 
-* LCD-scherm
-* Wacht
-* (Leds)
-* (Buzzer)
-* knoppen
-* (Als - Dan)
-* (Als - Dan - Anders)
-* (For-lus)
-* (While-lus)
+* Affichage LCD
+* Attends
+* (LED)
+* (Avertisseur sonore)
+* boutons
+* (Si donc)
+* (Si - Alors - Sinon)
+* (Pour boucle)
+* (En boucle)
 
-In dit leerpad werden de voorbeelden voor de essentiële blokken reeds opgenomen. Om dit zelf in te oefenen, verwijzen we u naar het *StartToDwenguino*-traject.
+Les exemples des blocs essentiels ont déjà été inclus dans ce parcours d'apprentissage. Pour le pratiquer vous-même, nous vous renvoyons à la trajectoire *StartToDwenguino*.
 
-### Materiaal voor in de klas
+### Matériel pour la classe
 
-* Laptops (wordt meegeleverd)
-* Gebouwde tekenrobot (wordt meegeleverd)
+* Ordinateurs portables (inclus)
+* Robot de dessin intégré (inclus)
 
