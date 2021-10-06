@@ -30,17 +30,16 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+### Exemple d'écran LCD
 
-### Voorbeeld lcd-scherm
+QUESTION 1
 
-OPGAVE 1
+Faites apparaître 'Welcome Robot' sur l'écran LCD.
 
-Laat 'Welkom robot' op het lcd-scherm verschijnen.
-
-Oplossing:
+Solution:
 
 ![blockly](@learning-object/LCDM1-v1/nl/3)
 
-De tekst 'Welkom robot' kan je aanpassen. De twee nullen betekenen: eerste lijn, eerste karakter.
+Vous pouvez modifier le texte 'Bienvenue robot'. Les deux zéros signifient : première ligne, premier caractère.
 
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+*Testez ces exemples vous-même dans le simulateur ! Une fois que vous aurez compris son fonctionnement, vous pourrez commencer vous-même.*
