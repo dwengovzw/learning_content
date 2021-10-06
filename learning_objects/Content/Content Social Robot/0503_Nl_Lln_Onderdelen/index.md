@@ -33,7 +33,7 @@ teacher_exclusive: false
 
 ## Overzicht robotonderdelen
 
-Hieronder staan de verschillende robotonderdelen opgelijstdie Dwengo in het 'Sociale robot'-pakket voorziet.
+Hieronder staan de verschillende robotonderdelen opgelijst die Dwengo in het 'Sociale robot'-pakket voorziet.
 
 ### Actuatoren (uitvoer)
 
