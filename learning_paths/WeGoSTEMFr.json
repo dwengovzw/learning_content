@@ -44,7 +44,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Qqr1-v1",
+            "hruid": "QqR1-v1",
             "version": "3",
             "language": "fr"
           }
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Qqr1-v1",
+      "learningobject_hruid": "QqR1-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Qqr2-v1",
+            "hruid": "QqR2-v1",
             "version": "3",
             "language": "fr"
           }
@@ -67,14 +67,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Qqr2-v1",
+      "learningobject_hruid": "QqR2-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Qqr3-v1",
+            "hruid": "QqR3-v1",
             "version": "3",
             "language": "fr"
           }
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Qqr3-v1",
+      "learningobject_hruid": "QqR3-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
