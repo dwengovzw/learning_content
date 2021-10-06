@@ -1,5 +1,5 @@
 ---
-hruid: Qqr1-v1
+hruid: QqR1-v1
 version: 3
 language: fr
 title: "Qu'est-ce qu'un robot?"
