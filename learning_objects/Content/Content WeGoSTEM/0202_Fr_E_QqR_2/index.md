@@ -1,9 +1,9 @@
 ---
-hruid: WieR2-v1
+hruid: Qqr2-v1
 version: 3
-language: nl
-title: "Wat is een robot?"
-description: "Geschiedenis en bouw van robots"
+language: fr
+title: "Qu'est-ce qu'un robot?"
+description: "Histoire de la construction des robots."
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,23 +31,23 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Wat is een robot?
+# Qu'est-ce qu'un robot ?
 
-*Waaruit bestaat een robot?* 
+*De quoi est fait un robot ?*
 
-Een robot bestaat uit hardware (zijn lichaam, met bedrading, rekeneenheid en batterijen) en software (het programma dat hem aanstuurt).  
+Un robot se compose de matériel (son corps, avec le câblage, l'unité de calcul et les batteries) et de logiciels (le programme qui le contrôle).
 
-![](embed/hardsoftware.png "Hardware en Software")
+![](embed/hardsoftware.png "Matériel et logiciel")
 
-Het ‘lichaam’ van een robot bevat mechanische onderdelen die uit veel materialen kunnen bestaan: wielen, een arm, een hoofd, ...  
-De robot heeft sensoren (ingangen) om te ‘voelen’ en actuatoren (uitgangen) om te ‘handelen’. Men kan een robot voorzien van afstandssensoren, grondsensoren, tastsensoren, lichtsensoren of geluidssensoren.  
-Voorbeelden van actuatoren zijn een lcd-scherm, een zoemer en een servomotor. Jouw computer heeft ook in- en uitgangen. Het toetsenbord en de muis zijn voorbeelden van ingangen; het scherm is een uitgang. 
+Le 'corps' d'un robot contient des pièces mécaniques qui peuvent être constituées de plusieurs matériaux : des roues, un bras, une tête, ...
+Le robot a des capteurs (entrées) pour « sentir » et des actionneurs (sorties) pour « agir ». Un robot peut être équipé de capteurs de distance, de capteurs au sol, de capteurs tactiles, de capteurs de lumière ou de capteurs de son.
+Des exemples d'actionneurs sont un écran LCD, un buzzer et un servomoteur. Votre ordinateur dispose également d'entrées et de sorties. Le clavier et la souris sont des exemples d'entrées ; l'écran est une sortie.
 
-Cruciaal is de rekeneenheid waarmee je robot ‘beslissingen’ neemt. Hiervoor gebruik je bijvoorbeeld een processor (zoals in een computer) of een microcontroller (zoals op de Dwenguino). 
+L'unité de calcul avec laquelle votre robot prend des « décisions » est cruciale. Pour cela vous utilisez par exemple un processeur (comme dans un ordinateur) ou un microcontrôleur (comme sur le Dwenguino).
 
-![](embed/Dwenguinobordje.png "Rekeneenheid")
+![](embed/Dwenguinobordje.png "Unité de compte")
 
-De bedrading zorgt ervoor dat de rekeneenheid, de sensoren en de actuatoren met elkaar in verbinding staan. Hoe de robot zijn actuatoren aanstuurt, hangt af van de informatie die hij verzamelt via zijn sensoren en van de manier waarop de rekeneenheid geprogrammeerd is. De batterijen in de robot voorzien de motoren van de nodige energie. 
+Le câblage garantit que l'ordinateur, les capteurs et les actionneurs sont connectés les uns aux autres. La façon dont le robot contrôle ses actionneurs dépend des informations qu'il collecte via ses capteurs et de la façon dont l'unité de calcul est programmée. Les batteries du robot fournissent aux moteurs l'énergie nécessaire.
 
-Een robot kan alleen een bepaalde taak uitvoeren als zijn rekeneenheid daarvoor geprogrammeerd is. Die taak ligt niet per se vast: je kan de rekeneenheid telkens opnieuw zo programmeren dat de robot een andere taak vervult. Die taak kan bovendien afhangen van de informatie die de microcontroller via de ingangen krijgt, maar als het programma op de microcontroller er niets mee doet, heeft deze informatie geen effect.  
-Benieuwd wat jouw tekenrobot zoal kan? Je zal hem zo programmeren dat hij telkens opnieuw een tekening maakt.
+Un robot ne peut effectuer une certaine tâche que si sa calculatrice est programmée pour cela. Cette tâche n'est pas forcément figée : vous pouvez toujours reprogrammer l'unité de calcul de manière à ce que le robot effectue une tâche différente. Cette tâche peut également dépendre des informations que le microcontrôleur obtient via les entrées, mais si le programme sur le microcontrôleur ne fait rien avec, ces informations n'ont aucun effet.
+Curieux de savoir ce que votre robot de dessin peut faire ? Vous le programmerez de manière à ce qu'il fasse un dessin encore et encore.

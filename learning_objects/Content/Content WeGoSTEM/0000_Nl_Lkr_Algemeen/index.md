@@ -49,7 +49,7 @@ WeGoSTEM bundelt een aantal interessante activiteiten die je op twee lesuren kan
 * opruimen (10 min).
 
 De activiteiten kan je volledig uitgewerkt terugvinden in dit leerspoor. Een handige samenvatting kan je 
-[hier](https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtleerkrachten.pdf "Samenvatting WeGoSTEM") 
+[hier](@pdf/embed/WeGoSTEMoverzichtleerkrachten.pdf "Samenvatting WeGoSTEM") 
 downloaden. 
 
 Over WeGoSTEM werd goed nagedacht! We voorzien een logische opbouw van programmeren tot bouwen van een robot. Tijdsduur, prijs en leeftijdsgroep werden in rekening gebracht.  
@@ -60,3 +60,7 @@ Als je eigen/extra voorbeelden hebt over robots, geef die dan gerust! De tijdsin
 Indien er na het leerpad nog vragen zijn, kunt u ons altijd contacteren op [scholen@dwengo.org](scholen@dwengo.org"mail").
 
 ![](embed/WeGoSTEM_Front.jpg "close-up")
+
+Dit leerpad wordt aangeboden in samenwerking met:
+
+![](embed/Sponsors.png "sponsors")

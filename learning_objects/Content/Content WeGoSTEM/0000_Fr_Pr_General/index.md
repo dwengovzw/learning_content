@@ -1,10 +1,10 @@
 ---
-hruid: Lkr_Algemeen-v1
+hruid: Pr_General-v1
 version: 3
-language: nl
-title: "Doe mee met WeGoSTEM"
-description: "Inleiding tot het leerspoor"
-keywords: ["voorbeeld", "voorbeeld2"]
+language: Fr
+title: "Rejoindre WeGoSTEM"
+description: "Introduction du parcours"
+keywords: ["example1", "example2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,32 +31,36 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Doe mee met WeGoSTEM
+# Rejoindre WeGoSTEM
 
-Met WeGoSTEM enthousiasmeren we leerlingen uit de derde graad van het basisonderwijs voor techniek en informaticawetenschappen. We dagen de kinderen uit om een creatieve kunst-robot die zelfstandig kan tekenen, te bouwen en te programmeren. Zo leren ze heel wat STEM-vaardigheden van techniek tot computationeel denken. Op deze pagina hebben we al het ondersteunend didactisch materiaal samengebracht in een online les. De bijhorende kits kunt u reserveren bij een lokale bibliotheek (zie einde leerpad).
+Avec WeGoSTEM, nous suscitons l’envie des élèves de la troisième année de l'école primaire pour l'ingénierie et l'informatique. Nous mettons les enfants au défi de construire et de programmer un robot artistique créatif qui peut dessiner, construire et fonctionner de façon autonome. De cette façon, ils acquièrent de nombreuses compétences, de la technique à la pensée informatique.  
+
+Sur cette page, nous avons rassemblé tout le matériel didactique d'accompagnement dans une leçon en ligne. Vous pouvez réserver les kits correspondants dans une bibliothèque locale (voir la fin du parcours pédagogique).
 
 ![](@youtube/https://www.youtube.com/embed/RqyxGvzavCw)
 
-WeGoSTEM bundelt een aantal interessante activiteiten die je op twee lesuren kan realiseren in de klas. De activiteiten omvatten vijf verschillende stappen:
+WeGoSTEM regroupe un certain nombre d'activités intéressantes que vous pouvez réaliser en classe en deux leçons. Les activités comprennent cinq étapes différentes :
 
-###### **Eerste lesuur**
-* een klasgesprek over robots (10 - 15 min);
-* programmeer eens een mens (10 - 15 min);
-* bouwen van een tekenrobot (25 min);
+###### **Première classe**
+* une discussion en classe sur les robots (10 - 15 min) ;
+* programmer un humain (10 - 15 min);
+* construire un robot dessinateur (25 min) ;
   
-###### **Tweede lesuur**
-* programmeren van de tekenrobot en experimenteren (40min);
-* opruimen (10 min).
+###### **Seconde classe**
+* programmation du robot de dessin et expérimentation (40min);
+* nettoyage (10 min).
 
-De activiteiten kan je volledig uitgewerkt terugvinden in dit leerspoor. Een handige samenvatting kan je 
-[hier](https://scholen.dwengo.org/downloads/WeGoSTEMoverzichtleerkrachten.pdf "Samenvatting WeGoSTEM") 
-downloaden. 
+Les activités peuvent être trouvées en détail dans cette piste d'apprentissage. Vous pouvez télécharger un résumé pratique [ici](@pdf/embed/WeGoSTEMoverzichtleerkrachten.pdf "Samenvatting WeGoSTEM").
 
-Over WeGoSTEM werd goed nagedacht! We voorzien een logische opbouw van programmeren tot bouwen van een robot. Tijdsduur, prijs en leeftijdsgroep werden in rekening gebracht.  
-Bovendien hebben we WeGoSTEM ondertussen getest met meer dan 25000 kinderen over heel Europa. De vijf vooropgestelde activiteiten vormen een mooie leidraad voor een hands-on workshop van twee lesuren. 
+WeGoSTEM a été bien pensé ! Nous fournissons une structure logique de la programmation à la construction d'un robot. La durée, le prix et la tranche d'âge étaient facturés.
+De plus, nous avons testé WeGoSTEM avec plus de 25 000 enfants à travers l'Europe. Les cinq activités proposées constituent une bonne ligne directrice pour un atelier pratique de deux heures.
 
-Als je eigen/extra voorbeelden hebt over robots, geef die dan gerust! De tijdsindicatie is een suggestie, maar uiteraard aanpasbaar aan de noden van de klas. Kinderen zijn laaiend enthousiast wanneer ze met hun eigen robottekening naar huis kunnen!
+Si vous avez vos propres exemples/supplémentaires sur les robots, n'hésitez pas à les partager ! L'indication du temps est une suggestion, mais peut bien entendu être adaptée aux besoins de la classe. Les enfants sont très excités quand ils peuvent rentrer à la maison avec leur propre dessin de robot !
 
-Indien er na het leerpad nog vragen zijn, kunt u ons altijd contacteren op [scholen@dwengo.org](scholen@dwengo.org"mail").
+Si vous avez des questions après le parcours d'apprentissage, vous pouvez toujours nous contacter à [scholen@dwengo.org](scholen@dwengo.org "mail").
 
 ![](embed/WeGoSTEM_Front.jpg "close-up")
+
+Ce parcours pédagogique est offert en collaboration avec:
+
+![](embed/Sponsors.png "sponsors")

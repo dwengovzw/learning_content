@@ -1,9 +1,9 @@
 ---
-hruid: WieR1-v1
+hruid: Qqr1-v1
 version: 3
-language: nl
-title: "Wat is een robot?"
-description: "Geschiedenis en bouw van robots"
+language: fr
+title: "Qu'est-ce qu'un robot?"
+description: "Histoire de la construction des robots."
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,18 +31,18 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Wat is een robot?
+# Qu'est-ce qu'un robot ?
 
-*Welke robots heb jij al gezien?* 
+*Quels robots as-tu vu ?*
 
-In 1495 ontwierp Leonardo da Vinci een ‘mechanische leeuw' die kon voortbewegen op basis van mechanische principes. Het was echter pas in 1961 dat de industrie de eerste robot mocht verwelkomen: de Unimate. Deze robotarm kon je programmeren om taken zelfstandig uit te voeren. Geavanceerde varianten van de Unimate worden vandaag nog altijd gebruikt, bijvoorbeeld voor microchirurgie. 
+En 1495, Léonard de Vinci a conçu un « lion mécanique » qui pouvait se déplacer selon des principes mécaniques. Cependant, ce n'est qu'en 1961 que l'industrie accueille le premier robot : l'Unimate. Vous pouvez programmer ce bras robotique pour effectuer des tâches de manière indépendante. Des variantes avancées de l'Unimate sont encore utilisées aujourd'hui, par exemple pour la microchirurgie.
 
-![](embed/Robotarm.PNG "moderne robotarm")
+![](embed/Robotarm.PNG "Bras Robotique Moderne")
 
-Parallel met de ontwikkeling van zo’n industriële robots startten onderzoekers in 1950 met het systematisch bouwen van robots met poten. De meest bekende afstammelingen hiervan zijn ongetwijfeld Honda’s ASIMO (die een menselijke gedaante heeft) en Sony’s Aibo (een robothond).
+Parallèlement au développement de tels robots industriels, les chercheurs ont commencé à construire systématiquement des robots avec des jambes en 1950. Les descendants les plus célèbres de ceux-ci sont sans aucun doute l'ASIMO de Honda (qui a une forme humaine) et l'Aibo de Sony (un chien robot).
 
 ![](embed/ASIMO.PNG "Asimo")
 
-Bovendien houden onderzoekers zich niet alleen bezig met de mechanische bouw: ze focussen ook meer en meer op de sociale vaardigheden van robots. KISMET van MIT, uit de jaren negentig, lacht bijvoorbeeld naar je. Robots met gelaatsexpressie worden onder andere ingezet als baliemedewerkers in hotels of ziekenhuizen.
+De plus, les chercheurs ne s'intéressent pas seulement à la construction mécanique : ils s'intéressent aussi de plus en plus aux compétences sociales des robots. Par exemple, KISMET du MIT, des années 90, vous sourit. Les robots avec des expressions faciales sont utilisés, entre autres, comme réceptionnistes dans les hôtels ou les hôpitaux.
 
 ![](embed/Jibo.PNG "Jibo")

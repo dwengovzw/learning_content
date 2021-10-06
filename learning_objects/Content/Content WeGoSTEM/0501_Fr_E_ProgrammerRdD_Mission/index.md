@@ -1,9 +1,9 @@
 ---
-hruid: Opdracht_ProgrammerenTekenrobot-v1
+hruid: Mission_ProgrammerRdD-v1
 version: 3
-language: nl
-title: "Programmeren van de tekenrobot"
-description: "De leerlingen programmeren de gemonteerde robotarm"
+language: fr
+title: "Programmer"
+description: "Les étudiants programment le bras robotisé assemblé"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,11 +30,11 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Programmeren van de tekenrobot
+# Programmation du robot de dessin
 
-DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft jou de mogelijkheid om een robot te programmeren. Als je geen fysiek materiaal ter beschikking hebt, is er ook een simulator. In de simulator kan je kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot). De volgende opdrachten kan je uitvoeren in de simulator, een fysieke robot is dus niet noodzakelijk. 
+DwenguinoBlockly est un environnement de programmation conçu pour les enfants de la troisième année de l'enseignement primaire et de la première année de l'enseignement secondaire. L'environnement utilise un langage de programmation graphique et vous donne la possibilité de programmer un robot. Si vous n'avez pas d'équipement physique à disposition, il y a aussi un simulateur. Dans le simulateur, vous pouvez choisir parmi différents scénarios, tels qu'un robot de conduite, un robot social et un spirographe (robot de dessin). Vous pouvez effectuer les tâches suivantes dans le simulateur, un robot physique n'est donc pas nécessaire.
 
-Indien je na het programmeren van de tekenrobot nog meer met de simulator aan de slag wilt, dan kan je
-[hier]( "TBD") terecht voor meer leuke oefeningen.
+Si vous souhaitez travailler encore plus avec le simulateur après avoir programmé le robot de dessin, vous pouvez
+[ici] ("TBD") pour des exercices plus amusants.
 
-Veel succes!
+Bonne chance!

@@ -1,9 +1,9 @@
 ---
-hruid: WaarOntlenen-v1
+hruid: Emprunter-v1
 version: 3
-language: nl
-title: "Waar ontlenen"
-description: "Waar en hoe men materiaal kan ontlenen"
+language: fr
+title: "Où emprunter?"
+description: "Où et comment emprunter du matériel"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,56 +30,55 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Emprunt de matériel
 
-# Ontlenen van Materiaal
+Le matériel WeGoSTEM est fourni gratuitement par Dwengo VZW. Gardez-le en bon état pour les écoles suivantes.
 
-Het WeGoSTEM-materiaal wordt gratis aangeboden door Dwengo VZW. Hou het in goede staat voor de volgende scholen.
+Pour rendre la distribution de notre matériel aussi fluide que possible, nous travaillons en collaboration avec les bibliothèques locales. Un aperçu peut être trouvé à la fin de cet objet d'apprentissage avec des liens vers le formulaire de réservation.
 
-Om het verdelen van ons materiaal zo vlot mogelijk te laten verlopen, werken we samen met lokale bibliotheken. Een overzicht vindt u op het einde van dit leerobject terug met links naar het reserveringsformulier.
+Avec le matériel de cette boîte, vous pouvez donner un atelier WeGoSTEM pour une classe de 30 étudiants maximum. Incitez vos collègues à s'intéresser à WeGoSTEM et donnez l'atelier ensemble pour tous les élèves de 5e et 6e année !
+Vous êtes censé rendre le matériel à la bibliothèque après **deux semaines** !
 
-Met het materiaal in deze doos kan je een WeGoSTEM-workshop geven voor een klas tot maximaal 30 leerlingen. Maak jouw collega's ook warm voor WeGoSTEM en geef de workshop samen voor alle leerlingen van 5de en 6de leerjaar!
-Het is de bedoeling dat je het materiaal na **twee weken** terugbrengt naar de bibliotheek!
+## Contenu
+La boite contient :
+* 15 packs de robots
+* 1 boîte verte avec du matériel de rechange
+* 1 boite rouge avec tout ce qui est cassé
+* Impressions de robots à afficher en classe
+* Dessins pour l'activité *Programmer un Humain*
+* Exemples de photos de la façon dont le robot peut être construit à distribuer à chaque duo
 
-## Inhoud
-De doos bevat:
-* 15 robotpakketten
-* 1 groene doos met reservemateriaal
-* 1 rode doos met alles wat stuk is
-* Prenten van robots om in de klas te tonen
-* Tekeningen voor de activiteit *Programmeer eens een Mens*
-* Voorbeeldfoto's van hoe de robot gebouwd kan worden om uit te delen aan elk duo
-
-## Locaties
-* Hasselt: [Reserveer hier](https://bibliotheek.hasselt.be/provincielimburg.net?id=75442 "Reserveren")  
-Bibliotheek Hasselt Limburg  
-Martelarenlaan 17  
+## Emplacements
+* Hasselt : [Réservez ici](https://bibliotheek.hasselt.be/provincielimburg.net?id=75442 "Réserver")
+Bibliothèque Hasselt Limbourg
+Avenue Martelaren 17
 3500 Hasselt
 
-* Leuven [Reserveer hier]( "Reserveren")  
-Bib Kessel-Lo  
-Stadionlaan 4  
-3010 Kessel-Lo
+* Louvain [Réservez ici]( "Réserver")
+Bavoir Kessel-Lo
+Avenue Stadion 4
+3010 Kessel-Lô
 
-* Brussel [Reserveer hier]( "Reserveren")  
-Muntpunt  
-Tav. Erika Gebruers  
-Munt 6  
-1000 Brussel
+* Bruxelles [Réservez ici]( "Réserver")
+Point de pièce
+À l'attention. Erika Gebruers
+Pièce 6
+1000 Bruxelles
 
-* Kortrijk [Reserveer hier]( "Reserveren")  
-Manon Vergote - Jurgen van Lerberghe  
-Konventstraat 1  
-8500 Kortrijk
+* Courtrai [Réservez ici]( "Réserver")
+Manon Vergote - Jurgen van Lerberghe
+Rue Konvent 1
+8500 Courtrai
 
-* Gent [Reserveer hier](https://gent.bibliotheek.be/formulier/aanvraagformulier-wegostem "Reserveren")  
-Miriam Makebaplein 1  
-9000 Gent
+* Gand [Réservez ici](https://gent.bibliotheek.be/formulier/aformulier-wegostem "Réserve")
+Miriam Makeba Square 1
+9000 Gand
 
-* GAntwerpen [Reserveer hier]( "Reserveren")  
-Straatsburgdok-Noordkaai 29  
-2030 Antwerpen
+* GAntwerp [Réservez ici]( "Réserver")
+Quai de Strasbourg-Quai Nord 29
+2030 Anvers
 
-* Brugge [Reserveer hier]( "Reserveren")  
-Bibliotheek Xaverianen  
-Xaverianenstraat 3 bus 002  
-8200 Sint-Michiels (Brugge)
+* Bruges [Réservez ici]( "Réserver")
+Bibliothèque des Xavériens
+Xaverianenstraat 3 bus 002
+8200 Saint-Michel (Bruges)

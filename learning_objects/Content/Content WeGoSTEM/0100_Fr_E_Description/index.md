@@ -1,9 +1,9 @@
 ---
-hruid: Beschrijving-v1
+hruid: Description-v1
 version: 3
-language: nl
-title: "Algemene inleiding"
-description: "Beschrijving van het leerspoor"
+language: fr
+title: "Introduction générale"
+description: "Description du parcours"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,14 +30,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Wat ga je doen?
+## Qu'est-ce que vous allez faire?
 
-In dit leerpad ga je uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!
+Dans ce parcours, vous serez mis au défi de construire et de programmer vous-même un robot dessinateur!
 
 ![](@youtube/https://www.youtube.com/embed/5zK8zEZL7rk)
 
-Voor je hiermee aan de slag kunt, zal je wel eerst enkele supertoffe opdrachten moeten uitvoeren om je een beter idee te geven over hoe je het moet aanpakken. 
+Avant de pouvoir commencer avec cela, vous devrez d'abord effectuer des tâches super cool pour vous donner une meilleure idée de la façon de vous y prendre.
 
-Deze opdrachten omvatten uitleg over robots, activiteiten zoals *"Programmeer eens een Mens"* en  programmeeroefeningen.
+Ces devoirs comprennent des explications sur les robots, des activités telles que *"Program a Human"* et des exercices de programmation.
 
-Veel plezier! 
+Beaucoup de plaisir!

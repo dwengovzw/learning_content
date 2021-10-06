@@ -1,9 +1,9 @@
 ---
-hruid: WatNaWeGoSTEM-v1
+hruid: ApresWeGoSTEM-v1
 version: 3
-language: nl
-title: "Wat na WeGoSTEM?"
-description: "Overlopen extra materiaal"
+language: fr
+title: "Et après WeGoSTEM ?"
+description: "Débordant de matériel supplémentaire"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,8 +31,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Wat na WeGoSTEM?
+# Et après WeGoSTEM ?
 
-Tijdens de voorbereiding van WeGoSTEM maakte je kennis met de DwenguinoBlockly-simulator. Als jouw school een PC-klas heeft, dan kan je voor een aantal lesuren aan oefeningen voorzien. Deze oefeningen kan je [hier]( "extra oefeningen simulator") terugvinden.
+Lors de la préparation de WeGoSTEM, vous avez découvert le simulateur DwenguinoBlockly. Si votre école a un cours d'informatique, vous pouvez proposer des exercices pendant plusieurs heures. Ces exercices peuvent être trouvés [ici] ("simulateur d'exercices supplémentaires").
 
-Opdat het daar niet zou bij blijven, schreven we ter ondersteuning van de leerkrachten het boekje ['Ik kan al programmeren'](https://scholen.dwengo.org/downloads/ikkanalprogrammeren.pdf "robotboekje"), met mogelijke lesjes over computationeel denken en programmeren. Al de activiteiten die opgenomen zijn, hebben slechts een minimum aan materiaal nodig. Er moet bv. geen software geïnstalleerd worden en voor een aantal activiteiten is er zelfs geen computer nodig.
+Pour ne pas en rester là, nous avons rédigé le livret ['Je peux déjà programmer'](https://scholen.dwengo.org/downloads/ikkanalprogrammeren.pdf "livret robot") pour accompagner les enseignants, avec d'éventuelles leçons de calcul réflexion et programmation. Toutes les activités incluses ne nécessitent qu'un minimum de matériel. Par exemple, aucun logiciel ne doit être installé et pour un certain nombre d'activités, aucun ordinateur n'est même nécessaire.

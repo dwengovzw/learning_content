@@ -1,9 +1,9 @@
 ---
-hruid: Opruimen-v1
+hruid: Ranger-v1
 version: 3
-language: nl
-title: "Opruimen"
-description: "Hoe moet het materiaal opgeruimd worden"
+language: fr
+title: "Ranger"
+description: "Comment nettoyer le matériel ?"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,11 +31,11 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Opruimen
+# Ranger
 
-**Wees gerust, je moet nog niet onmiddellijk beginnen opruimen nu je klaar bent met de oefeningen! Programmeer maar rustig verder tot je leerkracht je laat weten dat het tijd is om op te ruimen.**
+**Ne vous inquiétez pas, vous ne devriez pas commencer immédiatement à nettoyer maintenant que vous avez terminé les exercices ! Continuez simplement à programmer jusqu'à ce que votre professeur vous dise qu'il est temps de nettoyer.**
 
-Reset eerst de Dwenguino via het kruisje in DwenguinoBlockly. Hierbij volg je hetzelfde proces als wanneer je een programma uploadt. Bij een succesvolle reset komt er *"Dwenguino ;)"* op het lcd-scherm.  
-Haal vervolgens alles mooi uit elkaar en steek alles terug in de doos. Zo kan een volgende klas er ook mee aan de slag. 
+Réinitialisez d'abord le Dwenguino via la croix dans DwenguinoBlockly. Vous suivez le même processus que lorsque vous téléchargez un programme. Une fois la réinitialisation réussie, *"Dwenguino ;)"* apparaîtra sur l'écran LCD.
+Ensuite, démontez soigneusement le tout et remettez le tout dans la boîte. De cette façon, le prochain cours peut également commencer.
 
-![Opgeruimde doos](https://scholen.dwengo.org/static/wegostem-doos.jpg "opgeruimde doos")
+![Boîte nettoyée](https://scholen.dwengo.org/static/wegostem-doos.jpg "boîte nettoyée")

@@ -1,9 +1,9 @@
 ---
-hruid: Opdracht_BouwenVanEenTekenrobot-v1
+hruid: Mission_ConstruireRdD-v1
 version: 3
-language: nl
-title: "Bouwen van een tekenrobot"
-description: "Tijdens deze activiteit gaan de leerlingen aan de slag met het materiaal en monteren ze de robotarm."
+language: fr
+title: "Construction"
+description: "Au cours de cette activité, les élèves travaillent avec le matériel et assemblent le bras du robot."
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,12 +31,12 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Bouwen van een Tekenrobot
+# Construire un robot de dessin
 
-Nu je een idee hebt van hoe een robot werkt, kan je beginnen aan het bouwen van de robot zelf! Dit zal je doen door gebruik te maken van de [foto](images/Voorbeeld.pdf "afgewerkte robot") en de componenten uit het doosje.
+Maintenant que vous avez une idée du fonctionnement d'un robot, vous pouvez commencer à construire le robot lui-même ! Vous le ferez en utilisant la [photo](images/Example.pdf "robot fini") et les composants de la boîte.
 
-![](images/Voorbeeld.png "afgewerkte robot")
+![](images/Example.png "robot fini")
 
-Probeer dit zeker eerst te doen a.d.h.v. de afbeelding! Als het niet lukt om de robotarm te bouwen op basis van de foto, bekijk dan onderstaand filmpje.
+Assurez-vous d'essayer d'abord l'image! Si vous ne parvenez pas à construire le bras du robot sur la base de la photo, regardez la vidéo ci-dessous.
 
-![filmpje](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Bouwen van een tekenrobot")
+![vidéo](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Construire un robot de dessin")

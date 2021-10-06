@@ -1,9 +1,9 @@
 ---
-hruid: WieR3-v1
+hruid: QqR3-v1
 version: 3
-language: nl
-title: "Wat is een robot?"
-description: "Geschiedenis en bouw van robots"
+language: fr
+title: "Qu'est-ce qu'un robot?"
+description: "Histoire de la construction des robots."
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,21 +31,21 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Wat is een robot?
+# Qu'est-ce qu'un robot ?
 
-*Robot versus dier?* 
+*Robot contre Animal ?*
 
-Een robot wordt weleens met een dier vergeleken. Die vergelijking leidt tot interessante vragen. Heeft een dier sensoren? Met welk deel van een dier kan je de motoren van een robot vergelijken? En heeft de bedrading een dierlijk equivalent? 
+Un robot est parfois comparé à un animal. Cette comparaison conduit à des questions intéressantes. Un animal a-t-il des capteurs ? À quelle partie d'un animal pouvez-vous comparer les moteurs d'un robot ? Et le câblage a-t-il un équivalent animal ?
 
-Het is voer voor discussie, maar de volgende interpretatie houdt wel steek: 
+C'est matière à discussion, mais l'interprétation suivante a du sens :
 
-* De rekeneenheid is het brein van de robot en komt overeen met de hersenen van een dier. Een robot kan namelijk alleen een taak uitvoeren als zijn rekeneenheid daarvoor geprogrammeerd is. 
+* La calculatrice est le cerveau du robot et correspond au cerveau d'un animal. Un robot ne peut effectuer une tâche que si son unité informatique est programmée pour cela.
 
-* De motoren doen de robot bewegen, dus je zou ze kunnen vergelijken met de spieren van een dier. 
-* De sensoren zijn de zintuigen van de robot. Via zijn sensoren haalt de robot informatie op uit zijn omgeving. 
+* Les moteurs font bouger le robot, vous pouvez donc les comparer aux muscles d'un animal.
+* Les capteurs sont les sens du robot. Le robot récupère les informations de son environnement via ses capteurs.
 
-* Een deel van de bedrading vormt het zenuwstelsel van de robot. Via deze draden worden signalen gestuurd: enerzijds van de rekeneenheid naar de motoren en de sensoren, en anderzijds van de sensoren naar de rekeneenheid. 
+* Une partie du câblage est le système nerveux du robot. Les signaux sont envoyés via ces fils : d'une part de l'unité de calcul vers les moteurs et capteurs, et d'autre part des capteurs vers l'unité de calcul.
 
-* Een ander deel van de bedrading zorgt voor het transport van de nodige energie Dit zijn de bloedvaten. Dieren halen energie uit hun voeding, bijvoorbeeld de energie die ze nodig hebben om hun spieren te bewegen. Robots krijgen hun energie van hun batterijen. Ze gebruiken de elektriciteit die de batterijen leveren om hun motoren te bewegen. 
+* Une autre partie du câblage assure le transport de l'énergie nécessaire, ce sont les vaisseaux sanguins. Les animaux tirent de l'énergie de leur nourriture, par exemple l'énergie dont ils ont besoin pour faire bouger leurs muscles. Les robots tirent leur énergie de leurs batteries. Ils utilisent l'électricité fournie par les batteries pour déplacer leurs moteurs.
 
-Waarin verschilt een dier dan van een robot? Het verschil zit hem vooral in de manier waarop een dier beslissingen neemt. Een dier houdt, al dan niet bewust, rekening met de omstandigheden. Een robot beweegt alleen als zijn rekeneenheid hem daartoe beveelt. Als er iets mis is met het programma, als de betreffende sensor stuk is of als de robot over te weinig energie beschikt, dan doet de robot niet wat hij zou moeten doen. Voor een dier geldt dat niet, aangezien het dierlijk brein in staat is om oplossingen te bedenken voor problemen.
+En quoi un animal est-il différent d'un robot ? La différence réside principalement dans la façon dont un animal prend des décisions. Un animal, consciemment ou non, tient compte des circonstances. Un robot ne bouge que lorsque sa calculatrice le lui dit. S'il y a un problème avec le programme, si le capteur concerné est cassé ou si le robot a trop peu d'énergie, le robot ne fait pas ce qu'il devrait faire. Cela ne s'applique pas à un animal, puisque le cerveau animal est capable de trouver des solutions aux problèmes.
