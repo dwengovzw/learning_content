@@ -224,7 +224,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "TéléchargerWGS-v1",
+            "hruid": "TelechargerWGS-v1",
             "version": "3",
             "language": "fr"
           }
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "learningobject_hruid": "TéléchargerWGS-v1",
+      "learningobject_hruid": "TelechargerWGS-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
@@ -359,7 +359,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS4-v1",
+            "hruid": "Pr_AttendWGS4-v1",
             "version": "3",
             "language": "fr"
           }
@@ -367,7 +367,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS4-v1",
+      "learningobject_hruid": "Pr_AttendWGS4-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
