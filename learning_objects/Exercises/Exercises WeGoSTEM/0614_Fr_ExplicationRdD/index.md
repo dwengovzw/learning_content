@@ -1,7 +1,7 @@
 ---
 hruid: MoteursWGS-v1
 version: 3
-language:fr
+language: fr
 title: "Explication Moteurs"
 description: "Explication Moteurs"
 keywords: ["WeGoSTEM"]
