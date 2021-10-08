@@ -1,7 +1,7 @@
 ---
 hruid: PR_BoutonsWGS3-v1
 version: 3
-language: nl
+language: fr
 title: "Knoppen Voorbeeld"
 description: "Knoppen Voorbeeld"
 keywords: ["StartToDwenguino", "knoppen"]

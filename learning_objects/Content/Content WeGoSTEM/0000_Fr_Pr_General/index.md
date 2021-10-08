@@ -1,7 +1,7 @@
 ---
 hruid: Pr_General-v1
 version: 3
-language: Fr
+language: fr
 title: "Rejoindre WeGoSTEM"
 description: "Introduction du parcours"
 keywords: ["example1", "example2"]
