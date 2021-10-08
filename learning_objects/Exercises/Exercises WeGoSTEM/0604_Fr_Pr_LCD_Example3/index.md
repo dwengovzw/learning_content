@@ -1,5 +1,5 @@
 ---
-hruid: Pr_lcdWGS3-v1
+hruid: pr_lcdWGS3-v1
 version: 3
 language: fr
 title: "Lcd Example"
