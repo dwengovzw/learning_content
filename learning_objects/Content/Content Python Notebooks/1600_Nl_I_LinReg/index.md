@@ -29,4 +29,7 @@ skos_concepts: [
 ]
 ---
 
+# Lineaire regressie
+Ook lineaire regressie is een leerdoel voor de tweede graad. In deze notebooks leer je met Python de rechte die het best past bij een dataset vinden en visualiseren, gebruikmakend van 'echte' data.
+
 ![notebook](@learning-object/MLineaireRegressie-v1/nl/3)

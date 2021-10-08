@@ -1,10 +1,10 @@
 ---
-hruid: WerkingNotebooks-v1
+hruid: Spreidingsdiagram-v1
 version: 3
 language: nl
-title: "Werking Notebooks"
+title: "Spreidingsdiagram"
 description: "Notebooks over ..."
-keywords: ["voorbeeld, voorbeeld2"]
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,5 +29,9 @@ skos_concepts: [
 ]
 ---
 
-![notebook](@learning-object/MWerkingNotebooks-v1/nl/3)
+# Spreidingsdiagram
+Werken met spreidingsdiagrammen is een van de leerdoelen van de tweede graad. In deze reeks notebooks leer je in Python een spreidingsdiagram maken van een dataset van twee variabelen. Dat kan data zijn die je zelf intikt of data die je inlaadt vanuit een bestand. 
+Met twee andere notebooks kan je het geleerde inoefenen. Het belang van visualisatie wordt duidelijk in nog twee andere notebooks.
+
+![notebook](@learning-object/MSpreidingsdiagram-v1/nl/3)
 
