@@ -1,8 +1,8 @@
 ---
-hruid: FunctiesDefiniëren-v1
+hruid: IPadres-v1
 version: 3
 language: nl
-title: "Functies definiëren"
+title: "IP-adres"
 description: "Notebooks over ..."
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
@@ -29,5 +29,8 @@ skos_concepts: [
 ]
 ---
 
-![notebook](@learning-object/MFunctiesDefiniëren-v1/nl/3)
+# IP-adres
+Met deze notebook kan je illustreren waarom binaire en hexadecimale talstelsels belangrijk zijn in de computerwetenschappen. Ondertussen leer je wat een IP-adres nu eigenlijk is.
+
+![notebook](@learning-object/MIPadres-v1/nl/3)
 

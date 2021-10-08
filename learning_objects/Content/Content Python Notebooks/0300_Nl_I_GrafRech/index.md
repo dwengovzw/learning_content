@@ -2,7 +2,7 @@
 hruid: GrafiekenEnRechten-v1
 version: 3
 language: nl
-title: "Grafieken en rechten"
+title: "Rechten"
 description: "Notebooks over ..."
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
@@ -28,6 +28,12 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
+
+# Rechten
+Een rechte is een verzameling van punten. Wat je reeds leerde over spreidingsdiagrammen kan je dus ook toepassen om een rechte te visualiseren.
+In deze notebooks leer je hoe je de vergelijking van een rechte kunt ingeven in Python en hoe je de rechte kunt laten tekenen in een grafiek. Wie wil kan ook nog de notebooks doorlopen die je inwijden in het opmaken van een grafiek.   
+Twee notebooks behandelen de invloed die de parameters in de vergelijking van een rechte hebben op de vorm van de grafiek.
+De laatste notebook gaat nog een stap verder: daarin leer je hoe je in Python het snijpunt van twee rechten berekent en hoe je het resultaat grafisch voorstelt.
 
 ![notebook](@learning-object/MGrafiekenEnRechten-v1/nl/3)
 

@@ -1,8 +1,8 @@
 ---
-hruid: Spreidingsdiagram-v1
+hruid: Klimaatverandering-v1
 version: 3
 language: nl
-title: "Spreidingsdiagram"
+title: "Klimaatverandering"
 description: "Notebooks over ..."
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
@@ -29,5 +29,10 @@ skos_concepts: [
 ]
 ---
 
-![notebook](@learning-object/MSpreidingsdiagram-v1/nl/3)
+# Klimaatverandering
+In deze STEM-notebooks ga je aan de slag met data die de klimaatverandering concreet maken: data van de atmosferische CO2-concentratie door de eeuwen heen, data van de dikte of lengte van twee gletsjers in Zwitserland, data van het zeeniveau in Oostende.
+Je zal de data weergeven in een spreidingsdiagram en je krijgt ook enkele opdrachten die je helpen om de data te interpreteren. 
+
+
+![notebook](@learning-object/MKlimaatverandering-v1/nl/3)
 
