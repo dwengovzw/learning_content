@@ -1,7 +1,7 @@
 ---
 hruid: AttendWGS-v1
 version: 3
-language: nl
+language: fr
 title: "Attend"
 description: "Attend"
 keywords: ["StartToDwenguino", "wacht"]
