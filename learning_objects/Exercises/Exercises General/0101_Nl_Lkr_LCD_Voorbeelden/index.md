@@ -68,5 +68,3 @@ Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 4 plaatsen op naa
 
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
-
-Test
