@@ -63,4 +63,4 @@ Si vous avez des questions après le parcours d'apprentissage, vous pouvez toujo
 
 Ce parcours pédagogique est offert en collaboration avec:
 
-![](embed/Sponsors.png "sponsors")
+![](embed/WeGoSTEM_Sponsors.png "sponsors")
