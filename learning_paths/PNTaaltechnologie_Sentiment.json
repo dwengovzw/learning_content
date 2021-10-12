@@ -30,7 +30,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Sentiment3-v1-v1",
+            "hruid": "Sentiment3-v1",
             "version": "3",
             "language": "nl"
           }
