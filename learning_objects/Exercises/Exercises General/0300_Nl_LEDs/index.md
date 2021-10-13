@@ -35,7 +35,7 @@ teacher_exclusive: false
 
 Links onderaan op het Dwenguino-bord vind je acht leds:
 
-![alt](https://scholen.dwengo.org/static/leds.png "Afb. leds")
+![alt](embed/leds.png "Afb. leds")
 
 Deze leds zijn *led 0*,*led 1*, ..., *led 7*, van rechts naar links.
 
