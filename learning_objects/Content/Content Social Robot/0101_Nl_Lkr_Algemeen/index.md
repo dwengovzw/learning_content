@@ -1,8 +1,8 @@
 ---
-hruid: Lkr_AlgemeenSR-v1
+hruid: SR_InleidingLkr-v1
 version: 3
 language: nl
-title: "Leerkracht Algemeen"
+title: "Inleiding Leerkracht"
 description: "Inleiding tot het leerspoor"
 keywords: ["sociale robot"]
 educational_goals: [

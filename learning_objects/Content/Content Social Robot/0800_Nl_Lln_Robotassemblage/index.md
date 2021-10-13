@@ -1,9 +1,9 @@
 ---
-hruid: Robotassemblage-v1
+hruid: SR_BouwenRobot-v1
 version: 3
 language: nl
-title: "Robotassemblage"
-description: "Robotassemblage"
+title: "Bouwen van de Robot"
+description: "SR_BouwenRobot"
 keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Robotassemblage
+# SR_BouwenRobot
 
 ## Uitsnijden van de uitsparingen
 

@@ -1,10 +1,10 @@
 ---
-hruid: T-v1
+hruid: SR_Waar-v1
 version: 3
 language: nl
-title: "T"
+title: "Logistiek"
 description: "T"
-keywords: [""]
+keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

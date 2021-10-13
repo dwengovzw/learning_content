@@ -1,8 +1,8 @@
 ---
-hruid: UnpluggedOpdracht 1-v1
+hruid: SR_VBUnplugged1-v1
 version: 3
 language: nl
-title: "Doel unplugged Opdracht 1"
+title: "Voorbereiding "unplugged Opdracht 1""
 description: "Maak een gezicht"
 keywords: ["sociale robot"]
 educational_goals: [

@@ -1,8 +1,8 @@
 ---
-hruid: Context_SRunplugged-v1
+hruid: SR_UnpluggedLln-v1
 version: 3
 language: nl
-title: "Context SR unplugged"
+title: "Inleiding "SR unplugged""
 description: "Context SR unplugged"
 keywords: ["sociale robot"]
 educational_goals: [
