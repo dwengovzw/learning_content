@@ -3,7 +3,7 @@ hruid: lkr_lcdWGS3-v1
 version: 3
 language: nl
 title: "Lcd Voorbeeld"
-description: "lcd Voorbeeld"
+description: "Voorbeeld Lcd 3"
 keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 

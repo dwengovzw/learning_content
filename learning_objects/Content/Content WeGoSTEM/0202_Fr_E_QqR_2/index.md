@@ -2,7 +2,7 @@
 hruid: QqR2-v1
 version: 3
 language: fr
-title: "Qu'est-ce qu'un robot?"
+title: "Qu'est-ce qu'un robot? Part 2"
 description: "Histoire de la construction des robots."
 keywords: ["WeGoSTEM"]
 educational_goals: [
