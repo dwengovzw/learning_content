@@ -1,10 +1,10 @@
 ---
-hruid: pr_lcdWGS1-v1
+hruid: T-v1
 version: 3
-language: fr
-title: "Lcd Example"
-description: "Example LCD 1"
-keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
+language: nl
+title: "T"
+description: "T"
+keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,23 +23,18 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: true
 ---
-### Exemple d'écran LCD
 
-QUESTION 1
+# Titel
 
-Faites apparaître 'Welcome Robot' sur l'écran LCD.
+## Tussentitel
 
-Solution:
+### Subtitel
 
-![blockly](@learning-object/LCDM1F-v1/nl/3)
-
-Vous pouvez modifier le texte 'Bienvenue robot'. Les deux zéros signifient : première ligne, premier caractère.
-
-*Testez ces exemples vous-même dans le simulateur ! Une fois que vous aurez compris son fonctionnement, vous pourrez commencer vous-même.*
+**Onderverdeling**
