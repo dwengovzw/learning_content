@@ -16,7 +16,7 @@
           "default": true,
           "next": {
             "hruid": "Sentiment2-v1",
-            "version": "1",
+            "version": "3",
             "language": "nl"
           }
         }
@@ -25,7 +25,7 @@
     {
       "learningobject_hruid": "Sentiment2-v1",
       "language": "nl",
-      "version": "1",
+      "version": "3",
       "transitions": [
         {
           "default": true,
