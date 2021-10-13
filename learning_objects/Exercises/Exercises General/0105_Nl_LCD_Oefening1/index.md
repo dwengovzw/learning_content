@@ -36,7 +36,7 @@ teacher_exclusive: false
 
 Laat je voornaam verschijnen op het lcd-scherm.
 
-Test je programma uit in de simulator met ![alt](https://scholen.dwengo.org/static/play.png "Afb. Play") tot je het gevraagde resultaat bekomt!
+Test je programma uit in de simulator met ![alt](embed/play.png "Afb. Play") tot je het gevraagde resultaat bekomt!
 
 
 ### 1.1.2
