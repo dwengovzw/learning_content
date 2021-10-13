@@ -1,10 +1,10 @@
 ---
-hruid: T-v1
+hruid: SR_Programmeren2-v1
 version: 3
 language: nl
-title: "T"
+title: "Simulatie naar Echt"
 description: "T"
-keywords: [""]
+keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -28,7 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Titel

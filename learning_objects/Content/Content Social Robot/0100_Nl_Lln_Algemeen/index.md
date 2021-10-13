@@ -1,8 +1,8 @@
 ---
-hruid: Lln_AlgemeenSR-v1
+hruid: SR_Inleiding-v1
 version: 3
 language: nl
-title: "Leerling Algemeen"
+title: "Inleiding"
 description: "Inleiding tot het leerspoor"
 keywords: ["sociale robot"]
 educational_goals: [

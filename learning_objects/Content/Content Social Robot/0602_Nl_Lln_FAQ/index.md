@@ -35,7 +35,7 @@ teacher_exclusive: false
 
 ### Het lcd-scherm toont geen tekst
 
-* Pas het contrast van het lcd-scherm aan via het gele schroefje op de Dwenguino microcontroller (zie **6. Robotassemblage > Bedrading**)
+* Pas het contrast van het lcd-scherm aan via het gele schroefje op de Dwenguino microcontroller (zie **6. SR_BouwenRobot > Bedrading**)
 
 ### De sonar-sensor werkt niet
 

@@ -1,8 +1,8 @@
 ---
-hruid: SRunplugged_Opdracht1-v1
+hruid: SR_Lkr_Unplugged1-v1
 version: 3
 language: nl
-title: "SR unplugged Opdracht 1"
+title: "Unplugged Opdracht 1"
 description: "Maak een gezicht"
 keywords: ["sociale robot", "activiteit"]
 educational_goals: [

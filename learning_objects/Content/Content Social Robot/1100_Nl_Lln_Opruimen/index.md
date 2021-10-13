@@ -1,10 +1,10 @@
 ---
-hruid: SR_Beschrijving-v1
+hruid: SR_Opruimen-v1
 version: 3
 language: nl
-title: "Beschrijving"
-description: "Beschrijving sociale robot"
-keywords: ["sociale robot"]
+title: "Opruimen"
+description: "T"
+keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -28,9 +28,13 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Sociale Robot
+# Titel
 
-Laat de leerlingen een eigen 'sociale robot' ontwerpen en programmeren. Een combinatie van creativiteit, computationeel denken en techniek die leidt tot leuke robots die kunnen interageren met de leerlingen!
+## Tussentitel
+
+### Subtitel
+
+**Onderverdeling**
