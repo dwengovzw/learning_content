@@ -2,7 +2,7 @@
 hruid: SR_VBUnplugged2-v1
 version: 3
 language: nl
-title: "Voorbereiding "SR unplugged Opdracht 2""
+title: "Voorbereiding SR unplugged Opdracht 2"
 description: "Emotiemachine"
 keywords: ["sociale robot"]
 educational_goals: [
