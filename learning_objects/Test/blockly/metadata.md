@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: blockly
 available: true
-target_ages: [4, 3]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
