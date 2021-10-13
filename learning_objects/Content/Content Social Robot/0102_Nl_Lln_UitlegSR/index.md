@@ -1,5 +1,5 @@
 ---
-hruid: SR_UitlegLln-v1
+hruid: SR_Uitleg-v1
 version: 3
 language: nl
 title: "Uitleg Sociale Robot"

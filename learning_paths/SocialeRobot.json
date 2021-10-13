@@ -30,7 +30,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "SR_InleidingLkr-v1",
+            "hruid": "SR_Lkr_Inleiding-v1",
             "version": "3",
             "language": "nl"
           }
@@ -38,7 +38,22 @@
       ]
     },
     {
-      "learningobject_hruid": "SR_InleidingLkr-v1",
+      "learningobject_hruid": "SR_Lkr_Inleiding-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Uitleg-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Uitleg-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -105,6 +120,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "SR_Unplugged1-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Unplugged1-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "SR_VBUnplugged2-v1",
             "version": "3",
             "language": "nl"
@@ -135,6 +165,51 @@
         {
           "default": true,
           "next": {
+            "hruid": "SR_Unplugged2-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Unplugged2-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Overzicht_robotonderdelen-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Overzicht_robotonderdelen-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Robotontwerp-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Robotontwerp-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "Dwenguino_intro-v1",
             "version": "3",
             "language": "nl"
@@ -159,21 +234,6 @@
     },
     {
       "learningobject_hruid": "Dwengo_simulator-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Overzicht_robotonderdelen-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Overzicht_robotonderdelen-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -480,7 +540,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "T-v1",
+            "hruid": "SR_Programmeren2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -488,7 +548,67 @@
       ]
     },
     {
-      "learningobject_hruid": "T-v1",
+      "learningobject_hruid": "SR_Programmeren2-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Fotosessie-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Fotosessie-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Opruimen-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Opruimen-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Waar-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Waar-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Afsluiten-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Afsluiten-v1",
       "version": "3",
       "language": "nl"
     } 
