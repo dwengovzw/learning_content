@@ -3,7 +3,7 @@ hruid: Lkr_WachtWGS1-v1
 version: 3
 language: nl
 title: "Wacht Voorbeeld"
-description: "Wacht Voorbeeld"
+description: "Voorbeeld Wacht 1"
 keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 

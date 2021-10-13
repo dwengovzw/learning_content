@@ -3,7 +3,7 @@ hruid: pr_lcdWGS3-v1
 version: 3
 language: fr
 title: "Lcd Example"
-description: "lcd Example"
+description: "Example LCD 3"
 keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 

@@ -2,7 +2,7 @@
 hruid: WieR1-v1
 version: 3
 language: nl
-title: "Wat is een robot?"
+title: "Wat is een robot? Deel 1"
 description: "Geschiedenis en bouw van robots"
 keywords: ["WeGoSTEM"]
 educational_goals: [

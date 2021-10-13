@@ -2,7 +2,7 @@
 hruid: Conclusion_PuH-v1
 version: 3
 language: fr
-title: "Conclusion Programmer un humain"
+title: "Conclusion <<Programmer un humain>>"
 description: "La conclusion"
 keywords: ["WeGoSTEM", "activiteit"]
 educational_goals: [

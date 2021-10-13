@@ -3,7 +3,7 @@ hruid: Pr_AttendWGS4-v1
 version: 3
 language: fr
 title: "Attend Example"
-description: "Attend Example"
+description: "Example Attend 4"
 keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
