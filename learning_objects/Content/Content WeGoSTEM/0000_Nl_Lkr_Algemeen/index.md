@@ -63,4 +63,4 @@ Indien er na het leerpad nog vragen zijn, kunt u ons altijd contacteren op [scho
 
 Dit leerpad wordt aangeboden in samenwerking met:
 
-![](embed/WEGoSTEM_Sponsors.png "sponsors")
+![](embed/WeGoSTEM_Sponsors.png "sponsors")
