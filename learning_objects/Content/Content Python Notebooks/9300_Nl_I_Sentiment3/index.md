@@ -32,5 +32,7 @@ skos_concepts: [
 # Taaltechnologie: Sentimentanalyse 
 In de interactieve notebooks wordt duidelijk hoe sentimentanalyse met regelgebaseerde of datagebaseerde systemen gebeurt.
 
+![](embed/Reviews.png "Reviews flowchart")
+
 ![notebook](@learning-object/MSentiment3-v1/nl/3)
 
