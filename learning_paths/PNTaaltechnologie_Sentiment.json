@@ -15,6 +15,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "PN_VerwijzingWerken-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "PN_VerwijzingWerken-v1",
+      "language": "nl",
+      "version": "3",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "Sentiment1-v1",
             "version": "3",
             "language": "nl"
