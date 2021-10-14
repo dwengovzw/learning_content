@@ -2,7 +2,7 @@
 hruid: Sentiment2-v1
 version: 3
 language: nl
-title: "Sentimentanalyse 2"
+title: "Programmeerstructuren"
 description: "Notebooks over ..."
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [

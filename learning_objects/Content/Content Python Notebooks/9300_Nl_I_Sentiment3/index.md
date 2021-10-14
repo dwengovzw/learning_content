@@ -2,7 +2,7 @@
 hruid: Sentiment3-v1
 version: 3
 language: nl
-title: "Sentimentanalyse 3"
+title: "Sentimentanalyse"
 description: "Notebooks over ..."
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
