@@ -31,6 +31,6 @@ skos_concepts: [
 
 # Rekenen
 
-![notebook](@learning-object/extern-test-v1/nl/3)
+![notebook](@learning-object/Pn_RekenenM-v1/nl/3)
 
 

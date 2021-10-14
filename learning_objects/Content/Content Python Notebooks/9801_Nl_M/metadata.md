@@ -1,5 +1,5 @@
 ---
-hruid: MKlimaatverandering-v1
+hruid: PN_KlimaatveranderingM-v1
 version: 3
 language: nl
 title: "Meta"

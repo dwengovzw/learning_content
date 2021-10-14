@@ -33,6 +33,6 @@ skos_concepts: [
 
 * Leerpad *"Werken met notebooks"*
 * Leerpad *"Spreidingsdiagram"*
-* Leerpad *"Rekenen"*
+* Leerpad *"Operatoren"*
 
 

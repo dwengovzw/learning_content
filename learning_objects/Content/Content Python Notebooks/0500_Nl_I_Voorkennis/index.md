@@ -30,3 +30,5 @@ skos_concepts: [
 ---
 
 # Voorkennis
+
+* Leerpad *"Operatoren"*
