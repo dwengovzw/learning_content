@@ -1,9 +1,9 @@
 ---
-hruid: PN_VoorkennisRechten-v1
+hruid: TemplateI-v1
 version: 3
 language: nl
-title: "Voorkennis"
-description: "Voorkennis"
+title: "Opdracht Leds 2"
+description: "Opdracht Leds"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,11 +28,8 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
+Hier is een jupyter notebook:
 
-# Voorkennis
-
-* Leerpad *"Werken met notebooks"*
-* Leerpad *"Spreidingsdiagram"*
-* Leerpad *"Rekenen"*
+![notebook](@learning-object/extern-test-v1/nl/3)
 
 
