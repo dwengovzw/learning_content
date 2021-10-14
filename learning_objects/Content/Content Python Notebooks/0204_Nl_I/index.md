@@ -31,6 +31,6 @@ skos_concepts: [
 # Belang van visualisatie
 Hier wordt geïllustreerd waarom illustratie van belang is.
 
-![notebook](@learning-object/PN_BelangVisualisatieM-v1/nl/1)
+![notebook](@learning-object/PN_BelangVisualisatieM-v1/nl/3)
 
 

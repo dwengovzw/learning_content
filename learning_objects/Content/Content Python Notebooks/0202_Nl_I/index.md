@@ -31,4 +31,4 @@ skos_concepts: [
 # Data uit een bestand visualiseren
 Vaak is het handig om grote hoeveelheden data te kunnen inlezen vanuit een bestand en deze te visualiseren. In deze notebook illustreren we de werkwijze op een klein databestand. De techniek voor een groter databestand is dezelfde.
 
-![notebook](@learning-object/PN_DataUitBestandM-v1/nl/1)
+![notebook](@learning-object/PN_DataUitBestandM-v1/nl/3)
