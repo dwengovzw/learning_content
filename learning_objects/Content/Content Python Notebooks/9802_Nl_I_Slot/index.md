@@ -1,9 +1,9 @@
 ---
-hruid: LineaireRegressie-v1
+hruid: PN_SlotKlimaat-v1
 version: 3
 language: nl
-title: "Lineaire regressie"
-description: "Notebooks over ..."
+title: "Slot"
+description: "Slot"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,4 @@ skos_concepts: [
 ]
 ---
 
-# Lineaire regressie
-Ook lineaire regressie is een leerdoel voor de tweede graad. In deze notebooks leer je met Python de rechte die het best past bij een dataset vinden en visualiseren, gebruikmakend van 'echte' data.
-
-![notebook](@learning-object/MLineaireRegressie-v1/nl/3)
+# Slot
