@@ -1,9 +1,9 @@
 ---
-hruid: PN_OefenenSpreidingsdiagram-v1
+hruid: PN_VoorkennisLineaireRegressie-v1
 version: 3
 language: nl
-title: "Oefenen met Data"
-description: "Oefenen met Data"
+title: "Voorkennis"
+description: "Voorkennis"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,7 +28,9 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Oefenen met echte data
-Je past nu wat je leerde toe op echte data: de stations die de NMBS aandoet en de uitbarstingen van de geiser *'old fateful'*.
+# Voorkennis
 
-![notebook](@learning-object/PN_OefenenSpreidingsdiagramM-v1/nl/1)
+* Leerpad *"Werken met notebooks"*
+* Leerpad *"Spreidingsdiagram"*
+* Een rechte kunnen tekenen (Leerpad *"Rechten"*)
+

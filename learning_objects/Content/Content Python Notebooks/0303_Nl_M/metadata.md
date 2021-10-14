@@ -1,5 +1,5 @@
 ---
-hruid: TemplateM-v1
+hruid: PN_OefenenRegressieM-v1
 version: 3
 language: nl
 title: "Testing external content as learning object"
@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-content_location: "https://kiks.ilabt.imec.be/jupyterhub/?id=1"
+content_location: "https://kiks.ilabt.imec.be/jupyterhub/?id=0303"
 estimated_time: 50
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 

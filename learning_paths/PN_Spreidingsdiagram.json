@@ -60,7 +60,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "PN_OefenenData-v1",
+            "hruid": "PN_OefenenSpreidingsdiagram-v1",
             "version": "3",
             "language": "nl"
           }
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "learningobject_hruid": "PN_OefenenData-v1",
+      "learningobject_hruid": "PN_OefenenSpreidingsdiagram-v1",
       "version": "3",
       "language": "nl",
       "transitions": [

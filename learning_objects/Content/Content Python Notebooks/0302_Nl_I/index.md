@@ -1,9 +1,9 @@
 ---
-hruid: TemplateI-v1
+hruid: PN_Standaardiseren-v1
 version: 3
 language: nl
-title: "Opdracht Leds 2"
-description: "Opdracht Leds"
+title: "Standaardiseren"
+description: "Standaardiseren"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-Hier is een jupyter notebook:
+# Standaardiseren
+De mate van correlatie kan je niet altijd op het zicht inschatten. Je leert waarom het standaardiseren van de gegevens in dat opzicht belangrijk is. Ook visualiseren kan daarbij een steentje bijdragen.
 
-![notebook](@learning-object/extern-test-v1/nl/1)
-
-Tadaaaa!
+![notebook](@learning-object/PN_StandaardiserenM-v1/nl/1)

@@ -1,5 +1,5 @@
 ---
-hruid: PN_OefenenDataM-v1
+hruid: PN_OefenenSpreidingsdiagramM-v1
 version: 3
 language: nl
 title: "Testing external content as learning object"
