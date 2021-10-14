@@ -1,9 +1,9 @@
 ---
-hruid: PN_EersteGrafiek-v1
+hruid: PN_InleidingSpreidingsdiagram-v1
 version: 3
 language: nl
-title: "Je eerste grafiek"
-description: "Opdracht Leds"
+title: "Inleiding"
+description: "Inleiding"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,9 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Je eerste grafiek
+# Inleiding
 
-Je leert een tekenvenster aanmaken en enkele datapunten visualiseren.
-
-![notebook](@learning-object/PN_EersteGrafiekM-v1/nl/1)
-
+Werken met spreidingsdiagrammen is een van de leerdoelen van de tweede graad. In deze reeks notebooks leer je in Python een spreidingsdiagram maken van een dataset van twee variabelen. Dat kan data zijn die je zelf intikt of data die je inlaadt vanuit een bestand. 
+Met twee andere notebooks kan je het geleerde inoefenen. Het belang van visualisatie wordt duidelijk in nog twee andere notebooks.

@@ -1,9 +1,9 @@
 ---
-hruid: PN_EersteGrafiek-v1
+hruid: PN_DataUitBestand-v1
 version: 3
 language: nl
-title: "Je eerste grafiek"
-description: "Opdracht Leds"
+title: "Data uit bestand"
+description: "Data uit bestand"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,9 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Je eerste grafiek
+# Data uit een bestand visualiseren
+Vaak is het handig om grote hoeveelheden data te kunnen inlezen vanuit een bestand en deze te visualiseren. In deze notebook illustreren we de werkwijze op een klein databestand. De techniek voor een groter databestand is dezelfde.
 
-Je leert een tekenvenster aanmaken en enkele datapunten visualiseren.
-
-![notebook](@learning-object/PN_EersteGrafiekM-v1/nl/1)
-
+![notebook](@learning-object/PN_DataUitBestandM-v1/nl/1)
