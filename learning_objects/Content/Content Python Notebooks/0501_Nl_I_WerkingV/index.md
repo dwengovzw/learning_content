@@ -31,4 +31,4 @@ skos_concepts: [
 
 # Werken met notebooks
 
-Indien dit de eerste keer is dat je met de Python notebooks aan de slag gaat, neem je best eerst het leerpad *"Werken met de notebooks"* door.
+Indien dit de eerste keer is dat je met de Python notebooks aan de slag gaat, neem je best eerst het leerpad *"Werken met notebooks"* door.
