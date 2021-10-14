@@ -1,9 +1,9 @@
 ---
-hruid: PN_VoorkennisRechten-v1
+hruid: Pn_Rekenen-v1
 version: 3
 language: nl
-title: "Voorkennis"
-description: "Voorkennis"
+title: "Rekenen"
+description: "Rekenen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,10 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Voorkennis
+# Rekenen
 
-* Leerpad *"Werken met notebooks"*
-* Leerpad *"Spreidingsdiagram"*
-* Leerpad *"Rekenen"*
+![notebook](@learning-object/extern-test-v1/nl/3)
 
 
