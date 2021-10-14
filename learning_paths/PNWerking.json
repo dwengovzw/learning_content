@@ -8,8 +8,9 @@
   "nodes": [
     {
       "learningobject_hruid": "WerkingNotebooks-v1",
+      "language": "nl",
       "version": "3",
-      "language": "nl"    
+      "start_node": true
     }
   ]
 }
