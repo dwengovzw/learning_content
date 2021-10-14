@@ -1,5 +1,5 @@
 ---
-hruid: PN_Slotaze-v1
+hruid: PN_SlotRegressie-v1
 version: 3
 language: nl
 title: "Slot"
@@ -29,3 +29,4 @@ skos_concepts: [
 ]
 ---
 # Slot
+Wil je dit toepassen in een STEM-project? Je vindt er in het leerpad *"Klimaat"*.

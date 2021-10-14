@@ -1,9 +1,9 @@
 ---
-hruid: TemplateI-v1
+hruid: PN_LineaireRegressie-v1
 version: 3
 language: nl
-title: "Opdracht Leds 2"
-description: "Opdracht Leds"
+title: "Lineaire Regressie"
+description: "Lineaire Regressie"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-Hier is een jupyter notebook:
+# Lineaire Regressie
+Wat is lineaire regressie nu eigenlijk? Wat is het belang van de correlatiecoëfficiënt? Teken de vergelijking van de best passende rechte en stel de vergelijking op.
 
-![notebook](@learning-object/extern-test-v1/nl/1)
-
-Tadaaaa!
+![notebook](@learning-object/PN_LineaireRegressieM-v1/nl/1)
