@@ -29,5 +29,6 @@ skos_concepts: [
 ]
 ---
 # Oefenen met echte data
-Je past nu wat je leerde toe op echte data: de bevolking van België en de uitbarstingen van de geiser *'old fateful'*.
-![notebook](@learning-object/PN_OefenenRegressieM-v1/nl/1)
+Je past nu wat je leerde toe op echte data: de bevolking van België en de uitbarstingen van de geiser *'Old Faithful'*.
+
+![notebook](@learning-object/PN_OefenenRegressieM-v1/nl/3)
