@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 
 # Taaltechnologie: Sentimentanalyse 
-Om dit te kunnen doen, maak je in enkele voorbereidende notebooks eerst kennis met de gebruikte technieken.
+In de interactieve notebooks wordt duidelijk hoe sentimentanalyse met regelgebaseerde of datagebaseerde systemen gebeurt.
 
 ![notebook](@learning-object/MSentiment3-v1/nl/3)
 
