@@ -1,9 +1,9 @@
 ---
-hruid: PN_VoorkennisSpreidingsdiagram-v1
+hruid: PN_Slotaze-v1
 version: 3
 language: nl
-title: "Inleiding"
-description: "Inleiding"
+title: "Slot"
+description: "Slot"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,6 +28,4 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Voorkennis
-
-* Werken met notebooks
+# Slot

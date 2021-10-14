@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisSpreidingsdiagram-v1
+hruid: PN_InleidingLineaireRegressie-v1
 version: 3
 language: nl
 title: "Inleiding"
@@ -28,6 +28,4 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Voorkennis
-
-* Werken met notebooks
+# Inleiding
