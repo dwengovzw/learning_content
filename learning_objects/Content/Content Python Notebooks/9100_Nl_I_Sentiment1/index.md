@@ -2,7 +2,7 @@
 hruid: Sentiment1-v1
 version: 3
 language: nl
-title: "Sentimentanalyse 1"
+title: "Datatypes"
 description: "Notebooks over ..."
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 
 # Taaltechnologie: Sentimentanalyse 
-Je gaat aan de slag met Notebooks voor de automatische detectie van het sentiment van online reviews. Om dit te kunnen doen, maak je in enkele voorbereidende notebooks eerst kennis met de gebruikte technieken.
+Je gaat aan de slag met notebooks voor de automatische detectie van het sentiment van online reviews. Om dit te kunnen doen, maak je in enkele voorbereidende notebooks eerst kennis met de gebruikte technieken.
 
 ![notebook](@learning-object/MSentiment1-v1/nl/3)
 
