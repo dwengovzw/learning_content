@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 
 # Taaltechnologie: Sentimentanalyse 
-Deze notebooks reiken een toepassing van Natural Language Processing aan binnen een context van online reviews en de automatische detectie van het sentiment ervan. 
+Je gaat aan de slag met Notebooks voor de automatische detectie van het sentiment van online reviews. Om dit te kunnen doen, maak je in enkele voorbereidende notebooks eerst kennis met de gebruikte technieken.
 
 ![notebook](@learning-object/MSentiment1-v1/nl/3)
 

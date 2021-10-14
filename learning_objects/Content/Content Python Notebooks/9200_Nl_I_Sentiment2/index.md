@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 
 # Taaltechnologie: Sentimentanalyse 
-Fundamentele begrippen van machinaal leren komen daarbij aan bod. In de interactieve notebooks wordt duidelijk hoe sentimentanalyse met regelgebaseerde of datagebaseerde systemen gebeurt.
+Fundamentele begrippen van machinaal leren komen bij de sentimentanalyse aan bod. Aan de basis van taaltechnologie liggen de vorm waarin tekst aan de computer wordt gegeven en hoe je met een computer tekst kan verwerken. In deze notebook maak je kennis met programmeerstructuren. 
 
 ![notebook](@learning-object/MSentiment2-v1/nl/3)
 
