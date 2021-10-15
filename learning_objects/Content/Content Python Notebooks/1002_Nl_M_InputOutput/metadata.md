@@ -1,9 +1,9 @@
 ---
-hruid: PN_KIKSDeeplearningAIOPSCHOOLM-v1
+hruid: PN_InputOutputM-v1
 version: 3
 language: nl
-title: "Meta"
-description: "Meta"
+title: "Testing external content as learning object"
+description: "This is a description"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-content_location: "https://kiks.ilabt.imec.be/jupyterhub/?id=1700"
+content_location: "https://kiks.ilabt.imec.be/jupyterhub/?id=1002"
 estimated_time: 50
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
