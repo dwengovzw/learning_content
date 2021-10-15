@@ -2,8 +2,8 @@
 hruid: PN_LineaireRegressie-v1
 version: 3
 language: nl
-title: "Lineaire Regressie"
-description: "Lineaire Regressie"
+title: "Lineaire regressie"
+description: "Lineaire regressie"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 

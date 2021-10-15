@@ -2,8 +2,8 @@
 hruid: PN_OefenenSpreidingsdiagram-v1
 version: 3
 language: nl
-title: "Oefenen met Data"
-description: "Oefenen met Data"
+title: "Oefenen met data"
+description: "Oefenen met data"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
