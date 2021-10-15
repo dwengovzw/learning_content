@@ -1,9 +1,9 @@
 ---
-hruid: PN_KIKSDeeplearningAIOPSCHOOL-v1
+hruid: PN_Standaardiseren-v1
 version: 3
 language: nl
-title: "Basis deep learning"
-description: "Basis deep learning"
+title: "Standaardiseren en visualiseren"
+description: "Standaardiseren en visualiseren"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
+# Standaardiseren
+De mate van correlatie kan je niet altijd op het zicht inschatten. Je leert waarom het standaardiseren van de gegevens in dat opzicht belangrijk is. Ook visualiseren kan daarbij een steentje bijdragen.
 
-# Basis deep learning
-
-![notebook](@learning-object/PN_KIKSDeeplearningAIOPSCHOOLM-v1/nl/3)
-
+![notebook](@learning-object/PN_StandaardiserenM-v1/nl/3)
