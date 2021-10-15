@@ -1,5 +1,5 @@
 ---
-hruid: SA_Uitleg-v1
+hruid: PN_InleidingSA-v1
 version: 3
 language: nl
 title: "Inleiding"
@@ -29,7 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Sentimentanalyse
+# Inleiding
+
 Als onderzoekers aan de slag gaan met teksten op sociale media, gaan ze vaak op zoek naar informatie die expliciet en impliciet in die teksten staat. Door de opmars van de sociale media en het feit dat de posts vol staan met sentiment en opinies, ontstond spontaan de wetenschappelijke discipline van sentimentanalyse. Socialemediaposts dienen immers vooral om opinies en indrukken te delen. Het grondig analyseren van sociale media is dus eigenlijk onmogelijk zonder sentimentanalyse.
 Men gaat met behulp van computers op zoek naar gevoelens en opinies, meestal in content zoals klantenreviews, tweets en blogs, veelal op sociale media. 
 

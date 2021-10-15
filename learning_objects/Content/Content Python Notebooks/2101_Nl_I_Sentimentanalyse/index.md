@@ -1,8 +1,8 @@
 ---
-hruid: Sentiment2-v1
+hruid: PN_Sentimentanalyse-v1
 version: 3
 language: nl
-title: "Programmeerstructuren"
+title: "Sentimentanalyse"
 description: "Notebooks over ..."
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
@@ -30,7 +30,9 @@ skos_concepts: [
 ---
 
 # Taaltechnologie: Sentimentanalyse 
-Fundamentele begrippen van machinaal leren komen bij de sentimentanalyse aan bod. Aan de basis van taaltechnologie liggen de vorm waarin tekst aan de computer wordt gegeven en hoe je met een computer tekst kan verwerken. In deze notebook maak je kennis met programmeerstructuren. 
+In de interactieve notebooks wordt duidelijk hoe sentimentanalyse met regelgebaseerde of datagebaseerde systemen gebeurt.
 
-![notebook](@learning-object/MSentiment2-v1/nl/3)
+![](embed/Reviews.png "Reviews flowchart")
+
+![notebook](@learning-object/PN_SentimentanalyseM-v1/nl/3)
 

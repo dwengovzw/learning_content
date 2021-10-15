@@ -1,5 +1,5 @@
 ---
-hruid: MSentiment2-v1
+hruid: PN_SentimentanalyseM-v1
 version: 3
 language: nl
 title: "Meta"
@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-content_location: "https://kiks.ilabt.imec.be/jupyterhub/?id=92"
+content_location: "https://kiks.ilabt.imec.be/jupyterhub/?id=2101"
 estimated_time: 50
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 

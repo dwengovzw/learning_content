@@ -1,9 +1,9 @@
 ---
-hruid: Sentiment1-v1
+hruid: PN_DatatypesSA-v1
 version: 3
 language: nl
 title: "Datatypes"
-description: "Notebooks over ..."
+description: "Datatypes"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,8 +29,9 @@ skos_concepts: [
 ]
 ---
 
-# Taaltechnologie: Sentimentanalyse 
+# Datatypes
 Je gaat aan de slag met notebooks voor de automatische detectie van het sentiment van online reviews. Om dit te kunnen doen, maak je in enkele voorbereidende notebooks eerst kennis met de gebruikte technieken.
 
-![notebook](@learning-object/MSentiment1-v1/nl/3)
+![notebook](@learning-object/PN_DatatypesM-v1/nl/3)
+
 
