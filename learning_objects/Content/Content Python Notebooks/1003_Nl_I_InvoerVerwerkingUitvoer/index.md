@@ -2,8 +2,8 @@
 hruid: PN_IntroductiePythagoras-v1
 version: 3
 language: nl
-title: "InvoerVerwerkingUitvoer"
-description: "InvoerVerwerkingUitvoer"
+title: "Invoer - Verwerking - Uitvoer"
+description: "Invoer - Verwerking - Uitvoer"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,6 +29,6 @@ skos_concepts: [
 ]
 ---
 
-# Introductie
+# Invoer - Verwerking - Uitvoer
 
 ![notebook](@learning-object/PN_IntroductiePythagorasM-v1/nl/3)

@@ -2,7 +2,7 @@
 hruid: PN_BelangVisualisatie-v1
 version: 3
 language: nl
-title: "Belang van Visualisatie"
+title: "Belang van visualisatie"
 description: "Belang van visualisatie"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
