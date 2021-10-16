@@ -37,5 +37,5 @@ In de eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je erme
 
 Wil je ook de finesses kennen? Dan kan je ook de twee andere notebooks doorlopen. 
 
-![notebook](@learning-object/MWerkingNotebooks-v1/nl/3)
+![[](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0100 "Notebooks Werking")
 
