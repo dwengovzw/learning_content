@@ -31,6 +31,5 @@ skos_concepts: [
 
 # Functies
 
-![notebook](@learning-object/PN_FunctiesPythagorasM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1006 "Notebooks Functies")
 

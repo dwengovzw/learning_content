@@ -31,6 +31,5 @@ skos_concepts: [
 
 # Snijpunt van 2 rechten
 
-![notebook](@learning-object/PN_SnijpuntenRechtenM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0405 "Notebooks Snijpunten")
 

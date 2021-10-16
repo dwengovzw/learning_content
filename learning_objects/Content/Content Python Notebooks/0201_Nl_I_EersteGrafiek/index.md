@@ -32,5 +32,5 @@ skos_concepts: [
 
 Je leert een tekenvenster aanmaken en enkele datapunten visualiseren.
 
-![notebook](@learning-object/PN_EersteGrafiekM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0201 "Notebooks Eerste Grafiek")
 

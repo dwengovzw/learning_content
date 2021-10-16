@@ -31,4 +31,4 @@ skos_concepts: [
 
 # Invoer - Verwerking - Uitvoer
 
-![notebook](@learning-object/PN_IntroductiePythagorasM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1003 "Notebooks Input Output")

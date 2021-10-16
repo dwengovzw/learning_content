@@ -32,6 +32,5 @@ skos_concepts: [
 # Datatypes
 Je gaat aan de slag met notebooks voor de automatische detectie van het sentiment van online reviews. Om dit te kunnen doen, maak je in enkele voorbereidende notebooks eerst kennis met de gebruikte technieken.
 
-![notebook](@learning-object/PN_DatatypesM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2101 "Notebooks Datatypes")
 

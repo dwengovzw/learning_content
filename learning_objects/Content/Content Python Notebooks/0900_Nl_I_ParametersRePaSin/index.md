@@ -31,6 +31,5 @@ skos_concepts: [
 
 # Parameters
 
-![notebook](@learning-object/PN_ParametersVanallesM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0900 "Notebooks Parameters")
 

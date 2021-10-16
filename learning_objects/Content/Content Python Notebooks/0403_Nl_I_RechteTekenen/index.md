@@ -31,6 +31,5 @@ skos_concepts: [
 
 # Rechten tekenen (praktisch)
 
-![notebook](@learning-object/PN_RechtenTekenen2M-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0403 "Notebooks Rechten Tekenen")
 

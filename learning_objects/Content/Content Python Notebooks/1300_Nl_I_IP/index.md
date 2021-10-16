@@ -32,5 +32,4 @@ skos_concepts: [
 # IP-adres
 Met deze notebook kan je illustreren waarom binaire en hexadecimale talstelsels belangrijk zijn in de computerwetenschappen. Ondertussen leer je wat een IP-adres nu eigenlijk is.
 
-![notebook](@learning-object/PN_IPadresM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1300 "Notebooks IP-adres")

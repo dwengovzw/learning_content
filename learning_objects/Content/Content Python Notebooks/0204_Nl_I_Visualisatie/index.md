@@ -31,6 +31,6 @@ skos_concepts: [
 # Belang van visualisatie
 Hier wordt geïllustreerd waarom illustratie van belang is.
 
-![notebook](@learning-object/PN_BelangVisualisatieM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0204 "Notebooks Visualisatie")
 
 

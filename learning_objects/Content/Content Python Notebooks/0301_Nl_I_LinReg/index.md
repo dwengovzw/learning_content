@@ -31,4 +31,4 @@ skos_concepts: [
 # Lineaire Regressie
 Wat is lineaire regressie nu eigenlijk? Wat is het belang van de correlatiecoëfficiënt? Teken de vergelijking van de best passende rechte en stel de vergelijking op.
 
-![notebook](@learning-object/PN_LineaireRegressieM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0301 "Notebooks Lineaire Regressie")

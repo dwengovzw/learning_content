@@ -34,5 +34,4 @@ In deze STEM-notebooks ga je aan de slag met data die de klimaatverandering conc
 Je zal de data weergeven in een spreidingsdiagram en je krijgt ook enkele opdrachten die je helpen om de data te interpreteren. 
 
 
-![notebook](@learning-object/PN_KlimaatveranderingM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1100 "Notebooks Klimaatverandering")

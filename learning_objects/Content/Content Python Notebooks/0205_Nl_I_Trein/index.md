@@ -30,6 +30,6 @@ skos_concepts: [
 ---
 # Toepassing - Trein
 
-![notebook](@learning-object/PN_TreinSpreidingsdiagramM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0205 "Notebooks Trein")
 
 

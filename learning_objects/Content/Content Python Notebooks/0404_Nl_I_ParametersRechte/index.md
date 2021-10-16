@@ -1,5 +1,5 @@
 ---
-hruid: Pn_ParametersRechten-v1
+hruid: PN_ParametersRechten-v1
 version: 3
 language: nl
 title: "Parameters"
@@ -31,6 +31,5 @@ skos_concepts: [
 
 # Parameters in de vergelijkingvan een rechte
 
-![notebook](@learning-object/Pn_ParametersRechtenM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0404 "Notebooks Parameters")
 

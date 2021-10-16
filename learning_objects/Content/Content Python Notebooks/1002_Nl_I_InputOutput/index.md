@@ -30,6 +30,5 @@ skos_concepts: [
 ---
 Hier is een jupyter notebook:
 
-![notebook](@learning-object/PN_InputOutputM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1002 "Notebooks Input Output")
 

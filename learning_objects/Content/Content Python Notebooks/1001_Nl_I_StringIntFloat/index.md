@@ -31,6 +31,5 @@ skos_concepts: [
 
 # String, int en float
 
-![notebook](@learning-object/PN_StringIntFloatM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1001 "Notebooks Datatypes")
 

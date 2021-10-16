@@ -30,6 +30,6 @@ skos_concepts: [
 ---
 Hier is een jupyter notebook:
 
-![notebook](@learning-object/PN_DoorlopenWerkingM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0103 "Notebooks Doorlopen")
 
 

@@ -31,6 +31,5 @@ skos_concepts: [
 
 # Datatypes
 
-![notebook](@learning-object/PN_DatatypesM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1004 "Notebooks Datatypes")
 
