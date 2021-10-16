@@ -1,5 +1,5 @@
 ---
-hruid: Pn_Rekenen-v1
+hruid: PN_Rekenen-v1
 version: 3
 language: nl
 title: "Rekenen"
@@ -31,6 +31,5 @@ skos_concepts: [
 
 # Rekenen
 
-![notebook](@learning-object/Pn_RekenenM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1010 "Notebooks Rekenen")
 

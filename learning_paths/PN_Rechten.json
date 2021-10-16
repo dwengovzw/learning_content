@@ -75,7 +75,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Pn_ParametersRechten-v1",
+            "hruid": "PN_ParametersRechten-v1",
             "version": "3",
             "language": "nl"
           }
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Pn_ParametersRechten-v1",
+      "learningobject_hruid": "PN_ParametersRechten-v1",
       "version": "3",
       "language": "nl",
       "transitions": [

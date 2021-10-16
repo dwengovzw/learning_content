@@ -1,9 +1,9 @@
 ---
-hruid: RegressieBelgië-v1
+hruid: PN_KIKSDeeplearningAIOPSCHOOL-v1
 version: 3
 language: nl
-title: "Regressie België"
-description: "Notebooks over ..."
+title: "Basis deep learning"
+description: "Basis deep learning"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,5 +29,6 @@ skos_concepts: [
 ]
 ---
 
-![notebook](@learning-object/MRegressieBelgië-v1/nl/3)
+# Basis deep learning
 
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1700 "Notebooks KIKS Deep Learning")

@@ -31,4 +31,4 @@ skos_concepts: [
 # Standaardiseren
 De mate van correlatie kan je niet altijd op het zicht inschatten. Je leert waarom het standaardiseren van de gegevens in dat opzicht belangrijk is. Ook visualiseren kan daarbij een steentje bijdragen.
 
-![notebook](@learning-object/PN_StandaardiserenM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0302 "Notebooks Standaardiseren")

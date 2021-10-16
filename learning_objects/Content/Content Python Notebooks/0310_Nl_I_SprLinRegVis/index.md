@@ -30,6 +30,5 @@ skos_concepts: [
 ---
 # Visualisatie
 
-![notebook](@learning-object/PN_SprLinRegVisM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0310 "Notebooks Visualisatie")
 

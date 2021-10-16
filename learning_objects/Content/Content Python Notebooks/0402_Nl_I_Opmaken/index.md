@@ -32,6 +32,5 @@ skos_concepts: [
 # Opmaken van grafieken
 
 
-![notebook](@learning-object/PN_OpmakenRechtenM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0402 "Notebooks Opmaken Grafieken")
 

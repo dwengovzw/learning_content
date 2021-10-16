@@ -34,5 +34,4 @@ In de interactieve notebooks wordt duidelijk hoe sentimentanalyse met regelgebas
 
 ![](embed/Reviews.png "Reviews flowchart")
 
-![notebook](@learning-object/PN_SentimentanalyseM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2101 "Notebooks Sentimentanalyse")

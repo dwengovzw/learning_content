@@ -31,4 +31,4 @@ skos_concepts: [
 # Oefenen met echte data
 Je past nu wat je leerde toe op echte data: de stations die de NMBS aandoet en de uitbarstingen van de geiser *'Old Faithful'*.
 
-![notebook](@learning-object/PN_OefenenSpreidingsdiagramM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0203 "Notebooks Oefenen met Data")

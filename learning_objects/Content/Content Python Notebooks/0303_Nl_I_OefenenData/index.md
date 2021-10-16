@@ -31,4 +31,4 @@ skos_concepts: [
 # Oefenen met echte data
 Je past nu wat je leerde toe op echte data: de bevolking van België en de uitbarstingen van de geiser *'Old Faithful'*.
 
-![notebook](@learning-object/PN_OefenenRegressieM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0303 "Notebooks Oefenen met Data")

@@ -32,6 +32,5 @@ skos_concepts: [
 # Programmeerstructuren
 Fundamentele begrippen van machinaal leren komen bij de sentimentanalyse aan bod. Aan de basis van taaltechnologie liggen de vorm waarin tekst aan de computer wordt gegeven en hoe je met een computer tekst kan verwerken. In deze notebook maak je kennis met programmeerstructuren. 
 
-![notebook](@learning-object/ProgrammeerstructurenM-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2101 "Notebooks Programmeerstructuren")
 

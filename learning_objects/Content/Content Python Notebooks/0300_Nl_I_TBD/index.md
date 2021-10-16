@@ -31,6 +31,6 @@ skos_concepts: [
 
 # Standaardisering
 
-![notebook](@learning-object/PN_OokStandaardiseringM-v1/nl/3)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0300 "Notebooks Standaardisering")
 
 
