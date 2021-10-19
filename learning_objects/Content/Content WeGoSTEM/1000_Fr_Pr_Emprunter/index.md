@@ -49,36 +49,21 @@ La boite contient :
 * Exemples de photos de la façon dont le robot peut être construit à distribuer à chaque duo
 
 ## Emplacements
-* Hasselt : [Réservez ici](https://bibliotheek.hasselt.be/provincielimburg.net?id=75442 "Réserver")
-Bibliothèque Hasselt Limbourg
-Avenue Martelaren 17
-3500 Hasselt
+* Wavre : [Bientôt disponible]( "Réserver")
+Maurice Careme
 
-* Louvain [Réservez ici]( "Réserver")
-Bavoir Kessel-Lo
-Avenue Stadion 4
-3010 Kessel-Lô
+* Nivelles [Bientôt disponible]( "Réserver")
+Place au livres (Bibliobus)
 
-* Bruxelles [Réservez ici]( "Réserver")
-Point de pièce
-À l'attention. Erika Gebruers
-Pièce 6
-1000 Bruxelles
+* Namur (ville) [Bientôt disponible]( "Réserver")
+Ville
 
-* Courtrai [Réservez ici]( "Réserver")
-Manon Vergote - Jurgen van Lerberghe
-Rue Konvent 1
-8500 Courtrai
+* Namur (province) [Bientôt disponible]( "Réserver")
+Bibliobus
 
-* Gand [Réservez ici](https://gent.bibliotheek.be/formulier/aformulier-wegostem "Réserve")
-Miriam Makeba Square 1
-9000 Gand
+* Luxembourg [Réservez ici](http://www.bibliotheques.province.luxembourg.be/ "Réserve")
 
-* GAntwerp [Réservez ici]( "Réserver")
-Quai de Strasbourg-Quai Nord 29
-2030 Anvers
+* Liège [Bientôt disponible]( "Réserver")
+Bib Chiroux
 
-* Bruges [Réservez ici]( "Réserver")
-Bibliothèque des Xavériens
-Xaverianenstraat 3 bus 002
-8200 Saint-Michel (Bruges)
+* Hainaut (Mons/Charleroi) [Bientôt disponible]( "Réserver")

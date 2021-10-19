@@ -55,18 +55,18 @@ Bibliotheek Hasselt Limburg
 Martelarenlaan 17  
 3500 Hasselt
 
-* Leuven [Reserveer hier]( "Reserveren")  
+* Leuven [Coming soon]( "Reserveren")  
 Bib Kessel-Lo  
 Stadionlaan 4  
 3010 Kessel-Lo
 
-* Brussel [Reserveer hier]( "Reserveren")  
+* Brussel [Coming soon]( "Reserveren")  
 Muntpunt  
 Tav. Erika Gebruers  
 Munt 6  
 1000 Brussel
 
-* Kortrijk [Reserveer hier]( "Reserveren")  
+* Kortrijk [Coming soon]( "Reserveren")  
 Manon Vergote - Jurgen van Lerberghe  
 Konventstraat 1  
 8500 Kortrijk
@@ -75,11 +75,11 @@ Konventstraat 1
 Miriam Makebaplein 1  
 9000 Gent
 
-* GAntwerpen [Reserveer hier]( "Reserveren")  
+* GAntwerpen [Coming Soon]( "Reserveren")  
 Straatsburgdok-Noordkaai 29  
 2030 Antwerpen
 
-* Brugge [Reserveer hier]( "Reserveren")  
+* Brugge [Reserveer hier](https://brugge.bibliotheek.be/basisonderwijs "Reserveren")  
 Bibliotheek Xaverianen  
 Xaverianenstraat 3 bus 002  
 8200 Sint-Michiels (Brugge)
