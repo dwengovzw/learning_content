@@ -37,10 +37,4 @@ In de eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je erme
 
 Wil je ook de finesses kennen? Dan kan je ook de twee andere notebooks doorlopen. 
 
-<div style = "text-align: center">
-    <a href="https://kiks.ilabt.imec.be/jupyterhub/?id=0100">
-        <img src="embed/Knop.png" alt="Open Notebook" />
-    </a>
-</div>
-
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0100 "Notebooks Werking")
