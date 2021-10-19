@@ -35,6 +35,6 @@ Het lesmateriaal van 'Python in wiskunde en STEM' wordt aangeboden in de vorm va
 
 In de eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag gaat. 
 
-Wil je ook de finesses kennen? Dan kan je ook de twee andere notebooks doorlopen. 
+Wil je ook de finesses kennen? Dan kan je de twee andere notebooks doorlopen. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0100 "Notebooks Werking")
