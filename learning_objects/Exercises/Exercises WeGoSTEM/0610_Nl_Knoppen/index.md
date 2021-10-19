@@ -2,7 +2,7 @@
 hruid: KnoppenWGS-v1
 version: 3
 language: nl
-title: "Knoppen"
+title: "Uitleg Knoppen"
 description: "Uitleg Knoppen"
 keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [

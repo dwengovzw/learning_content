@@ -2,8 +2,8 @@
 hruid: pr_lcdWGS3-v1
 version: 3
 language: fr
-title: "Lcd Example"
-description: "Example LCD 3"
+title: "Exemple LCD 3"
+description: "Exemple LCD 3"
 keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-### Example d'écran LCD
+### Exemple d'écran LCD
 
 QUESTION 3
 

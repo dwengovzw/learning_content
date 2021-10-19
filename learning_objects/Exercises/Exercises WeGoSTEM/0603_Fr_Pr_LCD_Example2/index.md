@@ -2,8 +2,8 @@
 hruid: pr_lcdWGS2-v1
 version: 3
 language: fr
-title: "Lcd Example"
-description: "Example LCD 2"
+title: "Exemple LCD 2"
+description: "Exemple LCD 2"
 keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 

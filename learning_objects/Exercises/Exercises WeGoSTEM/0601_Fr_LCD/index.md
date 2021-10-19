@@ -2,7 +2,7 @@
 hruid: lcdWGS-v1
 version: 3
 language: fr
-title: "Lcd"
+title: "Explication lcd"
 description: "Explication lcd"
 keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
 educational_goals: [

@@ -2,7 +2,7 @@
 hruid: BoutonsWGS-v1
 version: 3
 language: fr
-title: "Boutons"
+title: "Explication Boutons"
 description: "Explication Boutons"
 keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [

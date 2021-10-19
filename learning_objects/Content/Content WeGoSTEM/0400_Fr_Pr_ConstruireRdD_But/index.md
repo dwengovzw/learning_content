@@ -45,7 +45,7 @@ Nous avons fourni une photo à chaque groupe pour construire le robot de dessin.
 ### Matériel pour la classe
 
 * Boîte avec composants de robot (inclus)
-* [photo](images/Example.pdf "robot fini") avec robot fini (inclus)
+* [photo](images/Exemple.pdf "robot fini") avec robot fini (inclus)
 
 
 ![](images/Sample.PNG "Robot fini")

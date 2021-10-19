@@ -2,7 +2,7 @@
 hruid: Lkr_KnoppenWGS2-v1
 version: 3
 language: nl
-title: "Knoppen Voorbeeld"
+title: "Voorbeeld Knoppen 2"
 description: "Voorbeeld Knoppen 2"
 keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
