@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-### Exemple d'écran LCD
+### Example d'écran LCD
 
 QUESTION 3
 
