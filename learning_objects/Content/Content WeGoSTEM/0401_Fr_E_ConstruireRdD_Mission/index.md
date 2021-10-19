@@ -33,9 +33,9 @@ teacher_exclusive: false
 
 # Construire un robot de dessin
 
-Maintenant que vous avez une idée du fonctionnement d'un robot, vous pouvez commencer à construire le robot lui-même ! Vous le ferez en utilisant la [photo](images/Example.pdf "robot fini") et les composants de la boîte.
+Maintenant que vous avez une idée du fonctionnement d'un robot, vous pouvez commencer à construire le robot lui-même ! Vous le ferez en utilisant la [photo](images/Exemple.pdf "robot fini") et les composants de la boîte.
 
-![](images/Example.png "robot fini")
+![](images/Exemple.png "robot fini")
 
 Assurez-vous d'essayer d'abord l'image! Si vous ne parvenez pas à construire le bras du robot sur la base de la photo, regardez la vidéo ci-dessous.
 

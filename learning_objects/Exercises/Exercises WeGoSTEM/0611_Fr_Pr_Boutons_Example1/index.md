@@ -2,8 +2,8 @@
 hruid: Pr_BoutonsWGS1-v1
 version: 3
 language: fr
-title: "Boutons Example"
-description: "Example Boutons 1"
+title: "Exemple Boutons 1"
+description: "Exemple Boutons 1"
 keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 

@@ -2,7 +2,7 @@
 hruid: lcdWGS-v1
 version: 3
 language: nl
-title: "Lcd"
+title: "Uitleg lcd"
 description: "Uitleg lcd"
 keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
