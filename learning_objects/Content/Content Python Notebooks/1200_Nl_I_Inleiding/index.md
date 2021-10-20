@@ -1,9 +1,9 @@
 ---
-hruid: PN_Epidemie-v1
+hruid: PN_InleidingEpidemie-v1
 version: 3
 language: nl
-title: "Epidemie"
-description: "Epidemie"
+title: "Inleiding"
+description: "Inleiding"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,13 @@ skos_concepts: [
 ]
 ---
 
-# Besmettelijke ziektes
+# Inleiding
+
+De COVID-19 pandemie houdt heel de wereld in haar greep. 
+Om de impact van het virus te controleren, kan men het principe van sociale uitsluiting hanteren of inzetten op groepsimmuniteit. 
+In dit project kunnen leerlingen een epidemie simuleren doorheen een sociaal netwerk, en onderzoeken welke strategieën de ziekte het best onder de knoet kunnen houden. 
+
+## Besmettelijke ziektes
 
 In de geschiedenis van de mensheid heeft niets zoveel mensen gedood als besmettelijke ziekten. 
 De ziekte die de meeste mensen heeft gedood is waarschijnlijk tuberculose, waarbij 1 miljard mensen in alleen de 19de en 20ste eeuw omkwamen. 
@@ -37,4 +43,4 @@ De ziekte die het snelst gedood heeft, is de Spaansegriepepidemie die 50 tot 100
 
 Tegenwoordig veroorzaken besmettelijke ziektes minder doden door betere medische kennis, technieken en middelen. Ze blijven echter een ernstig probleem voor de volksgezondheid, zoals bijvoorbeeld de COVID-19 pandemie. Bovendien kunnen personen gemakkelijk ziektes verspreiden. Zo kan in een paar uur tijd een ziekte naar een ander continent verspreiden via het vliegtuig.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1200 "Notebooks Epidemie")
+![Verschillende vliegtuigroutes tussen luchthavens.]([STATIC]/luchthaven.png)
