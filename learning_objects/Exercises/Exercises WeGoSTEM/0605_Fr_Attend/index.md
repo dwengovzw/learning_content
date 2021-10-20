@@ -2,8 +2,8 @@
 hruid: AttendWGS-v1
 version: 3
 language: fr
-title: "Attend"
-description: "Attend"
+title: "Explication Attend"
+description: "Explication Attend"
 keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 

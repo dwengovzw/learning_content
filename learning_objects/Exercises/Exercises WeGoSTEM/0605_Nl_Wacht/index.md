@@ -2,8 +2,8 @@
 hruid: WachtWGS-v1
 version: 3
 language: nl
-title: "Wacht"
-description: "Wacht"
+title: "Uitleg wacht"
+description: "Uitleg wacht"
 keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
