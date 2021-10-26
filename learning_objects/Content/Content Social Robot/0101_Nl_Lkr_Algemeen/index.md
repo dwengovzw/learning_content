@@ -46,4 +46,4 @@ Daag de jongeren uit om ambitieus en creatief te zijn. Laat ze eventueel een ver
 
 Voor meer informatie over sociale robots in onze maatschappij en concrete voorbeelden kan je het [Dwengo-boekje Hallo robot!](https://www.aiopschool.be/media/public/files/socialerobot/SocialeRobot_handleiding_eerstedruk.pdf "Link 'Hallo Robot'") doornemen. Daar staat ook extra uitleg in over de 'unplugged' oefeningen die je kan doen (oefeningen over programmeren en de werking van computers, maar dan zonder computers), zoals bijvoorbeeld "De Emotiemachine" en "maak-een-gezicht". 
 
-Bij deze handleiding hoort ook een reeks filmpjes. Je vindt de volledige afspeellijst [hier](@youtube/https://www.youtube.com/playlist?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Playlist") terug.
+Bij deze handleiding hoort ook een reeks filmpjes. Je vindt de volledige afspeellijst [hier](https://www.youtube.com/playlist?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Playlist") terug.

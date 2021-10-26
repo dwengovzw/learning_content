@@ -1,9 +1,9 @@
 ---
-hruid: SR_Uitleg-v1
+hruid: SR_Uitleg1-v1
 version: 3
 language: nl
-title: "Uitleg Sociale Robot"
-description: "T"
+title: "Digitale systemen"
+description: "Digitale systemen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,10 +31,13 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Wat is een sociale robot?
+## Digitale systemen
 
-## Tussentitel
+*Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een stofzuigerrobot, een wasmachine een elektrische tandenborstel of een wekkerradio.*
 
-### Subtitel
+Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een **microcontroller*. Ze beschikken over in- en uitgangen.  
+De microcontroller krijgt gegevens van de ingangen (input). Hij verwerkt de gegevens, voert berekeningen uit en stuurt vervolgens de digitale appareten aan (output).  
+De **Dwenguino** is zo'n microcontrollerplatform waarmee je snel je eigen apparaat kan bouwen.
 
-**Onderverdeling**
+![© Peter Häll](embed/paro.jpg "© Peter Häll")

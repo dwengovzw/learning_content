@@ -45,7 +45,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "SR_Uitleg-v1",
+            "hruid": "SR_Uitleg1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "learningobject_hruid": "SR_Uitleg-v1",
+      "learningobject_hruid": "SR_Uitleg1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
