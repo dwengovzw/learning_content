@@ -34,3 +34,8 @@ teacher_exclusive: true
 # Sociale Robot
 
 Laat de leerlingen een eigen 'sociale robot' ontwerpen en programmeren. Een combinatie van creativiteit, computationeel denken en techniek die leidt tot leuke robots die kunnen interageren met de leerlingen!
+
+Tijdens dit project leggen de leerlingen een traject af van ontwerpen van een robot tot het bouwen ervan en de implementatie van elektronica. In onderstaand filmpje wordt het project kort beschreven.
+
+
+![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Introductie Sociale Robot")
