@@ -38,10 +38,20 @@ teacher_exclusive: false
 
 In de zorgsector evolueert men naar robots die niet enkel gezelschap bieden, maar ook de gezondheid van de mensen in de gaten hoden.
 
+<div class="w3-panel w3-yellow">
+  <h3>Discussie</h3>
+  <p>Zou jij liever een injectie krijgen van een robot of van een verpleegkundige?</p>
+</div>  
+
 Voor het onderwijs zet men in op robots die meer actieve taken kunnen opnemen, bijvoorbeeld in het onderwijzen van een vreemde taal.
 
 Men voorziet dat onze huizen meer en meer zullen evolueren naar slimme woningen, waarbij dagelijkse taken geautomatiseerd zijn en ook de meubelen slim zijn.
 
 Men experimenteert ook met sociale vuilnisbakrobots, zoals de Sociable Trash box, die mensen benadert en hen motiveert om hun afval in de vuilnisbak te gooien.
+
+<div class="w3-panel w3-yellow">
+  <h3>Discussie</h3>
+  <p>Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?</p>
+</div>  
 
 ![© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project](embed/UncannyValley.jpg "© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project")

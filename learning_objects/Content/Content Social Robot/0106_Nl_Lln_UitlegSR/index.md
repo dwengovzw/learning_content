@@ -36,7 +36,17 @@ teacher_exclusive: false
 
 In het rusthuis worden sociale robots gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. In het ziekenhuis worden ze ingezet bij revalidatieoefeningen. Sociale robots kunnen ook thuis ingezet worden, bijvoorbeeld om mensen te herinneren aan het nemen van hun medicatie waardoor ze langer  thuis kunnen blijven wonen, of bijvoorbeeld om kinderen te leren omgaan met hun diabetes. 
 
+<div class="w3-panel w3-yellow">
+  <h3>Discussie</h3>
+  <p>Is een sociale robot goed gezelschap voor een eenzame bejaarde?</p>
+</div>  
+
 In het onderwijs kunnen sociale robots ingezet worden om leerlingen individueel te begeleiden, of men kan een leerling de leerstof laten uitleggen aan een peer-robot. Op de luchthaven wijst een robot de reizigers de weg naar de juiste gate. In het museum geeft een robot een rondleiding. In sommige hotels staat een robot aan de receptie. In de winkel kan een robot de klanten op de hoogte brengen van de geldende promoties. 
+
+<div class="w3-panel w3-yellow">
+  <h3>Discussie</h3>
+  <p>Is een stofzuigerrobot een sociale robot?</p>
+</div>  
 
 Voor kinderen zijn er dan weer talloze 'speelmaatjes' op de markt, waar ze zich zeer sterk aan gaan hechten, zoals Furby.
 

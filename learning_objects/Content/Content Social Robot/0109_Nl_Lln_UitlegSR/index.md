@@ -39,6 +39,12 @@ teacher_exclusive: false
 Jij hebt vast ook al eens je computer aangemoedigd om sneller te gaan werken.  
 En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw beschouwd als een huisdier.
 
+<div class="w3-panel w3-yellow">
+  <h3>Discussie</h3>
+  <p>Mag men een robothond schoppen?</p>
+</div>
+Bekijk eens het [filmpje](https://www.aiopschool.be/socialerobot/robothond "Robothond")
+
 Het **uiterlijk** van je sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van je robot schept verwachtingen. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt...  
 Van een androïde robot, een robot die er heel menselijk uitziet, verwacht men ook menselijke handelingen. De robot Pari, die eruitziet als een zeehond, wordt door de mensen wel behandeld als een huisdier, maar schept niet de verwachtingen van een hond of een kat. De robot Pepper lijkt niet genoeg op een mens om te verwachten dat hij ook heel menselijki voor de dag komt.
 
