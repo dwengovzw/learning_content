@@ -1,9 +1,9 @@
 ---
-hruid: SR_Uitleg2-v1
+hruid: SR_Uitleg1-v1
 version: 3
 language: nl
-title: "Een toekomst met robots"
-description: "Een toekomst met robots"
+title: "Digitale systemen"
+description: "Digitale systemen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,15 +32,12 @@ teacher_exclusive: false
 ---
 
 # Wat is een sociale robot?
-## Een toekomst met robots
+## Digitale systemen
 
-*Robots duiken her en der op, zoals een stofzuigerrobot bij je thuis, een robot in het hotel die de klanten verwelkomt, een robot voor de ontmijningsdienst, een robot in de autofabriek en een operatierobot.*
+*Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een stofzuigerrobot, een wasmachine een elektrische tandenborstel of een wekkerradio.*
 
-*Hoe zal de toekomst eruitzien? Zullen robots in ons dagelijks leven even onmisbaar worden als onze smartphone?*
+Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een *microcontroller*. Ze beschikken over in- en uitgangen.  
+De microcontroller krijgt gegevens van de ingangen (input). Hij verwerkt de gegevens, voert berekeningen uit en stuurt vervolgens de digitale apparaten aan (output).  
+De **Dwenguino** is zo'n microcontrollerplatform waarmee je snel je eigen apparaat kan bouwen.
 
-Hierover bestaan nog veel vraagtekens! Dromen over een toekomst met robots is alvast spannend: robots om ons te vervoeren en om ons te entertainen, robots voor de klas, robots voor een betere gezondheidszorg en misschien zelfs een robot als collega.
-
-Gaan we met zijn allen afwachten tot de robots er zijn of willen we invloed hebben op hoe ze eruitzien en hoe ze interageren? 
-Wie wil meedenken om de robots van de toekomst vorm te geven, heeft zeker inzicht nodig in de werking van een robot. Bovendien is dat inzicht voor elk van ons belangrijk om geen onrealistische verwachtingen te hebben en de handelingen van robots te kunnen begrijpen.
-
-![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
+![© Peter Häll](embed/paro.jpg "© Peter Häll")
