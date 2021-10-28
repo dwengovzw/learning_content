@@ -1,8 +1,8 @@
 ---
-hruid: SR_Lkr_WZSR-v1
+hruid: SR_Lkr_HKSRTS-v1
 version: 3
 language: nl
-title: "Wat zijn sociale robots?"
+title: "Hoe komen sociale robots tot stand?"
 description: "Wat zijn sociale robots?"
 keywords: ["sociale robot"]
 educational_goals: [
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Wat is een sociale robot
+# Wat zijn sociale robots
 ## 20 - 40 minuten in de klas
 Het project ‘Sociale robot’ start het best met een inleiding over sociale robots. Wat zijn sociale robots? Waar worden sociale robots ingezet? Hoe ziet de toekomst met sociale robots eruit? Hoe kan zo’n robot communiceren en kan hij ook emoties tonen? Een sociale robot die vlot in omgang is, is in staat om emoties te simuleren.
 
