@@ -31,8 +31,16 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Wat zijn sociale robots
-## 20 - 40 minuten in de klas
-Het project ‘Sociale robot’ start het best met een inleiding over sociale robots. Wat zijn sociale robots? Waar worden sociale robots ingezet? Hoe ziet de toekomst met sociale robots eruit? Hoe kan zo’n robot communiceren en kan hij ook emoties tonen? Een sociale robot die vlot in omgang is, is in staat om emoties te simuleren.
+# Hoe komen sociale robots tot stand?
+## 10 - 20 minuten in de klas
+Nu de leerlingen een ruw concept hebben van wat sociale robots zijn, kan je een korte brainstorm houden met de klas om te zien of ze zelf het proces voor het bouwen van zo'n sociale robot kunnen opstellen.
 
-Voor een meer uitgebreide context betreffende de sociale robots, verwijzen we naar het [robotboekje 'Hallo robot!'](embed/SocialeRobot_handleiding_eerstedruk.pdf "Hallo Robot!")
+Het proces in dit leerpad gaat als volgt:
+1. Ontwerpen van de sociale robot
+2. Eerste versie van het programma
+3. Simuleren van het programma
+4. Debuggen van het programma
+5. Bouwen van de robot
+6. Elektrische schakelingen maken
+7. Testen en debuggen van de robot
+8. Afwerken van de robot
