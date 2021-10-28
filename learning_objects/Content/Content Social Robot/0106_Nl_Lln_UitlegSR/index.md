@@ -40,4 +40,4 @@ In het onderwijs kunnen sociale robots ingezet worden om leerlingen individueel 
 
 Voor kinderen zijn er dan weer talloze 'speelmaatjes' op de markt, waar ze zich zeer sterk aan gaan hechten, zoals Furby.
 
-![Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.](embed/furby.jpg "Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.")
+![© Knightscope](embed/MACM0402.jpg "© Knightscope")
