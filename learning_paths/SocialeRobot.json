@@ -180,6 +180,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "SR_Lkr_HKSRTS-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Lkr_HKSRTS-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "SR_UnpluggedDoel-v1",
             "version": "3",
             "language": "nl"
