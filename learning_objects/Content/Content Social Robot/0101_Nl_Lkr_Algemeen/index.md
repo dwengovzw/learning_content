@@ -66,37 +66,3 @@ De verschillende modules zijn zo ontwikkeld dat ze goed aansluiten bij de nieuwe
 Binnen dit project werken de leerlingen met het Dwenguino microcontrollerplatform dat geïntegreerd is in de simulator.
 
 Tijdens het programmeer- en bouwproces komen verschillende aspecten van computationeel denken aan bod. Door grafisch te programmeren in de simulator hebben leerlingen op een laagdrempelige manier kennisgemaakt met de universele concepten van programmeren. Nadien kunnen ze gemakkelijk overschakelen naar andere programmeertalen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Overgang van simulatie naar fysiek: verfijnen](embed/OvergangSimFys.png "Overgang van simulatie naar fysiek")
-
-Het project ‘Sociale robot’ start het best met een inleiding over sociale robots. Wat zijn sociale robots? Waar worden sociale robots ingezet? Hoe ziet de toekomst met sociale robots eruit? Hoe kan zo’n robot communiceren en kan hij ook emoties tonen? Een sociale robot die vlot in omgang is, is in staat om emoties te simuleren. Enkele unplugged activiteiten verschaffen inzicht aan de jongeren hoe een computerprogrammeur dat kan bewerkstelligen.   
-
-
-In het project ‘Sociale robot’ ontwerpen de kinderen een sociale robot in de simulator. Ze denken daarbij na over wat hun robot moet kunnen en op welke manier ze dat zouden kunnen verwezenlijken. Ze stellen die robot samen in het simulatieveld van de Dwengo-simulator. Vervolgens programmeren en testen ze hun virtuele robot. Het is belangrijk dat dit gebeurt volgens een iteratief proces: ze voegen code toe, testen, debuggen, testen, voegen code toe, testen … Na deze eerste fase in de simulator bouwen de jongeren hun ontwerp ‘in het echt’. Vervolgens uploaden ze het reeds geteste programma naar hun fysieke robot. Een nieuwe testfase is aangebroken. Het zal al snel duidelijk zijn dat de overgang van een robot in de simulator naar een echte robot niet zonder slag of stoot verloopt. De fysieke beperkingen van de robot zullen vlug tot uiting komen. Wat bijvoorbeeld als de houten arm van de robot te zwaar blijkt voor de gebruikte servomotor? 
-Eens de fysieke robot naar behoren werkt, kan het verfijnen beginnen. Nieuwe functionaliteiten worden aan de robot in de simulator toegevoegd en na herhaaldelijk testen en debuggen geüpload naar de eigenlijke robot. Dit proces kan zoveel keer worden herhaald als gewenst.
-
-
-Daag de jongeren uit om ambitieus en creatief te zijn. Laat ze eventueel een verhaal schrijven waarin hun robot de hoofdrol speelt. Laat ze dromen over de toekomst en proberen dat in een filmpje te vatten. Laat ze de robot tentoonstellen en andere jongeren enthousiasmeren.    
-
-Voor meer informatie over sociale robots in onze maatschappij en concrete voorbeelden kan je het [Dwengo-boekje Hallo robot!](https://www.aiopschool.be/media/public/files/socialerobot/SocialeRobot_handleiding_eerstedruk.pdf "Link 'Hallo Robot'") doornemen. Daar staat ook extra uitleg in over de 'unplugged' oefeningen die je kan doen (oefeningen over programmeren en de werking van computers, maar dan zonder computers), zoals bijvoorbeeld "De Emotiemachine" en "maak-een-gezicht". 
-
-Bij deze handleiding hoort ook een reeks filmpjes. Je vindt de volledige afspeellijst [hier](https://www.youtube.com/playlist?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Playlist") terug.
