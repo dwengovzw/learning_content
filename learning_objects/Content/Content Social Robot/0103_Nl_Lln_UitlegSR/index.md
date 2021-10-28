@@ -34,9 +34,9 @@ teacher_exclusive: false
 # Wat is een sociale robot?
 ## Een toekomst met robots
 
-*Robots duiken her en der op, zoals een stofzuigerrobot bij je thuis, een robot in het hotel die de klanten verwelkomt, een robot voor de ontmijningsdienst, een robot in de autofabriek en een operatierobot.
+*Robots duiken her en der op, zoals een stofzuigerrobot bij je thuis, een robot in het hotel die de klanten verwelkomt, een robot voor de ontmijningsdienst, een robot in de autofabriek en een operatierobot.*
 
-Hoe zal de toekomst eruitzien? Zullen robots in ons dagelijks leven even onmisbaar worden als onze smartphone?*
+*Hoe zal de toekomst eruitzien? Zullen robots in ons dagelijks leven even onmisbaar worden als onze smartphone?*
 
 Hierover bestaan nog veel vraagtekens! Dromen over een toekomst met robots is alvast spannend: robots om ons te vervoeren en om ons te entertainen, robots voor de klas, robots voor een betere gezondheidszorg en misschien zelfs een robot als collega.
 
