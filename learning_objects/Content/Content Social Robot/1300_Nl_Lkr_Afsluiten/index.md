@@ -2,8 +2,8 @@
 hruid: SR_Afsluiten-v1
 version: 3
 language: nl
-title: "Aflsuiten"
-description: "T"
+title: "Afsluiten"
+description: "Afsluiten"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
