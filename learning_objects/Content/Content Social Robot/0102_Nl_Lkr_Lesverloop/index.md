@@ -43,9 +43,8 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 
 ## Projectstructuur
 ### Inleiding sociale robots (± 1 lesuur)
-* Wat zijn sociale robots? (10 - 20 min)
+* Wat zijn sociale robots? (20 - 40 min)
 * Hoe komt een sociale robot tot stand? (10 - 20 min)
-* Discussies (10 - 20 min)
 
 ### Eigen sociale robot (± 6 lesuren)
 * Unplugged activiteiten (30 - 60 min)

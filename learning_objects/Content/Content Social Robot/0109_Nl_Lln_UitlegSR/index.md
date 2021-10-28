@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 
 # Wat is een sociale robot?
-## Vermenselijking
+## 6 Vermenselijking
 
 *Mensen zijn geneigd om menselijke eigenschappen toe te kennen aan objecten.*
 
