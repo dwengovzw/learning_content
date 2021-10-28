@@ -35,7 +35,7 @@ teacher_exclusive: true
 ## Het wetenschappelijk onderzoek
 Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een sociale robot interageert immers met zijn omgeving en met de mensen die erin vertoeven.
 
-De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek …
+De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek…
 
 Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van sociale robots meer mogelijk worden in de toekomst. Dankzij artificiële intelligentie (AI) kan een robot emoties uit gezichtsuitdrukkingen en stemintonatie afleiden. AI kan ook gebruikt worden om een robot te leren wat sociale interactie is. Helaas zijn er niet altijd voldoende voorbeelden voorhanden van de interactie tussen robots en mensen. Dat betekent dat de vooruitgang die geboekt wordt in het domein van AI, bepalend is voor de vorderingen binnen de sociale robotica.
 
