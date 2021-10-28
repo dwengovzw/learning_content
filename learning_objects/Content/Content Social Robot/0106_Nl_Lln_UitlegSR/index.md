@@ -1,9 +1,9 @@
 ---
-hruid: SR_Uitleg5-v1
+hruid: SR_Uitleg3-v1
 version: 3
 language: nl
-title: "Home assistants"
-description: "Home assistants"
+title: "Sociale robots"
+description: "Sociale robots"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,10 +32,12 @@ teacher_exclusive: false
 ---
 
 # Wat is een sociale robot?
-## Home assistants
+## Sociale robots
 
-Gezinnen hebben steeds vaker een home assistant in huis die taken kan overnemen en, door de mogelijkie interactie, deel wordt van het gezin. Smart-home assistenten, zoals Amazon's Alexa, kunnen vragen beantwoorden, geven informatie over het weer en het laatste nieuws en kunnen een muziekje afspelen.
+In het rusthuis worden sociale robots gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. In het ziekenhuis worden ze ingezet bij revalidatieoefeningen. Sociale robots kunnen ook thuis ingezet worden, bijvoorbeeld om mensen te herinneren aan het nemen van hun medicatie waardoor ze langer  thuis kunnen blijven wonen, of bijvoorbeeld om kinderen te leren omgaan met hun diabetes. 
 
-Maar er zijn ondertussen ook al persoonlijke assistenten op de markt die bijvoorbeeld ogen, oren en een mond hebben en de indruk wekken dat ze meegenieten van de muziek.
+In het onderwijs kunnen sociale robots ingezet worden om leerlingen individueel te begeleiden, of men kan een leerling de leerstof laten uitleggen aan een peer-robot. Op de luchthaven wijst een robot de reizigers de weg naar de juiste gate. In het museum geeft een robot een rondleiding. In sommige hotels staat een robot aan de receptie. In de winkel kan een robot de klanten op de hoogte brengen van de geldende promoties. 
 
-![© Peter Bertels](embed/googlehome.jpg "© Peter Bertels")
+Voor kinderen zijn er dan weer talloze 'speelmaatjes' op de markt, waar ze zich zeer sterk aan gaan hechten, zoals Furby.
+
+![Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.](embed/furby.jpg "Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.")

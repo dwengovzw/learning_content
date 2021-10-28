@@ -1,9 +1,9 @@
 ---
-hruid: SR_Uitleg7-v1
+hruid: SR_Uitleg5-v1
 version: 3
 language: nl
-title: "Sociale robots in de toekomst"
-description: "Sociale robots in de toekomst"
+title: "Home assistants"
+description: "Home assistants"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,16 +32,10 @@ teacher_exclusive: false
 ---
 
 # Wat is een sociale robot?
-## Sociale robots in de toekomst
+## Home assistants
 
-*Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van de sociale robots meer mogelijk worden in de toekomst.*
+Gezinnen hebben steeds vaker een home assistant in huis die taken kan overnemen en, door de mogelijkie interactie, deel wordt van het gezin. Smart-home assistenten, zoals Amazon's Alexa, kunnen vragen beantwoorden, geven informatie over het weer en het laatste nieuws en kunnen een muziekje afspelen.
 
-In de zorgsector evolueert men naar robots die niet enkel gezelschap bieden, maar ook de gezondheid van de mensen in de gaten hoden.
+Maar er zijn ondertussen ook al persoonlijke assistenten op de markt die bijvoorbeeld ogen, oren en een mond hebben en de indruk wekken dat ze meegenieten van de muziek.
 
-Voor het onderwijs zet men in op robots die meer actieve taken kunnen opnemen, bijvoorbeeld in het onderwijzen van een vreemde taal.
-
-Men voorziet dat onze huizen meer en meer zullen evolueren naar slimme woningen, waarbij dagelijkse taken geautomatiseerd zijn en ook de meubelen slim zijn.
-
-Men experimenteert ook met sociale vuilnisbakrobots, zoals de Sociable Trash box, die mensen benadert en hen motiveert om hun afval in de vuilnisbak te gooien.
-
-![© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project](embed/UncannyValley.jpg "© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project")
+![© Peter Bertels](embed/googlehome.jpg "© Peter Bertels")

@@ -1,9 +1,9 @@
 ---
-hruid: SR_Uitleg6-v1
+hruid: SR_Uitleg4-v1
 version: 3
 language: nl
-title: "Vermenselijking"
-description: "Vermenselijking"
+title: "Privacy"
+description: "Privacy"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,21 +32,12 @@ teacher_exclusive: false
 ---
 
 # Wat is een sociale robot?
-## Vermenselijking
+## Privacy
 
-*Mensen zijn geneigd om menselijke eigenschappen toe te kennen aan objecten.*
+Deze speelgoedrobots worden echter niet altijd goed onthaald. Met het ‘Internet of Toys’ worden kinderen betrokken in een commerciële, datagestuurde wereld. We moeten er bewust van zijn dat er morele grenzen kunnen worden overschreden. Kinderen kunnen gevoelig zijn voor wat een robot hen vraagt of zegt te doen. Maar ook de privacy van de kinderen is in gevaar.  
+Hello Barbie is een pop waarmee het kind conversaties kan voeren dankzij spraakherkenning. De pop is verbonden met servers in de cloud en leert uit vorige gesprekken. Omwille van privacyredenen kwam hier veel kritiek op en werd de pop van de markt gehaald.  
+Gesprekken tussen kinderen en hun teddybeer van CloudPets werden gehackt.  
+In Duitsland werd de slimme pop My Friend Cayla verboden omdat ze onder andere als afluisterapparatuur gebruikt kan worden door derden.  
+Robothond Aibo mag omwille van privacyredenen niet verkocht worden in de EU. Aibo neemt bijvoorbeeld foto’s van je woning die worden opgeslagen in de cloud en ook de conversaties die je met Aibo voert, komen bij de fabrikant terecht.
 
-Jij hebt vast ook al eens je computer aangemoedigd om sneller te gaan werken.  
-En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw beschouwd als een huisdier.
-
-Het **uiterlijk** van je sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van je robot schept verwachtingen. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt...  
-Van een androïde robot, een robot die er heel menselijk uitziet, verwacht men ook menselijke handelingen. De robot Pari, die eruitziet als een zeehond, wordt door de mensen wel behandeld als een huisdier, maar schept niet de verwachtingen van een hond of een kat. De robot Pepper lijkt niet genoeg op een mens om te verwachten dat hij ook heel menselijki voor de dag komt.
-
-Als de verwachtingen die men van de robot heeft, niet overeenstemmen met wat hij effectief doet, dan ervaren mensen de robot als iets negatiefs.  
-Het is verwarrend als het lichaam van een robot gedeeltelijk bedekt is door 'huid', maar er ook mechanische onderdelen zichtbaar zijn. Het is bevreemdend als een robotdier praat.  
-Mensen  vinden robots die eruitzien als mensen meestal leuk, maar een robot mag ook niet teveel op een mens lijken, want dan vinden ze hem helemaal niet leuk meer.  
-Het fenomeen dat mensen zo op robots reageren, heet *The Uncanny Valley*.  
-Hoe meer een robot op een mens lijkt, hoe meer menselijke gedragingen men hem zal toedichten en hoe groter de kans dat de robot die verwachting niet waarmaakt.
-
-
-![© Francis wyffels](embed/Udavi.jpg "© Francis wyffels")
+![Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.](embed/furby.jpg "Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.")

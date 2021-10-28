@@ -1,9 +1,9 @@
 ---
-hruid: SR_Uitleg4-v1
+hruid: SR_Uitleg2-v1
 version: 3
 language: nl
-title: "Privacy"
-description: "Privacy"
+title: "Een toekomst met robots"
+description: "Een toekomst met robots"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,12 +32,15 @@ teacher_exclusive: false
 ---
 
 # Wat is een sociale robot?
-## Privacy
+## Een toekomst met robots
 
-Deze speelgoedrobots worden echter niet altijd goed onthaald. Met het ‘Internet of Toys’ worden kinderen betrokken in een commerciële, datagestuurde wereld. We moeten er bewust van zijn dat er morele grenzen kunnen worden overschreden. Kinderen kunnen gevoelig zijn voor wat een robot hen vraagt of zegt te doen. Maar ook de privacy van de kinderen is in gevaar.  
-Hello Barbie is een pop waarmee het kind conversaties kan voeren dankzij spraakherkenning. De pop is verbonden met servers in de cloud en leert uit vorige gesprekken. Omwille van privacyredenen kwam hier veel kritiek op en werd de pop van de markt gehaald.  
-Gesprekken tussen kinderen en hun teddybeer van CloudPets werden gehackt.  
-In Duitsland werd de slimme pop My Friend Cayla verboden omdat ze onder andere als afluisterapparatuur gebruikt kan worden door derden.  
-Robothond Aibo mag omwille van privacyredenen niet verkocht worden in de EU. Aibo neemt bijvoorbeeld foto’s van je woning die worden opgeslagen in de cloud en ook de conversaties die je met Aibo voert, komen bij de fabrikant terecht.
+*Robots duiken her en der op, zoals een stofzuigerrobot bij je thuis, een robot in het hotel die de klanten verwelkomt, een robot voor de ontmijningsdienst, een robot in de autofabriek en een operatierobot.*
 
-![Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.](embed/furby.jpg "Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.")
+*Hoe zal de toekomst eruitzien? Zullen robots in ons dagelijks leven even onmisbaar worden als onze smartphone?*
+
+Hierover bestaan nog veel vraagtekens! Dromen over een toekomst met robots is alvast spannend: robots om ons te vervoeren en om ons te entertainen, robots voor de klas, robots voor een betere gezondheidszorg en misschien zelfs een robot als collega.
+
+Gaan we met zijn allen afwachten tot de robots er zijn of willen we invloed hebben op hoe ze eruitzien en hoe ze interageren? 
+Wie wil meedenken om de robots van de toekomst vorm te geven, heeft zeker inzicht nodig in de werking van een robot. Bovendien is dat inzicht voor elk van ons belangrijk om geen onrealistische verwachtingen te hebben en de handelingen van robots te kunnen begrijpen.
+
+![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
