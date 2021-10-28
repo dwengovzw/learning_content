@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -32,6 +32,59 @@ teacher_exclusive: true
 ---
 
 # Inleiding
+## Het wetenschappelijk onderzoek
+Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een sociale robot interageert immers met zijn omgeving en met de mensen die erin vertoeven.
+
+De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek …
+
+Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van sociale robots meer mogelijk worden in de toekomst. Dankzij artificiële intelligentie (AI) kan een robot emoties uit gezichtsuitdrukkingen en stemintonatie afleiden. AI kan ook gebruikt worden om een robot te leren wat sociale interactie is. Helaas zijn er niet altijd voldoende voorbeelden voorhanden van de interactie tussen robots en mensen. Dat betekent dat de vooruitgang die geboekt wordt in het domein van AI, bepalend is voor de vorderingen binnen de sociale robotica.
+
+
+## Sociale robots
+Sociale robots zijn niet meer weg te denken uit onze samenleving en worden in uiteenlopende gedaantes ingezet voor verschillende doelgroepen.
+
+In de zorgsector worden robots al gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. Voor kinderen zijn er dan weer talloze ‘speelmaatjes’ op de markt, waar men zich zeer sterk kan aan gaan hechten. Ook gezinnen hebben steeds vaker een personal assistant in huis die taken kan overnemen en door de mogelijke interactie deel wordt van het gezin.
+
+In het project is er ruimte voor een discussie over de plaats en (morele) impact van sociale robots in onze maatschappij.
+
+
+## Programmeren met de simulator
+Binnen dit project werken de leerlingen met de Dwenguino-simulator, ontworpen voor iedereen die op zoek is naar een eerste (grafische) programmeerervaring.
+
+De programmeeromgeving is een uitgebreide vorm van Google Blockly met programmeerblokken die op verschillende abstractieniveaus werden gedefinieerd zodat leerlingen op hun eigen tempo kunnen leren.
+
+De leerlingen ontwerpen een robot in de simulator door een aantal bouwblokken te selecteren en op het robotontwerp te slepen. Deze virtuele robot wordt vervolgens aangestuurd door met goedgekozen programmeerblokken een algoritme te ontwerpen en uit te voeren. Dankzij de simulator kan het testen en het debuggen efficiënt verlopen.
+
+Nieuwsgierige leerlingen kunnen in de simulator de overeenkomstige tekstuele code ontdekken.
+
+
+## Computationeel denken
+Het bouwen en het vormgeven van de robot passen zeer goed binnen de lessen techniek en plastische opvoeding.
+
+De verschillende modules zijn zo ontwikkeld dat ze goed aansluiten bij de nieuwe eindtermen voor de eerste graad secundair onderwijs, namelijk de transversale eindtermen digitale competentie en de eindtermen technologie.
+
+Binnen dit project werken de leerlingen met het Dwenguino microcontrollerplatform dat geïntegreerd is in de simulator.
+
+Tijdens het programmeer- en bouwproces komen verschillende aspecten van computationeel denken aan bod. Door grafisch te programmeren in de simulator hebben leerlingen op een laagdrempelige manier kennisgemaakt met de universele concepten van programmeren. Nadien kunnen ze gemakkelijk overschakelen naar andere programmeertalen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![Overgang van simulatie naar fysiek: verfijnen](embed/OvergangSimFys.png "Overgang van simulatie naar fysiek")
 

@@ -33,9 +33,9 @@ teacher_exclusive: true
 
 # Sociale Robot
 
-Laat de leerlingen een eigen 'sociale robot' ontwerpen en programmeren. Een combinatie van creativiteit, computationeel denken en techniek die leidt tot leuke robots die kunnen interageren met de leerlingen!
+'Sociale robot' is een vakoverschrijdend STEM-project voor de eerste graad secundair onderwijs. In een aantal modules gaan leerlingen aan de slag om zelf een sociale robot te ontwerpen, te programmeren en te bouwen.
 
-Tijdens dit project leggen de leerlingen een traject af van het ontwerpen van een robot tot het bouwen ervan en de implementatie van elektronica. In onderstaand filmpje wordt het project kort beschreven.
+Leerlingen denken na over hoe hun robot zal communiceren en op welke omgevingsfactoren - zoals licht, geluid, beweging - hij zal reageren. Het ontwerpen en grafisch programmeren van de robot doen ze in een simulator. De fysieke robot bouwen ze met herbruikbaar materiaal. Het wordt nog leuker als ze de robot een persoonlijke toets geven. Ze kunnen zich hierin op een creatieve manier uitleven. Gebruikmakend van een microcontrollerplatform, sensoren en actuatoren en hun eigen code voltooien ze hun sociale robot.
 
 
 ![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Introductie Sociale Robot")
