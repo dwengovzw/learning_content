@@ -56,6 +56,7 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 * Creatieve opdracht met gebouwde robot (15 - 30 min)
 * Klasgesprek (15 - 30 min)
 
-### Evaluatie
-
+### Evaluatie  
+  
+  
 De projectfiche waar dit nog eens allemaal samengevat wordt, vindt u [hier](embed/ProjectficheSocialeRobot.pdf "projectfiche") terug.
