@@ -32,20 +32,18 @@ teacher_exclusive: true
 ---
 
 # Inleiding
-## Het wetenschappelijk onderzoek
-Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een sociale robot interageert immers met zijn omgeving en met de mensen die erin vertoeven.
-
-De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek…
-
-Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van sociale robots meer mogelijk worden in de toekomst. Dankzij artificiële intelligentie (AI) kan een robot emoties uit gezichtsuitdrukkingen en stemintonatie afleiden. AI kan ook gebruikt worden om een robot te leren wat sociale interactie is. Helaas zijn er niet altijd voldoende voorbeelden voorhanden van de interactie tussen robots en mensen. Dat betekent dat de vooruitgang die geboekt wordt in het domein van AI, bepalend is voor de vorderingen binnen de sociale robotica.
-
-
 ## Sociale robots
 Sociale robots zijn niet meer weg te denken uit onze samenleving en worden in uiteenlopende gedaantes ingezet voor verschillende doelgroepen.
 
 In de zorgsector worden robots al gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. Voor kinderen zijn er dan weer talloze ‘speelmaatjes’ op de markt, waar men zich zeer sterk kan aan gaan hechten. Ook gezinnen hebben steeds vaker een personal assistant in huis die taken kan overnemen en door de mogelijke interactie deel wordt van het gezin.
 
 In het project is er ruimte voor een discussie over de plaats en (morele) impact van sociale robots in onze maatschappij.
+
+
+## Het wetenschappelijk onderzoek
+Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een sociale robot interageert immers met zijn omgeving en met de mensen die erin vertoeven.
+
+De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek…
 
 
 ## Programmeren met de simulator
