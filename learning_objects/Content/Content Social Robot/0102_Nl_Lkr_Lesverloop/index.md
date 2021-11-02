@@ -48,12 +48,13 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 
 ### Eigen sociale robot (± 6 lesuren)
 * Unplugged activiteiten (30 - 60 min)
+* Brainstorm (30 min)
 * Aan de slag met de simulator (90 - 150 min)
-* Constructie van de robot (120 - 180 min)
+* Constructie van de robot (90 - 150 min)
 
-### Verwerking (± 1 lesuur)
-* Creatieve opdracht met gebouwde robot (15 - 30 min)
-* Klasgesprek (15 - 30 min)
+### Verwerking (± 2 lesuren)
+* Creatieve opdracht met gebouwde robot (60 min)
+* Klasgesprek (60 min)
 
 ### Evaluatie  
   
