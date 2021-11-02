@@ -1,5 +1,5 @@
 ---
-hruid: SR_Lkr_Unplugged1-v1
+hruid: SR_Unplugged1-v1
 version: 3
 language: nl
 title: "Unplugged Opdracht 1"
