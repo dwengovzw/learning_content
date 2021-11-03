@@ -1,9 +1,9 @@
 ---
-hruid: DwenguinoBlockly-v1
+hruid: SR_ProgrammerenTroubleshooting-v1
 version: 3
 language: nl
-title: "DwenguinoBlockly"
-description: "DwenguinoBlockly"
+title: "Mijn eerste programma"
+description: "Mijn eerste programma"
 keywords: ["Sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,12 +28,11 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
-## DwenguinoBlockly
-
-### Code uitvoeren
+# Programmeren van de robot
+## Code uitvoeren
 
 Je kan je DwenguinoBlockly-programma uitvoeren in het gekozen scenario van de simulator om te kijken wat het resultaat zal zijn op de Dwenguino. De simulatie kan bediend worden met de knoppen uit het simulatormenu. Zo kan je de simulatie starten met ![](embed/Playknop.png "Play") en stoppen met ![](embed/Stopknop.png "Stop").
 
@@ -42,14 +41,14 @@ Je kan je DwenguinoBlockly-programma uitvoeren in het gekozen scenario van de si
 Afhankelijk van het gekozen scenario zal je een andere simulatie te zien krijgen. Zoals al vermeld werd in **3. Robotontwerp** zal je vooral gebruikmaken van het ‘rijdende robot’-scenario en het ‘sociale robot’-scenario. Het ‘rijdende robot’-scenario laat toe om simulaties op het microcontrollerbord en op een rijdende robot met twee dc-motoren te visualiseren in het simulatieveld. Het ‘sociale robot’-scenario bevat geen Dwenguino in het simulatieveld. Daar zal je enkel code kunnen uitvoeren op de robotonderdelen die je zelf aan het simulatieveld hebt toegevoegd.
 
 
-### Debuggen
+## Debuggen
 
 Doet je code niet wat je verwacht, dan kan je de code debuggen met ![](embed/Stapknop.png "Stap"): je spoort fouten op door de code blok per blok uit te voeren. Telkens je op de debug-knop klikt, wordt het volgende blok uit je programma uitgevoerd en gesimuleerd. Je kan dan op je eigen tempo ontdekken waar er een foute blok in het programma zit. Wil je niet vanaf het eerste blok debuggen? Dan kan je de simulatie eerst starten en pauzeren met ![](embed/Pauzeknop.png "Pauze") waar je wil starten met debuggen.
 
 ![](@youtube/https://www.youtube.com/embed/PhblfDjUXPQ&list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu&index=2 "Lijst simulatortutorials")
 
 
-### Code uploaden naar de Dwenguino
+## Code uploaden naar de Dwenguino
 
 In het hoofdmenu (en dus niet in het simulatormenu) kan je de knop ![](embed/Upload.png "Upload") vinden om je programma te uploaden naar de fysieke Dwenguino. Zorg ervoor dat de Dwenguino verbonden is met de computer m.b.v. de bijgeleverde USB-kabel.
 

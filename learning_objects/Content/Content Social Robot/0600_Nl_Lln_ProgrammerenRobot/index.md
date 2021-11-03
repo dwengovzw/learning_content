@@ -33,10 +33,21 @@ teacher_exclusive: false
 
 # Programmeren van de robot
 
-In het **hoofdmenu** vind je algemene functies terug voor het beheren van je programma:
+De basis van elk DwenguinoBlockly-programma is het 'zet klaar / herhaal'-blok. Daar plaats je al jouw code. Je kan zowel in het 'zet klaar'-gedeelte als in het 'herhaal'-gedeelte de gewenste blokken toevoegen.
 
-![](embed/Hoofdmenu.png "Hoofdmenu")
+![](embed/Afb3.png "zet klaar / herhaal")
 
-Het **simulatormenu** bevat de volgende knoppen om je programma uit te voeren:
+Hierbij is het belangrijk te weten dat alles in het'zet klaar'-gedeelte slechts één keer wordt uitgevoerd en dit bij het opstarten van de Dwenguino. De blokken in het 'herhaal'-gedeelte worden steeds herhaald tot je zelf het programma stopt.
 
-![](embed/Simulatormenu.png "Simulatormenu")
+## Opdracht: Programmeer de sociale robot in de simulator.
+
+De toolbox van de simulator is verdeeld in verschillende categorieën. Naargelang het gekozen scenario, krijg je andere categorieën te zien. Voor het programma van je sociale robot kies je blokken uit het Dwenguino-menu en uit het Sociale robot-menu.
+
+![](embed/Afb2.png "Dwenguino")
+![](embed/SR.png "Sociale Robot")
+
+Ga op zoek naar dit blok:
+
+![](embed/lcd.png "lcd-scherm")
+
+Gevonden? Ga dan snel naar de volgende stap om je eerste programma te maken!
