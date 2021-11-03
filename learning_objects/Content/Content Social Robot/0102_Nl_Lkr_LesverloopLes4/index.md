@@ -35,14 +35,6 @@ teacher_exclusive: true
 ## Les 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
 * Laat de leerlingen hun creatieve opdrachten voorstellen. Geef hen indien nodig nog wat tijd om dit voor te bereiden in de les.
 
-* Sluit het project af met een klasgesprek over sociale robots. Hieronder worden er enkele onderwerpen en werkvormen voorgesteld.
+* Sluit het project af met een klasgesprek over sociale robots.
 
-* *Een klasgesprek over de ethische aspecten die gepaard gaan met sociale robots.*
-
-* *De leerlingen kunnen ook in groepjes van vier of vijf met elkaar over bepaalde stellingen discussiëren.*
-
-* *Een klasgesprek over het inzetten van sociale robots in bepaalde sectoren, bv. de zorg en de auto-industrie.*
-
-* *Een klasgesprek over een gepeste robot.*
-
-* *A.d.h.v. tien stellingkaarten over de aanwezigheid van sociale robots in de maatschappij kunnen een klasdiscussie en discussies in groep gehouden worden.*
+Meer hierover vind je in het leerobject *"Afsluiten"*

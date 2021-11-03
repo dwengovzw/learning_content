@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 60
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,10 +31,19 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+# Klasgesprek
 
-## Tussentitel
+Ter afsluiting hou je nog een klasgesprek met de leerlingen. Hierin kan je verschillende onderwerpen aan bod laten komen.
 
-### Subtitel
+Enkele suggesties:
 
-**Onderverdeling**
+**Onderwerpen**
+* *Een klasgesprek over de ethische aspecten die gepaard gaan met sociale robots.*
+* *Een klasgesprek over het inzetten van sociale robots in bepaalde sectoren, bv. de zorg en de auto-industrie.*
+* *Een klasgesprek over een gepeste robot.*
+
+**Werkvormen**
+* *De leerlingen kunnen ook in groepjes van vier of vijf met elkaar over bepaalde stellingen discussiëren.*
+
+* *A.d.h.v. tien stellingkaarten over de aanwezigheid van sociale robots in de maatschappij kunnen een klasdiscussie en discussies in groep gehouden worden.*
+
