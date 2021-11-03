@@ -36,7 +36,7 @@ teacher_exclusive: true
 Is er iets kapot? Vooreerst geen paniek. 
 
 ###### **Groene doos**
-In de groene doos vindt u reservemateriaal. Als iets niet werkt, kan je het vervangen door het materiaal in deze doos.
+In de groene doos vind je reservemateriaal. Als iets niet werkt, kan je het vervangen door het materiaal in deze doos.
 
 ###### **Rode doos**
 In de rode doos plaats je dan het materiaal dat niet werkt.
