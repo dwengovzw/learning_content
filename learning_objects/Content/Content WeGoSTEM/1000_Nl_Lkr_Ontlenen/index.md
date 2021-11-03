@@ -35,7 +35,7 @@ teacher_exclusive: true
 
 Het WeGoSTEM-materiaal wordt gratis aangeboden door Dwengo VZW. Hou het in goede staat voor de volgende scholen.
 
-Om het verdelen van ons materiaal zo vlot mogelijk te laten verlopen, werken we samen met lokale bibliotheken. Een overzicht vindt u op het einde van dit leerobject terug met links naar het reserveringsformulier.
+Om het verdelen van ons materiaal zo vlot mogelijk te laten verlopen, werken we samen met lokale bibliotheken. Een overzicht vind je op het einde van dit leerobject terug met links naar het reserveringsformulier.
 
 Met het materiaal in deze doos kan je een WeGoSTEM-workshop geven voor een klas tot maximaal 30 leerlingen. Maak jouw collega's ook warm voor WeGoSTEM en geef de workshop samen voor alle leerlingen van 5de en 6de leerjaar!
 Het is de bedoeling dat je het materiaal na **twee weken** terugbrengt naar de bibliotheek!

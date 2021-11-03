@@ -59,7 +59,7 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 ### Evaluatie  
   
 
-De projectfiche waar dit nog eens allemaal samengevat wordt, vindt u [hier](embed/ProjectficheSocialeRobot.pdf "projectfiche") terug.
+De projectfiche waar dit nog eens allemaal samengevat wordt, vind je [hier](embed/ProjectficheSocialeRobot.pdf "projectfiche") terug.
 
 ## Lessenreeks
 ### Les 1: Inleiding en CS unplugged (± 2 lesuren)

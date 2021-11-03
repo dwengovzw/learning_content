@@ -34,7 +34,7 @@ teacher_exclusive: true
 ## 40 min tijdens de les
 
 ### Wat gebeurt er in de klas?
-Het is niet de bedoeling dat u de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
+Het is niet de bedoeling dat je de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
 
 Er is wat ondersteuning voorzien voor de leerlingen in het leerpad zelf, waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. De voorbereidende leerobjecten omvatten:
 
@@ -62,7 +62,7 @@ We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartTo
 * (For-lus)
 * (While-lus)
 
-In dit leerpad werden de voorbeelden voor de essentiële blokken reeds opgenomen. Om dit zelf in te oefenen, verwijzen we u naar het *StartToDwenguino*-traject.
+In dit leerpad werden de voorbeelden voor de essentiële blokken reeds opgenomen. Om dit zelf in te oefenen, verwijzen we je naar het *StartToDwenguino*-traject.
 
 ### Materiaal voor in de klas
 
