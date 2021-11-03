@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 30
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,4 +31,21 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Robotontwerp
+# brainstorm
+Je beschikt nu over al de basiskennis die je nodig hebt voor het programmeren van je eigen sociale robot! Je weet wat sociale robots zijn en hoe ze werken en je begrijpt hoe ze functioneren en 'denken'.
+
+Brainstorm nu binnen je groep over jullie sociale robot. Hou hierbij zeker rekening met het materiaal en de tijd.
+
+* Wat moet de robot kunnen?
+* Hoe moet de robot eruit zien?
+* Heeft de robot een naam?
+* Hoe zal de robot kunnen 'zien'?
+* Wat kunnen we doen met het materiaal dat we hebben?
+
+Als je groep teveel wilt doen, zullen jullie keuzes moeten maken.
+
+* Wat moet de robot minstens kunnen?
+* Welke dingen kan je eventueel achteraf nog doen als er tijd over is?
+
+Veel inspiratie toegewenst!
+
