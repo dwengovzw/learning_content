@@ -3,7 +3,7 @@ hruid: lcd-v1
 version: 3
 language: nl
 title: "Lcd"
-description: "Uitleg lcd"
+description: "Uitleg Lcd"
 keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # WIP
-## lcd-scherm
+## Lcd-scherm
 
 Het lcd-scherm kan je gebruiken om tekst te tonen. Dit kan bijvoorbeeld handig zijn voor het uitlezen van sensoren.
 
