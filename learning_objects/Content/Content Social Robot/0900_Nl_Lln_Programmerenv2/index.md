@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 30
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,10 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Programmeren van de robot
+Upload nu het eerste programma voor de sociale robot naar de fysieke robot. Je zal nu nog veel kleine aanpassingen moeten maken om het gewenste resultaat bekomen. Dit is normaal!
 
-## Tussentitel
-
-### Subtitel
-
-**Onderverdeling**
+Indien je nog tijd overhebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?
