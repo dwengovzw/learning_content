@@ -31,10 +31,4 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
-
-## Tussentitel
-
-### Subtitel
-
-**Onderverdeling**
+# TBD
