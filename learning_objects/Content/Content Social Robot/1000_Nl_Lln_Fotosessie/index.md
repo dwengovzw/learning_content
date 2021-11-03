@@ -2,7 +2,7 @@
 hruid: SR_Fotosessie-v1
 version: 3
 language: nl
-title: "Fotosessie"
+title: "Creatieve opdracht"
 description: "T"
 keywords: ["Sociale Robot"]
 educational_goals: [
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,10 +31,12 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+# Creatieve opdracht
+Nu je robot klaar is, wil je die uiteraard voorstellen aan je klas! Bespreek met je leerkracht hoe jullie dit gaan doen.
 
-## Tussentitel
+Enkele leuke ideeën:
+* Een tentoonstelling met jullie robots. Iedereen heeft zijn eigen standje en je kan elk om beurt robots voorstellen, uitproberen, rondlopen...
 
-### Subtitel
+* Je voert een klein toneeltje op waarin je interageert met je robot.
 
-**Onderverdeling**
+* Je stelt je robot voor als een persoon. Je beschrijft de problemen die je ondervond als medische noodgevallen (Schouder uit de kom als een arm eraf viel tijdens het maken, neus gebroken als je iets fout gesneden hebt, blind als het oog niet goed geprogrammeerd is...)

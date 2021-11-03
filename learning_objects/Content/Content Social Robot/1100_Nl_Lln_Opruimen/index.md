@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,10 +31,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Opruimen
 
-## Tussentitel
-
-### Subtitel
-
-**Onderverdeling**
+Jammer genoeg moet je op het einde van de rit je robot afbreken... Wees gerust, je kan het meeste houden! Enkel de elektronica zal je moeten eruit halen en opbergen in de doos zoals hieronder getoond.
