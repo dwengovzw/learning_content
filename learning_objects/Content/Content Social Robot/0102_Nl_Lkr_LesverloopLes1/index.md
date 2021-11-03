@@ -1,9 +1,9 @@
 ---
-hruid: SR_Lkr_Lesverloop-v1
+hruid: SR_Lkr_Les1-v1
 version: 3
 language: nl
-title: "Lesverloop"
-description: "Lesverloop"
+title: "Les 1"
+description: "Les 1"
 keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,37 +32,7 @@ teacher_exclusive: true
 ---
 
 # Lesverloop
-## Doelgroep
-Secundair onderwijs, 1e of 2e graad.
-
-## Tijdsbesteding
-6 tot 12 lesuren, best in blokken van 2 à 3 uren.
-
-## Centrale uitdaging
-Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en reageert op omgevingsfactoren.
-
-## Projectstructuur
-### Inleiding sociale robots (± 1 lesuur)
-* Wat zijn sociale robots? (20 - 40 min)
-* Hoe komt een sociale robot tot stand? (10 - 20 min)
-
-### Eigen sociale robot (± 6 lesuren)
-* Unplugged activiteiten (30 - 60 min)
-* Brainstorm (30 min)
-* Aan de slag met de simulator (90 - 150 min)
-* Constructie van de robot (90 - 150 min)
-
-### Verwerking (± 2 lesuren)
-* Creatieve opdracht met gebouwde robot (60 min)
-* Klasgesprek (60 min)
-
-### Evaluatie  
-  
-
-De projectfiche waar dit nog eens allemaal samengevat wordt, vindt u [hier](embed/ProjectficheSocialeRobot.pdf "projectfiche") terug.
-
-## Lessenreeks
-### Les 1: Inleiding en CS unplugged (± 2 lesuren)
+## Les 1: Inleiding en CS unplugged (± 2 lesuren)
 * Deze les kan starten met een presentatie met foto's van sociale robots die reeds voorkomen in de maatschappij, zoals Pepper, Paro, Aibo of een Hatchimal. En waarom geen cobot tonen zoalsin Walt?
 
 * Deze les kan ook anders opgevat worden. Bv. door de leerlingen een schets te laten maken van de robot van hun dromen. Nadien wordt klassikaal besproken of daar ook sociale robots tussen zitten. Tot slot worden ook enkele sociale robots die reeds voorkomen in de maatschappij besproken.
