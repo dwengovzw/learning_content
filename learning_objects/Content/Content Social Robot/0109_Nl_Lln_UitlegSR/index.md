@@ -43,6 +43,7 @@ En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw 
   <h3>Discussie</h3>
   <p>Mag men een robothond schoppen?</p>
 </div>
+
 Bekijk eens het [filmpje](https://www.aiopschool.be/socialerobot/robothond "Robothond")
 
 Het **uiterlijk** van je sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van je robot schept verwachtingen. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt...  
