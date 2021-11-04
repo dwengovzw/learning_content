@@ -50,5 +50,5 @@ Het proces van testen en debuggen is hierbij zeer belangrijk. Programmeren is ni
 
 
 **Lesfase 4 - Slot**
-Sluit de les af met het opstellen van een lijst voor het materiaal dat ze zullen nodig hebben voor hun robot. Dit materiaal voorzie je best zelf, maar je kan de leerlingen ook zelf dingen laten meebrengen indien gewenst.  
+* Sluit de les af met het opstellen van een lijst voor het materiaal dat ze zullen nodig hebben voor hun robot. Dit materiaal voorzie je best zelf, maar je kan de leerlingen ook zelf dingen laten meebrengen indien gewenst.  
 Laat de selectie van het materiaal bij een tekort aan tijd tot de volgende les, zodat je geen onnodig opruimwerk creëert. 
