@@ -34,6 +34,7 @@ teacher_exclusive: true
 # Lesverloop
 ## Les 1: Inleiding en CS unplugged (± 2 lesuren)
 **Lesfase 1 - Wat zijn sociale robots?**
+
 *Optie 1*
 * Start de les met een presentatie met foto's van sociale robots die reeds voorkomen in de maatschappij, zoals Pepper, Paro, Aibo of een Hatchimal.
 
