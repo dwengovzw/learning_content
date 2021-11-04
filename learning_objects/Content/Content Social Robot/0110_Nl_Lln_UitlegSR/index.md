@@ -54,4 +54,4 @@ Men experimenteert ook met sociale vuilnisbakrobots, zoals de Sociable Trash box
 *Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?*  
 
 
-![© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project](embed/UncannyValley.jpg "© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project")
+![© Francis wyffels](embed/Udavi.jpg "© Francis wyffels")
