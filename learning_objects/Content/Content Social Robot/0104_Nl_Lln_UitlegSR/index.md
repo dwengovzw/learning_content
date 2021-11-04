@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 
 # Wat is een sociale robot?
-## 1 Digitale systemen
+## 1| Digitale systemen
 
 *Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een stofzuigerrobot, een wasmachine een elektrische tandenborstel of een wekkerradio.*
 

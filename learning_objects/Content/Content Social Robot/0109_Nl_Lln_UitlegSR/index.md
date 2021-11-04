@@ -32,19 +32,20 @@ teacher_exclusive: false
 ---
 
 # Wat is een sociale robot?
-## 6 Vermenselijking
+## 6| Vermenselijking
 
 *Mensen zijn geneigd om menselijke eigenschappen toe te kennen aan objecten.*
 
 Jij hebt vast ook al eens je computer aangemoedigd om sneller te gaan werken.  
-En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw beschouwd als een huisdier.
+En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw beschouwd als een huisdier.  
 
-<div class="w3-panel w3-yellow">
-  <h3>Discussie</h3>
-  <p>Mag men een robothond schoppen?</p>
-</div>
 
-Bekijk eens het [filmpje](https://www.aiopschool.be/socialerobot/robothond "Robothond")
+*Discussie:*
+*Mag men een robothond schoppen?*  
+
+
+**Bekijk eens het [filmpje](https://www.youtube.com/watch?v=M8YjvHYbZ9w "Robothond")**  
+
 
 Het **uiterlijk** van je sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van je robot schept verwachtingen. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt...  
 Van een androïde robot, een robot die er heel menselijk uitziet, verwacht men ook menselijke handelingen. De robot Pari, die eruitziet als een zeehond, wordt door de mensen wel behandeld als een huisdier, maar schept niet de verwachtingen van een hond of een kat. De robot Pepper lijkt niet genoeg op een mens om te verwachten dat hij ook heel menselijki voor de dag komt.
@@ -52,7 +53,7 @@ Van een androïde robot, een robot die er heel menselijk uitziet, verwacht men o
 Als de verwachtingen die men van de robot heeft, niet overeenstemmen met wat hij effectief doet, dan ervaren mensen de robot als iets negatiefs.  
 Het is verwarrend als het lichaam van een robot gedeeltelijk bedekt is door 'huid', maar er ook mechanische onderdelen zichtbaar zijn. Het is bevreemdend als een robotdier praat.  
 Mensen  vinden robots die eruitzien als mensen meestal leuk, maar een robot mag ook niet teveel op een mens lijken, want dan vinden ze hem helemaal niet leuk meer.  
-Het fenomeen dat mensen zo op robots reageren, heet *The Uncanny Valley*.  
+Het fenomeen dat mensen zo op robots reageren, heet **The Uncanny Valley**.  
 Hoe meer een robot op een mens lijkt, hoe meer menselijke gedragingen men hem zal toedichten en hoe groter de kans dat de robot die verwachting niet waarmaakt.
 
 
