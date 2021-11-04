@@ -31,8 +31,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Wat is een sociale robot?
-## 7 Sociale robots in de toekomst
+# Wat zijn sociale robots?
+## 7| Sociale robots in de toekomst
 
 *Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van de sociale robots meer mogelijk worden in de toekomst.*
 
