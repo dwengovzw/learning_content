@@ -255,7 +255,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "SR_UnpluggedDoel-v1",
+            "hruid": "SR_UnpluggedInleiding-v1",
             "version": "3",
             "language": "nl"
           }
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "learningobject_hruid": "SR_UnpluggedDoel-v1",
+      "learningobject_hruid": "SR_UnpluggedInleiding-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
