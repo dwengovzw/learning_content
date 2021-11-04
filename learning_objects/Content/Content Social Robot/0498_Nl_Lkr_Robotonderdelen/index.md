@@ -31,3 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # Robotonderdelen
+Overloop kort met de leerlingen de elektronica die ze gaan gebruiken in de klas. Je kan dit eventueel inleiden door ze te laten raden wat elk onderdeel zou kunnen zijn.
+In het leerpad zijn de figuren opgenomen die in de simulator worden gebruikt om de echte voorwerpen voor te stellen.
+
+De beschrijving van de actuatoren en sensoren is in het leerpad vrij uitgebreid. Wanneer je dit zelf overloopt in de klas kan je dit uiteraard veel bondiger beschrijven.
