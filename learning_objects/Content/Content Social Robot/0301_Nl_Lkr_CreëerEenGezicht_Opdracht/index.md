@@ -2,7 +2,7 @@
 hruid: SR_Unplugged1-v1
 version: 3
 language: nl
-title: "Unplugged Opdracht 1"
+title: "Maak een gezicht"
 description: "Maak een gezicht"
 keywords: ["sociale robot", "activiteit"]
 educational_goals: [
@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
+# CS unplugged
 ## Maak een gezicht
 
 ![gezichtje](embed/gezichtje.png "gezichtje")

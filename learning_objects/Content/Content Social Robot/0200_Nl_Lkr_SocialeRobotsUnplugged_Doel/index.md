@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Unplugged activiteiten
+# CS unplugged
 ## 30 - 60 minuten in de klas
 
 Het doel van de volgende activiteiten is om de leerlingen kennis te laten maken met sociale robots. Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren, maar tijdens deze activiteit focussen we op het geven van een ‘gezicht’ aan de robot. We verkennen hoe we emoties of gelaatsuitdrukkingen kunnen programmeren bij robots. We doen dit via twee ‘unplugged’ opdrachten; programmeren zonder de computer: maak-een-gezicht en de emotiemachine. 

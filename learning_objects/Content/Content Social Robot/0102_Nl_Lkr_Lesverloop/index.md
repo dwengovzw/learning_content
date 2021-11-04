@@ -47,7 +47,7 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 * Hoe komt een sociale robot tot stand? (10 - 20 min)
 
 ### Eigen sociale robot (± 6 lesuren)
-* Unplugged activiteiten (30 - 60 min)
+* CS unplugged (30 - 60 min)
 * Brainstorm (30 min)
 * Aan de slag met de simulator (90 - 150 min)
 * Constructie van de robot (90 - 150 min)
