@@ -44,7 +44,8 @@ En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw 
 *Mag men een robothond schoppen?*  
 
 
-**Bekijk eens het [filmpje](https://www.youtube.com/watch?v=M8YjvHYbZ9w "Robothond")**  
+**Bekijk eens het [filmpje](https://www.youtube.com/watch?v=M8YjvHYbZ9w "Robothond")**
+![](@youtube/https://www.youtube.com/embed/M8YjvHYbZ9w "robothond")
 
 
 Het **uiterlijk** van je sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van je robot schept verwachtingen. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt...  
@@ -56,5 +57,4 @@ Mensen  vinden robots die eruitzien als mensen meestal leuk, maar een robot mag 
 Het fenomeen dat mensen zo op robots reageren, heet **The Uncanny Valley**.  
 Hoe meer een robot op een mens lijkt, hoe meer menselijke gedragingen men hem zal toedichten en hoe groter de kans dat de robot die verwachting niet waarmaakt.
 
-
-![© Francis wyffels](embed/Udavi.jpg "© Francis wyffels")
+![© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project](embed/UncannyValley.jpg "© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project")
