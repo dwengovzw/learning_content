@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 # Lesverloop
 ## Les 1: Inleiding en CS unplugged (± 2 lesuren)
-* Deze les kan starten met een presentatie met foto's van sociale robots die reeds voorkomen in de maatschappij, zoals Pepper, Paro, Aibo of een Hatchimal. En waarom geen cobot tonen zoalsin Walt?
+* Deze les kan starten met een presentatie met foto's van sociale robots die reeds voorkomen in de maatschappij, zoals Pepper, Paro, Aibo of een Hatchimal. En waarom geen cobot tonen zoals in Walt?
 
 * Deze les kan ook anders opgevat worden. Bv. door de leerlingen een schets te laten maken van de robot van hun dromen. Nadien wordt klassikaal besproken of daar ook sociale robots tussen zitten. Tot slot worden ook enkele sociale robots die reeds voorkomen in de maatschappij besproken.
 
