@@ -2,7 +2,7 @@
 hruid: SR_UnpluggedLln-v1
 version: 3
 language: nl
-title: "Inleiding SR unplugged"
+title: "CS Unplugged"
 description: "Context SR unplugged"
 keywords: ["sociale robot"]
 educational_goals: [
@@ -31,8 +31,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Sociale robot unplugged
+# CS unplugged
 
-Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren.
+Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren.  
 
+De volgende activiteiten zijn van het genre 'CS unplugged' oftewel Computer Sciences unplugged. Dit houdt in dat we gaan "programmeren" zonder computer.  
 Tijdens de inleidende activiteiten focus je op het geven van een 'gezicht' aan de robot. Hoe kan je emoties en gelaatsuitdrukkingen programmeren bij robots?
