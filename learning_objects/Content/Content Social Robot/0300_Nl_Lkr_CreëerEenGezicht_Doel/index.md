@@ -2,7 +2,7 @@
 hruid: SR_VBUnplugged1-v1
 version: 3
 language: nl
-title: "Voorbereiding unplugged Opdracht 1"
+title: "Voorbereiding Maak een gezicht"
 description: "Maak een gezicht"
 keywords: ["sociale robot"]
 educational_goals: [
@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-
+# CS unplugged
 ## Maak een gezicht 
 ### 20 minuten in de klas
 
