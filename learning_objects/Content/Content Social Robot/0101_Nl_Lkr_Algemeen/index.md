@@ -64,3 +64,7 @@ De verschillende modules zijn zo ontwikkeld dat ze goed aansluiten bij de nieuwe
 Binnen dit project werken de leerlingen met het Dwenguino microcontrollerplatform dat geïntegreerd is in de simulator.
 
 Tijdens het programmeer- en bouwproces komen verschillende aspecten van computationeel denken aan bod. Door grafisch te programmeren in de simulator hebben leerlingen op een laagdrempelige manier kennisgemaakt met de universele concepten van programmeren. Nadien kunnen ze gemakkelijk overschakelen naar andere programmeertalen.
+
+
+## Eindtermen
+Een document met een uitgebreide beschrijving van het project binnen de eindtermen vindt u [hier](embed/EindtermenAStroomSsocialeRobot.pdf "Eindtermen") terug.
