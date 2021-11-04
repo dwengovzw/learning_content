@@ -35,5 +35,5 @@ teacher_exclusive: false
 
 Sociale robots zijn robots die kunnen communiceren met mensen. Dit kan op heel veel verschillende manieren gebeuren.  
 
-De volgende activiteiten zijn van het genre 'CS unplugged' oftewel Computer Sciences unplugged. Dit houdt in dat we gaan "programmeren" zonder computer.  
+De volgende activiteiten zijn van het genre 'CS unplugged' oftewel Computer Sciences unplugged. Dit houdt in dat je gaat "programmeren" zonder computer.  
 Tijdens de inleidende activiteiten focus je op het geven van een 'gezicht' aan de robot. Hoe kan je emoties en gelaatsuitdrukkingen programmeren bij robots?
