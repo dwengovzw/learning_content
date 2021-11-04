@@ -34,13 +34,9 @@ teacher_exclusive: false
 ## Emotiemachine
 ### Werkwijze
 
-1. Geef iedereen de Emotiemachine-fiche en laat hen het volgende doen (zoals weergegeven op de fiche):
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knip langs de zwarte stippellijn zodat je de emotiemachine en een gezicht met lege gleuven bekomt, plus 3 stroken die je door deze gleuven kan schuiven.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weef de stroken door de gleuven voor de wenkbrauwen, ogen en mond zodat de letters verschijnen in de emotie machine en de delen van het gezicht verschijnen op het gezicht.
-
+1. Geef iedereen de Emotiemachine-fiche en laat hen het volgende doen (zoals weergegeven op de fiche):  
+Knip langs de zwarte stippellijn zodat je de emotiemachine en een gezicht met lege gleuven bekomt, plus 3 stroken die je door deze gleuven kan schuiven.  
+Weef de stroken door de gleuven voor de wenkbrauwen, ogen en mond zodat de letters verschijnen in de emotie machine en de delen van het gezicht verschijnen op het gezicht.
 
 2. Geef de leerlingen nu de werkfiche of gids hen zelf door de stappen. Op de werkfiche kunnen ze de blanco tabel invullen met hun emoties.
 
