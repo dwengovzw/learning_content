@@ -34,6 +34,9 @@ teacher_exclusive: false
 # Wat zijn sociale robots?
 ## 4| Privacy
 
+
+Voor kinderen zijn er dan weer talloze 'speelmaatjes' op de markt, waar ze zich zeer sterk aan gaan hechten, zoals Furby.
+
 Deze speelgoedrobots worden echter niet altijd goed onthaald. Met het ‘Internet of Toys’ worden kinderen betrokken in een commerciële, datagestuurde wereld. We moeten er bewust van zijn dat er morele grenzen kunnen worden overschreden. Kinderen kunnen gevoelig zijn voor wat een robot hen vraagt of zegt te doen. Maar ook de privacy van de kinderen is in gevaar.  
 
 Hello Barbie is een pop waarmee het kind conversaties kan voeren dankzij spraakherkenning. De pop is verbonden met servers in de cloud en leert uit vorige gesprekken. Omwille van privacyredenen kwam hier veel kritiek op en werd de pop van de markt gehaald.  

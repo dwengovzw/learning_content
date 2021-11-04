@@ -48,6 +48,4 @@ In het onderwijs kunnen sociale robots ingezet worden om leerlingen individueel 
 *Is een stofzuigerrobot een sociale robot?*  
 
 
-Voor kinderen zijn er dan weer talloze 'speelmaatjes' op de markt, waar ze zich zeer sterk aan gaan hechten, zoals Furby.
-
 ![© Knightscope](embed/MACM0402.jpg "© Knightscope")
