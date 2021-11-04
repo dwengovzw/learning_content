@@ -1,5 +1,5 @@
 ---
-hruid: Overzicht_robotonderdelen-v1
+hruid: SR_Overzicht_robotonderdelen2-v1
 version: 3
 language: nl
 title: "Overzicht robotonderdelen"
@@ -31,11 +31,11 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Overzicht robotonderdelen
+# Overzicht robotonderdelen
 
 Hieronder staan de verschillende robotonderdelen opgelijst die Dwengo in het 'Sociale robot'-pakket voorziet.
 
-### Actuatoren (uitvoer)
+## Actuatoren (uitvoer)
 
 |   **Naam**                    |   **Afbeelding**              |   **Beschrijving**            |
 |   -------------------------   |   --------------------------  |   --------------------------- |
@@ -49,7 +49,7 @@ Hieronder staan de verschillende robotonderdelen opgelijst die Dwengo in het 'So
 
 
 
-### Sensoren (invoer)
+## Sensoren (invoer)
 
 |   **Naam**                    |   **Afbeelding**              |   **Beschrijving**            |
 |   -------------------------   |   --------------------------  |   --------------------------- |
