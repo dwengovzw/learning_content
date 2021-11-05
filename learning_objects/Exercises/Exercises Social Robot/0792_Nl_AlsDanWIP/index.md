@@ -1,17 +1,17 @@
 ---
-hruid: SRM_LED1-v1
+hruid: AlsDan-v1
 version: 3
 language: nl
-title: "Meta"
-description: "Meta"
-keywords: ["voorbeeld", "voorbeeld2"]
+title: "AlsDan"
+description: "Uitleg AlsDan"
+keywords: ["StartToDwenguino", "AlsDan"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by dwengo vzw.
-licence: CC by dwengo vzw.
-content_type: blockly
+copyright: Copyright by Jerro
+licence: Licenced by Jerro
+content_type: text/markdown
 available: true
 target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
@@ -30,3 +30,5 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+
+## Als - Dan

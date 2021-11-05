@@ -1,5 +1,5 @@
 ---
-hruid: lcdWGS-v1
+hruid: SR_LCD-v1
 version: 3
 language: nl
 title: "Uitleg Lcd"
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## lcd-scherm
+## Lcd-scherm
 
 Het lcd-scherm kan je gebruiken om tekst te tonen. Dit kan bijvoorbeeld handig zijn voor het uitlezen van sensoren.
 

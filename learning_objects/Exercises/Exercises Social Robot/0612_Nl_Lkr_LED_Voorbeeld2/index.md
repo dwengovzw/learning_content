@@ -1,10 +1,10 @@
 ---
-hruid: SR_Wacht-v1
+hruid: led_Voorbeeld-v1
 version: 3
 language: nl
-title: "Uitleg Wacht"
-description: "Uitleg Wacht"
-keywords: ["StartToDwenguino", "wacht"]
+title: "Led Voorbeeld"
+description: "led Voorbeeld"
+keywords: ["StartToDwenguinom", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,23 +23,24 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
-## Wacht
 
-Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
+### Voorbeeld led
 
-![](embed/Afb1.png "Voorbeeld wacht")
+OPGAVE 2
 
-De tijd wordt uitgedrukt in milliseconden. Eén milliseconde is een duizendste van een seconde. In één seconde kunnen dus duizend milliseconden.
+Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
 
-**Voorbeeld**
+Oplossing:
 
-Probeer onderstaand voorbeeld eens uit zodat je ziet hoe het werkt!
+![blockly](@learning-object/SRM_LED2-v1/nl/3)
 
-![blockly](@learning-object/WACHT1-v1/nl/3)
+Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het "*zet klaar*"-gedeelte van het programma.
+
+*Test deze voorbeelden ook zelf uit in de simulator!*

@@ -1,5 +1,5 @@
 ---
-hruid: SRM_LED1-v1
+hruid: SRM_LED-v1
 version: 3
 language: nl
 title: "Meta"

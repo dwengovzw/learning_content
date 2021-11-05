@@ -1,10 +1,10 @@
 ---
-hruid: SR_Wacht-v1
+hruid: led_Oef2-v1
 version: 3
 language: nl
-title: "Uitleg Wacht"
-description: "Uitleg Wacht"
-keywords: ["StartToDwenguino", "wacht"]
+title: "led Oefening 2"
+description: "led Oefening 2"
+keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,23 +23,23 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
-## Wacht
 
-Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
+## 3.2 leds
 
-![](embed/Afb1.png "Voorbeeld wacht")
+Schrijf een programma dat het volgende doet:
 
-De tijd wordt uitgedrukt in milliseconden. Eén milliseconde is een duizendste van een seconde. In één seconde kunnen dus duizend milliseconden.
+1. leds 0 en 7 gaan aan.
+2. Wacht 100 ms. leds 1 en 6 gaan aan.
+3. Wacht 100 ms. leds 0 en 7 gaan uit. leds 2 en 5 gaan aan.
+4. Wacht 100 ms. leds 1 en 6 gaan uit. leds 3 en 4 gaan aan.
+5. Wacht 100 ms. leds 2 en 5 gaan uit. leds 0 en 7 gaan aan.
+6. Wacht 100 ms. leds 3 en 4 gaan uit.
 
-**Voorbeeld**
-
-Probeer onderstaand voorbeeld eens uit zodat je ziet hoe het werkt!
-
-![blockly](@learning-object/WACHT1-v1/nl/3)
+*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

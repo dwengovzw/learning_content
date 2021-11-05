@@ -1,17 +1,17 @@
 ---
-hruid: SRM_LED1-v1
+hruid: SR_led-v1
 version: 3
 language: nl
-title: "Meta"
-description: "Meta"
-keywords: ["voorbeeld", "voorbeeld2"]
+title: "Led"
+description: "Uitleg led"
+keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by dwengo vzw.
-licence: CC by dwengo vzw.
-content_type: blockly
+copyright: Copyright by Jerro
+licence: Licenced by Jerro
+content_type: text/markdown
 available: true
 target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
@@ -30,3 +30,16 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+
+## leds
+
+Links onderaan op het Dwenguino-bord vind je acht leds:
+
+![alt](embed/leds.png "Afb. leds")
+
+Deze leds zijn *led 0*,*led 1*, ..., *led 7*, van rechts naar links.
+
+Links bovenaan is er nog een ledje: *led 13*.
+Dit laatste led heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
+
+**Afbeelding Dwenguino met leds aangeduid**
