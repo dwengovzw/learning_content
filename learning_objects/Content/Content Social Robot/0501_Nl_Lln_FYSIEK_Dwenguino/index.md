@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Robotontwerp
+# Brainstorm
 ## De Dwenguino
 
 Voor het maken van de sociale robot zal je gebruikmaken van de Dwenguino. De Dwenguino is een Arduino-gebaseerde microcontroller die te laat om heel wat robotica-projecten uit te voeren dankzij z'n gebruiksvriendelijlkheid en zeer uitgebreide mogelijkheden op het vlak van sensorenen actuatoren.
