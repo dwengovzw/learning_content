@@ -2,8 +2,8 @@
 hruid: SR_WachtOef4-v1
 version: 3
 language: nl
-title: "Oefening Wacht 4"
-description: "Oefening Wacht 4"
+title: "Oefening Wacht 2"
+description: "Oefening Wacht 2"
 keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
