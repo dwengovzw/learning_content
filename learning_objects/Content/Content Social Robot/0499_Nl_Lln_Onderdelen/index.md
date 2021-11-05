@@ -31,7 +31,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Overzicht robotonderdelen
+# Robotonderdelen
+## Overzicht
 
 Hieronder staan de verschillende robotonderdelen opgelijst die Dwengo in het 'Sociale robot'-pakket voorziet.
 
