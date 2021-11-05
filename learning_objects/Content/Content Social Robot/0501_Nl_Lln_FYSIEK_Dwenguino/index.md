@@ -1,5 +1,5 @@
 ---
-hruid: Dwenguino_intro-v1
+hruid: SR_DwenguinoIntro-v1
 version: 3
 language: nl
 title: "Dwenguino intro"

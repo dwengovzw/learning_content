@@ -28,7 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 # Robotonderdelen
 Overloop kort met de leerlingen de elektronica die ze gaan gebruiken in de klas. Je kan dit eventueel inleiden door ze te laten raden wat elk onderdeel zou kunnen zijn.

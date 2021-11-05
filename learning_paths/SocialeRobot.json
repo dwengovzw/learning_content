@@ -375,7 +375,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Robotontwerp-v1",
+            "hruid": "SR_Robotontwerp-v1",
             "version": "3",
             "language": "nl"
           }
@@ -383,14 +383,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Robotontwerp-v1",
+      "learningobject_hruid": "SR_Robotontwerp-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Dwenguino_intro-v1",
+            "hruid": "SR_DwenguinoIntro-v1",
             "version": "3",
             "language": "nl"
           }
@@ -398,14 +398,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Dwenguino_intro-v1",
+      "learningobject_hruid": "SR_DwenguinoIntro-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Dwengo_simulator-v1",
+            "hruid": "SR_VBSimulator-v1",
             "version": "3",
             "language": "nl"
           }
@@ -413,14 +413,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Dwengo_simulator-v1",
+      "learningobject_hruid": "SR_VBSimulator-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Programmeerscenario-v1",
+            "hruid": "SR_Simulator-v1",
             "version": "3",
             "language": "nl"
           }
@@ -428,7 +428,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Programmeerscenario-v1",
+      "learningobject_hruid": "SR_Simulator-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -450,7 +450,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Programmeren_Robot-v1",
+            "hruid": "SR_STD-v1",
             "version": "3",
             "language": "nl"
           }
@@ -458,14 +458,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Programmeren_Robot-v1",
+      "learningobject_hruid": "SR_STD-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "SR_ProgrammerenTroubleshooting-v1",
+            "hruid": "SR_Programmeerscenario-v1",
             "version": "3",
             "language": "nl"
           }
@@ -473,14 +473,14 @@
       ]
     },
     {
-      "learningobject_hruid": "SR_ProgrammerenTroubleshooting-v1",
+      "learningobject_hruid": "SR_Programmeerscenario-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Problemen-v1",
+            "hruid": "SR_InleidendeOefening-v1",
             "version": "3",
             "language": "nl"
           }
@@ -488,7 +488,37 @@
       ]
     },
     {
-      "learningobject_hruid": "Problemen-v1",
+      "learningobject_hruid": "SR_InleidendeOefening-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Uploaden-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Uploaden-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_TroubleshootingSimulator-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_TroubleshootingSimulator-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
