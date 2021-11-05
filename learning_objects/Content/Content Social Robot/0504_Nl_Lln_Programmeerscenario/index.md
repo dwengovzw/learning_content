@@ -46,7 +46,7 @@ In de simulator zijn er verschillende programmeerscenario's voorzien:
 
 ### 'Rijdende robot'-scenario
 
-In het 'rijdende robot'-scenario staat er al een rijdende robot klaar op het simulatieveld. Je hoeft dus enkel nog de robot aan te sturen met een programma uit het codeveld. Dit wordt later uitgelegd in **4. programmeren van den robot**.
+In het 'rijdende robot'-scenario staat er al een rijdende robot klaar op het simulatieveld. Je hoeft dus enkel nog de robot aan te sturen met een programma uit het codeveld. Dit wordt later uitgelegd in **4. programmeren van de robot**.
 
 
 ### 'Sociale robot'-scenario
