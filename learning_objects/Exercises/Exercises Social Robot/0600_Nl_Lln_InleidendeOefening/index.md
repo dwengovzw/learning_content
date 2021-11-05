@@ -34,12 +34,16 @@ teacher_exclusive: false
 ## Inleidende oefening
 Nu je weet wat waar staat, kan je beginnen programmeren!
 
-* Kies in de simulatieomgeving voor het scenario van de tekenrobot (spirograaf).
+* Kies in de simulatieomgeving voor het scenario van de sociale robot door op het icoon ![](embed/SRScenario.png "Scenario") te klikken.
+
+* Voeg een lcd-scherm toe aan de doos door op het plusteken bij het lcd-scherm te klikken in het menu.
+
+![](embed/SRLCD.png "lcd-scherm")
 
 * Ga in de categorie ![alt](embed/Afb2.png "Afb. Dwenguino") op zoek naar dit blok:  
 
 
-![alt](embed/Afb9.jpg "Afb. lcd")
+![alt](embed/lcd.png "Afb. lcd")
 
 
 * Sleep dit blok naar het codeveld en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.
