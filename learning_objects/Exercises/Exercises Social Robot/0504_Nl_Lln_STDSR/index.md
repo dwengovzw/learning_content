@@ -1,8 +1,8 @@
 ---
-hruid: Dwengo_simulator-v1
+hruid: SR_STD-v1
 version: 3
 language: nl
-title: "Dwengo simulator"
+title: "StartToDwenguino Basis"
 description: "Dwengo simulator"
 keywords: ["sociale robot"]
 educational_goals: [
@@ -30,8 +30,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-## Dwengo-simulator
+# Simulator
+## StartToDwenguino
 
 Het ontwerpen en programmeren van de robot gebeurt in de Dwengo-simulator. De nieuwste versie van de programmeeromgeving met simulator is online beschikbaar op [https://blockly-backend.dwengo.org/](https://blockly-backend.dwengo.org/ "link naar simulator"). Momenteel wordt de simulator ondersteund op de meest recente versies van Google Chrome en Firefox.
 
