@@ -45,7 +45,7 @@ Brainstorm nu binnen je groep over jullie sociale robot. Hou hierbij zeker reken
 
 Als je groep teveel wilt doen, zullen jullie keuzes moeten maken.
 
-* Wat moet de robot minstens kunnen?
+* Wat moet je robot minstens kunnen?
 * Welke dingen kan je eventueel achteraf nog doen als er tijd over is?
 
 Veel inspiratie toegewenst!
