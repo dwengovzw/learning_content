@@ -80,3 +80,13 @@ Volg deze stappen om het Dwenguino-bord te herstarten:
 Controleer nogmaals of je programma correct is. Je kan ook kijken naar foutmeldingen in het zwarte consolevenster in de pop-up om uit te zoeken water mis is. Lukt her niet om de fout op te lossen? Download je Blockly-programma en laad het opnieuw in. Probeer het dan nogmaals te uploaden naar de Dwenguino.
 
 Nog steeds problemen? Contacteer zimcke@dwengo.org en stuur je proramma mee door, zodat we kunnen bekijken wat er mis gaat.
+
+## FAQs
+
+**Het lcd-scherm toont geen tekst**
+
+* Pas het contrast van het lcd-scherm aan via het gele schroefje op de Dwenguino microcontroller (zie **Elektronica**)
+
+**De sonar-sensor werkt niet**
+
+* Het gebeurt af en toe dat een sensor kapot is. Probeer na te gaan of dit het geval is door de aansluitingen van de sonar-sensor na te kijken en de gemeten waarde van de sensor weer te geven op het lcd-scherm. Er zitten extra vervangingssensoren in het pakket.
