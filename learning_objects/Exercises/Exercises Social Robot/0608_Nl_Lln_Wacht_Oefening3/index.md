@@ -2,8 +2,8 @@
 hruid: SR_WachtOef3-v1
 version: 3
 language: nl
-title: "Oefening Wacht 3"
-description: "Oefening Wacht 3"
+title: "Oefening Wacht 1.2"
+description: "Oefening Wacht 1.2"
 keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-### Voorbeeld Wacht
+### Oefening Wacht
 
 **Manier 2**
 

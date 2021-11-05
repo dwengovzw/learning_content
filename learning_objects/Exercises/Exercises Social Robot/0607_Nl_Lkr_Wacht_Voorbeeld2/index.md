@@ -2,8 +2,8 @@
 hruid: SR_WachtVB2-v1
 version: 3
 language: nl
-title: "Voorbeeld Wacht 2"
-description: "Voorbeeld Wacht 2"
+title: "Voorbeeld Wacht 1.1"
+description: "Voorbeeld Wacht 1.1"
 keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
