@@ -1,5 +1,5 @@
 ---
-hruid: Lkr_WachtWGS2-v1
+hruid: SR_WachtVB2-v1
 version: 3
 language: nl
 title: "Voorbeeld Wacht 2"
@@ -39,6 +39,6 @@ Dit kan je op 2 manieren oplossen.
 
 De eerste manier is om de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.
 
-![blockly](@learning-object/WACHTWGS2-v1/nl/3)
+![blockly](@learning-object/SRM_Wacht2-v1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

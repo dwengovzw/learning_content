@@ -1,9 +1,9 @@
 ---
-hruid: SR_Wacht-v1
+hruid: SR_WachtOef1-v1
 version: 3
 language: nl
-title: "Uitleg Wacht"
-description: "Uitleg Wacht"
+title: "Oefening Wacht 1"
+description: "Oefening Wacht 1"
 keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,23 +23,22 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
-## Wacht
 
-Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
+### Oefening Wacht
 
-![](embed/Afb1.png "Voorbeeld wacht")
+OPGAVE 1
 
-De tijd wordt uitgedrukt in milliseconden. Eén milliseconde is een duizendste van een seconde. In één seconde kunnen dus duizend milliseconden.
+Shchrijf een programma dat het volgende doet:
 
-**Voorbeeld**
+* Laat "Hallo mensen" op het lcd-scherm verschijnen voor 1 seconde (1000 ms).
+* Laat "Ik ben Dwenguino" op het lcd-scherm verschijnen voor 2 seconden (2000 ms).
 
-Probeer onderstaand voorbeeld eens uit zodat je ziet hoe het werkt!
+De *'wacht'-blok* die **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
 
-![blockly](@learning-object/SRM_Wacht-v1/nl/3)

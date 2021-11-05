@@ -1,5 +1,5 @@
 ---
-hruid: Lkr_WachtWGS4-v1
+hruid: SR_WachtVB4-v1
 version: 3
 language: nl
 title: "Voorbeeld Wacht 4"
@@ -39,6 +39,6 @@ Maak een reclamebord voor de UGent en Dwengo. De namen moeten afwisselend versch
 
 Oplossing:
 
-![blockly](@learning-object/WACHTWGS4-v1/nl/3)
+![blockly](@learning-object/SRM_Wacht4-v1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

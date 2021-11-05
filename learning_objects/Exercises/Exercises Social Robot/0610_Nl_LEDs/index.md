@@ -1,8 +1,8 @@
 ---
-hruid: SR_led-v1
+hruid: SR_Led-v1
 version: 3
 language: nl
-title: "Led"
+title: "Uitleg Led"
 description: "Uitleg led"
 keywords: ["StartToDwenguino", "led"]
 educational_goals: [
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## leds
+## Leds
 
 Links onderaan op het Dwenguino-bord vind je acht leds:
 

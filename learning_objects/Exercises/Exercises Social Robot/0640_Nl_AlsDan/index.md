@@ -1,10 +1,10 @@
 ---
-hruid: led_Oef2-v1
+hruid: Sr_AlsDan-v1
 version: 3
 language: nl
-title: "led Oefening 2"
-description: "led Oefening 2"
-keywords: ["StartToDwenguino", "led"]
+title: "Uitleg Als - Dan"
+description: "Uitleg Als - Dan"
+keywords: ["StartToDwenguino", "AlsDan"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,15 +31,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 3.2 leds
+## Als - Dan
 
-Schrijf een programma dat het volgende doet:
-
-1. leds 0 en 7 gaan aan.
-2. Wacht 100 ms. leds 1 en 6 gaan aan.
-3. Wacht 100 ms. leds 0 en 7 gaan uit. leds 2 en 5 gaan aan.
-4. Wacht 100 ms. leds 1 en 6 gaan uit. leds 3 en 4 gaan aan.
-5. Wacht 100 ms. leds 2 en 5 gaan uit. leds 0 en 7 gaan aan.
-6. Wacht 100 ms. leds 3 en 4 gaan uit.
-
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+### Coming Soon

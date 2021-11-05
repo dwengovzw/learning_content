@@ -1,10 +1,10 @@
 ---
-hruid: led_Oef2-v1
+hruid: SR_LedVB4-v1
 version: 3
 language: nl
-title: "led Oefening 2"
-description: "led Oefening 2"
-keywords: ["StartToDwenguino", "led"]
+title: "Led Voorbeeld"
+description: "led Voorbeeld"
+keywords: ["StartToDwenguinom", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -28,10 +28,11 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
-## 3.2 leds
+### Voorbeeld led
+OPGAVE 4
 
 Schrijf een programma dat het volgende doet:
 
@@ -41,5 +42,9 @@ Schrijf een programma dat het volgende doet:
 4. Wacht 100 ms. leds 1 en 6 gaan uit. leds 3 en 4 gaan aan.
 5. Wacht 100 ms. leds 2 en 5 gaan uit. leds 0 en 7 gaan aan.
 6. Wacht 100 ms. leds 3 en 4 gaan uit.
+
+Oplossing:
+
+![blockly](@learning-object/SRM_LED4-v1/nl/3)
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

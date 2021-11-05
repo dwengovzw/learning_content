@@ -1,10 +1,10 @@
 ---
-hruid: AlsDan-v1
+hruid: SR_AlsDanAnders-v1
 version: 3
 language: nl
-title: "AlsDan"
-description: "Uitleg AlsDan"
-keywords: ["StartToDwenguino", "AlsDan"]
+title: "Uitleg Als - Dan - Anders"
+description: "Uitleg Als - Dan - Anders"
+keywords: ["StartToDwenguino", "AlsDanAnders"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,4 +31,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Als - Dan
+## Als - Dan - Anders
+
+### Coming Soon

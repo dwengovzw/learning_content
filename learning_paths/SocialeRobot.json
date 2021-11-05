@@ -510,7 +510,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "lcdWGS-v1",
+            "hruid": "SR_LCD-v1",
             "version": "3",
             "language": "nl"
           }
@@ -518,14 +518,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lcdWGS-v1",
+      "learningobject_hruid": "SR_LCD-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "lkr_lcdWGS1-v1",
+            "hruid": "SR_LCDVB1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -533,14 +533,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lkr_lcdWGS1-v1",
+      "learningobject_hruid": "SR_LCDVB1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "lkr_lcdWGS2-v1",
+            "hruid": "SR_LCDOef1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -548,14 +548,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lkr_lcdWGS2-v1",
+      "learningobject_hruid": "SR_LCDOef1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "lkr_lcdWGS3-v1",
+            "hruid": "SR_LCDVB2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -563,14 +563,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lkr_lcdWGS3-v1",
+      "learningobject_hruid": "SR_LCDVB2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "WachtWGS-v1",
+            "hruid": "SR_LCDOef2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -578,14 +578,14 @@
       ]
     },
     {
-      "learningobject_hruid": "WachtWGS-v1",
+      "learningobject_hruid": "SR_LCDOef2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS1-v1",
+            "hruid": "SR_LCDVB3-v1",
             "version": "3",
             "language": "nl"
           }
@@ -593,14 +593,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS1-v1",
+      "learningobject_hruid": "SR_LCDVB3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS2-v1",
+            "hruid": "SR_LCDOef3-v1",
             "version": "3",
             "language": "nl"
           }
@@ -608,14 +608,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS2-v1",
+      "learningobject_hruid": "SR_LCDOef3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS3-v1",
+            "hruid": "SR_Wacht-v1",
             "version": "3",
             "language": "nl"
           }
@@ -623,14 +623,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS3-v1",
+      "learningobject_hruid": "SR_Wacht-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS4-v1",
+            "hruid": "SR_WachtVB1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -638,14 +638,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS4-v1",
+      "learningobject_hruid": "SR_WachtVB1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "led-v1",
+            "hruid": "SR_WachtOef1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -653,14 +653,14 @@
       ]
     },
     {
-      "learningobject_hruid": "led-v1",
+      "learningobject_hruid": "SR_WachtOef1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "led_Voorbeeld-v1",
+            "hruid": "SR_WachtVB2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -668,14 +668,14 @@
       ]
     },
     {
-      "learningobject_hruid": "led_Voorbeeld-v1",
+      "learningobject_hruid": "SR_WachtVB2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "led_Oef1-v1",
+            "hruid": "SR_WachtOef2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -683,14 +683,14 @@
       ]
     },
     {
-      "learningobject_hruid": "led_Oef1-v1",
+      "learningobject_hruid": "SR_WachtOef2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "led_Oef2-v1",
+            "hruid": "SR_WachtVB3-v1",
             "version": "3",
             "language": "nl"
           }
@@ -698,7 +698,247 @@
       ]
     },
     {
-      "learningobject_hruid": "led_Oef2-v1",
+      "learningobject_hruid": "SR_WachtVB3-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_WachtOef3-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_WachtOef3-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_WachtVB4-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_WachtVB4-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_WachtOef4-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_WachtOef4-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Led-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Led-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_LedVB1-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_LedVB1-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_LedOef1-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_LedOef1-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_LedVB2-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_LedVB2-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_LedOef2-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_LedOef2-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_LedVB3-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_LedVB3-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_LedOef3-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_LedOef3-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_LedVB4-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_LedVB4-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_LedOef4-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_LedOef4-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Matrix-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Matrix-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Sonar-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Sonar-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "Sr_AlsDan-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "Sr_AlsDan-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_AlsDanAnders-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_AlsDanAnders-v1",
       "version": "3",
       "language": "nl",
       "transitions": [

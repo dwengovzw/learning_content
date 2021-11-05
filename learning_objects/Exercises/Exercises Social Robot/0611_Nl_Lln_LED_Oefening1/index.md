@@ -1,10 +1,10 @@
 ---
-hruid: SR_Wacht-v1
+hruid: SR_LedOef1-v1
 version: 3
 language: nl
-title: "Uitleg Wacht"
-description: "Uitleg Wacht"
-keywords: ["StartToDwenguino", "wacht"]
+title: "Oefening Led 1"
+description: "Oefening Led 1"
+keywords: ["sociale robot", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,23 +23,18 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
-## Wacht
 
-Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
+### Oefening led
 
-![](embed/Afb1.png "Voorbeeld wacht")
+OPGAVE 1
 
-De tijd wordt uitgedrukt in milliseconden. Eén milliseconde is een duizendste van een seconde. In één seconde kunnen dus duizend milliseconden.
+Laat led 0 branden.
 
-**Voorbeeld**
-
-Probeer onderstaand voorbeeld eens uit zodat je ziet hoe het werkt!
-
-![blockly](@learning-object/SRM_Wacht-v1/nl/3)
+Merk op dat led 0 het eerste led is aan de **rechterkant**!
