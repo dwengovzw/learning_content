@@ -1,9 +1,9 @@
 ---
-hruid: Programmeren_Robot-v1
+hruid: SR_InleidendeOefening-v1
 version: 3
 language: nl
-title: "Programmeren robot"
-description: "Programmeren Robot"
+title: "Inleidende oefening"
+description: "Inleidende oefening"
 keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,31 +23,31 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 teacher_exclusive: false
 ---
+# Simulator
+## Inleidende oefening
+Nu je weet wat waar staat, kan je beginnen programmeren!
 
-# Programmeren van de robot
+* Kies in de simulatieomgeving voor het scenario van de tekenrobot (spirograaf).
 
-De basis van elk DwenguinoBlockly-programma is het 'zet klaar / herhaal'-blok. Daar plaats je al jouw code. Je kan zowel in het 'zet klaar'-gedeelte als in het 'herhaal'-gedeelte de gewenste blokken toevoegen.
-
-![](embed/Afb3.png "zet klaar / herhaal")
-
-Hierbij is het belangrijk te weten dat alles in het'zet klaar'-gedeelte slechts één keer wordt uitgevoerd en dit bij het opstarten van de Dwenguino. De blokken in het 'herhaal'-gedeelte worden steeds herhaald tot je zelf het programma stopt.  
+* Ga in de categorie ![alt](embed/Afb2.png "Afb. Dwenguino") op zoek naar dit blok:  
 
 
-**Opdracht: Programmeer de sociale robot in de simulator.**
+![alt](embed/Afb9.jpg "Afb. lcd")
 
-De toolbox van de simulator is verdeeld in verschillende categorieën. Naargelang het gekozen scenario, krijg je andere categorieën te zien. Voor het programma van je sociale robot kies je blokken uit het Dwenguino-menu en uit het Sociale robot-menu.
 
-![](embed/SRToolbox.png "Toolbox")
+* Sleep dit blok naar het codeveld en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.
 
-Ga op zoek naar dit blok:
+* Je schreef zonet je eerste programma!
 
-![](embed/lcd.png "lcd-scherm")
+* Voer dit programma uit met de simulator door in het simulatormenu (4) te klikken op de afspeelknop ![alt](embed/Afb7.png "Afb. Play").
 
-Gevonden? Ga dan snel naar de volgende stap om je eerste programma te maken!
+Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox* nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
+
+**Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte Dwenguino! Hierna wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de Dwenguino.**
