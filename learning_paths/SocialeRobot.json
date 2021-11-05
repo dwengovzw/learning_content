@@ -435,21 +435,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "SR_EersteProgramma-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "SR_EersteProgramma-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "SR_STD-v1",
             "version": "3",
             "language": "nl"
