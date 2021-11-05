@@ -1,10 +1,10 @@
 ---
-hruid: AlsDanAnders-v1
+hruid: SR_WachtOef2-v1
 version: 3
 language: nl
-title: "AlsDanAnders"
-description: "Uitleg AlsDanAnders"
-keywords: ["StartToDwenguino", "AlsDanAnders"]
+title: "Oefening Wacht 2"
+description: "Oefening Wacht 2"
+keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,4 +31,10 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Als - Dan - Anders
+### Oefening Wacht
+
+Dit kan je op 2 manieren oplossen. 
+
+**Manier 1**
+
+De eerste manier is om de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.

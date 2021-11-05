@@ -1,10 +1,10 @@
 ---
-hruid: led_Oef2-v1
+hruid: SR_WachtOef3-v1
 version: 3
 language: nl
-title: "led Oefening 2"
-description: "led Oefening 2"
-keywords: ["StartToDwenguino", "led"]
+title: "Oefening Wacht 3"
+description: "Oefening Wacht 3"
+keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,15 +31,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 3.2 leds
+### Voorbeeld Wacht
 
-Schrijf een programma dat het volgende doet:
+**Manier 2**
 
-1. leds 0 en 7 gaan aan.
-2. Wacht 100 ms. leds 1 en 6 gaan aan.
-3. Wacht 100 ms. leds 0 en 7 gaan uit. leds 2 en 5 gaan aan.
-4. Wacht 100 ms. leds 1 en 6 gaan uit. leds 3 en 4 gaan aan.
-5. Wacht 100 ms. leds 2 en 5 gaan uit. leds 0 en 7 gaan aan.
-6. Wacht 100 ms. leds 3 en 4 gaan uit.
-
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+De tweede manier is om alle code te verplaatsen van het *'Zet klaar'-deel* naar het *'herhaal'-deel*. Dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.

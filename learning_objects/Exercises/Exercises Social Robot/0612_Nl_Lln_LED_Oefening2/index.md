@@ -1,10 +1,10 @@
 ---
-hruid: led_Oef1-v1
+hruid: SR_LedOef2-v1
 version: 3
 language: nl
-title: "led Oefening 1"
-description: "led Oefening 1"
-keywords: ["StartToDwenguino", "led"]
+title: "Oefening Led 2"
+description: "Oefening Led 2"
+keywords: ["StartToDwenguinom", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,9 +31,10 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## 3.1 leds
+### Oefening led
 
-Laat de tweede led branden. Verwar de tweede led niet met led 2!
+OPGAVE 2
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
 
+Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het "*zet klaar*"-gedeelte van het programma.
