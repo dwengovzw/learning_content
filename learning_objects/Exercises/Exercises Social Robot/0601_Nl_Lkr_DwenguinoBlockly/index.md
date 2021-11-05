@@ -1,9 +1,9 @@
 ---
-hruid: SR_ProgrammerenTroubleshooting-v1
+hruid: SR_TroubleshootingSimulator-v1
 version: 3
 language: nl
-title: "Mijn eerste programma"
-description: "Mijn eerste programma"
+title: "Troubleshooting"
+description: "Troubleshooting"
 keywords: ["Sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -38,7 +38,7 @@ Je kan je DwenguinoBlockly-programma uitvoeren in het gekozen scenario van de si
 
 ![](@youtube/https://www.youtube.com/embed/hmr5smg7l8Y "voorbeeld")
 
-Afhankelijk van het gekozen scenario zal je een andere simulatie te zien krijgen. Zoals al vermeld werd in **3. Robotontwerp** zal je vooral gebruikmaken van het ‘rijdende robot’-scenario en het ‘sociale robot’-scenario. Het ‘rijdende robot’-scenario laat toe om simulaties op het microcontrollerbord en op een rijdende robot met twee dc-motoren te visualiseren in het simulatieveld. Het ‘sociale robot’-scenario bevat geen Dwenguino in het simulatieveld. Daar zal je enkel code kunnen uitvoeren op de robotonderdelen die je zelf aan het simulatieveld hebt toegevoegd.
+Afhankelijk van het gekozen scenario zal je een andere simulatie te zien krijgen. Zoals al vermeld werd in **Robotontwerp** zal je vooral gebruikmaken van het ‘rijdende robot’-scenario en het ‘sociale robot’-scenario. Het ‘rijdende robot’-scenario laat toe om simulaties op het microcontrollerbord en op een rijdende robot met twee dc-motoren te visualiseren in het simulatieveld. Het ‘sociale robot’-scenario bevat geen Dwenguino in het simulatieveld. Daar zal je enkel code kunnen uitvoeren op de robotonderdelen die je zelf aan het simulatieveld hebt toegevoegd.
 
 
 ## Debuggen
@@ -55,9 +55,7 @@ In het hoofdmenu (en dus niet in het simulatormenu) kan je de knop ![](embed/Upl
 
 Tijdens het uploaden verandert het robot-icoontje ![](embed/RobotIcoon.png "Robot icoon") in een draaiend tandwieltje ![](embed/Settings.png "Bezig"). Op het lcd-scherm van de Dwenguino verschijnt een boodschap om aan te geven dat de microcontroller in gebruik is. Wanneer het robot-icoontje terug verschijnt, is het programma succesvol geüpload naar de Dwenguino
 
-*Filmpje Hoe uploaden**
-
-Krijg je ene pop-up te zien met de booschap *"Sorry, het is niet gelukt om de code te uploaden naar het bord"*? Dan is het uploaden mislukt. Hiervoor kunnen er verschillende redenen zijn:
+Krijg je een pop-up te zien met de booschap *"Sorry, het is niet gelukt om de code te uploaden naar het bord"*? Dan is het uploaden mislukt. Hiervoor kunnen er verschillende redenen zijn:
 
 
 1. **Het bord is niet of fout aangesloten**
@@ -77,7 +75,7 @@ Volg deze stappen om het Dwenguino-bord te herstarten:
 * Upload het programma opnieuw via de ![](embed/Upload.png "Upload") in het hoofdmenu.
 
 
-2. Er zit een fout in je programma
+2. **Er zit een fout in je programma**
 
 Controleer nogmaals of je programma correct is. Je kan ook kijken naar foutmeldingen in het zwarte consolevenster in de pop-up om uit te zoeken water mis is. Lukt her niet om de fout op te lossen? Download je Blockly-programma en laad het opnieuw in. Probeer het dan nogmaals te uploaden naar de Dwenguino.
 
