@@ -37,14 +37,14 @@ De basis van elk DwenguinoBlockly-programma is het 'zet klaar / herhaal'-blok. D
 
 ![](embed/Afb3.png "zet klaar / herhaal")
 
-Hierbij is het belangrijk te weten dat alles in het'zet klaar'-gedeelte slechts één keer wordt uitgevoerd en dit bij het opstarten van de Dwenguino. De blokken in het 'herhaal'-gedeelte worden steeds herhaald tot je zelf het programma stopt.
+Hierbij is het belangrijk te weten dat alles in het'zet klaar'-gedeelte slechts één keer wordt uitgevoerd en dit bij het opstarten van de Dwenguino. De blokken in het 'herhaal'-gedeelte worden steeds herhaald tot je zelf het programma stopt.  
 
-## Opdracht: Programmeer de sociale robot in de simulator.
+
+**Opdracht: Programmeer de sociale robot in de simulator.**
 
 De toolbox van de simulator is verdeeld in verschillende categorieën. Naargelang het gekozen scenario, krijg je andere categorieën te zien. Voor het programma van je sociale robot kies je blokken uit het Dwenguino-menu en uit het Sociale robot-menu.
 
-![](embed/Afb2.png "Dwenguino")
-![](embed/SR.png "Sociale Robot")
+![](embed/SRToolbox.png "Toolbox")
 
 Ga op zoek naar dit blok:
 
