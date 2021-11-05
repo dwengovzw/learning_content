@@ -79,7 +79,6 @@ Volg deze stappen om het Dwenguino-bord te herstarten:
 
 Controleer nogmaals of je programma correct is. Je kan ook kijken naar foutmeldingen in het zwarte consolevenster in de pop-up om uit te zoeken water mis is. Lukt her niet om de fout op te lossen? Download je Blockly-programma en laad het opnieuw in. Probeer het dan nogmaals te uploaden naar de Dwenguino.
 
-Nog steeds problemen? Contacteer zimcke@dwengo.org en stuur je proramma mee door, zodat we kunnen bekijken wat er mis gaat.
 
 ## FAQs
 
