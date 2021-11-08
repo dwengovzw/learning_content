@@ -2,7 +2,7 @@
 hruid: SR_Beschrijving-v1
 version: 3
 language: nl
-title: "Beschrijving"
+title: "Je eigen sociale robot"
 description: "Beschrijving sociale robot"
 keywords: ["sociale robot"]
 educational_goals: [
