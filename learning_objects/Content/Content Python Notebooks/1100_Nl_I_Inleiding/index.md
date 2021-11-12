@@ -2,7 +2,7 @@
 hruid: PN_InleidingKlimaat-v1
 version: 3
 language: nl
-title: "CO&#8322"
+title: "Inleiding"
 description: "Inleiding"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [

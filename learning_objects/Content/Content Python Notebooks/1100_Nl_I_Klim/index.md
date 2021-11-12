@@ -3,7 +3,7 @@ hruid: PN_C02-v1
 version: 3
 language: nl
 title: "CO&#8322;"
-description: "Notebooks over ..."
+description: "Notebooks over CO&#8322"
 keywords: ["Python", "STEM", "Wiskunde", "KIKS", "Klimaat", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,9 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Klimaatverandering
-In deze STEM-notebooks ga je aan de slag met data die de klimaatverandering concreet maken: data van de atmosferische CO2-concentratie door de eeuwen heen, data van de dikte of lengte van twee gletsjers in Zwitserland, data van het zeeniveau in Oostende.
-Je zal de data weergeven in een spreidingsdiagram en je krijgt ook enkele opdrachten die je helpen om de data te interpreteren. 
+# CO<sub>2</sub>
 
+In deze notebooks bestudeer je de evolutie in de atmosferische CO<sub>2</sub>-concentratie door de eeuwen heen. Je visualiseert het verband met de temperatuur en je maakt zelf een voorstelling van de Keelingcurve.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1100 "Notebooks Klimaatverandering")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1110 "Notebooks Klimaatverandering")
