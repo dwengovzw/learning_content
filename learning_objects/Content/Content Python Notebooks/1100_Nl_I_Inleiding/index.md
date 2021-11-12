@@ -31,4 +31,4 @@ skos_concepts: [
 
 # Inleiding
 
-
+In deze STEM-notebooks ga je aan de slag met data die de klimaatverandering concreet maken: data van de atmosferische CO<sub>2</sub>-concentratie door de eeuwen heen, data van de dikte of lengte van twee gletsjers in Zwitserland, data van het zeeniveau in Oostende. Je zal de data weergeven in een spreidingsdiagram en je krijgt ook enkele opdrachten die je helpen om de data te interpreteren. Als je dat wil kan je met data aan de slag gaan om toekomsgerichte evoluties te onderzoeken.

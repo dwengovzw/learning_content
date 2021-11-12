@@ -1,8 +1,8 @@
 ---
-hruid: PN_C02-v1
+hruid: PN_Klimaatverandering-v1
 version: 3
 language: nl
-title: "CO&#8322;"
+title: "Klimaatverandering"
 description: "Notebooks over ..."
 keywords: ["Python", "STEM", "Wiskunde", "KIKS", "Klimaat", "AI Op School"]
 educational_goals: [
