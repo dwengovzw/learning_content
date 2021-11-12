@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Programmeerscenario"
 description: "Programmeerscenario"
-keywords: ["sociale robot"]
+keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

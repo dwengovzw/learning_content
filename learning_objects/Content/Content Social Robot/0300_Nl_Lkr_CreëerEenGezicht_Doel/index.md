@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbereiding Maak een gezicht"
 description: "Maak een gezicht"
-keywords: ["sociale robot"]
+keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
