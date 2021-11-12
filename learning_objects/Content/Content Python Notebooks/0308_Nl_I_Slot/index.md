@@ -1,9 +1,9 @@
 ---
-hruid: PN_VoorkennisKlimaat-v1
+hruid: PN_SlotRegressie-v1
 version: 3
 language: nl
-title: "Voorkennis"
-description: "Voorkennis"
+title: "Slot"
+description: "Slot"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,6 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
- 
-# Voorkennis
-
-* Leerpad *'Spreidingsdiagram'*
-* Leerpad *'Lineaire Regressie'* (optioneel)
+# Slot
+* Wil je dit toepassen in een STEM-project? Je vindt er in het leerpad *'Klimaat'*.
+* Bij sommige data is een rechte niet geschikt als regressielijn. Je zal dan op zoek moeten gaan naar een kromme die bij de data past. Je kan je hierin verdiepen in het leerpad 'Regressie'

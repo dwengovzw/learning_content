@@ -1,9 +1,9 @@
 ---
-hruid: PN_VoorkennisKlimaat-v1
+hruid: PN_InleidingOperatoren-v1
 version: 3
 language: nl
-title: "Voorkennis"
-description: "Voorkennis"
+title: "Inleiding"
+description: "Inleiding"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,11 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
- 
-# Voorkennis
 
-* Leerpad *'Spreidingsdiagram'*
-* Leerpad *'Lineaire Regressie'* (optioneel)
+# Inleiding
+
+Programmeertalen gebruiken operatoren:
+* wiskundige operatoren zoals $+$ en $cdot$ en vergelijkingsoperatoren zoals $<$ en $geq$
+* logische of Booleaanse operatoren zoals AND en NOT.
+
+In dit leerpad leer je hoe je wiskundige bewerkingen invoert in Python en waarvoor je de vergelijkingsoperatoren en Booleaanse operatoren gebruikt in een programma.

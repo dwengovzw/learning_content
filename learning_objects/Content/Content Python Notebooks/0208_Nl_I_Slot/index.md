@@ -30,4 +30,4 @@ skos_concepts: [
 ---
 # Slot
 
-Nu ben je klaar voor het leerpad *"lineaire regressie"*
+Nu ben je klaar voor het leerpad *'Rechten'*, waarna je aan de slag kunt met het leerpad *'lineaire regressie'*.

@@ -1,10 +1,10 @@
 ---
-hruid: PN_SlotRegressie-v1
+hruid: PN_Rekenen-v1
 version: 3
 language: nl
-title: "Slot"
-description: "Slot"
-keywords: ["voorbeeld", "voorbeeld2"]
+title: "Rekenen"
+description: "Rekenen"
+keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -28,5 +28,12 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Slot
-Wil je dit toepassen in een STEM-project? Je vindt er in het leerpad *"Klimaat"*.
+
+# Rekenen
+
+In deze notebook leer je optellen en vermenigvuldigen in Python. Je gaat met vierkantswortels aan de slag en je leert wat het verschil is tussen een gewone en een gehele deling.
+
+Je werkt met de module math en enkele methodes. Ook kennis van datatypes wordt hier ingeoefend.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1010 "Notebooks Rekenen")
+

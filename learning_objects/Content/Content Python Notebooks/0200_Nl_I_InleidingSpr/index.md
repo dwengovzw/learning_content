@@ -30,5 +30,7 @@ skos_concepts: [
 ---
 # Inleiding
 
-Werken met spreidingsdiagrammen is een van de leerdoelen van de tweede graad. In deze reeks notebooks leer je in Python een spreidingsdiagram maken van een dataset van twee variabelen. Dat kan data zijn die je zelf intikt of data die je inlaadt vanuit een bestand. 
+Werken met spreidingsdiagrammen is een van de leerdoelen van de tweede graad. In deze reeks notebooks leer je in Python een spreidingsdiagram maken van een dataset van twee variabelen. Je zal de data plotten in een assenstelsel, het resultaat is een puntenwolk of spreidingsdiagram. Dat kan data zijn die je zelf intikt of data die je inlaadt vanuit een bestand. 
 Met twee andere notebooks kan je het geleerde inoefenen. Het belang van visualisatie wordt duidelijk in nog twee andere notebooks.
+
+Dit leerpad vormt bovendien de basis voor alle leerpaden waarin je grafieken tekent. De notebooks geven ook mee welke concepten van computationeel denken en welke principes van programmeren er aan bod komen.

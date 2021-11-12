@@ -28,7 +28,8 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Standaardiseren
-De mate van correlatie kan je niet altijd op het zicht inschatten. Je leert waarom het standaardiseren van de gegevens in dat opzicht belangrijk is. Ook visualiseren kan daarbij een steentje bijdragen.
+# Standaardiseren en visualiseren
+Wil je weten of lineaire regressie zinvol is bij een bepaalde dataset? Visualiseren v.d. data kan daartoe zijn steentje bijdragen.  
+De mate van correlatie kan je echter niet altijd op het zicht inschatten. Je leert waarom het standaardiseren van de gegevens in dat opzicht belangrijk is.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0302 "Notebooks Standaardiseren")

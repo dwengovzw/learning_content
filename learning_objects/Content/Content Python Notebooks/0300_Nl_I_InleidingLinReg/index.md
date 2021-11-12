@@ -30,4 +30,4 @@ skos_concepts: [
 ---
 # Inleiding
 
-Lineaire regressie is een leerdoel voor de tweede graad. In deze notebooks leer je met Python de rechte die het best past bij een dataset vinden en visualiseren, gebruikmakend van 'echte' data.
+Lineaire regressie is een leerdoel voor de tweede graad. In deze notebooks leer je met Python de rechte die het best past bij een dataset vinden en visualiseren, gebruikmakend van 'echte' data. Soms weerspiegelt die rechte een trend die vervat is in de data, men spreekt dan van een trendlijn.

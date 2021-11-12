@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 
 # Opmaken van grafieken
-
+Wil je de grafieken die je maakte verduidelijken of een persoonlijke toets geven? Doorloop dan deze notebooks. Je gaat o.a. aan de slag met kleur en stippellijnen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0402 "Notebooks Opmaken Grafieken")
 

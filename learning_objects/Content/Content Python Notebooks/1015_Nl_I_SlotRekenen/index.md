@@ -1,5 +1,5 @@
 ---
-hruid: PN_SlotKlimaat-v1
+hruid: PN_SlotOperatoren-v1
 version: 3
 language: nl
 title: "Slot"

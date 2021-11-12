@@ -30,6 +30,7 @@ skos_concepts: [
 ---
 
 # Rechten tekenen (praktisch)
+Deze notebook is handig voor als je snel een rechte wilt tekenen met Python.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0403 "Notebooks Rechten Tekenen")
 

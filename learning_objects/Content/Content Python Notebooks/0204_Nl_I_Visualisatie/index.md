@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 # Belang van visualisatie
-Hier wordt geïllustreerd waarom illustratie van belang is.
+Hier wordt geïllustreerd waarom het visualiseren van data van belang is. Beelden zeggen meer dan cijfers.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0204 "Notebooks Visualisatie")
 
