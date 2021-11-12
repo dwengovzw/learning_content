@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Doe mee met WeGoSTEM"
 description: "Inleiding tot het leerspoor"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

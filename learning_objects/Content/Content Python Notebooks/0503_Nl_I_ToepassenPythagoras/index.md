@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Toepassen op stelling van Pythagoras"
 description: "Toepassen op stelling van Pythagoras"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "Wiskunde"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
