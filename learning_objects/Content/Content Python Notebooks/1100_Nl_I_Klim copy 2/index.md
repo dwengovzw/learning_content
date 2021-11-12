@@ -1,9 +1,9 @@
 ---
-hruid: PN_Klimaatverandering-v1
+hruid: PN_Zeeniveau-v1
 version: 3
 language: nl
-title: "Klimaatverandering"
-description: "Notebooks over ..."
+title: "Zeeniveau"
+description: "Notebooks over zeeniveau"
 keywords: ["Python", "STEM", "Wiskunde", "KIKS", "Klimaat", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,9 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Klimaatverandering
-In deze STEM-notebooks ga je aan de slag met data die de klimaatverandering concreet maken: data van de atmosferische CO2-concentratie door de eeuwen heen, data van de dikte of lengte van twee gletsjers in Zwitserland, data van het zeeniveau in Oostende.
-Je zal de data weergeven in een spreidingsdiagram en je krijgt ook enkele opdrachten die je helpen om de data te interpreteren. 
+# Zeeniveau
 
+Een van de effecten van de klimaatverandering is de stijging van het zeeniveau. In deze notebook visualiseer je de evolutie van het gemiddeld zeeniveau in Oostende.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1100 "Notebooks Klimaatverandering")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1130 "Notebooks Klimaatverandering")

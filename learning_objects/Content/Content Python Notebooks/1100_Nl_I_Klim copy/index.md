@@ -1,9 +1,9 @@
 ---
-hruid: PN_Klimaatverandering-v1
+hruid: PN_Gebergtegletsjers-v1
 version: 3
 language: nl
-title: "Klimaatverandering"
-description: "Notebooks over ..."
+title: "Gebergtegletsjers"
+description: "Notebooks over gebergtegletsjers"
 keywords: ["Python", "STEM", "Wiskunde", "KIKS", "Klimaat", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,9 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Klimaatverandering
-In deze STEM-notebooks ga je aan de slag met data die de klimaatverandering concreet maken: data van de atmosferische CO2-concentratie door de eeuwen heen, data van de dikte of lengte van twee gletsjers in Zwitserland, data van het zeeniveau in Oostende.
-Je zal de data weergeven in een spreidingsdiagram en je krijgt ook enkele opdrachten die je helpen om de data te interpreteren. 
+# Gebergtegletsjers
 
+Hier werk je met data van 2 Zwitserse gletsjers. Je bestudeert de inkrimping van de Morteratsch in een geleid voorbeeld. Nadien wacht je een opdracht over de Silvretta-gletsjer.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1100 "Notebooks Klimaatverandering")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1120 "Notebooks Klimaatverandering")
