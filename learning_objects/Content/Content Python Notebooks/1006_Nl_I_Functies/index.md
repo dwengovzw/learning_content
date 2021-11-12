@@ -31,5 +31,7 @@ skos_concepts: [
 
 # Functies
 
+In dit deel van het leerpad leer je hoe je bepaalde instructies uit je script groepeert in een subalgoritme en meegeeft aan Python in een zelfgedefinieerde functie.
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1006 "Notebooks Functies")
 

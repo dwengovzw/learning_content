@@ -30,5 +30,11 @@ skos_concepts: [
 ---
 # Toepassen op de stelling van Pythagoras
 
+In de oefeningen bij de stelling van Pythagoras is vaak een patroon te herkennen: 2 zijden van een driehoek zijn gekend en de derde zijde moet berekend worden.
+* ofwel zijn de 2 rechthoekszijden gegeven en moet de schuine zijde berekend worden
+* ofwel zijn 1 rechthoekszijde en de schuine zijde gegeven en moet de andere rechthoekszijde berekend worden.
+
+Hiervoor volstaan 2 functies. Deze toepassingen vind je alvast terug in de notebooks. Maar er is meer.
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0503 "Notebooks Pythagoras")
 
