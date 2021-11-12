@@ -30,6 +30,9 @@ skos_concepts: [
 ---
 
 # IP-adres
-Met deze notebook kan je illustreren waarom binaire en hexadecimale talstelsels belangrijk zijn in de computerwetenschappen. Ondertussen leer je wat een IP-adres nu eigenlijk is.
+Sommige IP-adressen zijn opgebouwd met tiendelige getallen, andere met hexadecimale getallen.
+In deze notebook wordt dan ook ruim aandacht besteed aan binaire, tiendelige en hexadecimale getallen. Je leert ook hoe je met Python vlot van het ene naar het andere talstelsel omzet.
+
+Met deze notebook kan je illustreren waarom binaire en hexadecimale talstelsels belangrijk zijn in de computerwetenschappen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1300 "Notebooks IP-adres")

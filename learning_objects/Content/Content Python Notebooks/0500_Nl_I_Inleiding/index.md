@@ -30,3 +30,4 @@ skos_concepts: [
 ---
 
 # Inleiding
+De oefeningen bij de stelling van Pythagoras lenen er zich toe om met enkele concepten uit de computerwetenschappen aan de slag te gaan: algoritmes, invoer-verwerking-uitvoer, patroonherkenning, functies...

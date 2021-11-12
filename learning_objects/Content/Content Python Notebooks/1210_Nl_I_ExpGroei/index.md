@@ -44,4 +44,6 @@ Aangezien het verloop doorheen de tijd cruciaal is in het geval van ziekteverspr
 bijna alle ziekteverspreidingsmodellen *dynamisch* van aard. Ze modelleren dus een verandering in de tijd. 
 In dit project zullen we een veel gebruikt type ziekteverspreidingsmodel bestuderen: het SIR-model.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1200 "Notebooks Epidemie")
+Bij elke golf in de COVID-19 pandemie kennen het aantal besmettingen of het aantal ziekenhuisopnames op een gegeven moment een exponentiële groei. Met je kennis over regressie kan je een exponentiële functie bepalen die die trend in de data weerspiegelt.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1210 "Notebooks Epidemie")
