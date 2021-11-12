@@ -31,4 +31,4 @@ skos_concepts: [
 
 # Voorkennis
 
-* Leerpad *"Werken met notebooks"*
+* Leerpad *'Werken met notebooks'*

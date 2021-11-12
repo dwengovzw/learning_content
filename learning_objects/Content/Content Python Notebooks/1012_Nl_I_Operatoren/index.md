@@ -1,8 +1,8 @@
 ---
-hruid: PN_Rekenen-v1
+hruid: PN_Operatoren-v1
 version: 3
 language: nl
-title: "Rekenen"
+title: "Logische operatoren"
 description: "Rekenen"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 
-# Rekenen
+# Logische operatoren
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1010 "Notebooks Rekenen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1011 "Notebooks Rekenen")
 

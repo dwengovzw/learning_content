@@ -41,6 +41,6 @@ Oplossing:
 
 ![blockly](@learning-object/SRM_LED2-v1/nl/3)
 
-Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het "*zet klaar*"-gedeelte van het programma.
+Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '*zet klaar*'-gedeelte van het programma.
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

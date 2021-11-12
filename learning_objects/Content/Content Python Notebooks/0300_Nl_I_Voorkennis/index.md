@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 # Voorkennis
 
-* Leerpad *"Werken met notebooks"*
-* Leerpad *"Spreidingsdiagram"*
-* Een rechte kunnen tekenen (Leerpad *"Rechten"*)
+* Leerpad *'Werken met notebooks'*
+* Leerpad *'Spreidingsdiagram'*
+* Een rechte kunnen tekenen (Leerpad *'Rechten'*)
 

@@ -30,3 +30,4 @@ skos_concepts: [
 ---
 
 # Inleiding
+Een rechte is een verzameling van punten. Eens je een spreidingsdiagram kunt tekenen, is de stap naar een rechte snel gemaakt.

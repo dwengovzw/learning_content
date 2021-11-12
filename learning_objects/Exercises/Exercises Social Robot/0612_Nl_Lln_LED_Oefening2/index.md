@@ -37,4 +37,4 @@ OPGAVE 2
 
 Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
 
-Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het "*zet klaar*"-gedeelte van het programma.
+Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '*zet klaar*'-gedeelte van het programma.

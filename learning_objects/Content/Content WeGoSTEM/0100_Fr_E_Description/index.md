@@ -38,6 +38,6 @@ Dans ce parcours, vous serez mis au défi de construire et de programmer vous-m�
 
 Avant de pouvoir commencer avec cela, vous devrez d'abord effectuer des tâches super cool pour vous donner une meilleure idée de la façon de vous y prendre.
 
-Ces devoirs comprennent des explications sur les robots, des activités telles que *"Program a Human"* et des exercices de programmation.
+Ces devoirs comprennent des explications sur les robots, des activités telles que *'Program a Human'* et des exercices de programmation.
 
 Beaucoup de plaisir!
