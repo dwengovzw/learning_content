@@ -1,8 +1,8 @@
 ---
-hruid: Beschrijving-v1
+hruid: WGS_Beschrijving-v1
 version: 3
 language: nl
-title: "Algemene inleiding"
+title: "Inleiding"
 description: "Beschrijving van het leerspoor"
 keywords: ["WeGoSTEM"]
 educational_goals: [
