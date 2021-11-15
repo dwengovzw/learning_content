@@ -32,7 +32,7 @@ skos_concepts: [
 # Inleiding
 
 Programmeertalen gebruiken operatoren:
-* wiskundige operatoren zoals $+$ en $cdot$ en vergelijkingsoperatoren zoals $<$ en $geq$
+* wiskundige operatoren zoals 'plus' en 'maal' en vergelijkingsoperatoren zoals 'kleiner dan' en 'groter dan of gelijk aan'
 * logische of Booleaanse operatoren zoals AND en NOT.
 
 In dit leerpad leer je hoe je wiskundige bewerkingen invoert in Python en waarvoor je de vergelijkingsoperatoren en Booleaanse operatoren gebruikt in een programma.
