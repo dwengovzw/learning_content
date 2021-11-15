@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Parameters"
 description: "Parameters"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "Wiskunde"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,7 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Parameters in de vergelijkingvan een rechte
+# Parameters in de vergelijking van een rechte
+In deze notebooks onderzoek je hoe de parameters in de vergelijking van een rechte de grafiek beïnvloeden. Experimenteer met de richtingscoëfficiënt en de doorgang door de y-as.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0404 "Notebooks Parameters")
 

@@ -1,10 +1,10 @@
 ---
-hruid: PN_SlotRegressie-v1
+hruid: PN_Zeeniveau-v1
 version: 3
 language: nl
-title: "Slot"
-description: "Slot"
-keywords: ["voorbeeld", "voorbeeld2"]
+title: "Zeeniveau"
+description: "Notebooks over zeeniveau"
+keywords: ["Python", "STEM", "Wiskunde", "KIKS", "Klimaat", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -28,5 +28,9 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Slot
-Wil je dit toepassen in een STEM-project? Je vindt er in het leerpad *"Klimaat"*.
+
+# Zeeniveau
+
+Een van de effecten van de klimaatverandering is de stijging van het zeeniveau. In deze notebook visualiseer je de evolutie van het gemiddeld zeeniveau in Oostende.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1130 "Notebooks Klimaatverandering")

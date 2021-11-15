@@ -52,7 +52,7 @@ Oplossing:
 
 **Voorbeeld 2**
 
-Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het "*zet klaar*"-gedeelte van het programma.
+Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '*zet klaar*'-gedeelte van het programma.
 
 
 OPGAVE 3

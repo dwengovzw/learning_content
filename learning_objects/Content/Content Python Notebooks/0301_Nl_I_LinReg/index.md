@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Lineaire regressie"
 description: "Lineaire regressie"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "Wiskunde, "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,6 +29,9 @@ skos_concepts: [
 ]
 ---
 # Lineaire Regressie
-Wat is lineaire regressie nu eigenlijk? Wat is het belang van de correlatiecoëfficiënt? Teken de vergelijking van de best passende rechte en stel de vergelijking op.
+In deze reeks notebooks verdiep je je in de volgende items:
+* Wat is lineaire regressie nu eigenlijk? 
+* Wat is het belang van de correlatiecoëfficiënt? 
+* Bepaal de vergelijking van de best passende rechte en teken ze erbij in het spreidingsdiagram.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0301 "Notebooks Lineaire Regressie")

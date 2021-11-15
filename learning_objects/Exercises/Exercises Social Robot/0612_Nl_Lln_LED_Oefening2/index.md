@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [10, 11, 12, 13, 14]
+target_ages: [12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -37,4 +37,4 @@ OPGAVE 2
 
 Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
 
-Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het "*zet klaar*"-gedeelte van het programma.
+Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '*zet klaar*'-gedeelte van het programma.

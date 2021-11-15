@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Inleiding Leerkracht"
 description: "Inleiding tot het leerspoor"
-keywords: ["sociale robot"]
+keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [10, 11, 12, 13, 14]
+target_ages: [12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -45,6 +45,7 @@ Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een soci
 
 De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek…
 
+![](embed/interdisciplinair.png "interdisciplinair leren")
 
 ## Programmeren met de simulator
 Binnen dit project werken de leerlingen met de Dwenguino-simulator, ontworpen voor iedereen die op zoek is naar een eerste (grafische) programmeerervaring.

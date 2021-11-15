@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Oefenen met data"
 description: "Oefenen met data"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "Wiskunde, "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 ---
 # Oefenen met echte data
-Je past nu wat je leerde toe op echte data: de bevolking van België en de uitbarstingen van de geiser *'Old Faithful'*.
+Je past nu wat je leerde toe op 'echte' data: de postbedeling, de bevolking van België en de uitbarstingen van de geiser *'Old Faithful'*.
+Misschien ben je meer benieuwd naar de bezoekersaantallen van Disneyland Parijs of wil je weten hoe het gesteld is met de armoede in de wereld? Ook dit zal je behandelen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0303 "Notebooks Oefenen met Data")

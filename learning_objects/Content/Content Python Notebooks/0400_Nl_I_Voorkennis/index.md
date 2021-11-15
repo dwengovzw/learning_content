@@ -31,8 +31,8 @@ skos_concepts: [
 
 # Voorkennis
 
-* Leerpad *"Werken met notebooks"*
-* Leerpad *"Spreidingsdiagram"*
-* Leerpad *"Operatoren"*
+* Leerpad *'Werken met notebooks'*
+* Leerpad *'Spreidingsdiagram'*
+* Leerpad *'Operatoren'*
 
 

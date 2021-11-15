@@ -30,8 +30,10 @@ skos_concepts: [
 ---
 
 # Taaltechnologie: Sentimentanalyse 
-In de interactieve notebooks wordt duidelijk hoe sentimentanalyse met regelgebaseerde of datagebaseerde systemen gebeurt.
+In deze twee interactieve notebooks wordt duidelijk hoe sentimentanalyse met regelgebaseerde of datagebaseerde systemen gebeurt.
 
 ![](embed/Reviews.png "Reviews flowchart")
+
+Bij automatische sentimentanalyse beslist een AI_systeem of een review positief, negatief of neutraal is. Zo'n systeem is nooit 100% nauwkeurig.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2101 "Notebooks Sentimentanalyse")

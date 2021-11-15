@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Rechten tekenen"
 description: "Rechten tekenen"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "Wiskunde"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 
 # Rechten tekenen
-
+In het eerste onderdeel van dit leerpad pas je het Python-script aan dat je al kent om data voor te stellen in een spreidingsdiagram.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0401 "Notebooks Rechten Tekenen")
 

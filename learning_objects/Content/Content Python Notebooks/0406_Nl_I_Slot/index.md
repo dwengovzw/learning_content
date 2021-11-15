@@ -30,3 +30,4 @@ skos_concepts: [
 ---
 
 # Slot
+Eigenlijk heb je heel wat basisfunctionaliteiten onder de knie na dit leerpad. Werken met andere functies verloopt immers op een gelijksoortige manier.

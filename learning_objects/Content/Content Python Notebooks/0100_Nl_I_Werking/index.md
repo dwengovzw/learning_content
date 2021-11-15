@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Werken met notebooks"
 description: "Notebooks over ..."
-keywords: ["voorbeeld, voorbeeld2"]
+keywords: ["Python", "KIKS", "Wiskunde", "STEM"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,7 +31,10 @@ skos_concepts: [
 
 # Werken met notebooks
 
-Het lesmateriaal van 'Python in wiskunde en STEM' wordt aangeboden in de vorm van Python notebooks. Notebooks zijn digitale documenten die zowel uitvoerbare code bevatten als tekst, afbeeldingen, video, hyperlinks ... Via de notebooks kan je nieuwe begrippen aanbrengen, opdrachten formuleren, foto’s tonen, bepaalde fundamenten van programmeren uit te leggen, aanwezige code uitvoeren en zelf code opstellen.
+Het lesmateriaal van 'Python in wiskunde en STEM' wordt aangeboden in de vorm van interactieve notebooks. Notebooks zijn digitale documenten die zowel uitvoerbare code bevatten als tekst, afbeeldingen, video, hyperlinks... In onze notebooks worden nieuwe begrippen aangebracht via tekstuele uitleg, video en afbeeldingen. Je vindt er uitgewerkte voorbeelden en kleine en grote opdrachten. Je voert de aanwezige code uit en stelt zelf code op. 
+
+De code in de notebooks is Python3. We kozen voor Python omdat dit een heel toegankelijke programmeertaal is, die vaak ok intuïtief is.  
+Python is bovendien bezig aan een opmars binnen de meest gebruikte computertalen. Gekende gebruikers zijn bv. Google, NASA, Netflix, Uber, AstraZeneca, Barco, Instagram en YouTube.
 
 In de eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag gaat. 
 
