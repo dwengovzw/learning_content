@@ -14,7 +14,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Beschrijving-v1",
+            "hruid": "WGS_Beschrijving-v1",
             "version": "3",
             "language": "nl"
           }
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Beschrijving-v1",
+      "learningobject_hruid": "WGS_Beschrijving-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
