@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Opmaken van grafieken"
 description: "Opmaken van grafieken"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "Wiskunde"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 
 # Opmaken van grafieken
-
+Wil je de grafieken die je maakte verduidelijken of een persoonlijke toets geven? Doorloop dan deze notebooks. Je gaat o.a. aan de slag met kleur en stippellijnen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0402 "Notebooks Opmaken Grafieken")
 

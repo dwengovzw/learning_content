@@ -31,5 +31,5 @@ skos_concepts: [
  
 # Voorkennis
 
-* Leerpad *"Spreidingsdiagram"*
-* Leerpad *"Lineaire Regressie"* (optioneel)
+* Leerpad *'Spreidingsdiagram'*
+* Leerpad *'Lineaire Regressie'* (optioneel)

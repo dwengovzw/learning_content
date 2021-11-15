@@ -1,10 +1,10 @@
 ---
-hruid: PN_Epidemie2-v1
+hruid: PN_GGReg-v1
 version: 3
 language: nl
-title: "Ziekteverspreidingsmodellen"
-description: "Epidemie"
-keywords: ["voorbeeld", "voorbeeld2"]
+title: "Regressie gebergtegletsjers"
+description: "Notebooks over gebergtegletsjers"
+keywords: ["Python", "STEM", "Wiskunde", "KIKS", "Klimaat", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 ---
 
+# Gebergtegletsjers - Regressie
+Je onderzoekt hoe de gletsjers verder inkrimpen als de huidige trend zich doorzet.
 
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1200 "Notebooks Epidemie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1140 "Notebooks Klimaatverandering")

@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Programmeerstructuren"
 description: "Programmeerstructuren"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "Taaltechnologie", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,6 +30,7 @@ skos_concepts: [
 ---
 
 # Programmeerstructuren
+In deze notebook maak je kennis met programmeerstructuren.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1008 "Notebooks Programmeerstructuren")
 

@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Unplugged activiteiten"
 description: "Doel SR unplugged"
-keywords: ["sociale robot"]
+keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [10, 11, 12, 13, 14]
+target_ages: [12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,

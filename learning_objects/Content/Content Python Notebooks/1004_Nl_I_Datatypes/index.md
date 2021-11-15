@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Datatypes"
 description: "Datatypes"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "AI Op School", "Taaltechnologie"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,6 +30,7 @@ skos_concepts: [
 ---
 
 # Datatypes
+Aan de basis van taaltechnologie liggen de vorm waarin tekst aan de computer wordt gegeven en hoe je met een computer tekst kan verwerken.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1004 "Notebooks Datatypes")
 

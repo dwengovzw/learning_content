@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Rechten tekenen (praktisch)"
 description: "Rechten tekenen"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: ["Python", "Wiskunde"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,6 +30,7 @@ skos_concepts: [
 ---
 
 # Rechten tekenen (praktisch)
+Deze notebook is handig voor als je snel een rechte wilt tekenen met Python.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0403 "Notebooks Rechten Tekenen")
 
