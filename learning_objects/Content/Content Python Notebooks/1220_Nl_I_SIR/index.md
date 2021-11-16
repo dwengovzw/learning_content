@@ -37,13 +37,4 @@ Meestal zijn de individuen gewoon mensen, maar dit model kan ook aangewend worde
 
 A.d.h.v. het SIR-model simuleert men bv. hoe het aantal besmettingen zal evolueren of wat het effect is van vaccinatie. In deze notebook leer je het SIR-model kennen.
 
-*** 
-
-**Zelf aan de slag: de verspreiding van een ziekte doorheen een netwerk**
-
-We hebben een Jupyter Notebook ontwikkeld met een interactief SIR-ziekteverspreidingsmodel. Je kan hiermee zelf aan de slag. Surf naar [onze Jupyter Notebook server](http://kiks.ilabt.imec.be/jupyter/) en kies *Simuleer Epidemie*. Druk vervolgens op *Spawn*. 
-Open vervolgens de notebook *SimuleerEenEpidemie.ipynb*. Bekijk eventueel eerst onze [oefeningen programmeren](https://scholen.dwengo.org/nl/pythoninitiatie.html).
-
-***
-
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1220 "Notebooks Epidemie")

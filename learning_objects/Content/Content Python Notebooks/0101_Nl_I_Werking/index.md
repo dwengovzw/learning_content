@@ -1,9 +1,9 @@
 ---
-hruid: WerkingNotebooks-v1
+hruid: PN_WerkingNotebooks-v1
 version: 3
 language: nl
 title: "Werken met notebooks"
-description: "Notebooks over ..."
+description: "Leren werken met de notebooks"
 keywords: ["Python", "KIKS", "Wiskunde", "STEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -38,6 +38,4 @@ Python is bovendien bezig aan een opmars binnen de meest gebruikte computertalen
 
 In de eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag gaat. 
 
-Wil je ook de finesses kennen? Dan kan je de twee andere notebooks doorlopen. 
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0100 "Notebooks Werking")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")
