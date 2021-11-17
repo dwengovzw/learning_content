@@ -1,5 +1,5 @@
 ---
-hruid: SR_Lkr_Lesverloop-v1
+hruid: SR__Lkr_Lesverloop-v1
 version: 3
 language: nl
 title: "Lesverloop"

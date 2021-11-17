@@ -1,5 +1,5 @@
 ---
-hruid: SR_LedVB4-v1
+hruid: SR__LedVB4-v1
 version: 3
 language: nl
 title: "Led Voorbeeld"

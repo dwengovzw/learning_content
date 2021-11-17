@@ -1,5 +1,5 @@
 ---
-hruid: SR_Inleiding-v1
+hruid: SR__Inleiding-v1
 version: 3
 language: nl
 title: "Inleiding"

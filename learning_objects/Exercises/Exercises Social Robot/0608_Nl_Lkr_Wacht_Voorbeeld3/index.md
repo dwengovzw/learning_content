@@ -1,5 +1,5 @@
 ---
-hruid: SR_WachtVB3-v1
+hruid: SR__WachtVB3-v1
 version: 3
 language: nl
 title: "Voorbeeld Wacht 1.2"

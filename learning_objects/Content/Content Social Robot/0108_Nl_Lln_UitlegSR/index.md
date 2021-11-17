@@ -1,5 +1,5 @@
 ---
-hruid: SR_Uitleg5-v1
+hruid: SR__Uitleg5-v1
 version: 3
 language: nl
 title: "Home assistants"
