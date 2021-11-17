@@ -49,4 +49,4 @@ Tegenwoordig veroorzaken besmettelijke ziektes minder doden door betere medische
 
 COVID-19 is aan een steile opmars bezig. Ook in België vertoont het aantal besmettingen een exponentiële stijging. 
 
-We hebben een Notebook ontwikkeld waarin je leert hoe je aan exponentiële regressie doet: je zal met Python de exponentiële functie bepalen die het best past bij de data.
+We hebben een notebook ontwikkeld waarin je leert hoe je aan exponentiële regressie doet: je zal met Python de exponentiële functie bepalen die het best past bij de data.
