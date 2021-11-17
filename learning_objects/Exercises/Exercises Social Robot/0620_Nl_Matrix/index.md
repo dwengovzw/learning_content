@@ -1,5 +1,5 @@
 ---
-hruid: SR_Matrix-v1
+hruid: SR__Matrix-v1
 version: 3
 language: nl
 title: "Uitleg Matrix"
