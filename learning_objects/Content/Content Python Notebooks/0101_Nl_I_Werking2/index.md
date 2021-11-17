@@ -1,9 +1,9 @@
 ---
-hruid: PN_WerkingNotebooks3-v1
+hruid: PN_WerkingNotebooks2-v1
 version: 3
 language: nl
-title: "Extra features"
-description: "Notebooks over ..."
+title: "Log out"
+description: "Leren werken met de notebooks"
 keywords: ["Python", "KIKS", "Wiskunde", "STEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,6 +31,10 @@ skos_concepts: [
 
 # Werken met notebooks
 
-Wil je ook de finesses kennen? Dan kan je de twee andere notebooks doorlopen. 
+**Let op**  
+*Wanneer je een reeks notebooks hebt afgewerkt, moet je uitloggen via de knop rechts bovenaan.*  
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0102 "Notebooks Werking")
+![](embed/LogOut.png "Log out")  
+
+
+Als je dit niet doet, dan zal de nieuwe link nog steeds de vorige, afgewerkte notebooks tonen, in plaats van de nieuwe reeks.
