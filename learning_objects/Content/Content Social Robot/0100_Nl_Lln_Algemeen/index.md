@@ -33,8 +33,18 @@ teacher_exclusive: false
 
 # Wat ga je doen?
 
-Het project 'Sociale robot' start meestal met een inleiding over sociale robots. Wat zijn sociale robots? Waar worden sociale robots ingezet? Hoe ziet de toekomst met sociale robots eruit? Hoe kan zo'n robot communiceren en kan hij ook emoties tonen?
+In dit project bouw je je eigen sociale robot, een robot die reageert op zijn omgeving! Van ontwerp naar simulatie tot fysieke robot, dat is het traject dat je hier doorloopt.  
+Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan verwezenlijken.
 
-In dit project ontwerp je zelf een sociale robot in de simulator. Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit  kan verwezenlijken. Vervolgens test en programmeer je deze virtuele robot.
+***
 
-Na deze eerste fase in de simulator, bouw je je ontwerp *in het echt*! Daarna kan je het programma uploaden naar de echte robot en kan je er zo aan verderwerken tot je tevreden bent met je einderesultaat.
+## Het project
+* *Context*: Maak kennis met sociale robots.
+
+* *Ontwerp*: Ga met je groep aan de slag om met een ontwerp voor je sociale robot op de proppen te komen.
+* *Simuleren*: Simuleer je ontwerp in de simulator.
+* *Programmeren*: Programmeer de simulatie.
+* *Bouwen*: Bouw je robot in het echt!
+* *Testen en debuggen*: Upload je programma en pas het aan tot je robot werkt zoals gewenst.
+
+* *Creatieve opdracht*: Stel je robot voor aan je medeleerlingen!
