@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# CS unplugged
+# Computationeel denken unplugged
 ## Maak een gezicht
 
 ![gezichtje](embed/gezichtje.png "gezichtje")

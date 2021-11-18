@@ -32,7 +32,7 @@ teacher_exclusive: true
 ---
 
 # Lesverloop
-## Les 1: Inleiding en CS unplugged (± 2 lesuren)
+## Les 1: Inleiding en Computationeel denken unplugged (± 2 lesuren)
 **Lesfase 1 - Wat zijn sociale robots?**
 
 *Optie 1*
