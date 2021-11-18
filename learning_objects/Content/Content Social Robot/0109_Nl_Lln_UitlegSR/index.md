@@ -1,5 +1,5 @@
 ---
-hruid: SR__Uitleg6-v1
+hruid: SR_Uitleg6-v1
 version: 3
 language: nl
 title: "Vermenselijking"

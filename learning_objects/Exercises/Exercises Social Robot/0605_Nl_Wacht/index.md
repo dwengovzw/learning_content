@@ -1,5 +1,5 @@
 ---
-hruid: SR__Wacht-v1
+hruid: SR_Wacht-v1
 version: 3
 language: nl
 title: "Uitleg Wacht"
