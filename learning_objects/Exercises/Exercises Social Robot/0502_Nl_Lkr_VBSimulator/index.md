@@ -41,24 +41,24 @@ Er is wat ondersteuning voorzien voor de leerlingen in het leerpad zelf, waarmee
 1. Hun naam schrijven op het lcd
 2. Pauzes tussen handelingen inlassen
 3. De ledjes laten branden
-4. De led-matrices uitproberen
+4. De ledmatrices uitproberen
 5. Sensoren laten uitlezen
-6. Als - Anders structuren (if - else)
+6. Keuzestructuren (if - else)
 
 *Tip*: Laat de leerlingen eerst een model van de robot maken in de simulator voor ze beginnen programmeren.
 
 
 ### Voorbereiding
 
-We raden aan dat jij, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-traject doorneemt om de leerlingen optimaal te kunnen begeleiden. Dit bevat de volgende elementen:  
+We raden aan dat jij, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-traject doorneemt om de leerlingen optimaal te kunnen begeleiden. Deze behandelen de volgende elementen:  
 
 * LCD-scherm
-* Wacht
+* Wacht-blok
 * Leds
-* Led-matrices
-* Als - Dan
-* Als - Dan - Anders
+* Ledmatrices
+* Keuzestructuur: Als-Dan
+* Keuzestructuur: Als-Dan-Anders
 
 
-In dit leerpad werden de voorbeelden voor de essentiële blokken reeds opgenomen. Om dit zelf in te oefenen, verwijzen we je naar het *StartToDwenguino*-traject.
+In dit leerpad werden de *voorbeelden* voor de essentiële blokken reeds opgenomen. Om dit in te oefenen, verwijzen we je naar het *StartToDwenguino*-traject.
 

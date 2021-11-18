@@ -102,7 +102,7 @@ Wees voorzichtig wanneer je het breadboard en de Dwenguino aan elkaar koppelt of
 ![](embed/Assemblage2.png "Dwenguino")  
 ![](embed/Assemblage3.png "Dwenguino")
 
-*Led-matrix aangesloten op het breadboard van de Dwenguino. De led-matrix kan nadien vastgemaakt worden op het lichaan van de robot.*
+*Ledmatrix aangesloten op het breadboard van de Dwenguino. De ledmatrix kan nadien vastgemaakt worden op het lichaan van de robot.*
 
 
 ### Zonder breadboard
@@ -120,7 +120,7 @@ Om de bedrading juist te doen, moet je natuurlijk weten op welke pinnen van de D
 
 Onderstaande afbeelding toont de standaard pinnummers voor de verschillende sensoren en actuatoren. Deze pinnummers werden ook voorzien op de bijbehorende blokken in de simulator.
 
-**Sonar-sensor, geluidssensor, rgb-led en de led-matrix**
+**Sonar-sensor, geluidssensor, rgb-led en de ledmatrix**
 
 * Deze onderdelen moeten nog verbonden worden met de Dwenguino. Je kan dus gebruikmaken van de default pinnummers zoals ze in de simulator voorzien zijn (aangeraden) of eigen pinnummers kiezen.
 

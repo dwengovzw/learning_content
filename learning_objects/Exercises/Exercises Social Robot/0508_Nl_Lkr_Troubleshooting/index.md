@@ -55,7 +55,7 @@ In het hoofdmenu (en dus niet in het simulatormenu) kan je de knop ![](embed/Upl
 
 Tijdens het uploaden verandert het robot-icoontje ![](embed/RobotIcoon.png "Robot icoon") in een draaiend tandwieltje ![](embed/Settings.png "Bezig"). Op het lcd-scherm van de Dwenguino verschijnt een boodschap om aan te geven dat de microcontroller in gebruik is. Wanneer het robot-icoontje terug verschijnt, is het programma succesvol geüpload naar de Dwenguino
 
-Krijg je een pop-up te zien met de booschap *'Sorry, het is niet gelukt om de code te uploaden naar het bord'*? Dan is het uploaden mislukt. Hiervoor kunnen er verschillende redenen zijn:
+Krijg je een pop-up te zien met de boodschap *'Sorry, het is niet gelukt om de code te uploaden naar het bord'*? Dan is het uploaden mislukt. Hiervoor kunnen er verschillende redenen zijn:
 
 
 1. **Het bord is niet of fout aangesloten**

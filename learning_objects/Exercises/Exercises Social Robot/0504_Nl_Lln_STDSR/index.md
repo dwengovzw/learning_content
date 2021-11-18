@@ -33,23 +33,25 @@ teacher_exclusive: false
 # Simulator
 ## StartToDwenguino
 
-Het ontwerpen en programmeren van de robot gebeurt in de Dwengo-simulator. De nieuwste versie van de programmeeromgeving met simulator is online beschikbaar op [https://blockly-backend.dwengo.org/](https://blockly-backend.dwengo.org/ "link naar simulator"). Momenteel wordt de simulator ondersteund op de meest recente versies van Google Chrome en Firefox.
+Het ontwerpen en programmeren van de robot gebeurt in de Dwengo-simulator. Je vindt de online programmeeromgeving met simulator via de knop 'Simulator' rechtsbovenaan in dit leerpad. Momenteel wordt de simulator ondersteund op de meest recente versies van Google Chrome en Firefox. Het volgende filmpje vat het gebruik van de simulator samen. Onder het filmpje vind je de verschillende aspecten nog eens uitvoerig uitgelegd.
 
 ![](@youtube/https://www.youtube.com/embed/PhblfDjUXPQ "Wegwijs in de simulator")
 
 
-Hieronder zie je een screenshot van de omgeving met de beschrijving van de verschillende onderdelen.
+Hieronder zie je een screenshot van de omgeving met de beschrijving van de verschillende onderdelen.  
+  
 
 ![](embed/Afb1.png "Onderdelen simulator")
 
 
 1. De *toolbox*: In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In 
-![alt](embed/Afb2.png "Afb. Dwenguino") kan je bijvoorbeeld alle blokken vinden om de tekenrobot te besturen.
+![alt](embed/Afb2.png "Afb. Dwenguino") vind je bijvoorbeeld het wacht-blok terug.
 
 2. Het *codeveld*: Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar.  
 ![alt](embed/Afb3.png "Afb. zetklaarherhaal")
 
-Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaatst is, wordt uitgevoerd. Code op een andere plaats wordt niet uitgevoerd. Om te programmeren sleep je dus blokken uit de toolbox naar het codeveld en klik je deze vast in het *‘zet klaar/herhaal’-blok*. 
+Enkel code die in het ‘zet klaar’- of het 'herhaal'-gedeelte van dit blok geplaatst is, wordt uitgevoerd. Code op een andere plaats wordt niet uitgevoerd.  
+Om te programmeren sleep je dus blokken uit de toolbox naar het codeveld en klik je deze in de gewenste volgorde vast in het *‘zet klaar/herhaal’-blok*. 
 
 3. Het *hoofdmenu*: Met dit menu kan je acties uitvoeren zoals je code opslaan (met 
 ![alt](embed/Afb4.png "Afb. Download")), terug inladen (met 
