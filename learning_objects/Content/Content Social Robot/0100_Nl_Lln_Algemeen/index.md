@@ -50,11 +50,11 @@ Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan 
 * *Creatieve opdracht*: Stel je robot voor aan je medeleerlingen!
 
 ## Het project
-*Context*  
+> *Context*  
 Maak kennis met sociale robots.
 
-*Ontwerp*  
-Ga met je groep aan de slag om met een ontwerp voor je sociale robot op de proppen te komen.
+> *Ontwerp*  
+> Ga met je groep aan de slag om met een ontwerp voor je sociale robot op de proppen te komen.
 
 *Simuleren*  
 Simuleer je ontwerp in de simulator.
