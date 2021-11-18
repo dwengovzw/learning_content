@@ -61,8 +61,6 @@ Nieuwsgierige leerlingen kunnen in de simulator de overeenkomstige tekstuele cod
 ## Computationeel denken
 Het bouwen en het vormgeven van de robot passen zeer goed binnen de lessen Techniek en Beeld.
 
-![](embed/SR_PosterDwengo "Computationeel denken")
-
 De verschillende modules zijn zo ontwikkeld dat ze goed aansluiten bij de nieuwe eindtermen voor de eerste graad secundair onderwijs, namelijk de transversale eindtermen 'Digitale competenties' en de eindtermen 'Technologie'.
 
 Binnen dit project werken de leerlingen met het Dwenguino microcontrollerplatform dat geïntegreerd is in de simulator.
