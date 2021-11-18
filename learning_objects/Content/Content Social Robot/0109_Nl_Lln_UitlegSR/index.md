@@ -54,7 +54,7 @@ Van een androïde robot, een robot die er heel menselijk uitziet, verwacht men o
 Als de verwachtingen die men van de robot heeft, niet overeenstemmen met wat hij effectief doet, dan ervaren mensen de robot als iets negatiefs.  
 Het is verwarrend als het lichaam van een robot gedeeltelijk bedekt is door 'huid', maar er ook mechanische onderdelen zichtbaar zijn. Het is bevreemdend als een robotdier praat.  
 Mensen  vinden robots die eruitzien als mensen meestal leuk, maar een robot mag ook niet teveel op een mens lijken, want dan vinden ze hem helemaal niet leuk meer.  
-Het fenomeen dat mensen zo op robots reageren, heet **The Uncanny Valley**.  
+Het fenomeen dat mensen zo op robots reageren, heet *The Uncanny Valley*.  
 Hoe meer een robot op een mens lijkt, hoe meer menselijke gedragingen men hem zal toedichten en hoe groter de kans dat de robot die verwachting niet waarmaakt.
 
 ![© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project](embed/UncannyValley.jpg "© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project")
