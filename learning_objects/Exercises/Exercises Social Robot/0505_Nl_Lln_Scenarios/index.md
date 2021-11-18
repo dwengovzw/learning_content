@@ -46,7 +46,7 @@ In de simulator zijn er verschillende programmeerscenario's voorzien:
 
 ### 'Rijdende robot'-scenario
 
-In het 'rijdende robot'-scenario staat er al een rijdende robot klaar op het simulatieveld. Je hoeft dus enkel nog de robot aan te sturen met een programma uit het codeveld. Dit wordt later uitgelegd in **4. programmeren van de robot**.
+In het 'rijdende robot'-scenario staat er al een rijdende robot klaar op het simulatieveld. Je hoeft dus enkel nog de robot aan te sturen met een programma uit het codeveld.
 
 
 ### 'Sociale robot'-scenario
@@ -55,29 +55,30 @@ Het scenario van de sociale robot ziet er zo uit:
 
 ![](embed/ScenarioSR.png "Scenario Sociale Robot")
 
-De volgende onderdelen worden ook getoond in dit [filmpje](https://www.youtube.com/watch?v=_Scu3aiCK8k&feature=youtu.be "filmpje onderdelen SR")
+De uitleg die hieronder staat, wordt ook getoond in dit [filmpje](https://www.youtube.com/watch?v=_Scu3aiCK8k&feature=youtu.be "filmpje onderdelen SR")
 
 
 **Achtergrond veranderen**
 
-In het 'sociale robot'-scenario is er in het begin enkel een lichaam van de robot aanwezig. Je moet zelf nog selecteren welke onderdelen je op dit lichaam wil bevestigen. Voor het lichaam heb je de keuze tussen: een kartonnen doos, een bloempotje of een melkdoos. Je kan wisselen van achtergrond met het icoontje rechts onderaan ![](embed/Wissel.png "Wisselicoon").
+In het 'sociale robot'-scenario is er in het begin enkel het lichaam van de robot aanwezig. Je moet zelf nog selecteren welke onderdelen je op dit lichaam wil bevestigen.  
+Voor het lichaam heb je de keuze tussen: een kartonnen doos, een bloempotje of een melkdoos. Je kan wisselen van achtergrond met het icoontje rechts onderaan ![](embed/Wissel.png "Wisselicoon").
 
 
 **Robotonderdelen toevoegen of verwijderen**
 
-Onder het simulatiemenu vind je de robotonderdelen uit het overzicht terug:
+Onder het simulatiemenu vind je de robotonderdelen terug:
 
 ![](embed/Onderdelen1.png "Onderdelen")  
 ![](embed/Onderdelen2.png "Onderdelen")
 
 Door gebruik te maken van de knoppen onder de robotonderdelen ![](embed/OnderdelenKnoppen.png "Knoppen") kan je een robotonderdeel toevoegen aan of verwijderen van het lichaam van de robot.
 
-Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robotonderdeel op het simulatieveld. Je kan van elk robotonderdeel maar een beperkt aantal toevoegen, omdat de aansluitingen op het Dwenguino-bord gelimiteerd zijn. Op het simulatieveld kan je het robotonderdeel verplaatsen door te slepen met de muis.
+Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robotonderdeel op het simulatieveld. Je kan van elk robotonderdeel maar een beperkt aantal toevoegen, omdat de aansluitingen op het Dwenguino-bord gelimiteerd zijn. In het simulatieveld kan je het robotonderdeel verplaatsen door te slepen met de muis.
 
 
 **Voorbeeld**
 
-Servomotor en led-matrix werden toegevoegd aan het simulatieveld en versleept naar hun gewenste locatie:
+Servomotor en ledmatrix werden toegevoegd aan het simulatieveld en versleept naar hun gewenste locatie:
 
 ![](embed/SRVoorbeeld11.png "Onderdelen")
 ![](embed/SRVoorbeeld12.png "Scenario")
@@ -92,7 +93,7 @@ Als je dubbelklikt op een robotonderdeel in het simulatieveld, zal er een extra 
 
 Als je dubbelklikt op de servomotor op het simulatieveld, krijg je de eigenschappen van de motor te zien. Sommige van deze eigenschappen kan je ook aanpassen:
 
-* Het pinnummer waarop je de servomotor kan aansluiten (servomotor 1 zal steeds pin 40 gebruiken);
+* Het pinnummer waarop de servomotor wordt aangesloten (servomotor 3 zal steeds pin 19 gebruiken); bij aansluiting van de servomotorop het uitbreidingsbord, gebeurt dit automatisch.
 
 * Het uiterlijk van de servomotor kan je hier ook selecteren.
 

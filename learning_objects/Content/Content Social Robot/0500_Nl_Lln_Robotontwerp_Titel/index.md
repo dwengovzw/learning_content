@@ -32,16 +32,16 @@ teacher_exclusive: false
 ---
 
 # Brainstorm
-Je beschikt nu over al de basiskennis die je nodig hebt voor het programmeren van je eigen sociale robot! Je weet wat sociale robots zijn en hoe ze werken en je begrijpt hoe ze functioneren en 'denken'.
+Je beschikt nu over al de basiskennis die je nodig hebt voor het programmeren van je eigen sociale robot! Je weet wat sociale robots zijn en hoe ze werken, en je begrijpt hoe ze functioneren en 'denken'.
 
 Brainstorm nu binnen je groep over jullie sociale robot. Hou hierbij zeker rekening met het materiaal en de tijd.
 
 * Wat moet je robot kunnen?
 * Hoe moet je robot eruit zien?
 * Heeft je robot een naam?
-* Hoe zal je robot kunnen 'zien'?
+* Hoe zal je robot mensen kunnen waarnemen?
 * Hoe zal je robot interageren met mensen?
-* Wat kunnen we doen met het materiaal dat we hebben?
+* Wat kan je verwezenlijken met het beschikbare materiaal?
 
 Als je groep teveel wilt doen, zullen jullie keuzes moeten maken.
 

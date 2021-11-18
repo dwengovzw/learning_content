@@ -28,14 +28,19 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 # Computationeel denken unplugged
 ## Maak een gezicht
 
 ![gezichtje](embed/gezichtje.png "gezichtje")
 
-Programmeer gelaatsuitdrukkingen op een robotgezicht en simuleer emoties. Je doet dit zonder computer. Programmeer het zodanig dat het kan reageren op verschillende geluiden (vervelend, leuk, plots) en verschillende emoties kan tonen (verdrietig, blij, verrast).  Bedenk vervolgens nog enkele andere gelaatsuitdrukkingen en programmeer regels om het gezicht met de nieuwe uitdrukkingen op geluiden te laten reageren.
+Programmeer gelaatsuitdrukkingen op een robotgezicht en simuleer emoties. Je doet dit zonder computer. Het gezicht moet aan de volgede voorwaarden voldoen:
+
+* Het kan reageren op verschillende geluiden (vervelend, leuk, plots)
+* Het kan verschillende emoties tonen (verdrietig, blij, verrast).
+* Bedenk nog enkele andere gelaatsuitdrukkingen.
+* Programmeer regels om het gezicht op geluiden te laten reageren met de nieuwe uitdrukkingen.
 
 ### Voorbereiding
 

@@ -34,11 +34,11 @@ teacher_exclusive: false
 ## Emotiemachine
 ### Werkwijze
 
-1. Geef iedereen de Emotiemachine-fiche en laat hen het volgende doen (zoals weergegeven op de fiche):  
+1. Geef iedereen de emotiemachine-fiche en laat hen het volgende doen (zoals weergegeven op de fiche):  
 Knip langs de zwarte stippellijn zodat je de emotiemachine en een gezicht met lege gleuven bekomt, plus 3 stroken die je door deze gleuven kan schuiven.  
-Weef de stroken door de gleuven voor de wenkbrauwen, ogen en mond zodat de letters verschijnen in de emotie machine en de delen van het gezicht verschijnen op het gezicht.
+Weef de stroken door de gleuven voor de wenkbrauwen, ogen en mond zodat de letters verschijnen in de emotiemachine en de wenkbrauwen, ogen en mond verschijnen op het gezicht.
 
-2. Geef de leerlingen nu de werkfiche of gids hen zelf door de stappen. Op de werkfiche kunnen ze de blanco tabel invullen met hun emoties.
+2. Geef de leerlingen nu de werkfiche met de tabel. Op de werkfiche kunnen ze de blanco tabel invullen met de emoties die ze willen voorstellen.
 
 3. Vat op het einde de computerlessen van de activiteit samen. Programma’s bestaan uit reeksen van instructies die, wanneer ze worden gevolgd, leiden tot een actie, zoals een robot die verschillende emoties toont.  
-Computer instructies zijn in essentie low-level code. Programmeertalen gebruiken high-level instructies om het schrijven van programma’s makkelijker te maken. Ze gebruiken abstractie om de details van de low-level code te verbergen. We kunnen een programma met high-level instructies nemen en het compileren tot een programma dat effectief gebruikt wordt om de machine te besturen. Of we kunnen een vertolker gebruiken die de instructies vertaalt wanneer we ertoe komen.
+Computerinstructies zijn in essentie low-level code. Programmeertalen gebruiken high-level instructies om het schrijven van programma’s makkelijker te maken. Ze gebruiken abstractie om de details van de low-level code te verbergen. We kunnen een programma met high-level instructies nemen en het compileren tot een programma dat effectief gebruikt wordt om de machine te besturen. Of we kunnen een vertolker gebruiken die de instructies vertaalt wanneer we ertoe komen.

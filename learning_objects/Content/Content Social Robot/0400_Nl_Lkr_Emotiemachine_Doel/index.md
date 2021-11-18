@@ -33,7 +33,8 @@ teacher_exclusive: true
 # Computationeel denken unplugged
 ## Emotiemachine
 
-Deelnemers ontwerpen en programmeren een 2D-robot gemaakt uit karton die verschillende emoties kan tonen. Ze ontwikkelen een tabel die gebruikt kan worden om emoties te vertalen (high-level) naar instructies (codes) die een machine kan verstaan (low-level). Ze moeten zelf de emoties tekenen op de stroken karton. Later (tijdens de bouwsessies) kunnen ze de emoties ook programmeren met de led-matrix van hun sociale robot.
+Deelnemers ontwerpen een gezicht en programmeren een 2D-robot gemaakt uit karton die verschillende emoties kan tonen. Ze stellen een tabel op die gebruikt kan worden om emoties (high-level) te vertalen naar instructies (code) die een machine kan verstaan (low-level). Ze moeten zelf de emoties tekenen op de stroken karton, voorgesteld door een bepaalde 'stand' van wenkbrauwen, ogen en mond.  
+Later (tijdens de bouwsessies) kunnen ze de emoties ook programmeren met de ledmatrix van hun sociale robot. Hiervoor denken de leerlingen na over hoe ze de wenkbrauwen, ogen en mond kunnen voorstellen op de ledmatrix.
 
 ### Materiaal
 * [Tabel emoties](embed/emotiemachine_gids.pdf "tabel")
