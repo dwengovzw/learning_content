@@ -39,3 +39,7 @@ teacher_exclusive: true
 
 **Lesfase 2 - Klasgesprek ter afronding project**
 * Sluit het project af met een klasgesprek over sociale robots.
+
+***
+Zorg ervoor dat de leerlingen een herinnering overhouden aan hun robot: een filmpje, een foto ... Ze zullen de robot immers moeten afbreken.  
+Het robotlichaam kan wel bewaard worden. De openingen die ontstaan zijn door het verwijderen van sensoren en actuatoren, kunnen eventueel opgevuld worden met een geprinte of kartonnen versie. Zo blijft de robot er toch nog uitzien als een robot.

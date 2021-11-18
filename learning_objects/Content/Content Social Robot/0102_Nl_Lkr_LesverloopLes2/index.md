@@ -34,12 +34,12 @@ teacher_exclusive: true
 # Lesverloop
 ## Les 2: Brainstorm, programmeren en selectie materiaal (± 3 lesuren)
 **Lesfase 1 - Brainstorm**
-* Laat de leerlingen per twee of drie aan het 'Sociale Robot'-project werken. In de brainstormsessie overleggen ze over wat hun robot moet kunnen, hoe hij moet communiceren en waarop hij moet reageren.
+* Laat de leerlingen bij voorkeur per twee of per drie aan het 'Sociale Robot'-project werken. In de brainstormsessie overleggen ze over wat hun robot moet kunnen, hoe hij moet communiceren en waarop hij moet reageren.
 * Na de brainstorm moeten ze een eindontwerp voorleggen. Ze moeten hierbij rekening houden met de opgelegde criteria, de berperkingen van de kit, hun eigen capaciteiten, de beschikbare tijd, en eventuele andere keuzes die ze zelf maken.
 
 
 **Lesfase 2 - DwenguinoBlockly**
-* Indien een groepje snel tot een ontwerp komt, kunnen ze al beginnen aan de tweede lesfase. Laat hen de simulator ontdekken en de verschillende features die ze nodig hebben uitproberen. Wanneer de leerlingen de basis van de simulator onder de knie hebben, kunnen ze de rest ontdekken tijdens het maken van hun eerste virtuele robot.
+* Indien een groepje snel tot een ontwerp komt, kunnen ze al beginnen aan de tweede lesfase. Laat hen de simulator ontdekken en de verschillende functionaliteiten die ze nodig hebben, uitproberen. Wanneer de leerlingen de basis van de simulator onder de knie hebben, kunnen ze de rest ontdekken tijdens het maken van hun eerste virtuele robot.
 * De leerlingen ontwerpen het lichaam van de robot in het simulatieveld van de programmeeromgeving. De leerlingen beschikken dan over een virtuele robot. 
 * De leerlingen stellen een algoritme op en schrijven het neer, bv. in pseudocode (in de vorm van zinnen) of a.d.h.v. een flowchart.
 
@@ -50,5 +50,4 @@ Het proces van testen en debuggen is hierbij zeer belangrijk. Programmeren is ni
 
 
 **Lesfase 4 - Slot**
-* Sluit de les af met het opstellen van een lijst voor het materiaal dat ze zullen nodig hebben voor hun robot. Dit materiaal voorzie je best zelf, maar je kan de leerlingen ook zelf dingen laten meebrengen indien gewenst.  
-Laat de selectie van het materiaal bij een tekort aan tijd tot de volgende les, zodat je geen onnodig opruimwerk creëert. 
+* Laat de leerlingeneen lijst knutselmateriaal opstellen dat ze nodig hebben voor het bouwen van hun robot. In de mate van het mogelijke voorzie je dit materiaal beter zelf in de klas, maar je kan de leerlingen ook zelf dozen, wol, papier e.d. laten meebrengen indien gewenst. 

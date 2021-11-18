@@ -39,13 +39,13 @@ teacher_exclusive: true
 * Start de les met een presentatie met foto's van sociale robots die reeds voorkomen in de maatschappij, zoals Pepper, Paro, Aibo of een Hatchimal.
 
 *Optie 2*
-* Laat de leerlingen een schets maken van de robot van hun dromen. Bespreek nadien klasikaal of daar ook sociale robots tussen zitten. Bespreek tot slot ook enkele sociale robots die reeds voorkomen in de maatschappij.
+* Laat de leerlingen een schets maken van de robot van hun dromen. Bespreek nadien klassikaal of daar ook sociale robots tussen zitten. Bespreek tot slot ook enkele sociale robots die reeds voorkomen in de maatschappij.
 
 
-**Lesfase 2 - CS Unplugged**
+**Lesfase 2 - Computationeel denken unplugged**
 * Voorzie eventueel een korte pauze na de inleiding om de actieve werkvormen op te stellen. 
-* Activiteit 1: Maak-een-gezicht.
-* Activiteit 2: Emotiemachine
+* Activiteit 1: Maak-een-gezicht (klassikaal)
+* Activiteit 2: Emotiemachine (groepjes van 3 à 4)
 * Zorg ervoor dat je nog voldoende tijd hebt om op te ruimen én de laatste lesfase te doorlopen.
 
 
