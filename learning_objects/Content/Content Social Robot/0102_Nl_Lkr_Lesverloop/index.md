@@ -36,7 +36,7 @@ teacher_exclusive: true
 Secundair onderwijs, 1e of 2e graad.
 
 ## Tijdsbesteding
-6 tot 12 lesuren, best in blokken van 2 à 3 uren.
+6 tot 12 lesuren, best in blokken van 2 à 3 lesuren.
 
 ## Centrale uitdaging
 Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en reageert op omgevingsfactoren.
@@ -47,7 +47,7 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 * Hoe komt een sociale robot tot stand? (10 - 20 min)
 
 ### Eigen sociale robot (± 6 lesuren)
-* CS unplugged (30 - 60 min)
+* Computationeel denken unplugged (30 - 60 min)
 * Brainstorm (30 min)
 * Aan de slag met de simulator (90 - 150 min)
 * Constructie van de robot (90 - 150 min)
@@ -57,6 +57,7 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 * Klasgesprek (60 min)
 
 ### Evaluatie  
-  
+
+***
 
 De projectfiche waar dit nog eens allemaal samengevat wordt, vind je [hier](embed/ProjectficheSocialeRobot.pdf "projectfiche") terug.
