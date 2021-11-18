@@ -41,7 +41,7 @@ De microcontroller krijgt gegevens van de ingangen (input). Hij verwerkt de gege
 In dit project, gebruik je de **Dwenguino**. Dat is een microcontroller waarmee je snel en gemakkelijk je eigen apparaat kan bouwen.
 
 *Discussie*  
-*Bekijk onderstaande afbeelding. Waarvoor zou Pepper al deze apparatuur gebruiken?
+*Bekijk onderstaande afbeelding. Waarvoor zou Pepper al deze apparatuur gebruiken?*
 
 ![© Softbank Robotics Europe](embed/SR_Pepper.png "© Softbank Robotics Europe")
 <sub>© Softbank Robotics Europe</sub>
