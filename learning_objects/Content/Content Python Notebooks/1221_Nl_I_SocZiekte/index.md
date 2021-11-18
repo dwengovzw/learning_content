@@ -72,6 +72,8 @@ Wetenschappers ontwikkelen hun begrip van ziekteverspreiding met behulp van gege
 maar het is vaak moeilijk om betrouwbare gegevens te verzamelen, en voor veel ziekten missen we nog steeds belangrijke informatie over hoe ze zich verspreiden. 
 Modellering kan ook in deze gevallen helpen, omdat wetenschappers verschillende hypotheses kunnen testen om te proberen de hiaten in hun kennis in te vullen.
 
+***
+
 In deze notebooks wordt o.a. het SIR-model toegepast op een netwerk en ga je zelf bepaalde situaties simuleren in het model.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1221 "Notebooks Epidemie")

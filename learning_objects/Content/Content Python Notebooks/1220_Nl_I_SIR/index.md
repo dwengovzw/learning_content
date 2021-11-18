@@ -35,6 +35,10 @@ Een epidemie wordt wiskundig gemodelleerd met het SIR-model.
 SIR staat voor *Susceptible* (vatbaar), *Infected* (geïnfecteerd) en *Resistant* (resistent of hersteld), de drie types individuen die in een gemeenschap voorkomen. 
 Meestal zijn de individuen gewoon mensen, maar dit model kan ook aangewend worden om ziekte-uitbraak bij knaagdieren, vogels of zelfs planten te modelleren. 
 
-A.d.h.v. het SIR-model simuleert men bv. hoe het aantal besmettingen zal evolueren of wat het effect is van vaccinatie. In deze notebook leer je het SIR-model kennen.
+A.d.h.v. het SIR-model simuleert men bv. hoe het aantal besmettingen zal evolueren of wat het effect is van vaccinatie. 
+
+***
+
+In deze notebook leer je het SIR-model kennen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1220 "Notebooks Epidemie")
