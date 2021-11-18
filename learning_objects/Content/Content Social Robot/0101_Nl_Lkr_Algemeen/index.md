@@ -35,7 +35,7 @@ teacher_exclusive: true
 ## Sociale robots
 Sociale robots zijn niet meer weg te denken uit onze samenleving en worden in uiteenlopende gedaantes ingezet voor verschillende doelgroepen.
 
-In de zorgsector worden robots al gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. Voor kinderen zijn er dan weer talloze ‘speelmaatjes’ op de markt, waar men zich zeer sterk kan aan gaan hechten. Ook gezinnen hebben steeds vaker een personal assistant in huis die taken kan overnemen en door de mogelijke interactie deel wordt van het gezin.
+In de zorgsector worden robots al gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. Voor kinderen zijn er dan weer talloze ‘speelmaatjes’ op de markt, waar men zich zeer sterk kan aan gaan hechten. Ook gezinnen hebben steeds vaker een *personal assistant* in huis die taken kan overnemen en door de mogelijke interactie deel wordt van het gezin.
 
 In het project is er ruimte voor een discussie over de plaats en (morele) impact van sociale robots in onze maatschappij.
 
@@ -43,11 +43,11 @@ In het project is er ruimte voor een discussie over de plaats en (morele) impact
 ## Het wetenschappelijk onderzoek
 Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een sociale robot interageert immers met zijn omgeving en met de mensen die erin vertoeven.
 
+![](embed/SR_interdisciplinair "interdisciplinair domein")
+
 De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek…
 
-![](embed/interdisciplinair.png "interdisciplinair leren")
-
-## Programmeren met de simulator
+> ## Programmeren met de simulator
 Binnen dit project werken de leerlingen met de Dwenguino-simulator, ontworpen voor iedereen die op zoek is naar een eerste (grafische) programmeerervaring.
 
 De programmeeromgeving is een uitgebreide vorm van Google Blockly met programmeerblokken die op verschillende abstractieniveaus werden gedefinieerd zodat leerlingen op hun eigen tempo kunnen leren.
