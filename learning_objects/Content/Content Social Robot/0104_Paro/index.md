@@ -1,5 +1,5 @@
 ---
-hruid: SR_Uitleg1-v1
+hruid: SR_PARO-v1
 version: 3
 language: nl
 title: "Digitale systemen"
@@ -38,10 +38,9 @@ teacher_exclusive: false
 
 Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een *microcontroller*. Ze beschikken over in- en uitgangen.  
 De microcontroller krijgt gegevens van de ingangen (input). Hij verwerkt de gegevens, voert berekeningen uit en stuurt vervolgens de digitale apparaten aan (output).  
-In dit project, gebruik je de **Dwenguino**. Dat is een microcontroller waarmee je snel en gemakkelijk je eigen apparaat kan bouwen.
+De **Dwenguino** is zo'n microcontrollerplatform waarmee je snel je eigen apparaat kan bouwen.
 
-*Discussie*  
-*Bekijk onderstaande afbeelding. Waarvoor zou Pepper al deze apparatuur gebruiken?
 
-![© Softbank Robotics Europe](embed/SR_Pepper.png "© Softbank Robotics Europe")
-<sub>© Softbank Robotics Europe</sub>
+
+![© Peter Häll](embed/paro.jpg "© Peter Häll")
+<sub>© Peter Häll</sub>

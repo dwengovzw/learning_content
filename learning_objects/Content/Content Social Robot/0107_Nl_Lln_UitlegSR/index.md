@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 
 # Wat zijn sociale robots?
-## 4| Privacy
+## Privacy
 
 
 Voor kinderen zijn er dan weer talloze 'speelmaatjes' op de markt, waar ze zich zeer sterk aan gaan hechten, zoals Furby.
@@ -51,3 +51,4 @@ In Duitsland werd de slimme pop My Friend Cayla verboden omdat ze onder andere a
 Robothond Aibo mag omwille van privacyredenen niet verkocht worden in de EU. Aibo neemt bijvoorbeeld foto’s van je woning die worden opgeslagen in de cloud en ook de conversaties die je met Aibo voert, komen bij de fabrikant terecht.
 
 ![Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.](embed/furby.jpg "Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.")
+<sub>Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.</sub>

@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 
 # Wat zijn sociale robots?
-## 5| Home assistants
+## Home assistants
 
 Gezinnen hebben steeds vaker een home assistant in huis die taken kan overnemen en, door de mogelijkie interactie, deel wordt van het gezin. Smart-home assistenten, zoals Amazon's Alexa, kunnen vragen beantwoorden, geven informatie over het weer en het laatste nieuws en kunnen een muziekje afspelen.  
 
@@ -44,3 +44,4 @@ Gezinnen hebben steeds vaker een home assistant in huis die taken kan overnemen 
 Maar er zijn ondertussen ook al persoonlijke assistenten op de markt die bijvoorbeeld ogen, oren en een mond hebben en de indruk wekken dat ze meegenieten van de muziek.
 
 ![© Peter Bertels](embed/googlehome.jpg "© Peter Bertels")
+<sub>© Peter Bertels</sub>

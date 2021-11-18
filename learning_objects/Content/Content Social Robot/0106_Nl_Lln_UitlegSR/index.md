@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 
 # Wat zijn sociale robots?
-## 3| Sociale robots
+## Sociale robots
 
 In het rusthuis worden sociale robots gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. In het ziekenhuis worden ze ingezet bij revalidatieoefeningen. Sociale robots kunnen ook thuis ingezet worden, bijvoorbeeld om mensen te herinneren aan het nemen van hun medicatie waardoor ze langer  thuis kunnen blijven wonen, of bijvoorbeeld om kinderen te leren omgaan met hun diabetes.  
 
@@ -49,3 +49,4 @@ In het onderwijs kunnen sociale robots ingezet worden om leerlingen individueel 
 
 
 ![© Knightscope](embed/MACM0402.jpg "© Knightscope")
+<sub>© Knightscope</sub>
