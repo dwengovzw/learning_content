@@ -53,10 +53,10 @@ Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan 
 > *Context*  
 Maak kennis met sociale robots.
 
-> Ontwerp  
+> **Ontwerp**  
 Ga met je groep aan de slag om met een ontwerp voor je sociale robot op de proppen te komen.
 
-*Simuleren*  
+> Simuleren  
 Simuleer je ontwerp in de simulator.
 
 *Programmeren*  
