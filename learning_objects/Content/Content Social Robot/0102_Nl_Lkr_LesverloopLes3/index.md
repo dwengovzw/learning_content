@@ -44,7 +44,7 @@ teacher_exclusive: true
 **Lesfase 3 - Programmeren van de robot**
 * De leerlingen testen hun programma op de fysieke robot. Ze ontdekken eventuele fouten en gaan systematisch te werk om de fouten te verhelpen.
 * De leerlingen gaan na of hun robot voldoet aan hun eigen gekozen vereisten en de vooropgestelde criteria.
-* Als er nog tijd over is, kunnen de leerlingen nog extra functionaliteiten aan hun robot toevoegen.
+* Als er nog tijd over is, kunnen de leerlingen nog extra functionaliteiten aan hun robot toevoegen. Hierbij testen ze het programma steeds eerst uit in de simulator en pas als het daar feilloos werkt, zetten ze het over naar de fysieke robot.
 
 
 **Lesfase 4 - Slot**

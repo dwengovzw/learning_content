@@ -43,9 +43,10 @@ In het project is er ruimte voor een discussie over de plaats en (morele) impact
 ## Het wetenschappelijk onderzoek
 Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een sociale robot interageert immers met zijn omgeving en met de mensen die erin vertoeven.
 
-![](embed/SR_interdisciplinair "interdisciplinair domein")
+![](embed/SR_interdisciplinair.png "interdisciplinair domein")
 
 De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek…
+
 
 ## Programmeren met de simulator
 Binnen dit project werken de leerlingen met de Dwenguino-simulator, ontworpen voor iedereen die op zoek is naar een eerste (grafische) programmeerervaring.
