@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# CS unplugged
+# Computationeel denken unplugged
 ## Emotiemachine
 
 Deelnemers ontwerpen en programmeren een 2D-robot gemaakt uit karton die verschillende emoties kan tonen. Ze ontwikkelen een tabel die gebruikt kan worden om emoties te vertalen (high-level) naar instructies (codes) die een machine kan verstaan (low-level). Ze moeten zelf de emoties tekenen op de stroken karton. Later (tijdens de bouwsessies) kunnen ze de emoties ook programmeren met de led-matrix van hun sociale robot.
