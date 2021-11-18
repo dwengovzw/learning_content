@@ -45,6 +45,28 @@ Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan 
 * *Simuleren*: Simuleer je ontwerp in de simulator.
 * *Programmeren*: Programmeer de simulatie.
 * *Bouwen*: Bouw je robot in het echt!
-* *Testen en debuggen*: Upload je programma en pas het aan tot je robot werkt zoals gewenst.
+* *Eindproduct*: Test en debug je programma en pas het aan tot je robot werkt zoals gewenst.
 
 * *Creatieve opdracht*: Stel je robot voor aan je medeleerlingen!
+
+## Het project
+*Context*  
+Maak kennis met sociale robots.
+
+*Ontwerp*  
+Ga met je groep aan de slag om met een ontwerp voor je sociale robot op de proppen te komen.
+
+*Simuleren*  
+Simuleer je ontwerp in de simulator.
+
+*Programmeren*  
+Programmeer de simulatie.
+
+*Bouwen*  
+Bouw je robot in het echt!
+
+*Eindproduct*  
+Test en debug je programma en pas het aan tot je robot werkt zoals gewenst.
+
+*Creatieve opdracht*  
+Stel je robot voor aan je medeleerlingen!
