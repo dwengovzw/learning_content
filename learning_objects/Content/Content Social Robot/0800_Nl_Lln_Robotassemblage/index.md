@@ -1,9 +1,9 @@
 ---
-hruid: SR__BouwenRobot-v1
+hruid: SR_BouwenRobot-v1
 version: 3
 language: nl
 title: "Bouwen van de Robot"
-description: "SR__BouwenRobot"
+description: "SR_BouwenRobot"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# SR__BouwenRobot
+# SR_BouwenRobot
 
 ## Uitsnijden van de uitsparingen
 

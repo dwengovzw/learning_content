@@ -1,5 +1,5 @@
 ---
-hruid: SR__LCDOef3-v1
+hruid: SR_LCDOef3-v1
 version: 3
 language: nl
 title: "Oefening Lcd 3"

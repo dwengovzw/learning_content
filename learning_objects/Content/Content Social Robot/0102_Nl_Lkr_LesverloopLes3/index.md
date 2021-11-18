@@ -1,5 +1,5 @@
 ---
-hruid: SR__Lkr_Les3-v1
+hruid: SR_Lkr_Les3-v1
 version: 3
 language: nl
 title: "Les 3"

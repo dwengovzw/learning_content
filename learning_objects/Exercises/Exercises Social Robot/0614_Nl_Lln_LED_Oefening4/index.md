@@ -1,5 +1,5 @@
 ---
-hruid: SR__LedOef4-v1
+hruid: SR_LedOef4-v1
 version: 3
 language: nl
 title: "Oefening Led 4"

@@ -1,5 +1,5 @@
 ---
-hruid: SR__LedVB3-v1
+hruid: SR_LedVB3-v1
 version: 3
 language: nl
 title: "Voorbeeld Led 3"

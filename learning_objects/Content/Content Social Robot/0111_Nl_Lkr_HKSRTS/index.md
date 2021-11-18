@@ -1,5 +1,5 @@
 ---
-hruid: SR__Lkr_HKSRTS-v1
+hruid: SR_Lkr_HKSRTS-v1
 version: 3
 language: nl
 title: "Hoe komen sociale robots tot stand?"

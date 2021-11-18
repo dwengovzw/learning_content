@@ -1,5 +1,5 @@
 ---
-hruid: SR__LCD-v1
+hruid: SR_LCD-v1
 version: 3
 language: nl
 title: "Uitleg Lcd"

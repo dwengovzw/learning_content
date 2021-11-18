@@ -1,5 +1,5 @@
 ---
-hruid: SR__-v1
+hruid: SR_-v1
 version: 3
 language: nl
 title: "AlsDan Voorbeeld"

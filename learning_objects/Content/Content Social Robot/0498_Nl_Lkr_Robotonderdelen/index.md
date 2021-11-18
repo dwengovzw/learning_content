@@ -1,5 +1,5 @@
 ---
-hruid: SR__Overzicht_robotonderdelen-v1
+hruid: SR_Overzicht_robotonderdelen-v1
 version: 3
 language: nl
 title: "Overzicht robotonderdelen"
