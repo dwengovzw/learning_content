@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 
 # Wat zijn sociale robots?
-## 6| Vermenselijking
+## Vermenselijking
 
 *Mensen zijn geneigd om menselijke eigenschappen toe te kennen aan objecten.*
 
@@ -58,3 +58,4 @@ Het fenomeen dat mensen zo op robots reageren, heet **The Uncanny Valley**.
 Hoe meer een robot op een mens lijkt, hoe meer menselijke gedragingen men hem zal toedichten en hoe groter de kans dat de robot die verwachting niet waarmaakt.
 
 ![© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project](embed/UncannyValley.jpg "© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project")
+<sub>© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project</sub>

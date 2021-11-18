@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 
 # Wat zijn sociale robots?
-## 2| Een toekomst met robots
+## Een toekomst met robots
 
 *Robots duiken her en der op, zoals een stofzuigerrobot bij je thuis, een robot in het hotel die de klanten verwelkomt, een robot voor de ontmijningsdienst, een robot in de autofabriek en een operatierobot.*
 
@@ -44,3 +44,4 @@ Gaan we met zijn allen afwachten tot de robots er zijn of willen we invloed hebb
 Wie wil meedenken om de robots van de toekomst vorm te geven, heeft zeker inzicht nodig in de werking van een robot. Bovendien is dat inzicht voor elk van ons belangrijk om geen onrealistische verwachtingen te hebben en de handelingen van robots te kunnen begrijpen.
 
 ![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
+<sub>© Lukas via Unsplash</sub>

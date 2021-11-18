@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 
 # Wat zijn sociale robots?
-## 7| Sociale robots in de toekomst
+## Sociale robots in de toekomst
 
 *Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van de sociale robots meer mogelijk worden in de toekomst.*
 
@@ -55,3 +55,4 @@ Men experimenteert ook met sociale vuilnisbakrobots, zoals de Sociable Trash box
 
 
 ![© Francis wyffels](embed/Udavi.jpg "© Francis wyffels")
+<sub>© Francis wyffels</sub>
