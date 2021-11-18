@@ -47,7 +47,7 @@ Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een soci
 
 De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek…
 
-> ## Programmeren met de simulator
+## Programmeren met de simulator
 Binnen dit project werken de leerlingen met de Dwenguino-simulator, ontworpen voor iedereen die op zoek is naar een eerste (grafische) programmeerervaring.
 
 De programmeeromgeving is een uitgebreide vorm van Google Blockly met programmeerblokken die op verschillende abstractieniveaus werden gedefinieerd zodat leerlingen op hun eigen tempo kunnen leren.
@@ -58,9 +58,11 @@ Nieuwsgierige leerlingen kunnen in de simulator de overeenkomstige tekstuele cod
 
 
 ## Computationeel denken
-Het bouwen en het vormgeven van de robot passen zeer goed binnen de lessen techniek en plastische opvoeding.
+Het bouwen en het vormgeven van de robot passen zeer goed binnen de lessen Techniek en Beeld.
 
-De verschillende modules zijn zo ontwikkeld dat ze goed aansluiten bij de nieuwe eindtermen voor de eerste graad secundair onderwijs, namelijk de transversale eindtermen digitale competentie en de eindtermen technologie.
+![](embed/SR_PosterDwengo "Computationeel denken")
+
+De verschillende modules zijn zo ontwikkeld dat ze goed aansluiten bij de nieuwe eindtermen voor de eerste graad secundair onderwijs, namelijk de transversale eindtermen 'Digitale competenties' en de eindtermen 'Technologie'.
 
 Binnen dit project werken de leerlingen met het Dwenguino microcontrollerplatform dat geïntegreerd is in de simulator.
 
@@ -68,4 +70,4 @@ Tijdens het programmeer- en bouwproces komen verschillende aspecten van computat
 
 
 ## Eindtermen
-Een document met een uitgebreide beschrijving van het project binnen de eindtermen vindt u [hier](embed/EindtermenAStroomSsocialeRobot.pdf "Eindtermen") terug.
+Een document met een uitgebreide beschrijving van het project gelinkt aan de eindtermen vind je [hier](embed/EindtermenAStroomSsocialeRobot.pdf "Eindtermen") terug.
