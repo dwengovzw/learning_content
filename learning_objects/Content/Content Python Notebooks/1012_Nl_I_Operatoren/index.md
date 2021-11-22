@@ -31,5 +31,5 @@ skos_concepts: [
 
 # Logische operatoren
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1011 "Notebooks Rekenen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1020 "Notebooks Rekenen")
 
