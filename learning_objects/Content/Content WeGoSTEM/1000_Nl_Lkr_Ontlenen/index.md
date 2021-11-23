@@ -60,9 +60,7 @@ Bib Kessel-Lo
 Stadionlaan 4  
 3010 Kessel-Lo
 
-* Brussel  
-<a href="mailto:erika.gebruers@muntpunt.be">Email Us</a>  
-[Reserveer hier](mailto:erika.gebruers@muntpunt.be "Reserveren")  
+* Brussel <a href="mailto:erika.gebruers@muntpunt.be">Reserveer hier</a>  
 Muntpunt  
 Tav. Erika Gebruers  
 Munt 6  
