@@ -55,18 +55,18 @@ Bibliotheek Hasselt Limburg
 Martelarenlaan 17  
 3500 Hasselt
 
-* Leuven [Coming soon]( "Reserveren")  
+* Leuven [Reserveer hier](https://leuven.bibliotheek.be/agenda/wegostem?theme=32 "Reserveren")  
 Bib Kessel-Lo  
 Stadionlaan 4  
 3010 Kessel-Lo
 
-* Brussel [Coming soon]( "Reserveren")  
+* Brussel [Reserveer hier](mailto:erika.gebruers@muntpunt.be "Reserveren")  
 Muntpunt  
 Tav. Erika Gebruers  
 Munt 6  
 1000 Brussel
 
-* Kortrijk [Coming soon]( "Reserveren")  
+* Kortrijk [Reserveer hier](https://kortrijk.bibliotheek.be/catalogus/we-go-stem/spel/wise-westvlaanderen_3888012 "Reserveren")  
 Manon Vergote - Jurgen van Lerberghe  
 Konventstraat 1  
 8500 Kortrijk
@@ -75,7 +75,7 @@ Konventstraat 1
 Miriam Makebaplein 1  
 9000 Gent
 
-* GAntwerpen [Coming Soon]( "Reserveren")  
+* Antwerpen [Coming Soon]( "Reserveren")  
 Straatsburgdok-Noordkaai 29  
 2030 Antwerpen
 
