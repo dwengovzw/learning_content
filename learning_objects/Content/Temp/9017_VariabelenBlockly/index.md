@@ -1,9 +1,9 @@
 ---
-hruid: PN_DatatypesPE-v1
+hruid: PN_VariabelenPEB-v1
 version: 3
 language: nl
-title: "Datatypes"
-description: "Datatypes"
+title: "Variabelen"
+description: "Variabelen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,7 +28,11 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Datatypes
-Zie leerpad datatypes
-- NumPy lijsten
-- uit KIKS
+# Variabelen
+- Plaats in geheugen/lade zoals bij blockly en Arduino
+
+hoe terug zordt opgeroepen in de loop vh programmeren, bv. stel item in op.
+
+---
+STD tekstueel
+(al ingepland)

@@ -1,9 +1,9 @@
 ---
-hruid: PN_DatatypesPE-v1
+hruid: PN_ProgrammeerelementenB-v1
 version: 3
 language: nl
-title: "Datatypes"
-description: "Datatypes"
+title: "Inleiding"
+description: "Inleiding"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,7 +28,6 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Datatypes
-Zie leerpad datatypes
-- NumPy lijsten
-- uit KIKS
+# Inleiding
+In de eindtermen wordt gewag gemaakt van sequentie, herhalingsstructuur en keuzestructuur: de principes van programmeren.  
+Maar om je eigen code op te stellen is het niet voldoende dat je de principes kent; ook andere programmeerelementen zijn van belang, zoals variabelen, datastructuren, operatoren en functies.

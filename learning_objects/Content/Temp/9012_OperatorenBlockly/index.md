@@ -1,9 +1,9 @@
 ---
-hruid: PN_DatatypesPE-v1
+hruid: PN_OperatorenPEB-v1
 version: 3
 language: nl
-title: "Datatypes"
-description: "Datatypes"
+title: "Operatoren"
+description: "Operatoren"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,7 +28,5 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Datatypes
-Zie leerpad datatypes
-- NumPy lijsten
-- uit KIKS
+# Operatoren
+vbn Blockly
