@@ -1,5 +1,5 @@
 ---
-hruid: PN_DatatypesPE-v1
+hruid: PN_DatatypesPEB-v1
 version: 3
 language: nl
 title: "Datatypes"
@@ -29,6 +29,4 @@ skos_concepts: [
 ]
 ---
 # Datatypes
-Zie leerpad datatypes
-- NumPy lijsten
-- uit KIKS
+Tekst, getal
