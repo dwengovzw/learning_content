@@ -2,8 +2,8 @@
 hruid: CD_Unplugged-v1
 version: 3
 language: nl
-title: "Principes van programmeren"
-description: "Principes van programmeren"
+title: "Unplugged activiteiten"
+description: "Unplugged activiteiten"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 

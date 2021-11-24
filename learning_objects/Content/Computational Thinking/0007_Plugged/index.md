@@ -2,8 +2,8 @@
 hruid: CD_Plugged-v1
 version: 3
 language: nl
-title: "Principes van programmeren"
-description: "Principes van programmeren"
+title: "Plugged activiteiten"
+description: "Plugged activiteiten"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
