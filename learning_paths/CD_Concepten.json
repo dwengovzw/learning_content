@@ -75,7 +75,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "CD_PrincipesvProgrammeren-v1",
+            "hruid": "CD_Unplugged-v1",
             "version": "3",
             "language": "nl"
           }
@@ -90,7 +90,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "CD_Unplugged-v1",
+            "hruid": "CD_Plugged-v1",
             "version": "3",
             "language": "nl"
           }
