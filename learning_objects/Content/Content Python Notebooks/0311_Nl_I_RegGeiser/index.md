@@ -29,7 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Toepassing - Geiser
+# Toepassing
+## Geiser
 Een geiser is een door natuurlijk verwarmde heetwaterbron die regelmatig heet water en stoom de lucht in spuit.
 In deze notebook onderzoek je het verband tussen de erupties (uitbarstingen) en de duurtijd van de erupties.
 
