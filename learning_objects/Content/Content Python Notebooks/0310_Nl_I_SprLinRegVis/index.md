@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Visualisatie"
 description: "Visualisatie"
-keywords: ["Python", "Wiskunde, "KIKS", "AI Op School"]
+keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
