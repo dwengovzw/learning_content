@@ -1,9 +1,9 @@
 ---
-hruid: PN_Postbedeling-v1
+hruid: PN_Armoede-v1
 version: 3
 language: nl
-title: "Toepassing postbedeling"
-description: "Postbedeling"
+title: "Toepassing armoede"
+description: "Armoede"
 keywords: ["Python", "Wiskunde, "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,6 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Postbedeling
-Je past nu wat je leerde toe op 'echte' data: de postbedeling, de bevolking van België en de uitbarstingen van de geiser *'Old Faithful'*.
-Misschien ben je meer benieuwd naar de bezoekersaantallen van Disneyland Parijs of wil je weten hoe het gesteld is met de armoede in de wereld? Ook dit zal je behandelen.
+# Armoede
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0304 "Notebooks Oefenen met Data")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0307 "Notebooks Oefenen met Data")
