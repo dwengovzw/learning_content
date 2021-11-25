@@ -2,7 +2,7 @@
 hruid: PN_BevolkingLinReg-v1
 version: 3
 language: nl
-title: "Toepassing - Bevolking"
+title: "Toepassing bevolking"
 description: "Toepassing - Bevolking"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
@@ -30,6 +30,7 @@ skos_concepts: [
 ---
 
 # Toepassing - Bevolking
+In welke mate is de Belgische bevolking gegroeid of aan het groeien? Visualiseer deze evolutie en bespreek je bevindingen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0312 "Notebooks Bevolking")
 

@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 # Postbedeling uit bestand
-Je past nu wat je leerde toe op 'echte' data: de postbedeling, de bevolking van België en de uitbarstingen van de geiser *'Old Faithful'*.
-Misschien ben je meer benieuwd naar de bezoekersaantallen van Disneyland Parijs of wil je weten hoe het gesteld is met de armoede in de wereld? Ook dit zal je behandelen.
+Je hebt reeds de data voor brieven en postpakketten in de periode 2010 - 2015 geanalyseert.  
+Nu ga je deze analyse uitbreiden naar de periode 2004 - 2017. Je zal deze keer echter ook zelf de nodige bestanden moeten inlezen!
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0303 "Notebooks Oefenen met Data")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0304 "Notebooks Oefenen met Data")

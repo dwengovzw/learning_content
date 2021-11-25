@@ -29,5 +29,6 @@ skos_concepts: [
 ]
 ---
 # Disney
+Neem de bezoekersaantallen in Disneyland Parijs onder de loep.  Bepaal de samenhang tussen jaartal en aantal bezoekers en ga na of je kunt voorspellen wat het aantal bezoekers na de onderzochte periode was.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0306 "Notebooks Oefenen met Data")
