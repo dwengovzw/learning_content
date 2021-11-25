@@ -75,7 +75,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "PN_GeiserLinReg-v1",
+            "hruid": "PN_PostbedelingOef-v1",
             "version": "3",
             "language": "nl"
           }
@@ -83,14 +83,14 @@
       ]
     },
     {
-      "learningobject_hruid": "PN_GeiserLinReg-v1",
+      "learningobject_hruid": "PN_PostbedelingOef-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "PN_BevolkingLinReg-v1",
+            "hruid": "PN_Disney-v1",
             "version": "3",
             "language": "nl"
           }
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "learningobject_hruid": "PN_BevolkingLinReg-v1",
+      "learningobject_hruid": "PN_Disney-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
