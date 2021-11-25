@@ -33,5 +33,5 @@ skos_concepts: [
 Een geiser is een door natuurlijk verwarmde heetwaterbron die regelmatig heet water en stoom de lucht in spuit.
 In deze notebook onderzoek je het verband tussen de erupties (uitbarstingen) en de duurtijd van de erupties.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0311 "Notebooks Geiser")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0311 "Notebooks Oefenen met Data")
 
