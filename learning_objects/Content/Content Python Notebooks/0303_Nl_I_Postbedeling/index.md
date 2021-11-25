@@ -28,8 +28,10 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Postbedeling
-Je past nu wat je leerde toe op 'echte' data: de postbedeling, de bevolking van België en de uitbarstingen van de geiser *'Old Faithful'*.
-Misschien ben je meer benieuwd naar de bezoekersaantallen van Disneyland Parijs of wil je weten hoe het gesteld is met de armoede in de wereld? Ook dit zal je behandelen.
+# Toepassing
+## Postbedeling
+Je past nu wat je leerde toe op de postbedeling in België.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0304 "Notebooks Oefenen met Data")
+Je analyseert data betreffende het aantal brieven of postpakketten dat Belgen hebben verstuurd gedurende de periode 2010 - 2015 en trekt hieruit besluiten.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0303 "Notebooks Oefenen met Data")
