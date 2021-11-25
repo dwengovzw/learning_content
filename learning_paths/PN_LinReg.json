@@ -30,21 +30,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "PN_LinReg-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "PN_LinReg-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "PN_Standaardiseren-v1",
             "version": "3",
             "language": "nl"
