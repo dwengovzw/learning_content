@@ -60,6 +60,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "PN_SprPraktisch-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "PN_SprPraktisch-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "PN_OefenenSpreidingsdiagram-v1",
             "version": "3",
             "language": "nl"
