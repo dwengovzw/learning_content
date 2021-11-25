@@ -1,5 +1,4 @@
 ---
-hruid: PN_LineaireRegressie-v1
 version: 3
 language: nl
 title: "Lineaire regressie"
