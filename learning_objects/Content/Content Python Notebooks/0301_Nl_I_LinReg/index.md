@@ -1,4 +1,5 @@
 ---
+hruid: PN_LinReg-v1
 version: 3
 language: nl
 title: "Lineaire regressie"
