@@ -29,5 +29,5 @@ skos_concepts: [
 ]
 ---
 # Slot
-* Wil je dit toepassen in een STEM-project? Je vindt er in het leerpad *'Klimaat'*.
-* Bij sommige data is een rechte niet geschikt als regressielijn. Je zal dan op zoek moeten gaan naar een kromme die bij de data past. Je kan je hierin verdiepen in het leerpad 'Regressie'
+* Wil je dit toepassen in een STEM-project? Je vindt notebooks over regressie in het leerpad *'Klimaat'*.
+* Bij sommige data is een rechte niet geschikt als regressielijn. Je zal dan op zoek moeten gaan naar een kromme die bij de data past. Je kan je hierin verdiepen in het leerpad 'Regressie'.

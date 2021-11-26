@@ -39,6 +39,9 @@ Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan 
 ***
 
 ## Het project
+<ul><li>Context </br> Maak kennis met sociale robots</li></ul>
+
+## Het project
 > **Context**  
 Maak kennis met sociale robots.
 
