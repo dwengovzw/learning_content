@@ -39,7 +39,21 @@ Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan 
 ***
 
 ## Het project
-<ul><li>Context </br> Maak kennis met sociale robots</li></ul>
+<ul><li><strong>Context</strong></br> Maak kennis met sociale robots</li></ul>
+
+<ul><li><strong>Ontwerp</strong></br> Ga met je groep aan de slag om met een ontwerp voor je sociale robot op de proppen te komen.</li></ul>
+
+<ul><li><strong>Simuleren</strong></br> Simuleer je ontwerp in de simulator.</li></ul>
+
+<ul><li><strong>Programmeren</strong></br> Programmeer de simulatie.
+</li></ul>
+
+<ul><li><strong>Bouwen</strong></br> Bouw je robot in het echt!</li></ul>
+
+<ul><li><strong>Eindproduct</strong></br> Test en debug je programma en pas het aan tot je robot werkt zoals gewenst.</li></ul>
+
+<ul><li><strong>Creatieve opdracht</strong></br> Stel je robot voor aan je medeleerlingen!
+</li></ul>
 
 ## Het project
 > **Context**  
