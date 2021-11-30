@@ -52,8 +52,8 @@ Er is wat ondersteuning voorzien voor de leerlingen in het leerpad zelf, waarmee
 
 We raden aan dat jij, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-traject doorneemt om de leerlingen optimaal te kunnen begeleiden. Deze behandelen de volgende elementen:  
 
-* LCD-scherm
-* Wacht-blok
+* lcd-scherm
+* Wacht
 * Leds
 * Ledmatrices
 * Keuzestructuur: Als-Dan

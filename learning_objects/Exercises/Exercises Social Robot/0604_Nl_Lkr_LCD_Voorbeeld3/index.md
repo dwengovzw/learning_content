@@ -35,12 +35,12 @@ teacher_exclusive: true
 
 OPGAVE 3
 
-Plaats de tekst nu ook in het midden van het LCD-scherm.
+Plaats de tekst nu in het midden van het lcd-scherm.
 
 Oplossing:
 
 ![blockly](@learning-object/SRM_LED3-v1/nl/3)
 
-Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 4 plaatsen op naar rechts.
+Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 5 plaatsen opnaar rechts.
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

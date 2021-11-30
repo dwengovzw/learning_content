@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 # Klasgesprek
 
-Ter afsluiting hou je nog een klasgesprek met de leerlingen. Hierin kan je verschillende onderwerpen aan bod laten komen.
+Ter afsluiting, of tussendoor, hou je nog een klasgesprek met de leerlingen. Hierin kan je verschillende onderwerpen aan bod laten komen.
 
 Enkele suggesties:
 
@@ -45,5 +45,5 @@ Enkele suggesties:
 **Werkvormen**
 * *De leerlingen kunnen ook in groepjes van vier of vijf met elkaar over bepaalde stellingen discussiëren.*
 
-* *A.d.h.v. tien stellingkaarten over de aanwezigheid van sociale robots in de maatschappij kunnen een klasdiscussie en discussies in groep gehouden worden.*
+* (In ontwikkeling) *A.d.h.v. tien stellingkaarten over de aanwezigheid van sociale robots in de maatschappij kunnen een klasdiscussie en discussies in groep gehouden worden.*
 

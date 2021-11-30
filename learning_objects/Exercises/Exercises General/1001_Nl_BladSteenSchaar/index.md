@@ -35,7 +35,7 @@ teacher_exclusive: false
 
 Programmeer 2 Dwenguinos om Blad-Steen-Schaar te spelen. Zorg ervoor dat je programma aan de onderstaande criteria voldoet!
 
-* Op het LCD-scherm verschijnt er een startscherm dat toont welke knoppen overeenkomen met blad, steen en schaar.
+* Op het lcd-scherm verschijnt er een startscherm dat toont welke knoppen overeenkomen met blad, steen en schaar.
 
 * De knoppen zijn als volgt geprogrammeerd: 
 Noord: Blad

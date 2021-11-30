@@ -69,7 +69,6 @@ Voor het lichaam heb je de keuze tussen: een kartonnen doos, een bloempotje of e
 Onder het simulatiemenu vind je de robotonderdelen terug:
 
 ![](embed/Onderdelen1.png "Onderdelen")  
-![](embed/Onderdelen2.png "Onderdelen")
 
 Door gebruik te maken van de knoppen onder de robotonderdelen ![](embed/OnderdelenKnoppen.png "Knoppen") kan je een robotonderdeel toevoegen aan of verwijderen van het lichaam van de robot.
 

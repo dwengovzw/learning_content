@@ -35,10 +35,10 @@ teacher_exclusive: false
 
 OPGAVE 1
 
-Shchrijf een programma dat het volgende doet:
+Schrijf een programma dat het volgende doet:
 
-* Laat "Hallo mensen" op het lcd-scherm verschijnen voor 1 seconde (1000 ms).
+* Laat "Hallo mensen" op het lcd-scherm verschijnen gedurende 1 seconde (1000 ms).
 * Laat "Ik ben Dwenguino" op het lcd-scherm verschijnen voor 2 seconden (2000 ms).
 
-De *'wacht'-blok* die **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
+Het *'wacht'-blok* dat **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
 

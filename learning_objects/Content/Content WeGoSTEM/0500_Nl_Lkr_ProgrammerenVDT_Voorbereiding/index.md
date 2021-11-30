@@ -52,7 +52,7 @@ Sommige kinderen merken op dat de tekening in de simulator anders is dan de teke
 We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-traject doorneemt om de leerlingen optimaal te kunnen begeleiden. Dit bevat de volgende elementen:  
 *Elementen tussen haakjes worden als optioneel beschouwd voor het WeGoStem-traject.*
 
-* LCD-scherm
+* lcd-scherm
 * Wacht
 * (Leds)
 * (Buzzer)

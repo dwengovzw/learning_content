@@ -35,4 +35,4 @@ teacher_exclusive: false
 
 **Manier 2**
 
-De tweede manier is om alle code te verplaatsen van het *'Zet klaar'-deel* naar het *'herhaal'-deel*. Dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.
+De tweede manier is om alle code te verplaatsen van het *'zet klaar'-deel* naar het *'herhaal'-deel*. Dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.

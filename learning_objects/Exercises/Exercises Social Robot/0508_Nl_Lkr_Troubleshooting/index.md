@@ -32,13 +32,15 @@ teacher_exclusive: true
 ---
 
 # Programmeren van de robot
-## Code uitvoeren
+## Code testen
 
-Je kan je DwenguinoBlockly-programma uitvoeren in het gekozen scenario van de simulator om te kijken wat het resultaat zal zijn op de Dwenguino. De simulatie kan bediend worden met de knoppen uit het simulatormenu. Zo kan je de simulatie starten met ![](embed/Playknop.png "Play") en stoppen met ![](embed/Stopknop.png "Stop").
+Telkens je aanpassingen doet aan een programma of als je een nieuw programma hebtgeschreven, voer je het uit in de simulator. Zo kijk je wat het resultaat zal zijn op de Dwenguino, en test je uit of het programma goed werkt. De simulatie kan bediend worden met de knoppen uit het simulatormenu. Zo kan je de simulatie starten met ![](embed/Playknop.png "Play") en stoppen met ![](embed/Stopknop.png "Stop").
 
 ![](@youtube/https://www.youtube.com/embed/hmr5smg7l8Y "voorbeeld")
 
-Afhankelijk van het gekozen scenario zal je een andere simulatie te zien krijgen. Zoals al vermeld werd in **Robotontwerp** zal je vooral gebruikmaken van het ‘rijdende robot’-scenario en het ‘sociale robot’-scenario. Het ‘rijdende robot’-scenario laat toe om simulaties op het microcontrollerbord en op een rijdende robot met twee dc-motoren te visualiseren in het simulatieveld. Het ‘sociale robot’-scenario bevat geen Dwenguino in het simulatieveld. Daar zal je enkel code kunnen uitvoeren op de robotonderdelen die je zelf aan het simulatieveld hebt toegevoegd.
+Afhankelijk van het gekozen scenario zal je een andere simulatie te zien krijgen. Zoals al vermeld werd in **Robotontwerp** zal je vooral gebruikmaken van het ‘rijdende robot’-scenario en het ‘sociale robot’-scenario:
+*  Het ‘rijdende robot’-scenario laat toe om simulaties op het microcontrollerbord en op een rijdende robot met twee dc-motoren te visualiseren in het simulatieveld. 
+* Het ‘sociale robot’-scenario bevat geen Dwenguino in het simulatieveld. Daar zal je enkel code kunnen uitvoeren op de robotonderdelen die je zelf aan het simulatieveld hebt toegevoegd.
 
 
 ## Debuggen
@@ -82,10 +84,11 @@ Controleer nogmaals of je programma correct is. Je kan ook kijken naar foutmeldi
 
 ## FAQs
 
-**Het lcd-scherm toont geen tekst**
+**Het lcd-scherm toont geen tekst of is bijna zwart**
 
-* Pas het contrast van het lcd-scherm aan via het gele schroefje op de Dwenguino microcontroller (zie **Elektronica**)
+* Pas het contrast van het lcd-scherm aan via het gele schroefje op de Dwenguino (zie **Elektronica**)
 
 **De sonar-sensor werkt niet**
 
-* Het gebeurt af en toe dat een sensor kapot is. Probeer na te gaan of dit het geval is door de aansluitingen van de sonar-sensor na te kijken en de gemeten waarde van de sensor weer te geven op het lcd-scherm. Er zitten extra vervangingssensoren in het pakket.
+* Het gebeurt af en toe dat een sensor kapot is. Probeer na te gaan of dit het geval is door de aansluitingen van de sonar-sensor na te kijken en de gemeten waarde van de sensor weer te geven op het lcd-scherm.
+* Is de bedrading correct aangesloten? Zit er geen fout in de bedrading zelf (bv. een verwisseling van de dragen)?
