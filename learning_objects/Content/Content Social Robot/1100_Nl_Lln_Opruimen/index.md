@@ -33,4 +33,4 @@ teacher_exclusive: false
 
 # Opruimen
 
-Jammer genoeg moet je op het einde van de rit je robot afbreken... Wees gerust, je kan het meeste houden! Enkel de elektronica zal je moeten eruit halen en opbergen in de doos zoals hieronder getoond.
+Jammer genoeg moet je op het einde van de rit je robot afbreken ... Wees gerust, je kan het meeste houden! Enkel de elektronica zal je moeten eruit halen en opbergen in de doos zoals hieronder getoond.

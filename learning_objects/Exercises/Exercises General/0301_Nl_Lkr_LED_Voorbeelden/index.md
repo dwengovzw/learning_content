@@ -57,7 +57,7 @@ Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opga
 
 OPGAVE 3
 
-Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent dat led 0 eerst brandt en dan uitgaat wanneer led 1 gaat branden, led 1 uitgaat wanneer led 2 gaat branden...
+Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent dat led 0 eerst brandt en dan uitgaat wanneer led 1 gaat branden, led 1 uitgaat wanneer led 2 gaat branden ...
 
 Oplossing:
 

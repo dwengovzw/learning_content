@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 ---
 # Invoer - Verwerking - Uitvoer
-Sensoren, actuatoren... Verwijzen naar projecten met vbn
+Sensoren, actuatoren ... Verwijzen naar projecten met vbn

@@ -48,7 +48,7 @@ En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw 
 ![](@youtube/https://www.youtube.com/embed/M8YjvHYbZ9w "robothond")
 
 
-Het **uiterlijk** van je sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van je robot schept verwachtingen. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt...  
+Het **uiterlijk** van je sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van je robot schept verwachtingen. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt ...  
 Van een androïde robot, een robot die er heel menselijk uitziet, verwacht men ook menselijke handelingen. De robot Pari, die eruitziet als een zeehond, wordt door de mensen wel behandeld als een huisdier, maar schept niet de verwachtingen van een hond of een kat. De robot Pepper lijkt niet genoeg op een mens om te verwachten dat hij ook heel menselijki voor de dag komt.
 
 Als de verwachtingen die men van de robot heeft, niet overeenstemmen met wat hij effectief doet, dan ervaren mensen de robot als iets negatiefs.  
