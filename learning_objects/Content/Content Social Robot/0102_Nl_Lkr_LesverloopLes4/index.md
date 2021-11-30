@@ -33,11 +33,11 @@ teacher_exclusive: true
 
 # Lesverloop
 ## Les 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
-**Lesfase 1 - Creatieve opdrachten**
+**Lesfase A - Creatieve opdrachten**
 * Laat de leerlingen hun creatieve opdrachten voorstellen. Geef hen indien nodig nog wat tijd om dit voor te bereiden in de les.
 
 
-**Lesfase 2 - Klasgesprek ter afronding project**
+**Lesfase B - Klasgesprek ter afronding project**
 * Sluit het project af met een klasgesprek over sociale robots.
 
 ***
