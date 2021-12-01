@@ -30,21 +30,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "SR_DwenguinoIntro-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "SR_DwenguinoIntro-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "SR_VBSimulator-v1",
             "version": "3",
             "language": "nl"
