@@ -1,8 +1,8 @@
 ---
-hruid: SR_Programmeren2-v1
+hruid: SR_Programmeren4-v1
 version: 3
 language: nl
-title: "Uploaden"
+title: "Afwerken en extra's"
 description: "T"
 keywords: ["Sociale Robot"]
 educational_goals: [
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # Programmeren van de robot
-## Uploaden van het programma
+## Afwerken
 Upload nu het eerste programma voor de sociale robot naar de fysieke robot. Je zal nu nog veel kleine aanpassingen moeten maken om het gewenste resultaat bekomen. Dit is normaal!
 
 Indien je nog tijd overhebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?
