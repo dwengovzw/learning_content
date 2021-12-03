@@ -1,5 +1,5 @@
 ---
-hruid: MotorenWGS1-v1
+hruid: WGS_Motoren1-v1
 version: 3
 language: nl
 title: "Meta"

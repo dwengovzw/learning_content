@@ -239,7 +239,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "lcdWGS-v1",
+            "hruid": "WGS_lcd-v1",
             "version": "3",
             "language": "fr"
           }
@@ -247,14 +247,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lcdWGS-v1",
+      "learningobject_hruid": "WGS_lcd-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pr_lcdWGS1-v1",
+            "hruid": "pr_WGS_lcd1-v1",
             "version": "3",
             "language": "fr"
           }
@@ -262,14 +262,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pr_lcdWGS1-v1",
+      "learningobject_hruid": "pr_WGS_lcd1-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pr_lcdWGS2-v1",
+            "hruid": "pr_WGS_lcd2-v1",
             "version": "3",
             "language": "fr"
           }
@@ -277,14 +277,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pr_lcdWGS2-v1",
+      "learningobject_hruid": "pr_WGS_lcd2-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pr_lcdWGS3-v1",
+            "hruid": "pr_WGS_lcd3-v1",
             "version": "3",
             "language": "fr"
           }
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "learningobject_hruid": "pr_lcdWGS3-v1",
+      "learningobject_hruid": "pr_WGS_lcd3-v1",
       "version": "3",
       "language": "fr",
       "transitions": [

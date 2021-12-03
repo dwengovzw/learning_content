@@ -1,5 +1,5 @@
 ---
-hruid: KnoppenWGS-v1
+hruid: WGS_Knoppen-v1
 version: 3
 language: nl
 title: "Uitleg Knoppen"

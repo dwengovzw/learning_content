@@ -194,7 +194,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Startpagina-v1",
+            "hruid": "WGS_Startpagina-v1",
             "version": "3",
             "language": "nl"
           }
@@ -202,14 +202,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Startpagina-v1",
+      "learningobject_hruid": "WGS_Startpagina-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "InleidendeOefening-v1",
+            "hruid": "WGS_InleidendeOefening-v1",
             "version": "3",
             "language": "nl"
           }
@@ -217,14 +217,14 @@
       ]
     },
     {
-      "learningobject_hruid": "InleidendeOefening-v1",
+      "learningobject_hruid": "WGS_InleidendeOefening-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "UploadenDwenguinoWGS-v1",
+            "hruid": "WGS_UploadenDwenguino-v1",
             "version": "3",
             "language": "nl"
           }
@@ -232,14 +232,14 @@
       ]
     },
     {
-      "learningobject_hruid": "UploadenDwenguinoWGS-v1",
+      "learningobject_hruid": "WGS_UploadenDwenguino-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "lcdWGS-v1",
+            "hruid": "WGS_lcd-v1",
             "version": "3",
             "language": "nl"
           }
@@ -247,14 +247,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lcdWGS-v1",
+      "learningobject_hruid": "WGS_lcd-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "lkr_lcdWGS1-v1",
+            "hruid": "WGS_Lkr_lcd1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -262,14 +262,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lkr_lcdWGS1-v1",
+      "learningobject_hruid": "WGS_Lkr_lcd1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "lkr_lcdWGS2-v1",
+            "hruid": "WGS_Lkr_lcd2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -277,14 +277,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lkr_lcdWGS2-v1",
+      "learningobject_hruid": "WGS_Lkr_lcd2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "lkr_lcdWGS3-v1",
+            "hruid": "WGS_Lkr_lcd3-v1",
             "version": "3",
             "language": "nl"
           }
@@ -292,14 +292,14 @@
       ]
     },
     {
-      "learningobject_hruid": "lkr_lcdWGS3-v1",
+      "learningobject_hruid": "WGS_Lkr_lcd3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "WachtWGS-v1",
+            "hruid": "WGS_Wacht-v1",
             "version": "3",
             "language": "nl"
           }
@@ -307,14 +307,14 @@
       ]
     },
     {
-      "learningobject_hruid": "WachtWGS-v1",
+      "learningobject_hruid": "WGS_Wacht-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS1-v1",
+            "hruid": "WGS_Lkr_Wacht1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -322,14 +322,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS1-v1",
+      "learningobject_hruid": "WGS_Lkr_Wacht1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS2-v1",
+            "hruid": "WGS_Lkr_Wacht2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -337,14 +337,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS2-v1",
+      "learningobject_hruid": "WGS_Lkr_Wacht2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS3-v1",
+            "hruid": "WGS_Lkr_Wacht3-v1",
             "version": "3",
             "language": "nl"
           }
@@ -352,14 +352,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS3-v1",
+      "learningobject_hruid": "WGS_Lkr_Wacht3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_WachtWGS4-v1",
+            "hruid": "WGS_Lkr_Wacht4-v1",
             "version": "3",
             "language": "nl"
           }
@@ -367,14 +367,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_WachtWGS4-v1",
+      "learningobject_hruid": "WGS_Lkr_Wacht4-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "KnoppenWGS-v1",
+            "hruid": "WGS_Knoppen-v1",
             "version": "3",
             "language": "nl"
           }
@@ -382,14 +382,14 @@
       ]
     },
     {
-      "learningobject_hruid": "KnoppenWGS-v1",
+      "learningobject_hruid": "WGS_Knoppen-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_KnoppenWGS1-v1",
+            "hruid": "WGS_Lkr_Knoppen1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -397,14 +397,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_KnoppenWGS1-v1",
+      "learningobject_hruid": "WGS_Lkr_Knoppen1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Lkr_KnoppenWGS2-v1",
+            "hruid": "WGS_Lkr_Knoppen2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -412,14 +412,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Lkr_KnoppenWGS2-v1",
+      "learningobject_hruid": "WGS_Lkr_Knoppen2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "MotorenWGS-v1",
+            "hruid": "WGS_Motoren-v1",
             "version": "3",
             "language": "nl"
           }
@@ -427,14 +427,14 @@
       ]
     },
     {
-      "learningobject_hruid": "MotorenWGS-v1",
+      "learningobject_hruid": "WGS_Motoren-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "ExperimenterenMotorenWGS-v1",
+            "hruid": "WGS_ExperimenterenMotoren-v1",
             "version": "3",
             "language": "nl"
           }
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "learningobject_hruid": "ExperimenterenMotorenWGS-v1",
+      "learningobject_hruid": "WGS_ExperimenterenMotoren-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
