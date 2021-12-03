@@ -1,10 +1,10 @@
 ---
-hruid: STD_Uitbreiding-v1
+hruid: STD_Wacht-v1
 version: 3
 language: nl
-title: "Uitbreiding"
-description: "Uitbreiding" 
-keywords: ["StartToDwenguino"]
+title: "Uitleg Wacht"
+description: "Uitleg Wacht"
+keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [10, 11, 12, 13, 14]
+target_ages: [10, 11, 12]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -30,7 +30,17 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# WIP
+## Wacht
 
-# Uitdagingen
+Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
 
-Voor zij die graag wat meer de mogelijkheden van de simulator willen ontdekken, zijn er ook nog een aantal extra uitdagingen!
+![](embed/Afb1.png "Voorbeeld wacht")
+
+De tijd wordt uitgedrukt in milliseconden. Eén milliseconde is een duizendste van een seconde. In één seconde kunnen dus duizend milliseconden.
+
+**Voorbeeld**
+
+Probeer onderstaand voorbeeld eens uit zodat je ziet hoe het werkt!
+
+![blockly](@learning-object/WACHT1-v1/nl/3)

@@ -1,5 +1,5 @@
 ---
-hruid: STD_Uitbreiding_BladSteenSchaar-v1
+hruid: BladSteenSchaar-v1
 version: 3
 language: nl
 title: "Blad Steen Schaar"

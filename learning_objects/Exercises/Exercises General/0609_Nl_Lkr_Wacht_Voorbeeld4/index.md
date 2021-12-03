@@ -1,10 +1,10 @@
 ---
-hruid: STD_Uitbreiding-v1
+hruid: STD_Lkr_Wacht4-v1
 version: 3
 language: nl
-title: "Uitbreiding"
-description: "Uitbreiding" 
-keywords: ["StartToDwenguino"]
+title: "Voorbeeld Wacht 4"
+description: "Voorbeeld Wacht 4"
+keywords: ["StartToDwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [10, 11, 12, 13, 14]
+target_ages: [10, 11, 12]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,14 +23,22 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
+# WIP
+### Voorbeeld Wacht
 
-# Uitdagingen
+OPGAVE 2
 
-Voor zij die graag wat meer de mogelijkheden van de simulator willen ontdekken, zijn er ook nog een aantal extra uitdagingen!
+Maak een reclamebord voor de UGent en Dwengo. De namen moeten afwisselend verschijnen in een interval van 5 seconden. Zorg er ook voor dat de namen gecentreerd zijn.
+
+Oplossing:
+
+![blockly](@learning-object/WACHTWGS4-v1/nl/3)
+
+*Test deze voorbeelden ook zelf uit in de simulator!*

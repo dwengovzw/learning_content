@@ -1,19 +1,19 @@
 ---
-hruid: STD_Uitbreiding-v1
+hruid: LCDM2-v1
 version: 3
 language: nl
-title: "Uitbreiding"
-description: "Uitbreiding" 
-keywords: ["StartToDwenguino"]
+title: "Meta"
+description: "Meta"
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by Jerro
-licence: Licenced by Jerro
-content_type: text/markdown
+copyright: Copyright by dwengo vzw.
+licence: CC by dwengo vzw.
+content_type: blockly
 available: true
-target_ages: [10, 11, 12, 13, 14]
+target_ages: [10, 11, 12]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -30,7 +30,3 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-# Uitdagingen
-
-Voor zij die graag wat meer de mogelijkheden van de simulator willen ontdekken, zijn er ook nog een aantal extra uitdagingen!

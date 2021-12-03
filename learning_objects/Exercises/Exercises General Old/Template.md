@@ -1,9 +1,9 @@
 ---
-hruid: STD_Uitbreiding-v1
+hruid: t-v1
 version: 3
 language: nl
-title: "Uitbreiding"
-description: "Uitbreiding" 
+title: "t"
+description: "t"
 keywords: ["StartToDwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,6 +31,4 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Uitdagingen
-
-Voor zij die graag wat meer de mogelijkheden van de simulator willen ontdekken, zijn er ook nog een aantal extra uitdagingen!
+# Titel
