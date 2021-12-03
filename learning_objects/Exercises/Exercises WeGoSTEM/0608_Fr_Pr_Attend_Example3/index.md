@@ -36,6 +36,6 @@ teacher_exclusive: true
 
 La deuxième façon consiste à déplacer tout le code de la partie *'Get ready'* à la *'repeat' partie*. Ensuite, l'ordinateur exécutera simplement à nouveau le code une fois que tout aura été exécuté.
 
-![blockly](@learning-object/WACHTWGS3-v1/nl/3)
+![blockly](@learning-object/WACHTWGS3-v1/fr/3)
 
 *Testez ces exemples vous-même dans le simulateur !*

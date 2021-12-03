@@ -39,6 +39,6 @@ Le programme démarre. Lorsque le bouton NORD est enfoncé, la première LED (LE
 
 Solution:
 
-![blockly](@learning-object/KNOPWGS1-v1/nl/3)
+![blockly](@learning-object/KNOPWGS1-v1/fr/3)
 
 *Testez ces exemples vous-même dans le simulateur !*

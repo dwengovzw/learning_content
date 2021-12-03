@@ -38,7 +38,7 @@ Assurez-vous que « Bienvenue » et « robot » apparaissent sur des lignes dist
 
 Solution:
 
-![blockly](@learning-object/LCDM2-v1/nl/3)
+![blockly](@learning-object/LCDM2-v1/fr/3)
 
 Pour diviser le texte en 2 lignes, vous avez besoin d'un deuxième bloc *'écran LCD'*.
 Si vous remplacez le 0 par un 1 à « dans une rangée : », votre texte apparaîtra sur la deuxième ligne.

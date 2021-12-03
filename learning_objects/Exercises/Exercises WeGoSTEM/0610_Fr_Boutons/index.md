@@ -40,4 +40,4 @@ Vous pouvez cliquer sur un bouton avec votre souris. Lorsque vous cliquez dessus
 
 Bien sûr, vous voulez que le robot de dessin ne commence à dessiner que lorsque vous le souhaitez. C'est pourquoi vous allez entrer ici une condition de départ supplémentaire, comme dans l'exemple ci-dessous :
 
-![blockly](@learning-object/KNOP-v1/nl/3)
+![blockly](@learning-object/KNOP-v1/fr/3)

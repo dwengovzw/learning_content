@@ -39,6 +39,6 @@ Faire un panneau publicitaire pour l'Université de Gand et Dwengo. Les noms doi
 
 Solution:
 
-![blockly](@learning-object/WACHTWGS4-v1/nl/3)
+![blockly](@learning-object/WACHTWGS4-v1/fr/3)
 
 *Testez ces exemples vous-même dans le simulateur !*

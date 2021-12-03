@@ -38,7 +38,7 @@ Maintenant, placez également le texte au centre de l'écran LCD.
 
 Solution:
 
-![blockly](@learning-object/LCDM3-v1/nl/3)
+![blockly](@learning-object/LCDM3-v1/fr/3)
 
 Si vous remplacez le 0 par un 5 dans « sur la colonne », le texte se déplace de 4 places vers la droite.
 

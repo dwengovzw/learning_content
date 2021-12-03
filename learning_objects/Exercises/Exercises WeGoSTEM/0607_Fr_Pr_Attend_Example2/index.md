@@ -39,6 +39,6 @@ Vous pouvez résoudre ce problème de 2 manières.
 
 La première consiste à supprimer le texte. Pour cela, vous utilisez le bloc **CreateLCDClear**.
 
-![blockly](@learning-object/WACHTWGS2-v1/nl/3)
+![blockly](@learning-object/WACHTWGS2-v1/fr/3)
 
 *Testez ces exemples vous-même dans le simulateur !*
