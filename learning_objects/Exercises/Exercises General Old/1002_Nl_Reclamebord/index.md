@@ -1,10 +1,10 @@
 ---
-hruid: STD_Uitbreiding-v1
+hruid: Uitbreiding_Reclamebord-v1
 version: 3
 language: nl
-title: "Uitbreiding"
-description: "Uitbreiding" 
-keywords: ["StartToDwenguino"]
+title: "uitbreiding reclamebord"
+description: "Uitbreiding reclamebord"
+keywords: ["StartToDwenguino", "lcd", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
@@ -31,6 +31,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Uitdagingen
+## Reclamebord
 
-Voor zij die graag wat meer de mogelijkheden van de simulator willen ontdekken, zijn er ook nog een aantal extra uitdagingen!
+Maak een slidereclame aan die "Welkom bij Dwenguino" laat voorbijglijden in een oneindige lus.
+
+*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
