@@ -1,5 +1,5 @@
 ---
-hruid: Lkr_WachtWGS4-v1
+hruid: WGS_Lkr_Wacht4-v1
 version: 3
 language: nl
 title: "Voorbeeld Wacht 4"

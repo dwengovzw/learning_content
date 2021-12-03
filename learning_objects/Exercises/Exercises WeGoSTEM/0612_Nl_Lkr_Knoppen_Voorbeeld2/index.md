@@ -1,5 +1,5 @@
 ---
-hruid: Lkr_KnoppenWGS2-v1
+hruid: WGS_Lkr_Knoppen2-v1
 version: 3
 language: nl
 title: "Voorbeeld Knoppen 2"

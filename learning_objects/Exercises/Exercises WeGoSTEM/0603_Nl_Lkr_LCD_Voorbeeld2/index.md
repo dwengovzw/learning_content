@@ -1,5 +1,5 @@
 ---
-hruid: lkr_lcdWGS2-v1
+hruid: WGS_Lkr_lcd2-v1
 version: 3
 language: nl
 title: "Voorbeeld Lcd 2"

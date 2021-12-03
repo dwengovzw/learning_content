@@ -1,5 +1,5 @@
 ---
-hruid: ExperimenterenMotorenWGS-v1
+hruid: WGS_ExperimenterenMotoren-v1
 version: 3
 language: nl
 title: "Opdracht tekenrobot"
@@ -40,7 +40,7 @@ Als je niet reeds stiekem begonnen bent, is het nu eindelijk tijd om zelf met je
 
 * Bouw het volgende programma op en kijk wat het doet.
 
-![blockly](@learning-object/MotorenWGS1-v1/nl/3)
+![blockly](@learning-object/WGS_Motoren1-v1/nl/3)
 
 
 ## Opdracht 2: Testen
