@@ -42,4 +42,4 @@ Le temps est exprimé en millisecondes. Une milliseconde est un millième de sec
 
 Essayez l'exemple ci-dessous pour voir comment cela fonctionne !
 
-![blockly](@learning-object/WAIT1-v1/nl/3)
+![blockly](@learning-object/WAIT1-v1/fr/3)

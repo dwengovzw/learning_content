@@ -42,7 +42,7 @@ ShWrite un programme qui effectue les opérations suivantes :
 
 Solution:
 
-![blockly](@learning-object/WACHTWGS1-v1/nl/3)
+![blockly](@learning-object/WACHTWGS1-v1/fr/3)
 
 Le bloc *'wait'* qui apparaît **après** une instruction particulière indique combien de temps l'ordinateur doit **attendre** avant de pouvoir lancer l'instruction suivante.
 
