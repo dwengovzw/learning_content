@@ -2,18 +2,18 @@ import re
 import glob
 import shutil as s
 files=list(glob.iglob("./Exercises/Exercises WeGoSTEM/*_Meta", recursive=True))
-print(files)
+#print(files)
 
 
-# for directory in files:
-#     print(directory)
-#     s.copytree(directory, f"{directory}F")
+for directory in files:
+    #print('\n' .join(map(str, directory)))
+    s.copytree(directory, f"{directory}F")
 
 
 files=list(glob.iglob("./Exercises/Exercises WeGoSTEM/*_MetaF/metadata.md", recursive=True))
 
 for file in files:
-	print(file)
+	#print('\n' .join(map(str, file)))
 
 for file in files:
 	with open (file, "r+") as f:
@@ -22,4 +22,3 @@ for file in files:
 		f.seek(0)
 		f.write(text)
 		f.truncate()
-
