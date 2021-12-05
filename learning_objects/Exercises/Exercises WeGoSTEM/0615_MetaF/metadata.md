@@ -1,5 +1,5 @@
 ---
-hruid: LCDM1-v1
+hruid: WGS_Motoren1-v1
 version: 3
 language: fr
 title: "Meta"
@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: Copyright by dwengo vzw.
 licence: CC by dwengo vzw.
-content_type: blockly
+content_type: text/markdown
 available: true
 target_ages: [10, 11, 12]
 difficulty: 3

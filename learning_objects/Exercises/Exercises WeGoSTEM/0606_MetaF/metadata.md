@@ -1,5 +1,5 @@
 ---
-hruid: LCDM1-v1
+hruid: WACHTWGS1-v1
 version: 3
 language: fr
 title: "Meta"
