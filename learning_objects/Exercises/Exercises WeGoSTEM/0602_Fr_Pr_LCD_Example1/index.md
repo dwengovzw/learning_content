@@ -38,7 +38,7 @@ Faites apparaître 'Welcome Robot' sur l'écran LCD.
 
 Solution:
 
-![blockly](@learning-object/LCDM1F-v1/fr/3)
+![blockly](@learning-object/LCDM1-v1/fr/3)
 
 Vous pouvez modifier le texte 'Bienvenue robot'. Les deux zéros signifient : première ligne, premier caractère.
 
