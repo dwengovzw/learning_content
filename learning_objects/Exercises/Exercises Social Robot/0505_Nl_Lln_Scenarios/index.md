@@ -92,7 +92,7 @@ Als je dubbelklikt op een robotonderdeel in het simulatieveld, zal er een extra 
 
 Als je dubbelklikt op de servomotor op het simulatieveld, krijg je de eigenschappen van de motor te zien. Sommige van deze eigenschappen kan je ook aanpassen:
 
-* Het pinnummer waarop de servomotor wordt aangesloten (servomotor 3 zal steeds pin 19 gebruiken); bij aansluiting van de servomotor op de pcd, gebeurt dit automatisch.
+* Het pinnummer waarop de servomotor wordt aangesloten (servomotor 3 zal steeds pin 19 gebruiken); bij aansluiting van de servomotor op de pcb, gebeurt dit automatisch.
 
 * Het uiterlijk van de servomotor kan je hier ook selecteren.
 
