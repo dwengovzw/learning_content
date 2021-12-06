@@ -60,21 +60,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "SR_BouwenRobot3-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "SR_BouwenRobot3-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "SR_Programmeren2-v1",
             "version": "3",
             "language": "nl"
