@@ -62,4 +62,12 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 
 De projectfiche waar dit nog eens allemaal samengevat wordt, vind je [hier](embed/ProjectficheSocialeRobot.pdf "projectfiche") terug.
 
-In de vier leerobjecten Les 1, Les 2, Les 3 en Les 4 wordt het lesverloop meer in detail uit de doeken gedaan. Je kan je baseren op deze suggesties tijdens het voorbereiden van jouw les.
+In de volgende vier leerobjecten Les 1, Les 2, Les 3 en Les 4 wordt het lesverloop meer in detail uit de doeken gedaan. Je kan je baseren op deze suggesties tijdens het voorbereiden van jouw les.
+
+Deze vormen ook de basis van de 4 leerpaden waarin het project gesplitst werd.
+
+(wip)
+[Les 1: Wat zijn sociale robots?](Link)  
+[Les 2: Brainstorm en programmeren](Link)  
+[Les 3: Bouwen van de robot](Link)  
+[Les 4: Creatieve verwerking en nabespreking](Link)  

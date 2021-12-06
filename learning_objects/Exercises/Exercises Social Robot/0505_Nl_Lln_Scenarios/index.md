@@ -69,6 +69,7 @@ Voor het lichaam heb je de keuze tussen: een kartonnen doos, een bloempotje of e
 Onder het simulatiemenu vind je de robotonderdelen terug:
 
 ![](embed/Onderdelen1.png "Onderdelen")  
+![](embed/Onderdelen2.png "Onderdelen")  
 
 Door gebruik te maken van de knoppen onder de robotonderdelen ![](embed/OnderdelenKnoppen.png "Knoppen") kan je een robotonderdeel toevoegen aan of verwijderen van het lichaam van de robot.
 
@@ -79,8 +80,7 @@ Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robot
 
 Servomotor en ledmatrix werden toegevoegd aan het simulatieveld en versleept naar hun gewenste locatie:
 
-![](embed/SRVoorbeeld11.png "Onderdelen")
-![](embed/SRVoorbeeld12.png "Scenario")
+![](embed/SRVoorbeeld.png "Onderdelen")
 
 
 **Eigenschappen aanpassen**
@@ -92,7 +92,7 @@ Als je dubbelklikt op een robotonderdeel in het simulatieveld, zal er een extra 
 
 Als je dubbelklikt op de servomotor op het simulatieveld, krijg je de eigenschappen van de motor te zien. Sommige van deze eigenschappen kan je ook aanpassen:
 
-* Het pinnummer waarop de servomotor wordt aangesloten (servomotor 3 zal steeds pin 19 gebruiken); bij aansluiting van de servomotorop het uitbreidingsbord, gebeurt dit automatisch.
+* Het pinnummer waarop de servomotor wordt aangesloten (servomotor 3 zal steeds pin 19 gebruiken); bij aansluiting van de servomotor op de pcd, gebeurt dit automatisch.
 
 * Het uiterlijk van de servomotor kan je hier ook selecteren.
 
