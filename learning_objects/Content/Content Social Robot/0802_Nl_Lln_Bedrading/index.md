@@ -59,7 +59,7 @@ Wees voorzichtig wanneer je de pcb breadboard en de Dwenguino aan elkaar koppelt
 ### Bedrading
 Bij het inpluggen van je pinnen, is het belangrijk dat je de juiste zaken met elkaar verbindt. De sensoren en actuatoren hebben bij hun connectoren zaken zoals '+', '-', 'GND' staan en het is belangrijk dat je deze met de overeenkomstige pin op de pcb verbindt.
 
-M.b.v. [deze fiches](emnbed/Leerlingenfiches.pdf "fiches") kan je dit gemakkelijk doen.  
+M.b.v. [deze fiches](embed/Leerlingenfiches.pdf "fiches") kan je dit gemakkelijk doen.  
 
 ### Monteren
 Eens de bedrading in orde is, kan je de elektronica monteren op het lichaam van de robot.  
