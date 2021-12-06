@@ -2,7 +2,7 @@
 hruid: SR_BouwenRobot-v1
 version: 3
 language: nl
-title: "Uitsnijden van de uitsparingen"
+title: "Voorbereiding"
 description: "Uitleg over het uitsnijden van uitsparingen"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
