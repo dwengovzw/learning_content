@@ -2,7 +2,7 @@
 hruid: SR_BouwenRobot1-v1
 version: 3
 language: nl
-title: "Bouwen van de Robot"
+title: "Uitsnijden van de uitsparingen"
 description: "SR_BouwenRobot"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [

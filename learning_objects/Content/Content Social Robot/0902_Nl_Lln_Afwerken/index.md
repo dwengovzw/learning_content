@@ -32,6 +32,8 @@ teacher_exclusive: false
 ---
 # Programmeren van de robot
 ## Afwerken
-Upload nu het eerste programma voor de sociale robot naar de fysieke robot. Je zal nu nog veel kleine aanpassingen moeten maken om het gewenste resultaat bekomen. Dit is normaal!
+Is je robot klaar? Doet hij alles wat je in je basisdoelstellingen had opgeschreven? Goed zo!
 
-Indien je nog tijd overhebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?
+Indien je nog tijd overhebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?  
+
+Misschien kan je al eens nadenken over de creatieve opdracht die je met je robot zal doen zodat je het programma op punt kan stellen hiervoor.

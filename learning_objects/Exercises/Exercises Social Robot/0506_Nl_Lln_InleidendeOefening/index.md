@@ -40,7 +40,7 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 
 ![](embed/SRLCD.png "lcd-scherm")
 
-* Ga in de categorie ![alt](embed/Afb2.png "Afb. Dwenguino") op zoek naar dit blok:  
+* Ga in de categorie ![alt](embed/Uitvoer.png "Afb. Uitvoer") op zoek naar dit blok:  
 
 
 ![alt](embed/lcd.png "Afb. lcd")

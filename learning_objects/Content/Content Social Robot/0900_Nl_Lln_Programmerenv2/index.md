@@ -32,6 +32,16 @@ teacher_exclusive: false
 ---
 # Programmeren van de robot
 ## Uploaden van het programma
-Upload nu het eerste programma voor de sociale robot naar de fysieke robot. Je zal nu nog veel kleine aanpassingen moeten maken om het gewenste resultaat bekomen. Dit is normaal!
+Upload nu het eerste programma voor de sociale robot naar de fysieke robot. We herhalen hier alvast nog eens hoe je dit moet doen.
 
-Indien je nog tijd overhebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?
+* schrijf het programma;
+* download het programma;
+* open downloads, daar staat nu een .dw bestand
+* sluit de Dwenguino aan en druk op RESET + ZUID, laat vervolgens de resetknop los en vervolgens ook de ZUID-knop;
+* de Dwenguino staat in de verkenner tussen je mappen als USB-stick;
+* kopieer het .dw bestand naar de Dwenguino;
+* druk op RESET.
+
+![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Uploaden Dwenguino")  
+
+Je zal nu nog veel kleine aanpassingen moeten maken om het gewenste resultaat bekomen. Dit is normaal!
