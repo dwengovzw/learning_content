@@ -36,7 +36,7 @@ teacher_exclusive: false
 Tijdens het testen en debuggen, zal je simpelweg dingen moeten uitproberen tot je bekomt wat je wilt (*trial and error*).  
 Doe dit echter niet lukraak. Denk eerst na over wat er fout gaat en probeer hier een oplossing voor te bedenken. Daarna test je deze oplossing uit en begint het proces opnieuw.
 
-**Voorbeeld**
+**Voorbeeld**  
 Je hebt 2 ledmatrices gebruikt als ogen voor de robot, maar de ogen zijn omgewisselt van plaats.
 
 *Optie 1*  
@@ -49,6 +49,7 @@ Je verwisselt de ogen in het programma, zodat ze overeenkomen met de fysieke rob
 
 *Optie3*  
 Je programmeert de ogen opnieuw, maar nu voor de juiste plaats.  
+
 
 
 Tijdens het testen en debuggen is het vooral belangrijk dat je eerst vaststelt wat de fout veroorzaakt vooraleer je een oplossing gaat bedenken. Zo kan je gericht op zoek naar een oplossing en kan je dit onderdeel efficiënt doorlopen!  
