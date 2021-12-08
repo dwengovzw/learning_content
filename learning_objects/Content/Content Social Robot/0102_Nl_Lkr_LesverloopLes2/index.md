@@ -2,8 +2,8 @@
 hruid: SR_Lkr_Les2-v1
 version: 3
 language: nl
-title: "Les 2"
-description: "Les 2"
+title: "Module 2"
+description: "Module 2"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,7 +32,7 @@ teacher_exclusive: true
 ---
 
 # Lesverloop
-## Les 2: Brainstorm, programmeren en selectie materiaal (± 3 lesuren)
+## Module 2: Brainstorm, programmeren en selectie materiaal (± 3 lesuren)
 **Lesfase A - Brainstorm**
 * Laat de leerlingen bij voorkeur per twee of per drie aan het 'Sociale Robot'-project werken. In de brainstormsessie overleggen ze over wat hun robot moet kunnen, hoe hij moet communiceren en waarop hij moet reageren.
 * Na de brainstorm moeten ze een eindontwerp voorleggen. Ze moeten hierbij rekening houden met de opgelegde criteria, de berperkingen van de kit, hun eigen capaciteiten, de beschikbare tijd, en eventuele andere keuzes die ze zelf maken.

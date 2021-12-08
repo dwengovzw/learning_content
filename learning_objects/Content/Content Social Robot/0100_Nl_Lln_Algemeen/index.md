@@ -2,7 +2,7 @@
 hruid: SR_Inleiding-v1
 version: 3
 language: nl
-title: "Inleiding"
+title: "Inleiding project"
 description: "Inleiding tot het leerspoor"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
@@ -33,6 +33,8 @@ teacher_exclusive: false
 
 # Wat ga je doen?
 
+*Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en reageert op omgevingsfactoren.*
+
 In dit project bouw je je eigen sociale robot, een robot die reageert op zijn omgeving! Van ontwerp naar simulatie tot fysieke robot, dat is het traject dat je hier doorloopt.  
 Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan verwezenlijken.
 
@@ -45,12 +47,12 @@ Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan 
 
 <ul><li><strong>Simuleren</strong></br> Simuleer je ontwerp in de simulator.</li></ul>
 
-<ul><li><strong>Programmeren</strong></br> Programmeer de simulatie.
+<ul><li><strong>Programmeren</strong></br> Programmeer de virtuele robot.
 </li></ul>
 
 <ul><li><strong>Bouwen</strong></br> Bouw je robot in het echt!</li></ul>
 
-<ul><li><strong>Eindproduct</strong></br> Test en debug je programma en pas het aan tot je robot werkt zoals gewenst.</li></ul>
+<ul><li><strong>Eindproduct</strong></br> Test en debug je programma op de fysieke robot en pas het aan tot je robot werkt zoals gewenst.</li></ul>
 
 <ul><li><strong>Creatieve opdracht</strong></br> Stel je robot voor aan je medeleerlingen!
 </li></ul>

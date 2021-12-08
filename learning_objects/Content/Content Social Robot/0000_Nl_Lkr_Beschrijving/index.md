@@ -2,7 +2,7 @@
 hruid: SR_Beschrijving-v1
 version: 3
 language: nl
-title: "Je eigen sociale robot"
+title: "Het 'Sociale robot'-project"
 description: "Beschrijving sociale robot"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Sociale Robot
+# Het 'Sociale robot'-project
 
 'Sociale robot' is een vakoverschrijdend STEM-project voor de eerste graad secundair onderwijs. Het project kan echter ook ingezet worden in de tweede graad.  
 In een aantal modules gaan leerlingen aan de slag om zelf een sociale robot te ontwerpen, te programmeren en te bouwen. 

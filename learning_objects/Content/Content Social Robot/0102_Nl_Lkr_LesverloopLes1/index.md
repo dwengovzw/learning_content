@@ -2,8 +2,8 @@
 hruid: SR_Lkr_Les1-v1
 version: 3
 language: nl
-title: "Les 1"
-description: "Les 1"
+title: "Module 1"
+description: "Module 1"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,7 +32,7 @@ teacher_exclusive: true
 ---
 
 # Lesverloop
-## Les 1: Inleiding en Computationeel denken unplugged (± 2 lesuren)
+## Module 1: Inleiding en Computationeel denken unplugged (± 2 lesuren)
 **Lesfase A - Wat zijn sociale robots?**
 
 *Optie 1*
@@ -56,4 +56,4 @@ teacher_exclusive: true
 **Lesfase D - Slot**
 * Vorm de groepen waarin de leerlingen hun sociale robot zullen maken.
 * Geef hen eventueel als huistaak mee om al eens (samen) na te denken over hun sociale robot ter voorbereiding van de brainstorm waarmee je de volgende les zal beginnen. 
-* Extra: De leerlingen zouden een opdracht kunnen krijgen als voorbereiding tegen de volgende les. Bv. op het internet op zoek gaan naar een sociale robot in een context die hen sterk aanspreekt en daar een digitaal document rond maken.
+* Extra: De leerlingen kunnen een opdracht krijgen als voorbereiding tegen de volgende les. Bv. op het *World Wide Web* op zoek gaan naar een sociale robot in een context die hen sterk aanspreekt en daar een digitaal document rond maken.

@@ -42,16 +42,18 @@ Onderstaande afbeelding toont welke onderdelen aanwezig zijn op de Dwenguino en 
 
 *Op de Dwenguino kunnen rechtstreeks twee dc-motoren en twee servomotoren worden aangesloten. Het contrastvan het lcd-scherm kan worden aangepast. Je kan het microcontrollerplatform van stroom voorzien via de USB-kabel of een adapter.*
 
-Op de *extension connector* zal je de pcb kunnen aansluiten. Dit is speciaal op maat gemaakt voor de sociale robot en hierop zal je alle andere sensoren en actuatoren kunnen aansluiten.
-![](embed/Pcb.png "pcb")
+Op de *extension connector* zal je de pcb kunnen aansluiten (zie afbeelding). Dit is speciaal op maat gemaakt voor de sociale robot en hierop zal je alle andere sensoren en actuatoren kunnen aansluiten.
+![](embed/pcb.png "pcb")
 
 ### De pcb
 
 Het voordeel van een pcb te gebruiken is dat de connectoren al gelabeld zijn met hun functie. 
 
+![](embed/pcb-inkscape.png "Figuur pcb")
+
 **Opgelet**
 
-Wees voorzichtig wanneer je de pcb breadboard en de Dwenguino aan elkaar koppelt of van elkaar haalt. De pinnen kunnen gemakkelijk buigen als je te veel kracht gebruikt, waardoor de pcb en de Dwenguino niet meer goed op elkaar aansluiten.
+Wees voorzichtig wanneer je de pcb en de Dwenguino aan elkaar koppelt of van elkaar haalt. De pinnen kunnen gemakkelijk buigen als je te veel kracht gebruikt, waardoor de pcb en de Dwenguino niet meer goed op elkaar aansluiten.
 
 ![](embed/DwenguinoPCB1.png "Dwenguino")  
 ![](embed/DwenguinoPCB2.png "Dwenguino")
