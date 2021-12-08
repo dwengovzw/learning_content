@@ -35,7 +35,7 @@ teacher_exclusive: true
 Dwengo heeft voor het 'Sociale robot'-project een kit ontwikkeld met elektronica en gereedschap voor het bouwen van een eigen sociale robot.  
 
 Eén zo'n kit bevat het onderstaande materiaal:
-![](Afbeelding)
+![](embed/Kit.png "Inhoud kit")
 
 ## Materiaal kopen
 Dwengo verkoopt deze kits in sets van 5 SR-kits. Voor meer informatie kan je ons <a href="mailto:info@dwengo.org">hier</a> contacteren.
