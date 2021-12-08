@@ -2,8 +2,8 @@
 hruid: SR_Lkr_Les3-v1
 version: 3
 language: nl
-title: "Les 3"
-description: "Les 3"
+title: "Module 3"
+description: "Module 3"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,7 +32,7 @@ teacher_exclusive: true
 ---
 
 # Lesverloop
-## Les 3: Constructie van de robot (± 3 lesuren)
+## Module 3: Constructie van de robot (± 3 lesuren)
 **Lesfase A - Verzamelen materiaal**
 * De leerlingen beginnen met de constructie van de fysieke robot. Hiervoor moeten ze eerst het materiaal dat ze nodig hebben, verzamelen. De leerlingen worden aangemoedigd om hierbij creatief uit de hoek te komen.
 

@@ -2,8 +2,8 @@
 hruid: SR_Lkr_Les4-v1
 version: 3
 language: nl
-title: "Les 4"
-description: "Les 4"
+title: "Module 4"
+description: "Module 4"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,7 +32,7 @@ teacher_exclusive: true
 ---
 
 # Lesverloop
-## Les 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
+## Module 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
 **Lesfase A - Creatieve opdrachten**
 * Laat de leerlingen hun creatieve opdrachten voorstellen. Geef hen indien nodig nog wat tijd om dit voor te bereiden in de les.
 

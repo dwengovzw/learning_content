@@ -34,6 +34,8 @@ teacher_exclusive: false
 # Wat zijn sociale robots?
 ## Sociale robots
 
+*Sociale robots zijn robots die kunnen communiceren met mensen. Ze worden in onze samenleving in uiteenlopende gedaantes ingezet in verschillende sectoren, zoals de zorgsector en de horeca.*  
+
 In het rusthuis worden sociale robots gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. In het ziekenhuis worden ze ingezet bij revalidatieoefeningen. Sociale robots kunnen ook thuis ingezet worden, bijvoorbeeld om mensen te herinneren aan het nemen van hun medicatie waardoor ze langer  thuis kunnen blijven wonen, of bijvoorbeeld om kinderen te leren omgaan met hun diabetes.  
 
 
