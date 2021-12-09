@@ -55,9 +55,6 @@ Het voordeel van een pcb te gebruiken is dat de connectoren al gelabeld zijn met
 
 Wees voorzichtig wanneer je de pcb en de Dwenguino aan elkaar koppelt of van elkaar haalt. De pinnen kunnen gemakkelijk buigen als je te veel kracht gebruikt, waardoor de pcb en de Dwenguino niet meer goed op elkaar aansluiten.
 
-![](embed/DwenguinoPCB1.png "Dwenguino")  
-![](embed/DwenguinoPCB2.png "Dwenguino")
-
 ### Bedrading
 Bij het inpluggen van je pinnen, is het belangrijk dat je de juiste zaken met elkaar verbindt. De sensoren en actuatoren hebben bij hun connectoren zaken zoals '+', '-', 'GND' staan en het is belangrijk dat je deze met de overeenkomstige pin op de pcb verbindt.
 

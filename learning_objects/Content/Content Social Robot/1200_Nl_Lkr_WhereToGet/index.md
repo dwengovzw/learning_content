@@ -34,7 +34,8 @@ teacher_exclusive: true
 # Logistiek SR-kits
 Dwengo heeft voor het 'Sociale robot'-project een kit ontwikkeld met elektronica en gereedschap voor het bouwen van een eigen sociale robot.  
 
-Eén zo'n kit bevat het onderstaande materiaal:
+Eén zo'n kit bevat het onderstaande materiaal:  
+
 ![](embed/Kit.png "Inhoud kit")
 
 ## Materiaal kopen
