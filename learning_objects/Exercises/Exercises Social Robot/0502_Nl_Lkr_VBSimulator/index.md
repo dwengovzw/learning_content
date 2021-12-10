@@ -33,32 +33,35 @@ teacher_exclusive: true
 # Voorbereiding - Simulator
 ## minstens 1.5 uur tijdens de les
 
-### Wat gebeurt er in de klas?
-Het is niet de bedoeling dat je de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
-
-Er is wat ondersteuning voorzien voor de leerlingen in het leerpad zelf, waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. De voorbereidende leerobjecten omvatten:
-
-1. Hun naam schrijven op het lcd
-2. Pauzes tussen handelingen inlassen
-3. De ledjes laten branden
-4. De ledmatrices uitproberen
-5. Sensoren laten uitlezen
-6. Keuzestructuren (if - else)
-
-*Tip*: Laat de leerlingen eerst een model van de robot maken in de simulator voor ze beginnen programmeren.
-
-
 ### Voorbereiding
 
-We raden aan dat jij, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-traject doorneemt om de leerlingen optimaal te kunnen begeleiden. Deze behandelen de volgende elementen:  
+We raden aan dat jij, als leerkracht, minstens de basisoefeningen doorneemt om de leerlingen optimaal te kunnen begeleiden. Deze behandelen de volgende elementen:  
 
-* lcd-scherm
+* Lcd-scherm
 * Wacht
-* Leds
 * Ledmatrices
+* Dc-motoren
+* Servomotoren
 * Keuzestructuur: Als-Dan
 * Keuzestructuur: Als-Dan-Anders
 
+In dit leerpad werden de *voorbeelden* voor de essentiële blokken reeds opgenomen. Om dit daadwerkelijk in te oefenen, verwijzen we je naar het *StartToDwenguino*-leerpad.
 
-In dit leerpad werden de *voorbeelden* voor de essentiële blokken reeds opgenomen. Om dit in te oefenen, verwijzen we je naar het *StartToDwenguino*-traject.
+### Wat gebeurt er in de klas?
+Het is niet de bedoeling dat je de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
+
+Er zijn enkele oefeningen, waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. Hun oefeningen omvatten:
+
+1. Hun naam schrijven op het lcd
+2. Pauzes tussen handelingen inlassen
+3. Sensoren laten uitlezen
+4. De servomotoren aansturen
+5. De DC-motoren aansturen
+6. Keuzestructuren (Als-Dan)
+
+Wanneer de voorbereidende oefeningen afgewerkt zijn, kunnen ze hun eigen robot beginnen programmeren.  
+Laat hen eerst het lichaam van de robot programmeren vooraleer ze beginnen met het programmeren van de handelingen!
+
+
+
 
