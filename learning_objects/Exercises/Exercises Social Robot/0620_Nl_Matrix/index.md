@@ -31,6 +31,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Matrices
+## Uitleg led-matrix
 
 ### Coming Soon

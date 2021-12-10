@@ -37,4 +37,6 @@ Het lcd-scherm kan je gebruiken om tekst te tonen. Dit kan bijvoorbeeld handig z
 
 Op het lcd-scherm van de Dwenguino passen maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm zijn ook aanpasbaar, maar deze worden hier niet verder behandeld.
 
+Je geeft tekst voor elke lijn apart in. Om beide lijnen te gebruiken, zal je dus twee lcd-blokken moeten gebruiken!
+
 ![](embed/Afb1.png "Afbeelding lcd")
