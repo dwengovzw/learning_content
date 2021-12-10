@@ -37,4 +37,4 @@ OPGAVE 3
 
 Plaats de tekst nu in het midden van het lcd-scherm.
 
-Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 5 plaatsen opnaar rechts.
+Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 5 plaatsen op naar rechts.

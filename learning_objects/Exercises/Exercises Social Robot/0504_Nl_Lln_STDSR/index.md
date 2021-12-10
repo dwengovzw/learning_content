@@ -2,7 +2,7 @@
 hruid: SR_STD-v1
 version: 3
 language: nl
-title: "StartToDwenguino Basis"
+title: "Onderdelen simulator"
 description: "Dwengo simulator"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # Simulator
-## StartToDwenguino
+## Onderdelen simulator
 
 Het ontwerpen en programmeren van de robot gebeurt in de Dwengo-simulator. Je vindt de online programmeeromgeving met simulator via de knop 'Simulator' rechtsbovenaan in dit leerpad. Momenteel wordt de simulator ondersteund op de meest recente versies van Google Chrome en Firefox. Het volgende filmpje vat het gebruik van de simulator samen. Onder het filmpje vind je de verschillende aspecten nog eens uitvoerig uitgelegd.
 

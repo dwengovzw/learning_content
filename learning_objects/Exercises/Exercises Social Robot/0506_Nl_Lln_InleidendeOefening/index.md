@@ -43,10 +43,13 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 * Ga in de categorie ![alt](embed/Uitvoer.png "Afb. Uitvoer") op zoek naar dit blok:  
 
 
-![alt](embed/lcd.png "Afb. lcd")
+![alt](embed/LCD-scherm.png "Afb. lcd")
 
 
-* Sleep dit blok naar het codeveld en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.
+* Sleep dit blok naar het codeveld en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.  
+
+
+![](embed/LCD-schermVast.png "Afb. lcd vast")
 
 * Je schreef zonet je eerste programma!
 

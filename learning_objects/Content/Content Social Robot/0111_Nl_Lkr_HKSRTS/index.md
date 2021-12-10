@@ -2,7 +2,7 @@
 hruid: SR_Lkr_HKSRTS-v1
 version: 3
 language: nl
-title: "Hoe komen sociale robots tot stand?"
+title: "Het ontwerpproces"
 description: "Wat zijn sociale robots?"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Hoe komen sociale robots tot stand?
+# Het ontwerpproces
 ## 10 - 20 minuten in de klas
 Nu de leerlingen een ruw concept hebben van wat sociale robots zijn, kan je een korte brainstorm houden met de klas om te zien of ze zelf het proces voor het bouwen van zo'n sociale robot kunnen opstellen.
 
@@ -44,3 +44,5 @@ Het proces in dit leerpad gaat als volgt:
 6. Elektrische schakelingen maken
 7. Testen en debuggen van de robot
 8. Afwerken van de robot
+
+Je kan al aangeven dat het proces dat ze zullen doorlopen in verschillende stappen verloopt. Het is nu aan hen om te bedenken wat deze stappen gaan inhouden.

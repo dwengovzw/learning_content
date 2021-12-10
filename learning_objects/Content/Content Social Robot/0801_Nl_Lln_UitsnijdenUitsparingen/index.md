@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Bouwen van de robot
+# Bouwen van de fysieke robot
 ## Uitsnijden van de uitsparingen
 
 ### Markeren van de doos
