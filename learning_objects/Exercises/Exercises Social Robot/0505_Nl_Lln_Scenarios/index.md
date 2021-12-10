@@ -41,17 +41,8 @@ In de simulator zijn er verschillende programmeerscenario's voorzien:
 
 * een **sociale robot**: ontwerp en programmeer een sociale robot;
 
-* een **plotter**: genereer graffitikunst door twee stappenmotoren te programmeren.
-
-
-### 'Rijdende robot'-scenario
-
-In het 'rijdende robot'-scenario staat er al een rijdende robot klaar op het simulatieveld. Je hoeft dus enkel nog de robot aan te sturen met een programma uit het codeveld.
-
 
 ### 'Sociale robot'-scenario
-
-Het scenario van de sociale robot ziet er zo uit:
 
 ![](embed/ScenarioSR.png "Scenario Sociale Robot")
 
@@ -78,7 +69,7 @@ Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robot
 
 **Voorbeeld**
 
-Servomotor en ledmatrix werden toegevoegd aan het simulatieveld en versleept naar hun gewenste locatie:
+1 servomotor en 2 ledmatrices werden toegevoegd aan het simulatieveld en versleept naar hun gewenste locatie:
 
 ![](embed/SRVoorbeeld.png "Onderdelen")
 

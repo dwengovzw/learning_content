@@ -31,16 +31,15 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Bouwen van de robot
+# Bouwen van de fysieke robot
 ## Uitsnijden van de uitsparingen
 
 ### Het moederbord
-Dwenguino & pcb
+Je zal gebruik maken van de Dwenguino en het bijhorende uitbreidingsbord. Bij het snijden van de uitsparingen zal je hier dus ook plaats voor moeten voorzien!  
+
+Let erop dat deze toegankelijk zijn zodat de USB-kabel comfortabel kan verbonden worden.
 
 ### Hoe bedraden
-
-
-
 ## Bedrading
 
 Vooraleer je de onderdelen bevestigt op het lichaam van de robot, kan je best eerst de bedrading tussen het Dwenguino-borden de andere componenten voorzien. Dit kan noodzakelijk zijn, omdat er soms maar weinig ruimte overblijft om de draden aan te sluiten als je de component bevestigd hebt.

@@ -44,4 +44,4 @@ Gaan we met zijn allen afwachten tot de robots er zijn of willen we invloed hebb
 Wie wil meedenken om de robots van de toekomst vorm te geven, heeft zeker inzicht nodig in de werking van een robot. Bovendien is dat inzicht voor elk van ons belangrijk om geen onrealistische verwachtingen te hebben en de handelingen van robots te kunnen begrijpen.
 
 ![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
-<sub>© Lukas via Unsplash</sub>
+<sub>Onthaalrobot Pepper (© Lukas via Unsplash)</sub>

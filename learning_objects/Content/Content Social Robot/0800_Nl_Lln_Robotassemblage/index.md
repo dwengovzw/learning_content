@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Bouwen van de robot
+# Bouwen van de fysieke robot
 
 Deze les ga je eindelijk aan de slag met het materiaal!  
 

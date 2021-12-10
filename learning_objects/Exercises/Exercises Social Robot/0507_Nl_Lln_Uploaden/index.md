@@ -37,8 +37,9 @@ Het is belangrijk dat je alle stappen doorloopt zoals getoond in het filmpje!
 
 * schrijf het programma;
 * download het programma;
-* open downloads, daar staat nu een .dw bestand
-* sluit de Dwenguino aan en druk op RESET + ZUID, laat vervolgens de resetknop los en vervolgens ook de ZUID-knop;
+* open downloads, daar staat nu een .dw bestand;
+* sluit de Dwenguino aan met de USB-kabel;
+* druk op RESET + ZUID, laat vervolgens de resetknop los en vervolgens ook de ZUID-knop;
 * de Dwenguino staat in de verkenner tussen je mappen als USB-stick;
 * kopieer het .dw bestand naar de Dwenguino;
 * druk op RESET.

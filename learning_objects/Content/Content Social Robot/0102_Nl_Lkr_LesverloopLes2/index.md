@@ -38,13 +38,13 @@ teacher_exclusive: true
 * Na de brainstorm moeten ze een eindontwerp voorleggen. Ze moeten hierbij rekening houden met de opgelegde criteria, de berperkingen van de kit, hun eigen capaciteiten, de beschikbare tijd, en eventuele andere keuzes die ze zelf maken.
 
 
-**Lesfase B - DwenguinoBlockly**
+**Lesfase B - Verkennen simulator**
 * Indien een groepje snel tot een ontwerp komt, kunnen ze al beginnen aan de tweede lesfase. Laat hen de simulator ontdekken en de verschillende functionaliteiten die ze nodig hebben, uitproberen. Wanneer de leerlingen de basis van de simulator onder de knie hebben, kunnen ze de rest ontdekken tijdens het maken van hun eerste virtuele robot.
 * De leerlingen ontwerpen het lichaam van de robot in het simulatieveld van de programmeeromgeving. De leerlingen beschikken dan over een virtuele robot. 
 * De leerlingen stellen een algoritme op en schrijven het neer, bv. in pseudocode (in de vorm van zinnen) of a.d.h.v. een flowchart.
 
 
-**Lesfase C - Programmeren**
+**Lesfase C - Virtuele robot**
 * Laat de leerlingen stapsgewijs werken bij het programmeren van de virtuele robot. Ze moeten deelproblemen formuleren en deze losstaand van elkaar oplossen. Test deze deelprogramma's, verhelp eventuele fouten, en voeg ze pas samen tot het uiteindelijke programma als ze alle werken.  
 Het proces van testen en debuggen is hierbij zeer belangrijk. Programmeren is niet eenvoudig en de leerlingen moeten ervaren dat je om een goed programma te schrijven, veel moet testen en aanpassen tot je het gewenste resultaat bekomt.
 
