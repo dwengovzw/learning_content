@@ -35,6 +35,6 @@ teacher_exclusive: false
 
 OPGAVE 1
 
-Laat 'Welkom robot' op het lcd-scherm verschijnen.
-
+Laat 'Welkom robot' op het lcd-scherm verschijnen.  
+---
 De tekst van het lcd-scherm kan je aanpassen. De twee nullen betekenen 'eerste lijn' en 'eerste karakter'.

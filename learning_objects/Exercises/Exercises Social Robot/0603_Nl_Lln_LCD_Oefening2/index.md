@@ -35,7 +35,7 @@ teacher_exclusive: false
 
 OPGAVE 2
 
-Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.
-
+Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.  
+---
 Om de tekst in 2 rijen te splitsen, heb je een tweede *'lcd-scherm'-blok* nodig.
 Verander je bij 'op rij:' de 0 in een 1, dan komt je tekst op de tweede lijn.

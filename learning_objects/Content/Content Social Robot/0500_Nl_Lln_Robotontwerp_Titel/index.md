@@ -2,8 +2,8 @@
 hruid: SR_Robotontwerp-v1
 version: 3
 language: nl
-title: "Robotontwerp"
-description: "Robotontwerp inleiding"
+title: "Brainstorm"
+description: "Brainstorm"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

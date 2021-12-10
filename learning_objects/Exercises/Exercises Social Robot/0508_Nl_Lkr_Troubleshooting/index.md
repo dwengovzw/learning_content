@@ -38,9 +38,7 @@ Telkens je aanpassingen doet aan een programma of als je een nieuw programma heb
 
 ![](@youtube/https://www.youtube.com/embed/hmr5smg7l8Y "voorbeeld")
 
-Afhankelijk van het gekozen scenario zal je een andere simulatie te zien krijgen. Zoals al vermeld werd in **Robotontwerp** zal je vooral gebruikmaken van het ‘rijdende robot’-scenario en het ‘sociale robot’-scenario:
-*  Het ‘rijdende robot’-scenario laat toe om simulaties op het microcontrollerbord en op een rijdende robot met twee dc-motoren te visualiseren in het simulatieveld. 
-* Het ‘sociale robot’-scenario bevat geen Dwenguino in het simulatieveld. Daar zal je enkel code kunnen uitvoeren op de robotonderdelen die je zelf aan het simulatieveld hebt toegevoegd.
+Het ‘sociale robot’-scenario bevat geen Dwenguino in het simulatieveld. Daar zal je enkel code kunnen uitvoeren op de robotonderdelen die je zelf aan het simulatieveld hebt toegevoegd.
 
 
 ## Debuggen
