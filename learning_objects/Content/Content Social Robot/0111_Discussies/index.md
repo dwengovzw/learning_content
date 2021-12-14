@@ -44,10 +44,7 @@ Indien je niet teveel randinformatie wilt geven, maar wel enkele discussies wilt
 
 *Mag een fabrikant je gesprekken met je virtuele assistent gebruiken om zijn spraaktechnologie te verbeteren?*  
 
-*Mag men een robothond schoppen?*  
-
-**Bekijk eens het [filmpje](https://www.youtube.com/watch?v=M8YjvHYbZ9w "Robothond")**
-![](@youtube/https://www.youtube.com/embed/M8YjvHYbZ9w "robothond")  
+*Mag men een robothond schoppen?*   
 
 *Zou jij liever een injectie krijgen van een robot of van een verpleegkundige?*  
 
