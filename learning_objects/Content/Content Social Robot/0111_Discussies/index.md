@@ -34,25 +34,22 @@ teacher_exclusive: true
 # Wat zijn sociale robots?
 Indien je niet teveel randinformatie wilt geven, maar wel enkele discussies wilt aanhalen, vind je hier de discussies van de bovenstaande leerobjecten nog eens samengevat terug.  
 
+## Discussies
 
-## Discussies  
-
-*Discussie Paro*
---- 
 *Is een sociale robot goed gezelschap voor een eenzame bejaarde?*  
---- 
+
 *Is een stofzuigerrobot een sociale robot?*  
---- 
+
 *Is het oké dat kinderen en bejaarden hun volledige leven vertellen aan een sociale robot die dit kan opslaan?*  
---- 
+
 *Mag een fabrikant je gesprekken met je virtuele assistent gebruiken om zijn spraaktechnologie te verbeteren?*  
---- 
+
 *Mag men een robothond schoppen?*  
 
 **Bekijk eens het [filmpje](https://www.youtube.com/watch?v=M8YjvHYbZ9w "Robothond")**
 ![](@youtube/https://www.youtube.com/embed/M8YjvHYbZ9w "robothond")  
---- 
+
 *Zou jij liever een injectie krijgen van een robot of van een verpleegkundige?*  
---- 
+
 *Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?*  
 
