@@ -39,21 +39,21 @@ Let erop dat deze toegankelijk zijn zodat de USB-kabel comfortabel kan verbonden
 
 ## Bedrading en monteren
 
-Vooraleer je de onderdelen bevestigt op het lichaam van de robot, kan je best eerst de bedrading tussen het Dwenguino-borden de andere componenten voorzien. Dit kan noodzakelijk zijn, omdat er soms maar weinig ruimte overblijft om de draden aan te sluiten als je de component bevestigd hebt.
+Vooraleer je de onderdelen bevestigt op het lichaam van de robot, kan je best eerst de bedrading tussen de Dwenguino en de andere componenten voorzien. Dit kan noodzakelijk zijn, omdat er soms maar weinig ruimte overblijft om de draden aan te sluiten als je de component bevestigd hebt.
 
 Onderstaande afbeelding toont welke onderdelen aanwezig zijn op de Dwenguino en welke actuatoren hier rechtstreeks op kunnen worden aangesloten.
 
 ![](embed/Assemblage1.png "Dwenguino")
 
-*Op de Dwenguino kunnen rechtstreeks twee dc-motoren en twee servomotoren worden aangesloten. Het contrastvan het lcd-scherm kan worden aangepast. Je kan het microcontrollerplatform van stroom voorzien via de USB-kabel of een adapter.*
+*Op de Dwenguino kunnen rechtstreeks twee dc-motoren worden aangesloten. Het contrast van het lcd-scherm kan worden aangepast. Je kan de Dwenguino van stroom voorzien via de USB-kabel of een adapter.*
 
-Op de *extension connector* zal je het uitbreidingsbord kunnen aansluiten (zie afbeelding). Dit is speciaal op maat gemaakt voor de sociale robot en hierop zal je alle andere sensoren en actuatoren kunnen aansluiten.  
+Op de *extension connector* zal je het uitbreidingsbord kunnen aansluiten (zie afbeelding). Dit is speciaal op maat gemaakt voor de sociale robot en je zal er alle andere sensoren en actuatoren kunnen aansluiten.  
 
 ![](embed/pcb.png "Uitbreidingsbord")
 
 ### Het uitbreidingsbord
 
-Het voordeel van een uitbreidingsbord te gebruiken is dat de connectoren al gelabeld zijn met hun functie. 
+Het voordeel van een uitbreidingsbord te gebruiken is dat bij de connectoren vermeld staat voor welke sensoren of actuatoren ze bestemd zijn. 
 
 ![](embed/pcb-inkscape.png "Figuur uitbreidingsbord")
 
@@ -62,7 +62,7 @@ Het voordeel van een uitbreidingsbord te gebruiken is dat de connectoren al gela
 Wees voorzichtig wanneer je het uitbreidingsbord en de Dwenguino aan elkaar koppelt of van elkaar haalt. De pinnen kunnen gemakkelijk buigen als je te veel kracht gebruikt, waardoor het uitbreidingsbord en de Dwenguino niet meer goed op elkaar aansluiten.
 
 ### Bedrading
-Bij het inpluggen van je pinnen, is het belangrijk dat je de juiste zaken met elkaar verbindt. De sensoren en actuatoren hebben bij hun connectoren zaken zoals '+', '-', 'GND' staan en het is belangrijk dat je deze met de overeenkomstige pin op het uitbreidingsbord verbindt.
+Bij het inpluggen van je pinnen, is het belangrijk dat je de juiste zaken met elkaar verbindt. De sensoren en actuatoren hebben bij hun connectoren zaken zoals '+', '-', 'GND' staan en het is ook belangrijk dat je deze met de overeenkomstige pin op het uitbreidingsbord verbindt.
 
 M.b.v. [deze fiches](embed/Leerlingenfiches.pdf "fiches") kan je dit gemakkelijk doen.  
 

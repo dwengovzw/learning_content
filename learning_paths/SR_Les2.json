@@ -15,6 +15,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "SR_Brainstorm-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Brainstorm-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "SR_Robotontwerp-v1",
             "version": "3",
             "language": "nl"

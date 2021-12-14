@@ -36,7 +36,7 @@ teacher_exclusive: true
 **Lesfase A - Wat zijn sociale robots?**
 
 *Optie 1*
-* Start de les met een presentatie met foto's van sociale robots die reeds voorkomen in de maatschappij, zoals Pepper, Paro, Aibo of een Hatchimal.
+* Start de les met een presentatie met foto's van sociale robots die reeds voorkomen in de maatschappij, zoals Pepper, Paro, Aibo of een Hatchimal. Je kan deze dan verder analyseren om de sensoren en actuatoren te bespreken (invoer-verwerking-uitvoer).
 
 *Optie 2*
 * Laat de leerlingen een schets maken van de robot van hun dromen. Bespreek nadien klassikaal of daar ook sociale robots tussen zitten. Bespreek tot slot ook enkele sociale robots die reeds voorkomen in de maatschappij.

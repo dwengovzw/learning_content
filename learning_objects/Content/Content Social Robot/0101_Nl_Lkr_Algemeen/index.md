@@ -69,3 +69,5 @@ Het stopt hier niet mee. De leerlingen  bouwen hun robot ook 'in het echt'. Het 
 De verschillende modules zijn zo ontwikkeld dat ze goed aansluiten bij de nieuwe eindtermen voor de eerste graad secundair onderwijs, namelijk de eindtermen 'Digitale competenties' en de eindtermen 'Technologie'.
 
 In het bijzonder komen tijdens het programmeer- en bouwproces verschillende aspecten van computationeel denken aan bod. 
+
+![](embed/Poster.png "Poster computationeel denken")

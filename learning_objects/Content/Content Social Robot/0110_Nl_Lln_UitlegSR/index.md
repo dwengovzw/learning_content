@@ -34,7 +34,13 @@ teacher_exclusive: false
 # Wat zijn sociale robots?
 ## Sociale robots in de toekomst
 
-*Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van de sociale robots meer mogelijk worden in de toekomst.*
+*Robots duiken her en der op, zoals een stofzuigerrobot bij je thuis, een robot in het hotel die de klanten verwelkomt, een robot voor de ontmijningsdienst, een robot in de autofabriek en een operatierobot.*  
+
+*Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van de sociale robots meer mogelijk worden in de toekomst.*  
+
+*Hoe zal de toekomst eruitzien? Zullen robots in ons dagelijks leven even onmisbaar worden als onze smartphone?*  
+
+Hierover bestaan nog veel vraagtekens! Dromen over een toekomst met robots is alvast spannend: robots om ons te vervoeren en om ons te entertainen, robots voor de klas, robots voor een betere gezondheidszorg en misschien zelfs een robot als collega.
 
 In de zorgsector evolueert men naar robots die niet enkel gezelschap bieden, maar ook de gezondheid van de mensen in de gaten houden.  
 
@@ -54,5 +60,5 @@ Men experimenteert ook met sociale vuilnisbakrobots, zoals de Sociable Trash box
 *Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?*  
 
 
-![© Francis wyffels](embed/Udavi.jpg "© Francis wyffels")
-<sub>© Francis wyffels</sub>
+![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
+<sub>Onthaalrobot Pepper (© Lukas via Unsplash)</sub>
