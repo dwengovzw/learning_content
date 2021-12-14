@@ -28,11 +28,14 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Wat zijn sociale robots?
-## Discussies
+Indien je niet teveel randinformatie wilt geven, maar wel enkele discussies wilt aanhalen, vind je hier de discussies van de bovenstaande leerobjecten nog eens samengevat terug.  
+
+
+## Discussies  
 
 *Discussie Paro*
 --- 

@@ -55,9 +55,10 @@ Er zijn enkele oefeningen, waarmee ze op een onderzoekende manier gaan werken. M
 1. Hun naam schrijven op het lcd
 2. Pauzes tussen handelingen inlassen
 3. Sensoren laten uitlezen
-4. De servomotoren aansturen
-5. De DC-motoren aansturen
-6. Keuzestructuren (Als-Dan)
+4. De ledmatrices gebruiken
+5. De servomotoren aansturen
+6. De DC-motoren aansturen
+7. Keuzestructuren (Als-Dan)
 
 Wanneer de voorbereidende oefeningen afgewerkt zijn, kunnen ze hun eigen robot beginnen programmeren.  
 Laat hen eerst het lichaam van de robot programmeren vooraleer ze beginnen met het programmeren van de handelingen!

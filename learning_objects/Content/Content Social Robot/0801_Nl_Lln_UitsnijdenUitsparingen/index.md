@@ -35,9 +35,9 @@ teacher_exclusive: false
 ## Uitsnijden van de uitsparingen
 
 ### Markeren van de doos
-Denk goed na over waar je de elektronica gaat bevestigen op de doos. Eens je begint te snijden of prikken, wordt het moeilijk om fouten ongedaan te maken.
+Denk goed na over waar je de elektronica gaat bevestigen op de doos. Eens je begint te snijden of prikken, wordt het moeilijk om fouten ongedaan te maken. Let op dat je (op de doos) voldoende ruimte laat langs de randen van de uitsparingen voor de bedrading.
 
-Om je te helpen, is er een sjabloon voor al het materiaal waarover je beschikt.
+Om je te helpen, is er een sjabloon voor de elektrische onderdelen uit de SR-kit.
 
 ![](embed/Sjabloon.png)
 
@@ -45,9 +45,7 @@ Neem een dunne stift om de correcte plaatsen aan te duiden.
 
 ### Snijden van de uitsparingen
 
-Het uitsnijden kan met een **mesje** gebeuren of door het prikken met de bijgeleverde **priem** in de voorziene gleuven. 
-
-Let op dat je (op de doos) voldoende ruimte laat langs de randen van de uitsparingen voor de bedrading.
+Het uitsnijden kan met een **mesje** gebeuren of door te prikken met de bijgeleverde **priem** in de voorziene gleuven. 
 
 **Veiligheidsinstructies**
 

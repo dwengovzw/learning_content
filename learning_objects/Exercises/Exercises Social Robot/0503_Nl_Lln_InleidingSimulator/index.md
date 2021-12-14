@@ -31,9 +31,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # Simulator
-Het is zover. Je kan eindelijk beginnen aan je robot! Je begint hiervoor best eerst met een simulatie ervan. Deze simulatie zal je maken in de programmeeromgeving die je via de knop 'Simulator' in dit leerpad vindt.
+Het is zover. Je kan eindelijk beginnen aan je robot! Je begint hiervoor best eerst met een simulatie ervan. Deze simulatie zal je maken in [**de programmeeromgeving**](https://blockly.dwengo.org).
 
-Extra informatie over de apparaten die je zal gebruiken kan je [hier](embed/Leerlingenfiches.pdf "fiches") vinden.
+Extra informatie over de elektronica die je zal gebruiken kan je [hier](embed/Leerlingenfiches.pdf "fiches") vinden.
 
 De omgeving gebruikt een grafische programmeertaal en geeft jou de mogelijkheid om een robot te programmeren door de juiste blokken aan elkaar vast te klikken.
 
