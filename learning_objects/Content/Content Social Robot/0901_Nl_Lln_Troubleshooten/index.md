@@ -51,7 +51,7 @@ Je verwisselt de ogen in het programma, zodat ze overeenkomen met de fysieke rob
 Je programmeert de ogen opnieuw, maar nu voor de juiste plaats.  
 
 
-**Voorbeeld 2**
+**Voorbeeld 2**  
 De armpjes van de fysieke robot bewegen niet, terwijl dit in de simulator wel goed functioneerde.  
 
 *Optie 1*
