@@ -40,7 +40,6 @@ We raden aan dat jij, als leerkracht, minstens de basisoefeningen doorneemt om d
 * Lcd-scherm
 * Wacht
 * Ledmatrices
-* Dc-motoren
 * Servomotoren
 * Keuzestructuur: Als-Dan
 * Keuzestructuur: Als-Dan-Anders
@@ -48,20 +47,18 @@ We raden aan dat jij, als leerkracht, minstens de basisoefeningen doorneemt om d
 In dit leerpad werden de *voorbeelden* voor de essentiële blokken reeds opgenomen. Om dit daadwerkelijk in te oefenen, verwijzen we je naar het *StartToDwenguino*-leerpad.
 
 ### Wat gebeurt er in de klas?
-Het is niet de bedoeling dat je de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
+Het is niet de bedoeling dat je de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator vooraleer hen te helpen.
 
 Er zijn enkele oefeningen, waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. Hun oefeningen omvatten:
 
 1. Hun naam schrijven op het lcd
 2. Pauzes tussen handelingen inlassen
-3. Sensoren laten uitlezen
-4. De ledmatrices gebruiken
-5. De servomotoren aansturen
-6. De DC-motoren aansturen
-7. Keuzestructuren (Als-Dan)
+3. De ledmatrices gebruiken
+4. De servomotoren aansturen
+5. Keuzestructuren (Als-Dan)
 
 Wanneer de voorbereidende oefeningen afgewerkt zijn, kunnen ze hun eigen robot beginnen programmeren.  
-Laat hen eerst het lichaam van de robot programmeren vooraleer ze beginnen met het programmeren van de handelingen!
+Laat hen eerst het lichaam van de robot programmeren voor ze beginnen met het programmeren van de handelingen!
 
 
 
