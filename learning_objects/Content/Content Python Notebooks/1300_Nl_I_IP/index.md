@@ -35,4 +35,6 @@ In deze notebook wordt dan ook ruim aandacht besteed aan binaire, tiendelige en 
 
 Met deze notebook kan je illustreren waarom binaire en hexadecimale talstelsels belangrijk zijn in de computerwetenschappen.
 
+'Bouwstenen van digitale systemen' is één van de topics uit de (nieuwe) eindtermen van de tweedeen derde graad. Dit leerpad verduidelijkt alvast hoe jouw computer of smartphone communiceert met de websites die je bezoekt.
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1300 "Notebooks IP-adres")

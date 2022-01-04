@@ -32,5 +32,6 @@ skos_concepts: [
 
 * Leerpad *'Werken met notebooks'*
 * Leerpad *'Spreidingsdiagram'*
-* Een rechte kunnen tekenen (Leerpad *'Rechten'*)
-
+* Leerpad *'Rechten'* - Tekenen van een rechte
+* Leerpad *'Pythagoras* - Definiëren van een functie
+* Leerpad *'Datatypes'* - Werken met NumPy-lijsten en pandas-tabellen

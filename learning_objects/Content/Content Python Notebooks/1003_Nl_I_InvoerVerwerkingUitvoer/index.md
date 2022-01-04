@@ -31,6 +31,6 @@ skos_concepts: [
 
 # Invoer - Verwerking - Uitvoer
 
-In deze notebook leer je hoe je informatie opvraagt bij de gebruik
+In deze notebooks maak je kennis met enkele courante datatypes en leer je hoe je informatie opvraagt bij de gebruiker.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1003 "Notebooks Input Output")
