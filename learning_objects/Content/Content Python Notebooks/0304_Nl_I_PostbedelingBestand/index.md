@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 # Toepassing
 ## Postbedeling uit bestand
-Je hebt reeds de data voor brieven en postpakketten in de periode 2010 - 2015 geanalyseert.  
+Je hebt reeds de data voor brieven en postpakketten in de periode 2010 - 2015 geanalyseerd.  
 Nu ga je deze analyse uitbreiden naar de periode 2004 - 2017. Je zal deze keer echter ook zelf de nodige bestanden moeten inlezen!
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0304 "Notebooks Oefenen met Data")
