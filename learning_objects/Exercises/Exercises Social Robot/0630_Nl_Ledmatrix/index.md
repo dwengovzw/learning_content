@@ -2,9 +2,9 @@
 hruid: SR_Matrix-v1
 version: 3
 language: nl
-title: "Uitleg Matrix"
-description: "Uitleg Matrix"
-keywords: ["StartToDwenguino", "led"]
+title: "Uitleg led-matrix"
+description: "Uitleg led-matrix"
+keywords: ["StartToDwenguino", "led-matrix"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
