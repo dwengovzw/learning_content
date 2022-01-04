@@ -1,10 +1,10 @@
 ---
-hruid: SR_AlsDanAnders-v1
+hruid: SR_SonarVB1-v1
 version: 3
 language: nl
-title: "Uitleg Als - Dan - Anders"
-description: "Uitleg Als - Dan - Anders"
-keywords: ["StartToDwenguino", "AlsDanAnders"]
+title: "Voorbeeld sonar-sensor 1"
+description: "Uitleg sonar-sensor"
+keywords: ["StartToDwenguino", "sonar-sensor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,6 +31,14 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Als - Dan - Anders
+## Voorbeeld sonar-sensor
+OPGAVE 1
+-
 
-### Coming Soon
+Oplossing:
+
+![blockly](@learning-object/SRM_LED1-v1/nl/3)
+
+-
+
+*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

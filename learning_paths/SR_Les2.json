@@ -330,7 +330,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "SR_AlsDanAnders-v1",
+            "hruid": "SR_Servomotoren-v1",
             "version": "3",
             "language": "nl"
           }
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "learningobject_hruid": "SR_AlsDanAnders-v1",
+      "learningobject_hruid": "SR_Servomotoren-v1",
       "version": "3",
       "language": "nl"
     } 
