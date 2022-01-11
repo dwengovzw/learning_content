@@ -31,6 +31,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Als - Dan
+## Keuzestructuren: Als - Dan
+Om van je robot een sociale robot te maken, zal je voorwaarden aan acties moeten koppelen. Dit houdt in dat je eerst iets moet doen met de robot voor de robot een actie uitvoert. Een schuifdeur gaat bijvoorbeeld enkel open wanneer er iemand dicht genoeg is om door de sensoren opgemerkt te worden.
 
-### Coming Soon
+In het volgende onderdeel wordt dit kort uitgelegd.

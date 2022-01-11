@@ -32,5 +32,12 @@ teacher_exclusive: false
 ---
 
 ## Sonar-sensor
+De sonar-sensor kan je gebruiken om de robot te laten 'zien'. Deze sensor meet de afstand tussen zichzelf en objecten. Als er iets op een bepaalde afstand van de robot gedetecteerd wordt, kan je hieraan bepaalde acties hangen. 
 
-### Coming Soon
+### In het echt
+
+![](embed/sonar.png "Sonar-sensor")
+
+### In de simulator
+
+![](embed/Sonarsim.png "Sonar-sensor simulator")

@@ -33,4 +33,12 @@ teacher_exclusive: false
 
 ## Led-matrix
 
-De led-matrix is een 8x8
+De led-matrix is een vierkant van 8 op 8 ledlampjes die samen een figuur kunnen vormen. In de simulator kan je instellen welke lampjes wanneer aan en uit zijn. Zo kan je ogen, hartjes, letters ... maken.
+
+### In het echt
+
+![](embed/ledmatrix.png "led-matrix")
+
+### In de simulator
+
+![](embed/led_matrix.png "led-matrix simulator")
