@@ -31,6 +31,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Uitleg led-matrix
+## Led-matrix
 
-### Coming Soon
+De led-matrix is een 8x8

@@ -1,10 +1,10 @@
 ---
-hruid: SR_Opruimen-v1
+hruid: PN_ProgrammeerelementenB-v1
 version: 3
 language: nl
-title: "Opruimen"
-description: "T"
-keywords: ["Sociale Robot"]
+title: "Inleiding"
+description: "Inleiding"
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [14, 15, 16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -22,15 +22,12 @@ return_value: {
         att2: test2
     }
 }
-content_location: example-location
 estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
 ---
-
-# Opruimen
-
-Jammer genoeg moet je op het einde van de rit je robot afbreken ... Wees gerust, je kan het meeste houden! Enkel de elektronica zal je moeten eruit halen en opbergen in de doos. Je kan eventueel de sensoren namaken in papier of karton om de looks na te bootsen.
+# Inleiding
+In de eindtermen wordt gewag gemaakt van sequentie, herhalingsstructuur en keuzestructuur: de principes van programmeren.  
+Maar om je eigen code op te stellen is het niet voldoende dat je de principes kent; ook andere programmeerelementen zijn van belang, zoals variabelen, datastructuren, operatoren en functies.
