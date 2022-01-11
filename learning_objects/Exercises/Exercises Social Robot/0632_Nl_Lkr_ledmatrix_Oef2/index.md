@@ -1,5 +1,5 @@
 ---
-hruid: SR_MatrixVB2-v1
+hruid: SR_MatrixOef2-v1
 version: 3
 language: nl
 title: "Voorbeeld led-matrix 1"
