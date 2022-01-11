@@ -36,12 +36,13 @@ teacher_exclusive: false
 ### Voorbeeld handjes op en neer
 Laat je niet misleiden. Dit is niet hetzelfde als de vorige oefening. I.p.v. gebruik te maken van de voorgeprogrammeerde functie voor het zwaaien, stel je nu beide handen zelfstandig in. Je kan dus beide handen onafhankelijk van elkaar bewegen.
 
-OPGAVE 2
+OPGAVE 2  
+
 Programmeer beide handen zodat ze op en neer kunnen bewegen in intervallen van 1 seconde.
 
 Laat je niet misleiden! Dit is niet hetzelfde als de vorige oefening. I.p.v. gebruik te maken van de voorgeprogrammeerde functie voor het zwaaien, programmeer je nu zelf de op en neer beweging voor elke hand. Je kan dus beide handen onafhankelijk van elkaar bewegen of kiezen om de hand in een bepaalde positie stil te houden.
 
-Oplossing:
+Oplossing:  
 
 ![blockly](@learning-object/SRM_Servo2-v1/nl/3)
 
