@@ -1,5 +1,5 @@
 ---
-hruid: SR_SonarVB1-v1
+hruid: SR_SonarOef1-v1
 version: 3
 language: nl
 title: "Voorbeeld sonar-sensor 1"
