@@ -2,7 +2,7 @@
 hruid: SR_MatrixOef2-v1
 version: 3
 language: nl
-title: "Voorbeeld led-matrix 1"
+title: "Oefening led-matrix 1"
 description: "Uitleg led-matrices"
 keywords: ["StartToDwenguino", "led-matrix"]
 educational_goals: [
@@ -32,13 +32,10 @@ teacher_exclusive: false
 ---
 
 ## Voorbeeld led-matrix
-
 OPGAVE 2
+
 Programmeer 2 led-matrices zodat ze op 2 ogen lijken.  
 
-Oplossing:  
-
-![blockly](@learning-object/SRM_ledmatrix2-v1/nl/3)
 
 Je kan eventueel bewegende ogen maken door verschillende combinaties van ogen te maken en er "*wacht*"-blokken tussen te plaatsen!  
 

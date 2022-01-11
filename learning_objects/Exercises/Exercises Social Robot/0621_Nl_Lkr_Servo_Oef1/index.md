@@ -2,7 +2,7 @@
 hruid: SR_ServoOef1-v1
 version: 3
 language: nl
-title: "Voorbeeld servomotor 1"
+title: "Oefening servomotor 1"
 description: "Uitleg servomotor"
 keywords: ["StartToDwenguino", "Servomotor"]
 educational_goals: [
@@ -31,15 +31,11 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Servomotor
-
-OPGAVE 1  
+### Servomotor
+OPGAVE 1
 
 Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
 
-Oplossing:  
-
-![blockly](@learning-object/SRM_Servo1-v1/nl/3)
 
 Je robot kan nu zwaaien met zijn armen.
 

@@ -32,11 +32,11 @@ teacher_exclusive: true
 ---
 
 ## Voorbeeld led-matrix
-
 OPGAVE 1
+
 Laat een hartje verschijnen op een ledmatrix in de simulator.
 
-Oplossing:
+Oplossing:  
 
 ![blockly](@learning-object/SRM_ledmatrix1-v1/nl/3)
 

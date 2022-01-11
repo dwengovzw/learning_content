@@ -2,7 +2,7 @@
 hruid: SR_SonarOef1-v1
 version: 3
 language: nl
-title: "Voorbeeld sonar-sensor 1"
+title: "Oefening sonar-sensor 1"
 description: "Uitleg sonar-sensor"
 keywords: ["StartToDwenguino", "sonar-sensor"]
 educational_goals: [
@@ -31,13 +31,11 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Voorbeeld sonar-sensor
+### Voorbeeld sonar-sensor
 OPGAVE 1
+
 Voor we de sonar-sensor gebruiken, moeten we deze eerst testen. Schrijf een programma om de sonar-sensor uit te lezen.
 
-Oplossing:
-
-![blockly](@learning-object/SRM_Sonar1-v1/nl/3)
 
 Op het lcd-scherm verschijnen nu de waarden die de sonar-sensor teruggeeft. Indien dit niet werkt, moet je troubleshooten om het probleem te vinden.
 - Is het het juiste programma?

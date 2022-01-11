@@ -31,12 +31,12 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-## Servomotor
+### Servomotor
 
-### Voorbeeld handjes op en neer
+#### Voorbeeld handjes op en neer
 Laat je niet misleiden. Dit is niet hetzelfde als de vorige oefening. I.p.v. gebruik te maken van de voorgeprogrammeerde functie voor het zwaaien, stel je nu beide handen zelfstandig in. Je kan dus beide handen onafhankelijk van elkaar bewegen.
 
-OPGAVE 2  
+OPGAVE 2
 
 Programmeer beide handen zodat ze op en neer kunnen bewegen in intervallen van 1 seconde.
 

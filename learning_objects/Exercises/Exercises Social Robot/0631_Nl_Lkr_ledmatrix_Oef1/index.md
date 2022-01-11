@@ -2,7 +2,7 @@
 hruid: SR_MatrixOef1-v1
 version: 3
 language: nl
-title: "Voorbeeld led-matrix 1"
+title: "Oefening led-matrix 1"
 description: "Uitleg led-matrices"
 keywords: ["StartToDwenguino", "led-matrix"]
 educational_goals: [
@@ -31,14 +31,10 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Voorbeeld led-matrix
-
-OPGAVE 1  
+### Voorbeeld led-matrix
+OPGAVE 1
 
 Laat een hartje verschijnen op een ledmatrix in de simulator.
 
-Oplossing:  
-
-![blockly](@learning-object/SRM_ledmatrix1-v1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

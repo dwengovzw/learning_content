@@ -31,9 +31,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-## Servomotor
-
-OPGAVE 1  
+### Servomotor
+OPGAVE 1
 
 Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
 
