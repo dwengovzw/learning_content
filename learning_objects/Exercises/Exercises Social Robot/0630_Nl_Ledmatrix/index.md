@@ -2,7 +2,7 @@
 hruid: SR_Matrix-v1
 version: 3
 language: nl
-title: "Uitleg led-matrix"
+title: "Uitleg Led-matrix"
 description: "Uitleg led-matrix"
 keywords: ["StartToDwenguino", "led-matrix"]
 educational_goals: [
