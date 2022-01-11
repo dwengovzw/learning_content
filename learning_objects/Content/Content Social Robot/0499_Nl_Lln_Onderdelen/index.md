@@ -36,6 +36,15 @@ teacher_exclusive: false
 
 Hieronder staan de verschillende robotonderdelen opgelijst die Dwengo in het 'Sociale robot'-pakket voorziet.
 
+## Sensoren (invoer)
+
+|   **Naam**                    |   **Afbeelding**              |   **Beschrijving**            |
+|   -------------------------   |   --------------------------  |   --------------------------- |
+|   Sonar-sensor    |   ![](embed/Sonar-sensor.png  "sonar-sensor") |   Gebruik deze sensor om een persoon of object te detecteren en om te bepalen hoe ver van de sensor de persoon of het object zich bevindt. In de simulator is een schuifbalk voorzien om dit te simuleren. De sensor geeft de afstand terug in centimeter.    |
+|   Geluidssensor   |   ![](embed/Geluidssensor.png "Geluidssensor")    |   Gebruik deze sensor om geluid te detecteren. In de simulator is een knop voorzien waarmee je geluid kan simuleren door de knop in te drukken. Bij geluid geeft de sensor 1 terug, bij stilte 0. |
+|   Drukknop    |   ![](embed/Drukknop.png "Drukknop") |   Er zijn 5 ingebouwde drukknoppen voorzien op de Dwenguino: NOORD, OOST, ZUID, WEST en MIDDEN. |  
+  
+
 ## Actuatoren (uitvoer)
 
 |   **Naam**                    |   **Afbeelding**              |   **Beschrijving**            |
@@ -47,13 +56,3 @@ Hieronder staan de verschillende robotonderdelen opgelijst die Dwengo in het 'So
 |   Led-matrix  |   ![](embed/led-matrix.png "ledmatrix")   |   De ledmatrix is een vierkant met 64 leds in een vaste kleur. De matrix is ideaal om bepaalde patronen te laten oplichten, zoals een oog, een mond of een ander symbool. Er zijn blokken voorzien om de patronen te maken. Je kan de matrices ook met elkaar verbinden (maximaal 4) als je meerdere matrices op je robot wil bevestigen. |
 |   Lcd-scherm  |   ![](embed/lcd-scherm.jpg "lcd-scherm")   | Het lcd-scherm bevat twee lijnen met elk 16 karakters. De gewenste tekst geef je mee in je programma. |
 |   Zoemer  |   ![](embed/Zoemer.png "Zoemer")   |   Met de zoemer kan je geluid laten afspelen met een frequentie die je zelf kiest. De gewenste frequentie (in Hz) geef je mee in je programma. Met een *'wacht'-blok* bepaal je hoelang het geluid wordt afgespeeld.   |
-
-
-
-## Sensoren (invoer)
-
-|   **Naam**                    |   **Afbeelding**              |   **Beschrijving**            |
-|   -------------------------   |   --------------------------  |   --------------------------- |
-|   Sonar-sensor    |   ![](embed/Sonar-sensor.png  "sonar-sensor") |   Gebruik deze sensor om een persoon of object te detecteren en om te bepalen hoe ver van de sensor de persoon of het object zich bevindt. In de simulator is een schuifbalk voorzien om dit te simuleren. De sensor geeft de afstand terug in centimeter.    |
-|   Geluidssensor   |   ![](embed/Geluidssensor.png "Geluidssensor")    |   Gebruik deze sensor om geluid te detecteren. In de simulator is een knop voorzien waarmee je geluid kan simuleren door de knop in te drukken. Bij geluid geeft de sensor 1 terug, bij stilte 0. |
-|   Drukknop    |   ![](embed/Drukknop.png "Drukknop") |   Er zijn 5 ingebouwde drukknoppen voorzien op de Dwenguino: NOORD, OOST, ZUID, WEST en MIDDEN. |

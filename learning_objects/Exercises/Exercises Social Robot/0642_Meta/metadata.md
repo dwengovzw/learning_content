@@ -1,17 +1,17 @@
 ---
-hruid: SR_SonarVB2-v1
+hruid: SRM_Sonar2-v1
 version: 3
 language: nl
-title: "Voorbeeld sonar-sensor 2"
-description: "Uitleg sonar-sensor"
-keywords: ["StartToDwenguino", "sonar-sensor"]
+title: "Meta"
+description: "Meta"
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by Jerro
-licence: Licenced by Jerro
-content_type: text/markdown
+copyright: Copyright by dwengo vzw.
+licence: CC by dwengo vzw.
+content_type: blockly
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -30,15 +30,3 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-## Voorbeeld sonar-sensor
-OPGAVE 2
--
-
-Oplossing:
-
-![blockly](@learning-object/SRM_LED1-v1/nl/3)
-
--
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

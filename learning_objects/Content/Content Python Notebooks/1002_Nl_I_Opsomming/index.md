@@ -1,9 +1,9 @@
 ---
-hruid: PN_InputOutput-v1
+hruid: PN_Opsomming-v1
 version: 3
 language: nl
-title: "Input en output"
-description: "Input en output"
+title: "Opsommingen"
+description: "Opsommingen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,7 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-Hier is een jupyter notebook:
+# Opsommingen
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1002 "Notebooks Input Output")
 
