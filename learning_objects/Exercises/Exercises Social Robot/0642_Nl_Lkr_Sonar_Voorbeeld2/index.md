@@ -28,16 +28,18 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 ## Voorbeeld sonar-sensor
-OPGAVE 2
+
+OPGAVE 2  
+
 Schrijf een programma dat afhankelijk van de waarde, de boodschap "waarde < 20 cm" of "waarde > 20 cm" teruggeeft.
 
 Hier moet je gebruikmaken van een keuzestructuur: een als - dan of als - dan - anders blok werd hiervoor voorzien. Dit is het moeilijkste dat je nodig hebt voor de sociale robot.
 
-Oplossing:
+Oplossing:  
 
 ![blockly](@learning-object/SRM_Sonar2-v1/nl/3)
 

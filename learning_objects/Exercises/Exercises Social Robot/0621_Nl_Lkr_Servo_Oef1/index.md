@@ -33,10 +33,11 @@ teacher_exclusive: false
 
 ## Servomotor
 
-OPGAVE 1
+OPGAVE 1  
+
 Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
 
-Oplossing:
+Oplossing:  
 
 ![blockly](@learning-object/SRM_Servo1-v1/nl/3)
 
