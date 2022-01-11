@@ -31,11 +31,12 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-## Voorbeeld sonar-sensor
+### Voorbeeld sonar-sensor
 OPGAVE 1
+
 Voor we de sonar-sensor gebruiken, moeten we deze eerst testen. Schrijf een programma om de sonar-sensor uit te lezen.
 
-Oplossing:
+Oplossing:  
 
 ![blockly](@learning-object/SRM_Sonar1-v1/nl/3)
 

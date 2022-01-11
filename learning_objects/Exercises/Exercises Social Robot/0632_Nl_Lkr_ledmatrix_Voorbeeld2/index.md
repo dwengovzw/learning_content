@@ -31,9 +31,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-## Voorbeeld led-matrix
-
+### Voorbeeld led-matrix
 OPGAVE 2
+
 Programmeer 2 led-matrices zodat ze op 2 ogen lijken.  
 
 Oplossing:  
