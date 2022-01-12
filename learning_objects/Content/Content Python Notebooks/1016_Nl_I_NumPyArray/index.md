@@ -1,8 +1,8 @@
 ---
-hruid: PN_NPLijsten-v1
+hruid: PN_NPArray-v1
 version: 3
 language: nl
-title: "NumPy-lijsten"
+title: "NumPy-array"
 description: "NumPy-lijsten"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 
-# NumPy-lijsten
+# NumPy-array
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1015 "Notebooks Rekenen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1016 "Notebooks NumPy-array")
 
