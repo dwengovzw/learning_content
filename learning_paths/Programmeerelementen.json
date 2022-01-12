@@ -60,7 +60,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "PN_IVUPE-v1",
+            "hruid": "PN_InvoerVerwerkingUitvoer-v1",
             "version": "3",
             "language": "nl"
           }
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "learningobject_hruid": "PN_IVUPE-v1",
+      "learningobject_hruid": "PN_InvoerVerwerkingUitvoer-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -105,7 +105,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "PN_VariabelenPE-v1",
+            "hruid": "PN_FunctiesCombiPE-v1",
             "version": "3",
             "language": "nl"
           }
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "learningobject_hruid": "PN_VariabelenPE-v1",
+      "learningobject_hruid": "PN_FunctiesCombiPE-v1",
       "version": "3",
       "language": "nl"
     } 

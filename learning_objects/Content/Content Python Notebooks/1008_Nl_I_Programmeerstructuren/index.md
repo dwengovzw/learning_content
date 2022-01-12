@@ -2,7 +2,7 @@
 hruid: PN_Programmeerstructuren-v1
 version: 3
 language: nl
-title: "Programmeerstructuren"
+title: "Taaltechnologie - Structuren"
 description: "Programmeerstructuren"
 keywords: ["Python", "Taaltechnologie", "AI Op School"]
 educational_goals: [
@@ -29,8 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Programmeerstructuren
-In deze notebook maak je kennis met programmeerstructuren.
+# Taaltechnologie - Structuren
+In deze notebook pas je programmeerstructuren toe in taaltechnologie.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1008 "Notebooks Programmeerstructuren")
 

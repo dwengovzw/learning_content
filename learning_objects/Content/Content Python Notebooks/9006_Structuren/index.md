@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 ---
 # Structuren
-notebooks toevoegen uit TT? Herwerken?
+Zie leerpad 'structuren'.

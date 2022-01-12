@@ -1,9 +1,9 @@
 ---
-hruid: PN_FunctiesPE-v1
+hruid: PN_FunctiesCombiPE-v1
 version: 3
 language: nl
-title: "Functies"
-description: "Functies"
+title: "Combinatie-oefeningen"
+description: "Combinatie-oefeningen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,7 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-# Functies
-Hier leer je hoe je bepaalde instructies uit je script groepeert in een subalgoritme en meegeeft aan Python in een zelfgedefinieerde functie.
+# Combinatie-oefeningen
+In deze notebook pas je toe wat je leerde over structuren, aangevuld met functies.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1006 "Notebooks Functie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1041 "Notebooks Functie")
