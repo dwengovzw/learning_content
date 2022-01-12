@@ -2,7 +2,7 @@
 hruid: PN_Rekenen-v1
 version: 3
 language: nl
-title: "Rekenen"
+title: "Wiskundige operatoren - Rekenen"
 description: "Rekenen"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 
-# Rekenen
+# Wiskundige operatoren - Rekenen
 
 In deze notebook leer je optellen en vermenigvuldigen in Python. Je gaat met vierkantswortels aan de slag en je leert wat het verschil is tussen een gewone en een gehele deling.
 

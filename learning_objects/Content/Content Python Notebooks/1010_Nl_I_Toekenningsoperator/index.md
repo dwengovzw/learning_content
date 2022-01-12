@@ -1,9 +1,9 @@
 ---
-hruid: PN_Operatoren-v1
+hruid: PN_ToekOperator-v1
 version: 3
 language: nl
-title: "Logische operatoren"
-description: "Rekenen"
+title: "Toekenningsoperator"
+description: "Toekenningsoperator"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,11 @@ skos_concepts: [
 ]
 ---
 
-# Logische operatoren
-Om variabelen met elkaar te vergelijken en logische uitdrukkingen op te bouwen, maak je gebruik van vergelijkingsoperatorenen logische operatoren.
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1020 "Notebooks Rekenen")
+# Toekenningsoperator
+
+Als je in Python een variabele gebruikt, bv. de variabele 'bloem' die verwijst naar de string "roos", dan geef je de volgende instructie in:  
+
+*bloem = "roos"*  
+
+Het teken '=' is een toekenningsoperator. Het heeft dus niet dezelfde betekenis als '=' in wiskunde.
 
