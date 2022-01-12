@@ -29,6 +29,4 @@ skos_concepts: [
 ]
 ---
 # Datatypes
-Zie leerpad datatypes
-- NumPy lijsten
-- uit KIKS
+Zie leerpad 'datatypes'.
