@@ -35,5 +35,5 @@ Als je in Python een variabele gebruikt, bv. de variabele 'bloem' die verwijst n
 
 *bloem = "roos"*  
 
-Het teken '=' is een toekenningsoperator. Het heeft dus niet dezelfde betekenis als '=' in wiskunde.
+'=' is hier een toekenningsoperator. Het heeft dus niet dezelfde betekenis als '=' in wiskunde.
 
