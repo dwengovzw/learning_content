@@ -30,5 +30,6 @@ skos_concepts: [
 ---
 # Opsommingen
 Voor opsommingen zijn er verschillende datatypes. Je kiest voor de meest geschikte, o.a. afhankelijk van het feit of de volgorde van de elementen van belang is of niet.
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1002 "Notebooks Input Output")
 
