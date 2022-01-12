@@ -2,7 +2,7 @@
 hruid: PN_BoolNonetype-v1
 version: 3
 language: nl
-title: "Booleaanse Nonetype"
+title: "Bool - NoneType"
 description: "Booleaanse Nonetype"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
@@ -29,7 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Bool - nonetype
+# Bool - NoneType
+In deze notebook maak je kennis met het datatype voor een logische uitdrukking.  
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1014 "Notebooks Rekenen")
 

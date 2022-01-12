@@ -30,6 +30,7 @@ skos_concepts: [
 ---
 
 # NumPy-array
+Met NumPy  kan je gemakkelijk een matrix voorstellen en ermee rekenen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1016 "Notebooks NumPy-array")
 

@@ -2,7 +2,7 @@
 hruid: PN_ListSA-v1
 version: 3
 language: nl
-title: "List"
+title: "Taaltechnologie - List"
 description: "List"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
@@ -29,7 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# List
+# Taaltechnologie - List
+In deze notebook maak je gebruik van het type *list* in taaltechnologische toepassingen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1012 "Notebooks List")
 

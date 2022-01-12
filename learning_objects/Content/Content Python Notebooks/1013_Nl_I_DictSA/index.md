@@ -2,7 +2,7 @@
 hruid: PN_DictSA-v1
 version: 3
 language: nl
-title: "Dict"
+title: "Taaltechnologie - Dict"
 description: "Dict"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
@@ -29,7 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# Dict
+# Taaltechnologie - Dict
+In deze notebook maak je gebruik van het type *dict* in taaltechnologische toepassingen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1013 "Notebooks Dict")
 
