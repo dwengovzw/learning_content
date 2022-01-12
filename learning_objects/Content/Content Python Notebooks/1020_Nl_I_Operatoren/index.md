@@ -31,5 +31,6 @@ skos_concepts: [
 
 # Logische operatoren
 Om variabelen met elkaar te vergelijken en logische uitdrukkingen op te bouwen, maak je gebruik van vergelijkingsoperatorenen logische operatoren.
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1020 "Notebooks Rekenen")
 
