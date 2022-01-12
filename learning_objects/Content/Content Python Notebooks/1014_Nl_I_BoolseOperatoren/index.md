@@ -1,9 +1,9 @@
 ---
-hruid: PN_Operatoren-v1
+hruid: PN_BoolNonetype-v1
 version: 3
 language: nl
-title: "Booleaanse operatoren"
-description: "Booleaanse operatoren"
+title: "Booleaanse Nonetype"
+description: "Booleaanse Nonetype"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 
-# Booleaanse operatoren
+# Bool - nonetype
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1014 "Notebooks Rekenen")
 

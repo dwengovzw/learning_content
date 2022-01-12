@@ -1,10 +1,10 @@
 ---
-hruid: PN_NPLijsten-v1
+hruid: PN_IntroductiePythagoras-v1
 version: 3
 language: nl
-title: "NumPy-lijsten"
-description: "NumPy-lijsten"
-keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
+title: "Invoer - Verwerking - Uitvoer"
+description: "Invoer - Verwerking - Uitvoer"
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,7 +29,8 @@ skos_concepts: [
 ]
 ---
 
-# NumPy-lijsten
+# Invoer - Verwerking - Uitvoer
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1015 "Notebooks Rekenen")
+In deze notebooks maak je kennis met enkele courante datatypes en leer je hoe je informatie opvraagt bij de gebruiker.
 
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1007 "Notebooks Input Output")

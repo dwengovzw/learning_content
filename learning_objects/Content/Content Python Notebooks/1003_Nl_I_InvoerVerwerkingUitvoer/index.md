@@ -1,5 +1,5 @@
 ---
-hruid: PN_IntroductiePythagoras-v1
+hruid: PN_InvoerVerwerkingUitvoer-v1
 version: 3
 language: nl
 title: "Invoer - Verwerking - Uitvoer"
@@ -33,4 +33,4 @@ skos_concepts: [
 
 In deze notebooks maak je kennis met enkele courante datatypes en leer je hoe je informatie opvraagt bij de gebruiker.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1007 "Notebooks Input Output")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1003 "Notebooks Input Output")

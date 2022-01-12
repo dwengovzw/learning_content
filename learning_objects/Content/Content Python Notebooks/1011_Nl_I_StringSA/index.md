@@ -1,9 +1,9 @@
 ---
-hruid: PN_NPLijsten-v1
+hruid: PN_StringSA-v1
 version: 3
 language: nl
-title: "NumPy-lijsten"
-description: "NumPy-lijsten"
+title: "String"
+description: "String"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 
-# NumPy-lijsten
+# String
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1015 "Notebooks Rekenen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1011 "Notebooks String")
 

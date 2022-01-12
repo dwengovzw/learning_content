@@ -1,9 +1,9 @@
 ---
-hruid: PN_NPLijsten-v1
+hruid: PN_ListSA-v1
 version: 3
 language: nl
-title: "NumPy-lijsten"
-description: "NumPy-lijsten"
+title: "List"
+description: "List"
 keywords: ["Python", "Wiskunde", "KIKS", "AI Op School"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 
-# NumPy-lijsten
+# List
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1015 "Notebooks Rekenen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1012 "Notebooks List")
 
