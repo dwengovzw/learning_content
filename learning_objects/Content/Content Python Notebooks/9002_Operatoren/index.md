@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 ---
 # Operatoren
-Zie leerpad operatoren
+Zie leerpad 'operatoren'.
