@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 ---
 # Icoontjes
-![](embed/Poster.png)
+![](embed/Icoontjes.png)
