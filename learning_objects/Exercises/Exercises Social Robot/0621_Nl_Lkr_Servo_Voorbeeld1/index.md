@@ -40,6 +40,6 @@ Oplossing:
 
 ![blockly](@learning-object/SRM_Servo1-v1/nl/3)
 
-Je robot kan nu zwaaien met zijn armen.
+Je robot kan nu zwaaien met zijn armen!
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
