@@ -24,8 +24,8 @@ return_value: {
 }
 estimated_time: 10
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
-    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-vaktaal', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen'
 ]
 ---
 
