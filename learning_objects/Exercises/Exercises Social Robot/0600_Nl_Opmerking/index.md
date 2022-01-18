@@ -33,4 +33,4 @@ teacher_exclusive: true
 
 #  Wijziging
 
-Geachte gebruiker. Om het onderscheid tussen voorbeelden voor u als leerkracht en de aparte oefeningen duidelijker te maken, werden de oefeningen in een apart leerpad geplaatst. Deze vindt u ![hier](link) terug.
+Geachte gebruiker. Om het onderscheid tussen voorbeelden voor u als leerkracht en de aparte oefeningen duidelijker te maken, werden de oefeningen in een apart leerpad geplaatst. Deze vindt u [hier](link) terug.

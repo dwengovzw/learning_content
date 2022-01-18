@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-## Voorbeeld led-matrix
+### Voorbeeld led-matrix
 OPGAVE 1
 
 Laat een hartje verschijnen op een ledmatrix in de simulator.
