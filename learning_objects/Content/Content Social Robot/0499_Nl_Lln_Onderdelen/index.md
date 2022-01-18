@@ -26,7 +26,8 @@ content_location: example-location
 estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-technologie-en-technieken'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-technologie-en-technieken', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-vaktaal'
 ]
 teacher_exclusive: false
 ---
