@@ -25,8 +25,9 @@ return_value: {
 content_location: example-location
 estimated_time: 5
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
-    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-mediawijsheid', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-maatschappijkritisch-denken'
 ]
 teacher_exclusive: false
 ---
