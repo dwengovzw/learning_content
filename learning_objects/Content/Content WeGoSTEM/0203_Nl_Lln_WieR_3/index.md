@@ -25,7 +25,8 @@ return_value: {
 content_location: example-location
 estimated_time: 10
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-informatie-verwerven'
 ]
 teacher_exclusive: false
 ---
