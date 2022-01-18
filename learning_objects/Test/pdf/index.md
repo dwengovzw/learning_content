@@ -25,8 +25,7 @@ return_value: {
 content_location: http://content.be/learn
 estimated_time: 20
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
-    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 
 ---

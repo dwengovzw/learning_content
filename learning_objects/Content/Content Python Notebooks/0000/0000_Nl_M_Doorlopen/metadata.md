@@ -25,8 +25,7 @@ return_value: {
 content_location: "https://kiks.ilabt.imec.be/jupyterhub/?id=12"
 estimated_time: 50
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
-    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: true
 ---
