@@ -9,7 +9,7 @@ for ff in files:
 		#skos1="Test"
 		#skos2=re.escape('http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen')
 	#	print(skos2)	
-		text=re.sub("\", "", text)
+		text=re.sub("\\", "", text)
 		fin.seek(0)
 		fin.write(text)
 		fin.truncate()

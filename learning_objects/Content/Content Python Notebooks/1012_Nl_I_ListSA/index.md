@@ -24,7 +24,7 @@ return_value: {
 }
 estimated_time: 10
 skos_concepts: [
-    'http://ilearn\.ilabt\.imec\.be/vocab/curr1/s\-digitale\-media\-en\-toepassingen', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
