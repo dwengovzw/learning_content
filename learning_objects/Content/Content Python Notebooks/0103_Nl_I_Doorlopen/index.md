@@ -25,7 +25,8 @@ return_value: {
 estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-vaktaal', 
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 ---
 Hier is een jupyter notebook:
