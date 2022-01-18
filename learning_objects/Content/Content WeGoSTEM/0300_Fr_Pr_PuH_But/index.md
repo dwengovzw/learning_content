@@ -2,7 +2,7 @@
 hruid: But_PuH-v1
 version: 3
 language: fr
-title: "Préparation <<Programmer un humain>>"
+title: "Préparation Programmer un humain"
 description: "Description"
 keywords: ["WeGoSTEM"]
 educational_goals: [
