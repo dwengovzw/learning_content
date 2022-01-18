@@ -31,7 +31,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-## Voorbeeld sonar-sensor
+### Voorbeeld sonar-sensor
 
 OPGAVE 2  
 
