@@ -2,7 +2,7 @@
 hruid: But_QqR-v1
 version: 3
 language: fr
-title: "Préparation <<Qu'est-ce qu'un robot>>?"
+title: "Préparation \<\<Qu'est-ce qu'un robot\>\>?"
 description: "Description"
 keywords: ["WeGoSTEM"]
 educational_goals: [
