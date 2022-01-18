@@ -26,7 +26,8 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn\.ilabt\.imec\.be/vocab/curr1/s\-digitale\-media\-en\-toepassingen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-kansrekenen-statistiek',
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek'
 ]
 ---
 
