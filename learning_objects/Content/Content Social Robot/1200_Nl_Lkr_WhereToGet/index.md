@@ -39,7 +39,7 @@ Eén zo'n kit bevat het onderstaande materiaal:
 
 ![](embed/Kit.png "Inhoud kit")
 
-Bij elk pakket wordt ook een [ficheboekje](embed/Ficheboekje.pdf "Ficheboekje"). Hierin staan de fiches die gemaakt werden voor de leerlingen met extra uitleg, zodat jij optimaal voorbereid bent.
+Bij elk pakket wordt ook een [ficheboekje](embed/Ficheboekje.pdf "Ficheboekje") meegeleverd. Hierin staan de fiches die gemaakt werden voor de leerlingen met extra uitleg, zodat jij optimaal voorbereid bent.
 
 ## Materiaal kopen
 Dwengo verkoopt deze kits in sets van 5 SR-kits. Voor meer informatie kan je ons <a href="mailto:info@dwengo.org">hier</a> contacteren.
