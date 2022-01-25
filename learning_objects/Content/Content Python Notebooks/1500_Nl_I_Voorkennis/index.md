@@ -1,8 +1,8 @@
 ---
-hruid: PN_DBInl-v1
+hruid: PN_DBVoork-v1
 version: 3
 language: nl
-title: "Inleiding"
+title: "Voorkennis"
 description: "Notebooks over ..."
 keywords: ["Python", "STEM", "Wiskunde", "AI Op School", Computationeel denken"]
 educational_goals: [
@@ -33,6 +33,7 @@ skos_concepts: [
 ]
 ---
 
-# Inleiding
-Een digitaal beeld bestaat uit een eindig aantal pixels. Het woord 'pixel' is afgeleid van de Engelse woorden *picture* (afbeelding) en *element*. Het woord digitaal komt van het Latijnse *digitus* (vinger) en verwijst naar het tellen op de vingers. Op een goede foto kan je geen pixels onderscheiden, tenzij je veel inzoomt op de afbeelding.  
-Tijdens deze notebooks leer je hoe je de kleuren van een afbeelding kunt aanpassen en manipuleren.
+# Voorkennis
+
+* Leerpad *Operatoren*: Rekenen
+* Leerpad *Datatypes*
