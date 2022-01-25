@@ -34,4 +34,4 @@ teacher_exclusive: true
 
 Geachte gebruiker 
 
- Om het onderscheid tussen voorbeelden voor u als leerkracht en de aparte oefeningen duidelijker te maken, werden de oefeningen in een apart leerpad geplaatst. Deze vindt u [*hier*](https://www.dwengo.org/socialerobot2oefeningen "Oefeningen") terug.
+ Om het onderscheid tussen voorbeelden voor u als leerkracht en de aparte oefeningen duidelijker te maken, werden de oefeningen in een apart leerpad geplaatst. Deze vindt u [**hier**](https://www.dwengo.org/socialerobot2oefeningen "Oefeningen") terug.
