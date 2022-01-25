@@ -1,10 +1,10 @@
 ---
-hruid: SR_Temp-v1
+hruid: SR_Slot12-v1
 version: 3
 language: nl
-title: "Wijziging"
-description: "Opmerking"
-keywords: ["StartToDwenguino"]
+title: "Slot"
+description: "Slot"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -27,11 +27,13 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-#  Wijziging
+# Slot
 
-Geachte gebruiker 
+Dit is het einde van de eerste module. Je hebt nu een scherper beeld van wat een sociale robot allemaal kan zijn en doen. 
 
- Om het onderscheid tussen voorbeelden voor u als leerkracht en de aparte oefeningen duidelijker te maken, werden de oefeningen in een apart leerpad geplaatst. Deze vindt u [hier](https://www.dwengo.org/socialerobot2oefeningen "Oefeningen") terug.
+In de volgende module begin je met het ontwerpen van je eigen robot! 
+
+[Module 2: Brainstorm en programmeren](https://www.dwengo.org/socialerobot2 "Module 2")

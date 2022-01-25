@@ -1,10 +1,10 @@
 ---
-hruid: SR_Temp-v1
+hruid: SR_Slot23-v1
 version: 3
 language: nl
-title: "Wijziging"
-description: "Opmerking"
-keywords: ["StartToDwenguino"]
+title: "Slot"
+description: "Slot"
+keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -27,11 +27,12 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-#  Wijziging
+# Slot
 
-Geachte gebruiker 
+Dit is het einde van de tweede module. Je hebt nu een basisontwerp voor jouw robot. 
+Je hebt ook al een eerste versie van het programma. Dit zal je waarschijnlijk nog moeten aanpassen eens je begint aan het bouwen van de robot! 
 
- Om het onderscheid tussen voorbeelden voor u als leerkracht en de aparte oefeningen duidelijker te maken, werden de oefeningen in een apart leerpad geplaatst. Deze vindt u [hier](https://www.dwengo.org/socialerobot2oefeningen "Oefeningen") terug.
+[Module 3: Bouwen van de robot](https://www.dwengo.org/socialerobot3 "Module 3")  
