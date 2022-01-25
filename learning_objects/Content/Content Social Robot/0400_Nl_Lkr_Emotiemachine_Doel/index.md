@@ -32,6 +32,7 @@ teacher_exclusive: true
 ---
 # Computationeel denken unplugged
 ## Emotiemachine
+### 20 minuten in de klas
 
 Deelnemers ontwerpen een gezicht en programmeren een 2D-robot gemaakt uit karton die verschillende emoties kan tonen. Ze stellen een tabel op die gebruikt kan worden om emoties (high-level) te vertalen naar instructies (code) die een machine kan verstaan (low-level). Ze moeten zelf de emoties tekenen op de stroken karton, voorgesteld door een bepaalde 'stand' van wenkbrauwen, ogen en mond.  
 

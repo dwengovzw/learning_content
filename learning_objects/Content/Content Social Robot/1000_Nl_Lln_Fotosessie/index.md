@@ -23,12 +23,12 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 60
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-leren-leren'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Creatieve opdracht

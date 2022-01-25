@@ -41,4 +41,4 @@ Deze activiteit leidt tot enkele belangrijke inzichten, zoals:
 
 De groep zal enkele eenvoudige programma’s mogen schrijven om het gezicht dat ze ontworpen hebben te controleren.
 
-De volledig uitgeschreven activiteit **met afbeeldingen** vind je [*hier*](embed/maakeengezicht_activiteit.pdf "Activiteit 'Maak een gezicht'"). Deze activiteit is gecreëerd door Paul Curzon, Queen Mary University of London.
+De volledig uitgeschreven activiteit **met afbeeldingen** vind je [**hier**](embed/maakeengezicht_activiteit.pdf "Activiteit 'Maak een gezicht'"). Deze activiteit is gecreëerd door Paul Curzon, Queen Mary University of London.
