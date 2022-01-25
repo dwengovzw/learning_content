@@ -34,7 +34,7 @@ teacher_exclusive: true
 # Inleiding
 
 ## Eindtermen
-Een document met een uitgebreide beschrijving van het project gelinkt aan de eindtermen vind je [hier](embed/EindtermenAStroomSsocialeRobot.pdf "Eindtermen") terug.
+Een document met een uitgebreide beschrijving van het project gelinkt aan de eindtermen vind je [*hier*](embed/EindtermenAStroomSsocialeRobot.pdf "Eindtermen") terug.
 
 ## Wat zijn sociale robots
 *Sociale robots zijn robots die kunnen communiceren met mensen.*

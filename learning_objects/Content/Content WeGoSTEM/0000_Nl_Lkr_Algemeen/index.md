@@ -48,7 +48,7 @@ WeGoSTEM bundelt een aantal interessante activiteiten die je op twee lesuren kan
 * opruimen (10 min).
 
 De activiteiten kan je volledig uitgewerkt terugvinden in dit leerspoor. Een handige samenvatting kan je 
-[hier](embed/WeGoSTEMoverzichtleerkrachten.pdf "Samenvatting WeGoSTEM") 
+[*hier*](embed/WeGoSTEMoverzichtleerkrachten.pdf "Samenvatting WeGoSTEM") 
 downloaden. 
 
 Over WeGoSTEM werd goed nagedacht! We voorzien een logische opbouw van programmeren tot bouwen van een robot. Tijdsduur, prijs en leeftijdsgroep werden in rekening gebracht.  

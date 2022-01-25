@@ -62,7 +62,7 @@ Ontwerp, programmeer en bouw een sociale robot. Deze robot kan communiceren en r
 
 ***
 
-De projectfiche waar dit nog eens allemaal samengevat wordt, vind je [hier](embed/ProjectficheSocialeRobot.pdf "projectfiche") terug.
+De projectfiche waar dit nog eens allemaal samengevat wordt, vind je [*hier*](embed/ProjectficheSocialeRobot.pdf "projectfiche") terug.
 
 In 4 modules wordt het lesverloop meer in detail uit de doeken gedaan. In deze modules krijg je suggesties waarop je je kan baseren tijdens het voorbereiden van jouw les.
 
