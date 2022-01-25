@@ -68,8 +68,7 @@ In 4 modules wordt het lesverloop meer in detail uit de doeken gedaan. In deze m
 
 Voor elk van deze modules is er een leerpad voorzien:
 
-(wip)  
-[Module 1: Wat zijn sociale robots?](Link)  
-[Module 2: Brainstorm en programmeren](Link)  
-[Module 3: Bouwen van de robot](Link)  
-[Module 4: Creatieve verwerking en nabespreking](Link)  
+[Module 1: Wat zijn sociale robots?](https://www.dwengo.org/socialerobot1 "Module 1")  
+[Module 2: Brainstorm en programmeren](https://www.dwengo.org/socialerobot2 "Module 2")  
+[Module 3: Bouwen van de robot](https://www.dwengo.org/socialerobot3 "Module 3")  
+[Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/socialerobot4 "Module 4")  

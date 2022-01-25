@@ -265,6 +265,21 @@
     {
       "learningobject_hruid": "SR_Overzicht_robotonderdelen2-v1",
       "version": "3",
+      "language": "nl", 
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Slot12-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Slot12-v1",
+      "version": "3",
       "language": "nl"
     } 
   ]

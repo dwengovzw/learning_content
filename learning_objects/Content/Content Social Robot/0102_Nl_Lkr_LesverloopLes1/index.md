@@ -36,6 +36,8 @@ teacher_exclusive: true
 
 # Lesverloop
 ## Module 1: Inleiding en Computationeel denken unplugged (± 2 lesuren)
+[Module 1: Wat zijn sociale robots?](https://www.dwengo.org/socialerobot1 "Module 1")  
+
 **Lesfase A - Wat zijn sociale robots?**
 
 *Optie 1*

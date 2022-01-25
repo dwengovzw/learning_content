@@ -100,6 +100,21 @@
     {
       "learningobject_hruid": "SR_Programmeren4-v1",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "SR_Slot34-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "SR_Slot34-v1",
+      "version": "3",
       "language": "nl"
     } 
   ]

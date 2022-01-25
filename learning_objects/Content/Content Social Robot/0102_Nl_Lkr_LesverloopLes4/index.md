@@ -32,6 +32,8 @@ teacher_exclusive: true
 
 # Lesverloop
 ## Module 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
+[Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/socialerobot4 "Module 4")  
+
 **Lesfase A - Creatieve opdrachten**
 * Laat de leerlingen hun creatieve opdrachten voorstellen. Geef hen indien nodig nog wat tijd om dit voor te bereiden in de les.
 
