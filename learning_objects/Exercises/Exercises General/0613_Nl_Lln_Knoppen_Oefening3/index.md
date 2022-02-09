@@ -1,9 +1,9 @@
 ---
-hruid: STD_Lkr_Knoppen3-v1
+hruid: STD_Lkr_KnoppenOef3-v1
 version: 3
 language: nl
-title: "Knoppen Voorbeeld"
-description: "Knoppen Voorbeeld"
+title: "Knoppen Oefening"
+description: "Knoppen Oefening"
 keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
