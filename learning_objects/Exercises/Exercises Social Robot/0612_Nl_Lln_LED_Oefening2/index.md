@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Oefening Led 2"
 description: "Oefening Led 2"
-keywords: ["StartToDwenguinom", "led"]
+keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
