@@ -1,10 +1,10 @@
 ---
-hruid: STD_LedVB1-v1
+hruid: STD_LedOef3-v1
 version: 3
 language: nl
-title: "Voorbeeld Led 1"
-description: "led Voorbeeld"
-keywords: ["sociale robot", "led"]
+title: "Oefening Led 3"
+description: "Oefening Led 3"
+keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -27,17 +27,9 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-# WIP
-### Voorbeeld led
+### Oefening led
+OPGAVE 3
 
-OPGAVE 1
-
-Laat led 0 branden.
-
-Oplossing:
-
-![blockly](@learning-object/SRM_Led1-v1/nl/3)
-
-Merk op dat led 0 het eerste led is aan de **rechterkant**!
+Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent dat led 0 eerst brandt en dan uitgaat wanneer led 1 gaat branden, led 1 uitgaat wanneer led 2 gaat branden ...

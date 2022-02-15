@@ -1,9 +1,9 @@
 ---
-hruid: STD_LedOef2-v1
+hruid: STD_LedVB3-v1
 version: 3
 language: nl
-title: "Oefening Led 2"
-description: "Oefening Led 2"
+title: "Voorbeeld Led 3"
+description: "Voorbeeld Led 3"
 keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,13 +27,16 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
-# WIP
-### Oefening led
+### Voorbeeld led
+OPGAVE 3
 
-OPGAVE 2
+Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent dat led 0 eerst brandt en dan uitgaat wanneer led 1 gaat branden, led 1 uitgaat wanneer led 2 gaat branden ...
 
-Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
+Oplossing:
 
-Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '*zet klaar*'-gedeelte van het programma.
+![blockly](@learning-object/SRM_LED3-v1/nl/3)
+
+
+*Test deze voorbeelden ook zelf uit in de simulator!*
