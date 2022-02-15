@@ -38,4 +38,13 @@ De tweede manier is om alle code te verplaatsen van het *'zet klaar'-deel* naar 
 
 ![blockly](@learning-object/WACHTWGS3-v1/nl/3)
 
+I.p.v. de code eenmalig uit te voeren, zal ze nu herhaald worden.  
+  
+Zoals je misschien al gemerkt hebt bij het uittesten van de voorbeelden, verwijdert het lcd-scherm tekst niet automatisch. Wanneer je oude tekst door nieuwe tekst vervangt, zonder de oude tekst eerst te verwijderen, worden enkel de gebruikte cellen aangepast:  
+
+"Hallo mensen" (12 karakters) vervangen door "Ik ben Dwenguino" (16 karakters): "Ik ben Dwenguino"  
+"Ik ben Dwenguino" (16 karakters) vervangen door "Hallo mensen" (12 karakters): "Hallo mensen**uino**"  
+
+Omdat "Hallo mensen" 4 karakters korter is dan "Ik ben Dwenguino" zullen de laatste 4 cellen in het programma niet veranderen. "Ik ben Dweng" wordt dus overschreven door "Hallo mensen". "uino" blijft echter staan. Om dit probleem te voorkomen, zal je dus steeds het *MaakLCDLeeg-blok* moeten gebruiken.
+
 *Test deze voorbeelden ook zelf uit in de simulator!*
