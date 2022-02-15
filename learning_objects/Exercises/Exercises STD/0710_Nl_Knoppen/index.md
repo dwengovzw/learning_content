@@ -1,10 +1,10 @@
 ---
-hruid: STD_LedOef1-v1
+hruid: STD_Knoppen-v1
 version: 3
 language: nl
-title: "Oefening Led 1"
-description: "Oefening Led 1"
-keywords: ["sociale robot", "led"]
+title: "Uitleg Knoppen"
+description: "Uitleg Knoppen"
+keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [10, 11, 12]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,17 +23,17 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: false
 ---
-# WIP
-### Oefening led
+## Knoppen
 
-OPGAVE 1
+Op de Dwenguino vind je vijf drukknoppen. De buitenste knoppen kregen de namen NOORD, ZUID, OOST, WEST, net als in aardrijkskunde. De middelste knop heet MIDDEN.
 
-Laat led 0 branden.
+Je kan op een knop klikken met je muis. Als je erop klikt, wordt een knop ingedrukt zolang je ze vasthoudt.  
 
-Merk op dat led 0 het eerste led is aan de **rechterkant**!
+![](embed/Knoppen.png "Voorbeeld Knoppen")
+

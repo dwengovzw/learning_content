@@ -1,9 +1,9 @@
 ---
-hruid: STD_Lkr_KnoppenOef1-v1
+hruid: STD_Lkr_KnoppenOef2-v1
 version: 3
 language: nl
-title: "Oefening Knoppen 1"
-description: "Oefening Knoppen 1"
+title: "Oefening Knoppen 2"
+description: "Oefening Knoppen 2"
 keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,16 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# WIP
 ### Voorbeeld knoppen
 
-OPGAVE 1
+OPGAVE 2
 
-Het programma start op. Als de NOORD-knop wordt ingedrukt, gaat het eerste ledje (led 0) branden.
-
+Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje (led 4) branden. Als je de knop loslaat, moet het ledje uitgaan.
 
 Oplossing:
 
-![blockly](@learning-object/KNOPWGS1-v1/nl/3)
+![blockly](@learning-object/KNOPWGS2-v1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

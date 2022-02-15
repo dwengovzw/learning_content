@@ -1,9 +1,9 @@
 ---
-hruid: STD_LedVB3-v1
+hruid: STD_Led-v1
 version: 3
 language: nl
-title: "Voorbeeld Led 3"
-description: "Voorbeeld Led 3"
+title: "Uitleg Led"
+description: "Uitleg led"
 keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,21 +23,19 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-# WIP
-### Voorbeeld led
-OPGAVE 3
+## Leds
 
-Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent dat led 0 eerst brandt en dan uitgaat wanneer led 1 gaat branden, led 1 uitgaat wanneer led 2 gaat branden ...
+Links onderaan op het Dwenguino-bord vind je acht leds:
 
-Oplossing:
+![alt](embed/leds.png "Afb. leds")
 
-![blockly](@learning-object/SRM_LED3-v1/nl/3)
+Deze leds zijn *led 0*,*led 1*, ..., *led 7*, van rechts naar links.
 
-
-*Test deze voorbeelden ook zelf uit in de simulator!*
+Links bovenaan is er nog een ledje: *led 13*.
+Dit laatste led heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.

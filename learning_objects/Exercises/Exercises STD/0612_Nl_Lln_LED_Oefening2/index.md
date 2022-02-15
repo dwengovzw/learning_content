@@ -1,10 +1,10 @@
 ---
-hruid: STD_Lkr_Knoppen2-v1
+hruid: STD_LedOef2-v1
 version: 3
 language: nl
-title: "Voorbeeld Knoppen 2"
-description: "Voorbeeld Knoppen 2"
-keywords: ["StartToDwenguino", "knoppen"]
+title: "Oefening Led 2"
+description: "Oefening Led 2"
+keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [10, 11, 12]
+target_ages: [12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -27,17 +27,12 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-# WIP
-### Voorbeeld knoppen
+### Oefening led
 
 OPGAVE 2
 
-Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje (led 4) branden. Als je de knop loslaat, moet het ledje uitgaan.
+Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
 
-Oplossing:
-
-![blockly](@learning-object/KNOPWGS2-v1/nl/3)
-
-*Test deze voorbeelden ook zelf uit in de simulator!*
+Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '*zet klaar*'-gedeelte van het programma.

@@ -1,10 +1,10 @@
 ---
-hruid: STD_Led-v1
+hruid: STD_Uitbreiding_Reclamebord-v1
 version: 3
 language: nl
-title: "Uitleg Led"
-description: "Uitleg led"
-keywords: ["StartToDwenguino", "led"]
+title: "uitbreiding reclamebord"
+description: "Uitbreiding reclamebord"
+keywords: ["StartToDwenguino", "lcd", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -13,7 +13,7 @@ copyright: Copyright by Jerro
 licence: Licenced by Jerro
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [10, 11, 12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -23,20 +23,15 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: false
 ---
-# WIP
-## Leds
 
-Links onderaan op het Dwenguino-bord vind je acht leds:
+## Reclamebord
 
-![alt](embed/leds.png "Afb. leds")
+Maak een slidereclame aan die "Welkom bij Dwenguino" laat voorbijglijden in een oneindige lus.
 
-Deze leds zijn *led 0*,*led 1*, ..., *led 7*, van rechts naar links.
-
-Links bovenaan is er nog een ledje: *led 13*.
-Dit laatste led heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
+*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

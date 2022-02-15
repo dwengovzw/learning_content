@@ -1,5 +1,5 @@
 ---
-hruid: KNOPWGS1-v1
+hruid: SRM_Led1-v1
 version: 3
 language: nl
 title: "Meta"
@@ -13,7 +13,7 @@ copyright: Copyright by dwengo vzw.
 licence: CC by dwengo vzw.
 content_type: blockly
 available: true
-target_ages: [10, 11, 12]
+target_ages: [12, 13, 14]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
