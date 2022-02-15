@@ -29,7 +29,6 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# WIP
 ### Voorbeeld Wacht
 
 OPGAVE 2
