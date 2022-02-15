@@ -1,9 +1,9 @@
 ---
-hruid: STD_LedOef4-v1
+hruid: STD_BuzzerOef4-v1
 version: 3
 language: nl
-title: "Oefening Led 4"
-description: "oefening Led 4"
+title: "Oefening Buzzer 4"
+description: "oefening Buzzer 4"
 keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
