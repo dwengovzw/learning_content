@@ -30,11 +30,10 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# WIP
 # Werken met de simulator
 Nu je weet wat waar staat, kan je beginnen programmeren!
 
-* Kies in de simulatieomgeving voor het scenario van de tekenrobot (spirograaf).
+* Kies in de simulatieomgeving voor het scenario van de tekenrobot (spirograaf). Dit is het standaardscenario wanneer je de simulator opent, dus als je nog niets hebt aangeraakt, dan mag je deze stap overslaan.
 
 * Ga in de categorie ![alt](embed/Afb2.png "Afb. Dwenguino") op zoek naar dit blok:  
 

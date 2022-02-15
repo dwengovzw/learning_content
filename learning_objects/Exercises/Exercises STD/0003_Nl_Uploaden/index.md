@@ -29,7 +29,6 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# WIP
 # Uploaden naar de Dwenguino
 
 In het onderstaande filmpje wordt getoond hoe je een programma van eender welke computer en browser kan uploaden naar je Dwenguino.

@@ -30,15 +30,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# WIP
 # DwenguinoBlockly  
 # Een programmeeromgeving
 
-De programmeeromgeving met simulator is online beschikbaar op [https://www.dwengo.org/dwenguinoblockly](https://www.dwengo.org/dwenguinoblockly "link simulator").
+De programmeeromgeving met simulator is online beschikbaar op [https://blockly.dwengo.org/](https://blockly.dwengo.org/ "link simulator"). Op deze site kan je de simulator ook direct bereiken via de knop rechtsbovenaan op je scherm.
 
 Hieronder zie je een screenshot van de omgeving met de beschrijving van de verschillende onderdelen.
 
-![](embed/Afb1.png "Onderdelen simulator")
+![](embed/STD_Scenario.png "Onderdelen simulator")
 
 
 1. De *toolbox*: In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In 
