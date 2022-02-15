@@ -39,6 +39,6 @@ Oplossing:
 
 ![blockly](@learning-object/LCDM3-v1/nl/3)
 
-Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 5 plaatsen opnaar rechts.
+Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 5 plaatsen op naar rechts.
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
