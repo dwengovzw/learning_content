@@ -29,7 +29,6 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# WIP
 ### Voorbeeld Wacht
 
 Dit kan je op 2 manieren oplossen. 
@@ -39,5 +38,7 @@ Dit kan je op 2 manieren oplossen.
 De eerste manier is om de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.
 
 ![blockly](@learning-object/WACHTWGS2-v1/nl/3)
+
+Op deze manier toon je de tekst één keer waarna het stopt.
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

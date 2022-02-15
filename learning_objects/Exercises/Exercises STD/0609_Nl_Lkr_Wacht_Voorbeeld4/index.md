@@ -40,4 +40,6 @@ Oplossing:
 
 ![blockly](@learning-object/WACHTWGS4-v1/nl/3)
 
+Merk op dat het in principe niet nodig is om het *"MaakLCDLeeg"-blok* hier te gebruiken omdat de eerste uitdrukking uit 6 + 5 karakters (6 lege + Ugent) bestaat en de tweede uitdrukking uit 5 + 6 karakters (5 lege + Dwengo).
+
 *Test deze voorbeelden ook zelf uit in de simulator!*
