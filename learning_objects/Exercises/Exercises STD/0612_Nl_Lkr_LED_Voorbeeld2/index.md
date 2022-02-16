@@ -2,7 +2,7 @@
 hruid: STD_LedVB2-v1
 version: 3
 language: nl
-title: "Led Voorbeeld"
+title: "Voorbeeld Led 2"
 description: "led Voorbeeld"
 keywords: ["StartToDwenguino", "led"]
 educational_goals: [
