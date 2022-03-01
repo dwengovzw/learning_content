@@ -2,8 +2,8 @@
 hruid: STD_BuzzerVB1-v1
 version: 3
 language: nl
-title: "Buzzer Voorbeeld"
-description: "Buzzer Voorbeeld"
+title: "Voorbeeld Buzzer 3"
+description: "Voorbeeld Buzzer"
 keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,21 +29,16 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# WIP
-### Voorbeeld led
-OPGAVE 4
+### Voorbeeld buzzer
+OPGAVE 3 
 
-Schrijf een programma dat het volgende doet:
+Schrijf een programma zodat de buzzer *broeder Jacob* afspeelt. Hiervoor zal je eerst de partituur van het liedje en de frequenties van noten moeten opzoeken. 
 
-1. leds 0 en 7 gaan aan.
-2. Wacht 100 ms. leds 1 en 6 gaan aan.
-3. Wacht 100 ms. leds 0 en 7 gaan uit. leds 2 en 5 gaan aan.
-4. Wacht 100 ms. leds 1 en 6 gaan uit. leds 3 en 4 gaan aan.
-5. Wacht 100 ms. leds 2 en 5 gaan uit. leds 0 en 7 gaan aan.
-6. Wacht 100 ms. leds 3 en 4 gaan uit.
 
 Oplossing:
 
-![blockly](@learning-object/SRM_LED4-v1/nl/3)
+![blockly](@learning-object/SRM_Buzzer31-v1/nl/3)  
+
+Zoals je kunt zien, wordt dit een vrij lang programma. Er zijn gelukkig een aantal plaatsen die we wat kunnen inkorten met behulp van een **beperkte herhaling**. Dit wordt verder uitgelegd in het volgende onderdeel.
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

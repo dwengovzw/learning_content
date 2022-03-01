@@ -1,5 +1,5 @@
 ---
-hruid: SRM_Buzzer1-v1
+hruid: SRM_Buzzer2-v1
 version: 3
 language: nl
 title: "Meta"

@@ -1,5 +1,5 @@
 ---
-hruid: SRM_LED4-v1
+hruid: SRM_Buzzer32-v1
 version: 3
 language: nl
 title: "Meta"

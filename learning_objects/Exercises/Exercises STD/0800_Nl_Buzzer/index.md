@@ -1,5 +1,5 @@
 ---
-hruid: STD_Led-v1
+hruid: STD_Buzzer-v1
 version: 3
 language: nl
 title: "Uitleg Led"
@@ -31,11 +31,4 @@ teacher_exclusive: false
 ---
 ## Buzzer
 
-Links onderaan op het Dwenguino-bord vind je acht leds:
-
-![alt](embed/leds.png "Afb. leds")
-
-Deze leds zijn *led 0*,*led 1*, ..., *led 7*, van rechts naar links.
-
-Links bovenaan is er nog een ledje: *led 13*.
-Dit laatste led heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
+Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoemer of buzzer. Hiermee kan je geluiden afspelen.
