@@ -29,8 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# WIP
-## Leds
+## Buzzer
 
 Links onderaan op het Dwenguino-bord vind je acht leds:
 
