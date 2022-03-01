@@ -2,7 +2,7 @@
 hruid: STD_Lkr_Knoppen3-v1
 version: 3
 language: nl
-title: "Knoppen Voorbeeld"
+title: "Voorbeeld Knoppen 3"
 description: "Knoppen Voorbeeld"
 keywords: ["StartToDwenguino", "knoppen"]
 educational_goals: [
@@ -29,40 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# WIP
-### Voorbeeld
-
-OPGAVE 1
-
-
-
-
-Oplossing:
-
-![](@blockly/blocks.xml
-
-
-
-
-OPGAVE 2
-
-
-
-Oplossing:
-
-![](@blockly/blocks.xml
-
-
-
+### Voorbeeld knoppen
 
 OPGAVE 3
 
-
+Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje (led 4) branden. Als je de knop loslaat, moet het ledje uitgaan.
 
 Oplossing:
 
-![blockly](@learning-object/LCDM3-v1/nl/3
+![blockly](@learning-object/KNOPWGS2-v1/nl/3)
 
-
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+*Test deze voorbeelden ook zelf uit in de simulator!*

@@ -2,8 +2,8 @@
 hruid: Buzzer_Voorbeeld-v1
 version: 3
 language: nl
-title: "Buzzer Voorbeeld"
-description: "Buzzer Voorbeeld"
+title: "Voorbeeld Buzzer"
+description: "Voorbeeld Buzzer"
 keywords: ["StartToDwenguino", "buzzer"]
 educational_goals: [
     {source: Source, id: id}, 
