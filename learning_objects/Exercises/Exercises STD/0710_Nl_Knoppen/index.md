@@ -31,9 +31,9 @@ teacher_exclusive: false
 ---
 ## Knoppen
 
-Op de Dwenguino vind je vijf drukknoppen. De buitenste knoppen kregen de namen NOORD, ZUID, OOST, WEST, net als in aardrijkskunde. De middelste knop heet MIDDEN.
+Op de Dwenguino vind je vijf drukknoppen. De buitenste knoppen kregen de namen NOORD, ZUID, OOST, WEST, georiëenteerd zoals een windroos. De middelste knop heet MIDDEN.
 
-Je kan op een knop klikken met je muis. Als je erop klikt, wordt een knop ingedrukt zolang je ze vasthoudt.  
+Je kan de knoppen in de simulator gebruken door erop te klikken, op voorwaarde dat je programma aan het *lopen* is. M.a.w. je moet eerst op de *play*-knop drukken. Als je op een knop klikt, wordt deze ingedrukt zolang je ze vasthoudt.  
 
 ![](embed/Knoppen.png "Voorbeeld Knoppen")
 

@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 OPGAVE 3
 
-Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje (led 4) branden. Als je de knop loslaat, moet het ledje uitgaan.
+Wanneer het programma opstart verschijnt er "Hallo" op het lcd-scherm. Als je op de NOORD-knop drukt moet deze tekst verdwijnen en gaat led 0 branden. Als je op de ZUID-knop drukt gaat led 0 uit en verschijnt er opnieuw tekst op het lcd-scherm.
 
 Oplossing:
 
