@@ -37,10 +37,10 @@ Om een beperkte herhaling uit te voeren, gebruik je de volgende blok:
 
 Je stelt hiermee een voorwaarde in voor het aantal herhalingen, namelijk de waarde van de *teller i*. Deze begint bij 0 en er wordt per herhaling 1 bij opgeteld. De herhaling stopt zodra de stopvoorwaarde bereikt wordt.  
 
-Voor opgave 3 van de buzzer kan je dus elk deel dat herhaald moet worden, inkorten door een beperkte hehaling te gebruiken. Omdat elk deel slechts 1 keer moet herhaald worden, stel je de stopvoorwaarde in op 1.
+Voor opgave 3 van de buzzer kan je dus elk deel dat herhaald moet worden, inkorten door een beperkte herhaling te gebruiken. Omdat elk deel slechts 1 keer moet herhaald worden, stel je de stopvoorwaarde in op 1.
 
 Oplossing:
 
-![blockly](@learning-object/SRM_Buzzer32-v1/nl/3)  
+![blockly](@learning-object/STD_Buzzer32-v1/nl/3)  
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

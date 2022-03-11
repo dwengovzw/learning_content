@@ -44,3 +44,7 @@ Zuid: Schaar
 * Er is een wachttijd van 2 seconden tussen het maken van de keuze en het tonen van die keuze.
 
 * Je kan terugkeren naar het startscherm door de Oost- en Westknop tegelijk in te drukken.
+
+Oplossing: 
+
+![blockly](@learning-object/STD_BSS-v1/nl/3)  

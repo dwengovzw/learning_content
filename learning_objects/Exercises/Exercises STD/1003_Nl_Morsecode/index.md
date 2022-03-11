@@ -1,5 +1,5 @@
 ---
-hruid: STD_Uitbreiding_Reclamebord-v1
+hruid: STD_Morsecode-v1
 version: 3
 language: nl
 title: "uitbreiding reclamebord"
@@ -30,13 +30,17 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-## Reclamebord
+## Morsecode
 
-Maak een slidereclame aan die "Welkom bij Dwenguino" laat voorbijglijden in een oneindige lus.
+Programmeer een bericht in morsecode dat de Dwenguino kan afspelen. Maak deze zeker niet te lang! Hieronder vind je alvast de internationale regels voor morsecode.
+
+![](embed/morse.png "morsecode")
+
+*Tip: Schrijf je boodschap eerst op papier (bv. ik ken morsecode!). Schrijf ze dan opnieuw, maar in morsecode. Begin daarna met programmeren.*
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
 
 
 Oplossing: 
 
-![blockly](@learning-object/STD_Reclame-v1/nl/3)  
+![blockly](@learning-object/STD_Morse-v1/nl/3)  

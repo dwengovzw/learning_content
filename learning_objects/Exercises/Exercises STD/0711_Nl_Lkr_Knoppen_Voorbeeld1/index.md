@@ -1,5 +1,5 @@
 ---
-hruid: STD_Lkr_Knoppen1-v1
+hruid: STD_KnoppenVB1-v1
 version: 3
 language: nl
 title: "Voorbeeld Knoppen 1"

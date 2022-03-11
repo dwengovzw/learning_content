@@ -1,5 +1,5 @@
 ---
-hruid: STD_Lkr_Wacht1-v1
+hruid: STD_WachtVB1-v1
 version: 3
 language: nl
 title: "Voorbeeld Wacht 1"
