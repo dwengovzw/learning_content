@@ -1,5 +1,5 @@
 ---
-hruid: STD_BuzzerVB1-v1
+hruid: STD_BuzzerVB3-v1
 version: 3
 language: nl
 title: "Voorbeeld Buzzer 3"
@@ -37,7 +37,7 @@ Schrijf een programma zodat de buzzer *broeder Jacob* afspeelt. Hiervoor zal je 
 
 Oplossing:
 
-![blockly](@learning-object/SRM_Buzzer31-v1/nl/3)  
+![blockly](@learning-object/STD_Buzzer31-v1/nl/3)  
 
 Zoals je kunt zien, wordt dit een vrij lang programma. Er zijn gelukkig een aantal plaatsen die we wat kunnen inkorten met behulp van een **beperkte herhaling**. Dit wordt verder uitgelegd in het volgende onderdeel.
 

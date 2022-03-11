@@ -1,5 +1,5 @@
 ---
-hruid: STD_Lkr_lcd1-v1
+hruid: STD_lcdVB1-v1
 version: 3
 language: nl
 title: "Voorbeeld Lcd 1"

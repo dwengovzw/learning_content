@@ -37,6 +37,6 @@ Schrijf een programma zodat de buzzer een toon met frequentie 262 Hz afspeelt in
 
 Oplossing:
 
-![blockly](@learning-object/SRM_Buzzer1-v1/nl/3)
+![blockly](@learning-object/STD_Buzzer1-v1/nl/3)
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

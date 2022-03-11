@@ -1,8 +1,8 @@
 ---
-hruid: STD_BuzzerVB4-v1
+hruid: STD_VH-v1
 version: 3
 language: nl
-title: "Voorbeeld Buzzer 4"
+title: "Voorwaardelijke herhaling"
 description: "Voorbeeld Buzzer"
 keywords: ["StartToDwenguino", "led"]
 educational_goals: [
@@ -29,15 +29,17 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-### Voorbeeld buzzer
-OPGAVE 4
+### Voorwaardelijke herhaling
+Om een voorwaardelijke herhaling uit te voeren, gebruik je de volgende blok:  
 
-Schrijf een programma zodat je de dwenguino kunt gebruiken als een pentatonisch (5 tonen) instrument. Dit kan je doen door aan elk van de 5 knoppen (NOORD - OOST - ZUID - WEST - MIDDEN) een noot te binden. Een standaard pentatoniek is *Do (C), Re (D), Mi (E), Fa (F), Sol (G).
+![](embed/vh.png "Voorwaardelijke herhaling")  
+
+In tegenstelling tot de beperkte herhaling, stellen we hier i.p.v. een stopconditie een startconditie in. Zolang aan deze startconditie is voldaan, zal de inhoud van de lus herhaald worden.
+
+Voor opgave 4 van de buzzer, zullen we als startconditie instellen dat een knop moet ingedrukt zijn. Zolang dit het geval is, zal de buzzer de gewenste toon produceren. Zodra je de knop loslaat moet deze toon stoppen.
 
 Oplossing:
 
-![blockly](@learning-object/STD_Buzzer4-v1/nl/3)  
-
-Zoals je misschien merkt, is het niet zo eenvoudig om buzzertonen te binden aan de knoppen. De meest efficiënte manier om dit te doen wordt hierna uitgelegd.
+![blockly](@learning-object/STD_Buzzer32-v1/nl/3)  
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
