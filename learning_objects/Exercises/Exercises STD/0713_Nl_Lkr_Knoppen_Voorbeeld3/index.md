@@ -37,6 +37,6 @@ Wanneer het programma opstart verschijnt er "Hallo" op het lcd-scherm. Als je op
 
 Oplossing:
 
-![blockly](@learning-object/KNOPWGS2-v1/nl/3)
+![blockly](@learning-object/KNOPSTD3-v1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*
