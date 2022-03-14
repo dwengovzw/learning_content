@@ -66,6 +66,6 @@ In dit leerpad werden de voorbeelden voor de essentiële blokken reeds opgenomen
 
 ### Materiaal voor in de klas
 
-* Laptops (wordt meegeleverd)
+* Computers met internetverbinding
 * Gebouwde tekenrobot (wordt meegeleverd)
 
