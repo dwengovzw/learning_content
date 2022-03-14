@@ -66,6 +66,6 @@ Les exemples des blocs essentiels ont déjà été inclus dans ce parcours d'app
 
 ### Matériel pour la classe
 
-* Ordinateurs portables (inclus)
+* Ordinateurs avec connexion Internet
 * Robot de dessin intégré (inclus)
 
