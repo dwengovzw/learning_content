@@ -30,11 +30,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 ### Voorwaardelijke herhaling
-Om een voorwaardelijke herhaling uit te voeren, gebruik je de volgende blok:  
+Om een voorwaardelijke herhaling uit te voeren, gebruik je het volgende blok:  
 
 ![](embed/vh.png "Voorwaardelijke herhaling")  
 
-In tegenstelling tot de beperkte herhaling, stellen we hier i.p.v. een stopconditie een startconditie in. Zolang aan deze startconditie is voldaan, zal de inhoud van de lus herhaald worden.
+In tegenstelling tot de beperkte herhaling, stellen we hier, i.p.v. een stopconditie, een startconditie in. Zolang aan deze startconditie is voldaan, zal de inhoud van de lus herhaald worden.
 
 Voor opgave 4 van de buzzer, zullen we als startconditie instellen dat een knop moet ingedrukt zijn. Zolang dit het geval is, zal de buzzer de gewenste toon produceren. Zodra je de knop loslaat moet deze toon stoppen.
 

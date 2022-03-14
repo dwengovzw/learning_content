@@ -32,7 +32,7 @@ teacher_exclusive: true
 ### Voorbeeld buzzer
 OPGAVE 4
 
-Schrijf een programma zodat je de dwenguino kunt gebruiken als een pentatonisch (5 tonen) instrument. Dit kan je doen door aan elk van de 5 knoppen (NOORD - OOST - ZUID - WEST - MIDDEN) een noot te binden. Een standaard pentatoniek is *Do (C), Re (D), Mi (E), Fa (F), Sol (G).
+Schrijf een programma zodat je de dwenguino kunt gebruiken als een pentatonisch (5 tonen) instrument. Dit kan je doen door aan elk van de 5 knoppen (NOORD - OOST - ZUID - WEST - MIDDEN) een noot te binden. Een standaard pentatoniek is *Do (C), Re (D), Mi (E), Fa (F), Sol (G)*.
 
 Oplossing:
 
