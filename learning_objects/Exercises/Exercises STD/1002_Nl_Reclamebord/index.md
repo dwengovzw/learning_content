@@ -2,7 +2,7 @@
 hruid: STD_Uitbreiding_Reclamebord-v1
 version: 3
 language: nl
-title: "uitbreiding reclamebord"
+title: "Uitbreiding reclamebord"
 description: "Uitbreiding reclamebord"
 keywords: ["StartToDwenguino", "lcd", "wacht"]
 educational_goals: [

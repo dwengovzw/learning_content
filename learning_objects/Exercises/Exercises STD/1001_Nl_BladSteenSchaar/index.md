@@ -2,7 +2,7 @@
 hruid: STD_Uitbreiding_BladSteenSchaar-v1
 version: 3
 language: nl
-title: "Blad Steen Schaar"
+title: "Uitbreiding blad steen schaar"
 description: "De leerlingen programmeren de Dwenguino om blad-steen-schaar te spelen."
 keywords: ["StartToDwenguino", "LCD", "wacht", "knoppen", "AlsDanAnders"]
 educational_goals: [
