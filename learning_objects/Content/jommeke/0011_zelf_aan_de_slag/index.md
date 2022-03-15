@@ -6,7 +6,7 @@ title: "Zelf aan de slag"
 description: "Is de mens accurater dan een AI-systeem?"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -25,7 +25,7 @@ target_ages: [10, 11, 12, 13]
 
 ![Banner Jommeke](img/banner_jommeke_2.png)
 
-Jommeke is een Belgische stripreeks die werd bedacht en oorspronkelijk getekend door Jef Nys. Nu kennen we Jommeke allemaal als de jongen met het blonde haar en de blauwe trui maar wist je dat de verhalen van Jommeke vroeger in het zwart-wit getekend werden? Hieronder zie je een aatal voorbeelden van hoe de strip er vroeger uitzag.
+Jommeke is een Belgische stripreeks die werd bedacht en oorspronkelijk getekend door Jef Nys. Nu kennen we Jommeke allemaal als de jongen met het blonde haar en de blauwe trui, maar wist je dat de verhalen van Jommeke vroeger in het zwart-wit getekend werden? Hieronder zie je een aatal voorbeelden van hoe de strip er vroeger uitzag.
 
 ![Oude afbeelding Jommeke](img/jommeke_old/old0.png)
 ![Oude afbeelding Jommeke](img/jommeke_old/old1.png)
@@ -40,4 +40,4 @@ Aan de Universiteit Gent werd door Simon Schellaert een AI-systeem ontwikkeld da
 ![Jommeke apen zwart-wit](img/jommeke_flow/zwart-wit-apen-005.png "Omgezet naar zwart wit door alle kleuren wit te maken en enkel zwarte lijnen en vlakken te behouden.")
 ![Jommeke apen zwart-wit](img/jommeke_flow/ingekleurd-apen-005.png "De door het AI-systeem ingekleurde versie.")
 
-In het bovenstaande voorbeeld is duidelijk dat het algoritme in staat is om het zwart-wit prentje in te kleuren. Maar hoe goed is het AI-syteem? Is het even goed als een mens die de kleurentekeningen maakt? Vertoont het syteem menselijke intelligente en zoja, hoe intelligent is het dan?
+In het bovenstaande voorbeeld is duidelijk dat het algoritme in staat is om het zwart-wit prentje in te kleuren. Maar hoe goed is het AI-syteem? Is het even goed als een mens die de kleurentekeningen maakt? Vertoont het systeem menselijke intelligentie en zoja, hoe intelligent is het dan?
