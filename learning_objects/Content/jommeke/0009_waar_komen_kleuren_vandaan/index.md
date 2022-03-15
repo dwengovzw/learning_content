@@ -20,7 +20,7 @@ copyright: "CC BY dwengo"
 target_ages: [10, 11, 12, 13]
 ---
 
-## Waar komen de kleuren vandaan (3)?
+## Waar komen de kleuren vandaan? (3)
 
 Probeer hetzelfde voor de volgende afbeelding:
 
