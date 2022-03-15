@@ -1,0 +1,226 @@
+{
+    "hruid": "jommeke-vooroordelen-van-ai",
+    "language": "nl",
+    "title": "De vooroordelen van AI-systemen",
+    "description": "AI-systemen worden krachtiger en krachtiger, dit geeft de mogelijkheid om krachtige systemen te ontwikkelen die bepaalde menselijke taken overnemen. Toch zijn er ook gevaren bij het toepassen van AI-systemen. In dit leerpad zoomen we in op een aatal beperkingen van AI-systemen en leggen uit waarom het belangrijk is om zich bewust te zijn van deze problemen.",
+    "image": "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",
+    "nodes": [
+      {
+        "learningobject_hruid": "org-dwengo-jommeke-definitie-ai-systeem",
+        "language": "nl",
+        "version": "1",
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-jommeke-voorbeelden-ai-systemen",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-jommeke-voorbeelden-ai-systemen",
+        "language": "nl",
+        "version": "1",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-jommeke-fouten-van-ai-systemen",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-jommeke-fouten-van-ai-systemen",
+        "language": "nl",
+        "version": "1",
+        "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-fotos-inkleuren",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-fotos-inkleuren",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-fotos-voorstellen",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-fotos-voorstellen",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-1",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-fotos-voorstellen",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-1",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-1",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-2",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-2",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-3",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-3",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-4",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-4",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-zelf-aan-de-slag",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-zelf-aan-de-slag",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-turingtest",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-turingtest",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-turingtest-oplossing",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-turingtest-oplossing",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-zelf-tekening-maken",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-zelf-tekening-maken",
+          "language": "nl",
+          "version": "1"
+      }
+    ]
+  }
+  
