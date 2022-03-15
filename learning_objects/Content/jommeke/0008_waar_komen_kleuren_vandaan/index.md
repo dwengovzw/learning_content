@@ -6,7 +6,7 @@ title: "Foto's inkleuren (2)"
 description: "Is de mens accurater dan een AI-systeem?"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -21,7 +21,7 @@ target_ages: [10, 11, 12, 13]
 ---
 
 
-## Waar komen de kleuren vandaan (2)?
+## Waar komen de kleuren vandaan? (2)
 
 Hieronder zie je de originele versie van de afbeelding. Komt jouw inkleuring overeen met het origineel? **Hoe wist je welke kleur je moest gebruiken?**
 

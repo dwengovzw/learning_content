@@ -6,7 +6,7 @@ title: "Fouten van AI-systemen"
 description: "AI-systemen zijn niet perfect, ze kunnen ook fouten maken."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "bias", "vooroordelen"]
 content_type: "text/markdown"
-estimated_time: 7
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

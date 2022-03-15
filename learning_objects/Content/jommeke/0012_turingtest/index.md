@@ -6,7 +6,7 @@ title: "Turingtest"
 description: "Is de mens accurater dan een AI-systeem?"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -22,7 +22,7 @@ target_ages: [10, 11, 12, 13]
 
 ## Turingtest
 
-Al in 1936 bedacht Alan Turing een test om te bepalen in hoeverre een computersysteem menselijke intelligentie vertoont. In de originele test moet een gebruiker chatten met een persoon die deze niet kent. De peroon aan de andere kant van de chat is ofwel een echte persoon ofwel een computerprogramma die een persoon probeert na te doen. Als de gebruiker met een computer aan het chatten is maar dit niet door heeft dan slaagt het computerprogramma voor de Turingtest.
+Al in 1936 bedacht Alan Turing een test om te bepalen in hoeverre een computersysteem menselijke intelligentie vertoont. In de originele test moet een gebruiker chatten met een persoon die deze niet kent. De persoon aan de andere kant van de chat is ofwel een echte persoon ofwel een computerprogramma dat een persoon probeert na te doen. Als de gebruiker met een computer aan het chatten is, maar dit niet door heeft dan slaagt het computerprogramma voor de Turingtest.
 
 We hebben voor ons AI-systeem ook een soort van Turingtest opgesteld. Kan jij in onderstaande vragen aanduiden welke van de afbeeldingen het origineel is?
 
