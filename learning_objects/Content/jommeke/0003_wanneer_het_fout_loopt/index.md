@@ -6,7 +6,7 @@ title: "Fouten van AI-systemen"
 description: "AI-systemen zijn niet perfect, ze kunnen ook fouten maken."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "bias", "vooroordelen"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 7
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -46,7 +46,7 @@ Bron: [mediawijsheid.nl](https://www.mediawijsheid.nl/video/hoe-werken-deep-fake
 Fake news
 -------------
 
-AI-systemen maken het ook mogelijk om gemakkelijk nieuwsartikels te schrijven. Deze artikels zijn vaak echter niet gebaseerd op echte feiten. Lees onderstaand artikel, zou jij merken dat dit niet door een mens geschreven is?
+AI-systemen maken het ook mogelijk om gemakkelijk nieuwsartikels te schrijven. Deze artikels zijn echter vaak niet gebaseerd op echte feiten. Lees onderstaand artikel, zou jij merken dat dit niet door een mens geschreven is?
 
 ![](@learning-object/org-dwengo-jommeke-fake-review/nl/1)
 
