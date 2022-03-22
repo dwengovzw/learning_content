@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 OPGAVE 3
 
-Wanneer het programma opstart verschijnt er "Hallo" op het lcd-scherm. Als je op de NOORD-knop drukt moet deze tekst verdwijnen en gaat led 0 branden. Als je op de ZUID-knop drukt gaat led 0 uit en verschijnt er opnieuw tekst op het lcd-scherm.
+Wanneer het programma opstart, verschijnt er "Hallo" op het lcd-scherm. Als je op de NOORD-knop drukt, moet deze tekst verdwijnen en gaat led 0 branden. Als je op de ZUID-knop drukt, gaat led 0 uit en verschijnt er opnieuw tekst op het lcd-scherm.
 
 Oplossing:
 
