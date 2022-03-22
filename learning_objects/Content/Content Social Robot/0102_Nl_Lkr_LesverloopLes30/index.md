@@ -1,5 +1,5 @@
 ---
-hruid: SR_Lkr_Les3-v1
+hruid: SR_Lkr_Les30-v1
 version: 3
 language: nl
 title: "Module 3"
@@ -33,7 +33,6 @@ teacher_exclusive: true
 
 # Lesverloop
 ## Module 3: Constructie van de robot (± 3 lesuren)
-*Onderstaande link brengt je naar module 3 van Sociale Robot* 
 [Module 3: Bouwen van de robot](https://www.dwengo.org/socialerobot3 "Module 3")  
 
 **Lesfase A - Verzamelen materiaal**
