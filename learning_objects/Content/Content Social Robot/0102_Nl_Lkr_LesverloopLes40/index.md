@@ -1,5 +1,5 @@
 ---
-hruid: SR_Lkr_Les4-v1
+hruid: SR_Lkr_Les40-v1
 version: 3
 language: nl
 title: "Module 4"
@@ -32,7 +32,6 @@ teacher_exclusive: true
 
 # Lesverloop
 ## Module 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
-*Onderstaande link brengt je naar module 4 van Sociale Robot* 
 [Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/socialerobot4 "Module 4")  
 
 **Lesfase A - Creatieve opdrachten**
