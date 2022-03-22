@@ -20,4 +20,16 @@ copyright: "CC BY dwengo"
 target_ages: [10, 11, 12, 13]
 ---
 
-TODO
+# Foto's voorstellen
+
+Een foto of digitaal beeld bestaat uit een eindig aantal pixels. Het woord 'pixel' is afgeleid van de Engelse woorden *picture* (afbeelding) en *element*. Het woord 'digitaal' komt van het Latijnse *digitus* (vinger) en verwijst naar het tellen op de vingers. 
+
+Bekijk de afbeelding van Jommeke. Je kan inzoomen op een bepaald deel van de foto. 
+
+![](embed/banner_jommeke_2.png) 
+
+Als je dit genoeg doet dan kan je de verschillende pixels onderscheiden. 
+
+![](embed/banner_jommeke_22.png) 
+
+Om de kleuren van een afbeelding aan te passen, moet je dus de kleur van de pixels aanpassen. 

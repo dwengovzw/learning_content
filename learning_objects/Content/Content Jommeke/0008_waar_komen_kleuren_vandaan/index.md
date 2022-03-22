@@ -25,7 +25,4 @@ target_ages: [10, 11, 12, 13]
 
 Hieronder zie je de originele versie van de afbeelding. Komt jouw inkleuring overeen met het origineel? **Hoe wist je welke kleur je moest gebruiken?**
 
-
-TODO: Iemand zoeken die pixel art kan maken van jommeke?
-
 ![Mario](img/image2.png)
