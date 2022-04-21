@@ -31,5 +31,6 @@ teacher_exclusive: true
 ---
 
 # Principes van programmeren
-Dwengo gebruikt deze icoontjes om te verwijzen naar de principes van programmeren, ook opgenomen in de eindtermen.
-![](embed/Poster.png)
+In onderstaand filmpje wordt kort uitleg gegeven over het lesmateriaal dat Dwengo aanbiedt. 
+
+![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")

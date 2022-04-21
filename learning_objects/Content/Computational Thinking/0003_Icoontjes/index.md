@@ -2,8 +2,8 @@
 hruid: CD_Icoontjes-v1
 version: 3
 language: nl
-title: "Icoontjes"
-description: "Icoontjes"
+title: "Concepten en principes"
+description: "Concepten en principes"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Icoontjes
-In het lesmateriaal van Dwengo zal je veel icoontjes tegenkomen die verwijzen naar de concepten van computationeel denken.
+In het lesmateriaal van Dwengo zal je af en toe icoontjes tegenkomen die verwijzen naar concepten en principes van computationeel denken.
 
-![](embed/Poster.png)
+![](embed/Poster2.png)
