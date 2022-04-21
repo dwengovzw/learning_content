@@ -39,5 +39,5 @@ In het volgende filmpje krijg je enkele voorbeelden uit de klas voorgeschoteld.
   
 ![](embed/Ppt.png)
   
-Door te programmeren kan je de conepten van computationeel denken aanleren aan je leerlingen.  
+Door te programmeren kan je de concepten van computationeel denken aanleren aan je leerlingen.  
 Dat kan met of zonder computer, men spreekt van *plugged* en *unplugged* activiteiten.

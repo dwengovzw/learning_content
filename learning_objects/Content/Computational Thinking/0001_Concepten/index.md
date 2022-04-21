@@ -30,6 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Inleiding
+# Computationeel denken
 
-Computationeel denken maakt verdiend deel uit van de eindtermen. Onze wereld is steeds meer en meer gedigitaliseerd en computationeel denken is nodig om de digitale wereld te begrijpen.
+In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer. 
+
+Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met behulp van jouw technische kennis de computer aan het werk zet om het probleem op te lossen.
