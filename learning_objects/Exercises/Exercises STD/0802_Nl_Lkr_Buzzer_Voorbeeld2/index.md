@@ -29,10 +29,10 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-### Voorbeeld buzzer
+### Voorbeeld zoemer
 OPGAVE 2 
 
-Schrijf een programma zodat de buzzer een toon afspeelt gedurende 1 seconde wanneer je de NOORD-knop indrukt.  
+Schrijf een programma zodat de zoemer een toon afspeelt gedurende 1 seconde wanneer je de NOORD-knop indrukt.  
 
 
 Oplossing:
