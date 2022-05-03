@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Principes van programmeren
+# Lesmateriaal
 In onderstaand filmpje wordt kort uitleg gegeven over het lesmateriaal dat Dwengo aanbiedt. 
 
 ![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")
