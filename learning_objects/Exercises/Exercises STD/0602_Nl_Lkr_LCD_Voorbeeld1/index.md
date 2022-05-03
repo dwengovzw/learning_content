@@ -39,6 +39,8 @@ Oplossing:
 
 ![blockly](@learning-object/LCDM1-v1/nl/3)
 
-De tekst 'Welkom robot' kan je aanpassen. De twee nullen betekenen: eerste lijn, eerste karakter.
+"schrijf tekst": Hier kan je de tekst schrijven die je wilt laten verschijnen. Het lcd-scherm kan maximaal 16 karakters tonen op eenzelfde lijn. 
+"op rij": Hier geef je aan op welke rij je de tekst wilt laten verschijnen; 0 voor de eerste en 1 voor de tweede rij.
+"vanaf kolom": Hier geef je aan vanaf welke kolom de tekst moet verschijnen.
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
