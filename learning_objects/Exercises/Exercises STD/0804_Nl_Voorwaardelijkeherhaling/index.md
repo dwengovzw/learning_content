@@ -34,12 +34,12 @@ Om een voorwaardelijke herhaling uit te voeren, gebruik je het volgende blok:
 
 ![](embed/vh.png "Voorwaardelijke herhaling")  
 
-In tegenstelling tot de beperkte herhaling, stellen we hier, i.p.v. een stopconditie, een startconditie in. Zolang aan deze startconditie is voldaan, zal de inhoud van de lus herhaald worden.
+In tegenstelling tot de begrensde herhaling, stellen we hier, i.p.v. een start- en stopwaarde, een startconditie in. Als aan de startconditie voldaan is, zal de lus opstarten. Eens opgestart, zal de inhoud van de lus herhaald worden tot er niet langer aan de startconditie wordt voldaan.
 
 Voor opgave 4 van de buzzer, zullen we als startconditie instellen dat een knop moet ingedrukt zijn. Zolang dit het geval is, zal de buzzer de gewenste toon produceren. Zodra je de knop loslaat moet deze toon stoppen.
 
 Oplossing:
 
-![blockly](@learning-object/STD_Buzzer32-v1/nl/3)  
+![blockly](@learning-object/STD_Buzzer4-v1/nl/3)  
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

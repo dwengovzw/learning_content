@@ -2,7 +2,7 @@
 hruid: STD_BH-v1
 version: 3
 language: nl
-title: "Beperkte Herhaling"
+title: "Begrensde Herhaling"
 description: "Beperkte Herhaling"
 keywords: ["StartToDwenguino", "Lussen"]
 educational_goals: [
@@ -29,15 +29,17 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-### Beperkte herhaling
+### Begrensde herhaling
 
-Om een beperkte herhaling uit te voeren, gebruik je de volgende blok:  
+Om een begrensde herhaling uit te voeren, gebruik je het volgende blok:  
 
 ![](embed/Beperkteherhaling.png "Beperkte herhaling")  
 
-Je stelt hiermee een voorwaarde in voor het aantal herhalingen, namelijk de waarde van de *teller i*. Deze begint bij 0 en er wordt per herhaling 1 bij opgeteld. De herhaling stopt zodra de stopvoorwaarde bereikt wordt.  
+Je stelt hiermee het aantal herhalingen in, aan de hand van een *teller* die een start- en stopwaarde opgelegd krijgt. Deze teller werd in het voorbeeld 'i' genoemd, begint bij 0 en er wordt per herhaling 1 bij opgeteld. De herhaling stopt zodra de stopwaarde bereikt wordt. 
 
-Voor opgave 3 van de buzzer kan je dus elk deel dat herhaald moet worden, inkorten door een beperkte herhaling te gebruiken. Omdat elk deel slechts 1 keer moet herhaald worden, stel je de stopvoorwaarde in op 1.
+*Wat is de stopwaarde in het voorbeeld? Hoeveel keer wordt deze lus dus herhaald?*
+
+Voor opgave 3 van de buzzer kan je dus elk deel dat herhaald moet worden, inkorten door een begrensde herhaling te gebruiken. Omdat elk deel 2 keer moet afgespeeld worden (1 herhaling), stel je de stopwaarde in op 1.
 
 Oplossing:
 
