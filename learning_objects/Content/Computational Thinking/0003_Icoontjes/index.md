@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Icoontjes
-In het lesmateriaal van Dwengo zal je af en toe icoontjes tegenkomen die verwijzen naar concepten en principes van computationeel denken.
+In het lesmateriaal van Dwengo zal je af en toe icoontjes tegenkomen die verwijzen naar de concepten en de aanpak van computationeel denken en de principes van programmeren.
 
 ![](embed/Poster2.png)
