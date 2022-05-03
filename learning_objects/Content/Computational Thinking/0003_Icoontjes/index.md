@@ -31,3 +31,6 @@ teacher_exclusive: true
 ---
 
 # Icoontjes
+In het lesmateriaal van Dwengo, zal je af en toe iconen tegenkomen. Hieronder vind je een overzicht terug. 
+
+![](embed/iconen.png "iconen")
