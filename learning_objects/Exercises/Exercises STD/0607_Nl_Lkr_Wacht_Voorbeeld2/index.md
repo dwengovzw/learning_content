@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 ### Voorbeeld Wacht
 
-Dit kan je op 2 manieren oplossen. 
+Dit kan je als volgt oplossen. 
 
 **Manier 1**
 

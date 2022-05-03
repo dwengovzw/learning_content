@@ -35,11 +35,11 @@ In het onderstaande filmpje wordt getoond hoe je een programma van eender welke 
 Het is belangrijk dat je alle stappen doorloopt zoals getoond in het filmpje!
 
 * Schrijf het programma;
-* Download het programma;
+* Download het programma met de uploadknop ![](embed/upload.png "Uploaden") in het hoofdmenu;
 * Open downloads, daar staat nu een .dw bestand
-* Sluit de Dwenguino aan en druk op RESET + ZUID, laat vervolgens de resetknop los;
-* De Dwenguino staat tussen je mappen als USB-stick;
+* Sluit de Dwenguino aan en druk op RESET + ZUID, laat vervolgens de RESET-knop, dan de ZUID-knop los;
+* De Dwenguino staat in de verkenner tussen de mappen als USB-toestel;
 * Kopieer het .dw bestand naar de Dwenguino;
-* Druk op RESET
+* Druk op RESET.
 
 ![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Uploaden Dwenguino")
