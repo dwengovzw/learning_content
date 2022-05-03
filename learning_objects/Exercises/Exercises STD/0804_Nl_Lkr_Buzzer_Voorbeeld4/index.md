@@ -38,6 +38,6 @@ Oplossing:
 
 ![blockly](@learning-object/STD_Buzzer4-v1/nl/3)  
 
-Zoals je misschien merkt, is het niet zo eenvoudig om buzzertonen te binden aan de knoppen. De meest efficiënte manier om dit te doen wordt hierna uitgelegd.
+Zoals je misschien merkt, is het niet zo eenvoudig om zoemertonen te binden aan de knoppen. De meest efficiënte manier om dit te doen wordt hierna uitgelegd.
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
