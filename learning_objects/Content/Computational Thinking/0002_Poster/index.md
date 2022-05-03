@@ -32,6 +32,6 @@ teacher_exclusive: true
 
 # Concepten en vaardigheden
 
-![](embed/Poster.png)
+![](embed/poster.png)
   
 Deze poster is gebaseerd op een poster van *Barefoot Composing* uit het Verenigd Koninkrijk. Op de poster zie je de concepten van computationeel denken en de bijhorende vaardigheden.
