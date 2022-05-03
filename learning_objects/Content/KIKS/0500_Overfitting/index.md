@@ -1,9 +1,9 @@
 ---
-hruid: AIZ_Inleiding-v1
+hruid: KIKS_Overfitting-v1
 version: 3
 language: nl
-title: "Inleiding"
-description: "Inleiding"
+title: "Overfitting"
+description: "Overfitting"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,5 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Inleiding
-Zie iLearn teaser
+# Overfitting
+Tekst 
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1713 "Overfitting")

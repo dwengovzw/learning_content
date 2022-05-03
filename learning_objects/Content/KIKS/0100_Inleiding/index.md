@@ -1,5 +1,5 @@
 ---
-hruid: AIZ_Inleiding-v1
+hruid: KIKS_Inleiding-v1
 version: 3
 language: nl
 title: "Inleiding"
@@ -31,4 +31,4 @@ teacher_exclusive: true
 ---
 
 # Inleiding
-Zie iLearn teaser
+Tekst

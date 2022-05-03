@@ -1,9 +1,9 @@
 ---
-hruid: AIZ_Inleiding-v1
+hruid: KIKS_Stomata-v1
 version: 3
 language: nl
-title: "Inleiding"
-description: "Inleiding"
+title: "Stomatadetectie"
+description: "Stomatadetectie"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,5 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Inleiding
-Zie iLearn teaser
+# Stomatadetectie
+Tekst 
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1711 "Stomatadetectie")

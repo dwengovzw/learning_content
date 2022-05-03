@@ -1,9 +1,9 @@
 ---
-hruid: AIZ_Inleiding-v1
+hruid: KIKS_Convoluties-v1
 version: 3
 language: nl
-title: "Inleiding"
-description: "Inleiding"
+title: "Convoluties en andere technieken"
+description: "Convoluties en andere technieken"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,5 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Inleiding
-Zie iLearn teaser
+# Convoluties en andere technieken
+Tekst 
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1712 "Convoluties")
