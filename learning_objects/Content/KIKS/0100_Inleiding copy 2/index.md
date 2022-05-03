@@ -1,9 +1,9 @@
 ---
-hruid: T-v1
+hruid: AIZ_Inleiding-v1
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Inleiding"
+description: "Inleiding"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,10 +30,5 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
-
-## Tussentitel
-
-### Subtitel
-
-**Onderverdeling**
+# Inleiding
+Zie iLearn teaser
