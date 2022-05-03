@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 OPGAVE 1
 
-Het programma start op. Als de NOORD-knop wordt ingedrukt, gaat het eerste ledje (led 0) branden.
+Het programma begint pas te lopen wanneer de NOORD-knop wordt ingedrukt. Eens de NOORD-knop ingedrukt is, gaat het eerste ledje (led 0) branden.
 
 
 Oplossing:

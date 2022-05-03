@@ -37,6 +37,8 @@ Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje 
 
 Oplossing:
 
-![blockly](@learning-object/KNOPWGS2-v1/nl/3)
+![blockly](@learning-object/KNOPWGS2-v1/nl/3) 
+
+Waarom is het hier van belang dat we de code in het *'herhaal'-deel* van de code plaatsen?
 
 *Test deze voorbeelden ook zelf uit in de simulator!*
