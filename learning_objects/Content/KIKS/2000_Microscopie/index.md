@@ -1,9 +1,9 @@
 ---
-hruid: AIZ_Inleiding-v1
+hruid: KIKS_Microscopie-v1
 version: 3
 language: nl
-title: "Inleiding"
-description: "Inleiding"
+title: "Microscopie"
+description: "Microscopie"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,4 +31,4 @@ teacher_exclusive: true
 ---
 
 # Inleiding
-Zie iLearn teaser
+KIKS in de klas
