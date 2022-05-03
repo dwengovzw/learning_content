@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # WIP
-### Oefening led
+### Oefening zoemer
 OPGAVE 4
 
 Schrijf een programma dat het volgende doet:

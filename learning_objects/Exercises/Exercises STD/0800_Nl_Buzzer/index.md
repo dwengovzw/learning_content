@@ -3,7 +3,7 @@ hruid: STD_Buzzer-v1
 version: 3
 language: nl
 title: "Uitleg Zoemer"
-description: "Uitleg led"
+description: "Uitleg zoemer"
 keywords: ["StartToDwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,4 +31,6 @@ teacher_exclusive: false
 ---
 ## Zoemer
 
-Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoemer of buzzer. Hiermee kan je geluiden afspelen.
+Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoemer of buzzer. Hiermee kan je geluiden afspelen. 
+
+![](embed/ZoemerDwenguino.png "Zoemer")

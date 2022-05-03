@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-### Voorbeeld buzzer
+### Voorbeeld zoemer
 OPGAVE 1  
 
 Schrijf een programma zodat de buzzer een toon met frequentie 262 Hz afspeelt in intervallen van 1 seconde aan en 1 seconde uit.
