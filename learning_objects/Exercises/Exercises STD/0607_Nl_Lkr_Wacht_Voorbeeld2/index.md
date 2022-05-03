@@ -31,11 +31,7 @@ teacher_exclusive: true
 ---
 ### Voorbeeld Wacht
 
-Dit kan je als volgt oplossen. 
-
-**Manier 1**
-
-De eerste manier is om de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.
+Dit kan je gemakkelijk oplossen door de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.
 
 ![blockly](@learning-object/WACHTWGS2-v1/nl/3)
 
