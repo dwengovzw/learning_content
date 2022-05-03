@@ -1,8 +1,8 @@
 ---
-hruid: CD_VConcepten-v1
+hruid: CD_Icoontjes-v1
 version: 3
 language: nl
-title: "Voornaamste concepten"
+title: "Icoontjes"
 description: "Voornaamste concepten"
 keywords: [""]
 educational_goals: [

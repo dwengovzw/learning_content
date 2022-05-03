@@ -1,9 +1,9 @@
 ---
-hruid: CD_Icoontjes-v1
+hruid: CD_Basisconcepten-v1
 version: 3
 language: nl
-title: "Icoontjes"
-description: "Icoontjes"
+title: "Basisconcepten"
+description: "Concepten en principes"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,4 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Icoontjes
+# Basisconcepten
+In het lesmateriaal van Dwengo zal je af en toe icoontjes tegenkomen die verwijzen naar de concepten en de aanpak van computationeel denken en de principes van programmeren.
+
+![](embed/Poster2.png)

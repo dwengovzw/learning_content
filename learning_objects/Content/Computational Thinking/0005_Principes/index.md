@@ -2,7 +2,7 @@
 hruid: CD_PrincipesvProgrammeren-v1
 version: 3
 language: nl
-title: "Principes van programmeren"
+title: "Lesmateriaal"
 description: "Principes van programmeren"
 keywords: [""]
 educational_goals: [
