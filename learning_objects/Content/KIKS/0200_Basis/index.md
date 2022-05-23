@@ -1,9 +1,9 @@
 ---
-hruid: KIKS_Basis-v1
+hruid: KIKS_Stomatateller-v1
 version: 3
 language: nl
-title: "Basis"
-description: "Basis"
+title: "Stomatateller"
+description: "Stomatateller"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 

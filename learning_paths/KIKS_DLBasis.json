@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "KIKS_Basis-v1",
+            "hruid": "KIKS_Stomatateller-v1",
             "version": "3",
             "language": "nl"
           }
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "learningobject_hruid": "KIKS_Basis-v1",
+      "learningobject_hruid": "KIKS_Stomatateller-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
