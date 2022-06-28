@@ -30,21 +30,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "CD_Icoontjes-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "CD_Icoontjes-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "CD_PrincipesvProgrammeren-v1",
             "version": "3",
             "language": "nl"
