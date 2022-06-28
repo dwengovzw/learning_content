@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 
 # NumPy-lijsten
-NumPy voorziet een eigen datatype voor lijsten waarbij je uitgebreid wiskundige berekeningen kan doen.
+NumPy voorziet een eigen datatype voor lijsten waarmee je uitgebreid wiskundige berekeningen kan doen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1015 "Notebooks Rekenen")
 
