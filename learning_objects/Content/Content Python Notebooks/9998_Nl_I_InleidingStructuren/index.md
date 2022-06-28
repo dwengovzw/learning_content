@@ -31,4 +31,4 @@ skos_concepts: [
 
 # Inleiding
 
-Alle programmeertalen kennen dezelfde principe: sequentie-, herhalings- en keuzestructuren. De syntax kan verschillen, maar het concept blijft hetzelfde.
+Alle programmeertalen kennen dezelfde principes: sequentie-, herhalings- en keuzestructuren. De syntax kan verschillen, maar de concepten blijven.
