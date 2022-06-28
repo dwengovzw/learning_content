@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+Test
 
 # Computationeel denken: de 4 voornaamste concepten
 In dit deel van het leerpad wordt a.d.h.v. enkele heel eenvoudige voorbeelden uitgelegd wat de concepten decompositie, algoritme, patroonherkenning en abstractie inhouden.
