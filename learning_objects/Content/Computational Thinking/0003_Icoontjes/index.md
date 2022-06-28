@@ -1,5 +1,5 @@
 ---
-hruid: CD_-v1
+hruid: CD_icoontjes-v1
 version: 3
 language: nl
 title: "Icoontjes"
