@@ -160,6 +160,21 @@
     {
       "learningobject_hruid": "PN_NPArray-v1",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "AIZ_Dataframe-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "AIZ_Dataframe-v1",
+      "version": "3",
       "language": "nl"
     } 
   ]
