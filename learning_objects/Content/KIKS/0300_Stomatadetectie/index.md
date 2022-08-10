@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Stomatadetectie
-Tekst 
+In deze notebook wordt een diep neuraal netwerk gebruikt om stomata op een grote afbeelding te herkennen.  
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1711 "Stomatadetectie")
