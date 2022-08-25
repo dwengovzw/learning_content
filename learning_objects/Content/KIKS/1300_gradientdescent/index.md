@@ -33,4 +33,4 @@ teacher_exclusive: true
 # Gradient Descent
 Lorem ipsum
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Gradient descent")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1760 "Gradient descent")

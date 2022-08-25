@@ -2,8 +2,8 @@
 hruid: KIKS_relu-v1
 version: 3
 language: nl
-title: "Re LU"
-description: "Re LU"
+title: "ReLU"
+description: "ReLU"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Re LU
+# ReLU
 Lorem ipsum
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Re LU")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1752 "Re LU")

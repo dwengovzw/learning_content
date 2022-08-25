@@ -33,4 +33,4 @@ teacher_exclusive: true
 # Convolutie Bewerking
 Lorem ipsum
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Convolutie bewerking")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1751 "Convolutie bewerking")
