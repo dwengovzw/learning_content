@@ -33,4 +33,4 @@ teacher_exclusive: true
 # Standaardiseren
 Lorem ipsum
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Standaardiseren")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0207 "Standaardiseren")
