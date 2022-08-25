@@ -1,9 +1,9 @@
 ---
-hruid: KIKS_Parameters-v1
+hruid: KIKS_stomata_zon_schaduw-v1
 version: 3
 language: nl
-title: "Parameters"
-description: "Parameters"
+title: "Stomata zon - shaduw"
+description: "Stomata zon - schaduw"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Parameters
-In deze notebook train en test je jouw eigen diep neuraal netwerk om stomata te detecteren. 
+# Stomata zon - schaduw
+lorem ipsum
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Parameters")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1802 "Stomata zon - schaduw")
