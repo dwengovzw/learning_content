@@ -1,9 +1,9 @@
 ---
-hruid: KIKS_basisdiepneuraalnetwerk-v1
+hruid: KIKS_opbouwdiepneuraalnetwerk-v1
 version: 3
 language: nl
-title: "Basis diep neuraal netwerk"
-description: "Basis diep neuraal netwerk"
+title: "Opbouw diep neuraal netwerk"
+description: "Opbouw diep neuraal netwerk"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Basis Diep Neuraal Netwerk
+# Opbouw Diep Neuraal Netwerk
 Lorem ipsum
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Diep neuraal netwerk")
