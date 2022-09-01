@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Opbouw diep neuraal netwerk"
 description: "Opbouw diep neuraal netwerk"
-keywords: [""]
+keywords: ["AI"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
