@@ -100,21 +100,6 @@
     {
       "learningobject_hruid": "PN_ZNReg-v1",
       "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "PN_SlotKlimaat-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "PN_SlotKlimaat-v1",
-      "version": "3",
       "language": "nl"
     } 
   ]
