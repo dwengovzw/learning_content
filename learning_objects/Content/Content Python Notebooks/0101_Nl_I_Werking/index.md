@@ -48,4 +48,7 @@ Dit zijn de twee notebooks waarin je resp. een overzicht krijgt van de opbouw en
 Na het doorlopen van beide notebooks heb je een goed idee van hoe we verder met de python notebooks te werk gaan.
 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")  
+  
+Vergeet na het doorlopen van deze reeks notebooks zeker niet om uit te loggen!!  
+Doe je dit niet, dan zal je telkens opnieuw dezelfde reeks notebooks te zien krijgen in jouw browser.  
