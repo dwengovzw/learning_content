@@ -50,5 +50,6 @@ Na het doorlopen van beide notebooks heb je een goed idee van hoe we verder met 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")  
   
-**Vergeet na het doorlopen van deze reeks notebooks zeker niet om uit te loggen!!  **
+**Vergeet na het doorlopen van deze reeks notebooks zeker niet om uit te loggen!!  **  
+
 Doe je dit niet, dan zal je telkens opnieuw dezelfde reeks notebooks te zien krijgen in jouw browser.  
