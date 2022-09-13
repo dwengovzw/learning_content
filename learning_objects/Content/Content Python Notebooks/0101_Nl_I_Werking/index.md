@@ -32,14 +32,20 @@ skos_concepts: [
 
 # Werken met notebooks
 
-Het lesmateriaal van 'Python in wiskunde en STEM' wordt aangeboden in de vorm van interactieve notebooks. Notebooks zijn digitale documenten die zowel uitvoerbare code bevatten als tekst, afbeeldingen, video, hyperlinks... In onze notebooks worden nieuwe begrippen aangebracht via tekstuele uitleg, video en afbeeldingen. Je vindt er uitgewerkte voorbeelden en kleine en grote opdrachten. Je voert de aanwezige code uit en stelt zelf code op. 
+Het lesmateriaal dat je hier terugvindt wordt aangeboden in de vorm van interactieve **_notebooks_**. 
+Notebooks zijn _digitale documenten_ die zowel uitvoerbare code bevatten als tekst, afbeeldingen, video, hyperlinks.... 
 
-De code in de notebooks is Python3. We kozen voor Python omdat dit een heel toegankelijke programmeertaal is, die vaak ook intuïtief is.  
-Python is bovendien bezig aan een opmars binnen de meest gebruikte computertalen. Gekende gebruikers zijn bv. Google, NASA, Netflix, Uber, AstraZeneca, Barco, Instagram en YouTube.
+_Nieuwe begrippen_ worden aangebracht via tekstuele uitleg, video’s en afbeeldingen. 
 
-In de eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag gaat. 
+Er zijn uitgewerkte _voorbeelden_ met daarnaast ook kleine en grote _opdrachten_.  In deze opdrachten zal je aangeboden code kunnen uitvoeren, maar ook zelf code opstellen.
 
----
-Wanneer je op onderstaande knop drukt, zal je verwezen worden naar een andere site waar je persoonlijke notebooks worden geladen. Dit kan enkele seconden duren.
+De in deze notebooks gebruikte code is Python versie 3. We kozen voor Python omdat dit een heel toegankelijke programmeertaal is en ook heel veel wordt gebruikt door bedrijven zoals o.a. Google, NASA, Netflix, Uber, AstraZeneca, Barco, Instagram en YouTube.
+
+Klik je op onderstaande knop,  dan wordt je doorgestuurd naar een andere website waar jouw persoonlijke notebooks ingeladen worden. (Dit kan even duren)
+Je vindt er (op het tabblad _Files_) twee bestanden met extensie _.ipynb_.
+Dit zijn de twee notebooks waarin je resp. een overzicht krijgt van de opbouw en mogelijkheden en hoe je er mee aan de slag kan. 
+
+Na het doorlopen van beide notebooks heb je een goed idee van hoe we verder met de python notebooks te werk gaan.
+
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")
