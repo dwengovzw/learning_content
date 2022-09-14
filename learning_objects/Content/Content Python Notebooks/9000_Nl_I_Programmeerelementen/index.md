@@ -29,5 +29,4 @@ skos_concepts: [
 ]
 ---
 # Inleiding
-In de eindtermen wordt gewag gemaakt van sequentie, herhalingsstructuur en keuzestructuur: de principes van programmeren.  
-Maar om je eigen code op te stellen is het niet voldoende dat je de principes kent; ook andere programmeerelementen zijn van belang, zoals variabelen, datastructuren, operatoren en functies.
+In dit leerpad leer je invoer vragen van de gebruiker. Je begrijpt wat uitvoer is. Je gaat aan de slag met functies en klassen. Je gebruikt deze nieuwe kennis in combinatie met structuren.
