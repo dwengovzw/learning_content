@@ -66,9 +66,23 @@
           }
         }
       ]
+    },{
+      "learningobject_hruid": "PN_FunctiesCombiPE-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "PN_KlassenPE-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
     },
     {
-      "learningobject_hruid": "PN_FunctiesCombiPE-v1",
+      "learningobject_hruid": "PN_KlassenPE-v1",
       "version": "3",
       "language": "nl"
     } 
