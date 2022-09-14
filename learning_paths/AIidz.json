@@ -15,6 +15,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "AIZ_voorstellinggraaf-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "AIZ_voorstellinggraaf-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "AIZ_Voorbeeld-v1",
             "version": "3",
             "language": "nl"
