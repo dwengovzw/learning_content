@@ -30,6 +30,36 @@
         {
           "default": true,
           "next": {
+            "hruid": "KIKS_opbouwdiepneuraalnetwerk-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "KIKS_opbouwdiepneuraalnetwerk-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "KIKS_Overfitting-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "KIKS_Overfitting-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "KIKS_Stomata-v1",
             "version": "3",
             "language": "nl"
@@ -54,21 +84,6 @@
     },
     {
       "learningobject_hruid": "KIKS_Convoluties-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "KIKS_Overfitting-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "KIKS_Overfitting-v1",
       "version": "3",
       "language": "nl"
     } 
