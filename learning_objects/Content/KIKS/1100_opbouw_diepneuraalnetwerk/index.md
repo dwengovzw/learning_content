@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Opbouw Diep Neuraal Netwerk
-Lorem ipsum
+In deze notebook maak je stap voor stap kennis met de opbouw van een *diep neuraal netwerk* dat een oplossing biedt voor een classificatieprobleem. Bij de ontwikkeling van een neuraal netwerk maak je meerdere keuzes en leg je de waarden van enkele parameters vast. Deze keuzes bepalen de architectuur van het netwerk en hoe de training van het netwerk verloopt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1701 "Diep neuraal netwerk")
