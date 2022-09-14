@@ -33,4 +33,4 @@ teacher_exclusive: true
 # Opbouw Diep Neuraal Netwerk
 Lorem ipsum
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Diep neuraal netwerk")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1701 "Diep neuraal netwerk")
