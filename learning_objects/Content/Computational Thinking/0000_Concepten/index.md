@@ -32,6 +32,11 @@ teacher_exclusive: true
 
 # Computationeel denken
 
-In onze steeds meer gedigitaliseerde wereld is het belangrijk dat iedereen naast rekenen, lezen en schrijven ook computationeel kan denken. Computationeel denken gaat over het vermogen om problemen op te lossen met behulp van een computer. 
+De digitalisering van de maatschappij heeft een enorme impact op ons leven. De computer is alomtegenwoordig, het nemen van beslissingen gebeurt steeds meer geautomatiseerd door algoritmen, de meesten gaan de deur niet uit zonder smartphone en velen besteden dagelijks uren aan het checken van hun sociale media.
+Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar ieder heeft voor zich wel de keuze hoe men ermee omgaat: men kan het ondergaan of men kan het proberen te begrijpen en er op een bewuste manier proberen mee om te gaan. 
 
-Wanneer je computationeel denkt, dan denk je na over de stappen die nodig zijn om tot een oplossing van een bepaald probleem te komen, waarna je met behulp van jouw technische kennis de computer aan het werk zet om het probleem op te lossen.
+Wereldwijd is er een groeiende aandacht voor computationeel denken, een manier van denken die aan de basis ligt van alle digitale toepassingen. Computationeel kunnen denken moet mensen in staat stellen om zich weerbaar en flexibel te kunnen opstellen tegenover nieuwe digitale toepassingen. Daarom kiezen steeds meer landen ervoor om computationeel denken in de leerdoelen van het secundair onderwijs op te nemen. 
+In Vlaanderen is computationeel denken bv. verplicht voor alle leerlingen van de eerste graad, en kreeg het zelfs de status van basisgeletterdheid. Dat betekent dat elke individuele leerling de opgelegde doelstellingen dient te behalen. 
+
+Er is echter nog veel werk aan de winkel. Er is nog veel onzekerheid over welke concepten van computationeel denken het beste aan bod komen in het onderwijs en hoe dat dan het beste gebeurt. Ook de professionalisering van leerkrachten verdient de nodige aandacht, want ze zijn i.v.m. computationeel denken onvoldoende vertrouwd met de terminologie en mogelijke manieren van aanpak betreffende didactiek en evaluatie. 
+Een historisch overzicht van het ontstaan van computationeel denken, de ervaringen die men in het buitenland al had in het onderwijs, en inzichten van specialisten ter zake kunnen hier de weg wijzen.

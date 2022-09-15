@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "T-v1",
+            "hruid": "CD_historiek-v1",
             "version": "3",
             "language": "nl"
           }
@@ -23,7 +23,22 @@
       ]
     },
     {
-      "learningobject_hruid": "T-v1",
+      "learningobject_hruid": "CD_historiek-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "CD_internationaalbelang-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "CD_internationaalbelang-v1",
       "version": "3",
       "language": "nl"
     } 
