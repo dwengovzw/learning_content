@@ -47,7 +47,7 @@ Tevens in de 18de eeuw moest de Mechanische Turk (zie Figuur 2.1) de mensen late
 
 ![Kopergravure van de Mechanische Turk met open kastdeuren (von Windisch, 1783)](embed/image.png) 
 <figure>
-    <img src="0402_historiek/embed/image.png">
+    <img src="/embed/image.png">
     <figcaption align = "center"><b>Kopergravure van de Mechanische Turk met open kastdeuren (von Windisch, 1783)</b></figcaption>
 </figure>
 
