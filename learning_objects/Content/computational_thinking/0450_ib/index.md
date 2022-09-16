@@ -48,6 +48,6 @@ Over de hele wereld wordt dan ook gepleit om de jongeren computationeel te leren
 
 Dat men wereldwijd een groot belang hecht aan computationeel denken, weerspiegelt zich in het feit dat computationeel denken ondertussen deels is opgenomen in de internationale vergelijkende testen van de OECD en de IEA, resp. in het wiskundeluik van de PISA-test en in de ICILS-test. 
 
-> https://www.iea.nl/studies/iea/icils/2023#section-740 
-> https://www.oecd.org/pisa/sitedocument/PISA-2021-mathematics-framework.pdf
+> [International Computer and Information Literacy Study](https://www.iea.nl/studies/iea/icils/2023#section-740) 
+> [PISA assessment](https://www.oecd.org/pisa/sitedocument/PISA-2021-mathematics-framework.pdf)
 
