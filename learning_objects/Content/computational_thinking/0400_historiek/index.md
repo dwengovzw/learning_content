@@ -56,9 +56,9 @@ In de 17de eeuw bouwde Blaise Pascal een rekentoestel om op te tellen en af te t
 > De Pascaline was een mechanisch rekentoestel dat niet kon geprogrammeerd worden. De eerste machine die geprogrammeerd kon worden, was een 19de-eeuws weefgetouw (Riley & Hunt, 2014). 
 
 <div class="alert alert-box alert-success">
-    **Creatief denkproces** 
+    <strong>Creatief denkproces</strong>
 
-    Nadenken over hoe een team het best berekeningen uitvoert, nadenken over het ontwerp van een hulpmiddel, nadenken over welke taken door een machine uitgevoerd zouden kunnen worden en hoe dergelijke machines gerealiseerd kunnen worden, is niets anders dan computationeel denken. Dit creatief denkproces en de wil om deze ideeën ook te kunnen verwezenlijken leiden tot nieuwe ontwikkelingen in de technologie. </br>
+    Nadenken over hoe een team het best berekeningen uitvoert, nadenken over het ontwerp van een hulpmiddel, nadenken over welke taken door een machine uitgevoerd zouden kunnen worden en hoe dergelijke machines gerealiseerd kunnen worden, is niets anders dan computationeel denken. Dit creatief denkproces en de wil om deze ideeën ook te kunnen verwezenlijken leiden tot nieuwe ontwikkelingen in de technologie.
     Uiteindelijk heeft dit geleid tot de ontwikkeling van de moderne computer (Denning & Tedre, 2019). 
 </div>
 
