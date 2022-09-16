@@ -30,10 +30,19 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+p.introduction {
+  width: 350px;
+  font-size:25px;
+  line-height:1.3;
+}
 
-## Tussentitel
+p.introduction span {
+  background-color: #f48024;
+  color: #1d1d1e;
+  border-radius: 10px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding: 0 5px 0 5px;
+}
 
-### Subtitel
-
-**Onderverdeling**
+<p class="introduction">Hi so <span>This is what I did but not sure how to go from here</span> and here is another <span>highlighted span</span></p>
