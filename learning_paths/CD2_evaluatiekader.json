@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "T-v1",
+            "hruid": "Temp-v1",
             "version": "3",
             "language": "nl"
           }
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "learningobject_hruid": "T-v1",
+      "learningobject_hruid": "Temp-v1",
       "version": "3",
       "language": "nl"
     } 
