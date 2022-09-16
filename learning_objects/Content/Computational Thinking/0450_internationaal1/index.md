@@ -43,6 +43,7 @@ Over de hele wereld wordt dan ook gepleit om de jongeren computationeel te leren
 
 *** 
 **De gedigitaliseerde wereld** 
+
 We leven in een technologische kennismaatschappij, die snel verandert door de aanhoudende ontwikkelingen in digitalisering, de niet te stoppen stroom aan informatie, en de opkomst van artificiële intelligentie. Om de gedigitaliseerde wereld te begrijpen is digitale toepassingen kunnen gebruiken niet voldoende. Het is immers van belang dat mensen zich weerbaar en flexibel kunnen opstellen tegenover nieuwe digitale toepassingen. Door inzichten te verwerven in de concepten die aan de basis liggen van de digitalisering, kan men de mogelijkheden, de beperkingen en de eventuele risico’s van deze toepassingen beter inschatten, wat ook de angst voor technologie wegneemt. Computationeel kunnen denken zorgt ervoor dat men beter kan functioneren in en kan participeren aan de gedigitaliseerde maatschappij, en dat men de wisselwerking tussen technologische ontwikkelingen en de evoluties in de maatschappij begrijpt. 
 ***
 
