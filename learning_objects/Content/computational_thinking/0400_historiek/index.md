@@ -55,11 +55,12 @@ In de 17de eeuw bouwde Blaise Pascal een rekentoestel om op te tellen en af te t
 
 > De Pascaline was een mechanisch rekentoestel dat niet kon geprogrammeerd worden. De eerste machine die geprogrammeerd kon worden, was een 19de-eeuws weefgetouw (Riley & Hunt, 2014). 
 
-*** 
-**Creatief denkproces** 
-Nadenken over hoe een team het best berekeningen uitvoert, nadenken over het ontwerp van een hulpmiddel, nadenken over welke taken door een machine uitgevoerd zouden kunnen worden en hoe dergelijke machines gerealiseerd kunnen worden, is niets anders dan computationeel denken. Dit creatief denkproces en de wil om deze ideeën ook te kunnen verwezenlijken leiden tot nieuwe ontwikkelingen in de technologie. 
-Uiteindelijk heeft dit geleid tot de ontwikkeling van de moderne computer (Denning & Tedre, 2019). 
-***
+<div class="alert alert-box alert-success">
+    **Creatief denkproces** 
+
+    Nadenken over hoe een team het best berekeningen uitvoert, nadenken over het ontwerp van een hulpmiddel, nadenken over welke taken door een machine uitgevoerd zouden kunnen worden en hoe dergelijke machines gerealiseerd kunnen worden, is niets anders dan computationeel denken. Dit creatief denkproces en de wil om deze ideeën ook te kunnen verwezenlijken leiden tot nieuwe ontwikkelingen in de technologie. </br>
+    Uiteindelijk heeft dit geleid tot de ontwikkeling van de moderne computer (Denning & Tedre, 2019). 
+</div>
 
 In de 19de eeuw ontwierp Joseph-Marie Jacquard een weefgetouw waarvan het motief in het toestel ‘geprogrammeerd’ werd met (binaire) ponskaarten. Zijn tijdgenoot Charles Babbage bouwde de Difference Engine die logaritmetafels en sinustafels automatisch kon genereren. Erna spendeerde hij jaren aan het ontwikkelen van de Analytical Machine, een meer algemene (mechanische) computer, die hij echter nooit bouwde, maar waarvoor Ada Lovelace wel het eerste computerprogramma publiceerde. 
 
