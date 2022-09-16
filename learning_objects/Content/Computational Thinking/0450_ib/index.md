@@ -1,9 +1,9 @@
 ---
-hruid: CD_internationaalbelang-v1
+hruid: CD_ib1-v1
 version: 3
 language: nl
-title: "Internationaal belang"
-description: "Internationaal belang"
+title: "De gedigitaliseerde wereld"
+description: "De gedigitaliseerde wereld"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 

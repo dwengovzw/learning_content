@@ -90,7 +90,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "CD_internationaalbelang-v1",
+            "hruid": "CD_ib1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -98,7 +98,37 @@
       ]
     },
     {
-      "learningobject_hruid": "CD_internationaalbelang-v1",
+      "learningobject_hruid": "CD_ib1-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "CD_ib2-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "CD_ib2-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "CD_ib3-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "CD_ib3-v1",
       "version": "3",
       "language": "nl"
     } 
