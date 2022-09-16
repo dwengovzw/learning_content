@@ -57,7 +57,7 @@ In de 17de eeuw bouwde Blaise Pascal een rekentoestel om op te tellen en af te t
 
 <div class="alert alert-box alert-success">
     <strong>Creatief denkproces</strong><br>
-    Nadenken over hoe een team het best berekeningen uitvoert, nadenken over het ontwerp van een hulpmiddel, nadenken over welke taken door een machine uitgevoerd zouden kunnen worden en hoe dergelijke machines gerealiseerd kunnen worden, is niets anders dan computationeel denken. Dit creatief denkproces en de wil om deze ideeën ook te kunnen verwezenlijken leiden tot nieuwe ontwikkelingen in de technologie.
+    Nadenken over hoe een team het best berekeningen uitvoert, nadenken over het ontwerp van een hulpmiddel, nadenken over welke taken door een machine uitgevoerd zouden kunnen worden en hoe dergelijke machines gerealiseerd kunnen worden, is niets anders dan computationeel denken. Dit creatief denkproces en de wil om deze ideeën ook te kunnen verwezenlijken leiden tot nieuwe ontwikkelingen in de technologie.<br>
     Uiteindelijk heeft dit geleid tot de ontwikkeling van de moderne computer (Denning & Tedre, 2019). 
 </div>
 
