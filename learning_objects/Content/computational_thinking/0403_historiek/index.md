@@ -35,7 +35,7 @@ teacher_exclusive: true
 ## Computationeel denken 
 Computationeel denken is dus gestoeld op wiskundig, logisch en algoritmisch denken, gecombineerd met inzichten uit de natuurwetenschappen, de technologie en de ingenieurswetenschappen. Het vertoont dan ook overeenkomstigheden met ‘andere’ manieren van denken (Denning & Tedre, 2019; Barr & Stephenson, 2011; Selby & Woollard, 2013). En hoewel computationeel denken zijn oorsprong niet kent in de computerwetenschappen, is het wel een **essentiële praktijk voor een computerwetenschapper** (zie ook de kader over de ‘Great Principles’). 
 
-> Ook in andere domeinen zijn er van die ‘grote principes’, bv. Big Ideas in de natuurwetenschappen ( https://bigideasgreatscience.wordpress.com/ ) en cross-cutting concepts in STEM. 
+> Ook in andere domeinen zijn er van die ‘grote principes’, bv. Big Ideas in de natuurwetenschappen ([Big Ideas](https://bigideasgreatscience.wordpress.com/)) en cross-cutting concepts in STEM. 
 
 Daarenboven verstaat niet iedereen hetzelfde onder ‘computationeel denken’. Iemands opleiding kan daar bv. een rol in spelen: een computerwetenschapper zal er met een andere bril naar kijken dan bv. een bioloog of een wiskundige. 
 Ook de manier waarop iemand computationeel denken aanwendt, verschilt naargelang waarvoor die het wil gebruiken (Hemmendinger, 2010; Weintrop et al., 2016). 
