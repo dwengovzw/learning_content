@@ -40,9 +40,7 @@ Homeros (ongeveer 800 jaar voor Christus) beschrijft in de Ilias de automatische
 De automatisatie bleef dus niet beperkt tot het ontwerpen van machines, maar mensen gingen ook op zoek naar manieren om dierlijk en menselijk gedrag te imiteren. Ismail Al-Jazari schreef in 1206 een boek waarin hij de indrukwekkende automaten beschreef die hij ontwierp, waaronder een boot met vier automatische muzikanten. Dan zijn er nog de ‘humanoïde robot’ die Leonardo da Vinci ontwierp (maar niet realiseerde) (waarschijnlijk op het einde van de 15de eeuw) en de mechanische eend van Jacques de Vaucanson uit de 18de eeuw. De automaten waren een eerste aanzet tot de huidige robots. 
 
 > [De 'Mechanische Turk'](https://youtu.be/N4ccP8MwR50https://youtu.be/MCW_wp0dgF4) 
-
 > [Robot Leonardo Da Vinci](https://nl.wikipedia.org/wiki/Leonardo_da_Vinci%27s_robot) 
-
 > [Mechanische eend](https://klara.be/de-mechanische-eend-van-jacques-de-vaucanson) 
 
 Tevens in de 18de eeuw moest de Mechanische Turk (zie Figuur 2.1) de mensen laten geloven dat men een machine uitgevonden had die kon schaken; de Mechanische Turk bleek je reinste bedrog - er zat een mens in - maar illustreert wel de wens om ook het menselijk denken te kunnen nabootsen. 
