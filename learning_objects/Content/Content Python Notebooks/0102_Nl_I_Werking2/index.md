@@ -32,6 +32,6 @@ skos_concepts: [
 
 # Werken met notebooks
 
-Wil je ook de finesses kennen? Dan kan je de twee andere notebooks doorlopen. 
+Wil je ook de finesses van het werken met de notebooks kennen? Dan doorloop je best de twee volgende notebooks. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0102 "Notebooks Werking")
