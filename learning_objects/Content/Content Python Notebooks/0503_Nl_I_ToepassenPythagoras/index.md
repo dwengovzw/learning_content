@@ -34,15 +34,15 @@ skos_concepts: [
 De oefeningen bij de stelling van Pythagoras in het derde middelbaar zijn dikwijls te herleiden tot eenzelfde probleem: 2 zijden van een driehoek zijn gekend en de derde zijde moet berekend worden. 
 
 Daarbij kan je twee types onderscheiden:
-* ofwel zijn de 2 rechthoekszijden gegeven en moet de schuine zijde berekend worden
+* ofwel zijn de 2 rechthoekszijden gegeven en moet de schuine zijde berekend worden;
 * ofwel zijn 1 rechthoekszijde en de schuine zijde gegeven en moet de andere rechthoekszijde berekend worden.
 
 Heb je beide types reeds eerder aangepakt, dan leidt het herkennen met welke van deze twee types je te maken hebt, rechtstreeks tot de oplossing van het probleem. Je moet enkel de eerder uitgewerkte oplossing nog aanpassen aan de nieuwe situatie. 
 
 ---
-In deze notebooks zal je het nodige rekenwerk overlaten aan de computer, zodat je je ten volle kunt concentreren op de gestelde problemen. 
+In deze notebooks zal je het nodige _rekenwerk overlaten aan de computer_. Je kan je dan ten volle concentreren op de gestelde problemen. 
  
-Deze twee types van problemen vind je alvast terug in de notebooks. Om ze op te lossen volstaan twee functies die je zelf zal definiëren in Python. Na het oplossen van de basisproblemen, zal je via _patroonherkenning_ de andere problemen aanpakken door de code bij de eerder opgeloste problemen aan te passen.  
+Deze twee types van problemen vind je alvast terug in de notebooks. Om ze op te lossen volstaan twee _functies_ die je zelf zal definiëren in Python. Na het oplossen van de basisproblemen, zal je via _patroonherkenning_ de andere problemen aanpakken door de code bij de eerder opgeloste problemen aan te passen.  
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0503 "Notebooks Pythagoras")
 
