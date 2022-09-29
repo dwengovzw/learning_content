@@ -31,6 +31,6 @@ skos_concepts: [
 
 # Invoer - Verwerking - Uitvoer
 
-In deze notebook leer je hoe je informatie opvraagt bij de gebruiker. Je maakt kennis met invoer, uitvoer, concatenatie, type casting... 
+In deze notebooks maak je kennis met enkele courante datatypes, zoals string en integer. Je wendt de (voorgedefinieerde) functie print() aan. Je leert hoe je informatie opvraagt bij de gebruiker. Je gebruikt invoer, uitvoer, concatenatie, type casting... 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1003 "Notebooks Input Output")
