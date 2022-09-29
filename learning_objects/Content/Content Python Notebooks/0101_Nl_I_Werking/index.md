@@ -53,6 +53,6 @@ Na het doorlopen van beide notebooks heb je een goed idee van hoe onze Python no
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")
 
 ---
-**Na het doorlopen van deze reeks notebooks log je uit via de knop rechts bovenaan. Vergeet dit zeker niet!**  
+**Ben je klaar met deze reeks notebooks, dan log je uit via de knop rechts bovenaan. Vergeet dit zeker niet!**  
 
 Doe je dit niet, dan krijg je telkens opnieuw dezelfde reeks notebooks te zien in jouw browser.  
