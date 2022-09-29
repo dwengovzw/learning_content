@@ -33,9 +33,9 @@ skos_concepts: [
 # Werken met notebooks
 
 **Let op**  
-*Wanneer je een reeks notebooks hebt afgewerkt, moet je uitloggen via de knop rechts bovenaan.*  
+*Wanneer je een reeks notebooks hebt afgewerkt, mag je niet vergeten uit te loggen via de knop rechts bovenaan.*  
 
 ![](embed/LogOut.png "Log out")  
 
 
-Als je dit niet doet, dan zal de nieuwe link nog steeds de vorige, afgewerkte notebooks tonen, in plaats van de nieuwe reeks.
+Als je dit niet doet, dan zal de nieuwe link nog steeds de vorige reeks notebooks tonen, in plaats van de nieuwe reeks.
