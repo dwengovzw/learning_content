@@ -48,7 +48,7 @@ Je vindt er (op het tabblad _Files_) twee bestanden met extensie _.ipynb_.
 Dit zijn de twee notebooks waarin je resp. een overzicht krijgt van de opbouw en mogelijkheden en hoe je er mee aan de slag kan. 
 In deze eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag kan. 
 
-Na het doorlopen van beide notebooks heb je een goed idee van hoe we verder met de python notebooks te werk gaan.
+Na het doorlopen van beide notebooks heb je een goed idee van hoe onze Python notebooks zijn opgevat.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")
 
