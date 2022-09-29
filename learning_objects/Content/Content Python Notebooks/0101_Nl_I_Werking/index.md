@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Werken met notebooks"
 description: "Leren werken met de notebooks"
-keywords: ["Python", "KIKS", "Wiskunde", "STEM"]
+keywords: ["Python", "KIKS", "Wiskunde", "STEM", "AI"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -32,14 +32,23 @@ skos_concepts: [
 
 # Werken met notebooks
 
-Het lesmateriaal van 'Python in wiskunde en STEM' wordt aangeboden in de vorm van interactieve notebooks. Notebooks zijn digitale documenten die zowel uitvoerbare code bevatten als tekst, afbeeldingen, video, hyperlinks... In onze notebooks worden nieuwe begrippen aangebracht via tekstuele uitleg, video en afbeeldingen. Je vindt er uitgewerkte voorbeelden en kleine en grote opdrachten. Je voert de aanwezige code uit en stelt zelf code op. 
+Het lesmateriaal van 'Python in wiskunde en STEM' wordt aangeboden in de vorm van interactieve **_notebooks_**. Notebooks zijn _digitale documenten_ die zowel uitvoerbare code bevatten als tekst, afbeeldingen, video, hyperlinks ... _Nieuwe begrippen_ worden aangebracht via tekstuele uitleg, video en afbeeldingen. Er zijn uitgewerkte *voorbeelden* met daarnaast ook kleine en grote *opdrachten*. In deze opdrachten zal je aangeboden code kunnen uitvoeren, maar ook zelf code opstellen. 
 
-De code in de notebooks is Python3. We kozen voor Python omdat dit een heel toegankelijke programmeertaal is, die vaak ook intuïtief is.  
-Python is bovendien bezig aan een opmars binnen de meest gebruikte computertalen. Gekende gebruikers zijn bv. Google, NASA, Netflix, Uber, AstraZeneca, Barco, Instagram en YouTube.
-
-In de eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag gaat. 
+De code die in de notebooks gebruikt wordt, is Python versie 3. We kozen voor Python omdat dit een heel toegankelijke programmeertaal is, die vaak ook intuïtief is.  
+Python is bovendien bezig aan een opmars en wordt gebruikt door bedrijven, zoals Google, NASA, Netflix, Uber, AstraZeneca, Barco, Instagram en YouTube.
 
 ---
-Wanneer je op onderstaande knop drukt, zal je verwezen worden naar een andere site waar je persoonlijke notebooks worden geladen. Dit kan enkele seconden duren.
+Klik je op onderstaande knop 'Open notebooks',  dan word je doorgestuurd naar een andere website waar jouw persoonlijke notebooks ingeladen worden. (Dit kan even duren.
+
+Je vindt er (op het tabblad _Files_) twee bestanden met extensie _.ipynb_.
+Dit zijn de twee notebooks waarin je resp. een overzicht krijgt van de opbouw en mogelijkheden en hoe je er mee aan de slag kan. 
+In deze eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag kan. 
+
+Na het doorlopen van beide notebooks heb je een goed idee van hoe we verder met de python notebooks te werk gaan.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")
+
+---
+**Na het doorlopen van deze reeks notebooks log je uit via de knop rechts bovenaan. Vergeet dit zeker niet!**  
+
+Doe je dit niet, dan krijg je telkens opnieuw dezelfde reeks notebooks te zien in jouw browser.  
