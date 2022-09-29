@@ -32,7 +32,7 @@ skos_concepts: [
 
 # Werken met notebooks
 
-Het lesmateriaal van 'Python in wiskunde en STEM' wordt aangeboden in de vorm van interactieve **_notebooks_**. Notebooks zijn _digitale documenten_ die zowel uitvoerbare code bevatten als tekst, afbeeldingen, video, hyperlinks ... _Nieuwe begrippen_ worden aangebracht via tekstuele uitleg, video en afbeeldingen. Er zijn uitgewerkte *voorbeelden* met daarnaast ook kleine en grote *opdrachten*. In deze opdrachten zal je aangeboden code kunnen uitvoeren, maar ook zelf code opstellen. 
+Het lesmateriaal van 'Python in wiskunde en STEM' wordt aangeboden in de vorm van interactieve **_notebooks_**. Notebooks zijn _digitale documenten_ die zowel uitvoerbare code bevatten als tekst, afbeeldingen, video, hyperlinks ... _Nieuwe begrippen_ worden aangebracht via tekstuele uitleg, video en afbeeldingen. Er zijn uitgewerkte *voorbeelden* met daarnaast ook kleine en grote *opdrachten*. In deze opdrachten zal je aangereikte code kunnen uitvoeren, maar ook zelf code opstellen. 
 
 De code die in de notebooks gebruikt wordt, is Python versie 3. We kozen voor Python omdat dit een heel toegankelijke programmeertaal is, die vaak ook intuïtief is.  
 Python is bovendien bezig aan een opmars en wordt gebruikt door bedrijven, zoals Google, NASA, Netflix, Uber, AstraZeneca, Barco, Instagram en YouTube.
