@@ -105,21 +105,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "CD_historiek5-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "CD_historiek5-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "CD_historiek6-v1",
             "version": "3",
             "language": "nl"
