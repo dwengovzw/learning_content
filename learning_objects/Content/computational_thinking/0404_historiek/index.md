@@ -35,7 +35,7 @@ teacher_exclusive: true
 ## Great principles
 Het *Great Principles framework* geeft de kernprincipes en kernpraktijken weer van computerwetenschappen (Denning, 2009, 2003). 
 
-<div class="bg-primary">
+<div class="alert alert-box alert-primary">
 <p>
 7 principes: 
 
