@@ -37,7 +37,7 @@ Het *Great Principles framework* geeft de kernprincipes en kernpraktijken weer v
 
 <div class="alert alert-box alert-dark">
 <p>
-<h2>7 principes:</h2> 
+<h5>7 principes:</h5> 
 
 <ul><li><strong>Computation</strong></br>Computerberekeningen: mogelijkheden en beperkingen van wat met een computer berekend kan worden</li></ul>
 <ul><li><strong>Communication</strong></br>Communicatie: versturen van data tussen digitale systemen</li></ul>
@@ -48,7 +48,7 @@ Het *Great Principles framework* geeft de kernprincipes en kernpraktijken weer v
 <ul><li><strong>Design</strong></br>Ontwerp van systemen</li></ul> 
 
 
-<h2>5 praktijken:</h2> 
+<h5>5 praktijken:</h5> 
 
 <ul><li><strong>Programming</strong></br>Programmeren</li></ul>
 <ul><li><strong>Engineering of systems</strong></br>het proces van ontwikkelen, bedenken en ontwerpen van systemen</li></ul>
