@@ -47,7 +47,7 @@ Het *Great Principles framework* geeft de kernprincipes en kernpraktijken weer v
 <ul><li><strong>Design</strong></br>Ontwerp van systemen</li></ul> 
 </div>
 
-<div class="alert alert-box alert-dark">
+<div class="alert alert-box alert-light">
 <h5>5 praktijken:</h5> 
 
 <ul><li><strong>Programming</strong></br>Programmeren</li></ul>
