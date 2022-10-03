@@ -35,7 +35,9 @@ teacher_exclusive: true
 ## Great principles
 Het *Great Principles framework* geeft de kernprincipes en kernpraktijken weer van computerwetenschappen (Denning, 2009, 2003). 
 
-|7 principes:| 
+
+<p class="bg-primary">
+7 principes: 
 
 <ul><li><strong>Computation</strong></br>Computerberekeningen: mogelijkheden en beperkingen van wat met een computer berekend kan worden</li></ul>
 
@@ -64,6 +66,8 @@ Het *Great Principles framework* geeft de kernprincipes en kernpraktijken weer v
 
 <ul><li><strong>Computational thinking</strong></br>Computationeel denken</li></ul> 
 
-|Opvallend is dat programmeren afzonderlijk staat van computationeel denken, wat in de lijn ligt met de algemene opvatting dat computationeel denken en programmeren niet hetzelfde zijn.| 
+</p>
+
+Opvallend is dat programmeren afzonderlijk staat van computationeel denken, wat in de lijn ligt met de algemene opvatting dat computationeel denken en programmeren niet hetzelfde zijn. 
 
 Computationeel denken helpt om de werking van digitale toestellen en digitale toepassingen te begrijpen, maar gaat ook om het denkproces dat leidt tot het  creëren ervan. Computationeel denken is zo spontaan uitgebreid met het zien waar en hoe de computer kan worden ingezet, en dat niet enkel door computerwetenschappers. Naarmate het domein van de computerwetenschappen zich verder ontwikkelt, zal ook het computationeel denken mee evolueren (Aho, 2011; Denning & Tedre, 2019; Selby & Woollard, 2013).
