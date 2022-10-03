@@ -39,7 +39,7 @@ Het *Great Principles framework* geeft de kernprincipes en kernpraktijken weer v
 <p class="bg-primary">
 7 principes: 
 
-<ul><li><strong>Computation</strong></br>Computerberekeningen: mogelijkheden en beperkingen van wat met een computer berekend kan worden</li></ul>
+<ul class="bg-primary"><li><strong>Computation</strong></br>Computerberekeningen: mogelijkheden en beperkingen van wat met een computer berekend kan worden</li></ul>
 
 <ul><li><strong>Communication</strong></br>Communicatie: versturen van data tussen digitale systemen</li></ul>
 
