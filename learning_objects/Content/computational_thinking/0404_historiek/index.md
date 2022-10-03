@@ -37,33 +37,23 @@ Het *Great Principles framework* geeft de kernprincipes en kernpraktijken weer v
 
 <div class="alert alert-box alert-dark">
 <p>
-7 principes: 
+<h2>7 principes:</h2> 
 
 <ul><li><strong>Computation</strong></br>Computerberekeningen: mogelijkheden en beperkingen van wat met een computer berekend kan worden</li></ul>
-
 <ul><li><strong>Communication</strong></br>Communicatie: versturen van data tussen digitale systemen</li></ul>
-
 <ul><li><strong>Coordination</strong></br>Coördinatie: samenwerken tussen digitale systemen</li></ul>
-
 <ul><li><strong>Recollection</strong></br>Recollectie: opslaan en ophalen van data</li></ul>
-
 <ul><li><strong>Automation</strong></br>Automatisering</li></ul>
-
 <ul><li><strong>Evaluation</strong></br>Evaluatie naar effectiviteit en efficiëntie</li></ul>
-
 <ul><li><strong>Design</strong></br>Ontwerp van systemen</li></ul> 
 
 
-5 praktijken: 
+<h2>5 praktijken:</h2> 
 
 <ul><li><strong>Programming</strong></br>Programmeren</li></ul>
-
 <ul><li><strong>Engineering of systems</strong></br>het proces van ontwikkelen, bedenken en ontwerpen van systemen</li></ul>
-
 <ul><li><strong>Modelling</strong></br>Modelleren</li></ul>
-
 <ul><li><strong>Applying</strong></br>Toepassen</li></ul>
-
 <ul><li><strong>Computational thinking</strong></br>Computationeel denken</li></ul> 
 
 </p></div>
