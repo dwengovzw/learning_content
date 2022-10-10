@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 # Programmeren van de tekenrobot
 
-*DwenguinoBlockly*
+*Programmeren*
 
 Je robot is af. Nu gaan we hem programmeren. We gaan heel precies zeggen wat hij moet doen. Maar omdat de robot geen mensentaal spreekt, leren we eerst een programmeertaal. We werken in DwenguinoBlockly, een programmeeromgeving voor kinderen zoals jou!
 
