@@ -33,6 +33,6 @@ teacher_exclusive: false
 # Grafen vergelijken
 In de volgende filmpjes wordt bondig uitgelegd hoe men verschillende voorstellingen van grafen met elkaar kan vergelijken.
 
-![Grafen vergelijken)](embed/dezelfdegraaf.mov "Grafen vergelijken") 
+![](@youtube/https://www.youtube.com/embed/iNUqJXuoOyw "Vergelijken van grafen - Kleuren")
 
-![Grafen vergelijken)](embed/dezelfdegraafFormeel.mov "Grafen vergelijken")
+![](@youtube/https://www.youtube.com/embed/K4rP8BLhr0s "Vergelijken van Grafen - Formeel")
