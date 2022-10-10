@@ -34,35 +34,37 @@ teacher_exclusive: true
 ## 40 min tijdens de les
 
 ### Wat gebeurt er in de klas?
-Het is niet de bedoeling dat je de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator voor hen te helpen.
 
-Er is wat ondersteuning voorzien voor de leerlingen in het leerpad zelf, waarmee ze op een onderzoekende manier gaan werken. Mocht er voor de kinderen iets onduidelijk zijn, dan ben je met jouw voorbereiding klaar om hen te ondersteunen. De voorbereidende leerobjecten omvatten:
+*Inhoud*
 
-1. Hun naam schrijven op het lcd
+De leerlingen hebben nu een robot en willen die activeren. Maar eerst moeten ze hem nog programmeren. Dat leren ze in de volgende stappen van het leerpad. 
+
+
+*Stap per stap*
+
+Dankzij het leerpad leren de leerlingen zelfstandig en op een onderzoekende manier te werk gaan. Eerst in een simulator, nadien in het echt. In een aantal deelstappen ontdekken ze een aantal manieren om hun robot aan te sturen. 
+
+1. Hun naam schrijven op het lcd-scherm
 2. De robot pas laten starten wanneer een knopje ingedrukt wordt
 3. De motoren laten draaien zodat de robot tekent
 4. Experimenteren met de mechanica en snelheid van de motoren
 
-*Tip*: Laat de leerlingen pas programmeren wanneer ze klaar zijn met het bouwen van hun tekenrobot.
+Tip: Laat de leerlingen pas programmeren wanneer ze klaar zijn met het bouwen van hun tekenrobot.
 
-Sommige kinderen merken op dat de tekening in de simulator anders is dan de tekening in het echt. In het bijzonder kan de robot in de simulator heel nauwkeurig werken, terwijl de robot in het echt altijd naast de vorige lijn kleurt. Dit komt omdat de echte robot een mechanisch systeem is met tal van kleine onnauwkeurigheden: de tandwielen geven soms mee, de verbindingen tussen de verschillende armen (stukken C) zitten wat los, enz. In de robotica is dit verschil ook wel gekend als het gat tussen de echte wereld en de simulatie. Men kan dit oplossen door ofwel betere robots te bouwen (met duurdere, maar nauwkeurigere componenten), ofwel door in de simulator rekening te houden met al deze onnauwkeurigheden.
 
-## Voorbereiding
+*Zelfstandig werken*
 
-We raden aan dat u, als leerkracht, minstens de basisoefeningen van het *StartToDwenguino*-traject doorneemt om de leerlingen optimaal te kunnen begeleiden. Dit bevat de volgende elementen:  
-*Elementen tussen haakjes worden als optioneel beschouwd voor het WeGoStem-traject.*
+Als leerkracht hoef je de leerlingen niet de pap in de mond te geven. Laat hen gerust experimenteren.
 
-* lcd-scherm
-* Wacht
-* (Leds)
-* (Buzzer)
-* knoppen
-* (Als - Dan)
-* (Als - Dan - Anders)
-* (For-lus)
-* (While-lus)
 
-In dit leerpad werden de voorbeelden voor de essentiële blokken reeds opgenomen. Om dit zelf in te oefenen, verwijzen we je naar het *StartToDwenguino*-traject.
+### Voorbereiding
+
+Het is belangrijk dat de kinderen zelf aan de slag gaan in het leerpad. Ze leren werken met het lcd-scherm, de wacht-functie en knoppen. Bij elk van deze functies krijgen de leerlingen informatie en oefeningen. Op zich zou dit moeten volstaan.
+
+Mochten de leerlingen nog vragen hebben, dan komen ze vast bij jou. We raden aan dat je als leerkracht daarom zeker ook de basisoefeningen van het *StartToDwenguino*-traject doorneemt. Zo zal je de leerlingen optimaal kunnen begeleiden. Je hoeft niet het volledige traject te volgen. Enkel de delen over het lcd-scherm, de wacht-functie en knoppen zijn relevant binnen het WeGoSTEM-traject.
+
+In wat volgt kan je als leerkracht al een aantal voorbeelden voor deze essentiële blokken bekijken. Kan je nog meer hulp gebruiken? Dan verwijzen we je graag door naar het *StartToDwenguino*-traject.
+
 
 ### Materiaal voor in de klas
 
