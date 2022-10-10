@@ -35,9 +35,9 @@ teacher_exclusive: true
 ## 20 - 30 minuten tijdens de les
 
 ### Wat gebeurt er in de klas?
-In deze activiteit gaan de leerlingen voor het eerst aan de slag met het materiaal. Ze leren over de verschillende componenten van een robotarm en moeten deze correct monteren. 
+In deze activiteit gaan de leerlingen voor het eerst aan de slag met fysiek materiaal. Ze leren over de verschillende componenten van een robotarm en moeten deze correct monteren. Zo bouwen ze hun eigen tekenrobot.
 
-Voor het bouwen van de tekenrobot hebben we voor elk groepje een foto voorzien. Op basis van deze foto kunnen de kinderen meestal afleiden hoe ze de tekenrobot moeten bouwen. Zitten ze toch vast, dan kan je wat extra uitleg voorzien. De stappen die nodig zijn om de robot te bouwen, zie je in het volgende filmpje: 
+Elk groepje krijgt een foto. Op basis van deze foto kunnen de kinderen meestal zelf afleiden hoe ze de tekenrobot moeten bouwen. Zitten ze toch vast, dan kan je wat extra uitleg voorzien. De stappen die nodig zijn om de robot te bouwen, zie je in het volgende filmpje: 
 
 ![Bouwen van een tekenrobot](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Bouwen van een tekenrobot")
 
