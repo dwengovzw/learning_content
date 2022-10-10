@@ -40,7 +40,7 @@ DwenguinoBlockly heeft twee grote voordelen:
 
 1.	Het is een grafische programmeertaal. Je programmeert door blokken te verslepen.
 2.	Er is een simulator. Op het scherm zie je al wat de robot zal doen. 
-
+<br>
 
 *Simulator*
 
