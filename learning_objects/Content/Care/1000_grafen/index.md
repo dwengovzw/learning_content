@@ -33,4 +33,4 @@ teacher_exclusive: false
 # Sprouts
 Dit is een eenvoudig spel dat je kan spelen met leerlingen om het onderwerp grafen in te leiden.
 
-![Sprouts)](embed/sprouts.mp4 "Notebooks Dataframe")
+![](@youtube/https://www.youtube.com/embed/zq5TpgqAn_A "Sprouts")
