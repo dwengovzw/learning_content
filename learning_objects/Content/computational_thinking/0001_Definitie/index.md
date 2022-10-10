@@ -45,23 +45,23 @@ Deze leerdoelen hebben als doel om:
 <ul><li>leerlingen voor te bereiden op een leven in een snel veranderende wereld en hen te wapenen om kritisch te kunnen nadenken over de impact die technologie heeft op de privacy, werkgelegenheid en gezondheid (wat aansluit bij de nood aan digitale vaardigheid om de 21ste-eeuwse vaardigheden te kunnen verwerven).</li></ul>
 </div> 
 
-Rekening houdend met de definitie die de Vlaamse Regering voorstelt en de internationale consensus stellen we in de kader 'Een definitie van computationeel denken' zelf een definitie voor die alvast voor Vlaamse leerkrachten als startpunt kan dienen. 
+Rekening houdend met de definitie die de Vlaamse Regering voorstelt en de internationale consensus stellen we in de kader 'Een definitie van computationeel denken' zelf een definitie voor die alvast voor Vlaamse leerkrachten als startpunt kan dienen.<br> 
 Deze definitie wordt aangevuld met definities voor de basisconcepten. 
 
 <div class="alert alert-box alert-secondary">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 
-<strong>Decompositie</strong> 
+<strong>Decompositie</strong><br> 
 Een probleem doordacht opsplitsen in goedgekozen deelproblemen, zodat elk deel afzonderlijk kan worden aangepakt, en een oplossing van het probleem gemakkelijker bekomen wordt. 
 
-<strong>Abstractie</strong>
-Negeren van informatie die niet nodig is om een probleem op te lossen. Bepaalde details verbergen om in grote lijnen over een probleem te kunnen nadenken. 
+<strong>Abstractie</strong><br>
+Negeren van informatie die niet nodig is om een probleem op te lossen. Bepaalde details verbergen om in grote lijnen over een probleem te kunnen nadenken.<br> 
 Bij het aanpakken van complexe problemen is er nood aan abstractie omdat het redeneren vlotter verloopt zonder de ballast van irrelevante details. 
 
-<strong>Patroonherkenning</strong> 
-Achterhalen dat bepaalde aspecten van een probleem gelijkenissen vertonen, waardoor het vereenvoudigd kan worden. 
+<strong>Patroonherkenning</strong><br> 
+Achterhalen dat bepaalde aspecten van een probleem gelijkenissen vertonen, waardoor het vereenvoudigd kan worden.<br> 
 Herkennen dat een probleem gelijkenissen vertoont met een eerder opgelost probleem. 
 
-<strong>Algoritmisch denken</strong> 
-Expliciteren van een reeks eenduidige instructies die stapsgewijs moeten worden uitgevoerd. 
+<strong>Algoritmisch denken</strong><br> 
+Expliciteren van een reeks eenduidige instructies die stapsgewijs moeten worden uitgevoerd.<br> 
 Inzien dat deze reeks van instructies en de volgorde ervan essentieel zijn om het gewenste resultaat op te leveren.
 </div> 
