@@ -31,6 +31,25 @@ teacher_exclusive: false
 ---
 
 # Voorbeeldnotebook
-Tekst H7 H5
+Je kan enkele lichaamsparameters in rekening brengen om te proberen te voorspellen of een patiënt risico loopt op een hartaanval. Van gekende
+patiënten zijn bepaalde parameters terug te vinden in het patiëntendossier.
+De volgende tabel toont zulke parameters voor zes patiënten waarvan  geweten is of ze al dan niet een hartaanval kregen (Shoemaker et al., 2001).
+Aan de hand van deze (te beperkte) dataset wordt getoond hoe je het verdeel-en-heersalgoritme in de praktijk toepast om een beslissingsboom
+aan te maken. Deze beslissingsboom kan dan gebruikt worden om voor nieuwe patiënten na te gaan of ze risico lopen op het krijgen van een hartaanval.
+
+Patiëntnummer Pijn in de borststreek Man Rookt Voldoende lichaamsbeweging Hartaanval
+1 ja ja nee ja ja
+2 ja ja ja nee ja
+3 nee nee ja nee ja
+4 nee ja nee ja nee
+5 ja nee ja ja ja
+6 nee ja ja ja nee
+Tabel 6.1: Parameters van belang voor risico op hartaanval.
+
+In deze tabel wordt een patiënt aangeduid met een ‘patiëntnummer’. De parameters ‘pijn in de borststreek’, ‘man’, ‘rookt’ en ‘voldoende lichaamsbeweging’ in de tabel zijn de parameters die in aanmerking genomen worden om het risico op een hartaanval te bekijken.
+De patiënt kan behoren tot de categorieën ‘hartaanval’ of ‘geen hartaanval’, dus tot de klasse ‘ja’ (wat hetzelfde is als ‘hartaanval’) of de klasse ‘nee’ (wat hetzelfde is als ‘geen hartaanval’).
+
+Het algoritme om een beslissingsboom te construeren, kan ook geprogrammeerd worden in een computer. Om een computer dit algoritme te laten uitvoeren, moet je de verschillende stappen op een ondubbelzinnige manier in een computerprogramma gieten. Dat is reeds voor jou gedaan en bereikbaar via Python-modules.
+Je zal deze gebruiken en je zal dus a.d.h.v. een regelgebaseerd AI-systeem automatisch een beslissingsboom laten genereren.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=3010 "Voorbeeldnotebook")
