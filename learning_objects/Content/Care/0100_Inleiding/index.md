@@ -53,6 +53,6 @@ In hoofdstuk 4 krijg je nog heel wat voorbeelden van beslissingsbomen uit de zor
 
 ------
 
-**Uitdaging**
+**Uitdaging**<br>
 Stel gelabelde data uit de zorgsector op een manier voor die geschikt is om er beslissingen mee te nemen betreffende een diagnose of een behandeling.
 Laat een computer jou daarbij helpen.
