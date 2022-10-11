@@ -52,4 +52,12 @@ De patiënt kan behoren tot de categorieën ‘hartaanval’ of ‘geen hartaanv
 Het algoritme om een beslissingsboom te construeren, kan ook geprogrammeerd worden in een computer. Om een computer dit algoritme te laten uitvoeren, moet je de verschillende stappen op een ondubbelzinnige manier in een computerprogramma gieten. Dat is reeds voor jou gedaan en bereikbaar via Python-modules.
 Je zal deze gebruiken en je zal dus a.d.h.v. een regelgebaseerd AI-systeem automatisch een beslissingsboom laten genereren.
 
+In de notebook vertrek je van dezelfde tabel met de parameters die worden gebruikt om te proberen voorspellen of een patiënt risico loopt op een
+hartaanval. Om dit te implementeren in Python, zal je dus deze beperkte dataset in Python moeten ingeven. Dat gebeurt door een matrix in te voeren. Zo’n matrix is niet anders dan een tabel van getallen. 
+
+Merk op dat de waarden van de variabelen in de tabel categorisch zijn en dat deze voor de computer omgezet zullen moeten worden naar numerieke of kwantitatieve
+variabelen. In de notebook worden de waarden van de variabelen ingegeven als numerieke waarden. Voor ‘nee’ wordt een ‘0’ gebruikt en voor ‘ja’ een ‘1’.
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=3010 "Voorbeeldnotebook")
+
+Extra uitleg vind je in hoofdstuk 8 van de handleiding.
