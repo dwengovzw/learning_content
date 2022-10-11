@@ -33,14 +33,12 @@ teacher_exclusive: false
 # Oefennotebooks
 In het project 'AI in de Zorg' beschik je over enkels datasets met 'echte' data. 
 
-Je kan dus aan de slag gaan met een oefeningenreeks waarbij er een beroep gedaan wordt op deze ‘echte’ data. Deze gegevens zijn opgeslagen in databestanden die vaak aanzienlijk zijn; er wordt gewerkt met csv-bestanden. Hierbij staat csv voor _comma separated values_.
-
+Je kan dus aan de slag gaan met een oefeningenreeks waarbij er een beroep gedaan wordt op deze ‘echte’ data. Deze gegevens zijn opgeslagen in databestanden die vaak aanzienlijk zijn; er wordt gewerkt met csv-bestanden. Hierbij staat csv voor _comma separated values_.<br>
 Zo'n csv-bestand is eigenlijk een grote tabel waarin elke kolom bv. de waarden van een specifieke gezondheidsparameter bevat van een groot aantal patiënten. Eén bepaalde kolom bevat een ’label’, de klasse waartoe de patiënt behoort, bv. ‘komt terecht op de intensieve zorg’.
 
 -------
 
-De notebook ‘Hartaandoening’ bevat zo'n oefening. 
-
+De notebook ‘Hartaandoening’ bevat zo'n oefening. <br>
 Hart- en vaatziekten vormen een belangrijke doodsoorzaak. Hartfalen bv. is een veelvoorkomende aandoening. De dataset heart.csv bevat waarden voor 11 parameters die gebruikt kunnen worden om een mogelijke hartziekte te voorspellen. Een hoge bloeddruk, diabetes, een verhoogde cholesterol zijn bv. gekende factoren die
 het risico op een hartaandoening verhogen. Deze dataset is een combinatie van 5 datasets uit de VS en Europa en bevat waarden van 918 personen.
 
