@@ -49,6 +49,8 @@ Tabel 6.1: Parameters van belang voor risico op hartaanval.
 In deze tabel wordt een patiënt aangeduid met een ‘patiëntnummer’. De parameters ‘pijn in de borststreek’, ‘man’, ‘rookt’ en ‘voldoende lichaamsbeweging’ in de tabel zijn de parameters die in aanmerking genomen worden om het risico op een hartaanval te bekijken.
 De patiënt kan behoren tot de categorieën ‘hartaanval’ of ‘geen hartaanval’, dus tot de klasse ‘ja’ (wat hetzelfde is als ‘hartaanval’) of de klasse ‘nee’ (wat hetzelfde is als ‘geen hartaanval’).
 
+-----
+
 Het algoritme om een beslissingsboom te construeren, kan ook geprogrammeerd worden in een computer. Om een computer dit algoritme te laten uitvoeren, moet je de verschillende stappen op een ondubbelzinnige manier in een computerprogramma gieten. Dat is reeds voor jou gedaan en bereikbaar via Python-modules.
 Je zal deze gebruiken en je zal dus a.d.h.v. een regelgebaseerd AI-systeem automatisch een beslissingsboom laten genereren.
 
