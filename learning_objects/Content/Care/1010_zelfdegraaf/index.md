@@ -35,6 +35,6 @@ In de volgende filmpjes wordt bondig uitgelegd hoe men verschillende voorstellin
 
 Het eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweede een eerder formele werkwijze.
 
-![](@youtube/https://www.youtube.com/embed/iNUqJXuoOyw "Vergelijken van grafen - Kleuren")
+![](@youtube/https://www.youtube.com/embed/K4rP8BLhr0s "Vergelijken van Grafen - Kleuren")
 
-![](@youtube/https://www.youtube.com/embed/K4rP8BLhr0s "Vergelijken van Grafen - Formeel")
+![](@youtube/https://www.youtube.com/embed/iNUqJXuoOyw "Vergelijken van Grafen - Formeel")
