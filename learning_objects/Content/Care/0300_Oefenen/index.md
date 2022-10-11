@@ -43,6 +43,7 @@ De notebook ‘Hartaandoening’ bevat zo'n oefening.
 
 Hart- en vaatziekten vormen een belangrijke doodsoorzaak. Hartfalen bv. is een veelvoorkomende aandoening. De dataset heart.csv bevat waarden voor 11 parameters die gebruikt kunnen worden om een mogelijke hartziekte te voorspellen. Een hoge bloeddruk, diabetes, een verhoogde cholesterol zijn bv. gekende factoren die
 het risico op een hartaandoening verhogen. Deze dataset is een combinatie van 5 datasets uit de VS en Europa en bevat waarden van 918 personen.
+
 Je zal de tabel met de data inlezen en voorverwerken met functionaliteiten van de Python-modules pandas en NumPy. Je past dus toe wat je leerde in het onderdeel 'Dataframe' van dit leerpad. Eens je de gewenste parameters en het label hebt bekomen in een NumPy-array, verloopt alles op dezelfde manier als in de voorbeeldnotebook. Uiteindelijk wordt er een beslissingsboom gegenereerd op basis van de gegeven, grote dataset.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=3020 "Notebooks Sentimentanalyse")
