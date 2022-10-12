@@ -15,6 +15,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "PN_VoorkennisPE-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "PN_VoorkennisPE-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "PN_IcoontjesPE-v1",
             "version": "3",
             "language": "nl"
