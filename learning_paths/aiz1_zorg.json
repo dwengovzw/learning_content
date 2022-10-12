@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "AIZ_voorstellinggraaf-v1",
+            "hruid": "aiz_computationeeldenken-v1",
             "version": "3",
             "language": "nl"
           }
@@ -23,7 +23,37 @@
       ]
     },
     {
-      "learningobject_hruid": "AIZ_voorstellinggraaf-v1",
+      "learningobject_hruid": "aiz_computationeeldenken-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "aiz_cdconcepten-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "aiz_cdconcepten-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "aiz_algoritmes-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "aiz_algoritmes-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
