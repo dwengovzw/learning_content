@@ -47,7 +47,7 @@ aan te maken. Deze beslissingsboom kan dan gebruikt worden om voor nieuwe patië
 |6|nee|ja|ja|ja|nee|
 
 <figure>
-    <figcaption align = "center"><b>Kopergravure van de Mechanische Turk met open kastdeuren (von Windisch, 1783)</b></figcaption>
+    <figcaption align = "center"><b>Tabel: Parameters van belang voor risico op hartaanval</b></figcaption>
 </figure>
 
 Het algoritme om een beslissingsboom te construeren, kan ook geprogrammeerd worden in een computer. Om een computer dit algoritme te laten uitvoeren, moet je de verschillende stappen op een ondubbelzinnige manier in een computerprogramma gieten. Dat is reeds voor jou gedaan en bereikbaar via Python-modules.
