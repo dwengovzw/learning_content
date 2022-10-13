@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Stomata zon - schaduw
-lorem ipsum
+Het aanmaken van stomata wordt beïnvloedt door omgevingsfactoren. Je leert aan de computer om stomat van bezonde planten en van planten in de schaduw van elkaar onderscheiden.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1802 "Stomata zon - schaduw")
