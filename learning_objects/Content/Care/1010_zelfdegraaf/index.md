@@ -1,5 +1,5 @@
 ---
-hruid: AIZ_zelfdegraaf-v1
+hruid: aiz_zelfdegraaf-v1
 version: 3
 language: nl
 title: "Grafen vergelijken"
@@ -33,7 +33,7 @@ teacher_exclusive: false
 # Grafen vergelijken
 In de volgende filmpjes wordt bondig uitgelegd hoe men verschillende voorstellingen van grafen met elkaar kan vergelijken. 
 
-Het eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweede een eerder formele werkwijze.
+De eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweede een eerder formele werkwijze.
 
 ![](@youtube/https://www.youtube.com/embed/K4rP8BLhr0s "Vergelijken van Grafen - Kleuren")
 
