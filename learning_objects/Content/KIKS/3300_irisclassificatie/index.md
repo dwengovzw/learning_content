@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Iris Classificatie
-Lorem ipsum
+Je leert aan de computer om drie soorten irissen van elkaar onderscheiden.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1801 "Iris classificatie")
