@@ -56,7 +56,6 @@ Computationeel denken is een methodologie om een complex probleem zo aan te pakk
 </div> 
 
 <div class="alert alert-box alert-success">
-<strong>Een definitie voor de basisconcepten</strong><br>
 Computationeel denken steunt op vier basisconcepten: decompositie, abstractie, patroonherkenning en algoritmisch denken, maar omvat nog andere concepten en praktijken. 
 
 Voor een bepaald probleem zijn deze basisconcepten vaak verweven met elkaar. Computationeel denken houdt in dat het op te lossen probleem goed begrepen en geformuleerd moet worden, er een oplossing moet bedacht worden, en een algoritme opgesteld en eventueel geïmplementeerd moet worden in de computer. 
@@ -70,6 +69,17 @@ Het begrip 'computer' wordt gebruikt in de ruime betekenis van het woord: het ge
 
 In beide definities worden vier basisconcepten van computationeel denken naar voren geschoven: decompositie, abstractie, patroonherkenning en algoritme. Over deze basisconcepten is er een internationale consensus. 
 
+<div class="alert alert-box alert-success">
+<strong>Definities van de basisconcepten</strong><br>
+
+<ul><li><strong>Decompositie</strong></br>- Een probleem doordacht opsplitsen in goedgekozen deelproblemen, zodat elk deel afzonderlijk kan worden aangepakt, en een oplossing van het probleem gemakkelijker bekomen wordt.</li></ul> 
+<ul><li><strong>Patroonherkenning</strong></br>- Achterhalen dat bepaalde aspecten van een probleem onderling gelijkenissen vertonen, waardoor het vereenvoudigd kan worden.<br>- Herkennen dat een probleem gelijkenissen vertoont met een eerder opgelost probleem.</li></ul> 
+<ul><li><strong>Abstractie</strong></br>- Negeren van informatie die niet nodig is om een probleem op te lossen.<br>- Bepaalde details verbergen om in grote lijnen over een probleem te kunnen nadenken</li></ul> 
+
+Bij het aanpakken van complexe problemen is er nood aan abstractie, omdat het redeneren vlotter verloopt zonder de ballast van irrelevante details. 
+
+<ul><li><strong>Algoritmisch denken</strong></br>- Expliciteren van een reeks eenduidige instructies die stapsgewijs moeten worden uitgevoerd.<br>- Inzien dat deze reeks instructies en de volgorde ervan essentieel zijn om het gewenste resultaat op te leveren.</li></ul> 
+</div>
 Computationeel denken is echter niet beperkt tot deze basisconcepten, maar omvat nog andere concepten en praktijken, zoals problemen oplossen, debuggen, data representeren en modelleren ... 
 
 > Je leest hier meer over in het leerpad op www.dwengo.org/computationeeldenken 
@@ -89,16 +99,6 @@ Denning en Tedre geven als definitie van computationeel denken (Denning & Tedre,
 <ul><li>het ontwerpen van berekeningen en instructies die ervoor zorgen dat computers taken voor ons voltrekken, en</li></ul>
 <ul><li>het uitleggen en het interpreteren van de wereld als een complex systeem van informatieprocessen."</li></ul>
 </div> 
-
-## Project 'AI in de Zorg' 
-
-In het project ‘AI in de Zorg’ ga je in op dat brede plaatje. Je zal data representeren op een geschikte manier om een zorgverlener te helpen bij het stellen van een diagnose of het bepalen van een behandeling. Je zoekt dus een oplossing voor een probleem waar een mens mee geholpen is. 
-
-**Het creatieve proces waarin je nadenkt over hoe je de computer voor problemen zoals deze inzet, is de essentie van computationeel denken.**<br> 
-Soms komt het voor dat je een bepaalde taak door een computer wil laten doen, maar dat daarvoor nog geen geschikt systeem bestaat. Computationeel denken houdt dan ondermeer het volgende in: **je bewust zijn van de beperkingen van het computersysteem dat je ter beschikking hebt, de mogelijkheden van de te gebruiken software en hardware kennen, nadenken over waarom bestaande systemen ontoereikend zijn en het ontwerpen van nieuwe systemen.**<br> 
-In hoofdstuk 3 zag je bv. dat er verschillende soorten grafen bestaan. Een adequate voorstelling van een probleem vereist dat de graaf aspecten die relevant zijn voor het probleem visualiseert. Als je dat niet met een van de gekende type grafen kunt waarmaken, dan ga je op zoek naar een type grafen dat wel geschikt is, of is het misschien nodig dat je een nieuw type grafen bedenkt.<br> 
-In hoofdstuk 4 kreeg je voorbeelden voorgeschoteld van hoe een specifiek type van grafen, de beslissingsboom, gebruikt wordt in de gezondheidszorg. De binaire beslissingsboom is een **abstracte voorstelling van de te volgen strategie bij het oplossen van het betreffende probleem**. Om het probleem op te lossen, dien je de beslissingsboom te doorlopen van wortel tot blad; de beslissingsboom visualiseert het te volgen algoritme: begin in de wortel, beantwoord de opeenvolgende ja-neevragen tot je in het blad aankomt dat je de beslissing geeft.<br> 
-In hoofdstuk 7 ga je zelf aan de slag met **Python** om vertrekkende van gelabelde data automatisch een beslissingsboom te laten genereren. Eerst doe je dat a.d.h.v. een geleid voorbeeld. Nadien ga je aan de slag met andere datasets. Daarbij is het van belang de **patronen** in het geleid voorbeeld te herkennen, zodat je de gekende oplossing voor het probleem uit het voorbeeld op een efficiënte manier kan aanpassen om snel tot de oplossing van het nieuwe probleem te komen. 
 
 ## Unplugged voorbeeld 'Locked-insyndroom' 
 
