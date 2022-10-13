@@ -33,4 +33,4 @@ teacher_exclusive: true
 # Kaartjes
 Aan de hand van deze kaartenset kan je de leerlingen laten stilstaan bij de ethische aspecten van nieuwe technologieën. Hoe zit het met privacy? Komen de sociale contacten niet in het gedrang? Welke technologieën worden met open armen ontvangen? Wat is niet wenselijk? Zijn de nieuwe technologieën voor iedereen betaalbaar? 
 
-![](@pdf/zorgkaartjes.pdf)
+![](@pdf/embed/zorgkaartjes.pdf)
