@@ -99,13 +99,3 @@ Denning en Tedre geven als definitie van computationeel denken (Denning & Tedre,
 <ul><li>het ontwerpen van berekeningen en instructies die ervoor zorgen dat computers taken voor ons voltrekken, en</li></ul>
 <ul><li>het uitleggen en het interpreteren van de wereld als een complex systeem van informatieprocessen."</li></ul>
 </div> 
-
-## Unplugged voorbeeld 'Locked-insyndroom' 
-
-Op de website van AI Op School vind je een unplugged voorbeeld van computationeel denken uit de zorgwereld, nl. een voorbeeld over het locked-insyndroom. 
-
-> Een unplugged voorbeeld is een voorbeeld waarvoor geen computer nodig is. 
-
-Dat voorbeeld (met dank aan Paul Curzon) maakt duidelijk dat computationeel denken om mensen gaat, en dat men bij het ontwerpen van de oplossing van een probleem best de persoon betrekt voor wie het bedoeld is. Het illustreert ook dat een bestaande oplossing door computationeel te denken misschien efficiënter kan gemaakt worden. 
-
-> Zie aiopschool.be/zorg en het leerpad ‘Locked-in’ op dwengo.org/computationeeldenken
