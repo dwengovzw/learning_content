@@ -2,8 +2,8 @@
 hruid: aiz_computationeeldenken-v1
 version: 3
 language: nl
-title: "computationeel denken"
-description: "computationeel denken"
+title: "Computationeel denken"
+description: "Computationeel denken"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,7 +27,7 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Computationeel denken
@@ -51,23 +51,21 @@ Rekening houdend met deze definitie en wat er internationaal verstaan wordt onde
 > https://onderwijsdoelen.be/uitgangspunten/4814
 
 <div class="alert alert-box alert-success">
-    <strong>Een <em>andere</em> definitie</strong><br>
-    Computationeel denken steunt op vier basisconcepten: decompositie, abstractie, patroonherkenning en algoritmisch denken, maar omvat nog andere concepten en praktijken. 
+<strong>Een <em>andere</em> definitie</strong><br>
+Computationeel denken steunt op vier basisconcepten: decompositie, abstractie, patroonherkenning en algoritmisch denken, maar omvat nog andere concepten en praktijken. 
 
-    Voor een bepaald probleem zijn deze basisconcepten vaak verweven met elkaar. Computationeel denken houdt in dat het op te lossen probleem goed begrepen en geformuleerd moet worden, er een oplossing moet bedacht worden, en een algoritme opgesteld en eventueel geïmplementeerd moet worden in de computer. 
+Voor een bepaald probleem zijn deze basisconcepten vaak verweven met elkaar. Computationeel denken houdt in dat het op te lossen probleem goed begrepen en geformuleerd moet worden, er een oplossing moet bedacht worden, en een algoritme opgesteld en eventueel geïmplementeerd moet worden in de computer. 
 
-    Een belangrijk aspect is het herkennen van problemen waarbij het interessant is om de computer als hulpmiddel in te zetten. 
+Een belangrijk aspect is het herkennen van problemen waarbij het interessant is om de computer als hulpmiddel in te zetten. 
 
-    Voor sommige problemen is dit een efficïente methodologie om tot een oplossing te komen, of leidt deze methodologie ertoe dat je gemakkelijker de computer kan inzetten om het probleem op te lossen. 
+Voor sommige problemen is dit een efficïente methodologie om tot een oplossing te komen, of leidt deze methodologie ertoe dat je gemakkelijker de computer kan inzetten om het probleem op te lossen. 
 
-    Het begrip 'computer' wordt gebruikt in de ruime betekenis van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen.
+Het begrip 'computer' wordt gebruikt in de ruime betekenis van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen.
 </div> 
 
 In beide definities worden vier basisconcepten van computationeel denken naar voren geschoven: decompositie, abstractie, patroonherkenning en algoritme. Over deze basisconcepten is er een internationale consensus. 
 
-Computationeel denken is echter niet beperkt tot deze basiscon-
-cepten, maar omvat nog andere concepten en praktijken, zoals
-problemen oplossen, debuggen, data representeren en modelleren... 
+Computationeel denken is echter niet beperkt tot deze basisconcepten, maar omvat nog andere concepten en praktijken, zoals problemen oplossen, debuggen, data representeren en modelleren ... 
 
 > Je leest hier meer over in het leerpad op www.dwengo.org/computationeeldenken 
 
