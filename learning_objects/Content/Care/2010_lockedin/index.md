@@ -39,4 +39,6 @@ Het kan iedereen overkomen, uit het niets, als gevolg van een beroerte.
 
 Als je mensen met het locked-in syndroom zou willen helpen, word je dan best arts of verpleegkundige? Of kan je als computerwetenschapper ook helpen? 
 
+Dit voorbeeld (met dank aan Paul Curzon) maakt duidelijk dat computationeel denken om mensen gaat, en dat men bij het ontwerpen van de oplossing van een probleem best de persoon betrekt voor wie het bedoeld is. Het illustreert ook dat een bestaande oplossing door computationeel te denken misschien efficiënter kan gemaakt worden. 
+
 ![](@pdf/embed/lockedin.pdf)
