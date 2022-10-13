@@ -46,6 +46,12 @@ aan te maken. Deze beslissingsboom kan dan gebruikt worden om voor nieuwe patië
 | 5             	| ja                     	| nee 	| ja    	| ja                         	| ja         	|
 | 6             	| nee                    	| ja  	| ja    	| ja                         	| nee        	|
 
+|   **Naam**                    |   **Afbeelding**              |   **Beschrijving**            |
+|   -------------------------   |   --------------------------  |   --------------------------- |
+|   Sonar-sensor    |   ![](embed/Sonar-sensor.png  "sonar-sensor") |   Gebruik deze sensor om een persoon of object te detecteren en om te bepalen hoe ver van de sensor de persoon of het object zich bevindt. In de simulator is een schuifbalk voorzien om dit te simuleren. De sensor geeft de afstand terug in centimeter.    |
+|   Geluidssensor   |   ![](embed/Geluidssensor.png "Geluidssensor")    |   Gebruik deze sensor om geluid te detecteren. In de simulator is een knop voorzien waarmee je geluid kan simuleren door de knop in te drukken. Bij geluid geeft de sensor 1 terug, bij stilte 0. |
+|   Drukknop    |   ![](embed/Drukknop.png "Drukknop") |   Er zijn 5 ingebouwde drukknoppen voorzien op de Dwenguino: NOORD, OOST, ZUID, WEST en MIDDEN. |  
+
 In deze tabel wordt een patiënt aangeduid met een ‘patiëntnummer’. De parameters ‘pijn in de borststreek’, ‘man’, ‘rookt’ en ‘voldoende lichaamsbeweging’ in de tabel zijn de parameters die in aanmerking genomen worden om het risico op een hartaanval te bekijken.
 De patiënt kan behoren tot de categorieën ‘hartaanval’ of ‘geen hartaanval’, dus tot de klasse ‘ja’ (wat hetzelfde is als ‘hartaanval’) of de klasse ‘nee’ (wat hetzelfde is als ‘geen hartaanval’).
 
