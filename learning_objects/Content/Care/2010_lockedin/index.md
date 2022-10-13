@@ -39,4 +39,3 @@ Het kan iedereen overkomen, uit het niets, als gevolg van een beroerte.
 
 Als je mensen met het locked-in syndroom zou willen helpen, word je dan best arts of verpleegkundige? Of kan je als computerwetenschapper ook helpen? 
 
-![](@pdf/embed/lockedin.pdf)
