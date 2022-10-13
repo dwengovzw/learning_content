@@ -38,13 +38,17 @@ Aan de hand van deze (te beperkte) dataset wordt getoond hoe je het verdeel-en-h
 aan te maken. Deze beslissingsboom kan dan gebruikt worden om voor nieuwe patiënten na te gaan of ze risico lopen op het krijgen van een hartaanval.
 
 Patiëntnummer Pijn in de borststreek Man Rookt Voldoende lichaamsbeweging Hartaanval
-1 ja ja nee ja ja
-2 ja ja ja nee ja
-3 nee nee ja nee ja
-4 nee ja nee ja nee
-5 ja nee ja ja ja
-6 nee ja ja ja nee
-Tabel 6.1: Parameters van belang voor risico op hartaanval.
+| Patiëntnummer 	| Pijn in de borststreek 	| Man 	| Rookt 	| Voldoende lichaamsbeweging 	| Hartaanval 	|
+|---------------	|------------------------	|-----	|-------	|----------------------------	|------------	|
+| 1             	| ja                     	| ja  	| nee   	| ja                         	| ja         	|
+| 2             	| ja                     	| ja  	| ja    	| nee                        	| ja         	|
+| 3             	| nee                    	| nee 	| ja    	| nee                        	| ja         	|
+| 4             	| nee                    	| ja  	| nee   	| ja                         	| nee        	|
+| 5             	| ja                     	| nee 	| ja    	| ja                         	| ja         	|
+| 6             	| nee                    	| ja  	| ja    	| ja                         	| nee        	|
+<figure>
+    <figcaption align = "center"><b>Tabel: Parameters van belang voor risico op hartaanval.</b></figcaption>
+</figure>
 
 In deze tabel wordt een patiënt aangeduid met een ‘patiëntnummer’. De parameters ‘pijn in de borststreek’, ‘man’, ‘rookt’ en ‘voldoende lichaamsbeweging’ in de tabel zijn de parameters die in aanmerking genomen worden om het risico op een hartaanval te bekijken.
 De patiënt kan behoren tot de categorieën ‘hartaanval’ of ‘geen hartaanval’, dus tot de klasse ‘ja’ (wat hetzelfde is als ‘hartaanval’) of de klasse ‘nee’ (wat hetzelfde is als ‘geen hartaanval’).
