@@ -37,7 +37,6 @@ De volgende tabel toont zulke parameters voor zes patiënten waarvan  geweten is
 Aan de hand van deze (te beperkte) dataset wordt getoond hoe je het verdeel-en-heersalgoritme in de praktijk toepast om een beslissingsboom
 aan te maken. Deze beslissingsboom kan dan gebruikt worden om voor nieuwe patiënten na te gaan of ze risico lopen op het krijgen van een hartaanval.
 
-Patiëntnummer Pijn in de borststreek Man Rookt Voldoende lichaamsbeweging Hartaanval
 | Patiëntnummer 	| Pijn in de borststreek 	| Man 	| Rookt 	| Voldoende lichaamsbeweging 	| Hartaanval 	|
 |---------------	|------------------------	|-----	|-------	|----------------------------	|------------	|
 | 1             	| ja                     	| ja  	| nee   	| ja                         	| ja         	|
