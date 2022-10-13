@@ -2,7 +2,7 @@
 hruid: aiz_cdconcepten-v1
 version: 3
 language: nl
-title: "Ai in de Zorg"
+title: "AI in de Zorg"
 description: "AI in de Zorg"
 keywords: [""]
 educational_goals: [
@@ -41,7 +41,7 @@ In hoofdstuk 3 zag je bv. dat er verschillende soorten grafen bestaan. Een adequ
 In hoofdstuk 4 kreeg je voorbeelden voorgeschoteld van hoe een specifiek type van grafen, de beslissingsboom, gebruikt wordt in de gezondheidszorg. De binaire beslissingsboom is een **abstracte voorstelling van de te volgen strategie bij het oplossen van het betreffende probleem**. Om het probleem op te lossen, dien je de beslissingsboom te doorlopen van wortel tot blad; de beslissingsboom visualiseert het te volgen algoritme: begin in de wortel, beantwoord de opeenvolgende ja-neevragen tot je in het blad aankomt dat je de beslissing geeft.<br> 
 In hoofdstuk 7 ga je zelf aan de slag met **Python** om vertrekkende van gelabelde data automatisch een beslissingsboom te laten genereren. Eerst doe je dat a.d.h.v. een geleid voorbeeld. Nadien ga je aan de slag met andere datasets. Daarbij is het van belang de **patronen** in het geleid voorbeeld te herkennen, zodat je de gekende oplossing voor het probleem uit het voorbeeld op een efficiënte manier kan aanpassen om snel tot de oplossing van het nieuwe probleem te komen. 
 
-## Centraal probleem van 'AI in de Zorg 
+## Centraal probleem van 'AI in de Zorg' 
 
 *Stel gelabelde data uit de zorgsector op een manier voor die geschikt is om er beslissingen mee te nemen betreffende een diagnose of een behandeling."* 
 
