@@ -51,3 +51,6 @@ Er zijn ook wiskundige toepassingen. Het algoritme van Euclides is een verdeel-e
 En er zijn ook praktische toepassingen. Om na het wassen dezelfde kousen weer bij elkaar te voegen, kan je ze eerst sorteren op kleur alvorens ze te matchen (Stock, 2017).
 
 ## Gulzig algoritme
+Het algoritme dat je in hoofdstuk 6 zal gebruiken om een beslissingsboom te construeren heeft nog een bijzonder kenmerk. Het is een gulzig algoritme. Het zal bij elke stap voor het opbouwen van de beslissingsboom kiezen voor die splitsing die op dat moment zo optimaal mogelijk is, maar geen rekening houden met de stappen die erna nog komen. De gevoerde strategie is er een van ‘neem wat je nu kunt krijgen’ (Fack, 2007). Het algoritme is effectief, maar niet altijd het meest efficiënte. 
+
+> Een gulzig algoritme wordt ook een gretig algoritme genoemd.
