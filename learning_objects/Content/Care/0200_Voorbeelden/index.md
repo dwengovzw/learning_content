@@ -46,10 +46,6 @@ aan te maken. Deze beslissingsboom kan dan gebruikt worden om voor nieuwe patië
 | 5             	| ja                     	| nee 	| ja    	| ja                         	| ja         	|
 | 6             	| nee                    	| ja  	| ja    	| ja                         	| nee        	|
 
-<figure>
-    <figcaption align = "center"><b>Tabel: Parameters van belang voor risico op hartaanval.</b></figcaption>
-</figure>
-
 In deze tabel wordt een patiënt aangeduid met een ‘patiëntnummer’. De parameters ‘pijn in de borststreek’, ‘man’, ‘rookt’ en ‘voldoende lichaamsbeweging’ in de tabel zijn de parameters die in aanmerking genomen worden om het risico op een hartaanval te bekijken.
 De patiënt kan behoren tot de categorieën ‘hartaanval’ of ‘geen hartaanval’, dus tot de klasse ‘ja’ (wat hetzelfde is als ‘hartaanval’) of de klasse ‘nee’ (wat hetzelfde is als ‘geen hartaanval’).
 
