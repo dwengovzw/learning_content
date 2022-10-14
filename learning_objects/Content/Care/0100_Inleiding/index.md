@@ -43,7 +43,7 @@ Kyphosis kan op elke leeftijd voorkomen, maar uit zich vaak bij jongvolwassenen.
 
 De beslissingsboom in Figuur 2 ‘voorspelt’ of een patiënt zal geholpen zijn door een operatie of niet. Deze beslissing gebeurt op basis van verschillende patiëntenkenmerken, namelijk de leeftijd van de patiënt in maanden, het aantal wervels betrokken bij de operatie en het nummer van de eerste wervel waarop geopereerd wordt.<br> 
 
-![Beslissingsbom](embed/fig2.png "Beslissingsboom")
+![Beslissingsboom](embed/fig2.jpg "Beslissingsboom")
 
 Deze patiëntenkenmerken worden voor een specifieke patiënt ingegeven in het AI-systeem en het systeem geeft aan aan de arts of een operatie voor die patiënt aangewezen is.
 
