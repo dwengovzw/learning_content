@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Met de Webcam
-Lorem ipsum
+Binnenkort beschikbaar
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4020 "Webcam")

@@ -17,7 +17,7 @@ target_ages: [16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
-    callback_schema: {
+    callback_schema: {Lorem
         att: test,
         att2: test2
     }
@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Silvretta gletsjer
-Lorem ipsum
+Binnenkort beschikbaar
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1930 "Silvretta gletsjer")
