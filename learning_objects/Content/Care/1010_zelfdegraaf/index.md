@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 
 # Grafen vergelijken
-In de volgende filmpjes wordt bondig uitgelegd hoe men verschillende voorstellingen van grafen met elkaar kan vergelijken. 
+In de volgende filmpjes wordt bondig uitgelegd hoe je verschillende voorstellingen van grafen met elkaar kunt vergelijken. 
 
 De eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweede een eerder formele werkwijze.
 

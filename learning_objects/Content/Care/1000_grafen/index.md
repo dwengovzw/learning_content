@@ -31,6 +31,6 @@ teacher_exclusive: false
 ---
 
 # Sprouts
-Dit is een eenvoudig spel dat je kan spelen met leerlingen om het onderwerp grafen in te leiden.
+Speel dit eenvoudig spel als inleiding op het onderwerp 'grafen'. 
 
 ![](@youtube/https://www.youtube.com/embed/zq5TpgqAn_A "Sprouts")
