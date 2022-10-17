@@ -31,11 +31,20 @@ skos_concepts: [
 ---
 # Toepassen op de stelling van Pythagoras
 
-In de oefeningen bij de stelling van Pythagoras is vaak een patroon te herkennen: 2 zijden van een driehoek zijn gekend en de derde zijde moet berekend worden.
-* ofwel zijn de 2 rechthoekszijden gegeven en moet de schuine zijde berekend worden
+De oefeningen bij de stelling van Pythagoras in het derde middelbaar zijn dikwijls te herleiden tot eenzelfde probleem: 2 zijden van een driehoek zijn gekend en de derde zijde moet berekend worden. 
+
+Daarbij kan je twee types onderscheiden:
+* ofwel zijn de 2 rechthoekszijden gegeven en moet de schuine zijde berekend worden;
 * ofwel zijn 1 rechthoekszijde en de schuine zijde gegeven en moet de andere rechthoekszijde berekend worden.
 
-Hiervoor volstaan 2 functies. Deze toepassingen vind je alvast terug in de notebooks. Maar er is meer.
+Heb je beide types reeds eerder aangepakt, dan leidt het herkennen met welke van deze twee types je te maken hebt, rechtstreeks tot de oplossing van het probleem. Je moet enkel de eerder uitgewerkte oplossing nog aanpassen aan de nieuwe situatie. 
+
+---
+In deze notebooks zal je het nodige _rekenwerk overlaten aan de computer_. Je kan je dan ten volle concentreren op de gestelde problemen. 
+ 
+Deze twee types van problemen vind je alvast terug in de eerste notebook. Om ze op te lossen volstaan twee _functies_ die je zelf zal definiëren in Python. Na het oplossen van de basisproblemen, zal je via _patroonherkenning_ de andere problemen aanpakken door de code bij de eerder opgeloste problemen aan te passen.  
+
+In een tweede notebook vind je extra uitdagende oefeningen. Je wendt er bv. een _keuzestructuur_ aan en werkt er met de _afstand tussen twee punten_. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0503 "Notebooks Pythagoras")
 

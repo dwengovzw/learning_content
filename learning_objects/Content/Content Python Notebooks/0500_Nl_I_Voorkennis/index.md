@@ -32,4 +32,5 @@ skos_concepts: [
 
 # Voorkennis
 
+* Leerpad *'Werken met notebooks'*
 * Leerpad *'Operatoren'*

@@ -31,4 +31,12 @@ skos_concepts: [
 ---
 
 # Inleiding
-De oefeningen bij de stelling van Pythagoras lenen er zich toe om met enkele concepten uit de computerwetenschappen aan de slag te gaan: algoritmes, invoer-verwerking-uitvoer, patroonherkenning, functies...
+In het derde middelbaar wordt de stelling van Pythagoras aangbracht. De oefeningen die hierbij aanbod komen, lenen er zich toe om met enkele concepten uit het computationeel denken en het programmeren aan de slag te gaan: invoer-verwerking-uitvoer, patroonherkenning, functies ... 
+
+Wat er gegeven is over de zijden van de driehoeken, kan opgevraagd worden bij de gebruiker. Aan de hand van code kan deze _invoer (input)_ dan automatisch _verwerkt_ worden en gevolgd worden door een _uitvoer (output)_ die wordt getoond.
+
+Het aantal types oefeningen bij de stelling van Pythagoras in het derde middelbaar is vrij beperkt. Daarom is de code die men nodig heeft in de oefeningen vaak dezelfde. Het is daarom handig die code te vatten in een _functie_ die dan in de verschillende oefeningen kan hergebruikt worden. Bovendien maakt het werken met functies de programma's beter leesbaar.
+Herkennen welk type _probleem_ men moet oplossen, valt onder _patroonherkenning_. 
+
+---
+Dit leerpad behandelt eerst hoe je aan de slag gaat met invoer-verwerking-uitvoer en hoe je zelf een functie definieert in Python. Nadien gebruik je deze kennis om problemen in het kader van de stelling van Pythagoras op te lossen. 

@@ -30,7 +30,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Convolutie Bewerking
-Lorem ipsum
+# Convolutiebewerking
+Bij een ’convolutie’ laat men een ’filter’ over een afbeelding ’glijden’; er wordt daarbij telkens één pixel opgeschoven. 
+Zowel de afbeelding als de filter zijn matrices of tensoren. De elementen van de filter en de elementen van de matrix van de afbeelding worden
+elementsgewijs vermenigvuldigd en erna worden deze producten opgeteld. 
+
+In deze notebook leer je hoe deze bewerking exact verloopt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1751 "Convolutie bewerking")

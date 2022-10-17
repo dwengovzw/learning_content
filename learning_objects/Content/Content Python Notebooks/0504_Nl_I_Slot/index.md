@@ -31,4 +31,4 @@ skos_concepts: [
 ---
 
 # Slot
-
+De technieken die je hier leerde, kan je ook elders toepassen. Onderdelen uit het curriculum wiskunde waarbij eenzelfde rekenkundige bewerking steeds weer aan bod komt, lenen zich uitermate om te gaan automatiseren. Geleerde formules kunnen gemakkelijk in een functie vervat worden.
