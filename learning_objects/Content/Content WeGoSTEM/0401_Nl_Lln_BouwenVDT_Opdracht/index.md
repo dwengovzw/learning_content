@@ -33,10 +33,10 @@ teacher_exclusive: false
 
 # Bouwen van een Tekenrobot
 
-Nu je een idee hebt van hoe een robot werkt, kan je beginnen aan het bouwen van de robot zelf! Dit zal je doen door gebruik te maken van de [foto](images/Voorbeeld.pdf "afgewerkte robot") en de componenten uit het doosje.
+Nu je een idee hebt van hoe een robot werkt, kan je beginnen aan het bouwen van de robot zelf! Gebruik hiervoor de [foto](images/Voorbeeld.pdf "afgewerkte robot") en de onderdelen uit het doosje.
 
 ![](images/Voorbeeld.png "afgewerkte robot")
 
-Probeer dit zeker eerst te doen a.d.h.v. de afbeelding! Als het niet lukt om de robotarm te bouwen op basis van de foto, bekijk dan onderstaand filmpje.
+Slaag jij erin om de robot helemaal te bouwen, enkel en alleen door naar de foto te kijken? Heb je nog wat extra hulp nodig? Bekijk dan onderstaand filmpje.
 
 ![filmpje](@youtube/https://www.youtube.com/embed/BilJBKQ4V0Y "Bouwen van een tekenrobot")
