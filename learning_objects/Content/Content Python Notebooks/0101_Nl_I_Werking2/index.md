@@ -36,6 +36,8 @@ skos_concepts: [
 *Wanneer je een reeks notebooks hebt afgewerkt, mag je niet vergeten uit te loggen via de knop rechts bovenaan.*  
 
 ![](embed/LogOut.png "Log out")  
-
+<figure>
+    <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
+</figure>
 
 Als je dit niet doet, dan zal de nieuwe link nog steeds de vorige reeks notebooks tonen, in plaats van de nieuwe reeks.
