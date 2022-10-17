@@ -42,12 +42,12 @@ De leerlingen hebben nu een robot en willen die activeren. Maar eerst moeten ze 
 
 *Stap per stap*
 
-Dankzij het leerpad leren de leerlingen zelfstandig en op een onderzoekende manier werken. Eerst in een simulator, nadien in het echt. In een aantal deelstappen ontdekken ze een aantal manieren om hun robot aan te sturen. 
+Dankzij het leerpad leren de leerlingen zelfstandig en op een onderzoekende manier werken. Eerst in een simulator, nadien in het echt. In een aantal deelstappen ontdekken ze verschillende manieren om hun robot aan te sturen. Zo leren ze: 
 
-1. Hun naam schrijven op het lcd-scherm
-2. De robot pas laten starten wanneer een knopje ingedrukt wordt
-3. De motoren laten draaien zodat de robot tekent
-4. Experimenteren met de mechanica en snelheid van de motoren
+1. Hun naam schrijven op het lcd-scherm.
+2. De robot pas laten starten wanneer een knopje ingedrukt wordt.
+3. De motoren laten draaien zodat de robot tekent.
+4. Experimenteren met de mechanica en snelheid van de motoren.
 
 Tip: Laat de leerlingen pas programmeren wanneer ze klaar zijn met het bouwen van hun tekenrobot.
 
