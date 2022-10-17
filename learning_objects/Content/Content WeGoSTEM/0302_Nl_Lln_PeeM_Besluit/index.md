@@ -33,6 +33,6 @@ teacher_exclusive: false
 
 ## Besluit
 
-Zoals je wel zult gemerkt hebben is het niet altijd even eenvoudig om duidelijke instructies te geven. Om een specifiek resultaat te bekomen, is "Teken een huis" bijvoorbeeld veel te vaag. Wat is de vorm van het huis? Hoe groot moet het huis zijn? Waar op mijn blad moet ik beginnen tekenen? Doordat de robots geen vragen mogen/kunnen stellen, wordt dit des te duidelijker.
+Je ziet dat het niet altijd eenvoudig is om duidelijke instructies te geven. Als je een specifiek huis wil laten tekenen door een computer, is "Teken een huis" bijvoorbeeld veel te vaag voor de computer. Wat is de vorm van het huis? Hoe groot moet het huis zijn? Waar op het blad moet de computer beginnen tekenen? Dat heb je zelf ontdekt tijdens de opdracht. Het was misschien wel frustrerend voor de robots dat ze geen vragen mochten stellen. Maar een echte robot kan dat natuurlijk ook niet uit zichzelf!
 
-Computers kunnen niet interpreteren en voeren letterlijk iedere instructie uit die je ze geeft. De uitdaging van de programmeur bestaat er in problemen op te lossen door ze op te delen in kleine stappen die uitvoerbaar zijn door de computer en de instructies op de juiste manier aan de computer te geven.
+Computers kunnen niet interpreteren. Ze voeren letterlijk iedere instructie uit die je ze geeft. Als programmeur moet je opdrachten dus opsplitsen in kleine, heldere stappen. Stappen die de computer kan uitvoeren. En uiteraard moet je de instructies zo helder mogelijk doorgeven aan de computer.
