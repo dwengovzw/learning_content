@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Morteratsch gletsjer
-Lorem ipsum
+Binnenkort beschikbaar
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1930 "Morteratsch gletsjer")

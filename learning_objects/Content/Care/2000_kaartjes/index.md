@@ -1,9 +1,9 @@
 ---
-hruid: AIZ_voorstellinggraaf-v1
+hruid: aiz_kaartjes-v1
 version: 3
 language: nl
-title: "Voorstelling graaf"
-description: "Voorstelling graaf"
+title: "Kaartjes"
+description: "Kaartjes"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,15 +23,14 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: true
 ---
 
-# Voorstelling Graaf
+# Kaartjes
+Aan de hand van deze kaartenset kan je de leerlingen laten stilstaan bij de ethische aspecten van nieuwe technologieën. Hoe zit het met privacy? Komen de sociale contacten niet in het gedrang? Welke technologieën worden met open armen ontvangen? Wat is niet wenselijk? Zijn de nieuwe technologieën voor iedereen betaalbaar? 
 
-Filmpjes
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=3010 "Voorbeeldnotebook")
+![](@pdf/embed/zorgkaartjes.pdf)

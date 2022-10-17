@@ -31,6 +31,9 @@ teacher_exclusive: true
 ---
 
 # Gradient Descent
-Lorem ipsum
+In de wiskunde wordt veel aandacht besteed aan de afgeleide van een reële functie. Afgeleiden hebben veel toepassingen, bv. in de economie en in de fysica.
+
+Ook voor neurale netwerken zijn afgeleiden belangrijk. Men gebruikt ze om de kostenfunctie te minimaliseren. Men gaat op zoek naar het minimum door de
+gewichten stap voor stap aan te passen, gebaseerd op de afgeleide in het ‘huidige’ punt. Deze methode noemt men _gradient descent_.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1760 "Gradient descent")

@@ -1,9 +1,9 @@
 ---
-hruid: AIZ_Oefenen-v1
+hruid: AIZ_sprouts-v1
 version: 3
 language: nl
-title: "Oefennotebooks"
-description: "Oefennotebooks"
+title: "Sprouts"
+description: "Sprouts"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,14 +23,14 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Oefennotebooks
-Tekst H7 H5
+# Sprouts
+Speel dit eenvoudig spel als inleiding op het onderwerp 'grafen'. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=3020 "Notebooks Sentimentanalyse")
+![](@youtube/https://www.youtube.com/embed/zq5TpgqAn_A "Sprouts")

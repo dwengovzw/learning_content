@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Zeeniveau
-Lorem ipsum
+Binnenkort beschikbaar
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1940 "Zeeniveau")

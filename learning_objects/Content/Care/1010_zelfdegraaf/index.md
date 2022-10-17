@@ -1,9 +1,9 @@
 ---
-hruid: AIZ_Dataframe-v1
+hruid: aiz_zelfdegraaf-v1
 version: 3
 language: nl
-title: "Dataframe"
-description: "Dataframe"
+title: "Grafen vergelijken"
+description: "Grafen vergelijken"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,11 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Dataframe
-A.d.h.v. pandas kan je op een eenvoudige manier gegevens voorverwerken.
+# Grafen vergelijken
+In de volgende filmpjes wordt bondig uitgelegd hoe je verschillende voorstellingen van grafen met elkaar kunt vergelijken. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1018 "Notebooks Dataframe")
+De eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweede een eerder formele werkwijze.
+
+![](@youtube/https://www.youtube.com/embed/K4rP8BLhr0s "Vergelijken van Grafen - Kleuren")
+
+![](@youtube/https://www.youtube.com/embed/iNUqJXuoOyw "Vergelijken van Grafen - Formeel")
