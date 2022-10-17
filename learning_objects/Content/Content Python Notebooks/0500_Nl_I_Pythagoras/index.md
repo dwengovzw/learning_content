@@ -32,5 +32,7 @@ skos_concepts: [
 
 # Pythagoras
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0500 "Notebooks Pythagoras")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0500 "Notebooks Pythagoras") 
+
+![](@youtube/https://www.youtube.com/watch?v=O2iGX2SLLAQ "Filmpje Pythagoras")
 

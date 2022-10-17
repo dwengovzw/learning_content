@@ -35,3 +35,4 @@ Je leert een tekenvenster aanmaken en enkele datapunten visualiseren.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0201 "Notebooks Eerste Grafiek")
 
+![](@youtube/https://www.youtube.com/watch?v=Dkq42rYIGv4 "Video tekenvenster")

@@ -32,3 +32,5 @@ skos_concepts: [
 Hier leer je hoe je bepaalde instructies uit je script groepeert in een subalgoritme en meegeeft aan Python in een zelfgedefinieerde functie. Deze functie kan dan in het programma opgeroepen worden.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1006 "Notebooks Functie")
+
+![](@youtube/https://www.youtube.com/watch?v=fRRX4oE45UQ "Video functies")
