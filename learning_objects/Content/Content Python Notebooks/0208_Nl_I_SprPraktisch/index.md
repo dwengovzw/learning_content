@@ -34,3 +34,5 @@ skos_concepts: [
 Deze notebook is handig voor als je snel een spreidingsdiagram wilt tekenen met Python.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0208 "Notebooks spreidingsdiagram praktisch")
+
+![](@youtube/https://www.youtube.com/watch?v=3Y2uqOzMPgs "Video spreidingsdiagram")
