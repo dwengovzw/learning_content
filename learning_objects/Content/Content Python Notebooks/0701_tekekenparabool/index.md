@@ -1,9 +1,9 @@
 ---
-hruid: TemplateI-v1
+hruid: pn_tekenenparabool-v1
 version: 3
 language: nl
-title: "Opdracht Leds 2"
-description: "Opdracht Leds"
+title: "Tekenen"
+description: "Tekenen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,11 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 ---
-Zelfde naar zelfde
+# Tekenen
+Binnenkort beschikbaar 
 
-![notebook](@learning-object/extern-test-v1/nl/3)
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0701 "Notebooks tekenen parabool")
+<figure>
+    <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
+</figure>
 
