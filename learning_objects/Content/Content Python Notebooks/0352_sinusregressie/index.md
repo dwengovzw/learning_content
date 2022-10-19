@@ -2,8 +2,8 @@
 hruid: pn_sinusregressie-v1
 version: 3
 language: nl
-title: "Sinusregressie"
-description: "Sinusregressie"
+title: "Temperatuur"
+description: "Temperatuur"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,10 +28,10 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 ---
-# Sinusregressie
+# Temperatuur
 Binnenkort beschikbaar 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0352 "Notebooks sinusregressie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0352 "Notebooks temperatuur")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>

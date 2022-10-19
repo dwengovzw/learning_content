@@ -2,7 +2,7 @@
 hruid: pn_exponentieleregressie-v1
 version: 3
 language: nl
-title: "Exponentiële regressie"
+title: "Epidemie"
 description: "Exponentiële regressie"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
@@ -28,10 +28,10 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 ---
-# Exponentiële regressie
+# Epidemie
 Binnenkort beschikbaar 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1210 "Notebooks exponentiële regressie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1210 "Notebooks epidemie")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>
