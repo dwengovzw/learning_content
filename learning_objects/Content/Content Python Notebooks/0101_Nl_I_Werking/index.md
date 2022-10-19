@@ -51,7 +51,9 @@ In deze eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je er
 Na het doorlopen van beide notebooks heb je een goed idee van hoe onze Python notebooks zijn opgevat.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0101 "Notebooks Werking")
-
+<figure>
+    <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
+</figure>
 ---
 **Ben je klaar met deze reeks notebooks, dan log je uit via de knop rechts bovenaan. Vergeet dit zeker niet!**  
 

@@ -1,10 +1,10 @@
 ---
-hruid: PN_WerkingNotebooks2-v1
+hruid: pn_exponentieleregressie-v1
 version: 3
 language: nl
-title: "Log out"
-description: "Leren werken met de notebooks"
-keywords: ["Python", "KIKS", "Wiskunde", "STEM"]
+title: "Exponentiële regressie"
+description: "Exponentiële regressie"
+keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -24,17 +24,15 @@ return_value: {
 }
 estimated_time: 10
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-vaktaal', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 ---
+# Exponentiële regressie
+Binnenkort beschikbaar 
 
-# Werken met notebooks
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1210 "Notebooks exponentiële regressie")
+<figure>
+    <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
+</figure>
 
-**Let op**  
-*Wanneer je een reeks notebooks hebt afgewerkt, mag je niet vergeten uit te loggen via de knop rechts bovenaan.*  
-
-![](embed/LogOut.png "Log out")  
-
-Als je dit niet doet, dan zal de nieuwe link nog steeds de vorige reeks notebooks tonen, in plaats van de nieuwe reeks.
