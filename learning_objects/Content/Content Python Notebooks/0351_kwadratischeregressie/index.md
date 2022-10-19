@@ -2,8 +2,8 @@
 hruid: pn_kwadratischeregressie-v1
 version: 3
 language: nl
-title: "Kwadratische regressie"
-description: "Kwadratische regressie"
+title: "Schuine worp"
+description: "Schuine worp"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,10 +28,10 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 ---
-# Kwadratische regressie
+# Schuine worp
 Binnenkort beschikbaar 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0351 "Notebooks kwadratische regressie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0351 "Notebooks schuine worp")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>
