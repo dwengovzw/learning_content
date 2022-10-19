@@ -1,5 +1,5 @@
 ---
-hruid: kiks_microscopie-v1
+hruid: kiks_microscoop-v1
 version: 3
 language: nl
 title: "Microscopie"
@@ -30,5 +30,4 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Inleiding
-Niemand heeft reeds huidmondjes gezien met het blote oog, ook de leerlingen niet. Huidmondjes zijn voor hen dan ook een abstract gegeven. Voor de leerlingen én voor de leerkrachten is het daarom een toffe ervaring om binnen het kader van het KIKS-project naar huidmondjes te kijken met een microscoop. De leerlingen kunnen de huidmondjes ook door de microscoop fotograferen met een smartphone. Wij gebruiken met de leerlingen een monoculaire microscoop die 400 keer vergroot.
+# Microscoop
