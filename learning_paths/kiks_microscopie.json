@@ -45,6 +45,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "kiks_opensluiten-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "kiks_opensluiten-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "kiks_practicum-v1",
             "version": "3",
             "language": "nl"
@@ -60,7 +75,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "kiks_microscopieconclusie-v1",
+            "hruid": "kiks_evolutieplantenstomata-v1",
             "version": "3",
             "language": "nl"
           }
@@ -68,7 +83,37 @@
       ]
     },
     {
-      "learningobject_hruid": "kiks_microscopieconclusie-v1",
+      "learningobject_hruid": "kiks_evolutieplantenstomata-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "kiks_invloedomgeving-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "kiks_invloedomgeving-v1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "kiks_stomataklimaat-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "kiks_stomataklimaat-v1",
       "version": "3",
       "language": "nl"
     } 
