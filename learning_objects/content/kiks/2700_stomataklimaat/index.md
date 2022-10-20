@@ -42,7 +42,7 @@ teacher_exclusive: true
 Een veranderend klimaat heeft een impact op de biodiversiteit en omgekeerd kan de **biodiversiteit** ook de klimaatverandering beïnvloeden. Bv. transpiratie verkoelt niet enkel de plant, maar ook haar omgeving. Er zijn grote verschillen in hoe planten reageren op de CO2-toename en in de mate waarin planten CO2 opnemen.<br>
 Het is bv. cruciaal dat men inzicht krijgt in de aanpassingen van gewassen om de **voedselvoorziening** te kunnen bewaken. 
 
-<div class="alert alert-box alert-success"><
+<div class="alert alert-box alert-success">
 <strong>Video</strong><br>
 
 [Stomata and global climate cycles.](https://youtu.be/eD2J3PBoERI "Bergmann, 2015")

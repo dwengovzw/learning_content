@@ -42,14 +42,14 @@ teacher_exclusive: true
     <figcaption align = "center">Figuur: respectievelijk bezond en beschaduwd blad van <em>Monodora angolensis</em></figcaption>
 </figure> 
 
-<div class="alert alert-box alert-secondary">
+<div class="alert alert-box alert-success">
 <strong>Notebook - machinaal leren - classificatie (nu of later)</strong><br>
 
 <ul><li>Doorloop de notebook <em>StomataZonSchaduw.ipynb</em> in de map <em>IntroductieMachineLearning</em> tot na de animatie. Je ziet dat de planten die in de zon groeiden, gescheiden kunnen worden van de planten die in de schaduw groeiden, en dat louter gebaseerd op de afmetingen en de dichtheid van de huidmondjes.<br>Je hoeft nog niet alles te begrijpen in deze notebook.</li></ul> 
 <ul><li>Merk je op dat het neurale netwerk eerst volledig willekeurig een rechte kiest en die stap voor stap aanpast tot er een gewenste scheidingsrechte is gevonden?</li></ul>
 </div> 
 
-<div class="alert alert-box alert-secondary">
+<div class="alert alert-box alert-success">
 <strong>Notebook (facultatief)</strong><br>
 <ul><li>In de notebook <em>TensorenRgb.ipynb</em> in de map <em>IntroductiePython</em> worden deze foto’s van Sofie Meeus en microfoto’s van de Plantentuin Meise gebruikt.</li></ul>
 </div>
