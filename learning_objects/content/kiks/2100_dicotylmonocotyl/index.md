@@ -55,16 +55,17 @@ Stomata geven informatie over de plaats van de plant in de stamboom van de bloem
 
 <div class="alert alert-box alert-success">
     <strong>Notebook datastructuur</strong><br>
-    <em>Verwijzing</em>
+    In de notebook <em>Datastructuur.ipynb</em> in de map <em>IntroductiePython</em> komen monocotylen en dicotylen aan bod.
 </div> 
 
 <div class="alert alert-box alert-success">
-    <strong>Notebook klassen</strong><br>
-    <em>Verwijzing</em>
+    <strong>Notebook (nu of later)</strong><br>
+    Wil je meer weten over de klassen waartoe objecten behoren? Doorloop dan de notebook <em>Klassen.ipynb,<em>.
 </div> 
 
 <div class="alert alert-box alert-success">
     <strong>Video</strong><br>
+
     [Stomatal Closure in Tradescantia Leaf Cells.](https://youtu.be/AwyrqfNTuxQ "davcjal, 2015")<br><br>
     [Monocot and Eudicot Germination Time-lapse.](https://youtu.be/WbG5zu2Vw0I "Sci- Inspi, 2018")
 </div> 
