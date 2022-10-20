@@ -32,6 +32,7 @@ teacher_exclusive: false
 # Wiskunde 
 ## Eindtermen wiskunde tweede graad 
 
+<em>
 <ul><li>6.5/6.6 (Dubbele finaliteit/Finaliteit doorstroom) De leerlingen drukken bij een formule één variabele uit in functie van de andere. (Toepassen).</li></ul>
 <ul><li>6.8/6.9 (Dubbele finaliteit/Finaliteit doorstroom) De leerlingen leggen het verband tussen verschillende representaties van een functie, met name tussen verwoording, tabel, grafiek en voorschrift. (Begrijpen).</li></ul>
 <ul><li>6.10 (Dubbele finaliteit) De leerlingen brengen kenmerken van een functie in verband met de betekenisvolle situatie die door de functie beschreven wordt. (Analyseren).</li></ul>
@@ -41,3 +42,4 @@ teacher_exclusive: false
 <ul><li>6.17 (Finaliteit doorstroom) De leerlingen gebruiken grafen om problemen op te lossen. (Toepassen).</li></ul>
 <ul><li>6.20 (Finaliteit doorstroom) De leerlingen bepalen de waarheidswaarde van logische uitspraken. (Toepassen).</li></ul>
 <ul><li>6.13/6.22 (Dubbele finaliteit/Finaliteit doorstroom) De leerlingen lossen problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken. (Analyseren).</li></ul>
+</em>
