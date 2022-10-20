@@ -2,8 +2,8 @@
 hruid: kiks_dicotylmonocotyl-v1
 version: 3
 language: nl
-title: "Dicotyl en monocotyl"
-description: "Dicotyl en monocotyl"
+title: "Monocotylen en dicotylen"
+description: "Monocotylen en dicotylen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,6 +29,43 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Monocotylen en dicotylen 
 
-# Dicotyl en monocotyl
-Binnenkort beschikbaar
+![](embed/bladstructuur.png "Bladstructuur")
+<figure>
+    <figcaption align = "center">Figuur 1: Bladstructuur (Zephyris, 2011)</figcaption>
+</figure>
+
+Een huidmondje ligt tussen twee sluitvellen (zoals te zien op de bladstructuur in Figuur 1). Als de sluitcellen in volume toenemen, gaat het huidmondje open. De sluitcellen nemen in volume toe door het opnemen van water. Het gevolg is dat de sluitcellen krommen, waardoor het huidmondje opent (Zie Figuur 2).
+
+![](embed/stomata.png "Stomata")
+<figure>
+    <figcaption align = "center">Figuur 2: Gesloten en open huidmondje</figcaption>
+</figure>
+
+**Stomata kunnen op beide zijden van een blad voorkomen (amphistomateus), of op slechts één zijde, meestal de onderkant (hypostomateus), uitzonderlijk de bovenkant (epistomateus), bv. bij een waterlelie.**<br>
+De stomata en de cuticula worden gezien als **sleutelelementen in de evolutie van planten**. Ze zorgen ervoor dat planten in verschillende en wisselende omstandigheden kunnen leven zonder uit te drogen (Hetherington & Woodward, 2003). 
+
+Stomata geven informatie over de plaats van de plant in de stamboom van de bloemplanten. Onder de bedektzadigen of bloeiende planten onderscheidt men de **dicotylen** en de **monocotylen** (zie Figuur 3). De stomata van dicotylen zijn niervormig, terwijl die van monocotylen niervormig of haltervormig kunnen zijn, afhankelijk van de plant. De nerven van monocotylen liggen evenwijdig en hun huidmondjes ook. De nerven van dicotylen zijn vertakt en hun huidmondjes liggen willekeurig verspreid over het blad.
+
+![](embed/monocotyldicotyl.png "Monocotyl en dicotyl")
+<figure>
+    <figcaption align = "center">Figuur 3: Monocotylen en dicotylen</figcaption>
+</figure>
+
+<div class="alert alert-box alert-success">
+    <strong>Notebook datastructuur</strong><br>
+    <em>Verwijzing</em>
+</div> 
+
+<div class="alert alert-box alert-success">
+    <strong>Notebook klassen</strong><br>
+    <em>Verwijzing</em>
+</div> 
+
+<div class="alert alert-box alert-success">
+    <strong>Video</strong><br>
+    [Stomatal Closure in Tradescantia Leaf Cells.](https://youtu.be/AwyrqfNTuxQ "davcjal, 2015")<br><br>
+    [Monocot and Eudicot Germination Time-lapse.](https://youtu.be/WbG5zu2Vw0I "Sci- Inspi, 2018")
+</div> 
+
