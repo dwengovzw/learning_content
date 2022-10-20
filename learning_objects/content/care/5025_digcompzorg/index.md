@@ -59,7 +59,7 @@ seerde vorm van het EWS valt hier ook onder.</li></ul>
 *Eindterm 4.4 (tweede graad) - De bit als basiseenheid van data* 
 
 Data worden aan de computer gegeven in een digitaal formaat. Concreet betekent dit dat de data worden omgezet naar getallen, die op hun beurt worden voorgesteld door een rij van nullen en enen. Zo’n nul of zo’n één is een bit. Bv. de natuurlijke getallen van 0 t.e.m. 255 kunnen worden voorgesteld door een rij van 8 nullen en enen, bv. 35 is 00100011 (een rij van acht nullen en enen is een byte).<br>
-Bijvoorbeeld, one hot encoding: bij tekst (bv. voor een elektronisch patiëntendossier) wordt aan de computer een lijst van woorden meegegeven in een bepaalde volgorde. Met een rij van nullen en een één, bijvoorbeeld 0000000000000001000000000...0 , kan een bepaald woord dan aan de computer gegeven worden. In het voorbeeld staat de 1 op de zestiende plaats in de rij wat betekent dat het woord het zestiende woord in de woordenlijst is. Om aan de computer kenbaar te maken welke van de woorden in de woordenlijst voorkomen in een patiëntendossier, kan dan een rij nullen en enen, zoals 0010111010000001000000100...0 , worden in het dossier staat.<br>
+Bijvoorbeeld, *one hot encoding*: bij tekst (bv. voor een elektronisch patiëntendossier) wordt aan de computer een lijst van woorden meegegeven in een bepaalde volgorde. Met een rij van nullen en een één, bijvoorbeeld 0000000000000001000000000...0 , kan een bepaald woord dan aan de computer gegeven worden. In het voorbeeld staat de 1 op de zestiende plaats in de rij wat betekent dat het woord het zestiende woord in de woordenlijst is. Om aan de computer kenbaar te maken welke van de woorden in de woordenlijst voorkomen in een patiëntendossier, kan dan een rij nullen en enen, zoals 0010111010000001000000100...0 , worden in het dossier staat.<br>
 meegegeven. Dat betekent dat het derde, vijfde, zesde, zevende, negende, zestiende, drieëntwintigste ... woord Nog een voorbeeld is medische beeldvorming. Voor een computer is een foto niets anders dan een tabel met getallen. De computer kan daardoor heel snel door te rekenen het verschil tussen twee foto’s ontdekken en zelfs heel subtiele veranderingen opsporen en signaleren aan de radioloog.<br>
 Voor de EWS-score worden waarden van lichaamsparameters aan de computer gegeven, dat kunnen natuurlijk getallen (type int) zijn, of decimale getallen (type float) of ook tekst (type string). 
 
@@ -68,8 +68,8 @@ Voor de EWS-score worden waarden van lichaamsparameters aan de computer gegeven,
 
 Om aan de slag te gaan met een notebook, wordt de URL ingegeven in de webbrowser. Deze URL bevat een protocol (HTTPS; wat wijst op een veilige verbinding) en een domeinnaam (kiks.ilabt.imec.be/jupyter).<br>
 De webbrowser legt via het internet contact met een DNS-server om het IP-adres (een numeriek internetadres) op te zoeken van de server van AI Op School. Vervolgens wordt de boodschap van de gebruiker (de client, hier de webbrowser van de computer van de leerling of leerkracht) doorgegeven aan de webserver van AI Op School. Er wordt namelijk aan deze server gevraagd om toegang te geven tot de notebooks van AI Op School.<br>
-Het Hypertext Transfer Protocol (HTTP) is een computerprotocol waarin afspraken zijn vastgelegd zodat een computer (in dit geval de computer van de leerling of leerkracht) en een andere computer (hier de webserver van AI Op School) met elkaar kunnen communiceren.<br>
-HyperText Transfer Protocol Secure (HTTPS) is niets anders dan een uitbreiding van het HTTP-protocol om de uitwisseling van gegevens ook op een veilige manier te laten gebeuren. Het HTTPS-protocol versleutelt de gegevens.<br>
+Het *Hypertext Transfer Protocol* (HTTP) is een computerprotocol waarin afspraken zijn vastgelegd zodat een computer (in dit geval de computer van de leerling of leerkracht) en een andere computer (hier de webserver van AI Op School) met elkaar kunnen communiceren.<br>
+*HyperText Transfer Protocol* Secure (HTTPS) is niets anders dan een uitbreiding van het HTTP-protocol om de uitwisseling van gegevens ook op een veilige manier te laten gebeuren. Het HTTPS-protocol versleutelt de gegevens.<br>
 De server geeft dan toegang tot de notebook van het ‘AI in de Zorg’-project. Het gewenste project kan worden geselecteerd en nadien ook de gewenste notebook. Bij het doorlopen van de notebook communiceert de webbrowser voortdurend met de server, bv. bij het uitvoeren van een Python-script. Hierbij maakt de notebook bv. gebruik van de CPU (rekeneenheid) of de GPU (nog meer rekenkracht) van de server. 
 
 De leerling kan een notebook downloaden en opslaan op een eigen computer. Om de notebook opnieuw te kunnen openen op de eigen computer, zal op die computer wel geschikte software geïnstalleerd moeten zijn.<br>
@@ -136,8 +136,8 @@ Leerlingen voeren de code voortdurend uit tijdens het doorlopen van de notebooks
 
 *Eindterm 4.5 (tweede en derde graad - Finaliteit doorstroom en dubbele finaliteit) - Elementen van programmeertalen* 
 
-Begrippen zoals types (bv. string, int, float en NumPy array), variabelen (bv. variabelen die refereren aan de data of aan de gegenereerde beslissingsboom), en functies (bv. de ingebouwde functies die gebruikt worden) komen aan bod in de notebooks. Eventueel kunnen ook operatoren aan bod komen.<br>
-Om een gegeven op te zoeken in een NumPy array, wordt bv. een vergelijkingsoperator of een logische operator gebruikt. Iets op het scherm laten verschijnen, gebeurt met de functie print(). 
+Begrippen zoals types (bv. *string*, *int*, *float* en *NumPy array*), variabelen (bv. variabelen die refereren aan de data of aan de gegenereerde beslissingsboom), en functies (bv. de ingebouwde functies die gebruikt worden) komen aan bod in de notebooks. Eventueel kunnen ook operatoren aan bod komen.<br>
+Om een gegeven op te zoeken in een *NumPy array*, wordt bv. een vergelijkingsoperator of een logische operator gebruikt. Iets op het scherm laten verschijnen, gebeurt met de functie print(). 
 
 
 *Eindterm 4.6/4.7 (tweede en derde graad) - Wederzijdse invloeden tussen individu en media en maatschappij op leren, werken en vrije tijd* 

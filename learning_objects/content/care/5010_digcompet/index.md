@@ -32,7 +32,8 @@ teacher_exclusive: false
 # Digitale competentie en mediawijsheid 
 ## Eindtermen digitale competentie en mediawijsheid 
 
-**Eindtermen tweede graad**
+*Eindtermen tweede graad* 
+<em>
 <ul><li>4.1 De leerlingen tonen zelfvertrouwen bij het verkennen en gebruiken van digitale infrastructuur en toepassingen. (Attitudinaal).</li></ul> 
 <ul><li>4.2 De leerlingen gebruiken doelgericht en adequaat standaardfunctionaliteiten van digitale infrastructuur en toepassingen om digitaal inhouden te creëren, te delen en te beheren. (Toepassen).</li></ul> 
 <ul><li>4.3 De leerlingen gebruiken doelgericht en adequaat standaardfunctionaliteiten van digitale infrastructuur en toepassingen om digitaal te communiceren, samen te werken en te participeren aan initiatieven. (Toepassen).</li></ul> 
@@ -41,8 +42,10 @@ teacher_exclusive: false
 <ul><li>4.6 (Finaliteit doorstroom en dubbele finaliteit) en 4.5 (Finaliteit arbeidsmarkt) De leerlingen leggen wederzijdse invloeden uit tussen enerzijds het individu en anderzijds media, digitale infrastructuur en digitale toepassingen. (Begrijpen).</li></ul> 
 <ul><li>4.7 (Finaliteit doorstroom en dubbele finaliteit) en 4.6 (Finaliteit arbeidsmarkt) De leerlingen passen regels van de digitale wereld toe. (Toepassen).</li></ul> 
 <ul><li>4.8 (Finaliteit doorstroom en dubbele finaliteit) en 4.7 (Finaliteit arbeidsmarkt) De leerlingen evalueren mogelijkheden en risico’s van hun mediagedrag en dat van anderen. (Evalueren).</li></ul> 
+</em>
 
-**Eindtermen derde graad**
+*Eindtermen derde graad* 
+<em>
 <ul><li>4.1 De leerlingen tonen zelfvertrouwen bij het verkennen en gebruiken van digitale infrastructuur en toepassingen. (Attitudinaal).</li></ul> 
 <ul><li>4.2 De leerlingen gebruiken doelgericht en adequaat functionaliteiten van digitale infrastructuur en toepassingen om digitaal inhouden te creëren, te delen en te beheren. (Toepassen).</li></ul> 
 <ul><li>4.3 De leerlingen gebruiken doelgericht en adequaat functionaliteiten van digitale infrastructuur en toepassingen om digitaal te communiceren, samen te werken en te participeren aan initiatieven. (Toepassen).</li></ul> 
@@ -50,4 +53,5 @@ teacher_exclusive: false
 <ul><li>4.5 (Finaliteit doorstroom) De leerlingen programmeren volgens een bepaalde systematiek oplossingen voor problemen aan de hand van zelfontworpen algoritmes. (Creëren).</li></ul> 
 <ul><li>4.6 (Finaliteit doorstroom en dubbele finaliteit) en 4.5 (Finaliteit arbeidsmarkt) De leerlingen stellen consequent passend mediagedrag. (Attitudinaal).</li></ul> 
 <ul><li>4.7 (Finaliteit doorstroom en dubbele finaliteit) en 4.6 (Finaliteit arbeidsmarkt) De leerlingen beoordelen kritisch wederzijdse invloeden uit tussen enerzijds het individu en de samenleving en anderzijds media, digitale infrastructuur en digitale toepassingen. (Evalueren).</li></ul> 
-<ul><li>4.8 (Finaliteit doorstroom en dubbele finaliteit) en 4.7 (Finaliteit arbeidsmarkt) De leerlingen passen regels van de digitale wereld kritisch toe. (Toepassen).</li></ul> 
+<ul><li>4.8 (Finaliteit doorstroom en dubbele finaliteit) en 4.7 (Finaliteit arbeidsmarkt) De leerlingen passen regels van de digitale wereld kritisch toe. (Toepassen).</li></ul>
+</em> 
