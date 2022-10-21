@@ -47,7 +47,7 @@ teacher_exclusive: true
 
 **Uit fossiel plantenmateriaal blijkt dat planten reageren op langdurige verandering in CO<sub>2</sub> via een aanpassing in de dichtheid van de stomata.** Behalve de fotosynthese, zijn ook de transpiratie en de waterhuishouding van de planten factoren die daarin meespelen (Franks & Beerling, 2009; de Boer et al., 2016). 
 
-**De hoeveelheid CO2 in de atmosfeer kan daarom afgeleid worden uit de stomatale dichtheid. Aangezien het CO<sub>2</sub>-niveau een direct effect heeft op globale temperaturen, geven veranderingen in het CO2-niveau ook een duidelijk beeld van veranderingen in het klimaat.**<br>
+**De hoeveelheid CO<sub>2</sub> in de atmosfeer kan daarom afgeleid worden uit de stomatale dichtheid. Aangezien het CO<sub>2</sub>-niveau een direct effect heeft op globale temperaturen, geven veranderingen in het CO<sub>2</sub>-niveau ook een duidelijk beeld van veranderingen in het klimaat.**<br>
 **Veel planten zijn op zo’n manier geëvolueerd dat de door stomata ingenomen bladoppervlakte (s.d) zo klein mogelijk is** (Assouline & Or, 2013; Franks & Beerling, 2009). 
 
 <div class="alert alert-box alert-secondary">

@@ -35,7 +35,7 @@ Afhankelijk van de soort plant en de omgevingsfactoren variëren de grootte van 
 
 > Een mensenhaar is tussen de 17 en 180 μm dik. 
 
-![](embed/stomataledichtheid.png "Stomatale dichtheid") 
+![](embed/lengtevsdichtheid.png "Stomatale dichtheid") 
 <figure>
     <figcaption align = "center">Figuur: Het verband tussen stomatale lengte (in μm) en stomatale dichtheid (in mm<sup>−2</sup>) wordt gegeven door y = -28,75 + 162x<sup>-0,2036</sup>(Hetherington & Woodward, 2003).</figcaption>
 </figure> 
