@@ -35,21 +35,21 @@ teacher_exclusive: true
 Niemand heeft reeds huidmondjes gezien met het blote oog. Je kan huidmondjes bewonderen met een **microscoop**. Dat is een toffe ervaring want je kan de huidmondjes ook door de microscoop **fotograferen** met een smartphone. Je kan bv. een monoculaire microscoop gebruiken die 400 keer vergroot.<br> 
 Als je door de microscoop naar **levend** materiaal kijkt, dan krijg je mooie beelden te zien (Zie Figuur 1). Daarvoor moet je er wel in slagen een stuk van de flinterdunne cuticula van het blad te verwijderen. Bij sommige planten lukt dat niet zo goed, bv. door de stugheid van het blad. 
 
-![](embed/microfoto1.png) 
+![](embed/microfoto1.png "Microfoto") 
 <figure>
     <figcaption align = "center">Figuur 1: Microfoto van levend materiaal.</figcaption>
 </figure> 
 
 Je kan dit opvangen door dezelfde methode te gebruiken als de onderzoekers van de Plantentuin Meise, nl. een **afdruk** nemen van het blad met doorzichtige nagellak (Figuur 2). 
 
-![](embed/bladafdruk.png) 
+![](embed/nagellak.jpg "Bladafdruk") 
 <figure>
     <figcaption align = "center">Figuur 2: Bladafdruk nemen met nagellak en plakband.</figcaption>
 </figure> 
 
 De foto’s zijn dan niet meer zo mooi van kleur, maar grijsachtig (zie Figuur 3). Maar al bij al levert het nog steeds mooie plaatjes op; de natuur op zijn best. 
 
-![](embed/microfoto2.png)
+![](embed/microfoto2.png "Microfoto")
 <figure>
     <figcaption align = "center">Figuur 3: Microfoto van levend materiaal.</figcaption>
 </figure> 

@@ -48,7 +48,7 @@ De stomata en de cuticula worden gezien als **sleutelelementen in de evolutie va
 
 Stomata geven informatie over de plaats van de plant in de stamboom van de bloemplanten. Onder de bedektzadigen of bloeiende planten onderscheidt men de **dicotylen** en de **monocotylen** (zie Figuur 3). De stomata van dicotylen zijn niervormig, terwijl die van monocotylen niervormig of haltervormig kunnen zijn, afhankelijk van de plant. De nerven van monocotylen liggen evenwijdig en hun huidmondjes ook. De nerven van dicotylen zijn vertakt en hun huidmondjes liggen willekeurig verspreid over het blad.
 
-![](embed/monocotyldicotyl.png "Monocotyl en dicotyl")
+![](embed/cotylen.png "Monocotyl en dicotyl")
 <figure>
     <figcaption align = "center">Figuur 3: Monocotylen en dicotylen</figcaption>
 </figure>

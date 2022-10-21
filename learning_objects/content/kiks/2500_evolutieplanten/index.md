@@ -33,14 +33,14 @@ teacher_exclusive: true
 # Evolutie van planten en hun stomata 
 **Fossiele bladeren geven veel informatie over de evolutie van planten en hun stomata.** Vierhonderd miljoen jaar geleden kwamen stomata bij planten voor het eerst voor. Sindsdien zijn ze geëvolueerd: er zijn opvallende veranderingen opgetreden waaronder verschillen in de grootte en de dichtheid van de stomata (zie Figuur 1) (Hetherington & Woodward, 2003). 
 
-![](embed/fossieledichtheid.png "stomatale dichtheid") 
+![](embed/stomatal-size-and-density.png "stomatale dichtheid") 
 <figure>
     <figcaption align = "center">Figuur 1: Fossil record-based plant leaf stomatal size (<em>s</em>) and density (<em>d</em>). Hoe meer stomata per oppervlakte-eenheid, hoe kleiner de stomata. De planten zijn zo geevolueerd dat de ingenomen bladoppervlakte (<em>s.d</em>) zo klein mogelijk is (Assouline & Or, 2013). Gebaseerd op Franks & Beerling, 2009.</figcaption>
 </figure> 
 
 **Bij een lage CO<sub>2</sub>-concentratie zijn planten met veel stomata in het voordeel en komen ze dan ook veel voor. Wanneer er veel CO<sub>2</sub> in de atmosfeer zit, zijn planten met minder stomata in het voordeel en zullen veel voorkomen** (Thanukos, 2018). Dit wordt geïllustreerd in Figuur 2. 
 
-![](embed/stomatakoolstof.png "Verband stomata en koolstofdioxide") 
+![](embed/aantalStomataCO2.png "Verband stomata en koolstofdioxide") 
 <figure>
     <figcaption align = "center">Figuur 2: Verband tussen aantal en grootte van de stomata en de CO<sub>2</sub>-concentratie.</figcaption>
 </figure> 

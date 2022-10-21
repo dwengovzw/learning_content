@@ -38,7 +38,7 @@ Stomata zijn onderhevig aan ritmes zoals dag en nacht en de seizoenen.
 
 Duidelijk is dat de stomata ‘reageren’ op **omgevingsfactoren**. Bij eenzelfde plant ziet men soms het verschil tussen bladeren onderaan de plant, die veel beschaduwd zijn, en bladeren in de kruin die veel meer blootgesteld zijn aan het licht. Zelfs op eenzelfde blad kunnen stomata zich anders gedragen omdat dit de plant ten goede kan komen; op eenzelfde blad kunnen sommige stomata open zijn en andere gesloten (Zie Figuur). 
 
-![](embed/opengesloten.png "open en gesloten stomata") 
+![](embed/stomaopentoe.jpg "open en gesloten stomata") 
 <figure>
-    <figcaption align = "center">Figuur: Open en gesloten stoma op zelfde blad</figcaption>
+    <figcaption align = "center">Figuur: Open en gesloten stoma op zelfde blad.</figcaption>
 </figure> 
