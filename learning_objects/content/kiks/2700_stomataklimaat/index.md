@@ -39,7 +39,7 @@ teacher_exclusive: true
     <figcaption align = "center">Figuur: De tropische regenwouden zijn groen gekleurd op de kaart.</em></figcaption>
 </figure> 
 
-Een veranderend klimaat heeft een impact op de biodiversiteit en omgekeerd kan de **biodiversiteit** ook de klimaatverandering beïnvloeden. Bv. transpiratie verkoelt niet enkel de plant, maar ook haar omgeving. Er zijn grote verschillen in hoe planten reageren op de CO2-toename en in de mate waarin planten CO2 opnemen.<br>
+Een veranderend klimaat heeft een impact op de biodiversiteit en omgekeerd kan de **biodiversiteit** ook de klimaatverandering beïnvloeden. Bv. transpiratie verkoelt niet enkel de plant, maar ook haar omgeving. Er zijn grote verschillen in hoe planten reageren op de CO<sub>2</sub>-toename en in de mate waarin planten CO<sub>2</sub> opnemen.<br>
 Het is bv. cruciaal dat men inzicht krijgt in de aanpassingen van gewassen om de **voedselvoorziening** te kunnen bewaken. 
 
 <div class="alert alert-box alert-success">
