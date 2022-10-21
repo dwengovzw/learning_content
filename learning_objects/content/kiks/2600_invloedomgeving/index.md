@@ -37,7 +37,7 @@ teacher_exclusive: true
 
 <ul><li>Bij eenzelfde plant kan het aantal stomata op beschaduwde bladeren onderaan de plant verschillen van het aantal stomata op bladeren in de kruin die veel meer blootgesteld zijn aan het licht. Sofie Meeus stelde dat vast op de Monodora angolensis in de Plantentuin Meise, zoals te zien op de figuur.</li></ul> 
 
-![](embed/stomatazonschaduw.png "stomata zon - schaduw") 
+![](embed/bezondschaduw.png "stomata zon - schaduw") 
 <figure>
     <figcaption align = "center">Figuur: respectievelijk bezond en beschaduwd blad van <em>Monodora angolensis</em></figcaption>
 </figure> 

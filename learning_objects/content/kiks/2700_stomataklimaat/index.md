@@ -34,7 +34,7 @@ teacher_exclusive: true
 
 **De water- en CO<sub>2</sub>-cycli van de wereld worden beïnvloed door de transpiratie van planten op het land. Men kan dus zeggen dat stomata een impact hebben die globaal is, een impact op de hele wereld. Er wordt het meest getranspireerd door de vegetatie in de warme beboste gebieden van de tropen** (zie figuur) (Hetherington & Woodward, 2003). De tropische regenwouden situeren zich in gebieden in de buurt van de evenaar. Ze bevinden zich in Centraal- en Zuid-Amerika, in Afrika, in Azië en op de eilanden rond Australië. **Het is belangrijk om te begrijpen hoe planten deze transpiratie zullen aanpassen aan de huidige klimaatverandering.** Wetenschappers onderzoeken ook hoe de huidige klimaatverandering de vorming van stomata beïnvloedt. 
 
-![](embed/regenwouden.png "Regenwouden") 
+![](embed/tropical_wet_forests.png "Regenwouden") 
 <figure>
     <figcaption align = "center">Figuur: De tropische regenwouden zijn groen gekleurd op de kaart.</em></figcaption>
 </figure> 
