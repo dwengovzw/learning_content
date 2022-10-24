@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 # Grootte van een stoma
-Afhankelijk van de soort plant en de omgevingsfactoren variëren de grootte van een stoma en het aantal stomata per oppervlakteeenheid (de **stomatale dichtheid**). Een stoma is tussen de 10 en 100 micrometer lang (vergelijkbaar met de dikte van een mensenhaar) en de dichtheid gaat van 5 tot 1000 stomata per mm² bladoppervlakte. 
+Afhankelijk van de soort plant en de omgevingsfactoren variëren de grootte van een stoma en het aantal stomata per oppervlakte-eenheid (de **stomatale dichtheid**). Een stoma is tussen de 10 en 100 micrometer lang (vergelijkbaar met de dikte van een mensenhaar) en de dichtheid gaat van 5 tot 1000 stomata per mm² bladoppervlakte. 
 
 > Een mensenhaar is tussen de 17 en 180 μm dik. 
 
