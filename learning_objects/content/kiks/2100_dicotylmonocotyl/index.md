@@ -36,7 +36,7 @@ teacher_exclusive: true
     <figcaption align = "center">Figuur 1: Bladstructuur (Zephyris, 2011)</figcaption>
 </figure>
 
-Een huidmondje ligt tussen twee sluitvellen (zoals te zien op de bladstructuur in Figuur 1). Als de sluitcellen in volume toenemen, gaat het huidmondje open. De sluitcellen nemen in volume toe door het opnemen van water. Het gevolg is dat de sluitcellen krommen, waardoor het huidmondje opent (Zie Figuur 2).
+Een huidmondje ligt tussen twee sluitcellen (zoals te zien op de bladstructuur in Figuur 1). Als de sluitcellen in volume toenemen, gaat het huidmondje open. De sluitcellen nemen in volume toe door het opnemen van water. Het gevolg is dat de sluitcellen krommen, waardoor het huidmondje opent (Zie Figuur 2).
 
 ![](embed/stomata.png "Stomata")
 <figure>
@@ -54,13 +54,8 @@ Stomata geven informatie over de plaats van de plant in de stamboom van de bloem
 </figure>
 
 <div class="alert alert-box alert-success">
-    <strong>Notebook datastructuur</strong><br>
-    In de notebook <em>Datastructuur.ipynb</em> in de map <em>IntroductiePython</em> komen monocotylen en dicotylen aan bod.
-</div> 
-
-<div class="alert alert-box alert-success">
-    <strong>Notebook (nu of later)</strong><br>
-    Wil je meer weten over de klassen waartoe objecten behoren? Doorloop dan de notebook <em>Klassen.ipynb<em>.
+    <strong>Notebook Datatypes voor opsommingen</strong><br>
+    Op de webpagina https://dwengo.org/python/ vind je het leerpad <em>Datatypes</em>. In de notebook <em>1000_Opsommingen.ipynb</em> van dit leerpad komen monocotylen en dicotylen aan bod.
 </div> 
 
 <div class="alert alert-box alert-success">
