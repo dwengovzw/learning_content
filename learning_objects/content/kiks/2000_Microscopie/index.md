@@ -31,8 +31,9 @@ teacher_exclusive: true
 ---
 
 # Inleiding
-Niemand heeft reeds huidmondjes gezien met het blote oog, ook de leerlingen niet. Huidmondjes zijn voor hen dan ook een abstract gegeven. Voor de leerlingen én voor de leerkrachten is het daarom een toffe ervaring om binnen het kader van het KIKS-project naar huidmondjes te kijken met een microscoop. De leerlingen kunnen de huidmondjes ook door de microscoop fotograferen met een smartphone. Wij gebruiken met de leerlingen een monoculaire microscoop die 400 keer vergroot.
+Niemand heeft reeds huidmondjes gezien met het blote oog, ook de leerlingen niet. Huidmondjes zijn voor hen dan ook een abstract gegeven. Voor de leerlingen én voor de leerkrachten is het daarom een toffe ervaring om binnen het kader van het KIKS-project naar huidmondjes te kijken met een microscoop. Wij gebruiken met de leerlingen een monoculaire microscoop die 400 keer vergroot.
 
+De leerlingen kunnen de huidmondjes ook door de microscoop fotograferen met een smartphone. 
 De microfoto's van de leerlingen kunnen ingevoerd worden in het diepe neurale netwerk van KIKS om de huidmondjes op de foto te laten tellen. 
 
 In dit leerpad komt aan bod hoe je monocotylen en dicotylen kunt herkennen op de foto's. De invloed van omgevingsfactoren op het vormen van huidmondjes wordt duidelijk a.d.h.v. een practicum. Wat de atmosferische CO2, en dus de temperatuur van het aardoppervlak, voor de huidmondjes betekenen, wordt uit de doeken gedaan. 
