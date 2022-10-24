@@ -36,4 +36,4 @@ Niemand heeft reeds huidmondjes gezien met het blote oog, ook de leerlingen niet
 De leerlingen kunnen de huidmondjes ook door de microscoop fotograferen met een smartphone. 
 De microfoto's van de leerlingen kunnen ingevoerd worden in het diepe neurale netwerk van KIKS om de huidmondjes op de foto te laten tellen. 
 
-In dit leerpad komt aan bod hoe je monocotylen en dicotylen kunt herkennen op de foto's. De invloed van omgevingsfactoren op het vormen van huidmondjes wordt duidelijk a.d.h.v. een practicum. Wat de atmosferische CO2, en dus de temperatuur van het aardoppervlak, voor de huidmondjes betekenen, wordt uit de doeken gedaan. 
+In dit leerpad komt aan bod hoe je monocotylen en dicotylen kunt herkennen op de foto's. De invloed van omgevingsfactoren op het vormen van huidmondjes wordt duidelijk a.d.h.v. een practicum. Wat de atmosferische CO<sub>2</sub>, en dus de temperatuur van het aardoppervlak, voor de huidmondjes betekenen, wordt uit de doeken gedaan. 
