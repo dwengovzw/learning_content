@@ -56,7 +56,7 @@ De evolutie in het plantenrijk heeft geresulteerd in drie soorten planten: C<sub
 </div> 
 
 <div class="alert alert-box alert-success">
-<strong>Notebook</strong><br>
-In de notebook <em>Datastructuur.ipynb</em> in de map <em>IntroductiePython</em> komen C<sub>3</sub>-, C<sub>4</sub>- en CAM-planten aan bod.<br><br>
-Voor het KIKS-project is kennis van C<sub>3</sub>-, C<sub>4</sub>- en CAM-planten facultatief.
-</div>
+    <strong>Notebook Datatypes voor opsommingen</strong><br>
+    Op de webpagina https://dwengo.org/python/ vind je het leerpad <em>Datatypes</em>. In de notebook <em>1000_Opsommingen.ipynb</em> van dit leerpadkomen C<sub>3</sub>-, C<sub>4</sub>- en CAM-planten aan bod.<br><br>
+    Voor het KIKS-project is kennis van C<sub>3</sub>-, C<sub>4</sub>- en CAM-planten facultatief.
+</div> 
