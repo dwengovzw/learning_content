@@ -1,5 +1,5 @@
 ---
-hruid: CD_historiek6-v1
+hruid: cd_historiek6-v1
 version: 3
 language: nl
 title: "Misconcepten"
