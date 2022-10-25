@@ -1,5 +1,5 @@
 ---
-hruid: CD_historiek3-v1
+hruid: cd_historiek3-v1
 version: 3
 language: nl
 title: "Robots en AI"
