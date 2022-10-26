@@ -50,6 +50,6 @@ Er is voor meerdere plantenfamilies en fossiele bladeren een duidelijk **verband
 </div>
 
 <div class="alert alert-box alert-success">
-    <strong>Notebook</strong><br>
+    <strong>Notebook functies</strong><br>
     Op https://dwengo.org/python vind je het leerpad 'Functies en klassen'. In het onderdeel 'Combinatie-oefeningen' bevat de notebook <em>0100_FunctiesExtraOefeningen.ipynb</em> een oefening over de grootte van een stoma.
 </div> 
