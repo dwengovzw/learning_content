@@ -27,10 +27,10 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Met de Webcam
-Binnenkort beschikbaar
+In deze notebook ga je aan de slag met een camera, bv. je webcam, en YOLO.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4020 "Webcam")
