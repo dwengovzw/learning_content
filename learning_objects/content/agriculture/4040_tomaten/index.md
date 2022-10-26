@@ -27,10 +27,10 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Tomaten
-Binnenkort beschikbaar
+Met het huidig YOLO-algoritme kunnen al heel wat zaken herkend worden, maar zeker niet alle voorwerpen. Om een algoritme te trainen is er een enorme geheugenplaats nodig voor de immense dataset. De volgende notebook toont hoe je zelf je eigen dataset kan creëren om je eigen algoritme te trainen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4040 "Tomaten")
