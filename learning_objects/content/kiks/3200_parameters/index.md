@@ -31,6 +31,8 @@ teacher_exclusive: true
 ---
 
 # Parameters
-In deze notebook train en test je jouw eigen diep neuraal netwerk om stomata te detecteren. 
+In deze notebook train en test je jouw eigen diep neuraal netwerk om stomata te detecteren op microscopische foto's.<br> Je past daarvoor de parammeters aan in een bestaande netwerkarchitectuur, zoals het aantal lagen in het netwerk, het aantal epochs en de leersnelheid.
+
+
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Parameters")
