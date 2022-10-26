@@ -37,19 +37,19 @@ Afhankelijk van de soort plant en de omgevingsfactoren variëren de grootte van 
 
 ![](embed/lengtevsdichtheid.png "Stomatale dichtheid") 
 <figure>
-    <figcaption align = "center">Figuur: Het verband tussen stomatale lengte (in μm) en stomatale dichtheid (in mm<sup>−2</sup>) wordt gegeven door y = -28,75 + 162x<sup>-0,2036</sup>(Hetherington & Woodward, 2003).</figcaption>
+    <figcaption align = "center">Figuur: Het verband tussen stomatale lengte (in μm) en stomatale dichtheid (in mm<sup>−2</sup>) wordt gegeven door y = -28,75 + 162x<sup>-0,2036</sup> (Hetherington & Woodward, 2003).</figcaption>
 </figure> 
 
 **De grootte en de dichtheid van de stomata kunnen verschillende aspecten onthullen van het milieu waarin een plant leefde: temperatuur, atmosfeer, CO<sub>2</sub>-concentratie.** Dit wordt uitvoerig gebruikt in een paleontologische context om het klimaat waarin de planten groeiden te reconstrueren. 
 
-Er is voor meerdere plantenfamilies en fossiele bladeren een duidelijk **verband vastgesteld tussen het aantal stomata en de grootte van de stomata**. Op de grafiek is te zien dat hoe meer stomata er zijn per oppervlakte-eenheid, hoe korter de sluitcellen en dus ook **hoe kleiner de stomata** zijn (Hetherington & Woodward,2003). 
+Er is voor meerdere plantenfamilies en fossiele bladeren een duidelijk **verband vastgesteld tussen het aantal stomata en de grootte van de stomata**. Op de grafiek is te zien dat hoe meer stomata er zijn per oppervlakte-eenheid, hoe korter de sluitcellen en dus ook **hoe kleiner de stomata** zijn (Hetherington & Woodward, 2003). 
 
 <div class="alert alert-box alert-success">
-    <strong>Notebook (nu of later)</strong><br>
-    De notebook <em>Functies.ipynb</em> in de map <em>IntroductiePython</em> bevat een oefening over de grootte van een stoma.
-</div> 
+    <strong>Notebook machinaal leren - regressie</strong><br>
+    Op https://dwengo.org/kiks/ vind je 'Stomata hoogte bomen' in het leerpad 'Regressie'. In de notebook <em>0200_StomataHoogteBomen.ipynb</em> wordt onderzocht of de hoogte van een boom verband houdt met de grootte van de stomata.
+</div>
 
 <div class="alert alert-box alert-success">
-    <strong>Notebook machinaal leren - regressie (facultatief)</strong><br>
-    In de notebook <em>StomataHoogteBomen.ipynb</em> in de map <em>IntroductieMachineLearning</em> over regressie wordt onderzocht of de hoogte van een boom verband houdt met de grootte van de stomata.
+    <strong>Notebook</strong><br>
+    Op https://dwengo.org/python vind je het leerpad 'Functies en klassen'. In het onderdeel 'Combinatie-oefeningen' bevat de notebook <em>0100_FunctiesExtraOefeningen.ipynb</em> een oefening over de grootte van een stoma.
 </div> 
