@@ -2,7 +2,7 @@
 hruid: KIKS_stomata_zon_schaduw-v1
 version: 3
 language: nl
-title: "Stomata zon - shaduw"
+title: "Stomata zon - schaduw"
 description: "Stomata zon - schaduw"
 keywords: [""]
 educational_goals: [
@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Stomata zon - schaduw
-Het aanmaken van stomata wordt beïnvloedt door omgevingsfactoren. Je leert aan de computer om stomat van bezonde planten en van planten in de schaduw van elkaar onderscheiden.
+Het aanmaken van stomata wordt beïnvloed door omgevingsfactoren. Je leert aan de computer om stomata van bezonde planten en van planten in de schaduw van elkaar onderscheiden.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1802 "Stomata zon - schaduw")
