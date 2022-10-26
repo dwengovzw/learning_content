@@ -33,7 +33,8 @@ teacher_exclusive: true
 # MNIST
 De MNIST dataset bestaat uit 70 000 afbeeldingen van
 handgeschreven cijfers, elk 28 x 28 pixels in grijswaarden (zie Figuren 10.5 en 10.7). Hiervan worden er
-60 000 gebruikt om een neuraal netwerk te trainen en
-10 000 om het te testen.
+60 000 gebruikt om een neuraal netwerk te trainen en 10 000 om het te testen.
+
+Het uiteindelijke neurale netwerk dient om handgeschreven cijfers te kunnen herkennen die het netwerk niet eerder gezien heeft.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1810 "MNIST")
