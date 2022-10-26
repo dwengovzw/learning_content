@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Silvretta gletsjer
-Binnenkort beschikbaar
+Ga aan de slag met echte data van de Zwiterse Silvretta gletjser en merk de invloed van de klimaatverandering op. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1930 "Silvretta gletsjer")
