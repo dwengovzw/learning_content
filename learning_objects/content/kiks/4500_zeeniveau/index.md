@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Zeeniveau
-Binnenkort beschikbaar
+Ga aan de slag met echte data van het gemiddelde zeeniveau in Oostende en merk de invloed van de klimaatverandering op. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1940 "Zeeniveau")
