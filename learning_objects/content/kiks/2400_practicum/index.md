@@ -57,7 +57,7 @@ De foto’s zijn dan niet meer zo mooi van kleur, maar grijsachtig (zie Figuur 3
 Door de planten gevarieerd te kiezen, krijg je ook een **variatie** in de beelden: monocotylen en dicotylen, grote en kleine huidmondjes, stomata van verschillende vormen ... 
 
 ***A.d.h.v. een practicum kan je de vorm en de ligging van huidmondjes bij monovotylen en dicotylen verifiëren.***<br>
-***Je kan a.d.h.v. een practicum ook het effect van zon en schaduw onderzoeken. Formuleer hierbij een onderzoeksvraag en een hypothese. Na het practicum koppel je terug naar de hypothese.*** 
+***Je kan a.d.h.v. een practicum ook het effect van zon en schaduw onderzoeken. Formuleer hierbij een onderzoeksvraag en een hypothese. Na het practicum koppel je terug naar de hypothese.*** <br>
 ***Je kan a.d.h.v. een practicum ook het effect van de seizoenen onderzoeken. Formuleer hierbij een onderzoeksvraag en een hypothese. Na het practicum koppel je terug naar de hypothese.*** 
 
 
