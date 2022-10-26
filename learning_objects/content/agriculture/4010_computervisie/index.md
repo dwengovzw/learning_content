@@ -27,10 +27,13 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Computervisie
-Binnenkort beschikbaar
+Objectdetectie kan worden gedefinieerd als een computervisietechniek die tot doel heeft objecten op een afbeelding of video te lokaliseren en a.d.h.v. een classificatietechniek te identificeren.<br>
+Hoewel objectdetectiesystemen tegenwoordig al op heel wat plaatsen gebruikt worden in de maatschappij, zijn er toch nog heel wat verbeteringen mogelijk.<br> 
+In een eerste notebook worden enkele praktijkvoorbeelden gegeven en kom je we wat meer te weten over de werking van een objectdetectiesysteem.<br>
+In een tweede notebook ga je aan de slag net een bestaand objectdetectiealgoritme:YOLO.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4010 "Computervisie")
