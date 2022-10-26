@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Stomata en klimaatverandering 
 
-**De water- en CO<sub>2</sub>-cycli van de wereld worden beïnvloed door de transpiratie van planten op het land. Men kan dus zeggen dat stomata een impact hebben die globaal is, een impact op de hele wereld. Er wordt het meest getranspireerd door de vegetatie in de warme beboste gebieden van de tropen** (zie figuur) (Hetherington & Woodward, 2003). De tropische regenwouden situeren zich in gebieden in de buurt van de evenaar. Ze bevinden zich in Centraal- en Zuid-Amerika, in Afrika, in Azië en op de eilanden rond Australië. **Het is belangrijk om te begrijpen hoe planten deze transpiratie zullen aanpassen aan de huidige klimaatverandering.** Wetenschappers onderzoeken ook hoe de huidige klimaatverandering de vorming van stomata beïnvloedt. 
+**De water- en CO<sub>2</sub>-cycli van de wereld worden beïnvloed door de transpiratie van planten op het land. Men kan dus zeggen dat stomata een impact hebben die globaal is, een impact op de hele wereld. Er wordt het meest getranspireerd door de vegetatie in de warme beboste gebieden van de tropen** (zie Figuur) (Hetherington & Woodward, 2003). De tropische regenwouden situeren zich in gebieden in de buurt van de evenaar. Ze bevinden zich in Centraal- en Zuid-Amerika, in Afrika, in Azië en op de eilanden rond Australië. **Het is belangrijk om te begrijpen hoe planten deze transpiratie zullen aanpassen aan de huidige klimaatverandering.** Wetenschappers onderzoeken ook hoe de huidige klimaatverandering de vorming van stomata beïnvloedt. 
 
 ![](embed/tropical_wet_forests.png "Regenwouden") 
 <figure>
@@ -60,9 +60,3 @@ Na dit hoofdstuk weet je wat het verband is tussen fotosynthese en stomata.<br>
 Je weet wat monocotylen en dicotylen zijn.<br>
 Je weet dat de CO<sub>2</sub>-concentratie en andere omgevingsfactoren een invloed hebben op de vorming van huidmondjes.
 </div>
-
-<div class="alert alert-box alert-warning">
-<strong>Samengevat - computerwetenschappen</strong><br>
-
-Misschien hebben functies en tensoren in Python nu geen geheimen meer voor je.
-<div>
