@@ -33,3 +33,4 @@ skos_concepts: [
 # Voorkennis
 
 * Leerpad *'Werken met de notebooks'*
+* _Wiskundige operatoren - Rekenen_ uit leerpad **Operatoren** van 'Programmeren in Python'. 
