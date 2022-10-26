@@ -33,9 +33,10 @@ teacher_exclusive: true
 # Irisregressie
 De Iris dataset werd in 1936 door de Brit Ronald Fischer gepubliceerd. De dataset betreft drie soorten irissen (_Iris setosa_, _Iris virginica_ en _Iris versicolor_), 50 monsters van elke soort. Fischer kon de soorten van elkaar onderscheiden afgaande op vier kenmerken: de lengte en de breedte van de kelkbladen en de kroonbladen.
 
-In de notebook hier wordt het lineair verband tussen de lengtes van de kelkblaadjes en de kroonblaadjes van de _Iris virginica_ bestudeerd. <br>
+In de eerste notebook hier wordt het lineair verband tussen de lengtes van de kelkblaadjes en de kroonblaadjes van de _Iris virginica_ bestudeerd. <br>
 Je standaardiseert de gegevens en geeft ze weer in een puntenwolk. Je berekent de correlatiecoëfficiënt om te bekijken hoe sterk de lineaire samenhang tussen de twee kenmerken is. Vervolgens wordt de regressielijn gezocht en getekend.<br>
 Met deze regressielijn wordt de lengte van een bloemblad voorspeld voor een gekende lengte van een kelkblad.<br>
-In deze notebook bepaal je de regressielijn en de correlatiecoëfficiënt met de ingebouwde functies van de module SciPy en scikit-learn. In een volgende notebook wordt een machine learning-algoritme uit de doeken gedaan voor als je meer wilt weten.
+In deze notebook bepaal je de regressielijn en de correlatiecoëfficiënt met de ingebouwde functies van de module SciPy en scikit-learn.<br><br>
+In een volgende notebook wordt een machine learning-algoritme uit de doeken gedaan voor als je meer wilt weten.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1910 "Irisregressie")
