@@ -34,6 +34,6 @@ teacher_exclusive: false
 Objectdetectie kan worden gedefinieerd als een computervisietechniek die tot doel heeft objecten op een afbeelding of video te lokaliseren en a.d.h.v. een classificatietechniek te identificeren.<br>
 Hoewel objectdetectiesystemen tegenwoordig al op heel wat plaatsen gebruikt worden in de maatschappij, zijn er toch nog heel wat verbeteringen mogelijk.<br> 
 In een eerste notebook worden enkele praktijkvoorbeelden gegeven en kom je we wat meer te weten over de werking van een objectdetectiesysteem.<br>
-In een tweede notebook ga je aan de slag net een bestaand objectdetectiealgoritme: YOLO.
+In een tweede notebook ga je aan de slag met een bestaand objectdetectiealgoritme: YOLO.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4010 "Computervisie")
