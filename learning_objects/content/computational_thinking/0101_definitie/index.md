@@ -50,6 +50,8 @@ Deze definitie wordt aangevuld met definities voor de basisconcepten.
 
 <div class="alert alert-box alert-secondary">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 
+_Computationeel denken is een methodologie om een complex probleem aan te pakken, op een manier dat een computer zou kunnen ingezet worden om het op te lossen._    
+    
 <strong>Decompositie</strong><br> 
 Een probleem doordacht opsplitsen in goedgekozen deelproblemen, zodat elk deel afzonderlijk kan worden aangepakt, en een oplossing van het probleem gemakkelijker bekomen wordt. 
 
