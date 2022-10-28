@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 Dit kan je gemakkelijk oplossen door de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.
 
-![blockly](@learning-object/WACHTWGS2-v1/nl/3)
+![blockly](@learning-object/WACHTwgs2-v1/nl/3)
 
 Op deze manier toon je de tekst één keer waarna het stopt.
 

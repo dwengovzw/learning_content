@@ -1,5 +1,5 @@
 ---
-hruid: WGS_lcd-v1
+hruid: wgs_lcd-v1
 version: 3
 language: nl
 title: "Uitleg Lcd"

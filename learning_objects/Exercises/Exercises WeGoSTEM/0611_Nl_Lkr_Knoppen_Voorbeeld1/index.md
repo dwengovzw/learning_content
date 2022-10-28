@@ -1,5 +1,5 @@
 ---
-hruid: WGS_Lkr_Knoppen1-v1
+hruid: wgs_Lkr_Knoppen1-v1
 version: 3
 language: nl
 title: "Voorbeeld Knoppen 1"
@@ -39,6 +39,6 @@ Het programma start op. Als de NOORD-knop wordt ingedrukt, gaat het eerste ledje
 
 Oplossing:
 
-![blockly](@learning-object/KNOPWGS1-v1/nl/3)
+![blockly](@learning-object/KNOPwgs1-v1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

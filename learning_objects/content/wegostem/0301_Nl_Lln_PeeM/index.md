@@ -1,5 +1,5 @@
 ---
-hruid: ProgrammeerEensEenMens-v1
+hruid: programmeermens-v1
 version: 3
 language: nl
 title: "Programmeer eens een mens"

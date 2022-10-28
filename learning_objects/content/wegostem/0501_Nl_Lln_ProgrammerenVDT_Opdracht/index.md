@@ -1,5 +1,5 @@
 ---
-hruid: Opdracht_ProgrammerenTekenrobot-v1
+hruid: opdracht_programmerentekenrobot-v1
 version: 3
 language: nl
 title: "Programmeren van de tekenrobot"

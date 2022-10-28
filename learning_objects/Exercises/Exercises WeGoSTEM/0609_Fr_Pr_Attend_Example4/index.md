@@ -1,5 +1,5 @@
 ---
-hruid: Pr_AttendWGS4-v1
+hruid: Pr_Attendwgs4-v1
 version: 3
 language: fr
 title: "Exemple Attend 4"
@@ -38,6 +38,6 @@ Faire un panneau publicitaire pour l'Université de Gand et Dwengo. Les noms doi
 
 Solution:
 
-![blockly](@learning-object/WACHTWGS4-v1/fr/3)
+![blockly](@learning-object/WACHTwgs4-v1/fr/3)
 
 *Testez ces exemples vous-même dans le simulateur !*

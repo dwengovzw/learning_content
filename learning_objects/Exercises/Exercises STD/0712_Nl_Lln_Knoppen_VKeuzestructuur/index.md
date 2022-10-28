@@ -33,4 +33,4 @@ teacher_exclusive: true
 
 In het vorige voorbeeld werd een keuzestructuur gebruikt. Dit is één van de principes van programmeren. Het betreft hier een *'Als-Dan'*-structuur. **Als** aan de voorwaarde voldaan is **dan** wordt de instructie uitgevoerd. Hieronder wordt nog eens de oplossing van de vorige oefening weergegeven.
 
-![blockly](@learning-object/KNOPWGS2-v1/nl/3) 
+![blockly](@learning-object/KNOPwgs2-v1/nl/3) 

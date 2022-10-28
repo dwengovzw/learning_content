@@ -40,7 +40,7 @@ Schrijf een programma dat het volgende doet:
 
 Oplossing:
 
-![blockly](@learning-object/WACHTWGS1-v1/nl/3)
+![blockly](@learning-object/WACHTwgs1-v1/nl/3)
 
 Het *'wacht'-blok* dat **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
 

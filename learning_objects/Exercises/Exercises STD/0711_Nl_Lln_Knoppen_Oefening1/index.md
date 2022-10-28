@@ -38,6 +38,6 @@ Het programma begint pas te lopen wanneer de NOORD-knop wordt ingedrukt. Eens de
 
 Oplossing:
 
-![blockly](@learning-object/KNOPWGS1-v1/nl/3)
+![blockly](@learning-object/KNOPwgs1-v1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

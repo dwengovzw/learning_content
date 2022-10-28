@@ -37,7 +37,7 @@ Maak een reclamebord voor de UGent en Dwengo. De namen moeten afwisselend versch
 
 Oplossing:
 
-![blockly](@learning-object/WACHTWGS4-v1/nl/3)
+![blockly](@learning-object/WACHTwgs4-v1/nl/3)
 
 Merk op dat het in principe niet nodig is om het *"MaakLCDLeeg"-blok* hier te gebruiken omdat beide uitdrukkingen evenveel karakters bevatten; de eerste uitdrukking bestaat uit 6 + 5 karakters (6 lege + UGent) en de tweede uitdrukking bestaat uit 5 + 6 karakters (5 lege + Dwengo).
 

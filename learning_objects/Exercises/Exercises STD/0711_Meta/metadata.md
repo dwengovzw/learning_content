@@ -1,5 +1,5 @@
 ---
-hruid: KNOPWGS1-v1
+hruid: KNOPwgs1-v1
 version: 3
 language: nl
 title: "Meta"

@@ -1,5 +1,5 @@
 ---
-hruid: Doel_ProgrammeerEensEenMens-v1
+hruid: Doel_programmeermens-v1
 version: 3
 language: nl
 title: "Voorbereiding Programmeer eens een mens"

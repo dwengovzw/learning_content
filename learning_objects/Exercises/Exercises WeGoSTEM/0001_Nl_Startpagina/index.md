@@ -1,5 +1,5 @@
 ---
-hruid: WGS_Startpagina-v1
+hruid: wgs_startpagina-v1
 version: 3
 language: nl
 title: "StartToDwenguino Basis"

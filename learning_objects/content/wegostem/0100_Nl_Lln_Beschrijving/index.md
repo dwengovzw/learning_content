@@ -1,5 +1,5 @@
 ---
-hruid: WGS_Beschrijving-v1
+hruid: wgs_inleiding-v1
 version: 3
 language: nl
 title: "Inleiding"

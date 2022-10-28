@@ -1,5 +1,5 @@
 ---
-hruid: Besluit_ProgrammeerEensEenMens-v1
+hruid: besluit_programmeermens-v1
 version: 3
 language: nl
 title: "Besluit Programmeer eens een Mens"
