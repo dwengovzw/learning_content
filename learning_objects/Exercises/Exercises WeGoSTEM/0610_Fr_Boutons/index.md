@@ -1,5 +1,5 @@
 ---
-hruid: BoutonsWGS-v1
+hruid: Boutonswgs-v1
 version: 3
 language: fr
 title: "Explication Boutons"

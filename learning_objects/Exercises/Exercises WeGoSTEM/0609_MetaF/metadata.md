@@ -1,5 +1,5 @@
 ---
-hruid: WACHTWGS4-v1
+hruid: WACHTwgs4-v1
 version: 3
 language: fr
 title: "Meta"

@@ -1,5 +1,5 @@
 ---
-hruid: MissionMoteursWGS-v1
+hruid: MissionMoteurswgs-v1
 version: 3
 language: fr
 title: "Mission Moteurs"
@@ -39,7 +39,7 @@ Si vous n'avez pas encore commencé secrètement, il est enfin temps d'expérime
 
 * Construisez le programme suivant et voyez ce qu'il fait.
 
-![blockly](@learning-object/WGS_Motoren1-v1/fr/3)
+![blockly](@learning-object/wgs_Motoren1-v1/fr/3)
 
 
 ## Devoir 2 : tester

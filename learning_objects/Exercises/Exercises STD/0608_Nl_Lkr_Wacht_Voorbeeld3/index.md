@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 Wanneer je de code naar het *'herhaal'-deel* verplaatst, dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.
 
-![blockly](@learning-object/WACHTWGS3-v1/nl/3)
+![blockly](@learning-object/WACHTwgs3-v1/nl/3)
 
 I.p.v. de code eenmalig uit te voeren, zal ze nu herhaald worden. Door de instructies in het *'herhaal'-deel* te plaatsen, maak je gebruik van een programmeerprincipe, nl. de herhalingsstructuur. 
   

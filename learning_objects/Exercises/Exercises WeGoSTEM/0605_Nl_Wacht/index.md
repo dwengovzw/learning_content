@@ -1,5 +1,5 @@
 ---
-hruid: WGS_Wacht-v1
+hruid: wgs_Wacht-v1
 version: 3
 language: nl
 title: "Uitleg Wacht"

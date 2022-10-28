@@ -1,5 +1,5 @@
 ---
-hruid: WGS_InleidendeOefening-v1
+hruid: wgs_inleidendeoefening-v1
 version: 3
 language: nl
 title: "Inleidende oefening"

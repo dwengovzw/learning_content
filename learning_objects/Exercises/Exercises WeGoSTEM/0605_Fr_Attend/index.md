@@ -1,5 +1,5 @@
 ---
-hruid: AttendWGS-v1
+hruid: Attendwgs-v1
 version: 3
 language: fr
 title: "Explication Attend"

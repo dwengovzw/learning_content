@@ -1,5 +1,5 @@
 ---
-hruid: MoteursWGS-v1
+hruid: Moteurswgs-v1
 version: 3
 language: fr
 title: "Explication Moteurs"

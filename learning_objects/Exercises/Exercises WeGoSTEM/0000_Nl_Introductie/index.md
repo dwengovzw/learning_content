@@ -1,5 +1,5 @@
 ---
-hruid: WGS_IntroductieOefeningen-v1
+hruid: wgs_IntroductieOefeningen-v1
 version: 3
 language: nl
 title: "StartToDwenguino Introductie"

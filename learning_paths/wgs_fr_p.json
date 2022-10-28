@@ -224,7 +224,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "TelechargerWGS-v1",
+            "hruid": "Telechargerwgs-v1",
             "version": "3",
             "language": "fr"
           }
@@ -232,14 +232,14 @@
       ]
     },
     {
-      "learningobject_hruid": "TelechargerWGS-v1",
+      "learningobject_hruid": "Telechargerwgs-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "WGS_lcd-v1",
+            "hruid": "wgs_lcd-v1",
             "version": "3",
             "language": "fr"
           }
@@ -247,14 +247,14 @@
       ]
     },
     {
-      "learningobject_hruid": "WGS_lcd-v1",
+      "learningobject_hruid": "wgs_lcd-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pr_WGS_lcd1-v1",
+            "hruid": "pr_wgs_lcd1-v1",
             "version": "3",
             "language": "fr"
           }
@@ -262,14 +262,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pr_WGS_lcd1-v1",
+      "learningobject_hruid": "pr_wgs_lcd1-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pr_WGS_lcd2-v1",
+            "hruid": "pr_wgs_lcd2-v1",
             "version": "3",
             "language": "fr"
           }
@@ -277,14 +277,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pr_WGS_lcd2-v1",
+      "learningobject_hruid": "pr_wgs_lcd2-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pr_WGS_lcd3-v1",
+            "hruid": "pr_wgs_lcd3-v1",
             "version": "3",
             "language": "fr"
           }
@@ -292,14 +292,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pr_WGS_lcd3-v1",
+      "learningobject_hruid": "pr_wgs_lcd3-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "AttendWGS-v1",
+            "hruid": "Attendwgs-v1",
             "version": "3",
             "language": "fr"
           }
@@ -307,14 +307,14 @@
       ]
     },
     {
-      "learningobject_hruid": "AttendWGS-v1",
+      "learningobject_hruid": "Attendwgs-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Pr_AttendWGS1-v1",
+            "hruid": "Pr_Attendwgs1-v1",
             "version": "3",
             "language": "fr"
           }
@@ -322,14 +322,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Pr_AttendWGS1-v1",
+      "learningobject_hruid": "Pr_Attendwgs1-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Pr_AttendWGS2-v1",
+            "hruid": "Pr_Attendwgs2-v1",
             "version": "3",
             "language": "fr"
           }
@@ -337,14 +337,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Pr_AttendWGS2-v1",
+      "learningobject_hruid": "Pr_Attendwgs2-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Pr_AttendWGS3-v1",
+            "hruid": "Pr_Attendwgs3-v1",
             "version": "3",
             "language": "fr"
           }
@@ -352,14 +352,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Pr_AttendWGS3-v1",
+      "learningobject_hruid": "Pr_Attendwgs3-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Pr_AttendWGS4-v1",
+            "hruid": "Pr_Attendwgs4-v1",
             "version": "3",
             "language": "fr"
           }
@@ -367,14 +367,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Pr_AttendWGS4-v1",
+      "learningobject_hruid": "Pr_Attendwgs4-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "BoutonsWGS-v1",
+            "hruid": "Boutonswgs-v1",
             "version": "3",
             "language": "fr"
           }
@@ -382,14 +382,14 @@
       ]
     },
     {
-      "learningobject_hruid": "BoutonsWGS-v1",
+      "learningobject_hruid": "Boutonswgs-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Pr_BoutonsWGS1-v1",
+            "hruid": "Pr_Boutonswgs1-v1",
             "version": "3",
             "language": "fr"
           }
@@ -397,14 +397,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Pr_BoutonsWGS1-v1",
+      "learningobject_hruid": "Pr_Boutonswgs1-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Pr_BoutonsWGS2-v1",
+            "hruid": "Pr_Boutonswgs2-v1",
             "version": "3",
             "language": "fr"
           }
@@ -412,14 +412,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Pr_BoutonsWGS2-v1",
+      "learningobject_hruid": "Pr_Boutonswgs2-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "MoteursWGS-v1",
+            "hruid": "Moteurswgs-v1",
             "version": "3",
             "language": "fr"
           }
@@ -427,14 +427,14 @@
       ]
     },
     {
-      "learningobject_hruid": "MoteursWGS-v1",
+      "learningobject_hruid": "Moteurswgs-v1",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "MissionMoteursWGS-v1",
+            "hruid": "MissionMoteurswgs-v1",
             "version": "3",
             "language": "fr"
           }
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "learningobject_hruid": "MissionMoteursWGS-v1",
+      "learningobject_hruid": "MissionMoteurswgs-v1",
       "version": "3",
       "language": "fr",
       "transitions": [

@@ -1,5 +1,5 @@
 ---
-hruid: PR_BoutonsWGS3-v1
+hruid: PR_Boutonswgs3-v1
 version: 3
 language: fr
 title: "Knoppen Voorbeeld"
