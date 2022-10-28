@@ -179,7 +179,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "SR_LCDOef1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -187,14 +187,14 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "SR_LCDOef1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "SR_LCDOef2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -202,14 +202,14 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "SR_LCDOef2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "SR_LCDOef3-v1",
             "version": "3",
             "language": "nl"
           }
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "SR_LCDOef3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -239,7 +239,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "SR_WachtOef1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -247,14 +247,14 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "SR_WachtOef1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "SR_WachtOef2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -262,14 +262,14 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "SR_WachtOef2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "SR_WachtOef3-v1",
             "version": "3",
             "language": "nl"
           }
@@ -277,14 +277,14 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "SR_WachtOef3-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "SR_WachtOef4-v1",
             "version": "3",
             "language": "nl"
           }
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "SR_WachtOef4-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -314,7 +314,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "wgs_Lkr_Knoppen1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -322,14 +322,14 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "wgs_Lkr_Knoppen1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "-v1",
+            "hruid": "wgs_Lkr_Knoppen2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "learningobject_hruid": "-v1",
+      "learningobject_hruid": "wgs_Lkr_Knoppen2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -383,51 +383,6 @@
     },
     {
       "learningobject_hruid": "Opruimen-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "-v1",
       "version": "3",
       "language": "nl"
     } 
