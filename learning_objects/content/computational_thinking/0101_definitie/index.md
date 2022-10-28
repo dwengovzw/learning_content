@@ -2,8 +2,8 @@
 hruid: cd_definitie-v1
 version: 3
 language: nl
-title: "definitie"
-description: "definitie"
+title: "Definitie"
+description: "Definitie"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -36,7 +36,7 @@ Er zijn sinds 2019 verplichte leerdoelen 'Computationeel denken en handelen' in 
 <strong><h5>Definitie van computationeel denken bij de eindtermen</h5></strong> 
 <h5>(AHOVOKS, 2020)</h5> 
 
-Computationeel denken en handelen is een proces waarbij men tot output komt gebruikmakend van volgende technieken: herkennen van patronen (patroonherkenning) en veralgemenen (generalisering), opdelen van een probleem in deelproblemen (decompositie), abstraheren van de gegevens of het probleem zelf (abstractie), vormgeven van de oplossingsmethode (modelleren) en volgen van een vast stappenplan (algoritmen). 
+_Computationeel denken en handelen is een proces waarbij men tot output komt gebruikmakend van volgende technieken: herkennen van patronen (patroonherkenning) en veralgemenen (generalisering), opdelen van een probleem in deelproblemen (decompositie), abstraheren van de gegevens of het probleem zelf (abstractie), vormgeven van de oplossingsmethode (modelleren) en volgen van een vast stappenplan (algoritmen)._ 
 
 Men had daarbij in gedachten om leerlingen "niet alleen digitale technologie te leren gebruiken, maar er ook voor te zorgen dat ze de onderlinge werking begrijpen".<br>
 Deze leerdoelen hebben als doel om: 
