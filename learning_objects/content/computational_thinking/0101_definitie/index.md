@@ -45,8 +45,7 @@ Deze leerdoelen hebben als doel om:
 <ul><li>leerlingen voor te bereiden op een leven in een snel veranderende wereld en hen te wapenen om kritisch te kunnen nadenken over de impact die technologie heeft op de privacy, werkgelegenheid en gezondheid (wat aansluit bij de nood aan digitale vaardigheid om de 21ste-eeuwse vaardigheden te kunnen verwerven).</li></ul>
 </div> 
 
-Rekening houdend met de definitie die de Vlaamse Regering voorstelt en de internationale consensus stellen we in de kader 'Een definitie van computationeel denken' zelf een definitie voor die alvast voor Vlaamse leerkrachten als startpunt kan dienen.<br> 
-Deze definitie wordt aangevuld met definities voor de basisconcepten. 
+Rekening houdend met de definitie die de Vlaamse Regering voorstelt en de internationale consensus stellen we in de kader 'Een definitie van computationeel denken' zelf een definitie voor die alvast voor Vlaamse leerkrachten als startpunt kan dienen.<br>  
 
 <div class="alert alert-box alert-secondary">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 
@@ -57,6 +56,8 @@ Computationeel denken steunt op vier basisconcepten: decompositie, abstractie, p
 Het op te lossen probleem moet goed begrepen en geformuleerd worden, een oplossing moet worden bedacht, een algoritme moet worden opgesteld en (indien gewenst) worden geïmplementeerd in de computer.<br>
 Voor een bepaald probleem zijn deze basisconcepten vaak verweven met elkaar.<br>
 Een belangrijk aspect is het herkennen van problemen waarbij de computer inderdaad als hulpmiddel kan worden ingezet.
+
+Deze definitie wordt aangevuld met definities voor de basisconcepten.
     
 <strong>Decompositie</strong><br> 
 Een probleem doordacht opsplitsen in goedgekozen deelproblemen, zodat elk deel afzonderlijk kan worden aangepakt, en een oplossing van het probleem gemakkelijker bekomen wordt. 
