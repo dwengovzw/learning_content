@@ -30,15 +30,16 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Internationaal belang
+# Belang van computationeel denken
 
 ## Vlaanderen
 
 Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven minimale leerdoelen verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). 
 
 > Deze leerdoelen worden eindtermen genoemd. Klik [hier](https://etaamb.openjustice.be/nl/decreet-van-12-februari-2021_n2021031270.html) voor het decreet betreffende de nieuwe eindtermen. 
+> In het leerpad 'Eindtermen' van het project 'Computationeel denken' wordt er dieper op deze eindtermen en de verbanden ertussen ingegaan. 
 
-De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit drie bouwstenen: 
+De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
 
 * De bouwsteen ‘Digitale media en toepassingen om te creëren, te participeren en te interageren’ rond het gebruik van informatie- en communicatietechnologie. Bv. het gebruik van online tools, het creëren van digitale content, en het digitaal burgerschap. Deze bouwsteen kent een samenhang met leerdoelen over informatie verwerven en beheren van de sleutelcompetentie rond leren. 
 
@@ -51,6 +52,6 @@ De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd u
 
 Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. 
 
-Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van basisgeletterdheid, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
+Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van **basisgeletterdheid**, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
 
 > Het Grondwettelijk Hof vernietigde op 16 juni 2022 de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. Deze worden opnieuw bekeken. 
