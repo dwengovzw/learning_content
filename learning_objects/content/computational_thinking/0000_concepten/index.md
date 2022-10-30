@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Computationeel denken
+# Belang van computationeel denken
 
 De **digitalisering** van de maatschappij heeft een enorme **impact** op ons leven. De computer is alomtegenwoordig, het nemen van beslissingen gebeurt steeds meer geautomatiseerd door algoritmen, de meesten gaan de deur niet uit zonder smartphone en velen besteden dagelijks uren aan het checken van hun sociale media.
 Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **ieder heeft voor zich wel de keuze hoe men ermee omgaat**: men kan het ondergaan of men kan het proberen te begrijpen en er op een bewuste manier proberen mee om te gaan. 
