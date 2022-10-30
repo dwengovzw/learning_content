@@ -30,9 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Internationaal belang
+# Belang van computationeel denken
 
-## Computationeel denken
+## Computationeel denken is niet nieuw
 
 Maar wat houdt computationeel denken in? De term is vrij nieuw - ‘computationeel denken’ dook voor het eerst in een onderwijscontext op in 1980, in het boek ‘Mindstorms’ van Seymour Papert - en is bij leerkrachten niet altijd gekend. Vaak wordt verkeerdelijk gedacht dat de term een compleet nieuwe lading leerstof dekt, terwijl de concepten van computationeel denken in feite heel ver teruggaan in de tijd, naar een tijd waarin computers nog niet bestonden. 
 
