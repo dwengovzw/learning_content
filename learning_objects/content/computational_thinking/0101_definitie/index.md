@@ -47,7 +47,7 @@ De leerdoelen over computationeel denken beogen:
 <em> Dit sluit aan bij de 21ste-eeuwse vaardigheden, waarvan probleemoplossend denken er een is, en bij de nood aan digitale vaardigheden om de andere 21ste-eeuwse vaardigheden te kunnen verwerven.</em>    
 </div> 
 
-Rekening houdend met de definitie die de Vlaamse Regering voorstelt en de internationale consensus stellen we in de kader 'Een definitie van computationeel denken' zelf een definitie voor die alvast voor Vlaamse leerkrachten als startpunt kan dienen.<br>  
+Rekening houdend met de definitie die de Vlaamse Regering voorstelt en de internationale consensus die er heerst rond de term 'computationeel denken' stellen we in de kader 'Een definitie van computationeel denken' zelf een definitie voor die alvast voor Vlaamse leerkrachten als startpunt kan dienen.<br>  
 
 <div class="alert alert-box alert-secondary">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 
