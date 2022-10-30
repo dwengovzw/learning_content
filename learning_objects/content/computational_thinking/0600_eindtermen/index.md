@@ -2,8 +2,8 @@
 hruid: cd_eindtermen-v1
 version: 3
 language: nl
-title: "Eindtermen"
-description: "Eindtermen"
+title: "Vlaanderen"
+description: "Vlaanderen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
