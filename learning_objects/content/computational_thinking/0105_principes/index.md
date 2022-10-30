@@ -34,3 +34,5 @@ teacher_exclusive: true
 In onderstaand filmpje wordt kort uitleg gegeven over het lesmateriaal dat Dwengo aanbiedt. 
 
 ![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")
+
+Concrete voorbeelden van hoe computationeel denken aan bod komt in de les, vind je in het leerpad 'Cases' van het project 'Computationeel denken'. 
