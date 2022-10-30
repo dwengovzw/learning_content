@@ -39,7 +39,10 @@ Leerlingen leren over fysica, chemie en biologie omwille van de natuurwetenschap
 > In deze tekst wordt ‘computer’ gebruikt in de ruime zin van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen. 
 
 Naast de fysieke wereld wordt de digitale wereld steeds belangrijker. De ontwikkeling van al die digitale toestellen en toepassingen gebeurt door mensen die computationeel kunnen denken. Om onze leerlingen te laten inzien wat aan de grondslag ligt van de steeds meer gedigitaliseerde maatschappij, om ze te laten begrijpen welke impact de digitalisering heeft op hun eigen leven en opdat ze in de toekomst als burger gefundeerde beslissingen zouden kunnen nemen, is het nodig dat onze leerlingen de basisconcepten van computationeel denken begrijpen en kunnen toepassen.
-Over de **hele wereld** wordt dan ook gepleit om de jongeren computationeel te leren denken en wordt computationeel denken aangezien als een **21ste-eeuwse competentie** (Yadav et al., 2017a). Zo ook in Vlaanderen. 
+Over de **hele wereld** wordt dan ook gepleit om de jongeren computationeel te leren denken en wordt computationeel denken aangezien als een **21ste-eeuwse competentie** (Yadav et al., 2017a). Zo ook in Vlaanderen. <br>
+De digitale vaardigheden worden zelfs aangezien als een manier om de andere 21ste-eeuwse vaardigheden te verwerven en te evalueren. Dat is de voornaamste reden waarom landen computationeel denken invoeren in het onderwijs. 
+
+> Meer uitleg over de 21ste-eeuwse vaardigheden vind je in het leerpad 'Eindtermen' van het project 'Computationeel denken'. 
 
 <div class="alert alert-box alert-success">
     <strong>De gedigitaliseerde wereld</strong><br> 
@@ -50,4 +53,3 @@ Dat men wereldwijd een groot belang hecht aan computationeel denken, weerspiegel
 
 > [International Computer and Information Literacy Study](https://www.iea.nl/studies/iea/icils/2023#section-740)<br>
 > [PISA assessment](https://www.oecd.org/pisa/sitedocument/PISA-2021-mathematics-framework.pdf)
-
