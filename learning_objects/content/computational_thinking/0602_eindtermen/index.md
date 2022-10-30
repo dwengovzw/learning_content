@@ -49,9 +49,8 @@ De derde bouwsteen **‘Verantwoord, kritisch en ethisch omgaan met digitale en 
 die voor deze bouwsteen zijn geformuleerd, is ook aandacht voor beeldgeletterdheid, wat van belang is voor het kritisch omgaan met diverse media. Computationeel
 denken en mediawijsheid behoren tot dezelfde sleutelcompetentie; dit weerspiegelt hun complementariteit en overlap, zoals aangehaald door Gretter & Yadav (2016) (zie Tabel 4.1 in paragraaf 4.2).
 
-<div> 
-Kennis betreffend computationeel denken 
-(AHOVOKS, 2020)
+<div class="alert alert-box alert-success">
+    <strong>Kennis betreffend computationeel denken</strong>(AHOVOKS, 2020)<br> 
 De kennis die leerlingen moeten verwerven betreffend computationeel denken, bestaat o.a. uit: decompositie, patroonherkenning, abstractie, algoritme,
 digitale representatie van informatie, testen en debuggen, modelleren en simuleren, principes en elementen van programmeertalen (sequentie, herhalingsstructuur,
 keuzestructuur, variabelen, datatypes, operatoren, functies), invoer-verwerking-uitvoer, binaire representatie, hardware, dataformaat, toepassingen
