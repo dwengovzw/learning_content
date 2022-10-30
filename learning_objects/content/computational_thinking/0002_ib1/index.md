@@ -30,9 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Internationaal belang
+# Belang van computationeel denken
 
-## De gedigitaliseerde wereld
+## Internationaal belang
 
 Leerlingen leren over fysica, chemie en biologie omwille van de natuurwetenschappelijke processen in de wereld waarin ze leven. Een aanzienlijk deel van hun leven speelt zich echter digitaal af. Denk aan sociale media, gaming en online lessen. Kortom, de computer is alomtegenwoordig. **Computationeel denken is een werkwijze om die digitale wereld te begrijpen en erop in te grijpen**. Het is dan ook niet verwonderlijk dat er overal ter wereld een groeiende aandacht voor is in het leerplichtonderwijs (Wing, 2006; Bocconi et al., 2016; Yadav et al., 2017a). 
 
