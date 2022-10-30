@@ -48,3 +48,5 @@ Maar wat houdt computationeel denken in? De term is vrij nieuw - ‘computatione
     <strong>Samengevat</strong><br> 
     Computationeel denken wordt aangezien als een vaardigheid die ons weerbaar maakt in een snel veranderende maatschappij. Er is dan ook een groeiende aandacht voor in het leerplichtonderwijs, ook in Vlaanderen. Hoewel computationeel denken stamt uit een tijd dat er nog geen computers waren, zijn leerkrachten er toch onvoldoende vertrouwd mee. 
 </div>
+
+Wil je meer weten? Verken dan de leerpaden 'Historiek' en "Eindtermen' van het project 'Computationeel denken' voor meer achtergrondinformatie. De leerpaden 'Concreet', 'Cases' en 'Kijkwijzer' geven informatie om concreet met computationeel denken aan de slag te gaan in jouw les. Bekijk 'Evaluatiekader' voor tips rond evalueren.    
