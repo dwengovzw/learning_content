@@ -36,7 +36,7 @@ teacher_exclusive: true
 
 Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven minimale leerdoelen verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). 
 
-> Deze leerdoelen worden eindtermen genoemd. Klik [hier](https://etaamb.openjustice.be/nl/decreet-van-12-februari-2021_n2021031270.html) voor het decreet betreffende de nieuwe eindtermen. 
+> Deze minimale leerdoelen worden eindtermen genoemd. Klik [hier](https://etaamb.openjustice.be/nl/decreet-van-12-februari-2021_n2021031270.html) voor het decreet betreffende de nieuwe eindtermen. 
 
 > In het leerpad 'Eindtermen' van het project 'Computationeel denken' wordt er dieper op deze eindtermen en de verbanden ertussen ingegaan. 
 
