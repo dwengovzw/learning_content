@@ -36,7 +36,7 @@ teacher_exclusive: true
 **De wens om sneller en beter te kunnen rekenen, en om zaken te automatiseren, heeft geleid tot het ontstaan van de moderne computer. En gaandeweg in dat proces is het computationeel denken vanuit het wiskundig, logisch, algoritmisch, wetenschappelijk en technisch denken gegroeid tot een aanvullende manier van denken, naast andere denkwijzen. Momenteel is het een essentieel domein binnen de computerwetenschappen.** 
 
 Bij het uitvoeren van eentonige, repetitieve taken maken mensen fouten door verstrooidheid. Rekenfouten zijn niet uit te sluiten bij berekeningen die met de hand worden uitgevoerd. Mensen zijn gaan nadenken over manieren om dit tegen te gaan. 
-Al duizenden jaren is men op zoek naar methodes om de ‘menselijke fout’ waar mogelijk te gaan vermijden. Men ontwierp **hulpmiddelen** om te rekenen, men dacht na over machines die specifieke taken zouden kunnen uitvoeren en men bedacht **systemen** die fouten zouden kunnen voorkomen.
+Al duizenden jaren is men op zoek naar methodes om de ‘menselijke fout’ waar mogelijk te gaan vermijden. Men ontwierp _**hulpmiddelen**_ om te rekenen, men dacht na over machines die specifieke taken zouden kunnen uitvoeren en men bedacht _**systemen**_ die fouten zouden kunnen voorkomen.
 
 Reeds in de oudheid stelden wiskundige Babyloniërs **algoritmes** op om bepaalde types van meetkundige problemen op te lossen (Burton, 1991). Ook de oude Grieken ontwierpen algoritmes, zoals het algoritme van Euclides om de grootste gemene deler van twee natuur-Reeds in de oudheid stelden wiskundige Babyloniërs algoritmen op om bepaalde types van meetkundige problemen op te lossen (Burton, 1991). Ook de oude Grieken ontwierpen algoritmes, zoals het algoritme van Euclides om de grootste gemene deler van twee natuurlijke getallen te bepalen en de zeef van Eratosthenes om priemgetallen op te sporen. De algoritmes maakten de wiskundige methodes toegankelijk voor minder rekenvaardige mensen. 
 
@@ -61,12 +61,13 @@ In de 17de eeuw bouwde Blaise Pascal een **rekentoestel** om op te tellen en af 
     Uiteindelijk heeft dit geleid tot de ontwikkeling van de moderne computer (Denning & Tedre, 2019). 
 </div>
 
-In de 19de eeuw ontwierp Joseph-Marie Jacquard een weefgetouw waarvan het motief in het toestel ‘geprogrammeerd’ werd met (binaire) ponskaarten. Zijn tijdgenoot Charles Babbage bouwde de Difference Engine die logaritmetafels en sinustafels automatisch kon genereren. Erna spendeerde hij jaren aan het ontwikkelen van de Analytical Machine, een meer algemene (mechanische) computer, die hij echter nooit bouwde, maar waarvoor Ada Lovelace wel het eerste computerprogramma publiceerde. 
+In de 19de eeuw ontwierp Joseph-Marie Jacquard een weefgetouw waarvan het motief in het toestel ‘geprogrammeerd’ werd met **(binaire) ponskaarten**. Zijn tijdgenoot Charles Babbage bouwde de Difference Engine die logaritmetafels en sinustafels automatisch kon genereren. Erna spendeerde hij jaren aan het ontwikkelen van de Analytical Machine, een meer algemene (mechanische) computer, die hij echter nooit bouwde, maar waarvoor Ada Lovelace wel het eerste computerprogramma publiceerde. 
 
 > Binaire representatie van gegevens is een van de fundamenten van moderne computers. 
 > Om de data en de instructies in de machine in te voeren, wilde Babbage ponskaarten gebruiken. 
 
 De grote verdienste van Lovelace is dat ze begreep dat een computer ook andere dingen kan behalve rekenen. Als men bv. muzieknoten kan voorstellen door getallen, dan zou de machine muziek kunnen maken (Wolfram, 2015). 
-Zo evolueerden de eenvoudige rekentoestellen uit de 17de eeuw tot de computers die we vandaag kennen. 
 
 > Lovelace prubliceerde een programma om de Bernoulligetallen te berekenen. Het bevatte reeds al de belangrijke principes van een computerprogramma, zoals binaire representatie, input, verwerking, uitvoer, geheugen, sequentie, herhalings- en keuzestructuren (Wolfram, 2015). 
+
+Zo evolueerden de eenvoudige rekentoestellen uit de 17de eeuw tot de computers die we vandaag kennen. 
