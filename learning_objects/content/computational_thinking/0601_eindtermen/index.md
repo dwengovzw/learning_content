@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Eindtermen
 
-## Tussentitel
+## Hervorming
 
 Meerder decennia was computerwetenschappen bijna afwezig in het lesaanbod van het Vlaamse onderwijs (wyffels et al., 2014). In 20214 deed de Koninklijke
 Vlaamse Academie van België voor Wetenschappen en Kunsten (KVAB) een oproep om computerwetenschappen verplicht op te nemen in het curriculum. In hun
