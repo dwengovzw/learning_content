@@ -29,4 +29,6 @@ skos_concepts: [
 ]
 ---
 # Voorkennis
-Binnenkort beschikbaar 
+* Leerpad *'Werken met notebooks'*
+* 'Programmeren in Python' > * Leerpad *'Operatoren'* > onderdeel *'Wiskundige operatoren - Rekenen'*. 
+* 'Programmeren in Python' > * Leerpad *'Datatypes'* > onderdeel *'Opsommingen'* > 1.1 Index van de notebook 1000_Opsommingen.ipynb.
