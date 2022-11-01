@@ -31,5 +31,9 @@ skos_concepts: [
 ---
 # Turtle
 
+In deze notebook zal je een 'turtle' programmeren, die beweegt over het scherm. Met behulp van een 'turtle' laat je meetkundige vormen zien op het scherm.
+Je krijgt gaandeweg een inleiding tot het werken met een herhalingsstructuur en het gebruiken van functies.
+Wees creatief!
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=5010 "Turtle")
 

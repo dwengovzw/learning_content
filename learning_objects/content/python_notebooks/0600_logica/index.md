@@ -29,7 +29,9 @@ skos_concepts: [
 ]
 ---
 # Logica
-Binnenkort beschikbaar 
+In een eerste notebook kan je met Python waarheidstabellen genereren. Dat is handig voor als je het al eigenlijk onder de knie hebt en je meer wilt toeleggen op de kern van het probleem. 
+
+In een tweede notebook ga je in Python met Booleaanse operatoren aan de slag om na te gaan of een bepaalde uitdrukking waar of vals is.  
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0600 "Notebooks logica")
 <figure>
