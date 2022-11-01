@@ -36,5 +36,5 @@ skos_concepts: [
 * 'Python in de Wiskundeles' >  Leerpad *'Spreidingsdiagram'*
 * 'Python in de Wiskundeles' >  Leerpad *'Rechten'* - Tekenen van een rechte
 * 'Python in de Wiskundeles' > Leerpad *'Pythagoras* - Definiëren van een functie
-* 'Programmeren met Python ' > Leerpad *'Datatypes'* - NumPy-lijsten
-* 'Programmeren met Python ' > Leerpad *'Datatypes'* - Dataframe
+* 'Programmeren met Python' > Leerpad *'Datatypes'* - NumPy-lijsten
+* 'Programmeren met Python' > Leerpad *'Datatypes'* - Dataframe
