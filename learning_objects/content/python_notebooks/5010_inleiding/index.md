@@ -31,3 +31,6 @@ skos_concepts: [
 ---
 
 # Inleiding
+
+In 1980 verscheen het boek 'Mindstorms' van Seymour Papert. Hij beschreef er ruimschoots de mogelijkheden in die de computer biedt om theoretische zaken concreet te maken, om te experimenteren en om systematisch te leren denken. Papert deed dit concreet door leerlingen een ‘turtle’ te laten programmeren, die beweegt over het scherm.<br>
+In het boek gebruikte hij terloops de term 'computationeel denken' daarbij verwijzend naar het alledaagse leven. Papert is daarmee een van de pioniers van computationeel denken.
