@@ -45,11 +45,11 @@ teacher_exclusive: false
 <div class="alert alert-box alert-success">
 <strong>Notebook - machinaal leren - classificatie</strong><br>
 
-<ul><li>Op https://dwengo.org/kiks/ vind je in het leerpad 'Classificatie' het onderdeel 'Stomata zon -schaduw'. Doorloop daar de notebook <em>0300_StomataZonSchaduwClassificatie.ipynb</em>. Je hoeft nog niet alles te begrijpen in deze notebook.<br> Je ziet dat de planten die in de zon groeiden, gescheiden kunnen worden van de planten die in de schaduw groeiden, en dat louter gebaseerd op de afmetingen en de dichtheid van de huidmondjes.</li></ul> 
+<ul><li>Op https://dwengo.org/kiks/ vind je in het leerpad 'Classificatie' het onderdeel 'Stomata zon-schaduw'. Doorloop daar de notebook <em>0300_StomataZonSchaduwClassificatie.ipynb</em>. Je hoeft nog niet alles te begrijpen in deze notebook.<br> Je ziet dat de planten die in de zon groeiden, gescheiden kunnen worden van de planten die in de schaduw groeiden, en dat louter gebaseerd op de afmetingen en de dichtheid van de huidmondjes.</li></ul> 
 <ul><li>Merk je op dat het neurale netwerk eerst volledig willekeurig een rechte kiest en die stap voor stap aanpast tot er een gewenste scheidingsrechte is gevonden?</li></ul>
 </div> 
 
 <div class="alert alert-box alert-success">
-<strong>Notebook (facultatief)</strong><br>
+<strong>Notebook Afbeeldingen in kleur (facultatief)</strong><br>
 <ul><li>Op https://dwengo.org/kiks/ vind je in het leerpad 'Digitale beelden' het onderdeel 'Kleur'. In de notebook <em>0200_AfbeeldingenKleur.ipynb</em>worden deze foto’s van Sofie Meeus en microfoto’s van de Plantentuin Meise gebruikt.</li></ul>
 </div>
