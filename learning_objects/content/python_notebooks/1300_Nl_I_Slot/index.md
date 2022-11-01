@@ -32,4 +32,4 @@ skos_concepts: [
 
 # Slot
 
-'Bouwstenen van digitale systemen' is één van de topics uit de (nieuwe) eindtermen van de tweedeen derde graad. Dit leerpad verduidelijkt alvast hoe jouw computer of smartphone communiceert met de websites die je bezoekt.
+'Bouwstenen van digitale systemen' is één van de topics uit de (nieuwe) eindtermen van de tweede en derde graad. Dit leerpad verduidelijkt alvast hoe jouw computer of smartphone communiceert met de websites die je bezoekt.
