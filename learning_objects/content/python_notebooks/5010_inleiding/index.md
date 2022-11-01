@@ -28,6 +28,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-meetkunde-en-metend-rekenen'
 ]
+teacher_exclusive: true
 ---
 
 # Inleiding
