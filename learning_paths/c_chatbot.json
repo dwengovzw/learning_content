@@ -1,5 +1,5 @@
 {
-  "hruid": "PN_Chatbot",
+  "hruid": "pn_chatbot",
   "language": "nl",
   "title": "Chatbot",
   "description": "Chatbots zijn softwaresystemen die kunnen interageren met mensen via getypte tekstboodschappen. Dit gebeurt via spontane tekst in natuurlijke taal. Een chatbot is dus niets anders dan een robot waarmee je kan chatten, een geautomatiseerd digitaal systeem waarmee je in dialoog kunt treden.",
@@ -30,7 +30,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "PN_Chatbot-v1",
+            "hruid": "pn_chatbot-v1",
             "version": "3",
             "language": "nl"
           }
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "learningobject_hruid": "PN_Chatbot-v1",
+      "learningobject_hruid": "pn_chatbot-v1",
       "version": "3",
       "language": "nl"
     }
