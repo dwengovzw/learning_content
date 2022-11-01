@@ -44,7 +44,7 @@ Binnen de leerdoelen zit basiskennis van digitale systemen en het werken met dig
 Het waarom van deze nieuwe eindtermen is te vinden in de nood aan 21ste-eeuwse competenties, wat in de lijn ligt van hoe computationeel denken internationaal
 wordt aangezien. Leerkrachten verliezen best het hoger doel van deze leerdoelen niet uit het oog.
 
-<div>
+<div class="alert alert-box alert-success">
 De eindtermen rond computationeel denken situeren zich niet alleen in de sleutelcompetentie ‘Digitale competentie en mediawijsheid’, maar ook in de
 sleutelcompetentie ‘Competenties inzake wiskunde, exacte wetenschappen en technologie’ en zelfs in de sleutelcompetentie ‘Leercompetenties’.
 Gezien de link met de 21ste-eeuwse vaardigheden, zoals mediawijsheid en informatiegeletterdheid, kan computationeel denken ook aan bod komen en zelfs van belang zijn in niet-STEM-vakken.
