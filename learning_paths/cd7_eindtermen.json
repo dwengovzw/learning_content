@@ -85,6 +85,21 @@
     {
       "learningobject_hruid": "cd_eindtermen5-v1",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cd_slot7-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cd_slot7-v1",
+      "version": "3",
       "language": "nl"
     } 
   ]

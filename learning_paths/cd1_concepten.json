@@ -55,6 +55,21 @@
     {
       "learningobject_hruid": "cd_ib3-v1",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cd_slot1-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cd_slot1-v1",
+      "version": "3",
       "language": "nl"
     } 
   ]
