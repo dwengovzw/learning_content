@@ -34,4 +34,4 @@ skos_concepts: [
 
 Het internet geeft je toegang tot het *world wide web*, waarop je allerlei informatie kan vinden via websites. Elke website heeft een unieke locatie op het internet, weergegeven door zijn internetprotocol-adres, kortom IP-adres. In dit leerpad leer je hoe zo'n IP-adres is opgebouwd.
 
-'Bouwstenen van digitale systemen' is één van de topics uit de (nieuwe) eindtermen van de tweeede en derde graad. Dit leerpad verduidelijkt alvast hoe jouw computer of smartphone communiceert met de websites die je bezoekt.
+'Bouwstenen van digitale systemen' is één van de topics uit de (nieuwe) eindtermen van de tweede en derde graad. Dit leerpad verduidelijkt alvast hoe jouw computer of smartphone communiceert met de websites die je bezoekt.
