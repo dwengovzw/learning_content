@@ -31,4 +31,4 @@ teacher_exclusive: true
 ---
 
 # Regressie en Classificatie
-Met machinaal leren kan men problemen van regressie en classificatie behandelen. Deze technieken worden behandeld in respectievelijk de leerpaden 'Classificatie' en 'Regressie'.
+Met machinaal leren kan men problemen van regressie en classificatie behandelen. Deze technieken worden behandeld in respectievelijk de leerpaden 'Classificatie' en 'Regressie' van het KIKS-project.
