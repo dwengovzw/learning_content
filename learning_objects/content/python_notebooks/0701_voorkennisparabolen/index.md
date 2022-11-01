@@ -29,4 +29,6 @@ skos_concepts: [
 ]
 ---
 # Voorkennis
-Binnenkort beschikbaar 
+* Leerpad *'Werken met notebooks'*
+* 'Programmeren met Python' > * Leerpad *'Operatoren'* > Deel *'Wiskundige operatoren - Rekenen'*
+* 'Python in de Wiskundeles' > Leerpad *'Spreidingsdiagram'*
