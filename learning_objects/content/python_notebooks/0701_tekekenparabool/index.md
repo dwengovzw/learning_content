@@ -2,8 +2,8 @@
 hruid: pn_tekenenparabool-v1
 version: 3
 language: nl
-title: "Tekenen"
-description: "Tekenen"
+title: "Parabool tekenen"
+description: "Parbool tekenen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,8 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 ---
-# Tekenen
-Binnenkort beschikbaar 
+# Parabool tekenen
+Een parabool is een verzameling van punten. Eens je een spreidingsdiagram kunt tekenen, is de stap naar een parabool snel gemaakt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0701 "Notebooks tekenen parabool")
 <figure>
