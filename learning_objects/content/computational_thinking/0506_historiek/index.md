@@ -46,7 +46,7 @@ en de wil om deze ideeën ook te kunnen verwezenlijken leiden tot nieuwe ontwikk
 
 Computationeel denken helpt om de werking van digitale toestellen en digitale toepassingen te begrijpen, maar gaat ook om het denkproces dat leidt tot het
 creëren ervan. Computationeel denken is zo spontaan uitgebreid met het zien waar en hoe de computer kan worden ingezet.
-Computationeel denken is niet enkel een activiteit binnen de computer- en andere wetenschappen, maar ook binnen domeinen zoals rechten en geschiedenis. Wetenschappers alom kunnen m.b.v. computers zaken onderzoeken die vroeger niet uit te voeren waren. Bbovendien wordt de computer ook nog door een heleboel andere mensen gebruikt.
+Computationeel denken is niet enkel een activiteit binnen de computer- en andere wetenschappen, maar ook binnen domeinen zoals rechten en geschiedenis. Wetenschappers alom kunnen m.b.v. computers zaken onderzoeken die vroeger niet uit te voeren waren. Bovendien wordt de computer ook nog door een heleboel andere mensen gebruikt.
 
 <div class="alert alert-box alert-secondary">
 Echter, alle problemen zullen niet opgelost geraken door een computer te gebruiken. Er zullen steeds taken overblijven die niet door een computer kunnen uitgevoerd worden. Bovendien is voldoende technische kennis onontbeerlijk om computationeel te kunnen denken.
