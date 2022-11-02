@@ -29,8 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
 # Practicum - microscopie huidmondjes
+***Formuleer eerst een onderzoeksvraag en een hypothese. Na het practicum koppel je terug naar de hypothese.*** <br>
 
 <ul><li>Verzamel volgroeide bladeren van planten met parallelle nerven en van planten met niet-parallelle nerven.</li></ul> 
 <ul><li>Neem eventueel bladeren die veel licht krijgen en bladeren onderaan de plant, bladeren van een struik in de zon en van eenzelfde struik in de schaduw.</li></ul> 
