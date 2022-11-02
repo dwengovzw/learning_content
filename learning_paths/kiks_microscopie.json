@@ -115,6 +115,21 @@
     {
       "learningobject_hruid": "kiks_stomataklimaat-v1",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "kiks_microscopieconclusie-v1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "kiks_microscopieconclusie-v1",
+      "version": "3",
       "language": "nl"
     } 
   ]
