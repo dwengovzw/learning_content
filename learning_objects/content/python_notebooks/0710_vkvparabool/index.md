@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 # Vierkantsvergelijking
-Binnenkort beschikbaar 
+Automatiseer het oplossen van een vierkantsvergelijking.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0710 "Notebooks vierkantsvergelijking parabool")
 <figure>
