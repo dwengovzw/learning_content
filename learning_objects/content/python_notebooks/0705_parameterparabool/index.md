@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 # Parameters in de vergelijking van een parabool
-Binnenkort beschikbaar 
+In deze notebooks onderzoek je hoe de parameters in de vergelijking van een parabool de grafiek beïnvloeden. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0705 "Notebooks parameters parabool")
 <figure>
