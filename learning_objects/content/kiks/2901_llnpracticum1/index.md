@@ -33,12 +33,9 @@ teacher_exclusive: false
 ***Formuleer eerst een onderzoeksvraag en een hypothese. Na het practicum koppel je terug naar de hypothese.*** <br>
 
 <ul><li>Verzamel volgroeide bladeren van planten met parallelle nerven en van planten met niet-parallelle nerven.</li></ul> 
-<ul><li>Neem eventueel bladeren die veel licht krijgen en bladeren onderaan de plant, bladeren van een struik in de zon en van eenzelfde struik in de schaduw.</li></ul> 
+<ul><li>Kies de plaats van waar je de bladeren plukt zorgvuldig uit in functie van het onderzoek dat je wilt doen.</li></ul> 
 <ul><li>Probeer met een mesje een deel van de flinterdunne cuticula te verwijderen. Breng het aan op een glaasje met een druppel water en dek af met een afdekglaasje.</li></ul> 
 <ul><li>Lukt het niet door de textuur van het blad, neem dan een nagellakafdruk van het blad. Breng de afdruk met plakband aan op een glaasje.</li></ul> 
-<ul><li>Noteer of je de onderkant of de bovenkant van het blad hebt gebruikt.</li></ul> 
-<ul><li>Noteer wanneer en waar je het blad geplukt hebt: seizoen, zon, schaduw ...</li></ul> 
-<ul><li>Noteer de naam van de plant.</li></ul> 
-<ul><li>Noteer of het een monocotyl of dicotyl is.</li></ul> 
+<ul><li>Noteer nauwkeurig de kenmerken van de bladeren en stomata: plant, seizoen, zon, schaduw, monocotyl of dicotyl, of je de onderkant of de bovenkant van het blad hebt gebruikt.</li></ul>  
 <ul><li>Bekijk het preparaat onder de microscoop.</li></ul> 
 <ul><li>Noteer wat je ziet: veel of weinig huidmondjes, grote of kleine huidmondjes, welke vorm ze hebben, hoe ze geordend zijn ...</li></ul> 
