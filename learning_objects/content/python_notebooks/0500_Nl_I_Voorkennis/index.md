@@ -33,4 +33,5 @@ skos_concepts: [
 # Voorkennis
 
 * Leerpad *'Werken met notebooks'*
-* Leerpad *'Operatoren'*
+* *'Programmeren met Python'* > Leerpad *'Operatoren'* > Onderdeel *'Wiskundige operatoren - Rekenen'*
+* *'Programmeren met Python'* > Leerpad *'Structuren'* > Onderdeel *'Keuzetructuur'*  > puntje 1  van de notebook 0300_Keuzestruvtuur.ipynb (enkel nodig voor de laatste notebook uit dit leerpad)
