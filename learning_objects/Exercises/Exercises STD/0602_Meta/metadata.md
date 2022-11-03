@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Meta"
 description: "Meta"
-keywords: ["voorbeeld", "voorbeeld2"]
+keywords: []
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
