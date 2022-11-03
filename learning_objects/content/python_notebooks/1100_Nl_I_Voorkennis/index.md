@@ -35,5 +35,9 @@ skos_concepts: [
  
 # Voorkennis
 
-* Leerpad *'Spreidingsdiagram'*
-* Leerpad *'Lineaire Regressie'* (optioneel)
+* Leerpad *'Werken met notebooks'*
+* *'Programmeren met Python'* > Leerpad *'Operatoren'* > Onderdeel *'Wiskundige operatoren - Rekenen'*
+* *'Programmeren met Python'* > Leerpad *'Datatypes'* > Puntje 1 van het onderdeel *'Opsommingen'* 
+* *'Python in STEM'* > Leerpad *'Spreidingsdiagram'*
+* *'Python in de Wiskundeles'* > Leerpad *'Rechten'* > Onderdelen *'Rechten tekenen'* en *'Opmaken van grafieken'* (optioneel)
+* *'Python in de Wiskundeles'* > Leerpad *'Lineaire Regressie'* (optioneel)
