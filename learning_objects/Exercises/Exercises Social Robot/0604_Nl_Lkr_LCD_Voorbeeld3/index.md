@@ -29,7 +29,6 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-
 ### Voorbeeld lcd-scherm
 
 OPGAVE 3
