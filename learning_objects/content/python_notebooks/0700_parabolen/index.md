@@ -2,7 +2,7 @@
 hruid: pn_parabool-v1
 version: 3
 language: nl
-title: "Parabool tekenen"
+title: "Parabolen"
 description: "Parbool tekenen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [

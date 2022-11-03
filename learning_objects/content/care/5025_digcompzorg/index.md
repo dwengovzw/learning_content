@@ -27,7 +27,7 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 # Digitale competentie en mediawijsheid 
 ## Eindtermen digitale competentie en mediawijsheid, en het '*AI in de Zorg*'-project 
@@ -51,8 +51,7 @@ Hetzelfde geldt als men het elektronisch patiÃ«ntendossier inspreekt, i.p.v. van
 *Eindterm 4.3 (tweede en derde graad) - Digitale structuur en toepassingen om digitaal te communiceren* 
 
 <ul><li>De chatbot voor het anamnesegesprek is een voorbeeld van digitale communicatie.</li></ul>
-<ul><li><em>Wearables</em> zijn ook een vorm van digitale communicatie, zij het tussen digitale systemen. De geautomati-
-seerde vorm van het EWS valt hier ook onder.</li></ul>
+<ul><li><em>Wearables</em> zijn ook een vorm van digitale communicatie, zij het tussen digitale systemen. De geautomatiseerde vorm van het EWS valt hier ook onder.</li></ul>
 <ul><li>Als leerlingen een <em>fitness tracker</em> gebruiken, doen ze dat dan doelgericht? Weten ze wat er met de verzamelde data gebeuren?</li></ul>
 
 
@@ -83,7 +82,7 @@ In het bijzonder wordt voor het manueel opstellen van een beslissingsboom een â€
 Voorbeelden: 
 
 <ul><li>Sommige notebooks bevatten enkel een algoritme dat de data inleest en daarop gebaseerd een beslissingsboom genereert.</li></ul> 
-<ul><li>In andere notebooks is datzelfde algoritme uitgebreid met enkele instructies om de data voor te bereiden.</li></ul>>
+<ul><li>In andere notebooks is datzelfde algoritme uitgebreid met enkele instructies om de data voor te bereiden.</li></ul>
 <ul><li>In de chatbot-notebook checkt een algoritme of de gestelde vraag voorkomt in de dataset, waarop hij een overeenkomstig antwoord teruggeeft.</li></ul> 
 
 Er zijn ook enkele notebooks die voorbereiden op de notebooks over beslissingsbomen en over chatbots. In deze notebooks passen de leerlingen een gegeven algoritme aan of stellen ze er zelf een op. 
