@@ -40,4 +40,3 @@ skos_concepts: [
 * *'Python in de Wiskundeles'* > Leerpad *'Rechten'* > Onderdelen *'Rechten tekenen'* en *'Opmaken van grafieken'* 
 * *'Python in de Wiskundeles'* > Leerpad *'Lineaire Regressie'*
 * *'Programmeren met Python'* > Leerpad *'Functies en klassen'* > Tot en met onderdeel *'Functies'*
-* 
