@@ -35,5 +35,6 @@ skos_concepts: [
 
 # Voorkennis
 
-* Leerpad *Operatoren*: Rekenen
-* Leerpad *Datatypes*
+* Leerpad *'Werken met notebooks'*
+* *'Programmeren met Python'* > Leerpad *'Operatoren'* > Onderdeel *'Wiskundige operatoren - Rekenen'*
+* *'Programmeren met Python'* > Leerpad *'Datatypes'* > Ppuntje 1 van het onderdeel *'Opsommingen'* 
