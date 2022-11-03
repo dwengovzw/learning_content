@@ -41,6 +41,6 @@ Oplossing:
 ![blockly](@learning-object/LCDM2-v1/nl/3)
 
 Om de tekst in 2 rijen te splitsen, heb je een tweede *'lcd-scherm'-blok* nodig.
-Verander je bij 'op rij:' de 0 in een 1, dan komt je tekst op de tweede lijn.
+Verander je bij 'op rij:' de 0 in een 1, dan komt de tekst op de tweede lijn.
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
