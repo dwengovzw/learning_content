@@ -35,5 +35,6 @@ skos_concepts: [
 
 # Voorkennis
 
-* Weten wat een string en een dict zijn;
-* Weten wat een for-lus is.
+* Leerpad *'Werken met notebooks'*
+* *'Programmeren met Python'* > Leerpad *'Structuren'* > Onderdeel *'Herhalingsstructuur'* > Puntje 1. van de notebook
+* *'Programmeren met Python'* > Leerpad *'Datatypes'* > Onderdelen *'Taaltechnologie - String'* en *'Taaltechnologie - Dict'*  
