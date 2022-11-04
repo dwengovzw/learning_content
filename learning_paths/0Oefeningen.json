@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "wgs_inleiding-v1",
+            "hruid": "g_startpagina-v1",
             "version": "3",
             "language": "nl"
           }
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_inleiding-v1",
+      "learningobject_hruid": "g_startpagina-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
