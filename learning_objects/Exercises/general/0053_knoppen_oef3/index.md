@@ -2,8 +2,8 @@
 hruid: g_knoppen_oef3
 version: 3
 language: nl
-title: "Oefening Knoppen"
-description: "Oefening Knoppen"
+title: "Oefening Knoppen 3"
+description: "Oefening Knoppen 3"
 keywords: ["oefeningen", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 

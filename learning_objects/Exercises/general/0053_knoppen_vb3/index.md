@@ -2,8 +2,8 @@
 hruid: g_knoppen_vb3
 version: 3
 language: nl
-title: "Voorbeeld Knoppen"
-description: "Voorbeeld Knoppen"
+title: "Voorbeeld Knoppen 3"
+description: "Voorbeeld Knoppen 3"
 keywords: ["oefeningen", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
