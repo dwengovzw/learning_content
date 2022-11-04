@@ -428,21 +428,6 @@
       ]
     },
     {
-      "learningobject_hruid": "g_led_vb4",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "g_led_oef4",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
       "learningobject_hruid": "g_led_oef4",
       "version": "3",
       "language": "nl",
@@ -564,6 +549,21 @@
     },
     {
       "learningobject_hruid": "g_zoemer_vb4",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_zoemer_oef4",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_zoemer_oef4",
       "version": "3",
       "language": "nl"
     }     

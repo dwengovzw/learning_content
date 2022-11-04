@@ -1,10 +1,10 @@
 ---
-hruid: STD_BuzzerOef4-v1
+hruid: g_zoemer_oef3
 version: 3
 language: nl
-title: "Oefening Buzzer 4"
-description: "oefening Buzzer 4"
-keywords: ["StartToDwenguino", "led"]
+title: "Oefening Zoemer 3"
+description: "Oefening Zoemer 3"
+keywords: ["oefening", "zoemer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,17 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# WIP
-### Oefening led
-OPGAVE 4
+## Zoemer
 
-Schrijf een programma dat het volgende doet:
+OPGAVE 3 
 
-1. leds 0 en 7 gaan aan.
-2. Wacht 100 ms. leds 1 en 6 gaan aan.
-3. Wacht 100 ms. leds 0 en 7 gaan uit. leds 2 en 5 gaan aan.
-4. Wacht 100 ms. leds 1 en 6 gaan uit. leds 3 en 4 gaan aan.
-5. Wacht 100 ms. leds 2 en 5 gaan uit. leds 0 en 7 gaan aan.
-6. Wacht 100 ms. leds 3 en 4 gaan uit.
-
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+Schrijf een programma zodat de zoemer *broeder Jacob* afspeelt. Hiervoor zal je eerst de partituur van het liedje en de frequenties van de tonen moeten opzoeken. 
