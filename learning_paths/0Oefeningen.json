@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "g_startpagina-v1",
+            "hruid": "g_startpagina",
             "version": "3",
             "language": "nl"
           }
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "learningobject_hruid": "g_startpagina-v1",
+      "learningobject_hruid": "g_startpagina",
       "version": "3",
       "language": "nl",
       "transitions": [
