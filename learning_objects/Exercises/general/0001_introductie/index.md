@@ -44,7 +44,7 @@ Hieronder zie je een screenshot van de omgeving met de beschrijving van de versc
 ![alt](embed/Afb2.png "Afb. Dwenguino") kan je bijvoorbeeld alle blokken vinden om de tekenrobot te besturen.
 
 2. Het *codeveld*: Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar.  
-![alt](embed/Afb3.png "Afb. zet klaar/herhaal")
+![alt](embed/Afb3.png "Afb. zetklaarherhaal")
 
 Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaatst is, wordt uitgevoerd. Code op een andere plaats wordt niet uitgevoerd. Om te programmeren sleep je dus blokken uit de toolbox naar het codeveld en klik je deze vast in het *‘zet klaar/herhaal’-blok*. 
 
