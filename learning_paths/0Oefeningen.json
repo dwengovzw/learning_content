@@ -30,7 +30,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "g_inleidendeoefening-v1",
+            "hruid": "Doel_WatIsEenRobot-v1",
             "version": "3",
             "language": "nl"
           }
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "learningobject_hruid": "g_inleidendeoefening-v1",
+      "learningobject_hruid": "Doel_WatIsEenRobot-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
