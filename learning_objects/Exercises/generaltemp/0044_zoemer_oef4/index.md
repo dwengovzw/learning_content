@@ -1,10 +1,10 @@
 ---
-hruid: STD_BuzzerOef4-v1
+hruid: g_zoemer_oef4
 version: 3
 language: nl
-title: "Oefening Buzzer 4"
-description: "oefening Buzzer 4"
-keywords: ["StartToDwenguino", "led"]
+title: "Oefening Zoemer 4"
+description: "Oefening Zoemer 4"
+keywords: ["oefeningen", "zoemer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,17 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# WIP
-### Oefening led
+## Zoemer
+
 OPGAVE 4
 
-Schrijf een programma dat het volgende doet:
-
-1. leds 0 en 7 gaan aan.
-2. Wacht 100 ms. leds 1 en 6 gaan aan.
-3. Wacht 100 ms. leds 0 en 7 gaan uit. leds 2 en 5 gaan aan.
-4. Wacht 100 ms. leds 1 en 6 gaan uit. leds 3 en 4 gaan aan.
-5. Wacht 100 ms. leds 2 en 5 gaan uit. leds 0 en 7 gaan aan.
-6. Wacht 100 ms. leds 3 en 4 gaan uit.
-
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+Schrijf een programma zodat je de dwenguino kunt gebruiken als een pentatonisch (5 tonen) instrument. Dit kan je doen door aan elk van de 5 knoppen (NOORD - OOST - ZUID - WEST - MIDDEN) een noot te binden. Een standaard pentatoniek is *Do (C), Re (D), Mi (E), Fa (F), Sol (G)*.
