@@ -15,21 +15,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "pn_parabool-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "pn_parabool-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "pn_tekenenparabool-v1",
             "version": "3",
             "language": "nl"
