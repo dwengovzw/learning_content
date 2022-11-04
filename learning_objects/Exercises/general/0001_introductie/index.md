@@ -30,8 +30,9 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+
 # DwenguinoBlockly  
-## Een programmeeromgeving
+# Een programmeeromgeving
 
 De programmeeromgeving met simulator is online beschikbaar op [https://www.dwengo.org/dwenguinoblockly](https://www.dwengo.org/dwenguinoblockly "link simulator").
 
@@ -59,11 +60,11 @@ Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaa
 ![alt](embed/Afb7.png "Afb. Play")
  en 
 ![alt](embed/Afb8.png "Afb. Stop")
-. Het laat je ook toe om een specifiek scenario te kiezen waarbinnen je de code wil uitvoeren. 
+. Het laat je ook toe om een specifiek scenario te kiezen waarbinnen je je code wil uitvoeren. 
 
-5. Het *simulatievenster*: In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de Dwenguino, waarop je de code kan uitvoeren. Op de afbeelding is het scenario van de tekenrobot geselecteerd. Bovenaan zie je een virtueel Dwenguino-bord, onderaan een virtuele tekenrobot die je kan programmeren.
+5. Het *simulatievenster*: In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de Dwenguino, waarop je je code kan uitvoeren. Op de afbeelding is het scenario van de tekenrobot geselecteerd. Bovenaan zie je een virtueel Dwenguino-bord, onderaan een virtuele tekenrobot die je kan programmeren.
 
 
 In de toolbox kan je dus de blokken terugvinden die je nodig hebt om programma's te maken. Deze blokken moet je hieruit slepen om nadien vast te klikken in de gewenste volgorde.
 
-Doorheen de oefeningen zullen er voor nieuwe blokken verwijzingen staan naar de plaats in de toolbox waar je deze kan terugvinden. Een voorbeeld van zo'n verwijzing is ![alt](embed/Afb2.png "Afb. Dwenguino") .
+Doorheen de oefeningen zal er voor nieuwe blokken verwijzingen staan naar de plaats in de toolbox waar je deze kan terugvinden. Een voorbeeld van zo'n verwijzing is ![alt](embed/Afb2.png "Afb. Dwenguino") .
