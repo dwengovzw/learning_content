@@ -45,7 +45,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "g_uploaden-v1",
+            "hruid": "watiseenrobot1-v1",
             "version": "3",
             "language": "nl"
           }
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "learningobject_hruid": "g_uploaden-v1",
+      "learningobject_hruid": "watiseenrobot1-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
