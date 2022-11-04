@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "wgs_inleiding-v1",
+            "hruid": "g_startpagina-v1",
             "version": "3",
             "language": "nl"
           }
@@ -23,14 +23,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_inleiding-v1",
+      "learningobject_hruid": "g_startpagina-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Doel_WatIsEenRobot-v1",
+            "hruid": "g_inleidendeoefening-v1",
             "version": "3",
             "language": "nl"
           }
@@ -38,14 +38,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Doel_WatIsEenRobot-v1",
+      "learningobject_hruid": "g_inleidendeoefening-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "watiseenrobot1-v1",
+            "hruid": "g_uploaden-v1",
             "version": "3",
             "language": "nl"
           }
@@ -53,14 +53,14 @@
       ]
     },
     {
-      "learningobject_hruid": "watiseenrobot1-v1",
+      "learningobject_hruid": "g_uploaden-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "watiseenrobot2-v1",
+            "hruid": "g_lcd-v1",
             "version": "3",
             "language": "nl"
           }
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "learningobject_hruid": "watiseenrobot2-v1",
+      "learningobject_hruid": "g_lcd-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
