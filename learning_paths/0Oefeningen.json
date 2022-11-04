@@ -60,7 +60,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "g_lcd-v1",
+            "hruid": "watiseenrobot2-v1",
             "version": "3",
             "language": "nl"
           }
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "learningobject_hruid": "g_lcd-v1",
+      "learningobject_hruid": "watiseenrobot2-v1",
       "version": "3",
       "language": "nl",
       "transitions": [
