@@ -2,8 +2,8 @@
 hruid: cd_consensus-v1
 version: 3
 language: nl
-title: "Consensus"
-description: "Consensus"
+title: "Aandachtspunt: Consensus"
+description: "Aandachtspunt: Consensus"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
