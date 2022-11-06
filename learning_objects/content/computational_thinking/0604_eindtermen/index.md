@@ -37,7 +37,7 @@ teacher_exclusive: true
 **Naast de eindtermen in de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ zijn er nog andere eindtermen rond digitale vaardigheden, en in het bijzonder rond computationeel denken.**
 
 **Informatiegeletterdheid** is opgenomen in een andere sleutelcompetentie, **‘Leercompetenties’**. Deze sleutelcompetentie bevat ook eindtermen rond 21ste-eeuwse vaardigheden, zoals zelfregulatie, samenwerken, communiceren en probleemoplossend denken (wat ook gelinkt is aan computationeel denken).
-Informatiegeletterdheid zit er onder de bouwsteen ‘Geschikte (leer-)activiteiten, strategieën en tools inzetten om informatie digitaal en niet-digitaal kritisch te verwerven, beheren en verwerken rekening houdend met het beoogde leerresultaat en -proces’. Deze bouwsteen bevat leerdoelen die een digitale vaardigheid vereisen,
+Informatiegeletterdheid zit er onder de bouwsteen ‘Geschikte (leer-)activiteiten, strategieën en tools inzetten om informatie digitaal en niet-digitaal kritisch te verwerven, beheren en verwerken rekening houdend met het beoogde leerresultaat en -proces’. Deze bouwsteen bevat leerdoelen die digitale vaardigheden en computationeel denken vereisen,
 wat ook geldt voor een andere bouwsteen van deze sleutelcompetentie, nl. ‘Een (onderzoeks-)probleem (v)erkennen en een antwoord of oplossing zoeken gebruikmakend
 van geschikte (leer-) activiteiten, strategieën en tools’. Een voorbeeld van zo’n eindterm is “De leerlingen voeren een onderzoekstechniek uit om
 digitale en niet-digitale gegevens te verwerven in functie van een onderzoeksvraag”.<br>
