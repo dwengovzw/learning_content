@@ -2,8 +2,8 @@
 hruid: cd_mensen-v1
 version: 3
 language: nl
-title: "Aandachtspunten"
-description: "Aandachtspunten"
+title: "Aandachtspunten: Mensen"
+description: "Aandachtspunten: Mensen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
