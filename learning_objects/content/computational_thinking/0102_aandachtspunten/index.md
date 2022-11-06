@@ -32,14 +32,13 @@ teacher_exclusive: true
 # Aandachtspunten
 
 ## Consensus
-Er bestaat geen consensus over een definitie van computationeel denken. Maar uit onderzoek blijkt dat er wel consensus is over bepaalde concepten van computationeel
-denken: **decompositie, generalisatie en patroonherkenning, abstractie en algoritme** komen voor in al de besproken review papers. Het verschil zit vooral in de aspecten waarvan sommigen die als basiselementen van computationeel denken beschouwen en anderen eerder als een toepassing van.
+Er bestaat internationaal geen consensus over een definitie van computationeel denken. Maar uit onderzoek blijkt dat er wel consensus is over bepaalde concepten van computationeel denken, nl. **decompositie, generalisatie en patroonherkenning, abstractie en algoritme**. Het verschil zit vooral in de aspecten waarvan sommigen die als basiselementen van computationeel denken beschouwen en anderen eerder als een toepassing van.
 
-> Voor het Vlaamse onderwijs is er een definitie meegegeven met de eindtermen, zie leerpad 'Eindtermen'.
+> Om computationeel denken te kunnen introduceren in het onderwijs is het best dat het begrip duidelijk is. Voor het Vlaamse onderwijs is er een definitie van computationeel denken meegegeven met de eindtermen (zie vorig onderdeel van dit leerpad).
 
-Er is echter ook heel wat te zeggen over wat computationeel denken **niet** is en wat het **ook** is. Nogal wat misconcepten doen de ronde. Het is belangrijk dat
+Er is echter ook heel wat te zeggen over wat computationeel denken **niet** is en wat het **ook** is. Nogal wat misconcepten doen de ronde. Men gaat er soms verkeerdelijk vanuit gaat dat men computationeel kan denken zonder enig benul van de technische kant van computers en de mogelijkheden en beperkingen die daarmee gepaard gaan (Denning & Tedre, 2019). Anderzijds draait computationeel denken niet enkel om technologie, maar het heeft ook een culturele en sociale dimensie (Kafai & Proctor, 2022). Het is belangrijk dat
 leerkrachten deze misconcepten kennen; het is dus aangewezen om hier dieper op in te gaan.
-Men gaat er soms verkeerdelijk vanuit gaat dat men computationeel kan denken zonder enig benul van de technische kant van computers en de mogelijkheden en beperkingen die daarmee gepaard gaan (Denning & Tedre, 2019). Computationeel denken draait niet enkel om technologie, maar het heeft ook een culturele en sociale dimensie (Kafai & Proctor, 2022). 
+
 
 <div class="alert alert-box alert-success">
 <strong>Wat is computationeel denken niet?</strong>
