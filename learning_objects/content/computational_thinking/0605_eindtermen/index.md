@@ -34,7 +34,7 @@ teacher_exclusive: true
 
 ## Leerlijnen
 
-De eindtermen die digitale vaardigheden, en in het bijzonder computaioneel denken, aanspreken, vormen **verticale** leerlijnen (van het eerste t.e.m. het zesde jaar
+De eindtermen die digitale vaardigheden, en in het bijzonder computationeel denken, aanspreken, vormen **verticale** leerlijnen (van het eerste t.e.m. het zesde jaar
 van het secundair onderwijs) voor:
 • Digitale toepassingen:
 – een leerlijn rond creëren, delen, samenwerken, communiceren, participeren en interageren a.d.h.v. digitale toepassingen;
