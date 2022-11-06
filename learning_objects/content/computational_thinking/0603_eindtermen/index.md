@@ -2,8 +2,8 @@
 hruid: cd_eindtermen3-v1
 version: 3
 language: nl
-title: "Eindtermen"
-description: "Eindtermen"
+title: "Definitie computationeel denken"
+description: "Definitie computationeel denken"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
