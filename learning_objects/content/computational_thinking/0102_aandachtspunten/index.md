@@ -31,6 +31,13 @@ teacher_exclusive: true
 ---
 # Aandachtspunten
 
+<div class="alert alert-box alert-warning">
+<strong>Samengevat</strong><br>
+Om computationeel denken met de juiste insteek op school aan bod te laten komen is het belangrijk dat leerkrachten op de hoogte zijn van bepaalde aandachtspunten. In dit leerpad worden onder 'aandachtspunten' misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
+
+Zowel activiteiten met of zonder computer kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker, maar uiteindelijk zal toch de stap naar de computer moeten worden gezet, wil men de digitale systemen ten volle begrijpen.
+</div>
+
 ## Consensus
 Er bestaat internationaal geen consensus over een definitie van computationeel denken. Maar uit onderzoek blijkt dat er wel consensus is over bepaalde concepten van computationeel denken, nl. **decompositie, generalisatie en patroonherkenning, abstractie en algoritme**. Het verschil zit vooral in de aspecten waarvan sommigen die als basiselementen van computationeel denken beschouwen en anderen eerder als een toepassing van.
 
