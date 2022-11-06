@@ -38,17 +38,17 @@ Leerlingen leren over fysica, chemie en biologie omwille van de natuurwetenschap
 
 > In deze tekst wordt ‘computer’ gebruikt in de ruime zin van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen. 
 
+<div class="alert alert-box alert-success">
+    <strong>De gedigitaliseerde wereld</strong><br> 
+    We leven in een technologische kennismaatschappij, die snel verandert door de aanhoudende ontwikkelingen in digitalisering, de niet te stoppen stroom aan informatie, en de opkomst van artificiële intelligentie. Om de gedigitaliseerde wereld te begrijpen is digitale toepassingen kunnen gebruiken niet voldoende. Het is immers van belang dat mensen zich weerbaar en flexibel kunnen opstellen tegenover nieuwe digitale toepassingen. Door inzichten te verwerven in de concepten die aan de basis liggen van de digitalisering, kan men de mogelijkheden, de beperkingen en de eventuele risico’s van deze toepassingen beter inschatten, wat ook de angst voor technologie wegneemt. Computationeel kunnen denken zorgt ervoor dat men beter kan functioneren in en kan participeren aan de gedigitaliseerde maatschappij, en dat men de wisselwerking tussen technologische ontwikkelingen en de evoluties in de maatschappij begrijpt. 
+</div>
+
 Naast de fysieke wereld wordt de digitale wereld steeds belangrijker. De ontwikkeling van al die digitale toestellen en toepassingen gebeurt door mensen die computationeel kunnen denken. Om onze leerlingen te laten inzien wat aan de grondslag ligt van de steeds meer gedigitaliseerde maatschappij, om ze te laten begrijpen welke impact de digitalisering heeft op hun eigen leven en opdat ze in de toekomst als burger gefundeerde beslissingen zouden kunnen nemen, is het nodig dat onze leerlingen de basisconcepten van computationeel denken begrijpen en kunnen toepassen.
 Over de **hele wereld** wordt dan ook gepleit om de jongeren computationeel te leren denken en wordt computationeel denken aangezien als een **21ste-eeuwse competentie** (Yadav et al., 2017a). Zo ook in Vlaanderen. <br>
 De digitale vaardigheden worden zelfs aangezien als een manier om de andere 21ste-eeuwse vaardigheden te verwerven en te evalueren. Dat is de voornaamste reden waarom landen computationeel denken invoeren in het onderwijs. Ook de Europese Unie onderschrijft het belang van de 21ste-eeuwse competenties en de rol die computationeel
 denken daarin kan spelen. 
 
 > Meer uitleg over de 21ste-eeuwse vaardigheden vind je in het leerpad 'Eindtermen' van het project 'Computationeel denken'. 
-
-<div class="alert alert-box alert-success">
-    <strong>De gedigitaliseerde wereld</strong><br> 
-    We leven in een technologische kennismaatschappij, die snel verandert door de aanhoudende ontwikkelingen in digitalisering, de niet te stoppen stroom aan informatie, en de opkomst van artificiële intelligentie. Om de gedigitaliseerde wereld te begrijpen is digitale toepassingen kunnen gebruiken niet voldoende. Het is immers van belang dat mensen zich weerbaar en flexibel kunnen opstellen tegenover nieuwe digitale toepassingen. Door inzichten te verwerven in de concepten die aan de basis liggen van de digitalisering, kan men de mogelijkheden, de beperkingen en de eventuele risico’s van deze toepassingen beter inschatten, wat ook de angst voor technologie wegneemt. Computationeel kunnen denken zorgt ervoor dat men beter kan functioneren in en kan participeren aan de gedigitaliseerde maatschappij, en dat men de wisselwerking tussen technologische ontwikkelingen en de evoluties in de maatschappij begrijpt. 
-</div>
 
 Dat men wereldwijd een groot belang hecht aan computationeel denken, weerspiegelt zich in het feit dat computationeel denken ondertussen deels is opgenomen in de internationale vergelijkende testen van de OECD en de IEA, resp. in het wiskundeluik van de **PISA-test** en in de **ICILS-test**. 
 
