@@ -57,13 +57,18 @@ Rekening houdend met de definitie die de Vlaamse Regering voorstelt en de intern
     
 _Computationeel denken is een methodologie om een complex probleem aan te pakken, op een manier dat een computer zou kunnen ingezet worden om het op te lossen._    
 
-Computationeel denken steunt op vier basisconcepten: decompositie, abstractie, patroonherkenning en algoritmisch denken.<br>
-Het op te lossen probleem moet goed begrepen en geformuleerd worden, een oplossing moet worden bedacht, een algoritme moet worden opgesteld en (indien gewenst) worden geïmplementeerd in de computer.<br>
-Voor een bepaald probleem zijn deze basisconcepten vaak verweven met elkaar.<br>
+Computationeel denken steunt op vier basisconcepten: decompositie, abstractie, patroonherkenning en algoritmisch denken.
+    
+Voor een bepaald probleem zijn deze basisconcepten vaak verweven met elkaar. Computationeel denken houdt in dat het op te lossen probleem goed begrepen en geformuleerd wordt, er een oplossing bedacht wordt, er een algoritme opgesteld en (indien gewenst) geïmplementeerd wordt in de computer.
+
 Een belangrijk aspect is het herkennen van problemen waarbij de computer inderdaad als hulpmiddel kan worden ingezet.
+
+Voor sommige problemen is dit een efficiënte methodologie om tot een oplossing te komen, of leidt deze methodologie ertoe dat je gemakkelijker de computer kan inzetten om het probleem op te lossen. 
+    
+Het begrip 'computer' wordt gebruikt in de ruime zin van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen. 
 </div>
     
-Deze definitie wordt aangevuld met definities voor de basisconcepten.
+De basisconcepten worden niet verduidelijkt in de uitgangspunten bij de eindtermen. Wij definiëren de basisconcepten in de volgende kader.
 
 <div class="alert alert-box alert-success">
 <strong>Decompositie</strong><br> 
