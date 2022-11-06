@@ -60,7 +60,7 @@ Voor een bepaald probleem zijn deze basisconcepten vaak verweven met elkaar. Com
 
 Een belangrijk aspect is het herkennen van problemen waarbij de computer inderdaad als hulpmiddel kan worden ingezet.
 
-Voor sommige problemen is dit een efficiente methodologie om tot een oplossing te komen, of leidt deze methodologie ertoe dat je gemakkelijker de computer kan inzetten om het probleem op te lossen. 
+Voor sommige problemen is dit een efficiënte methodologie om tot een oplossing te komen, of leidt deze methodologie ertoe dat je gemakkelijker de computer kan inzetten om het probleem op te lossen. 
     
 Het begrip 'computer' wordt gebruikt in de ruime zin van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen.     
 </div>
