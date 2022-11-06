@@ -2,8 +2,8 @@
 hruid: cd_transfer-v1
 version: 3
 language: nl
-title: "Aandachtspunten"
-description: "Aandachtspunten"
+title: "Aandachtspunten: Transfer"
+description: "Aandachtspunten: Transfer"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
