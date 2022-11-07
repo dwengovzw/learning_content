@@ -32,3 +32,7 @@ teacher_exclusive: false
 ## Keuzestructuren: Als - Dan
 
 OPGAVE 4
+
+![blockly](@learning-object/servo_m2/nl/3)
+
+![blockly](@learning-object/sonar_m2/nl/3)
