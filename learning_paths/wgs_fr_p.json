@@ -314,66 +314,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "Pr_Attendwgs1-v1",
-            "version": "3",
-            "language": "fr"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Pr_Attendwgs1-v1",
-      "version": "3",
-      "language": "fr",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Pr_Attendwgs2-v1",
-            "version": "3",
-            "language": "fr"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Pr_Attendwgs2-v1",
-      "version": "3",
-      "language": "fr",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Pr_Attendwgs3-v1",
-            "version": "3",
-            "language": "fr"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Pr_Attendwgs3-v1",
-      "version": "3",
-      "language": "fr",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "Pr_Attendwgs4-v1",
-            "version": "3",
-            "language": "fr"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "Pr_Attendwgs4-v1",
-      "version": "3",
-      "language": "fr",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "Boutonswgs-v1",
             "version": "3",
             "language": "fr"
