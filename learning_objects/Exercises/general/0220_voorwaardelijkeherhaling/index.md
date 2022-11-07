@@ -45,3 +45,5 @@ Oplossing:
 ![blockly](@learning-object/zoemer_m4/nl/3)  
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+
+Test
