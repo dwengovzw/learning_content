@@ -314,66 +314,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "wgs_Lkr_Wacht1-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "wgs_Lkr_Wacht1-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "wgs_Lkr_Wacht2-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "wgs_Lkr_Wacht2-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "wgs_Lkr_Wacht3-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "wgs_Lkr_Wacht3-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "wgs_Lkr_Wacht4-v1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "wgs_Lkr_Wacht4-v1",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "wgs_Knoppen-v1",
             "version": "3",
             "language": "nl"
