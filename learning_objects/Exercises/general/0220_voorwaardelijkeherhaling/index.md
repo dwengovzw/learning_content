@@ -1,6 +1,6 @@
 ---
 hruid: g_voorwaardelijkeherhaling
-version: 3
+version: 4
 language: nl
 title: "Voorwaardelijke herhaling"
 description: "Voorwaardelijke herhaling"
