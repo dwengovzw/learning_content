@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases1-v1
+hruid: cd_cases1-v1
 version: 1
 language: nl
 title: "CT schema test"
