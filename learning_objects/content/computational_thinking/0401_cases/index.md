@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: Copyright by Jerro
 licence: Licenced by Jerro
-content_type: text/markdown
+content_type: text/ct-schema
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
