@@ -1,10 +1,10 @@
 ---
-hruid: g_ks_oef4
+hruid: g_sound_oef1
 version: 3
 language: nl
-title: "Oefening Keuzestructuur 4"
-description: "Oefening Keuzestructuur 4"
-keywords: ["oefeningen", "keuzestructuur"]
+title: "Oefening Geluidssensor 1"
+description: "Oefening Geluidssensor 1"
+keywords: ["oefeningen", "geluidssensor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,26 +23,17 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: false
 ---
-## Lcd-scherm
+## Geluidssensor
 
 OPGAVE 1
 
-Laat 'Welkom robot' op het lcd-scherm verschijnen.
+Tekst
 
-Oplossing:
-
-![blockly](@learning-object/lcd_m1/nl/3)
-
-De tekst 'Welkom robot' kan je aanpassen. De twee nullen betekenen: eerste lijn, eerste karakter.
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
-
-![blockly](@learning-object/lcd_m2/nl/3)
-
-
