@@ -30,10 +30,25 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Cases
-Test
-## Tussentitel
-Test
-### Subtitel
-Test
-**Onderverdeling**
+<context>
+![Face](ct_face.png)
+<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
+Tekst
+</div>
+</context>
+<decomposition>
+Tekst
+</decomposition>
+<patternRecognition>
+Tekst
+</patternRecognition>
+<abstraction>
+Tekst
+</abstraction>
+<algorithms>
+Tekst
+</algorithms>
+<implementation>
+Tekst
+</implementation>
+
