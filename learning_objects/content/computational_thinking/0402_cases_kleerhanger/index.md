@@ -41,7 +41,7 @@ Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
 Het ontwerp van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
- (**abstractie**)
+Test
 </abstraction>
 <algorithms>
 **algoritme** 
