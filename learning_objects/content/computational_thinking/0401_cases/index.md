@@ -55,9 +55,13 @@ Een vierkantsvergelijking is een abstractie van de verzameling van de nulpunten 
 (**abstractie**)
 </abstraction>
 <algorithms>
-Tekst
+et **algoritme** bevat (in deze volgorde) instructies om:<br>
+de gegevens op te vragen aan de gebruiker;<br>
+die gegevens te verwerken met als doel het bekomen van de discriminant en de wortels;<br>
+het aantal wortels te laten zien op het scherm;<br>
+de wortels te laten zien op het scherm. 
 </algorithms>
 <implementation>
-Tekst
+Programma in Python.
 </implementation>
 
