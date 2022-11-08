@@ -1,6 +1,6 @@
 ---
 hruid: ct_cases-v1
-version: 1
+version: 3
 language: nl
 title: "Cases"
 description: "Cases"
@@ -33,21 +33,25 @@ teacher_exclusive: true
 <context>
 ![Face](ct_face.png)
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
+Kan een computer dier- en plantensoorten herkennen?
 </div>
 </context>
 <decomposition>
-Tekst
+Dit probleem kunnen we bijvoorbeeld opsplitsen in twee belangrijke subtaken (**decompositie**):
+1. Representatie
+2. Classificatie
 </decomposition>
 <patternRecognition>
-Tekst
+Het herkennen van objecten komt voor in tal van contexten. Vaak worden dus gelijkaardige oplossingen toegepast (denk bijvoorbeeld aan de populariteit van AI (diepe neurale netwerken) voor beeldherkenning). (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Tekst
+![Een afbeelding bestaat uit pixels. Deze pixels komen overeen met een keurenwaarde voor de rood, groen en blauwcomponenten. Deze waarden zijn gewoon getallen.](appels_en_peren.png)
+Hoe stellen we planten en dieren voor aan de computer? (**abstractie**)
 </abstraction>
 <algorithms>
-Tekst
+Op basis van die getallen kunnen we een **algoritme** opstellen waarmee een computer appels en peren kan onderscheiden.
+![Grafiek die classificatie illustreert door op de x-as de hoogte van het stuk fruit te plotten en op de y-as de omtrek. Zo kan je een lijn tekenen die de appels en peren van elkaar scheidt.](appels_en_peren_grafiek.png)
 </algorithms>
 <implementation>
-Tekst
+Implementatie is hier niet van toepassing, dit is een unplugged voorbeeld.
 </implementation>

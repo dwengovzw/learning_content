@@ -1,6 +1,6 @@
 ---
 hruid: ct_case-v1
-version: 1
+version: 3
 language: nl
 title: "CT schema test"
 description: "CT schema test"
