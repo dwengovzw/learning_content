@@ -62,5 +62,3 @@ de wortels te laten zien op het scherm.
 <implementation>
 Programma in Python.
 </implementation>
-
-
