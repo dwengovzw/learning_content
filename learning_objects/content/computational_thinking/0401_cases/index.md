@@ -50,5 +50,3 @@ Tekst
 <implementation>
 Tekst
 </implementation>
-
-
