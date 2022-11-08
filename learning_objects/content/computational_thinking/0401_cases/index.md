@@ -2,8 +2,8 @@
 hruid: cd_cases1-v1
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Vierkantsvergelijking"
+description: "Vierkantsvergelijking"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -33,14 +33,21 @@ teacher_exclusive: true
 <context>
 ![Face](ct_face.png)
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
+Automatiseer het berekenen van de (reële) wortels van een vierkantsvergelijking. Als uitvoer moet het aantal wortels en de wortels getoond worden.
 </div>
 </context>
 <decomposition>
-Tekst
+Subtaken (**decompositie**):
+1. Inzetten van de computer om de wortels van een vierkantsvergelijking te berekenen. 
+2. Formules op een of andere manier aan de computer geven om de wortels te berekenen: discriminant, formules voor de wortels zelf.
+3. Gebruiker moet in staat zijn om de coëfficiënten van de vierkantsvergelijking in te geven.
+4. Welk datatype is het meest geschikt voor die coëfficiënten? Int of float?
+5. Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?
 </decomposition>
 <patternRecognition>
-Tekst
+Als eenzelfde berekening vaak moet herhaald worden, dan is het handig deze te vatten in een functie. (**patroonherkenning**)
+De formules zullen daarom opgenomen worden in een zelfgedefinieerde functie: een voor de discriminant en een voor de wortels.
+ (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
 Tekst
