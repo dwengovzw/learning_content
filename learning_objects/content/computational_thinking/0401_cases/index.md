@@ -1,6 +1,6 @@
 ---
 hruid: cd_cases1-v1
-version: 3
+version: 1
 language: nl
 title: "Vierkantsvergelijking"
 description: "Vierkantsvergelijking"
@@ -9,9 +9,9 @@ educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by Jerro
-licence: Licenced by Jerro
-content_type: text/markdown
+copyright: Copyright by Dwengo
+licence: Licenced by 
+content_type: text/ct-schema
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
