@@ -43,4 +43,6 @@ De tekst 'Welkom robot' kan je aanpassen. De twee nullen betekenen: eerste lijn,
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
 
+![blockly](@learning-object/lcd_m2/nl/3)
+
 
