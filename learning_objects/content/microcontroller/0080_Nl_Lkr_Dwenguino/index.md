@@ -31,7 +31,6 @@ teacher_exclusive: true
 ---
 
 # De Dwenguino
-Tekst
 
 ## Spanning
 
