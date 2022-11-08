@@ -9,8 +9,8 @@ educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by Dwengo
-licence: Licenced by 
+copyright: Dwengo
+licence: cc by 
 content_type: text/ct-schema
 available: true
 target_ages: [12, 13, 14]
@@ -60,7 +60,7 @@ het aantal wortels te laten zien op het scherm;<br>
 de wortels te laten zien op het scherm. 
 </algorithms>
 <implementation>
-Implementatie is hier niet van toepassing, dit is een unplugged voorbeeld.
+Programma in Python.
 </implementation>
 
 
