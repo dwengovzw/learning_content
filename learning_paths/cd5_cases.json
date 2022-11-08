@@ -8,7 +8,7 @@
   "nodes": [
     {
       "learningobject_hruid": "ct_cases-v1",
-      "version": "1",
+      "version": "3",
       "language": "nl",     
       "start_node": true,
       "transitions": [
