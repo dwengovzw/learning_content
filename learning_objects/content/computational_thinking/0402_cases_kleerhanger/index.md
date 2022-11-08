@@ -32,21 +32,23 @@ teacher_exclusive: true
 
 <context>
 ![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">Tekst</div>
+<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
+Tekst
+</div>
 </context>
 <decomposition>
-Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
+Tekst
 </decomposition>
 <patternRecognition>
-Het ontwerp van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
+Tekst
 </patternRecognition>
 <abstraction>
-Test
+Tekst
 </abstraction>
 <algorithms>
-**algoritme** 
+Tekst
 </algorithms>
 <implementation>
-Aanpassen van bepaalde parameters in de software.
+Tekst
 </implementation>
 
