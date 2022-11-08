@@ -30,19 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Cases
-
-## Oplossen van een vierkantsvergelijking automatiseren
-
-### Context: doelgroep
-
-4de jaar - doorstroom
-
-### Context: voorkennis
-De leerlingen hebben reeds in de wiskundeles geleerd hoe ze een vierkantsvergelijking oplossen. Ze kennen de methodes van ontbinden in factoren, som em product, en de methode van de discriminant. De leerlingen hebben een kort voortraject doorlopen over het programmeren in Python, specifiek als voorbereiding op deze opdracht. 
-
-
-
 <context>
 ![Face](ct_face.png)
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">Kan een computer dier- en plantensoorten herkennen?</div>
@@ -67,3 +54,13 @@ Op basis van die getallen kunnen we een **algoritme** opstellen waarmee een comp
 Implementatie is hier niet van toepassing, dit is een unplugged voorbeeld.
 </implementation>
 
+# Cases
+
+## Oplossen van een vierkantsvergelijking automatiseren
+
+### Context: doelgroep
+
+4de jaar - doorstroom
+
+### Context: voorkennis
+De leerlingen hebben reeds in de wiskundeles geleerd hoe ze een vierkantsvergelijking oplossen. Ze kennen de methodes van ontbinden in factoren, som em product, en de methode van de discriminant. De leerlingen hebben een kort voortraject doorlopen over het programmeren in Python, specifiek als voorbereiding op deze opdracht. 
