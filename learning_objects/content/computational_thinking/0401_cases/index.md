@@ -1,16 +1,16 @@
 ---
-hruid: cd_cases1-v1
+hruid: ct_cases1-v1
 version: 1
 language: nl
-title: "Vierkantsvergelijking"
-description: "Vierkantsvergelijking"
+title: "CT schema test"
+description: "CT schema test"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by Jerro
-licence: Licenced by Jerro
+copyright: Dwengo
+licence: cc by
 content_type: text/ct-schema
 available: true
 target_ages: [12, 13, 14]
@@ -29,7 +29,6 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-
 
 <context>
 ![Face](ct_face.png)
@@ -54,4 +53,9 @@ Op basis van die getallen kunnen we een **algoritme** opstellen waarmee een comp
 <implementation>
 Implementatie is hier niet van toepassing, dit is een unplugged voorbeeld.
 </implementation>
+
+
+
+
+
 
