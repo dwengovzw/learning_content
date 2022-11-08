@@ -1,9 +1,9 @@
 ---
 hruid: cd_cases1-v1
-version: 1
+version: 3
 language: nl
-title: "CT schema test"
-description: "CT schema test"
+title: "Cases"
+description: "Cases"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: Copyright by Jerro
 licence: Licenced by Jerro
-content_type: text/ct-schema
+content_type: text/markdown
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -29,3 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+
+# Cases
+Test
+## Tussentitel
+Test
+### Subtitel
+Test
+**Onderverdeling**
