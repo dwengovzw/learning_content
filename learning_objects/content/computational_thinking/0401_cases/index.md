@@ -31,36 +31,36 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">Kan een computer dier- en plantensoorten herkennen?</div>
+<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">Automatiseer het berekenen van de (reële) wortels van een vierkantsvergelijking. Als uitvoer moet het aantal wortels en de wortels getoond worden.
+</div>
 </context>
 <decomposition>
-Dit probleem kunnen we bijvoorbeeld opsplitsen in twee belangrijke subtaken (**decompositie**):
-1. Representatie
-2. Classificatie
+Subtaken (**decompositie**):
+1. Inzetten van de computer om de wortels van een vierkantsvergelijking te berekenen. 
+2. Formules op een of andere manier aan de computer geven om de wortels te berekenen: discriminant, formules voor de wortels zelf.
+3. Gebruiker moet in staat zijn om de coëfficiënten van de vierkantsvergelijking in te geven.
+4. Welk datatype is het meest geschikt voor die coëfficiënten? Int of float?
+5. Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?
 </decomposition>
 <patternRecognition>
-Het herkennen van objecten komt voor in tal van contexten. Vaak worden dus gelijkaardige oplossingen toegepast (denk bijvoorbeeld aan de populariteit van AI (diepe neurale netwerken) voor beeldherkenning). (**patroonherkenning**)
+Als eenzelfde berekening vaak moet herhaald worden, dan is het handig deze te vatten in een functie. (**patroonherkenning**)
+De formules zullen daarom opgenomen worden in een zelfgedefinieerde functie: een voor de discriminant en een voor de wortels.
+ (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-![Een afbeelding bestaat uit pixels. Deze pixels komen overeen met een keurenwaarde voor de rood, groen en blauwcomponenten. Deze waarden zijn gewoon getallen.](appels_en_peren.png)
-Hoe stellen we planten en dieren voor aan de computer? (**abstractie**)
+Een functie is een abstractie van een subalgoritme.<br><br>
+Een vierkantsvergelijking is een abstractie van de verzameling van de nulpunten van een tweedegraadsfunctie, wat op zijn beurt een abstractie is van de snijpunten van een parabool met de x-as.
+ (**abstractie**)
 </abstraction>
 <algorithms>
-Op basis van die getallen kunnen we een **algoritme** opstellen waarmee een computer appels en peren kan onderscheiden.
-![Grafiek die classificatie illustreert door op de x-as de hoogte van het stuk fruit te plotten en op de y-as de omtrek. Zo kan je een lijn tekenen die de appels en peren van elkaar scheidt.](appels_en_peren_grafiek.png)
+Het **algoritme** bevat (in deze volgorde) instructies om:<br>
+de gegevens op te vragen aan de gebruiker;<br>
+die gegevens te verwerken met als doel het bekomen van de discriminant en de wortels;<br>
+het aantal wortels te laten zien op het scherm;<br>
+de wortels te laten zien op het scherm. 
 </algorithms>
 <implementation>
 Implementatie is hier niet van toepassing, dit is een unplugged voorbeeld.
 </implementation>
 
-# Cases
 
-## Oplossen van een vierkantsvergelijking automatiseren
-
-### Context: doelgroep
-
-4de jaar - doorstroom
-
-### Context: voorkennis
-De leerlingen hebben reeds in de wiskundeles geleerd hoe ze een vierkantsvergelijking oplossen. Ze kennen de methodes van ontbinden in factoren, som em product, en de methode van de discriminant. De leerlingen hebben een kort voortraject doorlopen over het programmeren in Python, specifiek als voorbereiding op deze opdracht. 
