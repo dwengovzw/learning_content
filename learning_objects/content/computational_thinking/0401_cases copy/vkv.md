@@ -50,7 +50,7 @@ De formules zullen daarom opgenomen worden in een zelfgedefinieerde functie: een
 <abstraction>
 Een functie is een abstractie van een subalgoritme.<br><br>
 Een vierkantsvergelijking is een abstractie van de verzameling van de nulpunten van een tweedegraadsfunctie, wat op zijn beurt een abstractie is van de snijpunten van een parabool met de x-as.
- (**abstractie**)
+(**abstractie**)
 </abstraction>
 <algorithms>
 Het **algoritme** bevat (in deze volgorde) instructies om:<br>
