@@ -33,22 +33,22 @@ teacher_exclusive: true
 <context>
 ![Face](ct_face.png)
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
+Een kleerhanger ontwerpen in verschillende 'maten'
 </div>
 </context>
 <decomposition>
-Tekst
+Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
 </decomposition>
 <patternRecognition>
-Tekst
+Het ontwerp van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
 Tekst
 </abstraction>
 <algorithms>
-Tekst
+**algoritme** 
 </algorithms>
 <implementation>
-Tekst
+Aanpassen van bepaalde parameters in de software.
 </implementation>
 

@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: Copyright by Jerro
 licence: Licenced by Jerro
-content_type: text/markdown
+content_type: text/ct-schema
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -30,10 +30,25 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Cases
+<context>
+![Face](ct_face.png)
+<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
+Tekst
+</div>
+</context>
+<decomposition>
+Tekst
+</decomposition>
+<patternRecognition>
+Tekst
+</patternRecognition>
+<abstraction>
+Tekst
+</abstraction>
+<algorithms>
+Tekst
+</algorithms>
+<implementation>
+Tekst
+</implementation>
 
-## Tussentitel
-
-### Subtitel
-
-**Onderverdeling**
