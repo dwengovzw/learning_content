@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 <context>
 ![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">Tekst</div>
+<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">Een kleerhanger ontwerpen in verschillende 'maten'</div>
 </context>
 <decomposition>
 Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
