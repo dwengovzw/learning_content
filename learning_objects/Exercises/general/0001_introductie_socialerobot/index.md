@@ -39,7 +39,7 @@ Hieronder zie je een screenshot van de omgeving met een beschrijving van de vers
 
 ![](embed/simulator.png "Onderdelen simulator")
 
-
+<ol><li><strong>Toolbox</strong><br>In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In <img src="embed/cat_invoer.png" alt="categorie invoer"></li></ol>
 
 1. De *toolbox*: In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In ![alt](embed/cat_invoer.png "categorie invoer") kan je bijvoorbeeld alle blokken vinden die iets met invoer (input) te maken hebben.
 
