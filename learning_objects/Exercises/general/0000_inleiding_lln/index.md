@@ -1,5 +1,5 @@
 ---
-hruid: g_inleiding
+hruid: g_inleiding_lln
 version: 3
 language: nl
 title: "Inleiding"
@@ -32,4 +32,14 @@ teacher_exclusive: false
 # DwenguinoBlockly
 ## Inleiding
 
-DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft leerlingen de mogelijkheid om een robot te programmeren. Voor zij die geen fysiek materiaal ter beschikking hebben, is er ook een simulator. In de simulator kan men kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot). Deze oefeningen kan je uitvoeren in de simulator, een fysieke robot is dus niet noodzakelijk.
+Dwenguinoblockly is een programmeeromgeving voor kinderen zoals jou! 
+
+Dwenguinoblockly heeft twee grote voordelen:
+
+1. Het is aangepast aan jouw leeftijd (derde graad basisonderwijs en eerste graad secundair onderwijs).
+2. Het is een grafische programmeertaal. Programmeren is zo eenvoudig als het verslepen van blokken op het scherm.
+3. Er is een simulator. Op het scherm zie je al wat de robot zal doen. 
+
+In de volgende stappen van dit leerpad leer je met DwenguinoBlockly werken. 
+
+Veel succes!
