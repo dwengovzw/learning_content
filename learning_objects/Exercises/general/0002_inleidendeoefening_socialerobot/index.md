@@ -48,4 +48,6 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 
 Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox* nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
 
-**Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte Dwenguino! Hierna wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de Dwenguino.**
+<div class="alert alert-box alert-success">
+Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte Dwenguino! Hierna wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de Dwenguino.**
+</div>
