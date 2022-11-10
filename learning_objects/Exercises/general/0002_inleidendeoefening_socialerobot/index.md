@@ -42,9 +42,9 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 
 * Je schreef zonet je eerste programma!
 
-* Voer dit programma uit met de simulator door in het *simulatormenu* te klikken op de knop ![alt](embed/simmenu_play.png "simulator play").
+* Voer dit programma uit met de simulator door in het *simulatormenu* te klikken op ![alt](embed/simmenu_play.png "simulator play").
 
-* Om de simulatie te stoppen, klik je in het *codeveld* of op de knop ![alt](embed/simmenu_stop.png "simulator stop").
+* Om de simulatie te stoppen, klik je in het *codeveld* of op ![alt](embed/simmenu_stop.png "simulator stop").
 
 Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox* nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
 
