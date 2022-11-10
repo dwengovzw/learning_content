@@ -36,9 +36,9 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 
 * Kies in het *simulatormenu* voor het scenario van de sociale robot ![alt](embed/scenario_socialerobot.png "scenario sociale robot").
 
-* Ga in de *toolbox* naar de categorie ![alt](embed/cat_dwenguino.png "categorie dwenguino") en zoek naar dit blok: <br><br>![alt](embed/b_lcd.jpg "blok lcd")
+* Ga in de *toolbox* naar de categorie ![alt](embed/cat_uitvoer.png "categorie uitvoer") en zoek naar de het *'lcd-scherm'-blok*: <br><br>![alt](embed/inloef1.png "blok lcd")
 
-* Sleep dit blok naar het *codeveld* en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.
+* Sleep dit blok naar het *codeveld* en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*: <br><br>![alt](embed/inloef2.png "klik lcd")
 
 * Je schreef zonet je eerste programma!
 
