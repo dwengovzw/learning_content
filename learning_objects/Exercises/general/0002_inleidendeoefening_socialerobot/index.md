@@ -1,5 +1,5 @@
 ---
-hruid: g_inleidendeoefening
+hruid: g_inleidendeoefening_sr
 version: 3
 language: nl
 title: "Je eerste programma"
@@ -34,19 +34,17 @@ teacher_exclusive: false
 ## Je eerste programma
 Nu je weet wat waar staat, kan je beginnen programmeren!
 
-* Kies in het *simulatormenu* voor het scenario van de tekenrobot (spirograaf).
+* Kies in het *simulatormenu* voor het scenario van de sociale robot ![alt](embed/scenario_socialerobot.png "scenario sociale robot").
 
-* Ga in de *toolbox* naar de categorie ![alt](embed/Afb2.png "Afb. Dwenguino") en zoek naar dit blok:  
-
-
-![alt](embed/Afb9.jpg "Afb. lcd")
-
+* Ga in de *toolbox* naar de categorie ![alt](embed/cat_dwenguino.png "categorie dwenguino") en zoek naar dit blok: <br><br>![alt](embed/b_lcd.jpg "blok lcd")
 
 * Sleep dit blok naar het *codeveld* en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*.
 
 * Je schreef zonet je eerste programma!
 
-* Voer dit programma uit met de simulator door in het *simulatormenu* te klikken op de afspeelknop ![alt](embed/Afb7.png "Afb. Play").
+* Voer dit programma uit met de simulator door in het *simulatormenu* te klikken op de knop ![alt](embed/simmenu_play.png "simulator play").
+
+* Om de simulatie te stoppen, klik je in het *codeveld* of op de knop ![alt](embed/simmenu_stop.png "simulator stop").
 
 Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox* nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
 

@@ -1,5 +1,5 @@
 ---
-hruid: g_startpagina
+hruid: g_startpagina_sr
 version: 3
 language: nl
 title: "Introductie"
@@ -41,15 +41,15 @@ Hieronder zie je een screenshot van de omgeving met een beschrijving van de vers
 
 1. **Toolbox**<br>In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In ![alt](embed/cat_invoer.png "categorie invoer") kan je bijvoorbeeld alle blokken vinden die iets met invoer (input) te maken hebben.
 
-2. **Codeveld**<br>Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar. <br><br>![alt](embed/zetklaarherhaal.png "Afb. zet klaar/herhaal")
+2. **Codeveld**<br>Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar. <br><br>![alt](embed/b_zetklaarherhaal.png "Afb. zet klaar/herhaal")
 
 > Enkel code die in het ‘zet klaar’- en 'herhaal'-gedeelte van dit blok geplaatst is, wordt uitgevoerd. Code op een andere plaats wordt niet uitgevoerd. Om te programmeren sleep je dus blokken uit de toolbox naar het codeveld en klik je deze vast in het *‘zet klaar/herhaal’-blok*. 
 
 3. **Hoofdmenu**<br>Met dit menu kan je acties uitvoeren zoals je code opslaan (met ![alt](embed/menu_download.png "menu download")), terug inladen (met ![alt](embed/menu_upload.png "menu upload")), of de simulatieomgeving openen en sluiten (met ![alt](embed/menu_hide.png "menu verbergen")).
 
-4. **Simulatormenu**<br>Hier vind je de knoppen terug om de simulatie te starten en te stoppen met de knoppen ![alt](embed/simmenu_play.png "simulator play") en ![alt](embed/simmenu_stop.png "simulator stop"). Het laat je ook toe om een specifiek scenario te kiezen waarbinnen je de code wil uitvoeren. 
+4. **Simulatormenu**<br>Hier vind je de knoppen terug om de simulatie te starten en te stoppen met de knoppen ![alt](embed/simmenu_play.png "simulator play") en ![alt](embed/simmenu_stop.png "simulator stop"). <br><br>Het laat je ook toe om een specifiek scenario te kiezen waarbinnen je de code wil uitvoeren. In het voorbeeld is het scenario van de sociale robot geselecteerd. Dit kan je herkennen aan het icoontje van sociale robot ![alt](embed/scenario_socialerobot.png "scenario sociale robot").
 
-5. **Simulatievenster**<br>In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de Dwenguino, waarop je de code kan uitvoeren. Op de afbeelding is het scenario van de tekenrobot geselecteerd. Bovenaan zie je een virtueel Dwenguino-bord, onderaan een virtuele tekenrobot die je kan programmeren.
+5. **Simulatievenster**<br>In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de Dwenguino, of componenten waarmee je de code kan testen. Omdat op de afbeelding het scenario van de sociale robot geselecteerd is, kan je bovenaan verschillende componenten zien en onderaan een virtuele sociale robot die je kan programmeren.
 
 
 In de *toolbox* kan je dus de blokken terugvinden die je nodig hebt om programma's te maken. Deze blokken moet je hieruit slepen om nadien vast te klikken in de gewenste volgorde in het *codeveld*.
