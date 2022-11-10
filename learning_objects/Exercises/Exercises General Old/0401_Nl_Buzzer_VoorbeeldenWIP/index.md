@@ -9,8 +9,8 @@ educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by Jerro
-licence: Licenced by Jerro
+copyright: dwengo
+licence: dwengo
 content_type: text/markdown
 available: true
 target_ages: [10, 11, 12, 13, 14]
