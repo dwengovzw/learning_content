@@ -30,7 +30,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "g_startpagina",
+            "hruid": "g_startpagina_sr",
             "version": "3",
             "language": "nl"
           }
@@ -38,14 +38,14 @@
       ]
     },
     {
-      "learningobject_hruid": "g_startpagina",
+      "learningobject_hruid": "g_startpagina_sr",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "g_inleidendeoefening",
+            "hruid": "g_inleidendeoefening_sr",
             "version": "3",
             "language": "nl"
           }
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "learningobject_hruid": "g_inleidendeoefening",
+      "learningobject_hruid": "g_inleidendeoefening_sr",
       "version": "3",
       "language": "nl",
       "transitions": [
