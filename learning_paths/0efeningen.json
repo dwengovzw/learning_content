@@ -45,6 +45,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "g_startpagina",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_startpagina",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "g_inleidendeoefening_sr",
             "version": "3",
             "language": "nl"
@@ -54,6 +69,21 @@
     },
     {
       "learningobject_hruid": "g_inleidendeoefening_sr",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_inleidendeoefening",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_inleidendeoefening",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -105,6 +135,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "g_lcd_vb1_wgs",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_lcd_vb1_wgs",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "g_lcd_oef1",
             "version": "3",
             "language": "nl"
@@ -135,6 +180,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "g_lcd_vb2_wgs",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_lcd_vb2_wgs",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "g_lcd_oef2",
             "version": "3",
             "language": "nl"
@@ -144,6 +204,21 @@
     },
     {
       "learningobject_hruid": "g_lcd_oef2",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_lcd_vb3_wgs",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_lcd_vb3_wgs",
       "version": "3",
       "language": "nl",
       "transitions": [
