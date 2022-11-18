@@ -34,3 +34,4 @@ teacher_exclusive: false
 OPGAVE 1
 
 Laat 'Welkom robot' op het lcd-scherm verschijnen.
+
