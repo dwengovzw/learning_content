@@ -37,4 +37,6 @@ De tweede manier is om alle code te verplaatsen van het *'zet klaar'-deel* naar 
 
 ![blockly](@learning-object/wacht_m3/nl/3)
 
-*Test deze voorbeelden ook zelf uit in de simulator!*
+<div class="alert alert-box alert-success">
+uitleg
+</div>

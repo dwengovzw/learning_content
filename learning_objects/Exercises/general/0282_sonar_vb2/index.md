@@ -43,4 +43,6 @@ Oplossing:
 
 Bij het programmeren van de sociale robot kan je andere acties koppelen aan deze voorwaarden. Je kan bijvoorbeeld de armen laten zwaaien of ogen laten knipperen wanneer iemand tussen de 0 en 50 cm van de robot verwijderd is.
 
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+uitleg
+</div>

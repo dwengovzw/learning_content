@@ -39,6 +39,6 @@ Oplossing:
 
 ![blockly](@learning-object/zoemer_m4/nl/3)  
 
+<div class="alert alert-box alert-success">
 Zoals je misschien merkt, is het niet zo eenvoudig om zoemertonen te binden aan de knoppen. De meest efficiënte manier om dit te doen wordt hierna uitgelegd.
-
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+</div>

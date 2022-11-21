@@ -31,29 +31,6 @@ teacher_exclusive: true
 ---
 ## Knoppen
 
-OPGAVE 1
-
-
-
-
-Oplossing:
-
-![](@blockly/blocks.xml
-
-
-
-
-OPGAVE 2
-
-
-
-Oplossing:
-
-![](@blockly/blocks.xml
-
-
-
-
 OPGAVE 3
 
 
@@ -63,5 +40,6 @@ Oplossing:
 ![blockly](@learning-object/LCDM3-v1/nl/3
 
 
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+uitleg
+</div>
