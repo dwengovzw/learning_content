@@ -1,9 +1,9 @@
 ---
-hruid: aiz_zelfdegraaf
+hruid: aiz_mondriaan
 version: 3
 language: nl
-title: "Grafen vergelijken"
-description: "Grafen vergelijken"
+title: "Mondriaan"
+description: "Mondriaan"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,11 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Grafen vergelijken
-In de volgende filmpjes wordt bondig uitgelegd hoe je verschillende voorstellingen van grafen met elkaar kunt vergelijken. 
+# Mondriaan
 
-De eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweede een eerder formele werkwijze.
-
-![](@youtube/https://www.youtube.com/embed/K4rP8BLhr0s "Vergelijken van Grafen - Kleuren")
-
-![](@youtube/https://www.youtube.com/embed/iNUqJXuoOyw "Vergelijken van Grafen - Formeel")
+![](@youtube/https://www.youtube.com/embed/x0GSC5t7HoI "Vergelijken van Grafen - Kleuren")

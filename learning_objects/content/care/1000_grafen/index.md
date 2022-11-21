@@ -1,5 +1,5 @@
 ---
-hruid: AIZ_sprouts-v1
+hruid: AIZ_sprouts
 version: 3
 language: nl
 title: "Sprouts"

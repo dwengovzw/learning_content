@@ -1,9 +1,9 @@
 ---
-hruid: aiz_zelfdegraaf
+hruid: aiz_vingerafdrukken
 version: 3
 language: nl
-title: "Grafen vergelijken"
-description: "Grafen vergelijken"
+title: "Vingerafdrukken"
+description: "Vingerafdrukken"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,11 +30,4 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Grafen vergelijken
-In de volgende filmpjes wordt bondig uitgelegd hoe je verschillende voorstellingen van grafen met elkaar kunt vergelijken. 
-
-De eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweede een eerder formele werkwijze.
-
-![](@youtube/https://www.youtube.com/embed/K4rP8BLhr0s "Vergelijken van Grafen - Kleuren")
-
-![](@youtube/https://www.youtube.com/embed/iNUqJXuoOyw "Vergelijken van Grafen - Formeel")
+# Vingerafdrukken
