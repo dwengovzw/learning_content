@@ -40,6 +40,6 @@ Oplossing:
 
 ![blockly](@learning-object/zoemer_m3/nl/3)  
 
+<div class="alert alert-box alert-success">
 Zoals je kunt zien, wordt dit een vrij lang programma. Er zijn gelukkig een aantal plaatsen die je wat kunt inkorten met behulp van een **begrensde herhaling**. Dit wordt verder uitgelegd in het volgende onderdeel.
-
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+</div>

@@ -32,3 +32,7 @@ teacher_exclusive: true
 ## Keuzestructuren: Als - Dan
 
 OPGAVE 4
+
+<div class="alert alert-box alert-success">
+uitleg
+</div>

@@ -39,4 +39,6 @@ Oplossing:
 
 ![blockly](@learning-object/knoppen_m2/nl/3)
 
-*Test deze voorbeelden ook zelf uit in de simulator!*
+<div class="alert alert-box alert-success">
+uitleg
+</div>

@@ -42,8 +42,8 @@ Oplossing:
 
 ![blockly](@learning-object/wacht_m1/nl/3)
 
+<div class="alert alert-box alert-success">
 Het *'wacht'-blok* dat **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
 
 Het probleem dat zich nu voordoet, is dat "Ik ben Dwenguino" op het scherm blijft staan. *Denk even na over wat dit zou veroorzaken.*
-
-*Test deze voorbeelden ook zelf uit in de simulator!*
+</div>

@@ -44,4 +44,6 @@ Op het lcd-scherm verschijnen nu de waarden die de sonar-sensor teruggeeft. Indi
 - Is de sensor correct aangesloten?
 - werkt de sensor?
 
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+uitleg
+</div>

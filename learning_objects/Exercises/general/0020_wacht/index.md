@@ -43,3 +43,8 @@ De tijd wordt uitgedrukt in milliseconden. Eén milliseconde is een duizendste v
 Probeer onderstaand voorbeeld eens uit zodat je ziet hoe het werkt!
 
 ![blockly](@learning-object/wacht_m/nl/3)
+
+<div class="alert alert-box alert-danger">
+Let erop dat je hiervoor de code in het <em>'herhaal'-deel</em> van het <em>'zet klaar/herhaal'-blok</em> plaatst!<br>
+Op die manier zal alle code in het <em>'herhaal'-deel</em> blijven herhaald worden.
+</div>

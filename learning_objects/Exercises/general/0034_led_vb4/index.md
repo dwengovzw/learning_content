@@ -46,4 +46,6 @@ Oplossing:
 
 ![blockly](@learning-object/led_m4/nl/3)
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+<div class="alert alert-box alert-success">
+uitleg
+</div>

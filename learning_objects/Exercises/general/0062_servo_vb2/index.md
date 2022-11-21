@@ -46,4 +46,6 @@ Oplossing:
 
 Je bent nu in staat om een hele hoop andere acties te doen! Je robot kan iemand de hand schudden, z'n ogen bedekken...
 
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+uitleg
+</div>

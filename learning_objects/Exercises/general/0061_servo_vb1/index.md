@@ -41,4 +41,6 @@ Oplossing:
 
 Je robot kan nu zwaaien met zijn armen.
 
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+uitleg
+</div>

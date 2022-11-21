@@ -41,4 +41,6 @@ Oplossing:
 
 Je kan eventueel bewegende ogen maken door verschillende combinaties van ogen te maken en er "*wacht*"-blokken tussen te plaatsen!  
 
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+uitleg
+</div>

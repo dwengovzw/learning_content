@@ -39,4 +39,6 @@ De eerste manier is om de tekst te verwijderen. Hiervoor gebruik je het blok **M
 
 ![blockly](@learning-object/wacht_m2/nl/3)
 
-*Test deze voorbeelden ook zelf uit in de simulator!*
+<div class="alert alert-box alert-success">
+uitleg
+</div>
