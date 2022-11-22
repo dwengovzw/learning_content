@@ -42,7 +42,7 @@ De *knopen* van de graaf zijn bv. de mensen met een Facebook-account en de vrien
 Het voorbeeld hieronder gaat over leerlingen en de contacten tussen deze leerlingen. De knopen vertegenwoordigen de leerlingen. 
 De contacten tussen leerlingen worden weergegeven door lijnsegmenten tussen knopen, en zijn dus de *bogen* van de graaf. 
 
-![Voorbeelden van gekleurde grafen die netwerken tussen kinderen van verschillende leeftijden voorstellen ([bron](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2010.1807)).](embed/netwerkkinderen.png)
+![https://royalsocietypublishing.org/doi/full/10.1098/rspb.2010.1807](embed/netwerkkinderen.png "Voorbeelden van gekleurde grafen die netwerken tussen kinderen van verschillende leeftijden voorstellen")
 <sub>Bron: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2010.1807</sub>
 
 Een figuur is nuttig om te bekijken hoe het netwerk eruitziet. 
