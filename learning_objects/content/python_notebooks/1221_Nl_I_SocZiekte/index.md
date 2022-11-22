@@ -44,7 +44,7 @@ Een graaf bestaat uit een verzameling knopen waarvan sommige verbonden zijn door
 In het voorbeeld hieronder vertegenwoordigen de knopen de leerlingen. 
 De contacten tussen leerlingen worden weergegeven door lijnsegmenten tussen knopen, en worden *bogen* genoemd. 
 
-![Voorbeelden van gekleurde grafen die netwerken tussen kinderen van verschillende leeftijden voorstellen ([bron](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2010.1807)).](embed/netwerkkinderen.png)
+![https://royalsocietypublishing.org/doi/full/10.1098/rspb.2010.1807](embed/netwerkkinderen.png "Voorbeelden van gekleurde grafen die netwerken tussen kinderen van verschillende leeftijden voorstellen")
 <sub>Bron: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2010.1807</sub>
 
 Een figuur is nuttig om te bekijken hoe het netwerk eruitziet. Om er berekeningen mee te doen, zijn er echter andere voorstellingen nodig. 
