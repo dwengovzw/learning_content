@@ -52,6 +52,8 @@ Aanpassen van bepaalde parameters in de software.
 
 <h5>titel</h5>
 Tekst
-<p style="  font-family: 'Courier New', monospace;">tekst</p>
+<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
+tekst
+</p></div>
 </implementation>
 
