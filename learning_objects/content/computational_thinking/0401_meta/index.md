@@ -60,7 +60,8 @@ de wortels te laten zien op het scherm.
 </algorithms>
 <implementation>
 **Programma in Python**<br>
-def discriminant(a, b, c):
+<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
+def discriminant(a, b, c):<br>
     """Berekenen van discriminant en bepalen van aantal wortels."""
     d = b**2 – 4 * a * c
     aantal = 0
@@ -70,28 +71,24 @@ def discriminant(a, b, c):
          aantal = 1  
     return d, aantal
 
-def wortels(a, b, c):
+def wortels(a, b, c):<br>
     d = discriminant(a, b, c)[0]
     x1 = (- b + math.sqrt(d)) / (2 * a )
     x2 = (- b - math.sqrt(d)) / (2 * a )
     return x1, x2
     
-# invoer
-a = float(input("Geef de coëfficiënt van x^2: "))
-b = float(input("Geef de coëfficiënt van x: "))
-c = float(input("Geef de constante term: "))
+# invoer<br>
+a = float(input("Geef de coëfficiënt van x^2: "))<br>
+b = float(input("Geef de coëfficiënt van x: "))<br>
+c = float(input("Geef de constante term: "))<br>
     
-# verwerking
-n = discriminant(a, b, c)[1]
-wortels = wortels(a, b, c)
+# verwerking<br>
+n = discriminant(a, b, c)[1]<br>
+wortels = wortels(a, b, c)<br>
 
 # uitvoer
 print("Er zijn", n, "wortels.")
 print("De wortels zijn: ", wortels[0], "en", wortels[1])
-
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
 </p></div>
 </implementation>
 
