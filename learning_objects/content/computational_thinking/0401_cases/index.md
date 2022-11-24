@@ -31,9 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-<div style="position:absolute;right:0px;width:100%;height:100px;margin-top:-100px;margin-right:20px">
 Automatiseer het berekenen van de (reële) wortels van een vierkantsvergelijking. Er wordt op zoek gegaan naar het aantal wortels en de waarde van de wortels.
-</div>
 </context>
 <decomposition>
 Subtaken (**decompositie**):
