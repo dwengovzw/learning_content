@@ -69,25 +69,21 @@ def discriminant(a, b, c):<br>
         aantal = 2
     elif d = 0:
          aantal = 1  
-    return d, aantal
-
+    return d, aantal<br><br>
 def wortels(a, b, c):<br>
     d = discriminant(a, b, c)[0]
     x1 = (- b + math.sqrt(d)) / (2 * a )
     x2 = (- b - math.sqrt(d)) / (2 * a )
-    return x1, x2
-    
+    return x1, x2<br><br>
 # invoer<br>
 a = float(input("Geef de coëfficiënt van x^2: "))<br>
 b = float(input("Geef de coëfficiënt van x: "))<br>
-c = float(input("Geef de constante term: "))<br>
-    
+c = float(input("Geef de constante term: "))<br><br>
 # verwerking<br>
 n = discriminant(a, b, c)[1]<br>
-wortels = wortels(a, b, c)<br>
-
-# uitvoer
-print("Er zijn", n, "wortels.")
+wortels = wortels(a, b, c)<br><br>
+# uitvoer<br>
+print("Er zijn", n, "wortels.")<br>
 print("De wortels zijn: ", wortels[0], "en", wortels[1])
 </p></div>
 </implementation>
