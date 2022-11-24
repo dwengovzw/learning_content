@@ -31,9 +31,8 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Automatiseer het berekenen van de (reële) wortels van een vierkantsvergelijking. Als uitvoer moet het aantal wortels en de wortels getoond worden.
+<div style="position:absolute;right:0px;width:100%;height:100px;margin-top:-100px;margin-right:20px">
+Automatiseer het berekenen van de (reële) wortels van een vierkantsvergelijking. Er wordt op zoek gegaan naar het aantal wortels en de waarde van de wortels.
 </div>
 </context>
 <decomposition>
@@ -55,13 +54,42 @@ Een vierkantsvergelijking is een abstractie van de verzameling van de nulpunten 
 (**abstractie**)
 </abstraction>
 <algorithms>
-et **algoritme** bevat (in deze volgorde) instructies om:<br>
+Het **algoritme** bevat (in deze volgorde) instructies om:<br>
 de gegevens op te vragen aan de gebruiker;<br>
 die gegevens te verwerken met als doel het bekomen van de discriminant en de wortels;<br>
 het aantal wortels te laten zien op het scherm;<br>
 de wortels te laten zien op het scherm. 
 </algorithms>
 <implementation>
-Programma in Python.
+**Programma in Python**<br>
+def discriminant(a, b, c):
+    """Berekenen van discriminant en bepalen van aantal wortels."""
+    d = b**2 – 4 * a * c
+    aantal = 0
+    if d > 0: 
+        aantal = 2
+    elif d = 0:
+         aantal = 1  
+    return d, aantal
+
+def wortels(a, b, c):
+    d = discriminant(a, b, c)[0]
+    x1 = (- b + math.sqrt(d)) / (2 * a )
+    x2 = (- b - math.sqrt(d)) / (2 * a )
+    return x1, x2
+    
+# invoer
+a = float(input("Geef de coëfficiënt van x^2: "))
+b = float(input("Geef de coëfficiënt van x: "))
+c = float(input("Geef de constante term: "))
+    
+# verwerking
+n = discriminant(a, b, c)[1]
+wortels = wortels(a, b, c)
+
+# uitvoer
+print("Er zijn", n, "wortels.")
+print("De wortels zijn: ", wortels[0], "en", wortels[1])
+
 </implementation>
 
