@@ -30,19 +30,22 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Een kleerhanger ontwerpen in verschillende 'maten'
-</div>
+Maak drie kleerhangers voor volwassenen, twee voor kinderen en vier voor baby’s.
 </context>
 <decomposition>
 Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
+<ul><li>Welke materialen</li></ul>
+<ul><li>Welke software? <span style="color: green">→ geparameteriseerd CAD-ontwerp</span></li></ul>
+<ul><li>Welke machine? <span style="color: green">→ CNC-machine</span></li></ul>
+<ul><li>Welke afmetingen zijn geschikt?</li></ul>
+<ul><li>Welke kromming is geschikt?</li></ul>
+<ul><li>...</li></ul>
 </decomposition>
 <patternRecognition>
 Het ontwerp van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Tekst
+CAD-tekening is abstractie van de drie soorten van kapstok. 
 </abstraction>
 <algorithms>
 **algoritme** 
