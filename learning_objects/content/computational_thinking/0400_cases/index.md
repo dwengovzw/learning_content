@@ -32,6 +32,4 @@ teacher_exclusive: true
 # test
 test
 
-![ct-schema](@learning-object/m_ct_cases/nl/3)
-
 Test
