@@ -31,6 +31,7 @@ teacher_exclusive: true
 ---
 # Doelgroep en voorkennis
 Doelgroep: 2de graad hout-richting
+
 Voorkennis: De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
 
 ![ct-schema](@learning-object/m_cd_cases2/nl/3)
