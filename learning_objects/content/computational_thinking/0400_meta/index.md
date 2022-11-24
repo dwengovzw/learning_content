@@ -57,5 +57,5 @@ Het volgende voorbeeld is als volgt:
 <p style="  font-family: 'Courier New', monospace;">the quick brown fox jumps over the lazy dog</p>
 
 Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">tekst</p></div>
+<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">the quick brown fox jumps over the lazy dog</p></div>
 </implementation>
