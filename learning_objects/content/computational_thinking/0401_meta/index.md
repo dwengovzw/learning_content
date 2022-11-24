@@ -62,18 +62,18 @@ de wortels te laten zien op het scherm.
 **Programma in Python**<br>
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 def discriminant(a, b, c):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van discriminant en bepalen van aantal wortels."""
-&nbsp;&nbsp;&nbsp;&nbsp;d = b**2 – 4 * a * c
-&nbsp;&nbsp;&nbsp;&nbsp;aantal = 0
-&nbsp;&nbsp;&nbsp;&nbsp;if d > 0: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 2
-&nbsp;&nbsp;&nbsp;&nbsp;elif d = 0:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 1  
+&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van discriminant en bepalen van aantal wortels."""<br>
+&nbsp;&nbsp;&nbsp;&nbsp;d = b**2 – 4 * a * c<br>
+&nbsp;&nbsp;&nbsp;&nbsp;aantal = 0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;if d > 0: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;elif d = 0:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 1  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;return d, aantal<br><br>
 def wortels(a, b, c):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)[0]
-&nbsp;&nbsp;&nbsp;&nbsp;x1 = (- b + math.sqrt(d)) / (2 * a )
-&nbsp;&nbsp;&nbsp;&nbsp;x2 = (- b - math.sqrt(d)) / (2 * a )
+&nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)[0]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;x1 = (- b + math.sqrt(d)) / (2 * a )<br>
+&nbsp;&nbsp;&nbsp;&nbsp;x2 = (- b - math.sqrt(d)) / (2 * a )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return x1, x2<br><br>
 # invoer<br>
 a = float(input("Geef de coëfficiënt van x^2: "))<br>
