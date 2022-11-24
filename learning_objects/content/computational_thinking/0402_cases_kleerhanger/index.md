@@ -54,6 +54,7 @@ Tekst
 Aanpassen van bepaalde parameters in de software.
 
 <h5>titel</h5>
-<p style="  font-family: 'Courier New', monospace;">the quick brown fox jumps over the lazy dog</p>
+<p style="  font-family: 'Courier New', monospace;">the quick brown fox jumps over the lazy dog<br>
+# dit is commentaar</p>
 </implementation>
 
