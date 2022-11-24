@@ -1,5 +1,5 @@
 ---
-hruid: cd_cases5-v1
+hruid: m_cd_cases4
 version: 3
 language: nl
 title: "Cases"
@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: dwengo
 licence: dwengo
-content_type: text/markdown
+content_type: text/ct-schema
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -29,7 +29,27 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# titel
-tekst
 
-![ct-schema](@learning-object/m_ct_cases5/nl/3)
+<context>
+![Face](ct_face.png)
+<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
+Tekst
+</div>
+</context>
+<decomposition>
+Tekst
+</decomposition>
+<patternRecognition>
+Tekst
+</patternRecognition>
+<abstraction>
+Tekst
+</abstraction>
+<algorithms>
+Tekst
+</algorithms>
+<implementation>
+Tekst
+<p style="  font-family: 'Courier New', monospace;">tekst</p>
+</implementation>
+

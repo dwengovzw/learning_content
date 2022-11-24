@@ -1,5 +1,5 @@
 ---
-hruid: cd_cases1-v1
+hruid: m_cd_cases1
 version: 3
 language: nl
 title: "Vierkantsvergelijking"
@@ -89,5 +89,7 @@ wortels = wortels(a, b, c)
 print("Er zijn", n, "wortels.")
 print("De wortels zijn: ", wortels[0], "en", wortels[1])
 
+Tekst
+<p style="  font-family: 'Courier New', monospace;">tekst</p>
 </implementation>
 

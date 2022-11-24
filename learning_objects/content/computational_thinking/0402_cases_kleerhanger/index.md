@@ -2,8 +2,8 @@
 hruid: cd_cases2-v1
 version: 3
 language: nl
-title: "Kleerhanger"
-description: "Kleerhanger"
+title: "Cases"
+description: "Cases"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: dwengo
 licence: dwengo
-content_type: text/ct-schema
+content_type: text/markdown
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -29,32 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Doelgroep: 2de graad in een hout-richting
-Voorkennis: De leerlingen kunnen reeds met een CAD-programma en met een CNC-machine werken; ze kennen de eigenschappen van verschillende soorten hout. 
+# titel
+tekst
 
-<context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Een kleerhanger ontwerpen in verschillende 'maten'
-</div>
-</context>
-<decomposition>
-Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
-</decomposition>
-<patternRecognition>
-Het ontwerp van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
-</patternRecognition>
-<abstraction>
-Tekst
-</abstraction>
-<algorithms>
-**algoritme** 
-</algorithms>
-<implementation>
-Aanpassen van bepaalde parameters in de software.
-
-<h5>titel</h5>
-<p style="  font-family: 'Courier New', monospace;">the quick brown fox jumps over the lazy dog<br>
-# dit is commentaar</p>
-</implementation>
-
+![ct-schema](@learning-object/m_cd_cases2/nl/3)

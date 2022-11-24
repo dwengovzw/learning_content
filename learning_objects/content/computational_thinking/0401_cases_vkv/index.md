@@ -1,5 +1,5 @@
 ---
-hruid: cd_cases5-v1
+hruid: cd_cases1-v1
 version: 3
 language: nl
 title: "Cases"
@@ -32,4 +32,4 @@ teacher_exclusive: true
 # titel
 tekst
 
-![ct-schema](@learning-object/m_ct_cases5/nl/3)
+![ct-schema](@learning-object/m_cd_cases1/nl/3)
