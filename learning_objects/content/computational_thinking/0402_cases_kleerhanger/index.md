@@ -54,6 +54,6 @@ Tekst
 Aanpassen van bepaalde parameters in de software.
 
 <h5>titel</h5>
-<p style="font-family: Arial">the quick brown fox jumps over the lazy dog</p>
+<p style="font-family: Helvetica">the quick brown fox jumps over the lazy dog</p>
 </implementation>
 
