@@ -50,6 +50,8 @@ Tekst
 </algorithms>
 <implementation>
 Tekst
-<p style="  font-family: 'Courier New', monospace;">tekst</p>
+<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
+tekst
+</p></div>
 </implementation>
 
