@@ -2,8 +2,8 @@
 hruid: cd_cases1-v1
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Vierkantsvergelijking"
+description: "Vierkantsvergelijking"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# titel
-tekst
+# Doelgroep en voorkennis
+Doelgroep: 2de graad doorstroomrichting 
+
+Vak: wiskunde
+
+Voorkennis: De leerlingen kunnen een vierkantsvergelijking manueel oplossen. Ze kennen de formules voor de discriminant en de wortels.
 
 ![ct-schema](@learning-object/m_cd_cases1/nl/3)
