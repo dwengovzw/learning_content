@@ -71,6 +71,7 @@ def discriminant(a, b, c):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 1  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;return d, aantal<br><br>
 def wortels(a, b, c):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van de wortels."""<br>
 &nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)[0]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;x1 = (- b + math.sqrt(d)) / (2 * a )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;x2 = (- b - math.sqrt(d)) / (2 * a )<br>
