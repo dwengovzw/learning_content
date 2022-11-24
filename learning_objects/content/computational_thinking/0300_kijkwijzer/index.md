@@ -38,8 +38,8 @@ teacher_exclusive: true
 
 **Onderverdeling**
 <p style="font-family: Helvetica">the quick brown fox jumps over the lazy dog</p>
-<p style="font-family: Arial">the quick brown fox jumps over the lazy dog</p>
 <p style="font-family: Garamond">the quick brown fox jumps over the lazy dog</p>
+<p style="font-family: Arial">the quick brown fox jumps over the lazy dog</p>
 <p style="font-family: Lucida Console">the quick brown fox jumps over the lazy dog</p>
 <p style="font-family: Monaco">the quick brown fox jumps over the lazy dog</p>
 
