@@ -32,7 +32,9 @@ teacher_exclusive: true
 
 <context>
 ![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">Kan een computer dier- en plantensoorten herkennen?</div>
+<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
+Kan een computer dier- en plantensoorten herkennen?
+</div>
 </context>
 <decomposition>
 Dit probleem kunnen we bijvoorbeeld opsplitsen in twee belangrijke subtaken (**decompositie**):
