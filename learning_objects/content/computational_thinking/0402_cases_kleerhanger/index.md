@@ -2,8 +2,8 @@
 hruid: cd_cases2-v1
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Kleerhanger"
+description: "Kleerhanger"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
