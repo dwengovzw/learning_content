@@ -53,5 +53,5 @@ Op basis van die getallen kunnen we een **algoritme** opstellen waarmee een comp
 ![Grafiek die classificatie illustreert door op de x-as de hoogte van het stuk fruit te plotten en op de y-as de omtrek. Zo kan je een lijn tekenen die de appels en peren van elkaar scheidt.](appels_en_peren_grafiek.png)
 </algorithms>
 <implementation>
-Implementatie is hier niet van toepassing, dit is een unplugged voorbeeld.
+<p style="  font-family: 'Courier New', monospace;">the quick brown fox jumps over the lazy dog</p>
 </implementation>
