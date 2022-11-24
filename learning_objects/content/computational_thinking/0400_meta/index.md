@@ -56,6 +56,6 @@ Op basis van die getallen kunnen we een **algoritme** opstellen waarmee een comp
 Het volgende voorbeeld is als volgt:
 <p style="  font-family: 'Courier New', monospace;">the quick brown fox jumps over the lazy dog</p>
 
-Je kan ook dit doen:
-<p style="  font-family: 'Courier New', monospace;"># commentaar</p>
+Tekst
+<p style="  font-family: 'Courier New', monospace;">tekst</p>
 </implementation>
