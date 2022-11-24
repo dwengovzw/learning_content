@@ -29,9 +29,6 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Doelgroep: 2de graad in een hout-richting
-Voorkennis: De leerlingen kunnen reeds met een CAD-programma en met een CNC-machine werken; ze kennen de eigenschappen van verschillende soorten hout. 
-
 <context>
 ![Face](ct_face.png)
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
