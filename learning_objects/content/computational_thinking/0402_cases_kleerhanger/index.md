@@ -52,5 +52,8 @@ Tekst
 </algorithms>
 <implementation>
 Aanpassen van bepaalde parameters in de software.
+
+<h5>titel</h5>
+<p style="font-family: Andalé Mono (monospace)">the quick brown fox jumps over the lazy dog</p>
 </implementation>
 
