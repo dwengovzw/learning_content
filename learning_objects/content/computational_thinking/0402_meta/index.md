@@ -48,10 +48,11 @@ Het ontwerp van een kleerhanger is onafhankelijk van de maat. (**patroonherkenni
 CAD-tekening is abstractie van de drie soorten van kapstok. 
 </abstraction>
 <algorithms>
-**algoritme** 
+**algoritme** <br>
+    Aanpassen van bepaalde parameters in de software.
 </algorithms>
 <implementation>
-Aanpassen van bepaalde parameters in de software.
+
 
 <h5>titel</h5>
 Tekst
