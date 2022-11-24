@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: dwengo
 licence: dwengo
-content_type: text/ct-schema
+content_type: text/markdown
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -32,6 +32,6 @@ teacher_exclusive: true
 # test
 test
 
-![ct](@learning-object/m_ct_cases/nl/3)
+![ct-schema](@learning-object/m_ct_cases/nl/3)
 
 Test
