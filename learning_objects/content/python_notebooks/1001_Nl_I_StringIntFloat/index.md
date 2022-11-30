@@ -32,5 +32,6 @@ skos_concepts: [
 # String, int en float
 Je maakt kennis met de datatypes voor tekst en getallen.  
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1001 "Notebooks Datatypes")
+![alt](@youtube/embed/dl3q6gJ7evo "Video string - integer - float")
 
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1001 "Notebooks Datatypes")
