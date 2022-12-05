@@ -31,9 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
 Analyseer hoe het zeeniveau in Oostende in de toekomst zal evolueren. 
-</div>
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb ik nodig? Subtaken (**decompositie**):<br>
@@ -51,7 +49,7 @@ Kijk naar de vorm van het spreidingsdiagram. Ellipsvormig? Dat wijst op lineaire
 De trendlijn is een benadering (model) van het schommelende zeeniveau die de stijgende trend weerspiegelt, en toelaat voorspellingen te doen voor de evolutie van het zeeniveau in de toekomst. (**abstractie**)
 </abstraction>
 <algorithms>
-Een algoritme om in Python de trendlijnen te visualiseren (a.d.h.v. Python-modules):
+Een **algoritme** om in Python de trendlijnen te visualiseren (a.d.h.v. Python-modules):
 1. Definieer gedaante van vergelijking rechte
 2. Definieer functie om coëfficiënten trendlijn te bepalen passend bij gegeven datapunten
 3. Lees data in
