@@ -35,8 +35,8 @@ Maak drie kleerhangers voor volwassenen, twee voor kinderen en vier voor baby’
 <decomposition>
 Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
 <ul><li>Welke materialen</li></ul>
-<ul><li>Welke software? <span style="color: green">→ geparameteriseerd CAD-ontwerp</span></li></ul>
-<ul><li>Welke machine? <span style="color: green">→ CNC-machine</span></li></ul>
+<ul><li>Welke software? <span style="color: yellowgreen">→ geparameteriseerd CAD-ontwerp</span></li></ul>
+<ul><li>Welke machine? <span style="color: yellowgreen">→ CNC-machine</span></li></ul>
 <ul><li>Welke afmetingen zijn geschikt?</li></ul>
 <ul><li>Welke kromming is geschikt?</li></ul>
 <ul><li>...</li></ul>
