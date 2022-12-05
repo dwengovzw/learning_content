@@ -61,9 +61,9 @@ Je merkt op dat de simulator inderdaad afwisselt tussen "Hallo mensen" en "Ik be
 
 Dit probleem wordt veroorzaakt doordat het lcd-scherm niet alle karakters refresht, maar enkel de karakters die veranderen.
 
-> <span style="color:green">H a l l o  m e n s e n</span>
-> <span style="color:red">  I k   b e n  D w e n g u i n o</span>
-> <span style="color:green">H a l l o  m e n s e n</span><span style="color:red"> u i n o</span>
+> <span style="color:green">H a l l o  m e n s e n</span><br>
+<span style="color:red">  I k   b e n  D w e n g u i n o</span><br>
+<span style="color:green">H a l l o  m e n s e n</span><span style="color:red"> u i n o</span>
 
 Om dit op te lossen, gebruik je het *'maak lcd-scherm leeg'-blok* om het lcd-scherm telkens leeg te maken voordat er nieuwe tekst verschijnt:
 
