@@ -2,8 +2,8 @@
 hruid: m_ct_cases
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Appels en peren"
+description: "Appels en peren"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -53,11 +53,5 @@ Op basis van die getallen kunnen we een **algoritme** opstellen waarmee een comp
 ![Grafiek die classificatie illustreert door op de x-as de hoogte van het stuk fruit te plotten en op de y-as de omtrek. Zo kan je een lijn tekenen die de appels en peren van elkaar scheidt.](appels_en_peren_grafiek.png)
 </algorithms>
 <implementation>
-Het volgende voorbeeld is als volgt:
-<p style="  font-family: 'Courier New', monospace;">the quick brown fox jumps over the lazy dog</p>
-
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+Geen implementatie. Dit is een unplugged voorbeeld.
 </implementation>
