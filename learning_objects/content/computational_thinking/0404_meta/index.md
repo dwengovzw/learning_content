@@ -2,8 +2,8 @@
 hruid: m_cd_cases4
 version: 3
 language: nl
-title: "Zeeniveau"
-description: "Zeeniveau"
+title: "Zeeniveau - trendlijn"
+description: "Zeeniveau - trendlijn"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
