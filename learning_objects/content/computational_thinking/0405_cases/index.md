@@ -2,8 +2,8 @@
 hruid: cd_cases5-v1
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Sociale robot"
+description: "Sociale robot"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# titel
-tekst
+# Ontwerp een sociale robot
+De leerlingen maken een schets van hun droomrobot. Nadien passen ze het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de kit. 
 
 ![ct-schema](@learning-object/m_ct_cases5/nl/3)
