@@ -31,22 +31,30 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
-</div>
+Ontwerp en realiseer een sociale robot.
 </context>
 <decomposition>
-Tekst
+Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
+<ul><li>(Planning opmaken)</li></ul>
+<ul><li>Bepalen van het ontwerpidee</li></ul>
+<ul><li>Vastleggen criteria/gewenste acties)</li></ul>
+<ul><li>Acties programmeren in de simulator</li></ul>
+<ul><li>Acties testen a.h.v. de hardware </li></ul>
+<ul><li>‘Lichaam robot’ ontwerpen (tekening)</li></ul>
+<ul><li>‘Lichaam en acties robot’ aanapssen aan de criteria en beperkingen (bv. aanwezige hardware)</li></ul>
+<ul><li>Tekening overbrengen op de gekozen drager</li></ul>
+<ul><li>Onderdelen monteren</li></ul>
+<ul><li>Geheel testen en evalueren</li></ul>
+<ul><li>(Optimaliseren)</li></ul>
 </decomposition>
 <patternRecognition>
-Tekst
+Acties die meermaals terugkeren, en complexer acties, kunnen vervat worden in een zelfgedefinieerde functie. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Tekst
+Een actie die uit meerdere deelacties bestaat, kan **geabstraheerd** worden in een (overkoepelende) actie.
 </abstraction>
 <algorithms>
-Tekst
+Uit de decompositie volgt het stappenplan dat meegeeft hoe tewerk te gaan.
 </algorithms>
 <implementation>
 Tekst
