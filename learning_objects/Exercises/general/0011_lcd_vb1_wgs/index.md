@@ -42,8 +42,8 @@ Oplossing:
 <div class="alert alert-box alert-success">
 De tekst 'Welkom robot' in het blauwe blokje kan je aanpassen.<br><br>
 De twee nullen eronder zijn ook van belang:<br>
-<em>op rij 0</em>: de tekst verschijnt op de eerste lijn.<br>
-<em> vanaf kolom 0: de tekst verschijnt vanaf het eerste karakter.
+<ul><li><em>op rij 0</em>: de tekst verschijnt op de eerste regel.</li></ul><br>
+<ul><li><em> vanaf kolom 0: de tekst verschijnt vanaf het eerste karakter.</li></ul>
 </div>
 
 <div class="alert alert-box alert-warning">
