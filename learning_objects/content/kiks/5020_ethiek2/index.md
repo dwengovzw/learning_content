@@ -2,8 +2,8 @@
 hruid: kiks_ethiek2
 version: 3
 language: nl
-title: "Ethiek"
-description: "Ethiek"
+title: "Bias bij KIKS"
+description: "Bias bij KIKS"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,4 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Ethiek
+# Bias bij KIKS
+
+Het KIKS-model bevat ook een bias. De foto’s van de trainingset zijn zo gemaakt dat de huidmondjes erop ongeveer passen in een vak van **120 op 120 pixels**.
+Deze voorbeelden zijn afdrukken van bladeren genomen met transparante nagellak. Dat heeft als gevolg dat het model het best zal presteren op afbeeldingen
+van even grote huidmondjes in een gelijkaardige, **groengrijze kleur**.
