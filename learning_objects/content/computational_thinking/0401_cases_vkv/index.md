@@ -30,10 +30,12 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Doelgroep en voorkennis
-Doelgroep: 2de graad doorstroomrichting 
+Doelgroep: 2de graad - finaliteit doorstroom 
 
-Vak: wiskunde
+Vak: Wiskunde
 
 Voorkennis: De leerlingen kunnen een vierkantsvergelijking manueel oplossen. Ze kennen de formules voor de discriminant en de wortels.
 
 ![ct-schema](@learning-object/m_cd_cases1/nl/3)
+
+Onder het lesthema 'Python in de Wiskundeles' vind je in het leerpad 'Parabolen' een Python notebook waar je dit kan programmeren.
