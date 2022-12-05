@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Doelgroep en voorkennis
+# Een vierkantsvergelijking oplossen
 Doelgroep: 2de graad - finaliteit doorstroom 
 
 Vak: Wiskunde
