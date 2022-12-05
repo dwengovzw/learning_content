@@ -2,8 +2,8 @@
 hruid: m_ct_cases5
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Sociale robot"
+description: "Sociale robot"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
