@@ -84,7 +84,7 @@ c = float(input("Geef de constante term: "))<br><br>
 n = discriminant(a, b, c)[1]<br>
 wortels = wortels(a, b, c)<br><br>
 # uitvoer<br>
-print("Het aantal wortels is:", aantal)<br>
+print("Het aantal wortels is:", n)<br>
 print("De wortels zijn: ", wortels[0], "en", wortels[1])
 </p></div>
 </implementation>
