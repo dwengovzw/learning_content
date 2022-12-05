@@ -37,13 +37,34 @@ Schrijf een programma dat het volgende doet:
 
 * Laat "Hallo mensen" op het lcd-scherm verschijnen gedurende 1 seconde (1000 ms).
 * Laat "Ik ben Dwenguino" op het lcd-scherm verschijnen voor 2 seconden (2000 ms).
+* Herhaal.
 
 Oplossing:
 
 ![blockly](@learning-object/wacht_m1/nl/3)
 
 <div class="alert alert-box alert-success">
-Het *'wacht'-blok* dat **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
-
-Het probleem dat zich nu voordoet, is dat "Ik ben Dwenguino" op het scherm blijft staan. *Denk even na over wat dit zou veroorzaken.*
+Het <em>'wacht'-blok</em> dat <strong>na</strong> een bepaalde instructie staat, geeft weer hoelang de computer moet <strong>wachten</strong> vooraleer deze met de volgende instructie mag beginnen.
 </div>
+
+
+<div class="alert alert-box alert-danger">
+Let erop dat je hiervoor de code in het <em>'herhaal'-deel</em> van het <em>'zet klaar/herhaal'-blok</em> plaatst!<br>
+Op die manier zal alle code in het <em>'herhaal'-deel</em> blijven herhaald worden.
+</div>
+
+***
+
+Je merkt op dat de simulator inderdaad afwisselt tussen "Hallo mensen" en "Ik ben Dwenguino". Deze oneindige herhaling veroorzaakt echter een nieuw probleem: 
+
+![alt](embed/lcdvoorbeeld.png "Voorbeeld tekst")
+
+Dit probleem wordt veroorzaakt doordat het lcd-scherm niet alle karakters refresht, maar enkel de karakters die veranderen.
+
+> <span style="color:green">H a l l o  m e n s e n</span>
+> <span style="color:red">  I k   b e n  D w e n g u i n o</span>
+> <span style="color:green">H a l l o  m e n s e n</span><span style="color:red"> u i n o</span>
+
+Om dit op te lossen, gebruik je het *'maak lcd-scherm leeg'-blok* om het lcd-scherm telkens leeg te maken voordat er nieuwe tekst verschijnt:
+
+![blockly](@learning-object/wacht_m2/nl/3)

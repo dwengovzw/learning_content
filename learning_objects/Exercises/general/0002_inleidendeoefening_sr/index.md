@@ -47,7 +47,7 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 * Om de simulatie te stoppen, klik je in het *codeveld* of op ![alt](embed/simmenu_stop.png "simulator stop").
 
 <div class="alert alert-box alert-success">
-Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox* nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
+Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de <em>toolbox</em> nemen en deze aan een programma toevoegen in het <em>codeveld</em>. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
 </div>
 
 <div class="alert alert-box alert-success">
