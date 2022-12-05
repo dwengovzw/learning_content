@@ -45,19 +45,13 @@ Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
 Het ontwerp van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-CAD-tekening is abstractie van de drie soorten van kapstok. 
+CAD-tekening is **abstractie** van de drie soorten van kapstok. 
 </abstraction>
 <algorithms>
 **algoritme** <br>
     Aanpassen van bepaalde parameters in de software.
 </algorithms>
 <implementation>
-
-
-<h5>titel</h5>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+Geen implementatie. Dit is (voorlopig) een unplugged voorbeeld.
 </implementation>
 
