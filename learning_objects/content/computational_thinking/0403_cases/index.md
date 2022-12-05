@@ -2,8 +2,8 @@
 hruid: cd_cases3-v1
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Pythagoras - schuine zijde"
+description: "Pythagoras - schuine zijde"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# titel
-tekst
+# De stelling van Pythagoras: berekenen schuine zijde
+
+Doelgroep: 2de graad, dubbelde finaliteit of finaliteit doorstroom
+
+Vak: Wiskunde
+
+Voorkennis: De leerlingen kunnen a.d.h.v. de stelling van Pythagoras de schuine zijde van een rechthoekige driehoek manueel berekenen. Ze kennen de stelling van Pytagoras in formulevorm.
 
 ![ct-schema](@learning-object/m_cd_cases3/nl/3)
+
+Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om complexe problemen op te lossen die zich herleiden tot bovenstaand opgelost probleem. De focus van de les kan dan liggen op het mathematiseren van het probleem, waarna de oplossing kan bepaald worden m.b.v. de computer.
