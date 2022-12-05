@@ -40,5 +40,8 @@ Oplossing:
 ![blockly](@learning-object/lcd_m1/nl/3)
 
 <div class="alert alert-box alert-success">
-De tekst 'Welkom robot' kan je aanpassen.<br><br>De twee nullen betekenen: eerste lijn, eerste karakter.
+De tekst 'Welkom robot' in het blauwe blokje kan je aanpassen.<br><br>
+De twee nullen eronder zijn ook van belang:<br>
+<em>op rij 0</em>: de tekst verschijnt op de eerste regel.<br>
+<em> vanaf kolom 0: de tekst verschijnt vanaf het eerste karakter.
 </div>

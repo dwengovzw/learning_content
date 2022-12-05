@@ -40,7 +40,7 @@ Oplossing:
 ![blockly](@learning-object/lcd_m2/nl/3)
 
 <div class="alert alert-box alert-success">
-Om de tekst in 2 rijen te splitsen, heb je een tweede <em>'lcd-scherm'-blok</em> nodig.<br>
+Om de tekst over twee lijnen te verdelen, heb je een tweede <em>'lcd-scherm'-blok</em> nodig.<br>
 Verander je bij 'op rij:' de 0 in een 1, dan komt de tekst op de tweede lijn.
 </div>
 
