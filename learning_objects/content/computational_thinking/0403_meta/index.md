@@ -48,7 +48,7 @@ De formule zal daarom opgenomen worden in een zelfgedefinieerde functie.
 
 </patternRecognition>
 <abstraction>
-Een functie is een abstractie van een subalgoritme.
+Een functie is een **abstractie** van een subalgoritme.
 
 </abstraction>
 <algorithms>
@@ -60,7 +60,7 @@ Het algoritme bevat (in deze volgorde) instructies om:
 
 </algorithms>
 <implementation>
-** Programma in Python**
+**Programma in Python**
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 def pythagoras(a, b):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
