@@ -35,9 +35,9 @@ Analyseer hoe het zeeniveau in Oostende in de toekomst zal evolueren.
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb ik nodig? Subtaken (**decompositie**):<br>
-1. Nodig: data uit het verleden
-2. Data verzamelen
-3. Data visualiseren
+1. Nodig: data uit het verleden 
+2. Data verzamelen <span style="color: yellowgreen">→ website MIRA</span>
+3. Data visualiseren <span style="color: yellowgreen">→ keuze software, bv. Python</span>
 4. Trendlijnen bepalen
 </decomposition>
 <patternRecognition>
