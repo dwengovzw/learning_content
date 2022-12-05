@@ -2,8 +2,8 @@
 hruid: cd_cases4-v1
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Zeeniveau"
+description: "Zeeniveau"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# titel
-tekst
+# Evolutie van het Oostendse zeeniveau
+In de context van de klimaatverandering gaan de leerlingen aan de slag met 'echte' data.
+
+Doelgoep: 2de of 3de graad - dubbele finaliteit of finaliteit doorstroom
+
+Vak: Wiskunde - Wetenschappen - STEM
 
 ![ct-schema](@learning-object/m_cd_cases4/nl/3)
