@@ -31,9 +31,32 @@ teacher_exclusive: false
 ---
 ## Wacht
 
-OPGAVE 1
+OPGAVE 1.1
 
 Schrijf een programma dat het volgende doet:
 
 * Laat "Hallo mensen" op het lcd-scherm verschijnen gedurende 1 seconde (1000 ms).
 * Laat "Ik ben Dwenguino" op het lcd-scherm verschijnen voor 2 seconden (2000 ms).
+* Herhaal.
+
+<div class="alert alert-box alert-danger">
+Let erop dat je hiervoor de code in het <em>'herhaal'-deel</em> van het <em>'zet klaar/herhaal'-blok</em> plaatst!<br>
+Op die manier zal alle code in het <em>'herhaal'-deel</em> blijven herhaald worden.
+</div>
+
+***
+
+OPGAVE 1.2
+
+Als je het lcd-scherm correct geprogrammeerd hebt, zou je het volgende probleem moeten ondervinden: 
+
+> <span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><br>
+<span style="color:red">&nbsp;I&nbsp;k&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;e&nbsp;n&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+<span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+<span style="color:red">&nbsp;I&nbsp;k&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;e&nbsp;n&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+<span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+...
+
+Los het probleem op m.b.v. het <em>'maak lcd-scherm leeg'-blok</em>: 
+
+![alt](embed/maaklcdleeg.png "maak lcd-scherm leeg")
