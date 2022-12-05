@@ -2,8 +2,8 @@
 hruid: m_cd_cases4
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Zeeniveau"
+description: "Zeeniveau"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,27 +31,34 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
+Analyseer hoe het zeeniveau in Oostende in de toekomst zal evolueren. 
 </div>
 </context>
 <decomposition>
-Tekst
+Verkennen van het probleem. Wat heb ik nodig? Subtaken (**decompositie**):<br>
+1. Nodig: data uit het verleden
+2. Data verzamelen
+3. Data visualiseren
+4. Trendlijnen bepalen
 </decomposition>
 <patternRecognition>
-Tekst
+Welke trendlijn is geschikt? <br>
+Kijk naar de vorm van het spreidingsdiagram. Ellipsvormig? Dat wijst op lineaire regressie. (**patroonherkenning**)
+![image](https://user-images.githubusercontent.com/48352335/205666980-64e8bf29-3e3f-49a9-8274-8fade3ca85fb.png)
 </patternRecognition>
 <abstraction>
-Tekst
+De trendlijn is een benadering (model) van het schommelende zeeniveau die de stijgende trend weerspiegelt, en toelaat voorspellingen te doen voor de evolutie van het zeeniveau in de toekomst. (**abstractie**)
 </abstraction>
 <algorithms>
-Tekst
+Een algoritme om in Python de trendlijnen te visualiseren (a.d.h.v. Python-modules):
+1. Definieer gedaante van vergelijking rechte
+2. Definieer functie om coëfficiënten trendlijn te bepalen passend bij gegeven datapunten
+3. Lees data in
+4. Bepaal a.d.h.v. data en bovenstaande definities de trendlijn
+5. Visualiseer data en trendlijn
 </algorithms>
 <implementation>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+Voor de implementatie verwijzen we naar het leerpad 'Klimaat' van het lesthema 'Python in STEM'.
 </implementation>
 
