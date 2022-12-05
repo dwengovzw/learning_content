@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Doelgroep en voorkennis
+# Een kleerhanger ontwerpen
 Doelgroep: 2de graad hout-richting
 
 Voorkennis: De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
