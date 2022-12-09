@@ -36,19 +36,19 @@ teacher_exclusive: true
 
 De eindtermen die digitale vaardigheden, en in het bijzonder computationeel denken, aanspreken, vormen **verticale** leerlijnen (van het eerste t.e.m. het zesde jaar
 van het secundair onderwijs) voor:
-• Digitale toepassingen:
-– een leerlijn rond creëren, delen, samenwerken, communiceren, participeren en interageren a.d.h.v. digitale toepassingen;
-– een leerlijn rond ICT-gebruik in bepaalde vakken.
+* Digitale toepassingen:
+    * een leerlijn rond creëren, delen, samenwerken, communiceren, participeren en interageren a.d.h.v. digitale toepassingen;
+    * een leerlijn rond ICT-gebruik in bepaalde vakken.
 Digitale systemen en systemen in het algemeen.
-• Informatiegeletterdheid:
-– een leerlijn informatie verwerven en verwerken;
-– een leerlijn datageletterdheid;
-– een leerlijn modelleren en simuleren.
-• Mediawijsheid.
-• Probleemoplossend denken.
-• Communiceren over de oplossing van een probleem.
-• Algoritmen.
-• Logica.
+* Informatiegeletterdheid:
+    * een leerlijn informatie verwerven en verwerken;
+    * een leerlijn datageletterdheid;
+    * een leerlijn modelleren en simuleren.
+* Mediawijsheid.
+* Probleemoplossend denken.
+* Communiceren over de oplossing van een probleem.
+* Algoritmen.
+* Logica.
 
 De STEM-eindtermen stellen een geïntegreerde STEM voorop. Dit biedt kansen tot het ontwikkelen van een **horizontale** leerlijn, waarin samenwerking binnen het
 leerkrachtenteam, over de vakken heen, wordt vooropgesteld. <br>
