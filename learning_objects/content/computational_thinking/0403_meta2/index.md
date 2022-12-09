@@ -2,8 +2,8 @@
 hruid: m_cd_cases3b
 version: 3
 language: nl
-title: "Pythagoras - schuine zijde"
-description: "Pythagoras - schuine zijde"
+title: "Pythagoras - routeplanner"
+description: "Pythagoras - routeplanner"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
