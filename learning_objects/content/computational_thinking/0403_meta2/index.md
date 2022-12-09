@@ -1,5 +1,5 @@
 ---
-hruid: m_cd_cases3b
+hruid: m_cd_cases3b1
 version: 3
 language: nl
 title: "Pythagoras - schuine zijde"
@@ -63,6 +63,7 @@ Het algoritme bevat (in deze volgorde) instructies om:
 **Programma in Python**
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 def pythagoras(a, b):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"""Schuine zijde berekenen uit gekende rechthoekszijden."""<br>
 &nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return c<br><br>
 # invoer<br>
