@@ -34,7 +34,7 @@ teacher_exclusive: true
 ### Doel
 **De afstand in vogelvlucht bepalen.**
 
-* De leerlingen ondervinden dat ze snel het resultaat vinden als ze de hulp van de computer inroepen.*
+*De leerlingen ondervinden dat ze snel het resultaat vinden als ze de hulp van de computer inroepen.*
 
 Voorkennis: /
 
