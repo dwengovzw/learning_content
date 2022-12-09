@@ -1,5 +1,5 @@
 ---
-hruid: cd_cases900-v1
+hruid: m_ct_cases7
 version: 3
 language: nl
 title: "Cases"
