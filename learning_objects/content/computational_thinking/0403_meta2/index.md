@@ -2,8 +2,8 @@
 hruid: m_cd_cases3b
 version: 3
 language: nl
-title: "Pythagoras - routeplanner"
-description: "Pythagoras - routeplanner"
+title: "Pythagoras - schuine zijde"
+description: "Pythagoras - schuine zijde"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,40 +31,48 @@ teacher_exclusive: true
 ---
 
 <context>
-New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in mijl. 
-Vertrek hiervoor van de wandelafstanden die een routeplanner verstrekt om van Times Square naar het Empire State Building te wandelen. 
+Automatiseer het berekenen van de schuine zijde van een rechthoekige driehoek als de rechthoekszijden gekend zijn.
 </context>
 <decomposition>
-**Decompositie** in subtaken:<br>
-1. Bepaal het hoekpunt van de rechte hoek in de routeplanner (metrostation 34st/Herald Sq).
-2. Gebruik de routeplanner om de wandelafstand te bepalen op de twee rechthoekszijden.
+Subtaken (**decompositie**):<br>
+1. Inzetten van de computer om de schuine zijde te berekenen. 
+2. Formule? Gekend uit de stelling van Pythagoras.
+3. Gebruiker moet in staat zijn om de lengte van de  gegeven rechthoekszijden in te geven.
+4. Welk datatype is het meest geschikt voor die zijden? Int of float?
+5. Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?
 </decomposition>
 <patternRecognition>
-Het stratenplan vertoont een **patroon**:<br> 
-de straten vormen een rechthoekig rooster.<br>
-De afstand in vogelvlucht kan dus bepaald worden als de schuine zijde van een rechthoekige driehoek.
+Als eenzelfde berekening vaak moet herhaald worden, dan is het handig deze te vatten in een functie. (**patroonherkenning**)
+    
+De formule zal daarom opgenomen worden in een zelfgedefinieerde functie. 
+
 </patternRecognition>
 <abstraction>
-De straten en kruispunten worden **geabstraheerd** tot de zijden en de hoekpunten van een rechthoekige driehoek. 
+Een functie is een **abstractie** van een subalgoritme.
+
 </abstraction>
 <algorithms>
-**Algoritme**: Bereken de vierkantswortel van de som van de kwadraten van de parameters.
-(De parameters zijn de lengtes van de rechthoekszijden.) 
+Het algoritme bevat (in deze volgorde) instructies om:
+1. de gegevens op te vragen aan de gebruiker;
+2. die gegevens te verwerken met als doel het bekomen van de lengte van de schuine zijde;
+3. de lengte van de schuine zijde te laten zien op het scherm. 
+
+
 </algorithms>
 <implementation>
 **Programma in Python**
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 def pythagoras(a, b):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Schuine zijde berekenen uit rechthoekszijden."""  
 &nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return c<br><br>
 # invoer<br>
 rhz1 = float(input("Lengte van de eerste rechthoekszijde: "))<br>
-rhz2 = float(input("Geef de lengte van de tweede rechthoekszijde: "))<br><br>
+rhz2 = float(input(“Geef de lengte van de tweede rechthoekszijde: "))<br><br>
 # verwerking<br>
-vogelvlucht = pythagoras(rhz1, rhz2)<br><br>
+schz = pythagoras(rhz1, rhz2)<br><br>
 # uitvoer<br>
-print("De afstand in vogelvlucht is: ", vogelvlucht)
+print("De lengte van de schuine zijde is: ", schz)
 </div>
 
 </implementation>
+
