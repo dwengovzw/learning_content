@@ -1,5 +1,5 @@
 ---
-hruid: m_cd_cases3c
+hruid: m_cd_cases3a1
 version: 3
 language: nl
 title: "Pythagoras - schuine zijde"
