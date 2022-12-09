@@ -1,9 +1,9 @@
 ---
-hruid: ct_cases-v1
+hruid: ct_casestemplate
 version: 3
 language: nl
-title: "Appels en peren"
-description: "Appels en peren"
+title: "template"
+description: "template"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,9 +29,9 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Appels onderscheiden van peren
-Het volgend schema illustreert hoe men a.d.h.v. regels een computer kan programmeren om appels en peren van elkaar te onderscheiden.
+# Ttel
+Tekst
 
-![ct-schema](@learning-object/m_ct_cases/nl/3)
+![ct-schema](@learning-object/m_ct_casesX/nl/3)
 
-Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neurale netwerk kan betere resultaten geven. 
+Tekst
