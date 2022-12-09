@@ -2,8 +2,8 @@
 hruid: m_ct_cases6
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Routeplanner"
+description: "Routeplanner"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,27 +31,27 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
+New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in mijl? 
 </div>
 </context>
 <decomposition>
-Tekst
+Decompositie in subtaken:
+1. Roep de hulp in van een computer → gebruik een routeplanner, bv. Google maps.
+2. Times Square en Empire State Building aanduiden.
+ ![image](https://user-images.githubusercontent.com/48352335/206757334-ebdad093-2ee7-493c-9d53-2c14c598115c.png)
 </decomposition>
 <patternRecognition>
-Tekst
+
 </patternRecognition>
 <abstraction>
-Tekst
+Het stratenplan van New York is een abstractie van de stad. 
+Het gebouw en het plein worden geabstraheerd tot een puntje op de kaart.  
 </abstraction>
 <algorithms>
-Tekst
+
 </algorithms>
 <implementation>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+    Je maakt gebruik van de functionaliteit van Google maps: <em>measure distance</em>
+![image](https://user-images.githubusercontent.com/48352335/206757540-f5205128-03b3-46e4-adac-09efecb53a39.png)
 </implementation>
 
