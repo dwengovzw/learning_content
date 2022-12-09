@@ -1,5 +1,5 @@
 ---
-hruid: cd_cases5-v1
+hruid: ct_cases5
 version: 3
 language: nl
 title: "Sociale robot"
