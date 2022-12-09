@@ -58,3 +58,40 @@ Voorkennis: De leerlingen hebben eventueel al geleerd om in Python een functie t
 Voorkennis: De leerlingen gebruiken de zelfgedefinieerde functie in een oefening met context.
 
 ![ct-schema](@learning-object/m_cd_cases3c/nl/3)
+
+### Eindtermen (Bron: onderwijsdoelen.be)
+(4.5 Finaliteit doorstroom) De leerlingen ontwerpen algoritmen om problemen digitaal op te lossen.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau creëren
+
+(4.5 Dubbele finaliteit) De leerlingen lossen een afgebakend probleem digitaal op door een aangereikt algoritme aan te passen. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau creëren
+
+(6.4 Finaliteit doorstroom) De leerlingen passen geschikte meetkundige concepten en eigenschappen van vlakke figuren toe om vlakke en ruimtelijke problemen op te lossen:
+* gelijkvormigheidskenmerken van driehoeken 
+* de stelling van Thales
+* de stelling van Pythagoras
+* goniometrische getallen in een rechthoekige driehoek
+* bijzondere lijnen in driehoeken
+
+Met inbegrip van context
+* De eindterm wordt zowel met als zonder context gerealiseerd.
+
+Cognitieve dimensie: beheersingsniveau toepassen
+
+(6.4 Dubbele finaliteit) De leerlingen passen in betekenisvolle situaties geschikte meetkundige concepten en eigenschappen van vlakke figuren toe om vlakke en ruimtelijke problemen op te lossen:
+* gelijkvormigheid van driehoeken
+* de stelling van Pythagoras
+* goniometrische getallen in een rechthoekige driehoek
+
+&nbsp;&nbsp;&nbsp;&nbsp;De eindterm wordt zowel met als zonder context gerealiseerd.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau toepassen
+
+(6.55 Finaliteit doorstroom; 6.31 Dubbele finaliteit) De leerlingen ontwerpen een oplossing voor een probleem door concepten en praktijken uit verschillende STEM-disciplines geïntegreerd aan te wenden.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Met inbegrip van context
+&nbsp;&nbsp;&nbsp;&nbsp;* Elke STEM-discipline komt ten minste één maal geïntegreerd aan bod.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau creëren
