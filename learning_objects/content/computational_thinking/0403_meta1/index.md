@@ -1,5 +1,5 @@
 ---
-hruid: m_cd_cases3a
+hruid: m_cd_cases3c
 version: 3
 language: nl
 title: "Pythagoras - schuine zijde"
@@ -42,13 +42,9 @@ Subtaken (**decompositie**):<br>
 5. Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?
 </decomposition>
 <patternRecognition>
-Als eenzelfde berekening vaak moet herhaald worden, dan is het handig deze te vatten in een functie. (**patroonherkenning**)
-    
-De formule zal daarom opgenomen worden in een zelfgedefinieerde functie. 
 
 </patternRecognition>
 <abstraction>
-Een functie is een **abstractie** van een subalgoritme.
 
 </abstraction>
 <algorithms>
@@ -62,17 +58,13 @@ Het algoritme bevat (in deze volgorde) instructies om:
 <implementation>
 **Programma in Python**
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-def pythagoras(a, b):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;return c<br><br>
 # invoer<br>
 rhz1 = float(input("Lengte van de eerste rechthoekszijde: "))<br>
 rhz2 = float(input(“Geef de lengte van de tweede rechthoekszijde: "))<br><br>
 # verwerking<br>
-schz = pythagoras(rhz1, rhz2)<br><br>
+schz = math.sqrt(rhz1**2 + rhz2**2)<br><br>
 # uitvoer<br>
 print("De lengte van de schuine zijde is: ", schz)
 </div>
 
 </implementation>
-
