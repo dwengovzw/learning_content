@@ -2,8 +2,8 @@
 hruid: ct_cases6
 version: 3
 language: nl
-title: "Appels en peren"
-description: "Appels en peren"
+title: "Routeplanner"
+description: "Routeplanner"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,9 +29,15 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Appels onderscheiden van peren
-Het volgend schema illustreert hoe men a.d.h.v. regels een computer kan programmeren om appels en peren van elkaar te onderscheiden.
+# Afstand in vogelvlucht
+
+### Doel
+**De afstand in vogelvlucht bepalen.**
+
+* De leerlingen ondervinden dat ze snel het resultaat vinden als ze de hulp van de computer inroepen.*
+
+Voorkennis: /
 
 ![ct-schema](@learning-object/m_ct_cases6/nl/3)
 
-Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neurale netwerk kan betere resultaten geven. 
+ 
