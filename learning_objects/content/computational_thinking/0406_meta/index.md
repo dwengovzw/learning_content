@@ -51,7 +51,7 @@ Het gebouw en het plein worden geabstraheerd tot een puntje op de kaart.
 
 </algorithms>
 <implementation>
-    Je maakt gebruik van de functionaliteit van Google maps: <em>measure distance</em>
+Oplossing laten bepalen door de computer door gebruik te maken van de functionaliteit van Google maps: 'measure distance'.
 ![image](https://user-images.githubusercontent.com/48352335/206757540-f5205128-03b3-46e4-adac-09efecb53a39.png)
 </implementation>
 
