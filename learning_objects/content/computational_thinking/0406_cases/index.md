@@ -43,4 +43,9 @@ Voorkennis:
 
 ![ct-schema](@learning-object/m_ct_cases6/nl/3)
 
- 
+De leerlingen zullen misschien een andere routeplanner gebruiken die niet over de mogelijkheid beschikt om de afstand in vogelvlucht op te vragen. <br>
+Deze leerlingen kunnen de afstand in vogelvlucht
+* berekenen met de stelling van Pythagoras (nodige voorkennis: de leerlingen kennen de stelling van Pythagoras). 
+* vinden door te meten (zelf een tekening maken en meten, of meten op de figuur van de routeplanner) (nodige voorkennis: de leerlingen kennen gelijkvormige driehoeken). 
+
+![ct-schema](@learning-object/m_ct_cases6b/nl/3)
