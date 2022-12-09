@@ -34,9 +34,12 @@ teacher_exclusive: true
 ### Doel
 **De afstand in vogelvlucht bepalen.**
 
-*De leerlingen ondervinden dat ze snel het resultaat vinden als ze de hulp van de computer inroepen.*
+*De leerlingen kunnen dit probleem op meerdere manieren aanpakken, bv. door een atlas te gebruiken of via een online routeplanner. De leerlingen ondervinden echter dat ze het resultaat sneller bekomen als ze de hulp van de computer inroepen.*
 
-Voorkennis: /
+Voorkennis: 
+* De leerlingen kunnen een atlas gebruiken. 
+* De leerlingen kennen de betekenis van de schaal vermeld op een kaart.
+* De leerlingen weten dat er online routeplanners zijn. 
 
 ![ct-schema](@learning-object/m_ct_cases6/nl/3)
 
