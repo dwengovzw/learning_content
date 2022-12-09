@@ -55,7 +55,7 @@ De straten en kruispunten worden **geabstraheerd** tot de zijden en de hoekpunte
 **Programma in Python**
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 def pythagoras(a, b):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Schuine zijde berekenen uit rechthoekszijden."""  
+&nbsp;&nbsp;&nbsp;&nbsp;"""Schuine zijde berekenen uit gekende rechthoekszijden."""  
 &nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return c<br><br>
 # invoer<br>
