@@ -1,5 +1,5 @@
 ---
-hruid: pm_slotstructuren
+hruid: pn_slot_structuren
 version: 3
 language: nl
 title: "Slot"
