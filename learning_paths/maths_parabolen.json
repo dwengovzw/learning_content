@@ -1,5 +1,5 @@
 {
-  "hruid": "pn_parabolen",
+  "hruid": "maths_parabolen",
   "language": "nl",
   "title": "Parabolen",
   "description": "Teken parabolen met Python. Automatiseer het oplossen van een vierkantsvergelijking. Welke invloed hebben de parameters in de vergelijking op de grafiek?",

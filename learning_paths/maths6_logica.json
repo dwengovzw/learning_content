@@ -1,5 +1,5 @@
 {
-  "hruid": "pn_logica",
+  "hruid": "maths_logica",
   "language": "nl",
   "title": "Logica",
   "description": "Genereer waarheidstabellen met Python en controleer of een uitdrukking waar of vals is.",
