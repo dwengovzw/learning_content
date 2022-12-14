@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "kiks_silvretta",
+            "hruid": "kiks_stomata_hoogte_bomen",
             "version": "3",
             "language": "nl"
           }
@@ -23,7 +23,22 @@
       ]
     },
     {
-      "learningobject_hruid": "kiks_silvretta",
+      "learningobject_hruid": "kiks_stomata_hoogte_bomen",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "kiks_morteratsch",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "kiks_morteratsch",
       "version": "3",
       "language": "nl",
       "transitions": [
