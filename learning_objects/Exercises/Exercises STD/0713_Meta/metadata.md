@@ -1,5 +1,5 @@
 ---
-hruid: KNOPSTD3-v1
+hruid: KNOPSTD3
 version: 3
 language: nl
 title: "Meta"

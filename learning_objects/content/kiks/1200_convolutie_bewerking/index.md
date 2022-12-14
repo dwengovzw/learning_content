@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_convolutie_bewerking-v1
+hruid: kiks_convolutie_bewerking
 version: 3
 language: nl
 title: "Convolutie bewerking"

@@ -1,5 +1,5 @@
 ---
-hruid: Forlus_Oef1-v1
+hruid: Forlus_Oef1
 version: 3
 language: nl
 title: "Forlus Oefening 1"

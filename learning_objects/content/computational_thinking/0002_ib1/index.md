@@ -1,5 +1,5 @@
 ---
-hruid: cd_ib1-v1
+hruid: ct_ib1
 version: 3
 language: nl
 title: "De gedigitaliseerde wereld"

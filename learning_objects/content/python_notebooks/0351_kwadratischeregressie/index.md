@@ -1,5 +1,5 @@
 ---
-hruid: pn_kwadratischeregressie-v1
+hruid: pn_kwadratischeregressie
 version: 3
 language: nl
 title: "Schuine worp"

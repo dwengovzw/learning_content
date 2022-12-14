@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_Overfitting-v1
+hruid: kiks_overfitting
 version: 3
 language: nl
 title: "Overfitting"

@@ -1,5 +1,5 @@
 ---
-hruid: SR_Robotontwerp-v1
+hruid: sr_robotontwerp
 version: 3
 language: nl
 title: "Brainstorm"

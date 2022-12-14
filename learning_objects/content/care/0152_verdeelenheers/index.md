@@ -1,5 +1,5 @@
 ---
-hruid: aiz_algoritmes-v1
+hruid: aiz_algoritmes
 version: 3
 language: nl
 title: "Algoritmes"

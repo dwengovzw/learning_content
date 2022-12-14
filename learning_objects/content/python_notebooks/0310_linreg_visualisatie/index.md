@@ -1,5 +1,5 @@
 ---
-hruid: PN_SprLinRegVis-v1
+hruid: pn_spr_linregvisualisatie
 version: 3
 language: nl
 title: "Visualisatie"

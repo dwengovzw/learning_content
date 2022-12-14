@@ -1,5 +1,5 @@
 ---
-hruid: PN_DataUitBestand-v1
+hruid: pn_datauitbestand
 version: 3
 language: nl
 title: "Data uit bestand"

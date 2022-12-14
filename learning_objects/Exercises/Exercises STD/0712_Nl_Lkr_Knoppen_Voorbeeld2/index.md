@@ -1,5 +1,5 @@
 ---
-hruid: STD_KnoppenVB2-v1
+hruid: STD_KnoppenVB2
 version: 3
 language: nl
 title: "Voorbeeld Knoppen 2"
@@ -37,7 +37,7 @@ Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje 
 
 Oplossing:
 
-![blockly](@learning-object/KNOPwgs2-v1/nl/3) 
+![blockly](@learning-object/KNOPwgs2/nl/3) 
 
 Waarom is het hier van belang dat we de code in het *'herhaal'-deel* van de code plaatsen?
 

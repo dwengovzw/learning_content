@@ -1,5 +1,5 @@
 ---
-hruid: SR_WachtOef4-v1
+hruid: sr_WachtOef4
 version: 3
 language: nl
 title: "Oefening Wacht 2"

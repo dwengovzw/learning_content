@@ -1,5 +1,5 @@
 ---
-hruid: STD_Led-v1
+hruid: STD_Led
 version: 3
 language: nl
 title: "Uitleg Led"

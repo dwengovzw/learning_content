@@ -1,5 +1,5 @@
 ---
-hruid: PN_BoolNonetype-v1
+hruid: pn_boolnonetype
 version: 3
 language: nl
 title: "Bool - NoneType"

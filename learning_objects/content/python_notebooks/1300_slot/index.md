@@ -1,5 +1,5 @@
 ---
-hruid: PN_SlotIP-v1
+hruid: pn_slot_ip
 version: 3
 language: nl
 title: "Slot"

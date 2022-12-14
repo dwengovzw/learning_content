@@ -1,5 +1,5 @@
 ---
-hruid: SR_SonarVB2-v1
+hruid: sr_SonarVB2
 version: 3
 language: nl
 title: "Voorbeeld sonar-sensor 2"
@@ -40,7 +40,7 @@ Hier moet je gebruikmaken van een keuzestructuur: een als - dan of als - dan - a
 
 Oplossing:  
 
-![blockly](@learning-object/SRM_Sonar2-v1/nl/3)
+![blockly](@learning-object/SRM_Sonar2/nl/3)
 
 Bij het programmeren van de sociale robot kan je andere acties koppelen aan deze voorwaarden. Je kan bijvoorbeeld de armen laten zwaaien of ogen laten knipperen wanneer iemand tussen de 0 en 50 cm van de robot verwijderd is.
 

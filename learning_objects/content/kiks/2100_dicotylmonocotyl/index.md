@@ -1,5 +1,5 @@
 ---
-hruid: kiks_dicotylmonocotyl-v1
+hruid: kiks_dicotylmonocotyl
 version: 3
 language: nl
 title: "Monocotylen en dicotylen"

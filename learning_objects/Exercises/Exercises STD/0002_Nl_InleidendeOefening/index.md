@@ -1,5 +1,5 @@
 ---
-hruid: STD_InleidendeOefening-v1
+hruid: STD_InleidendeOefening
 version: 3
 language: nl
 title: "Inleidende oefening"

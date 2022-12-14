@@ -1,5 +1,5 @@
 ---
-hruid: cd_eindtermen2-v1
+hruid: ct_eindtermen2
 version: 3
 language: nl
 title: "Digitale competentie"

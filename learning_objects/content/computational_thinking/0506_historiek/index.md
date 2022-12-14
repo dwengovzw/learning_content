@@ -1,5 +1,5 @@
 ---
-hruid: cd_historiek7-v1
+hruid: ct_historiek7
 version: 3
 language: nl
 title: "Samenvatting"

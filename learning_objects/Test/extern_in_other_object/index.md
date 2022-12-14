@@ -29,6 +29,6 @@ skos_concepts: [
 ---
 Hier is een jupyter notebook:
 
-![notebook](@learning-object/extern-test-v1/nl/3)
+![notebook](@learning-object/extern-test/nl/3)
 
 

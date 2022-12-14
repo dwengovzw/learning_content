@@ -1,5 +1,5 @@
 ---
-hruid: PN_ZNReg-v1
+hruid: pn_regressie_zeeniveau
 version: 3
 language: nl
 title: "Regressie zeeniveau"

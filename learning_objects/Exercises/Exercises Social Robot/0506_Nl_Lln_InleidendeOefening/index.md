@@ -1,5 +1,5 @@
 ---
-hruid: SR_InleidendeOefening-v1
+hruid: sr_InleidendeOefening
 version: 3
 language: nl
 title: "Inleidende oefening"

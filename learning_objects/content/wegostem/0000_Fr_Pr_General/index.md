@@ -1,5 +1,5 @@
 ---
-hruid: Pr_General-v1
+hruid: wgs_pr_general
 version: 3
 language: fr
 title: "Rejoindre WeGoSTEM"

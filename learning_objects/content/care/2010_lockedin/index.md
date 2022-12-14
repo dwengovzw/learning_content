@@ -1,5 +1,5 @@
 ---
-hruid: aiz_lockedin-v1
+hruid: aiz_lockedin
 version: 3
 language: nl
 title: "Het locked-in syndroom"

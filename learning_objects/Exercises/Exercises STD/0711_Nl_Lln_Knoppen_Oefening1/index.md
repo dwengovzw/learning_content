@@ -1,5 +1,5 @@
 ---
-hruid: STD_Lkr_KnoppenOef1-v1
+hruid: STD_Lkr_KnoppenOef1
 version: 3
 language: nl
 title: "Oefening Knoppen 1"
@@ -38,6 +38,6 @@ Het programma begint pas te lopen wanneer de NOORD-knop wordt ingedrukt. Eens de
 
 Oplossing:
 
-![blockly](@learning-object/KNOPwgs1-v1/nl/3)
+![blockly](@learning-object/KNOPwgs1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

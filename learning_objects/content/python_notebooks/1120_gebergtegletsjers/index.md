@@ -1,5 +1,5 @@
 ---
-hruid: PN_Gebergtegletsjers-v1
+hruid: pn_gebergtegletsjers
 version: 3
 language: nl
 title: "Gebergtegletsjers"

@@ -1,5 +1,5 @@
 ---
-hruid: Conclusion_PuH-v1
+hruid: wgs_conclusion_puh
 version: 3
 language: fr
 title: "Conclusion Programmer un humain"

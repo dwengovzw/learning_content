@@ -1,5 +1,5 @@
 ---
-hruid: SR_AlsDanVB1-v1
+hruid: sr_AlsDanVB1
 version: 3
 language: nl
 title: "Voorbeeld keuzestructuren 1"
@@ -35,7 +35,7 @@ OPGAVE 1
 Schrijf een programma dat de servomotor enkel 
 Oplossing:
 
-![blockly](@learning-object/SRM_Sonar1-v1/nl/3)
+![blockly](@learning-object/SRM_Sonar1/nl/3)
 
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

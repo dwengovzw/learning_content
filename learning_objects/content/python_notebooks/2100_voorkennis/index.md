@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisSA-v1
+hruid: pn_sa_voorkennis
 version: 3
 language: nl
 title: "Voorkennis"

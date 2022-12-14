@@ -1,5 +1,5 @@
 ---
-hruid: AGRI_webcam-v1
+hruid: agri_webcam
 version: 3
 language: nl
 title: "Met de webcam"

@@ -1,5 +1,5 @@
 ---
-hruid: WACHT1-v1
+hruid: WACHT1
 version: 3
 language: nl
 title: "Meta"

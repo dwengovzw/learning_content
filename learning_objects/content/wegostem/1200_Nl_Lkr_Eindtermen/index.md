@@ -1,5 +1,5 @@
 ---
-hruid: Onderwijsdoelen-v1
+hruid: wgs_onderwijsdoelen
 version: 3
 language: nl
 title: "Onderwijsdoelen"

@@ -1,5 +1,5 @@
 ---
-hruid: PN_SprPraktisch-v1
+hruid: pn_spr_praktisch
 version: 3
 language: nl
 title: "Spreidingsdiagram - praktisch"

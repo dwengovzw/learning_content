@@ -1,5 +1,5 @@
 ---
-hruid: pn_voorkennisparameter-v1
+hruid: pn_voorkennisparameter
 version: 3
 language: nl
 title: "Voorkennis"

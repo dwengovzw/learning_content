@@ -1,5 +1,5 @@
 ---
-hruid: SR_Uitleg7-v1
+hruid: sr_uitleg7
 version: 3
 language: nl
 title: "Sociale robots in de toekomst"

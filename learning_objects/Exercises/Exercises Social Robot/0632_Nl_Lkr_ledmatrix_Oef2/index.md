@@ -1,5 +1,5 @@
 ---
-hruid: SR_MatrixOef2-v1
+hruid: sr_MatrixOef2
 version: 3
 language: nl
 title: "Oefening led-matrix 1"

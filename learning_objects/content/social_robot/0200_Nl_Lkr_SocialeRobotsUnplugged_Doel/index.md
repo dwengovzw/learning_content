@@ -1,5 +1,5 @@
 ---
-hruid: SR_UnpluggedInleiding-v1
+hruid: sr_unpluggedinleiding
 version: 3
 language: nl
 title: "Unplugged activiteiten"

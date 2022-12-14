@@ -1,5 +1,5 @@
 ---
-hruid: wgs_uploadendwenguino-v1
+hruid: wgs_uploadendwenguino
 version: 3
 language: nl
 title: "Uploaden Dwenguino"

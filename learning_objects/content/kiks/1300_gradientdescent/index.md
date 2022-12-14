@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_gradient_descent-v1
+hruid: kiks_gradient_descent
 version: 3
 language: nl
 title: "Gradient descent"

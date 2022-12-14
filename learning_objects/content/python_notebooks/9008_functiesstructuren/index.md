@@ -1,5 +1,5 @@
 ---
-hruid: PN_FunctiesCombiPE-v1
+hruid: pn_pe_functiescombi
 version: 3
 language: nl
 title: "Combinatie-oefeningen"

@@ -1,5 +1,5 @@
 ---
-hruid: KapotMateriaal-v1
+hruid: wgs_kapotmateriaal
 version: 3
 language: nl
 title: "Kapot materiaal?"

@@ -1,5 +1,5 @@
 ---
-hruid: AIZ_Voorbeeld-v1
+hruid: aiz_voorbeeld
 version: 3
 language: nl
 title: "Voorbeeldnotebook"

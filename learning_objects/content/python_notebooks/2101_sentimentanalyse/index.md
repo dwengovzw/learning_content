@@ -1,5 +1,5 @@
 ---
-hruid: PN_Sentimentanalyse-v1
+hruid: pn_sentimentanalyse
 version: 3
 language: nl
 title: "Sentimentanalyse"

@@ -1,5 +1,5 @@
 ---
-hruid: cd_inleiding1-v1
+hruid: ct_inleiding1
 version: 3
 language: nl
 title: "Inleiding"

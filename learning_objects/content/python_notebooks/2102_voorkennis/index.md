@@ -1,5 +1,5 @@
 ---
-hruid: PN_CBVoorkennis-v1
+hruid: pn_cb_voorkennis
 version: 3
 language: nl
 title: "Voorkennis"

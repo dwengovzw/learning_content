@@ -1,5 +1,5 @@
 ---
-hruid: kiks_invloedomgeving-v1
+hruid: kiks_invloedomgeving
 version: 3
 language: nl
 title: "Invloed omgeving"

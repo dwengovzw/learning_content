@@ -1,5 +1,5 @@
 ---
-hruid: PN_DBGrijs-v1
+hruid: pn_db_grijs
 version: 3
 language: nl
 title: "Grijswaarden"

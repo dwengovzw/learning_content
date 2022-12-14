@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_Stomata-v1
+hruid: kiks_stomata
 version: 3
 language: nl
 title: "Stomatadetectie"

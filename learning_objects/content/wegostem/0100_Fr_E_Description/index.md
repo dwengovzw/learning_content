@@ -1,5 +1,5 @@
 ---
-hruid: Description-v1
+hruid: wgs_description
 version: 3
 language: fr
 title: "Introduction générale"

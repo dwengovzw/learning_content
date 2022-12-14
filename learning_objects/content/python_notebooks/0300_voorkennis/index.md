@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisLineaireRegressie-v1
+hruid: pn_voorkennis_lineaireregressie
 version: 3
 language: nl
 title: "Voorkennis"

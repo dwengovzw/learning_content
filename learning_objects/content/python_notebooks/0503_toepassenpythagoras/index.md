@@ -1,5 +1,5 @@
 ---
-hruid: PN_ToepassenPythagoras-v1
+hruid: pn_toepassenpythagoras
 version: 3
 language: nl
 title: "Toepassen op stelling van Pythagoras"

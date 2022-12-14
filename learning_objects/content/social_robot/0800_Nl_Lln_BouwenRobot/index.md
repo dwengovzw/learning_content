@@ -1,5 +1,5 @@
 ---
-hruid: SR_BouwenRobot-v1
+hruid: sr_bouwenrobot
 version: 3
 language: nl
 title: "Voorbereiding"

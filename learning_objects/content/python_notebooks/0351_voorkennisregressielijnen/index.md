@@ -1,5 +1,5 @@
 ---
-hruid: pn_voorkennisregressielijnen-v1
+hruid: pn_voorkennis_regressielijnen
 version: 3
 language: nl
 title: "Voorkennis"

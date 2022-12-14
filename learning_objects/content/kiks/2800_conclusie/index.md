@@ -1,5 +1,5 @@
 ---
-hruid: kiks_microscopieconclusie-v1
+hruid: kiks_microscopieconclusie
 version: 3
 language: nl
 title: "Conclusie"

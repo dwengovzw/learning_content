@@ -1,5 +1,5 @@
 ---
-hruid: led-v1
+hruid: led
 version: 3
 language: nl
 title: "Led"

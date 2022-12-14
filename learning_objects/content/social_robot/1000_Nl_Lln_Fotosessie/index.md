@@ -1,5 +1,5 @@
 ---
-hruid: SR_Fotosessie-v1
+hruid: sr_fotosessie
 version: 3
 language: nl
 title: "Creatieve opdracht"

@@ -1,5 +1,5 @@
 ---
-hruid: SR_ServoVB2-v1
+hruid: sr_ServoVB2
 version: 3
 language: nl
 title: "Voorbeeld servomotor 2"
@@ -43,7 +43,7 @@ Laat je niet misleiden! Dit is niet hetzelfde als de vorige oefening. I.p.v. geb
 
 Oplossing:  
 
-![blockly](@learning-object/SRM_Servo2-v1/nl/3)
+![blockly](@learning-object/SRM_Servo2/nl/3)
 
 Je bent nu in staat om een hele hoop andere acties te doen! Je robot kan iemand de hand schudden, z'n ogen bedekken...
 

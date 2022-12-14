@@ -1,5 +1,5 @@
 ---
-hruid: SR_Beschrijving-v1
+hruid: sr_beschrijving
 version: 3
 language: nl
 title: "Het 'Sociale robot'-project"

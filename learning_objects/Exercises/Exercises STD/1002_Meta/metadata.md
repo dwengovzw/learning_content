@@ -1,5 +1,5 @@
 ---
-hruid: STD_Reclame-v1
+hruid: STD_Reclame
 version: 3
 language: nl
 title: "Meta"

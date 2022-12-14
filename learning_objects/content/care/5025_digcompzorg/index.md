@@ -1,5 +1,5 @@
 ---
-hruid: aiz_etdigitalecompetentiezorg-v1
+hruid: aiz_etdigitalecompetentiezorg
 version: 3
 language: nl
 title: "Verwerking in het project"

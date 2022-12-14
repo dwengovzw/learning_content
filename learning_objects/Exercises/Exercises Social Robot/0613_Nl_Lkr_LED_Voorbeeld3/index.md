@@ -1,5 +1,5 @@
 ---
-hruid: SR_LedVB3-v1
+hruid: sr_LedVB3
 version: 3
 language: nl
 title: "Voorbeeld Led 3"
@@ -37,7 +37,7 @@ Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent d
 
 Oplossing:
 
-![blockly](@learning-object/SRM_LED3-v1/nl/3)
+![blockly](@learning-object/SRM_LED3/nl/3)
 
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

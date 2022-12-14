@@ -1,5 +1,5 @@
 ---
-hruid: Micro_Structuur-v1
+hruid: pc_micro_structuur
 version: 3
 language: nl
 title: "Structuur & Architectuur"

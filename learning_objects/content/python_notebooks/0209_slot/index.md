@@ -1,5 +1,5 @@
 ---
-hruid: PN_SlotSpreidingsdiagram-v1
+hruid: pn_slot_spreidingsdiagram
 version: 3
 language: nl
 title: "Slot"

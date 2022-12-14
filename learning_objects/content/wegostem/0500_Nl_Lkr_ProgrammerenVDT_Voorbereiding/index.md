@@ -1,5 +1,5 @@
 ---
-hruid: Doel_ProgrammerenTekenrobot-v1
+hruid: wgs_doel_programmerentekenrobot
 version: 3
 language: nl
 title: "Voorbereiding Programmeren van de tekenrobot"

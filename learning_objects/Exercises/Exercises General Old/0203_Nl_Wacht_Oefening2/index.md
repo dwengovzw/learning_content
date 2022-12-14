@@ -1,5 +1,5 @@
 ---
-hruid: Wacht_Oef2-v1
+hruid: Wacht_Oef2
 version: 3
 language: nl
 title: "Wacht Oefening 2"

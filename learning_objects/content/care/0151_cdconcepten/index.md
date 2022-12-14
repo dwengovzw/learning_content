@@ -1,5 +1,5 @@
 ---
-hruid: aiz_cdconcepten-v1
+hruid: aiz_ctconcepten
 version: 3
 language: nl
 title: "AI in de Zorg"

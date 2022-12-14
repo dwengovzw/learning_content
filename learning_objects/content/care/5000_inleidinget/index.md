@@ -1,5 +1,5 @@
 ---
-hruid: aiz_etinleiding-v1
+hruid: aiz_etinleiding
 version: 3
 language: nl
 title: "Inleiding"

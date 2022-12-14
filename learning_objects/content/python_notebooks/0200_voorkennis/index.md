@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisSpreidingsdiagram-v1
+hruid: pn_voorkennis_spreidingsdiagram
 version: 3
 language: nl
 title: "Voorkennis"

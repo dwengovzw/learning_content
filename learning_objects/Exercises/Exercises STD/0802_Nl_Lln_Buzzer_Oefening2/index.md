@@ -1,5 +1,5 @@
 ---
-hruid: STD_BuzzerOef4-v1
+hruid: STD_BuzzerOef4
 version: 3
 language: nl
 title: "Oefening Buzzer 4"

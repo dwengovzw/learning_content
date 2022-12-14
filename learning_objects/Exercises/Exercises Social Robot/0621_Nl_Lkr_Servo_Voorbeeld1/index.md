@@ -1,5 +1,5 @@
 ---
-hruid: SR_ServoVB1-v1
+hruid: sr_ServoVB1
 version: 3
 language: nl
 title: "Voorbeeld servomotor 1"
@@ -37,7 +37,7 @@ Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
 
 Oplossing:  
 
-![blockly](@learning-object/SRM_Servo1-v1/nl/3)
+![blockly](@learning-object/SRM_Servo1/nl/3)
 
 Je robot kan nu zwaaien met zijn armen.
 

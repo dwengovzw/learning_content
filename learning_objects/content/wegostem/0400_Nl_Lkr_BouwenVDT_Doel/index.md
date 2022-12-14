@@ -1,5 +1,5 @@
 ---
-hruid: Doel_BouwenVanEenTekenrobotekenrobot-v1
+hruid: wgs_doel_bouwenvaneentekenrobot
 version: 3
 language: nl
 title: "Voorbereiding Bouwen van een tekenrobot"

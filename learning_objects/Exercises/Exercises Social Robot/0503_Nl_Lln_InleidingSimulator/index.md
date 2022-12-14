@@ -1,5 +1,5 @@
 ---
-hruid: SR_Simulator-v1
+hruid: sr_Simulator
 version: 3
 language: nl
 title: "De simulator"

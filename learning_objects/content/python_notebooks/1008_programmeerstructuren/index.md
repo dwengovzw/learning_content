@@ -1,5 +1,5 @@
 ---
-hruid: PN_Programmeerstructuren-v1
+hruid: pn_programmeerstructuren
 version: 3
 language: nl
 title: "Taaltechnologie - Structuren"

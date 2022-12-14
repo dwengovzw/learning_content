@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingSA-v1
+hruid: pn_sa_inleiding
 version: 3
 language: nl
 title: "Inleiding"

@@ -1,5 +1,5 @@
 ---
-hruid: STD_Morsecode-v1
+hruid: STD_Morsecode
 version: 3
 language: nl
 title: "Uitbreiding morsecode"
@@ -38,7 +38,7 @@ Hieronder vind je een overzicht van de regels voor morsecode.
 
 Ontcijfer nu m.b.v. dit overzicht het onderstaande bericht: 
 
-![blockly](@learning-object/STD_Morse-v1/nl/3) 
+![blockly](@learning-object/STD_Morse/nl/3) 
 
 Eens je dit bericht hebt ontcijferd, kan je zelf aan de slag! Programmeer een bericht in morsecode dat de Dwenguino kan afspelen. Maak dit zeker niet te lang! 
 

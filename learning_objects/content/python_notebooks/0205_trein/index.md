@@ -1,5 +1,5 @@
 ---
-hruid: PN_TreinSpreidingsdiagram-v1
+hruid: pn_treinspreidingsdiagram
 version: 3
 language: nl
 title: "Toepassing - Trein"

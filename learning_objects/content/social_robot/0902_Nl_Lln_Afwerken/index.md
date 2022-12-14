@@ -1,5 +1,5 @@
 ---
-hruid: SR_Programmeren4-v1
+hruid: sr_programmeren4
 version: 3
 language: nl
 title: "Afwerken en extra's"

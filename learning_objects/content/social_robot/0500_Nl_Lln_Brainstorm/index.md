@@ -1,5 +1,5 @@
 ---
-hruid: SR_Brainstorm-v1
+hruid: sr_brainstorm
 version: 3
 language: nl
 title: "Brainstormtechnieken"

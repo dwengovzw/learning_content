@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisRechten-v1
+hruid: pn_voorkennis_rechten
 version: 3
 language: nl
 title: "Voorkennis"

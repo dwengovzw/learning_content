@@ -1,5 +1,5 @@
 ---
-hruid: KNOPwgs3-v1
+hruid: KNOPwgs3
 version: 3
 language: fr
 title: "Meta"

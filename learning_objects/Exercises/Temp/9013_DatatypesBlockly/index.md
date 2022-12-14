@@ -1,5 +1,5 @@
 ---
-hruid: PN_DatatypesPEB-v1
+hruid: pn_datatypespeb
 version: 3
 language: nl
 title: "Datatypes"

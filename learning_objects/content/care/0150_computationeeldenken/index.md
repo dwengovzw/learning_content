@@ -1,5 +1,5 @@
 ---
-hruid: aiz_computationeeldenken-v1
+hruid: aiz_computationeeldenken
 version: 3
 language: nl
 title: "Computationeel denken"

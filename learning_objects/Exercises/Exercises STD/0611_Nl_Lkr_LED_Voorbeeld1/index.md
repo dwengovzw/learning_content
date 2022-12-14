@@ -1,5 +1,5 @@
 ---
-hruid: STD_LedVB1-v1
+hruid: STD_LedVB1
 version: 3
 language: nl
 title: "Voorbeeld Led 1"
@@ -37,6 +37,6 @@ Laat led 0 branden.
 
 Oplossing:
 
-![blockly](@learning-object/SRM_Led1-v1/nl/3)
+![blockly](@learning-object/SRM_Led1/nl/3)
 
 Merk op dat led 0 het eerste led is aan de **rechterkant**!

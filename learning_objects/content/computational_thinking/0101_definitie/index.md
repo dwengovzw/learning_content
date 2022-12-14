@@ -1,5 +1,5 @@
 ---
-hruid: cd_definitie-v1
+hruid: ct_definitie
 version: 3
 language: nl
 title: "Definitie"

@@ -1,5 +1,5 @@
 ---
-hruid: Whilelus-v1
+hruid: Whilelus
 version: 3
 language: nl
 title: "Whilelus"

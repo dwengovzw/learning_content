@@ -1,5 +1,5 @@
 ---
-hruid: cd_slot7-v1
+hruid: ct_slot7
 version: 3
 language: nl
 title: "Slot"

@@ -1,5 +1,5 @@
 ---
-hruid: SR_Unplugged2-v1
+hruid: sr_unplugged2
 version: 3
 language: nl
 title: "Emotiemachine"

@@ -1,5 +1,5 @@
 ---
-hruid: cd_ib3-v1
+hruid: ct_ib3
 version: 3
 language: nl
 title: "Computationeel denken"

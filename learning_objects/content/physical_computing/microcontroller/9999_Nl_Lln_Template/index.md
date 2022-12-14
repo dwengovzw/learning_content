@@ -1,5 +1,5 @@
 ---
-hruid: T-v1
+hruid: T
 version: 3
 language: nl
 title: "T"

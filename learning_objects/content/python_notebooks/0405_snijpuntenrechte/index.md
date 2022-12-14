@@ -1,5 +1,5 @@
 ---
-hruid: PN_SnijpuntenRechten-v1
+hruid: pn_snijpuntenrechten
 version: 3
 language: nl
 title: "Snijpunt van 2 rechten"

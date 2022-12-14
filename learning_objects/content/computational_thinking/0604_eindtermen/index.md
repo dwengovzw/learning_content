@@ -1,5 +1,5 @@
 ---
-hruid: cd_eindtermen4-v1
+hruid: ct_eindtermen4
 version: 3
 language: nl
 title: "Andere sleutelcompetenties"

@@ -1,5 +1,5 @@
 ---
-hruid: Lkr_Algemeen-v1
+hruid: wgs_lkr_algemeen
 version: 3
 language: nl
 title: "Doe mee met WeGoSTEM"

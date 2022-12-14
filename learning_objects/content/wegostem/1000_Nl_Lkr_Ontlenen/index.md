@@ -1,5 +1,5 @@
 ---
-hruid: WaarOntlenen-v1
+hruid: wgs_waarontlenen
 version: 3
 language: nl
 title: "Waar ontlenen"

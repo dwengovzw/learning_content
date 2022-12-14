@@ -1,5 +1,5 @@
 ---
-hruid: STD_Knoppen-v1
+hruid: STD_Knoppen
 version: 3
 language: nl
 title: "Uitleg Knoppen"

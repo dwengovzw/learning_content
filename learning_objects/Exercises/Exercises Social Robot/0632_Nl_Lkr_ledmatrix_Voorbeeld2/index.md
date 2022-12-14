@@ -1,5 +1,5 @@
 ---
-hruid: SR_MatrixVB2-v1
+hruid: sr_MatrixVB2
 version: 3
 language: nl
 title: "Voorbeeld led-matrix 1"
@@ -37,7 +37,7 @@ Programmeer 2 led-matrices zodat ze op 2 ogen lijken.
 
 Oplossing:  
 
-![blockly](@learning-object/SRM_ledmatrix2-v1/nl/3)
+![blockly](@learning-object/SRM_ledmatrix2/nl/3)
 
 Je kan eventueel bewegende ogen maken door verschillende combinaties van ogen te maken en er "*wacht*"-blokken tussen te plaatsen!  
 

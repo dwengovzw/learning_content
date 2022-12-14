@@ -1,5 +1,5 @@
 ---
-hruid: SR_STD-v1
+hruid: sr_STD
 version: 3
 language: nl
 title: "Onderdelen simulator"

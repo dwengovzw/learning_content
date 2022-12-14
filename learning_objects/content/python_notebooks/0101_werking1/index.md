@@ -1,5 +1,5 @@
 ---
-hruid: PN_WerkingNotebooks-v1
+hruid: pn_werkingnotebooks
 version: 3
 language: nl
 title: "Werken met notebooks"

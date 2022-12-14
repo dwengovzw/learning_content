@@ -1,5 +1,5 @@
 ---
-hruid: cd_mensen-v1
+hruid: ct_mensen
 version: 3
 language: nl
 title: "Aandachtspunten: Mensen"

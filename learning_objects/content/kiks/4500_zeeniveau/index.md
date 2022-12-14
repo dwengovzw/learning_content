@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_zeeniveau-v1
+hruid: kiks_zeeniveau
 version: 3
 language: nl
 title: "Zeeniveau"

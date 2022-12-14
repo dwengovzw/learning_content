@@ -1,5 +1,5 @@
 ---
-hruid: Micro_ROMRAM-v1
+hruid: pc_micro_romram
 version: 3
 language: nl
 title: "Geheugen"

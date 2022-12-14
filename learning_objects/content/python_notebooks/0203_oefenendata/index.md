@@ -1,5 +1,5 @@
 ---
-hruid: PN_OefenenSpreidingsdiagram-v1
+hruid: pn_oefenenspreidingsdiagram
 version: 3
 language: nl
 title: "Oefenen met data"

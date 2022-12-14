@@ -1,5 +1,5 @@
 ---
-hruid: SR_UnpluggedLln-v1
+hruid: sr_unpluggedlln
 version: 3
 language: nl
 title: "Computationeel denken unplugged"

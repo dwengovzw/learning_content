@@ -1,5 +1,5 @@
 ---
-hruid: PN_Operatoren-v1
+hruid: pn_operatoren
 version: 3
 language: nl
 title: "Logische operatoren"

@@ -1,5 +1,5 @@
 ---
-hruid: Wacht_Voorbeeld-v1
+hruid: Wacht_Voorbeeld
 version: 3
 language: nl
 title: "Wacht Voorbeeld"

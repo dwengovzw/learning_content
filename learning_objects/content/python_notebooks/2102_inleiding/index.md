@@ -1,5 +1,5 @@
 ---
-hruid: PN_CBInleiding-v1
+hruid: pn_cbinleiding
 version: 3
 language: nl
 title: "Inleiding"

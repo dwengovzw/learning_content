@@ -1,5 +1,5 @@
 ---
-hruid: SR_Programmeren2-v1
+hruid: sr_programmeren2
 version: 3
 language: nl
 title: "Uploaden"

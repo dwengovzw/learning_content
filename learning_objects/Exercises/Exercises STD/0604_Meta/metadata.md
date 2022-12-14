@@ -1,5 +1,5 @@
 ---
-hruid: LCDM3-v1
+hruid: LCDM3
 version: 3
 language: nl
 title: "Meta"

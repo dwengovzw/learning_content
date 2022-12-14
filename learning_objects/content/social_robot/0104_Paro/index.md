@@ -1,5 +1,5 @@
 ---
-hruid: SR_PARO-v1
+hruid: sr_paro
 version: 3
 language: nl
 title: "Digitale systemen"

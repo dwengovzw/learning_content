@@ -1,5 +1,5 @@
 ---
-hruid: STD_Uploaden-v1
+hruid: STD_Uploaden
 version: 3
 language: nl
 title: "Uploaden Dwenguino"

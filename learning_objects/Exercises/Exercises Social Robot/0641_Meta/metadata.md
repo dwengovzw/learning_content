@@ -1,5 +1,5 @@
 ---
-hruid: SRM_Sonar1-v1
+hruid: SRM_Sonar1
 version: 3
 language: nl
 title: "Meta"

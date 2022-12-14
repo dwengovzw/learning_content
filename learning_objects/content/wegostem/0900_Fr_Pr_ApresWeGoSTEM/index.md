@@ -1,5 +1,5 @@
 ---
-hruid: ApresWeGoSTEM-v1
+hruid: wgs_apreswegostem
 version: 3
 language: fr
 title: "Et après WeGoSTEM ?"

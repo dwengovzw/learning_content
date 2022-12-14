@@ -1,5 +1,5 @@
 ---
-hruid: PN_vervoegmachine-v1
+hruid: pn_vervoegmachine
 version: 3
 language: nl
 title: "Vervoegmachine"

@@ -1,5 +1,5 @@
 ---
-hruid: PN_FunctiesPythagoras-v1
+hruid: pn_functiespythagoras
 version: 3
 language: nl
 title: "Functies"

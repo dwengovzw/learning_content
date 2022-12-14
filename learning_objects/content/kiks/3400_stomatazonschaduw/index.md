@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_stomata_zon_schaduw-v1
+hruid: kiks_stomata_zon_schaduw
 version: 3
 language: nl
 title: "Stomata zon - schaduw"

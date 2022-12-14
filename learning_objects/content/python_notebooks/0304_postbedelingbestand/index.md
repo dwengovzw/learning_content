@@ -1,5 +1,5 @@
 ---
-hruid: PN_PostbedelingOef-v1
+hruid: pn_postbedelingoef
 version: 3
 language: nl
 title: "Toepassing postbedeling bestand"

@@ -1,5 +1,5 @@
 ---
-hruid: STD_lcd-v1
+hruid: STD_lcd
 version: 3
 language: nl
 title: "Uitleg Lcd"

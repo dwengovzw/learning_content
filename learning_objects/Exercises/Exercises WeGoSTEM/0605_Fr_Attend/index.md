@@ -1,5 +1,5 @@
 ---
-hruid: Attendwgs-v1
+hruid: Attendwgs
 version: 3
 language: fr
 title: "Explication Attend"
@@ -41,4 +41,4 @@ Le temps est exprimé en millisecondes. Une milliseconde est un millième de sec
 
 Essayez l'exemple ci-dessous pour voir comment cela fonctionne !
 
-![blockly](@learning-object/WAIT1-v1/fr/3)
+![blockly](@learning-object/WAIT1/fr/3)

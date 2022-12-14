@@ -1,5 +1,5 @@
 ---
-hruid: PN_IcoontjesPEB-v1
+hruid: pn_peb_icoontjes
 version: 3
 language: nl
 title: "Icoontjes"

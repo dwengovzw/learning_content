@@ -1,5 +1,5 @@
 ---
-hruid: SR_AlsDan-v1
+hruid: sr_AlsDan
 version: 3
 language: nl
 title: "Uitleg Als - Dan"

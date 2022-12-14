@@ -1,5 +1,5 @@
 ---
-hruid: STD_Uitbreiding-v1
+hruid: STD_Uitbreiding
 version: 3
 language: nl
 title: "Uitbreiding"

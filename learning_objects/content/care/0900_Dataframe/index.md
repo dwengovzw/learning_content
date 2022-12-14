@@ -1,5 +1,5 @@
 ---
-hruid: AIZ_Dataframe-v1
+hruid: aiz_dataframe
 version: 3
 language: nl
 title: "Dataframe"

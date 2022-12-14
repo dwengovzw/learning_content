@@ -1,5 +1,5 @@
 ---
-hruid: SR_Slot34-v1
+hruid: sr_slot34
 version: 3
 language: nl
 title: "Slot"

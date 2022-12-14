@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_stomata_hoogte_bomen-v1
+hruid: kiks_stomata_hoogte_bomen
 version: 3
 language: nl
 title: "Stomata hoogte bomen"

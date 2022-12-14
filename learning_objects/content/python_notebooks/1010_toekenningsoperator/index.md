@@ -1,5 +1,5 @@
 ---
-hruid: PN_ToekOperator-v1
+hruid: pn_toekoperator
 version: 3
 language: nl
 title: "Toekenningsoperator"

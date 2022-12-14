@@ -1,5 +1,5 @@
 ---
-hruid: pn_tekenenparabool-v1
+hruid: pn_tekenenparabool
 version: 3
 language: nl
 title: "Parabool tekenen"

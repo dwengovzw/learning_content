@@ -1,5 +1,5 @@
 ---
-hruid: PN_OperatorenPEB-v1
+hruid: pn_operatorenpeb
 version: 3
 language: nl
 title: "Operatoren"

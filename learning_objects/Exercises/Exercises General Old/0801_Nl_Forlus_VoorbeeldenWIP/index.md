@@ -1,5 +1,5 @@
 ---
-hruid: Forlus_Voorbeeld-v1
+hruid: Forlus_Voorbeeld
 version: 3
 language: nl
 title: "Forlus Voorbeeld"

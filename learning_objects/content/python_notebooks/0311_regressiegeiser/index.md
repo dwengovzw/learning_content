@@ -1,5 +1,5 @@
 ---
-hruid: PN_GeiserLinReg-v1
+hruid: pn_geiserlinreg
 version: 3
 language: nl
 title: "Toepassing geiser"

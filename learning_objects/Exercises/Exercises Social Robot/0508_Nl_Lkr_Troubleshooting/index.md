@@ -1,5 +1,5 @@
 ---
-hruid: SR_TroubleshootingSimulator-v1
+hruid: sr_TroubleshootingSimulator
 version: 3
 language: nl
 title: "Troubleshooting"

@@ -1,5 +1,5 @@
 ---
-hruid: cd_consensus-v1
+hruid: ct_consensus
 version: 3
 language: nl
 title: "Aandachtspunt: Consensus"

@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingOperatoren-v1
+hruid: pn_inleiding_operatoren
 version: 3
 language: nl
 title: "Inleiding"

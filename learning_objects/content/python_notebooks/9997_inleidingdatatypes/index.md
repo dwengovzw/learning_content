@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingDatatypes-v1
+hruid: pn_inleiding_datatypes
 version: 3
 language: nl
 title: "Inleiding"

@@ -1,5 +1,5 @@
 ---
-hruid: PN_SlotEpidemie-v1
+hruid: pn_slotepidemie
 version: 3
 language: nl
 title: "Slot"

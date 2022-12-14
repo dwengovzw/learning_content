@@ -1,5 +1,5 @@
 ---
-hruid: PN_WerkingNotebooks3-v1
+hruid: pn_werkingnotebooks3
 version: 3
 language: nl
 title: "Extra features"

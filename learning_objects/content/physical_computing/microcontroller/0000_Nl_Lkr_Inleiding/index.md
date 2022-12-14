@@ -1,5 +1,5 @@
 ---
-hruid: Micro_Inleiding-v1
+hruid: pc_micro_inleiding
 version: 3
 language: nl
 title: "Inleiding"

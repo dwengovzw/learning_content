@@ -1,5 +1,5 @@
 ---
-hruid: PN_OpmakenRechten-v1
+hruid: pn_opmakenrechten
 version: 3
 language: nl
 title: "Opmaken van grafieken"

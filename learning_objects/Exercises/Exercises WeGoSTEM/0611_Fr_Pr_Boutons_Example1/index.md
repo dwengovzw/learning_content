@@ -1,5 +1,5 @@
 ---
-hruid: Pr_Boutonswgs1-v1
+hruid: Pr_Boutonswgs1
 version: 3
 language: fr
 title: "Exemple Boutons 1"
@@ -38,6 +38,6 @@ Le programme démarre. Lorsque le bouton NORD est enfoncé, la première LED (LE
 
 Solution:
 
-![blockly](@learning-object/KNOPwgs1-v1/fr/3)
+![blockly](@learning-object/KNOPwgs1/fr/3)
 
 *Testez ces exemples vous-même dans le simulateur !*

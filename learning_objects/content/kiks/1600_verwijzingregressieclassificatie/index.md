@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_verwijzing-v1
+hruid: kiks_verwijzing
 version: 3
 language: nl
 title: "Regressie en classificatie"

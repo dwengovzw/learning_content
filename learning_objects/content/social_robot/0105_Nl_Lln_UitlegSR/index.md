@@ -1,5 +1,5 @@
 ---
-hruid: SR_Uitleg2-v1
+hruid: sr_uitleg2
 version: 3
 language: nl
 title: "Een toekomst met robots"

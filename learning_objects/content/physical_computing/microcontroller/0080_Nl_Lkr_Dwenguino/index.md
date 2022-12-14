@@ -1,5 +1,5 @@
 ---
-hruid: Micro_Dwenguino-v1
+hruid: pc_micro_dwenguino
 version: 3
 language: nl
 title: "De Dwenguino"

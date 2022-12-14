@@ -1,5 +1,5 @@
 ---
-hruid: Whilelus_Voorbeeld-v1
+hruid: Whilelus_Voorbeeld
 version: 3
 language: nl
 title: "Whilelus Voorbeeld"

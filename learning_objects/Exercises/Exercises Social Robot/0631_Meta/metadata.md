@@ -1,5 +1,5 @@
 ---
-hruid: SRM_ledmatrix1-v1
+hruid: SRM_ledmatrix1
 version: 3
 language: nl
 title: "Meta"

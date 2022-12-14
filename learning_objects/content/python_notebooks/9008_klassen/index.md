@@ -1,5 +1,5 @@
 ---
-hruid: PN_KlassenPE-v1
+hruid: pn_pe_klassen
 version: 3
 language: nl
 title: "Klassen"

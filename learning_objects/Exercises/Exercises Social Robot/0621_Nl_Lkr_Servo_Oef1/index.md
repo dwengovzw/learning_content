@@ -1,5 +1,5 @@
 ---
-hruid: SR_ServoOef1-v1
+hruid: sr_ServoOef1
 version: 3
 language: nl
 title: "Oefening servomotor 1"

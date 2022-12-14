@@ -1,5 +1,5 @@
 ---
-hruid: STD_LedVB4-v1
+hruid: STD_LedVB4
 version: 3
 language: nl
 title: "Led Voorbeeld"
@@ -44,6 +44,6 @@ Schrijf een programma dat het volgende doet:
 
 Oplossing:
 
-![blockly](@learning-object/SRM_LED4-v1/nl/3)
+![blockly](@learning-object/SRM_LED4/nl/3)
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

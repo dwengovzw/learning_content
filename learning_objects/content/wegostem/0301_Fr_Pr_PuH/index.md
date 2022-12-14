@@ -1,5 +1,5 @@
 ---
-hruid: PuH-v1
+hruid: wgs_puh
 version: 3
 language: fr
 title: "Programmer un humain"

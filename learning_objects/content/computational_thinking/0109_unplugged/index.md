@@ -1,5 +1,5 @@
 ---
-hruid: CD_Unplugged-v1
+hruid: ct_unplugged
 version: 3
 language: nl
 title: "Unplugged activiteiten"

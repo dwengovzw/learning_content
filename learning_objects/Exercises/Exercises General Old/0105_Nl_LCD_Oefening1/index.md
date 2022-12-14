@@ -1,5 +1,5 @@
 ---
-hruid: lcd_Oef1-v1
+hruid: lcd_Oef1
 version: 3
 language: nl
 title: "lcd Oefening 1"

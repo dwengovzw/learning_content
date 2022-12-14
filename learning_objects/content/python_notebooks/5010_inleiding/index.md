@@ -1,5 +1,5 @@
 ---
-hruid: art_inleidingturtle-v1
+hruid: art_inleidingturtle
 version: 3
 language: nl
 title: "Inleiding"

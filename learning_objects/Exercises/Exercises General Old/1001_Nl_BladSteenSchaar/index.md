@@ -1,5 +1,5 @@
 ---
-hruid: BladSteenSchaar-v1
+hruid: BladSteenSchaar
 version: 3
 language: nl
 title: "Blad Steen Schaar"

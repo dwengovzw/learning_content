@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingIP-v1
+hruid: pn_inleiding_ip
 version: 3
 language: nl
 title: "Inleiding"

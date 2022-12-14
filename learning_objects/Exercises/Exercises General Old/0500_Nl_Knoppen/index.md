@@ -1,5 +1,5 @@
 ---
-hruid: Knoppen-v1
+hruid: Knoppen
 version: 3
 language: nl
 title: "Knoppen"

@@ -1,5 +1,5 @@
 ---
-hruid: STD_BuzzerVB2-v1
+hruid: STD_BuzzerVB2
 version: 3
 language: nl
 title: "Voorbeeld Buzzer 2"
@@ -37,6 +37,6 @@ Schrijf een programma zodat de zoemer een toon afspeelt gedurende 1 seconde wann
 
 Oplossing:
 
-![blockly](@learning-object/STD_Buzzer2-v1/nl/3)
+![blockly](@learning-object/STD_Buzzer2/nl/3)
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

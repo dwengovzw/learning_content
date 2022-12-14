@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_Convoluties-v1
+hruid: kiks_convoluties
 version: 3
 language: nl
 title: "Convoluties en andere technieken"

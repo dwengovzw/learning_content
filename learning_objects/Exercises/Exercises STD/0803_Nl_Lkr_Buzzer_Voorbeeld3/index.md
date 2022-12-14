@@ -1,5 +1,5 @@
 ---
-hruid: STD_BuzzerVB3-v1
+hruid: STD_BuzzerVB3
 version: 3
 language: nl
 title: "Voorbeeld Buzzer 3"
@@ -37,7 +37,7 @@ Schrijf een programma zodat de zoemer *broeder Jacob* afspeelt. Hiervoor zal je 
 
 Oplossing:
 
-![blockly](@learning-object/STD_Buzzer31-v1/nl/3)  
+![blockly](@learning-object/STD_Buzzer31/nl/3)  
 
 Zoals je kunt zien, wordt dit een vrij lang programma. Er zijn gelukkig een aantal plaatsen die je wat kunt inkorten met behulp van een **begrensde herhaling**. Dit wordt verder uitgelegd in het volgende onderdeel.
 

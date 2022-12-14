@@ -1,5 +1,5 @@
 ---
-hruid: lcd-v1
+hruid: lcd
 version: 3
 language: nl
 title: "Lcd"

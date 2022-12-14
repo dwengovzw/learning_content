@@ -1,5 +1,5 @@
 ---
-hruid: PN_ParametersVanalles-v1
+hruid: pn_parametersalles
 version: 3
 language: nl
 title: "Parameters"

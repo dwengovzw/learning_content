@@ -1,5 +1,5 @@
 ---
-hruid: SR_Uitleg3-v1
+hruid: sr_uitleg3
 version: 3
 language: nl
 title: "Sociale robots"

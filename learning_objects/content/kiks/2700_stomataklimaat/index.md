@@ -1,5 +1,5 @@
 ---
-hruid: kiks_stomataklimaat-v1
+hruid: kiks_stomataklimaat
 version: 3
 language: nl
 title: "Stomata en klimaat"

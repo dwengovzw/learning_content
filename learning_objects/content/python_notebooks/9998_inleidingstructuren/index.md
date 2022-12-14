@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingStructuren-v1
+hruid: pn_inleiding_structuren
 version: 3
 language: nl
 title: "Inleiding"

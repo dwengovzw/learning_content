@@ -1,5 +1,5 @@
 ---
-hruid: CD_Basisconcepten-v1
+hruid: ct_basisconcepten
 version: 3
 language: nl
 title: "Basisconcepten"

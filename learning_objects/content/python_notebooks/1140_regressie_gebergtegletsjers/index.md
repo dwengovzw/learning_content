@@ -1,5 +1,5 @@
 ---
-hruid: PN_GGReg-v1
+hruid: pn_regressie_gebergtegletsjers
 version: 3
 language: nl
 title: "Regressie gebergtegletsjers"

@@ -1,5 +1,5 @@
 ---
-hruid: STD_Buzzer31-v1
+hruid: STD_Buzzer31
 version: 3
 language: nl
 title: "Meta"

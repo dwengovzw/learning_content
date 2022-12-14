@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingSpreidingsdiagram-v1
+hruid: pn_inleiding_spreidingsdiagram
 version: 3
 language: nl
 title: "Inleiding"

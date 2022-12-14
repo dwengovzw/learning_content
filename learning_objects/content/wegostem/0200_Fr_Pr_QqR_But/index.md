@@ -1,5 +1,5 @@
 ---
-hruid: But_QqR-v1
+hruid: wgs_but_qqr
 version: 3
 language: fr
 title: "Préparation Qu'est-ce qu'un robot?"

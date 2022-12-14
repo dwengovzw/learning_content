@@ -1,5 +1,5 @@
 ---
-hruid: PN_StringIntFloat-v1
+hruid: pn_stringintfloat
 version: 3
 language: nl
 title: "String, int en float"

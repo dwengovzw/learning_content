@@ -1,5 +1,5 @@
 ---
-hruid: PN_NPLijsten-v1
+hruid: pn_nplijsten
 version: 3
 language: nl
 title: "NumPy-lijsten"

@@ -1,5 +1,5 @@
 ---
-hruid: pn_voorkennisparabolen-v1
+hruid: pn_voorkennis_parabolen
 version: 3
 language: nl
 title: "Voorkennis"

@@ -1,5 +1,5 @@
 ---
-hruid: aiz_etwiskundezorg-v1
+hruid: aiz_etwiskundezorg
 version: 3
 language: nl
 title: "Verwerking in het project"

@@ -1,5 +1,5 @@
 ---
-hruid: aiz_kaartjes-v1
+hruid: aiz_kaartjes
 version: 3
 language: nl
 title: "Kaartjes"

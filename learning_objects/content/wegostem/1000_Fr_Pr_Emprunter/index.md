@@ -1,5 +1,5 @@
 ---
-hruid: Emprunter-v1
+hruid: wgs_emprunter
 version: 3
 language: fr
 title: "Où emprunter?"

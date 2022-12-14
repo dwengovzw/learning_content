@@ -1,5 +1,5 @@
 ---
-hruid: cd_principesprogrammeren-v1
+hruid: ct_principesprogrammeren
 version: 3
 language: nl
 title: "Lesmateriaal"

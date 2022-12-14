@@ -1,5 +1,5 @@
 ---
-hruid: STD_WachtVB2-v1
+hruid: STD_WachtVB2
 version: 3
 language: nl
 title: "Voorbeeld Wacht 2"
@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 Dit kan je gemakkelijk oplossen door de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.
 
-![blockly](@learning-object/WACHTwgs2-v1/nl/3)
+![blockly](@learning-object/WACHTwgs2/nl/3)
 
 Op deze manier toon je de tekst één keer waarna het stopt.
 

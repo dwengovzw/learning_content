@@ -1,5 +1,5 @@
 ---
-hruid: STD_Buzzer-v1
+hruid: STD_Buzzer
 version: 3
 language: nl
 title: "Uitleg Zoemer"

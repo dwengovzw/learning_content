@@ -1,5 +1,5 @@
 ---
-hruid: PN_Armoede-v1
+hruid: pn_armoede
 version: 3
 language: nl
 title: "Toepassing armoede"

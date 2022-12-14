@@ -1,5 +1,5 @@
 ---
-hruid: STD_LedOef1-v1
+hruid: STD_LedOef1
 version: 3
 language: nl
 title: "Oefening Led 1"

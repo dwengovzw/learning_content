@@ -1,5 +1,5 @@
 ---
-hruid: pn_chatbot-v1
+hruid: pn_chatbot
 version: 3
 language: nl
 title: "Chatbot"

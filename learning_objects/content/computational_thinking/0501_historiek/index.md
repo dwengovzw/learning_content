@@ -1,5 +1,5 @@
 ---
-hruid: cd_historiek2-v1
+hruid: ct_historiek2
 version: 3
 language: nl
 title: "Computer"

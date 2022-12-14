@@ -1,5 +1,5 @@
 ---
-hruid: PN_SlotPythagoras-v1
+hruid: pn_slot_pythagoras
 version: 3
 language: nl
 title: "Slot"

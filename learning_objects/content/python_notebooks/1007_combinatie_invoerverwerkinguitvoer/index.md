@@ -1,5 +1,5 @@
 ---
-hruid: PN_IntroductiePythagoras-v1
+hruid: pn_introductie_pythagoras
 version: 3
 language: nl
 title: "Invoer - Verwerking - Uitvoer"

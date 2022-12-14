@@ -1,5 +1,5 @@
 ---
-hruid: SR_Opruimen-v1
+hruid: sr_opruimen
 version: 3
 language: nl
 title: "Opruimen"

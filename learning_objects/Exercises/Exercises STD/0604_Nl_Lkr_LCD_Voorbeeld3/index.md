@@ -1,5 +1,5 @@
 ---
-hruid: STD_lcdVB3-v1
+hruid: STD_lcdVB3
 version: 3
 language: nl
 title: "Voorbeeld Lcd 3"
@@ -37,7 +37,7 @@ Plaats de tekst nu in het midden van het lcd-scherm.
 
 Oplossing:
 
-![blockly](@learning-object/LCDM3-v1/nl/3)
+![blockly](@learning-object/LCDM3/nl/3)
 
 Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 5 plaatsen op naar rechts.
 
