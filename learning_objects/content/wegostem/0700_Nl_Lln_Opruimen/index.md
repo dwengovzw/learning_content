@@ -1,5 +1,5 @@
 ---
-hruid: wgs_pruimen
+hruid: wgs_opruimen
 version: 3
 language: nl
 title: "Opruimen"

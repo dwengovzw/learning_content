@@ -1,5 +1,5 @@
 ---
-hruid: besluit_programmeermens
+hruid: wgs_besluit_programmeermens
 version: 3
 language: nl
 title: "Besluit Programmeer eens een Mens"
