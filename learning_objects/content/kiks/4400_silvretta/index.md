@@ -17,7 +17,7 @@ target_ages: [16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
-    callback_schema: {Lorem
+    callback_schema: {
         att: test,
         att2: test2
     }
