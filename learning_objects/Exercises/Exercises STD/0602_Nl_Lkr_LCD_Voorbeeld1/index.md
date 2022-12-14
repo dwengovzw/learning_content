@@ -1,5 +1,5 @@
 ---
-hruid: STD_lcdVB1-v1
+hruid: STD_lcdVB1
 version: 3
 language: nl
 title: "Voorbeeld Lcd 1"
@@ -37,7 +37,7 @@ Laat 'Welkom robot' op het lcd-scherm verschijnen.
 
 Oplossing:
 
-![blockly](@learning-object/LCDM1-v1/nl/3)
+![blockly](@learning-object/LCDM1/nl/3)
 
 "schrijf tekst": Hier kan je de tekst schrijven die je wilt laten verschijnen. Het lcd-scherm kan maximaal 16 karakters tonen op eenzelfde lijn. 
 "op rij": Hier geef je aan op welke rij je de tekst wilt laten verschijnen; 0 voor de eerste en 1 voor de tweede rij.

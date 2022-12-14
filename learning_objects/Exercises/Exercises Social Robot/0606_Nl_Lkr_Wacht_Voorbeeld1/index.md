@@ -1,5 +1,5 @@
 ---
-hruid: SR_WachtVB1-v1
+hruid: sr_WachtVB1
 version: 3
 language: nl
 title: "Voorbeeld Wacht 1"
@@ -41,7 +41,7 @@ Schrijf een programma dat het volgende doet:
 
 Oplossing:
 
-![blockly](@learning-object/SRM_Wacht1-v1/nl/3)
+![blockly](@learning-object/SRM_Wacht1/nl/3)
 
 Het *'wacht'-blok* dat **na** een bepaalde instructie staat, geeft weer hoelang de computer moet **wachten** vooraleer deze met de volgende instructie mag beginnen.
 

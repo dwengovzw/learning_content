@@ -1,5 +1,5 @@
 ---
-hruid: AGRI_tomaten-v1
+hruid: agri_tomaten
 version: 3
 language: nl
 title: "Tomaten"

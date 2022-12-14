@@ -1,5 +1,5 @@
 ---
-hruid: SR_Unplugged1-v1
+hruid: sr_unplugged1
 version: 3
 language: nl
 title: "Maak een gezicht"

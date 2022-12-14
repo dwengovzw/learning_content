@@ -1,5 +1,5 @@
 ---
-hruid: led_Oef2-v1
+hruid: led_Oef2
 version: 3
 language: nl
 title: "led Oefening 2"

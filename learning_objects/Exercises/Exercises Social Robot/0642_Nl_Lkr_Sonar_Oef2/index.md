@@ -1,5 +1,5 @@
 ---
-hruid: SR_SonarOef2-v1
+hruid: sr_SonarOef2
 version: 3
 language: nl
 title: "Oefening sonar-sensor 2"

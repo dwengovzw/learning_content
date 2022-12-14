@@ -1,5 +1,5 @@
 ---
-hruid: cd_historiek1-v1
+hruid: ct_historiek1
 version: 3
 language: nl
 title: "Ontstaan"

@@ -1,5 +1,5 @@
 ---
-hruid: Mission_ConstruireRdD-v1
+hruid: wgs_mission_construire_rdd
 version: 3
 language: fr
 title: "Construction"

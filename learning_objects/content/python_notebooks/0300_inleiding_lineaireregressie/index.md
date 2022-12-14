@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingLineaireRegressie-v1
+hruid: pn_inleiding_lineaireregressie
 version: 3
 language: nl
 title: "Inleiding"

@@ -1,5 +1,5 @@
 ---
-hruid: PN_Rekenen-v1
+hruid: pn_rekenen
 version: 3
 language: nl
 title: "Wiskundige operatoren - Rekenen"

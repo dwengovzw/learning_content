@@ -45,19 +45,19 @@ teacher_exclusive: true
 
 Voorkennis: De leerlingen kunnen a.d.h.v. de stelling van Pythagoras de schuine zijde van een rechthoekige driehoek manueel berekenen. Ze kennen de stelling van Pythagoras in formulevorm. 
 
-![ct-schema](@learning-object/m_cd_cases3a/nl/3)
+![ct-schema](@learning-object/m_ct_cases3a/nl/3)
 
 ### Stap 2: toepassen van patroonherkenning en abstractie
 
 Voorkennis: De leerlingen hebben eventueel al geleerd om in Python een functie te definiëren, of dat kan hier worden aangebracht.
 
-![ct-schema](@learning-object/m_cd_cases3b/nl/3)
+![ct-schema](@learning-object/m_ct_cases3b/nl/3)
 
 ### Toepassing: afstand in vogelvlucht
 
 Voorkennis: De leerlingen gebruiken de zelfgedefinieerde functie in een oefening met context.
 
-![ct-schema](@learning-object/m_cd_cases3c/nl/3)
+![ct-schema](@learning-object/m_ct_cases3c/nl/3)
 
 ### Eindtermen (Bron: onderwijsdoelen.be)
 <span style="color: yellowgreen">(4.5 Finaliteit doorstroom) De leerlingen ontwerpen algoritmen om problemen digitaal op te lossen.</span>

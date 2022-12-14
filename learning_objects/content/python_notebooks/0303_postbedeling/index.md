@@ -1,5 +1,5 @@
 ---
-hruid: PN_Postbedeling-v1
+hruid: pn_postbedeling
 version: 3
 language: nl
 title: "Toepassing postbedeling"

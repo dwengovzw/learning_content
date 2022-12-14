@@ -1,5 +1,5 @@
 ---
-hruid: pn_parameterparabool-v1
+hruid: pn_parameterparabool
 version: 3
 language: nl
 title: "Parameters parabool"

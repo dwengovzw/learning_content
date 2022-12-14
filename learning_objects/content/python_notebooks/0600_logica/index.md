@@ -1,5 +1,5 @@
 ---
-hruid: pn_logica-v1
+hruid: pn_logica
 version: 3
 language: nl
 title: "Logica"

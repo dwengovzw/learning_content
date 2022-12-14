@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingPythagoras-v1
+hruid: pn_inleiding_pythagoras
 version: 3
 language: nl
 title: "Inleiding"

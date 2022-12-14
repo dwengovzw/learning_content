@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisIP-v1
+hruid: pn_voorkennis_ip
 version: 3
 language: nl
 title: "Voorkennis"

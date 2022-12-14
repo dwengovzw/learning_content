@@ -1,5 +1,5 @@
 ---
-hruid: PN_ListSA-v1
+hruid: pn_sa_list
 version: 3
 language: nl
 title: "Taaltechnologie - List"

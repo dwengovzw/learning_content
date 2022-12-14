@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingEpidemie-v1
+hruid: pn_inleiding_epidemie
 version: 3
 language: nl
 title: "Inleiding"

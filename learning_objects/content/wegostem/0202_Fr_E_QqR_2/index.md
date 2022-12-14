@@ -1,5 +1,5 @@
 ---
-hruid: QqR2-v1
+hruid: wgs_qqr2
 version: 3
 language: fr
 title: "Qu'est-ce qu'un robot? Part 2"

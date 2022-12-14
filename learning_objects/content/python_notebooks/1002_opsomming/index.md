@@ -1,5 +1,5 @@
 ---
-hruid: PN_Opsomming-v1
+hruid: pn_opsomming
 version: 3
 language: nl
 title: "Opsommingen"

@@ -1,5 +1,5 @@
 ---
-hruid: programmeermens-v1
+hruid: wgs_programmeermens
 version: 3
 language: nl
 title: "Programmeer eens een mens"

@@ -1,5 +1,5 @@
 ---
-hruid: pn_parameterrechte-v1
+hruid: pn_parameterrechte
 version: 3
 language: nl
 title: "Parameters"

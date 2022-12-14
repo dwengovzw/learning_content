@@ -1,5 +1,5 @@
 ---
-hruid: SR_MatrixVB1-v1
+hruid: sr_MatrixVB1
 version: 3
 language: nl
 title: "Voorbeeld led-matrix 1"
@@ -37,6 +37,6 @@ Laat een hartje verschijnen op een ledmatrix in de simulator.
 
 Oplossing:  
 
-![blockly](@learning-object/SRM_ledmatrix1-v1/nl/3)
+![blockly](@learning-object/SRM_ledmatrix1/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

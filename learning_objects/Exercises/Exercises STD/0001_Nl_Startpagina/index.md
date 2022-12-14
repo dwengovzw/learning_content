@@ -1,5 +1,5 @@
 ---
-hruid: STD_Startpagina-v1
+hruid: STD_Startpagina
 version: 3
 language: nl
 title: "StartToDwenguino"

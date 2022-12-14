@@ -1,5 +1,5 @@
 ---
-hruid: PN_IPadres-v1
+hruid: pn_ipadres
 version: 3
 language: nl
 title: "IP-adres"

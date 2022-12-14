@@ -1,5 +1,5 @@
 ---
-hruid: STD_BuzzerVB4-v1
+hruid: STD_BuzzerVB4
 version: 3
 language: nl
 title: "Voorbeeld Buzzer 4"
@@ -36,7 +36,7 @@ Schrijf een programma zodat je de dwenguino kunt gebruiken als een pentatonisch 
 
 Oplossing:
 
-![blockly](@learning-object/STD_Buzzer4-v1/nl/3)  
+![blockly](@learning-object/STD_Buzzer4/nl/3)  
 
 Zoals je misschien merkt, is het niet zo eenvoudig om zoemertonen te binden aan de knoppen. De meest efficiënte manier om dit te doen wordt hierna uitgelegd.
 

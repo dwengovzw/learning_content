@@ -1,5 +1,5 @@
 ---
-hruid: PN_DictSA-v1
+hruid: pn_sa_dict
 version: 3
 language: nl
 title: "Taaltechnologie - Dict"

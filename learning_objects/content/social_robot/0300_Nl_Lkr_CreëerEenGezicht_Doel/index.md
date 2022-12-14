@@ -1,5 +1,5 @@
 ---
-hruid: SR_VBUnplugged1-v1
+hruid: sr_vbunplugged1
 version: 3
 language: nl
 title: "Voorbereiding Maak een gezicht"

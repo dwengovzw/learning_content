@@ -1,5 +1,5 @@
 ---
-hruid: Forlus-v1
+hruid: Forlus
 version: 3
 language: nl
 title: "Forlus"

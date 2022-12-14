@@ -1,5 +1,5 @@
 ---
-hruid: pn_vkvparabool-v1
+hruid: pn_vkvparabool
 version: 3
 language: nl
 title: "Vierkantsvergelijking"

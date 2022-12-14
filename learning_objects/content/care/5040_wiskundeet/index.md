@@ -1,5 +1,5 @@
 ---
-hruid: aiz_etwiskunde-v1
+hruid: aiz_etwiskunde
 version: 3
 language: nl
 title: "Wiskunde"

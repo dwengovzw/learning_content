@@ -1,5 +1,5 @@
 ---
-hruid: watiseenrobot2-v1
+hruid: wgs_watiseenrobot2
 version: 3
 language: nl
 title: "Wat is een robot? Deel 2"

@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_iris_regressie-v1
+hruid: kiks_iris_regressie
 version: 3
 language: nl
 title: "Irisregressie"

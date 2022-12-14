@@ -1,5 +1,5 @@
 ---
-hruid: PN_Disney-v1
+hruid: pn_disney
 version: 3
 language: nl
 title: "Toepassing Disney"

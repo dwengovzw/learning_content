@@ -1,5 +1,5 @@
 ---
-hruid: SR_Uitleg4-v1
+hruid: sr_uitleg4
 version: 3
 language: nl
 title: "Privacy"

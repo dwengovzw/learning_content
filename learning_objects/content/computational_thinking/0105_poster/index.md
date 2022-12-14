@@ -1,5 +1,5 @@
 ---
-hruid: cd_poster-v1
+hruid: ct_poster
 version: 3
 language: nl
 title: "Concepten en vaardigheden"

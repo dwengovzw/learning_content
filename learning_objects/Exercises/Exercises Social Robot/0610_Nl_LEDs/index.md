@@ -1,5 +1,5 @@
 ---
-hruid: SR_Led-v1
+hruid: sr_Led
 version: 3
 language: nl
 title: "Uitleg Led"

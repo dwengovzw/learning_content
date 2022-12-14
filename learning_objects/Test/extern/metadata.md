@@ -1,5 +1,5 @@
 ---
-hruid: extern-test-v1
+hruid: extern-test
 version: 1
 language: nl
 title: "Testing external content as learning object"

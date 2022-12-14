@@ -1,5 +1,5 @@
 ---
-hruid: Buzzer_Voorbeeld-v1
+hruid: Buzzer_Voorbeeld
 version: 3
 language: nl
 title: "Voorbeeld Buzzer"

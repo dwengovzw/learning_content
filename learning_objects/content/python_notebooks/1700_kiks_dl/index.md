@@ -1,5 +1,5 @@
 ---
-hruid: PN_KIKSDeeplearningAIOPSCHOOL-v1
+hruid: pn_kiks_dl_aiopschool
 version: 3
 language: nl
 title: "Basis deep learning"

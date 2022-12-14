@@ -1,5 +1,5 @@
 ---
-hruid: SR_Uitleg1-v1
+hruid: sr_uitleg1
 version: 3
 language: nl
 title: "Digitale systemen"

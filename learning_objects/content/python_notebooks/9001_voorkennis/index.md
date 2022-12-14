@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisPE-v1
+hruid: pn_pe_voorkennis
 version: 3
 language: nl
 title: "Voorkennis"

@@ -1,5 +1,5 @@
 ---
-hruid: PN_DBOmzetten-v1
+hruid: pn_db_omzetten
 version: 3
 language: nl
 title: "jpeg naar npy"

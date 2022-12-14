@@ -1,5 +1,5 @@
 ---
-hruid: PN_Standaardiseren-v1
+hruid: pn_standaardiseren
 version: 3
 language: nl
 title: "Standaardiseren en visualiseren"

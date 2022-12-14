@@ -1,5 +1,5 @@
 ---
-hruid: SR_Programmeerscenario-v1
+hruid: sr_Programmeerscenario
 version: 3
 language: nl
 title: "Programmeerscenario"

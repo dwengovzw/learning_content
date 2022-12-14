@@ -1,5 +1,5 @@
 ---
-hruid: PN_StructurenPEB-v1
+hruid: pn_structurenpeb
 version: 3
 language: nl
 title: "Structuren"

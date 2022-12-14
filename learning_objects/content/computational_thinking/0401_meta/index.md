@@ -1,5 +1,5 @@
 ---
-hruid: m_cd_cases1
+hruid: m_ct_cases1
 version: 3
 language: nl
 title: "Vierkantsvergelijking"

@@ -1,5 +1,5 @@
 ---
-hruid: WatNaWeGoSTEM-v1
+hruid: wgs_watnawegostem
 version: 3
 language: nl
 title: "Wat na WeGoSTEM?"

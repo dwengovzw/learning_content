@@ -1,5 +1,5 @@
 ---
-hruid: aiz_etstem-v1
+hruid: aiz_etstem
 version: 3
 language: nl
 title: "STEM"

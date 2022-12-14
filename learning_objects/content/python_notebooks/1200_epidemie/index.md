@@ -1,5 +1,5 @@
 ---
-hruid: PN_Epidemie-v1
+hruid: pn_epidemie
 version: 3
 language: nl
 title: "Epidemie"

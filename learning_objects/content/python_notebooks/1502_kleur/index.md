@@ -1,5 +1,5 @@
 ---
-hruid: PN_DBKleur-v1
+hruid: pn_db_kleur
 version: 3
 language: nl
 title: "Kleur"

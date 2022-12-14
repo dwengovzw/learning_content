@@ -1,5 +1,5 @@
 ---
-hruid: SR_Programma-v1
+hruid: sr_programma
 version: 3
 language: nl
 title: "Programmeer je eigen robot"

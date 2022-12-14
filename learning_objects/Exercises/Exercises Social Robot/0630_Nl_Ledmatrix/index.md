@@ -1,5 +1,5 @@
 ---
-hruid: SR_Matrix-v1
+hruid: sr_Matrix
 version: 3
 language: nl
 title: "Uitleg Led-matrix"

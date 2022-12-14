@@ -1,5 +1,5 @@
 ---
-hruid: Wacht-v1
+hruid: Wacht
 version: 3
 language: nl
 title: "Wacht"

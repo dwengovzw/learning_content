@@ -47,7 +47,7 @@ Voorkennis:
 * De leerlingen weten dat de vorm van het spreidingsdiagram een indicatie is van een mogelijk trendlijn. 
 * De leerlingen kunnen in Python een spreidingsdiagram en een trendlijn visualiseren. 
 
-![ct-schema](@learning-object/m_cd_cases4/nl/3)
+![ct-schema](@learning-object/m_ct_cases4/nl/3)
 
 ### Eindtermen (Bron: onderwijsdoelen.be)
 <span style="color: yellowgreen">(4.5 Finaliteit doorstroom) De leerlingen ontwerpen algoritmen om problemen digitaal op te lossen.</span>

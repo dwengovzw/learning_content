@@ -1,5 +1,5 @@
 ---
-hruid: PN_WerkingNotebooks2-v1
+hruid: pn_werkingnotebooks2
 version: 3
 language: nl
 title: "Log out"

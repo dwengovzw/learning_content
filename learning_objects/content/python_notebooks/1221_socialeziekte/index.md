@@ -1,5 +1,5 @@
 ---
-hruid: PN_Epidemie3-v1
+hruid: pn_epidemie3
 version: 3
 language: nl
 title: "Sociale netwerken"

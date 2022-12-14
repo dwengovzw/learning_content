@@ -1,5 +1,5 @@
 ---
-hruid: STD_VH-v1
+hruid: STD_VH
 version: 3
 language: nl
 title: "Voorwaardelijke herhaling"
@@ -40,6 +40,6 @@ Voor opgave 4 van de buzzer, zullen we als startconditie instellen dat een knop 
 
 Oplossing:
 
-![blockly](@learning-object/STD_Buzzer4-v1/nl/3)  
+![blockly](@learning-object/STD_Buzzer4/nl/3)  
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

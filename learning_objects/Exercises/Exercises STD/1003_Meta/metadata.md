@@ -1,5 +1,5 @@
 ---
-hruid: STD_Morse-v1
+hruid: STD_Morse
 version: 3
 language: nl
 title: "Meta"

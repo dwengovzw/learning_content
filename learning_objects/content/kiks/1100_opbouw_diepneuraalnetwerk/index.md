@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_opbouwdiepneuraalnetwerk-v1
+hruid: kiks_opbouwdiepneuraalnetwerk
 version: 3
 language: nl
 title: "Opbouw diep neuraal netwerk"

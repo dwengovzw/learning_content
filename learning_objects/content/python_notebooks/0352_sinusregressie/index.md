@@ -1,5 +1,5 @@
 ---
-hruid: pn_sinusregressie-v1
+hruid: pn_sinusregressie
 version: 3
 language: nl
 title: "Temperatuur"

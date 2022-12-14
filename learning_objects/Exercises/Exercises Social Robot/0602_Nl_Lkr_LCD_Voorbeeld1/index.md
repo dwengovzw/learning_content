@@ -1,5 +1,5 @@
 ---
-hruid: SR_LCDVB1-v1
+hruid: sr_LCDVB1
 version: 3
 language: nl
 title: "Voorbeeld Lcd 1"
@@ -38,7 +38,7 @@ Laat 'Welkom robot' op het lcd-scherm verschijnen.
 
 Oplossing:
 
-![blockly](@learning-object/SRM_LED1-v1/nl/3)
+![blockly](@learning-object/SRM_LED1/nl/3)
 
 De tekst 'Welkom robot' kan je aanpassen. De twee nullen betekenen: eerste lijn, eerste karakter.
 

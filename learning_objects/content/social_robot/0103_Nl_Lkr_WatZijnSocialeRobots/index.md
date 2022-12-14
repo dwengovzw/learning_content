@@ -1,5 +1,5 @@
 ---
-hruid: SR_Lkr_WZSR-v1
+hruid: sr_lkr_wzsr
 version: 3
 language: nl
 title: "Wat zijn sociale robots?"

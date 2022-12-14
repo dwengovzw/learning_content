@@ -1,5 +1,5 @@
 ---
-hruid: SR_Uploaden-v1
+hruid: sr_Uploaden
 version: 3
 language: nl
 title: "Uploaden"

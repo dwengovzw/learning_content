@@ -1,5 +1,5 @@
 ---
-hruid: SR_VBUnplugged2-v1
+hruid: sr_vbunplugged2
 version: 3
 language: nl
 title: "Voorbereiding Emotiemachine"

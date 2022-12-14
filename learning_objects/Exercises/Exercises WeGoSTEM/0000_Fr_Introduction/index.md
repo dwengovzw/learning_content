@@ -1,5 +1,5 @@
 ---
-hruid: IntroductionDesExercices-v1
+hruid: IntroductionDesExercices
 version: 3
 language: fr
 title: "StartToDwenguino Introduction"

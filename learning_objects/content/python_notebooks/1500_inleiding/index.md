@@ -1,5 +1,5 @@
 ---
-hruid: PN_DBInl-v1
+hruid: pn_db_inleiding
 version: 3
 language: nl
 title: "Inleiding"

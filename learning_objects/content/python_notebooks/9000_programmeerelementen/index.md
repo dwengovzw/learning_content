@@ -1,5 +1,5 @@
 ---
-hruid: PN_Programmeerelementen-v1
+hruid: pn_programmeerelementen
 version: 3
 language: nl
 title: "Inleiding"

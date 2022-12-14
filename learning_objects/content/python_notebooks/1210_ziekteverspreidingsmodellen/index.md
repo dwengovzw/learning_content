@@ -1,5 +1,5 @@
 ---
-hruid: PN_Epidemie1-v1
+hruid: pn_epidemie1
 version: 3
 language: nl
 title: "Ziekteverspreidingsmodellen"

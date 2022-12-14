@@ -1,5 +1,5 @@
 ---
-hruid: AlsDan-v1
+hruid: AlsDan
 version: 3
 language: nl
 title: "AlsDan"

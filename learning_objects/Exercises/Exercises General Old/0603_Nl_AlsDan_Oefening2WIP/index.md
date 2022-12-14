@@ -1,5 +1,5 @@
 ---
-hruid: AlsDan_Oef2-v1
+hruid: AlsDan_Oef2
 version: 3
 language: nl
 title: "AlsDan Oefening 2"

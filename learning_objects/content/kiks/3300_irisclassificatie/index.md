@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_iris_classificatie-v1
+hruid: kiks_iris_classificatie
 version: 3
 language: nl
 title: "Iris classificatie"

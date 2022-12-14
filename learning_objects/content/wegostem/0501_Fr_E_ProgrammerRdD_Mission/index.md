@@ -1,5 +1,5 @@
 ---
-hruid: Mission_ProgrammerRdD-v1
+hruid: wgs_mission_programmer_rdd
 version: 3
 language: fr
 title: "Programmer"

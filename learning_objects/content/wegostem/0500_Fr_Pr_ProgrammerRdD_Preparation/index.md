@@ -1,5 +1,5 @@
 ---
-hruid: But_ProgrammerRdD-v1
+hruid: wgs_but_programmer_rdd
 version: 3
 language: fr
 title: "Préparation programmer"

@@ -1,5 +1,5 @@
 ---
-hruid: SR_Afsluiten-v1
+hruid: sr_afsluiten
 version: 3
 language: nl
 title: "Afsluiten"

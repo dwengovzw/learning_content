@@ -1,5 +1,5 @@
 ---
-hruid: STD_Uitbreiding_Reclamebord-v1
+hruid: STD_Uitbreiding_Reclamebord
 version: 3
 language: nl
 title: "Uitbreiding reclamebord"
@@ -39,4 +39,4 @@ Maak een slidereclame aan die "Welkom bij Dwenguino" laat voorbijglijden in een 
 
 Oplossing: 
 
-![blockly](@learning-object/STD_Reclame-v1/nl/3)  
+![blockly](@learning-object/STD_Reclame/nl/3)  

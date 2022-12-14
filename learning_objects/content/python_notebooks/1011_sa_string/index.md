@@ -1,5 +1,5 @@
 ---
-hruid: PN_StringSA-v1
+hruid: pn_sa_string
 version: 3
 language: nl
 title: "Taaltechnologie - String"

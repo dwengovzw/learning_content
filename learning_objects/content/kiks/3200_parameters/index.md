@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_parameters-v1
+hruid: kiks_parameters
 version: 3
 language: nl
 title: "Parameters"

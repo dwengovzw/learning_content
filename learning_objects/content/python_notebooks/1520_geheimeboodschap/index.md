@@ -1,5 +1,5 @@
 ---
-hruid: PN_DBBoodschap-v1
+hruid: pn_db_boodschap
 version: 3
 language: nl
 title: "Geheime boodschap"

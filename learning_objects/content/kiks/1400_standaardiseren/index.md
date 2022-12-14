@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_standaardiseren-v1
+hruid: kiks_standaardiseren
 version: 3
 language: nl
 title: "Standaardiseren"

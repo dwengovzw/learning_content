@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingKlimaat-v1
+hruid: pn_inleiding_klimaat
 version: 3
 language: nl
 title: "Inleiding"

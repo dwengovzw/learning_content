@@ -1,5 +1,5 @@
 ---
-hruid: PN_Keuzestructuur-v1
+hruid: pn_keuzestructuur
 version: 3
 language: nl
 title: "Keuzestructuur"

@@ -1,5 +1,5 @@
 ---
-hruid: SR_Discussies-v1
+hruid: sr_discussies
 version: 3
 language: nl
 title: "Discussies"

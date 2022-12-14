@@ -1,5 +1,5 @@
 ---
-hruid: cd_ib2-v1
+hruid: ct_ib2
 version: 3
 language: nl
 title: "Vlaanderen"

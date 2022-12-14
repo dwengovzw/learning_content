@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisPythagoras-v1
+hruid: pn_voorkennis_pythagoras
 version: 3
 language: nl
 title: "Voorkennis"

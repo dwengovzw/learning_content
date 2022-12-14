@@ -1,5 +1,5 @@
 ---
-hruid: PN_EersteGrafiek-v1
+hruid: pn_eerstegrafiek
 version: 3
 language: nl
 title: "Je eerste grafiek"

@@ -1,5 +1,5 @@
 ---
-hruid: SR_Temp-v1
+hruid: sr_Temp
 version: 3
 language: nl
 title: "Wijziging"

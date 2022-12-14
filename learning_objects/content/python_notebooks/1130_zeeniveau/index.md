@@ -1,5 +1,5 @@
 ---
-hruid: PN_Zeeniveau-v1
+hruid: pn_zeeniveau
 version: 3
 language: nl
 title: "Zeeniveau"

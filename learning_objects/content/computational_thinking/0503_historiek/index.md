@@ -1,5 +1,5 @@
 ---
-hruid: cd_historiek4-v1
+hruid: ct_historiek4
 version: 3
 language: nl
 title: "Computationeel denken"

@@ -1,5 +1,5 @@
 ---
-hruid: kiks_evolutieplantenstomata-v1
+hruid: kiks_evolutieplantenstomata
 version: 3
 language: nl
 title: "Evolutie van planten en hun stomata"

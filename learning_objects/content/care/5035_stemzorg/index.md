@@ -1,5 +1,5 @@
 ---
-hruid: aiz_etstemzorg-v1
+hruid: aiz_etstemzorg
 version: 3
 language: nl
 title: "Verwerking in het project"

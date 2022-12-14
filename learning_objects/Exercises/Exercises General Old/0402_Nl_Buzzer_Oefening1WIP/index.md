@@ -1,5 +1,5 @@
 ---
-hruid: Buzzer_Oef1-v1
+hruid: Buzzer_Oef1
 version: 3
 language: nl
 title: "Buzzer Oefening 1"

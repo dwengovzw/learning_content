@@ -1,5 +1,5 @@
 ---
-hruid: SR_Lkr_Les4-v1
+hruid: sr_lkr_les4
 version: 3
 language: nl
 title: "Module 4"

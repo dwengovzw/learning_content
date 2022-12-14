@@ -1,5 +1,5 @@
 ---
-hruid: PN_StructurenPE-v1
+hruid: pn_structurenpe
 version: 3
 language: nl
 title: "Structuren"

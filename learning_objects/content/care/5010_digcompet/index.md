@@ -1,5 +1,5 @@
 ---
-hruid: aiz_etdigitalecompetentie-v1
+hruid: aiz_etdigitalecompetentie
 version: 3
 language: nl
 title: "Digitale competentie en mediawijsheid"

@@ -1,5 +1,5 @@
 ---
-hruid: Ranger-v1
+hruid: wgs_ranger
 version: 3
 language: fr
 title: "Ranger"

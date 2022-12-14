@@ -1,5 +1,5 @@
 ---
-hruid: wgs_Lkr_Knoppen2-v1
+hruid: wgs_Lkr_Knoppen2
 version: 3
 language: nl
 title: "Voorbeeld Knoppen 2"
@@ -38,6 +38,6 @@ Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje 
 
 Oplossing:
 
-![blockly](@learning-object/KNOPwgs2-v1/nl/3)
+![blockly](@learning-object/KNOPwgs2/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

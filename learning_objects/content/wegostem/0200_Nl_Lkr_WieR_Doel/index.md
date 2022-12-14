@@ -1,5 +1,5 @@
 ---
-hruid: Doel_WatIsEenRobot-v1
+hruid: wgs_doel_watiseenrobot
 version: 3
 language: nl
 title: "Voorbereiding Wat is een robot?"

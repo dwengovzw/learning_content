@@ -1,5 +1,5 @@
 ---
-hruid: But_PuH-v1
+hruid: wgs_but_puh
 version: 3
 language: fr
 title: "Préparation Programmer un humain"

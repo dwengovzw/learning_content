@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_relu-v1
+hruid: kiks_relu
 version: 3
 language: nl
 title: "ReLU"

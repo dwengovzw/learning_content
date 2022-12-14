@@ -1,5 +1,5 @@
 ---
-hruid: kiks_practicum-v1
+hruid: kiks_practicum
 version: 3
 language: nl
 title: "Practicum"

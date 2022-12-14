@@ -1,5 +1,5 @@
 ---
-hruid: CD_Plugged-v1
+hruid: ct_plugged
 version: 3
 language: nl
 title: "Plugged activiteiten"

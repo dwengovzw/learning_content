@@ -1,5 +1,5 @@
 ---
-hruid: SR_SonarVB1-v1
+hruid: sr_SonarVB1
 version: 3
 language: nl
 title: "Voorbeeld sonar-sensor 1"
@@ -37,7 +37,7 @@ Voor we de sonar-sensor gebruiken, moeten we deze eerst testen. Schrijf een prog
 
 Oplossing:  
 
-![blockly](@learning-object/SRM_Sonar1-v1/nl/3)
+![blockly](@learning-object/SRM_Sonar1/nl/3)
 
 Op het lcd-scherm verschijnen nu de waarden die de sonar-sensor teruggeeft. Indien dit niet werkt, moet je troubleshooten om het probleem te vinden.
 - Is het het juiste programma?

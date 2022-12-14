@@ -1,5 +1,5 @@
 ---
-hruid: SR_Lkr_Inleiding-v1
+hruid: sr_lkr_inleiding
 version: 3
 language: nl
 title: "Inleiding Leerkracht"
@@ -47,7 +47,7 @@ In het project is er ruimte voor een discussie over de plaats en (morele) impact
 
 Sociale robotica is een interdisciplinair domein, of hoort het te zijn. Een sociale robot interageert immers met zijn omgeving en met de mensen die erin vertoeven.
 
-![](embed/SR_interdisciplinair.png "interdisciplinair domein")
+![](embed/sr_interdisciplinair.png "interdisciplinair domein")
 
 De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aangenaam zijn in omgang. Bij het maken van een robot denkt men best in een interdisciplinair team na over het ontwerp, zowel hardware- als softwarematig. Er is kennis nodig over verschillende domeinen: het gedrag van mensen wanneer ze interageren met een robot, de technische kant van een robot, de esthetiek …
 

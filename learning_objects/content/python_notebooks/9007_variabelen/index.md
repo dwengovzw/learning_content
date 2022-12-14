@@ -1,5 +1,5 @@
 ---
-hruid: PN_VariabelenPE-v1
+hruid: pn_variabelenpe
 version: 3
 language: nl
 title: "Variabelen"

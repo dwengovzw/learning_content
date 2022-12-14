@@ -1,5 +1,5 @@
 ---
-hruid: PN_BelangVisualisatie-v1
+hruid: pn_belangvisualisatie
 version: 3
 language: nl
 title: "Belang van visualisatie"

@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_morteratsch-v1
+hruid: kiks_morteratsch
 version: 3
 language: nl
 title: "Morteratsch gletsjer"

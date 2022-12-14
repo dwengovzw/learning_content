@@ -1,9 +1,9 @@
 ---
-hruid: SR_BouwenRobot2-v1
+hruid: sr_bouwenrobot2
 version: 3
 language: nl
 title: "Bedrading en monteren"
-description: "SR_BouwenRobot"
+description: "sr_BouwenRobot"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

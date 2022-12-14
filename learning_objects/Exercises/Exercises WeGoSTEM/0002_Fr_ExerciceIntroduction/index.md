@@ -1,5 +1,5 @@
 ---
-hruid: ExerciceIntroduction-v1
+hruid: ExerciceIntroduction
 version: 3
 language: fr
 title: "Exercice d'introduction"

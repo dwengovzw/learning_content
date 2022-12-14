@@ -1,5 +1,5 @@
 ---
-hruid: Pr_Attendwgs2-v1
+hruid: Pr_Attendwgs2
 version: 3
 language: fr
 title: "Exemple Attend 2"
@@ -38,6 +38,6 @@ Vous pouvez résoudre ce problème de 2 manières.
 
 La première consiste à supprimer le texte. Pour cela, vous utilisez le bloc **CreateLCDClear**.
 
-![blockly](@learning-object/WACHTwgs2-v1/fr/3)
+![blockly](@learning-object/WACHTwgs2/fr/3)
 
 *Testez ces exemples vous-même dans le simulateur !*

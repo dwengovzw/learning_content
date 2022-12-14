@@ -1,5 +1,5 @@
 ---
-hruid: SR_Waar-v1
+hruid: sr_waar
 version: 3
 language: nl
 title: "Logistiek"

@@ -37,7 +37,7 @@ OPGAVE 3
 
 Oplossing:
 
-![blockly](@learning-object/LCDM3-v1/nl/3
+![blockly](@learning-object/LCDM3/nl/3
 
 
 <div class="alert alert-box alert-success">

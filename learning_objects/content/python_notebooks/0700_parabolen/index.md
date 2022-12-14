@@ -1,5 +1,5 @@
 ---
-hruid: pn_parabool-v1
+hruid: pn_parabool
 version: 3
 language: nl
 title: "Parabolen"

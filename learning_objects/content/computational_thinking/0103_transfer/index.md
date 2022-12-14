@@ -1,5 +1,5 @@
 ---
-hruid: cd_transfer-v1
+hruid: ct_transfer
 version: 3
 language: nl
 title: "Aandachtspunten: Transfer"

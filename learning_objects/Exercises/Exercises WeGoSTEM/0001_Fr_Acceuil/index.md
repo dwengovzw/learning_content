@@ -1,5 +1,5 @@
 ---
-hruid: Acceuil-v1
+hruid: Acceuil
 version: 3
 language: fr
 title: "StartToDwenguino Base"

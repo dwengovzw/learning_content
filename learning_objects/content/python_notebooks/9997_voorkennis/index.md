@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisDatatypes-v1
+hruid: pn_voorkennis_datatypes
 version: 3
 language: nl
 title: "Voorkennis"

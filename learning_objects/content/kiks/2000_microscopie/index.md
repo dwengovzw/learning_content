@@ -1,5 +1,5 @@
 ---
-hruid: kiks_microscopie-v1
+hruid: kiks_microscopie
 version: 3
 language: nl
 title: "Microscopie"

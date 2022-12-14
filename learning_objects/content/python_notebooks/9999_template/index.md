@@ -1,5 +1,5 @@
 ---
-hruid: TemplateI-v1
+hruid: TemplateI
 version: 3
 language: nl
 title: ""

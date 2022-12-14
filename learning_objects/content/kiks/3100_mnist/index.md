@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_MNIST-v1
+hruid: kiks_mnist
 version: 3
 language: nl
 title: "MNIST"

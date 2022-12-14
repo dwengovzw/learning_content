@@ -1,5 +1,5 @@
 ---
-hruid: PN_InleidingRechten-v1
+hruid: pn_inleiding_rechten
 version: 3
 language: nl
 title: "Inleiding"

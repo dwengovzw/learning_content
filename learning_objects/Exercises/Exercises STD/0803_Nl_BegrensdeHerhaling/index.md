@@ -1,5 +1,5 @@
 ---
-hruid: STD_BH-v1
+hruid: STD_BH
 version: 3
 language: nl
 title: "Begrensde Herhaling"
@@ -43,6 +43,6 @@ Voor opgave 3 van de buzzer kan je dus elk deel dat herhaald moet worden, inkort
 
 Oplossing:
 
-![blockly](@learning-object/STD_Buzzer32-v1/nl/3)  
+![blockly](@learning-object/STD_Buzzer32/nl/3)  
 
 *Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*

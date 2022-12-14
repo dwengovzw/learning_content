@@ -1,5 +1,5 @@
 ---
-hruid: Pr_Attendwgs1-v1
+hruid: Pr_Attendwgs1
 version: 3
 language: fr
 title: "Exemple Attend 1"
@@ -41,7 +41,7 @@ ShWrite un programme qui effectue les opérations suivantes :
 
 Solution:
 
-![blockly](@learning-object/WACHTwgs1-v1/fr/3)
+![blockly](@learning-object/WACHTwgs1/fr/3)
 
 Le bloc *'wait'* qui apparaît **après** une instruction particulière indique combien de temps l'ordinateur doit **attendre** avant de pouvoir lancer l'instruction suivante.
 

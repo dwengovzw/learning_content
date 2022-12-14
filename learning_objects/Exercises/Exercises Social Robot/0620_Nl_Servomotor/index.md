@@ -1,5 +1,5 @@
 ---
-hruid: SR_Servo-v1
+hruid: sr_Servo
 version: 3
 language: nl
 title: "Uitleg Servomotor"

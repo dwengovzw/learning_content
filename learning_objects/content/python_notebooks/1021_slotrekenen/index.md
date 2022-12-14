@@ -1,5 +1,5 @@
 ---
-hruid: PN_SlotOperatoren-v1
+hruid: pn_slot_operatoren
 version: 3
 language: nl
 title: "Slot"

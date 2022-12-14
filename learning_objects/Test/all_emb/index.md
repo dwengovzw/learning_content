@@ -1,5 +1,5 @@
 ---
-hruid: test-v1
+hruid: test
 version: 3
 language: nl
 title: "This is a titleeeee"

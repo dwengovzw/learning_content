@@ -1,5 +1,5 @@
 ---
-hruid: STD_Uitbreiding_BladSteenSchaar-v1
+hruid: STD_Uitbreiding_BladSteenSchaar
 version: 3
 language: nl
 title: "Uitbreiding blad steen schaar"
@@ -47,4 +47,4 @@ Zuid: Schaar
 
 Oplossing: 
 
-![blockly](@learning-object/STD_BSS-v1/nl/3)  
+![blockly](@learning-object/STD_BSS/nl/3)  

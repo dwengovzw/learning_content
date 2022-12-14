@@ -1,5 +1,5 @@
 ---
-hruid: MateriauCasse-v1
+hruid: wgs_materiaucasse
 version: 3
 language: fr
 title: "Matériau cassé"

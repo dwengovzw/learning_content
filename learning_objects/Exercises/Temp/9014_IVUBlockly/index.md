@@ -1,5 +1,5 @@
 ---
-hruid: PN_IVUPEB-v1
+hruid: pn_ivupeb
 version: 3
 language: nl
 title: "Invoer - Verwerking - Uitvoer"

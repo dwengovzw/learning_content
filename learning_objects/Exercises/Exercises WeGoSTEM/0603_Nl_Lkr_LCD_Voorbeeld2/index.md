@@ -1,5 +1,5 @@
 ---
-hruid: wgs_Lkr_lcd2-v1
+hruid: wgs_Lkr_lcd2
 version: 3
 language: nl
 title: "Voorbeeld Lcd 2"
@@ -38,7 +38,7 @@ Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.
 
 Oplossing:
 
-![blockly](@learning-object/LCDM2-v1/nl/3)
+![blockly](@learning-object/LCDM2/nl/3)
 
 Om de tekst in 2 rijen te splitsen, heb je een tweede *'lcd-scherm'-blok* nodig.
 Verander je bij 'op rij:' de 0 in een 1, dan komt de tekst op de tweede lijn.

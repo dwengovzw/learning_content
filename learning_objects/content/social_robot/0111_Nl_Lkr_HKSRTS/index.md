@@ -1,5 +1,5 @@
 ---
-hruid: SR_Lkr_HKSRTS-v1
+hruid: sr_lkr_hksrts
 version: 3
 language: nl
 title: "Het ontwerpproces"

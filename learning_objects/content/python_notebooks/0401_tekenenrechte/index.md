@@ -1,5 +1,5 @@
 ---
-hruid: PN_RechtenTekenen-v1
+hruid: pn_rechtentekenen
 version: 3
 language: nl
 title: "Rechten tekenen"

@@ -1,5 +1,5 @@
 ---
-hruid: PR_Boutonswgs3-v1
+hruid: PR_Boutonswgs3
 version: 3
 language: fr
 title: "Knoppen Voorbeeld"
@@ -61,7 +61,7 @@ OPGAVE 3
 
 Oplossing:
 
-![blockly](@learning-object/LCDM3-v1/fr/3)
+![blockly](@learning-object/LCDM3/fr/3)
 
 
 

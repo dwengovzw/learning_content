@@ -1,5 +1,5 @@
 ---
-hruid: PN_ExpoGroei-v1
+hruid: pn_expogroei
 version: 3
 language: nl
 title: "Exponentiële groei"

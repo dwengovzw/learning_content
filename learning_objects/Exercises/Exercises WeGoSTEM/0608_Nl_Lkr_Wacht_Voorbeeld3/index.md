@@ -1,5 +1,5 @@
 ---
-hruid: wgs_Lkr_Wacht3-v1
+hruid: wgs_Lkr_Wacht3
 version: 3
 language: nl
 title: "Voorbeeld Wacht 3"
@@ -36,6 +36,6 @@ teacher_exclusive: true
 
 De tweede manier is om alle code te verplaatsen van het *'zet klaar'-deel* naar het *'herhaal'-deel*. Dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.
 
-![blockly](@learning-object/WACHTwgs3-v1/nl/3)
+![blockly](@learning-object/WACHTwgs3/nl/3)
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

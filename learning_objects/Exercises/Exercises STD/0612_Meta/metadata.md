@@ -1,5 +1,5 @@
 ---
-hruid: STD_Led2-v1
+hruid: STD_Led2
 version: 3
 language: nl
 title: "Meta"

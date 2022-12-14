@@ -1,5 +1,5 @@
 ---
-hruid: PN_SlotRechten-v1
+hruid: pn_slot_rechten
 version: 3
 language: nl
 title: "Slot"

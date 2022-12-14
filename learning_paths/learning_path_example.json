@@ -1,5 +1,5 @@
 {
-  "hruid": "test-v1",
+  "hruid": "test",
   "language": "nl",
   "title": "Bouw jouw eigen robot (updated)",
   "description": " Heb je er altijd al van gedroomd een eigen robot te bouwen? In het boekje 'Bouw jouw eigen robot' wordt uitvoerig uitgelegd wat de principes zijn bij het bouwen, en hoe je effectief een robot programmeert. De ideale voorbereiding op de jaarlijkse UGent-Dwengo robotcompetitie.",
@@ -14,7 +14,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "extern-test-v1",
+            "hruid": "extern-test",
             "version": "1",
             "language": "nl"
           }
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "learningobject_hruid": "extern-test-v1",
+      "learningobject_hruid": "extern-test",
       "language": "nl",
       "version": "1",
       "transitions": [

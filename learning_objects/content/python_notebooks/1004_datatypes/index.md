@@ -1,5 +1,5 @@
 ---
-hruid: PN_Datatypes-v1
+hruid: pn_datatypes
 version: 3
 language: nl
 title: "Datatypes"

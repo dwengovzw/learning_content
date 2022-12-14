@@ -1,5 +1,5 @@
 ---
-hruid: lln_led_Voorbeeld-v1
+hruid: lln_led_Voorbeeld
 version: 3
 language: nl
 title: "Led Voorbeeld"

@@ -1,5 +1,5 @@
 ---
-hruid: But_ConstruireRdD-v1
+hruid: wgs_but_construire_rdd
 version: 3
 language: fr
 title: "Préparation Construction"

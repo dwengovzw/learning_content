@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_Stomatateller-v1
+hruid: kiks_stomatateller
 version: 3
 language: nl
 title: "Stomatateller"

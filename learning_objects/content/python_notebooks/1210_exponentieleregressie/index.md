@@ -1,5 +1,5 @@
 ---
-hruid: pn_exponentieleregressie-v1
+hruid: pn_exponentieleregressie
 version: 3
 language: nl
 title: "Epidemie"

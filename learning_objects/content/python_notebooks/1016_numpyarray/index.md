@@ -1,5 +1,5 @@
 ---
-hruid: PN_NPArray-v1
+hruid: pn_nparray
 version: 3
 language: nl
 title: "NumPy array"

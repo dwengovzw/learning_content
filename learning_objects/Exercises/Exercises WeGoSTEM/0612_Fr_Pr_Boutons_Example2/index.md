@@ -1,5 +1,5 @@
 ---
-hruid: Pr_Boutonswgs2-v1
+hruid: Pr_Boutonswgs2
 version: 3
 language: fr
 title: "Exemple Boutons 2"
@@ -38,6 +38,6 @@ Le programme démarre. Lorsque le bouton SOUTH est enfoncé, la cinquième LED (
 
 Solution:
 
-![blockly](@learning-object/KNOPwgs2-v1/fr/3)
+![blockly](@learning-object/KNOPwgs2/fr/3)
 
 *Testez ces exemples vous-même dans le simulateur !*

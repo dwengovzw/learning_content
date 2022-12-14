@@ -1,5 +1,5 @@
 ---
-hruid: cd_evaluatiekader5-v1
+hruid: ct_evaluatiekader5
 version: 3
 language: nl
 title: "Evaluatiekader"

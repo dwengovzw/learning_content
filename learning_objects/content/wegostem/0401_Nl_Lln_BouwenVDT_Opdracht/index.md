@@ -1,5 +1,5 @@
 ---
-hruid: opdracht_bouwenvaneentekenrobot-v1
+hruid: wgs_opdracht_bouwenvaneentekenrobot
 version: 3
 language: nl
 title: "Bouwen van een tekenrobot"

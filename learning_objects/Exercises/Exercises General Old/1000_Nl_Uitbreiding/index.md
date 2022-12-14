@@ -1,5 +1,5 @@
 ---
-hruid: Uitbreiding-v1
+hruid: Uitbreiding
 version: 3
 language: nl
 title: "Uitbreiding"

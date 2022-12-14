@@ -1,5 +1,5 @@
 ---
-hruid: Buzzer-v1
+hruid: Buzzer
 version: 3
 language: nl
 title: "Buzzer"

@@ -1,5 +1,5 @@
 ---
-hruid: Telechargerwgs-v1
+hruid: Telechargerwgs
 version: 3
 language: fr
 title: "Télécharger Dwenguino"

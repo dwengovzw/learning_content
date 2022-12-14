@@ -1,5 +1,5 @@
 ---
-hruid: cd_eindtermen3-v1
+hruid: ct_eindtermen3
 version: 3
 language: nl
 title: "Definitie computationeel denken"

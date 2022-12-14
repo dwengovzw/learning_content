@@ -1,5 +1,5 @@
 ---
-hruid: art_turtle-v1
+hruid: art_turtle
 version: 3
 language: nl
 title: "Turtle - meetkundige vormen"

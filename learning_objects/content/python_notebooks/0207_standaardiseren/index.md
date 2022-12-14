@@ -1,5 +1,5 @@
 ---
-hruid: PN_StandaardiserenSpreidingsdiagram-v1
+hruid: pn_standaardiserenSpreidingsdiagram
 version: 3
 language: nl
 title: "Standaardiseren"

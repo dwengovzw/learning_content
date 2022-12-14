@@ -1,5 +1,5 @@
 ---
-hruid: wgs_Motoren-v1
+hruid: wgs_Motoren
 version: 3
 language: nl
 title: "Uitleg tekenrobot"

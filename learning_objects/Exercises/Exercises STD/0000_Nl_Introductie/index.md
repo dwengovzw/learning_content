@@ -1,5 +1,5 @@
 ---
-hruid: STD_Introductie-v1
+hruid: STD_Introductie
 version: 3
 language: nl
 title: "StartToDwenguino Introductie"

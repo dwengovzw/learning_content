@@ -1,5 +1,5 @@
 ---
-hruid: SRM_Wacht3-v1
+hruid: SRM_Wacht3
 version: 3
 language: nl
 title: "Meta"

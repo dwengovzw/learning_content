@@ -1,5 +1,5 @@
 ---
-hruid: kiks_llnpracticum-v1
+hruid: kiks_llnpracticum
 version: 3
 language: nl
 title: "Inleiding"

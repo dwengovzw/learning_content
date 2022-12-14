@@ -1,5 +1,5 @@
 ---
-hruid: SR_Sonar-v1
+hruid: sr_Sonar
 version: 3
 language: nl
 title: "Uitleg Sonar"

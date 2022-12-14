@@ -1,5 +1,5 @@
 ---
-hruid: STD_Wacht-v1
+hruid: STD_Wacht
 version: 3
 language: nl
 title: "Uitleg Wacht"
@@ -41,4 +41,4 @@ De tijd wordt uitgedrukt in milliseconden. Eén milliseconde is een duizendste v
 
 Probeer onderstaand voorbeeld eens uit zodat je ziet hoe het werkt!
 
-![blockly](@learning-object/WACHT1-v1/nl/3)
+![blockly](@learning-object/WACHT1/nl/3)

@@ -1,5 +1,5 @@
 ---
-hruid: Knoppen_Oef1-v1
+hruid: Knoppen_Oef1
 version: 3
 language: nl
 title: "Knoppen Oefening 1"

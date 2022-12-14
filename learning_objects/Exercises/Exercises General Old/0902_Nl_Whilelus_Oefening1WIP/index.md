@@ -1,5 +1,5 @@
 ---
-hruid: Whilelus_Oef1-v1
+hruid: Whilelus_Oef1
 version: 3
 language: nl
 title: "Whilelus Oefening 1"

@@ -1,5 +1,5 @@
 ---
-hruid: Micro_Bussen-v1
+hruid: pc_micro_bussen
 version: 3
 language: nl
 title: "Bussen"

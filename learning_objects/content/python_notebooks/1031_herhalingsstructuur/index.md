@@ -1,5 +1,5 @@
 ---
-hruid: PN_herhalingsstructuur-v1
+hruid: pn_herhalingsstructuur
 version: 3
 language: nl
 title: "Herhalingsstructuur"

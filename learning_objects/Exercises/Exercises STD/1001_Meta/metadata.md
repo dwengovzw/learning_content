@@ -1,5 +1,5 @@
 ---
-hruid: STD_BSS-v1
+hruid: STD_BSS
 version: 3
 language: nl
 title: "Meta"

@@ -1,5 +1,5 @@
 ---
-hruid: PN_DatatypesPE-v1
+hruid: pn_datatypespe
 version: 3
 language: nl
 title: "Datatypes"

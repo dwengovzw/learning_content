@@ -1,5 +1,5 @@
 ---
-hruid: Uitbreiding_Reclamebord-v1
+hruid: Uitbreiding_Reclamebord
 version: 3
 language: nl
 title: "uitbreiding reclamebord"

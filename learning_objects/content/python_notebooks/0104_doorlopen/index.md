@@ -1,5 +1,5 @@
 ---
-hruid: PN_DoorlopenWerking-v1
+hruid: pn_doorlopenwerking
 version: 3
 language: nl
 title: "Doorlopen van een notebook"

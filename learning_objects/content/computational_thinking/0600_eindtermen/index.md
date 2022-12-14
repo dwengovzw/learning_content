@@ -1,5 +1,5 @@
 ---
-hruid: cd_eindtermen-v1
+hruid: ct_eindtermen
 version: 3
 language: nl
 title: "Vlaanderen"

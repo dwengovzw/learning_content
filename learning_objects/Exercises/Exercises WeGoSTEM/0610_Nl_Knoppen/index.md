@@ -1,5 +1,5 @@
 ---
-hruid: wgs_Knoppen-v1
+hruid: wgs_Knoppen
 version: 3
 language: nl
 title: "Uitleg Knoppen"
@@ -39,4 +39,4 @@ Je kan op een knop klikken met je muis. Als je erop klikt, is de knop ingedrukt.
 
 Je wilt uiteraard dat de tekenrobot pas begint te tekenen wanneer jij dit wilt. Daarom ga je hier een extra startconditie invoeren zoals in onderstaand voorbeeld:
 
-![blockly](@learning-object/KNOP-v1/nl/3)
+![blockly](@learning-object/KNOP/nl/3)

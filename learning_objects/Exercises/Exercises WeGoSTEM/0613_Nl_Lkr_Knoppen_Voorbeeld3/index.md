@@ -1,5 +1,5 @@
 ---
-hruid: wgs_Lkr_Knoppen3-v1
+hruid: wgs_Lkr_Knoppen3
 version: 3
 language: nl
 title: "Knoppen Voorbeeld"
@@ -61,7 +61,7 @@ OPGAVE 3
 
 Oplossing:
 
-![blockly](@learning-object/LCDM3-v1/nl/3
+![blockly](@learning-object/LCDM3/nl/3
 
 
 

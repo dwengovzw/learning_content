@@ -1,5 +1,5 @@
 ---
-hruid: PN_FunctiesPEB-v1
+hruid: pn_peb_functies
 version: 3
 language: nl
 title: "Functies"

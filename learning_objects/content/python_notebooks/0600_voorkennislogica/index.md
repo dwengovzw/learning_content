@@ -1,5 +1,5 @@
 ---
-hruid: pn_voorkennislogica-v1
+hruid: pn_voorkennis_logica
 version: 3
 language: nl
 title: "Voorkennis"

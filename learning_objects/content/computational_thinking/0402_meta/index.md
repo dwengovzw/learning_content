@@ -1,5 +1,5 @@
 ---
-hruid: m_cd_cases2
+hruid: m_ct_cases2
 version: 3
 language: nl
 title: "Kleerhanger"

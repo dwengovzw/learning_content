@@ -1,5 +1,5 @@
 ---
-hruid: SRM_Servo1-v1
+hruid: SRM_Servo1
 version: 3
 language: nl
 title: "Meta"

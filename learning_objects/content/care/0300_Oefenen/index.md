@@ -1,5 +1,5 @@
 ---
-hruid: AIZ_Oefenen-v1
+hruid: aiz_oefenen
 version: 3
 language: nl
 title: "Oefennotebooks"

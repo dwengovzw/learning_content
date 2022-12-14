@@ -1,5 +1,5 @@
 ---
-hruid: PN_C02-v1
+hruid: pn_co2
 version: 3
 language: nl
 title: "CO&#8322;"

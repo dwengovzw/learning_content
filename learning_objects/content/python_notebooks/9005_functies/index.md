@@ -1,5 +1,5 @@
 ---
-hruid: PN_FunctiesPE-v1
+hruid: pn_pe_functies
 version: 3
 language: nl
 title: "Functies"

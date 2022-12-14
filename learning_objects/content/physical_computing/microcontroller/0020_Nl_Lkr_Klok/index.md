@@ -1,5 +1,5 @@
 ---
-hruid: Micro_Klok-v1
+hruid: pc_micro_klok
 version: 3
 language: nl
 title: "Klok"

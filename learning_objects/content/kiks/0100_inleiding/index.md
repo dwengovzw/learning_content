@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_Inleiding-v1
+hruid: kiks_inleiding
 version: 3
 language: nl
 title: "Inleiding"

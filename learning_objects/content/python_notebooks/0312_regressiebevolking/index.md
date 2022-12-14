@@ -1,5 +1,5 @@
 ---
-hruid: PN_BevolkingLinReg-v1
+hruid: pn_bevolkinglinreg
 version: 3
 language: nl
 title: "Toepassing bevolking"

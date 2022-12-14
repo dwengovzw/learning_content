@@ -1,5 +1,5 @@
 ---
-hruid: Micro_PU-v1
+hruid: pc_micro_pu
 version: 3
 language: nl
 title: "Processing Unit"

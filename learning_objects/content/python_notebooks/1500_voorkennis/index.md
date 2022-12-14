@@ -1,5 +1,5 @@
 ---
-hruid: PN_DBVoork-v1
+hruid: pn_db_voorkennis
 version: 3
 language: nl
 title: "Voorkennis"

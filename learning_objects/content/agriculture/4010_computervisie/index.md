@@ -1,5 +1,5 @@
 ---
-hruid: AGRI_computervisie-v1
+hruid: agri_computervisie
 version: 3
 language: nl
 title: "Computervisie"

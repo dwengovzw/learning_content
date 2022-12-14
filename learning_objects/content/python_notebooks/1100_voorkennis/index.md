@@ -1,5 +1,5 @@
 ---
-hruid: PN_VoorkennisKlimaat-v1
+hruid: pn_voorkennis_klimaat
 version: 3
 language: nl
 title: "Voorkennis"

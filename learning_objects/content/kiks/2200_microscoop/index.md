@@ -1,5 +1,5 @@
 ---
-hruid: kiks_microscoop-v1
+hruid: kiks_microscoop
 version: 3
 language: nl
 title: "Grootte van een stoma"

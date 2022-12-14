@@ -1,5 +1,5 @@
 ---
-hruid: PN_IVUPE-v1
+hruid: pn_ivupe
 version: 3
 language: nl
 title: "Invoer - Verwerking - Uitvoer"

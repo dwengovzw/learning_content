@@ -1,5 +1,5 @@
 ---
-hruid: PN_Epidemie2-v1
+hruid: pn_epidemie2
 version: 3
 language: nl
 title: "SIR-model"

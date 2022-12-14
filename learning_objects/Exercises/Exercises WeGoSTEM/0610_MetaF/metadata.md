@@ -1,5 +1,5 @@
 ---
-hruid: KNOP-v1
+hruid: KNOP
 version: 3
 language: fr
 title: "Meta"

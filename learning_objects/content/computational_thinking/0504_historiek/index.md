@@ -1,5 +1,5 @@
 ---
-hruid: cd_historiek5-v1
+hruid: ct_historiek5
 version: 3
 language: nl
 title: "Great principles"

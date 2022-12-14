@@ -1,5 +1,5 @@
 ---
-hruid: pr_wgs_lcd1-v1
+hruid: pr_wgs_lcd1
 version: 3
 language: fr
 title: "Exemple LCD 1"
@@ -37,7 +37,7 @@ Faites apparaître 'Welcome Robot' sur l'écran LCD.
 
 Solution:
 
-![blockly](@learning-object/LCDM1-v1/fr/3)
+![blockly](@learning-object/LCDM1/fr/3)
 
 Vous pouvez modifier le texte 'Bienvenue robot'. Les deux zéros signifient : première ligne, premier caractère.
 

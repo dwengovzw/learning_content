@@ -1,5 +1,5 @@
 ---
-hruid: kiks_opensluiten-v1
+hruid: kiks_opensluiten
 version: 3
 language: nl
 title: "Openen en sluiten van stomata"

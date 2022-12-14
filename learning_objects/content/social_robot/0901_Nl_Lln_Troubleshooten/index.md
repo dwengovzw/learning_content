@@ -1,5 +1,5 @@
 ---
-hruid: SR_Programmeren3-v1
+hruid: sr_programmeren3
 version: 3
 language: nl
 title: "Testen en debuggen"

@@ -1,5 +1,5 @@
 ---
-hruid: PN_SlotRegressie-v1
+hruid: pn_slot_regressie
 version: 3
 language: nl
 title: "Slot"

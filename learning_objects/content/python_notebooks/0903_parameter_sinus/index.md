@@ -1,5 +1,5 @@
 ---
-hruid: pn_parametersinus-v1
+hruid: pn_parametersinus
 version: 3
 language: nl
 title: "Parameters sinusvergelijking"

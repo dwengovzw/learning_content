@@ -1,5 +1,5 @@
 ---
-hruid: KIKS_silvretta-v1
+hruid: kiks_silvretta
 version: 3
 language: nl
 title: "Silvretta gletsjer"

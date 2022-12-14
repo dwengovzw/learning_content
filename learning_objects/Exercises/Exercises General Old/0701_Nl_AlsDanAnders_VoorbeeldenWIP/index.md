@@ -1,5 +1,5 @@
 ---
-hruid: AlsDanAnders_Voorbeeld-v1
+hruid: AlsDanAnders_Voorbeeld
 version: 3
 language: nl
 title: "AlsDanAnders Voorbeeld"
