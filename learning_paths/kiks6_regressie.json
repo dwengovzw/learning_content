@@ -15,6 +15,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "kiks_silvretta",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "kiks_silvretta",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "kiks_zeeniveau",
             "version": "3",
             "language": "nl"
@@ -29,4 +44,3 @@
     } 
   ]
 }
-
