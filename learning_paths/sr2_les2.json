@@ -45,7 +45,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "sr_VBSimulator",
+            "hruid": "sr_vbsimulator",
             "version": "3",
             "language": "nl"
           }
@@ -53,14 +53,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_VBSimulator",
+      "learningobject_hruid": "sr_vbsimulator",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Simulator",
+            "hruid": "sr_simulator",
             "version": "3",
             "language": "nl"
           }
@@ -68,14 +68,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Simulator",
+      "learningobject_hruid": "sr_simulator",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_STD",
+            "hruid": "sr_std",
             "version": "3",
             "language": "nl"
           }
@@ -83,14 +83,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_STD",
+      "learningobject_hruid": "sr_std",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Programmeerscenario",
+            "hruid": "sr_programmeerscenario",
             "version": "3",
             "language": "nl"
           }
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Programmeerscenario",
+      "learningobject_hruid": "sr_programmeerscenario",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -375,7 +375,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "sr_Programma",
+            "hruid": "sr_programma",
             "version": "3",
             "language": "nl"
           }
@@ -383,14 +383,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Programma",
+      "learningobject_hruid": "sr_programma",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Slot23",
+            "hruid": "sr_slot23",
             "version": "3",
             "language": "nl"
           }
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Slot23",
+      "learningobject_hruid": "sr_slot23",
       "version": "3",
       "language": "nl"
     } 
