@@ -35,7 +35,7 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
 </div>
 </context>
 <decomposition>
-Decompositie in subtaken:
+**Decompositie** in subtaken:
 1. Roep de hulp in van een computer → gebruik een routeplanner, bv. Google maps.
 2. Times Square en Empire State Building aanduiden.
  ![image](https://user-images.githubusercontent.com/48352335/206757334-ebdad093-2ee7-493c-9d53-2c14c598115c.png)
@@ -44,7 +44,7 @@ Decompositie in subtaken:
 
 </patternRecognition>
 <abstraction>
-Het stratenplan van New York is een abstractie van de stad. 
+Het stratenplan van New York is een **abstractie** van de stad. 
 Het gebouw en het plein worden geabstraheerd tot een puntje op de kaart.  
 </abstraction>
 <algorithms>
