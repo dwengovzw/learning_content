@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Ontwerp een sociale robot
-De leerlingen maken een schets van hun droomrobot. Nadien passen ze het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de kit. 
+De leerlingen maken een schets van hun droomrobot. Nadien passen ze het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waar ze over beschikken. 
 
 ![ct-schema](@learning-object/m_ct_cases5/nl/3)
