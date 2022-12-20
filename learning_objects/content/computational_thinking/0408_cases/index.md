@@ -2,8 +2,8 @@
 hruid: ct_cases8
 version: 3
 language: nl
-title: "Appels en peren"
-description: "Appels en peren"
+title: "COVID-19"
+description: "COVID-19"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,9 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Appels onderscheiden van peren
-Het volgend schema illustreert hoe men a.d.h.v. regels een computer kan programmeren om appels en peren van elkaar te onderscheiden.
+# Maatregelen inschatten COVID-19
+
+**Doelgroep:** 3de graad
+
+**Vak:** Wiskunde - Biologie - STEM
+
+Voorkennis: matrices en afgeleiden
 
 ![ct-schema](@learning-object/m_ct_cases8/nl/3)
 
-Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neurale netwerk kan betere resultaten geven. 
+Voor de uitwerking van dit project, zie het leerpad 'Epidemie' in het thema 'Python in STEM'. 
