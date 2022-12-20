@@ -36,7 +36,7 @@ Realiseer een sociale robot gebaseerd op je eigen ontwerp.
 <decomposition>
 Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
 <ul><li>(Planning opmaken)</li></ul>
-<ul><li>Schets van het ontwerp ‘Lichaam en acties robot’ dat beantwoordt aan de criteria en gewenste acties</li></ul>
+<ul><li>Schets van het ontwerp ‘Lichaam en acties robot’ die beantwoordt aan de criteria en gewenste acties</li></ul>
 <ul><li>Technische informatie: sensoren en actuatoren</li></ul>
 <ul><li>Tekening overbrengen op de gekozen drager</li></ul>
 <ul><li>Actie(s) programmeren in de simulator a.d.h.v. het neergeschreven algoritme</li></ul>
