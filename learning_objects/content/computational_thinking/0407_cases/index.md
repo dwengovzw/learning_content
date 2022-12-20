@@ -41,7 +41,9 @@ teacher_exclusive: true
 
 Voorkennis:
 
+* De leerlingen kunnen reële getallen ordenen.
 * De leerlingen kennen tweedegraadsfuncties.
+* De leerlingen kregen voorbeelden van beslissingsbomen te zien.
  
 ![ct-schema](@learning-object/m_ct_cases7/nl/3)
 
