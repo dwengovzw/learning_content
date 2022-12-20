@@ -59,6 +59,6 @@ Het gebouw en het plein worden geabstraheerd tot een puntje op de kaart.
 **Algoritme**: Bereken de vierkantswortel van de som van de kwadraten van de rechthoekszijden.
 </algorithms>
 <implementation>
-Dit is een unplugged voorbeeld.
+Het gebruik van de computer beperkt zich tot het gebruik van de routeplanner. Er wordt niet geprogrammeerd.
 </implementation>
 
