@@ -54,8 +54,7 @@ De beslissingsboom is een abstracte voorstelling van de oplossing in de vorm van
 Deze voorstelling is bovendien transparant.
 </abstraction>
 <algorithms>
-    **Algoritme** om binaire beslissingsboom op te stellen.
-
+**Algoritme** om binaire beslissingsboom op te stellen.<br>
 1. Bekijk welke wortel de beste splitsing oplevert. Maak takken voor de mogelijke uitkomsten van de ja-neevraag.
 2. Bekijk voor elke tak welke knoop het meest geschikt is voor de volgende splitsing. Maak takken voor de mogelijke uitkomsten van de ja-neevragen.  
 3. Herhaal de vorige stap telkens opnieuw voor de nieuw aangemaakte takken.
@@ -64,9 +63,6 @@ Deze voorstelling is bovendien transparant.
 *Dit is een iteratief proces: om de wortel en de knopen te bepalen wordt telkens dezelfde techniek toegepast.*
 </algorithms>
 <implementation>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+Voor het programmeren verwijzen we naar de notebooks van het project AI in de Zorg.
 </implementation>
 
