@@ -33,7 +33,7 @@ teacher_exclusive: true
 <context>
 ![Face](ct_face.png)
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Kan een computer dier- en plantensoorten herkennen?
+Probleem: Stel een algoritme op om een computer a.d.h.v. regels appels en peren van elkaar te laten onderscheiden. 
 </div>
 </context>
 <decomposition>
