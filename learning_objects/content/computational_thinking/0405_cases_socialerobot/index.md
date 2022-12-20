@@ -33,3 +33,7 @@ teacher_exclusive: true
 De leerlingen maken een schets van hun droomrobot. Nadien passen ze het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waar ze over beschikken. 
 
 ![ct-schema](@learning-object/m_ct_cases5/nl/3)
+
+Stap 2:
+
+![ct-schema](@learning-object/m_ct_cases5b/nl/3)
