@@ -57,6 +57,14 @@ Tot slot creëren ze een fysieke robot, gebaseerd op hun eigen ontwerp.
 
 ![ct-schema](@learning-object/m_ct_cases5d/nl/3)
 
+### Concreet: De leerlingen implementeren gewenste acties in de simulator.
+
+![ct-schema](@learning-object/m_ct_cases5e/nl/3)
+
+### Concreet: De leerlingen monteren de hardware op het lichaam van de robot.
+
+![ct-schema](@learning-object/m_ct_cases5f/nl/3)
+
 ### Eindtermen 1ste graad (Bron: onderwijsdoelen.be)
 
 Digitale competentie en mediawijsheid: 4.1, 4.3, 4.4, 4.5; BG 4.1, BG 4.3, BG 4.4.<br>
