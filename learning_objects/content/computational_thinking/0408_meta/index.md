@@ -47,7 +47,9 @@ De verspreiding van de pest en cholera gedragen zich gelijkaardig waarbij we een
 Interacties tussen mensen kunnen we op dezelfde manier als verbindingen tussen wegen of kennis van leerlingen, nl. met een graaf. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Tekst
+We stellen de interacties tussen de mensen **abstract** voor door een graaf.
+    ![image](https://user-images.githubusercontent.com/48352335/208770354-903065c9-a265-4816-847e-d2dcc75e193f.png)
+![image](https://user-images.githubusercontent.com/48352335/208770366-bb891a18-c4a3-4eab-bd38-dbebb1c35b75.png)
 </abstraction>
 <algorithms>
 Stappenplan (**algoritme**):
