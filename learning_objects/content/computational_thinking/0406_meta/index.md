@@ -36,7 +36,7 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
 </context>
 <decomposition>
 **Decompositie** in subtaken:
-1. Roep de hulp in van een computer → gebruik een routeplanner, bv. Google maps.
+1. Roep de hulp in van een computer <span style="color: yellowgreen">→ gebruik een routeplanner, bv. Google maps.</span>
 2. Times Square en Empire State Building aanduiden.
  ![image](https://user-images.githubusercontent.com/48352335/206757334-ebdad093-2ee7-493c-9d53-2c14c598115c.png)
 </decomposition>
@@ -51,7 +51,7 @@ Het gebouw en het plein worden geabstraheerd tot een puntje op de kaart.
 
 </algorithms>
 <implementation>
-Oplossing laten bepalen door de computer door gebruik te maken van de functionaliteit van Google maps: 'measure distance'.
+Oplossing laten bepalen door de computer door gebruik te maken van de functionaliteit van Google maps: 'measure distance'.<br>
 ![image](https://user-images.githubusercontent.com/48352335/206757540-f5205128-03b3-46e4-adac-09efecb53a39.png)
 </implementation>
 
