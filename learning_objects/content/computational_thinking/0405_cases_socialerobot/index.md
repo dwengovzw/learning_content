@@ -54,6 +54,6 @@ In het project 'Sociale robot' maken de leerlingen een schets van hun droomrobot
 
 ### Eindtermen 1ste graad (Bron: onderwijsdoelen.be)
 
-Digitale competentie en mediawijsheid: 4.1, 4.3, 4.4, 4.5; BG 4.1, BG 4.3, BG 4.4.
-Leercompetenties: 13.1, 13.4, 13.8, 13.12, 13.14, 13.18; BG 13.4.
+Digitale competentie en mediawijsheid: 4.1, 4.3, 4.4, 4.5; BG 4.1, BG 4.3, BG 4.4.<br>
+Leercompetenties: 13.1, 13.4, 13.8, 13.12, 13.14, 13.18; BG 13.4.<br>
 Techniek: ...
