@@ -48,10 +48,9 @@ Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die z
 ![schetsontwerp](https://user-images.githubusercontent.com/48352335/208729461-0752ca6f-5302-4abd-bfdc-30e94a763e7b.png)
 </decomposition>
 <patternRecognition>
-Acties die meermaals terugkeren, en complexer acties, kunnen vervat worden in een zelfgedefinieerde functie. (**patroonherkenning**)
+
 </patternRecognition>
 <abstraction>
-Een actie die uit meerdere deelacties bestaat, kan **geabstraheerd** worden in een (overkoepelende) actie.<br>
 Hoek of snelheid van een servomotor worden **geabstraheerd** naar een geheel getal van -255 tot 255.
 </abstraction>
 <algorithms>
