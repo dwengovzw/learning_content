@@ -31,35 +31,27 @@ teacher_exclusive: true
 ---
 
 <context>
-Ontwerp en realiseer een sociale robot.
+Pas het ontwerp van de sociale robot aan, rekening houdend met criteria.
 </context>
 <decomposition>
 Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
-<ul><li>(Planning opmaken)</li></ul>
-<ul><li>Bepalen van het ontwerpidee</li></ul>
-<ul><li>Vastleggen criteria/gewenste acties)</li></ul>
-<ul><li>Acties programmeren in de simulator</li></ul>
-<ul><li>Acties testen a.h.v. de hardware </li></ul>
-<ul><li>‘Lichaam robot’ ontwerpen (tekening)</li></ul>
-<ul><li>‘Lichaam en acties robot’ aanapssen aan de criteria en beperkingen (bv. aanwezige hardware)</li></ul>
-<ul><li>Tekening overbrengen op de gekozen drager</li></ul>
-<ul><li>Onderdelen monteren</li></ul>
-<ul><li>Geheel testen en evalueren</li></ul>
-<ul><li>(Optimaliseren)</li></ul>
+<ul><li>Aftoetsen van het ontwerp aan de criteria</li></ul>
+<ul><li>‘Lichaam en acties robot’ aanpassen aan de criteria en beperkingen (bv. aanwezige hardware)</li></ul>
+<ul><li>Nodige actuatoren en sensoren aanpassen</li></ul>
+<ul><li>Tekening aanpassen</li></ul>
+<ul><li>Algoritme aanpassen</li></ul>
 ![schetsontwerp](https://user-images.githubusercontent.com/48352335/208729461-0752ca6f-5302-4abd-bfdc-30e94a763e7b.png)
 </decomposition>
 <patternRecognition>
-Acties die meermaals terugkeren, en complexer acties, kunnen vervat worden in een zelfgedefinieerde functie. (**patroonherkenning**)
+
 </patternRecognition>
 <abstraction>
-Een actie die uit meerdere deelacties bestaat, kan **geabstraheerd** worden in een (overkoepelende) actie.
+
 </abstraction>
 <algorithms>
-Uit de decompositie volgt het stappenplan dat meegeeft hoe tewerk te gaan. (**algoritme**)
+Actie(s) van de robot weergeven in een **algoritme** (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
+![schetsalgoritme](https://user-images.githubusercontent.com/48352335/208749769-40c26eff-0c8d-4590-a022-b7c99388c24f.png)
 </algorithms>
 <implementation>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+
 </implementation>
