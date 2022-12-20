@@ -46,6 +46,7 @@ Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die z
 <ul><li>Onderdelen monteren</li></ul>
 <ul><li>Geheel testen en evalueren</li></ul>
 <ul><li>(Optimaliseren)</li></ul>
+![schetsontwerp](https://user-images.githubusercontent.com/48352335/208729461-0752ca6f-5302-4abd-bfdc-30e94a763e7b.png)
 </decomposition>
 <patternRecognition>
 Acties die meermaals terugkeren, en complexer acties, kunnen vervat worden in een zelfgedefinieerde functie. (**patroonherkenning**)
@@ -54,7 +55,7 @@ Acties die meermaals terugkeren, en complexer acties, kunnen vervat worden in ee
 Een actie die uit meerdere deelacties bestaat, kan **geabstraheerd** worden in een (overkoepelende) actie.
 </abstraction>
 <algorithms>
-Uit de decompositie volgt het stappenplan dat meegeeft hoe tewerk te gaan.
+Uit de decompositie volgt het stappenplan dat meegeeft hoe tewerk te gaan. (**algoritme**)
 </algorithms>
 <implementation>
 Tekst
