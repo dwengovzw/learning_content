@@ -2,8 +2,8 @@
 hruid: ct_cases7
 version: 3
 language: nl
-title: "Appels en peren"
-description: "Appels en peren"
+title: "Beslissingsboom"
+description: "Beslissingsboom"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -45,4 +45,4 @@ Voorkennis:
  
 ![ct-schema](@learning-object/m_ct_cases7/nl/3)
 
-
+Voor de uitwerking van dit project, zie het project 'AI in de Zorg'.
