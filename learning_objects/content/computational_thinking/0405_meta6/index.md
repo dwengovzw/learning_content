@@ -42,7 +42,7 @@ Monteer de hardware op het lichaam van de robot.
 </decomposition>
 <patternRecognition>
 **Patroonherkenning**:<br>
-<ul><liGaten uitsnijden / hardware monteren gebeurt steeds op dezelfde manier </li></ul>
+<ul><li>Gaten uitsnijden / hardware monteren gebeurt steeds op dezelfde manier </li></ul>
 </patternRecognition>
 <abstraction>
 **Abstractie:**<br>
