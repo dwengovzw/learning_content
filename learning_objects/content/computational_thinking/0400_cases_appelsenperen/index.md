@@ -30,7 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Appels onderscheiden van peren
-Het volgend schema illustreert hoe men a.d.h.v. regels een computer kan programmeren om appels en peren van elkaar te onderscheiden.
+Objectherkenning is een toepassing van artificiële intelligentie die de dag van vandaag veelvuldig voorkomt. Met technieken van machinaal leren kan een computer bv. dier- en plantsoorten of gezichten van mensen herkennen. 
+
+In de klas kan je samen met de leerlingen nagaan hoe een computer naar foto's kijkt en hoe men bijvoorbeeld een computer kan programmeren om a.d.h.v. regels appels en peren van elkaar te onderscheiden.
 
 ![ct-schema](@learning-object/m_ct_cases0/nl/3)
 
