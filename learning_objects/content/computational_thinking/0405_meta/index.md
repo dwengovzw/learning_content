@@ -40,8 +40,7 @@ Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die z
 <ul><li>‘Lichaam robot’ ontwerpen (tekening)</li></ul>
 <ul><li>‘Acties robot’ bedenken</li></ul>
 <ul><li>Nodige actuatoren en sensoren</li></ul>
-![schetsontwerp](https://user-images.githubusercontent.com/48352335/208729461-0752ca6f-5302-4abd-bfdc-30e94a763e7b.png)
-![schetsontwerp](https://user-images.githubusercontent.com/48352335/208755456-7e300741-d0f1-4892-a5ee-02fd72e84f44.png)
+![schetsontwerp](schetsontwerp.png)
 </decomposition>
 <patternRecognition>
 
@@ -51,7 +50,7 @@ Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die z
 </abstraction>
 <algorithms>
 Actie(s) van de robot weergeven in een **algoritme** (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
-![schetsalgoritme](https://user-images.githubusercontent.com/48352335/208749769-40c26eff-0c8d-4590-a022-b7c99388c24f.png)
+![schetsalgoritme](schetsalgoritme.png)
 </algorithms>
 <implementation>
     
