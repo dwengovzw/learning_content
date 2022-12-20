@@ -55,6 +55,8 @@ Een actie die uit meerdere deelacties bestaat, kan **geabstraheerd** worden in e
 Hoek of snelheid van een servomotor worden **geabstraheerd** naar een geheel getal van -255 tot 255.
 </abstraction>
 <algorithms>
+Actie(s) van de robot weergeven in een **algoritme** (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
+![schetsalgoritme](https://user-images.githubusercontent.com/48352335/208749769-40c26eff-0c8d-4590-a022-b7c99388c24f.png)<br>
 Uit de decompositie volgt het stappenplan dat meegeeft hoe tewerk te gaan. (**algoritme**)
 </algorithms>
 <implementation>
