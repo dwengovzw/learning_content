@@ -31,19 +31,18 @@ teacher_exclusive: true
 ---
 
 <context>
-Ontwerp en realiseer een sociale robot.
+Realiseer een sociale robot gebaseerd op je eigen ontwerp.
 </context>
 <decomposition>
 Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
 <ul><li>(Planning opmaken)</li></ul>
-<ul><li>Bepalen van het ontwerpidee</li></ul>
-<ul><li>Vastleggen criteria/gewenste acties)</li></ul>
-<ul><li>Acties programmeren in de simulator</li></ul>
-<ul><li>Acties testen a.h.v. de hardware </li></ul>
-<ul><li>‘Lichaam robot’ ontwerpen (tekening)</li></ul>
-<ul><li>‘Lichaam en acties robot’ aanapssen aan de criteria en beperkingen (bv. aanwezige hardware)</li></ul>
+<ul><li>Schets van het ontwerp ‘Lichaam en acties robot’ dat beantwoordt aan de criteria en gewenste acties</li></ul>
+<ul><li>Technische informatie: sensoren en actuatoren</li></ul>
 <ul><li>Tekening overbrengen op de gekozen drager</li></ul>
-<ul><li>Onderdelen monteren</li></ul>
+<ul><li>Actie(s) programmeren in de simulator a.d.h.v. het neergeschreven algoritme</li></ul>
+<ul><li>Programma testen in de simulator, evalueren en bijsturen</li></ul>
+<ul><li>Acties testen a.h.v. de hardware </li></ul>
+<ul><li>Onderdelen monteren op robotlichaam</li></ul>
 <ul><li>Geheel testen en evalueren</li></ul>
 <ul><li>(Optimaliseren)</li></ul>
 ![schetsontwerp](https://user-images.githubusercontent.com/48352335/208729461-0752ca6f-5302-4abd-bfdc-30e94a763e7b.png)
@@ -52,13 +51,14 @@ Leerlingen kunnen de opdracht opsplitsen in de verschillende fasen/stappen die z
 Acties die meermaals terugkeren, en complexer acties, kunnen vervat worden in een zelfgedefinieerde functie. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Een actie die uit meerdere deelacties bestaat, kan **geabstraheerd** worden in een (overkoepelende) actie.
+Een actie die uit meerdere deelacties bestaat, kan **geabstraheerd** worden in een (overkoepelende) actie.<br>
+Hoek of snelheid van een servomotor worden **geabstraheerd** naar een geheel getal van -255 tot 255.
 </abstraction>
 <algorithms>
 Uit de decompositie volgt het stappenplan dat meegeeft hoe tewerk te gaan. (**algoritme**)
 </algorithms>
 <implementation>
-Tekst
+Plaats hier een screenshot van de Blockly-code.
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 tekst
 </p></div>
