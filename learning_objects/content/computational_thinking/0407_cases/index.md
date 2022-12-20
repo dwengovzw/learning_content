@@ -29,9 +29,20 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Appels onderscheiden van peren
-Het volgend schema illustreert hoe men a.d.h.v. regels een computer kan programmeren om appels en peren van elkaar te onderscheiden.
+# Beslissingsboom
 
+*In het project 'AI in de Zorg' gaan leerlingen samen met de leerkracht op zoek naar een middel om zorgverleners te helpen bij het stellen van een diagnose of het bepalen van een behandeling. Ze kunnen daarbij steunen op patiëntendata.*  
+
+**Doelgroep**: 2de graad - finaliteit doorstroom; 3de graad - dubbele finaliteit
+
+**Vak:** Wiskunde - STEM 
+
+### Uitdaging: Stel gelabelde data uit de zorgsector voor op een manier die geschikt is om er beslissingen mee te nemen betreffende een diagnose of een behandeling.
+
+Voorkennis:
+
+* De leerlingen kennen tweedegraadsfuncties.
+ 
 ![ct-schema](@learning-object/m_ct_cases7/nl/3)
 
-Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neurale netwerk kan betere resultaten geven. 
+
