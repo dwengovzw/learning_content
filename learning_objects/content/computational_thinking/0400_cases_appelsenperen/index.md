@@ -34,6 +34,12 @@ Objectherkenning is een toepassing van artificiële intelligentie die de dag van
 
 In de klas kan je samen met de leerlingen nagaan hoe een computer naar foto's kijkt en hoe men bijvoorbeeld een computer kan programmeren om a.d.h.v. regels appels en peren van elkaar te onderscheiden.
 
+Doelgroep: alle graden - alle finaliteiten
+
+Vak: Wiskunde -  STEM - Computerwetenschappen - Mediawijsheid
+
+Voorkennis: De leerlingen weten dat getallen kunnen geordend worden.
+
 ![ct-schema](@learning-object/m_ct_cases0/nl/3)
 
 Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neurale netwerk kan betere resultaten geven. 
