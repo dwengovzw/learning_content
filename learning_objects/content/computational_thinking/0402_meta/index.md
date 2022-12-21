@@ -33,19 +33,21 @@ teacher_exclusive: true
 Maak drie kleerhangers voor volwassenen, twee voor kinderen en vier voor baby’s.
 </context>
 <decomposition>
-Dit probleem kunnen we bijvoorbeeld opsplitsen in subtaken (**decompositie**):
+Dit probleem kunnen we bijvoorbeeld opsplitsen in deelproblemen(**decompositie**):
 <ul><li>Welke materialen</li></ul>
 <ul><li>Welke software? <span style="color: yellowgreen">→ geparameteriseerd CAD-ontwerp</span></li></ul>
-<ul><li>Welke machine? <span style="color: yellowgreen">→ CNC-machine</span></li></ul>
+<ul><li>Welke parameters zijn nodig?</li></ul>
+<ul><li>Welke machine wordt er ingezet? <span style="color: yellowgreen">→ CNC-machine</span></li></ul>
 <ul><li>Welke afmetingen zijn geschikt?</li></ul>
 <ul><li>Welke kromming is geschikt?</li></ul>
 <ul><li>...</li></ul>
 </decomposition>
 <patternRecognition>
-Het ontwerp van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
+De vorm van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-CAD-tekening is **abstractie** van de drie soorten van kapstok. 
+De geparametriseerde CAD-tekening is **abstractie** van de drie soorten van kleerhanger.<br>
+Eigenlijk wordt een kleerhanger voorgesteld d.m.v. de waarden van de gekozen parameters. (**abstractie**)  
 </abstraction>
 <algorithms>
 **algoritme** <br>
