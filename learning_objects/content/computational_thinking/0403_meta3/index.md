@@ -31,22 +31,21 @@ teacher_exclusive: true
 ---
 
 <context>
-New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in mijl. <br>
-Vertrek hiervoor van de wandelafstanden die een routeplanner verstrekt om van Times Square naar het Empire State Building te wandelen.<br>
-
-![Kaart New York](kaartnewyork.png)
+New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in mijl. 
     
-![GPS New York](gpsnewyork.png)  
-    
-
 </context>
 <decomposition>
 **Decompositie** in subtaken:<br>
-1. Vat het probleem samen in een figuur.
-2. Herken een rechthoekige driehoek in de figuur.
-3. Duid op de figuur aan wat gekend is.
-4. Zoek de lengtes van de twee rechthoekszijden op in de gegeven route.
-5. Pas de stelling van Pythagoras toe. 
+1. De wandelafstand van Times Square naar het Empire State Building kan opgevraagd worden in een routeplanner. 
+2. Vat het probleem samen in een figuur.
+3. Herken een rechthoekige driehoek in de figuur.
+4. Duid op de figuur aan wat gekend is.
+5. Zoek de lengtes van de twee rechthoekszijden op in de gegeven wandelroute.
+6. Pas de stelling van Pythagoras toe.
+    
+![Kaart New York](kaartnewyork.png)
+    
+![GPS New York](gpsnewyork.png)
 </decomposition>
 <patternRecognition>
 Het stratenplan vertoont een **patroon**:<br> 
