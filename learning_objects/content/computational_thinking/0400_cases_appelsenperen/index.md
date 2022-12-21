@@ -51,6 +51,8 @@ Hoe kijkt een computer naar een afbeelding?<br>
 Welke kenmerken van appels en peren zijn voor een computer wel zinvol? 
 </div>
 
+De bedenkingen en conclusies uit het klasgesprek kunnen worden samengevat in een schema.
+
 ![ct-schema](@learning-object/m_ct_cases0/nl/3)
 
 Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neurale netwerk kan betere resultaten geven. 
