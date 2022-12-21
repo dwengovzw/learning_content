@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 <context>
 New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in mijl. <br>
-Vertrek hiervoor van de wandelafstanden die de routeplanner verstrekt om van Times Square naar het Empire State Building te wandelen.<br>
+Vertrek hiervoor van de wandelafstanden die een routeplanner verstrekt om van Times Square naar het Empire State Building te wandelen.<br>
 
 ![Kaart New York](kaartnewyork.png)
     
