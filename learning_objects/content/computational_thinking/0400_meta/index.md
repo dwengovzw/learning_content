@@ -48,7 +48,7 @@ Objecten classificeren komt voor in tal van contexten. In deze verschillende con
 <abstraction>
 ![Een afbeelding bestaat uit pixels. Deze pixels komen overeen met een kleurenwaarde voor de rood, groen en blauwcomponenten. Deze waarden zijn gewoon getallen.](appels_en_peren.png)
 Hoe bieden we appels en peren aan aan de computer? Digitale foto's zijn eigenlijk rasters van getallen. Een kleurenfoto wordt bv. voorgesteld door RGB, 3 tabellen van getallen, één voor de rood-, één voor de groen- en één voor de blauwtinten; elk drietal (R,G,B) komt overeen met één pixel. (**abstractie**)<br>
-De waarden van de getallen laten aan de computer bv. toe om de omtrek van het stuk fruit te detecteren. 
+De waarden van de getallen laten aan de computer bv. toe om de rand van het stuk fruit te detecteren. 
 </abstraction>
 <algorithms>
 Werk je met driedimensionale voorstellingen van de stukken fruit, dan kan de omtrek bepaald worden op 2 cm van de onderkant en op 2 cm van de bovenkant van het stuk fruit. Op basis van deze twee getallen kan je een **algoritme** opstellen waarmee een computer appels en peren kan onderscheiden.
