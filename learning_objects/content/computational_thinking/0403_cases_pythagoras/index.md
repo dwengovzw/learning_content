@@ -97,7 +97,7 @@ Cognitieve dimensie: beheersingsniveau toepassen
 
 <span style="color: yellowgreen">(6.55 Finaliteit doorstroom; 6.31 Dubbele finaliteit) De leerlingen ontwerpen een oplossing voor een probleem door concepten en praktijken uit verschillende STEM-disciplines geïntegreerd aan te wenden.</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Met inbegrip van context
+&nbsp;&nbsp;&nbsp;&nbsp;Met inbegrip van context<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* Elke STEM-discipline komt ten minste één maal geïntegreerd aan bod.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau creëren
