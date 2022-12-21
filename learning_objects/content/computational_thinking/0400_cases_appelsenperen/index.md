@@ -54,3 +54,5 @@ Welke kenmerken van appels en peren zijn voor een computer wel zinvol?
 ![ct-schema](@learning-object/m_ct_cases0/nl/3)
 
 Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neurale netwerk kan betere resultaten geven. 
+
+In de projecten 'KIKS' en "AI in de Landbouw' wordt hier dieper op ingegaan. 
