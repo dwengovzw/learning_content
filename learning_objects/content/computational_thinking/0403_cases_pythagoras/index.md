@@ -59,6 +59,10 @@ Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om com
 
 **Voorkennis:** De leerlingen gebruiken de zelfgedefinieerde functie in een oefening met context.
 
+#### Uitdaging: "New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in km?". 
+
+*De leerlingen bedenken zelf dat ze een routeplanner en de stelling van Pythagoras kunnen gebruiken.*
+
 ![ct-schema](@learning-object/m_ct_cases3c/nl/3)
 
 ### Eindtermen (Bron: onderwijsdoelen.be)
