@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in mijl. 
+New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in kilometer. 
     
 </context>
 <decomposition>
