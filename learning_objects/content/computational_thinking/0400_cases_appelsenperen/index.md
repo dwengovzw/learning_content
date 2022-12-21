@@ -34,13 +34,13 @@ Objectherkenning is een toepassing van artificiële intelligentie die de dag van
 
 In de klas kan je samen met de leerlingen nagaan hoe een computer naar foto's kijkt en hoe men bijvoorbeeld een computer kan programmeren om a.d.h.v. regels appels en peren van elkaar te onderscheiden.
 
-Doelgroep: alle graden - alle finaliteiten
+**Doelgroep:** alle graden - alle finaliteiten
 
-Vak: Wiskunde -  STEM - Computerwetenschappen - Mediawijsheid
+**Vak:** Wiskunde -  STEM - Computerwetenschappen - Mediawijsheid
 
-Voorkennis: De leerlingen weten dat getallen kunnen geordend worden.
+**Voorkennis:** De leerlingen weten dat getallen kunnen geordend worden.
 
-<div class="alert alert-box alert-success">
+<div class="alert alert-box alert-warning">
     <strong>Appels en peren onderscheiden - klasgesprek</strong><br>
 Hoe onderscheiden wij appels en een peren? Welke kenmerekn nemen wij daarin mee?<br>
 Zou een computer dat op dezelfde manier doen?<br>
