@@ -55,5 +55,5 @@ Werk je met driedimensionale voorstellingen van de stukken fruit, dan kan de omt
 ![Grafiek die classificatie illustreert door op de x-as de hoogte van het stuk fruit te plotten en op de y-as de omtrek. Zo kan je een lijn tekenen die de appels en peren van elkaar scheidt.](appels_en_peren_grafiek.png)
 </algorithms>
 <implementation>
-Geen implementatie. Dit is een unplugged voorbeeld.
+Geen implementatie. In dit voorbeeld wordt er niet geprogrammeerd.
 </implementation>
