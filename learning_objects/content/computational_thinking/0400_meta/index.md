@@ -51,7 +51,7 @@ Hoe bieden we appels en peren aan aan de computer? Digitale foto's zijn eigenlij
 De waarden van de getallen laten aan de computer bv. toe om de rand van het stuk fruit te detecteren. 
 </abstraction>
 <algorithms>
-Werk je met driedimensionale voorstellingen van de stukken fruit, dan kan de omtrek bepaald worden op 2 cm van de onderkant en op 2 cm van de bovenkant van het stuk fruit. Op basis van deze twee getallen kan je een **algoritme** opstellen waarmee een computer appels en peren kan onderscheiden.
+Werk je met driedimensionale voorstellingen van de stukken fruit, dan kan de omtrek A bepaald worden op 2 cm van de onderkant en de omtrek B op 2 cm van de bovenkant van het stuk fruit. Op basis van deze twee getallen kan je een **algoritme** opstellen waarmee een computer appels en peren kan onderscheiden.
 ![Grafiek die classificatie illustreert door op de x-as de hoogte van het stuk fruit te plotten en op de y-as de omtrek. Zo kan je een lijn tekenen die de appels en peren van elkaar scheidt.](appels_en_peren_grafiek.png)
 </algorithms>
 <implementation>
