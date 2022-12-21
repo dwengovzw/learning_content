@@ -47,9 +47,8 @@ De formules zullen daarom opgenomen worden in een zelfgedefinieerde functie: een
  (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Een functie is een abstractie van een subalgoritme.<br><br>
-Een vierkantsvergelijking is een abstractie van de verzameling van de nulpunten van een tweedegraadsfunctie, wat op zijn beurt een abstractie is van de snijpunten van een parabool met de x-as.
-(**abstractie**)
+Een functie is een **abstractie** van een subalgoritme.<br><br>
+*Weetje: een vierkantsvergelijking is een abstractie van het zoeken naar de snijpunten van een parabool met de x-as.*
 </abstraction>
 <algorithms>
 Het **algoritme** bevat (in deze volgorde) instructies om:<br>
@@ -62,30 +61,37 @@ de wortels te laten zien op het scherm.
 **Programma in Python**<br>
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 def discriminant(a, b, c):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van discriminant en bepalen van aantal wortels."""<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van discriminant."""<br>
 &nbsp;&nbsp;&nbsp;&nbsp;d = b**2 – 4 * a * c<br>
+&nbsp;&nbsp;&nbsp;&nbsp;return d<br><br>
+def aantalwortels(a, b, c):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"""Bepalen van aantal wortels."""<br>
+&nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;aantal = 0<br>
 &nbsp;&nbsp;&nbsp;&nbsp;if d > 0: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 2<br>
 &nbsp;&nbsp;&nbsp;&nbsp;elif d = 0:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 1  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;return d, aantal<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;return aantal<br><br>
 def wortels(a, b, c):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van de wortels."""<br>
-&nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)[0]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;x1 = (- b + math.sqrt(d)) / (2 * a )<br>
-&nbsp;&nbsp;&nbsp;&nbsp;x2 = (- b - math.sqrt(d)) / (2 * a )<br>
-&nbsp;&nbsp;&nbsp;&nbsp;return x1, x2<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;w1 = (- b + math.sqrt(d)) / (2 * a )<br>
+&nbsp;&nbsp;&nbsp;&nbsp;w2 = (- b - math.sqrt(d)) / (2 * a )<br>
+&nbsp;&nbsp;&nbsp;&nbsp;return w1, w2<br><br>
 # invoer<br>
 a = float(input("Geef de coëfficiënt van x^2: "))<br>
 b = float(input("Geef de coëfficiënt van x: "))<br>
 c = float(input("Geef de constante term: "))<br><br>
 # verwerking<br>
-n = discriminant(a, b, c)[1]<br>
-wortels = wortels(a, b, c)<br><br>
+d = discriminant(a, b, c)<br>
+n = aantalwortels(a, b, c)<br>
+if d >= 0:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;x1, x2 = wortels(a, b, c)<br><br>
 # uitvoer<br>
 print("Het aantal wortels is:", n)<br>
-print("De wortels zijn: ", wortels[0], "en", wortels[1])
-</p></div>
+if d >= 0:
+&nbsp;&nbsp;&nbsp;&nbsp;print("De wortels zijn: ", x1, "en", x2)
+</div>
 </implementation>
 
