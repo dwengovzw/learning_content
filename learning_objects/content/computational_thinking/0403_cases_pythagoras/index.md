@@ -35,7 +35,9 @@ teacher_exclusive: true
 
 **Het berekenen van de schuine zijde bij gekende rechthoekszijden automatiseren.** 
 
-*Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om complexe problemen op te lossen die zich herleiden tot bovenstaand opgelost probleem. De focus van de les kan dan liggen op het mathematiseren van het probleem, waarna de oplossing kan bepaald worden m.b.v. de computer.*
+<div class="alert alert-box alert-warning">
+Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om complexe problemen op te lossen die zich herleiden tot bovenstaand opgelost probleem. De focus van de les kan dan liggen op het mathematiseren van het probleem, waarna de oplossing kan bepaald worden m.b.v. de computer.
+</div>
 
 **Doelgroep:** 2de graad, dubbele finaliteit of finaliteit doorstroom
 
@@ -43,19 +45,19 @@ teacher_exclusive: true
 
 ### Stap 1
 
-Voorkennis: De leerlingen kunnen a.d.h.v. de stelling van Pythagoras de schuine zijde van een rechthoekige driehoek manueel berekenen. Ze kennen de stelling van Pythagoras in formulevorm. 
+**Voorkennis:** De leerlingen kunnen a.d.h.v. de stelling van Pythagoras de schuine zijde van een rechthoekige driehoek manueel berekenen. Ze kennen de stelling van Pythagoras in formulevorm. 
 
 ![ct-schema](@learning-object/m_ct_cases3a/nl/3)
 
 ### Stap 2: toepassen van patroonherkenning en abstractie
 
-Voorkennis: De leerlingen hebben eventueel al geleerd om in Python een functie te definiëren, of dat kan hier worden aangebracht.
+**Voorkennis:** De leerlingen hebben eventueel al geleerd om in Python een functie te definiëren, of dat kan hier worden aangebracht.
 
 ![ct-schema](@learning-object/m_ct_cases3b/nl/3)
 
 ### Toepassing: afstand in vogelvlucht
 
-Voorkennis: De leerlingen gebruiken de zelfgedefinieerde functie in een oefening met context.
+**Voorkennis:** De leerlingen gebruiken de zelfgedefinieerde functie in een oefening met context.
 
 ![ct-schema](@learning-object/m_ct_cases3c/nl/3)
 
