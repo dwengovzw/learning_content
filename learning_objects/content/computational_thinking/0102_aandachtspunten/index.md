@@ -34,7 +34,7 @@ teacher_exclusive: true
 <div class="alert alert-box alert-warning">
 Om computationeel denken met de juiste insteek op school aan bod te laten komen is het belangrijk dat leerkrachten op de hoogte zijn van bepaalde aandachtspunten. In dit leerpad worden onder 'aandachtspunten' misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
 
-Zowel activiteiten met of zonder computer kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker.  Maar wil men de digitale systemen ten volle begrijpen, dan zal uiteindelijk toch de stap naar de computer moeten gezet worden.
+Zowel activiteiten met of zonder computer kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker.  Maar wil men de digitale systemen ten volle begrijpen, dan zal men uiteindelijk toch de stap naar de computer moeten zetten.
 </div>
 
 ## Consensus
