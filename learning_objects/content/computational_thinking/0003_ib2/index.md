@@ -56,6 +56,6 @@ Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten
 
 Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van **basisgeletterdheid**, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
  
-<div class="alert alert-box alert-warning">
+<div class="alert alert-box alert-secondary">
     Het Grondwettelijk Hof vernietigde op 16 juni 2022 de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. Deze worden opnieuw bekeken.
 </div>
