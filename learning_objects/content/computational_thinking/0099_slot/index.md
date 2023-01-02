@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 # Slot
-<div class="alert alert-box alert-success">
+<div class="alert alert-box alert-info">
     <strong>Klasdiscussie</strong><br> 
     Is er een uitvinding die de wereld meer veranderd heeft dan de computer (Riley & Hunt, 2014)? 
 </div> 
