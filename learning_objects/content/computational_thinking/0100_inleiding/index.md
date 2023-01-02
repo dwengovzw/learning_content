@@ -38,7 +38,7 @@ Meer bepaald tonen we hoe computationeel denken op een zinvolle manier en vanuit
 De innovatieve lesmaterialen zijn ingehaakt aan een eerder ontwikkelde leerlijn, **AI Op School**, waarin computationeel denken voor 1ste, 2e en 3e graad aan bod komt vanuit verschillende contexten. De nadruk ligt hierbij op een **vakoverstijgende werking** met voldoende aandacht voor de **impact van nieuwe technologieën** op onze snel veranderende maatschappij. 
 
 <div class="alert alert-box alert-warning">
-Om computationeel denken zinvol te integreren in bestaande lessen is het nodig dat leerkrachten weten wat de terminologie inhoudt, dat ze mogelijke toepassingen herkennen, dat ze kennis hebben van mogelijke didiactische aanpakken en manieren van evaluatie.
+Om computationeel denken zinvol te kunnen integreren in bestaande lessen moeten leerkrachten weten wat de terminologie inhoudt, dus een werkbare 'definitie' is zeker vereist. Ze hebben best weet van dagdagelijkse voorbeelden. Bovendien is het nodig dat ze mogelijke toepassingen herkennen, en dat ze kennis hebben van mogelijke didiactische aanpakken en manieren van evaluatie.
 
 Om computationeel denken met de juiste insteek op school aan bod te laten komen is het belangrijk dat leerkrachten op de hoogte zijn van bepaalde aandachtspunten. In dit leerpad worden onder 'aandachtspunten' misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
 
