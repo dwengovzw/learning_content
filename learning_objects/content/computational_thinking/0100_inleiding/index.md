@@ -36,3 +36,11 @@ Helaas hebben veel leerkrachten en lerarenopleiders moeite met het herkennen en 
 Met dit project willen we lerarenopleiders en leerkrachten secundair onderwijs aan de slag helpen via een flexibel, online leertraject met concrete lesmaterialen, geïntegreerd in STEM-projecten, en inzichten om computationeel denken te vertalen naar de eigen studierichting-specifieke context. <br>
 Meer bepaald tonen we hoe computationeel denken op een zinvolle manier en vanuit reële contexten in de lessen kan worden geïntegreerd, zoals in praktische vakken in nijverheidsrichtingen en harde wetenschapsvakken, maar ook in talen en humane wetenschappen. <br>
 De innovatieve lesmaterialen zijn ingehaakt aan een eerder ontwikkelde leerlijn, **AI Op School**, waarin computationeel denken voor 1ste, 2e en 3e graad aan bod komt vanuit verschillende contexten. De nadruk ligt hierbij op een **vakoverstijgende werking** met voldoende aandacht voor de **impact van nieuwe technologieën** op onze snel veranderende maatschappij. 
+
+<div class="alert alert-box alert-warning">
+Om computationeel denken zinvol te integreren in bestaande lessen is het nodig dat leerkrachten weten wat de terminologie inhoudt, dat ze mogelijke toepassingen herkennen, dat ze kennis hebben van mogelijke didiactische aanpakken en manieren van evaluatie.
+
+Om computationeel denken met de juiste insteek op school aan bod te laten komen is het belangrijk dat leerkrachten op de hoogte zijn van bepaalde aandachtspunten. In dit leerpad worden onder 'aandachtspunten' misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
+
+Zowel activiteiten met of zonder computer kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker.  Maar wil men de digitale systemen ten volle begrijpen, dan zal uiteindelijk toch de stap naar de computer moeten gezet worden.
+</div>
