@@ -34,6 +34,8 @@ teacher_exclusive: true
 ## Mensen
 Computationeel denken gaat om mensen.  De digitale toepassingen worden immers door en voor mensen gemaakt en door mensen gebruikt. Volgens Lowe & Brophy (2017) is bijna elk digitaal systeem deel van een groter systeem waarin **de mens centraal** staat. Wing (2006), die computationeel denken wereldwijd op de agenda plaatste, vermeldde “understanding human behavior” als een van de aspecten van computationeel denken.
 
+Het inzetten van nieuwe technologieën brengt vaak ethische bekommernissen met zich mee.
+
 -  Hoe reageren mensen op de nieuwe technologieën en hoe gaan ze ermee om (Lowe & Brophy, 2017; Curzon & McOwan, 2017; Bell, 2018)?<br>
 -  Houdt men bij de ontwikkeling van nieuwe digitale systemen rekening met culturele verschillen en ethische aspecten (Denning & Tedre, 2019)?<br>
 -  Computers inzetten is ook een sociale activiteit waarbij men rekening moet houden met de rol ervan in de maatschappij; een voorbeeld hiervan is het omgaan met culturele bias in computersystemen (Kafai en Proctor, 2022).
