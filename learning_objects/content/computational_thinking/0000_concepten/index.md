@@ -32,6 +32,11 @@ teacher_exclusive: true
 
 # Belang van computationeel denken
 
+<div class="alert alert-box alert-info">
+    <strong>Klasdiscussie</strong><br> 
+    Is er een uitvinding die de wereld meer veranderd heeft dan de computer (Riley & Hunt, 2014)? 
+</div>
+
 De **digitalisering** van de maatschappij heeft een enorme **impact** op ons leven. De computer is alomtegenwoordig. Het nemen van beslissingen gebeurt steeds meer geautomatiseerd door algoritmen, de meeste mensen gaan de deur niet uit zonder smartphone en velen besteden dagelijks uren aan het checken van hun sociale media.
 Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **ieder van ons heeft wel de keuze**: het ondergaan of het proberen te begrijpen en er op een bewuste manier proberen mee om te gaan. 
 
@@ -40,3 +45,6 @@ In Vlaanderen is computationeel denken bv. verplicht voor alle leerlingen van de
 
 Er is echter nog veel werk aan de winkel. Er is nog veel onzekerheid over welke concepten van computationeel denken het beste aan bod komen in het onderwijs en hoe dat dan het beste gebeurt. Ook de professionalisering van leerkrachten verdient de nodige aandacht, want ze zijn onvoldoende vertrouwd met de terminologie van computationeel denken en mogelijke manieren van aanpak, didactiek en evaluatie.<br>
 Een historisch overzicht van het ontstaan van computationeel denken (zie leerpad 'Historiek' van het project 'Computationeel denken'), de ervaringen die men in het buitenland al heeft opgebouwd in het onderwijs, en inzichten van specialisten ter zake kunnen hier de weg wijzen. Voorbeelden uit de klaspraktijk maken de aanpak van computationeel denken concreet (zie leerpad 'Cases' van het project 'Computationeel denken').
+
+#### Bronnen:
+Riley, D. & Hunt, K. (2014). *COMPUTATIONAL THINKING FOR THE MODERN PROBLEM SOLVER.* Florida, Verenigde Staten: Chapman and Hall/CRC.
