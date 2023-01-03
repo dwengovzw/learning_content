@@ -59,3 +59,6 @@ Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel 
 <div class="alert alert-box alert-secondary">
     Het Grondwettelijk Hof vernietigde op 16 juni 2022 de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. Deze worden opnieuw bekeken.
 </div>
+
+#### Bronnnen: 
+AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via [https://onderwijsdoelen.be/uitgangspunten/4814](https://onderwijsdoelen.be/uitgangspunten/4814)
