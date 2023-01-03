@@ -31,10 +31,7 @@ teacher_exclusive: true
 ---
 
 # Slot
-<div class="alert alert-box alert-info">
-    <strong>Klasdiscussie</strong><br> 
-    Is er een uitvinding die de wereld meer veranderd heeft dan de computer (Riley & Hunt, 2014)? 
-</div> 
+
 <div class="alert alert-box alert-warning">
     <strong>Samengevat</strong><br> 
     Computationeel denken wordt aangezien als een vaardigheid die ons weerbaar maakt in een snel veranderende maatschappij. Er is dan ook een groeiende aandacht voor in het leerplichtonderwijs, ook in Vlaanderen. Hoewel computationeel denken stamt uit een tijd dat er nog geen computers waren, zijn leerkrachten er toch onvoldoende vertrouwd mee. 
