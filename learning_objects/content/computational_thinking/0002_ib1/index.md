@@ -54,3 +54,8 @@ Dat men wereldwijd een groot belang hecht aan computationeel denken, weerspiegel
 
 > [International Computer and Information Literacy Study](https://www.iea.nl/studies/iea/icils/2023#section-740)<br>
 > [PISA assessment](https://www.oecd.org/pisa/sitedocument/PISA-2021-mathematics-framework.pdf)
+
+#### Bronnnen:  
+Wing, J. M. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35.<br> 
+Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing computational thinking in compulsory education : implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
+Yadav, A., Good, J., Voogt, J., & Fisser, P. (2017a). Computational Thinking as an Emerging Competence Domain. *Technical and Vocational Education and Training, 23*, 1051–1067.*
