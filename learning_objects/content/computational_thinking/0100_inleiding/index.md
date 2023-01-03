@@ -38,7 +38,7 @@ Om computationeel denken zinvol te kunnen integreren in bestaande lessen moeten 
 Zowel activiteiten met of zonder computer kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker.  Maar om de digitale systemen ten volle te begrijpen zal men uiteindelijk toch de stap naar de computer moeten zetten.<br>
 Om computationeel denken met de juiste insteek op school aan bod te laten komen is het belangrijk dat leerkrachten op de hoogte zijn van bepaalde misconcepten.<br> 
 </div>
-In dit leerpad worden onder 'aandachtspunten' misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. <br>
+In dit leerpad wordt eerst de term 'computationeel denken' gedefinieerd.  Onder 'Aandachtspunten' worden een aantal misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
 
 Met dit project willen we lerarenopleiders en leerkrachten secundair onderwijs aan de slag helpen via een flexibel, online leertraject met concrete lesmaterialen, geïntegreerd in STEM-projecten, en inzichten om computationeel denken te vertalen naar de eigen studierichting-specifieke context. <br>
 Meer bepaald tonen we hoe computationeel denken op een zinvolle manier en vanuit reële contexten in de lessen kan worden geïntegreerd, zoals in praktische vakken in nijverheidsrichtingen en harde wetenschapsvakken, maar ook in talen en humane wetenschappen. <br>
