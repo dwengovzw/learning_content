@@ -32,21 +32,24 @@ teacher_exclusive: true
 # Aandachtspunten
 
 ## Mensen
-Computationeel denken gaat om mensen.  De digitale toepassingen worden immers door en voor mensen gemaakt en door mensen gebruikt. Volgens Lowe & Brophy (2017) is bijna elk digitaal systeem deel van een groter systeem waarin **de mens centraal** staat. Wing (2006), die computationeel denken wereldwijd op de agenda plaatstte, vermeldde “understanding human behavior” als een van de aspecten van computationeel denken.
+Computationeel denken gaat om mensen.  De digitale toepassingen worden immers door en voor mensen gemaakt en door mensen gebruikt. Volgens Lowe & Brophy (2017) is bijna elk digitaal systeem deel van een groter systeem waarin **de mens centraal** staat. Wing (2006), die computationeel denken wereldwijd op de agenda plaatste, vermeldde “understanding human behavior” als een van de aspecten van computationeel denken.
 
-Hoe reageren mensen op de nieuwe technologieën en hoe gaan ze ermee om (Lowe & Brophy, 2017; Curzon & McOwan, 2017; Bell, 2018)?<br>
-Houdt men bij de ontwikkeling van nieuwe digitale systemen rekening met culturele verschillen en ethische aspecten (Denning & Tedre, 2019)?<br>
-Kafai en Proctor (2022) benadrukken dat computers inzetten ook een sociale activiteit is waarbij men rekening moet houden met de rol ervan in de maatschappij; een voorbeeld hiervan is het omgaan met culturele bias in computersystemen.
+-  Hoe reageren mensen op de nieuwe technologieën en hoe gaan ze ermee om (Lowe & Brophy, 2017; Curzon & McOwan, 2017; Bell, 2018)?<br>
+-  Houdt men bij de ontwikkeling van nieuwe digitale systemen rekening met culturele verschillen en ethische aspecten (Denning & Tedre, 2019)?<br>
+-  Computers inzetten is ook een sociale activiteit waarbij men rekening moet houden met de rol ervan in de maatschappij; een voorbeeld hiervan is het omgaan met culturele bias in computersystemen (Kafai en Proctor, 2022).
 
-> Meer over de ethische aspecten van nieuwe technologische toepassingen lees je in de handleidingen van de projecten ‘KIKS’, ‘AI in de Zorg’ en ‘Chatbot’ van AI Op School. Zie [dwengo.org](dwengo.org "website").
+> Meer over de ethische aspecten van nieuwe technologische toepassingen lees je in de handleidingen van de projecten ‘KIKS’, ‘AI in de Zorg’ en ‘Chatbot’ van AI Op School. Zie [dwengo.org](https://dwengo.org "website").
 
 Bij het ontwerpen van een nieuw systeem betrekt men best de mensen die ermee zullen moeten werken, zodat een toestel bv. voldoende gebruiksvriendelijk is, en een AI-systeem bv. niet discrimineert. Zo gaat men hopelijk ook niet voorbij aan mogelijk gedrag van mensen, zoals bij de Twitterbot Tay. Tay was initieel gebouwd voor ontspanning, maar werd op een totaal andere manier gebruikt. Tay verspreidde reeds na enkele uren haatspraak, en werd dan ook snel offline gehaald (Neff & Nagy, 2016).
 
-> Meer over Tay in de handleiding bij het project ‘Chatbot’ van AI Op School vind je [hier](dwengo.org/chatbot "chatbot")
+> Meer over Tay in de handleiding bij het project ‘Chatbot’ van AI Op School vind je [hier](https://www.dwengo.org/chatbot "chatbot").
 
-<div class="alert alert-box alert-warning">
-<strong>Samengevat</strong><br>
-Om computationeel denken met de juiste insteek op school aan bod te laten komen is het belangrijk dat leerkrachten op de hoogte zijn van bepaalde aandachtspunten. In dit leerpad worden onder 'aandachtspunten' misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
-
-Zowel activiteiten met of zonder computer kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker, maar uiteindelijk zal toch de stap naar de computer moeten worden gezet, wil men de digitale systemen ten volle begrijpen.
-</div>
+#### Bronnnen: 
+Bell, T. (2018). Computer Science in K-12 Education: The Big Picture. *Olympiads in Informatics, 12*, 3-11.<br>
+Curzon, P. & McOwan, P. (2017). *The power of computational thinking.* Londen: World Scientific Publishing Europe.<br>
+Denning, P. & Tedre, M. (2019). *Computational thinking.* VS: MIT Press.<br>
+Kafai, Y. B. & Proctor, C. (2022). A Revaluation of Computational Thinking in K–12 Education: Moving Toward Computational Literacies. *Educational Researcher, 51*(2),
+146–151.<br>
+Lowe, T. & Brophy, S. P. (2017). An operationalized model for defining computational thinking. *2017 IEEE Frontiers in Education Conference (FIE)*, (pp. 1–8).<br>
+Neff, G. & Nagy, P. (2016). Talking to Bots: Symbiotic Agency and the Case of Tay. *International Journal of Communication, 10*, 4915–4931.<br>
+Wing, J. M. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35.
