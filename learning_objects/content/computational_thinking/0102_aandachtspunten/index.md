@@ -86,7 +86,7 @@ Kafai, Y. B. & Proctor, C. (2022). A Revaluation of Computational Thinking in K�
 Lodi, M. (2020). Informatical Thinking. *Olympiads in Informatics: An International Journal, 14*, 113–132.<br>
 Mishra, P. & Yadav, A. (2013). Of Art and Algorithms: Rethinking Technology & Creativity in the 21st Century. TechTrends, 57(3), 10–14.<br>
 Papert, S. (1980). *Mindstorms: Children, Computers, and Powerful Ideas.* VS: Basic Books, Inc.<br>
-Tedre, M. & Denning, P. (2016). The Long Quest for Computational Thinking. *Proceedings of the 16th Koli Calling International Conference on Computing Education Research*, (pp. 120–129).>br>
+Tedre, M. & Denning, P. (2016). The Long Quest for Computational Thinking. *Proceedings of the 16th Koli Calling International Conference on Computing Education Research*, (pp. 120–129).<br>
 Voogt, J., Fisser, P., Good, J., Mishra, P., & Yadav, A. (2015). Computational thinking in compulsory education: Towards an agenda for research and practice. *Education and Information Technologies, 20*.<br>
 Wing, J. M. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35.
 
