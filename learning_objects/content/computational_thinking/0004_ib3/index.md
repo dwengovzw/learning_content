@@ -38,7 +38,14 @@ Maar wat houdt computationeel denken in? De term is vrij nieuw - ‘computatione
 
 <div class="alert alert-box alert-success">
     <strong>Computationeel denken is niet nieuw</strong><br>
-    Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden zo niet altijd herkend. Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal (Yadav et al., 2017a; Barr & Stephenson, 2011; Bocconi et al., 2016). 
+    Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden zo niet altijd herkend. Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal (Barr & Stephenson, 2011; Bocconi et al., 2016; Yadav et al., 2017a). 
 </div> 
 
 Een werkbare definitie van computationeel denken vind je in het leerpad 'Concreet' van het project 'Computationeel denken'.
+
+#### Bronnen:
+Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM
+Inroads, 2*(1), 48-54.<br>
+Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing computational thinking in compulsory education : implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
+Papert, S. (1980). *Mindstorms: Children, Computers, and Powerful Ideas.* VS: Basic Books, Inc.
+Yadav, A., Good, J., Voogt, J., & Fisser, P. (2017a). Computational Thinking as an Emerging Competence Domain. *Technical and Vocational Education and Training, 23*, 1051–1067.
