@@ -89,3 +89,6 @@ Herkennen dat een probleem gelijkenissen vertoont met een eerder opgelost proble
 Expliciteren van een reeks eenduidige instructies die stapsgewijs moeten worden uitgevoerd.<br> 
 Inzien dat deze reeks van instructies en de volgorde ervan essentieel zijn om het gewenste resultaat op te leveren.
 </div> 
+
+#### Bronnnen: 
+AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via [https://onderwijsdoelen.be/uitgangspunten/4814](https://onderwijsdoelen.be/uitgangspunten/4814)
