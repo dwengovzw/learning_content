@@ -42,6 +42,8 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 
 * Je schreef zonet je eerste programma!
 
+* Vooraleer je het programma kan gaan testen, moet je de nodige componenten gaan toevoegen in het simulalatievenster. Om dit te doen, ga je in het simulatievenster op zoek naar het onderstaande icoon<br><br>![](embed/lcd-scherm.png "lcd-scherm")<br><br>en klik je op de +. Eens de component verschijnt, kan je deze verslepen naar de gewenste plaats op de doos.
+
 * Voer dit programma uit met de simulator door in het *simulatormenu* te klikken op ![alt](embed/simmenu_play.png "simulator play").
 
 * Om de simulatie te stoppen, klik je in het *codeveld* of op ![alt](embed/simmenu_stop.png "simulator stop").

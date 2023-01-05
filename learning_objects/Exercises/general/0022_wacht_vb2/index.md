@@ -38,7 +38,3 @@ Maak een reclamebord voor de UGent en Dwengo. De namen moeten afwisselend versch
 Oplossing:
 
 ![blockly](@learning-object/wacht_m2/nl/3)
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>
