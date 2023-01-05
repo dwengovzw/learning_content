@@ -31,12 +31,6 @@ teacher_exclusive: false
 ---
 ## Wacht
 
-Dit kan je op 2 manieren oplossen. 
+OPGAVE 2
 
-**Manier 1**
-
-De eerste manier is om de tekst te verwijderen. Hiervoor gebruik je het blok **MaakLCDLeeg**.
-
-![blockly](@learning-object/wacht_m2/nl/3)
-
-*Test deze voorbeelden ook zelf uit in de simulator!*
+Maak een reclamebord voor de UGent en Dwengo. De namen moeten afwisselend verschijnen in een interval van 5 seconden. Zorg er ook voor dat de namen gecentreerd zijn.
