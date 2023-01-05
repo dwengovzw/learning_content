@@ -50,7 +50,7 @@ Het <em>'wacht'-blok</em> dat <strong>na</strong> een bepaalde instructie staat,
 
 <div class="alert alert-box alert-danger">
 Let erop dat je hiervoor de code in het <em>'herhaal'-deel</em> van het <em>'zet klaar/herhaal'-blok</em> plaatst!<br>
-Op die manier zal alle code in het <em>'herhaal'-deel</em> blijven herhaald worden.
+Het programma herhaalt enkel code die in het <em>'herhaal'-deel</em> staat.
 </div>
 
 ***
