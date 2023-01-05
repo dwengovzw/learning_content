@@ -41,7 +41,7 @@ Schrijf een programma dat het volgende doet:
 
 Oplossing:
 
-![blockly](@learning-object/wacht_m1/nl/3)
+![blockly](@learning-object/wacht_m1a/nl/3)
 
 <div class="alert alert-box alert-success">
 Het <em>'wacht'-blok</em> dat <strong>na</strong> een bepaalde instructie staat, geeft weer hoelang de computer moet <strong>wachten</strong> vooraleer deze met de volgende instructie mag beginnen.
@@ -67,4 +67,4 @@ Dit probleem wordt veroorzaakt doordat het lcd-scherm niet alle karakters refres
 
 Om dit op te lossen, gebruik je het *'maak lcd-scherm leeg'-blok* om het lcd-scherm telkens leeg te maken voordat er nieuwe tekst verschijnt:
 
-![blockly](@learning-object/wacht_m2/nl/3)
+![blockly](@learning-object/wacht_m1b/nl/3)
