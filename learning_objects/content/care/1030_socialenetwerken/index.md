@@ -48,10 +48,9 @@ Zo zie je hier bij de kinderen tussen 4 en 5 jaar een kliekje van jongens, die b
 
 Een figuur is nuttig om te bekijken hoe het netwerk eruitziet. 
 
-De volgende figuur stelt het Facebooknetwerk voor:
-![https://royalsocietypublishing.org/doi/full/10.1098/rspb.2010.1807](embed/facebooknetwerk.png "Facebooknetwwerk")
-<sub>Bron: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2010.1807</sub>
+De volgende figuur stelt het Facebooknetwerk voor in 2010:
+![Facebook](embed/facebooknetwerk.png "Facebooknetwwerk")
+<sub>Bron: John Haydon. 2010. *Visual Map Of Worldwide Facebook Network.* CC BY-SA 2.0. https://www.flickr.com/photos/johnhaydon/5261841180</sub>
 
 De volgende figuur illustreert de opbouw van het Instagramnetwerk:
-![https://royalsocietypublishing.org/doi/full/10.1098/rspb.2010.1807](embed/instagram.png "Instagramnetwerk")
-<sub>Bron: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2010.1807</sub>
+![Instagram](embed/instagram.png "Instagramnetwerk")
