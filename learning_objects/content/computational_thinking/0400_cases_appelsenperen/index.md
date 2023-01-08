@@ -42,7 +42,7 @@ In de klas kan je samen met de leerlingen nagaan hoe een computer naar foto's ki
 
 <div class="alert alert-box alert-warning">
     <strong>Appels en peren onderscheiden - klasgesprek</strong><br>
-Hoe onderscheiden wij appels en een peren? Welke kenmerekn nemen wij daarin mee?<br>
+Hoe onderscheiden wij appels en een peren? Welke kenmerken nemen wij daarin mee?<br>
 Zou een computer dat op dezelfde manier doen?<br>
 Een computer kan niet voelen. Als hij over een camera beschikt, kan hij wel kijken.<br>
 <em>Computer vision</em> zal een rol spelen.<br>
