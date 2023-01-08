@@ -39,8 +39,9 @@ Het geheel van wie met wie in contact staat, wordt dus een *sociaal netwerk* gen
 Ook sociale netwerken worden wiskundig gemodelleerd door middel van **grafen**.  
 De *knopen* van de graaf zijn bv. de mensen met een Facebook-account en de vrienden zijn met elkaar verbonden door de *bogen*. 
 
-Het voorbeeld hieronder gaat over leerlingen en de contacten tussen deze leerlingen. De knopen vertegenwoordigen de leerlingen. 
-De contacten tussen leerlingen worden weergegeven door lijnsegmenten tussen knopen, en zijn dus de *bogen* van de graaf. 
+Het voorbeeld hieronder gaat over leerlingen en de contacten tussen deze leerlingen. De knopen vertegenwoordigen de leerlingen. Zoals gebruikelijk is in een genogram, een grafische voorstelling om relaties tussen mensen voor te stellen, stellen de cirkels meisjes voor en de vierkanten jongens. <br>
+De contacten tussen leerlingen worden weergegeven door lijnsegmenten tussen knopen, en zijn dus de *bogen* van de graaf. <br>
+Zo zie je hier bij de kinderen tussen 4 en 5 jaar een kliekje van jongens, die bevriend zijn met een vriendengroepje van meisjes en ook nog met een ander meisje. Dat meisje is bevriend met nog een andere jongen. Er zijn ook twee meisjes die enkel met elkaar bevriend zijn en zes kinderen zonder vrienden.
 
 ![https://royalsocietypublishing.org/doi/full/10.1098/rspb.2010.1807](embed/netwerkkinderen.png "Voorbeelden van gekleurde grafen die netwerken tussen kinderen van verschillende leeftijden voorstellen")
 <sub>Bron: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2010.1807</sub>
