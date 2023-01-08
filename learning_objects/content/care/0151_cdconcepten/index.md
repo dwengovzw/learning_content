@@ -81,7 +81,7 @@ Figuur 5.1 vat samen hoe de vier basisconcepten van computationeel denken je op 
 
 > Het vak ‘algoritme’ is nog niet ingevuld omdat het algoritme nog moet worden opgesteld in hoofdstuk 6. Figuur 6.31 geeft het aangevulde schema. 
 
-![](embed/placeholder.png "Fig 5.1")
+![](embed/4kotjesDTalgor.png "Fig 5.1")
 <figure>
     <figcaption align = "center"><b>Basisconcepten computationeel denken toegepast op het probleem van het opstellen van een binaire beslissingsboom.</b></figcaption>
 </figure>
