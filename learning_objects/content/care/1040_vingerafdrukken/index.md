@@ -48,7 +48,7 @@ Door de manier waarop de huid op de vingertoppen gevormd wordt, ontstaan er binn
 ![image](https://user-images.githubusercontent.com/48352335/211288516-0e8ed701-31aa-41da-b22a-979a653cca1a.png)<br>
 Figuur: Voorbeeldlesmateriaal project CSI, module f. https://www.slo.nl/thema/meer/doorstroom-vmbo/algemene/werken-algemene/3e-leerjaar/
 
-![image](https://user-images.githubusercontent.com/48352335/211288547-3178d7ad-6604-4df0-84d9-96470929f15a.png)
+![Fingerprints_Minutiae_Patterns_Representation](https://user-images.githubusercontent.com/48352335/211396289-098e5e5a-516c-41ea-9f83-b86935676b56.jpg)<br>
 Figuur: The most common fingerprint minutiae patterns. Inaki Rom, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons.
 
 Dus als men vingerafdrukken bestudeert, bekijkt men op het eerste niveau de lussen, bogen en kringen. Nadien gaat men het gedetaileerder bekijken door de herkenningspunten te observeren. 
