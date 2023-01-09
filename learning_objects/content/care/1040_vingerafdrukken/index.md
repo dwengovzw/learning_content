@@ -66,6 +66,7 @@ Gekleurde, gewogen graaf:
 - Kleur de knopen: bifurcation groen, ridge ending rood, ridge crossing geel, dubbele bifurcation blauw, spurs paars
 - Gewogen: verbind de knopen (die in een verbonden ridge flow liggen ) en ken gewicht toe, nl afstand tussen de knopen. Knopen een coördinaat toekennen, nl hun. type en hun graad.
 
+Nabespreking: Wat zijn de beperkingen van het matching algoritme? Hoe kan het matching algoritme verbeterd worden? 
 
 #### Leerdoelen
 - Basisconcepten van grafen toepassen bij het analyseren van vingerafdrukken.
