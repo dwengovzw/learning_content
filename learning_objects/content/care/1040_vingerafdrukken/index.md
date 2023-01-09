@@ -32,6 +32,8 @@ teacher_exclusive: true
 
 # Vingerafdrukken
 
+**Voorkennis:** De leerlingen weten wat een graaf, knopen en bogen zijn. Hier komt een nieuw type van grafen op de proppen, nl. de gekleurde, gewogen graaf. 
+
 De forensische wetenschap is van groot belang voor het handhaven van de wet. Denk aan DNA technologie, chemische analyses, het onderzoeken van de sporen veroorzaakt door kogels, en het analyseren of identificeren van vingerafdrukken.
 
 In dit onderdeel van het leerpad neem je vingerafdrukken onder de loep. 
@@ -41,9 +43,11 @@ Een vingerafdrukken is het lijnenpatroon dat een vingertop achterlaat wanneer hi
 De huid aan de binnenkant en de toppen van de vingers vertoont bepaalde patronen: de lijnen op de huid en de plaatsen ertussen vormen lussen (*loops*), bogen (*arches*) en kringen (*whorls*). Deze patronen worden gevormd in de embryonale en foetale fase van een nieuwe mens.
 Door de manier waarop de huid op de vingertoppen gevormd wordt, ontstaan er binnen deze patronen ook herkenningspunten (*minutiae*): delta's, vorken of bifurcaties (*bifurcations*), eilandjes of punten (*islands, dots*), eindigende lijnen (*ridge endings*), crossovers, bifurcaties naar boven en naar beneden (*spurs, hooks*), en ogen op de lijn (*lake, eye*). Deze zijn te zien op vingerafdrukken. Op vingerafdrukken van hoge kwaliteit kan je nog meer in detail kijken en kan je poriën en zweetklieren beschouwen. 
 
-![image](https://user-images.githubusercontent.com/48352335/211288516-0e8ed701-31aa-41da-b22a-979a653cca1a.png)
+![image](https://user-images.githubusercontent.com/48352335/211288516-0e8ed701-31aa-41da-b22a-979a653cca1a.png)<br>
+Figuur: Voorbeeldlesmateriaal project CSI, module f. https://www.slo.nl/thema/meer/doorstroom-vmbo/algemene/werken-algemene/3e-leerjaar/
 
-![image](https://user-images.githubusercontent.com/48352335/211288547-3178d7ad-6604-4df0-84d9-96470929f15a.png)
+![image](https://user-images.githubusercontent.com/48352335/211288547-3178d7ad-6604-4df0-84d9-96470929f15a.png)<br>
+Figuur: The most common fingerprint minutiae patterns. Inaki Rom, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons.
 
 Dus als men vingerafdrukken bestudeert, bekijkt men op het eerste niveau de lussen, bogen en kringen. Nadien gaat men het gedetaileerder bekijken door de herkenningspunten te observeren. 
 
@@ -62,13 +66,14 @@ Bron: https://ccicada.org/education/ccicada-education-modules/#Fingerprint <br>
 - De leerlingen een set geven en daar hetzelfde op laten toepassen.
 - Erna een nieuwe vingerafdruk aan de leerlingen geven en kijken of ze een algoritme vinden om te matchen.
 
-![image](https://user-images.githubusercontent.com/48352335/211331634-cc6026fe-76a5-44b1-bdd7-5c0437b1f84a.png)
-
+![image](https://user-images.githubusercontent.com/48352335/211331634-cc6026fe-76a5-44b1-bdd7-5c0437b1f84a.png)<br>
+Bron: https://ccicada.org/education/ccicada-education-modules/#Fingerprint
 
 Gekleurde, gewogen graaf:
 - Minutiae zijn de knopen
-- Kleur de knopen: bifurcation groen, ridge ending rood, ridge crossing geel, dubbele bifurcation blauw, spurs paars
-- Gewogen: verbind de knopen (die in een verbonden ridge flow liggen ) en ken gewicht toe, nl afstand tussen de knopen. Knopen een coördinaat toekennen, nl hun. type en hun graad.
+- Kleur de knopen: bifurcation groen, ridge ending rood, ridge crossing geel, dubbele bifurcation blauw, spurs paars, ...
+- Gewogen: verbind de knopen (die met elkaar verbonden zijn door dzelfde lijn) en ken een gewicht toe aan de boog, nl. de afstand tussen de knopen. 
+(Andere manieren zijn: de knopen een coördinaat toekennen, als gewicht het aantal gepasseerde lijnen noteren ...)
 
 Nabespreking: Wat zijn de beperkingen van het matching algoritme? Hoe kan het matching algoritme verbeterd worden? 
 
@@ -88,4 +93,4 @@ Na dit onderdeel kunnen de leerlingen …
 - hun kritisch en logisch denken verbeterd hebben
 
 #### Eindtermen
-Grafen, computationeel denken, wisselwerking maatschappij en STEM, mediawijsheid, privacy 
+Grafen, computationeel denken, wisselwerking maatschappij en STEM, mediawijsheid, privacy. 
