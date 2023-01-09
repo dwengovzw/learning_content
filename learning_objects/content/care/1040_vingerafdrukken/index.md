@@ -52,9 +52,20 @@ Vingerafdrukken worden gebruikt om mensen te identificeren, bv. een dader van ee
 ### Computationeel denken
 Voorbeeld: Door de grote hoeveelheid aan vingerafdrukken werd het voor de FBI onhaalbaar om een binnenkomende vingerafdruk snel proberen te matchen aan een van de vingerafdrukken in hun database. De noodzaak om te automatiseren drong zich op. De computer was hiervoor de oplossing. 
 
-
 De digitale bestanden waren best niet te groot naar opslagcapaciteit toe. Bovendien was het ook nodig om de bestanden te kunnen versturen overal ten lande, dus de bestanden mochten ook daarom niet te groot zijn. 
- 
+
+**Unplugged activiteit:** 
+- Op een vergrote foto van een vingerafdruk de minitiae aanduiden, hun type bepalen, en de afstand in cm meten. 
+- Dit omzetten naar een graaf.
+- De leerlingen een set geven en daar hetzelfde op laten toepassen.
+- Erna een nieuwe vingerafdruk aan de leerlingen geven en kijken of ze een algoritme vinden om te matchen.
+
+
+Gekleurde, gewogen graaf:
+- Minutiae zijn de knopen
+- Kleur de knopen: bifurcation groen, ridge ending rood, ridge crossing geel, dubbele bifurcation blauw, spurs paars
+- Gewogen: verbind de knopen (die in een verbonden ridge flow liggen ) en ken gewicht toe, nl afstand tussen de knopen. Knopen een coördinaat toekennen, nl hun. type en hun graad.
+
 
 #### Leerdoelen
 - Basisconcepten van grafen toepassen bij het analyseren van vingerafdrukken.
