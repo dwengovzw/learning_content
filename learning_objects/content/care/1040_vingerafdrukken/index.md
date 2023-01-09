@@ -40,6 +40,7 @@ Een vingerafdrukken is het lijnenpatroon dat een vingertop achterlaat wanneer hi
 
 De huid aan de binnenkant en de toppen van de vingers vertoont bepaalde patronen: de lijnen op de huid en de plaatsen ertussen vormen lussen (*loops*), bogen (*arches*) en kringen (*whorls*). Deze patronen worden gevormd in de embryonale en foetale fase van een nieuwe mens.
 Door de manier waarop de huid op de vingertoppen gevormd wordt, ontstaan er binnen deze patronen ook herkenningspunten (*minutiae*): delta's, vorken of bifurcaties (*bifurcations*), eilandjes of punten (*islands, dots*), eindigende lijnen (*ridge endings*), crossovers, bifurcaties naar boven en naar beneden (*spurs, hooks*), en ogen op de lijn (*lake, eye*). Deze zijn te zien op vingerafdrukken. Op vingerafdrukken van hoge kwaliteit kan je nog meer in detail kijken en kan je poriën en zweetklieren beschouwen. 
+
 ![image](https://user-images.githubusercontent.com/48352335/211288516-0e8ed701-31aa-41da-b22a-979a653cca1a.png)
 
 ![image](https://user-images.githubusercontent.com/48352335/211288547-3178d7ad-6604-4df0-84d9-96470929f15a.png)
@@ -54,11 +55,14 @@ Voorbeeld: Door de grote hoeveelheid aan vingerafdrukken werd het voor de FBI on
 
 De digitale bestanden waren best niet te groot naar opslagcapaciteit toe. Bovendien was het ook nodig om de bestanden te kunnen versturen overal ten lande, dus de bestanden mochten ook daarom niet te groot zijn. 
 
-**Unplugged activiteit:** 
+**Unplugged activiteit:** <br>
+Bron: https://ccicada.org/education/ccicada-education-modules/#Fingerprint <br>
 - Op een vergrote foto van een vingerafdruk de minitiae aanduiden, hun type bepalen, en de afstand in cm meten. 
 - Dit omzetten naar een graaf.
 - De leerlingen een set geven en daar hetzelfde op laten toepassen.
 - Erna een nieuwe vingerafdruk aan de leerlingen geven en kijken of ze een algoritme vinden om te matchen.
+
+![image](https://user-images.githubusercontent.com/48352335/211331634-cc6026fe-76a5-44b1-bdd7-5c0437b1f84a.png)
 
 
 Gekleurde, gewogen graaf:
