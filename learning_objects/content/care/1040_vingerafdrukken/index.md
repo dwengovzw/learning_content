@@ -34,10 +34,12 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen weten wat een graaf, knopen en bogen zijn. Hier komt een nieuw type van grafen op de proppen, nl. de gekleurde, gewogen graaf. 
 
+### Forensische wetenschap
 De forensische wetenschap is van groot belang voor het handhaven van de wet. Denk aan DNA technologie, chemische analyses, het onderzoeken van de sporen veroorzaakt door kogels, en het analyseren of identificeren van vingerafdrukken.
 
 In dit onderdeel van het leerpad neem je vingerafdrukken onder de loep. 
 
+### Vingerafdruk
 Een vingerafdrukken is het lijnenpatroon dat een vingertop achterlaat wanneer hij in contact komt met een oppervlak. Vingerafdrukken zijn uniek voor elke mens en blijven onveranderd tijdens het leven. Ook unieke tweelingen kunnen ermee van elkaar onderscheiden worden. Men moet er wel rekening mee houden dat door het groeien de patronen ook vergoten en dat vingerafdrukken wel kunnen veranderen door een ziekte of een ongeluk. Met ouder worden, kunnen de lijnen ook minder duidelijk worden.  Ongeveer 300 jaar voor Christus gebruikten ze al vingerafdrukken in China om personen te identificeren. In de VS en Europa begon men daar pas mee in de 19de eeuw.
 
 De huid aan de binnenkant en de toppen van de vingers vertoont bepaalde patronen: de lijnen op de huid en de plaatsen ertussen vormen lussen (*loops*), bogen (*arches*) en kringen (*whorls*). Deze patronen worden gevormd in de embryonale en foetale fase van een nieuwe mens.
@@ -46,7 +48,7 @@ Door de manier waarop de huid op de vingertoppen gevormd wordt, ontstaan er binn
 ![image](https://user-images.githubusercontent.com/48352335/211288516-0e8ed701-31aa-41da-b22a-979a653cca1a.png)<br>
 Figuur: Voorbeeldlesmateriaal project CSI, module f. https://www.slo.nl/thema/meer/doorstroom-vmbo/algemene/werken-algemene/3e-leerjaar/
 
-![image](https://user-images.githubusercontent.com/48352335/211288547-3178d7ad-6604-4df0-84d9-96470929f15a.png)<br>
+![image](https://user-images.githubusercontent.com/48352335/211288547-3178d7ad-6604-4df0-84d9-96470929f15a.png)
 Figuur: The most common fingerprint minutiae patterns. Inaki Rom, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons.
 
 Dus als men vingerafdrukken bestudeert, bekijkt men op het eerste niveau de lussen, bogen en kringen. Nadien gaat men het gedetaileerder bekijken door de herkenningspunten te observeren. 
@@ -55,9 +57,10 @@ Dus als men vingerafdrukken bestudeert, bekijkt men op het eerste niveau de luss
 Vingerafdrukken worden gebruikt om mensen te identificeren, bv. een dader van een misdrijf, of voor authenticatie, toegang tot een smartphone. 
 
 ### Computationeel denken
-Voorbeeld: Door de grote hoeveelheid aan vingerafdrukken werd het voor de FBI onhaalbaar om een binnenkomende vingerafdruk snel proberen te matchen aan een van de vingerafdrukken in hun database. De noodzaak om te automatiseren drong zich op. De computer was hiervoor de oplossing. 
-
+Voorbeeld: Door de grote hoeveelheid aan vingerafdrukken werd het voor de FBI onhaalbaar om een binnenkomende vingerafdruk snel proberen te matchen aan een van de vingerafdrukken in hun database. De noodzaak om te automatiseren drong zich op. De computer was hiervoor de oplossing. <br>
 De digitale bestanden waren best niet te groot naar opslagcapaciteit toe. Bovendien was het ook nodig om de bestanden te kunnen versturen overal ten lande, dus de bestanden mochten ook daarom niet te groot zijn. 
+
+![vingerafdrukschema](https://user-images.githubusercontent.com/48352335/211395837-e8001d34-f79f-49f3-8e43-d6d824601976.png)
 
 **Unplugged activiteit:** <br>
 Bron: https://ccicada.org/education/ccicada-education-modules/#Fingerprint <br>
