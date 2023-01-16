@@ -2,7 +2,7 @@
 hruid: pn_werkingnotebooks2
 version: 3
 language: nl
-title: "Log out"
+title: "Log uit"
 description: "Leren werken met de notebooks"
 keywords: ["Python", "KIKS", "Wiskunde", "STEM"]
 educational_goals: [
@@ -32,9 +32,11 @@ skos_concepts: [
 
 # Werken met notebooks
 
-**Let op**  
-*Wanneer je een reeks notebooks hebt afgewerkt, mag je niet vergeten uit te loggen via de knop rechts bovenaan.*  
+**Let op: uitloggen**  
+*Wanneer je een reeks notebooks hebt afgewerkt, mag je in het tabblad met de notebookgroep niet vergeten uit te loggen via de knop rechts bovenaan.*  
 
 ![](embed/LogOut.png "Log out")  
 
 Als je dit niet doet, dan zal de nieuwe link nog steeds de vorige reeks notebooks tonen, in plaats van de nieuwe reeks.
+
+Bij de notebook zelf hoef je niet uit te loggen.
