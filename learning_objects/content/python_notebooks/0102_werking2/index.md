@@ -33,6 +33,7 @@ skos_concepts: [
 # Werken met notebooks
 
 **Let op: uitloggen**  
+
 *Wanneer je een reeks notebooks hebt afgewerkt, mag je in het tabblad met de notebookgroep niet vergeten uit te loggen via de knop rechts bovenaan.*  
 
 ![](embed/LogOut.png "Log out")  
@@ -40,3 +41,9 @@ skos_concepts: [
 Als je dit niet doet, dan zal de nieuwe link nog steeds de vorige reeks notebooks tonen, in plaats van de nieuwe reeks.
 
 Bij de notebook zelf hoef je niet uit te loggen.
+
+**Notebook opslaan**
+
+Je kan de notebook downloaden als *ipynb* om er op een later tijdstip verder aan te werken.
+
+Je kan de (uitgevoerde) notebook opslaan als pdf via de browser. Bv. in Chrome: Afdrukken > Opslaan als pdf. Hierbij zet je 'Schaal' best in op 85 procent.   
