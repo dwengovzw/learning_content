@@ -46,4 +46,4 @@ Bij de notebook zelf hoef je niet uit te loggen.
 
 Je kan de notebook downloaden als *ipynb* om er op een later tijdstip verder aan te werken.
 
-Je kan de (uitgevoerde) notebook opslaan als pdf via de browser. Bv. in Chrome: Afdrukken > Opslaan als pdf. Hierbij zet je 'Schaal' best in op 85 procent.   
+Je kan de (uitgevoerde) notebook opslaan als *pdf* via de browser. Bv. in Chrome: Afdrukken > Opslaan als pdf. Hierbij zet je 'Schaal' best in op 85 procent.   
