@@ -48,3 +48,9 @@ Je beschikt over 2 soorten:
 ### In de simulator
 
 ![](embed/servos_simulator.png "Servomotor simulator")
+
+De servomotoren kunnen een ander uiterlijk krijgen in het simulatievenster. Dit kan je doen door op de component te dubbelklikken (na toevoegen in het simulatievenster). Dan verschijnt het volgende menu: 
+
+![](embed/servo_opties.png "opties servomotor")
+
+Hier kan je dan een ander uiterlijk kiezen.

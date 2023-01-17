@@ -41,6 +41,6 @@ Oplossing:
 
 Je robot kan nu zwaaien met zijn armen.
 
-<div class="alert alert-box alert-success">
-uitleg
+<div class="alert alert-box alert-danger">
+Vergeet niet om de servomotor als component toe te voegen in de simulator! Voor de volledigheid verander je deze ook best van uiterlijk voor een accuratere simulatie.
 </div>
