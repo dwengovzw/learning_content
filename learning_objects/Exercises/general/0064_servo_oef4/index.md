@@ -1,9 +1,9 @@
 ---
-hruid: g_servo_oef1
+hruid: g_servo_oef2
 version: 3
 language: nl
-title: "Oefening Servomotor 1"
-description: "Oefening Servomotor 1"
+title: "Oefening Servomotor 2"
+description: "Oefening Servomotor 2"
 keywords: ["oefeningen", "servomotor"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,13 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Servomotor (blauw)
+## Servomotor (zwart)
 
-OPGAVE 1
+OPGAVE 4
 
-Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
+Simuleer 2 draaiende ogen. Eén oog moet in wijzerzin draaien, het andere oog in tegenwijzerzin.
 
-
-Je robot kan nu zwaaien met zijn armen.
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+Om een zwarte servomotor van draairichting te veranderen, gebruik je negatieve getallen.
+</div>
