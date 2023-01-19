@@ -40,5 +40,5 @@ Oplossing:
 ![blockly](@learning-object/led_m1/nl/3)
 
 <div class="alert alert-box alert-success">
-Merk op dat led 0 het eerste led is aan de **rechterkant**!
+Merk op dat led 0 het eerste led is aan de <strong>rechterkant</strong>!
 </div>
