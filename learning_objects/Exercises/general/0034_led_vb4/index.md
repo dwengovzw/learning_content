@@ -45,7 +45,3 @@ Schrijf een programma dat het volgende doet:
 Oplossing:
 
 ![blockly](@learning-object/led_m4/nl/3)
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>

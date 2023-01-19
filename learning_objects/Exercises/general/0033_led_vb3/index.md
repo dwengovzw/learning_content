@@ -38,7 +38,3 @@ Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent d
 Oplossing:
 
 ![blockly](@learning-object/led_m3/nl/3)
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>
