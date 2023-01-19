@@ -915,6 +915,36 @@
         {
           "default": true,
           "next": {
+            "hruid": "g_matrix_vb3",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_matrix_vb3",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_matrix_oef3",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_matrix_oef3",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "g_rgb",
             "version": "3",
             "language": "nl"

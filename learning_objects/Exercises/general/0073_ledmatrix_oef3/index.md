@@ -1,9 +1,9 @@
 ---
-hruid: g_matrix_vb1
+hruid: g_matrix_oef3
 version: 3
 language: nl
-title: "Voorbeeld Led-matrix 1"
-description: "Voorbeeld Led-matrix 1"
+title: "Oefening Led-matrix 3"
+description: "Oefening Led-matrix 3"
 keywords: ["oefeningen", "led-matrix"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,18 +27,10 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 ## Led-matrix
 
-OPGAVE 1
+OPGAVE 3
 
-Laat een hartje verschijnen op een ledmatrix in de simulator.
-
-Oplossing:  
-
-![blockly](@learning-object/matrix_m1/nl/3)
-
-<div class="alert alert-box alert-success">
-Je kan kiezen welke figuren verschijnen door aan te vinken welke ledjes moeten branden.
-</div>
+Programmeer 2 ogen die heen en weer kijken (links - rechts - links - rechts - ...).
