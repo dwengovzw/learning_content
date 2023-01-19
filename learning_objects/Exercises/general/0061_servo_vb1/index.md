@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Servomotor
+## Servomotor (blauw)
 
 OPGAVE 1
 

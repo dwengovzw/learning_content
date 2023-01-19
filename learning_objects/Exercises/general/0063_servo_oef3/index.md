@@ -1,9 +1,9 @@
 ---
-hruid: g_servo_oef1
+hruid: g_servo_oef2
 version: 3
 language: nl
-title: "Oefening Servomotor 1"
-description: "Oefening Servomotor 1"
+title: "Oefening Servomotor 2"
+description: "Oefening Servomotor 2"
 keywords: ["oefeningen", "servomotor"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,13 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Servomotor (blauw)
+## Servomotor (zwart)
 
-OPGAVE 1
+OPGAVE 3
 
-Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
+Schrijf een programma voor een zwarte servomotor zodat de motor continu draait.
 
-
-Je robot kan nu zwaaien met zijn armen.
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+In tegenstelling tot de blauwe servomotor, moet je hier de snelheid van de servomotor instellen i.p.v. een hoek. Als een zwarte servomotor moet stoppen met draaien, stel je dus de snelheid in op 0.
+</div>
