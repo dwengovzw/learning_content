@@ -37,10 +37,12 @@ Programmeer 2 led-matrices zodat ze op 2 ogen lijken.
 
 Oplossing:  
 
-![blockly](@learning-object/matrix_m2/nl/3)
+**Methode 1**
+![blockly](@learning-object/matrix_m2a/nl/3)
 
-Je kan eventueel bewegende ogen maken door verschillende combinaties van ogen te maken en er "*wacht*"-blokken tussen te plaatsen!  
+**Methode 2**
+![blockly](@learning-object/matrix_m2b/nl/3)
 
 <div class="alert alert-box alert-success">
-uitleg
+Binnen de simulator kan je dit op 2 manieren doen: manueel of met voorgeprogrammeerde ogen via het '<em>Toon oogpatroon</em>'-blok
 </div>

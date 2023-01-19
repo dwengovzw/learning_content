@@ -3,7 +3,7 @@ hruid: g_matrix_oef2
 version: 3
 language: nl
 title: "Oefening Led-matrix 2"
-description: "Uitleg led-matrices"
+description: "Oefening Led-matrix 2"
 keywords: ["oefeningen", "led-matrix"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -35,7 +35,6 @@ OPGAVE 2
 
 Programmeer 2 led-matrices zodat ze op 2 ogen lijken.  
 
-
-Je kan eventueel bewegende ogen maken door verschillende combinaties van ogen te maken en er "*wacht*"-blokken tussen te plaatsen!  
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+Binnen de simulator kan je dit op 2 manieren doen: manueel of met voorgeprogrammeerde ogen via het '<em>Toon oogpatroon</em>'-blok
+</div>

@@ -1,17 +1,17 @@
 ---
-hruid: matrix_m2
+hruid: g_matrix_vb3
 version: 3
 language: nl
-title: "Meta"
-description: "Meta"
-keywords: []
+title: "Voorbeeld Led-matrix 3"
+description: "Voorbeeld Led-matrix 3"
+keywords: ["oefeningen", "led-matrix"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by dwengo vzw.
-licence: CC by dwengo vzw.
-content_type: blockly
+copyright: dwengo
+licence: dwengo
+content_type: text/markdown
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -23,9 +23,18 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
+## Led-matrix
+
+OPGAVE 3
+
+Programmeer 2 ogen die heen en weer kijken (links - rechts - links - rechts - ...).
+
+Oplossing:  
+
+![blockly](@learning-object/matrix_m3/nl/3)
