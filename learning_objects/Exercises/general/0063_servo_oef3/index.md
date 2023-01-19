@@ -1,9 +1,9 @@
 ---
-hruid: g_servo_oef2
+hruid: g_servo_oef3
 version: 3
 language: nl
-title: "Oefening Servomotor 2"
-description: "Oefening Servomotor 2"
+title: "Oefening Servomotor 3"
+description: "Oefening Servomotor 3"
 keywords: ["oefeningen", "servomotor"]
 educational_goals: [
     {source: Source, id: id}, 
