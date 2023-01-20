@@ -44,5 +44,5 @@ Oplossing:
 ![blockly](@learning-object/matrix_m2b/nl/3)
 
 <div class="alert alert-box alert-success">
-Binnen de simulator kan je dit op 2 manieren doen: manueel of met voorgeprogrammeerde ogen via het '<em>Toon oogpatroon</em>'-blok
+Binnen de simulator kan je dit op 2 manieren doen: manueel of met voorgeprogrammeerde ogen via het <em>'Toon oogpatroon'-blok</em>
 </div>

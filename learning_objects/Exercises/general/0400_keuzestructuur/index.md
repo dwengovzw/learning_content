@@ -38,7 +38,7 @@ Om je robot te laten reageren op zulke prikkels, gebruik je een keuzestructuur. 
 
 ***
 
-In de simulator vind je de blokken voor een keuzestructuur terug in de categorie *logica*![](embed/cat_logica.png "categorie logica"). De simpelste vorm van dit blok is het '*ALS-DAN*'-blok.
+In de simulator vind je de blokken voor een keuzestructuur terug in de categorie ![](embed/cat_logica.png "categorie logica"). De simpelste vorm van dit blok is het *'ALS-DAN'-blok*.
 
 ![](embed/keuzestructuur1.png "ALS-DAN-blok")
 
