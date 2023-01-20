@@ -33,12 +33,8 @@ teacher_exclusive: true
 
 OPGAVE 2
 
-Tekst
+Maak een zwaailicht voor een politierobot. (Je hebt slechts één RGB-led dus laat het flikkeren)
 
 Oplossing:  
 
-![blockly](@learning-object/matrix_m1/nl/3)
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>
+![blockly](@learning-object/rgb_m2/nl/3)
