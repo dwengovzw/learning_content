@@ -32,6 +32,8 @@ teacher_exclusive: false
 # DwenguinoBlockly
 ## Keuzestructuren: Als - Dan
 
-Om van je robot een sociale robot te maken, zal je voorwaarden aan acties moeten koppelen. Dit houdt in dat je eerst iets moet doen met de robot voor de robot een actie uitvoert. Een schuifdeur gaat bijvoorbeeld enkel open wanneer er iemand dicht genoeg is om door de sensoren opgemerkt te worden.
+Om van je robot een sociale robot te maken, zal die in staat moeten zijn om te reageren op bepaalde prikkels: een persoon die dichter komt, een luide klap... 
+
+Een schuifdeurje voorwaarden aan acties moeten koppelen. Dit houdt in dat je eerst iets moet doen met de robot voor de robot een actie uitvoert. Een schuifdeur gaat bijvoorbeeld enkel open wanneer er iemand dicht genoeg is om door de sensoren opgemerkt te worden.
 
 In het volgende onderdeel wordt dit kort uitgelegd.
