@@ -33,7 +33,8 @@ teacher_exclusive: false
 
 OPGAVE 1
 
-Tekst
+Kies de RGB-waarden zo dat het RGB-led met een paars licht brandt.
 
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-success">
+Om een specifieke kleur te bekomen, is het gemakkelijker om de waarden op het internet op te zoeken dan te gokken. ![https://www.rapidtables.org/nl/web/color/purple-color.html](https://www.rapidtables.org/nl/web/color/purple-color.html) is hiervoor een goede site.
+</div>

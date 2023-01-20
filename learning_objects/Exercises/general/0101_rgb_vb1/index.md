@@ -33,12 +33,12 @@ teacher_exclusive: true
 
 OPGAVE 1
 
-Tekst
+Kies de RGB-waarden zo dat het RGB-led met een paars licht brandt.
 
 Oplossing:  
 
-![blockly](@learning-object/matrix_m1/nl/3)
+![blockly](@learning-object/rgb_m1/nl/3)
 
 <div class="alert alert-box alert-success">
-uitleg
+Om een specifieke kleur te bekomen, is het gemakkelijker om de waarden op het internet op te zoeken dan te gokken. ![https://www.rapidtables.org/nl/web/color/purple-color.html](https://www.rapidtables.org/nl/web/color/purple-color.html) is hiervoor een goede site.
 </div>
