@@ -40,10 +40,8 @@ Om je robot te laten reageren op zulke prikkels, gebruik je een keuzestructuur. 
 
 In de simulator vind je de blokken voor een keuzestructuur terug in de categorie *logica*![](embed/cat_logica.png "categorie logica"). De simpelste vorm van dit blok is het '*ALS-DAN*'-blok.
 
-![](embed/ "ALS-DAN-blok")
+![](embed/keuzestructuur1.png "ALS-DAN-blok")
 
 Je kan dit blok echter zolang maken als je wilt, afhankelijk van het aantal voorwaarden waarmee je robot moet rekening houden. Hoe je dit doet, wordt hieronder kort voorgetoond.
 
-![](embed/ "ALS-DAN-ANDERS")
-
-Voor de sociale robot kan zo'n keuzestructuur bijvoorbeeld de volgende vorm aannemen:
+![](embed/keuzestructuur2.png "ALS-DAN-ANDERS")
