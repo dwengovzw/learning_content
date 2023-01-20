@@ -32,8 +32,18 @@ teacher_exclusive: false
 # DwenguinoBlockly
 ## Keuzestructuren: Als - Dan
 
-Om van je robot een sociale robot te maken, zal die in staat moeten zijn om te reageren op bepaalde prikkels: een persoon die dichter komt, een luide klap... 
+Om van je robot een sociale robot te maken, zal die in staat moeten zijn om te reageren op bepaalde prikkels: een persoon die dichter komt, een luide klap... Denk bijvoorbeeld aan schuifdeuren die opengaan wanneer iemand in de buurt komt.
 
-Een schuifdeurje voorwaarden aan acties moeten koppelen. Dit houdt in dat je eerst iets moet doen met de robot voor de robot een actie uitvoert. Een schuifdeur gaat bijvoorbeeld enkel open wanneer er iemand dicht genoeg is om door de sensoren opgemerkt te worden.
+Om je robot te laten reageren op zulke prikkels, gebruik je een keuzestructuur. Keuzestructuren bestaan steeds uit een **voorwaarde**, *ALS*, en een daaraan gekoppelde **actie**, *DAN*. Vaak voorziet men ook een **alternatieve actie**, *ANDERS* die uitgevoerd wordt indien er niet aan de voorwaarde voldaan is.
 
-In het volgende onderdeel wordt dit kort uitgelegd.
+***
+
+In de simulator vind je de blokken voor een keuzestructuur terug in de categorie *logica*![](embed/cat_logica.png "categorie logica"). De simpelste vorm van dit blok is het '*ALS-DAN*'-blok.
+
+![](embed/ "ALS-DAN-blok")
+
+Je kan dit blok echter zolang maken als je wilt, afhankelijk van het aantal voorwaarden waarmee je robot moet rekening houden. Hoe je dit doet, wordt hieronder kort voorgetoond.
+
+![](embed/ "ALS-DAN-ANDERS")
+
+Voor de sociale robot kan zo'n keuzestructuur bijvoorbeeld de volgende vorm aannemen:

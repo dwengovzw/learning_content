@@ -73,7 +73,7 @@ rhz2 = float(input(“Geef de lengte van de tweede rechthoekszijde: "))<br><br>
 schz = pythagoras(rhz1, rhz2)<br><br>
 # uitvoer<br>
 print("De lengte van de schuine zijde is: ", schz)
+</p>
 </div>
-
 </implementation>
 

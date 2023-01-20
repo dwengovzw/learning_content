@@ -68,5 +68,6 @@ DAN verschijnt de boodschap ‘Hallo! Hoe gaat het?’<br>
 Plaats hier een screenshot van de Blockly-code.
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 code
-</p></div>
+</p>
+</div>
 </implementation>
