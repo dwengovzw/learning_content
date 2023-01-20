@@ -40,5 +40,5 @@ Oplossing:
 ![blockly](@learning-object/rgb_m1/nl/3)
 
 <div class="alert alert-box alert-success">
-Om een specifieke kleur te bekomen, is het gemakkelijker om de waarden op het internet op te zoeken dan te gokken. ![https://www.rapidtables.org/nl/web/color/purple-color.html](https://www.rapidtables.org/nl/web/color/purple-color.html) is hiervoor een goede site.
+Om een specifieke kleur te bekomen, is het gemakkelijker om de waarden op het internet op te zoeken dan te gokken. <a href="https://www.rapidtables.org/nl/web/color/purple-color.html">rapidtables.org</a> is hiervoor een goede website.
 </div>
