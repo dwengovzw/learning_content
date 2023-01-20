@@ -2,8 +2,8 @@
 hruid: g_rgb
 version: 3
 language: nl
-title: "Uitleg Rgb-led"
-description: "Uitleg Rgb-led"
+title: "Uitleg RGB-led"
+description: "Uitleg RGB-led"
 keywords: ["oefeningen", "rgb-led"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,4 +30,28 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # DwenguinoBlockly
-## Rgb-led
+## RGB-led
+
+De RGB-led is een led dat je van kleur kan doen veranderen. RGB slaat hier op de kleuren Rood - Groen - Blauw. Door deze kleuren te mengen, kan je de RGB-led eender welke kleur doen aannemen.
+
+### In het echt
+
+![](embed/rgb.png "RGB-led")
+
+### In de simulator
+
+![](embed/rgb_sim.png "RGB-led simulator")
+
+Door de getallen bij *rgb-kleur* aan te passen, kan je een kleur instellen. De getallen die je kiest, liggen steeds tussen 0 en 255.
+
+**Belangrijke combinaties**
+
+|**Kleur**|**R (Rood)**|**G (Groen)**|**B (Blauw)**|
+|---|---|---|---|
+|Wit|255|255|255|
+|Zwart|0|0|0|
+|Rood|255|0|0|
+|Groen|0|255|0|
+|Blauw|0|0|255|
+
+> Een <strong>kleurmengsysteem</strong> is een systeem gebaseerd op het idee dat je met een bepaalde set kleuren, <strong>primaire kleuren</strong> genoemd, alle andere kleuren kunt maken.<br><br>Het <strong>subtractieve kleurmengsysteem</strong> is het meest gekende, omdat kinderen dit zelf gemakkellijk kunnen ontdekken tijdens kleuren of verven. Rood + blauw = paars, blauw + geel = groen, geel + rood = oranje, ... Dit gaat uit van de primaire kleuren <strong>cyaan</strong> <em>(hemelsblauw)</em>, <strong>magenta</strong> <em>(een soort roze)</em> en <strong>geel</strong>.<br><br>Het <strong>additieve kleurmengsysteem</strong> is minder intuïtief. Dit wordt gebruikt bij het "mengen" van verschillende kleuren <strong>licht</strong>. De primaire kleuren zijn voor dit kleurmengsysteem <strong>rood</strong>, <strong>groen</strong> en <strong>blauw</strong>.
