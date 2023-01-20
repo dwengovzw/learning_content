@@ -92,6 +92,7 @@ if d >= 0:<br>
 print("Het aantal wortels is:", n)<br>
 if d >= 0:
 &nbsp;&nbsp;&nbsp;&nbsp;print("De wortels zijn: ", x1, "en", x2)
+</p>
 </div>
 </implementation>
 

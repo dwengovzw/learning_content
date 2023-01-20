@@ -65,6 +65,6 @@ rhz2 = float(input(“Geef de lengte van de tweede rechthoekszijde: "))<br><br>
 schz = math.sqrt(rhz1**2 + rhz2**2)<br><br>
 # uitvoer<br>
 print("De lengte van de schuine zijde is: ", schz)
+</p>
 </div>
-
 </implementation>

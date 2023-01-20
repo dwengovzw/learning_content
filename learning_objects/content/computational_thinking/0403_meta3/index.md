@@ -75,6 +75,6 @@ rhz2 = float(input("Geef de lengte van de tweede rechthoekszijde: "))<br><br>
 vogelvlucht = pythagoras(rhz1, rhz2)<br><br>
 # uitvoer<br>
 print("De afstand in vogelvlucht is: ", vogelvlucht)
+</p>
 </div>
-
 </implementation>
