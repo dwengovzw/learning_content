@@ -2,8 +2,8 @@
 hruid: m_ct_cases13
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Werkimg rputeplanner"
+description: "Werking routeplanner"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,27 +31,33 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
-</div>
+Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vogelvlucht: Gent, Lokeren, Sint-Niklaas, Dendermonde, Willebroek, Mechelen. Bepaal de kortste weg tussen Gent en Mechelen via deze wegen? Hoe kan een computer daarbij helpen?  
 </context>
 <decomposition>
-Tekst
+**Decompositie:**<br>
+- Welke wegen zijn er mogelijk? Om dit te zien kan je best op een grafische voorstelling kijken, hier kiezen we voor een graaf.
+- Uit welke delen zijn die opgebouwd? M.a.w. welke gemeenten passeer je?
+- Totale afstand is de som van de afstanden tussen de gekozen gemeenten.
+- Computer kan de afstanden van alle mogelijke wegen berekenen en de kortste eruit halen. 
 </decomposition>
 <patternRecognition>
-Tekst
+**Patroonherkenning:**<br>
+    - De wegen tussen de gemeenten vormen een netwerk. Een netwerk kan voorgesteld worden d.m.v. een graaf. Denk bv. aan de voorstelling met een graaf van een sociaal netwerk. 
+    - Er is hier wel een bijkomende complexiteit, nl. de lengte van de wegen, die moet ook voorgesteld worden.  
 </patternRecognition>
 <abstraction>
 Tekst
 </abstraction>
 <algorithms>
-Tekst
+    - **Algoritme van Dijkstra** 
+    - **A* algoritme** omdat niet alle wegen in aanmerking komen, bv. de wegen langs gemeenten die uit de weg liggen zijn overbodig na te gaan.
+    
+Algoritme omschrijven in woorden (en eventueel ook programmeren).  
 </algorithms>
 <implementation>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+**Programma:**<br>
+    - Python-script van algoritme van Dijkstra
+    - Python-script van A* algoritme 
+Zie hiervoor de notebooks bij het leerpad ‘Grafen’.
 </implementation>
 
