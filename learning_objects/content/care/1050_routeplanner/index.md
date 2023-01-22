@@ -188,43 +188,39 @@ Als schattingsfunctie (f-score) gebruik je de afstand in vogelvlucht (komt voor 
 
 ### A* algoritme
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-Initialiseer de lijst ‘bezocht’   # lijst bevat knopen waarvan alle buren bezocht zijn
-Initialiseer de lijst ‘onbezocht’ # lijst bevat knopen waarvan nog niet alle buren bezocht zijn    
-
-# lijst ‘onbezocht’ opvullen met knopen, kost, f-score en vorige knoop 
-# kost is afstand, tijd … naargelang het probleem
-# f-score is kost vermeerderd met schatting
-# alle knopen hebben als vorige knoop geen
-# alle knopen behalve startknoop hebben als kost en als f-score oneindig
-# startknoop heeft als kost 0, en als f-score zijn schatting
-Voor elke knoop in graaf:
-Voeg knoop toe aan lijst ‘onbezocht’ met kost en f-score oneindig, vorige knoop geen
-Stel kost van startknooppunt in de lijst ‘onbezocht’ in op 0
-Stel f-score van startknooppunt in de lijst ‘onbezocht’ in op zijn schatting (= 0 + schatting)
-
-# knopen in lijst ‘onbezocht’ een voor een onderzoeken totdat huidige knoop eindknoop is
-# telkens beginnen met knoop met kleinste f-score, noem die huidige knoop
-# alle buren beschouwen die nog niet in lijst ‘bezocht’ staan
-# voor elke buur kost en f-score berekenen en vergelijken met de kost die die al had
-# als nieuwe kost kleiner uitvalt, gegevens van buur aanpassen in lijst ‘onbezocht’
-# na onderzoek van al zijn buren die huidige knoop verplaatsen naar lijst ‘bezocht’
-Zolang lijst ‘onbezocht’ niet leeg is:
- 	Stel huidige knoop in op knoop met laagste f-score uit lijst ‘onbezocht’
- 	Voeg huidige knoop met gegevens (kost, f-score en vorige knoop) toe aan lijst ‘bezocht’
-	Als huidige knoop gelijk is aan de eindknoop:
-		Stop de while-lus
-	Anders:
-               Voor elk buurknoop van huidige knoop:
-               		Indien buurknoop niet in lijst ‘bezocht’ staat:
-               			Bereken nieuwe kost buurknoop = kost huidig knooppunt + kost boog
-                		Als deze nieuwe kost lager is dan vorige kost buurknoop:
-                    			Pas kost buurknoop aan naar nieuwe kost
-Pas f-score aan naar nieuwe kost + schatting
-                    			Pas vorige knoop van buurknoop aan naar huidige knoop
- 	Verwijder huidige knoop van lijst ‘onbezocht’
-
+Initialiseer de lijst ‘bezocht’   # lijst bevat knopen waarvan alle buren bezocht zijn<br>
+Initialiseer de lijst ‘onbezocht’ # lijst bevat knopen waarvan nog niet alle buren bezocht zijn<br><br>    
+# lijst ‘onbezocht’ opvullen met knopen, kost, f-score en vorige knoop <br>
+# kost is afstand, tijd … naargelang het probleem<br>
+# f-score is kost vermeerderd met schatting<br>
+# alle knopen hebben als vorige knoop geen<br>
+# alle knopen behalve startknoop hebben als kost en als f-score oneindig<br>
+# startknoop heeft als kost 0, en als f-score zijn schatting<br>
+Voor elke knoop in graaf:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Voeg knoop toe aan lijst ‘onbezocht’ met kost en f-score oneindig, vorige knoop geen<br>
+Stel kost van startknooppunt in de lijst ‘onbezocht’ in op 0<br>
+Stel f-score van startknooppunt in de lijst ‘onbezocht’ in op zijn schatting (= 0 + schatting)<br><br>
+# knopen in lijst ‘onbezocht’ een voor een onderzoeken totdat huidige knoop eindknoop is<br>
+# telkens beginnen met knoop met kleinste f-score, noem die huidige knoop<br>
+# alle buren beschouwen die nog niet in lijst ‘bezocht’ staan<br>
+# voor elke buur kost en f-score berekenen en vergelijken met de kost die die al had<br>
+# als nieuwe kost kleiner uitvalt, gegevens van buur aanpassen in lijst ‘onbezocht’<br>
+# na onderzoek van al zijn buren die huidige knoop verplaatsen naar lijst ‘bezocht’<br>
+Zolang lijst ‘onbezocht’ niet leeg is:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Stel huidige knoop in op knoop met laagste f-score uit lijst ‘onbezocht’<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Voeg huidige knoop met gegevens (kost, f-score en vorige knoop) toe aan lijst ‘bezocht’<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Als huidige knoop gelijk is aan de eindknoop:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stop de while-lus<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Anders:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voor elk buurknoop van huidige knoop:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indien buurknoop niet in lijst ‘bezocht’ staat:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bereken nieuwe kost buurknoop = kost huidig knooppunt + kost boog<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Als deze nieuwe kost lager is dan vorige kost buurknoop:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas kost buurknoop aan naar nieuwe kost<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas f-score aan naar nieuwe kost + schatting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Pas vorige knoop van buurknoop aan naar huidige knoop<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Verwijder huidige knoop van lijst ‘onbezocht’<br><br>
 Geef lijst ‘bezocht’ terug
-
 </div>
 
 #### Leerdoelen
