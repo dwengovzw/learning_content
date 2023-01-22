@@ -35,14 +35,13 @@ Je wil dat een computer vingerafdrukken met elkaar vergelijkt. Hoe doe je dat?
 </context>
 <decomposition>
 Subtaken (**decompositie**):
-1. In welk formaat zullen de vingerafdrukken aan de 
-     computer worden gegeven? 
+1. In welk formaat zullen de vingerafdrukken aan de computer worden gegeven? 
     - Digitale foto’s
 	- Niet te groot omwille van opslagruimte en moet verzonden kunnen worden.
 2. Karakterisatie: bepaal kenmerken (en eventueel aantal) die volstaan om de vingerafdruk te onderscheiden van andere vingerafdrukken, o.a. de herkenningspunten.  
 3. De foto’s moeten voorverwerkt worden (ruis verwijderen, zwart-wit maken, de lijnen versmallen tot 1 pixel breed). 
 4. De gekozen kenmerken opsporen en aanduiden op de foto’s. Hoe kan dit met een algoritme gebeuren?
-5. De voorstelling abstraheren tot een graaf met de herkenningspunten als knopen, met elkaar verbonden als ze op eenzelfde lijn liggen, het type van herkenningspunt weergeven door een kleur, de afstand tussen deze punten als gewicht van de bogen gebruiken. 
+5. De voorstelling abstraheren tot een graaf met de herkenningspunten als knopen, met elkaar verbonden als ze op eenzelfde lijn liggen, het type van herkenningspunt weergeven door een kleur, de afstand tussen deze punten als gewicht van de bogen gebruiken. Er is dus een nieuw type graaf nodig: een gekleurde, gewogen graaf.
 6. Twee soorten problemen: identificatie en authenticatie
 </decomposition>
 <patternRecognition>
