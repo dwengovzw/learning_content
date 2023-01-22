@@ -2,8 +2,8 @@
 hruid: kiks_ethiek3
 version: 3
 language: nl
-title: "Ethiek"
-description: "Ethiek"
+title: "Energie"
+description: "Energie"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,4 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Ethiek
+# Energie
+
+Het trainen van een diep neuraal netwerk vergt heel wat energie. Het loont de moeite daar even bij stil te staan. 
