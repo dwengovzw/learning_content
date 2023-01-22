@@ -96,34 +96,33 @@ Situatie bekijken in Google Maps:
 
 ### Algoritme van Dijkstra
 
-Initialiseer de lijst ‘bezocht’   # lijst bevat knopen waarvan alle buren bezocht zijn
-Initialiseer de lijst ‘onbezocht’ # lijst bevat knopen waarvan nog niet alle buren bezocht zijn    
-
-# lijst ‘onbezocht’ opvullen (kost is afstand, tijd … naargelang het probleem)
-# alle knopen hebben als vorige knoop geen
-# alle knopen behalve startknoop hebben als kost oneindig, startknoop heeft als kost 0
-Voor elke knoop in graaf:
-Voeg knoop toe aan lijst ‘onbezocht’ met kost oneindig en vorige knoop geen
-Stel kost van startknooppunt in de lijst ‘onbezocht’ in op 0
-
-# knopen in lijst ‘onbezocht’ een voor een onderzoeken tot die lijst leeg is
-# telkens beginnen met knoop met kleinste kost, noem die huidige knoop
-# alle buren beschouwen die nog niet in lijst ‘bezocht’ staan
-# voor elke buur kost berekenen en vergelijken met de kost die die al had
-# als nieuwe kost kleiner uitvalt, gegevens van buur aanpassen in lijst ‘onbezocht’
-# na onderzoek van al zijn buren die huidige knoop verplaatsen naar lijst ‘bezocht’
-Zolang lijst ‘onbezocht’ niet leeg is: 
- 	Stel huidige knoop in op knoop met laagste kost uit lijst ‘onbezocht’
- 	Voeg huidige knoop met zijn gegevens (kost en vorige knoop) toe aan lijst ‘bezocht’
-               Voor elk buurknoop van huidige knoop:
-               		Indien buurknoop niet in lijst ‘bezocht’ staat:
-               			Bereken nieuwe kost buurknoop = kost huidig knooppunt + kost boog
-                			Als deze nieuwe kost lager is dan vorige kost buurknoop:
-                    			Pas kost buurknoop aan naar nieuwe kost
-                    			Pas vorige knoop van buurknoop aan naar huidige knoop
- 	Verwijder huidige knoop van lijst ‘onbezocht’
-
+<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
+Initialiseer de lijst ‘bezocht’   # lijst bevat knopen waarvan alle buren bezocht zijn<br>
+Initialiseer de lijst ‘onbezocht’ # lijst bevat knopen waarvan nog niet alle buren bezocht zijn<br><br>
+# lijst ‘onbezocht’ opvullen (kost is afstand, tijd … naargelang het probleem)<br>
+# alle knopen hebben als vorige knoop geen<br>
+# alle knopen behalve startknoop hebben als kost oneindig, startknoop heeft als kost 0<br>
+Voor elke knoop in graaf:<br>
+Voeg knoop toe aan lijst ‘onbezocht’ met kost oneindig en vorige knoop geen<br>
+Stel kost van startknooppunt in de lijst ‘onbezocht’ in op 0<br><br>
+# knopen in lijst ‘onbezocht’ een voor een onderzoeken tot die lijst leeg is<br>
+# telkens beginnen met knoop met kleinste kost, noem die huidige knoop<br>
+# alle buren beschouwen die nog niet in lijst ‘bezocht’ staan<br>
+# voor elke buur kost berekenen en vergelijken met de kost die die al had<br>
+# als nieuwe kost kleiner uitvalt, gegevens van buur aanpassen in lijst ‘onbezocht’<br>
+# na onderzoek van al zijn buren die huidige knoop verplaatsen naar lijst ‘bezocht’<br>
+Zolang lijst ‘onbezocht’ niet leeg is: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Stel huidige knoop in op knoop met laagste kost uit lijst ‘onbezocht’<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Voeg huidige knoop met zijn gegevens (kost en vorige knoop) toe aan lijst ‘bezocht’<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Voor elk buurknoop van huidige knoop:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indien buurknoop niet in lijst ‘bezocht’ staat:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bereken nieuwe kost buurknoop = kost huidig knooppunt + kost boog<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Als deze nieuwe kost lager is dan vorige kost buurknoop:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas kost buurknoop aan naar nieuwe kost<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas vorige knoop van buurknoop aan naar huidige knoop<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Verwijder huidige knoop van lijst ‘onbezocht’<br><br>
 Geef lijst ‘bezocht’ terug
+</div>
 
 #### Voor programma, zie notebook ‘Dijkstra’.
 
@@ -188,6 +187,7 @@ Als schattingsfunctie (f-score) gebruik je de afstand in vogelvlucht (komt voor 
 
 
 ### A* algoritme
+<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 Initialiseer de lijst ‘bezocht’   # lijst bevat knopen waarvan alle buren bezocht zijn
 Initialiseer de lijst ‘onbezocht’ # lijst bevat knopen waarvan nog niet alle buren bezocht zijn    
 
@@ -225,6 +225,7 @@ Pas f-score aan naar nieuwe kost + schatting
 
 Geef lijst ‘bezocht’ terug
 
+</div>
 
 #### Leerdoelen
 - Basisconcepten van grafen toepassen om een route voor te stellen.
