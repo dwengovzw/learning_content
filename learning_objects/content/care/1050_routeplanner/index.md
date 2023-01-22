@@ -35,9 +35,15 @@ teacher_exclusive: true
 **Voorkennis:** De leerlingen weten wat een graaf, knopen en bogen zijn. Hier komt een nieuw type van grafen op de proppen, nl. de gewogen graaf. 
 
 ### Opdracht voor de leerlingen
- 
+Je kent de afstanden in kilometer tussen bepaalde gemeenten, zowel langs grote wegen als in vogelvlucht. De gemeenten zijn Gent, Lokeren, Sint-Niklaas, Dendermonde, Antwerpen, Eeklo, Willebroek en Mechelen.<br>
+Bepaal de kortste weg tussen Gent en Mechelne via deze wegen. Hoe kan een computer daarbij helpen?
+
+![image](https://user-images.githubusercontent.com/48352335/213933739-10534f75-588b-4817-8463-025524b85009.png)
+![image](https://user-images.githubusercontent.com/48352335/213933743-2a57ac0f-b76b-4440-96e4-173f275a649b.png)
+
+
 ### Klassikale brainstorm  - Probleem: Kortste weg van Gent naar Mechelen via grote wegen 
-Mogelijke ideeën (→ computationeel denken – decompositie ):
+Mogelijke ideeën tijdens de brainstorm (→ computationeel denken – decompositie):
 -	Hoe vind je de kortste weg? 
 o	Op een kaart kijken wat de ligging is van de steden. Dat kan helpen bij het bepalen van de kortste route.
 o	Mogelijke routes een voor een afgaan → hiervoor is een visuele voorstelling nodig 
@@ -49,55 +55,43 @@ o	Afstanden aanduiden op de schets (→ gewogen graaf )
 o	Dat bestaat al → routeplanner, bv. Google Maps
 o	Hoe werkt zo’n routeplanner eigenlijk?    
 o	Hoe programmeren dat een computer de afstanden van de mogelijke routes berekent? 
-	Computer heeft afstanden nodig tussen de verschillende gemeenten
-	Je kan maar in een gemeente geraken als je komt van een gemeente die ermee in verbinding staat
-	De wegen zijn in twee richtingen, dus er is ‘symmetrie met gelijke afstand’ (dat is duidelijk door de symmetrie in de gegeven tabel)
-	Opmerking: alle mogelijke routes afgaan is eigenlijk tijdverlies, sommige gemeenten komen door hun ligging niet in aanmerking.
+		- Computer heeft afstanden nodig tussen de verschillende gemeenten
+		- Je kan maar in een gemeente geraken als je komt van een gemeente die ermee in verbinding staat
+		- De wegen zijn in twee richtingen, dus er is ‘symmetrie met gelijke afstand’ (dat is duidelijk door de symmetrie in de gegeven tabel)
+		- Opmerking: alle mogelijke routes afgaan is eigenlijk tijdverlies, sommige gemeenten komen door hun ligging niet in aanmerking.
 
 ### Voor de leerkracht
+Samenvatting van de brainstorm in een schema:
+
+![image](https://user-images.githubusercontent.com/48352335/213933875-ae28abd8-eacd-4e3b-b5c0-a629119469a2.png)
+
+Situatie bekijken in Google Maps:
+![image](https://user-images.githubusercontent.com/48352335/213933904-236a21e1-9be4-4028-b475-b7ec9fec1b33.png)
+<center>Bron: Google Maps</center>  
  
+### Hoe gaat dit in zijn werk?
+![image](https://user-images.githubusercontent.com/48352335/213933739-10534f75-588b-4817-8463-025524b85009.png)	
 
-Google Maps  
- 
+#### Gewogen graaf:  
+  ![image](https://user-images.githubusercontent.com/48352335/213934005-2721797d-40e0-41e5-839e-2674c4256c64.png)
+<center>(Afbeelding moet nog aangevuld worden met enkele afstanden en boog van A naar W)</center>
 
+- Leerlingen proberen zelf (manueel) de kortste weg te vinden.
+- Welke strategie hebben de leerlingen toegepast?
+- Al gauw wat werk
+- Computer inzetten is zinvol!
+	- Het zou handig zijn dat de computer alle mogelijkheden afgaat.
 
+#### Controle Google Maps
+![image](https://user-images.githubusercontent.com/48352335/213934118-1120ed5a-8dfd-4c2b-8b5d-2e67a6475172.png)
 
-Hoe gaat dit in zijn werk?
-Afstanden (in km) tussen gemeenten langs grote wegen:
-	Gent	Lokeren	Sint-Niklaas	Willebroek	Dender-monde	Antwerpen	Mechelen	Eeklo
-Gent		25						23
-Lokeren	25		11		11			
-Sint-Niklaas		11		18	12	22		49
-Willebroek			18		17	16	14	
-Dender-monde		11	12	17				
-Antwerpen			22	16			23	62
-Mechelen				14		23		
-Eeklo	23		49			62		
-
-
-
-
-
-
-### Gewogen graaf:  
-  
-	Leerlingen proberen zelf (manueel) de kortste weg te vinden.
-	Welke strategie hebben de leerlingen toegepast?
-	Al gauw wat werk
-	Computer inzetten is zinvol!
-Het zou handig zijn dat de computer alle mogelijkheden afgaat.
-
-Controle Google Maps
- 
-
- 
- 
+![image](https://user-images.githubusercontent.com/48352335/213934134-7d235d6a-c110-4fe2-a540-ef187417e885.png)
 
 ### Nadien: algoritme 
-	Hebben de leerlingen een algoritme bedacht?
-	Algoritme van Dijkstra
-	Eventueel implementeren in de computer met Python
-o	Python notebook
+- Hebben de leerlingen een algoritme bedacht?
+- Algoritme van Dijkstra
+- Eventueel implementeren in de computer met Python
+- Python notebook
 
 
 ### Algoritme van Dijkstra
@@ -131,86 +125,65 @@ Zolang lijst ‘onbezocht’ niet leeg is:
 
 Geef lijst ‘bezocht’ terug
 
-Voor programma, zie notebook ‘Dijkstra’.
-Toepassen van het algoritme:
-  
+#### Voor programma, zie notebook ‘Dijkstra’.
 
-
-
-
-
-
-
-
-
-
+#### Toepassen van het algoritme:
+![image](https://user-images.githubusercontent.com/48352335/213934175-be5b3e22-4fc8-49ca-83ad-c73cc8f94298.png)
 
 
 ### Oefenen met het algoritme
-Oefening 1
-https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all 
-Vind de kortste weg van A naar E.
+#### Oefening 1
+Bron: https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all 
+
+*Vind de kortste weg van A naar E.*
+
+![image](https://user-images.githubusercontent.com/48352335/213934203-9e5f3b11-c9fa-4745-9935-c115d214e584.png)
  
-Oefening 2
-https://www.bebras.org/sites/default/files/2015%20Bebras%20Solution%20Guide.pdf
+#### Oefening 2
+Bron: https://www.bebras.org/sites/default/files/2015%20Bebras%20Solution%20Guide.pdf
+
 Bebras 2015 – Reizen 
+
 Bever Martina gaat elke dag naar het werk met de trein. Er is geen directe lijn, dus ze moet overstappen. De kaart toont de lijnen die ze kan nemen met vermelding van de reistijd. Martines huis staat aangegeven met de letter ‘H’, de plaats waar ze werkt met een ‘W’, en de stations met een ‘S’.
-Welke weg komt overeen met de kortste reistijd?
+
+*Welke weg komt overeen met de kortste reistijd?*
+
+![image](https://user-images.githubusercontent.com/48352335/213934241-97b3a82e-8fe4-4407-a09f-0caa52c83b4a.png)
  
-Oefening 3 
-https://www.curriculumonline.ie/getmedia/da0c349c-d205-47ff-9b43-6c820a62807c/uk-bebras-2016-answers.pdf
+#### Oefening 3 
+Bron: https://www.curriculumonline.ie/getmedia/da0c349c-d205-47ff-9b43-6c820a62807c/uk-bebras-2016-answers.pdf <br>
 Copyright 2016 UK Bebras – Licence: CC-BY-NC-SA 3.0
+
 Bebras 2016 – Fietspaden 
+
 Cleveria is een fietser. Ze verkent de eenrichtingsfietspaden die door de dorpen n haar buurt lopen. Elk dorp heeft een dorpssteen met daarop een letter. Al de dietspaden hebben een fietsrichting en een afstand. De fietsrichting en de afstand zijn aangeduid d.m.v. de gele vlaggen.
  
+![image](https://user-images.githubusercontent.com/48352335/213934298-cd8a75f8-ef27-4d77-a20c-140770bf3856.png)
+
 Cleveria laat op haar verkenningstochten blauwe briefjes achter onder de dorpsstenen, met daarop een getal. Dat getal is de kortste afstand van de betreffende dorpssteen tot het dorp A. 
-Welk getal komt onder dorpssteen E?
 
+*Welk getal komt onder dorpssteen E?*
 
+#### Oefening 4
+Bron: https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all 
 
-
-
-
-
-
-
-
-Oefening 4
-https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all 
-Vind de kortste weg van S naar G.
+*Vind de kortste weg van S naar G.*
  
+![image](https://user-images.githubusercontent.com/48352335/213934333-5e062113-f283-490c-bd56-6d4fee4bdee2.png)
 
 
+### Terug naar het routeprobleem - kritisch denken
+- Optimalisatie? Opmerking: alle mogelijke routes afgaan is eigenlijk tijdverlies, sommige gemeenten komen door hun ligging niet in aanmerking.
 
-
-
-
-
-
-
-
-
-
-### Terug naar het routeprobleem
-	Optimalisatie? Opmerking: alle mogelijke routes afgaan is eigenlijk tijdverlies, sommige gemeenten komen door hun ligging niet in aanmerking.
-
-Afstanden in vogelvlucht (in km) tussen gemeenten en eindbestemming:
-	Gent	Lokeren	Sint-Niklaas	Willebroek	Dender-monde	Antwerpen	Mechelen	Eeklo
-Mechelen	54	33	25	11	25	20		66
+![image](https://user-images.githubusercontent.com/48352335/213933743-2a57ac0f-b76b-4440-96e4-173f275a649b.png)
 
 Tot te passen techniek zie: https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all
+
 Als schattingsfunctie (f-score) gebruik je de afstand in vogelvlucht (komt voor deze toepassing overeen met de Euclidische afstand).
   
-  
+  ![image](https://user-images.githubusercontent.com/48352335/213934379-44c0f84f-dce4-487f-8583-70744387c894.png)
 
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/48352335/213934386-9fe136a5-ff13-46b2-9ec0-42a8161da0de.png)
 
 
 
@@ -254,18 +227,16 @@ Geef lijst ‘bezocht’ terug
 
 
 #### Leerdoelen
-- Basisconcepten van grafen toepassen bij het analyseren van vingerafdrukken.
-- Leerlingen ontwikkelen een algoritme om vingerafdrukken met elkaar te matchen (gegeven vingerafdruk identificeren a.d.h.v een vingerafdruk dataset).
-- Ontdekkend en onderzoekend leren, kritisch en logisch denken.
+- Basisconcepten van grafen toepassen om een route voor te stellen.
+- Leerlingen ontwikkelen een algoritme om de kortste weg tussen twee steden te vinden.
+- Leerlingen maken kennis met het algoritme van Dijkstra dat daarvoor geschikt is.
 - Het nut van wiskunde illustreren.
 
 Na dit onderdeel kunnen de leerlingen …
 - basisconcepten van grafen binnen deze context gebruiken
-- vingerafdrukken karakteriseren
-- vingerafdrukken abstraheren naar een graaf
- -vingerafdrukken analyseren a.d.h.v. grafen
-- een algoritme ontwikkelen dat een vingerafdruk laat overeenkomen met een graaf 
-- een algoritme ontwikkelen om een gegeven vingerafdruk te matchen met een vingerafdruk uit een dataset
+- de kortste route vinden
+- het algoritme van Dijkstra toepassen
+- eventueel het algoritme van Dijkstra programmeren 
 - hun kritisch en logisch denken verbeterd hebben
 
 #### Eindtermen
