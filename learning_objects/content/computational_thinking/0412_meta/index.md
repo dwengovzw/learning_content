@@ -71,5 +71,7 @@ Als de letter waar Bauby aan dacht, werd uitgesproken, dan knipperde hij met zij
 Bij het zoeken naar een oplossing voor een probleem en bij de implementatie ervan gaat men best uit van het principe 'de mens komt eerst'! Hebben we wel met de juiste aspecten van het probleem rekening gehouden? <br>
 Wat als knipperen een grote inspanning was voor Bauby? Zijn oplossing hield in dat hij slechts één keer per letter knipperde. Ons verdeel-en-heersalgoritme vereist dat hij 5 keer knippert. Zijn oplossing is gemakkelijk te begrijpen voor iedereen, de onze is complexer. Wie zal het uitleggen aan bezoekers? <br>
 Kan automatiseren niet meer kwaad dan goed doen? Er zouden dan geen helpers meer zijn die zorgen voor menselijke warmte. 
+	
+	Bij dit voorbeeld moet niet geprogrammeerd worden.
 </implementation>
 
