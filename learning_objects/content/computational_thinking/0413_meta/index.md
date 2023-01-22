@@ -2,7 +2,7 @@
 hruid: m_ct_cases13
 version: 3
 language: nl
-title: "Werkimg rputeplanner"
+title: "Werking rputeplanner"
 description: "Werking routeplanner"
 keywords: [""]
 educational_goals: [
@@ -36,6 +36,7 @@ Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vog
 <decomposition>
 **Decompositie:**<br>
 - Welke wegen zijn er mogelijk? Om dit te zien kan je best op een grafische voorstelling kijken, hier kiezen we voor een graaf.
+    - Er is een nieuw type graaf nodig: een gewogen graaf.
 - Uit welke delen zijn die opgebouwd? M.a.w. welke gemeenten passeer je?
 - Totale afstand is de som van de afstanden tussen de gekozen gemeenten.
 - Computer kan de afstanden van alle mogelijke wegen berekenen en de kortste eruit halen. 
@@ -46,7 +47,8 @@ Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vog
     - Er is hier wel een bijkomende complexiteit, nl. de lengte van de wegen, die moet ook voorgesteld worden.  
 </patternRecognition>
 <abstraction>
-Tekst
+Je gebruikt een graaf als **abstracte weergave** van de mogelijke wegen tussen de gemeenten.<br>
+De gegeven tabel dient worden omgevormd naar een gewogen graaf: de gemeenten zijn de knopen en de wegen ertussen de bogen, elke boog krijgt de grootte van de afstand als gewicht.
 </abstraction>
 <algorithms>
     - **Algoritme van Dijkstra** 
