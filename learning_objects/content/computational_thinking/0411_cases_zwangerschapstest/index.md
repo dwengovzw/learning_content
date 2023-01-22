@@ -30,8 +30,10 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Zwangerschapstest
-Tekst
+**Doelgroep:**: derde graad, finaliteit arbeidsmarkt
+
+**Voorkennis:** De leerlingen kennen begrippen als input en output en maakten reeds kennis met keuzestructuren (ALS-DAN-constructies).
 
 ![ct-schema](@learning-object/m_ct_cases11/nl/3)
 
-Tekst
+**Klasgesprek:** Bij dit voorbeeld hoort ook een vorm van reflectie. Is het digitaliseren van een zwangerschapstest wel zinvol? Wat zijn de voor- en nadelen?
