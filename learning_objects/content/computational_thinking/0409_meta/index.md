@@ -35,7 +35,7 @@ Volgende week staat er een uitstap naar Brussel op het programma met de trein. 
 
 </context>
 <decomposition>
-Het probleem bestaat uit deelproblemen (*decompositie**):<br>    
+Het probleem bestaat uit deelproblemen (**decompositie**):<br>    
 - Wat is het dichtstbijzijnde station?
     - Zijn daar rechtstreekse treinen naar Brussel of zullen we moeten overstappen?
     - Hoe geraken we in dat station? Te voet, met de fiets, met de bus?
