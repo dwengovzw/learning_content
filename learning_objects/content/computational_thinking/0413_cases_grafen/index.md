@@ -50,7 +50,7 @@ Dit voorbeeld is een inleiding op het algoritme van Dijkstra en hoe dit praktisc
 ### Het matchen van vingerafdrukken
 
 
-![ct-schema](@learning-object/m_ct_cases13/nl/3)
+![ct-schema](@learning-object/m_ct_cases13b/nl/3)
 
 
 
