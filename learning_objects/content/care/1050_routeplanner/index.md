@@ -111,7 +111,7 @@ Stel kost van startknooppunt in de lijst ‘onbezocht’ in op 0<br><br>
 # voor elke buur kost berekenen en vergelijken met de kost die die al had<br>
 # als nieuwe kost kleiner uitvalt, gegevens van buur aanpassen in lijst ‘onbezocht’<br>
 # na onderzoek van al zijn buren die huidige knoop verplaatsen naar lijst ‘bezocht’<br>
-Zolang lijst ‘onbezocht’ niet leeg is: <br>
+Zolang lijst ‘onbezocht’ niet leeg is:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Stel huidige knoop in op knoop met laagste kost uit lijst ‘onbezocht’<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Voeg huidige knoop met zijn gegevens (kost en vorige knoop) toe aan lijst ‘bezocht’<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voor elk buurknoop van huidige knoop:<br>
@@ -122,6 +122,7 @@ Zolang lijst ‘onbezocht’ niet leeg is: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas vorige knoop van buurknoop aan naar huidige knoop<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Verwijder huidige knoop van lijst ‘onbezocht’<br><br>
 Geef lijst ‘bezocht’ terug
+</p>
 </div>
 
 #### Voor programma, zie notebook ‘Dijkstra’.
@@ -221,6 +222,7 @@ Zolang lijst ‘onbezocht’ niet leeg is:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas vorige knoop van buurknoop aan naar huidige knoop<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Verwijder huidige knoop van lijst ‘onbezocht’<br><br>
 Geef lijst ‘bezocht’ terug
+</p>
 </div>
 
 #### Leerdoelen
