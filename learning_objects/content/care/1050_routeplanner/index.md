@@ -43,18 +43,18 @@ Bepaal de kortste weg tussen Gent en Mechelne via deze wegen. Hoe kan een comput
 
 
 ### Klassikale brainstorm  - Probleem: Kortste weg van Gent naar Mechelen via grote wegen 
-Mogelijke ideeën tijdens de brainstorm (→ computationeel denken – decompositie):
--	Hoe vind je de kortste weg? 
-o	Op een kaart kijken wat de ligging is van de steden. Dat kan helpen bij het bepalen van de kortste route.
-o	Mogelijke routes een voor een afgaan → hiervoor is een visuele voorstelling nodig 
-o	Van elke mogelijke route de afstand berekenen
-o	De kortste weg komt overeen met de kleinste afstand
--	Schets maken van de steden en wegen (→ patroonherkenning /abstractie netwerk → graaf)
-o	Afstanden aanduiden op de schets (→ gewogen graaf )  
--	Hoe kan een computer helpen? 
-o	Dat bestaat al → routeplanner, bv. Google Maps
-o	Hoe werkt zo’n routeplanner eigenlijk?    
-o	Hoe programmeren dat een computer de afstanden van de mogelijke routes berekent? 
+Mogelijke ideeën tijdens de brainstorm (→ computationeel denken – decompositie):<br>
+- Hoe vind je de kortste weg? 
+	- Op een kaart kijken wat de ligging is van de steden. Dat kan helpen bij het bepalen van de kortste route.
+	- Mogelijke routes een voor een afgaan → hiervoor is een visuele voorstelling nodig 
+	- Van elke mogelijke route de afstand berekenen
+	- De kortste weg komt overeen met de kleinste afstand
+- Schets maken van de steden en wegen (→ patroonherkenning /abstractie netwerk → graaf)
+	- Afstanden aanduiden op de schets (→ gewogen graaf )  
+- Hoe kan een computer helpen? 
+	- Dat bestaat al → routeplanner, bv. Google Maps
+	- Hoe werkt zo’n routeplanner eigenlijk?    
+	- Hoe programmeren dat een computer de afstanden van de mogelijke routes berekent? 
 		- Computer heeft afstanden nodig tussen de verschillende gemeenten
 		- Je kan maar in een gemeente geraken als je komt van een gemeente die ermee in verbinding staat
 		- De wegen zijn in twee richtingen, dus er is ‘symmetrie met gelijke afstand’ (dat is duidelijk door de symmetrie in de gegeven tabel)
@@ -103,7 +103,7 @@ Initialiseer de lijst ‘onbezocht’ # lijst bevat knopen waarvan nog niet alle
 # alle knopen hebben als vorige knoop geen<br>
 # alle knopen behalve startknoop hebben als kost oneindig, startknoop heeft als kost 0<br>
 Voor elke knoop in graaf:<br>
-Voeg knoop toe aan lijst ‘onbezocht’ met kost oneindig en vorige knoop geen<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Voeg knoop toe aan lijst ‘onbezocht’ met kost oneindig en vorige knoop geen<br>
 Stel kost van startknooppunt in de lijst ‘onbezocht’ in op 0<br><br>
 # knopen in lijst ‘onbezocht’ een voor een onderzoeken tot die lijst leeg is<br>
 # telkens beginnen met knoop met kleinste kost, noem die huidige knoop<br>
@@ -114,12 +114,12 @@ Stel kost van startknooppunt in de lijst ‘onbezocht’ in op 0<br><br>
 Zolang lijst ‘onbezocht’ niet leeg is: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Stel huidige knoop in op knoop met laagste kost uit lijst ‘onbezocht’<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Voeg huidige knoop met zijn gegevens (kost en vorige knoop) toe aan lijst ‘bezocht’<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Voor elk buurknoop van huidige knoop:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indien buurknoop niet in lijst ‘bezocht’ staat:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bereken nieuwe kost buurknoop = kost huidig knooppunt + kost boog<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Als deze nieuwe kost lager is dan vorige kost buurknoop:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas kost buurknoop aan naar nieuwe kost<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas vorige knoop van buurknoop aan naar huidige knoop<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voor elk buurknoop van huidige knoop:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indien buurknoop niet in lijst ‘bezocht’ staat:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bereken nieuwe kost buurknoop = kost huidig knooppunt + kost boog<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Als deze nieuwe kost lager is dan vorige kost buurknoop:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas kost buurknoop aan naar nieuwe kost<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas vorige knoop van buurknoop aan naar huidige knoop<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Verwijder huidige knoop van lijst ‘onbezocht’<br><br>
 Geef lijst ‘bezocht’ terug
 </div>
@@ -215,10 +215,10 @@ Zolang lijst ‘onbezocht’ niet leeg is:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voor elk buurknoop van huidige knoop:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indien buurknoop niet in lijst ‘bezocht’ staat:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bereken nieuwe kost buurknoop = kost huidig knooppunt + kost boog<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Als deze nieuwe kost lager is dan vorige kost buurknoop:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas kost buurknoop aan naar nieuwe kost<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas f-score aan naar nieuwe kost + schatting<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Pas vorige knoop van buurknoop aan naar huidige knoop<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Als deze nieuwe kost lager is dan vorige kost buurknoop:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas kost buurknoop aan naar nieuwe kost<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas f-score aan naar nieuwe kost + schatting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pas vorige knoop van buurknoop aan naar huidige knoop<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Verwijder huidige knoop van lijst ‘onbezocht’<br><br>
 Geef lijst ‘bezocht’ terug
 </div>
