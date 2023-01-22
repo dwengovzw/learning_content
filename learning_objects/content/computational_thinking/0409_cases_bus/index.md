@@ -29,9 +29,9 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Bus
-Tekst
+# Bus en trein
+**Doelgroep:** B-stroom of finaliteit arbeidsmarkt
+
+**Voorkennis:** De leerlingen hebben geleerd hoe ze een verplaatsing met de bus kunnen plannen.
 
 ![ct-schema](@learning-object/m_ct_cases9/nl/3)
-
-Tekst
