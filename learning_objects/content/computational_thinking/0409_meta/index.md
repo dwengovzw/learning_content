@@ -2,8 +2,8 @@
 hruid: m_ct_cases9
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Bus en trein"
+description: "Bus en trein"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,27 +31,33 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
-</div>
+Volgende week staat er een uitstap naar Brussel op het programma met de trein. De leerlingen moeten uitzoeken wanneer en waar ze moeten vertrekken om tijdig in Brussel aan te komen.
+
 </context>
 <decomposition>
-Tekst
+Het probleem bestaat uit deelproblemen (*decompositie**):<br>    
+- Wat is het dichtstbijzijnde station?
+    - Zijn daar rechtstreekse treinen naar Brussel of zullen we moeten overstappen?
+    - Hoe geraken we in dat station? Te voet, met de fiets, met de bus?
+- Waar moeten we zijn in Brussel? In welk station moeten we uitstappen?
+- Op welk uur rijdt er een trein naar daar? 
+    - Waar kunnen we de uren van de trein raadplegen? Bv. via de app van de NMBS. 
+    - Om hoe laat moeten we dan naar het station vertrekken?
+- Op welk perron moeten we opstappen?
+- ...
+
 </decomposition>
 <patternRecognition>
-Tekst
+Een reis met de bus of met de trein plannen gebeurt op een gelijksoortige manier. (**patroonherkenning**) <br>Voor beide kan eventueel een app gebruikt worden. Zowel de perrons als de bushaltes worden op een abstracte manier omschreven, door een naam of een perronnummer.  
 </patternRecognition>
 <abstraction>
-Tekst
+Het perron wordt **geabstraheerd** tot een getal, het perronnummer of anders gezegd het spoor.
+De reis wordt geabstraheerd tot de te volgen route: een opeenvolging van plaatsen (huis, school, stations …) 
 </abstraction>
 <algorithms>
-Tekst
+De te volgen route is herleid tot een stappenplan: een lijst van de van de opeenvolgende uren en overeenkomstige plaatsen. (**algoritme**)
 </algorithms>
 <implementation>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+Bij deze toepassing moet er niet geprogrammeerd worden. 
 </implementation>
 
