@@ -2,8 +2,8 @@
 hruid: m_ct_cases10
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Huidmondjes"
+description: "Huidmondjes"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,27 +31,33 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
-</div>
+Automatiseer het tellen van huidmondjes op microscopische foto’s (KIKS).
 </context>
 <decomposition>
-Tekst
+Subtaken (**decompositie**):<br>
+1. Hoe kijkt een computer naar foto’s?
+2. Hoe geef ik de foto’s aan de computer?
+3. Classificatie (Staat er een huidmondje op de foto of niet?)
+4. Hoe ziet de trainingsset eruit?
+5. Bias in de dataset
 </decomposition>
 <patternRecognition>
-Tekst
+Objectherkenning gebeurt al veel gedaan a.d.h.v. een AI-sytemen. Veel gebruikt zijn de diepe convolutionele neurale netwerken. (**patroonherkenning**)
+
+Bias in de dataset (**patroon**): <br>
+1. Alle huidmondjes hebben een afmeting van ongeveer 125x125 pixels
+2. De foto’s zijn grijsachtig van kleur
 </patternRecognition>
 <abstraction>
-Tekst
+Een kleurenfoto wordt aan de computer gegeven in de vorm van een driedimensionale tabel van getallen. Een digitale foto bestaat uit pixels waarbij de kleur van elke pixel wordt weergegeven door de RGB-code, niets anders dan een drie getallen. (**abstractie**)
 </abstraction>
 <algorithms>
-Tekst
+Er zijn meerdere **algoritmes** nodig. <br>
+1. Een algoritme om de aangeboden foto op te delen in vierkantjes van 125 op 125 pixels. 
+2. Een algoritme om huidmondjes te herkennen a.d.h.v. een convolutioneel neuraal netwerk.
+3. Een algoritme om de huidmondjes te tellen. 
 </algorithms>
 <implementation>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+Voor de programma’s, zie het KIKS-project (https://dwengo.org/kiks).
 </implementation>
 
