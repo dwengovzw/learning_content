@@ -31,32 +31,43 @@ teacher_exclusive: true
 ---
 
 <context>
-Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vogelvlucht: Gent, Lokeren, Sint-Niklaas, Dendermonde, Willebroek, Mechelen. Bepaal de kortste weg tussen Gent en Mechelen via deze wegen? Hoe kan een computer daarbij helpen?  
+Je wil dat een computer vingerafdrukken met elkaar vergelijkt. Hoe doe je dat?
 </context>
 <decomposition>
-**Decompositie:**<br>
-- Welke wegen zijn er mogelijk? Om dit te zien kan je best op een grafische voorstelling kijken, hier kiezen we voor een graaf.
-- Uit welke delen zijn die opgebouwd? M.a.w. welke gemeenten passeer je?
-- Totale afstand is de som van de afstanden tussen de gekozen gemeenten.
-- Computer kan de afstanden van alle mogelijke wegen berekenen en de kortste eruit halen. 
+Subtaken (**decompositie**):
+1. In welk formaat zullen de vingerafdrukken aan de 
+     computer worden gegeven? 
+    - Digitale foto’s
+	- Niet te groot omwille van opslagruimte en moet verzonden kunnen worden.
+2. Karakterisatie: bepaal kenmerken (en eventueel aantal) die volstaan om de vingerafdruk te onderscheiden van andere vingerafdrukken, o.a. de herkenningspunten.  
+3. De foto’s moeten voorverwerkt worden (ruis verwijderen, zwart-wit maken, de lijnen versmallen tot 1 pixel breed). 
+4. De gekozen kenmerken opsporen en aanduiden op de foto’s. Hoe kan dit met een algoritme gebeuren?
+5. De voorstelling abstraheren tot een graaf met de herkenningspunten als knopen, met elkaar verbonden als ze op eenzelfde lijn liggen, het type van herkenningspunt weergeven door een kleur, de afstand tussen deze punten als gewicht van de bogen gebruiken. 
+6. Twee soorten problemen: identificatie en authenticatie
 </decomposition>
 <patternRecognition>
-**Patroonherkenning:**<br>
-    - De wegen tussen de gemeenten vormen een netwerk. Een netwerk kan voorgesteld worden d.m.v. een graaf. Denk bv. aan de voorstelling met een graaf van een sociaal netwerk. 
-    - Er is hier wel een bijkomende complexiteit, nl. de lengte van de wegen, die moet ook voorgesteld worden.  
+Digitale beeldverwerking gebeurt typisch via de pixelwaarden, dus ook hier zal men de pixelwaarden gebruiken om bv. de herkenningspunten op te sporen. (**patroonherkenning**)
+
+Om het probleem van inkleuring van kaarten aan te pakken, gebruikt men een graaf, waarbij buurlanden knopen zijn die met elkaar verbonden zijn. Hier kan men de herkenningspunten als knopen nemen van een graaf, waarbij herkenningspunten op een zelfde lijn met elkaar worden verbonden. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Tekst
+De herkenningspunten samen met andere kenmerken die vastgelegd worden om de vingerafdruk te onderscheiden van andere vingerafdrukken vormen een abstracte voorstelling van de vingerafdruk. (**abstractie**)<br>    
+Men kan dit bv. samenvatten d.m.v. een abstracte visualisatie, bv. een gekleurde, gewogen graaf.
+De herkenningspunten worden bepaald door van elk punt een getal te bepalen waaruit kan worden afgeleid welk soort punt het is. Dat getal is een abstractie van het type herkenningspunt.  
 </abstraction>
 <algorithms>
-    - **Algoritme van Dijkstra** 
-    - **A* algoritme** omdat niet alle wegen in aanmerking komen, bv. de wegen langs gemeenten die uit de weg liggen zijn overbodig na te gaan.
-    
-Algoritme omschrijven in woorden (en eventueel ook programmeren).  
+    Er zijn meerdere algoritmes nodig.<br>
+Een algoritme om ...<br>
+- de ruis weg te halen
+- de foto’s zwart-wit te maken
+- de lijnen te verdunnen tot 1 pixel
+- de herkenningspunten op te sporen
+- de gekleurde, gewogen graaf op te stellen
+- een nieuwe vingerafdruk te matchen met een vingerafdruk in de dataset (voor identificatie)
+- te controleren of de vingerafdruk overeenkomt met de vingerafdruk in de dataset (bij authenticatie) 
+- eventueel het scantoestel aan te sturen waarmee de foto’s worden gemaakt (detecteren dat er een vinger op ligt)
+- de fotobestanden te comprimeren
 </algorithms>
 <implementation>
-**Programma:**<br>
-    - Python-script van algoritme van Dijkstra
-    - Python-script van A* algoritme 
-Zie hiervoor de notebooks bij het leerpad ‘Grafen’.
+Bij dit voorbeeld moet er niet geprogrammeerd worden.
 </implementation>
