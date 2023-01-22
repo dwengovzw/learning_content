@@ -30,8 +30,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Locked-in Syndroom
-Tekst
+**Voorkennis:** geen
+
+**Doelgroep:** iedereen
+
+Dit voorbeeld past in het project AI in de Zorg, maar kan ook buiten dat project worden gedaan.
 
 ![ct-schema](@learning-object/m_ct_cases12/nl/3)
 
-Tekst
