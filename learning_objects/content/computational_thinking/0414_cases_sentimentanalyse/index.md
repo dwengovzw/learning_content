@@ -30,8 +30,10 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Sentimentanalyse
-Tekst
+**Doelgroep:** Leerlingen 2de en 3de graad van een talenrichting.
+
+**Voorkennis:** De leerlingen weten dat sentimentanalyse gebeurt a.d.h.v. een lexicon.
 
 ![ct-schema](@learning-object/m_ct_cases14/nl/3)
 
-Tekst
+Voor meer uitleg, zie het project "Chatbot' over taaltechnologie. 
