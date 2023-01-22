@@ -58,6 +58,6 @@ De reis wordt geabstraheerd tot de te volgen route: een opeenvolging van plaatse
 De te volgen route is herleid tot een stappenplan: een lijst van de van de opeenvolgende uren en overeenkomstige plaatsen. (**algoritme**)
 </algorithms>
 <implementation>
-Bij deze toepassing moet er niet geprogrammeerd worden. 
+Bij dit voorbeeld moet er niet geprogrammeerd worden. 
 </implementation>
 
