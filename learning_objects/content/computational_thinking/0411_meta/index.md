@@ -2,8 +2,8 @@
 hruid: m_ct_cases11
 version: 3
 language: nl
-title: "Cases"
-description: "Cases"
+title: "Zwangerschapstest"
+description: "Zwangerschapstest"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,27 +31,37 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Tekst
-</div>
+Een zwangerschapstest kan je gemakkelijk zelf thuis uitvoeren. Je vindt deze in niet-digitale en digitale vorm. De digitale versie bevat een microcontroller en een display. Ontrafel de werking van een digitale zwangerschapstest. Vergelijk dit met een niet-digitale zwangerschapstest.  
 </context>
 <decomposition>
-Tekst
+**Decompositie:**<br>
+1. Wat is de invoer en wat is de uitvoer bij het uitvoeren van de test.
+2. Wat is de rol van de computer hierin?
+3. Hoe verschilt dit van een niet-digitale zwangerschapstest?
 </decomposition>
 <patternRecognition>
-Tekst
+Het gebruik van een niet-digitale en een digitale zwangerschapstest verloopt op quasi dezelfde manier. (**patroonherkenning**)<br> 
+- Bij beide is de invoer een urinestaal.
+- Bij beide is de uitvoer een boodschap.
+- Bij beide reageert het urinestaal al dan niet op een bepaalde stof die aanwezig is in het meettoestel.   
 </patternRecognition>
 <abstraction>
-Tekst
+Het al dan niet zwanger zijn wordt bij een zwangerschapstest weergegeven door een **symbool**: een of twee streepjes, een plus- of een minteken, … (**abstractie**)
 </abstraction>
 <algorithms>
-Tekst
+**Algoritme:**<br>
+ALS de urine reageert met de stof <br>
+   DAN zwanger<br>
+   ANDERS niet zwanger<br>
+ALS zwanger<br>
+    DAN toon boodschap + op het scherm <br>
+    ANDERS toon boodschap - op het scherm<br>
+ALS de test niet goed uitgevoerd is<br>
+    DAN geef een foutboodschap op het scherm
+    
+Het uitvoeren van de test zelf verloopt ook volgens een stappenplan. 
 </algorithms>
 <implementation>
-Tekst
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-tekst
-</p></div>
+Dit is een activiteit waarbij niet geprogrammeerd moet worden.
 </implementation>
 
