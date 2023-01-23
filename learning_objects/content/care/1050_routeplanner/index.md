@@ -35,8 +35,8 @@ teacher_exclusive: true
 **Voorkennis:** De leerlingen weten wat een graaf, knopen en bogen zijn. Hier komt een nieuw type van grafen op de proppen, nl. de gewogen graaf. 
 
 ### Opdracht voor de leerlingen
-Je kent de afstanden in kilometer tussen bepaalde gemeenten, zowel langs grote wegen als in vogelvlucht. De gemeenten zijn Gent, Lokeren, Sint-Niklaas, Dendermonde, Antwerpen, Eeklo, Willebroek en Mechelen.<br>
-Bepaal de kortste weg tussen Gent en Mechelne via deze wegen. Hoe kan een computer daarbij helpen?
+*Je kent de afstanden in kilometer tussen bepaalde gemeenten, zowel langs grote wegen als in vogelvlucht. De gemeenten zijn Gent, Lokeren, Sint-Niklaas, Dendermonde, Antwerpen, Eeklo, Willebroek en Mechelen.<br>
+Bepaal de kortste weg tussen Gent en Mechelen via deze wegen. Hoe kan een computer daarbij helpen?*
 
 ![image](https://user-images.githubusercontent.com/48352335/213933739-10534f75-588b-4817-8463-025524b85009.png)
 ![image](https://user-images.githubusercontent.com/48352335/213933743-2a57ac0f-b76b-4440-96e4-173f275a649b.png)
@@ -60,26 +60,28 @@ Mogelijke ideeën tijdens de brainstorm (→ computationeel denken – decomposi
 		- De wegen zijn in twee richtingen, dus er is ‘symmetrie met gelijke afstand’ (dat is duidelijk door de symmetrie in de gegeven tabel)
 		- Opmerking: alle mogelijke routes afgaan is eigenlijk tijdverlies, sommige gemeenten komen door hun ligging niet in aanmerking.
 
-### Voor de leerkracht
-Samenvatting van de brainstorm in een schema:
+### De leerkracht vat de brainstorm samen
+Voorbeeld:
 
 ![image](https://user-images.githubusercontent.com/48352335/213933875-ae28abd8-eacd-4e3b-b5c0-a629119469a2.png)
 
 Situatie bekijken in Google Maps:
+
 ![image](https://user-images.githubusercontent.com/48352335/213933904-236a21e1-9be4-4028-b475-b7ec9fec1b33.png)
 <center>Bron: Google Maps</center>  
  
-### Hoe gaat dit in zijn werk?
+### Techniek om kortste pad te bepalen
+#### Tabel met de gegeven afstanden in km
 ![image](https://user-images.githubusercontent.com/48352335/213933739-10534f75-588b-4817-8463-025524b85009.png)	
 
-#### Gewogen graaf:  
-  ![image](https://user-images.githubusercontent.com/48352335/213934005-2721797d-40e0-41e5-839e-2674c4256c64.png)
+#### Tabel omzetten naar een gewogen graaf
+![image](https://user-images.githubusercontent.com/48352335/213934005-2721797d-40e0-41e5-839e-2674c4256c64.png)
 <center>(Afbeelding moet nog aangevuld worden met enkele afstanden en boog van A naar W)</center>
 
-- Leerlingen proberen zelf (manueel) de kortste weg te vinden.
+#### Leerlingen proberen zelf (manueel) de kortste weg te vinden
 - Welke strategie hebben de leerlingen toegepast?
 - Al gauw wat werk
-- Computer inzetten is zinvol!
+        - Computer inzetten is zinvol!
 	- Het zou handig zijn dat de computer alle mogelijkheden afgaat.
 
 #### Controle Google Maps
@@ -87,7 +89,7 @@ Situatie bekijken in Google Maps:
 
 ![image](https://user-images.githubusercontent.com/48352335/213934134-7d235d6a-c110-4fe2-a540-ef187417e885.png)
 
-### Nadien: algoritme 
+#### Nadien: algoritme 
 - Hebben de leerlingen een algoritme bedacht?
 - Algoritme van Dijkstra
 - Eventueel implementeren in de computer met Python
@@ -127,19 +129,21 @@ Geef lijst ‘bezocht’ terug
 
 #### Voor programma, zie notebook ‘Dijkstra’.
 
-#### Toepassen van het algoritme:
+#### Toepassen van het algoritme
+Aan de hand van een tabel en een boomstructuur ga je op zoek naar de kortste route.
+
 ![image](https://user-images.githubusercontent.com/48352335/213934175-be5b3e22-4fc8-49ca-83ad-c73cc8f94298.png)
 
 
-### Oefenen met het algoritme
-#### Oefening 1
+#### Oefenen met het algoritme
+**Oefening 1**
 Bron: https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all 
 
 *Vind de kortste weg van A naar E.*
 
 ![image](https://user-images.githubusercontent.com/48352335/213934203-9e5f3b11-c9fa-4745-9935-c115d214e584.png)
  
-#### Oefening 2
+**Oefening 2**
 Bron: https://www.bebras.org/sites/default/files/2015%20Bebras%20Solution%20Guide.pdf
 
 Bebras 2015 – Reizen 
@@ -150,7 +154,7 @@ Bever Martina gaat elke dag naar het werk met de trein. Er is geen directe lijn,
 
 ![image](https://user-images.githubusercontent.com/48352335/213934241-97b3a82e-8fe4-4407-a09f-0caa52c83b4a.png)
  
-#### Oefening 3 
+**Oefening 3** 
 Bron: https://www.curriculumonline.ie/getmedia/da0c349c-d205-47ff-9b43-6c820a62807c/uk-bebras-2016-answers.pdf <br>
 Copyright 2016 UK Bebras – Licence: CC-BY-NC-SA 3.0
 
@@ -164,7 +168,7 @@ Cleveria laat op haar verkenningstochten blauwe briefjes achter onder de dorpsst
 
 *Welk getal komt onder dorpssteen E?*
 
-#### Oefening 4
+**Oefening 4**
 Bron: https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all 
 
 *Vind de kortste weg van S naar G.*
@@ -177,12 +181,17 @@ Bron: https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&
 
 ![image](https://user-images.githubusercontent.com/48352335/213933743-2a57ac0f-b76b-4440-96e4-173f275a649b.png)
 
-Tot te passen techniek zie: https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all
+#### Toe te passen techniek 
+Zie: https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all
 
+Je maakt gebruik van een schattingsfunctie om een idee te hebben van welke gemeenten meer opportuun zijn om langs te rijden in vergelijking met andere, rekning houdend met de gemeente waar de reis naartoe gaat.<br>
 Als schattingsfunctie (f-score) gebruik je de afstand in vogelvlucht (komt voor deze toepassing overeen met de Euclidische afstand).
-  
-  ![image](https://user-images.githubusercontent.com/48352335/213934379-44c0f84f-dce4-487f-8583-70744387c894.png)
 
+Je vult de gewogen graaf aan met de afstand in vogelvlucht.
+  
+![image](https://user-images.githubusercontent.com/48352335/213934379-44c0f84f-dce4-487f-8583-70744387c894.png)
+
+Aan de hand van een tabel en een boomstructuur ga je op zoek naar de kortste route.
 ![image](https://user-images.githubusercontent.com/48352335/213934386-9fe136a5-ff13-46b2-9ec0-42a8161da0de.png)
 
 
