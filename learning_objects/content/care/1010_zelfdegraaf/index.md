@@ -40,7 +40,7 @@ De eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweed
 ![](@youtube/https://www.youtube.com/embed/iNUqJXuoOyw "Vergelijken van Grafen - Formeel")
 
 <div class="alert alert-box alert-info">
-    <strong>Opdracht voor de leerlingen</strong><br> 
-    Formuleer een algoritme om na te gaan of twee voorstellingen van een graaf dezelfde graaf representeren.
+    <strong>Opdracht</strong><br> 
+    Formuleer een algoritme in woorden om na te gaan of twee voorstellingen van een graaf dezelfde graaf representeren.
 </div>
 
