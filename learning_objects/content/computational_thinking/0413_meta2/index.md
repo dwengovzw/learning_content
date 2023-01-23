@@ -55,7 +55,7 @@ Men kan dit bv. samenvatten d.m.v. een abstracte visualisatie, bv. een gekleurde
 De herkenningspunten worden bepaald door van elk punt een getal te bepalen waaruit kan worden afgeleid welk soort punt het is. Dat getal is een abstractie van het type herkenningspunt.  
 </abstraction>
 <algorithms>
-    Er zijn meerdere algoritmes nodig.<br>
+Er zijn meerdere algoritmes nodig.<br>
 Een algoritme om ...<br>
 - de ruis weg te halen
 - de foto’s zwart-wit te maken
