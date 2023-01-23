@@ -96,7 +96,7 @@ Situatie bekijken in Google Maps:
 
 ### Algoritme van Dijkstra
 
-<div class="alert alert-box alert-secondary"><p style=" font-family: 'Courier New', monospace; font-size:12px; ">
+<div class="alert alert-box alert-secondary"><p style=" font-family: 'Courier New', monospace; font-size:10px; ">
 Initialiseer de lijst ‘bezocht’   # lijst bevat knopen waarvan alle buren bezocht zijn<br>
 Initialiseer de lijst ‘onbezocht’ # lijst bevat knopen waarvan nog niet alle buren bezocht zijn<br><br>
 # lijst ‘onbezocht’ opvullen (kost is afstand, tijd … naargelang het probleem)<br>
@@ -188,7 +188,7 @@ Als schattingsfunctie (f-score) gebruik je de afstand in vogelvlucht (komt voor 
 
 
 ### A* algoritme
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
+<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace; font-size:10px;">
 Initialiseer de lijst ‘bezocht’   # lijst bevat knopen waarvan alle buren bezocht zijn<br>
 Initialiseer de lijst ‘onbezocht’ # lijst bevat knopen waarvan nog niet alle buren bezocht zijn<br><br>    
 # lijst ‘onbezocht’ opvullen met knopen, kost, f-score en vorige knoop <br>
