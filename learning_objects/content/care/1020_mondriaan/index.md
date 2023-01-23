@@ -33,6 +33,7 @@ teacher_exclusive: true
 # Mondriaan
 
 Met grafen kan je bepaalde gegevens anders voorstellen. Je kan bv. de kleuren op een schilderij van Mondriaan met hun naburige kleuren weergeven d.m.v. een graaf.
+
 ![dd-2019 09 23-12](https://user-images.githubusercontent.com/48352335/214017889-150dd75e-87b2-460b-955d-897539e03834.jpg)
 
 In onderstaande presentatie zie je hoe je dat doet.
