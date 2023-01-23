@@ -38,7 +38,9 @@ Hier bekijk je enkele toepassingen van grafen: de werking van een routeplanner e
 
 **Doel:** De leerlingen zien in dat men soms sneller tot de oplossing van een probleem komt als men de gegevens abstraheert tot een graaf. Bij deze voorbeelden is er nood aan een nieuw type graaf.
 
-### De werking van een routeplanner 
+### De werking van een routeplanner
+{: .green}
+
 Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vogelvlucht: Gent, Lokeren, Sint-Niklaas, Dendermonde, Willebroek, Mechelen. Bepaal de kortste weg tussen Gent en Mechelen via deze wegen? Hoe kan een computer daarbij helpen?  
 ![image](https://user-images.githubusercontent.com/48352335/213927739-9b9c0801-bdb0-4692-af36-eafa8f172864.png)
 ![image](https://user-images.githubusercontent.com/48352335/213927749-83781385-10f4-43f4-9d28-10bfc20d3700.png)
@@ -48,7 +50,7 @@ Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vog
 Dit voorbeeld is een inleiding op het algoritme van Dijkstra en hoe dit praktisch toegepast wordt. 
 
 ### Het matchen van vingerafdrukken
-
+{: .green}
 
 ![ct-schema](@learning-object/m_ct_cases13b/nl/3)
 
