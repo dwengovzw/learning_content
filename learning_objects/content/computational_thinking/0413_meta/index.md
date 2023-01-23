@@ -43,23 +43,22 @@ Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vog
 </decomposition>
 <patternRecognition>
 **Patroonherkenning:**<br>
-    - De wegen tussen de gemeenten vormen een netwerk. Een netwerk kan voorgesteld worden d.m.v. een graaf. Denk bv. aan de voorstelling met een graaf van een sociaal netwerk. 
-    - Er is hier wel een bijkomende complexiteit, nl. de lengte van de wegen, die moet ook voorgesteld worden.  
+- De wegen tussen de gemeenten vormen een netwerk. Een netwerk kan voorgesteld worden d.m.v. een graaf. Denk bv. aan de voorstelling met een graaf van een sociaal netwerk. 
+- Er is hier wel een bijkomende complexiteit, nl. de lengte van de wegen, die moet ook voorgesteld worden.  
 </patternRecognition>
 <abstraction>
 Je gebruikt een graaf als **abstracte weergave** van de mogelijke wegen tussen de gemeenten.<br>
 De gegeven tabel dient worden omgevormd naar een gewogen graaf: de gemeenten zijn de knopen en de wegen ertussen de bogen, elke boog krijgt de grootte van de afstand als gewicht.
 </abstraction>
 <algorithms>
-    - **Algoritme van Dijkstra** 
-    - **A* algoritme** omdat niet alle wegen in aanmerking komen, bv. de wegen langs gemeenten die uit de weg liggen zijn overbodig na te gaan.
-    
+- **Algoritme van Dijkstra** 
+- **A* algoritme** omdat niet alle wegen in aanmerking komen, bv. de wegen langs gemeenten die uit de weg liggen zijn overbodig na te gaan.
 Algoritme omschrijven in woorden (en eventueel ook programmeren).  
 </algorithms>
 <implementation>
 **Programma:**<br>
-    - Python-script van algoritme van Dijkstra
-    - Python-script van A* algoritme 
+- Python-script van algoritme van Dijkstra
+- Python-script van A* algoritme 
 Zie hiervoor de notebooks bij het leerpad ‘Grafen’.
 </implementation>
 
