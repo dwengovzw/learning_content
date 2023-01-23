@@ -38,3 +38,6 @@ De eerste video beschrijft een meer intuïtieve (en speelse) werkwijze, de tweed
 ![](@youtube/https://www.youtube.com/embed/K4rP8BLhr0s "Vergelijken van Grafen - Kleuren")
 
 ![](@youtube/https://www.youtube.com/embed/iNUqJXuoOyw "Vergelijken van Grafen - Formeel")
+
+### Opdracht voor de leerlingen
+Formuleer een algoritme om na te gaan of twee voorstellingen van een graaf dezelfde graaf representeren.
