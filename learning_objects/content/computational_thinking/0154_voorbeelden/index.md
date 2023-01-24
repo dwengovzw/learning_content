@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden4
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Literatuur"
+description: "Literatuur"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+# Voorbeelden van computationeel handelen 
+
+Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen. 
+
+We geven hier een (niet exhaustief) overzicht.
