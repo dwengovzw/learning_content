@@ -32,8 +32,9 @@ teacher_exclusive: true
 
 # Evaluatiekader
 
-## Tussentitel
+Computationeel denken kan in alle reguliere lessen aan bod komen. Telkens men met een probleem geconfronteerd wordt, kan computationeel denken een houvast bieden bij het zoeken naar een oplossing. Afhankelijk van de aard van het probleem zullen bepaalde concepten en handelingen van computationeel denken al dan niet aan bod komen.  
 
-### Subtitel
+## Computationeel denken bij de aanpak van een probleem
 
-**Onderverdeling**
+![CD bij aanpak probleem](embed/schemabijevaluatie.png "CD bij aanpak probleem")
+
