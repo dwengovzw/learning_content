@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden1
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Basisconcepten CD"
+description: "Basisconcepten CD"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+# Basisconcepten computationeel denken
