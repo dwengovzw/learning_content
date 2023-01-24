@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden2
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Denken en handelen"
+description: "Denken en handelen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+# Computationeel denken en handelen
