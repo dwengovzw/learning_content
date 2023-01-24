@@ -1,5 +1,5 @@
 ---
-hruid: ct_inleidingvoorbeelden
+hruid: ct_inleiding_voorbeelden
 version: 3
 language: nl
 title: "Inleiding"
