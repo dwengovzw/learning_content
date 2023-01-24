@@ -46,6 +46,14 @@ De jonge bevers Anna, Britt, Charlotte, Demi en Emma - allemaal met een verschil
 
 ![image](https://user-images.githubusercontent.com/48352335/214371345-ee236a2e-d909-49d2-8d3b-ea52fd109d61.png)
 
+|**Patiëntnummer**|**Pijn in de borststreek**|**Man**|**Rookt**|**Voldoende lichaamsbeweging**|**Hartaanval**|
+|---------------|------------------------|-----|-------|----------------------------|------------|
+|1|ja|ja|nee|ja|ja|
+|2|ja|ja|ja|nee|ja|
+|3|nee|nee|ja|nee|ja|
+|4|nee|ja|nee|ja|nee|
+|5|ja|nee|ja|ja|ja|
+|6|nee|ja|ja|ja|nee|
 
 *In welke volgorde staan de bevers opgesteld?*
 
