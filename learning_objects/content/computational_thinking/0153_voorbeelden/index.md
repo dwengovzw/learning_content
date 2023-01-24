@@ -204,11 +204,16 @@ Bron: Bebras ...
 De GSM-maatschappij Bever Telecom wil GSM-masten plaatsen op Windeneiland.
 Het dekkingsgebied van een mast is een cirkel die errond is gecentreerd. Twee masten heten verbonden met elkaar als hun dekkingsgebieden overlappen. Twee masten kunnen met elkaar communiceren als er een rij tussenliggende masten bestaat zodat elke mast met elke volgende is verbonden.
 Door de sterke wind op het eiland gebeurt het af en toe dat een mast breekt. Als er ergens één mast niet meer functioneert, willen we toch nog dat elke twee van de overblijvende torens met elkaar kunnen blijven communiceren.
-Welke van de opstellingen hieronder moeten we hiervoor gebruiken?
+
+*Welke van de opstellingen hieronder moeten we hiervoor gebruiken?*
+
+![Stormbestendig netwerk](embed/bebrasabstractie.png "Bebras Stormbestendig netwerk oplossing")
 
 ##### Oplossing
 
 Het juiste antwoord is B. 
+
+!Stormbestendig netwerk](embed/bebrasabstractieoplossing.png "Bebras Stormbestendig netwerk oplossing")
 
 ##### Bespreking
 
