@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden2
 version: 3
 language: nl
-title: "Denken en handelen"
-description: "Denken en handelen"
+title: "Computationeel denken en handelen"
+description: "Computationeel denken en handelen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
