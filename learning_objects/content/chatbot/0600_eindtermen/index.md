@@ -2,8 +2,8 @@
 hruid: cb_eindtermen
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Inleiding"
+description: "Inleiding"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen
+# Inleiding
 
-## Titel
+De leerkracht bepaalt zelf welke leerdoelen aan bod komen in het ‘Chatbot’-project. Aan de eindtermen van [‘Digitale competentie en mediawijsheid’](https://onderwijsdoelen.be "Eindtermen digitale competentie en mediawijsheid") voor de tweede en derde graad kan zeker gewerkt worden.<br>
+De gelinkte eindtermen zijn hier opgenomen. 
