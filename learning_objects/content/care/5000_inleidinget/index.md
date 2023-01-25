@@ -32,5 +32,5 @@ teacher_exclusive: true
 # Inleiding 
 
 De leerkracht bepaalt zelf welke leerdoelen aan bod komen in het ‘AI in de Zorg’-project. Aan de eindtermen van [‘Digitale competentie en mediawijsheid’](https://onderwijsdoelen.be "Eindtermen digitale competentie en mediawijsheid") voor de tweede en derde graad kan zeker gewerkt worden.<br>
-De gelinkte eindtermen en leerplandoelen zijn hier opgenomen. De leerplandoelen zullen ook verschijnen op de webpagina van [AIopSchool](https://aiopschool.be/zorg "AI op School - Zorg").
+De gelinkte eindtermen zijn hier opgenomen. 
 
