@@ -56,14 +56,14 @@ grafiek, enz.  gebruiken om gegevens weer te geven; stel gegevens overzichtelijk
 **Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken. Taub 2014 Yevseyeva 2012**
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----|-------|----------------------------|------------|
+|---------------|------------------------|-----------|----------------------------|
 |Programmeren|videogames maken via programmeren in Scratch|||
 |Abstractie|||verschillende niveaus van abstractie bij het oplossen van een probleem uit de fysica| 
 
 **Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.**
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----|-------|----------------------------|------------|
+|---------------|------------------------|------------|----------------------------|
 |Simuleren|Sim2Real|model gebruiken; Netlogo|model gebruiken; Concord Consortium's Molecular Workbench; PhET-project; Netlogo; iLab Network|
 |Modelleren|Sim2Real|model creëren|model creëren|
 |Data genereren||microcontroller|microcontroller|
