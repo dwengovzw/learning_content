@@ -32,11 +32,26 @@ teacher_exclusive: false
 # DwenguinoBlockly
 ## Led
 
-Links onderaan op het Dwenguino-bord vind je acht leds:
+### Type
+- Uitvoer
 
-![alt](embed/leds.png "Afb. led")
+### Werking
+Links onderaan op het Dwenguino-bord vind je acht leds:
 
 Deze leds zijn *led 0*, *led 1*, ..., *led 7*, van rechts naar links. De eerste led is dus *led 0*. In computerwetenschappen is het vaak de conventie om te beginnen tellen vanaf 0. Dit heb je misschien ook al gemerkt bij het lcd-scherm.
 
 Links bovenaan is er nog een ledje: *led 13*.
 Dit laatste led heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
+
+Je kan de leds aan- of uitzetten door de hiervoor voorziene blokken.
+
+***
+
+### In het echt
+
+![]()
+
+### In de simulator
+
+![]()
+cat![]()

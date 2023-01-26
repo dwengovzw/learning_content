@@ -1,17 +1,17 @@
 ---
-hruid: conditional_m1b
+hruid: g_sound2
 version: 3
 language: nl
-title: "Meta"
-description: "Meta"
-keywords: []
+title: "Afstellen Geluidssensor"
+description: "Uitleg Geluidssensor"
+keywords: ["oefeningen", "geluidssensor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: Copyright by dwengo vzw.
-licence: CC by dwengo vzw.
-content_type: blockly
+copyright: dwengo
+licence: dwengo
+content_type: text/markdown
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -29,3 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# DwenguinoBlockly
+## Geluidssensor
+
+Afstellen

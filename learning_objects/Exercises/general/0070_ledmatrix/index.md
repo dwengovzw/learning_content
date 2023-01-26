@@ -32,7 +32,14 @@ teacher_exclusive: false
 # DwenguinoBlockly
 ## Led-matrix
 
-De led-matrix is een vierkant van 8 op 8 ledlampjes die samen een figuur kunnen vormen. In de simulator kan je instellen welke lampjes wanneer aan en uit zijn. Zo kan je ogen, hartjes, letters ... maken.
+### Type
+- Uitvoer
+- Actuator
+
+### Werking
+De led-matrix is een vierkante 8x8 matrix met 64 leds in een vaste kleur (rood). De matrix is ideaal om bepaalde patronen te laten oplichten, zoals een oog of een mond van de robot of een ander symbool. Je kan de matrices ook met elkaar verbinden (maximaal 4) als je meerdere matrices tegelijk wil gebruiken. Je kan programmeren welke leds er tegelijk moeten oplichten.
+
+***
 
 ### In het echt
 
@@ -41,3 +48,8 @@ De led-matrix is een vierkant van 8 op 8 ledlampjes die samen een figuur kunnen 
 ### In de simulator
 
 ![](embed/led_matrix.png "led-matrix simulator")
+cat ![]()
+
+<div class=alert alert-box alert-success>
+Voor meer informatie over de led-matrix kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+</div>

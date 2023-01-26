@@ -1208,7 +1208,22 @@
       ]
     },
     {
-      "learningobject_hruid": "g_ks",
+      "learningobject_hruid": "g_var",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_ks",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_var",
       "version": "3",
       "language": "nl",
       "transitions": [

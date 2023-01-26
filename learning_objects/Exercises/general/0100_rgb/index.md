@@ -32,7 +32,14 @@ teacher_exclusive: false
 # DwenguinoBlockly
 ## RGB-led
 
-De RGB-led is een led dat je van kleur kan doen veranderen. RGB slaat hier op de kleuren Rood - Groen - Blauw. Door deze kleuren te mengen, kan je de RGB-led eender welke kleur doen aannemen.
+### Type
+- Uitvoer
+- Digitale Actuator
+
+### Werking
+De rgb-led is een led waarvan je de kleur van het licht zelf kan bepalen door de intensiteit van rood, groen en blauw licht (de primaire kleuren) te programmeren. De intensiteit wordt doorgegeven als een getal tussen 0 en 255 (van lage tot hoge intensiteit). Houd er rekening mee dat niet alle kleuren even goed kunnen wordenweergegeven op de rgb-led via het rgb-kleurenmodel (bv. bruin).
+
+***
 
 ### In het echt
 
@@ -41,10 +48,9 @@ De RGB-led is een led dat je van kleur kan doen veranderen. RGB slaat hier op de
 ### In de simulator
 
 ![](embed/rgb_sim.png "RGB-led simulator")
+cat ![]()
 
-Door de getallen bij *rgb-kleur* aan te passen, kan je een kleur instellen. De getallen die je kiest, liggen steeds tussen 0 en 255.
-
-**Belangrijke combinaties**
+### Belangrijke combinaties
 
 |**Kleur**|**R (Rood)**|**G (Groen)**|**B (Blauw)**|
 |---|---|---|---|
@@ -55,3 +61,7 @@ Door de getallen bij *rgb-kleur* aan te passen, kan je een kleur instellen. De g
 |Blauw|0|0|255|
 
 > Een <strong>kleurmengsysteem</strong> is een systeem gebaseerd op het idee dat je met een bepaalde set kleuren, <strong>primaire kleuren</strong> genoemd, alle andere kleuren kunt maken.<br><br>Het <strong>subtractieve kleurmengsysteem</strong> is het meest gekende, omdat kinderen dit zelf gemakkellijk kunnen ontdekken tijdens kleuren of verven. Rood + blauw = paars, blauw + geel = groen, geel + rood = oranje, ... Dit gaat uit van de primaire kleuren <strong>cyaan</strong> <em>(hemelsblauw)</em>, <strong>magenta</strong> <em>(een soort roze)</em> en <strong>geel</strong>.<br><br>Het <strong>additieve kleurmengsysteem</strong> is minder intuïtief. Dit wordt gebruikt bij het "mengen" van verschillende kleuren <strong>licht</strong>. De primaire kleuren zijn voor dit kleurmengsysteem <strong>rood</strong>, <strong>groen</strong> en <strong>blauw</strong>.
+
+<div class=alert alert-box alert-success>
+Voor meer informatie over de rgb-led kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+</div>

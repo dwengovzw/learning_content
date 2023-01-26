@@ -32,9 +32,27 @@ teacher_exclusive: false
 # DwenguinoBlockly
 ## Lcd-scherm
 
+### Type
+- Uitvoer
+- Actuator
+
+### Werking
 Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
 Op het lcd-scherm van de Dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. 
 
 > De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier terwijl het lcd-scherm aanstaat.
 
+***
+
+### In het echt
+
 ![](embed/dwenguino_lcd.png "Afbeelding lcd")
+
+### in de simulator
+
+![]()
+categorie ![]()
+
+<div class=alert alert-box alert-success>
+Voor meer informatie over het lcd-scherm kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+</div>
