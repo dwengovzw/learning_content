@@ -30,3 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Basisconcepten computationeel denken
+
+Een uitgebreide uitleg over de basisconcepten van computationeel denken vind je in de leerpaden 'Concreet' en 'Historiek'.<br>
+Een samenvatting:
+
+![Basisconcepten](embed/basisconcepten.png "Basisconcepten CD")
