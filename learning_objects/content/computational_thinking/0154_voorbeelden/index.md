@@ -86,3 +86,20 @@ Als men modellen gebruikt om een simulatie te doen, dan is het belangrijk dat me
 Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
 
 Leerlingen leren dat alles als een systeem kan bekeken worden.
+
+**Lowe & Brophy (2017)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|------------|----------------------------|
+|Algoritme|doolhof doorlopen|||
+
+**Grover & Pea (2017)**
+**Lowe & Brophy (2017)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|------------|----------------------------|
+|Logica||logische uitdrukkingen in een real-world context||
+|Patroonherkenning|gezichtsherkenning op Facebook en aanbevelingen op Amazon of iTunes|||
+|Abstractie|algoritme als voorbeeld van abstractie|model en simulatie als abstractie van fenomeen in de echte wereld||
+|Automatisatie|wanneer is automatisatie zinvol; nodige abstracties en datarepresentaties|||
+|Decompositie|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|gemiddelde berekenen van de klas voor een examen (wat is er nodig)||
+|Algoritme|recept|||
+
