@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden6
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Extra voorbeelden"
+description: "Extra voorbeelden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+# Integreren van computationeel denken en handelen in STEM-projecten 
+
+**Eigen voorbeelden**
+
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|-----|-------|----------------------------|------------|
+|CD||AI|||sentimentanalyse|
+|Data voorstellen||data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat||||
+|Simuleren|||iMuSciCa workbench; verschillende scenario's binnen Dwenguino simulator||iMuSciCa workbench; verschillende scenario's binnen Dwenguino simulator|
+|Data voorverwerken|gegevens CO2 samenbrengen in leerpad Klimaat; gegevens opkuisen in project AI in de Zorg; gegevens numeriek maken in project AI in de Zorg; gegevens filteren in notebook NMBS; herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen|||||
+|Inzicht in tools||||begrijpen waarom beslissingsboom soms wordt verkozen boven een diep neuraal netwerk (zie project AI in de Zorg)||
