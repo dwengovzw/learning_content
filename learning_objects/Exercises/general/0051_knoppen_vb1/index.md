@@ -31,15 +31,25 @@ teacher_exclusive: true
 ---
 ## Knoppen
 
-OPGAVE 1
+OPGAVE 1.1
 
 Het programma start op. Als de NOORD-knop wordt ingedrukt, gaat het eerste ledje (led 0) branden.
 
 
 Oplossing:
 
-![blockly](@learning-object/knoppen_m1/nl/3)
+![blockly](@learning-object/knoppen_m1a/nl/3)
+
+***
+
+OPGAVE 1.2
+
+Het is niet de bedoeling dat led 0 blijft branden wanneer je de knop loslaat. Zorg ervoor dat de led uitgaat wanneer je de knop loslaat.
+
+Oplossing:
+
+![blockly](@learning-object/knoppen_m1b/nl/3)
 
 <div class="alert alert-box alert-success">
-uitleg
+Om de knoppen te gebruiken, zal je altijd een keuzestructuur nodig hebben. Knoppen worden immers altijd ingezet om iets aan te sturen.
 </div>

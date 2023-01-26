@@ -1,19 +1,19 @@
 ---
-hruid: g_ks_vb2
+hruid: knoppen_m1a
 version: 3
 language: nl
-title: "Voorbeeld Keuzestructuur 2"
-description: "Voorbeeld Keuzestructuur 2"
-keywords: ["oefeningen", "keuzestructuur"]
+title: "Meta"
+description: "Meta"
+keywords: []
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: dwengo
-licence: dwengo
-content_type: text/markdown
+copyright: Copyright by dwengo vzw.
+licence: CC by dwengo vzw.
+content_type: blockly
 available: true
-target_ages: [12, 13, 14]
+target_ages: [10, 11, 12]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -27,12 +27,5 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Keuzestructuren: Als - Dan
-
-OPGAVE 2
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>

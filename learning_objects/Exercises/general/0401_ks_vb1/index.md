@@ -29,10 +29,18 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Keuzestructuren: Als - Dan
+## Keuzestructuur: Als - Dan - Anders
 
-OPGAVE 1
+OPGAVE 1.1
 
-<div class="alert alert-box alert-success">
-uitleg
-</div>
+Schrijf een programma dat ervoor zorgt dat de tekst "auw" verschijnt op het lcd-scherm wanneer je de NOORD-knop indrukt.
+
+![blockly](@learning-object/conditional_m1a/nl/3)
+
+***
+
+OPGAVE 1.2
+
+Het is niet de bedoeling dat de tekst "auw" blijft staan wanneer je de knop loslaat. Vul het programma aan zodat de tekst op het lcd-scherm verdwijnt wanneer je de knop niet langer indrukt.
+
+![blockly](@learning-object/conditional_m1b/nl/3)

@@ -1,17 +1,17 @@
 ---
-hruid: g_knoppen_vb3
+hruid: knoppen_m1b
 version: 3
 language: nl
-title: "Voorbeeld Knoppen 3"
-description: "Voorbeeld Knoppen 3"
-keywords: ["oefeningen", "knoppen"]
+title: "Meta"
+description: "Meta"
+keywords: []
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: dwengo
-licence: dwengo
-content_type: text/markdown
+copyright: Copyright by dwengo vzw.
+licence: CC by dwengo vzw.
+content_type: blockly
 available: true
 target_ages: [10, 11, 12]
 difficulty: 3
@@ -23,23 +23,9 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Knoppen
-
-OPGAVE 3
-
-
-
-Oplossing:
-
-![blockly](@learning-object/LCDM3/nl/3
-
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>

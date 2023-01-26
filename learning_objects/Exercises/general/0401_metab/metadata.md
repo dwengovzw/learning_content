@@ -1,17 +1,17 @@
 ---
-hruid: g_ks_vb3
+hruid: conditional_m1b
 version: 3
 language: nl
-title: "Voorbeeld Keuzestructuur 3"
-description: "Voorbeeld Keuzestructuur 3"
-keywords: ["oefeningen", "keuzestructuur"]
+title: "Meta"
+description: "Meta"
+keywords: []
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: dwengo
-licence: dwengo
-content_type: text/markdown
+copyright: Copyright by dwengo vzw.
+licence: CC by dwengo vzw.
+content_type: blockly
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -27,12 +27,5 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Keuzestructuren: Als - Dan
-
-OPGAVE 3
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>

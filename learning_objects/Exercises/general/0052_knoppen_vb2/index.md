@@ -33,12 +33,12 @@ teacher_exclusive: true
 
 OPGAVE 2
 
-Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje (led 4) branden. Als je de knop loslaat, moet het ledje uitgaan.
+Zorg ervoor dat het programma aan de volgende voorwaarden voldoet:
 
-Oplossing:
+- Wanneer je niets doet, staat er op het lcd-scherm: "Druk je eens op de ZUID-knop?"
+
+- Wanneer je de ZUID-knop indrukt, verschijnt er op het lcd-scherm: "Dankjewel"
+
+- Wanneer je de NOORD-knop indrukt, verschijnt er op het lcd-scherm: "Dit is niet wat ik vroeg!"
 
 ![blockly](@learning-object/knoppen_m2/nl/3)
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>
