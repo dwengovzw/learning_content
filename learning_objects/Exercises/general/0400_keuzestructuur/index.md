@@ -45,3 +45,7 @@ In de simulator vind je de blokken voor een keuzestructuur terug in de categorie
 Je kan dit blok echter zolang maken als je wilt, afhankelijk van het aantal voorwaarden waarmee je robot moet rekening houden. Hoe je dit doet, wordt hieronder kort voorgetoond.
 
 ![](embed/keuzestructuur2.png "ALS-DAN-ANDERS")
+
+<div class="alert alert-box alert-danger">
+Zoals eerder vermeldt, kan je dit blok zo lang maken als je wilt, maar let er wel op dat je je programma niet onnodig ingewikkeld maakt!
+</div>

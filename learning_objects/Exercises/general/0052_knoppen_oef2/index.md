@@ -2,8 +2,8 @@
 hruid: g_knoppen_oef2
 version: 3
 language: nl
-title: "Oefeningen Knoppen 2"
-description: "Oefeningen Knoppen 2"
+title: "Oefening Knoppen 2"
+description: "Oefening Knoppen 2"
 keywords: ["oefeningen", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,16 +27,16 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 ## Knoppen
 
 OPGAVE 2
 
-Het programma start op. Als de ZUID-knop wordt ingedrukt, gaat het vijfde ledje (led 4) branden. Als je de knop loslaat, moet het ledje uitgaan.
+Zorg ervoor dat het programma aan de volgende voorwaarden voldoet:
 
-Oplossing:
+- Wanneer je niets doet, staat er op het lcd-scherm: "Druk je eens op de ZUID-knop?"
 
-![blockly](@learning-object/knoppen_m2/nl/3)
+- Wanneer je de ZUID-knop indrukt, verschijnt er op het lcd-scherm: "Dankjewel"
 
-*Test deze voorbeelden ook zelf uit in de simulator!*
+- Wanneer je de NOORD-knop indrukt, verschijnt er op het lcd-scherm: "Dit is niet wat ik vroeg!"

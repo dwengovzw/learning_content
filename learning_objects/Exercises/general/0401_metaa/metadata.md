@@ -1,17 +1,17 @@
 ---
-hruid: g_ks_oef3
+hruid: conditional_m1a
 version: 3
 language: nl
-title: "Oefening Keuzestructuur 3"
-description: "Oefening Keuzestructuur 3"
-keywords: ["oefeningen", "keuzestructuur"]
+title: "Meta"
+description: "Meta"
+keywords: []
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
 ]
-copyright: dwengo
-licence: dwengo
-content_type: text/markdown
+copyright: Copyright by dwengo vzw.
+licence: CC by dwengo vzw.
+content_type: blockly
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -29,6 +29,3 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Keuzestructuren: Als - Dan
-
-OPGAVE 3
