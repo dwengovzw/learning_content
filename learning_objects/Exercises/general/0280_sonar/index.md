@@ -31,7 +31,18 @@ teacher_exclusive: false
 ---
 # DwenguinoBlockly
 ## Sonar-sensor
-De sonar-sensor kan je gebruiken om de robot te laten 'zien'. Deze sensor meet de afstand tussen zichzelf en objecten. Als er iets op een bepaalde afstand van de robot gedetecteerd wordt, kan je hieraan bepaalde acties hangen. 
+
+### Type
+- Invoer
+- Digitale sensor
+
+### Werking
+De sensor stuurt een ultrasoon geluidssignaal uit. Indien er een voorwerp binnen bereik is, zal deze ultrasone geluidsgolf op dit voorwerp weerkaatsen. Je kan de werking vergelijken met de echolocatie van vleermuizen. Door de tijd te meten tussen het verzenden van het geluidssignaal en het ontvangen van de weerkaatste straal, kan de sensor de afstand tot het object nauwkeurig bepalen. De afstand wordt teruggegeven in cm.
+
+### Werking in de simulator
+In de simulator is een schuifbalk voorzien om de afstand tussen de sensor en een object te simuleren. Het getal op de schuifbalk simuleert de afstand tot het object in cm.
+
+***
 
 ### In het echt
 
@@ -40,3 +51,9 @@ De sonar-sensor kan je gebruiken om de robot te laten 'zien'. Deze sensor meet d
 ### In de simulator
 
 ![](embed/Sonarsim.png "Sonar-sensor simulator")
+
+Verwijzing sonar blok ![]()
+
+<div class=alert alert-box alert-success>
+Voor meer informatie over de sonar-sensor kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+</div>

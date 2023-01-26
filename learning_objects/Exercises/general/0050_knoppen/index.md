@@ -32,9 +32,24 @@ teacher_exclusive: false
 # DwenguinoBlockly
 ## Knoppen
 
+### Type
+- Invoer
+
+### Werking
 Op de Dwenguino vind je vijf drukknoppen. De buitenste knoppen kregen de namen NOORD, ZUID, OOST, WEST, net als in aardrijkskunde. De middelste knop heet MIDDEN.
 
 Je kan op een knop klikken met je muis. Als je erop klikt, is de knop ingedrukt. Als je de knop weer loslaat, is hij niet meer ingedrukt.  
+
+***
+
+### In het echt
+
+![]()
+
+### In de simulator
+
+![]()
+cat ![]()
 
 ![](embed/Knoppen.png "Voorbeeld Knoppen")
 

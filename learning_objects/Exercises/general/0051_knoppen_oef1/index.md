@@ -31,8 +31,6 @@ teacher_exclusive: false
 ---
 ## Knoppen
 
-## Knoppen
-
 OPGAVE 1.1
 
 Het programma start op. Als de NOORD-knop wordt ingedrukt, gaat het eerste led (led 0) branden.

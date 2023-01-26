@@ -31,3 +31,25 @@ teacher_exclusive: false
 ---
 # DwenguinoBlockly
 ## Geluidssensor
+
+### Type
+- Invoer
+- Digitale sensor
+
+### Werking
+Gebruik deze sensor om geluid te detecteren. Bij digitale aansluiting geeft de sensor 1 terug indien er geluid is en 0 bij stilte. Idealiter wordt deze sensor gebruikt in een stille omgeving.
+
+### Werking in de simulator
+In de simulator is een knop voorzien om geluid te simuleren. De knop indrukken simuleert geluid.
+
+***
+
+### In het echt
+
+![]()
+
+### In de simulator
+
+![]()
+
+Verwijzing blok ![]()

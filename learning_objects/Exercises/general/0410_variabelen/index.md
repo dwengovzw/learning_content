@@ -1,9 +1,9 @@
 ---
-hruid: g_ks_oef1
+hruid: g_var
 version: 3
 language: nl
-title: "Oefening Keuzestructuur 1"
-description: "Oefening Keuzestructuur 1"
+title: "Uitleg Variabelen"
+description: "Uitleg Variabelen"
 keywords: ["oefeningen", "keuzestructuur"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,14 +29,9 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Keuzestructuur: Als - Dan - Anders
+# DwenguinoBlockly
+## Variabelen
+Vanaf nu zal je ook gebruik kunnen maken van variabelen. Hiermee zal je je code wat meer overzichtelijk kunnen houden. 
+Variabelen zijn uiterst handig bij het uitlezen van sensoren: zie sonar-sensor en geluidssensor.
 
-OPGAVE 1.1
-
-Schrijf een programma dat ervoor zorgt dat de tekst "auw" verschijnt op het lcd-scherm wanneer je de NOORD-knop indrukt.
-
-***
-
-OPGAVE 1.2
-
-Het is niet de bedoeling dat de tekst "auw" blijft staan wanneer je de knop loslaat. Vul het programma aan zodat de tekst op het lcd-scherm verdwijnt wanneer je de knop niet langer indrukt.
+Je vindt de nodige blokken in de categorie ![](embed/cat_variabelen "categorie variabelen")
