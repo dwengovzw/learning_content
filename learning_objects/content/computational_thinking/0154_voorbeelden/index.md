@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Voorbeelden van computationeel handelen 
+# Integreren van computationeel denken en handelen in de les 
 
 Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen. 
 
@@ -53,7 +53,7 @@ grafiek, enz.  gebruiken om gegevens weer te geven; stel gegevens overzichtelijk
 |Controlestructuren|controlestructuren gebruiken conditionals, lussen, recursie, enz.|wiskundige functies bestuderen vergeleken met functies in programmeren; iteratie gebruiken om vraagstukken op te lossen|| |een verhaal schrijven met verschillende mogelijke uitkomsten (*branches*)|
 |Parallelisatie|*threading*, *pipelining*, het verdelen van gegevens of taak op zo'n een manier om te worden verwerkt in parallel|stelsel van lineaire vergelijkingen oplossen; matrixvermenigvuldiging|data opkuisen|experimenten gelijktijdig uitvoeren met verschillende parameters| | |
 
-Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken. Taub 2014 Yevseyeva 2012
+**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken. Taub 2014 Yevseyeva 2012**
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|-----|-------|----------------------------|------------|
@@ -62,20 +62,39 @@ Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar oo
 |CD||||samenwerken aan complexe wereldproblemen||
 |Abstractie|||verschillende niveaus van abstractie bij het oplossen van een probleem uit de fysica|||   
 
-Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.
+**Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.**
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|-----|-------|----------------------------|------------|
-|Simuleren||Netlogo|Concord Consortium's Molecular Workbench; PhET-project; Netlogo; iLab Network|||
-|||||||
-|||||||
-|||||||  
+|Simuleren|Sim2Real|model gebruiken; Netlogo|model gebruiken; Concord Consortium's Molecular Workbench; PhET-project; Netlogo; iLab Network|||
+|Modelleren|Sim2Real|model creëren|model creëren|||
+|Data genereren||microcontroller|microcontroller|||
+|Data voorverwerken|gegevens sorteren, filteren, opkuisen, normaliseren, samenbrengen|||||
+|Programmeren|bestaande programma's begrijpen en/of aanpassen, functies schrijven|data visualiseren, wiskundige model bouwen||||  
+|Inzicht in tools|sterktes en zwaktes van digitale tools kunnen afwegen t.o.v. elkaar|||||
+|Abstractie||door iets abstract voor te stellen meer duidelijkheid bieden|door iets abstract voor te stellen meer duidelijkheid bieden|door iets abstract voor te stellen meer duidelijkheid bieden|door iets abstract voor te stellen meer duidelijkheid bieden|
+|Evalueren en debuggen|strategieen om uit te vissen waarom iets niet werkt zoals verwacht|||||
+|Systeemdenken|||analyse van de interactie tussen de verschillende delen van een syteem en het geheel, zoals bij natuurlijke selectie, dynamiek binnen een populatie, ademhalingsstelsel, ideale gaswetten; cross-cutting concepts zoals feedback en stromen beter begrijpen a.d.h.v. digitale tools|analyse van de interactie tussen de verschillende delen van een syteem en het geheel, zoals dynamiek binnen een populatie beter begrijpen a.d.h.v. digitale tool||
+|Decompositie|||de verschillende delen van een syteem kunnen idientificeren en hun interacties beschrijven|de verschillende delen van een syteem kunnen idientificeren en hun interacties beschrijven||
+|Denken in niveaus|||hoe veranderingen op microniveau leiden tot verabderingen op macroniveau|||
+|Communiceren||||infographic||
 
+Men kan bv. datasets vinden op het world wide web, maar om uit die data conclusies te kunnen trekken is er voorbereidend werk nodig. Deze data moeten worden opgekuist, eventueel verwerkt en op een geschikte manier worden voorgesteld. Leerlingen moeten over de conclusies leren communiceren. AI-systemen zoals deep learning werken met zeer grote datasets. Het is belangrijk dat leerlingen begrijpen hoe deze grote datasets tot stand komen, en hoe beperkingen in de dataset leiden tot tekortkomingen van de AI-systemen, zoals de aanwezige bias.
 
-Eigen voorbeelden
+Leerlingen kunnen ook zelf data genereren via een experiment, bv. gebruikmakend van een microcontroller.
+
+Als men modellen gebruikt om een simulatie te doen, dan is het belangrijk dat men meegeeft wat de beperkingen en de voordelen zijn van een simulator.
+
+Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
+
+Leerlingen leren dat alles als een systeem kan bekeken worden.
+
+**Eigen voorbeelden**
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|-----|-------|----------------------------|------------|
 |CD||AI|||sentimentanalyse|
 |Data voorstellen||data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat||||
-|Simuleren|||iMuSciCa workbench||iMuSciCa workbench|
+|Simuleren|||iMuSciCa workbench; verschillende scenario's binnen Dwenguino simulator||iMuSciCa workbench; verschillende scenario's binnen Dwenguino simulator|
+|Data voorverwerken|gegevens CO2 samenbrengen in leerpad Klimaat; gegevens opkuisen in project AI in de Zorg; gegevens numeriek maken in project AI in de Zorg; gegevens filteren in notebook NMBS; herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen|||||
+|Inzicht in tools||||begrijpen waarom beslissingsboom soms wordt verkozen boven een diep neuraal netwerk (zie project AI in de Zorg)||
