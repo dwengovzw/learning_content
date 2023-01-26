@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Integreren van computationeel denken en handelen in de les 
+# Integreren van computationeel denken en handelen in lessen wetenschappen en wiskunde 
 
 Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen. 
 
