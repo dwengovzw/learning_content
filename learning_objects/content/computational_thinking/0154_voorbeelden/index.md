@@ -92,7 +92,6 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 |Algoritme|doolhof doorlopen|||
 
 **Grover & Pea (2017)**
-**Lowe & Brophy (2017)**
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|------------|----------------------------|
 |Logica||logische uitdrukkingen in een real-world context||
@@ -100,8 +99,6 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 |Abstractie|algoritme als voorbeeld van abstractie|model en simulatie als abstractie van fenomeen in de echte wereld||
 |Automatisatie|wanneer is automatisatie zinvol; nodige abstracties en datarepresentaties|||
 |Decompositie|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|gemiddelde berekenen van de klas voor een examen (wat is er nodig)||
-|Algoritme|recept|||
-|Evalueren en debuggen|recept proeven|||
-|Artefact|simulatie gevolgd door fysieke artefact; simulatie gevolgd door een app bruikbaar door anderen|||
+|Artefact|programmeren en simuleren gevolgd door fysieke artefact; programmeren van een app bruikbaar door anderen|||
 
 
