@@ -41,8 +41,7 @@ Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetens
 |---------------|------------------------|-----------|----------------------------|
 |Data verzamelen|gegevensbron vinden voor een probleem|gegevens verzamelen via experiment uit kansrekenen, bv. gooien met dobbelstenen of munten opgooien|gegevens verzamelen via experiment|
 |Data analyse|programma schrijven om eenvoudige statistische berekeningen te doen op een dataset|aantal keer kop of munt automatisch laten tellen en resultaat interpreteren|gegevens analyseren van een experiment|
-|Data voorstellen|gegevensstructuren gebruiken zoals array, gekoppelde lijst, stack, wachtrij, grafiek, hash tabel, enz.|histogram, taartdiagram, staafdiagram
-grafiek, enz.  gebruiken om gegevens weer te geven; stel gegevens overzichtelijk voor d.m.v. reeksen, lijsten, grafieken, enz.|gegevens samenvatten van een experiment|
+|Data voorstellen|gegevensstructuren gebruiken zoals array, gekoppelde lijst, stack, wachtrij, grafiek, hash tabel, enz.|histogram, taartdiagram, staafdiagram gebruiken om gegevens weer te geven; stel gegevens overzichtelijk voor d.m.v. verzamekingen, lijsten, grafieken, enz.|gegevens samenvatten van een experiment|
 |Abstractie|een reeks van vaak herhaalde instructies abstraheren tot een functie|het gebruik van letters in algebra; in een vraagstuk de nodige gegevens eruit halen|een model bouwen van een fysieke entiteit|
 |Modellen valideren| |regressielijnen|model toetsen aan de werkelijkheid|
 |Simulatie|animatie van een algoritme, parameters meerdere waarden laten aannemen om effect te zien|effect van de waarde van de parameters bij een functie bestuderen op een grafiek|beweging van het zonnestelsel simuleren|
