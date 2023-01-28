@@ -2,8 +2,8 @@
 hruid: cb_chatbot4
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "ChatGPT en co"
+description: "ChatGPT en co"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,7 +31,5 @@ skos_concepts: [
 ]
 ---
 
-# Chatbot
-In deze notebook maak je zelf een eenvoudige chatbot. Je ondervindt zijn mogelijkheden en beperkingen.
+# ChatGPT en aanverwanten
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2110 "Notebooks Chatbot")
