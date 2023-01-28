@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden7
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Alledaagse voorbeelden"
+description: "Alledaagse voorbeelden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
