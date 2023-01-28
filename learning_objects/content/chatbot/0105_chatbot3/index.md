@@ -51,7 +51,7 @@ Om tijd te besparen kan het anamnesegesprek bij de dokter vervangen worden door 
 **Chat met de chatbot van het Kenniscentrum Data & Maatschappij**
 Chat zelf eens met deze chatbot (Kenniscentrum Data & Maatschappij, 2020b).<br>
 Is deze chatbot een regelgebaseerd of datagebaseerd systeem?
-https://data-en-maatschappij.ai/nieuws/de-chatbot-van-hetkenniscentrum-data-maatschappij
+https://data-en-maatschappij.ai/nieuws/de-chatbot-van-het-kenniscentrum-data-maatschappij
 
 **Breng een chatbot van de wijs**
 Op het web zijn veel chatbots te vinden. Kies er een uit en probeer die chatbot van de wijs te brengen.
