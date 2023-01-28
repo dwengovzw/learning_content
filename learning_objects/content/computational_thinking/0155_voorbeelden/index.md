@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Integreren van computationeel denken en handelen in lessen Taal en Kunst
+# Integreren van computationeel denken en handelen in lessen sociale wetenschappen, taal en kunst
 
 Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen. 
 
@@ -37,7 +37,7 @@ We geven hier een (niet exhaustief) overzicht.
 
 Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
 
-|**CD**|**Sociale wetenschappen**|**Talen**|
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
 |Data verzamelen|grafieken interpreteren met een maatschappelijke context, bv. bevolkingsgegevens|taalkundige analyse van zinnen uitvoeren|
 |Data analyse|trends identificeren in statistische gegevens|patronen herkennen voor verschillende soorten van zinnen|
@@ -68,3 +68,10 @@ Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetens
 Men kan bv. datasets vinden op het world wide web, maar om uit die data conclusies te kunnen trekken is er voorbereidend werk nodig. Deze data moeten worden opgekuist, eventueel verwerkt en op een geschikte manier worden voorgesteld. Leerlingen moeten over de conclusies leren communiceren. AI-systemen zoals deep learning werken met zeer grote datasets. Het is belangrijk dat leerlingen begrijpen hoe deze grote datasets tot stand komen, en hoe beperkingen in de dataset leiden tot tekortkomingen van de AI-systemen, zoals de aanwezige bias.
 
 Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
+
+**Grover & Pea (2017)**
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Evalueren en debuggen||in tekst typfouten en grammaticale fouten detecteren en verbeteren|
+|Artefact||computationele (fysieke) artefact maken als uiting van creativiteit; microcontrollers; e-textiel; geleidende inkt|
+|Logica||logische uitdrukkingen in een real-world context|
