@@ -101,4 +101,7 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 |Automatisatie|wanneer is automatisatie zinvol; nodige abstracties en datarepresentaties|||
 |Decompositie|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|gemiddelde berekenen van de klas voor een examen (wat is er nodig)||
 |Algoritme|recept|||
+|Evalueren en debuggen|recept proeven|||
+|Artefact|simulatie gevolgd door fysieke artefact; simulatie gevolgd door een app bruikbaar door anderen|||
+
 
