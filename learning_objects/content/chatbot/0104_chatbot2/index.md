@@ -46,6 +46,10 @@ Voorbeelden:
 -  Het Vlaamse bedrijf ML6 paste GPT-2 aan om ook teksten in het Nederlands te kunnen genereren (Dehaene, 2020). Hun systeem schreef voor het tijdschrift Data News een artikel dat te lezen is in de kader ‘Gaan robots de job van journalist vervangen?’ (VLAIO, 2020).
 -  Improbotics gebruikte eerst GTP-2 om de conversaties te genereren van de sociale robot Alex die acteert in het improvisatietoneel, zie https://www.erlnmyr.be en https://improbotics.org en is nu al overgeschakeld naar GPT-3.
 
+*Dankzij het internet en crawlers is men in staat immense databanken aan te leggen waarop deze systemen worden getraind. Omdat deze systemen getraind zijn
+met data afkomstig vanop het world wide web, zijn ze extra gevoelig voor bias.*
+
+
 # GPT-3 en ChatGPT
 In 2020 verscheen GPT-3, een neuraal netwerk dat op nog meer data dan GPT-2 werd getraind, o.a. de volledige Wikipedia. GPT-3 is volgens OpenAI "te gebruiken voor quasi elke Engelse taal-taak”.<br>
 GPT-3 is geen opensourcesysteem. Maar via het web kan men toepassingen die gebaseerd zijn op GPT-3 gebruiken (OpenAI, 2019).<br>
