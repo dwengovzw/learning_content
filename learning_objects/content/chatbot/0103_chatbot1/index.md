@@ -2,8 +2,8 @@
 hruid: cb_chatbot1
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Soorten chatbots"
+description: "Soorten chatbots"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,7 +31,9 @@ skos_concepts: [
 ]
 ---
 
-# Chatbot
+# Soorten chatbots
+
+### Softwaresystemen
 Chatbots zijn softwaresystemen die kunnen interageren met mensen via getypte tekstboodschappen. Dit gebeurt via spontane tekst in natuurlijke taal. Een chatbot
 is dus niets anders dan een robot waarmee je kan chatten, een geautomatiseerd digitaal systeem waarmee je in dialoog kunt treden.
 
