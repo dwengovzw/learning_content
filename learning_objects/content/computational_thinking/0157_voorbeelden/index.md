@@ -40,4 +40,4 @@ Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van co
 |Abstractie|simulatie als abstractie van fenomeen in de echte wereld in de media|
 |Decompositie|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|
 |Algoritme|recept|
-|Evalueren en debuggen|recept proeven|
+|Evalueren en debuggen|gerecht proeven|
