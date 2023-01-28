@@ -44,7 +44,7 @@ Bron: Bebras ...
 
 De jonge bevers Anna, Britt, Charlotte, Demi en Emma - allemaal met een verschillende lengte - willen met jou een spelletje spelen. Ze plaatsen zich in een rij, de ene achter de andere, terwijl ze allemaal in dezelfde richting kijken, in een volgorde die ze zelf hebben gekozen. Elke bever telt dan hoeveel bevers vóór en achter haar groter zijn. Dit zijn de resultaten:
 
-|**Naam*|**Aantal grotere bevers ervoor**|**Aantal grotere bevers erachter**|
+|**Naam**|**Aantal grotere bevers ervoor**|**Aantal grotere bevers erachter**|
 |---------------|------------------------|----------------------------|
 |Anna|1|2|
 |Britt|3|1|
