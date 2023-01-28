@@ -2,7 +2,7 @@
 hruid: cb_chatbot2
 version: 3
 language: nl
-title: "Grote taalmodellenT"
+title: "Grote taalmodellen"
 description: "Grote taalmodellen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
