@@ -46,12 +46,13 @@ Op het lcd-scherm van de Dwenguino passen maximaal 32 karakters, zoals letters o
 
 ### In het echt
 
-![](embed/dwenguino_lcd.png "Afbeelding lcd")
+![](embed/dwenguino_lcd.png "Afbeelding lcd-scherm")
 
 ### in de simulator
 
-![]()
-categorie ![]()
+![](embed/lcd.png "lcd-scherm")
+
+De blokken voor het lcd-scherm aan te sturen vind je terug in de categorie ![](embed/cat_dwenguino.png "categorie dwenguino")
 
 <div class=alert alert-box alert-success>
 Voor meer informatie over het lcd-scherm kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
