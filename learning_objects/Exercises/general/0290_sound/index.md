@@ -37,7 +37,7 @@ teacher_exclusive: false
 - Digitale sensor
 
 ### Werking
-Gebruik deze sensor om geluid te detecteren. Bij digitale aansluiting geeft de sensor 1 terug indien er geluid is en 0 bij stilte. Idealiter wordt deze sensor gebruikt in een stille omgeving.
+Gebruik deze sensor om geluid te detecteren. Bij geluid geeft de sensor 1 terug indien er geluid is en 0 bij stilte. Idealiter wordt deze sensor gebruikt in een stille omgeving.
 
 ### Werking in de simulator
 In de simulator is een knop voorzien om geluid te simuleren. De knop indrukken simuleert geluid.
@@ -46,10 +46,10 @@ In de simulator is een knop voorzien om geluid te simuleren. De knop indrukken s
 
 ### In het echt
 
-![]()
+![](embed/geluidssensor.png "geluidssensor")
 
 ### In de simulator
 
-![]()
+![](embed/sim_geluidssensor.png "geluidssensor simulator")
 
-Verwijzing blok ![]()
+De nodige blokken voor het aansturen van de geluidssensor vind je terug oner de categorie ![](embed/cat_dwenguino.png "categorie dwenguino")
