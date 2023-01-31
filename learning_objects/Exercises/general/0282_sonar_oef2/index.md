@@ -31,13 +31,18 @@ teacher_exclusive: false
 ---
 ## Sonar-sensor
 
-OPGAVE 2
+OPGAVE 2  
 
 Schrijf een programma dat afhankelijk van de waarde, de boodschap "waarde < 20 cm" of "waarde > 20 cm" teruggeeft.
 
-Hier moet je gebruikmaken van een keuzestructuur: een als - dan of als - dan - anders blok werd hiervoor voorzien. Dit is het moeilijkste dat je nodig hebt voor de sociale robot.
+Hier moet je gebruikmaken van een keuzestructuur.
 
+***
 
 Bij het programmeren van de sociale robot kan je andere acties koppelen aan deze voorwaarden. Je kan bijvoorbeeld de armen laten zwaaien of ogen laten knipperen wanneer iemand tussen de 0 en 50 cm van de robot verwijderd is.
 
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*
+<div class="alert alert-box alert-danger">
+De sonar-sensor heeft een bereik van 200 cm. Wanneer er zich niets bevindt binnen dit bereik, geeft de sonar-sensor de waarde 0 terug. Dit geeft als gevolg dat wanneer er niets te zien is binnen 2 m, de sensor dit interpreteert alsof er iets vlak voor de sensor staat.<br><br>
+
+Programmeer daarom altijd <em>"Afstand groter dan 0"</em> als voorwaarde voor de kleinste afstand, zodat er hier geen problemen bij optreden.
+</div>
