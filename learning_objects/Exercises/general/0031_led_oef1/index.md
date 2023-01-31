@@ -35,6 +35,8 @@ OPGAVE 1
 
 Laat led 0 branden.
 
+***
+
 <div class="alert alert-box alert-success">
 Merk op dat led 0 het eerste led is aan de <strong>rechterkant</strong>!
 </div>

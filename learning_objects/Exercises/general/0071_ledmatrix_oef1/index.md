@@ -35,6 +35,8 @@ OPGAVE 1
 
 Laat een hartje verschijnen op een ledmatrix in de simulator.
 
+***
+
 <div class="alert alert-box alert-success">
 Je kan kiezen welke figuren verschijnen door aan te vinken welke ledjes moeten branden.
 </div>

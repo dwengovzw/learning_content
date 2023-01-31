@@ -65,6 +65,6 @@ De servomotoren kunnen een ander uiterlijk krijgen in het simulatievenster. Dit 
 
 Hier kan je dan een ander uiterlijk kiezen.
 
-<div class=alert alert-box alert-success>
+<div class="alert alert-box alert-success">
 Voor meer informatie over de servomotor kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
 </div>

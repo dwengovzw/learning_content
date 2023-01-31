@@ -41,6 +41,8 @@ OPGAVE 1.2
 
 Het is niet de bedoeling dat led 0 blijft branden wanneer je de knop loslaat. Zorg ervoor dat de led uitgaat wanneer je de knop loslaat.
 
+***
+
 <div class="alert alert-box alert-success">
 Om de knoppen te gebruiken, zal je altijd een keuzestructuur nodig hebben. Knoppen worden immers altijd ingezet om iets aan te sturen.
 </div>

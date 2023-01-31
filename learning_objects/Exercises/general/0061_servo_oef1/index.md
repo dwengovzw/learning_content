@@ -35,7 +35,6 @@ OPGAVE 1
 
 Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
 
+***
 
 Je robot kan nu zwaaien met zijn armen.
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

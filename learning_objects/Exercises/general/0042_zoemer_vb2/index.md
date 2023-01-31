@@ -39,7 +39,3 @@ Schrijf een programma zodat de zoemer een toon afspeelt gedurende 1 seconde wann
 Oplossing:
 
 ![blockly](@learning-object/zoemer_m2/nl/3)
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>

@@ -62,6 +62,6 @@ cat ![]()
 
 > Een <strong>kleurmengsysteem</strong> is een systeem gebaseerd op het idee dat je met een bepaalde set kleuren, <strong>primaire kleuren</strong> genoemd, alle andere kleuren kunt maken.<br><br>Het <strong>subtractieve kleurmengsysteem</strong> is het meest gekende, omdat kinderen dit zelf gemakkellijk kunnen ontdekken tijdens kleuren of verven. Rood + blauw = paars, blauw + geel = groen, geel + rood = oranje, ... Dit gaat uit van de primaire kleuren <strong>cyaan</strong> <em>(hemelsblauw)</em>, <strong>magenta</strong> <em>(een soort roze)</em> en <strong>geel</strong>.<br><br>Het <strong>additieve kleurmengsysteem</strong> is minder intuïtief. Dit wordt gebruikt bij het "mengen" van verschillende kleuren <strong>licht</strong>. De primaire kleuren zijn voor dit kleurmengsysteem <strong>rood</strong>, <strong>groen</strong> en <strong>blauw</strong>.
 
-<div class=alert alert-box alert-success>
-Voor meer informatie over de rgb-led kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+<div class="alert alert-box alert-success">
+Voor meer informatie over de led-matrix kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
 </div>

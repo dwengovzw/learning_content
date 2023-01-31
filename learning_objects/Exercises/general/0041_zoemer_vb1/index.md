@@ -39,7 +39,3 @@ Schrijf een programma zodat de buzzer een toon met frequentie 262 Hz afspeelt in
 Oplossing:
 
 ![blockly](@learning-object/zoemer_m1/nl/3)
-
-<div class="alert alert-box alert-success">
-uitleg
-</div>

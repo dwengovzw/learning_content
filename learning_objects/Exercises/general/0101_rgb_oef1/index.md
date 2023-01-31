@@ -35,6 +35,8 @@ OPGAVE 1
 
 Kies de RGB-waarden zo dat het RGB-led met een paars licht brandt.
 
+***
+
 <div class="alert alert-box alert-success">
 Om een specifieke kleur te bekomen, is het gemakkelijker om de waarden op het internet op te zoeken dan te gokken. <a href="https://www.rapidtables.org/nl/web/color/purple-color.html">rapidtables.org</a> is hiervoor een goede website.
 </div>

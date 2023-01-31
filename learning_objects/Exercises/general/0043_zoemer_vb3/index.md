@@ -41,5 +41,5 @@ Oplossing:
 ![blockly](@learning-object/zoemer_m3/nl/3)  
 
 <div class="alert alert-box alert-success">
-Zoals je kunt zien, wordt dit een vrij lang programma. Er zijn gelukkig een aantal plaatsen die je wat kunt inkorten met behulp van een **begrensde herhaling**. Dit wordt verder uitgelegd in het volgende onderdeel.
+Zoals je kunt zien, wordt dit een vrij lang programma. Er zijn gelukkig een aantal plaatsen die je wat kunt inkorten met behulp van een <strong>begrensde herhaling</strong>. Dit wordt verder uitgelegd in het volgende onderdeel.
 </div>
