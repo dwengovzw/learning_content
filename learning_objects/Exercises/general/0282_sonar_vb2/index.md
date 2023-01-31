@@ -43,6 +43,8 @@ Oplossing:
 
 Bij het programmeren van de sociale robot kan je andere acties koppelen aan deze voorwaarden. Je kan bijvoorbeeld de armen laten zwaaien of ogen laten knipperen wanneer iemand tussen de 0 en 50 cm van de robot verwijderd is.
 
-<div class="alert alert-box alert-success">
-uitleg
+<div class="alert alert-box alert-danger">
+De sonar-sensor heeft een bereik van 200 cm. Wanneer er zich niets bevindt binnen dit bereik, geeft de sonar-sensor de waarde 0 terug. Dit geeft als gevolg dat wanneer er niets te zien is binnen 2 m, de sensor dit interpreteert alsof er iets vlak voor de sensor staat.
+
+Programmeer daarom altijd <em>"Afstand groter dan 0"</em> als voorwaarde voor de kleinste afstand, zodat er hier geen problemen bij optreden.
 </div>

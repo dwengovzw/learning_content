@@ -37,7 +37,9 @@ teacher_exclusive: false
 - Digitale sensor
 
 ### Werking
-De sensor stuurt een ultrasoon geluidssignaal uit. Indien er een voorwerp binnen bereik is, zal deze ultrasone geluidsgolf op dit voorwerp weerkaatsen. Je kan de werking vergelijken met de echolocatie van vleermuizen. Door de tijd te meten tussen het verzenden van het geluidssignaal en het ontvangen van de weerkaatste straal, kan de sensor de afstand tot het object nauwkeurig bepalen. De afstand wordt teruggegeven in cm.
+De sensor stuurt een ultrasoon geluidssignaal uit. Indien er een voorwerp binnen bereik is, zal deze ultrasone geluidsgolf op dit voorwerp weerkaatsen. Je kan de werking vergelijken met de echolocatie van vleermuizen. Door de tijd te meten tussen het verzenden van het geluidssignaal en het ontvangen van de weerkaatste straal, kan de sensor de afstand tot het object nauwkeurig bepalen. 
+
+De afstand wordt teruggegeven in cm. Het bereik van de sonar-sensor is 200 cm.
 
 ### Werking in de simulator
 In de simulator is een schuifbalk voorzien om de afstand tussen de sensor en een object te simuleren. Het getal op de schuifbalk simuleert de afstand tot het object in cm.

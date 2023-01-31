@@ -57,6 +57,6 @@ Om voorwaarden voor een keuzestructuur te programmeren, maak je gebruik van de o
 ![](embed/block_and_or.png "blok en-of")
 ![](embed/block_operations.png "blok wiskundige operaties")
 
-Wanneer je deze combineert, kan je zeer eenvoudige voorwaarden programmeren zoals: 
+Wanneer je deze combineert, kan je zeer eenvoudige voorwaarden programmeren zoals *"als de afstand groter is dan 0, maar kleiner dan 20, dan..."* 
 
 ![](embed/combo_andor_operations.png "combinatie voorwaarden")
