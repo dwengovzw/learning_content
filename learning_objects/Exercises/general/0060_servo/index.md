@@ -57,6 +57,8 @@ Je beschikt over 2 soorten:
 
 ![](embed/servos_simulator.png "Servomotor simulator")
 
+Om de servomotoren te besturen werden er tal van blokken voorzien die je kan terugvinden onder de categorie ![](embed/cat_uitvoer.png "categorie uitvoer").
+
 De servomotoren kunnen een ander uiterlijk krijgen in het simulatievenster. Dit kan je doen door op de component te dubbelklikken (na toevoegen in het simulatievenster). Dan verschijnt het volgende menu: 
 
 ![](embed/servo_opties.png "opties servomotor")
