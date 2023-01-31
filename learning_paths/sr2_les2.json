@@ -75,7 +75,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "sr_std",
+            "hruid": "g_inleiding_lkr",
             "version": "3",
             "language": "nl"
           }
@@ -83,14 +83,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_std",
+      "learningobject_hruid": "g_inleiding_lkr",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_programmeerscenario",
+            "hruid": "g_inleiding_lln",
             "version": "3",
             "language": "nl"
           }
@@ -98,14 +98,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_programmeerscenario",
+      "learningobject_hruid": "g_inleiding_lln",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_InleidendeOefening",
+            "hruid": "g_startpagina_sr",
             "version": "3",
             "language": "nl"
           }
@@ -113,14 +113,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_InleidendeOefening",
+      "learningobject_hruid": "g_startpagina_sr",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Uploaden",
+            "hruid": "g_inleidendeoefening_sr",
             "version": "3",
             "language": "nl"
           }
@@ -128,14 +128,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Uploaden",
+      "learningobject_hruid": "g_inleidendeoefening_sr",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_TroubleshootingSimulator",
+            "hruid": "g_uploaden",
             "version": "3",
             "language": "nl"
           }
@@ -143,14 +143,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_TroubleshootingSimulator",
+      "learningobject_hruid": "g_uploaden",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Temp",
+            "hruid": "g_lcd",
             "version": "3",
             "language": "nl"
           }
@@ -158,14 +158,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Temp",
+      "learningobject_hruid": "g_lcd",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_LCD",
+            "hruid": "g_lcd_vb1",
             "version": "3",
             "language": "nl"
           }
@@ -173,14 +173,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_LCD",
+      "learningobject_hruid": "g_lcd_vb1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_LCDVB1",
+            "hruid": "g_lcd_vb2",
             "version": "3",
             "language": "nl"
           }
@@ -188,14 +188,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_LCDVB1",
+      "learningobject_hruid": "g_lcd_vb2",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_LCDVB2",
+            "hruid": "g_lcd_vb3",
             "version": "3",
             "language": "nl"
           }
@@ -203,14 +203,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_LCDVB2",
+      "learningobject_hruid": "g_lcd_vb3",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_LCDVB3",
+            "hruid": "g_wacht",
             "version": "3",
             "language": "nl"
           }
@@ -218,14 +218,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_LCDVB3",
+      "learningobject_hruid": "g_wacht",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Wacht",
+            "hruid": "g_wacht_vb1",
             "version": "3",
             "language": "nl"
           }
@@ -233,14 +233,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Wacht",
+      "learningobject_hruid": "g_wacht_vb1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Servo",
+            "hruid": "g_wacht_vb2",
             "version": "3",
             "language": "nl"
           }
@@ -248,14 +248,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Servo",
+      "learningobject_hruid": "g_wacht_vb2",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_ServoVB1",
+            "hruid": "g_servo",
             "version": "3",
             "language": "nl"
           }
@@ -263,14 +263,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_ServoVB1",
+      "learningobject_hruid": "g_servo",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_ServoVB2",
+            "hruid": "g_servo_vb1",
             "version": "3",
             "language": "nl"
           }
@@ -278,14 +278,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_ServoVB2",
+      "learningobject_hruid": "g_servo_vb1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Matrix",
+            "hruid": "g_servo_vb2",
             "version": "3",
             "language": "nl"
           }
@@ -293,14 +293,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Matrix",
+      "learningobject_hruid": "g_servo_vb2",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_MatrixVB1",
+            "hruid": "g_servo_vb3",
             "version": "3",
             "language": "nl"
           }
@@ -308,14 +308,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_MatrixVB1",
+      "learningobject_hruid": "g_servo_vb3",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_MatrixVB2",
+            "hruid": "g_servo_vb4",
             "version": "3",
             "language": "nl"
           }
@@ -323,14 +323,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_MatrixVB2",
+      "learningobject_hruid": "g_servo_vb4",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_Sonar",
+            "hruid": "g_matrix",
             "version": "3",
             "language": "nl"
           }
@@ -338,14 +338,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_Sonar",
+      "learningobject_hruid": "g_matrix",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_SonarVB1",
+            "hruid": "g_matrix_vb1",
             "version": "3",
             "language": "nl"
           }
@@ -353,14 +353,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_SonarVB1",
+      "learningobject_hruid": "g_matrix_vb1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_SonarVB2",
+            "hruid": "g_matrix_vb2",
             "version": "3",
             "language": "nl"
           }
@@ -368,7 +368,172 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_SonarVB2",
+      "learningobject_hruid": "g_matrix_vb2",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_matrix_vb3",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_matrix_vb3",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_rgb",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_rgb",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_rgb_vb1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_rgb_vb1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_rgb_vb2",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_rgb_vb2",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_var",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_var",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_ks",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_ks",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_sonar",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_sonar",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_sonar_vb1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_sonar_vb1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_sonar_vb2",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_sonar_vb2",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_sound",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_sound",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "g_sound2",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "g_sound2",
       "version": "3",
       "language": "nl",
       "transitions": [
