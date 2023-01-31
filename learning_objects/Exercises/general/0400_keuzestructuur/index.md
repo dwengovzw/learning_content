@@ -49,3 +49,14 @@ Je kan dit blok echter zolang maken als je wilt, afhankelijk van het aantal voor
 <div class="alert alert-box alert-danger">
 Zoals eerder vermeldt, kan je dit blok zo lang maken als je wilt, maar let er wel op dat je je programma niet onnodig ingewikkeld maakt!
 </div>
+
+***
+
+Om voorwaarden voor een keuzestructuur te programmeren, maak je gebruik van de onderstaande blokken:
+
+![](embed/block_and_or.png "blok en-of")
+![](embed/block_operations.png "blok wiskundige operaties")
+
+Wanneer je deze combineert, kan je zeer eenvoudige voorwaarden programmeren zoals: 
+
+![](embed/combo_andor_operations.png "combinatie voorwaarden")
