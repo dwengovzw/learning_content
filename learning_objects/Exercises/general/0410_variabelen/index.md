@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Uitleg Variabelen"
 description: "Uitleg Variabelen"
-keywords: ["oefeningen", "keuzestructuur"]
+keywords: ["oefeningen", "variabelen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -34,4 +34,4 @@ teacher_exclusive: false
 Vanaf nu zal je ook gebruik kunnen maken van variabelen. Hiermee zal je je code wat meer overzichtelijk kunnen houden. 
 Variabelen zijn uiterst handig bij het uitlezen van sensoren: zie sonar-sensor en geluidssensor.
 
-Je vindt de nodige blokken in de categorie ![](embed/cat_variabelen "categorie variabelen")
+Je vindt de nodige blokken in de categorie ![](embed/cat_variabelen.png "categorie variabelen")
