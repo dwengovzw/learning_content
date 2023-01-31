@@ -79,7 +79,7 @@ Het eindresultaat voor het uitlezen van een sonar-sensor ziet er dan als volgt u
 
 <div class="alert alert-box alert-success">
 Op het lcd-scherm verschijnen nu de waarden die de sonar-sensor teruggeeft. Indien dit niet werkt, moet je troubleshooten om het probleem te vinden.
-- Is het het juiste programma? (Check de code)
-- Is de sensor correct aangesloten? (Check de bedrading)
-- Werkt de sensor?
+<ul><li>Is het het juiste programma? (Check de code)</li></ul>
+<ul><li>Is de sensor correct aangesloten? (Check de bedrading)</li></ul>
+<ul><li>Werkt de sensor?</li></ul>
 </div>
