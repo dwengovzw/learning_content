@@ -44,14 +44,15 @@ Je kan op een knop klikken met je muis. Als je erop klikt, is de knop ingedrukt.
 
 ### In het echt
 
-![]()
+![](embed/knoppen.png "knoppen")
 
 ### In de simulator
 
-![]()
-cat ![]()
+![](embed/knoppen_sim.png "knoppen simulator")
 
-![](embed/Knoppen.png "Voorbeeld Knoppen")
+De blokken die nodig zijn om de knoppen te gebruiken, vind je onder de categorie ![](embed/cat_dwenguino.png "categorie dwenguino").
+
+*** 
 
 Je wilt uiteraard dat de tekenrobot pas begint te tekenen wanneer jij dit zegt. Daarom ga je hier een extra startconditie invoeren zoals in onderstaand voorbeeld:
 

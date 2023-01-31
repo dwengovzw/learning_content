@@ -47,13 +47,13 @@ Om geluid te kunnen afspelen is de Dwenguino voorzien van een eenvoudige buzzer 
 
 ### In het echt
 
-![](embed/ZoemerDwenguino.png "Zoemer")
+![](embed/zoemer.png "Zoemer")
 
 ### In de simulator
 
 ![](embed/buzzer_on_board.png "buzzer")
 
-De blokken die je nodig hebt om de buzzer te besturen, vind je onder de categorie ![](embed/cat_dwenguino.png "categorie dwenguino")
+De blokken die je nodig hebt om de buzzer te besturen, vind je onder de categorie ![](embed/cat_dwenguino.png "categorie dwenguino").
 
 <div class=alert alert-box alert-success>
 Voor meer informatie over de zoemer kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>

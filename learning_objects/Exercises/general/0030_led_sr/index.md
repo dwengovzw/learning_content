@@ -45,4 +45,4 @@ Deze leds zijn *led 0*, *led 1*, ..., *led 7*, van rechts naar links. De eerste 
 Links bovenaan is er nog een ledje: *led 13*.
 Dit laatste led heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
 
-Je kan de leds aan- of uitzetten m.b.v. de hiervoor voorziene blokken. Deze vind je terug onder de categorie ![](embed/cat_uitvoer.png "categorie uitvoer")
+Je kan de leds aan- of uitzetten m.b.v. de hiervoor voorziene blokken. Deze vind je terug onder de categorie ![](embed/cat_uitvoer.png "categorie uitvoer").
