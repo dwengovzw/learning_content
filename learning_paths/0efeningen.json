@@ -1005,7 +1005,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "g_rgb_oef3",
+            "hruid": "sonar_m1a",
             "version": "3",
             "language": "nl"
           }
@@ -1013,7 +1013,7 @@
       ]
     },
     {
-      "learningobject_hruid": "g_rgb_oef3",
+      "learningobject_hruid": "sonar_m1a",
       "version": "3",
       "language": "nl",
       "transitions": [
