@@ -37,7 +37,6 @@ Programmeer beide handen zodat ze op en neer kunnen bewegen in intervallen van 1
 
 Laat je niet misleiden! Dit is niet hetzelfde als de vorige oefening. I.p.v. gebruik te maken van de voorgeprogrammeerde functie voor het zwaaien, programmeer je nu beide handen apart. Je kan dus beide handen onafhankelijk van elkaar bewegen of kiezen om de hand in een bepaalde positie stil te houden.
 
+***
 
 Indien deze oefening gelukt is, ben je nu in staat om een hele hoop andere acties te doen! Je robot kan iemand de hand schudden, z'n ogen bedekken...
-
-*Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.*

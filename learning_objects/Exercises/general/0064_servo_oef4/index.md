@@ -35,6 +35,8 @@ OPGAVE 4
 
 Simuleer 2 draaiende ogen. Eén oog moet in wijzerzin draaien, het andere oog in tegenwijzerzin.
 
+***
+
 <div class="alert alert-box alert-success">
 Om een zwarte servomotor van draairichting te veranderen, gebruik je negatieve getallen.
 </div>

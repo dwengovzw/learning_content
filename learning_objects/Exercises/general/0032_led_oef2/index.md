@@ -35,5 +35,7 @@ OPGAVE 2
 
 Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
 
+***
+
 <div class="alert alert-box alert-danger">Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '<em>zet klaar</em>'-gedeelte van het programma.
 </div>

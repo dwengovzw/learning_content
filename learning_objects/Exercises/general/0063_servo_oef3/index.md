@@ -35,6 +35,8 @@ OPGAVE 3
 
 Schrijf een programma voor een zwarte servomotor zodat de motor continu draait.
 
+***
+
 <div class="alert alert-box alert-success">
 In tegenstelling tot de blauwe servomotor, moet je hier de snelheid van de servomotor instellen i.p.v. een hoek. Als een zwarte servomotor moet stoppen met draaien, stel je dus de snelheid in op 0.
 </div>

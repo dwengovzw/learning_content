@@ -51,6 +51,6 @@ De led-matrix is een vierkante 8x8 matrix met 64 leds in een vaste kleur (rood).
 
 De blokken die je nodig hebt voor het programmeren van de led-matrices vind je terug onder de categorie ![](embed/cat_uitvoer.png "categorie uitvoer").
 
-<div class=alert alert-box alert-success>
+<div class="alert alert-box alert-success">
 Voor meer informatie over de led-matrix kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
 </div>
