@@ -75,8 +75,7 @@ Situatie bekijken in Google Maps:
 ![image](https://user-images.githubusercontent.com/48352335/213933739-10534f75-588b-4817-8463-025524b85009.png)	
 
 #### Tabel omzetten naar een gewogen graaf
-![image](https://user-images.githubusercontent.com/48352335/213934005-2721797d-40e0-41e5-839e-2674c4256c64.png)
-<center>(Afbeelding moet nog aangevuld worden met enkele afstanden en boog van A naar W)</center>
+![M024_Graaf_1](https://user-images.githubusercontent.com/48352335/216783604-7ba61dcf-4e7f-41ba-a05f-017c715fb4d5.png)
 
 #### Leerlingen proberen zelf (manueel) de kortste weg te vinden
 - Welke strategie hebben de leerlingen toegepast?
@@ -133,6 +132,7 @@ Geef lijst ‘bezocht’ terug
 Aan de hand van een tabel en een boomstructuur ga je op zoek naar de kortste route.
 
 ![image](https://user-images.githubusercontent.com/48352335/213934175-be5b3e22-4fc8-49ca-83ad-c73cc8f94298.png)
+![M024_Boom_1](https://user-images.githubusercontent.com/48352335/216783699-8bd9beb6-c2d6-4155-909a-a88bdac9524b.png)
 
 
 #### Oefenen met het algoritme
@@ -189,11 +189,11 @@ Als schattingsfunctie (f-score) gebruik je de afstand in vogelvlucht (komt voor 
 
 Je vult de gewogen graaf aan met de afstand in vogelvlucht.
   
-![image](https://user-images.githubusercontent.com/48352335/213934379-44c0f84f-dce4-487f-8583-70744387c894.png)
+![M024_Graaf_2](https://user-images.githubusercontent.com/48352335/216783645-5910a805-f876-4643-82f1-d98c15c2a48b.png)
 
 Aan de hand van een tabel en een boomstructuur ga je op zoek naar de kortste route.
 ![image](https://user-images.githubusercontent.com/48352335/213934386-9fe136a5-ff13-46b2-9ec0-42a8161da0de.png)
-
+![M024_Boom_2](https://user-images.githubusercontent.com/48352335/216783661-d320583e-1ad3-4d09-b8a4-7180c9335c93.png)
 
 
 ### A* algoritme
