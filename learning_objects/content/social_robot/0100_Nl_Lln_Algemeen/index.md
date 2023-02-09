@@ -56,3 +56,9 @@ Je denkt daarbij na over wat je robot moet kunnen en op welke manier je dit kan 
 
 <ul><li><strong>Creatieve opdracht</strong></br> Stel je robot voor aan je medeleerlingen!
 </li></ul>
+
+***
+
+## Aan de slag!
+
+[Module 1: Wat zijn sociale robots?](https://www.dwengo.org/socialerobot1 "Module 1")  
