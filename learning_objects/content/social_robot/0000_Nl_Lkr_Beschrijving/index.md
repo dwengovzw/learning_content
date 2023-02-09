@@ -32,10 +32,9 @@ teacher_exclusive: true
 
 # Het 'Sociale robot'-project
 
-'Sociale robot' is een vakoverschrijdend STEM-project voor de eerste graad secundair onderwijs. Het project kan echter ook ingezet worden in de tweede graad.  
-In een aantal modules gaan leerlingen aan de slag om zelf een sociale robot te ontwerpen, te programmeren en te bouwen. 
+'Sociale robot' is een vakoverschrijdend STEM-project voor de eerste of tweede graad secundair onderwijs. In een aantal modules gaan leerlingen aan de slag om zelf een sociale robot te ontwerpen, te programmeren en te bouwen. 
 
-Leerlingen denken na over hoe hun robot zal communiceren en op welke omgevingsfactoren - zoals licht, geluid, beweging - hij zal reageren. Het ontwerpen en grafisch programmeren van de robot doen ze in een simulator. De fysieke robot bouwen ze met herbruikbaar materiaal. Het wordt nog leuker als ze de robot een persoonlijke toets geven. Ze kunnen zich hierin op een creatieve manier uitleven. Gebruikmakend van een microcontrollerplatform, sensoren en actuatoren en hun eigen code voltooien ze hun sociale robot.
+Leerlingen denken na over hoe hun robot zal communiceren en op welke omgevingsfactoren - zoals licht, geluid of beweging - deze zal reageren. Het ontwerpen en grafisch programmeren van de robot doen ze in een simulator. De fysieke robot bouwen ze met herbruikbaar materiaal. Het wordt nog leuker als ze de robot een persoonlijke toets geven. Ze kunnen zich hierin op een creatieve manier uitleven. Gebruikmakend van een microcontrollerplatform, sensoren en actuatoren en hun eigen code voltooien ze hun sociale robot.
 
 
 ![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Introductie Sociale Robot")
