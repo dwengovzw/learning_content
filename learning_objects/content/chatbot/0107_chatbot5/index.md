@@ -2,8 +2,8 @@
 hruid: cb_chatbot5
 version: 3
 language: nl
-title: "ChatGPT en co"
-description: "ChatGPT en co"
+title: "In de klas"
+description: "In de klas"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,5 +31,5 @@ skos_concepts: [
 ]
 ---
 
-# ChatGPT en aanverwanten
+# In de klas
 
