@@ -48,9 +48,9 @@ Eerst moet zo’n AI-systeem ontwikkeld worden door het programmeren van algorit
 - **Kennisgebaseerde** systemen, die met regels worden geprogrammeerd. Dit houdt in dat men de kennis van menselijke experts zoveel mogelijk in regels probeert te gieten. 
 - **Datagebaseerde** systemen, die met lerende algoritmes worden geprogrammeerd en ook machine learning-systemen worden genoemd. Met statistische methodes worden patronen in relevante data opgespoord en dan gebruikt om nieuwe problemen op te lossen. 
 
-
 > De chatbot ELIZA en lexicongebaseerde sentimentanalyse zijn voorbeelden van kennisgebaseerde systemen (zie verder in de hoofdstukken Chatbot en Sentimentanalyse). Gezichtsherkenning op Facebook en Google Translate zijn datagebaseerde systemen.
 > Bij kennisgebaseerde systemen bestaat het algoritme uit expliciet geprogrammeerde regels. Men botst daarbij al snel op de grenzen van deze systemen. Voor een autonome wagen zou dat bijvoorbeeld betekenen dat men alle mogelijke scenario’s zou moeten kennen.
 
 
-
+![AIMLDL](https://user-images.githubusercontent.com/48352335/218815994-b1befa16-019e-46a3-a29c-f611faeecfd3.png)
+<center> Soorten AI</center>
