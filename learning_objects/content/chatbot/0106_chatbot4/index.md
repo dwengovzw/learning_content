@@ -31,5 +31,5 @@ skos_concepts: [
 ]
 ---
 
-# ChatGPT en aanverwanten
+# ChatGPT en co
 
