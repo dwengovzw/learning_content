@@ -2,8 +2,8 @@
 hruid: un_ai5
 version: 3
 language: nl
-title: "Inleiding"
-description: "Inleiding"
+title: "Extra"
+description: "Extra"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,7 +27,7 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Tekst
