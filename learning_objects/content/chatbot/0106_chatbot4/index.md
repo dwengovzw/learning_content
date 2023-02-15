@@ -34,3 +34,38 @@ teacher_exclusive: true
 
 # ChatGPT en co
 
+## Andere systemen
+Een andere chatbot is ChatSonic waar je ook aan kunt vragen om beelden te genereren. Binnenkort komt Google met Bard, een broertje van ChatGPT. Bard zal wel beschikken over de laatste informatie omdat Bard het world wide web zal kunnen raadplegen.
+Ook met de chatbot Claude wordt al geëxperimenteerd. Deze werd ontwikkeld door ex-werknemers van OpenAI. 
+
+## ChatGPT 
+Om tot ChatGPT te komen heeft OpenAI eerst GPT-3 gefinetuned tot InstructGPT (of GPT-3.5) om beter aan de verwachtingen van de gebruiker en de menselijke waarden te beantwoorden, en de uitvoer meer waarheidsgetrouw te maken. 
+Ze gebruikten daarvoor een techniek genaamd *reinforcement learning from human feedback (RLHF)*, versterkend leren via menselijke feedback.
+Tot slot werd een GPT-3.5 model waarvan de training gefinaliseerd werd begin 2022 nogmaals verbeterd  om te komen tot ChatGPT.
+
+Hoe ging dit alles in zijn werk?
+- De oorspronkelijke dataset werd vermengd met conversaties die opgemaakt werden door mensen, weliswaar geïnspireerd door antwoorden die door het AI-model werden gegenereerd. Deze dataset werd dan omgevormd naar een dialoogformaat. Mensen hebben aangegeven of de gegenereerde antwoorden voldeden en hebben suggesties gedaan om de antwoorden beter te maken. 
+- Daarna rangschikten mensen meerdere gegenereerde antwoorden op eenzelfde prompt van slechte naar goede kwaliteit. 
+- Met deze data werd een model gemaakt dat met een score kan aangeven hoe goed een bepaald antwoord op een prompt is. Dat model geeft aan een gegenereerd antwoord een score. 
+- Vervolgens wordt dat scoremodel gebruikt om het genereren van antwoorden op prompts te verbeteren. Via versterkend leren, reinforcement learning, werd ChatGPT getraind opdat het ‘het meest menselijke’ antwoord zou geven op prompts. Het model kreeg een beloning voor een goed antwoord en werd gestraft bij een slecht antwoord.
+- Daarnaast heeft OpenAI er veel aan gedaan om te vermijden dat ChatGPT racistische of seksistische teksten, of teksten die aanzetten tot haat zou gaan genereren. Hiervoor heeft men echter schaduwwerkers gebruikt, in dit geval onderbetaalde Kenianen die getraumatiseerd raakten door wat ze te lezen kregen. (Bron: https://time.com/6247678/openai-chatgpt-kenya-workers/)
+
+ChatGPT is minder krachtig  dan GPT-3, want GPT-3 kan ook nog andere dingen naast tekst genereren op basis van een prompt, bv. op basis van een afbeelding een classificatie doen.
+
+ChatGPT heeft (vooralsnog) geen toegang tot het wereldwijde web en beschikt dus niet over de laatste informatie. OpenAI waarschuwt ervoor dat de antwoorden van ChatGPT niet betrouwbaar zijn en steeds kritisch moeten worden benaderd.
+
+ChatGPT genereert tekst. ChatGPT verzint ook van alles. Men noemt dit hallucineren.
+
+> Voorbeeld: ChatGPT schaakt tegen een schaakcomputer. Na elke zet van ChatGPT wordt de nieuwe bordtoestand aan de schaakcomputer doorgegeven, die telkens de volgende zet berekent vertrekkende van de stukken op het bord.
+> https://i.redd.it/fl4puwzxt9ha1.gif
+> De dialoog tussen ChatGPT en de schaakcomputer: https://pastebin.com/X6kBRTa9
+
+#### Toegankelijk
+De gebruikersinterface van ChatGPT oogt eenvoudig en is van dezelfde aard als chatten in een app zoals WhatsApp of Signal. De gebruiksvriendelijkheid van ChatGPT heeft ervoor gezorgd dat het systeem toegang kreeg tot het grote publiek. 
+De technologie is echter niet splinternieuw. ChatGPT is ontstaan uit GPT-3.5, een opvolger van GPT-3. GPT-3 bestaat al 2 jaar en tal van toepassingen om bv. gedichten en blogs te genereren (met GPT-3) staan al geruime tijd op het web. Aan de hand van ChatGPT ontdekte het grote publiek de opportuniteiten van deze AI-systemen die eigenlijk al geruime tijd in gebruik zijn, en tegelijkertijd kwamen de bezorgdheden naar boven. 
+
+> Microsoft zal ChatGPT integreren in zijn zoekmachine Bing. Google heeft Bard, een broertje van ChatGPT.
+
+#### Citizen science
+Eigenlijk voert OpenAI momenteel een enorm burgerwetenschapsproject uit met ChatGPT. Het systeem wordt op een ongekend grote schaal getest vanaf week één van de lancering. Men spreekt van 1 miljoen gebruikers in de eerste week 1 en van 100 miljoen in januari. De ontwikkelaars bij OpenAI gebruiken de input van de gebruikers om het systeem te verbeteren. De leeftijdsgrens van 18 jaar, vooropgesteld door OpenAI, wordt niet gerespecteerd en sommigen maken zich dan ook zorgen over het gebruik van de chatbot door minderjarigen.
+
