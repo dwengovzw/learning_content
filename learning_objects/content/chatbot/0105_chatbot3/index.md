@@ -29,6 +29,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
+teacher_exclusive: true
 ---
 
 # Opdrachten voor in de klas
