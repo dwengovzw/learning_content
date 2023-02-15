@@ -66,7 +66,7 @@ Toegegeven dat dit cherry picking is, veel andere prompts leidden tot een neutra
 
 ![biasverpleegkundige](https://user-images.githubusercontent.com/48352335/219005530-5d95c4af-0107-476b-9704-a9673d7749c6.png)
 
-## Voor een wiskundopdracht
+## Voor een wiskundeopdracht
 
 ![chatGPT3b](https://user-images.githubusercontent.com/48352335/219005727-49c083e7-d9d4-4e70-88d8-f9116903fb82.png)
 
