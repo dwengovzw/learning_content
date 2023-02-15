@@ -49,6 +49,7 @@ Voorbeeld:
 *Dankzij het internet en crawlers is men in staat immense databanken aan te leggen waarop deze systemen worden getraind. Omdat deze systemen getraind zijn
 met data afkomstig van op het world wide web, zijn ze extra gevoelig voor bias.*
 
+> OpenAI is in 2015 opgericht door Sam ALtman en Elon Musk. 
 
 # GPT-3 en ChatGPT
 In 2020 verscheen GPT-3, een neuraal netwerk dat op nog meer data dan GPT-2 werd getraind, o.a. de volledige Wikipedia. GPT-3 is volgens OpenAI "te gebruiken voor quasi elke Engelse taal-taak”.<br>
@@ -65,15 +66,15 @@ Er werd ondertussen dan ook al druk geëxperimenteerd met de mogelijkheden van G
 
 # Werking van deze grote taalmodellen
 
-AI-systemen die taal verwerken, zijn niet in staat met natuurlijke taal te werken. Deze systemen moeten de teksten aangereikt krijgen in een numerieke vorm. Ze maken gebruik van ***word embeddings***. Die embeddings worden gemaakt met AI-technologie, bv. word2vec van Google; gelukkig moeten ze niet manueel aangemaakt worden. <br>
+AI-systemen die taal verwerken, zijn niet in staat met natuurlijke taal te werken. Deze systemen moeten de teksten aangereikt krijgen in een numerieke vorm. De grote taalmodellen maken gebruik van ***word embeddings***. Die embeddings worden gemaakt met AI-technologie, bv. word2vec van Google; gelukkig moeten ze niet manueel aangemaakt worden. <br>
 De woorden in een tekst worden daartoe eerst omgezet naar vectoren. Een vector kan gezien worden als een rij van getallen. *Word embedding* houdt in dat men in deze getallen zoveel mogelijk informatie over de woorden probeert te vangen: om de rij getallen die een bepaald woord vertegenwoordigen te bepalen, wordt rekening gehouden met de betekenis van het woord, welke andere woorden er in veel zinnen samen met het woord voorkomen, de plaats van het woord in een zin, de context van een zin waarin het woord staat. *Embeddings* zetten tekst dus om naar vectoren. 
 
 ![Word embedding](embed/wordtovec1.png "Word embedding word2vec")
-<center>Figuur 3.2: Relaties tussen woorden met word2vec . Embeddings can produce remarkable analogies (Google, 2020).</center> 
+<center>Relaties tussen woorden met word2vec . Embeddings can produce remarkable analogies (Google, 2020).</center> 
 
 
-Bij word2vec bv. zijn semantisch verwante teksten dicht bij elkaar in de vectorruimte geplaatst. Bv. de woorden ‘kat’ en ‘hond’ komen in teksten vaak samen voor met het woord ‘dierenarts’, en in de vectorruimte kan men de drie vectoren dicht bij elkaar vinden. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).
+Bij word2vec bv. zijn **semantisch verwante teksten dicht bij elkaar in de vectorruimte** geplaatst. Bv. de woorden ‘kat’ en ‘hond’ komen in teksten vaak samen voor met het woord ‘dierenarts’, en in de vectorruimte kan men de drie vectoren dicht bij elkaar vinden. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).
 
-De NLP-techniek *word embedding* wordt ook bij zoekmachines gebruikt. M.b.v. *word embedding* heeft een zoekopdracht op het web betere resultaten. De zoekmachine zal behalve de eigenlijke zoekopdracht ook zoeken naar woorden en termen die er verwant mee zijn. 
-Dankzij deze techniek hebben ook automatische vertalingen grote stappen vooruit gezet. Deze werkten vroeger niet goed omdat ze regelgebaseerd geprogrammeerd werden en geen context konden herkennen. Om een tekst te vertalen gaat een modern vertaalprogramma o.a. bepalen welk woord het meeste kans heeft om te volgen op een gegeven rij van woorden. Het houdt er bijvoorbeeld rekening mee dat na ‘Ik koop een’ meestal een substantief of een adjectief met substantief volgt. 
+> De NLP-techniek *word embedding* wordt ook bij zoekmachines gebruikt. M.b.v. *word embedding* heeft een zoekopdracht op het web betere resultaten. De zoekmachine zal behalve de eigenlijke zoekopdracht ook zoeken naar woorden en termen die er verwant mee zijn. 
+> Dankzij deze techniek hebben ook automatische vertalingen grote stappen vooruit gezet. Deze werkten vroeger niet goed omdat ze regelgebaseerd geprogrammeerd werden en geen context konden herkennen. Om een tekst te vertalen gaat een modern vertaalprogramma o.a. bepalen welk woord het meeste kans heeft om te volgen op een gegeven rij van woorden. Het houdt er bijvoorbeeld rekening mee dat na ‘Ik koop een’ meestal een substantief of een adjectief met substantief volgt. 
 
