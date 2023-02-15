@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Inleiding"
+description: "Inleiding"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,4 +32,12 @@ teacher_exclusive: true
 
 # Eindtermen
 
-## Titel
+*Opmerking: voorlopig vindt u hier de eindtermen waarmee KIKS verband houdt en de leerplandoelen van het GO!, het Katholiek Onderwijs Vlaanderen en al enkele van het
+OVSG. Deze leerdoelen worden zo snel mogelijk aangevuld met die van de andere koepels.*
+
+Binnen het KIKS-project kunnen behoorlijk veel leerdoelen aan bod komen. De leerkracht
+bepaalt zelf welke leerdoelen in verband gebracht worden met het project.
+
+In de eindtermen en leerplannen zijn heel wat leerdoelen te vinden die KIKS linken met
+biologie, aardrijkskunde, chemie en wiskunde.
+
