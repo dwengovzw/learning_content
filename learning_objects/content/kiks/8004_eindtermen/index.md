@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen4
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Wiskunde"
+description: "Wiskunde"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
