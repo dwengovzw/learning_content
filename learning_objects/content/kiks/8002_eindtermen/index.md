@@ -30,390 +30,494 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen wiskunde
+# Eindtermen biologie, aardrijkskunde en chemie**
 
-## Algemene eindtermen
+**Vakgebonden eindtermen aardrijkskunde**<br>
 
-De leerlingen kunnen
-3 eenvoudig mathematiseerbare problemen ontleden (onderscheid maken tussen
-gegevens en gevraagde, de relevantie van de gegevens nagaan en verbanden
-leggen ertussen) en vertalen naar een passende wiskundige context;
-4 wiskundige problemen planmatig aanpakken (door eventueel hiërarchisch op te
-splitsen in deelproblemen);
-6 voorbeelden geven van reële problemen die met behulp van wiskunde kunnen
-worden opgelost;
-7 bij het oplossen van wiskundige problemen functioneel gebruikmaken van ICT;
-9 kennis, inzicht en vaardigheden die ze verwerven in wiskunde bij het verkennen,
-vertolken en verklaren van problemen uit de realiteit gebruiken.
-De leerlingen
-13 *zijn gericht op samenwerking om de eigen mogelijkheden te vergroten.
-Reële functies en statistiek
-De leerlingen
-14 lezen op een grafiek af: het stijgen, dalen of constant zijn, de eventuele extrema.
-De leerlingen kunnen
-15 bij veeltermfuncties de afgeleide gebruiken als maat voor de ogenblikkelijke
-verandering en het verband leggen tussen het begrip afgeleide, het begrip
-differentiequotiënt en de richting van de raaklijn aan de grafiek;
-18 bij veeltermfuncties de afgeleide functie gebruiken voor het bestuderen van het
-veranderingsgedrag en voor het opzoeken of verifiëren van extreme waarden en het
-verband leggen tussen de afgeleide functie en bijzonderheden van de grafiek;
-19 het begrip afgeleide herkennen in situaties buiten de wiskunde;
-33 in betekenisvolle situaties gebruikmaken van een normale verdeling als continu
-model bij data met een klokvormige frequentieverdeling en het gemiddelde en de
-standaardafwijking van de gegeven data gebruiken als schatting voor het
-gemiddelde en de standaardafwijking van deze normale verdeling;
-34 het gemiddelde en de standaardafwijking van een normale verdeling grafisch
-interpreteren;
-35 grafisch het verband leggen tussen een normale verdeling en de
-standaardnormale verdeling.
-* Met het oog op de controle door de inspectie werden de attitudes met een * aangeduid in
-de kantlijn.
+*De leerlingen kunnen<br>
+1 een verscheidenheid aan ruimtelijke wetenschappen verbinden met allerlei
+beroepen en met onderzoeksdomeinen;<br>
+6 weer en klimaat in verband brengen met de opbouw van en met processen in de
+atmosfeer;<br>
+7 de invloed van menselijke activiteiten op het milieu zoals: broeikaseffect,
+natuurrampen, zure regen, waterbeheersing, bodemdegradatie en –verbetering met
+voorbeelden illustreren;<br>
+8 de geofysische opbouw van de aarde en de platentektoniek beschrijven en
+gevolgen ervan zoals: de ligging van oceanen en continenten, vulkanisme en
+aardbevingen en bepaalde klimaatsveranderingen verklaren;<br>
+10 productie en consumptie van voedsel en hulpbronnen in relatie brengen met
+demografische evolutie en welvaartsniveau in het kader van een duurzame
+ontwikkeling;<br>
+16 aardrijkskundige gegevens opzoeken, ordenen en op eenvoudige manier
+verwerken, gebruikmakend van beschikbare, hedendaagse informatiebronnen en
+–technieken.<br>*
 
-## Specifieke eindtermen
-Algebra, analyse, kansrekening, wiskunde en cultuur, onderzoekscompetenties
-De leerlingen kunnen
-4 met behulp van matrices problemen wiskundig modelleren en oplossen;
-5 de basiseigenschappen van een reële vectorruimte (beperkt tot dimensie 2 en 3)
-herkennen en gebruiken;
-8 de eerste en de tweede afgeleide van functies berekenen en ze in concrete
-situaties gebruiken.
-16 wetten van de kansrekening toepassen voor onafhankelijke en voor afhankelijke
-gebeurtenissen;
-19 inzicht verwerven in de bijdrage van wiskunde tot de ontwikkeling van exacte en
-humane wetenschappen, techniek, kunst en het kritische denken;
-20 zich oriënteren op een onderzoeksprobleem door gericht informatie te
-verzamelen, te ordenen en te bewerken;
-21 een onderzoeksopdracht met een wiskundige component voorbereiden,
-uitvoeren en evalueren;
-22 de onderzoeksresultaten en conclusies rapporteren en ze confronteren met
-andere standpunten.
-Wiskunde
-In machine learning en deep learning worden wiskunde en principes uit de statistiek
-gebruikt:
-matrices, indices, dimensie van een matrix en eigenschappen van matrices;
-bewerkingen met matrices en eigenschappen van bewerkingen met matrices;
-sommatieteken;
-verloop van functies bij de grafieken over CO 2 , gletsjers... en metrics van neurale
-netwerken;
-veeltermfuncties bij regressie;
-functies met meervoudig voorschrift, bv. ReLU, sign, Heaviside;
-toepassing van logistieke functie bij de sigmoïde als activatiefunctie;
-maken en interpreteren van grafieken;
-toepassing van telproblemen, bv. byte, aantal hyperparameters;
-toepassing formule oppervlakte van een ellips;
-lokaal en globaal minimum van een functie bij gradient descent;
-afgeleiden en kettingregel bij gradient descent;
-kansrekenen (onafhankelijke kansen - productregel) bij binary cross-entropy;
-eigenschappen van logaritmen bij binary cross-entropy;
-statistiek: belang van standaardiseren, gemiddelde en standaardafwijking, Z-score;
-correlatie en regressie;
-methode van de kleinste kwadraten;
-voorbeelden van een normale en een scheve verdeling bij de verdeling van
-kleurintensiteit in een grijswaardenafbeelding;
-wiskunde toegepast in digitale beeldverwerking, RGB-code;
-convolutiebewerking.
-Het project KIKS leent zich uitstekend om in de wiskundeles in een actieve werkvorm en
-met ICT aan de slag te gaan.
-De leerlingen werken met KIKS aan ICT-vaardigheden, wiskundige taalvaardigheid, denk-,
-redeneer- en onderzoeksvaardigheden en probleemoplossende vaardigheden.
-Onder voorbehoud: Lineaire en exponentiële groei in notebook CO 2 - evolutie sinds
-industriële revolutie.
+*De leerlingen zijn<br>
+27 kritisch tegenover aangeboden informatie zoals die m.b.t. ontwikkelings-,
+welvaarts- en milieuproblemen;<br>
+29 bereid om lokale problemen van milieu en samenleving in een globale context te
+plaatsen.<br>*
 
-## Linken met het leerplan 'Wiskunde' (2006/060) van het GO!
-Algebra
-De leerlingen
-kennen de definitie van een matrix, de bijhorende terminologie en notaties en kunnen
-deze gebruiken;
-kennen een rijmatrix, een kolommatrix, een vierkante matrix, een driehoeksmatrix, een
-diagonaalmatrix, de eenheidsmatrix, de nulmatrix;
-kunnen matrices optellen, vermenigvuldigen met een reëel getal, vermenigvuldigen,
-transponeren;
-kennen de eigenschappen in verband met de vermenigvuldiging en het transponeren.
-Analyse
-De leerlingen kunnen
-aan de hand van de grafiek het stijgen/dalen en de extrema van veeltermfuncties van
-de derde graad bepalen;
-met behulp van ICT veeltermfuncties van hogere graad bestuderen;
-aan de hand van concrete gevallen werken met de begrippen even/oneven functie,
-meervoudig functievoorschrift;
-bij functies met behulp van het begrip limiet het verband leggen tussen: het begrip
-afgeleide, het begrip differentiequotiënt, de richtingscoëfficiënt van de raaklijn aan de
-grafiek, de maat voor de ogenblikkelijke verandering;
-de grafiek bepalen van f(x) = a sin(bx + c)+ d en f(x) = a cos(bx + c) + d, alsook het
-verband leggen tussen het functievoorschrift en de grafiek;
-vraagstukken oplossen, eventueel met behulp van ICT, die aanleiding geven tot
-goniometrische functies (waaronder extremumvraagstukken), alsook de oplossingen
-van deze vraagstukken grafisch interpreteren;
-de afgeleide functie bepalen van exponentiële en logaritmische functies.
-Meetkunde
-De leerlingen
-kennen het begrip vector in de ruimte, kunnen vectoren optellen en vermenigvuldigen
-met een reëel getal en kennen de nodige eigenschappen in verband met vectoren;
-kunnen in de ruimte met oorsprong (waarin op gepaste wijze een basis gekozen
-wordt) een punt associëren met zijn coördinaat;
-kunnen in een orthonormale basis de loodrechte stand van twee objecten (vector,
-rechte, vlak) onderzoeken.
-Statistiek, kansrekenen
-De leerlingen
-kunnen in betekenisvolle situaties gebruikmaken van een normale verdeling als
-continu model bij data met een klokvormige frequentieverdeling en het gemiddelde
-en de standaardafwijking van de gegeven data gebruiken als schatting voor het
-gemiddelde en de standaardafwijking van deze normale verdeling;
-kunnen het gemiddelde en de standaardafwijking van een normale verdeling grafisch
-interpreteren;
-kunnen gegevens van steekproeven bestaande uit koppels waarnemingsgetallen
-samenvatten in een tabel en grafisch voorstellen door middel van een puntenwolk;
-kennen de betekenis van de lineaire correlatiecoëfficiënt;
-kunnen met behulp van ICT de lineaire correlatiecoëfficiënt berekenen;
-kennen het begrip lineaire regressie;
-kunnen met behulp van ICT de regressiecoëfficiënten bepalen;
-kunnen bepalen of de gevonden regressierechte geschikt is of niet.
-Linken met het leerplan 'Wiskunde' (2005/069) van het GO!
-Algebra en analyse
-De leerlingen kunnen
-bijzonderheden van grafieken, eventueel aangevuld met tabellen, aflezen, zoals het
-domein, de nulwaarden, het stijgen en dalen, het tekenverloop, de periodiciteit, de
-symmetrieën, de extreme waarden;
-aan de hand van de grafiek het stijgen/dalen en de extrema van veeltermfuncties van
-de eerste en tweede graad bepalen;
-veranderingen beschrijven en vergelijken met behulp van differentiequotiënten;
-de grafiek opbouwen van de functie f(x) = a sin(bx + c) + d en op deze grafiek de
-betekenis van a, b, c en d interpreteren;
-de onderstaande rekenregels toepassen: logaritme van een product, logaritme van
-een quotiënt, logaritme van een macht.
-Kansrekening en statistiek
-De leerlingen kunnen
-de regel van Laplace, de somregel en de complementregel bij het oplossen van
-oefeningen toepassen;
-met behulp van ICT grafische voorstellingen (waaronder alleszins het histogram)
-maken van statistische gegevens;
-aan de hand van voorbeelden, in betekenisvolle situaties, gebruikmaken van de
-normale verdeling (met de bijhorende klokcurve) als model van een reeks statistische
-gegevens;
-het gemiddelde en de standaardafwijking gebruiken als karakteristieken van een
-normale verdeling en deze kengetallen ook grafisch interpreteren.
-Linken met het leerplan 'Wiskunde' (2009/050) van het GO!
-Algebra en analyse
-De leerlingen
-kennen de begrippen domein, bereik, nulwaarde, tekenverloop, stijgen/dalen/constant
-zijn, extremum en kunnen deze aflezen op een grafiek;
-kunnen met behulp van ICT de grafiek lezen van veeltermfuncties van graad hoger
-dan drie;
-kunnen een grafische voorstelling maken van functies met meervoudig voorschrift,
-opgebouwd uit veeltermfuncties;
-kunnen bij functies met behulp van het intuïtief begrip van limiet het verband leggen
-tussen: het begrip afgeleide, het begrip differentiequotiënt, de richtingscoëfficiënt
-van de raaklijn aan de grafiek, de maat voor de ogenblikkelijke verandering;
-kennen het begrip afgeleide functie;
-kunnen op de bovenstaande functies de somregel, de veelvoudregel, de productregel
-en de quotiëntregel toepassen;
-kunnen, met behulp van de grafische betekenis van het afgeleid getal, de raaklijn aan
-de grafiek van een functie construeren, in een punt van de kromme;
-kunnen de vergelijking van de raaklijn aan de grafiek van een functie opstellen, in een
-punt van de kromme;
-kunnen de kettingregel voor het afleiden van samengestelde functies toepassen;
-kennen het verband tussen het tekenverloop van de eerste afgeleide en het opsporen
-van extrema en kunnen het verloop van een veeltermfunctie van de derde graad
-uitleggen;
-kunnen de grafiek opbouwen van de functie f(x) = a sin(bx + c) + d en kunnen op deze
-grafiek de betekenis van a, b, c en d interpreteren;
-kunnen vraagstukken/problemen oplossen die aanleiding geven tot een
-goniometrische vergelijking of functie;
-kunnen de onderstaande rekenregels toepassen: logaritme van een product,
-logaritme van een quotiënt, logaritme van een macht, verandering van grondtal;
-kunnen de afgeleide functie bepalen van logaritmische functie.
-Stochastiek
-De leerlingen
-kunnen in concrete situaties absolute en relatieve frequentie en enkelvoudige en
-cumulatieve frequentie verwoorden, berekenen en interpreteren zowel bij individuele
-als gegroepeerde gegevens;
-kunnen grafische voorstellingen gebruiken om statistische gegevens binnen een
-bepaalde context te interpreteren;
-kunnen de regel van Laplace, de somregel en de complementregel bij het oplossen
-van oefeningen toepassen;
-kunnen in betekenisvolle situaties gebruikmaken van een normale verdeling als
-continu model bij data met een klokvormige frequentieverdeling en het gemiddelde
-en de standaardafwijking van de gegeven data gebruiken als schatting voor het
-gemiddelde en de standaardafwijking van deze normale verdeling.
-kunnen het gemiddelde en de standaardafwijking van een normale verdeling grafisch
-interpreteren;
-kunnen gegevens van steekproeven bestaande uit koppels waarnemingsgetallen
-samenvatten in een tabel en grafisch voorstellen door middel van een puntenwolk;
-kennen de betekenis van de lineaire correlatiecoëfficiënt en kunnen deze berekenen
-met behulp van ICT;
-kennen het begrip lineaire regressie;
-kunnen de regressiecoëfficiënten bepalen met behulp van ICT en bepalen of de
-gevonden regressierechte geschikt is of niet.
-Matrices
-De leerlingen
-kennen de definitie van een matrix;
-kennen een rijmatrix, een kolommatrix, een vierkante matrix, een driehoeksmatrix, een
-diagonaalmatrix, de eenheidsmatrix, de nulmatrix;
-kunnen matrices optellen, vermenigvuldigen met een reëel getal en vermenigvuldigen;
-kunnen matrices transponeren.
-Ruimtemeetkunde
-De leerlingen
-kennen het begrip coördinaat (of plaatsvector) van een punt in de ruimte en de
-betekenis van de verschillende coördinaatgetallen;
-kunnen coördinaten van punten optellen en vermenigvuldigen met een scalair;
-kennen de definitie van het inproduct (of scalair product) van twee
-(richtings)vectoren en aan de hand hiervan de volgende begrip: orthogonaliteit van
-richtingsvectoren.
-Linken met het leerplan 'Wiskunde' (D/2004/0279/019) van het Katholiek Onderwijs
+**Eindtermen biologie**<br>
+
+Eindtermen voor de basisvorming<br>
+*W3. Uit data, een tabel of een grafiek relaties en waarden afleiden om een besluit te
+formuleren.<br>
+W6. Bij het verduidelijken van en het zoeken naar oplossingen voor
+duurzaamheidsvraagstukken wetenschappelijke principes hanteren die betrekking
+hebben op ten minste grondstoffen, energie, biotechnologie, biodiversiteit en het
+leefmilieu.<br>
+W7. De natuurwetenschappen als onderdeel van de culturele ontwikkeling duiden en
+de wisselwerking met de maatschappij op ecologisch, ethisch, technisch,
+socio-economisch en filosofisch vlak illustreren.<br>*
+
+Eindtermen biologie<br>
+*B1. Celorganellen, zowel op lichtmicroscopisch als op elektronenmicroscopisch
+niveau, benoemen en de functies ervan aangeven.<br>
+B10. Wetenschappelijk onderbouwde argumenten geven voor de biologische evolutie
+van organismen, met inbegrip van de mens.<br>*
+
+**Specifieke eindtermen natuurwetenschappen**<br>
+*De leerlingen kunnen op verschillende schaalniveaus<br>
+6 processen waarbij energie wordt getransformeerd of getransporteerd, beschrijven
+en herkennen in voorbeelden.<br>
+9 effecten van de interactie tussen materie en elektromagnetische straling
+beschrijven en in voorbeelden herkennen.<br>
+14 relaties tussen systemen beschrijven en onderzoeken.<br>
+17 voorbeelden geven van cyclische processen en deze cycli op een tijdschaal
+plaatsen.<br>
+19 relaties tussen cyclische processen illustreren.<br>*
+
+*De leerlingen kunnen<br>
+27 de relatie tussen natuurwetenschappelijke ontwikkelingen en technische
+toepassingen illustreren.<br>
+28 effecten van natuurwetenschap op de samenleving illustreren, en omgekeerd.<br>
+29 zich oriënteren op een onderzoeksprobleem door gericht informatie te verzamelen,
+te ordenen en te bewerken.<br>*
+
+**Eindtermen chemie**<br>
+Eindtermen voor de basisvorming<br>
+*W1. Eigen denkbeelden verwoorden en die confronteren met denkbeelden van
+anderen, metingen, observaties, onderzoeksresultaten of wetenschappelijke
+inzichten.<br>
+W3. Uit data, een tabel of een grafiek relaties en waarden afleiden om een besluit te
+formuleren.<br>
+W4. Wetenschappelijke terminologie, symbolen en SI-eenheden gebruiken.<br>
+W7. De natuurwetenschappen als onderdeel van de culturele ontwikkeling duiden en
+de wisselwerking met de maatschappij op ecologisch, ethisch, technisch,
+socio-economisch en filosofisch vlak illustreren.<br>*
+
+**Eindtermen chemie**<br>
+*C1. Eigenschappen en actuele toepassingen van stoffen, waaronder kunststoffen,
+verklaren aan de hand van de moleculaire structuur van die stoffen.<br>*
+
+**Aardrijkskunde**<br>
+Het thema van de klimaatverandering biedt veel mogelijkheden aan de leerkracht
+aardrijkskunde om bepaalde leerplandoelen aan te brengen binnen het kader van het
+KIKS-project. Bovendien biedt het project heel wat mogelijkheden om de leerlingen actief
+en zelfstandig te laten leren en om ICT-vaardigheden bij te brengen.<br>
+De volgende items uit KIKS hebben een link met het vak aardrijkskunde:<br>
+- het broeikaseffect en het versterkt broeikaseffect;
+- de invloed van CO 2 op het klimaat;
+- de samenhang tussen CO 2 en de temperatuur;
+- paleoklimatologie en het gebruik van klimaatproxy’s (bv. ijskernen en huidmondjes
+op fossiele bladeren);
+- klimaatveranderingen uit het verre verleden met bv. het uitsterven van sommige
+flora en fauna;
+- de kleine ijstijd met verlenging van de berggletsjers, gevolgd door het smelten van
+de berggletsjers nu, het albedo-effect;
+- systemen die elkaar beïnvloeden, zoals de uitstoot van broeikasgassen door de
+mens, het klimaat, de fotosynthese, de planten die de CO 2 -cyclus van de wereld
+beïnvloeden, de biodiversiteit en de mondiale voedselvoorziening;
+- het verwerken met ICT van de data die NOAA, NASA/GIS en Scripps online ter
+beschikking stellen;
+- het besef dat wetenschappers van allerhande domeinen samenwerken om
+klimaatmodellen op te stellen.
+
+**Linken met het leerplan 'Aardrijkskunde' (2017/028) van het GO!**<br>
+*De leerlingen<br>
+1.4.7 bereiden een onderzoeksopdracht over een onderzoeksprobleem uit de
+geo-wetenschappen voor;<br>
+1.4.8. voeren een onderzoeksopdracht over een onderzoeksprobleem uit de
+geo-wetenschappen uit;<br>
+1.4.10 zoeken aardrijkskundige gegevens op, gebruikmakend van beschikbare,
+hedendaagse informatiebronnen en –technieken;<br>
+1.4.11 ordenen aardrijkskundige gegevens, gebruikmakend van beschikbare,
+hedendaagse informatiebronnen en –technieken;<br>
+1.4.12 verwerken aardrijkskundige gegevens, gebruikmakend van beschikbare,
+hedendaagse informatiebronnen en –technieken;<br>
+1.4.13 formuleren een besluit op basis van hun bevindingen (D);<br>
+1.4.17 streven nauwkeurigheid na bij het uitvoeren van een onderzoeksopdracht;
+1.4.18 staan open voor feedback van derden (D);<br>
+1.4.19 groeien naar een emotionele betrokkenheid bij het fascinerende van de wereld
+rondom hen via interesse voor aardrijkskunde (D);<br>
+2.1.6 zijn bereid om lokale problemen van milieu en samenleving in een globale
+context te plaatsen;<br>
+4.1.1 beschrijven de samenhang en wisselwerking tussen de verschillende sferen;<br>
+4.1.3 illustreren met voorbeelden verbanden tussen en/of binnen de verschillende
+sferen;<br>
+4.2.2 bespreken de samenhang en wisselwerking tussen het fysisch milieu en de
+evolutie van het leven aan de hand van concrete cases;<br>
+4.7.1 brengen productie en consumptie van voedsel en hulpbronnen in relatie met
+demografische evolutie en welvaartsniveau in het kader van een duurzame
+ontwikkeling;<br>
+4.7.6 illustreren met voorbeelden de negatieve invloed van menselijke activiteiten op
+het milieu zoals versterkt broeikaseffect, (natuur)rampen, zure regen,
+waterproblematiek, bodemdegradatie.<br>*
+
+**Linken met het leerplan 'Aardrijkskunde' (OO-2017/04) van het GO!**<br>
+*De leerlingen<br>
+1.3.3. formuleren aan de hand van grafieken, tabellen of beeldmateriaal
+wetenschappelijk onderbouwde argumenten voor biologische evolutie, met inbegrip
+van de mens;<br>
+2.1.4 zijn bereid om lokale problemen van milieu en samenleving in een bredere
+maatschappelijke context te plaatsen;<br>
+4.1.1 beschrijven de samenhang en wisselwerking tussen de verschillende sferen;
+4.1.2 illustreren met voorbeelden verbanden tussen en/of binnen de verschillende
+sferen;<br>
+4.2.2 bespreken de samenhang en wisselwerking tussen het fysisch milieu en de
+evolutie van het leven aan de hand van concrete cases;<br>
+4.2.3 situeren op een geologische tijdschaal de belangrijkste geologische
+gebeurtenissen, klimaatveranderingen en massa-extincties.<br>*
+
+Linken met het leerplan 'Aardrijkskunde' (D/2012/7841/023) van het Katholiek Onderwijs
 Vlaanderen
-Attitudes en opvattingen
-De leerlingen ontwikkelen
-9 zin voor nauwkeurigheid en orde;
-12 zelfvertrouwen, zelfstandigheid, doorzettingsvermogen en doelmatigheid bij het
-aanpakken van problemen en opdrachten;
-14 zin voor samenwerking en overleg;
-15 waardering voor wiskunde door inzicht in de bijdrage ervan in de culturele,
-historische en wetenschappelijke ontwikkeling; , o.m. zin voor de rol van wiskunde bij
-de ontwikkeling van exacte en humane wetenschappen en de techniek zin voor de rol
-van wiskunde bij het beschrijven van reële problemen;
-16 inzicht in hun studie- en beroepskeuzeproces, o.m. door het inwinnen van
-informatie over het aandeel van wiskunde in een vervolgopleiding en die vergelijken
-met hun voorbereiding.
-Analyse
-AN2 Met behulp van de beschikbare analysekennis problemen wiskundig modelleren
-en oplossen.
-AN4 Bij het onderzoeken van functies, het oplossen van vergelijkingen of
-ongelijkheden, bij berekeningen van afgeleiden en integralen en bij het oplossen van
-problemen die geformuleerd zijn met functies, op een verantwoorde wijze
-gebruikmaken van ICT-middelen.
-AN5 Op een grafiek van een functie eventuele symmetrieën, het stijgen, dalen of
-constant zijn, het teken, de eventuele nulpunten, de eventuele extrema aflezen.
-AN17 Eigenschappen van exponenten en logaritmen gebruiken in berekeningen.
-AN28 Problemen oplossen waarbij gebruikgemaakt wordt van een goniometrisch
-verband, o.m. over periodieke verschijnselen die beschreven worden met een
-algemene sinusfunctie.
-AN31 De afgeleide gebruiken als maat voor de ogenblikkelijke verandering van een
-functie en met behulp van een intuïtief begrip van limiet het verband leggen tussen
-het begrip afgeleide, het begrip differentiequotiënt en de richting van de raaklijn aan
-de grafiek.
-AN32 Het begrip afgeleide herkennen in situaties binnen en buiten de wiskunde.
-AN33 De eerste en tweede afgeleide van functies berekenen en ze in concrete
-situaties gebruiken.
-AN34 Extremumproblemen wiskundig modelleren en oplossen.
-Numerieke methoden
-NM1 In concrete situaties, numerieke methodes toepassen om de oplossingen van
-vergelijkingen te vinden.
-Matrices en stelsels, lineaire programmering
-AL9 Met behulp van matrices een concreet probleem modelleren.
-AL10 Binnen een probleem bewerkingen met matrices uitvoeren: matrices optellen,
-een matrix met een getal vermenigvuldigen, een matrix transponeren, matrices
-vermenigvuldigen.
-LP1 Vraagstukken oplossen die leiden tot een ongelijkheid van de eerste graad met
-één onbekende en de oplossing grafisch voorstellen en/of symbolisch noteren.
-Ruimtemeetkunde
-ME1 Vectoren en coördinaatgetallen gebruiken om punten te bepalen in de ruimte.
-ME2 De basiseigenschappen van een reële vectorruimte (beperkt tot dimensie twee
-en drie) formuleren en gebruiken.
-ME3 Vectoren en coördinaatgetallen en de bewerkingen ervan gebruiken om
-problemen in ruimtelijke situaties op te lossen.
-ME7 Hoeken tussen rechten, tussen rechten en vlakken en tussen vlakken berekenen.
-Statistiek en kansrekenen, lineaire regressie en correlatie
-SK1 Statistische gegevens en grafische voorstellingen van statistische gegevens
-interpreteren.
-SK2 Aan de hand van concrete voorbeelden aangeven dat men enkel op basis van
-aselecte steekproeven uitspraken kan doen over de ganse populatie en dat bij elk
-statistisch experiment toeval een rol speelt.
-SK3 In betekenisvolle situaties, gebruikmaken van een normale verdeling als continu
-model bij data met een klokvormige frequentieverdeling en het gemiddelde en de
-standaardafwijking van de gegeven data gebruiken als schatting voor het gemiddelde
-en de standaardafwijking van deze normale verdeling.
-LR1 Bij een reeks statistische gegevens van twee variabelen op basis van een grafiek
-eventuele lineaire verbanden aangeven.
-LR2 Bij concrete voorbeelden de betekenis van de correlatiecoëfficiënt uitleggen.
-LR3 Met behulp van ICT bij statistische gegevens van twee variabelen met een grote
-correlatie de regressielijn bepalen en hiermee interpoleren en extrapoleren.
-SK7 Systematisch tellen bij het berekenen van kansen, gebruikmaken van een
-kansboom, de som-, en product- en complementregel voor kansen toepassen en
-herkennen wanneer gebeurtenissen onafhankelijk van elkaar zijn.
-Mathematiseren en oplossen van problemen, onderzoekscompetenties
-MA1 Problemen herkennen, analyseren en de probleemstelling verhelderen met
-behulp van hun wiskundekennis.
-MA2 Heuristische methodes gebruiken om een probleem aan te pakken.
-MA3 Resultaten interpreteren binnen de context van het gestelde probleem.
-MA4 Een reflecterende houding verwerven door gecontroleerd terugkijken op de
-oplossingsweg en de uitgevoerde berekeningen.
-MA5 Vertrouwen verwerven door hun wiskundekennis zinvol in te schakelen.
-OC1 Zich oriënteren op een onderzoeksprobleem door gericht informatie te
+De leerlingen verwerven vaardigheden in het inschatten en interpreteren van feiten,
+gegevens en situaties op basis van verworven kennis.
+Een geïntegreerd onderzoek waarbij de leerling de drie stappen van de
+onderzoekscompetentie doorloopt.
+A1 Een verscheidenheid aan ruimtelijke wetenschappen bij naam noemen en
+verbinden met allerlei beroepen en onderzoeksdomeinen.
+A16 Aardrijkskundige gegevens opzoeken, ordenen en op eenvoudige manier
+verwerken, gebruikmakend van beschikbare hedendaagse informatiebronnen en
+-technieken.
+A16 Interactief leren. (U)
+1.2 Warmtebalans (in- en uitstraling, natuurlijk broeikaseffect).
+2. Onderzoeken welke mechanismen op aarde zorgen voor de verspreidng van de
+energie van de zon binnen de atmosfeer.
+1.1 Milieuprobleem zoals broeikaseffect.
+2.1 Het probleem van de wereldvoedselvoorziening in relatie met … milieuproblemen
+en internationale politiek.
+3.2 Milieuproblemen i.v.m. gebruik van energie.
+3.3 Duurzaam beheer van grondstoffen en energie.
+7.2 Situering van enkele klimaatswijzigingen op de geologische tijdschaal.
+7.3 Situering van de grote veranderingen in de biologische evolutie op de geologische
+tijdschaal.
+8.2 Dateringstechnieken zoals pollenanalyse, varven, isotopen, dendrochronologie.
+Linken met het leerplan 'Aardrijkskunde' (D/2017/13.758/010) van het Katholiek
+Onderwijs Vlaanderen
+AD2 Aardrijkskundige gegevens opzoeken, ordenen en op eenvoudige manier
+verwerken, gebruikmakend van beschikbare actuele informatiebronnen en
+-technieken.
+7 Argumenten aangeven die de evolutietheorie ondersteunen.
+9 De belangrijkste geologische en biologische gebeurtenissen en
+klimaatveranderingen situeren op de geologische tijdschaal.
+14 Beschrijven hoe de energie van de zon in warmte wordt omgezet.
+21 De rol van de oceanen in de koolstofcyclus toelichten.
+31 De mondiale klimaatverandering analyseren: het natuurlijk broeikaseffect
+beschrijven als noodzaak voor het huidige ecosysteem aarde, de relatie tussen
+menselijke activiteiten, de demografische evolutie en het versterkt broeikaseffect
+afleiden en de fysische, sociaal-economische en ecologische gevolgen afleiden,
+technologische oplossingen en mentaliteitswijzigingen analyseren op hun
+duurzaamheid.
+Biologie
+In de biologie is het vooral het proces van fotosynthese dat aan bod komt:
+opname van CO 2 ;
+de rol van fotosynthese in de CO 2 -cyclus van de wereld;
+de aanpassing van planten aan de hoeveelheid CO 2 in de atmosfeer en de mogelijke
+impact op de biodiversiteit en de voedselvoorziening;
+het practicum microscopie over huidmondjes;
+de aanpassing van planten aan omgevingsfactoren: droogte, temperatuur,
+CO 2 -concentratie, zon of schaduw;
+de verantwoordelijkheid van de consument en de producent van AI-systemen.
+Linken met het leerplan 'Biologie' (2014/005) van het GO!
+De leerlingen kunnen
+1 aan de hand van beeldmateriaal celonderdelen herkennen, situeren en benoemen;
+3 een aantal types cellen onderscheiden;
+4 een lichtmicroscopisch preparaat maken, preparaten onder de lichtmicroscoop
+bestuderen en hun waarnemingen rapporteren;
+10 uitleggen hoe cellen van autotrofe organismen zelf glucose (energierijke
+organische moleculen) kunnen opbouwen uitgaande van een externe energiebron en
+energiearme moleculen;
+12 aan de hand van een schema aantonen onder welke vormenergie in elke cel wordt
+geproduceerd, getransporteerd en gestockeerd;
+50 aan de hand van beeldmateriaal tot de conclusie komen dat de levensvormen op
+aarde in de loop van de (geologische) tijd steeds veranderen, en dat de biodiversiteit
+op en neer gaat;
+54 argumenten geven uit verschillende wetenschappelijke domeinen die de
+evolutietheorie ondersteunen;
+63 A. een relatie onderzoeken tussen “milieu en organismen” en die relatie
+wetenschappelijk onderbouwen door verwerking van gegevens (meetgegevens al of
+niet uit de literatuur, of observaties) op een eenvoudige statistische of andere
+wiskundige manier;
+63 B. Met een tweetal voorbeelden illustreren en/of onderzoeken hoe verandering van
+een milieufactor in de habitat van dieren, planten, een impact heeft op bepaalde
+aspecten van hun leven;
+66 de verschillende weefsels in verband brengen met hun functie voor de plant.
+Linken met het leerplan 'Natuurwetenschappen/Biologie' (OO-2017-006) van het GO!
+De leerlingen kunnen
+het verband tussen evolutie en maatschappij illustreren gebruikmakend van actuele
+thema’s.
+Linken met het leerplan 'Biologie' (D/2014/7841/011) van het Katholiek Onderwijs
+Vlaanderen
+Bij contextrijke lessen worden verbindingen gelegd tussen de leerinhoud, de
+leefwereld van de leerling, de actualiteit en eventueel andere vakken.
+Leerlingen worden aangezet tot gerichte interactie over de leerinhoud, in groepjes (bv.
+bij experimenteel werk) of klassikaal. Opdrachten worden zo gesteld dat leerlingen
+worden uitgedaagd om in interactie te treden.
+ICT is algemeen doorgedrongen in de maatschappij en het dagelijks leven van de
+leerling. Sommige toepassingen kunnen, daar waar zinvol, geïntegreerd worden in de
+lessen biologie.
+Er worden minimum 6 lestijden practica uitgevoerd over de graad aansluitend bij de
+leerplandoelstellingen die er zich toe lenen.
+Realiseren van de onderzoekscompetentie binnen de pool wetenschappen.
+AD6 De wisselwerking tussen biologie en maatschappij op ecologisch, ethisch,
+technisch, socio-economisch en filosofisch vlak illustreren.
+B2 Door vergelijkend lichtmicroscopisch onderzoek, gelijkenissen en verschillen
+tussen de celtypes verwoorden.
+B18 De stof- en energieomzettingen bij fotosynthesereacties schematisch
+weergeven en situeren in de chloroplast.
+U2 Fotolyse, fotofosforylatie en de Calvincyclus bespreken en situeren in de cel.
+U4 Experimenteel aantonen welke stofomzettingen bij de fotosynthese optreden en
+de factoren die de fotosynthese beïnvloeden, onderzoeken en verklaren.
+U5 Macroscopische en microscopische structurele aanpassingen van de plant aan
+fotosynthese beschrijven.
+Linken met het leerplan 'Natuurwetenschappen' (D/2017/13.758/011) van het Katholiek
+Onderwijs Vlaanderen
+AD2 De wisselwerking tussen natuurwetenschappen en maatschappij op ecologisch,
+ethisch, technisch, socio-economisch en filosofisch vlak illustreren.
+B21 Argumenten aangeven die de biologische evolutie ondersteunen en
+tegenargumenten kritisch bespreken.
+Chemie
+In de chemie kan de CO 2 -concentratie en fotosynthese gelinkt worden aan chemisch
+rekenen, lewisstructuren, redoxreacties, energieomzettingen, wetenschappelijke
+vaardigheden en onderzoekscompetenties.
+Linken met het leerplan 'Chemie’ (2014/007) van het GO!
+AD3. Een methode of een onderzoeksplan opstellen om de gestelde vraag te
+onderzoeken. (uitvoering)
+AD8. De waarnemingen/ waarden ordenen in een tabel en/ of voorstellen in een
+grafiek. (verwerking)
+AD9. Uit de waarnemingen/ grafieken conclusies trekken en het resultaat evalueren.
+(besluit en evaluatie)
+AD13. De wisselwerking tussen natuurwetenschappen en de maatschappij op
+ecologisch, ethisch, technisch, socio-economisch en filosofisch vlak illustreren.
+De leerlingen voeren minimum één informatieopdracht voor het vak chemie uit in de
+derde graad (bv. verzuring van de oceaan).
+De leerlingen kunnen
+6 de structuur van moleculen met de lewisformule voorstellen;
+7 het verband leggen tussen de werkelijke ruimtelijke structuur van de moleculen en
+hybridisatie;
+8 uit de ruimtelijke structuur en het verschil in elektronegatieve waarden afleiden of
+de molecule polair of apolair is;
+42 de massaconcentratie, molconcentratie, massa-volume-procent, massaprocent en
+volumeprocent van een oplossing berekenen;
+46 redoxvergelijkingen opstellen vertrekkende van de gegevens van het experiment;
+57 van een aantal stoffen of mengsels een typische toepassing of eigenschap
+aangeven.
+Linken met het leerplan 'Chemie’ (2014/008) van het GO!
+AD3. Een methode of een onderzoeksplan opstellen om de gestelde vraag te
+onderzoeken. (uitvoering)
+AD8. De waarnemingen/ waarden ordenen in een tabel en/ of voorstellen in een
+grafiek. (verwerking)
+AD9. Uit de waarnemingen/ grafieken conclusies trekken en het resultaat evalueren.
+(besluit en evaluatie)
+AD13. De wisselwerking tussen natuurwetenschappen en de maatschappij op
+ecologisch, ethisch, technisch, socio-economisch en filosofisch vlak illustreren.
+De leerlingen voeren minimum één informatieopdracht voor het vak chemie uit in de
+derde graad (bv. verzuring van de oceaan).
+De leerlingen kunnen
+6 de structuur van moleculen met de lewisformule voorstellen;
+7 uit de ruimtelijke structuur en het verschil in elektronegatieve waarden afleiden of
+de molecule polair of apolair is;
+33 de massaconcentratie, molconcentratie, massa-volume-procent, massaprocent en
+volumeprocent van een oplossing berekenen;
+40 redoxvergelijkingen opstellen vertrekkende van de gegevens van het experiment;
+46 van een aantal stoffen of mengsels een typische toepassing of eigenschap
+aangeven.
+Linken met het leerplan 'Chemie’ (O/2/2014/293) van het OVSG
+16 Uit data, een tabel of een grafiek relaties en waarden kunnen afleiden om een
+besluit te formuleren.
+19 Alleen of in groep, een opdracht kunnen uitvoeren en er een verslag over
+uitbrengen.
+20 Zich kunnen oriënteren op een onderzoeksprobleem door gericht informatie te
 verzamelen, te ordenen en te bewerken.
-OC2 Een onderzoeksopdracht met een wiskundige component voorbereiden,
-uitvoeren en evalueren.
-OC3 De onderzoeksresultaten en conclusies rapporteren en ze confronteren met
-andere standpunten.
-Linken met het leerplan 'Wiskunde' (D/2004/0279/022) van Katholiek Onderwijs
+21 Een onderzoeksopdracht met een wetenschappelijke component kunnen
+voorbereiden, uitvoeren en evalueren.
+27 Bij het verduidelijken van en het zoeken naar oplossingen voor
+duurzaamheidsvraagstukken wetenschappelijke principes hanteren die betrekking
+hebben op aspecten waaronder ten minste grondstoffen, energie, biotechnologie,
+biodiversiteit en het leefmilieu.
+29 De relatie tussen natuurwetenschappelijke ontwikkelingen en technische
+toepassingen kunnen illustreren.
+31 Effecten van de chemie op de samenleving kunnen illustreren en omgekeerd.
+32 Met een voorbeeld kunnen illustreren dat sociale, economische en ecologische
+belangen de ontwikkeling van de natuurwetenschappen kunnen richten, bevorderen of
+vertragen.
+35 Het belang van chemische kennis in verschillende opleidingen en beroepen
+kunnen illustreren.
+41 Chemische bindingen kunnen classificeren en beschrijven op basis van
+samenstelling, eigenschappen en functie en relaties kunnen leggen.
+42 Chemische bindingen met behulp van een model kunnen voorstellen en
+eigenschappen hiermee kunnen verklaren.
+43 Het oplosproces in verband kunnen brengen met het polaire of apolaire karakter
+van de opgeloste stof en het oplosmiddel.
+46 Voor een aflopende reactie, waarvan de reactievergelijking gegeven is, en op basis
+van gegeven stofhoeveelheden of massa’s, die stofhoeveelheden en massa’s bij de
+eindsituatie kunnen berekenen.
+48 Processen waarbij energie wordt getransformeerd of getransporteerd kunnen
+beschrijven en herkennen in voorbeelden.
+58 In een gegeven redoxevenwicht de betrokken deeltjes, op basis van de
+elektronenoverdracht, kunnen identificeren al oxidator of als reductor.
+68 Een typische toepassing en fysische en chemische eigenschappen kunnen
+aangeven van de opgesomde stoffen of mengsels.
+Linken met het leerplan 'Chemie’ (O/2/2014/292) van het OVSG
+16 Uit data, een tabel of een grafiek relaties en waarden kunnen afleiden om een
+besluit te formuleren.
+19 Alleen of in groep, een opdracht kunnen uitvoeren en er een verslag over
+uitbrengen.
+22 Bij het verduidelijken van en het zoeken naar oplossingen voor
+duurzaamheidsvraagstukken wetenschappelijke principes hanteren die betrekking
+hebben op aspecten waaronder ten minste grondstoffen, energie, biotechnologie,
+biodiversiteit en het leefmilieu.
+23 De wisselwerking tussen de natuurwetenschappen, de technologische
+ontwikkelingen en de leefomstandigheden van de mens met een voorbeeld kunnen
+illustreren.
+25 Met een voorbeeld kunnen illustreren dat sociale, economische en ecologische
+belangen de ontwikkeling van de natuurwetenschappen kunnen richten, bevorderen of
+vertragen.
+27 Het belang van chemische kennis in verschillende opleidingen en beroepen
+kunnen illustreren.
+32 Chemische bindingen kunnen classificeren en beschrijven op basis van
+samenstelling, eigenschappen en functie en relaties kunnen leggen.
+33 Het oplosproces in verband kunnen brengen met het polaire of apolaire karakter
+van de opgeloste stof en het oplosmiddel.
+34 Voor een aflopende reactie, waarvan de reactievergelijking gegeven is, en op basis
+van gegeven stofhoeveelheden of massa’s, die stofhoeveelheden en massa’s bij de
+eindsituatie kunnen berekenen.
+42 In een gegeven redoxevenwicht de betrokken deeltjes, op basis van de
+elektronenoverdracht, kunnen identificeren al oxidator of als reductor.
+51 Een typische toepassing en fysische en chemische eigenschappen kunnen
+aangeven van de opgesomde stoffen of mengsels.
+Linken met het leerplan 'Chemie’ (O/2/2006/316) van het OVSG
+11 De Lewis-formules van moleculen en polyatomische ionen kunnen opschrijven.
+12 Steunende op de kennis van de structuurformule de ruimtelijke structuur van
+moleculen en polyatomische ionen kunnen afleiden.
+30 De begrippen ‘oxidator’ en ‘reductor’ kunnen uitleggen in functie van
+elektronenoverdracht.
+31 De sterkte van oxidatoren en/of reductoren kunnen vergelijken.
+33 Het oplosproces in verband kunnen brengen met het polaire of apolaire karakter
+van de opgeloste stof en het oplosmiddel.
+34 Toepassingen van redoxreacties kunnen herkennen en verklaren.
+Linken met het leerplan 'Chemie’ ( D/2014/0279/040 ) van het Katholiek Onderwijs
 Vlaanderen
-Analyse
-AN1 Uit de grafiek van een functie symmetrieën, nulpunten, tekenverloop, het stijgen
-en dalen of constant zijn binnen een interval, extrema afleiden.
-AN8 De invloed op het functievoorschrift onderzoeken bij het verschuiven van een
-assenstelsel.
-AN19 Problemen oplossen en bespreken in verband met exponentiële en
-logaritmische functies.
-AN34 Differentiequotiënten gebruiken als maat voor verandering van de
-functiewaarde over een interval.
-AN36 Met behulp van het intuïtief limietbegrip het verband leggen tussen het begrip
-afgeleide, het begrip differentiequotiënt en de richting van de raaklijn aan de grafiek.
-AN38 De afgeleide van een product van functies berekenen.
-AN39 De afgeleide van een macht van een functie berekenen.
-AN41 De betekenis van de afgeleide functie gebruiken om te bepalen in welke
-intervallen een functie stijgt of daalt,voor welke voorwaarde(n) een functie een
-extremum bereikt.
-AN43 Problemen oplossen en bespreken waarbij het begrip afgeleide gebruikt wordt.
-AN54 Een numerieke methode bespreken.
-Matrices
-AL1 Met behulp van matrices een concreet probleem modelleren.
-AL2 Binnen een probleem bewerkingen met matrices uitvoeren: matrices optellen en
-aftrekken, een matrix met een getal vermenigvuldigen, een matrix transponeren,
-matrices vermenigvuldigen, machten van matrices berekenen.
-AL3 Eigenschappen van de bewerkingen van matrices formuleren en gebruiken bij het
-rekenen met matrices.
-Vlakke analytische meetkunde
-ME3 De som van twee vectoren en het product van een vector met een getal
-definiëren en voorstellen.
-ME5 Het scalair product van twee vectoren analytisch vertolken.
-ME6 De orthogonaliteit van twee vectoren uitdrukken door middel van het scalair
-product.
-Statistiek en kansrekening
-SK1 Statistische gegevens, centrum- en spreidingsmaten en grafische voorstellingen
-van statistische gegevens interpreteren.
-SK2 Met behulp van ICT het rekenkundig gemiddelde en de standaardafwijking
-berekenen van statistische gegevens.
-SK4 In betekenisvolle situaties, gebruik maken van een normale verdeling als continu
-model bij data met een klokvormige frequentieverdeling en het gemiddelde en de
-standaardafwijking van de gegeven data gebruiken als schatting voor de parameters
-van deze normale verdeling.
-TK5 Kansen berekenen door gebruik te maken van de productregel en
-complementregel.
-Mathematiseren en oplossen van problemen
-MA1 Problemen herkennen, analyseren en de probleemstelling verhelderen met
-behulp van hun wiskundekennis.
-MA2 Heuristische methodes gebruiken om een probleem aan te pakken.
-MA5 Vertrouwen verwerven door hun wiskundekennis zinvol in te schakelen.
-Regressie
-RG2 Grafisch voorstellen van de relatie tussen twee stochastische veranderlijken met
-behulp van ICT-middelen.
-RG3 Aan de hand van een spreidingsdiagram de samenhang (correlatie) tussen twee
-stochastische veranderlijken weergeven.
-RG5 De correlatiecoëfficiënt berekenen met behulp van ICT-middelen.
-RG6 De correlatiecoëfficiënt interpreteren in verband met het verband tussen de
-veranderlijken.
-RG7 Omschrijven waarom een rechte de best passende rechte is.
-RG8 Aan de hand van ICT de vergelijking van de regressielijn berekenen.
-RG9 Voorstellen van de regressielijn op het spreidingsdiagram.
-RG10 Vraagstukken in verband met lineaire regressie oplossen.
-RG11 De correlatie tussen twee stochastische veranderlijken wiskundig benaderen.
-
-
-####Bronnen<br>
-GO! (2019). Leerplannen en lessentabellen secundair onderwijs.
-Geraadpleegd op 15 oktober 2019 via
-https://pro.g-o.be/pedagogische-begeleiding-leerplannen-nascholing/leerplannen/leerplannen-so<br>
-Katholiek Onderwijs Vlaanderen. (2019). Curriculum secundair onderwijs.
-Geraadpleegd op 15 oktober 2019 via http://ond.vvkso-ict.com/lele/leerles.asp<br>
-OVSG. (2020). Secundair onderwijs.
-Geraadpleegd op 23 januari 2020 via
-https://www.ovsg.be/leerplannen/secundair-onderwijs 
+Bij contextrijke lessen worden verbindingen gelegd tussen de leerinhoud, de
+leefwereld van de leerling, de actualiteit en eventueel andere vakken.
+Leerlingen worden aangezet tot gerichte interactie over de leerinhoud, in groepjes (bv.
+bij experimenteel werk) of klassikaal. Opdrachten worden zo gesteld dat leerlingen
+worden uitgedaagd om in interactie te treden.
+ICT is algemeen doorgedrongen in de maatschappij en het dagelijks leven van de
+leerling. Sommige toepassingen kunnen, daar waar zinvol, geïntegreerd worden in de
+lessen chemie.
+Realiseren van de onderzoekscompetentie binnen de pool wetenschappen.
+AD3 Met een methode een antwoord zoeken op de onderzoeksvraag.
+AD4 Over een waarnemingsopdracht/ experiment/ onderzoek en het resultaat
+reflecteren.
+AD6 De wisselwerking tussen chemie en maatschappij op ecologisch, ethisch,
+technisch, socio-economisch en filosofisch vlak illustreren.
+AD8 Bij het verduidelijken van en het zoeken naar oplossingen voor
+duurzaamheidsvraagstukken wetenschappelijke principes hanteren die betrekking
+hebben op grondstoffen, energie en het leefmilieu.
+B8 Voor een gegeven lewisformule door middel van het sferisch getal de ruimtelijke
+structuur van moleculen voorspellen en tekenen.
+B9 Een sigma- en een pi-binding ruimtelijk van elkaar onderscheiden.
+B10 Polaire en apolaire stoffen onderscheiden vanuit het verschil in elektronegatieve
+waarde tussen de bindingspartners en de gegeven geometrie van binaire en ternaire
+verbindingen.
+B20 Van veel gebruikte organische stoffen de triviale naam en/of toepassing geven.
+B27 Het onderscheid tussen activeringsenergie en reactie-energie omschrijven aan
+de hand van een energiediagram.
+B42 De verandering van oxidatiegetallen in een redoxreactie vaststellen en in verband
+brengen met de begrippen oxidator, reductor, oxidatie, reductie en
+elektronenoverdracht voor reacties met binaire en ternaire verbindingen.
+B43 De sterkte van oxidator en reductor in verband brengen met de
+standaardreductiepotentiaal.
+V9 Hybridisatie van orbitalen gebruiken als model om bindingen in koolwaterstoffen
+te verklaren.
+V24 Andere concentratie-uitdrukkingen dan molaire en massaconcentratie definiëren
+en toepassen in berekeningen: promille, ppm, ppb.
+U11 Redoxvergelijkingen met binaire en ternaire verbindingen opstellen.
+U12 Concrete voorbeelden van redoxprocessen in de maatschappij toelichten.
+Linken met het leerplan 'Chemie’ ( D/2014/7841/012 ) van het Katholiek Onderwijs
+Vlaanderen
+Bij contextrijke lessen worden verbindingen gelegd tussen de leerinhoud, de
+leefwereld van de leerling, de actualiteit en eventueel andere vakken.
+Leerlingen worden aangezet tot gerichte interactie over de leerinhoud, in groepjes (bv.
+bij experimenteel werk) of klassikaal. Opdrachten worden zo gesteld dat leerlingen
+worden uitgedaagd om in interactie te treden.
+ICT is algemeen doorgedrongen in de maatschappij en het dagelijks leven van de
+leerling. Sommige toepassingen kunnen, daar waar zinvol, geïntegreerd worden in de
+lessen chemie.
+AD2 Met een aangereikte methode een antwoord zoeken op de onderzoeksvraag.
+AD3 Over een waarnemingsopdracht/ experiment/ onderzoek en het resultaat
+reflecteren.
+AD5 De wisselwerking tussen chemie en maatschappij op ecologisch, ethisch,
+technisch, socio-economisch en filosofisch vlak illustreren.
+AD7 Bij het verduidelijken van en het zoeken naar oplossingen voor
+duurzaamheidsvraagstukken wetenschappelijke principes hanteren die betrekking
+hebben op grondstoffen, energie en het leefmilieu.
+B5 Voor een gegeven lewisformule door middel van het sferisch getal de ruimtelijke
+structuur van moleculen voorspellen en tekenen.
+V4 Een sigma- en een pi-binding ruimtelijk van elkaar onderscheiden.
+V5 Polaire en apolaire stoffen onderscheiden vanuit het verschil in elektronegatieve
+waarde tussen de bindingspartners en de gegeven geometrie van binaire en ternaire
+verbindingen.
+V8 Van veel gebruikte organische stoffen de triviale naam en/of toepassing geven.
+B17 Het onderscheid tussen activeringsenergie en reactie-energie omschrijven aan
+de hand van een energiediagram.
+B30 De verandering van oxidatiegetallen in een redoxreactie vaststellen en in verband
+brengen met de begrippen oxidator, reductor, oxidatie, reductie en
+elektronenoverdracht voor reacties met binaire en ternaire verbindingen.
+B31 De sterkte van oxidator en reductor in verband brengen met de
+standaardreductiepotentiaal.
+V15 Andere concentratie-uitdrukkingen dan molaire en massaconcentratie definiëren
+en toepassen in berekeningen: promille, ppm, ppb.
+V30 Redoxvergelijkingen met binaire en ternaire verbindingen opstellen.
+U12 Concrete voorbeelden van redoxprocessen in de maatschappij toelichten.
+Linken met het leerplan 'Chemie’ ( D/2017/13.758/023 ) van het Katholiek Onderwijs
+Vlaanderen
+Bij contextrijke lessen worden verbindingen gelegd tussen de leerinhoud, de
+leefwereld van de leerling, de actualiteit en eventueel andere vakken.
+Leerlingen worden aangezet tot gerichte interactie over de leerinhoud, in groepjes (bv.
+bij experimenteel werk) of klassikaal. Opdrachten worden zo gesteld dat leerlingen
+worden uitgedaagd om in interactie te treden.
+ICT is algemeen doorgedrongen in de maatschappij en het dagelijks leven van de
+leerling. Sommige toepassingen kunnen, daar waar zinvol, geïntegreerd worden in de
+lessen chemie.
+AD3 Met een methode een antwoord zoeken op de onderzoeksvraag.
+AD4 Over een waarnemingsopdracht/ experiment/ onderzoek en het resultaat
+reflecteren.
+AD6 De wisselwerking tussen chemie en maatschappij op ecologisch, ethisch,
+technisch, socio-economisch en filosofisch vlak illustreren.
+AD8 Bij het verduidelijken van en het zoeken naar oplossingen voor
+duurzaamheidsvraagstukken wetenschappelijke principes hanteren die betrekking
+hebben op grondstoffen, energie en het leefmilieu.
+B8 Voor een gegeven lewisformule door middel van het sferisch getal de ruimtelijke
+structuur van moleculen voorspellen en tekenen.
+B9 Een sigma- en een pi-binding ruimtelijk van elkaar onderscheiden.
+B10 Polaire en apolaire stoffen onderscheiden vanuit het verschil in elektronegatieve
+waarde tussen de bindingspartners en de gegeven geometrie van binaire en ternaire
+verbindingen.
+B15 Van veel gebruikte organische stoffen de triviale naam en/of toepassing geven.
+B28 Het onderscheid tussen activeringsenergie en reactie-energie omschrijven aan
+de hand van een energiediagram.
+B45 De verandering van oxidatiegetallen in een redoxreactie vaststellen en in verband
+brengen met de begrippen oxidator, reductor, oxidatie, reductie en
+elektronenoverdracht voor reacties met binaire en ternaire verbindingen.
+B47 De sterkte van oxidator en reductor in verband brengen met de
+standaardreductiepotentiaal.
+V26a Berekeningen maken in verband met omzettingen tussen
+concentratie-uitdrukkingen.
+V26b Andere concentratie-uitdrukkingen dan molaire en massaconcentratie
+definiëren en toepassen in berekeningen: promille, ppm, ppb.
+B46 Redoxvergelijkingen met binaire en ternaire verbindingen opstellen.
+U12. Concrete voorbeelden van redoxprocessen in de maatschappij toelichten.
