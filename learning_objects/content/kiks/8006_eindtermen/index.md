@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen6
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Hervorming"
+description: "Hervorming"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen
+# Opmerking
 
-## titel
+*Bij de recente onderwijshervorming zijn sommige leerdoelen van de derde graad naar de tweede graad verplaatst. De ontwikkeling van nieuwe minimumdoelen is nog niet afgerond. Daarom zijn de hier vermelde eindtermen nog deze van voor de hervorming.*
