@@ -106,7 +106,7 @@ in een beeld mee verminderen of het contrast in een beeld verzachten. In elke la
 <div class="alert alert-box alert-warning">
     Murray Shanahan zegt dat we goed moeten beseffen wat een groot taalmodel doet.<br> 
     "Veronderstel dat we de volgende prompt geven aan een LLM: “The first person to walk on the Moon was ”,  en stel dat het antwoordt met “Neil Armstrong”.<br>
-    Wat vragen we hier eigenlijk? Het is belangrijk om in te zien dat we eigenlijk niet vragen wie de eerste persoon was die op de maan wandelde. De vraag die we echt stellen aan het model is de volgende vraag:  Gegeven de statistische verdeling van de woorden in de zeer uitgebreide publieke corpus van (Engelse) tekst, welke woorden volgen er het meest waarschijnlijk op de reeks “The first person to walk on the Moon was ”? Een goed antwoord op deze vraag is “Neil Armstrong.”  (Bron: Talking About Large Language Models, Murray Shanahan, 2022)
+    Wat vragen we hier eigenlijk? Het is belangrijk om in te zien dat we eigenlijk niet vragen wie de eerste persoon was die op de maan wandelde. De vraag die we echt stellen aan het model is de volgende vraag:  Gegeven de statistische verdeling van de woorden in de zeer uitgebreide publieke corpus van (Engelse) tekst, welke woorden volgen er het meest waarschijnlijk op de reeks “The first person to walk on the Moon was ”? Een goed antwoord op deze vraag is “Neil Armstrong”.  (Bron: Talking About Large Language Models, Murray Shanahan, 2022)
     </div>
 
 ## Supervised, unsupervised en reinforcement learning
