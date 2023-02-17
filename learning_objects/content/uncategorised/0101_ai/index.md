@@ -32,7 +32,8 @@ teacher_exclusive: true
 
 # Intelligentie
 
-Meer dan 2000 jaar geleden waren Socrates en Plato al geboeid door de menselijke intelligentie, maar tot op heden is er nog steeds **geen algemeen gangbare definitie van intelligentie**. Enkele voorbeelden van hoe intelligentie gedefinieerd wordt (Legg & Hutter, 2007; Tegmark, 2017):
+Meer dan 2000 jaar geleden waren Socrates en Plato al geboeid door de menselijke intelligentie, maar tot op heden is er nog steeds **geen algemeen gangbare definitie van intelligentie**. <br>
+Enkele voorbeelden van hoe intelligentie gedefinieerd wordt (Legg & Hutter, 2007; Tegmark, 2017):
 
 - “Het vermogen om te leren, om te kunnen inschatten en om te kunnen fantaseren” (16de eeuw, dokter en psycholoog Huarte). 
 - “Intelligentie is de globale geschiktheid van een individu om doelbewust te handelen, om rationeel te denken en om doeltreffend om te gaan met de omgeving” (1958, psycholoog Wechsler, de grondlegger van de alom gebruikte IQ-testen WAIS en WISC). 
