@@ -43,6 +43,7 @@ teacher_exclusive: true
 
 ### Het project 'Chatbot'
 - In het leerpad 'Chatbot' bouw je een eenvoudige, regelgebaseerde chatbot. De antwoorden die deze chatbot genereert zijn zeer transparant.
+- In het leerpad 'Sentimentanalyse' bouw je o.a. een regelgebaseerd systeem voor sentimentanalyse. 
 
 ### Het project 'AI in de Landbouw'
 - In het leerpad 'Deep learning' ga je aan de slag met een AI-systeem voor objectherkenning a.d.h.v. YOLO.
