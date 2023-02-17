@@ -2,8 +2,8 @@
 hruid: un_ai4
 version: 3
 language: nl
-title: "Extra"
-description: "Extra"
+title: "Maatschappelijke aspecten"
+description: "Maatschappelijke aspecten"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,4 +30,13 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Tekst
+# Maatschappelijke aspecten
+
+**Nieuwe technologieën veranderen de maatschappij en sommige doen dat op een zeer ingrijpende manier.** Volgens Gabriels (2019) "geven technologische ontwikkelingen mee vorm aan hoe wij de wereld zien en beïnvloedt technologie ons denken, gedrag en onze waarden en normen".
+
+De **impact van AI** zal mogelijk nog groter zijn dan de komst van het internet. Als men de AI-technologie goed inzet, kan die bijdragen tot een betere wereld. Maar zal AI ten allen tijde worden ingezet voor een mooiere maatschappij? 
+
+Een AI-systeem is ‘vooringenomen’, meestal te wijten aan de data waarmee het systeem werd getraind. Deze **bias** moet men zoveel mogelijk controleren en tot het minimum herleiden. 
+
+-------------------------
+Over deze aspecten lees je meer in het leerpad 'Ethiek'.
