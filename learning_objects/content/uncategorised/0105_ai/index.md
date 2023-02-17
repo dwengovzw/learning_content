@@ -2,8 +2,8 @@
 hruid: un_ai5
 version: 3
 language: nl
-title: "Extra"
-description: "Extra"
+title: "Meer"
+description: "Meer"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,4 +30,19 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Tekst
+# Wil je meer weten?
+
+### Het project 'KIKS'
+- In het leerpad 'Regressie' wordt er dieper ingegaan op AI-systemen voor regressie.
+- In het leerpad 'Classificatie' van het project 'KIKS' wordt er dieper ingegaan op AI-systemen voor classificatie, die getraind werden a.d.h.v. gesuperviseerd leren.
+- In het leerpad 'Digitale beelden' leer je de basis van *computer vision* kennen, belangrijk voor systemen voor objectherkenning.
+- In de leerpaden 'Deep learning - basis' en 'Deep learning - gevorderd' wordt er dieper ingegaan op de verschillende bouwstenen van een convolutioneel neuraal netwerk voor beeldherkenning. 
+
+### Het project 'AI in de Zorg'
+- In het leerpad 'Beslissingsboom' maak je kennis met een algoritme om een beslissingsboom te genereren. Beslissingsbomen zijn transparante, regelgebaseerde AI-systemen.
+
+### Het project 'Chatbot'
+- In het leerpad 'Chatbot' bouw je een eenvoudige, regelgebaseerde chatbot. De antwoorden die deze chatbot genereert zijn zeer transparant.
+
+### Het project 'AI in de Landbouw'
+- In het leerpad 'Deep learning' ga je aan de slag met een AI-systeem voor objectherkenning a.d.h.v. YOLO.
