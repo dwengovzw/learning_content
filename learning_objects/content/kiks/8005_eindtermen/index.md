@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen5
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Bronnen"
+description: "Bronnen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
