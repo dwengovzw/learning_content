@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen aardrijkskunde**
+# Eindtermen aardrijkskunde
 
 **Vakgebonden eindtermen aardrijkskunde**<br>
 
@@ -166,7 +166,7 @@ beschrijven als noodzaak voor het huidige ecosysteem aarde, de relatie tussen
 menselijke activiteiten, de demografische evolutie en het versterkt broeikaseffect
 afleiden en de fysische, sociaal-economische en ecologische gevolgen afleiden,
 technologische oplossingen en mentaliteitswijzigingen analyseren op hun
-duurzaamheid.*<br>
+duurzaamheid.*
 
 
 
