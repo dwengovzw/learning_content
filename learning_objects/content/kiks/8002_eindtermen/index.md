@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen2
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Biologie"
+description: "Biologie"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
