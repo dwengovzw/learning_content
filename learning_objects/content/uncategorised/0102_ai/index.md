@@ -38,22 +38,27 @@ Hoewel er ongetwijfeld spannende ontwikkelingen zijn op het vlak van AI, staat d
 
 <div class="alert alert-box alert-success">
     <strong>Brede AI, enge AI en AGI</strong><br> 
-    Bij enge AI (narrow AI) gaat het over AI-systemen die de specifieke taken doen waarvoor ze ontworpen werden, bv. een spamfilter. <br>Brede AI (general AI) betreft systemen die al meer diverse taken aankunnen, denk bv. aan wat men zich kan voorstellen bij een robotbutler. <br>Bij de zogenaamde Artificial General Intelligence (AGI) gaat het over computersystemen met dezelfde capaciteiten als een mens. We hebben vooralsnog niet de kennis om AGI-systemen te ontwerpen. Voorlopig zit AI nog maar op het niveau van de enge AI.
+    Bij enge AI (<em>narrow AI</em>) gaat het over AI-systemen die de specifieke taken doen waarvoor ze ontworpen werden, bv. een spamfilter. <br>
+    Brede AI (<em>general AI</em>) betreft systemen die al meer diverse taken aankunnen, denk bv. aan wat men zich kan voorstellen bij een robotbutler. <br>
+    Bij de zogenaamde <em>Artificial General Intelligence</em> (AGI) gaat het over computersystemen met dezelfde capaciteiten als een mens. We hebben vooralsnog niet de kennis om AGI-systemen te ontwerpen. 
 </div>
+
+Voorlopig zit AI nog maar op het niveau van de enge AI.
 
 ## Kennis- en datagebaseerde systemen
 
-Om AI in te zetten voor een bepaald probleem, wordt informatie over dat probleem aan de computer gegeven. Vervolgens verwerkt het AI-systeem deze informatie en komt er een output. 
+Om AI in te zetten voor een bepaald probleem, wordt informatie over dat probleem aan de computer gegeven. Vervolgens verwerkt het AI-systeem deze informatie en komt er een *output*. 
 
-Eerst moet zo’n AI-systeem ontwikkeld worden door het programmeren van algoritmes waarin expertenkennis vervat is of a.d.h.v. lerende algoritmes (Steels et al., 2017): 
+Eerst moet zo’n AI-systeem ontwikkeld worden door het *programmeren van algoritmes* waarin expertenkennis vervat is of a.d.h.v. lerende algoritmes (Steels et al., 2017): 
 
 - **Kennisgebaseerde** systemen, die met regels worden geprogrammeerd. Dit houdt in dat men de kennis van menselijke experts zoveel mogelijk in regels probeert te gieten. 
-- **Datagebaseerde** systemen, die met lerende algoritmes worden geprogrammeerd en ook machine learning-systemen worden genoemd. Met statistische methodes worden patronen in relevante data opgespoord en dan gebruikt om nieuwe problemen op te lossen. 
+- **Datagebaseerde** systemen, die met lerende algoritmes worden geprogrammeerd en ook *machine learning*-systemen worden genoemd. Met statistische methodes worden patronen in relevante data opgespoord en dan gebruikt om nieuwe problemen op te lossen. 
 
 > De chatbot ELIZA en lexicongebaseerde sentimentanalyse zijn voorbeelden van kennisgebaseerde systemen. Meer uitleg hierover vind je in de leerkrachtenhandleiding van het project 'Chatbot' dat gaat over taaltechnologie, meer bepaald in de hoofdstukken Chatbot en Sentimentanalyse. 
+
 > Gezichtsherkenning op Facebook en Google Translate zijn datagebaseerde systemen.
 
-Bij kennisgebaseerde systemen bestaat het algoritme uit expliciet geprogrammeerde regels. Men botst daarbij al snel op de grenzen van deze systemen. Voor een autonome wagen zou dat bijvoorbeeld betekenen dat men alle mogelijke scenario’s zou moeten kennen.
+> Bij kennisgebaseerde systemen bestaat het algoritme uit expliciet geprogrammeerde regels. Men botst daarbij al snel op de grenzen van deze systemen. Voor een autonome wagen zou dat bijvoorbeeld betekenen dat men alle mogelijke scenario’s zou moeten kennen.
 
 ![AIMLDL](https://user-images.githubusercontent.com/48352335/218815994-b1befa16-019e-46a3-a29c-f611faeecfd3.png)
 <center> Soorten AI</center>
