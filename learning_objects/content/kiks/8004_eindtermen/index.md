@@ -292,7 +292,7 @@ aanpakken van problemen en opdrachten;<br>
 14 zin voor samenwerking en overleg;<br>
 15 waardering voor wiskunde door inzicht in de bijdrage ervan in de culturele,
 historische en wetenschappelijke ontwikkeling; , o.m. zin voor de rol van wiskunde bij
-de ontwikkeling van exacte en humane wetenschappen en de te*chniek zin voor de rol
+de ontwikkeling van exacte en humane wetenschappen en de techniek zin voor de rol
 van wiskunde bij het beschrijven van reële problemen;<br>
 16 inzicht in hun studie- en beroepskeuzeproces, o.m. door het inwinnen van
 informatie over het aandeel van wiskunde in een vervolgopleiding en die vergelijken
