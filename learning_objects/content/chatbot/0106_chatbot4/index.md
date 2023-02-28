@@ -56,10 +56,11 @@ ChatGPT heeft (vooralsnog) geen toegang tot het wereldwijde web en beschikt dus 
 
 ChatGPT genereert tekst. ChatGPT verzint ook van alles. Men noemt dit **hallucineren**.
 
-> Voorbeeld: ChatGPT schaakt tegen een schaakcomputer. Na elke zet van ChatGPT wordt de nieuwe bordtoestand aan de schaakcomputer doorgegeven, die telkens de volgende zet berekent vertrekkende van de stukken op het bord.
+> Voorbeeld: ChatGPT schaakt tegen de schaakcomputer Stockfish. Na elke zet van ChatGPT wordt de nieuwe bordtoestand aan de schaakcomputer doorgegeven, die telkens de volgende zet berekent vertrekkende van de stukken op het bord.
 > https://i.redd.it/fl4puwzxt9ha1.gif
 > De dialoog tussen ChatGPT en de schaakcomputer: https://pastebin.com/X6kBRTa9
-
+> Hieruit blijkt dat ChatGPT niet kan schaken; logisch, want het is een taalmodel. Zo doet hij bv. onmogelijke zetten en maakt stukken bij.
+>  
 #### Toegankelijk
 De gebruikersinterface van ChatGPT oogt eenvoudig en is van dezelfde aard als chatten in een app zoals WhatsApp of Signal. De gebruiksvriendelijkheid van ChatGPT heeft ervoor gezorgd dat het systeem toegang kreeg tot het grote publiek. <br>
 De technologie is echter niet splinternieuw. ChatGPT is ontstaan uit GPT-3.5, een opvolger van GPT-3. GPT-3 bestaat al 2 jaar en tal van toepassingen om bv. gedichten en blogs te genereren (met GPT-3) staan al geruime tijd op het web. Aan de hand van ChatGPT ontdekte het grote publiek de opportuniteiten van deze AI-systemen die eigenlijk al geruime tijd in gebruik zijn, en tegelijkertijd kwamen de bezorgdheden naar boven. 
