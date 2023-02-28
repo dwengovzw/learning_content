@@ -34,6 +34,15 @@ teacher_exclusive: true
 
 # ChatGPT en co
 
+## Toegankelijk
+De gebruikersinterface van ChatGPT oogt eenvoudig en is van dezelfde aard als chatten in een app zoals WhatsApp of Signal. De gebruiksvriendelijkheid van ChatGPT heeft ervoor gezorgd dat het systeem toegang kreeg tot het grote publiek. <br>
+De technologie is echter niet splinternieuw. ChatGPT is ontstaan uit GPT-3.5, een opvolger van GPT-3. GPT-3 bestaat al 2 jaar en tal van toepassingen om bv. gedichten en blogs te genereren (met GPT-3) staan al geruime tijd op het web. Aan de hand van ChatGPT ontdekte het grote publiek de opportuniteiten van deze AI-systemen die eigenlijk al geruime tijd in gebruik zijn, en tegelijkertijd kwamen de bezorgdheden naar boven. 
+
+> Microsoft integreert ChatGPT in zijn zoekmachine Bing.
+
+## Citizen science
+Eigenlijk voert OpenAI momenteel een enorm burgerwetenschapsproject uit met ChatGPT. Het systeem wordt op een ongekend grote schaal getest vanaf week één van de lancering. Men spreekt van 1 miljoen gebruikers in de eerste week 1 en van 100 miljoen in januari. De ontwikkelaars bij OpenAI gebruiken de input van de gebruikers om het systeem te verbeteren. De leeftijdsgrens van 18 jaar, vooropgesteld door OpenAI, wordt niet gerespecteerd en sommigen maken zich dan ook *zorgen over het gebruik van de chatbot door minderjarigen*.
+
 ## Soortgelijke chatbots
 ChatGPT is niet de enige in zijn soort. Een andere chatbot is ChatSonic waar je ook aan kunt vragen om beelden te genereren. Binnenkort komt Google met Bard, een broertje van ChatGPT. Bard zal wel beschikken over recente informatie omdat Bard het world wide web kan raadplegen.
 Ook met de chatbot Claude wordt geëxperimenteerd. Deze werd ontwikkeld door ex-werknemers van OpenAI. En zo zijn/komen er ongetwijfeld nog.
@@ -61,12 +70,5 @@ ChatGPT genereert tekst. ChatGPT verzint ook van alles. Men noemt dit **hallucin
 > De dialoog tussen ChatGPT en de schaakcomputer: https://pastebin.com/X6kBRTa9
 > Hieruit blijkt dat ChatGPT niet kan schaken; logisch, want het is een taalmodel. Zo doet hij bv. onmogelijke zetten en maakt stukken bij.
 >  
-#### Toegankelijk
-De gebruikersinterface van ChatGPT oogt eenvoudig en is van dezelfde aard als chatten in een app zoals WhatsApp of Signal. De gebruiksvriendelijkheid van ChatGPT heeft ervoor gezorgd dat het systeem toegang kreeg tot het grote publiek. <br>
-De technologie is echter niet splinternieuw. ChatGPT is ontstaan uit GPT-3.5, een opvolger van GPT-3. GPT-3 bestaat al 2 jaar en tal van toepassingen om bv. gedichten en blogs te genereren (met GPT-3) staan al geruime tijd op het web. Aan de hand van ChatGPT ontdekte het grote publiek de opportuniteiten van deze AI-systemen die eigenlijk al geruime tijd in gebruik zijn, en tegelijkertijd kwamen de bezorgdheden naar boven. 
 
-> Microsoft integreert ChatGPT in zijn zoekmachine Bing.
-
-#### Citizen science
-Eigenlijk voert OpenAI momenteel een enorm burgerwetenschapsproject uit met ChatGPT. Het systeem wordt op een ongekend grote schaal getest vanaf week één van de lancering. Men spreekt van 1 miljoen gebruikers in de eerste week 1 en van 100 miljoen in januari. De ontwikkelaars bij OpenAI gebruiken de input van de gebruikers om het systeem te verbeteren. De leeftijdsgrens van 18 jaar, vooropgesteld door OpenAI, wordt niet gerespecteerd en sommigen maken zich dan ook *zorgen over het gebruik van de chatbot door minderjarigen*.
 
