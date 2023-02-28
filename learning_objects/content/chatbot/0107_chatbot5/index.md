@@ -80,7 +80,7 @@ We schotelden ChatGPT op 14 januari 2023 enkele eenvoudige wiskundeproblemen voo
 
 ![chatGPT8](https://user-images.githubusercontent.com/48352335/219006462-f785ffde-3a8d-43ad-9d62-b2820759f564.png)
 
-![chatGPT5](https://user-images.githubusercontent.com/48352335/219008795-341ca7d6-3618-4df4-bb31-b9322e161412.png)
+![chatGPT62](https://user-images.githubusercontent.com/48352335/221859167-ac4dfd6b-18d9-4b46-8959-0d08e5c7b5b7.png)
 
 Dat lukt vrij goed. Maar …
 
