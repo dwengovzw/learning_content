@@ -34,6 +34,6 @@ skos_concepts: [
 ---
 
 # Inleiding
-Waar taal en technologie samenkomen, ontstaat het domein van Natural Language Processing (NLP). Met technieken uit machine learning kunnen we computers op een intelligente manier laten werken met taal; denk bijvoorbeeld aan het trainen van modellen om tekst, afbeeldingen of geluidsfrequenties te herkennen. Bekende NLP-toepassingen van machine learning zijn bijvoorbeeld vertaalprogramma’s, spraakbesturingssystemen of virtual assistants zoals Siri, en chatrobots.
+Chatbots zijn softwaresystemen die kunnen interageren met mensen via **getypte tekstboodschappen**. Dit gebeurt via spontane tekst in natuurlijke taal. Een chatbot is dus niets anders dan een robot waarmee je kan chatten, een geautomatiseerd digitaal systeem waarmee je in dialoog kunt treden. Moderne chatbots zijn een toepassing van Natural Language Processing (NLP). 
 
-Chatbots zijn softwaresystemen die kunnen interageren met mensen via getypte tekstboodschappen. Dit gebeurt via spontane tekst in natuurlijke taal. Een chatbot is dus niets anders dan een robot waarmee je kan chatten, een geautomatiseerd digitaal systeem waarmee je in dialoog kunt treden.
+In dit leerpad maak je kennis met de werking van deze systemen. 
