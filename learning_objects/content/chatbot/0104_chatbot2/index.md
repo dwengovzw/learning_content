@@ -73,10 +73,10 @@ AI-systemen die taal verwerken, zijn niet zomaar in staat om met natuurlijke taa
 De woorden in een tekst worden daartoe eerst omgezet naar vectoren. Een **vector** kan gezien worden als een einidge rij van getallen. *Word embedding* houdt in dat men in deze getallen zoveel mogelijk informatie over de woorden probeert te vangen: om de rij getallen die een bepaald woord vertegenwoordigen te bepalen, wordt rekening gehouden met de betekenis van het woord, welke andere woorden er in veel zinnen samen met het woord voorkomen, de plaats van het woord in een zin, de context van een zin waarin het woord staat. 
 
 ![Word embedding](embed/wordtovec1.png "Word embedding word2vec")
-<center>Relaties tussen woorden met word2vec . Embeddings can produce remarkable analogies (Google, 2020).</center> 
+<center>Relaties tussen woorden met word2vec. Embeddings can produce remarkable analogies (Google, 2020).</center> 
 
 <br>
-*Embeddings* zetten tekst dus om naar vectoren. Bij word2vec zijn **semantisch verwante teksten dicht bij elkaar in de vectorruimte** geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men in de vectorruimte kan de overeenkomstige drie vectoren dicht bij elkaar vinden. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).<br><br>
+<em>Embeddings</em> zetten tekst dus om naar vectoren. Bij word2vec zijn <b>semantisch verwante teksten dicht bij elkaar in de vectorruimte</b> geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men in de vectorruimte kan de overeenkomstige drie vectoren dicht bij elkaar vinden. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).<br><br>
 
 > De NLP-techniek *word embedding* wordt ook bij zoekmachines gebruikt. M.b.v. *word embedding* levert een zoekopdracht op het web betere resultaten op. De zoekmachine zal behalve naar de eigenlijke zoekopdracht ook zoeken naar woorden en termen die er verwant mee zijn. 
 
