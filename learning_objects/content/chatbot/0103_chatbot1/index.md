@@ -52,16 +52,16 @@ Chatbots worden voor verschillende doeleinden ingezet, bijvoorbeeld:<br>
 
 
 ## Van regelgebaseerd naar deep learning
-De meest eenvoudige chatbots, waaronder de eerste chatbots zoals ELIZA, zijn **kennisgebaseerde** systemen. Bij zulke chatbots zijn verschillende scenario’s expliciet geprogrammeerd. Dit leidt automatisch tot beperkingen waardoor gebruikers zich moeten aanpassen aan de limieten van het systeem. Bijvoorbeeld als men een vraag aan de chatbot anders formuleert dan geprogrammeerd, dan zal de chatbot de vraag niet herkennen.<br>
+De meest eenvoudige chatbots, waaronder de eerste chatbots zoals ELIZA, zijn **kennisgebaseerde** systemen. Bij zulke chatbots zijn verschillende scenario’s expliciet geprogrammeerd. Dit leidt automatisch tot beperkingen waardoor gebruikers zich moeten aanpassen aan de limieten van het systeem. Als men bijvoorbeeld een vraag aan de chatbot anders formuleert dan geprogrammeerd, dan zal de chatbot de vraag niet herkennen.<br>
 Zulke chatbots zijn vaak niet populair, maar worden toch nog op veel websites gebruikt.
 
-*In de notebook in het vorige menu-onderdeel ging je zelf aan de slag met zo'n kennisgebaseerde chatbot. Deze werd wel verbeterd door er een techniek uit machinaal leren op toe te passen.*
+Moderne chatbots maken gebruik van **Natural Language Processing (NLP)**, dus van machine learning; in het bijzonder met deep learning herkent een chatbot wel al vragen met een soortgelijke inhoud.
 
-Moderne chatbots maken gebruik van Natural Language Processing (NLP), dus van machine learning; in het bijzonder met deep learning herkent een chatbot wel al vragen met een soortgelijke inhoud.
+*In de notebook in het vorige menu-onderdeel ging je zelf aan de slag met zo'n kennisgebaseerde chatbot. Deze werd verbeterd door er een techniek uit machinaal leren op toe te passen.*
 
-Een recent, maar toch al heel gekend voorbeeld is ChatGPT. ChatGPT is een gebruiksvriendelijke chatbot die je van alles kan vragen, zoals vertalen, teksten samenvatten of herformuleren, rubrics opstellen, en gedichtjes maken.
+> Een recent, maar toch al heel gekend voorbeeld is ChatGPT. ChatGPT is een gebruiksvriendelijke chatbot die je van alles kan vragen, zoals vertalen, teksten samenvatten of herformuleren, rubrics opstellen, en gedichtjes maken. <br>Verder in dit leerpad leer je meer over ChatGPT. 
 
-Verder in dit leerpad leer je meer over ChatGPT. 
+> Wil je meer weten over kennis- en datagebaseerde systemen? Zie het leerpad 'Artificiële intelligentie'.  
 
 
 
