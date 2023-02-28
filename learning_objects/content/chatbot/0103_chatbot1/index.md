@@ -34,11 +34,11 @@ teacher_exclusive: true
 
 # Soorten chatbots
 
-### Softwaresystemen
+## Softwaresystemen
 Chatbots zijn softwaresystemen die kunnen interageren met mensen via getypte tekstboodschappen. Dit gebeurt via spontane tekst in natuurlijke taal. Een chatbot
 is dus niets anders dan een robot waarmee je kan chatten, een geautomatiseerd digitaal systeem waarmee je in dialoog kunt treden.
 
-Er zijn verschillende soorten chatbots, bijvoorbeeld:<br>
+Chatbots worden voor verschillende doeleinden ingezet, bijvoorbeeld:<br>
 - chatbots die veelgestelde vragen beantwoorden, als het ware een virtuele helpdesk;
 - chatbots die klachten behandelen;
 - chatbots die aan de slag kunnen met moeilijkere problemen, zoals de virtuele therapeut Woebot (Health,2021).
@@ -48,9 +48,10 @@ Er zijn verschillende soorten chatbots, bijvoorbeeld:<br>
 - Miljoenen mensen chatten via WeChat of een ander online platform met hun virtuele vriendin Xiaoice, soms uit eenzaamheid (Davies, 2021).
 - Ook de mogelijkheden om chatbots in te zetten voor onderwijs worden verkend, bijvoorbeeld voor lessen vreemde talen (Dokukina & Gumanova, 2020).
 - Men onderzoekt eveneens hoe chatbots kunnen worden ingezet voor wetenschappelijk onderzoek, bv. door chatbots interviews te laten afnemen en via chatbots mensen te informeren over de impact die deelname aan een onderzoek kan hebben (Kenniscentrum Data & Maatschappij, 2020c,a).
+- ChatGPT.
 
 
-### Van regelgebaseerd naar deep learning
+## Van regelgebaseerd naar deep learning
 De meest eenvoudige chatbots, waaronder de eerste chatbots zoals ELIZA, zijn **kennisgebaseerde** systemen. Bij zulke chatbots zijn verschillende scenario’s expliciet geprogrammeerd. Dit leidt automatisch tot beperkingen waardoor gebruikers zich moeten aanpassen aan de limieten van het systeem. Bijvoorbeeld als men een vraag aan de chatbot anders formuleert dan geprogrammeerd, dan zal de chatbot de vraag niet herkennen.<br>
 Zulke chatbots zijn vaak niet populair, maar worden toch nog op veel websites gebruikt.
 
