@@ -45,7 +45,7 @@ In 2019 kwam OpenAI al met een opvolger GPT-2. Voor GPT-2 werd een gigantische d
 Naast het aanvullen van een tekst, is GPT-2 in staat tekst te genereren binnen een conversatie. GPT-2 kan ook tekst vertalen, vragen beantwoorden over de inhoud van een tekst, een afbeelding van een tekst voorzien, of een tekst samenvatten. GPT-2 kan dus heel wat. <br>
 De keerzijde van de medaille is dat de training van GPT-2, waarbij zoveel data verwerkt moesten worden, heel veel **energie** vergde.
 
-> GPT, BERT en GPT-2 zijn opensourcesystemen. Dat betekent dat de code openbaar is en dat ieder vrij is om de code te gebruiken en aan te passen, bijvoorbeeld om een nieuwe toepassing te ontwikkelen. 
+> GPT, BERT en GPT-2 zijn 'open source'-systemen. Dat betekent dat de code openbaar is en dat ieder vrij is om de code te gebruiken en aan te passen, bijvoorbeeld om een nieuwe toepassing te ontwikkelen. 
 
 Voorbeeld:
 -  Het Vlaamse bedrijf ML6 paste GPT-2 aan om ook teksten in het Nederlands te kunnen genereren (Dehaene, 2020). Hun systeem schreef voor het tijdschrift Data News een artikel ‘Gaan robots de job van journalist vervangen?’ (VLAIO, 2020). Dit artikel kan je lezen in de handleiding van het project 'Chatbot'.
@@ -54,20 +54,20 @@ Voorbeeld:
 met data afkomstig van op het world wide web, zijn ze extra gevoelig voor bias.*
  
 
-# GPT-3 en ChatGPT
+## GPT-3 en ChatGPT
 In 2020 verscheen GPT-3, een diep neuraal netwerk dat op nog meer data dan GPT-2 werd getraind, o.a. de volledige Engelstalige Wikipedia. GPT-3 is volgens OpenAI "te gebruiken voor quasi elke Engelse taal-taak”.<br>
 De trainingsdata van GPT-3 bevat o.a. Engelstalige boeken, de Engelstalige Wikipedia, data jarenlang verzameld via het internet en miljoenen webpagina’s.
 
-> GPT-3 is geen opensourcesysteem. In 2020 verkreeg Microsoft de licenties op GPT-3. Maar via het web kan men meer dan 300 toepassingen vinden die gebaseerd zijn op GPT-3 (OpenAI, 2021).
+> GPT-3 is geen 'open source'-systeem. In 2020 verkreeg Microsoft de licenties op GPT-3. Maar via het web kan men meer dan 300 toepassingen vinden die gebaseerd zijn op GPT-3 (OpenAI, 2021).
 
-Er werd ondertussen dan ook al druk geëxperimenteerd met de mogelijkheden van GPT-3, zoals poëzie schrijven, chatbots en websites ontwikkelen en programmeren in Python:
--  GPT-3 schreef al in 2020 al een opiniestuk voor The Guardian (zie kader ‘A robot wrote this entire article. Are you scared yet, human?’).
--  Er is bijvoorbeeld een tool ontwikkeld om een blogidee te genereren (zie kader ‘Een blogidee met GPT-3’). Deze tool geeft de ingegeven sleutelwoorden in in Google en GPT-3 genereert dan een blogidee gebaseerd op de inhoud van de hoogst gerankte oekresultaten.
--  GPT-3 wordt ook gebruikt in combinatie met beeldherkenning. Taal en beeld leiden zo bv. tot een classificatiesysteem. 
--  Improbotics gebruikte eerst GTP-2 om de conversaties te genereren van de sociale robot Alex die acteert in het improvisatietoneel, zie https://www.erlnmyr.be en https://improbotics.org en is nu al overgeschakeld naar GPT-3.
+Er werd ondertussen dan ook al druk geëxperimenteerd met de mogelijkheden van GPT-3, zoals poëzie schrijven, chatbots en websites ontwikkelen, en programmeren in Python:
+-  GPT-3 schreef al in 2020 al een opiniestuk voor The Guardian: ‘A robot wrote this entire article. Are you scared yet, human?’. Zie de handleiding van het project 'Chatbot'.
+-  Er is een tool ontwikkeld om een blogidee te genereren (zie kader ‘Een blogidee met GPT-3’). Deze tool geeft de ingegeven sleutelwoorden in in Google en GPT-3 genereert dan een blogidee gebaseerd op de inhoud van de hoogst gerankte oekresultaten. Zie de handleiding van het project 'Chatbot'.
+-  GPT-3 wordt soms in combinatie met beeldherkenning aangewend. Taal en beeld leiden zo bv. tot een classificatiesysteem. Zie de handleiding van het project 'Chatbot'.
+-  Improbotics gebruikte eerst GTP-2 om de conversaties te genereren van de sociale robot Alex die acteert in het improvisatietoneel, zie [de webpagina van Improbotics](http://www.erlnmyr.be/voorstellingen/improbotics/), maar is recentelijk overgeschakeld naar GPT-3.
 -  In het onderdeel ‘ChatGPT en co’ van dit leerpad lees je hoe ChatGPT ontstaan is uit GPT-3. 
 
-# Werking van deze grote taalmodellen
+## Werking van deze grote taalmodellen
 
 AI-systemen die taal verwerken, zijn niet in staat met natuurlijke taal te werken. Deze systemen moeten de teksten aangereikt krijgen in een numerieke vorm. De grote taalmodellen maken gebruik van ***word embeddings***. Die embeddings worden gemaakt met AI-technologie, bv. word2vec van Google; gelukkig moeten ze niet manueel aangemaakt worden. <br>
 De woorden in een tekst worden daartoe eerst omgezet naar vectoren. Een vector kan gezien worden als een rij van getallen. *Word embedding* houdt in dat men in deze getallen zoveel mogelijk informatie over de woorden probeert te vangen: om de rij getallen die een bepaald woord vertegenwoordigen te bepalen, wordt rekening gehouden met de betekenis van het woord, welke andere woorden er in veel zinnen samen met het woord voorkomen, de plaats van het woord in een zin, de context van een zin waarin het woord staat. *Embeddings* zetten tekst dus om naar vectoren. 
