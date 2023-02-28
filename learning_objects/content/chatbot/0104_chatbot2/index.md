@@ -76,7 +76,7 @@ De woorden in een tekst worden daartoe eerst omgezet naar vectoren. Een **vector
 <center>Relaties tussen woorden met word2vec . Embeddings can produce remarkable analogies (Google, 2020).</center> 
 
 <br>
-*Embeddings* zetten tekst dus om naar vectoren. Bij word2vec zijn **semantisch verwante teksten dicht bij elkaar in de vectorruimte** geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men in de vectorruimte kan de overeenkomstige drie vectoren dicht bij elkaar vinden. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).<br>
+*Embeddings* zetten tekst dus om naar vectoren. Bij word2vec zijn **semantisch verwante teksten dicht bij elkaar in de vectorruimte** geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men in de vectorruimte kan de overeenkomstige drie vectoren dicht bij elkaar vinden. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).<br><br>
 
 > De NLP-techniek *word embedding* wordt ook bij zoekmachines gebruikt. M.b.v. *word embedding* levert een zoekopdracht op het web betere resultaten op. De zoekmachine zal behalve naar de eigenlijke zoekopdracht ook zoeken naar woorden en termen die er verwant mee zijn. 
 
