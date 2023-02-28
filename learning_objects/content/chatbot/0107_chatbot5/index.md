@@ -66,7 +66,7 @@ Toegegeven dat dit *cherry picking* is, veel andere prompts leidden tot een neut
 
 ![biasverpleegkundige](https://user-images.githubusercontent.com/48352335/219005530-5d95c4af-0107-476b-9704-a9673d7749c6.png)
 
-## Voor een wiskundeopdracht
+## Voor in de wiskundeles
 
 **Het is geen goed idee om ChatGPT wiskundige problemen voor te schotelen, aangezien het een taalmodel is.**
 
