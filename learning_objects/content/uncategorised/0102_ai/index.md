@@ -56,6 +56,11 @@ Eerst moet zo’n AI-systeem ontwikkeld worden door het *programmeren van algori
 
 > De chatbot ELIZA en lexicongebaseerde sentimentanalyse zijn voorbeelden van kennisgebaseerde systemen. Meer uitleg hierover vind je in de leerkrachtenhandleiding van het project 'Chatbot' dat gaat over taaltechnologie, meer bepaald in de hoofdstukken Chatbot en Sentimentanalyse. 
 
+> Om het onderscheid te kunnen maken tussen appels en peren zou men kennisgebaseerd al volgt te werk kunnen gaan:<br>
+> ![appelpeer](https://user-images.githubusercontent.com/48352335/222241824-c9c43bb2-9f61-4c9c-b02d-2f9afff7b66b.png)<br>
+> ![grafiekappelpeer](https://user-images.githubusercontent.com/48352335/222241772-8a2a37b2-4168-4f1b-8bf9-ab6baf23bd1d.png)<br>
+> ![aiappelpeer](https://user-images.githubusercontent.com/48352335/222241756-dc5a5c42-d1f6-4b53-8af6-fdf09d395b93.png)
+
 > Gezichtsherkenning op Facebook en Google Translate zijn datagebaseerde systemen.
 
 > Bij kennisgebaseerde systemen bestaat het algoritme uit expliciet geprogrammeerde regels. Men botst daarbij al snel op de grenzen van deze systemen. Voor een autonome wagen zou dat bijvoorbeeld betekenen dat men alle mogelijke scenario’s zou moeten kennen.
