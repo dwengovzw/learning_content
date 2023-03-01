@@ -112,7 +112,10 @@ in een beeld mee verminderen of het contrast in een beeld verzachten. In elke la
 ## Supervised, unsupervised en reinforcement learning
 
 Binnen ML onderscheidt men verschillende types van leren: supervised, unsupervised, en reinforcement learning.<br>
-- Bij **supervised learning** leert het systeem uit een dataset waarbij elk gegeven bestaat uit twee componenten: een input gekoppeld aan een *label* (de verwachte output) (zie Figuur). Het labelen van de voorbeelden gebeurt vaak manueel door mensen, men noemt dat *annoteren*. Het systeem voert een algoritme uit dat er geleidelijk aan voor zorgt dat het systeem focust op relevante patronen in de data. <br>
+- Bij supervised en unsupervised learning vertrekt men van een set voorbeelden.<br>
+![voorbeeldenappelpeer](https://user-images.githubusercontent.com/48352335/222242428-3021670a-b3e7-403b-8752-e1bef9f83668.png)
+
+- Bij **supervised learning** zijn de data gelabeld. Het systeem leert dus uit een dataset waarbij elk gegeven bestaat uit twee componenten: een input gekoppeld aan een *label* (de verwachte output) (zie Figuur). Het labelen van de voorbeelden gebeurt vaak manueel door mensen, men noemt dat *annoteren*. Het systeem voert een algoritme uit dat er geleidelijk aan voor zorgt dat het systeem focust op relevante patronen in de data. <br>
 ![soortenmlsupervised](https://user-images.githubusercontent.com/48352335/222239255-ee4fa9d7-f181-445a-af3b-d87c529fb530.png)<br>
 ![ailerendappelsperen](https://user-images.githubusercontent.com/48352335/222241196-beaa3f95-d30e-4315-a17b-171cad288b95.png)
 
