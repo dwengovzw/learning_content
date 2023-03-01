@@ -47,3 +47,7 @@ teacher_exclusive: true
 
 ### Het project 'AI in de Landbouw'
 - In het leerpad 'Deep learning' ga je aan de slag met een AI-systeem voor objectherkenning a.d.h.v. YOLO.
+
+----------------------------
+### Maatschappelijke aspecten
+Met het inzetten van AI zijn ethische aspecten gemoeid. Hier wordt dieper op ingegaan in het leerpad ['Ethiek'](https://dwengo.org/learning-path.html?hruid=kiks7_ethiek&language=nl&te=true#kiks_ethiek;nl;3) van het KIKS-project en de [kaartenset](https://dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf) van het 'AI in de Zorg'-project. Ook in de handleidingen van [KIKS](https://dwengo.org/assets/files/kiks/KIKS_handleiding_eerstedruk.pdf), het [Chatbot-project](https://dwengo.org/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf) en de [leerlingencursus van AI in de Zorg](https://dwengo.org/assets/files/care/AIindeZorg_doorstroom_eerstedruk.pdf) lees je meer.
