@@ -65,9 +65,10 @@ ChatGPT heeft (vooralsnog) geen toegang tot het wereldwijde web en beschikt dus 
 
 ChatGPT genereert tekst. ChatGPT verzint ook van alles. Men noemt dit **hallucineren**.
 
-> Voorbeeld: ChatGPT schaakt tegen de schaakcomputer Stockfish. Na elke zet van ChatGPT wordt de nieuwe bordtoestand doorgegeven aan de schaakcomputer, die dan telkens de volgende zet berekent vertrekkende van de stukken op het bord.<br>
+> **Voorbeeld: ChatGPT schaakt tegen de schaakcomputer Stockfish.**<br>
+> Na elke zet van ChatGPT wordt de nieuwe bordtoestand doorgegeven aan de schaakcomputer, die dan telkens de volgende zet berekent vertrekkende van de stukken op het bord.<br>
 >![Schaakspel](https://user-images.githubusercontent.com/48352335/222217014-26aa20df-f29a-485c-a4b2-a4ef4259ab39.gif)<br>
-> De dialoog tussen ChatGPT en de schaakcomputer: https://pastebin.com/X6kBRTa9
+> De dialoog tussen ChatGPT en de schaakcomputer lees je [hier](https://pastebin.com/X6kBRTa9).
 > Hieruit blijkt dat ChatGPT niet kan schaken; logisch, want het is een taalmodel. Zo doet hij bv. onmogelijke zetten en maakt stukken bij. De theorie van het schaakspel is veelvuldig te vinden op het world wide web, waardoor ChatGPT bij de eerste zetten de indruk wekt dat hij kan schaken, maar hij gaat algauw de mist in.   
 > (Bron: https://www.reddit.com/r/AnarchyChess/comments/10ydnbb/i_placed_stockfish_white_against_chatgpt_black/) 
 
