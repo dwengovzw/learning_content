@@ -113,10 +113,11 @@ in een beeld mee verminderen of het contrast in een beeld verzachten. In elke la
 
 Binnen ML onderscheidt men verschillende types van leren: supervised, unsupervised, en reinforcement learning.<br>
 - Bij **supervised learning** leert het systeem uit een dataset waarbij elk gegeven bestaat uit twee componenten: een input gekoppeld aan een *label* (de verwachte output) (zie Figuur). Het labelen van de voorbeelden gebeurt vaak manueel door mensen, men noemt dat *annoteren*. Het systeem voert een algoritme uit dat er geleidelijk aan voor zorgt dat het systeem focust op relevante patronen in de data. <br>
-![soortenmlsupervised](https://user-images.githubusercontent.com/48352335/222239255-ee4fa9d7-f181-445a-af3b-d87c529fb530.png)
+![soortenmlsupervised](https://user-images.githubusercontent.com/48352335/222239255-ee4fa9d7-f181-445a-af3b-d87c529fb530.png)<br>
+![ailerendappelsperen](https://user-images.githubusercontent.com/48352335/222241196-beaa3f95-d30e-4315-a17b-171cad288b95.png)
 
-- Bij **unsupervised learning** bevat de dataset *geen labels*. Het AI-systeem moet op zoek naar kenmerken bij de verschillende voorbeelden en moet ze zo, door het ontdekken van patronen, verdelen in klassen. Men kan het systeem bv. ongelabelde foto’s aanbieden van appels en peren. Het systeem gaat op zoek naar patronen om zo het onderscheid tussen de twee soorten fruit te kunnen maken (zie Figuur). <br>
-![kenmerken](https://user-images.githubusercontent.com/48352335/218817259-180b1517-c345-403d-9db5-4360373c7ed8.png)
+- Bij **unsupervised learning** bevat de dataset *geen labels*. Het AI-systeem moet op zoek naar kenmerken bij de verschillende voorbeelden en moet ze zo, door het ontdekken van patronen, verdelen in klassen. Men kan het systeem bv. ongelabelde foto’s aanbieden van appels en peren. Het systeem gaat op zoek naar patronen om zo het 
+![kenmerken](https://user-images.githubusercontent.com/48352335/222240504-2357f827-ec15-42e4-a209-94fcbd142ccf.png)<br>
 ![soortenmlunsupervised](https://user-images.githubusercontent.com/48352335/222239480-09ab805d-da4f-4cd2-acf0-23241c2b4c3d.png)
 
 - Bij **reinforcement learning** streeft het AI-systeem naar een *beloning*. Om bv. goed te worden in een bepaalde videogame, gaat het AI-systeem het spel heel veel spelen en daaruit leren welke acties het beter vermijdt en welke het best onderneemt om te kunnen winnen. Zo werd Google DeepMind’s AlphaGo Zero in 2017 via reinforcement learning een topspeler in go, nog beter dan AlphaGo die de beste menselijke speler eerder al versloeg.
