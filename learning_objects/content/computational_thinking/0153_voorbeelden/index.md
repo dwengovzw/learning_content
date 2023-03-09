@@ -44,7 +44,7 @@ Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.uge
 Tekst: Pär Söderhjelm, SE, Artem Iglikov, KZ, Jan Berki, CZ<br>
 Afbeeldingen: Maiko Shimabuku, JP
 
-#### Groter en kleiner
+#### Groter en kleiner (Bebras 2014-SE-04)
 
 De jonge bevers Anna, Britt, Charlotte, Demi en Emma - allemaal met een verschillende lengte - willen met jou een spelletje spelen. Ze plaatsen zich in een rij, de ene achter de andere, terwijl ze allemaal in dezelfde richting kijken, in een volgorde die ze zelf hebben gekozen. Elke bever telt dan hoeveel bevers vóór en achter haar groter zijn. Dit zijn de resultaten:
 
@@ -90,7 +90,7 @@ Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.uge
 Tekst: Mathias Hiron, FR<br>
 Afbeeldingen: onbekend
 
-#### Naar beneden
+#### Naar beneden (Bebras 2012-FR-10)
 Mevrouw Bever heeft een robot geplaatst bovenaan een doolhof. De robot daalt het doolhof af van het ene platform naar het andere eronder, totdat hij één van de vakken bereikt helemaal onderaan. Hiebij verplaatst hij zich altijd op dezelfde manier: hij verplaatst zich eerst naar rechts, en telkens wanneer hij een platform naar beneden valt, vertrekt hij opnieuw in de omgekeerde richting.
 
 De linker afbeelding hieronder toont het traject dat de robot zal volgen in het doolhof nr. 1.
@@ -124,7 +124,7 @@ Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.uge
 Tekst: Opráné Vecsei Éva, HU, Zsuzsa Pluhár, HU, Sébastien Combéfis, BE<br>
 Afbeeldingen: onbekend
 
-#### IJsjesmachine
+#### IJsjesmachine (Bebras 2013-HU-01)
 
 Een ijsmachine produceert gekleurde bollen op een bijzondere systematische manier. Voor elk hoorntje worden er vier bollen geschept. Hieronder zie je hoe de laatste drie ijsjes eruit zagen die door de machine werden gemaakt:
 
@@ -153,7 +153,7 @@ Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.uge
 Tekst: Kris Coolsaet, BE<br>
 Afbeeldingen: Kris Coolsaet, BE
  
-#### Kaarten omdraaien
+#### Kaarten omdraaien (Bebras 2018-BE-01a)
 We spelen het volgende 'spelletje'. Voor je ligt een rij kaarten. Een kaart ligt ofwel met de prent naar boven of met de prent naar onder.
 
 Één stap in het 'spel' gebeurt op de volgende manier:<br>
@@ -193,7 +193,7 @@ Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.uge
 Tekst: Yukio Idosaka, JP, Yasushi Kuno, JP, Elena Sutkute, LT, Juha Vartiainen, FI, Barbara Müllner, AT<br>
 Afbeeldingen: Maiko Shimabuku, JP, Javier Bilbao, ES
 
-#### Kortste route
+#### Kortste route (Bebras 2013-JP-10)
 
 De kleine bever speelt graag in het park. Zijn huis (H) en het park (P) zijn met elkaar verbonden door bruggen, gemaakt van boomstammen van dezelfde lengte, zoals je ziet op de kaart hieronder:
 
@@ -227,7 +227,7 @@ Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.uge
 Tekst: Zoltán Molnár, HU, Zsuzsa Pluhár, HU<br>
 Afbeeldingen: Ivo Blöchliger, CH
 
-#### Stormbestendig netwerk 
+#### Stormbestendig netwerk (Bebras 2014-HU-02) 
 
 De GSM-maatschappij Bever Telecom wil GSM-masten plaatsen op Windeneiland.<br>
 Het dekkingsgebied van een mast is een cirkel die errond is gecentreerd. Twee masten heten verbonden met elkaar als hun dekkingsgebieden overlappen. Twee masten kunnen met elkaar communiceren als er een rij tussenliggende masten bestaat zodat elke mast met elke volgende is verbonden.<br>
