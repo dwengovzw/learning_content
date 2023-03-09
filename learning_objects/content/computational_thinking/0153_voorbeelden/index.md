@@ -80,9 +80,9 @@ Britt heeft drie grotere bevers voor zich staan, dus staat Britt na Charlotte in
 
 Dit is een mooi voorbeeld van **decompositie**. In een eerste stap bepaal je voor elke bever hoeveel bevers kleiner zijn dan die bever en dus eigenlijk wat de rangschikking in grootte van de bevers is. Daarna gebruik je deze informatie in een tweede stap om de volgorde van de bevers in de rij te bepalen. 
 
-In de eerste stap maak je bovendien een **abstractie** van het verschil tussen ‘ervoor’ en ‘erachter’. Je bent enkel geïnteresseerd in het aantal bevers die groter zijn dan een bepaalde bever, niet of die ervoor of erachter staan.
-
 Bij de oplossing pak je de deelproblemen een voor een aan. Op die manier bekom je telkens tussenresultaten die je dan gebruikt om een volgend deelprobleem op te lossen.
+
+In de eerste stap maak je bovendien een **abstractie** van het verschil tussen ‘ervoor’ en ‘erachter’. Je bent enkel geïnteresseerd in het aantal bevers die groter zijn dan een bepaalde bever, niet of die ervoor of erachter staan.
 
 
 ## Voorbeeld 2:  Algoritme toepassen
@@ -118,6 +118,17 @@ Herhaal de volgende vier lijnen, zolang je niet beneden bent aangekomen:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keer de huidige richting om
 </p>
 </div>
+
+Er zijn verschillende manieren om algoritmisch denken in een computationeel denkproces toe te passen. In dit voorbeeld komt algoritmisch denken voor in zijn eenvoudigste vorm is. In de andere voorbeelden maak je kennis met andere vormen van algoritmisch denken.
+
+Mogelijke toepassingen zijn:
+- een opgegeven algoritme kunnen toepassen (voorbeeld 2, voorbeeld 4);
+- zelf een algoritme bedenken om op een efficiënte manier tot een oplossing te komen (voorbeeld 5).
+
+Een tussenweg waarvan er hier (nog) geen voorbeeld is:  
+- een (algemeen) gekend algoritme toepassen om een probleem op te lossen.<br>
+Voorbeelden van dit laatste zijn: weten hoe je geld moet teruggeven om zo weinig mogelijk briefjes en munten te gebruiken, een lineaire
+vergelijking met één variabele kunnen oplossen ...
 
 ## Voorbeeld 3:  Patroon herkennen
 Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
@@ -180,6 +191,7 @@ Na 32 stappen ligt er 1 kaart met de prent naar boven.
 
 ##### Bespreking
 
+Merk op dat je hier opnieuw een algoritme uitvoert en niet zelf bedenkt, zoals in voorbeeld 2.
 Behalve het feit dat je hier een **algoritme** moet uitvoeren, is hier ook sprake van **patroonherkenning**. Tijdens het uitvoeren van het algoritme moet je merken dat er precies één kaart met de prent naar boven ligt na 1 stap, na 2 stappen, na 4 stappen, en dan telkens na het dubbel aantal stappen als de keer ervoor. Het aantal stappen is dus steeds een macht van 2. 32 is 2 tot de vijfde, dus ook dan ligt er één kaart met de prent naar boven. 
 
 Binnenin een computer worden getallen voorgesteld in zogenaamde binaire notatie: een getal wordt 'geschreven' met enkel enen en nullen (bits genoemd).<br>
@@ -210,16 +222,22 @@ ER zijn 18 routes met dezelfde minimale lengte (nl. 9 verplaatsingen, 6 naar rec
 ![Kortste route](embed/bebrasalgoritmebedenkenoplossing.png "Bebras Korste route oplossing")
 
 Het aantal mogelijke routes tot aan een bepaald kruispunt is de som van het aantal routes dat van links komt en het aantal dat van beneden komt. (Je mag niet van rechts of van boven komen, want dan moet je ooit terugkeren en dan is het pad niet van minimale lengte.)<br>
-Daarom noteer je vanaf links onderaan bij elk kruispunt de aantallen op en verplaats je je stap voor stap naar rechts en naar boven. Het getal dat je dan rechtsboven opschrijft, is het uiteindelijke antwoord.
+Daarom noteer je vanaf links onderaan bij elk kruispunt de aantallen en verplaats je je stap voor stap naar rechts en naar boven. Het getal dat je dan rechtsboven opschrijft, is het uiteindelijke antwoord.
 
 ##### Bespreking
 
-Je moet op voorhand een systematische manier bedenken om tot die oplossing te komen, m.a.w. je moet een **algoritme** opstellen. <br>
+De oplossing bestaat uit twee denkstappen: 
+- een eerste stap bestaat erin zich te realiseren dat je in een kortste route noodgedwongen nooit naar links of naar beneden beweegt;
+- in een tweede stap hoef je dus enkel dergelijke routes te bekijken.
+
+In tegenstelling tot voorbeelden 2 en 4, moet je hier wel zelf een **algoritme** opstellen om tot de oplossing te komen: je moet een systematische manier bedenken om tot die oplossing te komen. <br>
+De *brute benadering*, nl. alle mogelijkheden uitproberen en hopen dat je er geen vergeten bent, werkt niet; er is echt nood aan het bedenken van een systematische manier om dit probleem op te lossen (m.a.w. een algoritme).<br>
 Bij dit voorbeeld: van linksonder naar rechtsboven werken en telkens bij de boomstammen opschrijven hoeveel wegen ernaartoe leiden.
 
-Merk op dat je hier wel algoritmische denken nodig hebt, maar niet hoeft te programmeren!
+Merk op dat je hier wel algoritmisch denken nodig hebt, maar niet hoeft te programmeren!
 
-Als je bekend bent met bestaande algoritmes voor korste route dan kan je die toepassen.
+Als je bekend bent met een manier voor het tellen van het aantal routes (cf. telproblemen, combinaties), dan kan je die toepassen.
+
 
 
 ## Voorbeeld 6:  Abstractie maken
@@ -245,5 +263,10 @@ Het juiste antwoord is B.
 
 ##### Bespreking
 
-Om gemakkelijk tot een oplossing te komen, voer je naast de abstractie die er al is nog een bijkomende abstractie toe: je verbindt twee masten met elkaar wanneer de overeenkomstige cirkels overlappen, en je verwijdert de cirkels. Dit is een cruciaal deel van het oplossingsproces.
+In de afgebeelde opstellingen worden masten voorgesteld door punten en dekkingsgebieden door cirkels. Dit is een eerste **abstractie** die je correct moet interpreteren.
 
+Om tot een oplossing te komen, voer je een **bijkomende abstractie** in door de overlappende cirkels te vervangen door een boog in een graaf: je verbindt twee masten met elkaar wanneer de overeenkomstige cirkels overlappen, en je verwijdert de cirkels. Dit is een cruciaal deel van het oplossingsproces.
+
+Abstractie kan dus op twee verschillende manieren voorkomen in computationeel denken:
+- een gegeven abstractie correct kunnen interpreteren;
+- zelf tot een abstractie komen om een probleem gemakkelijker op te lossen.
