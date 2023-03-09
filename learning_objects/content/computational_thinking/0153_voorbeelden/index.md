@@ -35,10 +35,14 @@ Het hoofddoel van de Bebras-wedstrijd is om de deelnemers warm te maken voor de 
 
 > Voor meer uitleg over de internationale Bebras-wedstrijd zie https://www.bebras.be/nl/home
 
-Hieronder vind je een aantal vragen uit de Bebras-wedstrijd met daarbij telkens een beschrijving van welke basisconcepten van computationeel denken je gebruikt om *tot de oplossing te komen van het gestelde probleem*.
+Hieronder vind je een aantal vragen uit de Bebras-wedstrijd met daarbij telkens een beschrijving van welke basisconcepten van computationeel denken je gebruikt om *tot de oplossing te komen van het gestelde probleem*.<br>
+
+De gebruikerslicentie van de Bebras-opgaven is CC BY-NC-SA (Creative Commons Attribution-NonCommercial-ShareAlike 3.0 of later).
 
 ## Voorbeeld 1:  Decompositie en abstractie
-Bron: Bebras ...
+Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
+Tekst: Pär Söderhjelm, SE, Artem Iglikov, KZ, Jan Berki, CZ<br>
+Afbeeldingen: Maiko Shimabuku, JP
 
 #### Groter en kleiner
 
@@ -82,7 +86,9 @@ Bij de oplossing pak je de deelproblemen een voor een aan. Op die manier bekom j
 
 
 ## Voorbeeld 2:  Algoritme toepassen
-Bron: Bebras ...
+Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
+Tekst: Mathias Hiron, FR<br>
+Afbeeldingen: onbekend
 
 #### Naar beneden
 Mevrouw Bever heeft een robot geplaatst bovenaan een doolhof. De robot daalt het doolhof af van het ene platform naar het andere eronder, totdat hij één van de vakken bereikt helemaal onderaan. Hiebij verplaatst hij zich altijd op dezelfde manier: hij verplaatst zich eerst naar rechts, en telkens wanneer hij een platform naar beneden valt, vertrekt hij opnieuw in de omgekeerde richting.
@@ -114,7 +120,9 @@ Herhaal de volgende vier lijnen, zolang je niet beneden bent aangekomen:<br>
 </div>
 
 ## Voorbeeld 3:  Patroon herkennen
-Bron: Bebras ...
+Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
+Tekst: Opráné Vecsei Éva, HU, Zsuzsa Pluhár, HU, Sébastien Combéfis, BE<br>
+Afbeeldingen: onbekend
 
 #### IJsjesmachine
 
@@ -141,8 +149,10 @@ Het volgende ijsje moet dus eerst een rode bol krijgen en daarna 'paars - blauw 
 
 
 ## Voorbeeld 4:  Algoritme toepassen en patroon herkennen
-Bron: Bebras ...
-
+Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
+Tekst: Kris Coolsaet, BE<br>
+Afbeeldingen: Kris Coolsaet, BE
+ 
 #### Kaarten omdraaien
 We spelen het volgende 'spelletje'. Voor je ligt een rij kaarten. Een kaart ligt ofwel met de prent naar boven of met de prent naar onder.
 
@@ -179,7 +189,9 @@ Wat we in deze puzzel een 'stap' noemen, is wat er door de elektronica van een c
 
 
 ## Voorbeeld 5:  Algoritme bedenken
-Bron: Bebras ...
+Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
+Tekst: Yukio Idosaka, JP, Yasushi Kuno, JP, Elena Sutkute, LT, Juha Vartiainen, FI, Barbara Müllner, AT<br>
+Afbeeldingen: Maiko Shimabuku, JP, Javier Bilbao, ES
 
 #### Kortste route
 
@@ -211,7 +223,9 @@ Als je bekend bent met bestaande algoritmes voor korste route dan kan je die toe
 
 
 ## Voorbeeld 6:  Abstractie maken
-Bron: Bebras ...
+Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
+Tekst: Zoltán Molnár, HU, Zsuzsa Pluhár, HU<br>
+Afbeeldingen: Ivo Blöchliger, CH
 
 #### Stormbestendig netwerk 
 
