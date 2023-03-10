@@ -32,8 +32,7 @@ Jommeke is een Belgische stripreeks die werd bedacht en oorspronkelijk getekend 
 ![Oude afbeelding Jommeke](img/jommeke_old/old2.png)
 ![Oude afbeelding Jommeke](img/jommeke_old/old3.png)
 
-TODO: Link naar thesis, momenteel niet op biblio..
-
+[Thesis](https://simonschellaert.com/img/projects/thesis/paper.pdf)
 Aan de Universiteit Gent werd door Simon Schellaert een AI-systeem ontwikkeld dat het mogelijk maakt om oude Jommeke strips in te kleuren. Om het AI-systeem te leren hoe het zwart-wit afbeeldingen moet inkleuren heb je heel veel voorbeeldafbeeldingen nodig waarvan je zowel een zwart-wit als ingekleurde versie hebt. Omdat de meeste Jommekestrips in kleur zijn moeten die eerst omgezet worden naar zwart-wit. Hieronder zie je een voorbeeld van een afbeelding die naar zwart-wit werd omgezet.
 
 ![Jommeke apen origineel](img/jommeke_flow/origineel-apen-005.png "Origineel")
@@ -41,3 +40,6 @@ Aan de Universiteit Gent werd door Simon Schellaert een AI-systeem ontwikkeld da
 ![Jommeke apen zwart-wit](img/jommeke_flow/ingekleurd-apen-005.png "De door het AI-systeem ingekleurde versie.")
 
 In het bovenstaande voorbeeld is duidelijk dat het algoritme in staat is om het zwart-wit prentje in te kleuren. Maar hoe goed is het AI-syteem? Is het even goed als een mens die de kleurentekeningen maakt? Vertoont het systeem menselijke intelligentie en zoja, hoe intelligent is het dan?
+
+---
+© Standaard Uitgeverij 2022

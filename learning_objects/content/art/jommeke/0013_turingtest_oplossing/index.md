@@ -43,3 +43,6 @@ Hieronder zie je de oplossing van de vraag op de vorige pagina. Hoeveel afbeeldi
 
 **Op welke manieren gaat het inkleuren allemaal fout?**
 Bekijk de ingekleurde afbeeldingen nog eens goed. Op welke manier loopt het mis in die afbeeldingen?
+
+---
+© Standaard Uitgeverij 2022
