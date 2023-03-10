@@ -33,7 +33,7 @@ teacher_exclusive: false
 
 # Programmeer je eigen robot
 
-Proficiat! Nu je het programmeeren wat onder de knie hebt, kan je beginnen met je eigen robot te programmeren.
+Proficiat! Nu je het programmeren wat onder de knie hebt, kan je beginnen met je eigen robot te programmeren.
 
 Overloop nogmaals wat jouw robot moet kunnen en schrijf dit nu op in 'pseudocode'.
 
