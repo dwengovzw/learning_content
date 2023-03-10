@@ -33,3 +33,6 @@ Als je dit genoeg doet dan kan je de verschillende pixels onderscheiden.
 ![](embed/banner_jommeke_22.png) 
 
 Om de kleuren van een afbeelding aan te passen, moet je dus de kleur van de pixels aanpassen. 
+
+---
+© Standaard Uitgeverij 2022 

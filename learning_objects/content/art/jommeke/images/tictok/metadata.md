@@ -1,5 +1,5 @@
 ---
-hruid: org-dwengo-jommeke-images-tictok-logo
+hruid: org-dwengo-jommeke-images-tiktok-logo
 version: 1
 language: nl
 title: "TicTok"

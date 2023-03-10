@@ -40,3 +40,6 @@ We hebben voor ons AI-systeem ook een soort van Turingtest opgesteld. Kan jij in
 | ![Vraag 10](turing/generated/9.png) | origineel/ gegenereerd |
 | ![Vraag 11](turing/generated/14.png) | origineel/ gegenereerd |
 | ![Vraag 11](turing/original/4.png) | origineel/ gegenereerd |
+
+---
+© Standaard Uitgeverij 2022

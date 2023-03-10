@@ -98,21 +98,6 @@
         ]
       },
       {
-          "learningobject_hruid": "org-dwengo-jommeke-fotos-voorstellen",
-          "language": "nl",
-          "version": "1",
-          "transitions": [
-            {
-                "default": true,
-                "next":{
-                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-1",
-                    "version": "1",
-                    "language": "nl"
-                }
-            }
-        ]
-      },
-      {
           "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-1",
           "language": "nl",
           "version": "1",
