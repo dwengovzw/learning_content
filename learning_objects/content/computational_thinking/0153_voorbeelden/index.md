@@ -189,7 +189,7 @@ Het spel start met 32 kaarten met alle prenten naar beneden:
 
 ![Kaarten omdraaien](embed/bebrasalgoritmepatroonoplossing.png "Bebras Kaarten omdraaien oplossing")
 
-Na 32 stappen ligt er 1 kaart met de prent naar boven. 
+Merk op dat na 1 stap, na 2, 4, 8 stappen er telkens 1 kaart met de prent naar boven ligt. Dat zijn stappen 2<sup>0</sup>, 2<sup>1</sup>, 2<sup>2</sup>, 2<sup>3</sup>, alle machten van 2. 32 is ook een macht van 2. Na 32 stappen ligt er 1 kaart met de prent naar boven. 
 
 ##### Bespreking
 
