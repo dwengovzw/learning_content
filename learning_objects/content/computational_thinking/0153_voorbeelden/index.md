@@ -64,7 +64,7 @@ De jonge bevers Anna, Britt, Charlotte, Demi en Emma - allemaal met een verschil
 Er zijn 5 bevers. <br>
 Uit de tabel kan je afleiden dat Demi de grootste is want geen enkel bever ervoor of erachter is groter. Daarna volgt Charlotte met slechts één bever die groter is (nl. Demi), dan Emma, en dan Anna en tot slot Britt. Britt is de kleinste bever want alle vier de andere bevers zijn groter.
 
-![bebrasdecompositiestap1](https://user-images.githubusercontent.com/48352335/224713276-a6330fd4-6a29-4137-9a31-cc756ef39b2e.png)
+![bebrasdecompositiestap1](embed/bebrasdecompositiestap1.png)
 
 Redeneer nu op de volgende manier:<br>
 - Omdat iedereen kleiner is dan Demi, is Demi groter dan Charlotte, en moet het Demi zijn die voor Charlotte in de rij staat.   
@@ -238,8 +238,8 @@ Bij dit voorbeeld: van linksonder naar rechtsboven werken en telkens bij de boom
 
 Merk op dat je hier wel algoritmisch denken nodig hebt, maar niet hoeft te programmeren!
 
-Als je bekend bent met een manier voor het tellen van het aantal routes (cf. telproblemen, combinaties), dan kan je die toepassen.
-
+De techniek die je gebruikt om deze opgave op te lossen, heet *dynamisch programmeren*: je verdeelt je probleem in kleinere deelproblemen die je gemakkelijk kan oplossen. In dit geval is het deelprobleem 'hoeveel routes zijn er naar het kruispunt waar we net mee bezig zijn?' Dat aantal routes hangt af van het aantal routes naar het kruispunt waar je net van komt. Je begint daarom links onderaan en je gaat stap voor stap naar rechts en naar boven, en je schrijft bij elk kruispunt de aantallen op tot je rechtsboven aankomt.<br>
+*Misschien had je al ervaring met dit soort problemen en herkende je dat dynamisch te programmeren hier misschien snel tot de oplossing zou kunnen leiden.*
 
 
 ## Voorbeeld 6:  Abstractie maken
