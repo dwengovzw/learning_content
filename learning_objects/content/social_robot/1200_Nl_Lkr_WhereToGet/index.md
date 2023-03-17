@@ -45,4 +45,8 @@ Bij elk pakket wordt ook een [ficheboekje](embed/Ficheboekje.pdf "Ficheboekje") 
 Dwengo verkoopt deze kits in sets van 5 SR-kits. Voor meer informatie kan je ons <a href="mailto:info@dwengo.org">hier</a> contacteren.
 
 ## Materiaal ontlenen
-Voor scholen uit de provincie Oost-Vlaanderen stelt de provincie 6 sets ter beschikking. Deze kunnen in overleg met de verantwoordelijken ontleend worden via <a href="mailto:jorinde.lannau@oost-vlaanderen.be">mail</a>.  
+Voor scholen uit de [provincie Oost-Vlaanderen](https://oost-vlaanderen.be/leren/educatief-materiaal/de-sociale-robot.html) stelt de provincie 6 sets ter beschikking. Deze kunnen in overleg met de verantwoordelijken ontleend worden via <a href="mailto:jorinde.lannau@oost-vlaanderen.be">mail</a>.  
+
+Scholen van het [Provinciaal Onderwijs Vlaanderen](https://povsites.be/stem/voorbereiding-project-sociale-robot/) kunnen terecht bij hun [pedagogische begeleidingsdienst](https://povsites.be/stem/voorbereiding-project-sociale-robot/#kits-en-lesfiches).
+
+De [cel iSTEM inkleuren](https://istem.be/) heeft ook enkele sets om uit te lenen. Contacteer de cel via <a href="mailto:contact(at)istem.be">mail</a>. 
