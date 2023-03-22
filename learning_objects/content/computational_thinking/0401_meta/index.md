@@ -64,34 +64,29 @@ def discriminant(a, b, c):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van discriminant."""<br>
 &nbsp;&nbsp;&nbsp;&nbsp;d = b**2 – 4 * a * c<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return d<br><br>
-def aantalwortels(a, b, c):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Bepalen van aantal wortels."""<br>
-&nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;aantal = 0<br>
-&nbsp;&nbsp;&nbsp;&nbsp;if d > 0: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 2<br>
-&nbsp;&nbsp;&nbsp;&nbsp;elif d = 0:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aantal = 1  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;return aantal<br><br>
-def wortels(a, b, c):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van de wortels."""<br>
+def wortels(a, b, c, d):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van de wortels bij niet-negatieve discriminant."""<br>
 &nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;w1 = (- b + math.sqrt(d)) / (2 * a )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;w2 = (- b - math.sqrt(d)) / (2 * a )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return w1, w2<br><br>
 # invoer<br>
-a = float(input("Geef de coëfficiënt van x^2: "))<br>
+a = float(input("Geef de coëfficiënt van x²: "))<br>
 b = float(input("Geef de coëfficiënt van x: "))<br>
 c = float(input("Geef de constante term: "))<br><br>
 # verwerking<br>
 d = discriminant(a, b, c)<br>
-n = aantalwortels(a, b, c)<br>
 if d >= 0:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;x1, x2 = wortels(a, b, c)<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;x1, x2 = wortels(a, b, c, d)<br><br>
 # uitvoer<br>
-print("Het aantal wortels is:", n)<br>
 if d >= 0:
-&nbsp;&nbsp;&nbsp;&nbsp;print("De wortels zijn: ", x1, "en", x2)
+&nbsp;&nbsp;&nbsp;&nbsp;print("De wortels zijn: ", x1, "en", x2)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;if d > 0:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("Er zijn 2 verschillende wortels.")<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;else:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("Er zijn 2 samenvallende wortels.")<br>
+else:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print("Er zijn geen reële wortels.")    
 </p>
 </div>
 </implementation>
