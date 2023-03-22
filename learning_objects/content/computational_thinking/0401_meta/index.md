@@ -78,7 +78,7 @@ d = discriminant(a, b, c)<br>
 if d >= 0:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;x1, x2 = wortels(a, b, c, d)<br><br>
 # uitvoer<br>
-if d >= 0:
+if d >= 0:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;print("De wortels zijn: ", x1, "en", x2)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;if d > 0:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("Er zijn 2 verschillende wortels.")<br> 
