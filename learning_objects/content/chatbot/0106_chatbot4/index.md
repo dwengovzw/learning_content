@@ -41,11 +41,11 @@ De technologie is echter niet splinternieuw. ChatGPT is ontstaan uit GPT-3.5, ee
 > Microsoft integreert ChatGPT in zijn zoekmachine Bing.
 
 ## Citizen science
-Eigenlijk voert OpenAI momenteel een enorm burgerwetenschapsproject uit met ChatGPT. Het systeem wordt op een ongekend grote schaal getest vanaf week één van de lancering. Men spreekt van 1 miljoen gebruikers in de eerste week 1 en van 100 miljoen in januari. De ontwikkelaars bij OpenAI gebruiken de input van de gebruikers om het systeem te verbeteren. De leeftijdsgrens van 18 jaar, vooropgesteld door OpenAI, wordt niet gerespecteerd en sommigen maken zich dan ook *zorgen over het gebruik van de chatbot door minderjarigen*.
+Eigenlijk voert OpenAI momenteel een enorm burgerwetenschapsproject uit met ChatGPT. Het systeem wordt op een ongekend grote schaal getest vanaf week één van de lancering in november 2022. Men spreekt van 1 miljoen gebruikers na de eerste week en van 100 miljoen in januari 2023. De ontwikkelaars bij OpenAI gebruiken de input van de gebruikers om het systeem te verbeteren. De leeftijdsgrens van 18 jaar, vooropgesteld door OpenAI, wordt niet gerespecteerd en sommigen maken zich dan ook *zorgen over het gebruik van de chatbot door minderjarigen*.
 
 ## Soortgelijke chatbots
-ChatGPT is niet de enige in zijn soort. Een andere chatbot is ChatSonic waar je ook aan kunt vragen om beelden te genereren. Binnenkort komt Google met Bard, een broertje van ChatGPT. Bard zal wel beschikken over recente informatie omdat Bard het world wide web kan raadplegen.
-Ook met de chatbot Claude wordt geëxperimenteerd. Deze werd ontwikkeld door ex-werknemers van OpenAI. En zo zijn/komen er ongetwijfeld nog.
+ChatGPT is niet de enige in zijn soort. Een andere chatbot is [ChatSonic](https://writesonic.com/chat) waar je ook aan kunt vragen om beelden te genereren. Google heeft [Bard](https://bard.google.com/), een broertje van ChatGPT. Bard beschikt wel over recente informatie omdat Bard het world wide web kan raadplegen.
+Ook met de chatbot [Claude](https://www.anthropic.com/index/introducing-claude) wordt geëxperimenteerd. Deze werd ontwikkeld door ex-werknemers van OpenAI. En zo zijn/komen er ongetwijfeld nog.
 
 ## ChatGPT 
 Om tot ChatGPT te komen heeft OpenAI eerst het groot taalmodel GPT-3 gefinetuned tot InstructGPT (of **GPT-3.5**). Dit om beter aan de verwachtingen van de gebruiker en de menselijke waarden te beantwoorden, en om de uitvoer meer waarheidsgetrouw te maken. <br>
