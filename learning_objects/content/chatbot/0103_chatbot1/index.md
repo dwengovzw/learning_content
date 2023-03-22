@@ -41,7 +41,7 @@ is dus niets anders dan een robot waarmee je kan chatten, een geautomatiseerd di
 Chatbots worden voor verschillende doeleinden ingezet, bijvoorbeeld:<br>
 - chatbots die veelgestelde vragen beantwoorden, als het ware een virtuele helpdesk;
 - chatbots die klachten behandelen;
-- chatbots die aan de slag kunnen met moeilijkere problemen, zoals de virtuele therapeut Woebot (Health,2021).
+- chatbots die aan de slag kunnen met moeilijkere problemen, zoals de virtuele therapeut Woebot (Health, 2021).
 
 ### Voorbeelden
 - Om tijd te besparen wordt hier en daar het anamnesegesprek bij de dokter vervangen door een chatbotgesprek, bijvoorbeeld met Bingli; de zinvolle informatie wordt doorgespeeld aan de dokter (Bingli, 2021).
