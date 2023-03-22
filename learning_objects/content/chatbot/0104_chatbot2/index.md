@@ -63,7 +63,7 @@ De trainingsdata van GPT-3 bevat o.a. Engelstalige boeken, de Engelstalige Wikip
 Er werd ondertussen dan ook al druk geëxperimenteerd met de mogelijkheden van GPT-3, zoals poëzie schrijven, chatbots en websites ontwikkelen, en programmeren in Python:
 -  GPT-3 schreef al in 2020 al een opiniestuk voor The Guardian: ‘A robot wrote this entire article. Are you scared yet, human?’. (Zie de handleiding van het project 'Chatbot' p. 46.)
 -  Er is een [tool](https://www.usetopic.com/blog-idea-generator) ontwikkeld om een blogidee te genereren. Deze tool geeft de ingegeven sleutelwoorden in in Google en GPT-3 genereert dan een blogidee gebaseerd op de inhoud van de hoogst gerankte zoekresultaten. (Zie de handleiding van het project 'Chatbot'.)
--  GPT-3 wordt soms in combinatie met beeldherkenning aangewend. Taal en beeld leiden zo bv. tot een classificatiesysteem. (Zie de handleiding van het project 'Chatbot' p. 48.)
+-  GPT-3 wordt soms [in combinatie met beeldherkenning](https://javifuentes94-clip-playground-app-haepeo.streamlit.app/) aangewend. Taal en beeld leiden zo bv. tot een classificatiesysteem. (Zie de handleiding van het project 'Chatbot' p. 48.)
 -  Improbotics gebruikte eerst GTP-2 om de conversaties te genereren van de sociale robot Alex die acteert in het improvisatietoneel, zie [de webpagina van Improbotics](http://www.erlnmyr.be/voorstellingen/improbotics/), maar is recentelijk overgeschakeld naar GPT-3.
 -  In het onderdeel ‘ChatGPT en co’ van dit leerpad lees je hoe ChatGPT ontstaan is uit GPT-3. 
 
