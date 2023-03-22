@@ -66,7 +66,6 @@ def discriminant(a, b, c):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return d<br><br>
 def wortels(a, b, c, d):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van de wortels bij niet-negatieve discriminant."""<br>
-&nbsp;&nbsp;&nbsp;&nbsp;d = discriminant(a, b, c)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;w1 = (- b + math.sqrt(d)) / (2 * a )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;w2 = (- b - math.sqrt(d)) / (2 * a )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return w1, w2<br><br>
