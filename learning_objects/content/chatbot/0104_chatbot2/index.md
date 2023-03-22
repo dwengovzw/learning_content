@@ -48,7 +48,7 @@ De keerzijde van de medaille is dat de training van GPT-2, waarbij zoveel data v
 > GPT, BERT en GPT-2 zijn 'open source'-systemen. Dat betekent dat de code openbaar is en dat ieder vrij is om de code te gebruiken en aan te passen, bijvoorbeeld om een nieuwe toepassing te ontwikkelen. 
 
 Voorbeeld:
--  Het Vlaamse bedrijf ML6 paste GPT-2 aan om ook teksten in het Nederlands te kunnen genereren (Dehaene, 2020). Hun systeem schreef voor het tijdschrift Data News een artikel ‘Gaan robots de job van journalist vervangen?’ (VLAIO, 2020). Dit artikel kan je lezen in de handleiding van het project 'Chatbot'.
+-  Het Vlaamse bedrijf ML6 paste GPT-2 aan om ook teksten in het Nederlands te kunnen genereren (Dehaene, 2020). [Hun systeem](https://gpt2.ml6.eu/nl) schreef voor het tijdschrift Data News een artikel ‘Gaan robots de job van journalist vervangen?’ (VLAIO, 2020). Dit artikel kan je lezen in de handleiding van het project 'Chatbot' op p. 43.
 
 *Dankzij het internet en crawlers is men in staat immense databanken aan te leggen waarop deze systemen worden getraind. Omdat deze systemen getraind zijn
 met data afkomstig van op het world wide web, zijn ze extra gevoelig voor bias.*
@@ -61,9 +61,9 @@ De trainingsdata van GPT-3 bevat o.a. Engelstalige boeken, de Engelstalige Wikip
 > GPT-3 is geen 'open source'-systeem. In 2020 verkreeg Microsoft de licenties op GPT-3. Maar via het web kan men meer dan 300 toepassingen vinden die gebaseerd zijn op GPT-3 (OpenAI, 2021).
 
 Er werd ondertussen dan ook al druk geëxperimenteerd met de mogelijkheden van GPT-3, zoals poëzie schrijven, chatbots en websites ontwikkelen, en programmeren in Python:
--  GPT-3 schreef al in 2020 al een opiniestuk voor The Guardian: ‘A robot wrote this entire article. Are you scared yet, human?’. Zie de handleiding van het project 'Chatbot'.
--  Er is een tool ontwikkeld om een blogidee te genereren (zie kader ‘Een blogidee met GPT-3’). Deze tool geeft de ingegeven sleutelwoorden in in Google en GPT-3 genereert dan een blogidee gebaseerd op de inhoud van de hoogst gerankte oekresultaten. Zie de handleiding van het project 'Chatbot'.
--  GPT-3 wordt soms in combinatie met beeldherkenning aangewend. Taal en beeld leiden zo bv. tot een classificatiesysteem. Zie de handleiding van het project 'Chatbot'.
+-  GPT-3 schreef al in 2020 al een opiniestuk voor The Guardian: ‘A robot wrote this entire article. Are you scared yet, human?’. (Zie de handleiding van het project 'Chatbot' p. 46.)
+-  Er is een [tool](https://www.usetopic.com/blog-idea-generator) ontwikkeld om een blogidee te genereren. Deze tool geeft de ingegeven sleutelwoorden in in Google en GPT-3 genereert dan een blogidee gebaseerd op de inhoud van de hoogst gerankte zoekresultaten. (Zie de handleiding van het project 'Chatbot'.)
+-  GPT-3 wordt soms in combinatie met beeldherkenning aangewend. Taal en beeld leiden zo bv. tot een classificatiesysteem. (Zie de handleiding van het project 'Chatbot' p. 48.)
 -  Improbotics gebruikte eerst GTP-2 om de conversaties te genereren van de sociale robot Alex die acteert in het improvisatietoneel, zie [de webpagina van Improbotics](http://www.erlnmyr.be/voorstellingen/improbotics/), maar is recentelijk overgeschakeld naar GPT-3.
 -  In het onderdeel ‘ChatGPT en co’ van dit leerpad lees je hoe ChatGPT ontstaan is uit GPT-3. 
 
@@ -76,7 +76,7 @@ De woorden in een tekst worden daartoe eerst omgezet naar vectoren. Een **vector
 <center>Relaties tussen woorden met word2vec. Embeddings can produce remarkable analogies (Google, 2020).</center> 
 
 <br>
-<em>Embeddings</em> zetten tekst dus om naar vectoren. Bij word2vec zijn <b>semantisch verwante teksten dicht bij elkaar in de vectorruimte</b> geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men in de vectorruimte kan de overeenkomstige drie vectoren dicht bij elkaar vinden. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).<br><br>
+<em>Embeddings</em> zetten tekst dus om naar vectoren. Bij word2vec zijn <b>semantisch verwante teksten dicht bij elkaar in de vectorruimte</b> geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men de overeenkomstige drie vectoren dicht bij elkaar vinden in de vectorruimte. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).<br><br>
 
 > De NLP-techniek *word embedding* wordt ook bij zoekmachines gebruikt. M.b.v. *word embedding* levert een zoekopdracht op het web betere resultaten op. De zoekmachine zal behalve naar de eigenlijke zoekopdracht ook zoeken naar woorden en termen die er verwant mee zijn. 
 
