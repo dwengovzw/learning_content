@@ -1,9 +1,9 @@
 ---
-hruid: pc_micro_klok
+hruid: pc_micro_wiem
 version: 3
 language: nl
-title: "Klok"
-description: "Klok"
+title: "Microcontroller"
+description: "Microcontroller"
 keywords: ["Microcontroller"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,8 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Microcontroller
 
-# De klok van een microcontroller
-De klok is het hart van de microcontroller. Ze staat in voor de snelheid en nauwkeurigheid van de microcontroller en bijgevolg van het apparaat of het systeem waarin deze vervat zit. 
+## Wat is een microcontroller?
+In onderstaand filmpje legt Francis uit wat microcontrollers zijn en waar je ze kan tegenkomen.
 
-Deze klok is over algemeen een interne of externe oscillator (kristal)
+> Opdracht bij het filmpje: welke apparaten heb jij thuis waar er een microcontroller inzit? Verwar niet met een klassieke processor. Bedenk minstens 10 apparaten!
+
+![](youtube/https://www.youtube.com/embed/f_SmeBlY0XI "Wat is een microcontroller")
