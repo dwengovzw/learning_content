@@ -1,0 +1,44 @@
+---
+hruid: pc_micro_dwenguino
+version: 3
+language: nl
+title: "Dwenguino"
+description: "Dwenguino"
+keywords: ["Microcontroller"]
+educational_goals: [
+    {source: Source, id: id}, 
+    {source: Source2, id: id2}
+]
+copyright: dwengo
+licence: dwengo
+content_type: text/markdown
+available: true
+target_ages: [12, 13, 14]
+difficulty: 3
+return_value: {
+    callback_url: callback-url-example,
+    callback_schema: {
+        att: test,
+        att2: test2
+    }
+}
+content_location: example-location
+estimated_time: 10
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
+]
+teacher_exclusive: true
+---
+# De dwenguino
+
+## De dwenguino: een kort overzicht
+
+![](@youtube/https://www.youtube.com/embed/LQ4E649KPFc "De dwenguino: een kort overzicht")
+
+Het dwenguino platform is een veelzijdig microcontrollerplatform dat ontwikkeld werd door Dwengo vzw. Het bevat reeds een aantal componenten waaronder een lcd-scherm, leds, een buzzer, knopjes, een motordriver etc. zodat men heel snel allerlei toepassingen kan realiseren en testen.
+
+![](embed/microcontroller2.png "Microcontroller")
+
+De Dwenguino wordt gebruikt in scholen en internationale projecten, en ook wij gaan het gebruiken in ingenieursproject. Echter, waar scholieren en hobbyisten de Dwenguino op een toegankelijke manier programmeren in Arduino IDE of Dwenguino blockly, moeten jullie de Dwenguino programmeren in Visual Studio Code via PlatformIO door te steunen op de AVR-bibliotheken en de lijvige datasheet. Dit maakt het welliswaar moeilijker, maar zorgt er wel voor dat je een goed en volledig begrip zal krijgen van de werking van een microcontroller.
+
+![](@youtube/https://www.youtube.com/embed/MBsjYMm-Y90 "De dwenguino: het elektisch schema")

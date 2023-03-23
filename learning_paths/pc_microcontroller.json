@@ -15,6 +15,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "pc_micro_wiem",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_wiem",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "pc_micro_bouwstenen",
             "version": "3",
             "language": "nl"
@@ -30,7 +45,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "pc_micro_klok",
+            "hruid": "pc_micro_dwenguino",
             "version": "3",
             "language": "nl"
           }
@@ -38,7 +53,7 @@
       ]
     },
     {
-      "learningobject_hruid": "pc_micro_klok",
+      "learningobject_hruid": "pc_micro_dwenguino",
       "version": "3",
       "language": "nl",
       "transitions": [
