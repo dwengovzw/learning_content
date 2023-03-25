@@ -60,7 +60,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "pc_micro_pu",
+            "hruid": "pc_micro_operatoren",
             "version": "3",
             "language": "nl"
           }
@@ -68,14 +68,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pc_micro_pu",
+      "learningobject_hruid": "pc_micro_operatoren",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pc_micro_romram",
+            "hruid": "pc_micro_tsl",
             "version": "3",
             "language": "nl"
           }
@@ -83,14 +83,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pc_micro_romram",
+      "learningobject_hruid": "pc_micro_tsl",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pc_micro_bussen",
+            "hruid": "pc_micro_practicum1",
             "version": "3",
             "language": "nl"
           }
@@ -98,14 +98,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pc_micro_bussen",
+      "learningobject_hruid": "pc_micro_practicum1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pc_micro_structuur",
+            "hruid": "pc_micro_p1_oef1",
             "version": "3",
             "language": "nl"
           }
@@ -113,14 +113,14 @@
       ]
     },
     {
-      "learningobject_hruid": "pc_micro_structuur",
+      "learningobject_hruid": "pc_micro_p1_oef1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "pc_micro_fetchexec",
+            "hruid": "pc_micro_p1_oef2",
             "version": "3",
             "language": "nl"
           }
@@ -128,7 +128,82 @@
       ]
     },
     {
-      "learningobject_hruid": "pc_micro_fetchexec",
+      "learningobject_hruid": "pc_micro_p1_oef2",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p1_oef3",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p1_oef3",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p1_oef4",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p1_oef4",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p1_einde",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p1_einde",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_tei",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_tei",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_interrupts",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_interrupts",
       "version": "3",
       "language": "nl",
       "transitions": [
