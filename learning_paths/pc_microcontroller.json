@@ -210,7 +210,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "pc_micro_dwenguino",
+            "hruid": "pc_micro_practicum2",
             "version": "3",
             "language": "nl"
           }
@@ -218,7 +218,97 @@
       ]
     },
     {
-      "learningobject_hruid": "pc_micro_dwenguino",
+      "learningobject_hruid": "pc_micro_practicum2",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p2_oef1",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p2_oef1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p2_oef2",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p2_oef2",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p2_oef3",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p2_oef3",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p2_oef4",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p2_oef4",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p2_oef5",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p2_oef5",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_micro_p2_einde",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_p2_einde",
       "version": "3",
       "language": "nl"
     } 
