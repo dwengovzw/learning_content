@@ -36,4 +36,4 @@ In onderstaand filmpje legt Francis uit wat microcontrollers zijn en waar je ze 
 
 > Opdracht bij het filmpje: welke apparaten heb jij thuis waar er een microcontroller inzit? Verwar niet met een klassieke processor. Bedenk minstens 10 apparaten!
 
-![](youtube/https://www.youtube.com/embed/f_SmeBlY0XI "Wat is een microcontroller")
+![](@youtube/https://www.youtube.com/embed/f_SmeBlY0XI "Wat is een microcontroller")
