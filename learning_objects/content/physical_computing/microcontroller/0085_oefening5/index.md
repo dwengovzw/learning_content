@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 # Practicum 2 - Timers en Interrupts
 
-## Oefening 5: Timer interrupts voor accurate wachttijden⚡
+## Oefening 5: Timer interrupts voor accurate wachttijden
 
 In deze laatste oefening gaan we ook de delay bij het wachten op de stimulus vervangen. We zullen hiervoor gebruik maken van een timer. Bovendien gaan we nu de timer koppelen aan een interrupt. Op die manier kunnen we veel preciezer de LEDs aansturen én ondertussen een animatie afspelen op het scherm om aan de gebruiker duidelijk te maken dat de countdown naar de stimulus (de LEDs) begonnnen is.
 

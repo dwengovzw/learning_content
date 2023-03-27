@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 # Practicum 1
 
-## Oefening 1: Leds aanschakelen met de drukknoppen**
+## Oefening 1: Leds aanschakelen met de drukknoppen
 
 Analyseer eerst het schema van de dwenguino om te achterhalen hoe de leds met de microcontroller verbonden zijn.
 

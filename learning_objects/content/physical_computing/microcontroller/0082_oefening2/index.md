@@ -54,24 +54,24 @@ Onderstaande pseudo-code in Python stijl geeft dit iets gestructureerder weer:
     <span class="pl-s1">print</span> <span class="pl-v">UI</span> <span class="pl-s1">to</span> <span class="pl-s1">the</span> <span class="pl-s1">top</span> <span class="pl-s1">row</span> <span class="pl-s1">of</span> <span class="pl-s1">the</span> <span class="pl-v">LCD</span>:
     <span class="pl-s">"T=&lt;latest-time in ms&gt;;Ta=&lt;average-time in ms&gt;;N=&lt;#measurements&gt;"</span>
 
-    <span class="pl-k">print</span> <span class="pl-s">"Press W to start"</span> <span class="pl-s1">to</span> <span class="pl-s1">the</span> <span class="pl-s1">bottom</span> <span class="pl-s1">row</span>.
+   <span class="pl-k">print</span> <span class="pl-s">"Press W to start"</span> <span class="pl-s1">to</span> <span class="pl-s1">the</span> <span class="pl-s1">bottom</span> <span class="pl-s1">row</span>.
 
-    <span class="pl-c"># wait for a W button press to start a new experiment</span>
+   <span class="pl-c"># wait for a W button press to start a new experiment</span>
 
-    <span class="pl-en">while</span>(<span class="pl-c1">True</span>):
+   <span class="pl-en">while</span>(<span class="pl-c1">True</span>):
         <span class="pl-k">if</span> (<span class="pl-v">W</span> <span class="pl-s1">button</span> <span class="pl-s1">pressed</span>):
             <span class="pl-k">break</span>
         <span class="pl-s1">sleep</span> <span class="pl-k">for</span> <span class="pl-c1">1</span><span class="pl-s1">ms</span>
 
-    <span class="pl-c"># start  the stimulus countdown</span>
+   <span class="pl-c"># start  the stimulus countdown</span>
     <span class="pl-s1">clear</span> <span class="pl-s1">the</span> <span class="pl-v">LCD</span>
     <span class="pl-s1">print</span> <span class="pl-s">"LEDs -&gt; Press C"</span> <span class="pl-s1">to</span> <span class="pl-s1">the</span> <span class="pl-s1">top</span> <span class="pl-s1">row</span>
     <span class="pl-s1">wait</span> <span class="pl-k">for</span> <span class="pl-c1">2</span><span class="pl-s1">s</span>
 
-    <span class="pl-c"># apply stimulus</span>
+   <span class="pl-c"># apply stimulus</span>
     <span class="pl-s1">turn</span> <span class="pl-s1">on</span> <span class="pl-s1">the</span> <span class="pl-v">LEDs</span>
 
-    <span class="pl-c"># start counting and check for button press</span>
+   <span class="pl-c"># start counting and check for button press</span>
     <span class="pl-s1">counter</span> <span class="pl-c1">=</span> <span class="pl-c1">0</span>
     <span class="pl-k">while</span>(<span class="pl-c1">True</span>):
         <span class="pl-s1">counter</span> <span class="pl-c1">+=</span> <span class="pl-c1">1</span>
@@ -80,7 +80,7 @@ Onderstaande pseudo-code in Python stijl geeft dit iets gestructureerder weer:
             <span class="pl-s1">break</span>
         <span class="pl-s1">sleep</span> <span class="pl-s1">for</span> <span class="pl-c1">1</span><span class="pl-s1">ms</span>
 
-    <span class="pl-s1">update</span> <span class="pl-s1">metrics</span> <span class="pl-s1">for</span> <span class="pl-s1">the</span> <span class="pl-v">UI</span></pre>
+   <span class="pl-s1">update</span> <span class="pl-s1">metrics</span> <span class="pl-s1">for</span> <span class="pl-s1">the</span> <span class="pl-v">UI</span></pre>
 </div>
 
 
