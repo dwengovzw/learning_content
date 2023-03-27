@@ -35,7 +35,7 @@ teacher_exclusive: false
 # Robotonderdelen
 ## Overzicht
 
-Hieronder staan de verschillende robotonderdelen opgelijst die Dwengo in het 'Sociale robot'-pakket voorziet.
+Hieronder staan de verschillende robotonderdelen opgelijst die dwengo in het 'Sociale robot'-pakket voorziet.
 
 ## Sensoren (invoer)
 

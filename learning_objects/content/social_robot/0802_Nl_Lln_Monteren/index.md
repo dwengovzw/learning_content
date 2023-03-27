@@ -103,7 +103,7 @@ Onderstaande afbeelding toont de standaard pinnummers voor de verschillende sens
 Controleer of je eerst de bedrading van de sensoren en actuatoren in orde moet brengen voordat je ze bevestigt op het materiaal. Als er weinig open ruimte rond de sensor voorzien is, zal het gemakkelijker zijn om eerst de draden aan te sluiten en nadien de sensor vast te maken.
 
 
-Bij het Dwengo-materiaal zit een kit met hulpstukjes voor de bevestiging van de verschillende sensoren en actuatoren. Het materiaal van de kit ziet er ongeveer zo uit:
+Bij het dwengo-materiaal zit een kit met hulpstukjes voor de bevestiging van de verschillende sensoren en actuatoren. Het materiaal van de kit ziet er ongeveer zo uit:
 
 ![](embed/Assemblage7.png "Dwenguino")
 

@@ -34,7 +34,7 @@ teacher_exclusive: true
 
 QUESTION 2
 
-Faire un panneau publicitaire pour l'Université de Gand et Dwengo. Les noms doivent apparaître alternativement dans un intervalle de 5 secondes. Assurez-vous également que les noms sont centrés.
+Faire un panneau publicitaire pour l'Université de Gand et dwengo. Les noms doivent apparaître alternativement dans un intervalle de 5 secondes. Assurez-vous également que les noms sont centrés.
 
 Solution:
 

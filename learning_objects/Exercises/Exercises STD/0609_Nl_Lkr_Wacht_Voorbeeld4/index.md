@@ -33,12 +33,12 @@ teacher_exclusive: true
 
 OPGAVE 2
 
-Maak een reclamebord voor de UGent en Dwengo. De namen moeten afwisselend verschijnen in een interval van 5 seconden. Zorg er ook voor dat de namen gecentreerd zijn.
+Maak een reclamebord voor de UGent en dwengo. De namen moeten afwisselend verschijnen in een interval van 5 seconden. Zorg er ook voor dat de namen gecentreerd zijn.
 
 Oplossing:
 
 ![blockly](@learning-object/WACHTwgs4/nl/3)
 
-Merk op dat het in principe niet nodig is om het *"MaakLCDLeeg"-blok* hier te gebruiken omdat beide uitdrukkingen evenveel karakters bevatten; de eerste uitdrukking bestaat uit 6 + 5 karakters (6 lege + UGent) en de tweede uitdrukking bestaat uit 5 + 6 karakters (5 lege + Dwengo).
+Merk op dat het in principe niet nodig is om het *"MaakLCDLeeg"-blok* hier te gebruiken omdat beide uitdrukkingen evenveel karakters bevatten; de eerste uitdrukking bestaat uit 6 + 5 karakters (6 lege + UGent) en de tweede uitdrukking bestaat uit 5 + 6 karakters (5 lege + dwengo).
 
 *Test deze voorbeelden ook zelf uit in de simulator!*

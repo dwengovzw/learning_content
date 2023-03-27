@@ -65,7 +65,7 @@ De tweede manier is om alle code te verplaatsen van het *'zet klaar'-deel* naar 
 
 OPGAVE 2
 
-Maak een reclamebord voor de UGent en Dwengo. De namen moeten afwisselend verschijnen in een interval van 5 seconden. Zorg er ook voor dat de namen gecentreerd zijn.
+Maak een reclamebord voor de UGent en dwengo. De namen moeten afwisselend verschijnen in een interval van 5 seconden. Zorg er ook voor dat de namen gecentreerd zijn.
 
 Oplossing:
 

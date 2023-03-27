@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 # Lesmateriaal
-In onderstaand filmpje wordt kort uitleg gegeven over het lesmateriaal dat Dwengo aanbiedt. 
+In onderstaand filmpje wordt kort uitleg gegeven over het lesmateriaal dat dwengo aanbiedt. 
 
 ![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")
 
