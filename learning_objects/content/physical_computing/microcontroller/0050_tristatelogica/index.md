@@ -48,14 +48,14 @@ Ook in andere contexten wordt dit veel gebruikt: denk bijvoorbeeld aan de databu
 <div class="alert alert-box alert-success">
 Een pin van een microcontroller kan gebruikt worden als digitale ingang of uitgang.<br><br> 
 
-Om een pin als uitgang te configureren moet je eerst de desbetreffende bit van het '''DDRn'''-register op '''1''' instellen. Hierbij stelt '''n''' de letter van de overeenkomstige poort voor.<br>
-Vervolgens kan je de pin van poort '''n''' op '''1''' (hoog) of '''0''' (laag) zetten door respectievelijk een '''1''' of '''0''' te schrijven naar de juiste bit van het '''PORTn'''-register. Merk op dat over deze pin 5V of 0V zal komen te staan.<br><br>
+Om een pin als uitgang te configureren moet je eerst de desbetreffende bit van het <code>DDRn</code>-register op <code>1</code> instellen. Hierbij stelt <code>n</code> de letter van de overeenkomstige poort voor.<br>
+Vervolgens kan je de pin van poort <code>n</code> op <code>1</code> (hoog) of <code>0</code> (laag) zetten door respectievelijk een <code>1</code> of <code>0</code> te schrijven naar de juiste bit van het <code>PORTn</code>-register. Merk op dat over deze pin 5V of 0V zal komen te staan.<br><br>
 
-Om een pin als ingang te configureren (de tri-state toestand) moet je eerst de desbetreffende bit van het '''DDRn'''-register op '''0''' instellen.<br>
-Vervolgens kunnen we, indien dit vereist is voor de toepassing die we beogen, de interne pull-up weerstand activeren door een '''1''' te schrijven naar de overeenkomstige bit van het '''PORTn'''-register.<br>
-Tot slot kunnen we de toestand van deze pin uitlezen door de juiste bit van het '''PINn'''-register te lezen. Hiermee zal je ook oefenen in het eerste practicum.
+Om een pin als ingang te configureren (de tri-state toestand) moet je eerst de desbetreffende bit van het <code>DDRn</code>-register op <code>0</code> instellen.<br>
+Vervolgens kunnen we, indien dit vereist is voor de toepassing die we beogen, de interne pull-up weerstand activeren door een <code>1</code> te schrijven naar de overeenkomstige bit van het <code>PORTn</code>-register.<br>
+Tot slot kunnen we de toestand van deze pin uitlezen door de juiste bit van het <code>PINn</code>register te lezen. Hiermee zal je ook oefenen in het eerste practicum.
 </div>
 
 <div class="alert alert-box alert-danger">
-De oplossing voor het instellen van de ingangen en uitgangen geven we jou cadeau. Het is echter belangrijk dat je dit ook kan terugvinden in de [datasheet van de AT90USB646](embed/Atmel 8-bit Microcontroller AT90USB646.pdf "datasheet microcontroller"). Kijk daarom na of je de uitleg van de video zelf kan terugvinden in de secties 11.1 en 11.2 van hoofdstuk 11 (I/O-ports) van de datasheet.
+De oplossing voor het instellen van de ingangen en uitgangen geven we jou cadeau. Het is echter belangrijk dat je dit ook kan terugvinden in de <a href="../embed/datasheet_AT90USB646.pdf">datasheet van de AT90USB646</a>. Kijk daarom na of je de uitleg van de video zelf kan terugvinden in de secties 11.1 en 11.2 van hoofdstuk 11 (I/O-ports) van de datasheet.
 </div>
