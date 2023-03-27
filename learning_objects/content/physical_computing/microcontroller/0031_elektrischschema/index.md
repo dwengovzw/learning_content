@@ -33,6 +33,6 @@ teacher_exclusive: false
 
 ## Elektrisch schema
 
-In tegenstelling tot het high-level programmeren van allerlei computer- en smartphone applicaties, is bij het low-level programmeren van een microcontroller de elektronica nooit ver weg. Het is bijgevolg belangrijk dat jullie het [elektrisch schema](embed/elektrischschema.pdf "Elektrisch schema") goed kunnen lezen. Hoe dit moet, leggen we uit in het volgende filmpje:
+In tegenstelling tot het high-level programmeren van allerlei computer- en smartphone applicaties, is bij het low-level programmeren van een microcontroller de elektronica nooit ver weg. Het is bijgevolg belangrijk dat jullie het [elektrisch schema](embed/dwenguino_elektrischschema.pdf "Elektrisch schema") goed kunnen lezen. Hoe dit moet, leggen we uit in het volgende filmpje:
 
 ![](@youtube/https://www.youtube.com/embed/MBsjYMm-Y90 "De dwenguino: het elektisch schema")
