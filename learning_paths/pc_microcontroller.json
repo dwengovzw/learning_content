@@ -60,6 +60,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "pc_micro_elektrischschema",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_micro_elektrischschema",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "pc_micro_operatoren",
             "version": "3",
             "language": "nl"
