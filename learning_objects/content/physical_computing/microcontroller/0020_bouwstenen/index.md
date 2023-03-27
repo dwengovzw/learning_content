@@ -46,5 +46,5 @@ De microcontroller heeft bovendien een 8-bit architectuur, wat impliceert dat de
 <div class="alert alert-box alert-success">
 Het optellen van twee 8-bit getallen kan in één kloktik gebeuren, terwijl het optellen van twee floating point getallen meer dan 100 kloktikken in beslag neemt! <br><br>
 
-Aan jullie de uitdaging om deze beperkte computerkracht efficient te benutten.
+Aan jullie de uitdaging om deze beperkte computerkracht efficiënt te benutten.
 </div>

@@ -31,14 +31,14 @@ teacher_exclusive: false
 ---
 # De dwenguino
 
-## De dwenguino: een kort overzicht
+## Een kort overzicht
 
 ![](@youtube/https://www.youtube.com/embed/LQ4E649KPFc "De dwenguino: een kort overzicht")
 
-Het dwenguino platform is een veelzijdig microcontrollerplatform dat ontwikkeld werd door Dwengo vzw. Het bevat reeds een aantal componenten waaronder een lcd-scherm, leds, een buzzer, knopjes, een motordriver etc. zodat men heel snel allerlei toepassingen kan realiseren en testen.
+Het dwenguino platform is een veelzijdig microcontrollerplatform dat ontwikkeld werd door [Dwengo vzw](dwengo.org "Dwengo website"). Het bevat reeds een aantal componenten waaronder een lcd-scherm, leds, een buzzer, knopjes en een motordriver zodat men heel snel allerlei toepassingen kan realiseren en testen.
 
 ![](embed/microcontroller2.png "Microcontroller")
 
-De Dwenguino wordt gebruikt in scholen en internationale projecten, en ook wij gaan het gebruiken in ingenieursproject. Echter, waar scholieren en hobbyisten de Dwenguino op een toegankelijke manier programmeren in Arduino IDE of Dwenguino blockly, moeten jullie de Dwenguino programmeren in Visual Studio Code via PlatformIO door te steunen op de AVR-bibliotheken en de lijvige datasheet. Dit maakt het welliswaar moeilijker, maar zorgt er wel voor dat je een goed en volledig begrip zal krijgen van de werking van een microcontroller.
+De Dwenguino wordt gebruikt in scholen en [internationale projecten](dwengo.org/projects "Internationale projecten"), en ook gaan het gebruiken in dit project. Echter, waar scholieren en hobbyisten de Dwenguino op een toegankelijke manier programmeren in Arduino IDE of Dwenguino blockly, moeten jullie de Dwenguino programmeren in Visual Studio Code via PlatformIO door te steunen op de AVR-bibliotheken en de lijvige datasheet. Dit maakt het welliswaar moeilijker, maar zorgt er wel voor dat je een goed en volledig begrip zal krijgen van de werking van een microcontroller.
 
 ![](@youtube/https://www.youtube.com/embed/MBsjYMm-Y90 "De dwenguino: het elektisch schema")

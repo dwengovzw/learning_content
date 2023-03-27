@@ -35,6 +35,9 @@ In dit leerpad leren jullie de basis van het microcontrollerprogrammeren. In enk
 
 
 ## Code
-De code die jullie schrijven voor je project wordt beoordeeld. Als programmeur is het belangrijk om niet enkel werkende code te schrijven, maar ook **kwalitatieve** code. 
+De code die jullie schrijven voor je project wordt beoordeeld. Als programmeur is het belangrijk om niet enkel werkende code te schrijven, maar ook **kwalitatieve** code. Hieronder verstaan we onder andere: 
 
-> Indienen: Maak een *.zip* van je volledige project met naam: *voornaam1achternaam1_voornaam2achternaam2_practicumx.zip*
+* **Documentatie** bij code;
+* **Leesbaarheid** van de code;
+* **Structuur** die logisch en modulair is;
+* **Efficiëntie**: hou rekening dat je op een 8-bit platform werkt met beperkte rekenkracht en geheugen.
