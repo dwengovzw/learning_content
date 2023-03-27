@@ -31,6 +31,6 @@ teacher_exclusive: true
 ---
 
 # Basisconcepten
-In het lesmateriaal van Dwengo zal je af en toe icoontjes tegenkomen die verwijzen naar de concepten en de aanpak van computationeel denken en de principes van programmeren.
+In het lesmateriaal van dwengo zal je af en toe icoontjes tegenkomen die verwijzen naar de concepten en de aanpak van computationeel denken en de principes van programmeren.
 
 ![](embed/Poster2.png)

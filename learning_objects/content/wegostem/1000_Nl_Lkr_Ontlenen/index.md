@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Ontlenen van Materiaal
 
-Het WeGoSTEM-materiaal wordt gratis aangeboden door Dwengo VZW. Hou het in goede staat voor de volgende scholen.
+Het WeGoSTEM-materiaal wordt gratis aangeboden door dwengo VZW. Hou het in goede staat voor de volgende scholen.
 
 Om het verdelen van ons materiaal zo vlot mogelijk te laten verlopen, werken we samen met lokale bibliotheken. Een overzicht vind je op het einde van dit leerobject terug met links naar het reserveringsformulier.
 

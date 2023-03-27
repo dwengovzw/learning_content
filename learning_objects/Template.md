@@ -43,7 +43,7 @@ Nu kunnen we beginnen aan het belangrijkste deel van deze les.
 
 - Puntje 1
 - Puntje 2
-- ![Logo Dwengo](logo-dwengo.png "Dit is het logo van dwengo")
+- ![Logo dwengo](logo-dwengo.png "Dit is het logo van dwengo")
 
 ...
 

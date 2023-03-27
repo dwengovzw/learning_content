@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Emprunt de matériel
 
-Le matériel WeGoSTEM est fourni gratuitement par Dwengo VZW. Gardez-le en bon état pour les écoles suivantes.
+Le matériel WeGoSTEM est fourni gratuitement par dwengo VZW. Gardez-le en bon état pour les écoles suivantes.
 
 Pour rendre la distribution de notre matériel aussi fluide que possible, nous travaillons en collaboration avec les bibliothèques locales. Un aperçu peut être trouvé à la fin de cet objet d'apprentissage avec des liens vers le formulaire de réservation.
 
