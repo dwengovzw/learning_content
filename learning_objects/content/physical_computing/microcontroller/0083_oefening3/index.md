@@ -73,24 +73,24 @@ Als eerste oefening zullen het timer counter value register (TCNT1) van Timer 1 
     <span class="pl-c1">initLCD</span>();
     <span class="pl-c1">clearLCD</span>();
 
-    <span class="pl-c"><span class="pl-c">//</span> Initialize Timer 1 in normal mode, which is the default.</span>
+   <span class="pl-c"><span class="pl-c">//</span> Initialize Timer 1 in normal mode, which is the default.</span>
     <span class="pl-c"><span class="pl-c">//</span> All we have to do is change the prescaler from 0 to a non-zero value</span>
     <span class="pl-c"><span class="pl-c">//</span> TODO: set prescaler here</span>
 
-    <span class="pl-k">while</span>(<span class="pl-c1">1</span>){
+   <span class="pl-k">while</span>(<span class="pl-c1">1</span>){
         <span class="pl-c"><span class="pl-c">//</span> print the value of the timer to the LCD</span>
         <span class="pl-c"><span class="pl-c">//</span> cannot just combine into INT and print</span>
         <span class="pl-c"><span class="pl-c">//</span> as that would give negative values for large numbers</span>
 
-        <span class="pl-c1">printIntToLCD</span>(TCNT1L,<span class="pl-c1">0</span>,<span class="pl-c1">3</span>);
+   <span class="pl-c1">printIntToLCD</span>(TCNT1L,<span class="pl-c1">0</span>,<span class="pl-c1">3</span>);
         <span class="pl-c1">printIntToLCD</span>(TCNT1H,<span class="pl-c1">0</span>,<span class="pl-c1">0</span>);
 
-        <span class="pl-k">if</span> (TCNT1H == <span class="pl-c1">0</span>){
+   <span class="pl-k">if</span> (TCNT1H == <span class="pl-c1">0</span>){
             <span class="pl-c1">clearLCD</span>();
         }
     }
 
-    <span class="pl-k">return</span> <span class="pl-c1">0</span>;
+   <span class="pl-k">return</span> <span class="pl-c1">0</span>;
 }</pre>
 </div>
 **
