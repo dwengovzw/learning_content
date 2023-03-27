@@ -38,7 +38,7 @@ teacher_exclusive: false
 
 Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een *microcontroller*. Ze beschikken over in- en uitgangen.  
 De microcontroller krijgt gegevens van de ingangen (input). Hij verwerkt de gegevens, voert berekeningen uit en stuurt vervolgens de digitale apparaten aan (output).  
-De **Dwenguino** is zo'n microcontrollerplatform waarmee je snel je eigen apparaat kan bouwen.
+De **dwenguino** is zo'n microcontrollerplatform waarmee je snel je eigen apparaat kan bouwen.
 
 
 

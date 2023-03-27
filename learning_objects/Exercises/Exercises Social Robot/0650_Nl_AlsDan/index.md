@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Uitleg Als - Dan"
 description: "Uitleg Als - Dan"
-keywords: ["StartToDwenguino", "AlsDan"]
+keywords: ["StartTodwenguino", "AlsDan"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

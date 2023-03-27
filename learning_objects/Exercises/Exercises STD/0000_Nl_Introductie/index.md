@@ -2,9 +2,9 @@
 hruid: STD_Introductie
 version: 3
 language: nl
-title: "StartToDwenguino Introductie"
+title: "StartTodwenguino Introductie"
 description: "Uitleg voor het beginnen van de algemene oefeningen voor de dwenguinoblockly simulator"
-keywords: ["StartToDwenguino"]
+keywords: ["StartTodwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,9 +29,9 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# StartToDwenguino
+# StartTodwenguino
 
-DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft leerlingen de mogelijkheid om een robot te programmeren. Voor zij die geen fysiek materiaal ter beschikking hebben, is er ook een simulator. In de simulator kan men kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot).
+dwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft leerlingen de mogelijkheid om een robot te programmeren. Voor zij die geen fysiek materiaal ter beschikking hebben, is er ook een simulator. In de simulator kan men kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot).
 
 ***
 
@@ -39,4 +39,4 @@ De oefeningen in dit leerpad kan je uitvoeren in de simulator, een fysieke robot
 
 ***
 
-Het *StartToDwenguino*-traject bestaat uit oefeningen op alle scenario's en componenten beschikbaar in de simulator. Afhankelijk van het leerpad waar je mee aan de slag gaat, zal je een selectie van de blokken moeten gebruiken.
+Het *StartTodwenguino*-traject bestaat uit oefeningen op alle scenario's en componenten beschikbaar in de simulator. Afhankelijk van het leerpad waar je mee aan de slag gaat, zal je een selectie van de blokken moeten gebruiken.

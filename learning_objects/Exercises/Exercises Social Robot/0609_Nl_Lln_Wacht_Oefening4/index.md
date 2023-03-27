@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Oefening Wacht 2"
 description: "Oefening Wacht 2"
-keywords: ["StartToDwenguino", "wacht"]
+keywords: ["StartTodwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Geluidssensor
 
 Wanneer je de geluidssensor aansluit (en voorziet van stroom), kan je 2 leds onderscheiden. De ene led laat je weten dat de geluidssensor aan staat, de andere led dat je geluidssensor geluid hoort. Wanneer de geluidssensor geluid hoort, staat het ledje aan, anders staat het uit.

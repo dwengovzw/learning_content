@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Inleidende oefening"
 description: "Beschrijving van de onderdelen van de simulator"
-keywords: ["StartToDwenguino"]
+keywords: ["StartTodwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -35,7 +35,7 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 
 * Kies in de simulatieomgeving voor het scenario van de tekenrobot (spirograaf).
 
-* Ga in de categorie ![alt](embed/Afb2.png "Afb. Dwenguino") op zoek naar dit blok:  
+* Ga in de categorie ![alt](embed/Afb2.png "Afb. dwenguino") op zoek naar dit blok:  
 
 
 ![alt](embed/Afb9.jpg "Afb. lcd")
@@ -49,4 +49,4 @@ Nu je weet wat waar staat, kan je beginnen programmeren!
 
 Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken uit de *toolbox* nemen en deze aan een programma toevoegen in het *codeveld*. Je weet hoe je die code moet uitvoeren in de simulator en je kan in die simulator van scenario wisselen.
 
-**Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte Dwenguino! Hierna wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de Dwenguino.**
+**Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte dwenguino! Hierna wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de dwenguino.**

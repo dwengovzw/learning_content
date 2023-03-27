@@ -33,8 +33,8 @@ teacher_exclusive: true
 # Plugged activiteiten
 Voor activiteiten waarbij ook geprogrammeerd wordt, is er een uitgebreid aanbod in de leerpaden.
 
-- Je leert programmeren binnen de grafische programmeeromgeving DwenguinoBlockly. De blokken zijn er voorhanden op verschillende abstractieniveaus en in meerdere talen.  
-    - [StartToDwenguino]()
+- Je leert programmeren binnen de grafische programmeeromgeving dwenguinoBlockly. De blokken zijn er voorhanden op verschillende abstractieniveaus en in meerdere talen.  
+    - [StartTodwenguino]()
     - [WeGoSTEM]()
     - [Sociale robot]()
     - [Ik kan al programmeren]()

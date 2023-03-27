@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Knoppen Oefening 2"
 description: "Knoppen oef 2"
-keywords: ["StartToDwenguino", "knoppen"]
+keywords: ["StartTodwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -45,4 +45,4 @@ teacher_exclusive: false
 
 
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

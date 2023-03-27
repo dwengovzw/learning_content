@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "uitbreiding reclamebord"
 description: "Uitbreiding reclamebord"
-keywords: ["StartToDwenguino", "lcd", "wacht"]
+keywords: ["StartTodwenguino", "lcd", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -32,6 +32,6 @@ teacher_exclusive: false
 
 ## Reclamebord
 
-Maak een slidereclame aan die "Welkom bij Dwenguino" laat voorbijglijden in een oneindige lus.
+Maak een slidereclame aan die "Welkom bij dwenguino" laat voorbijglijden in een oneindige lus.
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

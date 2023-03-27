@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Oefening Knoppen 1"
 description: "Oefening Knoppen 1"
-keywords: ["StartToDwenguino", "knoppen"]
+keywords: ["StartTodwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -4,7 +4,7 @@ version: 3
 language: fr
 title: "Exemple Attend 1"
 description: "Exemple Attend 1"
-keywords: ["StartToDwenguino", "wacht"]
+keywords: ["StartTodwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -37,7 +37,7 @@ QUESTION 1
 ShWrite un programme qui effectue les opérations suivantes :
 
 * Faire apparaître "Bonjour les gens" sur l'écran LCD pendant 1 seconde (1000 ms).
-* Faire apparaître "Je suis Dwenguino" sur l'écran LCD pendant 2 secondes (2000 ms).
+* Faire apparaître "Je suis dwenguino" sur l'écran LCD pendant 2 secondes (2000 ms).
 
 Solution:
 
@@ -45,6 +45,6 @@ Solution:
 
 Le bloc *'wait'* qui apparaît **après** une instruction particulière indique combien de temps l'ordinateur doit **attendre** avant de pouvoir lancer l'instruction suivante.
 
-Le problème maintenant est que "Je suis Dwenguino" reste à l'écran. *Pensez à ce qui causerait cela.*
+Le problème maintenant est que "Je suis dwenguino" reste à l'écran. *Pensez à ce qui causerait cela.*
 
 *Testez ces exemples vous-même dans le simulateur !*

@@ -37,12 +37,12 @@ Upload nu het eerste programma voor de sociale robot naar de fysieke robot. We h
 * schrijf het programma;
 * download het programma;
 * open downloads, daar staat nu een .dw bestand;
-* sluit de Dwenguino aan;
+* sluit de dwenguino aan;
 * druk op RESET + ZUID, laat vervolgens de resetknop los en vervolgens ook de ZUID-knop;
-* de Dwenguino staat in de verkenner tussen je mappen als USB-stick;
-* kopieer het .dw bestand naar de Dwenguino;
+* de dwenguino staat in de verkenner tussen je mappen als USB-stick;
+* kopieer het .dw bestand naar de dwenguino;
 * druk op RESET.
 
-![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Uploaden Dwenguino")  
+![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Uploaden dwenguino")  
 
 Je zal nu nog veel kleine aanpassingen moeten maken om het gewenste resultaat bekomen. Dit is normaal!

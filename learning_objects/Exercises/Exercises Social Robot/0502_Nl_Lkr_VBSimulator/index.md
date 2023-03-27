@@ -44,7 +44,7 @@ We raden aan dat jij, als leerkracht, minstens de basisoefeningen doorneemt om d
 * Keuzestructuur: Als-Dan
 * Keuzestructuur: Als-Dan-Anders
 
-In dit leerpad werden de *voorbeelden* voor de essentiële blokken reeds opgenomen. Om dit daadwerkelijk in te oefenen, verwijzen we je naar het *StartToDwenguino*-leerpad.
+In dit leerpad werden de *voorbeelden* voor de essentiële blokken reeds opgenomen. Om dit daadwerkelijk in te oefenen, verwijzen we je naar het *StartTodwenguino*-leerpad.
 
 ### Wat gebeurt er in de klas?
 Het is niet de bedoeling dat je de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator vooraleer hen te helpen.

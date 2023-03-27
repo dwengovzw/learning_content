@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly  
+# dwenguinoBlockly  
 ## Een programmeeromgeving
 
 De programmeeromgeving met simulator is online beschikbaar op [https://blockly.dwengo.org](https://blockly.dwengo.org "link simulator").
@@ -49,7 +49,7 @@ Hieronder zie je een screenshot van de omgeving met een beschrijving van de vers
 
 4. **Simulatormenu**<br>Hier vind je de knoppen terug om de simulatie te starten en te stoppen met de knoppen ![alt](embed/simmenu_play.png "simulator play") en ![alt](embed/simmenu_stop.png "simulator stop"). <br><br>Het laat je ook toe om een specifiek scenario te kiezen waarbinnen je de code wil uitvoeren. In het voorbeeld is het scenario van de sociale robot geselecteerd. Dit kan je herkennen aan het icoontje van sociale robot ![alt](embed/scenario_socialerobot.png "scenario sociale robot").
 
-5. **Simulatievenster**<br>In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de Dwenguino, of componenten waarmee je de code kan testen. Omdat op de afbeelding het scenario van de sociale robot geselecteerd is, kan je bovenaan verschillende componenten zien en onderaan een virtuele sociale robot die je kan programmeren. Let wel op: om een programma te simuleren, moet je hier eerst de nodige componenten toevoegen.
+5. **Simulatievenster**<br>In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de dwenguino, of componenten waarmee je de code kan testen. Omdat op de afbeelding het scenario van de sociale robot geselecteerd is, kan je bovenaan verschillende componenten zien en onderaan een virtuele sociale robot die je kan programmeren. Let wel op: om een programma te simuleren, moet je hier eerst de nodige componenten toevoegen.
 
 <div class="alert alert-box alert-success">
 In de <em>toolbox</em> kan je dus de blokken terugvinden die je nodig hebt om programma's te maken. Deze blokken moet je hieruit slepen om nadien vast te klikken in de gewenste volgorde in het <em>codeveld</em>.

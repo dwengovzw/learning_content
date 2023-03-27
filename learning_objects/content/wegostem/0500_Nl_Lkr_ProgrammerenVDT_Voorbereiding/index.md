@@ -61,9 +61,9 @@ Als leerkracht hoef je de leerlingen niet de pap in de mond te geven. Laat hen g
 
 Het is belangrijk dat de kinderen zelf aan de slag gaan in het leerpad. Ze leren werken met het lcd-scherm, de wacht-functie en knoppen. Bij elk van deze functies krijgen de leerlingen informatie en oefeningen. Op zich zou dit moeten volstaan.
 
-Mochten de leerlingen nog vragen hebben, dan komen ze vast bij jou. We raden aan dat je als leerkracht daarom zeker ook de basisoefeningen van het *StartToDwenguino*-traject doorneemt. Zo zal je de leerlingen optimaal kunnen begeleiden. Je hoeft niet het volledige traject te volgen. Enkel de delen over het lcd-scherm, de wacht-functie en knoppen zijn relevant binnen het WeGoSTEM-traject.
+Mochten de leerlingen nog vragen hebben, dan komen ze vast bij jou. We raden aan dat je als leerkracht daarom zeker ook de basisoefeningen van het *StartTodwenguino*-traject doorneemt. Zo zal je de leerlingen optimaal kunnen begeleiden. Je hoeft niet het volledige traject te volgen. Enkel de delen over het lcd-scherm, de wacht-functie en knoppen zijn relevant binnen het WeGoSTEM-traject.
 
-In wat volgt kan je als leerkracht al een aantal voorbeelden voor deze essentiële blokken bekijken. Kan je nog meer hulp gebruiken? Dan verwijzen we je graag door naar het *StartToDwenguino*-traject.
+In wat volgt kan je als leerkracht al een aantal voorbeelden voor deze essentiële blokken bekijken. Kan je nog meer hulp gebruiken? Dan verwijzen we je graag door naar het *StartTodwenguino*-traject.
 
 
 ### Materiaal voor in de klas

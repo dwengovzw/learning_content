@@ -32,7 +32,7 @@ teacher_exclusive: false
 ---
 # Programmation du robot de dessin
 
-DwenguinoBlockly est un environnement de programmation conçu pour les enfants de la troisième année de l'enseignement primaire et de la première année de l'enseignement secondaire. L'environnement utilise un langage de programmation graphique et vous donne la possibilité de programmer un robot. Si vous n'avez pas d'équipement physique à disposition, il y a aussi un simulateur. Dans le simulateur, vous pouvez choisir parmi différents scénarios, tels qu'un robot de conduite, un robot social et un spirographe (robot de dessin). Vous pouvez effectuer les tâches suivantes dans le simulateur, un robot physique n'est donc pas nécessaire.
+dwenguinoBlockly est un environnement de programmation conçu pour les enfants de la troisième année de l'enseignement primaire et de la première année de l'enseignement secondaire. L'environnement utilise un langage de programmation graphique et vous donne la possibilité de programmer un robot. Si vous n'avez pas d'équipement physique à disposition, il y a aussi un simulateur. Dans le simulateur, vous pouvez choisir parmi différents scénarios, tels qu'un robot de conduite, un robot social et un spirographe (robot de dessin). Vous pouvez effectuer les tâches suivantes dans le simulateur, un robot physique n'est donc pas nécessaire.
 
 Si vous souhaitez travailler encore plus avec le simulateur après avoir programmé le robot de dessin, vous pouvez
 [ici] ("TBD") pour des exercices plus amusants.

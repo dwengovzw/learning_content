@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld servomotor 2"
 description: "Uitleg servomotor"
-keywords: ["StartToDwenguino", "servomotor"]
+keywords: ["StartTodwenguino", "servomotor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

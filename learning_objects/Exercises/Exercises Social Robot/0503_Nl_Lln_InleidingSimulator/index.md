@@ -37,6 +37,6 @@ Extra informatie over de elektronica die je zal gebruiken kan je [**hier**](embe
 
 De omgeving gebruikt een grafische programmeertaal en geeft jou de mogelijkheid om een robot te programmeren door de juiste blokken aan elkaar vast te klikken.
 
-Indien je na het programmeren van de sociale robot nog meer met de simulator aan de slag wilt, dan kan je [**hier**](https://www.dwengo.org/starttodwenguino/ "StartToDwenguino") terecht voor meer leuke uitdagingen.
+Indien je na het programmeren van de sociale robot nog meer met de simulator aan de slag wilt, dan kan je [**hier**](https://www.dwengo.org/starttodwenguino/ "StartTodwenguino") terecht voor meer leuke uitdagingen.
 
 Veel succes!

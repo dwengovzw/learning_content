@@ -32,6 +32,6 @@ teacher_exclusive: true
 
 # Et après WeGoSTEM ?
 
-Lors de la préparation de WeGoSTEM, vous avez découvert le simulateur DwenguinoBlockly. Si votre école a un cours d'informatique, vous pouvez proposer des exercices pendant plusieurs heures. Ces exercices peuvent être trouvés [ici] ("simulateur d'exercices supplémentaires").
+Lors de la préparation de WeGoSTEM, vous avez découvert le simulateur dwenguinoBlockly. Si votre école a un cours d'informatique, vous pouvez proposer des exercices pendant plusieurs heures. Ces exercices peuvent être trouvés [ici] ("simulateur d'exercices supplémentaires").
 
 Pour ne pas en rester là, nous avons rédigé le livret ['Je peux déjà programmer'](https://scholen.dwengo.org/downloads/ikkanalprogrammeren.pdf "livret robot") pour accompagner les enseignants, avec d'éventuelles leçons de calcul réflexion et programmation. Toutes les activités incluses ne nécessitent qu'un minimum de matériel. Par exemple, aucun logiciel ne doit être installé et pour un certain nombre d'activités, aucun ordinateur n'est même nécessaire.

@@ -2,9 +2,9 @@
 hruid: STD_Uploaden
 version: 3
 language: nl
-title: "Uploaden Dwenguino"
+title: "Uploaden dwenguino"
 description: "Instructiefilmpje voor het uploaden van een programma"
-keywords: ["StartToDwenguino"]
+keywords: ["StartTodwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,17 +29,17 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Uploaden naar de Dwenguino
+# Uploaden naar de dwenguino
 
-In het onderstaande filmpje wordt getoond hoe je een programma van eender welke computer en browser kan uploaden naar je Dwenguino.
+In het onderstaande filmpje wordt getoond hoe je een programma van eender welke computer en browser kan uploaden naar je dwenguino.
 Het is belangrijk dat je alle stappen doorloopt zoals getoond in het filmpje!
 
 * Schrijf het programma;
 * Download het programma met de uploadknop ![](embed/upload.png "Uploaden") in het hoofdmenu;
 * Open downloads, daar staat nu een .dw bestand
-* Sluit de Dwenguino aan en druk op RESET + ZUID, laat vervolgens de RESET-knop, dan de ZUID-knop los;
-* De Dwenguino staat in de verkenner tussen de mappen als USB-toestel;
-* Kopieer het .dw bestand naar de Dwenguino;
+* Sluit de dwenguino aan en druk op RESET + ZUID, laat vervolgens de RESET-knop, dan de ZUID-knop los;
+* De dwenguino staat in de verkenner tussen de mappen als USB-toestel;
+* Kopieer het .dw bestand naar de dwenguino;
 * Druk op RESET.
 
-![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Uploaden Dwenguino")
+![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Uploaden dwenguino")

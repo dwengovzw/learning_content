@@ -42,7 +42,7 @@ Voor je begint, neem je best eerst alles wat je nodig hebt:
 * de elektronica die je nodig hebt (sensoren, draden ...);
 * het sjabloon om uitsparingen te snijden voor de elektronica;
 * het gereedschap;
-* de USB-kabel om de Dwenguino te verbinden met je computer.
+* de USB-kabel om de dwenguino te verbinden met je computer.
 
 Het onderstaande filmpje vat samen wat de volgende leerobjecten beschrijven.
 

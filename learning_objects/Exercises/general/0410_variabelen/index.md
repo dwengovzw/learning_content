@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Variabelen
 Vanaf nu zal je ook gebruik kunnen maken van variabelen. Hiermee zal je je code wat meer overzichtelijk kunnen houden. 
 Variabelen zijn uiterst handig bij het uitlezen van sensoren: zie sonar-sensor en geluidssensor.

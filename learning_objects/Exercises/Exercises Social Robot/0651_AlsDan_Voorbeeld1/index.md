@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld keuzestructuren 1"
 description: "Voorbeeld keuzestructuren 1"
-keywords: ["StartToDwenguino", "sonar-sensor"]
+keywords: ["StartTodwenguino", "sonar-sensor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

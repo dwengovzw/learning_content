@@ -36,7 +36,7 @@ OPGAVE 1.1
 Schrijf een programma dat het volgende doet:
 
 * Laat "Hallo mensen" op het lcd-scherm verschijnen gedurende 1 seconde (1000 ms).
-* Laat "Ik ben Dwenguino" op het lcd-scherm verschijnen voor 2 seconden (2000 ms).
+* Laat "Ik ben dwenguino" op het lcd-scherm verschijnen voor 2 seconden (2000 ms).
 * Herhaal.
 
 <div class="alert alert-box alert-danger">

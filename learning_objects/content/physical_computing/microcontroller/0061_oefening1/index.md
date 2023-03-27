@@ -33,7 +33,7 @@ teacher_exclusive: false
 
 ## Oefening 1: Leds aanschakelen met de drukknoppen**
 
-Analyseer eerst het schema van de Dwenguino om te achterhalen hoe de leds met de microcontroller verbonden zijn.
+Analyseer eerst het schema van de dwenguino om te achterhalen hoe de leds met de microcontroller verbonden zijn.
 
 Een deel van de fysieke pinnen van de microcontroller kan je gebruiken om waarden te inputten en outputten (I/O). Het andere deel wordt voor allelei dingen gebruikt, zoals b.v.b. voeding, kloksynchronisatie en USB connectie. Zoek in de datasheet van de microcontroller in sectie 2.2 (pp. 8-10) welke pinnen gebruikt kunnen worden voor I/O.
 
@@ -131,7 +131,7 @@ Bij het configureren van de pinnen zagen jullie al hoe _BV gebruikt kan worden o
 
 ### Opdracht oefening 1
 
-Zoek op het schema van de Dwenguino welke pinnen verbonden zijn met de linkse (W = west) en rechtse (E = east) drukknoppen. Schrijf nu code die ervoor zorgt dat:
+Zoek op het schema van de dwenguino welke pinnen verbonden zijn met de linkse (W = west) en rechtse (E = east) drukknoppen. Schrijf nu code die ervoor zorgt dat:
 
 * Als de linkse knop ingedrukt is, moet de meest linkse led branden.
 * Als de rechtse knop ingedruk is, moet de meest rechtse led branden.

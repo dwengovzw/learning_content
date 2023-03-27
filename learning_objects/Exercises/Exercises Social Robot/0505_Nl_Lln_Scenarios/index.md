@@ -64,7 +64,7 @@ Onder het simulatiemenu vind je de robotonderdelen terug:
 
 Door gebruik te maken van de knoppen onder de robotonderdelen ![](embed/OnderdelenKnoppen.png "Knoppen") kan je een robotonderdeel toevoegen aan of verwijderen van het lichaam van de robot.
 
-Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robotonderdeel op het simulatieveld. Je kan van elk robotonderdeel maar een beperkt aantal toevoegen, omdat de aansluitingen op het Dwenguino-bord gelimiteerd zijn. In het simulatieveld kan je het robotonderdeel verplaatsen door te slepen met de muis.
+Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robotonderdeel op het simulatieveld. Je kan van elk robotonderdeel maar een beperkt aantal toevoegen, omdat de aansluitingen op het dwenguino-bord gelimiteerd zijn. In het simulatieveld kan je het robotonderdeel verplaatsen door te slepen met de muis.
 
 
 **Voorbeeld**
@@ -76,7 +76,7 @@ Als je op ![](embed/OnderdelenPLUS.png "plus") klikt verschijnt het nieuwe robot
 
 **Eigenschappen aanpassen**
 
-Als je dubbelklikt op een robotonderdeel in het simulatieveld, zal er een extra pop-up geopend worden. In die pop-up vind je alle eigenschappen van het onderdeel terug, bijvoorbeeld de nummers van de pinnen op het Dwenguino-bord waarop je het kan aansluiten of het uiterlijk van het onderdeel in de simulator.
+Als je dubbelklikt op een robotonderdeel in het simulatieveld, zal er een extra pop-up geopend worden. In die pop-up vind je alle eigenschappen van het onderdeel terug, bijvoorbeeld de nummers van de pinnen op het dwenguino-bord waarop je het kan aansluiten of het uiterlijk van het onderdeel in de simulator.
 
 
 **Voorbeeld**

@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: False
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Voorwaardelijke herhaling
 
 Om een voorwaardelijke herhaling uit te voeren, gebruik je het volgende blok:  
@@ -44,6 +44,6 @@ Oplossing:
 
 ![blockly](@learning-object/zoemer_m4/nl/3)  
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*
 
 Test test test

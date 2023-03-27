@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld Buzzer 3"
 description: "Voorbeeld Buzzer"
-keywords: ["StartToDwenguino", "led"]
+keywords: ["StartTodwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -41,4 +41,4 @@ Oplossing:
 
 Zoals je kunt zien, wordt dit een vrij lang programma. Er zijn gelukkig een aantal plaatsen die je wat kunt inkorten met behulp van een **begrensde herhaling**. Dit wordt verder uitgelegd in het volgende onderdeel.
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

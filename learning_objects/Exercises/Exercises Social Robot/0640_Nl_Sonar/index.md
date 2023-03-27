@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Uitleg Sonar"
 description: "Uitleg Sonar"
-keywords: ["StartToDwenguino", "led"]
+keywords: ["StartTodwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

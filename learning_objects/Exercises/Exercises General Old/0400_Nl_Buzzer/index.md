@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Buzzer"
 description: "Buzzer"
-keywords: ["StartToDwenguino", "buzzer"]
+keywords: ["StartTodwenguino", "buzzer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld Buzzer"
 description: "Voorbeeld Buzzer"
-keywords: ["StartToDwenguino", "buzzer"]
+keywords: ["StartTodwenguino", "buzzer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -43,7 +43,7 @@ Oplossing:
 
 OPGAVE 2
 
-Laat een S.O.S. uitzenden door de Dwenguino. Dit doe je in morsecode . . . - - - . . . (kort kort kort lang lang lang kort kort kort).
+Laat een S.O.S. uitzenden door de dwenguino. Dit doe je in morsecode . . . - - - . . . (kort kort kort lang lang lang kort kort kort).
 
 Oplossing:
 

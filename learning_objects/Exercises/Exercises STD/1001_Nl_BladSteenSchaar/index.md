@@ -3,8 +3,8 @@ hruid: STD_Uitbreiding_BladSteenSchaar
 version: 3
 language: nl
 title: "Uitbreiding blad steen schaar"
-description: "De leerlingen programmeren de Dwenguino om blad-steen-schaar te spelen."
-keywords: ["StartToDwenguino", "LCD", "wacht", "knoppen", "AlsDanAnders"]
+description: "De leerlingen programmeren de dwenguino om blad-steen-schaar te spelen."
+keywords: ["StartTodwenguino", "LCD", "wacht", "knoppen", "AlsDanAnders"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -32,7 +32,7 @@ teacher_exclusive: false
 
 ## Blad-Steen-Schaar
 
-Programmeer 2 Dwenguinos om Blad-Steen-Schaar te spelen. Zorg ervoor dat je programma aan de onderstaande criteria voldoet!
+Programmeer 2 dwenguinos om Blad-Steen-Schaar te spelen. Zorg ervoor dat je programma aan de onderstaande criteria voldoet!
 
 * Op het lcd-scherm verschijnt er een startscherm dat toont welke knoppen overeenkomen met blad, steen en schaar.
 

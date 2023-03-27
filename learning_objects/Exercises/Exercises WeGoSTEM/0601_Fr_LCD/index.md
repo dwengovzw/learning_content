@@ -4,7 +4,7 @@ version: 3
 language: fr
 title: "Explication lcd"
 description: "Explication lcd"
-keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
+keywords: ["StartTodwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -34,6 +34,6 @@ teacher_exclusive: false
 
 Vous pouvez utiliser l'écran LCD pour afficher du texte. Cela peut être utile, par exemple, pour la lecture de capteurs.
 
-L'écran LCD du Dwenguino peut contenir jusqu'à 32 caractères, par exemple des lettres ou des chiffres, répartis sur deux lignes. Vous pouvez donc afficher 16 caractères par ligne. La luminosité et le rétroéclairage de l'écran sont également réglables, mais ils ne sont pas traités ici.
+L'écran LCD du dwenguino peut contenir jusqu'à 32 caractères, par exemple des lettres ou des chiffres, répartis sur deux lignes. Vous pouvez donc afficher 16 caractères par ligne. La luminosité et le rétroéclairage de l'écran sont également réglables, mais ils ne sont pas traités ici.
 
 ![](embed/Image1.png "Image LCD")

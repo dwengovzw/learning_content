@@ -2,9 +2,9 @@
 hruid: Telechargerwgs
 version: 3
 language: fr
-title: "Télécharger Dwenguino"
+title: "Télécharger dwenguino"
 description: "Vidéo d'instruction pour télécharger un programme"
-keywords: ["StartToDwenguino"]
+keywords: ["StartTodwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,17 +29,17 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Télécharger sur le Dwenguino
+# Télécharger sur le dwenguino
 
-La vidéo ci-dessous montre comment vous pouvez télécharger un programme depuis n'importe quel ordinateur et navigateur sur votre Dwenguino.
+La vidéo ci-dessous montre comment vous pouvez télécharger un programme depuis n'importe quel ordinateur et navigateur sur votre dwenguino.
 Il est important que vous suiviez toutes les étapes comme indiqué dans la vidéo !
 
 * Ecrire le programme ;
 * Téléchargez le programme;
 * Ouvrir les téléchargements, il y a maintenant un fichier .dw
-* Branchez le Dwenguino et appuyez sur RESET + SOUTH, puis relâchez le bouton de réinitialisation;
-* Le Dwenguino est dans vos dossiers sous forme de clé USB ;
-* Copiez le fichier .dw dans le Dwenguino ;
+* Branchez le dwenguino et appuyez sur RESET + SOUTH, puis relâchez le bouton de réinitialisation;
+* Le dwenguino est dans vos dossiers sous forme de clé USB ;
+* Copiez le fichier .dw dans le dwenguino ;
 * Appuyez sur RÉINITIALISER
 
-![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Télécharger Dwenguino")
+![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Télécharger dwenguino")

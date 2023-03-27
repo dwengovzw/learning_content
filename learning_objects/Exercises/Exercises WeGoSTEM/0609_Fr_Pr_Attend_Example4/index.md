@@ -4,7 +4,7 @@ version: 3
 language: fr
 title: "Exemple Attend 4"
 description: "Exemple Attend 4"
-keywords: ["StartToDwenguino", "wacht"]
+keywords: ["StartTodwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

@@ -2,9 +2,9 @@
 hruid: STD_Startpagina
 version: 3
 language: nl
-title: "StartToDwenguino"
+title: "StartTodwenguino"
 description: "Beschrijving van de onderdelen van de simulator"
-keywords: ["StartToDwenguino"]
+keywords: ["StartTodwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly  
+# dwenguinoBlockly  
 # Een programmeeromgeving
 
 De programmeeromgeving met simulator is online beschikbaar op [https://blockly.dwengo.org/](https://blockly.dwengo.org/ "link simulator"). Op dwengo.org bereik je de simulator ook via de knop rechtsbovenaan op je scherm.
@@ -41,7 +41,7 @@ Hieronder zie je een screenshot van de omgeving met de beschrijving van de versc
 
 
 1. De *toolbox*: In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. Afhankelijk van het gekozen scenario, kan het menu er anders uitzien. In het scenario van de rekenrobot kan je bijvoorbeeld in 
-![alt](embed/Afb2.png "Afb. Dwenguino") alle blokken vinden om de tekenrobot te besturen.
+![alt](embed/Afb2.png "Afb. dwenguino") alle blokken vinden om de tekenrobot te besturen.
 
 2. Het *codeveld*: Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar.  
 ![alt](embed/Afb3.png "Afb. zetklaarherhaal")
@@ -61,9 +61,9 @@ Enkel code die in het ‘zet klaar’- of 'herhaal'-gedeelte van dit blok geplaa
 ![alt](embed/Afb8.png "Afb. Stop")
 . Het laat je ook toe om een specifiek scenario te kiezen waarbinnen je je code wil uitvoeren. Op de afbeelding zie je het scenario van de tekenrobot.
 
-5. Het *simulatievenster*: In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de Dwenguino, waarop je je code kan uitvoeren. Op de afbeelding is het scenario van de tekenrobot geselecteerd. Bovenaan zie je een virtueel Dwenguino-bord, onderaan een virtuele tekenrobot die je kan programmeren.
+5. Het *simulatievenster*: In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de dwenguino, waarop je je code kan uitvoeren. Op de afbeelding is het scenario van de tekenrobot geselecteerd. Bovenaan zie je een virtueel dwenguino-bord, onderaan een virtuele tekenrobot die je kan programmeren.
 
 
 In de toolbox kan je dus de blokken terugvinden die je nodig hebt om programma's te maken. Deze blokken moet je hieruit slepen om nadien vast te klikken in de gewenste volgorde.
 
-Doorheen de oefeningen zullen er voor nieuwe blokken verwijzingen staan naar de plaats in de toolbox waar je deze kan terugvinden. Een voorbeeld van zo'n verwijzing is ![alt](embed/Afb2.png "Afb. Dwenguino") .
+Doorheen de oefeningen zullen er voor nieuwe blokken verwijzingen staan naar de plaats in de toolbox waar je deze kan terugvinden. Een voorbeeld van zo'n verwijzing is ![alt](embed/Afb2.png "Afb. dwenguino") .
