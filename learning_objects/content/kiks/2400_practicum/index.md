@@ -47,7 +47,7 @@ Je kan dit opvangen door dezelfde methode te gebruiken als de onderzoekers van d
     <figcaption align = "center">Figuur 2: Bladafdruk nemen met nagellak en plakband.</figcaption>
 </figure> 
 
-<iframe width="1848" height="799" src="https://www.youtube.com/embed/JptF3jhOV5k" title="KIKS - Nagellakafdruk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](@youtube/https://www.youtube.com/embed/JptF3jhOV5k "Filmpje nagellak")
 
 De foto’s zijn dan niet meer zo mooi van kleur, maar grijsachtig (zie Figuur 3). Maar al bij al levert het nog steeds mooie plaatjes op; de natuur op zijn best. 
 
