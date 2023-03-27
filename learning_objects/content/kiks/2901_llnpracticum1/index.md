@@ -40,4 +40,4 @@ teacher_exclusive: false
 <ul><li>Bekijk het preparaat onder de microscoop.</li></ul> 
 <ul><li>Noteer wat je ziet: veel of weinig huidmondjes, grote of kleine huidmondjes, welke vorm ze hebben, hoe ze geordend zijn ...</li></ul> 
 
-<iframe width="1848" height="799" src="https://www.youtube.com/embed/JptF3jhOV5k" title="KIKS - Nagellakafdruk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](@youtube/https://www.youtube.com/embed/JptF3jhOV5k "Filmpje nagellak")
