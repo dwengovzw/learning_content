@@ -48,3 +48,4 @@ Het optellen van twee 8-bit getallen kan in één kloktik gebeuren, terwijl het 
 
 Aan jullie de uitdaging om deze beperkte computerkracht efficient te benutten.
 </div>
+
