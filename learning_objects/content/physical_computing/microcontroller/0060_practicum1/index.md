@@ -43,16 +43,16 @@ Eens je de simulator geopend hebt, kan je deze overschakelen naar de code-UI doo
 
 ## De microcontroller
 
-Voor deze oefening maken jullie gebruik van het Dwenguino bord. Dit bord bevat een **AT90USB646** microcontroller, dit is de grote vierkante chip onder het LCD scherm. Het is deze chip die jullie in het practicum zullen programmeren.<br><br> 
+Voor deze oefening maken jullie gebruik van het dwenguino bord. Dit bord bevat een **AT90USB646** microcontroller, dit is de grote vierkante chip onder het LCD scherm. Het is deze chip die jullie in het practicum zullen programmeren.<br><br> 
 
-Op onderstaande figuur zie je de pin layout van de chip. Het is via deze pinnen dat de chip communiceert met de compomenten op het Dwenguino bord, zoals de 8 leds, 5 drukknopen, een LCD scherm, een motor controller, een speaker en Arduino compatibele expansion ports. In dit practicum moeten jullie enkel communiceren met de leds op het bord.
+Op onderstaande figuur zie je de pin layout van de chip. Het is via deze pinnen dat de chip communiceert met de compomenten op het dwenguino bord, zoals de 8 leds, 5 drukknopen, een LCD scherm, een motor controller, een speaker en Arduino compatibele expansion ports. In dit practicum moeten jullie enkel communiceren met de leds op het bord.
 
 ![](embed/microcontroller_chip.png "afbeelding chip")
 
 
 ## Oefening 1: Leds aanschakelen met de drukknoppen**
 
-Analyseer eerst het schema van de Dwenguino om te achterhalen hoe de leds met de microcontroller verbonden zijn.
+Analyseer eerst het schema van de dwenguino om te achterhalen hoe de leds met de microcontroller verbonden zijn.
 
 Een deel van de fysieke pinnen van de microcontroller kan je gebruiken om waarden te inputten en outputten (I/O). Het andere deel wordt voor allelei dingen gebruikt, zoals b.v.b. voeding, kloksynchronisatie en USB connectie. Zoek in de datasheet van de microcontroller in sectie 2.2 (pp. 8-10) welke pinnen gebruikt kunnen worden voor I/O.
 

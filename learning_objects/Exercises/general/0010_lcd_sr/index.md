@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Lcd-scherm
 
 ### Type
@@ -38,7 +38,7 @@ teacher_exclusive: false
 
 ### Werking
 Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
-Op het lcd-scherm van de Dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. 
+Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. 
 
 > De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier terwijl het lcd-scherm aanstaat.
 

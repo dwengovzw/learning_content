@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Geluidssensor
 
 ### Type

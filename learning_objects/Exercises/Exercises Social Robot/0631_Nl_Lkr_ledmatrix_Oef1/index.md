@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Oefening led-matrix 1"
 description: "Uitleg led-matrices"
-keywords: ["StartToDwenguino", "led-matrix"]
+keywords: ["StartTodwenguino", "led-matrix"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

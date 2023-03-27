@@ -32,14 +32,14 @@ teacher_exclusive: false
 ---
 # Programmeren van de tekenrobot
 
-Je robot zit in elkaar. Nu gaan we hem programmeren. We gaan heel precies zeggen wat hij moet doen. Maar omdat de robot geen mensentaal spreekt, leren we eerst programmeertaal. Dat doen we in DwenguinoBlockly, een programmeeromgeving voor kinderen zoals jou!
+Je robot zit in elkaar. Nu gaan we hem programmeren. We gaan heel precies zeggen wat hij moet doen. Maar omdat de robot geen mensentaal spreekt, leren we eerst programmeertaal. Dat doen we in dwenguinoBlockly, een programmeeromgeving voor kinderen zoals jou!
 
-DwenguinoBlockly heeft twee grote voordelen:
+dwenguinoBlockly heeft twee grote voordelen:
 
 1. Het is aangepast aan jouw leeftijd (derde graad basisonderwijs en eerste graad secundair onderwijs).
 2. Het is een grafische programmeertaal. Programmeren is zo eenvoudig als het verslepen van blokken op het scherm.
 3. Er is een simulator. Op het scherm zie je al wat de robot zal doen. 
 
-In de volgende stappen van dit leerpad leer je met DwenguinoBlockly werken. Eerst in de simulator, nadien met jouw eigen robot.
+In de volgende stappen van dit leerpad leer je met dwenguinoBlockly werken. Eerst in de simulator, nadien met jouw eigen robot.
 
 Veel succes!

@@ -2,9 +2,9 @@
 hruid: Acceuil
 version: 3
 language: fr
-title: "StartToDwenguino Base"
+title: "StartTodwenguino Base"
 description: "Description des pièces du simulateur"
-keywords: ["StartToDwenguino"]
+keywords: ["StartTodwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 # Un environnement de programmation
 
 L'environnement de programmation du simulateur est disponible en ligne sur [https://www.dwengo.org/dwenguinoblockly](https://www.dwengo.org/dwenguinoblockly "link simulator").
@@ -41,7 +41,7 @@ Ci-dessous vous voyez une capture d'écran de l'environnement avec la descriptio
 
 
 1. La *boîte à outils* : Dans ce menu, vous trouverez les différents blocs de code. Le menu est divisé en catégories, chacune contenant un type spécifique de blocs. Dans
-Par exemple, ![alt](embed/Afb2.png "Image Dwenguino") vous pouvez trouver tous les blocs pour contrôler le robot de dessin.
+Par exemple, ![alt](embed/Afb2.png "Image dwenguino") vous pouvez trouver tous les blocs pour contrôler le robot de dessin.
 
 2. Le *champ de code* : C'est là que vous trouverez le programme que vous êtes en train de créer. Le bloc *'put ready/repeat'* est déjà là.
 ![alt](embed/Image3.png "Répétition prête pour l'ensemble d'images")
@@ -61,9 +61,9 @@ Seul le code placé dans les sections 'set ready' et 'repeat' de ce bloc sera ex
 ![alt](embed/Image8.png "Image Stop")
 . Il vous permet également de choisir un scénario spécifique dans lequel vous souhaitez exécuter votre code.
 
-5. La *fenêtre de simulation* : Dans cette fenêtre vous voyez un robot virtuel et souvent aussi une carte de microcontrôleur virtuelle, la Dwenguino, sur laquelle vous pouvez exécuter votre code. Dans l'image, le scénario du robot de dessin est sélectionné. En haut, vous voyez un tableau Dwenguino virtuel, en bas un robot de dessin virtuel que vous pouvez programmer.
+5. La *fenêtre de simulation* : Dans cette fenêtre vous voyez un robot virtuel et souvent aussi une carte de microcontrôleur virtuelle, la dwenguino, sur laquelle vous pouvez exécuter votre code. Dans l'image, le scénario du robot de dessin est sélectionné. En haut, vous voyez un tableau dwenguino virtuel, en bas un robot de dessin virtuel que vous pouvez programmer.
 
 
 Dans la boîte à outils, vous pouvez trouver les blocs dont vous avez besoin pour créer des programmes. Vous devez faire glisser ces blocs, puis cliquer dessus dans l'ordre souhaité.
 
-Tout au long des exercices, il y aura des références pour de nouveaux blocs à l'endroit dans la boîte à outils où vous pouvez les trouver. Un exemple d'une telle référence est ![alt](embed/Image2.png "Image Dwenguino") .
+Tout au long des exercices, il y aura des références pour de nouveaux blocs à l'endroit dans la boîte à outils où vous pouvez les trouver. Un exemple d'une telle référence est ![alt](embed/Image2.png "Image dwenguino") .

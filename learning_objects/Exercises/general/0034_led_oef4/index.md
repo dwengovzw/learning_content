@@ -42,4 +42,4 @@ Schrijf een programma dat het volgende doet:
 5. Wacht 100 ms. Leds 2 en 5 gaan uit. Leds 0 en 7 gaan aan.
 6. Wacht 100 ms. Leds 3 en 4 gaan uit.
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

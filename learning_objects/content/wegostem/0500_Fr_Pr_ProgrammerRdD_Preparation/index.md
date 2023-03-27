@@ -49,7 +49,7 @@ Certains enfants remarquent que le dessin dans le simulateur est différent du d
 
 ## Préparation
 
-Nous vous recommandons, en tant qu'enseignant, de suivre au moins les exercices de base de la trajectoire *StartToDwenguino* afin de guider les élèves de manière optimale. Celui-ci contient les éléments suivants :
+Nous vous recommandons, en tant qu'enseignant, de suivre au moins les exercices de base de la trajectoire *StartTodwenguino* afin de guider les élèves de manière optimale. Celui-ci contient les éléments suivants :
 *Les éléments entre parenthèses sont considérés comme facultatifs pour le voyage WeGoStem.*
 
 * Affichage LCD
@@ -62,7 +62,7 @@ Nous vous recommandons, en tant qu'enseignant, de suivre au moins les exercices 
 * (Pour boucle)
 * (En boucle)
 
-Les exemples des blocs essentiels ont déjà été inclus dans ce parcours d'apprentissage. Pour le pratiquer vous-même, nous vous renvoyons à la trajectoire *StartToDwenguino*.
+Les exemples des blocs essentiels ont déjà été inclus dans ce parcours d'apprentissage. Pour le pratiquer vous-même, nous vous renvoyons à la trajectoire *StartTodwenguino*.
 
 ### Matériel pour la classe
 

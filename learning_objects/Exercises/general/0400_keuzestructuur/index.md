@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Keuzestructuren: Als - Dan
 
 Om van je robot een sociale robot te maken, zal die in staat moeten zijn om te reageren op bepaalde prikkels: een persoon die dichter komt, een luide klap... Denk bijvoorbeeld aan schuifdeuren die opengaan wanneer iemand in de buurt komt.

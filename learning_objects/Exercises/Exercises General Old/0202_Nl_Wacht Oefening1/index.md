@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Wacht Oefening 1"
 description: "Wacht Oefening 1"
-keywords: ["StartToDwenguino", "wacht"]
+keywords: ["StartTodwenguino", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -37,4 +37,4 @@ Schrijf een programma dat het volgende doet:
 * "Begin" verschijnt op het lcd-scherm voor 2 seconden.
 * "Begin" wordt vervangen door "Einde" op het lcd-scherm.
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

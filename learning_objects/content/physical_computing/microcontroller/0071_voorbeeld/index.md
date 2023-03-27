@@ -33,7 +33,7 @@ teacher_exclusive: false
 
 ## Een praktisch voorbeeld voor interrupts: reageren op een knopje
 
-In dit voorbeeld tonen we hoe je de LEDs kan laten reageren op de input van een gebruiker via het knopje. We gaan uit van het knopje S die op pin PE5 is aangesloten (zie het Dwenguino schema).
+In dit voorbeeld tonen we hoe je de LEDs kan laten reageren op de input van een gebruiker via het knopje. We gaan uit van het knopje S die op pin PE5 is aangesloten (zie het dwenguino schema).
 
 Uiteraard zou je deze toepassing kunnen realiseren door continu in de oneindige while(1)-lus in de main het knopje te bevragen (ook wel *polling* genoemd). Naarmate je programma complexer wordt (en er dus heel wat code in je while(1)-lus komt te staan) zal het echter moeilijk zijn om de toestand van de knop op een vast tijdstip te bevragen. Bijgevolg is het aangewezen om hiervoor een interrupt te gebruiken.
 
@@ -53,7 +53,7 @@ We laden eerst de nodige AVR-bibliotheken in. Merk op dat naast de bibliotheek v
 
 De interrupt-handler kunnen we aanmaken via de ISR-routine. Aan deze routine geven het (programma)geheugenadres mee dat gekoppeld is aan de interrupt die we willen gebruiken. In dit voorbeeld willen we kunnen reageren op een externe gebeurtenis op pin PE5,die gekoppeld is aan INT5. De parameter die we moeten meegeven aan de ISR macro is INT5_vect (oftwel de naam van de interrupt + _vect) wat in de praktijk overeenkomt met het adres 0x000C van het programmageheugen. In de interrupt vector table van de microcontroller (pagina van de datasheet) kan je een lijst vinden van alle interrupts.
 
-Denk er ook aan dat interrupt routines kort moeten zijn! De LEDs op het Dwenguino-bord zitten gelukkig op dezelfde poort A. Bijgevolg kunnen we ze allemaal tegelijk omklappen in 1 kloktik met behulp van de bitsgewijze XOR-operatie ^:
+Denk er ook aan dat interrupt routines kort moeten zijn! De LEDs op het dwenguino-bord zitten gelukkig op dezelfde poort A. Bijgevolg kunnen we ze allemaal tegelijk omklappen in 1 kloktik met behulp van de bitsgewijze XOR-operatie ^:
 
 <div class="highlight highlight-source-c">
 <pre><span class="pl-en">ISR</span>(INT5_vect) {

@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld Lcd 2"
 description: "Voorbeeld Lcd 2"
-keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
+keywords: ["StartTodwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

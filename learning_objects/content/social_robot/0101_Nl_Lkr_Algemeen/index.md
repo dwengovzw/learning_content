@@ -53,7 +53,7 @@ De robot moet efficiënt zijn in het vervullen van zijn taken, maar moet ook aan
 
 
 ## Programmeren in de simulator
-Binnen dit project werken de leerlingen met de Dwenguino-simulator, ontworpen voor iedereen die op zoek is naar een eerste (grafische) programmeerervaring.
+Binnen dit project werken de leerlingen met de dwenguino-simulator, ontworpen voor iedereen die op zoek is naar een eerste (grafische) programmeerervaring.
 
 De programmeeromgeving is een uitgebreide vorm van Google Blockly met programmeerblokken die op verschillende abstractieniveaus werden gedefinieerd zodat leerlingen op hun eigen tempo kunnen leren.
 

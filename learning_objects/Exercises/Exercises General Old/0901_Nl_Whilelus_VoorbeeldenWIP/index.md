@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Whilelus Voorbeeld"
 description: "Whilelus Voorbeeld"
-keywords: ["StartToDwenguino", "whilelus"]
+keywords: ["StartTodwenguino", "whilelus"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

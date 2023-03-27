@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Begrensde herhaling
 
 Om een begrensde herhaling uit te voeren, gebruik je het volgende blok:  
@@ -46,4 +46,4 @@ Oplossing:
 
 ![blockly](@learning-object/begrensdeherhaling_m/nl/3)  
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

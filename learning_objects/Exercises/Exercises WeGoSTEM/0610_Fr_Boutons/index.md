@@ -4,7 +4,7 @@ version: 3
 language: fr
 title: "Explication Boutons"
 description: "Explication Boutons"
-keywords: ["StartToDwenguino", "knoppen"]
+keywords: ["StartTodwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Boutons
 
-Sur le Dwenguino, vous trouverez cinq boutons poussoirs. Les boutons extérieurs ont été nommés NORD, SUD, EST, OUEST, tout comme en géographie. Le bouton du milieu s'appelle CENTRE.
+Sur le dwenguino, vous trouverez cinq boutons poussoirs. Les boutons extérieurs ont été nommés NORD, SUD, EST, OUEST, tout comme en géographie. Le bouton du milieu s'appelle CENTRE.
 
 Vous pouvez cliquer sur un bouton avec votre souris. Lorsque vous cliquez dessus, le bouton est enfoncé. Lorsque vous relâchez le bouton, il n'est plus enfoncé.
 

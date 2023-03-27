@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Uitleg Lcd"
 description: "Uitleg Lcd"
-keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
+keywords: ["StartTodwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 Het lcd-scherm kan je gebruiken om tekst te tonen. Dit kan bijvoorbeeld handig zijn voor het uitlezen van de waarden die de sensoren meten.
 
-Op het lcd-scherm van de Dwenguino passen maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm zijn ook aanpasbaar, maar deze worden hier niet verder behandeld.
+Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, bijvoorbeeld letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. De helderheid en de achtergrondverlichting van het scherm zijn ook aanpasbaar, maar deze worden hier niet verder behandeld.
 
 Je geeft tekst voor elke lijn apart in. Om beide lijnen te gebruiken, zal je dus twee lcd-blokken moeten gebruiken!
 

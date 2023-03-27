@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Uitbreiding morsecode"
 description: "Uitbreiding morsecode"
-keywords: ["StartToDwenguino", "lcd", "wacht"]
+keywords: ["StartTodwenguino", "lcd", "wacht"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -40,6 +40,6 @@ Ontcijfer nu m.b.v. dit overzicht het onderstaande bericht:
 
 ![blockly](@learning-object/STD_Morse/nl/3) 
 
-Eens je dit bericht hebt ontcijferd, kan je zelf aan de slag! Programmeer een bericht in morsecode dat de Dwenguino kan afspelen. Maak dit zeker niet te lang! 
+Eens je dit bericht hebt ontcijferd, kan je zelf aan de slag! Programmeer een bericht in morsecode dat de dwenguino kan afspelen. Maak dit zeker niet te lang! 
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

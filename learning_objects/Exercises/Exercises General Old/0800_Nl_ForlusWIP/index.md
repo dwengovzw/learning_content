@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Forlus"
 description: "Uitleg Forlus"
-keywords: ["StartToDwenguino", "forlus"]
+keywords: ["StartTodwenguino", "forlus"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

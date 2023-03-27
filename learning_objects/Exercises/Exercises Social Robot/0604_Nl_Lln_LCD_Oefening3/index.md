@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Oefening Lcd 3"
 description: "Oefening Lcd 3"
-keywords: ["StartToDwenguino", "lcd", "lcd-scherm"]
+keywords: ["StartTodwenguino", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

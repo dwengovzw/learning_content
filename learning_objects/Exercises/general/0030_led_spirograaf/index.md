@@ -29,14 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Led
 
 ### Type
 - Uitvoer
 
 ### Werking
-Links onderaan op het Dwenguino-bord vind je acht leds:
+Links onderaan op het dwenguino-bord vind je acht leds:
 
 ![](embed/leds.png "leds")
 

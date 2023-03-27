@@ -33,7 +33,7 @@ teacher_exclusive: false
 
 ## Oefening 1: Het printen op het lcd-scherm
 
-Het Dwenguino bord beschikt over een 2x16 LCD scherm. In dit practicum maken we gebruik van een voorgeprogrammeerde library om het scherm aan te sturen, maar alle details om zelf het scherm aan te sturen zijn terug te vinden in de datasheet van het LCD scherm.
+Het dwenguino bord beschikt over een 2x16 LCD scherm. In dit practicum maken we gebruik van een voorgeprogrammeerde library om het scherm aan te sturen, maar alle details om zelf het scherm aan te sturen zijn terug te vinden in de datasheet van het LCD scherm.
 
 ### Opdracht 1.2 - Verkennen van de lcd bibliotheek
 

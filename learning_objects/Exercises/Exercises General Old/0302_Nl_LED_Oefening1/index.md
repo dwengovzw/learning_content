@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "led Oefening 1"
 description: "led Oefening 1"
-keywords: ["StartToDwenguino", "led"]
+keywords: ["StartTodwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -34,5 +34,5 @@ teacher_exclusive: false
 
 Laat de tweede led branden. Verwar de tweede led niet met led 2!
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*
 

@@ -43,7 +43,7 @@ Le 'corps' d'un robot contient des pièces mécaniques qui peuvent être constit
 Le robot a des capteurs (entrées) pour « sentir » et des actionneurs (sorties) pour « agir ». Un robot peut être équipé de capteurs de distance, de capteurs au sol, de capteurs tactiles, de capteurs de lumière ou de capteurs de son.
 Des exemples d'actionneurs sont un écran LCD, un buzzer et un servomoteur. Votre ordinateur dispose également d'entrées et de sorties. Le clavier et la souris sont des exemples d'entrées ; l'écran est une sortie.
 
-L'unité de calcul avec laquelle votre robot prend des « décisions » est cruciale. Pour cela vous utilisez par exemple un processeur (comme dans un ordinateur) ou un microcontrôleur (comme sur le Dwenguino).
+L'unité de calcul avec laquelle votre robot prend des « décisions » est cruciale. Pour cela vous utilisez par exemple un processeur (comme dans un ordinateur) ou un microcontrôleur (comme sur le dwenguino).
 
 ![](embed/Dwenguinobordje.png "Unité de compte")
 

@@ -43,7 +43,7 @@ Het ‘lichaam’ van een robot bevat mechanische onderdelen die uit veel materi
 De robot heeft sensoren (ingangen) om te ‘voelen’ en actuatoren (uitgangen) om te ‘handelen’. Men kan een robot voorzien van afstandssensoren, grondsensoren, tastsensoren, lichtsensoren of geluidssensoren.  
 Voorbeelden van actuatoren zijn een lcd-scherm, een zoemer en een servomotor. Jouw computer heeft ook in- en uitgangen. Het toetsenbord en de muis zijn voorbeelden van ingangen; het scherm is een uitgang. 
 
-Cruciaal is de rekeneenheid waarmee je robot ‘beslissingen’ neemt. Hiervoor gebruik je bijvoorbeeld een processor (zoals in een computer) of een microcontroller (zoals op de Dwenguino). 
+Cruciaal is de rekeneenheid waarmee je robot ‘beslissingen’ neemt. Hiervoor gebruik je bijvoorbeeld een processor (zoals in een computer) of een microcontroller (zoals op de dwenguino). 
 
 ![](embed/Dwenguinobordje.png "Rekeneenheid")
 

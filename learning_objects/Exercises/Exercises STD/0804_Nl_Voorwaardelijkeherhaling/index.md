@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorwaardelijke herhaling"
 description: "Voorbeeld Buzzer"
-keywords: ["StartToDwenguino", "led"]
+keywords: ["StartTodwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -42,4 +42,4 @@ Oplossing:
 
 ![blockly](@learning-object/STD_Buzzer4/nl/3)  
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

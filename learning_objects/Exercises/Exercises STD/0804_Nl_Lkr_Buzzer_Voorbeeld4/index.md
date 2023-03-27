@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld Buzzer 4"
 description: "Voorbeeld Buzzer"
-keywords: ["StartToDwenguino", "led"]
+keywords: ["StartTodwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -40,4 +40,4 @@ Oplossing:
 
 Zoals je misschien merkt, is het niet zo eenvoudig om zoemertonen te binden aan de knoppen. De meest efficiënte manier om dit te doen wordt hierna uitgelegd.
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

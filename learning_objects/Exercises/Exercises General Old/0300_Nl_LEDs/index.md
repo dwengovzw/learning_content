@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Led"
 description: "Uitleg led"
-keywords: ["StartToDwenguino", "led"]
+keywords: ["StartTodwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -32,7 +32,7 @@ teacher_exclusive: false
 
 ## leds
 
-Links onderaan op het Dwenguino-bord vind je acht leds:
+Links onderaan op het dwenguino-bord vind je acht leds:
 
 ![alt](embed/leds.png "Afb. leds")
 

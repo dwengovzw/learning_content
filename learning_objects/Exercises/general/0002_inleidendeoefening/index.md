@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# DwenguinoBlockly
+# dwenguinoBlockly
 ## Je eerste programma
 Nu je weet wat waar staat, kan je beginnen programmeren!
 
@@ -51,5 +51,5 @@ Na deze oefening heb je de basis mee van hoe de omgeving werkt. Je kan blokken u
 </div>
 
 <div class="alert alert-box alert-success">
-Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte Dwenguino! Hierna wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de Dwenguino.
+Eens een programma werkt in de simulator, kan je het ook uitproberen op een echte dwenguino! Hierna wordt uitgebreid beschreven hoe je een programma van de simulator kunt uploaden naar de dwenguino.
 </div>

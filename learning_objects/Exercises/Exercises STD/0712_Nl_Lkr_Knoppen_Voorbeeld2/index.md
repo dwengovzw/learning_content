@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld Knoppen 2"
 description: "Voorbeeld Knoppen 2"
-keywords: ["StartToDwenguino", "knoppen"]
+keywords: ["StartTodwenguino", "knoppen"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

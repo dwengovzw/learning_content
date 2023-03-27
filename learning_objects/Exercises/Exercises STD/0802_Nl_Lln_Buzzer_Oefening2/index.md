@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Oefening Buzzer 4"
 description: "oefening Buzzer 4"
-keywords: ["StartToDwenguino", "led"]
+keywords: ["StartTodwenguino", "led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -42,4 +42,4 @@ Schrijf een programma dat het volgende doet:
 5. Wacht 100 ms. leds 2 en 5 gaan uit. leds 0 en 7 gaan aan.
 6. Wacht 100 ms. leds 3 en 4 gaan uit.
 
-*Test dit ook eens uit op een echte Dwenguino als dit werkt in de simulator.*
+*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*

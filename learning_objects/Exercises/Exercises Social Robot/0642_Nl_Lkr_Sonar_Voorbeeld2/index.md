@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld sonar-sensor 2"
 description: "Uitleg sonar-sensor"
-keywords: ["StartToDwenguino", "sonar-sensor"]
+keywords: ["StartTodwenguino", "sonar-sensor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

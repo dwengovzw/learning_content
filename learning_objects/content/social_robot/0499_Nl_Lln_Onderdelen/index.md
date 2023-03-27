@@ -43,7 +43,7 @@ Hieronder staan de verschillende robotonderdelen opgelijst die dwengo in het 'So
 |   -------------------------   |   --------------------------  |   --------------------------- |
 |   Sonar-sensor    |   ![](embed/Sonar-sensor.png  "sonar-sensor") |   Gebruik deze sensor om een persoon of object te detecteren en om te bepalen hoe ver van de sensor de persoon of het object zich bevindt. In de simulator is een schuifbalk voorzien om dit te simuleren. De sensor geeft de afstand terug in centimeter.    |
 |   Geluidssensor   |   ![](embed/Geluidssensor.png "Geluidssensor")    |   Gebruik deze sensor om geluid te detecteren. In de simulator is een knop voorzien waarmee je geluid kan simuleren door de knop in te drukken. Bij geluid geeft de sensor 1 terug, bij stilte 0. |
-|   Drukknop    |   ![](embed/Drukknop.png "Drukknop") |   Er zijn 5 ingebouwde drukknoppen voorzien op de Dwenguino: NOORD, OOST, ZUID, WEST en MIDDEN. |  
+|   Drukknop    |   ![](embed/Drukknop.png "Drukknop") |   Er zijn 5 ingebouwde drukknoppen voorzien op de dwenguino: NOORD, OOST, ZUID, WEST en MIDDEN. |  
   
 
 ## Actuatoren (uitvoer)

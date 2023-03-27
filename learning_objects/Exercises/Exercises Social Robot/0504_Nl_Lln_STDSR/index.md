@@ -45,7 +45,7 @@ Hieronder zie je een screenshot van de omgeving met de beschrijving van de versc
 
 
 1. De *toolbox*: In dit menu vind je de verschillende codeblokken terug. Het menu is opgedeeld volgens categorieën die elk een specifieke soort van blokken bevatten. In 
-![alt](embed/Afb2.png "Afb. Dwenguino") vind je bijvoorbeeld het *'wacht'-blok* terug.
+![alt](embed/Afb2.png "Afb. dwenguino") vind je bijvoorbeeld het *'wacht'-blok* terug.
 
 2. Het *codeveld*: Hier staat het programma dat je maakt. Het *'zet klaar/herhaal'-blok* staat er al klaar.  
 ![alt](embed/Afb3.png "Afb. zetklaarherhaal")
@@ -66,6 +66,6 @@ Om te programmeren sleep je dus blokken uit de toolbox naar het codeveld en klik
 ![alt](embed/Afb8.png "Afb. Stop")
 . Het laat je ook toe om een specifiek scenario te kiezen waarbinnen je je code wil uitvoeren; op de figuur is het scenario van de tekenrobot geselecteerd.
 
-5. Het *simulatievenster*: In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de Dwenguino, waarop je je code kan uitvoeren. Op de afbeelding is het scenario van de tekenrobot geselecteerd. Bovenaan zie je een virtueel Dwenguino-bord, onderaan een virtuele tekenrobot die je kan programmeren.
+5. Het *simulatievenster*: In dit venster zie je een virtuele robot en vaak ook een virtueel microcontrollerbord, de dwenguino, waarop je je code kan uitvoeren. Op de afbeelding is het scenario van de tekenrobot geselecteerd. Bovenaan zie je een virtueel dwenguino-bord, onderaan een virtuele tekenrobot die je kan programmeren.
 
-Om een programma op te bouwen, zal je dus blokken uit de toolbox gebruiken. Doorheen de oefeningen zal er voor nieuwe blokken telkens worden aangegeven waar in de toolbox je deze terugvindt. Een voorbeeld van zo'n verwijzing is ![alt](embed/Afb2.png "Afb. Dwenguino") .
+Om een programma op te bouwen, zal je dus blokken uit de toolbox gebruiken. Doorheen de oefeningen zal er voor nieuwe blokken telkens worden aangegeven waar in de toolbox je deze terugvindt. Een voorbeeld van zo'n verwijzing is ![alt](embed/Afb2.png "Afb. dwenguino") .

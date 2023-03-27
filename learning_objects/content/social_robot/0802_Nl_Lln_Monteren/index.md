@@ -35,20 +35,20 @@ teacher_exclusive: false
 ## Uitsnijden van de uitsparingen
 
 ### Het moederbord
-Je zal gebruik maken van de Dwenguino en het bijhorende uitbreidingsbord. Bij het snijden van de uitsparingen zal je hier dus ook plaats voor moeten voorzien!  
+Je zal gebruik maken van de dwenguino en het bijhorende uitbreidingsbord. Bij het snijden van de uitsparingen zal je hier dus ook plaats voor moeten voorzien!  
 
 Let erop dat deze toegankelijk zijn zodat de USB-kabel comfortabel kan verbonden worden.
 
 ### Hoe bedraden
 ## Bedrading
 
-Vooraleer je de onderdelen bevestigt op het lichaam van de robot, kan je best eerst de bedrading tussen het Dwenguino-borden de andere componenten voorzien. Dit kan noodzakelijk zijn, omdat er soms maar weinig ruimte overblijft om de draden aan te sluiten als je de component bevestigd hebt.
+Vooraleer je de onderdelen bevestigt op het lichaam van de robot, kan je best eerst de bedrading tussen het dwenguino-borden de andere componenten voorzien. Dit kan noodzakelijk zijn, omdat er soms maar weinig ruimte overblijft om de draden aan te sluiten als je de component bevestigd hebt.
 
-Onderstaande afbeelding toont welke onderdelen aanwezig zijn op de Dwenguino en welke actuatoren hier rechtstreeks op kunnen worden aangesloten.
+Onderstaande afbeelding toont welke onderdelen aanwezig zijn op de dwenguino en welke actuatoren hier rechtstreeks op kunnen worden aangesloten.
 
-![](embed/Assemblage1.png "Dwenguino")
+![](embed/Assemblage1.png "dwenguino")
 
-*Op de Dwenguino kunnen rechtstreeks twee dc-motoren en twee servomotoren worden aangesloten. Het contrastvan het lcd-scherm kan worden aangepast. Je kan het microcontrollerplatform van stroom voorzien via de USB-kabel of een adapter.*
+*Op de dwenguino kunnen rechtstreeks twee dc-motoren en twee servomotoren worden aangesloten. Het contrastvan het lcd-scherm kan worden aangepast. Je kan het microcontrollerplatform van stroom voorzien via de USB-kabel of een adapter.*
 
 
 Alle andere sensoren en actuatoren moeten op de extension connector of een daarmee verbonden breadboard worden aangesloten.
@@ -60,23 +60,23 @@ Het voordeel van een breadboard te gebruiken is dat de connectoren op het breadb
 
 **Opgelet**
 
-Wees voorzichtig wanneer je het breadboard en de Dwenguino aan elkaar koppelt of van elkaar haalt. De pinnen kunnen gemakkelijk buigen als je te veel kracht gebruikt, waardoor het breadboard en de Dwenguino niet meer goed op elkaar aansluiten.
+Wees voorzichtig wanneer je het breadboard en de dwenguino aan elkaar koppelt of van elkaar haalt. De pinnen kunnen gemakkelijk buigen als je te veel kracht gebruikt, waardoor het breadboard en de dwenguino niet meer goed op elkaar aansluiten.
 
-![](embed/Assemblage2.png "Dwenguino")  
-![](embed/Assemblage3.png "Dwenguino")
+![](embed/Assemblage2.png "dwenguino")  
+![](embed/Assemblage3.png "dwenguino")
 
-*Ledmatrix aangesloten op het breadboard van de Dwenguino. De ledmatrix kan nadien vastgemaakt worden op het lichaan van de robot.*
+*Ledmatrix aangesloten op het breadboard van de dwenguino. De ledmatrix kan nadien vastgemaakt worden op het lichaan van de robot.*
 
 
 ### Zonder breadboard
 
 Als je geen breadboard gebruikt (bijvoorbeeld omdat er niet voldoende plaats is in de robot), dan kan je de sensoren rechtstreeks op de extension connector aansluiten. Gebruik daarvoor het onderstaande diagram om de functie van elke aansluiting na te gaan.
 
-![](embed/Assemblage4.png "Dwenguino")
+![](embed/Assemblage4.png "dwenguino")
 
 ### Controleren van de aansluitpinnen
 
-Om de bedrading juist te doen, moet je natuurlijk weten op welke pinnen van de Dwenguino je elke pin van de sensor of actuator moet aansluiten. Dit kan je terugvinden via het 'opties'-menu van elk onderdeel in het simulatieveld van het 'sociale robot'-scenario. Voor de gemakkelijkheid hebben we voor elke soort sensor ook al standaard pinnen gedefinieerd. 
+Om de bedrading juist te doen, moet je natuurlijk weten op welke pinnen van de dwenguino je elke pin van de sensor of actuator moet aansluiten. Dit kan je terugvinden via het 'opties'-menu van elk onderdeel in het simulatieveld van het 'sociale robot'-scenario. Voor de gemakkelijkheid hebben we voor elke soort sensor ook al standaard pinnen gedefinieerd. 
 
 
 ## Standaard pinnen
@@ -85,7 +85,7 @@ Onderstaande afbeelding toont de standaard pinnummers voor de verschillende sens
 
 **Sonar-sensor, geluidssensor, rgb-led en de ledmatrix**
 
-* Deze onderdelen moeten nog verbonden worden met de Dwenguino. Je kan dus gebruikmaken van de default pinnummers zoals ze in de simulator voorzien zijn (aangeraden) of eigen pinnummers kiezen.
+* Deze onderdelen moeten nog verbonden worden met de dwenguino. Je kan dus gebruikmaken van de default pinnummers zoals ze in de simulator voorzien zijn (aangeraden) of eigen pinnummers kiezen.
 
 ![](embed/Assemblage5.png "Onderdelen")
 
@@ -105,15 +105,15 @@ Controleer of je eerst de bedrading van de sensoren en actuatoren in orde moet b
 
 Bij het dwengo-materiaal zit een kit met hulpstukjes voor de bevestiging van de verschillende sensoren en actuatoren. Het materiaal van de kit ziet er ongeveer zo uit:
 
-![](embed/Assemblage7.png "Dwenguino")
+![](embed/Assemblage7.png "dwenguino")
 
 
 Daarnaast is er een doos met verschillende soorten bouten (dikte steeds 3 mm, maar van verschillende lengte) en moeren. Die kan je gebruiken voor alle onderdelen.
 
 
-### Dwenguino
+### dwenguino
 
-Voor de bevestiging van de Dwenguino aan het lichaam van de robot is er een Dwenguino frame voorzien dat kan vastgezet worden met vier bouten en moeren.
+Voor de bevestiging van de dwenguino aan het lichaam van de robot is er een dwenguino frame voorzien dat kan vastgezet worden met vier bouten en moeren.
 
 
 ### Dc-motor
@@ -132,7 +132,7 @@ Het onderdeel dat je op de as van de servomotor wil bevestigen, kan je uitrusten
 
 **Opgelet**
 
-In tegenstelling tot de dc-motor is de volgorde van de kabels bij aansluiting op de Dwenguino wel van belang om de motor niet stuk te maken. Je kan de kleuren van de kabels als referentie nemen, waarbij bruin steeds de GND-pin (-) is.
+In tegenstelling tot de dc-motor is de volgorde van de kabels bij aansluiting op de dwenguino wel van belang om de motor niet stuk te maken. Je kan de kleuren van de kabels als referentie nemen, waarbij bruin steeds de GND-pin (-) is.
 
 ![](@youtube/https://www.youtube.com/embed/skUcew02LGw "servomotor")
 
