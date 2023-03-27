@@ -27,7 +27,7 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 # Timers en interrupts
 
