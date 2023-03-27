@@ -39,6 +39,6 @@ Het dwenguino platform is een veelzijdig microcontrollerplatform dat ontwikkeld 
 
 ![Microcontroller](embed/microcontroller2.png "Microcontroller")
 
-De dwenguino wordt gebruikt in scholen en [internationale projecten](dwengo.org/projects "Internationale projecten"), en ook gaan het gebruiken in dit project. Echter, waar de meeste leerlingen en hobbyisten de dwenguino op een toegankelijke manier programmeren in Arduino IDE of dwenguino blockly, moeten jullie de dwenguino programmeren in Visual Studio Code via PlatformIO door te steunen op de AVR-bibliotheken en de lijvige datasheet. Dit maakt het welliswaar moeilijker, maar zorgt er wel voor dat je een goed en volledig begrip zal krijgen van de werking van een microcontroller.
+De dwenguino wordt gebruikt in scholen en [internationale projecten](dwengo.org/projects "Internationale projecten"), en ook gaan het gebruiken in dit project. Echter, waar de meeste leerlingen en hobbyisten de dwenguino op een toegankelijke manier programmeren in Arduino IDE of dwenguino blockly, moeten jullie de dwenguino programmeren door te steunen op de AVR-bibliotheken en de lijvige datasheet. Dit maakt het welliswaar moeilijker, maar zorgt er wel voor dat je een goed en volledig begrip zal krijgen van de werking van een microcontroller.
 
 ![](@youtube/https://www.youtube.com/embed/MBsjYMm-Y90 "De dwenguino: het elektisch schema")
