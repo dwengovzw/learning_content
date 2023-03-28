@@ -32,3 +32,10 @@ skos_concepts: [
 ---
 
 # Computationeel denken
+
+Hoe kan een chatbot een gestelde vraag, die niet in zijn 'woordenboek' staat, koppelen aan een vraag die er wel in staat, en het meest lijkt op de gestelde vraag?<br><br>
+
+Maak gebruik van getallen! Een voorbeeld:<br>
+
+
+
