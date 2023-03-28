@@ -37,5 +37,11 @@ Hoe kan een chatbot een gestelde vraag, die niet in zijn 'woordenboek' staat, ko
 
 Maak gebruik van getallen! Een voorbeeld:<br>
 
+![Afstand tussen vragen](embed/afstandwoorden1.png "Afstand tussen vragen")
 
+![Afstand tussen vragen](embed/afstandwoorden2.png "Afstand tussen vragen")
+
+![Afstand tussen vragen](embed/afstandwoorden3.png "Afstand tussen vragen")
+
+Er wordt gekeken hoeveel karakters er moeten worden aangepast om de ene 'vraag' om te vormen naar een 'andere'. Ook het aantal karakters van de vragen speelt een rol.
 
