@@ -2,8 +2,8 @@
 hruid: cb_chatbot4
 version: 3
 language: nl
-title: "ChatGPT en co"
-description: "ChatGPT en co"
+title: "Activiteiten"
+description: "Activiteiten"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,44 +32,47 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# ChatGPT en co
+# Opdrachten voor in de klas
 
-## Toegankelijk
-De gebruikersinterface van ChatGPT oogt eenvoudig en is van dezelfde aard als chatten in een app zoals WhatsApp of Signal. De gebruiksvriendelijkheid van ChatGPT heeft ervoor gezorgd dat het systeem toegang kreeg tot het grote publiek. <br>
-De technologie is echter niet splinternieuw. ChatGPT is ontstaan uit GPT-3.5, een opvolger van GPT-3. GPT-3 bestaat al 2 jaar en tal van toepassingen om bv. gedichten en blogs te genereren (met GPT-3) staan al geruime tijd op het web. Aan de hand van ChatGPT ontdekte het grote publiek de opportuniteiten van deze AI-systemen die eigenlijk al geruime tijd in gebruik zijn, en tegelijkertijd kwamen de bezorgdheden naar boven. 
+**Discussie**<br>
+Kan een chatbot de leerkracht vervangen?
 
-> Microsoft integreert ChatGPT in zijn zoekmachine Bing.
+**Chat zelf met ELIZA**<br>
+Chat zelf eens met [ELIZA](https://web.njit.edu/~ronkowit/eliza.html)).<br>
+Of chat [in het Nederlands](https://www.eclecticenergies.com/nederlands/psyche/eliza).<br>
+Kan ELIZA overtuigen als psychotherapeut?
 
-## Citizen science
-Eigenlijk voert OpenAI momenteel een enorm burgerwetenschapsproject uit met ChatGPT. Het systeem wordt op een ongekend grote schaal getest vanaf week één van de lancering in november 2022. Men spreekt van 1 miljoen gebruikers na de eerste week en van 100 miljoen in januari 2023. De ontwikkelaars bij OpenAI gebruiken de input van de gebruikers om het systeem te verbeteren. De leeftijdsgrens van 18 jaar, vooropgesteld door OpenAI, wordt niet gerespecteerd en sommigen maken zich dan ook *zorgen over het gebruik van de chatbot door minderjarigen*.
+**Chat met ALICE**<br>
+ALICE uit 1995 is de eerste online chatbot.<br>
+Chat zelf met [ALICE](https://www.pandorabots.com/pandora/talk?botid=b8d616e35e36e881).
 
-## Soortgelijke chatbots
-ChatGPT is niet de enige in zijn soort. Een andere chatbot is [ChatSonic](https://writesonic.com/chat) waar je ook aan kunt vragen om beelden te genereren. Google heeft [Bard](https://bard.google.com/), een broertje van ChatGPT. Bard beschikt wel over recente informatie omdat Bard het world wide web kan raadplegen.
-Ook met de chatbot [Claude](https://www.anthropic.com/index/introducing-claude) wordt geëxperimenteerd. Deze werd ontwikkeld door ex-werknemers van OpenAI. En zo zijn/komen er ongetwijfeld nog.
+**Discussie**<br>
+Om tijd te besparen kan het anamnesegesprek bij de dokter vervangen worden door een chatbotgesprek, waarbij de zinvolle informatie wordt doorgespeeld aan de dokter.
 
-## ChatGPT 
-Om tot ChatGPT te komen heeft OpenAI eerst het groot taalmodel GPT-3 gefinetuned tot InstructGPT (of **GPT-3.5**). Dit om beter aan de verwachtingen van de gebruiker en de menselijke waarden te beantwoorden, en om de uitvoer meer waarheidsgetrouw te maken. <br>
-Ze gebruikten daarvoor een techniek genaamd ***reinforcement learning from human feedback (RLHF)***, versterkend leren via menselijke feedback.
-Tot slot werd een GPT-3.5 model waarvan de training gefinaliseerd werd begin 2022, nogmaals verbeterd om te komen tot ChatGPT.
+**Chat met de chatbot van het Kenniscentrum Data & Maatschappij**<br>
+Chat zelf eens met deze [chatbot](https://data-en-maatschappij.ai/nieuws/de-chatbot-van-het-kenniscentrum-data-maatschappij).<br>
+Is deze chatbot een kennisgebaseerd of datagebaseerd systeem?
 
-**Hoe ging dit alles in zijn werk?**
-- De oorspronkelijke dataset werd vermengd met conversaties die opgemaakt werden door mensen, weliswaar geïnspireerd door antwoorden die door het AI-model werden gegenereerd. Deze dataset werd dan omgevormd naar een *dialoogformaat*. Mensen hebben aangegeven of de gegenereerde antwoorden voldeden en hebben suggesties gedaan om de antwoorden beter te maken. 
-- Daarna *rangschikten* mensen meerdere gegenereerde antwoorden op eenzelfde prompt van slechte naar goede kwaliteit. 
-- Met deze data werd een model gemaakt dat met een *score* kan aangeven hoe goed een bepaald antwoord op een prompt is. Dat model geeft aan een gegenereerd antwoord een score. 
-- Vervolgens wordt dat scoremodel gebruikt om het genereren van antwoorden op prompts te verbeteren. Via *versterkend leren*, reinforcement learning, werd ChatGPT getraind opdat het ‘het meest menselijke’ antwoord zou geven op prompts. Het model kreeg een beloning voor een goed antwoord en werd gestraft bij een slecht antwoord.
-- Daarnaast heeft OpenAI er veel aan gedaan om te vermijden dat ChatGPT racistische of seksistische teksten, of teksten die aanzetten tot haat zou gaan genereren. Hiervoor heeft men echter *schaduwwerkers* gebruikt, in dit geval onderbetaalde Kenianen die getraumatiseerd raakten door wat ze te lezen kregen. (Bron: https://time.com/6247678/openai-chatgpt-kenya-workers/)
+**Breng een chatbot van de wijs**<br>
+Op het web zijn veel chatbots te vinden. Kies er een uit en probeer die chatbot van de wijs te brengen.
 
-ChatGPT is minder krachtig  dan GPT-3, want GPT-3 kan ook nog andere dingen naast tekst genereren op basis van een prompt, bv. op basis van een afbeelding een classificatie doen.
+**Discussie brAInfood chatbots**<br>
+Het Kenniscentrum Data & Maatschappij bracht een [‘brAInfood’](https://dwengo.org/assets/files/chatbot/Brainfood13_Chatbots_NL.pdf) uit om jongeren bewuster te doen omgaan met chatbots.
 
-ChatGPT heeft (vooralsnog) geen toegang tot het wereldwijde web en beschikt dus niet over de laatste informatie. OpenAI waarschuwt ervoor dat de antwoorden van ChatGPT niet betrouwbaar zijn en steeds kritisch moeten worden benaderd.
+**Een tijdschriftartikel genereren met GPT-2**<br>
+Lees het artikel ‘Gaan robots de job van journalist vervangen?’ in de [handleiding](https://dwengo.org/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf) van het project Chatbot op p. 43.<br>
+Probeer het [AI-systeem van ML6](https://gpt2.ml6.eu/nl).
 
-ChatGPT genereert tekst. ChatGPT verzint ook van alles. Men noemt dit **hallucineren**.
+**Bias**<br>
+Stel vragen en geef opdrachten aan ChatGPT en probeer hem te betrappen op het uitvergroten van vooroordelen aanwezig in onze maatschappij.
 
-> **Voorbeeld: ChatGPT schaakt tegen de schaakcomputer Stockfish.**<br>
-> Na elke zet van ChatGPT wordt de nieuwe bordtoestand doorgegeven aan de schaakcomputer, die dan telkens de volgende zet berekent vertrekkende van de stukken op het bord.<br>
->![Schaakspel](https://user-images.githubusercontent.com/48352335/222217014-26aa20df-f29a-485c-a4b2-a4ef4259ab39.gif)<br>
-> De dialoog tussen ChatGPT en de schaakcomputer lees je [hier](https://pastebin.com/X6kBRTa9).
-> Hieruit blijkt dat ChatGPT niet kan schaken; logisch, want het is een taalmodel. Zo doet hij bv. onmogelijke zetten en maakt stukken bij. De theorie van het schaakspel is veelvuldig te vinden op het world wide web, waardoor ChatGPT bij de eerste zetten de indruk wekt dat hij kan schaken, maar hij gaat algauw de mist in.   
-> (Bron: https://www.reddit.com/r/AnarchyChess/comments/10ydnbb/i_placed_stockfish_white_against_chatgpt_black/) 
+**Hallucineren**<br>
+ChatGPT verzint antwoorden. Hij vult steeds opnieuw een gegeven rij woorden aan met het woord dat er meest waarschijnlijk op volgt.<br>
+Stel een vraag aan ChatGPT over iets waar je zelf goed van op de hoogte bent. Slaag je erin ChatGPT te laten hallucineren?
 
+**Voorbereiden van een klasdiscussie**<br>
+Kies een stelling uit van de [kaartenset](https://dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf) van het project ‘AI in de Zorg’. <br>
+Voorbeeld:<br>
+![image](https://user-images.githubusercontent.com/48352335/218336427-bc8cfc21-bb17-4da7-9816-116f70d0a507.png)
 
+Enkele leerlingen formuleren elk voor zich of ze al dan niet akkoord gaan met de stelling en waarom. De leerlingen vragen erna (individueel) aan ChatGPT wat de voor- en nadelen zijn van het zich laten wassen door een robot. Elke leerling reflecteert over de aspecten die ChatGPT heeft aangehaald. De leerling kan nadenken over argumenten en voorbeelden om te beamen of te weerleggen wat ChatGPT aanhaalt. Nadien volgt een discussie binnen deze groep leerlingen waarbij ze elkaar proberen te overtuigen van hun eigen standpunt. Omdat ChatGPT hen reeds confronteerde met elementen waar ze misschien zelf niet aan hadden gedacht, zijn ze beter voorbereid op deze discussie.  

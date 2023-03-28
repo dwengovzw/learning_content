@@ -115,6 +115,21 @@
     {
       "learningobject_hruid": "cb_chatbot5",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cb_chatbot6",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb_chatbot6",
+      "version": "3",
       "language": "nl"
     }
   ]

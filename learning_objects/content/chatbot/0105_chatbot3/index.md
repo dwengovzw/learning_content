@@ -2,8 +2,8 @@
 hruid: cb_chatbot3
 version: 3
 language: nl
-title: "Activiteiten"
-description: "Activiteiten"
+title: "Grote taalmodellen"
+description: "Grote taalmodellen"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,47 +32,56 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Opdrachten voor in de klas
+# Grote taalmodellen 
+## GPT, BERT en GPT-2
+In 2018 kwam er een doorbraak in het herkennen en genereren van taal toen de onderzoeksinstelling OpenAI met een deep learning-systeem op de proppen kwam
+om tekst te genereren, een groot taalmodel (*Large Language Model, LLM*): **Generative Pre-trained Transformer**, kortom **GPT**. In hetzelfde jaar lanceerde ook Google een eigen deep learning-taalsysteem, **BERT**, wat staat voor **Bidirectional Encoder Representations from Transformers**.<br>
 
-**Discussie**<br>
-Kan een chatbot de leerkracht vervangen?
+**Deze systemen kunnen het volgende woord in een tekst voorspellen op basis van de voorgaande woorden in de tekst. Het zijn computationele taalmodellen die getraind werden met technieken uit machinaal leren, m.a.w. ze hebben geleerd uit voorbeelden.** <br>
+In 2019 kwam OpenAI al met een opvolger GPT-2. Voor GPT-2 werd een gigantische dataset van voorbeelden gegenereerd door met een bot webpagina’s te verzamelen. Deze bot surfte op het internet door hyperlinks op Reddit te volgen, nl. hyperlinks naar webpagina’s die door veel Reddit-gebruikers gemarkeerd waren als interessant, leerrijk, of grappig.<br> 
 
-**Chat zelf met ELIZA**<br>
-Chat zelf eens met [ELIZA](https://web.njit.edu/~ronkowit/eliza.html)).<br>
-Of chat [in het Nederlands](https://www.eclecticenergies.com/nederlands/psyche/eliza).<br>
-Kan ELIZA overtuigen als psychotherapeut?
+> OpenAI is in 2015 opgericht door Sam ALtman en Elon Musk.
 
-**Chat met ALICE**<br>
-ALICE uit 1995 is de eerste online chatbot.<br>
-Chat zelf met [ALICE](https://www.pandorabots.com/pandora/talk?botid=b8d616e35e36e881).
+Naast het aanvullen van een tekst, is GPT-2 in staat tekst te genereren binnen een conversatie. GPT-2 kan ook tekst vertalen, vragen beantwoorden over de inhoud van een tekst, een afbeelding van een tekst voorzien, of een tekst samenvatten. GPT-2 kan dus heel wat. <br>
+De keerzijde van de medaille is dat de training van GPT-2, waarbij zoveel data verwerkt moesten worden, heel veel **energie** vergde.
 
-**Discussie**<br>
-Om tijd te besparen kan het anamnesegesprek bij de dokter vervangen worden door een chatbotgesprek, waarbij de zinvolle informatie wordt doorgespeeld aan de dokter.
+> GPT, BERT en GPT-2 zijn 'open source'-systemen. Dat betekent dat de code openbaar is en dat ieder vrij is om de code te gebruiken en aan te passen, bijvoorbeeld om een nieuwe toepassing te ontwikkelen. 
 
-**Chat met de chatbot van het Kenniscentrum Data & Maatschappij**<br>
-Chat zelf eens met deze [chatbot](https://data-en-maatschappij.ai/nieuws/de-chatbot-van-het-kenniscentrum-data-maatschappij).<br>
-Is deze chatbot een kennisgebaseerd of datagebaseerd systeem?
+Voorbeeld:
+-  Het Vlaamse bedrijf ML6 paste GPT-2 aan om ook teksten in het Nederlands te kunnen genereren (Dehaene, 2020). [Hun systeem](https://gpt2.ml6.eu/nl) schreef voor het tijdschrift Data News een artikel ‘Gaan robots de job van journalist vervangen?’ (VLAIO, 2020). Dit artikel kan je lezen in de handleiding van het project 'Chatbot' op p. 43.
 
-**Breng een chatbot van de wijs**<br>
-Op het web zijn veel chatbots te vinden. Kies er een uit en probeer die chatbot van de wijs te brengen.
+*Dankzij het internet en crawlers is men in staat immense databanken aan te leggen waarop deze systemen worden getraind. Omdat deze systemen getraind zijn
+met data afkomstig van op het world wide web, zijn ze extra gevoelig voor bias.*
+ 
 
-**Discussie brAInfood chatbots**<br>
-Het Kenniscentrum Data & Maatschappij bracht een [‘brAInfood’](https://dwengo.org/assets/files/chatbot/Brainfood13_Chatbots_NL.pdf) uit om jongeren bewuster te doen omgaan met chatbots.
+## GPT-3 en ChatGPT
+In 2020 verscheen GPT-3, een diep neuraal netwerk dat op nog meer data dan GPT-2 werd getraind, o.a. de volledige Engelstalige Wikipedia. GPT-3 is volgens OpenAI "te gebruiken voor quasi elke Engelse taal-taak”.<br>
+De trainingsdata van GPT-3 bevat o.a. Engelstalige boeken, de Engelstalige Wikipedia, data jarenlang verzameld via het internet en miljoenen webpagina’s.
 
-**Een tijdschriftartikel genereren met GPT-2**<br>
-Lees het artikel ‘Gaan robots de job van journalist vervangen?’ in de [handleiding](https://dwengo.org/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf) van het project Chatbot op p. 43.<br>
-Probeer het [AI-systeem van ML6](https://gpt2.ml6.eu/nl).
+> GPT-3 is geen 'open source'-systeem. In 2020 verkreeg Microsoft de licenties op GPT-3. Maar via het web kan men meer dan 300 toepassingen vinden die gebaseerd zijn op GPT-3 (OpenAI, 2021).
 
-**Bias**<br>
-Stel vragen en geef opdrachten aan ChatGPT en probeer hem te betrappen op het uitvergroten van vooroordelen aanwezig in onze maatschappij.
+Er werd ondertussen dan ook al druk geëxperimenteerd met de mogelijkheden van GPT-3, zoals poëzie schrijven, chatbots en websites ontwikkelen, en programmeren in Python:
+-  GPT-3 schreef al in 2020 al een opiniestuk voor The Guardian: ‘A robot wrote this entire article. Are you scared yet, human?’. (Zie de handleiding van het project 'Chatbot' p. 46.)
+-  Er is een [tool](https://www.usetopic.com/blog-idea-generator) ontwikkeld om een blogidee te genereren. Deze tool geeft de ingegeven sleutelwoorden in in Google en GPT-3 genereert dan een blogidee gebaseerd op de inhoud van de hoogst gerankte zoekresultaten. (Zie de handleiding van het project 'Chatbot'.)
+-  GPT-3 wordt soms [in combinatie met beeldherkenning](https://javifuentes94-clip-playground-app-haepeo.streamlit.app/) aangewend. Taal en beeld leiden zo bv. tot een classificatiesysteem. (Zie de handleiding van het project 'Chatbot' p. 48.)
+-  Improbotics gebruikte eerst GTP-2 om de conversaties te genereren van de sociale robot Alex die acteert in het improvisatietoneel, zie [de webpagina van Improbotics](http://www.erlnmyr.be/voorstellingen/improbotics/), maar is recentelijk overgeschakeld naar GPT-3.
+-  In het onderdeel ‘ChatGPT en co’ van dit leerpad lees je hoe ChatGPT ontstaan is uit GPT-3. 
 
-**Hallucineren**<br>
-ChatGPT verzint antwoorden. Hij vult steeds opnieuw een gegeven rij woorden aan met het woord dat er meest waarschijnlijk op volgt.<br>
-Stel een vraag aan ChatGPT over iets waar je zelf goed van op de hoogte bent. Slaag je erin ChatGPT te laten hallucineren?
+## Werking van deze grote taalmodellen
 
-**Voorbereiden van een klasdiscussie**<br>
-Kies een stelling uit van de [kaartenset](https://dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf) van het project ‘AI in de Zorg’. <br>
-Voorbeeld:<br>
-![image](https://user-images.githubusercontent.com/48352335/218336427-bc8cfc21-bb17-4da7-9816-116f70d0a507.png)
+AI-systemen die taal verwerken, zijn niet zomaar in staat om met natuurlijke taal te werken. Ze moeten de teksten aangereikt krijgen in een **numerieke** vorm. De grote taalmodellen maken gebruik van ***word embeddings***. Die embeddings worden gemaakt met AI-technieken, zoals *word2vec* van Google; gelukkig moeten ze niet manueel aangemaakt worden. <br>
+De woorden in een tekst worden daartoe eerst omgezet naar vectoren. Een **vector** kan gezien worden als een einidge rij van getallen. *Word embedding* houdt in dat men in deze getallen zoveel mogelijk informatie over de woorden probeert te vangen: om de rij getallen die een bepaald woord vertegenwoordigen te bepalen, wordt rekening gehouden met de betekenis van het woord, welke andere woorden er in veel zinnen samen met het woord voorkomen, de plaats van het woord in een zin, de context van een zin waarin het woord staat. 
 
-Enkele leerlingen formuleren elk voor zich of ze al dan niet akkoord gaan met de stelling en waarom. De leerlingen vragen erna (individueel) aan ChatGPT wat de voor- en nadelen zijn van het zich laten wassen door een robot. Elke leerling reflecteert over de aspecten die ChatGPT heeft aangehaald. De leerling kan nadenken over argumenten en voorbeelden om te beamen of te weerleggen wat ChatGPT aanhaalt. Nadien volgt een discussie binnen deze groep leerlingen waarbij ze elkaar proberen te overtuigen van hun eigen standpunt. Omdat ChatGPT hen reeds confronteerde met elementen waar ze misschien zelf niet aan hadden gedacht, zijn ze beter voorbereid op deze discussie.  
+![Word embedding](embed/wordtovec1.png "Word embedding word2vec")
+<center>Relaties tussen woorden met word2vec. Embeddings can produce remarkable analogies (Google, 2020).</center> 
+
+<br>
+<em>Embeddings</em> zetten tekst dus om naar vectoren. Bij word2vec zijn <b>semantisch verwante teksten dicht bij elkaar in de vectorruimte</b> geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men de overeenkomstige drie vectoren dicht bij elkaar vinden in de vectorruimte. Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden (zie Figuur).<br><br>
+
+> De NLP-techniek *word embedding* wordt ook bij zoekmachines gebruikt. M.b.v. *word embedding* levert een zoekopdracht op het web betere resultaten op. De zoekmachine zal behalve naar de eigenlijke zoekopdracht ook zoeken naar woorden en termen die er verwant mee zijn. 
+
+> Dankzij deze techniek hebben ook automatische vertalingen grote stappen vooruit gezet. Deze werkten vroeger niet goed omdat ze regelgebaseerd geprogrammeerd werden en geen context konden herkennen. Om een tekst te vertalen gaat een modern vertaalprogramma o.a. bepalen welk woord het meeste kans heeft om te volgen op een gegeven rij van woorden. Zo houdt het er rekening mee dat na ‘Ik koop een’ meestal een substantief of een adjectief met substantief volgt. 
+
+<div class="alert alert-box alert-info">
+    Murray Shanahan zegt dat we goed moeten beseffen wat een groot taalmodel doet. "Veronderstel dat we de volgende prompt geven aan een LLM: “The first person to walk on the Moon was”,  en stel dat het antwoordt met “Neil Armstrong”. Wat vragen we hier eigenlijk? Het is belangrijk om in te zien dat we eigenlijk niet vragen wie de eerste persoon was die op de maan wandelde. De vraag die we echt stellen aan het model is de volgende vraag:  Gegeven de  statistische verdeling van de woorden in de uitgebreide publieke corpus van (Engelse) tekst, welke woorden volgen er het meest waarschijnlijk op de reeks “The first person to walk on the Moon was ”? Een goed antwoord op deze vraag is “Neil Armstrong” (Bron: Talking About Large Language Models, Murray Shanahan, 2022).
+</div>
