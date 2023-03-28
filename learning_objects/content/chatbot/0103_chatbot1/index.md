@@ -3,7 +3,7 @@ hruid: cb_chatbot1
 version: 3
 language: nl
 title: "Computationeel denken"
-description: "Coomputationeel denken"
+description: "Computationeel denken"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -33,15 +33,15 @@ skos_concepts: [
 
 # Computationeel denken
 
-Hoe kan een chatbot een gestelde vraag, die niet in zijn 'woordenboek' staat, koppelen aan een vraag die er wel in staat, en het meest lijkt op de gestelde vraag?<br><br>
+Hoe kan een chatbot een gestelde vraag, die niet in zijn 'woordenboek' staat, koppelen aan een vraag die er wel in staat en het meest lijkt op de gestelde vraag?<br><br>
 
 Maak gebruik van getallen! Een voorbeeld:<br>
 
-![Afstand tussen vragen](embed/afstandwoorden1.png "Afstand tussen vragen")
+![Afstand tussen vragen](embed/afstandwoorden1.jpg "Afstand tussen vragen")
 
-![Afstand tussen vragen](embed/afstandwoorden2.png "Afstand tussen vragen")
+![Afstand tussen vragen](embed/afstandwoorden2.jpg "Afstand tussen vragen")
 
-![Afstand tussen vragen](embed/afstandwoorden3.png "Afstand tussen vragen")
+![Afstand tussen vragen](embed/afstandwoorden3.jpg "Afstand tussen vragen")
 
 Er wordt gekeken hoeveel karakters er moeten worden aangepast om de ene 'vraag' om te vormen naar een 'andere'. Ook het aantal karakters van de vragen speelt een rol.
 
