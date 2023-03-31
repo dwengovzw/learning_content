@@ -52,4 +52,4 @@ In de simulator is een knop voorzien om geluid te simuleren. De knop indrukken s
 
 ![](embed/sim_geluidssensor.png "geluidssensor simulator")
 
-De nodige blokken voor het aansturen van de geluidssensor vind je terug oner de categorie ![](embed/cat_uitvoer.png "categorie uitvoer")
+De nodige blokken voor het aansturen van de geluidssensor vind je terug onder de categorie ![](embed/cat_uitvoer.png "categorie uitvoer")
