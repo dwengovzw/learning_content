@@ -37,7 +37,9 @@ teacher_exclusive: true
 Tekst
 
 ![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
+
 ![](embed/dwengo.png "afbeelding")
+
 [link](embed/dwenguino_elektrischschema.pdf> "pdf")
 
 **bold** __bold__
