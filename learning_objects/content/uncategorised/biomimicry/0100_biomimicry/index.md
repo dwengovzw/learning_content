@@ -36,11 +36,9 @@ teacher_exclusive: true
 
 Tekst
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/EsYs4k41U6w" title="Sociale robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
 ![](embed/dwengo.png "afbeelding")
-[](@pdf/embed/dwenguino_elektrischschema.pdf> "pdf")
+[link](embed/dwenguino_elektrischschema.pdf> "pdf")
 
 **bold** __bold__
 *italic* _italic_
@@ -48,11 +46,11 @@ Tekst
 > weetjes
 
 <div class="alert alert-box alert-success">
-Samenvatting (groen kader)
-binnen "div /div" enkel html opmaak gebruiken, markdown werkt niet. 
+Samenvatting (groen kader)<br>
+binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
 </div>
 
 <div class="alert alert-box alert-danger">
-Let op (rood kader)
-binnen "div /div" enkel html opmaak gebruiken, markdown werkt niet. 
+Let op (rood kader)<br>
+binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
 </div>
