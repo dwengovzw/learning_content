@@ -40,7 +40,7 @@ Tekst
 
 ![](embed/dwengo.png "afbeelding")
 
-[link](embed/dwenguino_elektrischschema.pdf> "pdf")
+[link](embed/dwenguino_elektrischschema.pdf "pdf")
 
 **bold** __bold__
 *italic* _italic_
