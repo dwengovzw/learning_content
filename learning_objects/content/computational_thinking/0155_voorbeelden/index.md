@@ -49,12 +49,12 @@ We geven hier een (niet exhaustief) overzicht.
 |Decompositie||een overzicht maken|
 |Controlestructuren||een verhaal schrijven met verschillende mogelijke uitkomsten (*branches*)|
 
-**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken. Taub 2014 Yevseyeva 2012**
-
+**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken.** 
+**Repenning et al. (2015)**, **Yevseyeva & Towhidnejad (2012)**
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
 |Programmeren||interactieve storytelling|
-|Video||interactieve storytelling|
+|Artefact||video games ontwikkelen|
 |CD|samenwerken aan complexe wereldproblemen||
 
 **Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.**
@@ -73,7 +73,9 @@ Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met 
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Evalueren en debuggen||in tekst typfouten en grammaticale fouten detecteren en verbeteren|
-|Artefact||computationele (fysieke) artefact maken als uiting van creativiteit; microcontrollers; e-textiel; geleidende inkt|
+|Artefact||computationele (fysieke) artefact maken als uiting van creativiteit|
+|Artefact||verhaal creëren of werken met geleidende inkt|
+|Programmeren||werken met microcontrollers of e-textiel; game creëren|
 |Logica||logische uitdrukkingen in een real-world context|
 
 **Lu & Fletcher (2009)**
@@ -103,3 +105,12 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Patroonherkenning||zinsontleding, woordsoort|
 |Abstractie||gebruik van metaforen|
 |Algoritme||instructies neerschrijven|
+
+**Lee & Malyn-Smith (2019)**
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Patroonherkenning en abstractie||letterpatronen in woorden|
+|Patroonherkenning en abstractie||bewegingen in een dans|
+|Patroonherkenning||patronen in poëzie|
+|Abstractie|kenmerken van leerlingen, zoals oogkleur, haarstijl en lengte, om hen voor te stellen||
+|Algoritme||auteursherkenning a.d.h.v. woordlengte|
