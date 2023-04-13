@@ -50,7 +50,9 @@ We geven hier een (niet exhaustief) overzicht.
 |Controlestructuren||een verhaal schrijven met verschillende mogelijke uitkomsten (*branches*)|
 
 **Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken.** 
+
 **Repenning et al. (2015)**, **Yevseyeva & Towhidnejad (2012)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
 |Programmeren||interactieve storytelling|
@@ -70,6 +72,7 @@ Men kan bv. datasets vinden op het world wide web, maar om uit die data conclusi
 Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
 
 **Grover & Pea (2017)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Evalueren en debuggen||in tekst typfouten en grammaticale fouten detecteren en verbeteren|
@@ -79,6 +82,7 @@ Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met 
 |Logica||logische uitdrukkingen in een real-world context|
 
 **Lu & Fletcher (2009)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Decompositie|autoassemblagelijn (fordisme)||
@@ -87,6 +91,7 @@ Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met 
 |Optimalisatie|reisbrochure maken die route optimaliseert naar afstand, tijd, prijs ...||
 
 **Berry (2021)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Decompositie||plan opstellen voor een verhaal in een taalles|
@@ -95,11 +100,13 @@ Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met 
 Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analogieën van concepten van computationeel denken. Het is pas wanneer men deze benaderingen omzet naar een digitale toepassingen dat het echt computationeel denken wordt. 
 
 **Cansu & Fatih (2019)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Abstractie|Geschiedenislessen zijn abstracties van wat er in een bepaalde periode gebeurd is||
 
 **Yadav et al. (2017)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Patroonherkenning||zinsontleding, woordsoort|
@@ -107,6 +114,7 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Algoritme||instructies neerschrijven|
 
 **Lee & Malyn-Smith (2019)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Patroonherkenning en abstractie||letterpatronen in woorden|
@@ -116,6 +124,7 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Algoritme||auteursherkenning a.d.h.v. woordlengte|
 
 **Perkovic et al. (2010)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Abstractie en algoritme||origami|
@@ -130,6 +139,7 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Automatisatie|animatiefilm bv. stop-motion||
 
 **Goldberg et al. (2012)**
+
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Programmeren||Lilypad (e-textiel)|
