@@ -129,5 +129,11 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Automatisatie|Online shop in kader van theam 'Internet, handel en maatschappij'||
 |Automatisatie|animatiefilm bv. stop-motion||
 
-
-
+**Goldberg et al. (2012)**
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Programmeren||Lilypad (e-textiel)|
+|Artefact en vector graphics||Illustrator en 3D-printen|
+|Abstractie|netwerken (verspreiden van roddels, ziektes ...)||
+|Algoritme|werking van zoekmachines|werking van zoekmachines|
+|Data analyseren|burgerzin (bv. haatgroepen)||
