@@ -35,7 +35,7 @@ Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogeli
 
 We geven hier een (niet exhaustief) overzicht.
 
-Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
+**Barr en Stephenson (2011)** benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
 
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
@@ -75,3 +75,31 @@ Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met 
 |Evalueren en debuggen||in tekst typfouten en grammaticale fouten detecteren en verbeteren|
 |Artefact||computationele (fysieke) artefact maken als uiting van creativiteit; microcontrollers; e-textiel; geleidende inkt|
 |Logica||logische uitdrukkingen in een real-world context|
+
+**Lu & Fletcher (2009)**
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Decompositie|autoassemblagelijn (fordisme)||
+|Volgorde||in het kader van begrijpend lezen gegeven zinnen in de juiste volgorde plaatsen|
+|Decompositie en recursie||zinsontleding in een diagram plaatsen|
+|Optimalisatie|reisbrochure maken die route optimaliseert naar afstand, tijd, prijs ...||
+
+**Berry (2021)**
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Decompositie||plan opstellen voor een verhaal in een taalles|
+|Herhaling||herhaling van ritme en tonen in muziekstuk|
+
+Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analogieën van concepten van computationeel denken. Het is pas wanneer men deze benaderingen omzet naar een digitale toepassingen dat het echt computationeel denken wordt. 
+
+**Cansu & Fatih (2019)**
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Abstractie|Geschiedenislessen zijn abstracties van wat er in een bepaalde periode gebeurd is||
+
+**Yadav et al. (2017)**
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Patroonherkenning||zinsontleding, woordsoort|
+|Abstractie||gebruik van metaforen|
+|Algoritme||instructies neerschrijven|
