@@ -114,3 +114,20 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Patroonherkenning||patronen in poëzie|
 |Abstractie|kenmerken van leerlingen, zoals oogkleur, haarstijl en lengte, om hen voor te stellen||
 |Algoritme||auteursherkenning a.d.h.v. woordlengte|
+
+**Perkovic et al. (2010)**
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Abstractie en algoritme||origami|
+|Algoritme|aanbevelingssystemen||
+|Data analyse|Verband tussen geweld in films en aggressie||
+|Decompositie, patronen en programmeren||muziek digitaal componeren|
+|Decompositie en abstractie||scenarioschrijven|
+|Decompositie en algoritme||game design, o.a. decor en spelregels|
+|Data verzamelen en analyseren||principes van Europese kunst|
+|Data voorstellen en interpreteren||ontstaan van de tweede wereldoorlog|
+|Automatisatie|Online shop in kader van theam 'Internet, handel en maatschappij'||
+|Automatisatie|animatiefilm bv. stop-motion||
+
+
+
