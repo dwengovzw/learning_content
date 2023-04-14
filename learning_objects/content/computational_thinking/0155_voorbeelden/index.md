@@ -155,3 +155,15 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Abstractie||bepaalde dansmove bestaat voor geoefende danser uit reeds gekende opeenvolging van danspassen|
 |Generalisatie||choreografie van een dans uitwerken|
 |Patroonherkenning||dansmoves herkennen in een choreografie van een dans|
+
+**Mishra & Yadav (2013)**
+
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Artefact||computerprogramma ontwikkelen dat muziek genereert (vereist computationeel denken en domeinkennis)|
+
+**Lee et al. (2011)**
+
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Abstractie||In game design zijn games geabstraheerd tot een verzameling scenes waarin karakters optreden|
