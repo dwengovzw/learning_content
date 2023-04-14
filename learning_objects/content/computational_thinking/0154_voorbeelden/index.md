@@ -35,7 +35,7 @@ Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogeli
 
 We geven hier een (niet exhaustief) overzicht.
 
-Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
+**Barr en Stephenson (2011)** benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
@@ -52,7 +52,8 @@ Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetens
 |Controlestructuren|controlestructuren gebruiken conditionals, lussen, recursie, enz.|wiskundige functies bestuderen vergeleken met functies in programmeren; iteratie gebruiken om vraagstukken op te lossen||
 |Parallelisatie|*threading*, *pipelining*, het verdelen van gegevens of taak op zo'n een manier om te worden verwerkt in parallel|stelsel van lineaire vergelijkingen oplossen; matrixvermenigvuldiging|data opkuisen|experimenten gelijktijdig uitvoeren met verschillende parameters|
 
-**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken. Taub 2014 Yevseyeva 2012**
+**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken.** <br>
+**Taub 2014 Yevseyeva 2012**
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
@@ -90,6 +91,11 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|------------|----------------------------|
 |Algoritme|doolhof doorlopen|||
+
+**Lu & Fletcher (2009)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|------------|----------------------------|
+|Data voorstellen||Computationele voor- en nadelen soort diagram||
 
 **Grover & Pea (2017)**
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
