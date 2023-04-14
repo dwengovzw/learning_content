@@ -41,3 +41,17 @@ Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van co
 |Decompositie|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|
 |Algoritme|recept|
 |Evalueren en debuggen|gerecht proeven|
+
+**Cansu et al. (2019)**
+|**CD**|**Dagdagelijkse toepassingen**|
+|---------------|------------------------|
+|Abstractie|gebruiken van een metroplan, bv. dat van London Underground|
+
+**Neutens (2022)**
+|**CD**|**Dagdagelijkse toepassingen**|
+|---------------|------------------------|
+|Decompositie|boodschappenlijst maken om boodschappen doen efficiënter te laten verlopen|
+|Patroonherkenning|gemeenschappelijke kenmerken identificeren van voorwerpen, zoals auto's|
+|Patroonherkenning|trend identificeren, zoals de toename van atmosferische CO<sub>2</sub>|
+|Patroonherkenning|tijdsitterval opmerken waarin verkeerslichten op een kruispunt veranderen van kleur|
+|Abstractie|bij voorwerpen in dozen steken enkel rekening houden met de afmetingen van het voorwerp, en niet met het eigenlijke voorwerp|
