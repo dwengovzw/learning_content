@@ -110,4 +110,28 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 |Decompositie|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|gemiddelde berekenen van de klas voor een examen (wat is er nodig)||
 |Artefact|programmeren en simuleren gevolgd door fysieke artefact; programmeren van een app bruikbaar door anderen|||
 
+**Berry (2021a) en (2021b)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|-----------|----------------------------|
+|Abstractie|||verschillende niveaus van abstractie van aardrijkskundige kaarten| 
+|Decompositie|technische opdracht verdelen in subtaken||| 
+|Programmeren|nadenken over sequentie, iteratie, selectie, variabelen, invoer en uitvoer||| 
 
+**Cansu et al. (2019)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|-----------|----------------------------|
+|Abstractie||Om een 'vraagstuk' op te lossen, moeten leerlingen relevante zaken van niet-relevante van elkaar onderscheiden en komen tot een op te lossen vergelijking|abstractie van aardrijkskundige kaarten| 
+|Patroonherkenning en generalisatie|subprogramma (functie)||| 
+
+**Mishra & Yadav (2013)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|-----------|----------------------------|
+|Parameters|experimenteren met de parameters in een logo om nieuwe logo's te creëren|parameters in een logo identificeren|| 
+
+**Lee et al. (2011)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|-----------|----------------------------|
+|Abstractie en automatisering|ontwerpen en programmeren van webpagina's en smartphone-apps||| 
+|Modelleren en simuleren, en abstractie|Selecteren van de kenmerken die opgenomen worden in een model|||
+|Abstractie|Robot ontwerpen die aan bepaalde criteria moet beantoowrden|||
+|Automatiseren|Programma verwerkt invoer van de sensoren op een robot|||
