@@ -147,3 +147,11 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Abstractie|netwerken (verspreiden van roddels, ziektes ...)||
 |Algoritme|werking van zoekmachines|werking van zoekmachines|
 |Data analyseren|burgerzin (bv. haatgroepen)||
+
+**Neutens (2022)**
+
+|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
+|---------------|------------------------|---------------------------|
+|Abstractie||bepaalde dansmove bestaat voor geoefende danser uit reeds gekende opeenvolging van danspassen|
+|Generalisatie||choreografie van een dans uitwerken|
+|Patroonherkenning||dansmoves herkennen in een choreografie van een dans|
