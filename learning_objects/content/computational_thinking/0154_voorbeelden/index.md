@@ -96,6 +96,9 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|------------|----------------------------|
 |Data voorstellen||Computationele voor- en nadelen soort diagram||
+|Iteratie||Vermenigvuldiging als iteratieve optelling||
+|Abstractie||Vergelijking||
+|Algoritme||Algoritme voor het trekken van een vierkantswortel||
 
 **Grover & Pea (2017)**
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
