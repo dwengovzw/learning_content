@@ -294,4 +294,12 @@ De bevers hebben een klein bedrijfje dat gepersonaliseerde wenskaarten en gesche
 
 *Welke van de volgende modellen werd niet door dit bedrijfje ontworpen?*
 
-![Toevalsprenten](embed/bebrastoevalsprent.png "Bebras Toevalsprent")
+![Toevalsprenten](embed/bebrasabstractie2.png "Bebras Toevalsprent")
+
+##### Oplossing
+
+...
+
+##### Bespreking
+
+...
