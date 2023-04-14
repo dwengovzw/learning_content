@@ -272,3 +272,26 @@ Om tot een oplossing te komen, voer je een **bijkomende abstractie** in door de 
 Abstractie kan dus op twee verschillende manieren voorkomen in computationeel denken:
 - een gegeven abstractie correct kunnen interpreteren;
 - zelf tot een abstractie komen om een probleem gemakkelijker op te lossen.
+
+
+## Voorbeeld 7:  Decompositie en abstractie
+Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
+Tekst: Kris Coolsaet, BE<br>
+Afbeeldingen: Kris Coolsaet, BE 
+
+#### Toevalsprenten (Bebras ...)
+
+De bevers hebben een klein bedrijfje dat gepersonaliseerde wenskaarten en geschenkpapier ontwerpt. De verschillende modellen worden gemaakt aan de hand van de volgende instructies:
+
+1. Maak een cirkel C aan van een willekeurige kleur.
+2. Herhaal de volgende stappen een willekeurig aantal keer.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1. Maak een vierkant V aan van een willekeurige kleur en grootte.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2. Kies een willekeurige grootte voor C: ofwel *klein*, ofwel *groot*.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3. Druk C af, ergens op een willekeurige plaats.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4. Druk V af, ergens op een willekeurige plaats.<br>
+
+(Ter informatie: een vorm aanmaken betekent dat de vorm in het computergeheugen wordt aangemaakt, maar niet dat hij ook op papier wordt afgedrukt of getekend.)
+
+*Welke van de volgende modellen werd niet door dit bedrijfje ontworpen?*
+
+![Toevalsprenten](embed/bebrastoevalsprent.png "Bebras Toevalsprent")
