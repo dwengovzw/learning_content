@@ -129,7 +129,7 @@ Mogelijke toepassingen zijn:
 
 Een tussenweg waarvan er hier (nog) geen voorbeeld is:  
 - een (algemeen) gekend algoritme toepassen om een probleem op te lossen.<br>
-Voorbeelden van dit laatste zijn: weten hoe je geld moet teruggeven om zo weinig mogelijk briefjes en munten te gebruiken, een lineaire
+Bij deze tussenweg is een vorm van patroonherkenning nodig. Voorbeelden ervan zijn: weten hoe je geld moet teruggeven om zo weinig mogelijk briefjes en munten te gebruiken, een lineaire
 vergelijking met één variabele kunnen oplossen ...
 
 ## Voorbeeld 3:  Patroon herkennen
