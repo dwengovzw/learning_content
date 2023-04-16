@@ -53,5 +53,10 @@ Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van co
 |Decompositie|boodschappenlijst maken om boodschappen doen efficiënter te laten verlopen|
 |Patroonherkenning|gemeenschappelijke kenmerken identificeren van voorwerpen, zoals auto's|
 |Patroonherkenning|trend identificeren, zoals de toename van atmosferische CO<sub>2</sub>|
-|Patroonherkenning|tijdsitterval opmerken waarin verkeerslichten op een kruispunt veranderen van kleur|
+|Patroonherkenning|tijdsinterval opmerken waarin verkeerslichten op een kruispunt veranderen van kleur|
 |Abstractie|bij voorwerpen in dozen steken enkel rekening houden met de afmetingen van het voorwerp, en niet met het eigenlijke voorwerp|
+
+**Yadav et al. (2016)**
+|**CD**|**Dagdagelijkse toepassingen**|
+|---------------|------------------------|
+|Algoritme|recept volgen, instructies volgen om van punt A naar punt B te geraken|
