@@ -39,11 +39,11 @@ teacher_exclusive: true
 |Patroonherkenning|||||sentimentanalyse vs. cyberpestdetectie|
 |Patroonherkenning, abstractie|||||auteursherkenning, profilering, HR|
 |Abstractie|Emotiemachine in het project 'Sociale robot'|||Emotiemachine in het project 'Sociale robot'||
-|Abstractie|||||ChatGPT (vectoren i.p.v. zinnen)|
+|Abstractie||trendlijn, grafiek in Python (herleid tot enkele lijnstukken)|||ChatGPT (vectoren i.p.v. zinnen)|
 |Decompositie, abstractie, algoritme, patroonherkenning||||'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'||
 |Decompositie, abstractie, algoritme, patroonherkenning|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'|||||
-|Data verzamelen|datastructuren||||veelvorrkomende datastructuren in taaltechnologie (in het project 'Chatbot')|
-|Data voorstellen||data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat||||
+|Data verzamelen|datastructuren||||veel voorkomende datastructuren in taaltechnologie (in het project 'Chatbot')|
+|Data voorstellen||spreidingsdiagram en trendlijn|data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat|||
 |Simuleren|||iMuSciCa workbench; verschillende scenario's binnen dwenguino simulator||iMuSciCa workbench; verschillende scenario's binnen dwenguino simulator|
 |Data voorverwerken|gegevens CO2 samenbrengen in leerpad Klimaat; gegevens opkuisen in project AI in de Zorg; gegevens numeriek maken in project AI in de Zorg; gegevens filteren in notebook NMBS; herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen|||||
 |Inzicht in tools||||begrijpen waarom beslissingsboom soms wordt verkozen boven een diep neuraal netwerk (zie project AI in de Zorg)||
