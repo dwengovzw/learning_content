@@ -135,3 +135,14 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 |Modelleren en simuleren, en abstractie|Selecteren van de kenmerken die opgenomen worden in een model|||
 |Abstractie|Robot ontwerpen die aan bepaalde criteria moet beantoowrden|||
 |Automatiseren|Programma verwerkt invoer van de sensoren op een robot|||
+
+**Yadav et al. (2016)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|-----------|----------------------------|
+|Data analyseren|||internationale datsets van broeikasgasuitstoot vergelijken naar hoeveelheid, land, economische sector ...| 
+|Abstractie, modelleren||model van ons zonnestelsel maken|
+|Abstractie, simuleren||simuleren hoe bevolking regaeert op een ziekte-uitbraak|
+|Automatisatie, modeleren en simuleren||simuleren a.d.h.v. Netlogo om patronen op te sporen biologische, aardrijkundige, fysische, chemische ... processen|
+
+
+
