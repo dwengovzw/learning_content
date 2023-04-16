@@ -105,13 +105,16 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |---------------|------------------------|---------------------------|
 |Abstractie|Geschiedenislessen zijn abstracties van wat er in een bepaalde periode gebeurd is||
 
-**Yadav et al. (2017)**
+**Yadav et al. (2016), Yadav et al. (2017)**
 
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|---------------------------|
 |Patroonherkenning||zinsontleding, woordsoort|
 |Abstractie||gebruik van metaforen|
-|Algoritme||instructies neerschrijven|
+|Algoritme||instructies neerschrijven, recept volgen in een vreemde taal|
+|Decompositie||'tanden poetsen' opbreken in deeltaken|
+|Data verzamelen|Bekijken wat meest gebruikte woorden zijn in *inaugural speeches* van presidenten van 1789 tot 2009||
+|Data analyseren|*inaugural speeches* vergelijken, bv. verschillen omschrijven tsuuen democratische en republikeinse presidenten, of tussen periodes||
 
 **Lee & Malyn-Smith (2019)**
 
