@@ -115,6 +115,7 @@ Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analog
 |Decompositie||'tanden poetsen' opbreken in deeltaken|
 |Data verzamelen|Bekijken wat meest gebruikte woorden zijn in *inaugural speeches* van presidenten van 1789 tot 2009||
 |Data analyseren|*inaugural speeches* vergelijken, bv. verschillen omschrijven tsuuen democratische en republikeinse presidenten, of tussen periodes||
+|Automatisatie, modeleren en simuleren|simuleren a.d.h.v. Netlogo om patronen op te sporen in sociale processen, bv. patroon van segregatie bij onderzoek naar de voorkeur van mensen om in de nabijheid van mensen vergelijkbaar met henzelf te gaan wonen||
 
 **Lee & Malyn-Smith (2019)**
 
