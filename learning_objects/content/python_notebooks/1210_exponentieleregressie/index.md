@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 # Epidemie
-Binnenkort beschikbaar 
+Hier visualiseer je data verzameld toen COVID-19 aan een steile opmars bezig was. Je gaat op zoek naar een kromme die de trend in deze data weerspiegelt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1210 "Notebooks epidemie")
 <figure>
