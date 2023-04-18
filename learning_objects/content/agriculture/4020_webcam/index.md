@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Met de Webcam
+# Met de webcam
 In een eerste notebook ga je aan de slag met een camera, bv. je webcam, en YOLO.<br>
 De tweede notebook leert je begrijpen wat mogelijke beperkingen zijn van een objectdetectiesysteeem. <br>
 In de derde notebook maak je kennis met technieken om je dataset uit te breiden. 
