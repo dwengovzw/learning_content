@@ -29,10 +29,9 @@ skos_concepts: [
 ]
 ---
 # Temperatuur
-Binnenkort beschikbaar 
+Hier visualiseer je data van de gemiddelde temperatuur gemeten in Ukkel in een bepaalde periode. Je gaat op zoek naar een kromme die past bij deze data.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0352 "Notebooks temperatuur")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>
-
