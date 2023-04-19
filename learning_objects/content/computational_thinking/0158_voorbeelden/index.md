@@ -2,9 +2,9 @@
 hruid: ct_voorbeelden8
 version: 3
 language: nl
-title: "T"
-description: "T"
-keywords: [""]
+title: "Schema concepten CD"
+description: "Schema concepten CD"
+keywords: ["basisconcepten"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,4 +29,6 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+We stellen een schema voor dat aan leerkrachten een houvast biedt bij de voorbereiding van hun lessen rond concepten van computationeel denken.
+
+In het leerpad 'Cases' vind je heel wat voorbeelden uitgewerkt met dit schema. 
