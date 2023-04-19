@@ -126,7 +126,7 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 **Mishra & Yadav (2013)**
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
-|Parameters|experimenteren met de parameters in een logo om nieuwe logo's te creëren|parameters in een logo identificeren|| 
+|Parameters|experimenteren met de parameters in een logo om nieuwe logo's te creëren|parameters in een logo identificeren||
 
 **Lee et al. (2011)**
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
@@ -143,6 +143,19 @@ Leerlingen leren dat alles als een systeem kan bekeken worden.
 |Abstractie, modelleren||model van ons zonnestelsel maken|
 |Abstractie, simuleren||simuleren hoe bevolking regaeert op een ziekte-uitbraak|
 |Automatisatie, modeleren en simuleren||simuleren a.d.h.v. Netlogo om patronen op te sporen biologische, aardrijkundige, fysische, chemische ... processen|
+
+**Lee & Malyn-Smith (2019)**
+|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|---------------|------------------------|-----------|----------------------------|
+|Algoritme|10 000 items sorteren|werken met grote hoeveelheden data|voorbeelden geven van systemen die veel rekenkracht vergen, zoals weermodellen|
+|Algoritme|robot die een pad volgt||robot volgt een pad dat de metamorfose van rups tot vlinder weergeeft in de juiste volgorde|
+|Algoritme||flowchart maken in een les over delers en veelvouden|wetenschappeleijke redenering verwoorden m.b.v. als-dan constructie, bv. om een hypothese te evalueren|
+|Decompositie|uitzoeken hoe een bestaand Legobouwsel geconstrueerd werd||uitzoeken hoe een simulatietoepassing werkt|
+|Abstractie|RGB als abstractie van het aantal kleuren dat mensen kunnen waarenemen|keuze paramaeters die meegenomen worden in een wiskundig model|leerlingen maken een schema van een gegeven elektronische opstelling en andere leerlingen construeren de opstelling opnieuw a.d.h.v. het schema|
+|Abstractie|representatie opmaken die kan geprogrammeerd worden||beslissingsboom voor classificatie opstellen; algebraïsche functie schrijven voor een proces|
+|Programmeren|toestel ontwerpen en bouwen om paperclips te tellen|geld wisselen; bewegen op een getallenlijn (bv. in Scratch)||
+|Data|data verzamelen (via dataloggers, via world wide web, via simulaties) en opkuisen|kansverdeling simuleren|data verzamelen (via dataloggers, via world wide web, via simulaties), opkuisen, monitoren en analyseren; meedoen aan een citizen science project|
+|Automatisatie|bespreken welke dagdagelijkse processen er (deels) geautomatiseerd kunnen worden en welke niet|stelsels vergelijkingen laten oplossen door de computer|simulaties gebruiken, bv. betreffende de dynamiek in een ecosysteem|
 
 
 
