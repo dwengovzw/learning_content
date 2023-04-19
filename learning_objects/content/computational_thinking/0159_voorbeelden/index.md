@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden9
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Voorbeeld literatuur schema"
+description: "PRADA"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+Voorbeeld uit de literatuur: PRADA
