@@ -15,6 +15,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "pn_lr_praktisch",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pn_lr_praktisch",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "pn_kwadratischeregressie",
             "version": "3",
             "language": "nl"
@@ -54,6 +69,21 @@
     },
     {
       "learningobject_hruid": "pn_sinusregressie",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pn_boylemariotte",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pn_boylemariotte",
       "version": "3",
       "language": "nl"
     } 
