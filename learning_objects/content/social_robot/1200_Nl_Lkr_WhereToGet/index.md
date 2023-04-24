@@ -49,4 +49,4 @@ Voor scholen uit de [provincie Oost-Vlaanderen](https://oost-vlaanderen.be/leren
 
 Scholen van het [Provinciaal Onderwijs Vlaanderen](https://povsites.be/stem/voorbereiding-project-sociale-robot/) kunnen terecht bij hun [pedagogische begeleidingsdienst](https://povsites.be/stem/voorbereiding-project-sociale-robot/#kits-en-lesfiches).
 
-De [cel iSTEM inkleuren](https://istem.be/) heeft ook enkele sets om uit te lenen. Contacteer de cel via <a href="mailto:contact(at)istem.be">mail</a>. 
+De [cel iSTEM inkleuren](https://istem.be/) heeft ook enkele sets om uit te lenen. Contacteer de cel via <a href="mailto:contact@istem.be">mail</a>. 
