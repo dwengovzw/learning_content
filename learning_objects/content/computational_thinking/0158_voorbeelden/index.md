@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Schema concepten CD"
 description: "Schema concepten CD"
-keywords: [""]
+keywords: ["basisconcepten"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
