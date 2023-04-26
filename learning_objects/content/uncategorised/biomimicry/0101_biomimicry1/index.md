@@ -2,7 +2,7 @@
 hruid: un_biomimicry1
 version: 3
 language: nl
-title: "Biomimicry"
+title: "Criteria"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
