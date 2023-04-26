@@ -76,6 +76,18 @@ We bekijken enkele ortheses die nu op de markt zijn:
 
 
 De eigenschappen van deze enkel-voet-ortheses kan je vinden in onderstaande tabel: 
+
+
+| **** | **Malleloc-L** | **ROM Walker** | **M.Step** | **Stabili-tri** | **EXO-L** | **B2-foot** |
+|---------------------------|:---:|
+| **Stabilisatie letsel** | Graad 1 | Graad 2-3 | Graad 2 (3 op einde revalidatie na eerdere behandeling | Graad 2 (3 op einde revalidatie na eerdere behandeling | Graad 1: preventie | Graad 2-3 |
+| **Prijs (euro)** | 85 | 253.8 | 80 | 184.95 | 169 | 100 | 
+| **Materiaal**| PU en polyester | Aluminium, PU en katoen | PU en polyester | PA, polyester en elastaan | PP en katoen & Polypropyleen |
+| **Instelbaarheid & compatibiliteit** | | | | | | 
+| **Op maat van de patiënt** | 1 universele maat | | | | | |
+
+
+
 <div class="divTable" style="border: 1px solid #000;">
 <div class="divTableBody">
 <div class="divTableRow">
