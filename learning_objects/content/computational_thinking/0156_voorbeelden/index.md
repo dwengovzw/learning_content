@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden6
 version: 3
 language: nl
-title: "Extra voorbeelden"
-description: "Extra voorbeelden"
+title: "Over CD en STEM"
+description: "Over CD en STEM"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
