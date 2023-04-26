@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden4
 version: 3
 language: nl
-title: "Voorbeelden uit de literatuur"
-description: "Voorbeelden uit de literatuur"
+title: "Literatuur over CD en wetenschappen"
+description: "Literatuur over CD en wetenschappen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
