@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 **Eigen voorbeelden**
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
+|**CD**|**Computer- wetenschappen**|**Wiskunde**|**Natuur- wetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|-----|-------|----------------------------|------------|
 |Decompositie, abstractie, algoritme|||||sentimentanalyse (score i.p.v. sentiment)|
 |Patroonherkenning|||||sentimentanalyse vs. cyberpestdetectie|
