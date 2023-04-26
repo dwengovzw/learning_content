@@ -30,34 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Biomimicry
-
-## Subtitel
-
-Tekst
-
-![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
-
-![](embed/dwengo.png "afbeelding")
-
-[link](embed/dwenguino_elektrischschema.pdf "pdf")
-
-**bold** __bold__
-*italic* _italic_
-
-> weetjes
-
-<div class="alert alert-box alert-success">
-Samenvatting (groen kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
-<div class="alert alert-box alert-danger">
-Let op (rood kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
-
 # Inleiding en probleemstelling
 
 Een letsel oplopen kan soms snel gebeuren. Een arm of been dat breekt of een verzwikte enkel, het is een vrij alledaags gegeven op spoeddiensten. Elk soort letsel vereist een specifieke behandeling, maar vaak wordt het letsel opgelost met een spalk of gips. Wat geen flexibiliteit biedt aan de ledematen van de persoon. Dit verlengt de revalidatietijd met 25% voor patiënten. Toch is die stevigheid nodig om de regio rond het letsel te stabiliseren. Idealiter hebben de andere zones rondom het letsel voldoende bewegingsvrijheid, waardoor flexibiliteit nodig is. Tegenwoordig zijn er meer en meer verschillende soorten ‘ortheses’ die hiermee rekening proberen houden. Ortheses is een verzamelnaam voor een extern gedragen correctiemiddel. De nieuwe ortheses noemen we intelligente ortheses, deze proberen om meerdere eigenschappen te combineren in meerdere zones rond het letsel. 
