@@ -36,12 +36,12 @@ teacher_exclusive: true
 |**CD**|**Computer- wetenschappen**|**Wiskunde**|**Natuur- wetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|-----|-------|----------------------------|------------|
 |Decompositie, abstractie, algoritme|||||sentimentanalyse (score i.p.v. sentiment)|
-|Patroonherkenning|||||sentimentanalyse vs. cyberpestdetectie|
-|Patroonherkenning, abstractie|||||auteursherkenning, profilering, HR|
+|Patroon- herkenning|||||sentimentanalyse vs. cyberpestdetectie|
+|Patroon- herkenning, abstractie|||||auteursherkenning, profilering, HR|
 |Abstractie|Emotiemachine in het project 'Sociale robot'|||Emotiemachine in het project 'Sociale robot'||
 |Abstractie||trendlijn, grafiek in Python (herleid tot enkele lijnstukken)|||ChatGPT (vectoren i.p.v. zinnen)|
-|Decompositie, abstractie, algoritme, patroonherkenning||||'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'||
-|Decompositie, abstractie, algoritme, patroonherkenning|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'|||||
+|Decompositie, abstractie, algoritme, patroon- herkenning||||'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'||
+|Decompositie, abstractie, algoritme, patroon- herkenning|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'|||||
 |Data verzamelen|datastructuren||||veel voorkomende datastructuren in taaltechnologie (in het project 'Chatbot')|
 |Data voorstellen||spreidingsdiagram en trendlijn|data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat|||
 |Simuleren|||iMuSciCa workbench; verschillende scenario's binnen dwenguino simulator||iMuSciCa workbench; verschillende scenario's binnen dwenguino simulator|
