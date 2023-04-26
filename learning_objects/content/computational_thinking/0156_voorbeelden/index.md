@@ -47,4 +47,4 @@ teacher_exclusive: true
 |Simuleren|||iMuSciCa workbench; verschillende scenario's binnen dwenguino simulator||iMuSciCa workbench; verschillende scenario's binnen dwenguino simulator|
 |Data voorverwerken|gegevens CO2 samenbrengen in leerpad Klimaat; gegevens opkuisen in project AI in de Zorg; gegevens numeriek maken in project AI in de Zorg; gegevens filteren in notebook NMBS; herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen|||||
 |Inzicht in tools||||begrijpen waarom beslissingsboom soms wordt verkozen boven een diep neuraal netwerk (zie project AI in de Zorg)||
-|Abstractie|werking routeplanner; algoritme van Dijkstra; vingerafdrukken matchen|grafen||
+|Abstractie|werking routeplanner; algoritme van Dijkstra; vingerafdrukken matchen|grafen||||
