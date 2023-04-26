@@ -2,8 +2,8 @@
 hruid: cb_chatbot6
 version: 3
 language: nl
-title: "Chatbot inzetten in de klas"
-description: "Chatbot inzetten in de klas"
+title: "Chatbot in de klas"
+description: "Chatbot in de klas"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,7 +32,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# In de klas
+# Chatbot inzetten in de klas
 
 Op het world wide web zijn tal van tips te vinden voor het didactisch aanwenden van ChatGPT in de klas. Hier zal je geen lange lijst vinden met de herhaling van wat al her en der  te lezen valt.
 
