@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden5
 version: 3
 language: nl
-title: "Voorbeelden literatuur Talen en Kunst"
-description: "Voorbeelden literatuur Talen en Kunst"
+title: "Literatuur over CD en Talen en Kunst"
+description: "Literatuur over CD en Talen en Kunst"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
