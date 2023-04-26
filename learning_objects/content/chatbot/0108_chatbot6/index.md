@@ -2,8 +2,8 @@
 hruid: cb_chatbot6
 version: 3
 language: nl
-title: "In de klas"
-description: "In de klas"
+title: "Chatbot inzetten in de klas"
+description: "Chatbot inzetten in de klas"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
