@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden9
 version: 3
 language: nl
-title: "Voorbeeld literatuur schema"
-description: "PRADA"
+title: "Soortgelijk schema uit literatuur"
+description: "Soortgelijk schema uit literatuur"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
