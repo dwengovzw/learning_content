@@ -76,3 +76,6 @@ Voorbeeld:<br>
 ![image](https://user-images.githubusercontent.com/48352335/218336427-bc8cfc21-bb17-4da7-9816-116f70d0a507.png)
 
 Enkele leerlingen formuleren elk voor zich of ze al dan niet akkoord gaan met de stelling en waarom. De leerlingen vragen erna (individueel) aan ChatGPT wat de voor- en nadelen zijn van het zich laten wassen door een robot. Elke leerling reflecteert over de aspecten die ChatGPT heeft aangehaald. De leerling bedenkt argumenten en voorbeelden om te beamen of te weerleggen wat ChatGPT aanhaalt. Nadien volgt in de klas een discussie binnen deze groep leerlingen waarbij ze elkaar proberen te overtuigen van hun eigen standpunt. Omdat ChatGPT hen reeds confronteerde met elementen waar ze misschien zelf niet aan hadden gedacht, zijn ze beter voorbereid op deze discussie.  
+
+**********************
+Zie ook het menu-onderdeel 'In de klas'.
