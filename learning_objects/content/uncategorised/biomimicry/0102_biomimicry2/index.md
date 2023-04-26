@@ -30,32 +30,14 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Biomimicry
-
-## Subtitel
-
-Tekst
-
-![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
-
-![](embed/dwengo.png "afbeelding")
-
-[link](embed/dwenguino_elektrischschema.pdf "pdf")
-
-**bold** __bold__
-*italic* _italic_
-
-> weetjes
-
-<div class="alert alert-box alert-success">
-Samenvatting (groen kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
-<div class="alert alert-box alert-danger">
-Let op (rood kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
+| Patiëntnummer | Pijn in de borststreek | Man | Rookt | Voldoende lichaamsbeweging | Hartaanval |
+|---------------|------------------------|-----|-------|----------------------------|------------|
+| 1             | ja                     | ja  | nee   | ja                         | ja         |
+| 2             | ja                     | ja  | ja    | nee                        | jq         |
+| 3             | nee                    | nee | ja    | nee                        | ja         |
+| 4             | nee                    | ja  | nee   | ja                         | nee        |
+| 5             | ja                     | nee | ja    | ja                         | ja         |
+| 6             | nee                    | ja  | ja    | ja                         | nee        |
 
 # Enkel-voet-ortheses
 Vandaag de dag zijn er al een heel aantal ortheses op de markt, die proberen om aan zoveel mogelijk criteria te voldoen. De ene orthese houdt al wat meer rekening met eerder genoemde criteria dan de andere. 
