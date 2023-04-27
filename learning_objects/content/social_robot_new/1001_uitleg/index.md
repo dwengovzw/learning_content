@@ -41,5 +41,5 @@ In dit project, gebruik je de **Dwenguino**. Dat is een microcontroller-platform
 
 > Discussie<br>Is een stofzuigerrobot een sociale robot?
 
-![© Knightscope](embed/stofzuiger.png "© Knightscope")
+![© Jens Mahnke via Pexels](embed/stofzuiger.png "© Jens Mahnke via Pexels")
 <sub>© Jens Mahnke via Pexels</sub>
