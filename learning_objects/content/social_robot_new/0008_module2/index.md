@@ -35,7 +35,7 @@ teacher_exclusive: true
 # Lesverloop
 ## Module 2: Brainstorm, programmeren en selectie materiaal (± 3 lesuren)
 
-*Onderstaande link brengt je naar module 2 van Sociale Robot* 
+*Onderstaande link brengt je naar module 2 van Sociale Robot* <br>
 [Module 2: Brainstorm en programmeren](https://www.dwengo.org/socialerobot2 "Module 2")  
 
 **Lesfase A - Inleiding les**
