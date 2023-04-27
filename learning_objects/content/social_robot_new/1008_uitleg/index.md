@@ -1,5 +1,5 @@
 ---
-hruid: sr_uitleg7
+hruid: sr1_uitleg6
 version: 3
 language: nl
 title: "Sociale robots in de toekomst"
@@ -44,21 +44,15 @@ Hierover bestaan nog veel vraagtekens! Dromen over een toekomst met robots is al
 
 In de zorgsector evolueert men naar robots die niet enkel gezelschap bieden, maar ook de gezondheid van de mensen in de gaten houden.  
 
-
-*Discussie:*
-*Zou jij liever een injectie krijgen van een robot of van een verpleegkundige?*  
-
+> Discussie<br>Zou jij liever een injectie krijgen van een robot of van een verpleegkundige?
 
 Voor het onderwijs zet men in op robots die meer actieve taken kunnen opnemen, bijvoorbeeld in het onderwijzen van een vreemde taal.
 
 Men voorziet dat onze huizen meer en meer zullen evolueren naar slimme woningen, waarbij dagelijkse taken geautomatiseerd zijn en ook de meubelen slim zijn.
 
-Men experimenteert ook met sociale vuilnisbakrobots, zoals de Sociable Trash box, die mensen benadert en hen motiveert om hun afval in de vuilnisbak te gooien.  
+Men experimenteert ook met sociale vuilnisbakrobots, zoals de *Sociable Trash box*, die mensen benadert en hen motiveert om hun afval in de vuilnisbak te gooien.  
 
-
-*Discussie:*
-*Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?*  
-
+> Discussie<br>Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?
 
 ![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
 <sub>Onthaalrobot Pepper (© Lukas via Unsplash)</sub>
