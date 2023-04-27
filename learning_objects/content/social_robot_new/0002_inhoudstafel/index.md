@@ -36,10 +36,17 @@ teacher_exclusive: true
 # Inhoudstafel
 
 [**Overzicht**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true#sr0_lkr_overzicht;nl;3)
+
 [**Eindtermen**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true#sr0_lkr_eindtermen;nl;3)
+
 [**Materiaal**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true#sr0_lkr_materiaal;nl;3)
+
 [**Module 0**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true#sr0_lkr_module0;nl;3)
+
 [**Module 1**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true#sr0_lkr_module1;nl;3)
+
 [**Module 2**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true#sr0_lkr_module2;nl;3)
+
 [**Module 3**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true#sr0_lkr_module3;nl;3)
+
 [**Module 4**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true#sr0_lkr_module4;nl;3)
