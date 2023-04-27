@@ -55,4 +55,4 @@ Men experimenteert ook met sociale vuilnisbakrobots, zoals de *Sociable Trash bo
 > Discussie<br>Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?
 
 ![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
-<sub>Onthaalrobot Pepper (© Lukas via Unsplash)</sub>
+<sub>Onthaalrobot Pepper - © Lukas via Unsplash</sub>
