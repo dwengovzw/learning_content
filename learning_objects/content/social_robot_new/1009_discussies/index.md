@@ -1,5 +1,5 @@
 ---
-hruid: sr_discussies
+hruid: sr1_discussies
 version: 3
 language: nl
 title: "Discussies"
@@ -38,9 +38,9 @@ Indien je niet teveel randinformatie wilt geven, maar wel enkele discussies wilt
 
 ## Discussies
 
-*Is een sociale robot goed gezelschap voor een eenzame bejaarde?*  
-
 *Is een stofzuigerrobot een sociale robot?*  
+
+*Is een sociale robot goed gezelschap voor een eenzame bejaarde?*  
 
 *Is het oké dat kinderen en bejaarden hun volledige leven vertellen aan een sociale robot die dit kan opslaan?*  
 

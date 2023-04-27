@@ -1,5 +1,5 @@
 ---
-hruid: sr_uitleg1
+hruid: sr1_uitleg1
 version: 3
 language: nl
 title: "Digitale systemen"
@@ -34,18 +34,12 @@ teacher_exclusive: false
 # Wat zijn sociale robots?
 ## Digitale systemen
 
-*Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een stofzuigerrobot, een wasmachine een elektrische tandenborstel of een wekkerradio.*
+*Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een stofzuigerrobot, een wasmachine, een elektrische tandenborstel of een wekkerradio.*
 
-Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een *microcontroller*. Ze beschikken over in- en uitgangen.  
-De microcontroller krijgt gegevens van de ingangen (input). Hij verwerkt de gegevens, voert berekeningen uit en stuurt vervolgens de digitale apparaten aan (output).  
-In dit project, gebruik je de **dwenguino**. Dat is een microcontroller waarmee je snel en gemakkelijk je eigen apparaat kan bouwen.
+Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een **microcontroller**. Digitale systemen beschikken over ingangen en uitgangen. De microcontroller krijgt gegevens van de ingangen (**input**). Hij **verwerkt** de gegevens, voert berekeningen uit en stuurt vervolgens de digitale apparaten aan (**output**).  
+In dit project, gebruik je de **Dwenguino**. Dat is een microcontroller-platform waarmee je snel en gemakkelijk je eigen apparaat kan bouwen.
 
-*Discussie*  
-*Bekijk onderstaande afbeelding.* 
-*Welk dier stelt Paro voor?* 
-*Waarvoor zou Paro al deze apparatuur gebruiken?*
+> Discussie<br>Is een stofzuigerrobot een sociale robot?
 
-![](embed/paro.jpg "© Peter Häll")
-<sub>© Peter Häll</sub>
-
-![](embed/Paro2.png "Paro uitleg")
+![© Knightscope](embed/stofzuiger.png "© Knightscope")
+<sub>© Jens Mahnke via Pexels</sub>
