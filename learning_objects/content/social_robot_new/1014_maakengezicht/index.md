@@ -97,6 +97,6 @@ Bekijk zeker het volgende filmpje en maak de onderdelen van het gezicht op voorh
 <ul>
 <li>Indien je meer tijd hebt, kan je de groep zelf de verschillende delen van het gezicht laten maken a.d.h.v. de voorbereide vormen.</li>
 <li>Een andere mogelijkheid is om de groep extra onderdelen van het gezicht te laten ontwerpen, zoals een tong of gesloten ogen, om zo de gewenste emoties beter te kunnen uitbeelden.</li>
-<li<>De groep kan ook regels schrijven om het gezicht op andere dingen dan geluid te laten reageren. Zo zou je bijvoorbeeld twee gezichten kunnen hebben die elkaar aanstaren, waarbij het ene reageert op geluid, en het andere het eerste nadoet. Als het ene glimlacht, dan glimlacht het tweede ook.</li>
+<li>De groep kan ook regels schrijven om het gezicht op andere dingen dan geluid te laten reageren. Zo zou je bijvoorbeeld twee gezichten kunnen hebben die elkaar aanstaren, waarbij het ene reageert op geluid, en het andere het eerste nadoet. Als het ene glimlacht, dan glimlacht het tweede ook.</li>
 </ul>
 </div>
