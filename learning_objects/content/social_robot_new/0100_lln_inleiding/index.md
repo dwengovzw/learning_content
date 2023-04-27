@@ -36,7 +36,7 @@ teacher_exclusive: false
 
 *Welkom in het project 'Sociale Robot'! In dit project zal je aan de slag gaan om je eigen sociale robot te verwezenlijken!*
 
-**Maar... Hoe begin je eraan? Hoe maak je dat, zo'n *'Sociale Robot'*?**
+<strong>Maar... Hoe begin je eraan? Hoe maak je dat, zo'n *'Sociale Robot'*?</strong>
 
 Het bouwen van een sociale robot is geen eenvoudige taak, maar als we het probleem in kleinere deelproblemen opsplitsen, lijkt het al een stuk minder moeilijk.
 
