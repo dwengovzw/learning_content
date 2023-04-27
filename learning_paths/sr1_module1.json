@@ -135,7 +135,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "sr_lkr_hksrts",
+            "hruid": "sr1_ontwerpproces",
             "version": "3",
             "language": "nl"
           }
@@ -143,14 +143,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_lkr_hksrts",
+      "learningobject_hruid": "sr1_ontwerpproces",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_unpluggedinleiding",
+            "hruid": "sr1_unplugged_vb",
             "version": "3",
             "language": "nl"
           }
@@ -158,14 +158,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_unpluggedinleiding",
+      "learningobject_hruid": "sr1_unplugged_vb",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_unpluggedlln",
+            "hruid": "sr1_unplugged",
             "version": "3",
             "language": "nl"
           }
@@ -173,14 +173,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_unpluggedlln",
+      "learningobject_hruid": "sr1_unplugged",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_vbunplugged1",
+            "hruid": "sr1_maakeengezicht_vb",
             "version": "3",
             "language": "nl"
           }
@@ -188,14 +188,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_vbunplugged1",
+      "learningobject_hruid": "sr1_maakeengezicht_vb",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_unplugged1",
+            "hruid": "sr1_maakeengezicht",
             "version": "3",
             "language": "nl"
           }
@@ -203,14 +203,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_unplugged1",
+      "learningobject_hruid": "sr1_maakeengezicht",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_vbunplugged2",
+            "hruid": "sr1_emotiemachine_vb",
             "version": "3",
             "language": "nl"
           }
@@ -218,14 +218,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_vbunplugged2",
+      "learningobject_hruid": "sr1_emotiemachine_vb",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_unplugged2",
+            "hruid": "sr1_emotiemachine",
             "version": "3",
             "language": "nl"
           }
@@ -233,14 +233,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_unplugged2",
+      "learningobject_hruid": "sr1_emotiemachine",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_overzicht_robotonderdelen",
+            "hruid": "sr1_robotonderdelen_vb",
             "version": "3",
             "language": "nl"
           }
@@ -248,14 +248,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_overzicht_robotonderdelen",
+      "learningobject_hruid": "sr1_robotonderdelen_vb",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_overzicht_robotonderdelen2",
+            "hruid": "sr1_robotonderdelen",
             "version": "3",
             "language": "nl"
           }
@@ -263,14 +263,14 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_overzicht_robotonderdelen2",
+      "learningobject_hruid": "sr1_robotonderdelen",
       "version": "3",
       "language": "nl", 
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "sr_slot12",
+            "hruid": "sr1_slot",
             "version": "3",
             "language": "nl"
           }
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_slot12",
+      "learningobject_hruid": "sr1_slot",
       "version": "3",
       "language": "nl"
     } 
