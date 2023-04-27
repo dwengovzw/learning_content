@@ -37,5 +37,5 @@ teacher_exclusive: false
 # Lesverloop
 ## Module 1: Inleiding & context
 
-*Onderstaande link brengt je naar module 1 van Sociale Robot*<br>
+*Onderstaande link brengt je naar module 1 van 'Sociale Robot'*<br>
 [Module 1: Wat zijn sociale robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl "Module 1")  

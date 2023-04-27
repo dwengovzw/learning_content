@@ -34,5 +34,5 @@ teacher_exclusive: false
 # Lesverloop
 ## Module 3: Bouwen
 
-*Onderstaande link brengt je naar module 3 van Sociale Robot* <br>
+*Onderstaande link brengt je naar module 3 van 'Sociale Robot'* <br>
 [Module 3: Bouwen van de robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=nl "Module 3")  
