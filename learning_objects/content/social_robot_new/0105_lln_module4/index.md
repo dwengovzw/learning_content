@@ -34,4 +34,4 @@ teacher_exclusive: false
 ## Module 4: Creatieve opdracht
 
 *Onderstaande link brengt je naar module 4 van Sociale Robot* <br>
-[Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl "Module 4")  
+[Module 4: Creatieve opdracht](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl "Module 4")  

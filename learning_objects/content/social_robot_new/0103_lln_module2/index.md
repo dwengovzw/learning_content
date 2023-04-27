@@ -36,4 +36,4 @@ teacher_exclusive: false
 ## Module 2: Ontwerp & programmeren
 
 *Onderstaande link brengt je naar module 2 van Sociale Robot* <br>
-[Module 2: Brainstorm en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2&language=nl "Module 2")  
+[Module 2: Ontwerp en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2&language=nl "Module 2")  
