@@ -38,7 +38,7 @@ teacher_exclusive: true
 ## Module 1: Inleiding en computationeel denken unplugged (± 2 lesuren)
 
 *Onderstaande link brengt je naar module 1 van Sociale Robot*<br>
-[Module 1: Wat zijn sociale robots?](https://www.dwengo.org/learning-path.html?hruid=sr1_context&language=nl&te=true "Module 1")  
+[Module 1: Wat zijn sociale robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl&te=true "Module 1")  
 
 **Lesfase A - Wat zijn sociale robots?**
 

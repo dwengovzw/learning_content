@@ -35,7 +35,7 @@ teacher_exclusive: true
 ## Module 3: Constructie van de robot (± 3 lesuren)
 
 *Onderstaande link brengt je naar module 3 van Sociale Robot* <br>
-[Module 3: Bouwen van de robot](https://www.dwengo.org/socialerobot3 "Module 3")  
+[Module 3: Bouwen van de robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=nl&te=true "Module 3")  
 
 **Lesfase A - Verzamelen materiaal**
 * De leerlingen beginnen met de constructie van de fysieke robot. Hiervoor moeten ze eerst het materiaal dat ze nodig hebben, verzamelen. De leerlingen worden aangemoedigd om hierbij creatief uit de hoek te komen.

@@ -37,8 +37,8 @@ teacher_exclusive: true
 # Lesverloop
 ## Module 0: Projectoverzicht voor de leerlingen
 
-*Onderstaande link brengt je naar module 0 van Sociale Robot* 
-[**Module 0: De Sociale Robot**](https://www.dwengo.org/learning-path.html?hruid=sr0_lln_algemeen&language=nl&te=true "Module 0")  
+*Onderstaande link brengt je naar module 0 van Sociale Robot*<br>
+[**Module 0: De Sociale Robot**](https://www.dwengo.org/learning-path.html?hruid=sr0_lln_algemeen&language=nl "Module 0")  
 
 Module 0 is het eerste leerpad dat de leerlingen zullen zien binnen dit project. Het bestaat uit een korte inleiding en 4 **links** naar de volgende modules. Deze links zullen de leerlingen doorverwijzen naar de **leerpaden voor leerlingen**.
 
