@@ -40,7 +40,7 @@ Schrijf zoveel mogelijk ideeën neer op papier binnen een afgesproken tijd (bijv
 Eens de tijd op is, vergelijk en bespreek je elkaars ideeën.  
 
 ## Techniek 2: Mindmaps
-Deze techniek en je misschien al eens tegengekomen tijdens het studeren. Ze is echter ook zeer nuttig tijdens het brainstormproces.
+Deze techniek ben je misschien al eens tegengekomen tijdens het studeren. Ze is echter ook zeer nuttig tijdens het brainstormproces.
 
 Schrijf "Sociale robot" in het midden van een blad. Dit is je vertrekpunt. Schrijf rond dit vertrekpunt de zaken op waaraan dit onderwerp je doet denken en verbindt ze met het midden m.b.v. een lijntje. Dit proces kan je nu herhalen met je nieuwe woorden als vertrekpunt.
 
