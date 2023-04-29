@@ -2,7 +2,7 @@
 hruid: un_biomimicry4
 version: 3
 language: nl
-title: "Biomimicry"
+title: "Ortheses op basis van zeepaardjes"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
@@ -56,3 +56,13 @@ binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet.
 Let op (rood kader)<br>
 binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
 </div>
+
+# Enkel-voet-ortheses op basis van een zeepaardje
+
+We kijken dus naar de nekregio van een zeepaardje om een enkel-voet-orthese te maken. Het benige pantser van een zeepaardje bestaat uit benige platen die in elkaar kunnen haken. Ze glijden eigenlijk over elkaar zodat bewegingen mogelijk zijn. 
+
+Hieronder zie je de structuur van de beenplaten bij een zeepaardje:
+(figuur)
+
+De enkel-voet-orthese bestaat uit ge-3D-printe platen gebaseerd op de bouw van de nekregio van een zeepaardje. Het eindresultaat wordt aangevuld met twee schelpen, bovenaan en onderaan om zo tot een werkbare enkel-voet-orthese te komen. 
+
