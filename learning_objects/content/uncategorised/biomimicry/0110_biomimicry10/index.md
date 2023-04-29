@@ -30,6 +30,16 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
+
+| Patiëntnummer | Pijn in de borststreek | Man | Rookt | Voldoende lichaamsbeweging | Hartaanval |
+|---------------|------------------------|-----|-------|----------------------------|------------|
+| 1             | ja                     | ja  | nee   | ja                         | ja         |
+| 2             | ja                     | ja  | ja    | nee                        | jq         |
+| 3             | nee                    | nee | ja    | nee                        | ja         |
+| 4             | nee                    | ja  | nee   | ja                         | nee        |
+| 5             | ja                     | nee | ja    | ja                         | ja         |
+| 6             | nee                    | ja  | ja    | ja                         | nee        |
+
 # Biomimicry
 
 ## Subtitel
