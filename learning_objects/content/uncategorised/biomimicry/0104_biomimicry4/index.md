@@ -66,3 +66,4 @@ Hieronder zie je de structuur van de beenplaten bij een zeepaardje:
 
 De enkel-voet-orthese bestaat uit ge-3D-printe platen gebaseerd op de bouw van de nekregio van een zeepaardje. Het eindresultaat wordt aangevuld met twee schelpen, bovenaan en onderaan om zo tot een werkbare enkel-voet-orthese te komen. 
 
+![](embed/zeepaardje.png "afbeelding")
