@@ -64,13 +64,13 @@ te maken waarbij twee criteria elkaar beïnvloeden.
 Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:
 Stel we willen verschillende koelkasten vergelijken, iedere koelkast heeft een prijs en heeft ook een verbruik (in kWh). Als we de koelkasten uitzetten in een grafiek zien we het volgende:
 
-(figuur)
+![](embed/Koelkast1.png "afbeelding")
 
 De blauwe lijn verbindt eigenlijk de meest extreme punten (een héél goedkope koelkast die veel verbruikt én een héél dure koelkast die weinig verbruikt). 
 
 Op basis van de grafiek zie je ook dat er een heleboel ‘sub-optimale’ punten zijn, beter gezegd koelkasten die niet interessant zijn om te kopen. Neem nu onderstaand voorbeeld:
 
-(figuur)
+![](embed/Koelkast2.png "afbeelding")
 
 Koelkast X is niet ideaal, voor dezelfde prijs kunnen we ook een koelkast bemachtigen die véél minder verbruikt. Het meest optimale punt is in dit geval het punt dat zo dicht mogelijk bij het Pareto-front (de blauwe lijn) ligt. 
 
@@ -84,14 +84,14 @@ We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen 
 
 Hiervan maken we vervolgens een plot met de verschillende punten:
 
-(figuur)
+![](embed/Zeepaardje1.png "afbeelding")
 
 Stel we bekijken nu de twee meest extreme punten: een heel goedkope orthese maar wel maar één universele maat én een heel dure orthese die wel volledig op maat is van de patiënt. Dan bekomen we, theoretisch, het volgende als we deze punten verbinden:
 
-(figuur)
+![](embed/Zeepaardje2.jpg "afbeelding")
 
 We gaan op zoek naar het meest ‘ideale’ punt. Deze ligt zo dicht mogelijk tegen het blauwe pareto-front. Alle andere punten noemen we suboptimale punten. Want voor deze sub-optimale punten is er telkens een ander punt dat ofwel goedkoper ofwel meer op maat van de patiënt is. Dit is duidelijk in onderstaande figuur:
 
-(figuur)
+![](embed/Zeepaardje3.jpg "afbeelding")
 
 Hieruit kunnen we concluderen dat de orthese gebaseerd op het zeepaardje niet de ‘beste’ is. In deze situatie komt de B2-foot er beter uit. Het is belangrijk om op te merken dat dit voorbeeld een vereenvoudiging is van de realiteit en er dus nog een aantal stappen moeten genomen worden alvorens dit soort ortheses een echte plaats kan krijgen op de markt. In werkelijkheid moet er bij de afweging met veel meer factoren rekening worden gehouden dan enkel 'prijs' en 'op maat van de patiënt'.
