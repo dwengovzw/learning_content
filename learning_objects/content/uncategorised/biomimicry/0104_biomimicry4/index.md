@@ -39,6 +39,7 @@ Hieronder zie je de structuur van de beenplaten bij een zeepaardje:
 
 Zoals eerder aangegeven kan de nek van een zeepaardje strekken en terugtrekken, maar kan het zich in de zijdelingse richtingen veel minder bewegen. Dit is wat we nodig hebben voor de enkel-voet-orthese. Hierbij moet de voet zijdelings gefixeerd worden, maar mag die wel nog in de zogenaamde dorsale en plantaire richtingen (zie figuur) bewegen. 
 
+![](embed/bewegingsrichtingen.jpg "afbeelding")
 
 
 De enkel-voet-orthese bestaat uit ge-3D-printe platen gebaseerd op de bouw van de nekregio van een zeepaardje. Het eindresultaat wordt aangevuld met twee schelpen, bovenaan en onderaan om zo tot een werkbare enkel-voet-orthese te komen. 
