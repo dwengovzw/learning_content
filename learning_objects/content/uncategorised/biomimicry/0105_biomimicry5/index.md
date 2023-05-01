@@ -30,33 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Biomimicry
-
-## Subtitel
-
-Tekst
-
-![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
-
-![](embed/dwengo.png "afbeelding")
-
-[link](embed/dwenguino_elektrischschema.pdf "pdf")
-
-**bold** __bold__
-*italic* _italic_
-
-> weetjes
-
-<div class="alert alert-box alert-success">
-Samenvatting (groen kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
-<div class="alert alert-box alert-danger">
-Let op (rood kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
 # Vergelijken van de enkel-voet-ortheses
 
 Er zijn reeds verschillende enkel-voet-orthese op de markt. Elk met hun specifieke eigenschappen en dus ook voor- en nadelen. De enkel-voet-orthese op basis van het zeepaardje komt daar nu bij. Ons probleem is namelijk opgelost: we hebben een enkel-voet-orthese die flexibel is in de omliggende zones, maar genoeg stevigheid kan bieden. Nu moeten we alleen nog bepalen welke enkel-voet-orthese het ‘beste’ is.
