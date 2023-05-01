@@ -39,7 +39,7 @@ Van de bestaande ortheses vind je hieronder een tabel met de verschillende eigen
 |                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
 |-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
 | Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
-| Prijs           | 85             | 253.8          | 80         | 184.95          | 169       | 100         | 127.5 |
+| Prijs           | 70             | 253.8          | 85         | 175          | 172     | 115       | 127.5 |
 | Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
 | Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           | 3 |
 
@@ -59,7 +59,7 @@ Nu we dit hebben kunnen we de score toekennen aan de orthese. We bekomen het vol
 |                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
 |-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
 | Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 | 
-| Prijs           | 85             | 253.8          | 80         | 184.95          | 169       | 100         | 127.5 | 
+| Prijs           | 70             | 253.8          | 85         | 175          | 172     | 115       | 127.5 |
 | Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 |
 | Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           | 3 |
 | Op maat van de patiënt | 1 | 2 | 2 | 3 | 5 | 5 | 5 |
@@ -70,7 +70,7 @@ Nu kunnen we eigenlijk radardiagrammen maken. Alleen zal deze nog geen volledig 
 |-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
 | Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
 | Prijs           | 85             | 253.8          | 80         | 184.95          | 169       | 100         | 127.5 |
-| 1/Prijs         | 0.011765       | 0.00394        | 0.0125     | 0.005407        | 0.005917  | 0.01 | 0.007843 |
+| 1/Prijs         | 0.01429    | 0.00394        | 0.01176     | 0.00571        | 0.005817  | 0.0087 | 0.00784 |
 | Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
 | Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           |3 |
 | Maat| 1 | 2 | 2 | 3 | 5 | 5 | 5 |
@@ -80,7 +80,7 @@ Een radardiagram kunnen we opstellen, maar daarvoor moeten we zorgen dat alle as
 |                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
 |-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
 | Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
-| 1/Prijs         | 0.941176       | 0.315209        | 1     | 0.432549       | 0.473373  | 0.8 | 0.627451 |
+| 1/Prijs         | 1       | 0.27581        | 0.82353     | 0.4       | 0.40698  | 0.6087 | 0.54902 |
 | Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
 | Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           |3 |
 | Maat| 1 | 2 | 2 | 3 | 5 | 5 | 5 |
@@ -90,7 +90,7 @@ Tot slot moeten we de omgekeerde prijs alleen nog vermenigvuldigen met 5. Op dez
 |                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
 |-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
 | Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
-| 1/Prijs         | 4.705882       | 1.576044       | 5          | 2.162747        | 2.366864  | 4           | 3.137255 |
+| 1/Prijs         | 5       | 1.37904       | 4.11765          | 2        | 2.03488  | 3.04348           | 2.7451 |
 | Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
 | Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           |3 |
 | Maat| 1 | 2 | 2 | 3 | 5 | 5 | 5 |
