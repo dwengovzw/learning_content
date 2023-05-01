@@ -34,15 +34,31 @@ teacher_exclusive: true
 # Enkel-voet-ortheses
 Vandaag de dag zijn er al een heel aantal ortheses op de markt, die proberen om aan zoveel mogelijk criteria te voldoen. De ene orthese houdt al wat meer rekening met eerder genoemde criteria dan de andere. 
 
-We bekijken enkele ortheses die nu op de markt zijn:
+We bekijken enkele ortheses die nu op de markt zijn. Onderaan vind je een overzicht met de verschillende eigenschappen per criterium van de ortheses.
 
 **Malleloloc-L (van Bauerfeind)**
 
+![](embed/malleloc2.jpg "afbeelding")
+
+![link](@https://www.bauerfeind.nl/nl_nl/producten/braces/enkelbrace/details/product/malleoloc-l)
+
 **ROM Walker (van Medi)**
+
+![](embed/romwalker.jpeg "afbeelding")
+
+![link](@https://www.medibelgium.be/producten/medi-rom-walker/)
 
 **M.Step (van Medi)**
 
+![](embed/mstep.jpeg "afbeelding")
+
+![link](@https://www.medibelgium.be/producten/m-step/)
+
 **Stabili-tri (van Levamed)**
+
+![](embed/stabilitri.jpeg "afbeelding")
+
+![link](@https://www.medibelgium.be/producten/levamed-stabili-tri/)
 
 **EXO-L**
 
