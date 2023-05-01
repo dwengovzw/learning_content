@@ -53,8 +53,8 @@ We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen 
 |                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
 |-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
 | Prijs           | 85             | 253.8          | 80         | 184.95          | 169       | 100         | 127.5 | 
-| Maat            | 2              | 5              | 4          | 4               | 2         | 5           | 4 |
-| Maat (inverse)  | 2              | 5              | 4          | 4               | 2         | 5           | 4 |
+| Maat            | 1              | 2              | 2          | 3               | 5         | 5           | 5 |
+| Maat (inverse)  | 5              | 4              | 4          | 3               | 1         | 1           | 1 |
 
 Hiervan maken we vervolgens een plot met de verschillende punten:
 
