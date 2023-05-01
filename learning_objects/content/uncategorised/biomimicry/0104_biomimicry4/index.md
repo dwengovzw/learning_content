@@ -30,36 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Biomimicry
-
-## Subtitel
-
-Tekst
-
-![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
-
-![](embed/dwengo.png "afbeelding")
-
-[link](embed/dwenguino_elektrischschema.pdf "pdf")
-
-**bold** __bold__
-*italic* _italic_
-
-> weetjes
-
-<div class="alert alert-box alert-success">
-Samenvatting (groen kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
-<div class="alert alert-box alert-danger">
-Let op (rood kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
 # Enkel-voet-ortheses op basis van een zeepaardje
 
-We kijken dus naar de nekregio van een zeepaardje om een enkel-voet-orthese te maken. Het benige pantser van een zeepaardje bestaat uit benige platen die in elkaar kunnen glijden. De benige platen hebben een uitstekende stekel, de volgende plaat heeft een groeve waar die stekel vlotjes in en uit kan glijden. Zo kan een zeepaardje zijn staart vlot bewegen en ‘opkrullen’. Maar ook ter hoogte van de nek en buik vind je hetzelfde systeem terug.
+We kijken dus naar de nekregio van een zeepaardje om een enkel-voet-orthese te maken. Het benige pantser van een zeepaardje bestaat uit benige platen die in elkaar kunnen glijden. De benige platen hebben een uitstekende stekel, de volgende plaat heeft een groeve waar die stekel vlotjes in en uit kan glijden. Zo kan een zeepaardje zijn staart vlot bewegen in verschillende richtingen. Maar ook ter hoogte van de nek en buik vind je hetzelfde systeem terug.
 
 Hieronder zie je de structuur van de beenplaten bij een zeepaardje:
 (figuur)
