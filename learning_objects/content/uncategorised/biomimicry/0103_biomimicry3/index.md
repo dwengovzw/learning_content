@@ -30,33 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Biomimicry
-
-## Subtitel
-
-Tekst
-
-![test132](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
-
-![](embed/dwengo.png "afbeelding")
-
-[link](embed/dwenguino_elektrischschema.pdf "pdf")
-
-**bold** __bold__
-*italic* _italic_
-
-> weetjes
-
-<div class="alert alert-box alert-success">
-Samenvatting (groen kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
-<div class="alert alert-box alert-danger">
-Let op (rood kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
 # Zeepaardje als oplossing
 
 Je merkt dat iedere enkel-voet orthese zijn eigen voor- en nadelen heeft. Maar bij alle enkel-voet-ortheses komt flexibiliteit van de omliggende zones te weinig aan bod. We moeten op zoek naar een ander systeem dat flexibel en stevig is op hetzelfde moment.
