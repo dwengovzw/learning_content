@@ -52,7 +52,7 @@ We keren terug naar onze enkel-voet-ortheses. We willen namelijk de beste keuze 
 We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen hierbij voor 'prijs' en 'op maat van de patiënt', twee criteria die van belang zijn voor de patiënt'. Merk op dat we nu het omgekeerde moeten nemen voor ‘maat’, omdat we willen dat een lage score overeenkomt met ‘volledig op maat van de patiënt gemaakt’. In een pareto-cruve is het meest ideale namelijk een lage prijs en een volledig op maat van de patiënt (een lage score dus).
 |                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
 |-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Prijs           | 85             | 253.8          | 80         | 184.95          | 169       | 100         | 127.5 | 
+| Prijs           | 70             | 253.8          | 85         | 175             | 172       | 115         | 127.5 | 
 | Maat            | 1              | 2              | 2          | 3               | 5         | 5           | 5 |
 | Maat (inverse)  | 5              | 4              | 4          | 3               | 1         | 1           | 1 |
 
