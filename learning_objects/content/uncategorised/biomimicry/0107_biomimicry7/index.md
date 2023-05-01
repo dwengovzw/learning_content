@@ -55,18 +55,17 @@ Het leerpad kan in alle studierichtingen worden gebruikt, maar het lijkt ons zek
 Indien je lessen op basis van dit STEM-project zou willen evalueren zijn er verschillende opties mogelijk. Aangezien het hier vooral over probleemoplossend denken gaat, is het aan te raden te werken met een soort van ‘portfolio’. Zo kunnen leerlingen hun progressie duidelijk weergeven. Het is ook mogelijk te eindigen met een posterbeurs of presentaties waarin leerlingen hun resultaten breder communiceren. Hierbij is het dan wel aan te raden om te variëren tussen verschillende groepjes door bij het pareto-front ieder groepje een andere criteria te laten vergelijken met elkaar. 
 
 
-
 ## Overzicht (mogelijke) lessen
 
 *Opgelet*: De mogelijke structuur van de lessen kent een lichtjes andere vorm dan het leerpad.
 
 Het overzicht zoals aangegeven in onderstaande tabel is één mogelijkheid. Als leerkracht ken je je eigen leerlingen het best en kan je beter inschatten of er meer of minder tijd nodig is voor bepaalde onderdelen. Voorzie best voldoende tijd om de radardiagrammen en het pareto-front op te bouwen, zodat leerlingen voldoende tijd hebben om de problemen die ze tegenkomen op te lossen. 
 
-| Lesnummer | Inhoud | Opmerkingen |  
-| ---------------- | --------- | ------------------- |
-| Les 1 | Inleiding, huidige ortheses en probleemstelling | |
-| Les 2 | Probleemstelling (→ biomimicry: zeepaardje als oplossing?) en introductie radardiagrammen | Verwerk in de les dat het doel is om te bekijken of een orthese op basis van een zeepaardje een meerwaarde zou zijn. |
-| Les 3 | Radardiagrammen | |
-| Les 4 | Pareto-front & conclusie | | 
+| Lesnummer        | Inhoud    | Lesverloop         | Opmerkingen | 
+| ---------------- | --------- | ------------------- | ----------------- |
+| Les 1            | Inleiding, huidige ortheses en probleemstelling | Inleiding en probleemstelling: klassikaal. Criteria: brainstorm in groepjes. Ortheses: klassikaal/individueel. | |
+| Les 2            | Probleemstelling & oplossing (→ biomimicry: zeepaardje als oplossing?) | Eisen orthese & waar oplossing halen: klassikaal. Concrete zoektocht naar zeepaardje als oplossing: individueel. | Verwerk het doel van dit project hier duidelijk: zeepaardje-orthese kan een oplossig zijn, maar is het beter dan de anderen? |
+| Les 3 | Radardiagrammen | Opstellen radardiagrammen: individueel. Probleemoplossend denken stimuleren |
+| Les 4 | Pareto-front & conclusie | Pareto-curve opstellen: individueel. In groepjes over resultaat discussiëren (of klassikaal) | | 
 
 
