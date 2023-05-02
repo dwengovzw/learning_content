@@ -38,6 +38,9 @@ teacher_exclusive: true
 *Onderstaande link brengt je naar de leerlingenmodule* <br>
 [Module 2: Brainstorm en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2&language=nl "Module 2")  
 
+*Deze module heeft een aparte leerlingenmodule om hier het volledige overzicht te behouden. De onderstaande link brengt je naar de oefeningenmodule* <br>
+[Module 2: Oefeningen](https://www.dwengo.org/learning-path.html?hruid=sr2_oefeningen&language=nl "Module 2: oefeningen")
+
 **Lesfase A - Inleiding les**
 * Zorg voor voldoende structuur en begeleiding, zodat leerlingen zichzelf niet verliezen in hun ideeën. Brainstormen met leerlingen is immers niet evident. 
 * Geef de leerlingen de opdracht voor de brainstorm. Formuleer waarover ze moeten brainstormen en wat de uitkomst van de brainstorm moet inhouden.
