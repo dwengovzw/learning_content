@@ -1,10 +1,10 @@
 ---
-hruid: sr1_emotiemachine
+hruid: sr1_emotiemachine_vb
 version: 3
 language: nl
-title: "Emotiemachine"
+title: "Voorbereiding Emotiemachine"
 description: "Emotiemachine"
-keywords: ["sociale robot", "activiteit"]
+keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -23,26 +23,29 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 20
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
-teacher_exclusive: True
+teacher_exclusive: true
 ---
 # Computationeel denken unplugged
 ## Emotiemachine
-### Werkwijze
+### 20 minuten in de klas
 
-1. Geef aan iedereen de emotiemachine-fiche en vraag hen om het volgende te doen (zoals weergegeven op de fiche):
+De leerlingen ontwerpen een gezicht en programmeren een 2D-robot van karton om verschillende emoties uit te drukken. Ze maken een tabel waarin ze emoties (high-level) omzetten in instructies (code) die door een machine (low-level) begrepen kunnen worden. Vervolgens tekenen ze de emoties op stroken karton die een bepaalde stand van de wenkbrauwen, ogen en mond vertegenwoordigen.
 
-* Knip langs de zwarte stippellijn, zodat je de emotiemachine en een gezicht met lege gleuven krijgt, plus 3 stroken die je door deze gleuven kunt schuiven.
-* Weef de stroken door de gleuven voor de wenkbrauwen, ogen en mond, zodat de letters verschijnen in de emotiemachine en de wenkbrauwen, ogen en mond verschijnen op het gezicht.
+![](embed/Emotiemachine.png "Emotiemachine in de praktijk")
 
-2. Nu is het tijd om de leerlingen de werkbladen met de tabel te geven. Op deze werkbladen kunnen ze de tabel invullen met de emoties die ze willen uitbeelden.
+Later (tijdens de bouwsessies) kunnen ze de emoties ook programmeren met de ledmatrix van hun sociale robot. Hiervoor denken de leerlingen na over hoe ze de wenkbrauwen, ogen en mond kunnen voorstellen op de ledmatrix.  
 
-3. Vat op het einde de computerlessen van de activiteit samen. Programma’s bestaan uit reeksen van instructies die, wanneer ze worden gevolgd, leiden tot een actie, zoals een robot die verschillende emoties toont.  
+Je kan hier eventueel ook kort vermelden dat men tegenwoordig gezichtsherkenning (*facial recognition*) probeert uit te breiden naar het herkennen van emoties m.b.v. AI-technieken. Zo kunnen computers steeds beter emoties herkennen in gezichtsuitdrukkingen, wat kan leiden tot nieuwe toepassingen in o.a. de gezondheidszorg en beveiliging.
 
-<div class="alert alert-box alert-success">
-Computerinstructies zijn in essentie low-level code. Programmeertalen gebruiken high-level instructies om het schrijven van programma’s makkelijker te maken. Ze gebruiken abstractie om de details van de low-level code te verbergen. We kunnen een programma met high-level instructies nemen en het compileren tot een programma dat effectief gebruikt wordt om de machine te besturen. Of we kunnen een vertolker gebruiken die de instructies vertaalt wanneer we ertoe komen.
-</div>
+![](embed/FacRec.png "Emoties herkennen met AI")
+<sub>By Abyssus - Own work, CC BY-SA 4.0</sub>
+
+### Materiaal
+* [Tabel emoties](embed/emotiemachine_gids.pdf "tabel")
+* [Gezicht 1](embed/emotiemachine_gewoon_nl.pdf "gezicht gewoon")
+* [Gezicht 2](embed/emotiemachine_matrices_nl.pdf "gezicht 2")

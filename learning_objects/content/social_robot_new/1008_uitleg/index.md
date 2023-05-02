@@ -1,9 +1,9 @@
 ---
-hruid: sr1_uitleg6
+hruid: sr1_uitleg5
 version: 3
 language: nl
-title: "Sociale robots in de toekomst"
-description: "Sociale robots in de toekomst"
+title: "Vermenselijking"
+description: "Vermenselijking"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,27 +32,28 @@ teacher_exclusive: false
 ---
 
 # Wat zijn sociale robots?
-## Sociale robots in de toekomst
+## Vermenselijking
 
-*Robots duiken her en der op, zoals een stofzuigerrobot bij je thuis, een robot in het hotel die de klanten verwelkomt, een robot voor de ontmijningsdienst, een robot in de autofabriek en een operatierobot.*  
+*Mensen zijn geneigd om menselijke eigenschappen toe te kennen aan objecten.*
 
-*Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van de sociale robots meer mogelijk worden in de toekomst.*  
+Jij hebt vast ook al eens je computer aangemoedigd om sneller te gaan werken.  
+En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw beschouwd als een huisdier.  
 
-*Hoe zal de toekomst eruitzien? Zullen robots in ons dagelijks leven even onmisbaar worden als onze smartphone?*  
+> Discussie<br>Mag men een robothond schoppen?
 
-Hierover bestaan nog veel vraagtekens! Dromen over een toekomst met robots is alvast spannend: robots om ons te vervoeren en om ons te entertainen, robots voor de klas, robots voor een betere gezondheidszorg en misschien zelfs een robot als collega.
+**Bekijk dit [filmpje](https://www.youtube.com/watch?v=M8YjvHYbZ9w "Robothond")**
+![](@youtube/https://www.youtube.com/embed/M8YjvHYbZ9w "robothond")
 
-In de zorgsector evolueert men naar robots die niet enkel gezelschap bieden, maar ook de gezondheid van de mensen in de gaten houden.  
 
-> Discussie<br>Zou jij liever een injectie krijgen van een robot of van een verpleegkundige?
+Het **uiterlijk** van een sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van een robot schept **verwachtingen**. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt...  
+De robot Paro, die eruitziet als een zeehond, wordt door de mensen wel behandeld als een huisdier, maar schept niet de verwachtingen van een hond of kat. Bij het maken van de robot Paro werd bewust gekozen voor een zeehond i.p.v. een hond of een kat, omdat een robot die op een hond of kat lijkt, meer verwachtingen met zich meebrengt. Een zeehond kent men wel van zien, maar behalve het uitzicht, weet men niet echt hoe een zeehond zich gedraagt, waardoor deze minder verwachtingen schept.
+Van een androïde robot, een robot die er heel menselijk uitziet, verwacht men ook menselijke handelingen. De robot Pepper lijkt net niet genoeg op een mens om te verwachten dat hij ook heel menselijk voor de dag komt.  
 
-Voor het onderwijs zet men in op robots die meer actieve taken kunnen opnemen, bijvoorbeeld in het onderwijzen van een vreemde taal.
+Als de verwachtingen die men van de robot heeft, niet overeenstemmen met wat hij effectief doet, dan ervaren mensen de robot als iets negatiefs.  
+Het is verwarrend als het lichaam van een robot gedeeltelijk bedekt is door 'huid', maar er ook mechanische onderdelen zichtbaar zijn. Het is bevreemdend als een robotdier praat.  
+Mensen  vinden robots die eruitzien als mensen meestal leuk, maar een robot mag ook niet teveel op een mens lijken, want dan vinden ze hem helemaal niet leuk meer.  
+Het fenomeen dat mensen zo op robots reageren, heet *The Uncanny Valley*.  
+Hoe meer een robot op een mens lijkt, hoe meer menselijke gedragingen men hem zal toedichten en hoe groter de kans dat de robot die verwachting niet waarmaakt.
 
-Men voorziet dat onze huizen meer en meer zullen evolueren naar slimme woningen, waarbij dagelijkse taken geautomatiseerd zijn en ook de meubelen slim zijn.
-
-Men experimenteert ook met sociale vuilnisbakrobots, zoals de *Sociable Trash box*, die mensen benadert en hen motiveert om hun afval in de vuilnisbak te gooien.  
-
-> Discussie<br>Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?
-
-![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
-<sub>Onthaalrobot Pepper - © Lukas via Unsplash</sub>
+![© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project](embed/UncannyValley.jpg "© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project")
+<sub>© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project</sub>
