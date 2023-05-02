@@ -33,7 +33,7 @@ teacher_exclusive: true
 # Lesverloop
 ## Module 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
 
-*Onderstaande link brengt je naar de leerlingenmodule* <br>
+*Onderstaande link brengt je naar de leerlingenmodule.* <br>
 [Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl "Module 4")  
 
 **Lesfase A - Creatieve opdrachten**
