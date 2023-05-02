@@ -45,5 +45,5 @@ Enkele suggesties:
 * *De leerlingen kunnen ook in groepjes van vier of vijf met elkaar over bepaalde stellingen discussiëren.*
 
 <div class="alert alert-box alert-success">
-Een goed startpunt voor deze activiteit is <a href="./embed/kaartenset.pdf"> de kaartenset</a> die Dwengo heeft ontwikkeld. Er is ook een gedrukte versie verkrijgbaar via <a href="www.dwengo.org/shop">de webshop</a>.
+Een goed startpunt voor deze activiteit is <a href="https://www.dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf"> de kaartenset</a> die Dwengo heeft ontwikkeld. Er is ook een gedrukte versie verkrijgbaar via <a href="./shop">de webshop</a>.
 </div>

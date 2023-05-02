@@ -2,8 +2,8 @@
 hruid: sr4_projecten
 version: 3
 language: nl
-title: "Afsluiten"
-description: "Afsluiten"
+title: "Andere projecten"
+description: "Andere projecten"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,21 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Klasgesprek
+# Andere projecten
+## Eerste graad
 
-Na de creatieve opdracht
+[StartToDwenguino](https://www.dwengo.org/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F#g_inleiding_lkr;nl;3)
+[Theremin](https://www.dwengo.org/learning-path.html?hruid=pc_theremin&language=nl&te=true&source_page=%2Fphysical_computing%2F#g_inleiding_lkr;nl;3)
+[Rijdende Robot](https://www.dwengo.org/learning-path.html?hruid=pc_rijdenderobot&language=nl&te=true&source_page=%2Fphysical_computing%2F#g_inleiding_lkr;nl;3)
+
+
+## Tweede graad
+
+[AI in de Zorg](https://www.dwengo.org/care/)
+[Python in de wiskundeles](https://www.dwengo.org/math_with_python/)
+
+
+## Derde graad
+
+[KIKS](https://www.dwengo.org/kiks/)
+[Chatbot](https://www.dwengo.org/chatbot/)
