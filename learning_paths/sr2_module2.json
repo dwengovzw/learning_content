@@ -555,7 +555,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "sr_slot23",
+            "hruid": "sr2_slot",
             "version": "3",
             "language": "nl"
           }
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_slot23",
+      "learningobject_hruid": "sr2_slot",
       "version": "3",
       "language": "nl"
     } 
