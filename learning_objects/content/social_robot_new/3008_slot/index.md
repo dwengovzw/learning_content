@@ -34,6 +34,6 @@ teacher_exclusive: false
 
 Dit is het einde van de derde module. Je bent eindelijk klaar met jouw sociale robot, proficiat!
 
-Als laatste onderdeel van het project, zal je binnenkort een creatieve opdracht voorstellen. Begin er maar alvast over na te denken.
+Als laatste onderdeel van het project zal je binnenkort een creatieve opdracht voorstellen. Begin er maar alvast over na te denken.
 
 [Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl "Module 4")  
