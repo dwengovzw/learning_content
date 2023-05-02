@@ -35,7 +35,7 @@ teacher_exclusive: true
 # Lesverloop
 ## Module 2: Brainstorm, programmeren en selectie materiaal (± 3 lesuren)
 
-*Onderstaande link brengt je naar de leerlingenmodule* <br>
+*Onderstaande link brengt je naar de leerlingenmodule.* <br>
 [Module 2: Brainstorm en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2&language=nl "Module 2")  
 
 *Deze module heeft een aparte leerlingenmodule om hier het volledige overzicht te behouden. De onderstaande link brengt je naar de oefeningenmodule* <br>
