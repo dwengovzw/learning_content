@@ -47,7 +47,7 @@ De leerlingen schrijven zoveel mogelijk ideeën neer op papier binnen een afgesp
 Eens de tijd op is, vergelijk en bespreek je de ideeën.
 
 <div class="alert alert-box alert-success">
-ALs je merkt dat je bepaalde ideeën gemakkellijk kan groeperen, kan het interessant zijn om op dit moment de leerlingen op te delen in groepjes o.b.v. gelijkenissen in hun ideeën.
+Als je merkt dat je bepaalde ideeën gemakkellijk kan groeperen, kan het interessant zijn om op dit moment de leerlingen op te delen in groepjes o.b.v. gelijkenissen in hun ideeën.
 </div>
 
 
