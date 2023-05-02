@@ -1,5 +1,5 @@
 ---
-hruid: srmodule2
+hruid: sr_module2
 version: 3
 language: nl
 title: "Module 2"
