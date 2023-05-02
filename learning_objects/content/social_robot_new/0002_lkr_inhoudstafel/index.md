@@ -39,6 +39,8 @@ teacher_exclusive: true
 
 [**Eindtermen**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_eindtermen;nl;3)
 
+[**Evaluatie**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_evaluatie;nl;3)
+
 [**Materiaal**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_materiaal;nl;3)
 
 [**Module 0**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module0;nl;3)
