@@ -44,5 +44,6 @@ Enkele suggesties:
 **Werkvormen**
 * *De leerlingen kunnen ook in groepjes van vier of vijf met elkaar over bepaalde stellingen discussiëren.*
 
-* (In ontwikkeling) *A.d.h.v. tien stellingkaarten over de aanwezigheid van sociale robots in de maatschappij kunnen een klasdiscussie en discussies in groep gehouden worden.*
-
+<div class="alert alert-box alert-success">
+Een goed startpunt voor deze activiteit is <a href="./embed/kaartenset.pdf"> de kaartenset</a> die Dwengo heeft ontwikkeld. Er is ook een gedrukte versie verkrijgbaar via <a href="www.dwengo.org/shop">de webshop</a>.
+</div>
