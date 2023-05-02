@@ -1,9 +1,9 @@
 ---
-hruid: sr1_uitleg2
+hruid: sr1_uitleg1
 version: 3
 language: nl
-title: "Sociale robots"
-description: "Sociale robots"
+title: "Digitale systemen"
+description: "Digitale systemen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -26,27 +26,20 @@ content_location: example-location
 estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-mediawijsheid'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-technologie-en-technieken'
 ]
 teacher_exclusive: false
 ---
 
 # Wat zijn sociale robots?
-## Sociale robots
+## Digitale systemen
 
-*Sociale robots zijn robots die kunnen communiceren met mensen. Ze worden in onze samenleving in uiteenlopende gedaantes ingezet in verschillende sectoren, zoals de zorgsector en de horeca.*  
+*Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een stofzuigerrobot, een wasmachine, een elektrische tandenborstel of een wekkerradio.*
 
-In het **rusthuis** worden sociale robots gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. In het **ziekenhuis** worden ze ingezet bij revalidatieoefeningen. Sociale robots kunnen ook thuis ingezet worden, bijvoorbeeld om mensen te herinneren aan het nemen van hun medicatie waardoor ze langer thuis kunnen blijven wonen, of bijvoorbeeld om kinderen te leren omgaan met hun diabetes.  
+Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een **microcontroller**. Digitale systemen beschikken over ingangen en uitgangen. De microcontroller krijgt gegevens van de ingangen (**input**). Hij **verwerkt** de gegevens, voert berekeningen uit en stuurt vervolgens de digitale apparaten aan (**output**).  
+In dit project, gebruik je de **Dwenguino**. Dat is een microcontroller-platform waarmee je snel en gemakkelijk je eigen apparaat kan bouwen.
 
-> Discussie<br>Is een sociale robot goed gezelschap voor een eenzame bejaarde?
+> Discussie<br>Is een stofzuigerrobot een sociale robot?
 
-In het onderwijs kunnen sociale robots ingezet worden om leerlingen individueel te begeleiden, of men kan een leerling de leerstof laten uitleggen aan een *peer-robot*. 
-
-Op de luchthaven wijst een robot de reizigers de weg naar de juiste gate. In het museum geeft een robot een rondleiding. In sommige hotels staat een robot aan de receptie. In de winkel kan een robot de klanten op de hoogte brengen van de geldende promoties.  
-
-> Discussie<br>Bekijk onderstaande afbeelding.<br>Welk dier stelt Paro voor? Waarvoor zou Paro al deze apparatuur gebruiken?
-
-![](embed/paro.jpg "© Peter Häll")
-<sub>Paro houdt bejaarden gezelschap - © Peter Häll</sub>
-
-![](embed/Paro2.png "Paro uitleg")
+![© Jens Mahnke via Pexels](embed/stofzuiger.png "© Jens Mahnke via Pexels")
+<sub>© Jens Mahnke via Pexels</sub>

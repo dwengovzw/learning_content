@@ -1,9 +1,9 @@
 ---
-hruid: sr4_opruimen
+hruid: sr4_slot
 version: 3
 language: nl
-title: "Opruimen"
-description: "T"
+title: "Slot"
+description: "Slot"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -23,13 +23,11 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 60
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: false
 ---
 
-# Opruimen
-
-Jammer genoeg moet je op het einde van de rit je robot afbreken ... Wees gerust, je kan het meeste houden! Enkel de elektronica zal je moeten eruit halen en opbergen in de doos. Je kan eventueel de sensoren namaken in papier of karton om de looks na te bootsen.
+# Slot

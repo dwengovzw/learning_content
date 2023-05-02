@@ -1,9 +1,9 @@
 ---
-hruid: sr1_unplugged_vb
+hruid: sr1_unplugged
 version: 3
 language: nl
-title: "Unplugged activiteiten"
-description: "Doel SR unplugged"
+title: "Computationeel denken unplugged"
+description: "Context SR unplugged"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,10 +28,11 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Computationeel denken unplugged
-## 30 - 60 minuten in de klas
 
-Het doel van deze activiteiten is om de leerlingen vertrouwd te maken met sociale robots en hoe ze kunnen communiceren met mensen. Tijdens de activiteiten ligt de focus op het geven van een menselijk ‘gezicht’ aan een robot en het programmeren van emoties en gelaatsuitdrukkingen. Hiertoe stellen we twee opdrachten voor: ‘maak-een-gezicht’ en ‘de emotiemachine’, waarbij de leerlingen leren programmeren zonder een computer te gebruiken.
+Sociale robots zijn robots die in staat zijn om te communiceren met mensen, op diverse manieren. Tijdens de volgende activiteiten leer je hoe je emoties en gelaatsuitdrukkingen kunt programmeren bij robots.
+
+Deze activiteiten vallen onder de noemer 'unplugged computationeel denken', wat betekent dat je gaat "programmeren" zonder computer.
