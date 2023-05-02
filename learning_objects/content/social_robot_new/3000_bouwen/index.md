@@ -35,13 +35,14 @@ teacher_exclusive: false
 
 Deze les ga je eindelijk aan de slag met het materiaal!  
 
-Voor je begint, neem je best eerst alles wat je nodig hebt:
+Zorg ervoor dat je alles wat je nodig hebt bij de hand hebt voordat je begint met het bouwen van je sociale robot. Hieronder vind je een lijst met alle benodigde materialen en gereedschappen:
+
 * het ontwerp van je robot;
-* de doos waarmee je jullie robot gaat maken;
-* het overige knutselmateriaal dat je nodig hebt;
-* de elektronica die je nodig hebt (sensoren, draden ...);
+* het materiaal waaruit je het frame van jullie robot gaat maken (een kartonnen doos, planken, ...);
+* de elektronica die je zal gebruiken;
 * het sjabloon om uitsparingen te snijden voor de elektronica;
-* het gereedschap;
+* het gereedschap dat je nodig hebt, zoals snijmes en liniaal;
+* eventueel knutselmateriaal zoals lijm en tape;
 * de USB-kabel om de dwenguino te verbinden met je computer.
 
 Het onderstaande filmpje vat samen wat de volgende leerobjecten beschrijven.

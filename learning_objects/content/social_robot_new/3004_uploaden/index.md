@@ -3,7 +3,7 @@ hruid: sr3_uploaden
 version: 3
 language: nl
 title: "Uploaden"
-description: "T"
+description: "Uploaden"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -25,24 +25,22 @@ return_value: {
 content_location: example-location
 estimated_time: 5
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-technologie-en-technieken'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: false
 ---
-# Programmeren van de robot
-## Uploaden van het programma
-Upload nu het eerste programma voor de sociale robot naar de fysieke robot. We herhalen hier alvast nog eens hoe je dit moet doen.
+# Programmeren van de fysieke robot
+## Uploaden naar de dwenguino
 
-* schrijf het programma;
-* download het programma;
-* open downloads, daar staat nu een .dw bestand;
-* sluit de dwenguino aan;
-* druk op RESET + ZUID, laat vervolgens de resetknop los en vervolgens ook de ZUID-knop;
-* de dwenguino staat in de verkenner tussen je mappen als USB-stick;
-* kopieer het .dw bestand naar de dwenguino;
-* druk op RESET.
+In het onderstaande filmpje wordt getoond hoe je een programma van eender welke computer en browser kan uploaden naar de dwenguino.
+Het is belangrijk dat je alle stappen doorloopt zoals getoond in het filmpje!
 
-![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Uploaden dwenguino")  
+* Schrijf het programma;
+* Download het programma via de knop ![alt](embed/menu_uploaddwenguino.png "menu download");
+* Open downloads, daar staat nu een .dw bestand;
+* Sluit de dwenguino aan en druk op RESET + ZUID, laat vervolgens de resetknop los;
+* De dwenguino staat tussen je mappen als USB-stick;
+* Kopieer het .dw bestand naar de dwenguino;
+* Druk op RESET.
 
-Je zal nu nog veel kleine aanpassingen moeten maken om het gewenste resultaat bekomen. Dit is normaal!
+![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "uploaden dwenguino")

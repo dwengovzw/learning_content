@@ -35,13 +35,13 @@ teacher_exclusive: false
 ## Uitsnijden van de uitsparingen
 
 ### Markeren van de doos
-Denk goed na over waar je de elektronica gaat bevestigen op de doos. Eens je begint te snijden of prikken, wordt het moeilijk om fouten ongedaan te maken. Let op dat je (op de doos) voldoende ruimte laat langs de randen van de uitsparingen voor de bedrading.
+Het is belangrijk om goed na te denken over waar je de elektronica op de doos gaat bevestigen voordat je begint met snijden of prikken. Fouten kunnen moeilijk ongedaan gemaakt worden zodra je hiermee begonnen bent. Zorg ervoor dat je voldoende ruimte laat langs de randen van de uitsparingen voor de bedrading.
 
-Om je te helpen, is er een sjabloon voor de elektrische onderdelen uit de SR-kit.
+Je kunt gebruik maken van het sjabloon voor de elektrische onderdelen dat bij de SR-kit is inbegrepen om je hierbij te helpen.
 
-![](embed/Sjabloon.png)
+![](embed/sjabloon.png)
 
-Neem een dunne stift om de correcte plaatsen aan te duiden.  
+Gebruik een dunne stift om de correcte plaatsen op de doos aan te duiden.  
 
 ### Snijden van de uitsparingen
 
@@ -49,18 +49,18 @@ Het uitsnijden kan met een **mesje** gebeuren of door te prikken met de bijgelev
 
 **Veiligheidsinstructies**
 
-1. Wees voorzichtig wanneer je snijgereedschap hanteert.
+1. Wees voorzichtig bij het hanteren van snijgereedschap.
 
-2. Neem snijgereedschap enkel bij de hand wanneer je het onmiddellijk nodig hebt.
+2. Pak het snijgereedschap alleen vast wanneer je het meteen nodig hebt.
 
-3. Leg je gereedschap neer wanneer anderen in de buurt zijn of draai jezelf van hen weg.
+3. Leg het gereedschap neer als anderen in de buurt zijn of draai jezelf van hen weg.
 
-4. Laat anderen niet schrikken wanneer ze scherp gereedschap vasthebben, want dan kunnen ze zich bezeren.
+4. Schrik anderen niet af wanneer ze scherp gereedschap vast hebben, anders kunnen ze zich bezeren.
 
-5. Houd het snijgereedschap met de scherpe kant van jezelf en anderen weg gericht.
+5. Houd het snijgereedschap weg van jezelf en anderen met de scherpe kant.
 
-6. Geef het snijgereedschap nooit rechtstreeks aan iemand anders. Leg het op een veilige plaats neer waar het niet kan wegrollen en laat de andere persoon het zelf oppikken. 
+6. Geef het snijgereedschap nooit rechtstreeks aan iemand anders. Leg het op een veilige plaats neer waar het niet weg kan rollen en laat de andere persoon het zelf oppakken.
 
-7. Houd er je aandacht bij wanneer je aan het snijden of prikken bent of het gereedschap vasthebt. Laat je niet afleiden en leid anderen ook zelf niet af.
+7. Houd je aandacht erbij als je aan het snijden of prikken bent of het gereedschap vasthoudt. Laat je niet afleiden en leid anderen ook niet af.
 
-8. Snijd altijd op een stabiele ondergrond, zodat je mesje of priem niet kan wegglijden. Gebruik hiervoor de bijgeleverde snijmat.
+8. Snijd altijd op een stabiele ondergrond, zodat het mesje of de priem niet kan wegglijden. Gebruik hiervoor de bijgeleverde snijmat.

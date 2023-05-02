@@ -29,10 +29,13 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Programmeren van de robot
-## Afwerken
-Is je robot klaar? Doet hij alles wat je in je basisdoelstellingen had opgeschreven? Goed zo!
+# Afwerken van de robot
+Controleer je robot a.d.h.v. de **technische tekening**: 
 
-Indien je nog tijd overhebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?  
+* Heb je alle functionaliteiten geïmplementeerd?
+* Werkt het programma zoals verwacht?
+* Ziet je robot eruit als verwacht?
 
-Misschien kan je al eens nadenken over de creatieve opdracht die je met je robot zal doen zodat je het programma op punt kan stellen hiervoor.
+Zoja, dan heb je je doelstellingen bereikt en ben je klaar! 
+
+Als je tijd over hebt, kun je overwegen om extra functionaliteiten toe te voegen aan je robot. Misschien had je tijdens het brainstormen nog ideeën die je graag zou willen implementeren?
