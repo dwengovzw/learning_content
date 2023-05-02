@@ -30,42 +30,34 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Programmeren van de robot
-
+# Programmeren van de fysieke robot
 ## Testen en debuggen
-Tijdens het testen en debuggen, zal je simpelweg dingen moeten uitproberen tot je bekomt wat je wilt (*trial and error*).  
-Doe dit echter niet lukraak. Denk eerst na over wat er fout gaat en probeer hier een oplossing voor te bedenken. Daarna test je deze oplossing uit en begint het proces opnieuw.
+Wanneer je bezig bent met testen en debuggen, kan het nodig zijn om verschillende dingen uit te proberen voordat je het gewenste resultaat bereikt. Dit vereist echter wel een doordachte aanpak. Probeer eerst te achterhalen wat er precies fout gaat en bedenk vervolgens een oplossing. Test deze oplossing en herhaal het proces indien nodig.
 
 **Voorbeeld 1**  
-Je hebt 2 ledmatrices gebruikt als ogen voor de robot, maar de ogen zijn omgewisseld van plaats.
+Stel dat je 2 ledmatrices als ogen hebt gebruikt voor de robot, maar ze zijn per ongeluk omgewisseld van plaats.
 
 *Optie 1*  
 Je verwisselt de ledmatrices in de fysieke robot zodat ze overeenkomen met het programma.  
 
-
 *Optie 2*  
-Je verwisselt de ogen in het programma, zodat ze overeenkomen met de fysieke robot.  
-
-
-*Optie3*  
 Je programmeert de ogen opnieuw, maar nu voor de juiste plaats.  
 
 
 **Voorbeeld 2**  
-De armpjes van de fysieke robot bewegen niet, terwijl dit in de simulator wel goed functioneerde.  
+De armpjes van de fysieke robot bewegen niet, terwijl ze in de simulator wel goed functioneerden.
 
 *Optie 1*
-Je controleert de bedrading. Misschien waren er draden verwisseld of losgekomen.
-
+Controleer de bedrading om te zien of er draden verwisseld of losgekomen zijn.
 
 *Optie 2*
-Je controleert of er geen onderdeel van je robot in de weg zit waardoor de armen niet kunnen bewegen.  
-
+Controleer of er geen onderdelen van de robot in de weg zitten waardoor de armen niet kunnen bewegen.
 
 *Optie 3*
-Je maakt de armen los en controleert of de servomotoren nu wel werken. Misschien waren de armen te zwaar?  
+Maak de armen los en controleer of de servomotoren werken. Misschien zijn de armen te zwaar om te bewegen?
 
-
-Tijdens het testen en debuggen is het vooral belangrijk dat je eerst vaststelt wat de fout veroorzaakt vooraleer je een oplossing gaat bedenken. Zo kan je gericht op zoek naar een oplossing en kan je dit onderdeel efficiënt doorlopen!  
+<div class="alert alert-box alert-success">
+Tijdens het testen en debuggen is het belangrijk om de oorzaak van de fout vast te stellen voordat je een oplossing bedenkt. Op deze manier kun je gericht naar een oplossing zoeken en het proces efficiënter maken. 
+</div>
 
 Indien je nog tijd overhebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?
