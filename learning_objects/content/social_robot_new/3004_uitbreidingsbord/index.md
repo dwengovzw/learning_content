@@ -34,8 +34,6 @@ teacher_exclusive: false
 # Bouwen van de fysieke robot
 ## Het uitbreidingsbord
 
-![](embed/pcb.png "Uitbreidingsbord")
-
 Een bijkomend voordeel van het gebruik van een uitbreidingsbord is dat de connectoren gelabeld zijn met de specifieke sensoren of actuatoren waarvoor ze bedoeld zijn.
 
 ![](embed/pcb-inkscape.png "Figuur uitbreidingsbord")
