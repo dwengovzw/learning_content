@@ -34,7 +34,7 @@ teacher_exclusive: true
 # Lesverloop
 ## Module 3: Constructie van de robot (± 3 lesuren)
 
-*Onderstaande link brengt je naar de leerlingenmodule.* <br>
+*Onderstaande link brengt je naar de leerlingenmodule* <br>
 [Module 3: Bouwen van de robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=nl "Module 3")  
 
 **Lesfase A - Verzamelen materiaal**

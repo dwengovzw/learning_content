@@ -63,7 +63,7 @@ Hiervoor heb je de volgende blokken nodig:
 ![](embed/block_variable.png "blok variabele")
 ![](embed/block_item.png "blok item")
 
-Om de leesbaarheid van je programma te verbeteren, hernoem je de variabele 'item' best eerst naar iets beter. Omdat je hier afstand aan het meten bent, neem je bijvoorbeeld 'afstand'. Gebruik hiervoor het hulpmenu.
+Om de leesbaarheid van je programma te verbeteren, hernoem je de variabele 'item' best eerst naar iets beters. Omdat je hier afstand aan het meten bent, neem je bijvoorbeeld 'afstand'. Gebruik hiervoor het hulpmenu.
 
 ![](embed/rename_variable.png "hernoemen variabele")
 

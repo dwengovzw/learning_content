@@ -35,7 +35,7 @@ teacher_exclusive: true
 # Lesverloop
 ## Module 2: Brainstorm, programmeren en selectie materiaal (± 3 lesuren)
 
-*Onderstaande link brengt je naar de leerlingenmodule.* <br>
+*Onderstaande link brengt je naar de leerlingenmodule* <br>
 [Module 2: Brainstorm en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2&language=nl "Module 2")  
 
 *Deze module heeft een aparte leerlingenmodule om hier het volledige overzicht te behouden. De onderstaande link brengt je naar de oefeningenmodule* <br>
@@ -64,4 +64,4 @@ Het proces van testen en debuggen is hierbij zeer belangrijk. Programmeren is ni
 
 
 **Lesfase E - Slot**
-* Laat de leerlingen een lijst van knutselmateriaal opstellen dat ze nodig hebben voor het bouwen van hun robot. Je kan dit materiaal zelf voorzien, maar je kan de leerlingen zelf dozen, wol, papier e.d. laten meebrengen indien gewenst. 
+* Laat de leerlingen een lijst van knutselmateriaal opstellen dat ze nodig hebben voor het bouwen van hun robot. Je kan dit materiaal zelf voorzien, maar je kan ook de leerlingen zelf dozen, wol, papier e.d. laten meebrengen indien gewenst. 

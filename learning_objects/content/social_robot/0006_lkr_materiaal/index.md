@@ -43,7 +43,7 @@ Eén zo'n kit bevat het onderstaande materiaal:
 
 ![](embed/constructiekit_socialerobot.png "Inhoud kit")
 
-Bij elke set wordt ook een [**ficheboekje**](embed/ficheboekje_leerkracht.pdf "Ficheboekje") meegeleverd. Hierin staan de fiches die gemaakt werden voor de leerlingen met extra uitleg, zodat jij optimaal voorbereid bent.
+Bij elke set wordt ook een [**ficheboekje**](embed/ficheboekje_leerkracht.pdf "Ficheboekje") meegeleverd. Hierin staan de fiches met extra uitleg die gemaakt werden voor de leerlingen, zodat jij optimaal voorbereid bent.
 
 ## Materiaal kopen
 Dwengo verkoopt deze kits in sets van 5. Voor meer informatie kan je in [**onze webshop**](https://www.dwengo.org/shop/) terecht.

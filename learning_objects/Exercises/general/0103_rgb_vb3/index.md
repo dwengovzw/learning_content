@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Voorbeeld Rgb-led 3"
 description: "Voorbeeld Rgb-led 3"
-keywords: ["oefeningen", "rgb-led"]
+keywords: ["oefeningen", "RGB-led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

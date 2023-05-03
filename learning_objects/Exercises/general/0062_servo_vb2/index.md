@@ -41,10 +41,10 @@ Oplossing:
 
 ![blockly](@learning-object/servo_m2/nl/3)
 
-Je bent nu in staat om een hele hoop andere acties te doen! Je robot kan iemand de hand schudden, z'n ogen bedekken...
+Je bent nu in staat om een hele hoop andere acties te doen! Je robot kan iemand de hand schudden, z'n ogen bedekken ...
 
 <div class="alert alert-box alert-success">
-Hiervoor is er uiteraard reeds enige kennis over hoeken en graden nodig. Het is een extra uitdaging die je je leerlingen kan laten aangaan indien je merkt dat ze de basisblokken te eenvoudig vinden.
+Hiervoor is er uiteraard reeds enige kennis over hoeken en graden nodig. Het is een extra uitdaging die je je leerlingen kan laten aangaan, indien je merkt dat ze de basisblokken te eenvoudig vinden.
 </div>
 
 <div class="alert alert-box alert-danger">

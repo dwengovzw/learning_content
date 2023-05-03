@@ -42,7 +42,7 @@ Om het ontwerpen van hun sociale robot vlotter te laten verlopen, vind je hier e
 
 #### Techniek 1: Brainwriting
 
-De leerlingen schrijven zoveel mogelijk ideeën neer op papier binnen een afgesproken tijd (bijvoorbeeld 5 minuten). Tijdens het schrijven wordt er niet met elkaar gesproken of naar anderen hun ideeën gekeken.
+De leerlingen schrijven zoveel mogelijk ideeën neer op papier binnen een afgesproken tijd (bijvoorbeeld 5 minuten). Tijdens het schrijven wordt er niet met elkaar gesproken of naar de ideeën van anderen gekeken.
 
 Eens de tijd op is, vergelijk en bespreek je de ideeën.
 
@@ -82,7 +82,7 @@ Eens de leerlingen effectief beginnen aan het ontwerpproces van de robot, zullen
 
 Ze brainstormen dan binnen hun groep over **hun** sociale robot. Als je merkt dat ze het moeilijk hebben om een startpunt te vinden of vooruitgang te boeken zijn hier alvast enkele voorbeeldvragen die hen op weg kunnen zetten:
 
-* Hoe moet je robot eruit zien?
+* Hoe moet je robot eruitzien?
 * Wat moet je robot kunnen?
 * Hoe zal je robot mensen kunnen waarnemen?
 * Hoe zal je robot interageren met mensen?
@@ -91,7 +91,7 @@ Ze brainstormen dan binnen hun groep over **hun** sociale robot. Als je merkt da
 * Met welke beperkingen of criteria moet je rekening houden?
 * ...
 
-Als een groep teveel wilt doen, zullen ze keuzes moeten maken:
+Als een groep te veel wilt doen, zullen ze keuzes moeten maken:
 
 * Wat moet je robot minstens kunnen?
 * Welke dingen kan je eventueel achteraf nog doen als er tijd over is?

@@ -40,7 +40,7 @@ teacher_exclusive: false
 Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
 Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. 
 
-> De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier terwijl het lcd-scherm aanstaat.
+> De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier, terwijl het lcd-scherm aanstaat.
 
 ***
 
@@ -48,12 +48,12 @@ Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters o
 
 ![](embed/dwenguino_lcd.png "Afbeelding lcd-scherm")
 
-### in de simulator
+### In de simulator
 
 ![](embed/lcd.png "lcd-scherm")
 
-De blokken voor het lcd-scherm aan te sturen vind je terug in de categorie ![](embed/cat_uitvoer.png "categorie uitvoer")
+De blokken om het lcd-scherm aan te sturen vind je terug in de categorie ![](embed/cat_uitvoer.png "categorie uitvoer")
 
 <div class="alert alert-box alert-success">
-Voor meer informatie over het lcd-scherm kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+Voor meer informatie over het lcd-scherm kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>.
 </div>

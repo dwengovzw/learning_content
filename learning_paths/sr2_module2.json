@@ -45,7 +45,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "sr_vbsimulator",
+            "hruid": "sr2_simulator_vb",
             "version": "3",
             "language": "nl"
           }
@@ -53,22 +53,7 @@
       ]
     },
     {
-      "learningobject_hruid": "sr_vbsimulator",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "sr_simulator",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "sr_simulator",
+      "learningobject_hruid": "sr2_simulator_vb",
       "version": "3",
       "language": "nl",
       "transitions": [

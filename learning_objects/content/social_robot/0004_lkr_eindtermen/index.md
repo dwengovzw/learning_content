@@ -44,7 +44,7 @@ Je beslist zelf aan welke eindtermen en leerdoelen er wordt gewerkt. Als de aanp
 
 ## Computationeel denken
 
-Bij het ontwerpen van de robot komt computationeel denken ruim aan bod. Zo moeten de leerlingen o.a. uitvissen welke elektronische onderdelen ze nodig hebben om de robot te laten doen wat ze willen en zullen ze in eigen woorden instructies noteren die verhalen hoe de interactie met de mens zal gebeuren.
+Bij het ontwerpen van de robot komt computationeel denken ruim aan bod. Zo moeten de leerlingen o.a. uitvissen welke elektronische onderdelen ze nodig hebben om de robot te laten doen wat ze willen en zullen ze in hun eigen woorden instructies noteren over hoe de interactie met de mens zal gebeuren.
 
 Bij het werken aan dit project is het dus essentieel om de computationele vaardigheden van de leerlingen te begrijpen en te evalueren. Zo kan men vaststellen welke vaardigheden de leerlingen inzetten en welke ze nog moeten ontwikkelen. Het is belangrijk om de leerlingen te begeleiden en hen te helpen bij het versterken van deze vaardigheden.
 

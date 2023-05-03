@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Uitleg RGB-led"
 description: "Uitleg RGB-led"
-keywords: ["oefeningen", "rgb-led"]
+keywords: ["oefeningen", "RGB-led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -37,7 +37,7 @@ teacher_exclusive: false
 - Digitale Actuator
 
 ### Werking
-De rgb-led is een led waarvan je de kleur van het licht zelf kan bepalen door de intensiteit van rood, groen en blauw licht (de primaire kleuren) te programmeren. De intensiteit wordt doorgegeven als een getal tussen 0 en 255 (van lage tot hoge intensiteit). Houd er rekening mee dat niet alle kleuren even goed kunnen wordenweergegeven op de rgb-led via het rgb-kleurenmodel (bv. bruin).
+De RGB-led is een led waarvan je de kleur van het licht zelf kan bepalen door de intensiteit van rood, groen en blauw licht (de primaire kleuren) te programmeren. De intensiteit wordt doorgegeven als een getal tussen 0 en 255 (van lage tot hoge intensiteit). Houd er rekening mee dat niet alle kleuren even goed kunnen wordenweergegeven op de RGB-led via het RGB-kleurenmodel (bv. bruin).
 
 ***
 
@@ -48,7 +48,8 @@ De rgb-led is een led waarvan je de kleur van het licht zelf kan bepalen door de
 ### In de simulator
 
 ![](embed/rgb_sim.png "RGB-led simulator")
-cat ![]()
+
+De blokken die je nodig hebt voor het programmeren van de led-matrices vind je terug onder de categorie ![](embed/cat_uitvoer.png "categorie uitvoer").
 
 ### Belangrijke combinaties
 
@@ -63,5 +64,5 @@ cat ![]()
 > Een <strong>kleurmengsysteem</strong> is een systeem gebaseerd op het idee dat je met een bepaalde set kleuren, <strong>primaire kleuren</strong> genoemd, alle andere kleuren kunt maken.<br><br>Het <strong>subtractieve kleurmengsysteem</strong> is het meest gekende, omdat kinderen dit zelf gemakkellijk kunnen ontdekken tijdens kleuren of verven. Rood + blauw = paars, blauw + geel = groen, geel + rood = oranje, ... Dit gaat uit van de primaire kleuren <strong>cyaan</strong> <em>(hemelsblauw)</em>, <strong>magenta</strong> <em>(een soort roze)</em> en <strong>geel</strong>.<br><br>Het <strong>additieve kleurmengsysteem</strong> is minder intuïtief. Dit wordt gebruikt bij het "mengen" van verschillende kleuren <strong>licht</strong>. De primaire kleuren zijn voor dit kleurmengsysteem <strong>rood</strong>, <strong>groen</strong> en <strong>blauw</strong>.
 
 <div class="alert alert-box alert-success">
-Voor meer informatie over de led-matrix kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+Voor meer informatie over de de RGB-led kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>.
 </div>

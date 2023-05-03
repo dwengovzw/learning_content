@@ -33,6 +33,6 @@ teacher_exclusive: true
 
 # Wat zijn sociale robots?
 ## 20 - 40 minuten in de klas
-Het project ‘Sociale robot’ start het best met een inleiding over sociale robots. Wat zijn sociale robots? Waar worden sociale robots ingezet? Hoe ziet de toekomst met sociale robots eruit? Hoe kan zo’n robot communiceren en kan hij ook emoties tonen? Een sociale robot die vlot in omgang is, is in staat om emoties te simuleren.
+Het project ‘Sociale robot’ start het best met een inleiding over sociale robots. Wat zijn sociale robots? Waar worden sociale robots ingezet? Hoe ziet de toekomst met sociale robots eruit? Hoe kan zo’n robot communiceren en kan hij ook emoties tonen? Een sociale robot die vlot in de omgang is, is in staat om emoties te simuleren.
 
 Voor een meer uitgebreide context betreffende de sociale robots, verwijzen we naar het [robotboekje 'Hallo robot!'](embed/SocialeRobot_handleiding_eerstedruk.pdf "Hallo Robot!")

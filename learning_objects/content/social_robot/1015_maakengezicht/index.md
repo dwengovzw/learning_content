@@ -37,9 +37,9 @@ teacher_exclusive: true
 
 Programmeer gelaatsuitdrukkingen op een robotgezicht en simuleer emoties. Je doet dit zonder computer. Het gezicht moet aan de volgende voorwaarden voldoen:
 
-* Het robotgezicht moet in staat zijn om te reageren op verschillende geluiden, zoals vervelende, plotse en onverwachte geluiden;
-* Het robotgezicht moet verschillende emoties kunnen simuleren, zoals verdrietig, blij en verrast;
-* Je bedenkt nog enkele andere gelaatsuitdrukkingen die de robot moet kunnen weergeven;
+* Het robotgezicht moet in staat zijn om te reageren op verschillende geluiden, zoals vervelende, plotse en onverwachte geluiden.
+* Het robotgezicht moet verschillende emoties kunnen simuleren, zoals verdrietig, blij en verrast.
+* Je bedenkt nog enkele andere gelaatsuitdrukkingen die de robot moet kunnen weergeven.
 * Je programmeert regels om het robotgezicht te laten reageren op verschillende geluiden en emoties met de nieuwe gelaatsuitdrukkingen.
 
 ### Voorbereiding
@@ -90,7 +90,7 @@ Bekijk zeker het volgende filmpje en maak de onderdelen van het gezicht op voorh
 
 4. Elke groep kan dan om de beurt het gezicht besturen met hun aangepaste regels.
 
-5. Rond af door samen te vatten van wat ze hebben gedaan: een programma schrijven, dat lijkt op een programma dat men zou gebruiken om een echt gezicht te bedienen, objectgeoriënteerd programmeren en de mens-computer-interactie van de toekomst onderzoeken.
+5. Rond af door samen te vatten wat ze hebben gedaan: een programma schrijven, dat lijkt op een programma dat men zou gebruiken om een echt gezicht te bedienen, objectgeoriënteerd programmeren en de mens-computer-interactie van de toekomst onderzoeken.
 
 <div class="alert alert-box alert-success">
 <strong>Variaties en uitbreidingen</strong><br>

@@ -32,7 +32,7 @@ teacher_exclusive: false
 # dwenguinoBlockly
 ## Wacht
 
-Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets moet uitgevoerd worden. 
+Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets uitgevoerd moet worden. 
 
 ![](embed/Afb1.png "Voorbeeld wacht")
 

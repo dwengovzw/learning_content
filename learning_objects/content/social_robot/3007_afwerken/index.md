@@ -36,6 +36,6 @@ Controleer je robot a.d.h.v. de **technische tekening**:
 * Werkt het programma zoals verwacht?
 * Ziet je robot eruit als verwacht?
 
-Zoja, dan heb je je doelstellingen bereikt en ben je klaar! 
+Zo ja, dan heb je je doelstellingen bereikt en ben je klaar! 
 
 Als je tijd over hebt, kun je overwegen om extra functionaliteiten toe te voegen aan je robot. Misschien had je tijdens het brainstormen nog ideeën die je graag zou willen implementeren?

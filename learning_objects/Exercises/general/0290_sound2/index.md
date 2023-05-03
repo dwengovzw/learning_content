@@ -44,5 +44,5 @@ Wanneer een geluidssensor voor de eerste keer wordt gebruikt, is deze zeer gevoe
 
 1. Draai de schroef in **tegenwijzerzin** tot een led uit gaat.
 2. Draai nu de schroef *voorzichtig* in **wijzerzin** tot de led terug aan gaat.
-3. Draai de schroef *voorzichtig* terug in **tegenwijzerzin** en stop zodra dat de led terug uit gaat.
+3. Draai de schroef *voorzichtig* terug in **tegenwijzerzin** en stop zodra de led terug uit gaat.
 4. Tik nu met je vinger op de sensor. Als de led brandt tijdens de tik, dan is je sensor correct afgesteld. Anders ga je terug naar stap 2. 

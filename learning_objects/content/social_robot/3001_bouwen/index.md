@@ -33,9 +33,9 @@ teacher_exclusive: false
 
 # Bouwen van de fysieke robot
 
-Deze les ga je eindelijk aan de slag met het materiaal!  
+Tijdens deze les ga je eindelijk aan de slag met het materiaal!  
 
-Zorg ervoor dat je alles wat je nodig hebt bij de hand hebt voordat je begint met het bouwen van je sociale robot. Hieronder vind je een lijst met alle benodigde materialen en gereedschappen:
+Zorg ervoor dat je alles wat je nodig hebt bij de hand hebt, voordat je begint met het bouwen van je sociale robot. Hieronder vind je een lijst met alle benodigde materialen en gereedschappen:
 
 * het ontwerp van je robot;
 * het materiaal waaruit je het frame van jullie robot gaat maken (een kartonnen doos, planken, ...);

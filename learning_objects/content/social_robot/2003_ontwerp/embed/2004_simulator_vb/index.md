@@ -1,5 +1,5 @@
 ---
-hruid: sr_vbsimulator
+hruid: sr2_simulator_vb
 version: 3
 language: nl
 title: "Voorbereiding simulator"

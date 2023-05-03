@@ -29,12 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# dwenguinoBlockly
+# DwenguinoBlockly
 ## Inleiding
 
-dwenguinoblockly is een programmeeromgeving voor kinderen zoals jou! 
+Dwenguinoblockly is een programmeeromgeving voor kinderen zoals jij! 
 
-dwenguinoblockly heeft twee grote voordelen:
+Dwenguinoblockly heeft twee grote voordelen:
 
 1. Het is aangepast aan jouw leeftijd (derde graad basisonderwijs en eerste graad secundair onderwijs).
 2. Het is een grafische programmeertaal. Programmeren is zo eenvoudig als het verslepen van blokken op het scherm.

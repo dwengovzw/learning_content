@@ -36,5 +36,5 @@ OPGAVE 2
 Programmeer 2 led-matrices zodat ze op 2 ogen lijken.  
 
 <div class="alert alert-box alert-success">
-Binnen de simulator kan je dit op 2 manieren doen: manueel of met voorgeprogrammeerde ogen via het <em>'Toon oogpatroon'-blok</em>
+Binnen de simulator kan je dit op 2 manieren doen: manueel of met voorgeprogrammeerde ogen via het <em>'Toon oogpatroon'-blok</em>.
 </div>

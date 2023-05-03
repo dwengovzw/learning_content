@@ -35,9 +35,9 @@ teacher_exclusive: false
 ## Uitsnijden van de uitsparingen
 
 ### Markeren van de doos
-Het is belangrijk om goed na te denken over waar je de elektronica op de doos gaat bevestigen voordat je begint met snijden of prikken. Fouten kunnen moeilijk ongedaan gemaakt worden zodra je hiermee begonnen bent. Zorg ervoor dat je voldoende ruimte laat langs de randen van de uitsparingen voor de bedrading.
+Het is belangrijk om goed na te denken over waar je de elektronica op de doos gaat bevestigen, voordat je begint met snijden of prikken. Fouten kunnen moeilijk ongedaan gemaakt worden zodra je hiermee begonnen bent. Zorg ervoor dat je voldoende ruimte laat langs de randen van de uitsparingen voor de bedrading.
 
-Je kunt gebruik maken van het sjabloon voor de elektrische onderdelen dat bij de SR-kit is inbegrepen om je hierbij te helpen.
+Om je hierbij te helpen kan je gebruikmaken van het sjabloon voor de elektrische onderdelen dat bij de SR-kit is inbegrepen.
 
 ![](embed/sjabloon.png)
 
@@ -55,11 +55,11 @@ Het uitsnijden kan met een **mesje** gebeuren of door te prikken met de bijgelev
 
 3. Leg het gereedschap neer als anderen in de buurt zijn of draai jezelf van hen weg.
 
-4. Schrik anderen niet af wanneer ze scherp gereedschap vast hebben, anders kunnen ze zich bezeren.
+4. Schrik anderen niet af wanneer ze scherp gereedschap vasthebben, anders kunnen ze zich bezeren.
 
-5. Houd het snijgereedschap weg van jezelf en anderen met de scherpe kant.
+5. Houd de scherpe kant van het snijgereedschap weg van jezelf en anderen.
 
-6. Geef het snijgereedschap nooit rechtstreeks aan iemand anders. Leg het op een veilige plaats neer waar het niet weg kan rollen en laat de andere persoon het zelf oppakken.
+6. Geef het snijgereedschap nooit rechtstreeks aan iemand anders. Leg het op een veilige plaats neer waar het niet weg kan rollen, en laat de andere persoon het zelf oppakken.
 
 7. Houd je aandacht erbij als je aan het snijden of prikken bent of het gereedschap vasthoudt. Laat je niet afleiden en leid anderen ook niet af.
 
