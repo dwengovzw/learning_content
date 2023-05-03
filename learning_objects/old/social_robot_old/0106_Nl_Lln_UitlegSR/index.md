@@ -47,7 +47,7 @@ In het onderwijs kunnen sociale robots ingezet worden om leerlingen individueel 
 
 
 *Discussie:*
-*Is een stofzuigerrobot een sociale robot?*  
+*Is een robotstofzuiger een sociale robot?*  
 
 
 ![© Knightscope](embed/MACM0402.jpg "© Knightscope")

@@ -57,5 +57,5 @@ In de simulator is een schuifbalk voorzien om de afstand tussen de sensor en een
 De blokken voor het programmeren van de sonar-sensor vind je terug onder de categorie ![](embed/cat_uitvoer.png "cateogrie uitvoer").
 
 <div class="alert alert-box alert-success">
-Voor meer informatie over de sonar-sensor kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+Voor meer informatie over de sonar-sensor kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>.
 </div>

@@ -43,7 +43,7 @@ teacher_exclusive: true
 Module 0 is het eerste leerpad dat de leerlingen zullen zien binnen dit project. Het bestaat uit een korte inleiding en 4 **links** naar de volgende modules. Deze links zullen de leerlingen doorverwijzen naar de **leerpaden voor leerlingen**.
 
 <div class="alert alert-box alert-success">
-De leerpaden die op de projectpagina te vinden zijn, zijn de </strong>leerpaden voor leerkrachten</strong> en het <strong>Module 0: Leerlingen</strong>.
+De leerpaden die op de projectpagina te vinden zijn, zijn de </strong>leerpaden voor leerkrachten</strong>,  <strong>Module 0: Leerlingen</strong> en <strong>Module 2: Oefeningen</strong>.
 
 Om naar de leerpaden voor leerlingen te gaan, heb je 2 opties:<br>
 <ul><li>de links in <em>Module 0: Leerlingen</em></li></ul>

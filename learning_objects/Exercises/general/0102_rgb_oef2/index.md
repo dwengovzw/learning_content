@@ -4,7 +4,7 @@ version: 3
 language: nl
 title: "Oefening Rgb-led 2"
 description: "Oefening Rgb-led 2"
-keywords: ["oefeningen", "rgb-led"]
+keywords: ["oefeningen", "RGB-led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -33,4 +33,4 @@ teacher_exclusive: false
 
 OPGAVE 2
 
-Maak een zwaailicht voor een politierobot. (Je hebt slechts één RGB-led dus laat het flikkeren)
+Maak een zwaailicht voor een politierobot. (Je hebt slechts één RGB-led, dus laat het flikkeren).

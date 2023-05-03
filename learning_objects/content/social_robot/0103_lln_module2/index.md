@@ -33,7 +33,7 @@ teacher_exclusive: false
 ---
 
 # Lesverloop
-## Module 2: Ontwerp & programmeren
+## Module 2: Ontwerpen & programmeren
 
 *Onderstaande link brengt je naar module 2 van 'Sociale Robot'* <br>
-[Module 2: Ontwerp en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2_oefeningen&language=nl "Module 2")  
+[Module 2: Ontwerpen en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2_oefeningen&language=nl "Module 2")  

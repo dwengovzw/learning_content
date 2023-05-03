@@ -32,7 +32,7 @@ teacher_exclusive: false
 
 # Opruimen
 
-Jammer genoeg moet je op het einde van de rit je robot afbreken ... Wees gerust, je kan het meeste houden! Enkel de elektronica zal je moeten eruit halen en opbergen in de doos. In de doos vind je terug welk onderdeel waar hoort. Hieronder geven we je alvast ook nog eens een overzicht van de inhoud:
+Jammer genoeg moet je op het einde van de rit je robot afbreken ... Wees gerust, je kan de meeste onderdelen houden! Enkel de elektronica zal je eruit moeten halen en opbergen in de doos. In de doos vind je terug welk onderdeel waar hoort. Hieronder geven we je alvast ook nog eens een overzicht van de inhoud:
 
 ![](embed/constructiekit_socialerobot.png "Inhoud kit")
 

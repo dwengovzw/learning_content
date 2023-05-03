@@ -34,11 +34,11 @@ teacher_exclusive: true
 ---
 
 # Wat zijn sociale robots?
-Indien je niet teveel randinformatie wilt geven, maar wel enkele discussies wilt aanhalen, vind je hier de discussies van de bovenstaande leerobjecten nog eens samengevat terug.  
+Indien je niet te veel randinformatie wilt geven, maar wel enkele discussies wilt aanhalen, vind je hier de discussies van de bovenstaande leerobjecten nog eens samengevat terug.  
 
 ## Discussies
 
-*Is een stofzuigerrobot een sociale robot?*  
+*Is een robotstofzuiger een sociale robot?*  
 
 *Is een sociale robot goed gezelschap voor een eenzame bejaarde?*  
 

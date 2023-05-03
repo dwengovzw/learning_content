@@ -61,4 +61,4 @@ Het proces van testen en debuggen is hierbij zeer belangrijk. Programmeren is ni
 
 
 **Lesfase E - Slot**
-* Laat de leerlingen een lijst van knutselmateriaal opstellen dat ze nodig hebben voor het bouwen van hun robot. Je kan dit materiaal zelf voorzien, maar je kan de leerlingen zelf dozen, wol, papier e.d. laten meebrengen indien gewenst. 
+* Laat de leerlingen een lijst van knutselmateriaal opstellen dat ze nodig hebben voor het bouwen van hun robot. Je kan dit materiaal zelf voorzien, maar je kan ook de leerlingen zelf dozen, wol, papier e.d. laten meebrengen indien gewenst. 

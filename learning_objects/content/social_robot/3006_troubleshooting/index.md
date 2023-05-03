@@ -32,13 +32,13 @@ teacher_exclusive: false
 ---
 # Programmeren van de fysieke robot
 ## Testen en debuggen
-Wanneer je bezig bent met testen en debuggen, kan het nodig zijn om verschillende dingen uit te proberen voordat je het gewenste resultaat bereikt. Dit vereist echter wel een doordachte aanpak. Probeer eerst te achterhalen wat er precies fout gaat en bedenk vervolgens een oplossing. Test deze oplossing en herhaal het proces indien nodig.
+Wanneer je bezig bent met testen en debuggen, kan het nodig zijn om verschillende dingen uit te proberen, voordat je het gewenste resultaat bereikt. Dit vereist echter wel een doordachte aanpak. Probeer eerst te achterhalen wat er precies fout gaat en bedenk vervolgens een oplossing. Test deze oplossing en herhaal het proces indien nodig.
 
 **Voorbeeld 1**  
 Stel dat je 2 ledmatrices als ogen hebt gebruikt voor de robot, maar ze zijn per ongeluk omgewisseld van plaats.
 
 *Optie 1*  
-Je verwisselt de ledmatrices in de fysieke robot zodat ze overeenkomen met het programma.  
+Je verwisselt de ledmatrices in de fysieke robot, zodat ze overeenkomen met het programma.  
 
 *Optie 2*  
 Je programmeert de ogen opnieuw, maar nu voor de juiste plaats.  
@@ -51,13 +51,13 @@ De armpjes van de fysieke robot bewegen niet, terwijl ze in de simulator wel goe
 Controleer de bedrading om te zien of er draden verwisseld of losgekomen zijn.
 
 *Optie 2*
-Controleer of er geen onderdelen van de robot in de weg zitten waardoor de armen niet kunnen bewegen.
+Controleer of er geen onderdelen van de robot in de weg zitten, waardoor de armen niet kunnen bewegen.
 
 *Optie 3*
 Maak de armen los en controleer of de servomotoren werken. Misschien zijn de armen te zwaar om te bewegen?
 
 <div class="alert alert-box alert-success">
-Tijdens het testen en debuggen is het belangrijk om de oorzaak van de fout vast te stellen voordat je een oplossing bedenkt. Op deze manier kun je gericht naar een oplossing zoeken en het proces efficiënter maken. 
+Tijdens het testen en debuggen is het belangrijk om de oorzaak van de fout vast te stellen, voordat je een oplossing bedenkt. Op deze manier kun je gericht naar een oplossing zoeken en het proces efficiënter maken. 
 </div>
 
-Indien je nog tijd overhebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?
+Indien je nog tijd over hebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?

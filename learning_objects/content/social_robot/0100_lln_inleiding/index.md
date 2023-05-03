@@ -34,11 +34,11 @@ teacher_exclusive: false
 
 ![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Introductie Sociale Robot")
 
-*Welkom in het project 'Sociale Robot'! In dit project zal je aan de slag gaan om je eigen sociale robot te verwezenlijken!*
+*Welkom bij het 'Sociale Robot'-project! In dit project zal je aan de slag gaan om je eigen sociale robot te verwezenlijken!*
 
 <strong>Maar... hoe begin je eraan? Hoe maak je dat, zo'n *'sociale robot'*?</strong>
 
-Het bouwen van een sociale robot is geen eenvoudige taak, maar als he het probleem in kleinere deelproblemen opsplitst, lijkt het al een stuk minder moeilijk.
+Het bouwen van een sociale robot is geen eenvoudige taak, maar als je het probleem in kleinere deelproblemen opsplitst, lijkt het al een stuk minder moeilijk.
 
 * *Hoe ontwerp ik een sociale robot?*
 * *Hoe programmeer ik een sociale robot?*

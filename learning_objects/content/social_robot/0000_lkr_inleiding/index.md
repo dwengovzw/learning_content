@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Het 'Sociale Robot'-project
 
-'Sociale Robot' is een fantastische manier om jonge leerlingen enthousiast te maken over STEM. Het stelt leerlingen in staat om hun creativiteit te ontwikkelen en technische vaardigheden te verwerven door het ontwerpen, programmeren en bouwen van hun eigen sociale robot. Bovendien sluit dit project aan bij actueel wetenschappelijk onderzoek naar het verbeteren van de interactie tussen mens en robot en de mogelijkheden die sociale robots bieden om bij te dragen aan verschillende maatschappelijke uitdagingen. 
+'Sociale Robot' is een fantastische manier om jonge leerlingen enthousiast te maken voor STEM. Het stelt leerlingen in staat om hun creativiteit te ontwikkelen en technische vaardigheden te verwerven door het ontwerpen, programmeren en bouwen van hun eigen sociale robot. Bovendien sluit dit project aan bij actueel wetenschappelijk onderzoek naar het verbeteren van de interactie tussen mens en robot en de mogelijkheden die sociale robots bieden om bij te dragen aan verschillende maatschappelijke uitdagingen. 
 
 Het is een vakoverstijgend STEM-project voor leerlingen van de eerste of tweede graad secundair onderwijs, rekening houdend met de eindtermen en minimumdoelen van het Vlaamse onderwijs.
 

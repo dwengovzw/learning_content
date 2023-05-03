@@ -34,7 +34,7 @@ teacher_exclusive: false
 # Wat zijn sociale robots?
 ## Digitale systemen
 
-*Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een stofzuigerrobot, een wasmachine een elektrische tandenborstel of een wekkerradio.*
+*Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een robotstofzuiger, een wasmachine een elektrische tandenborstel of een wekkerradio.*
 
 Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een *microcontroller*. Ze beschikken over in- en uitgangen.  
 De microcontroller krijgt gegevens van de ingangen (input). Hij verwerkt de gegevens, voert berekeningen uit en stuurt vervolgens de digitale apparaten aan (output).  

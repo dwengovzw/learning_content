@@ -36,10 +36,10 @@ Nu de leerlingen hun robot hebben gemaakt, kan je als afsluiter voor het project
 
 Hier bundelen we alvast enkele leuke ideeën:
 
-* **Robottentoonstelling**<br>Het groepje heeft zijn eigen standje en hun robot voorstellen. Zo kunnen uitleg geven bij wat de robot doet en de vaardigheden van de robot demonstreren.
+* **Robottentoonstelling**<br>Het groepje heeft zijn eigen standje en stelt zijn robot voor. Zo kunnen ze uitleg geven bij wat de robot doet en de vaardigheden van de robot demonstreren.
 
-* **Toneel**<br>Het groepje verzint een klein toneel waarin de robot verwerkt zit als een acteur. Zo kunnen ze tonen hoe men kan interageren met hun robot.
+* **Toneel**<br>Het groepje verzint een klein toneelstuk waarin de robot verwerkt zit als een acteur. Zo kunnen ze tonen hoe men kan interageren met hun robot.
 
-* **Dokter leerling**<br>Het groepje overloopt het *'medisch dossier'* van hun robot. Ze stellen de robot voor als persoon en overlopen de capaciteiten van de robot. Daarnaast beschrijven ze ook de problemen die ze ondervonden tijdens het bouwen van de robot als medische gebeurtenissen. (Een robotarm die eraf viel is dan 'een schouder uit de kom', een gebroken neus iets dat fout gesneden is, een component die ze moesten vervangen is een 'transplantatie', ...)
+* **Dokter leerling**<br>Het groepje overloopt het *'medisch dossier'* van zijn robot. Ze stellen de robot voor als persoon en overlopen de capaciteiten van de robot. Daarnaast beschrijven ze ook de problemen die ze ondervonden tijdens het bouwen van de robot als medische gebeurtenissen. (Een robotarm die eraf viel is dan 'een schouder uit de kom', een gebroken neus iets dat fout gesneden is, een component die ze moesten vervangen is een 'transplantatie', ...).
 
 * ...

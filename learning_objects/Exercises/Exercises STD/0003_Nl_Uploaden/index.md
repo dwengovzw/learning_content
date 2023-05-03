@@ -36,10 +36,10 @@ Het is belangrijk dat je alle stappen doorloopt zoals getoond in het filmpje!
 
 * Schrijf het programma;
 * Download het programma met de uploadknop ![](embed/upload.png "Uploaden") in het hoofdmenu;
-* Open downloads, daar staat nu een .dw bestand
+* Open downloads, daar staat nu een .dw-bestand
 * Sluit de dwenguino aan en druk op RESET + ZUID, laat vervolgens de RESET-knop, dan de ZUID-knop los;
 * De dwenguino staat in de verkenner tussen de mappen als USB-toestel;
-* Kopieer het .dw bestand naar de dwenguino;
+* Kopieer het .dw-bestand naar de dwenguino;
 * Druk op RESET.
 
 ![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "Uploaden dwenguino")

@@ -40,7 +40,7 @@ Indien je niet teveel randinformatie wilt geven, maar wel enkele discussies wilt
 
 *Is een sociale robot goed gezelschap voor een eenzame bejaarde?*  
 
-*Is een stofzuigerrobot een sociale robot?*  
+*Is een robotstofzuiger een sociale robot?*  
 
 *Is het oké dat kinderen en bejaarden hun volledige leven vertellen aan een sociale robot die dit kan opslaan?*  
 

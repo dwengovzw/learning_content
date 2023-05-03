@@ -38,7 +38,7 @@ teacher_exclusive: false
 
 ### Werking
 
-De servomotoren kan je gebruiken voor wat dan ook. Een hoedje dat beweegt, handjes die zwaaien, wenkbrauwen die op een neer gaan... In de simulator voor het bewegen van armen en ogen zijn er alvast wat blokken beschikbaar in de simulator, maar als je wilt, kan je altijd zelf de servomotoren programmeren! 
+De servomotoren kan je gebruiken voor wat dan ook: een hoedje dat beweegt, handjes die zwaaien, wenkbrauwen die op en neer gaan ... Voor het bewegen van armen en ogen zijn er alvast wat blokken beschikbaar in de simulator, maar als je wilt, kan je altijd zelf de servomotoren programmeren! 
 
 Je beschikt over 2 soorten: 
 
@@ -66,5 +66,5 @@ De servomotoren kunnen een ander uiterlijk krijgen in het simulatievenster. Dit 
 Hier kan je dan een ander uiterlijk kiezen.
 
 <div class="alert alert-box alert-success">
-Voor meer informatie over de servomotor kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+Voor meer informatie over de servomotor kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>.
 </div>

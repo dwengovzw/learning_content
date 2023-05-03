@@ -35,19 +35,19 @@ teacher_exclusive: true
 
 # Evaluatie
 
-Tijdens dit project heb je kansen om zowel aan proces- als productevaluatie te doen. Hieronder vind je suggesties voor beide.
+Dit project biedt je de mogelijkheid om zowel aan proces- als productevaluatie te doen. Hieronder vind je suggesties voor beide.
 
 
 ## Procesevaluatie
 
-* Het proces dat de leerlingen doorlopen bij het ontwerpen van hun sociale robot;
-* Het proces dat de leerlingen doorlopen bij het programmeren van hun sociale robot;
-* Het proces dat de leerlingen doorlopen bij het bouwen van hun sociale robot.
+* Het proces dat de leerlingen doorlopen bij het ontwerpen van hun sociale robot
+* Het proces dat de leerlingen doorlopen bij het programmeren van hun sociale robot
+* Het proces dat de leerlingen doorlopen bij het bouwen van hun sociale robot
 
 
 ## Productevaluatie
 
-* De schets van hun droomrobot en hun technische tekening;
-* Het eindprogramma;
-* De afgewerkte sociale robot;
-* De presentatie op het einde van het project.
+* De schets van hun droomrobot en hun technische tekening
+* Het eindprogramma
+* De afgewerkte sociale robot
+* De presentatie op het einde van het project

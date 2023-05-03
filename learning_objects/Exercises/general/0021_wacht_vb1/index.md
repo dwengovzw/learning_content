@@ -36,7 +36,7 @@ OPGAVE 1
 Schrijf een programma dat het volgende doet:
 
 * Laat "Hallo mensen" op het lcd-scherm verschijnen gedurende 1 seconde (1000 ms).
-* Laat "Ik ben dwenguino" op het lcd-scherm verschijnen voor 2 seconden (2000 ms).
+* Laat "Ik ben dwenguino" op het lcd-scherm verschijnen gedurende 2 seconden (2000 ms).
 * Herhaal.
 
 Oplossing:
@@ -44,7 +44,7 @@ Oplossing:
 ![blockly](@learning-object/wacht_m1a/nl/3)
 
 <div class="alert alert-box alert-success">
-Het <em>'wacht'-blok</em> dat <strong>na</strong> een bepaalde instructie staat, geeft weer hoelang de computer moet <strong>wachten</strong> vooraleer deze met de volgende instructie mag beginnen.
+Het <em>'wacht'-blok</em> dat <strong>na</strong> een bepaalde instructie staat, geeft weer hoelang de computer moet <strong>wachten</strong> voordat deze met de volgende instructie mag beginnen.
 </div>
 
 

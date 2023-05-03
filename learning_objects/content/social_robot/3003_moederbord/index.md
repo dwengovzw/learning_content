@@ -33,21 +33,21 @@ teacher_exclusive: false
 
 # Bouwen van de fysieke robot
 ## Het moederbord
-Je zal gebruik maken van de dwenguino en het bijhorende uitbreidingsbord. Bij het snijden van de uitsparingen zal je hier dus ook plaats voor moeten voorzien!  
+Je zal gebruikmaken van de Dwenguino en het bijbehorende uitbreidingsbord. Bij het snijden van de uitsparingen zal je hier dus ook plaats voor moeten voorzien!  
 
 <div class="alert alert-box alert-danger">
-Houd er rekening mee dat de USB-poort van de dwenguino toegankelijk moet zijn om de USB-kabel comfortabel aan te sluiten.
+Houd er rekening mee dat de USB-poort van de Dwenguino toegankelijk moet zijn om de USB-kabel comfortabel aan te sluiten.
 </div>
 
 ### Bedrading en monteren
 
-Voordat je de onderdelen op het lichaam van de robot bevestigt, is het verstandig om eerst de bedrading tussen de dwenguino en de andere componenten aan te sluiten. Dit voorkomt dat er te weinig ruimte overblijft om de draden aan te sluiten nadat de componenten zijn bevestigd.
+Voordat je de onderdelen op het lichaam van de robot bevestigt, is het verstandig om eerst de bedrading tussen de Dwenguino en de andere componenten aan te sluiten. Dit voorkomt dat er te weinig ruimte overblijft om de draden aan te sluiten, nadat de componenten zijn bevestigd.
 
-Onderstaande afbeelding toont welke onderdelen aanwezig zijn op de dwenguino en welke actuatoren hier rechtstreeks op kunnen worden aangesloten.
+Onderstaande afbeelding toont welke onderdelen aanwezig zijn op de Dwenguino en welke actuatoren hier rechtstreeks op kunnen worden aangesloten.
 
-![](embed/assemblage1.png "dwenguino")
+![](embed/assemblage1.png "Dwenguino")
 
-*Het contrast van het lcd-scherm kan worden aangepast. Je kan de dwenguino van stroom voorzien via de USB-kabel of een adapter.*
+*Het contrast van het lcd-scherm kan worden aangepast. Je kan de Dwenguino van stroom voorzien via de USB-kabel of een adapter.*
 
 Op de *extension connector* zal je het uitbreidingsbord kunnen aansluiten (zie afbeelding). Dit is speciaal op maat gemaakt voor de sociale robot. Hiermee kan je alle andere sensoren en actuatoren aansluiten.  
 

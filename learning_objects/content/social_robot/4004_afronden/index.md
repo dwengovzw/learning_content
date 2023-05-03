@@ -37,12 +37,12 @@ Ter afsluiting, of tussendoor, hou je nog een klasgesprek met de leerlingen. Hie
 Enkele suggesties:
 
 **Onderwerpen**
-* *Een klasgesprek over de ethische aspecten die gepaard gaan met sociale robots.*
-* *Een klasgesprek over het inzetten van sociale robots in bepaalde sectoren, bv. de zorg en de auto-industrie.*
-* *Een klasgesprek over een gepeste robot.*
+* *Een klasgesprek over de ethische aspecten die gepaard gaan met sociale robots*
+* *Een klasgesprek over het inzetten van sociale robots in bepaalde sectoren, bv. de zorg en de auto-industrie*
+* *Een klasgesprek over een gepeste robot*
 
 **Werkvormen**
-* *De leerlingen kunnen ook in groepjes van vier of vijf met elkaar over bepaalde stellingen discussiëren.*
+* *De leerlingen kunnen ook in groepjes van vier of vijf met elkaar over bepaalde stellingen discussiëren*
 
 <div class="alert alert-box alert-success">
 Een goed startpunt voor deze activiteit is <a href="https://www.dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf"> de kaartenset</a> die Dwengo heeft ontwikkeld. Er is ook een gedrukte versie verkrijgbaar via <a href="./shop">de webshop</a>.

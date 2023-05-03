@@ -32,17 +32,17 @@ teacher_exclusive: false
 ---
 # dwenguinoBlockly
 ## Je eerste programma
-Nu je weet wat waar staat, kan je beginnen programmeren!
+Nu je weet wat waar staat, kan je beginnen te programmeren!
 
 * Kies in het *simulatormenu* voor het scenario van de sociale robot ![alt](embed/scenario_socialerobot.png "scenario sociale robot").
 
-* Ga in de *toolbox* naar de categorie ![alt](embed/cat_uitvoer.png "categorie uitvoer") en zoek naar de het *'lcd-scherm'-blok*: <br><br>![alt](embed/inloef1.png "blok lcd")
+* Ga in de *toolbox* naar de categorie ![alt](embed/cat_uitvoer.png "categorie uitvoer") en zoek naar het *'lcd-scherm'-blok*: <br><br>![alt](embed/inloef1.png "blok lcd")
 
 * Sleep dit blok naar het *codeveld* en klik het vast in het ‘zet klaar’-gedeelte van het *‘zet klaar/herhaal’-blok*: <br><br>![alt](embed/inloef2.png "klik lcd")
 
 * Je schreef zonet je eerste programma!
 
-* Vooraleer je het programma kan gaan testen, moet je de nodige componenten gaan toevoegen in het simulalatievenster. Om dit te doen, ga je in het simulatievenster op zoek naar het onderstaande icoon<br><br>![](embed/lcd-scherm.png "lcd-scherm")<br><br>en klik je op de +. Eens de component verschijnt, kan je deze verslepen naar de gewenste plaats op de doos.
+* Voordat je het programma kan gaan testen, moet je de nodige componenten gaan toevoegen in het simulalatievenster. Om dit te doen, ga je in het simulatievenster op zoek naar het onderstaande icoon<br><br>![](embed/lcd-scherm.png "lcd-scherm")<br><br>en klik je op de +. Eens de component verschijnt, kan je deze verslepen naar de gewenste plaats op de doos.
 
 * Voer dit programma uit met de simulator door in het *simulatormenu* te klikken op ![alt](embed/simmenu_play.png "simulator play").
 
