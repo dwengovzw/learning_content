@@ -29,16 +29,16 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Knoppen
+## Buttons
 
-OPGAVE 2
+EXERCISE 2
 
-Zorg ervoor dat het programma aan de volgende voorwaarden voldoet:
+Make sure the program meets the following conditions:
 
-- Wanneer je niets doet, staat er op het lcd-scherm: "Druk je eens op de ZUID-knop?"
+- When you're not doing anything, the LCD screen should display: "Press the SOUTH button?"
+- When you press the SOUTH button, "Thank you" will appear on the LCD screen.
+- When you press the NORTH button, "This is not what I asked!" will appear on the LCD screen.
 
-- Wanneer je de ZUID-knop indrukt, verschijnt er op het lcd-scherm: "Dankjewel"
-
-- Wanneer je de NOORD-knop indrukt, verschijnt er op het lcd-scherm: "Dit is niet wat ik vroeg!"
+Solution:
 
 ![blockly](@learning-object/knoppen_m2/nl/3)

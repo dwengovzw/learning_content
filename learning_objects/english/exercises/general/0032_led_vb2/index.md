@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 ## Led
 
-TASK 2
+EXERCISE 2
 
 Let the "odd" leds (except led 13) light up for 2 seconds.
 

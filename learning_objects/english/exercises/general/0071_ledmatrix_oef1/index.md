@@ -31,12 +31,12 @@ teacher_exclusive: false
 ---
 ## Led-matrix
 
-OPGAVE 1
+TASK 1
 
-Laat een hartje verschijnen op een ledmatrix in de simulator.
+Display a heart on a led matrix in the simulator.
 
 ***
 
 <div class="alert alert-box alert-success">
-Je kan kiezen welke figuren verschijnen door aan te vinken welke ledjes moeten branden.
+You can choose which figures to display by checking the LEDs that need to be turned on.
 </div>

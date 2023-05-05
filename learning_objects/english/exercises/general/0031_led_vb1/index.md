@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 ## Led
 
-TASK 1
+EXERCISE 1
 
 Turn on LED 0.
 

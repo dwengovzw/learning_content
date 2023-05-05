@@ -29,18 +29,18 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Servomotor (blauw)
+## Servomotor (blue)
 
-OPGAVE 1
+EXERCISE 1
 
-Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
+Make the robot's hands wave. For this, a block has already been provided.
 
-Oplossing:  
+Solution:
 
-![blockly](@learning-object/servo_m1/nl/3)
+![blockly](@learning-object/servo_m1/en/3)
 
-Je robot kan nu zwaaien met zijn armen.
+Your robot can now wave its arms.
 
 <div class="alert alert-box alert-danger">
-Vergeet niet om de servomotor als component toe te voegen in de simulator! Voor de volledigheid verander je deze ook best van uiterlijk voor een accuratere simulatie.
+Don't forget to add the servo motor as a component in the simulator! For completeness, you should also change its appearance for a more accurate simulation.
 </div>

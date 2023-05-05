@@ -29,12 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Servomotor (blauw)
+## Servomotor (blue)
 
-OPGAVE 1
+EXERCISE 1
 
-Laat de handen van de robot zwaaien. Hiervoor werd er reeds een blok voorzien.
+Make the robot's hands wave. For this purpose, a block has already been provided.
 
 ***
 
-Je robot kan nu zwaaien met zijn armen.
+Your robot can now wave its arms.
