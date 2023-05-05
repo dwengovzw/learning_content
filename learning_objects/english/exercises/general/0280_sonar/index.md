@@ -2,7 +2,7 @@
 hruid: g_sonar
 version: 3
 language: en
-title: "Uitleg Sonar"
+title: "Explanation Sonar"
 description: "Uitleg Sonar"
 keywords: ["oefeningen", "sonar"]
 educational_goals: [

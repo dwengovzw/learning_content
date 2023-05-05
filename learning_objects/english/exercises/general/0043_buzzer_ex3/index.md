@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_zoemer_oef3
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Exercise Buzzer 3"
+description: "Exercise Buzzer 3"
+keywords: ["oefening", "zoemer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -27,18 +27,16 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Led
+## Buzzer
 
-EXERCISE 2
+EXERCISE 3
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Write a program that plays the tune "Brother John" on the buzzer. To do this, you will first need to look up the score of the song and the frequencies of the notes.
 
-Solution:
-
-![blockly](@learning-object/led_m2/en/3)
+***
 
 <div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
+As you can see, this will be a fairly long program. Fortunately, there are a few places where you can shorten it using a <strong>bounded loop</strong>. This will be explained further in the next section.
 </div>

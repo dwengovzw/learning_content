@@ -1,9 +1,9 @@
 ---
-hruid: g_led_vb2
+hruid: g_led_vb3
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
+title: "Example LED 3"
+description: "Example LED 3"
 keywords: ["oefeningen", "led"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,16 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Led
+## LED
 
-EXERCISE 2
+EXERCISE 3
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Let all LEDs blink for half a second in numerical order. This means that LED 0 lights up first and goes off when LED 1 lights up, LED 1 goes off when LED 2 lights up, ...
 
 Solution:
 
-![blockly](@learning-object/led_m2/en/3)
-
-<div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
-</div>
+![blockly](@learning-object/led_m3/en/3)

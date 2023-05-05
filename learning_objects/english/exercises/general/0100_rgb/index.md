@@ -2,8 +2,8 @@
 hruid: g_rgb
 version: 3
 language: en
-title: "Uitleg RGB-led"
-description: "Uitleg RGB-led"
+title: "Explanation RGB-led"
+description: "Explanation RGB-led"
 keywords: ["oefeningen", "RGB-led"]
 educational_goals: [
     {source: Source, id: id}, 

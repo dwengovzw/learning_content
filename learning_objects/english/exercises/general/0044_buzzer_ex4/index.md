@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_zoemer_oef4
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Exercise Buzzer 4"
+description: "Exercise Buzzer 4"
+keywords: ["oefeningen", "zoemer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -27,18 +27,16 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Led
+## Buzzer
 
-EXERCISE 2
+EXERCISE 4
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Write a program so that you can use the Dwenguino as a pentatonic (5-tone) instrument. You can do this by assigning a note to each of the 5 buttons (NORTH - EAST - SOUTH - WEST - MIDDLE). A standard pentatonic scale is *Do (C), Re (D), Mi (E), Fa (F), Sol (G)*.
 
-Solution:
-
-![blockly](@learning-object/led_m2/en/3)
+***
 
 <div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
+As you may notice, it's not so easy to bind buzzer tones to the buttons. The most efficient way to do this is explained below.
 </div>

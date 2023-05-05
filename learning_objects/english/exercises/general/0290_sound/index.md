@@ -2,8 +2,8 @@
 hruid: g_sound
 version: 3
 language: en
-title: "Uitleg Geluidssensor"
-description: "Uitleg Geluidssensor"
+title: "Explanation Geluidssensor"
+description: "Explanation Geluidssensor"
 keywords: ["oefeningen", "geluidssensor"]
 educational_goals: [
     {source: Source, id: id}, 

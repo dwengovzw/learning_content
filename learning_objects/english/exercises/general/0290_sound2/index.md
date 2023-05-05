@@ -2,8 +2,8 @@
 hruid: g_sound2
 version: 3
 language: en
-title: "Afstellen Geluidssensor"
-description: "Uitleg Geluidssensor"
+title: "Calibrating Sound sensor"
+description: "Calibrating Sound sensor"
 keywords: ["oefeningen", "geluidssensor"]
 educational_goals: [
     {source: Source, id: id}, 

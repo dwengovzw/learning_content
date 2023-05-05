@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_zoemer_vb2
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Example Buzzer 2"
+description: "Example Buzzer 2"
+keywords: ["oefeningen", "zoemer"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,16 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Led
+## Buzzer
 
 EXERCISE 2
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Write a program so that the buzzer plays a tone for 1 second when you press the NORTH button.
 
 Solution:
 
-![blockly](@learning-object/led_m2/en/3)
-
-<div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
-</div>
+![blockly](@learning-object/zoemer_m2/en/3)

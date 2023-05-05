@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_rgb_vb2
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Example RGB-led 2"
+description: "Example RGB-led 2"
+keywords: ["oefeningen", "RGB-led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,16 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Led
+## RGB-led
 
 EXERCISE 2
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Create a flashing light for a police robot. (You only have one RGB-led, so make it flicker).
 
-Solution:
+Solution:  
 
-![blockly](@learning-object/led_m2/en/3)
-
-<div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
-</div>
+![blockly](@learning-object/rgb_m2/nl/3)

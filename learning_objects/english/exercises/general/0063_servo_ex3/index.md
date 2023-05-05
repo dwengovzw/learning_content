@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_servo_oef3
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Exercise Servo motor 3"
+description: "Exercise Servo motor 3"
+keywords: ["oefeningen", "servomotor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -27,18 +27,16 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Led
+## Servo motor (black)
 
-EXERCISE 2
+EXERCISE 3
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Write a program for a black servo motor so that the motor rotates continuously.
 
-Solution:
-
-![blockly](@learning-object/led_m2/en/3)
+***
 
 <div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
+In contrast to the blue servo motor, here you have to set the speed of the servo motor instead of an angle. If a black servo motor has to stop rotating, set the speed to 0.
 </div>

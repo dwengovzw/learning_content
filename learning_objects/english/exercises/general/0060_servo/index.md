@@ -2,8 +2,8 @@
 hruid: g_servo
 version: 3
 language: en
-title: "Uitleg Servomotor"
-description: "Uitleg Servomotor"
+title: "Explanation Servo motor"
+description: "Explanation Servo motor"
 keywords: ["oefeningen", "servomotor"]
 educational_goals: [
     {source: Source, id: id}, 
