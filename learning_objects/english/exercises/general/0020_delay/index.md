@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# dwenguinoBlockly
+# DwenguinoBlockly
 ## Delay
 
 The *'delay'-block* is an instruction that tells the computer how long something should be executed.
@@ -42,4 +42,4 @@ The time is expressed in milliseconds. One millisecond is one thousandth of a se
 
 Try out the example below to see how it works!
 
-![blockly](@learning-object/wacht_m/nl/3)
+![blockly](@learning-object/wacht_m/en/3)

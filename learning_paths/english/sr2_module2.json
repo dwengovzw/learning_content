@@ -135,7 +135,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "g_lcd",
+            "hruid": "g_lcd_sr",
             "version": "3",
             "language": "en"
           }
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "learningobject_hruid": "g_lcd",
+      "learningobject_hruid": "g_lcd_sr",
       "version": "3",
       "language": "en",
       "transitions": [

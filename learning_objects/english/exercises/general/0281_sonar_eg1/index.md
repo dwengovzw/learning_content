@@ -52,7 +52,7 @@ The number from the sonar sensor is converted by the ![](embed/block_text.png "t
 
 You can now replace the existing *'text'* block of the LCD screen with this new text block, resulting in the following program:
 
-![blockly](@learning-object/sonar_m1a/nl/3)
+![blockly](@learning-object/sonar_m1a/en/3)
 
 ***
 
@@ -75,7 +75,7 @@ Once you have named a variable in a program, you can always call it using ![](em
 
 The end result for reading a sonar sensor looks like this:
 
-![blockly](@learning-object/sonar_m1b/nl/3)
+![blockly](@learning-object/sonar_m1b/en/3)
 
 <div class="alert alert-box alert-success">
 The values returned by the sonar sensor are now displayed on the LCD screen. If this doesn't work, troubleshoot to find the problem.

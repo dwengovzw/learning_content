@@ -35,7 +35,7 @@ teacher_exclusive: true
 
 De tweede manier is om alle code te verplaatsen van het *'zet klaar'-deel* naar het *'herhaal'-deel*. Dan zal de computer simpelweg de code opnieuw uitvoeren eens ze allemaal uitgevoerd is.
 
-![blockly](@learning-object/wacht_m3/nl/3)
+![blockly](@learning-object/wacht_m3/en/3)
 
 <div class="alert alert-box alert-success">
 uitleg

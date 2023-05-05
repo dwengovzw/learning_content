@@ -30,19 +30,19 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# dwenguinoBlockly
+# DwenguinoBlockly
 ## Your first program
 Now that you know where everything is, you can start programming!
 
 * In the *simulator menu*, select the scenario of the social robot ![alt](embed/scenario_socialerobot.png "social robot scenario").
 
-* In the *toolbox*, go to the category ![alt](embed/cat_uitvoer.png "output category") and look for the *'LCD screen'-block*: <br><br>![alt](embed/inloef1.png "LCD block")
+* In the *toolbox*, go to the category ![alt](embed/cat_output.png "output category") and look for the *'LCD screen'-block*: <br><br>![alt](embed/firstprogram.png "LCD block")
 
-* Drag this block to the *code field* and attach it to the ‘set up’ part of the *‘setup/loop’ block*: <br><br>![alt](embed/inloef2.png "click LCD")
+* Drag this block to the *code field* and attach it to the ‘set up’ part of the *‘setup/loop’ block*: <br><br>![alt](embed/firstprogram2.png "click LCD")
 
 * You just wrote your first program!
 
-* Before you can test the program, you need to add the necessary components to the simulation window. To do this, in the simulation window, look for the icon below and click on the + button.<br><br>![](embed/lcd-scherm.png "lcd screen")<br><br>Once the component appears, you can drag it to the desired location on the board.
+* Before you can test the program, you need to add the necessary components to the simulation window. To do this, in the simulation window, look for the icon below and click on the + button.<br><br>![](embed/lcdscreen.png "LCD screen")<br><br>Once the component appears, you can drag it to the desired location on the board.
 
 * Run this program with the simulator by clicking on ![alt](embed/simmenu_play.png "simulator play") in the *simulator menu*.
 
