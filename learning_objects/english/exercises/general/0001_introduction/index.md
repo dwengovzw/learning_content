@@ -33,15 +33,15 @@ teacher_exclusive: false
 # dwenguinoBlockly  
 ## A programming environment
 
-The programming environment with a simulator is available online at [https://blockly.dwengo.org](https://blockly.dwengo.org "link simulator").
+The programming environment with a simulator is available online at [https://blockly.dwengo.org](https://blockly.dwengo.org/?lang=en "link simulator").
 
 Below you can see a screenshot of the environment with a description of the different parts.
 
-![](embed/simulator.png "Simulator components")
+![](embed/en_simulator_sr.png "Simulator components")
 
-1. **Toolbox**<br>In this menu you can find the different code blocks. The menu is divided into categories, each containing a specific type of blocks. In ![alt](embed/cat_dwenguino.png "category dwenguino"), for example, you can find all the blocks that are specific to the dwenguino.
+1. **Toolbox**<br>In this menu you can find the different code blocks. The menu is divided into categories, each containing a specific type of blocks. In ![alt](embed/cat_dwenguino.png "category Dwenguino"), for example, you can find all the blocks that are specific to the dwenguino.
 
-2. **Code field**<br>This is where your program is displayed. The *'setup/loop'* block is already present. <br><br>![alt](embed/b_zetklaarherhaal.png "Image of the setup/loop block")
+2. **Code field**<br>This is where your program is displayed. The *'setup/loop'* block is already present. <br><br>![alt](embed/en_setuploop.png "Image of the setup/loop block")
 
 > Only code placed in the ‘setup’ and 'loop' parts of this block will be executed. Code placed elsewhere will not be executed. To program, drag blocks from the *toolbox* to the *code field* and click them into the *'setup/loop'* block.
 
