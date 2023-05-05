@@ -30,20 +30,18 @@ skos_concepts: [
 teacher_exclusive: False
 ---
 # dwenguinoBlockly
-## Voorwaardelijke herhaling
+## Conditional loops
 
-Om een voorwaardelijke herhaling uit te voeren, gebruik je het volgende blok:  
+To perform a conditional loop, you use the following block:
 
-![](embed/vh.png "Voorwaardelijke herhaling")  
+![](embed/vh.png "Conditional loop")  
 
-In tegenstelling tot de begrensde herhaling, stellen we hier, i.p.v. een start- en stopwaarde, een startconditie in. Als aan de startconditie voldaan is, zal de lus opstarten. Eens opgestart, zal de inhoud van de lus herhaald worden tot er niet langer aan de startconditie wordt voldaan.
+In contrast to the bounded loop, here we set a start condition instead of a start and stop value. If the start condition is met, the loop will start. Once started, the contents of the loop will be repeated until the start condition is no longer met.
 
-Voor opgave 4 van de buzzer, zullen we als startconditie instellen dat een knop moet ingedrukt zijn. Zolang dit het geval is, zal de buzzer de gewenste toon produceren. Zodra je de knop loslaat moet deze toon stoppen.
+For exercise 4 of the buzzer, we will set the start condition to be that a button must be pressed. As long as this is the case, the buzzer will produce the desired tone. As soon as you release the button, this tone should stop.
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/zoemer_m4/nl/3)  
+![blockly](@learning-object/zoemer_m4/en/3) 
 
-*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*
-
-Test test test
+*Also test this on a real dwenguino if it works in the simulator.*

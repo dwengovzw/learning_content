@@ -30,20 +30,20 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Begrensde herhaling
+## Bounded repetition
 
-Om een begrensde herhaling uit te voeren, gebruik je het volgende blok:  
+To perform a bounded repetition, use the following block:
 
-![](embed/begrensdeherhaling.png "Begrensde herhaling")  
+![](embed/begrensdeherhaling.png "Bounded repetition")
 
-Je stelt hiermee het aantal herhalingen in, aan de hand van een *teller* die een start- en stopwaarde opgelegd krijgt. Deze teller werd in het voorbeeld 'i' genoemd, begint bij 0 en er wordt per herhaling 1 bij opgeteld. De herhaling stopt zodra de stopwaarde bereikt wordt. 
+You set the number of repetitions using a *counter* that is given a starting and stopping value. This counter was named 'i' in the example, starts at 0, and 1 is added to it per repetition. The repetition stops when the stopping value is reached.
 
-*Wat is de stopwaarde in het voorbeeld? Hoeveel keer wordt deze lus dus herhaald?*
+*What is the stopping value in the example? How many times is this loop repeated?*
 
-Voor opgave 3 van de buzzer kan je dus elk deel dat herhaald moet worden, inkorten door een begrensde herhaling te gebruiken. Omdat elk deel 2 keer moet afgespeeld worden (1 herhaling), stel je de stopwaarde in op 1.
+For exercise 3 of the buzzer, you can shorten each part that needs to be repeated by using a bounded repetition. Because each part must be played twice (1 repetition), set the stopping value to 1.
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/begrensdeherhaling_m/nl/3)  
+![blockly](@learning-object/begrensdeherhaling_m/nl/3)
 
-*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*
+*Also try this out on a real Dwenguino if it works in the simulator.*
