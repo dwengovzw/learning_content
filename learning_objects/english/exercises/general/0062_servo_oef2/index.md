@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Servomotor (blue)
 
-TASK 2
+EXERCISE 2
 
 Program both hands so that they can move up and down in intervals of 1 second.
 

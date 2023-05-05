@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 ## Buttons
 
-TASK 1.1
+EXERCISE 1.1
 
 When the program starts, if the NORTH button is pressed, the first LED (LED 0) will turn on.
 
@@ -41,7 +41,7 @@ Solution:
 
 ***
 
-TASK 1.2
+EXERCISE 1.2
 
 It is not intended for LED 0 to remain on when you release the button. Make sure the LED turns off when you release the button.
 
