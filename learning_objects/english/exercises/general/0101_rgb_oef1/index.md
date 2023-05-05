@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Rgb-led
 
-TASK 1
+EXERCISE 1
 
 Choose the RGB values so that the RGB LED lights up with a purple light.
 

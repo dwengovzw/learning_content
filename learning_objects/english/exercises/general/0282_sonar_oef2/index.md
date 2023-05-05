@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Sonar Sensor
 
-TASK 2
+EXERCISE 2
 
 Write a program that depending on the value, returns the message "value < 20 cm" or "value > 20 cm".
 
