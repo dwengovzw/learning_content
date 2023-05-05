@@ -31,6 +31,6 @@ teacher_exclusive: false
 ---
 ## Rgb-led
 
-TASK 2
+EXERCISE 2
 
 Create a flashing light for a police robot. (You only have one RGB LED, so make it flicker).

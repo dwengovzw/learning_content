@@ -45,7 +45,7 @@ Om een specifieke kleur te bekomen, is het gemakkelijker om de waarden op het in
 
 ## Rgb-led
 
-TASK 1
+EXERCISE 1
 
 Choose the RGB values so that the RGB LED lights up with a purple light.
 

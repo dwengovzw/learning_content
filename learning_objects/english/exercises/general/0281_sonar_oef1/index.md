@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Sonar sensor
 
-TASK 1
+EXERCISE 1
 
 Before using the sonar sensor, you need to test it. Write a program to read the sonar sensor.
 
