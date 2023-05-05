@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_servo_vb4
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Example Servo motor 4"
+description: "Example Servo motor 4"
+keywords: ["oefeningen", "servomotor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,16 +29,18 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Led
+## Servo motor (black)
 
-EXERCISE 2
+EXERCISE 4
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Simulate 2 rotating eyes. One eye must rotate clockwise, the other eye counterclockwise.
 
-Solution:
+Solution:  
 
-![blockly](@learning-object/led_m2/en/3)
+![blockly](@learning-object/servo_m4/nl/3)
+
+***
 
 <div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
+To change the rotation direction of a black servo motor, you use negative numbers.
 </div>

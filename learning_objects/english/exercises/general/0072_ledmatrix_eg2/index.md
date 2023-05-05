@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_matrix_vb2
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Example LED matrix 2"
+description: "Example LED matrix 2"
+keywords: ["oefeningen", "led-matrix"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,16 +29,22 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Led
+## LED matrix
 
 EXERCISE 2
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Program 2 LED matrices to look like 2 eyes.
 
-Solution:
+Oplossing:  
 
-![blockly](@learning-object/led_m2/en/3)
+**Methode 1**
+![blockly](@learning-object/matrix_m2a/nl/3)
+
+**Methode 2**
+![blockly](@learning-object/matrix_m2b/nl/3)
+
+***
 
 <div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
+You can do this in the simulator in 2 ways: manually or using pre-programmed eyes with the <em>'Show eye pattern'</em> block.
 </div>

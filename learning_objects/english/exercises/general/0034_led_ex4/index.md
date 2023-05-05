@@ -1,9 +1,9 @@
 ---
-hruid: g_led_vb2
+hruid: g_led_oef4
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
+title: "Exercise LED 4"
+description: "Exercise LED 4"
 keywords: ["oefeningen", "led"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,18 +27,19 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Led
+## LED
 
-EXERCISE 2
+EXERCISE 4
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Write a program that does the following:
 
-Solution:
+1. Turn on LEDs 0 and 7.
+2. Wait 100 ms. Turn on LEDs 1 and 6.
+3. Wait 100 ms. Turn off LEDs 0 and 7. Turn on LEDs 2 and 5.
+4. Wait 100 ms. Turn off LEDs 1 and 6. Turn on LEDs 3 and 4.
+5. Wait 100 ms. Turn off LEDs 2 and 5. Turn on LEDs 0 and 7.
+6. Wait 100 ms. Turn off LEDs 3 and 4.
 
-![blockly](@learning-object/led_m2/en/3)
-
-<div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
-</div>
+*Test this on an actual Dwenguino board if it works in the simulator.*

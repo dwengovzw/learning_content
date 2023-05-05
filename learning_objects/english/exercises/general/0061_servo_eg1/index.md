@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_servo_vb1
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Example Servo motor 1"
+description: "Example Servo motor 1"
+keywords: ["oefeningen", "servomotor"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -29,16 +29,18 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Led
+## Servo motor (blue)
 
-EXERCISE 2
+EXERCISE 1
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Make the robot's hands wave. For this, a block has already been provided.
 
 Solution:
 
-![blockly](@learning-object/led_m2/en/3)
+![blockly](@learning-object/servo_m1/en/3)
 
-<div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
+Your robot can now wave its arms.
+
+<div class="alert alert-box alert-danger">
+Don't forget to add the servo motor as a component in the simulator! For completeness, you should also change its appearance for a more accurate simulation.
 </div>

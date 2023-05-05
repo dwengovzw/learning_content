@@ -1,10 +1,10 @@
 ---
-hruid: g_led_vb2
+hruid: g_rgb_oef1
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
-keywords: ["oefeningen", "led"]
+title: "Exercise RGB-led 1"
+description: "Exercise RGB-led 1"
+keywords: ["oefeningen", "RGB-led"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -27,18 +27,16 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Led
+## RGB-led
 
-EXERCISE 2
+EXERCISE 1
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
+Choose the RGB values so that the RGB LED lights up with a purple light.
 
-Solution:
-
-![blockly](@learning-object/led_m2/en/3)
+***
 
 <div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
+To obtain a specific color, it is easier to look up the values on the internet than to guess. <a href="https://www.rapidtables.com/web/color/purple-color.html">rapidtables.org</a> is a good website for this purpose.
 </div>

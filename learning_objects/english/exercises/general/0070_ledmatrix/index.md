@@ -2,8 +2,8 @@
 hruid: g_matrix
 version: 3
 language: en
-title: "Uitleg Led-matrix"
-description: "Uitleg Led-matrix"
+title: "Explanation LED matrix"
+description: "Explanation LED matrix"
 keywords: ["oefeningen", "led-matrix"]
 educational_goals: [
     {source: Source, id: id}, 

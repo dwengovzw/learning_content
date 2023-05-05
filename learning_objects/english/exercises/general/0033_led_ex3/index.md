@@ -1,9 +1,9 @@
 ---
-hruid: g_led_vb2
+hruid: g_led_oef3
 version: 3
 language: en
-title: "Example LED 2"
-description: "Example LED 2"
+title: "Exercise LED 3"
+description: "Exercise LED 3"
 keywords: ["oefeningen", "led"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,18 +27,10 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-## Led
+## LED
 
-EXERCISE 2
+EXERCISE 3
 
-Let the "odd" leds (except LED 13) light up for 2 seconds.
-
-Solution:
-
-![blockly](@learning-object/led_m2/en/3)
-
-<div class="alert alert-box alert-success">
-If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
-</div>
+Make all LEDs flicker for half a second in numerical order. This means that LED 0 should turn on and then turn off when LED 1 turns on, LED 1 turns off when LED 2 turns on, and so on.
