@@ -38,10 +38,10 @@ Program 2 LED matrices to look like 2 eyes.
 Oplossing:  
 
 **Methode 1**
-![blockly](@learning-object/matrix_m2a/nl/3)
+![blockly](@learning-object/matrix_m2a/en/3)
 
 **Methode 2**
-![blockly](@learning-object/matrix_m2b/nl/3)
+![blockly](@learning-object/matrix_m2b/en/3)
 
 ***
 

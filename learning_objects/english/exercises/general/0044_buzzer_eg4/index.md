@@ -37,7 +37,7 @@ Write a program that allows you to use the Dwenguino as a pentatonic (5-tone) in
 
 Solution:
 
-![blockly](@learning-object/zoemer_m4/nl/3)  
+![blockly](@learning-object/zoemer_m4/en/3)  
 
 <div class="alert alert-box alert-success">
 As you may have noticed, it is not so easy to bind buzz tones to the buttons. The most efficient way to do this is explained below.

@@ -37,7 +37,7 @@ Tekst
 
 Oplossing:
 
-![blockly](@learning-object/meta_hruid/nl/3)
+![blockly](@learning-object/meta_hruid/en/3)
 
 <div class="alert alert-box alert-success">
 Extra uitleg

@@ -37,7 +37,7 @@ Tekst
 
 Oplossing:  
 
-![blockly](@learning-object/matrix_m1/nl/3)
+![blockly](@learning-object/matrix_m1/en/3)
 
 <div class="alert alert-box alert-success">
 uitleg

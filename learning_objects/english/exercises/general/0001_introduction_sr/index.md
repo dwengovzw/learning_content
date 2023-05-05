@@ -2,8 +2,8 @@
 hruid: g_startpagina_sr
 version: 3
 language: en
-title: "Introductie"
-description: "Introductie"
+title: "Introduction"
+description: "Introduction"
 keywords: ["oefeningen"]
 educational_goals: [
     {source: Source, id: id}, 

@@ -39,7 +39,7 @@ Don't be fooled! This is not the same as the previous exercise. Instead of using
 
 Solution:
 
-![blockly](@learning-object/servo_m2/nl/3)
+![blockly](@learning-object/servo_m2/en/3)
 
 You are now able to do a lot of other actions! Your robot can shake hands with someone, cover its eyes...
 

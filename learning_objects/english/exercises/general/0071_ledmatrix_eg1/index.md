@@ -37,7 +37,7 @@ Display a heart on a led matrix in the simulator.
 
 Solution:  
 
-![blockly](@learning-object/matrix_m1/nl/3)
+![blockly](@learning-object/matrix_m1/en/3)
 
 ***
 

@@ -37,7 +37,7 @@ Write a program for a black servo motor so that the motor rotates continuously.
 
 Solution:  
 
-![blockly](@learning-object/servo_m3/nl/3)
+![blockly](@learning-object/servo_m3/en/3)
 
 ***
 

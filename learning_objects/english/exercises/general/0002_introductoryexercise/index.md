@@ -30,15 +30,15 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# dwenguinoBlockly
+# DwenguinoBlockly
 ## Your first program
 Now that you know where everything is, you can start programming!
 
 * In the *simulator menu*, select the scenario for the drawing robot ![alt](embed/scenario_tekenrobot.png "drawing robot scenario").
 
-* In the *toolbox*, go to the category ![alt](embed/cat_dwenguino.png "dwenguino category") and look for the *'lcd screen' block*: <br><br>![alt](embed/inloef1.png "lcd block")
+* In the *toolbox*, go to the category ![alt](embed/cat_dwenguino.png "dwenguino category") and look for the *'lcd screen' block*: <br><br>![alt](embed/firstprogram.png "lcd block")
 
-* Drag this block to the *code area* and snap it into the 'set up' section of the *'set up/repeat'* block: <br><br>![alt](embed/inloef2.png "click lcd")
+* Drag this block to the *code area* and snap it into the 'set up' section of the *'set up/repeat'* block: <br><br>![alt](embed/firstprogram2.png "click lcd")
 
 * You just wrote your first program!
 

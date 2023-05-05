@@ -44,6 +44,6 @@ For exercise 3 of the buzzer, you can shorten each part that needs to be repeate
 
 Solution:
 
-![blockly](@learning-object/begrensdeherhaling_m/nl/3)
+![blockly](@learning-object/begrensdeherhaling_m/en/3)
 
 *Also try this out on a real Dwenguino if it works in the simulator.*

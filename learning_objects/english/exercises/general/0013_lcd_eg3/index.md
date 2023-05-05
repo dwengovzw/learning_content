@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Lcd-screen
+## LCD screen
 
 EXERCISE 3
 

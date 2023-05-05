@@ -37,7 +37,7 @@ Choose the RGB values so that the RGB-led lights up with a purple light.
 
 Solution:  
 
-![blockly](@learning-object/rgb_m1/nl/3)
+![blockly](@learning-object/rgb_m1/en/3)
 
 ***
 

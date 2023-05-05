@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# dwenguinoBlockly
+# DwenguinoBlockly
 ## LCD screen
 
 ### Type

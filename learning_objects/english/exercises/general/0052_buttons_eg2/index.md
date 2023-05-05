@@ -41,4 +41,4 @@ Make sure the program meets the following conditions:
 
 Solution:
 
-![blockly](@learning-object/knoppen_m2/nl/3)
+![blockly](@learning-object/knoppen_m2/en/3)

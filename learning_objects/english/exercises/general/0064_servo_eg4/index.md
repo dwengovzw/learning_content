@@ -37,7 +37,7 @@ Simulate 2 rotating eyes. One eye must rotate clockwise, the other eye countercl
 
 Solution:  
 
-![blockly](@learning-object/servo_m4/nl/3)
+![blockly](@learning-object/servo_m4/en/3)
 
 ***
 

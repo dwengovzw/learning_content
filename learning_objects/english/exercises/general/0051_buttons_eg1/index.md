@@ -37,7 +37,7 @@ When the program starts, if the NORTH button is pressed, the first LED (LED 0) w
 
 Solution:
 
-![blockly](@learning-object/knoppen_m1a/nl/3)
+![blockly](@learning-object/knoppen_m1a/en/3)
 
 ***
 
@@ -47,7 +47,7 @@ It is not intended for LED 0 to remain on when you release the button. Make sure
 
 Solution:
 
-![blockly](@learning-object/knoppen_m1b/nl/3)
+![blockly](@learning-object/knoppen_m1b/en/3)
 
 ***
 
