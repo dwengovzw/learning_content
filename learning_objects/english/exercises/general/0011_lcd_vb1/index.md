@@ -29,19 +29,19 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Lcd-scherm
+## Lcd-screen
 
-OPGAVE 1
+EXERCISE 1
 
-Laat 'Welkom robot' op het lcd-scherm verschijnen.
+Display 'Welcome robot' on the LCD screen.
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/lcd_m1/nl/3)
+![blockly](@learning-object/lcd_m1/en/3)
 
 <div class="alert alert-box alert-success">
-De tekst 'Welkom robot' in het blauwe blokje kan je aanpassen.<br><br>
-De twee nullen eronder zijn ook van belang:<br>
-<ul><li><em>op rij 0</em>: de tekst verschijnt op de eerste regel.</li></ul>
-<ul><li><em> vanaf kolom 0: de tekst verschijnt vanaf het eerste karakter.</li></ul>
+You can change the text 'Welcome robot' in the blue block.<br><br>
+The two zeros below are also important:<br>
+<ul><li><em>on row 0</em>: the text appears on the first row.</li></ul>
+<ul><li><em>starting from column 0</em>: the text starts from the first character.</li></ul>
 </div>

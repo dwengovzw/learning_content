@@ -29,12 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Wacht
+## Delay
 
-OPGAVE 2
+EXERCISE 2
 
-Maak een reclamebord voor de UGent en dwengo. De namen moeten afwisselend verschijnen in een interval van 5 seconden. Zorg er ook voor dat de namen gecentreerd zijn (één regel op het lcd-scherm kan een maximum van 16 karakters tonen).
+Create a billboard for UGent and dwengo. The names should alternate on the LCD screen with an interval of 5 seconds. Also, make sure that the names are centered (one line on the LCD screen can display a maximum of 16 characters).
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/wacht_m2/nl/3)
+![blockly](@learning-object/wacht_m2/en/3)

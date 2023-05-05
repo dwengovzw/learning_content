@@ -29,20 +29,20 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Lcd-scherm
+## Lcd-screen
 
-OPGAVE 3
+EXERCISE 3
 
-Plaats de tekst nu in het midden van het lcd-scherm.
+Now place the text in the middle of the LCD screen.
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/lcd_m3/nl/3)
+![blockly](@learning-object/lcd_m3/en/3)
 
 <div class="alert alert-box alert-success">
-Verander je bij 'op kolom' de 0 in een 5, dan schuift de tekst 5 plaatsen op naar rechts.
+Change the 0 to 5 in 'on column' block to shift the text 5 places to the right.
 </div>
 
 <div class="alert alert-box alert-warning">
-<em>Test deze voorbeelden ook zelf uit in de simulator! Als je de werking wat te pakken hebt, kan je zelf aan de slag.</em>
+<em>Test these examples out for yourself in the simulator! Once you get the hang of how it works, you can start working on your own solutions.</em>
 </div>

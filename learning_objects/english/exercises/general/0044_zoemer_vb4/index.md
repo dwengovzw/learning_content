@@ -29,16 +29,16 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Zoemer
+## Buzzer
 
-OPGAVE 4
+EXERCISE 4
 
-Schrijf een programma zodat je de dwenguino kunt gebruiken als een pentatonisch (5 tonen) instrument. Dit kan je doen door aan elk van de 5 knoppen (NOORD - OOST - ZUID - WEST - MIDDEN) een noot te binden. Een standaard pentatoniek is *Do (C), Re (D), Mi (E), Fa (F), Sol (G)*.
+Write a program that allows you to use the Dwenguino as a pentatonic (5-tone) instrument. You can do this by assigning a note to each of the 5 buttons (NORTH - EAST - SOUTH - WEST - MIDDLE). A standard pentatonic scale consists of *Do (C), Re (D), Mi (E), Fa (F), Sol (G)*.
 
-Oplossing:
+Solution:
 
 ![blockly](@learning-object/zoemer_m4/nl/3)  
 
 <div class="alert alert-box alert-success">
-Zoals je misschien merkt, is het niet zo eenvoudig om zoemertonen te binden aan de knoppen. De meest efficiënte manier om dit te doen wordt hierna uitgelegd.
+As you may have noticed, it is not so easy to bind buzz tones to the buttons. The most efficient way to do this is explained below.
 </div>

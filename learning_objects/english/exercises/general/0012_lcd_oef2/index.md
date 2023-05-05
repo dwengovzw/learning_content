@@ -29,8 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Lcd-scherm
+## LCD screen
 
-OPGAVE 2
+EXERCISE 2
 
-Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.
+Make sure 'Welkom' and 'robot' appear on separate lines.

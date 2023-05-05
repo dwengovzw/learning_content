@@ -31,14 +31,14 @@ teacher_exclusive: true
 ---
 ## Led
 
-OPGAVE 1
+TASK 1
 
-Laat led 0 branden.
+Turn on LED 0.
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/led_m1/nl/3)
+![blockly](@learning-object/led_m1/en/3)
 
 <div class="alert alert-box alert-success">
-Merk op dat led 0 het eerste led is aan de <strong>rechterkant</strong>!
+Note that LED 0 is the first LED on the <strong>right side</strong>!
 </div>

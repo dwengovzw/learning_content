@@ -29,8 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Zoemer
+## Buzzer
 
-OPGAVE 2 
+EXERCISE 2
 
-Schrijf een programma zodat de zoemer een toon afspeelt gedurende 1 seconde wanneer je de NOORD-knop indrukt.
+Write a program so that the buzzer plays a tone for 1 second when you press the NORTH button.

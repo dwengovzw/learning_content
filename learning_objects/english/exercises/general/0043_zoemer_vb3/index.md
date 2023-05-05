@@ -29,17 +29,16 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Zoemer
+## Buzzer
 
-OPGAVE 3 
+EXERCISE 3
 
-Schrijf een programma zodat de zoemer *broeder Jacob* afspeelt. Hiervoor zal je eerst de partituur van het liedje en de frequenties van de tonen moeten opzoeken. 
+Write a program so that the buzzer plays *Frère Jacques*. You will first need to look up the score of the song and the frequencies of the notes.
 
+Solution:
 
-Oplossing:
-
-![blockly](@learning-object/zoemer_m3/nl/3)  
+![blockly](@learning-object/zoemer_m3/en/3)
 
 <div class="alert alert-box alert-success">
-Zoals je kunt zien, wordt dit een vrij lang programma. Er zijn gelukkig een aantal plaatsen die je wat kunt inkorten met behulp van een <strong>begrensde herhaling</strong>. Dit wordt verder uitgelegd in het volgende onderdeel.
+As you can see, this is a quite long program. Fortunately, there are some places where you can shorten it using a <strong>bounded loop</strong>. This will be explained further in the next section.
 </div>

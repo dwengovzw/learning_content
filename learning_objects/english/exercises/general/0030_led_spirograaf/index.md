@@ -33,16 +33,16 @@ teacher_exclusive: false
 ## Led
 
 ### Type
-- Uitvoer
+- Output
 
-### Werking
-Links onderaan op het dwenguino-bord vind je acht leds:
+### Functioning
+On the bottom left of the dwenguino board, you will find eight LEDs:
 
 ![](embed/leds.png "leds")
 
-Deze leds zijn *led 0*, *led 1*, ..., *led 7*, van rechts naar links. De eerste led is dus *led 0*. In computerwetenschappen is het vaak de conventie om te beginnen tellen vanaf 0. Dit heb je misschien ook al gemerkt bij het lcd-scherm.
+These LEDs are *led 0*, *led 1*, ..., *led 7*, from right to left. The first LED is thus *led 0*. In computer science, it is often convention to start counting from 0. You may have noticed this convention with the lcd screen as well.
 
-Links bovenaan is er nog een ledje: *led 13*.
-Dit laatste led heeft enkele speciale functionaliteiten en heeft daarom ook een speciale naam.
+On the top left there is another LED: *led 13*.
+This last LED has some special functionalities and therefore has a special name.
 
-Je kan de leds aan- of uitzetten m.b.v. de hiervoor voorziene blokken. Deze vind je terug onder de categorie ![](embed/cat_dwenguino.png "categorie dwenguino").
+You can turn the LEDs on or off using the blocks provided for this purpose. You can find them under the category ![](embed/cat_dwenguino.png "dwenguino category").
