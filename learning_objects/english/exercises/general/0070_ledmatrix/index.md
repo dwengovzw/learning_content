@@ -29,28 +29,28 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# dwenguinoBlockly
-## Led-matrix
+# DwenguinoBlockly
+## LED Matrix
 
 ### Type
-- Uitvoer
+- Output
 - Actuator
 
-### Werking
-De led-matrix is een vierkante 8x8 matrix met 64 leds in een vaste kleur (rood). De matrix is ideaal om bepaalde patronen te laten oplichten, zoals een oog of een mond van de robot of een ander symbool. Je kan de matrices ook met elkaar verbinden (maximaal 4), als je meerdere matrices tegelijk wil gebruiken. Je kan programmeren welke leds er tegelijk moeten oplichten.
+### Operation
+The LED Matrix is a square 8x8 matrix with 64 LEDs in a fixed color (red). The matrix is ideal for lighting up certain patterns, such as an eye or a mouth of the robot or another symbol. You can also connect the matrices together (maximum of 4), if you want to use multiple matrices at the same time. You can program which LEDs should light up at the same time.
 
 ***
 
-### In het echt
+### In real life
 
 ![](embed/ledmatrix.png "led-matrix")
 
-### In de simulator
+### In the simulator
 
 ![](embed/led_matrix.png "led-matrix simulator")
 
-De blokken die je nodig hebt voor het programmeren van de led-matrices vind je terug onder de categorie ![](embed/cat_uitvoer.png "categorie uitvoer").
+The blocks you need to program the LED matrices can be found under the category ![](embed/cat_uitvoer.png "output category").
 
 <div class="alert alert-box alert-success">
-Voor meer informatie over de led-matrix kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>.
+For more information about the LED Matrix, you can consult the student sheets of the <em>Social Robot</em>.
 </div>

@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Led
 
-TASK 4
+EXERCISE 4
 
 Write a program that does the following:
 

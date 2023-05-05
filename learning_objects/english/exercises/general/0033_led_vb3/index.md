@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 ## Led
 
-TASK 3
+EXERCISE 3
 
 Let all LEDs blink for half a second in numerical order. This means that LED 0 lights up first and goes off when LED 1 lights up, LED 1 goes off when LED 2 lights up, ...
 

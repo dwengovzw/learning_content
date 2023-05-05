@@ -29,26 +29,26 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Servomotor (blauw)
+## Servo Motor (Blue)
 
-OPGAVE 2
+TASK 2
 
-Programmeer beide handen zodat ze op en neer kunnen bewegen in intervallen van 1 seconde.
+Program both hands so that they can move up and down in intervals of 1 second.
 
-Laat je niet misleiden! Dit is niet hetzelfde als de vorige oefening. I.p.v. gebruik te maken van de voorgeprogrammeerde functie voor het zwaaien, programmeer je nu beide handen apart. Je kan dus beide handen onafhankelijk van elkaar bewegen of kiezen om de hand in een bepaalde positie stil te houden.
+Don't be fooled! This is not the same as the previous exercise. Instead of using the pre-programmed function for waving, you are now programming both hands separately. So you can move both hands independently of each other or choose to keep the hand in a certain position.
 
-Oplossing:  
+Solution:
 
 ![blockly](@learning-object/servo_m2/nl/3)
 
-Je bent nu in staat om een hele hoop andere acties te doen! Je robot kan iemand de hand schudden, z'n ogen bedekken ...
+You are now able to do a lot of other actions! Your robot can shake hands with someone, cover its eyes...
 
 <div class="alert alert-box alert-success">
-Hiervoor is er uiteraard reeds enige kennis over hoeken en graden nodig. Het is een extra uitdaging die je je leerlingen kan laten aangaan, indien je merkt dat ze de basisblokken te eenvoudig vinden.
+This requires some knowledge about angles and degrees. It is an extra challenge that you can give to your students if you notice that they find the basic blocks too easy.
 </div>
 
 <div class="alert alert-box alert-danger">
-Merk op dat je in de simulator beperkt bent in het draaien en plaatsen van de servomotoren. Bij het bouwen van een robot is het belangrijk om te onthouden dat de simulator slechts een hulpmiddel is bij het bouwen van een echte robot. 
+Note that in the simulator, you are limited in rotating and placing the servo motors. When building a robot, it is important to remember that the simulator is only a tool for building a real robot.
 
-Bij het uittesten van servomotoren is het aan te raden om vooral rekening te houden met de fysieke robot. De oriëntatie van de servomotor speelt immers voor een groot deel mee!
+When testing servo motors, it is advisable to mainly consider the physical robot. The orientation of the servo motor plays a big role!
 </div>

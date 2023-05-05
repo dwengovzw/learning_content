@@ -30,30 +30,31 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Knoppen
+
+## Buttons
 
 ### Type
-- Invoer
+- Input
 
-### Werking
-Op de dwenguino vind je vijf drukknoppen. De buitenste knoppen kregen de namen NOORD, ZUID, OOST, WEST, net als in aardrijkskunde. De middelste knop heet MIDDEN.
+### Functioning
+On the Dwenguino board, you can find five push buttons. The outer buttons are named NORTH, SOUTH, EAST, and WEST, similar to geography. The center button is named MIDDLE.
 
-Je kan op een knop klikken met je muis. Als je erop klikt, is de knop ingedrukt. Als je de knop weer loslaat, is hij niet meer ingedrukt.  
+You can click on a button with your mouse. When you click it, the button is pressed down. When you release the button, it is no longer pressed.
 
 ***
 
-### In het echt
+### In real life
 
-![](embed/knoppen.png "knoppen")
+![](embed/knoppen.png "buttons")
 
-### In de simulator
+### In the simulator
 
-![](embed/knoppen_sim.png "knoppen simulator")
+![](embed/knoppen_sim.png "buttons simulator")
 
-De blokken die nodig zijn om de knoppen te gebruiken, vind je onder de categorie ![](embed/cat_dwenguino.png "categorie dwenguino").
+You can find the blocks needed to use the buttons under the category ![](embed/cat_dwenguino.png "dwenguino category").
 
-*** 
+***
 
-Je wilt uiteraard dat de tekenrobot pas begint te tekenen wanneer jij dit zegt. Daarom ga je hier een extra startconditie invoeren zoals in onderstaand voorbeeld:
+Of course, you want the drawing robot to start drawing only when you tell it to. That's why you'll introduce an additional start condition like in the example below:
 
 ![blockly](@learning-object/knoppen_m/nl/3)

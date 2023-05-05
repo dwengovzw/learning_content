@@ -31,10 +31,12 @@ teacher_exclusive: false
 ---
 ## Led-matrix
 
-OPGAVE 2
+TASK 2
 
-Programmeer 2 led-matrices zodat ze op 2 ogen lijken.  
+Program 2 led matrices to look like 2 eyes.
+
+***
 
 <div class="alert alert-box alert-success">
-Binnen de simulator kan je dit op 2 manieren doen: manueel of met voorgeprogrammeerde ogen via het <em>'Toon oogpatroon'-blok</em>.
+You can do this in the simulator in 2 ways: manually or using pre-programmed eyes with the <em>'Show eye pattern'</em> block.
 </div>

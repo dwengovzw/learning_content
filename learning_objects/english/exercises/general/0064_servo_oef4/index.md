@@ -29,14 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Servomotor (zwart)
+## Servomotor (black)
 
-OPGAVE 4
+EXERCISE 4
 
-Simuleer 2 draaiende ogen. Eén oog moet in wijzerzin draaien, het andere oog in tegenwijzerzin.
+Simulate 2 rotating eyes. One eye must rotate clockwise, the other eye counterclockwise.
 
 ***
 
 <div class="alert alert-box alert-success">
-Om een zwarte servomotor van draairichting te veranderen, gebruik je negatieve getallen.
+To change the rotation direction of a black servo motor, you use negative numbers.
 </div>

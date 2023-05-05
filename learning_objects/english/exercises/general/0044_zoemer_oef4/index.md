@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Buzzer
 
-TASK 4
+EXERCISE 4
 
 Write a program so that you can use the Dwenguino as a pentatonic (5-tone) instrument. You can do this by assigning a note to each of the 5 buttons (NORTH - EAST - SOUTH - WEST - MIDDLE). A standard pentatonic scale is *Do (C), Re (D), Mi (E), Fa (F), Sol (G)*.
 

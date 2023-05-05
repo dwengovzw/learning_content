@@ -29,27 +29,29 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Knoppen
+## Buttons
 
-OPGAVE 1.1
+TASK 1.1
 
-Het programma start op. Als de NOORD-knop wordt ingedrukt, gaat het eerste ledje (led 0) branden.
+When the program starts, if the NORTH button is pressed, the first LED (LED 0) will turn on.
 
-
-Oplossing:
+Solution:
 
 ![blockly](@learning-object/knoppen_m1a/nl/3)
 
 ***
 
-OPGAVE 1.2
+TASK 1.2
 
-Het is niet de bedoeling dat led 0 blijft branden wanneer je de knop loslaat. Zorg ervoor dat de led uitgaat wanneer je de knop loslaat.
+It is not intended for LED 0 to remain on when you release the button. Make sure the LED turns off when you release the button.
 
-Oplossing:
+Solution:
 
 ![blockly](@learning-object/knoppen_m1b/nl/3)
 
+***
+
 <div class="alert alert-box alert-success">
-Om de knoppen te gebruiken, zal je altijd een keuzestructuur nodig hebben. Knoppen worden immers altijd ingezet om iets aan te sturen.
+To use the buttons, you will always need a selection structure. Buttons are always used to control something.
 </div>
+

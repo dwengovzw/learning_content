@@ -29,14 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Servomotor (blauw)
+## Servomotor (blue)
 
-OPGAVE 2
+TASK 2
 
-Programmeer beide handen zodat ze op en neer kunnen bewegen in intervallen van 1 seconde.
+Program both hands so that they can move up and down in intervals of 1 second.
 
-Laat je niet misleiden! Dit is niet hetzelfde als de vorige oefening. I.p.v. gebruik te maken van de voorgeprogrammeerde functie voor het zwaaien, programmeer je nu beide handen apart. Je kan dus beide handen onafhankelijk van elkaar bewegen of kiezen om de hand in een bepaalde positie stil te houden.
+Don't be fooled! This is not the same as the previous exercise. Instead of using the pre-programmed function for waving, you now program both hands separately. So you can move both hands independently of each other or choose to keep the hand in a certain position.
 
 ***
 
-Indien deze oefening gelukt is, ben je nu in staat om een hele hoop andere acties te doen! Je robot kan iemand de hand schudden, z'n ogen bedekken...
+If you have succeeded in this exercise, you are now able to do a whole lot of other actions! Your robot can shake hands with someone, cover its eyes, etc.

@@ -31,10 +31,16 @@ teacher_exclusive: true
 ---
 ## Led-matrix
 
-OPGAVE 3
+EXERCISE 3
 
-Programmeer 2 ogen die heen en weer kijken (links - rechts - links - rechts - ...).
+Program 2 eyes that look back and forth (left - right - left - right - ...).
 
-Oplossing:  
+Solution:  
 
 ![blockly](@learning-object/matrix_m3/nl/3)
+
+***
+
+<div class="alert alert-box alert-success">
+To create the illusion of movement, you can use a loop to turn on and off different LED patterns in a specific order.
+</div>

@@ -29,14 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Servomotor (zwart)
+## Servomotor (black)
 
-OPGAVE 3
+EXERCISE 3
 
-Schrijf een programma voor een zwarte servomotor zodat de motor continu draait.
+Write a program for a black servo motor so that the motor rotates continuously.
 
 ***
 
 <div class="alert alert-box alert-success">
-In tegenstelling tot de blauwe servomotor, moet je hier de snelheid van de servomotor instellen i.p.v. een hoek. Als een zwarte servomotor moet stoppen met draaien, stel je dus de snelheid in op 0.
+In contrast to the blue servo motor, here you have to set the speed of the servo motor instead of an angle. If a black servo motor has to stop rotating, set the speed to 0.
 </div>
