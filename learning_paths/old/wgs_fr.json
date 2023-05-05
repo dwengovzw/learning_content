@@ -329,7 +329,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "Pr_Boutonswgs1",
+            "hruid": "wgs_but_construire_rdd",
             "version": "3",
             "language": "fr"
           }
@@ -337,14 +337,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Pr_Boutonswgs1",
+      "learningobject_hruid": "wgs_but_construire_rdd",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Pr_Boutonswgs2",
+            "hruid": "wgs_mission_construire_rdd",
             "version": "3",
             "language": "fr"
           }
@@ -352,14 +352,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Pr_Boutonswgs2",
+      "learningobject_hruid": "wgs_mission_construire_rdd",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Moteurswgs",
+            "hruid": "wgs_but_programmer_rdd",
             "version": "3",
             "language": "fr"
           }
@@ -367,14 +367,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Moteurswgs",
+      "learningobject_hruid": "wgs_but_programmer_rdd",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "MissionMoteurswgs",
+            "hruid": "wgs_mission_programmer_rdd",
             "version": "3",
             "language": "fr"
           }
@@ -382,14 +382,14 @@
       ]
     },
     {
-      "learningobject_hruid": "MissionMoteurswgs",
+      "learningobject_hruid": "wgs_mission_programmer_rdd",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Ranger",
+            "hruid": "wgs_ranger",
             "version": "3",
             "language": "fr"
           }
@@ -397,14 +397,14 @@
       ]
     },
     {
-      "learningobject_hruid": "Ranger",
+      "learningobject_hruid": "wgs_ranger",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "MateriauCasse",
+            "hruid": "wgs_materiaucasse",
             "version": "3",
             "language": "fr"
           }
@@ -412,14 +412,14 @@
       ]
     },
     {
-      "learningobject_hruid": "MateriauCasse",
+      "learningobject_hruid": "wgs_materiaucasse",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "ApresWeGoSTEM",
+            "hruid": "wgs_apreswegostem",
             "version": "3",
             "language": "fr"
           }
@@ -427,14 +427,14 @@
       ]
     },
     {
-      "learningobject_hruid": "ApresWeGoSTEM",
+      "learningobject_hruid": "wgs_apreswegostem",
       "version": "3",
       "language": "fr",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "Emprunter",
+            "hruid": "wgs_emprunter",
             "version": "3",
             "language": "fr"
           }
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "learningobject_hruid": "Emprunter",
+      "learningobject_hruid": "wgs_emprunter",
       "version": "3",
       "language": "fr"
     } 
