@@ -30,33 +30,33 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Keuzestructuren: Als - Dan
+## Conditional Statements: If-Then
 
-Om van je robot een sociale robot te maken, zal die in staat moeten zijn om te reageren op bepaalde prikkels: een persoon die dichter komt, een luide klap ... Denk bijvoorbeeld aan schuifdeuren die opengaan wanneer iemand in de buurt komt.
+To make your robot a social robot, it will need to be able to react to certain stimuli: a person approaching, a loud noise, etc. Think, for example, of sliding doors that open when someone is nearby.
 
-Om je robot te laten reageren op zulke prikkels, gebruik je een keuzestructuur. Keuzestructuren bestaan steeds uit een **voorwaarde**, *ALS*, en een daaraan gekoppelde **actie**, *DAN*. Vaak voorziet men ook een **alternatieve actie**, *ANDERS* die uitgevoerd wordt indien er niet aan de voorwaarde voldaan is.
+To let your robot respond to such stimuli, you use a conditional statement. Conditional statements always consist of a **condition**, *IF*, and an associated **action**, *THEN*. Often, an **alternative action**, *ELSE*, is also provided, which is executed if the condition is not met.
 
 ***
 
-In de simulator vind je de blokken voor een keuzestructuur terug in de categorie ![](embed/cat_logica.png "categorie logica"). De simpelste vorm van dit blok is het *'ALS-DAN'-blok*.
+In the simulator, you can find the blocks for a conditional statement in the category ![](embed/cat_logica.png "category logic"). The simplest form of this block is the *'IF-THEN'* block.
 
-![](embed/keuzestructuur1.png "ALS-DAN-blok")
+![](embed/keuzestructuur1.png "IF-THEN block")
 
-Je kan dit blok echter zo lang maken als je wilt, afhankelijk van het aantal voorwaarden waarmee je robot moet rekening houden. Hoe je dit doet, wordt hieronder kort voorgetoond.
+However, you can make this block as long as you want, depending on the number of conditions your robot has to take into account. How to do this is briefly shown below.
 
-![](embed/keuzestructuur2.png "ALS-DAN-ANDERS")
+![](embed/keuzestructuur2.png "IF-THEN-ELSE")
 
 <div class="alert alert-box alert-danger">
-Zoals eerder vermeld, kan je dit blok zo lang maken als je wilt, maar let er wel op dat je je programma niet onnodig ingewikkeld maakt!
+As mentioned earlier, you can make this block as long as you want, but be careful not to make your program unnecessarily complicated!
 </div>
 
 ***
 
-Om voorwaarden voor een keuzestructuur te programmeren, maak je gebruik van de onderstaande blokken:
+To program conditions for a conditional statement, you use the blocks below:
 
-![](embed/block_and_or.png "blok en-of")
-![](embed/block_operations.png "blok wiskundige operaties")
+![](embed/block_and_or.png "AND-OR block")
+![](embed/block_operations.png "mathematical operations block")
 
-Wanneer je deze combineert, kan je zeer eenvoudige voorwaarden programmeren zoals *"als de afstand groter is dan 0, maar kleiner dan 20, dan ..."* 
+When you combine these, you can program very simple conditions such as *"if the distance is greater than 0, but less than 20, then ..."* 
 
-![](embed/combo_andor_operations.png "combinatie voorwaarden")
+![](embed/combo_andor_operations.png "combination of conditions")
