@@ -1,6 +1,6 @@
 {
   "hruid": "pc_starttodwenguino",
-  "language": "nl",
+  "language": "en",
   "title": "StartToDwenguino",
   "description": "Programmeeroefeningen voor een beginnend programmeur! In onze grafische programmeeromgeving pik je de basisconcepten van programmeren snel op.",
   "image":
@@ -9,7 +9,7 @@
     {
       "learningobject_hruid": "g_inleiding_lkr",
       "version": "3",
-      "language": "nl",     
+      "language": "en",     
       "start_node": true,
       "transitions": [
         {
@@ -17,7 +17,7 @@
           "next": {
             "hruid": "g_inleiding_lln",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -25,14 +25,14 @@
     {
       "learningobject_hruid": "g_inleiding_lln",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_startpagina_sr",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -40,14 +40,14 @@
     {
       "learningobject_hruid": "g_startpagina_sr",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_startpagina",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -55,14 +55,14 @@
     {
       "learningobject_hruid": "g_startpagina",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_inleidendeoefening_sr",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -70,14 +70,14 @@
     {
       "learningobject_hruid": "g_inleidendeoefening_sr",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_inleidendeoefening",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -85,14 +85,14 @@
     {
       "learningobject_hruid": "g_inleidendeoefening",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_uploaden",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -100,14 +100,14 @@
     {
       "learningobject_hruid": "g_uploaden",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -115,14 +115,14 @@
     {
       "learningobject_hruid": "g_lcd",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -130,14 +130,14 @@
     {
       "learningobject_hruid": "g_lcd_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_vb1_wgs",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -145,14 +145,14 @@
     {
       "learningobject_hruid": "g_lcd_vb1_wgs",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -160,14 +160,14 @@
     {
       "learningobject_hruid": "g_lcd_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -175,14 +175,14 @@
     {
       "learningobject_hruid": "g_lcd_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_vb2_wgs",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -190,14 +190,14 @@
     {
       "learningobject_hruid": "g_lcd_vb2_wgs",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -205,14 +205,14 @@
     {
       "learningobject_hruid": "g_lcd_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_vb3_wgs",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -220,14 +220,14 @@
     {
       "learningobject_hruid": "g_lcd_vb3_wgs",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_vb3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -235,14 +235,14 @@
     {
       "learningobject_hruid": "g_lcd_vb3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_lcd_oef3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -250,14 +250,14 @@
     {
       "learningobject_hruid": "g_lcd_oef3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_wacht",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -265,14 +265,14 @@
     {
       "learningobject_hruid": "g_wacht",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_wacht_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -280,14 +280,14 @@
     {
       "learningobject_hruid": "g_wacht_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_wacht_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -295,14 +295,14 @@
     {
       "learningobject_hruid": "g_wacht_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_wacht_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -310,14 +310,14 @@
     {
       "learningobject_hruid": "g_wacht_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_wacht_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -325,14 +325,14 @@
     {
       "learningobject_hruid": "g_wacht_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -340,14 +340,14 @@
     {
       "learningobject_hruid": "g_led",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -355,14 +355,14 @@
     {
       "learningobject_hruid": "g_led_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -370,14 +370,14 @@
     {
       "learningobject_hruid": "g_led_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -385,14 +385,14 @@
     {
       "learningobject_hruid": "g_led_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -400,14 +400,14 @@
     {
       "learningobject_hruid": "g_led_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led_vb3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -415,14 +415,14 @@
     {
       "learningobject_hruid": "g_led_vb3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led_oef3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -430,14 +430,14 @@
     {
       "learningobject_hruid": "g_led_oef3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led_vb4",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -445,14 +445,14 @@
     {
       "learningobject_hruid": "g_led_vb4",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_led_oef4",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -460,14 +460,14 @@
     {
       "learningobject_hruid": "g_led_oef4",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -475,14 +475,14 @@
     {
       "learningobject_hruid": "g_zoemer",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -490,14 +490,14 @@
     {
       "learningobject_hruid": "g_zoemer_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -505,14 +505,14 @@
     {
       "learningobject_hruid": "g_zoemer_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -520,14 +520,14 @@
     {
       "learningobject_hruid": "g_zoemer_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -535,14 +535,14 @@
     {
       "learningobject_hruid": "g_zoemer_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer_vb3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -550,14 +550,14 @@
     {
       "learningobject_hruid": "g_zoemer_vb3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer_oef3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -565,14 +565,14 @@
     {
       "learningobject_hruid": "g_zoemer_oef3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer_vb4",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -580,14 +580,14 @@
     {
       "learningobject_hruid": "g_zoemer_vb4",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_zoemer_oef4",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -595,14 +595,14 @@
     {
       "learningobject_hruid": "g_zoemer_oef4",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_knoppen",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -610,14 +610,14 @@
     {
       "learningobject_hruid": "g_knoppen",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_knoppen_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -625,14 +625,14 @@
     {
       "learningobject_hruid": "g_knoppen_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_knoppen_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -640,14 +640,14 @@
     {
       "learningobject_hruid": "g_knoppen_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_knoppen_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -655,14 +655,14 @@
     {
       "learningobject_hruid": "g_knoppen_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_knoppen_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -670,14 +670,14 @@
     {
       "learningobject_hruid": "g_knoppen_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -685,14 +685,14 @@
     {
       "learningobject_hruid": "g_servo",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -700,14 +700,14 @@
     {
       "learningobject_hruid": "g_servo_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -715,14 +715,14 @@
     {
       "learningobject_hruid": "g_servo_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -730,14 +730,14 @@
     {
       "learningobject_hruid": "g_servo_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -745,14 +745,14 @@
     {
       "learningobject_hruid": "g_servo_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo_vb3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -760,14 +760,14 @@
     {
       "learningobject_hruid": "g_servo_vb3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo_oef3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -775,14 +775,14 @@
     {
       "learningobject_hruid": "g_servo_oef3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo_vb4",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -790,14 +790,14 @@
     {
       "learningobject_hruid": "g_servo_vb4",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_servo_oef4",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -805,14 +805,14 @@
     {
       "learningobject_hruid": "g_servo_oef4",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_matrix",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -820,14 +820,14 @@
     {
       "learningobject_hruid": "g_matrix",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_matrix_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -835,14 +835,14 @@
     {
       "learningobject_hruid": "g_matrix_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_matrix_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -850,14 +850,14 @@
     {
       "learningobject_hruid": "g_matrix_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_matrix_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -865,14 +865,14 @@
     {
       "learningobject_hruid": "g_matrix_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_matrix_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -880,14 +880,14 @@
     {
       "learningobject_hruid": "g_matrix_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_matrix_vb3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -895,14 +895,14 @@
     {
       "learningobject_hruid": "g_matrix_vb3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_matrix_oef3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -910,14 +910,14 @@
     {
       "learningobject_hruid": "g_matrix_oef3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_rgb",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -925,14 +925,14 @@
     {
       "learningobject_hruid": "g_rgb",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_rgb_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -940,14 +940,14 @@
     {
       "learningobject_hruid": "g_rgb_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_rgb_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -955,14 +955,14 @@
     {
       "learningobject_hruid": "g_rgb_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_rgb_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -970,14 +970,14 @@
     {
       "learningobject_hruid": "g_rgb_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_rgb_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -985,14 +985,14 @@
     {
       "learningobject_hruid": "g_rgb_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_rgb_vb3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1000,14 +1000,14 @@
     {
       "learningobject_hruid": "g_rgb_vb3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "sonar_m1a",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1015,14 +1015,14 @@
     {
       "learningobject_hruid": "sonar_m1a",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sonar",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1030,14 +1030,14 @@
     {
       "learningobject_hruid": "g_sonar",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sonar_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1045,14 +1045,14 @@
     {
       "learningobject_hruid": "g_sonar_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sonar_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1060,14 +1060,14 @@
     {
       "learningobject_hruid": "g_sonar_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sonar_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1075,14 +1075,14 @@
     {
       "learningobject_hruid": "g_sonar_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sonar_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1090,14 +1090,14 @@
     {
       "learningobject_hruid": "g_sonar_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sound",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1105,14 +1105,14 @@
     {
       "learningobject_hruid": "g_sound",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sound_vb1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1120,14 +1120,14 @@
     {
       "learningobject_hruid": "g_sound_vb1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sound_oef1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1135,14 +1135,14 @@
     {
       "learningobject_hruid": "g_sound_oef1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sound_vb2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1150,14 +1150,14 @@
     {
       "learningobject_hruid": "g_sound_vb2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sound_oef2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1165,14 +1165,14 @@
     {
       "learningobject_hruid": "g_sound_oef2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sound_vb3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1180,14 +1180,14 @@
     {
       "learningobject_hruid": "g_sound_vb3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_sound_oef3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1195,14 +1195,14 @@
     {
       "learningobject_hruid": "g_sound_oef3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_ks",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1210,14 +1210,14 @@
     {
       "learningobject_hruid": "g_ks",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_var",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1225,14 +1225,14 @@
     {
       "learningobject_hruid": "g_var",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_begrensdeherhaling",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1240,14 +1240,14 @@
     {
       "learningobject_hruid": "g_begrensdeherhaling",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "g_voorwaardelijkeherhaling",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -1255,7 +1255,7 @@
     {
       "learningobject_hruid": "g_voorwaardelijkeherhaling",
       "version": "4",
-      "language": "nl"
+      "language": "en"
     }     
   ]
 }
