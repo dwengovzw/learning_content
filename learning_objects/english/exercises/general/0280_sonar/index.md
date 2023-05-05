@@ -30,32 +30,32 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Sonar-sensor
+## Sonar Sensor
 
 ### Type
-- Invoer
-- Digitale sensor
+- Input
+- Digital sensor
 
-### Werking
-De sensor stuurt een ultrasoon geluidssignaal uit. Indien er een voorwerp binnen bereik is, zal deze ultrasone geluidsgolf op dit voorwerp weerkaatsen. Je kan de werking vergelijken met de echolocatie van vleermuizen. Door de tijd te meten tussen het verzenden van het geluidssignaal en het ontvangen van de weerkaatste straal, kan de sensor de afstand tot het object nauwkeurig bepalen. 
+### Operation
+The sensor sends out an ultrasonic sound signal. If an object is within range, the ultrasonic sound wave will bounce off that object. You can compare its operation to the echolocation used by bats. By measuring the time between sending the sound signal and receiving the reflected beam, the sensor can accurately determine the distance to the object.
 
-De afstand wordt teruggegeven in cm. Het bereik van de sonar-sensor is 200 cm.
+The distance is returned in cm. The range of the sonar sensor is 200 cm.
 
-### Werking in de simulator
-In de simulator is een schuifbalk voorzien om de afstand tussen de sensor en een object te simuleren. Het getal op de schuifbalk simuleert de afstand tot het object in cm.
+### Operation in the simulator
+In the simulator, a slider is provided to simulate the distance between the sensor and an object. The number on the slider simulates the distance to the object in cm.
 
 ***
 
-### In het echt
+### In real life
 
-![](embed/sonar.png "Sonar-sensor")
+![](embed/sonar.png "Sonar Sensor")
 
-### In de simulator
+### In the simulator
 
-![](embed/Sonarsim.png "Sonar-sensor simulator")
+![](embed/Sonarsim.png "Sonar Sensor simulator")
 
-De blokken voor het programmeren van de sonar-sensor vind je terug onder de categorie ![](embed/cat_uitvoer.png "cateogrie uitvoer").
+You can find the blocks for programming the sonar sensor under the category ![](embed/cat_uitvoer.png "output category").
 
 <div class="alert alert-box alert-success">
-Voor meer informatie over de sonar-sensor kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>.
+For more information about the sonar sensor, you can consult the student sheets of the <em>Social Robot</em>.
 </div>

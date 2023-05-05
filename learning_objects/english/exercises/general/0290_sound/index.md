@@ -30,26 +30,26 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Geluidssensor
+## Sound Sensor
 
 ### Type
-- Invoer
-- Digitale sensor
+- Input
+- Digital sensor
 
-### Werking
-Gebruik deze sensor om geluid te detecteren. Bij geluid geeft de sensor 1 terug indien er geluid is en 0 bij stilte. Idealiter wordt deze sensor gebruikt in een stille omgeving.
+### Operation
+Use this sensor to detect sound. The sensor returns 1 when there is sound and 0 when it's silent. Ideally, this sensor should be used in a quiet environment.
 
-### Werking in de simulator
-In de simulator is een knop voorzien om geluid te simuleren. De knop indrukken simuleert geluid.
+### Working in the simulator
+In the simulator, a button is provided to simulate sound. Pressing the button simulates sound.
 
 ***
 
-### In het echt
+### In real life
 
-![](embed/geluidssensor.png "geluidssensor")
+![](embed/geluidssensor.png "sound sensor")
 
-### In de simulator
+### In the simulator
 
-![](embed/sim_geluidssensor.png "geluidssensor simulator")
+![](embed/sim_geluidssensor.png "sound sensor simulator")
 
-De nodige blokken voor het aansturen van de geluidssensor vind je terug onder de categorie ![](embed/cat_uitvoer.png "categorie uitvoer")
+You can find the necessary blocks for controlling the sound sensor under the category ![](embed/cat_uitvoer.png "output category").

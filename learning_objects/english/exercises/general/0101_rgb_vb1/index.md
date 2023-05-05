@@ -42,3 +42,19 @@ Oplossing:
 <div class="alert alert-box alert-success">
 Om een specifieke kleur te bekomen, is het gemakkelijker om de waarden op het internet op te zoeken dan te gokken. <a href="https://www.rapidtables.org/nl/web/color/purple-color.html">rapidtables.org</a> is hiervoor een goede website.
 </div>
+
+## Rgb-led
+
+TASK 1
+
+Choose the RGB values so that the RGB LED lights up with a purple light.
+
+Solution:  
+
+![blockly](@learning-object/rgb_m1/nl/3)
+
+***
+
+<div class="alert alert-box alert-success">
+To obtain a specific color, it is easier to look up the values on the internet than to guess. <a href="https://www.rapidtables.com/web/color/purple-color.html">rapidtables.org</a> is a good website for this purpose.
+</div>

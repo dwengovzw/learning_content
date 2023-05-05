@@ -31,6 +31,6 @@ teacher_exclusive: false
 ---
 ## Rgb-led
 
-OPGAVE 2
+TASK 2
 
-Maak een zwaailicht voor een politierobot. (Je hebt slechts één RGB-led, dus laat het flikkeren).
+Create a flashing light for a police robot. (You only have one RGB LED, so make it flicker).

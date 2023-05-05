@@ -29,57 +29,59 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Sonar-sensor
+## Sonar sensor
 
-OPGAVE 1
+TASK 1
 
-Voor je de sonar-sensor gaat gebruiken, moet je deze eerst testen. Schrijf een programma om de sonar-sensor uit te lezen.
+Before using the sonar sensor, you must first test it. Write a program to read the sonar sensor.
 
 ***
 
-Om de sonar-sensor uit te lezen (welke afstand de sonar-sensor meet), maak je gebruik van het lcd-scherm. Het blok van de sonar-sensor stelt gewoon een getal voor dat je kan laten verschijnen op het scherm. 
+To read the sonar sensor (which measures distance), you use the LCD screen. The block of the sonar sensor simply represents a number that you can display on the screen.
 
-Hiervoor heb je de volgende blokken nodig:
+To do this, you need the following blocks:
 
-![](embed/block_sonar.png "blok sonar-sensor")
-![](embed/block_text.png "blok tekst")
+![](embed/block_sonar.png "sonar sensor block")
+![](embed/block_text.png "text block")
 
-Wanneer je deze blokken combineert, bekom je dit:
+When you combine these blocks, you get this:
 
-![](embed/combo_text_sonar.png "tekst + sonar-sensor")
+![](embed/combo_text_sonar.png "text + sonar sensor")
 
-Het getal van de sonar-sensor wordt door ![](embed/block_text.png "blok tekst") omgezet in gegevens die je op het lcd-scherm kunt doen verschijnen.
+The number from the sonar sensor is converted by the ![](embed/block_text.png "text block") to data that you can display on the LCD screen.
 
-Met dit nieuwe tekst-blok kan je nu het bestaande *'tekst'-blok* van het lcd-scherm vervangen, waardoor je het onderstaande programma bekomt:
+You can now replace the existing *'text'* block of the LCD screen with this new text block, resulting in the following program:
 
 ![blockly](@learning-object/sonar_m1a/nl/3)
 
 ***
 
-Bij meer ingewikkelde programma's zal je echter snel merken dat het heel druk is om telkens het *'sonar-sensor'-blok* te gebruiken omdat dit vrij groot is. Om dit te verhelpen en het programma overzichtelijk te houden, zal je gebruik maken van **variabelen**.
+However, in more complex programs, you will quickly notice that it is very crowded to use the *'sonar sensor'* block every time, as it is quite large. To remedy this and keep the program organized, you will use **variables**.
 
-Hiervoor heb je de volgende blokken nodig:
+For this, you need the following blocks:
 
-![](embed/block_variable.png "blok variabele")
-![](embed/block_item.png "blok item")
+![](embed/block_variable.png "variable block")
+![](embed/block_item.png "item block")
 
-Om de leesbaarheid van je programma te verbeteren, hernoem je de variabele 'item' best eerst naar iets beters. Omdat je hier afstand aan het meten bent, neem je bijvoorbeeld 'afstand'. Gebruik hiervoor het hulpmenu.
+To improve the readability of your program, you should first rename the variable 'item' to something better. For example, since you are measuring distance here, you can use 'distance'. Use the help menu for this.
 
-![](embed/rename_variable.png "hernoemen variabele")
+![](embed/rename_variable.png "rename variable")
 
-Eens je dit gedaan hebt, combineer je het *'sonar-sensor'-blok* met ![](embed/block_variable.png):
+Once you have done this, combine the *'sonar sensor'* block with ![](embed/block_variable.png):
 
-![](embed/combo_variable_sonar.png "afstand")
+![](embed/combo_variable_sonar.png "distance")
 
-Eens je een variabele hebt benoemd in een programma, kan je deze altijd oproepen m.b.v. ![](embed/block_item.png "blok item"). *Let er wel op dat je de juiste variabele opnoemt!*
+Once you have named a variable in a program, you can always call it using ![](embed/block_item.png "item block"). *Make sure you specify the correct variable!*
 
-Het eindresultaat voor het uitlezen van een sonar-sensor ziet er dan als volgt uit:
+The end result for reading a sonar sensor looks like this:
 
 ![blockly](@learning-object/sonar_m1b/nl/3)
 
 <div class="alert alert-box alert-success">
-Op het lcd-scherm verschijnen nu de waarden die de sonar-sensor teruggeeft. Indien dit niet werkt, moet je troubleshooten om het probleem te vinden.
-<ul><li>Is het het juiste programma? (Check de code)</li></ul>
-<ul><li>Is de sensor correct aangesloten? (Check de bedrading)</li></ul>
-<ul><li>Werkt de sensor?</li></ul>
+The values returned by the sonar sensor are now displayed on the LCD screen. If this doesn't work, troubleshoot to find the problem.
+<ul>
+<li>Is it the right program? (Check the code)</li>
+<li>Is the sensor connected correctly? (Check the wiring)</li>
+<li>Is the sensor working?</li>
+</ul>
 </div>
