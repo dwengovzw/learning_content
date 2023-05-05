@@ -38,3 +38,9 @@ Programmeer 2 ogen die heen en weer kijken (links - rechts - links - rechts - ..
 Oplossing:  
 
 ![blockly](@learning-object/matrix_m3/nl/3)
+
+***
+
+<div class="alert alert-box alert-success">
+Om de illusie van beweging op te wekken, kan je een lus gebruiken om verschillende ledpatronen in een specifieke volgorde volgorde te doen verschijnen.
+</div>
