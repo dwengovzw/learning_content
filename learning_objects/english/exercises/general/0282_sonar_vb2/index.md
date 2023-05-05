@@ -29,22 +29,22 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Sonar-sensor
+## Sonar sensor
 
-OPGAVE 2  
+TASK 2  
 
-Schrijf een programma dat afhankelijk van de waarde, de boodschap "waarde < 20 cm" of "waarde > 20 cm" teruggeeft.
+Write a program that, depending on the value, returns the message "value < 20 cm" or "value > 20 cm".
 
-Hier moet je gebruikmaken van een keuzestructuur.
+You should use a conditional structure.
 
-Oplossing:  
+Solution:
 
-![blockly](@learning-object/sonar_m2/nl/3)
+![blockly](@learning-object/sonar_m2/en/3)
 
-Bij het programmeren van de sociale robot kan je andere acties koppelen aan deze voorwaarden. Je kan bijvoorbeeld de armen laten zwaaien of de ogen laten knipperen wanneer iemand tussen de 0 en 50 cm van de robot verwijderd is.
+When programming the social robot, you can link other actions to these conditions. For example, you can wave the arms or blink the eyes when someone is between 0 and 50 cm away from the robot.
 
 <div class="alert alert-box alert-danger">
-De sonar-sensor heeft een bereik van 200 cm. Wanneer er zich niets bevindt binnen dit bereik, geeft de sonar-sensor de waarde 0 terug. Dit geeft als gevolg dat wanneer er niets te zien is binnen 2 m, de sensor dit interpreteert alsof er iets vlak voor de sensor staat.
+The sonar sensor has a range of 200 cm. When there is nothing within this range, the sonar sensor returns a value of 0. This means that when there is nothing to see within 2 m, the sensor interprets this as if there is something right in front of it.
 
-Programmeer daarom altijd <em>"Afstand groter dan 0"</em> als voorwaarde voor de kleinste afstand, zodat er hier geen problemen bij optreden.
+Therefore, always program "Distance greater than 0" as a condition for the smallest distance, so that no problems arise here.
 </div>
