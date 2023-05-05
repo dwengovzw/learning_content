@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Led-matrix
 
-TASK 1
+EXERCISE 1
 
 Display a heart on a led matrix in the simulator.
 

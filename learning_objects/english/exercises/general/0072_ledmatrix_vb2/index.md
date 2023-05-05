@@ -49,7 +49,7 @@ Binnen de simulator kan je dit op 2 manieren doen: manueel of met voorgeprogramm
 
 ## Led-matrix
 
-TASK 2
+EXERCISE 2
 
 Program 2 led matrices to look like 2 eyes.
 

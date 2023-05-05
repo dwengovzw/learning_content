@@ -31,13 +31,13 @@ teacher_exclusive: false
 ---
 ## Buttons
 
-TASK 1.1
+EXERCISE 1.1
 
 The program starts. When the NORTH button is pressed, the first LED (LED 0) turns on.
 
 ***
 
-TASK 1.2
+EXERCISE 1.2
 
 It is not intended that LED 0 remains on when you release the button. Make sure the LED turns off when you release the button.
 

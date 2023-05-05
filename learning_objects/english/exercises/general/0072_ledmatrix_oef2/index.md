@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 ## Led-matrix
 
-TASK 2
+EXERCISE 2
 
 Program 2 led matrices to look like 2 eyes.
 
