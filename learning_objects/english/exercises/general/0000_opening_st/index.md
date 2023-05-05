@@ -2,9 +2,9 @@
 hruid: g_inleiding_lln
 version: 3
 language: en
-title: "Inleiding"
-description: "Uitleg voor het beginnen van de algemene oefeningen voor de dwenguinoblockly simulator"
-keywords: ["oefeningen"]
+title: "Introduction"
+description: "Explanation for starting the general exercises for the DwenguinoBlockly simulator"
+keywords: ["exercises"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,16 +30,16 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # DwenguinoBlockly
-## Inleiding
+## Introduction
 
-Dwenguinoblockly is een programmeeromgeving voor kinderen zoals jij! 
+DwenguinoBlockly is a programming environment for kids like you!
 
-Dwenguinoblockly heeft twee grote voordelen:
+DwenguinoBlockly has two major advantages:
 
-1. Het is aangepast aan jouw leeftijd (derde graad basisonderwijs en eerste graad secundair onderwijs).
-2. Het is een grafische programmeertaal. Programmeren is zo eenvoudig als het verslepen van blokken op het scherm.
-3. Er is een simulator. Op het scherm zie je al wat de robot zal doen. 
+1. It is adapted to your age (third grade of primary school and first grade of secondary school).
+2. It is a graphical programming language. Programming is as easy as dragging blocks on the screen.
+3. There is a simulator. On the screen, you can already see what the robot will do.
 
-In de volgende stappen van dit leerpad leer je met dwenguinoBlockly werken. 
+In the next steps of this learning path, you will learn how to work with DwenguinoBlockly.
 
-Veel succes!
+Good luck!

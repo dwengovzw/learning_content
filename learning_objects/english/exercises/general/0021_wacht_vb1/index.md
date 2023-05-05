@@ -29,42 +29,34 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Wacht
+## Delay
 
-OPGAVE 1
+EXERCISE 1
 
-Schrijf een programma dat het volgende doet:
+Write a program that does the following:
 
-* Laat "Hallo mensen" op het lcd-scherm verschijnen gedurende 1 seconde (1000 ms).
-* Laat "Ik ben dwenguino" op het lcd-scherm verschijnen gedurende 2 seconden (2000 ms).
-* Herhaal.
-
-Oplossing:
-
-![blockly](@learning-object/wacht_m1a/nl/3)
-
-<div class="alert alert-box alert-success">
-Het <em>'wacht'-blok</em> dat <strong>na</strong> een bepaalde instructie staat, geeft weer hoelang de computer moet <strong>wachten</strong> voordat deze met de volgende instructie mag beginnen.
-</div>
-
+* Displays "Hello people" on the LCD screen for 1 second (1000 ms).
+* Displays "I am dwenguino" on the LCD screen for 2 seconds (2000 ms).
+* Repeat.
 
 <div class="alert alert-box alert-danger">
-Let erop dat je hiervoor de code in het <em>'herhaal'-deel</em> van het <em>'zet klaar/herhaal'-blok</em> plaatst!<br>
-Het programma herhaalt enkel code die in het <em>'herhaal'-deel</em> staat.
+Note that you should place the code in the <em>'repeat'</em> part of the <em>'setup/repeat'</em> block for this to work!<br>
+The program only repeats code that is in the <em>'repeat'</em> part.
 </div>
 
 ***
 
-Je merkt op dat de simulator inderdaad afwisselt tussen "Hallo mensen" en "Ik ben dwenguino". Deze oneindige herhaling veroorzaakt echter een nieuw probleem: 
+EXERCISE 2
 
-![alt](embed/lcdvoorbeeld.png "Voorbeeld tekst")
-
-Dit probleem wordt veroorzaakt doordat het lcd-scherm niet alle karakters refresht, maar enkel de karakters die veranderen.
+If you have programmed the LCD screen correctly, you should encounter the following problem:
 
 > <span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><br>
 <span style="color:red">&nbsp;I&nbsp;k&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;e&nbsp;n&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
-<span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span>
+<span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+<span style="color:red">&nbsp;I&nbsp;k&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;e&nbsp;n&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+<span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+...
 
-Om dit op te lossen, gebruik je het *'maak lcd-scherm leeg'-blok* om het lcd-scherm telkens leeg te maken voordat er nieuwe tekst verschijnt:
+Solve the problem using the *'clear LCD screen'-block*:
 
-![blockly](@learning-object/wacht_m1b/nl/3)
+![alt](embed/maaklcdleeg.png "clear LCD screen")

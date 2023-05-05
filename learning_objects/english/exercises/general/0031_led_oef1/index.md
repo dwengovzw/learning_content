@@ -31,12 +31,12 @@ teacher_exclusive: false
 ---
 ## Led
 
-OPGAVE 1
+EXERCISE 1
 
-Laat led 0 branden.
+Turn on LED 0.
 
 ***
 
 <div class="alert alert-box alert-success">
-Merk op dat led 0 het eerste led is aan de <strong>rechterkant</strong>!
+Note that LED 0 is the first LED on the <strong>right side</strong>!
 </div>

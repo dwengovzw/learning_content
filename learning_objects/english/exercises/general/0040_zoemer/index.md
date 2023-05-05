@@ -30,31 +30,31 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Zoemer
+## Buzzer
 
 ### Type
-- Uitvoer
+- Output
 - Actuator
 
-### Werking 
-Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoemer of buzzer. Hiermee kan je geluiden afspelen. 
+### Operation
+Above the LCD screen, you can see a round, black component. This is the buzzer. With it, you can play sounds.
 
-Geluid is een golf van luchtdruk veroorzaakt door een trillend object zoals bijvoorbeeld een instrument of luidspreker. De hoeveelheid trillingen per seconde (de frequentie) bepaalt de toonhoogte. Wanneer het aantal trillingen per seconde tussen de 20 en 20 000 ligt, dan kan je dit als mens horen. Voor trillingen per seconde gebruiken we de eenheid Hertz, afgekort Hz. De mens kan dus trillingen horen tussen de 20 Hz en 20 000 Hz.
+Sound is a wave of air pressure caused by a vibrating object such as an instrument or speaker. The number of vibrations per second (the frequency) determines the pitch. When the number of vibrations per second is between 20 and 20,000, humans can hear it. We use the unit Hertz, abbreviated Hz, for vibrations per second. The human ear can hear vibrations between 20 Hz and 20,000 Hz.
 
-Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer die je met een gekozen frequentie kunt laten afspelen.
+To be able to play sound, the Dwenguino is equipped with a simple buzzer that you can play with a chosen frequency.
 
 ***
 
-### In het echt
+### In real life
 
-![](embed/zoemer.png "Zoemer")
+![](embed/zoemer.png "Buzzer")
 
-### In de simulator
+### In the simulator
 
-![](embed/buzzer_on_board.png "buzzer")
+![](embed/buzzer_on_board.png "Buzzer")
 
-De blokken die je nodig hebt om de buzzer te besturen, vind je onder de categorie ![](embed/cat_dwenguino.png "categorie dwenguino").
+You can find the blocks you need to control the buzzer under the category ![](embed/cat_dwenguino.png "Dwenguino category").
 
 <div class="alert alert-box alert-success">
-Voor meer informatie over de zoemer kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>
+For more information about the buzzer, you can consult the student sheets of the <em>Social Robot</em>
 </div>

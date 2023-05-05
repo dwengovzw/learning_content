@@ -31,15 +31,15 @@ teacher_exclusive: false
 ---
 ## Led
 
-OPGAVE 4
+TASK 4
 
-Schrijf een programma dat het volgende doet:
+Write a program that does the following:
 
-1. leds 0 en 7 gaan aan.
-2. Wacht 100 ms. Leds 1 en 6 gaan aan.
-3. Wacht 100 ms. Leds 0 en 7 gaan uit. Leds 2 en 5 gaan aan.
-4. Wacht 100 ms. Leds 1 en 6 gaan uit. Leds 3 en 4 gaan aan.
-5. Wacht 100 ms. Leds 2 en 5 gaan uit. Leds 0 en 7 gaan aan.
-6. Wacht 100 ms. Leds 3 en 4 gaan uit.
+1. Turn on LEDs 0 and 7.
+2. Wait 100 ms. Turn on LEDs 1 and 6.
+3. Wait 100 ms. Turn off LEDs 0 and 7. Turn on LEDs 2 and 5.
+4. Wait 100 ms. Turn off LEDs 1 and 6. Turn on LEDs 3 and 4.
+5. Wait 100 ms. Turn off LEDs 2 and 5. Turn on LEDs 0 and 7.
+6. Wait 100 ms. Turn off LEDs 3 and 4.
 
-*Test dit ook eens uit op een echte dwenguino als dit werkt in de simulator.*
+*Test this on an actual Dwenguino board if it works in the simulator.*

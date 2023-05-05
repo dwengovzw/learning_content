@@ -30,17 +30,17 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Uploaden naar de dwenguino
+## Uploading to the Dwenguino
 
-In het onderstaande filmpje wordt getoond hoe je een programma van eender welke computer en browser kan uploaden naar de dwenguino.
-Het is belangrijk dat je alle stappen doorloopt zoals getoond in het filmpje!
+The video below shows how to upload a program from any computer and browser to the Dwenguino.
+It is important to follow all the steps shown in the video!
 
-* Schrijf het programma
-* Download het programma via de knop ![alt](embed/menu_uploaddwenguino.png "menu download")
-* Open downloads, daar staat nu een .dw-bestand
-* Sluit de dwenguino aan en druk op RESET + ZUID, laat vervolgens de resetknop los
-* De dwenguino staat tussen je mappen als USB-stick
-* Kopieer het .dw-bestand naar de dwenguino
-* Druk op RESET
+* Write the program
+* Download the program using the button ![alt](embed/menu_uploaddwenguino.png "menu download")
+* Open downloads, where a .dw file will now be present
+* Connect the Dwenguino and press RESET + SOUTH, then release the reset button
+* The Dwenguino appears as a USB stick among your files
+* Copy the .dw file to the Dwenguino
+* Press RESET
 
-![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "uploaden dwenguino")
+![](@youtube/https://www.youtube.com/embed/VpAXLlT_JP0 "upload to Dwenguino")

@@ -29,26 +29,26 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Wacht
+## Delay
 
-OPGAVE 1.1
+EXERCISE 1.1
 
-Schrijf een programma dat het volgende doet:
+Write a program that does the following:
 
-* Laat "Hallo mensen" op het lcd-scherm verschijnen gedurende 1 seconde (1000 ms).
-* Laat "Ik ben dwenguino" op het lcd-scherm verschijnen gedurende 2 seconden (2000 ms).
-* Herhaal.
+* Displays "Hello people" on the LCD screen for 1 second (1000 ms).
+* Displays "I am dwenguino" on the LCD screen for 2 seconds (2000 ms).
+* Repeat.
 
 <div class="alert alert-box alert-danger">
-Let erop dat je hiervoor de code in het <em>'herhaal'-deel</em> van het <em>'zet klaar/herhaal'-blok</em> plaatst!<br>
-Het programma herhaalt enkel code die in het <em>'herhaal'-deel</em> staat.
+Note that you need to place the code in the <em>'repeat'-part</em> of the <em>'setup/repeat'-block</em> for this!<br>
+The program only repeats code that is inside the <em>'repeat'-part</em>.
 </div>
 
 ***
 
-OPGAVE 1.2
+EXERCISE 1.2
 
-Als je het lcd-scherm correct geprogrammeerd hebt, zou je het volgende probleem moeten ondervinden: 
+If you have programmed the LCD screen correctly, you should experience the following problem:
 
 > <span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><br>
 <span style="color:red">&nbsp;I&nbsp;k&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;e&nbsp;n&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
@@ -57,6 +57,6 @@ Als je het lcd-scherm correct geprogrammeerd hebt, zou je het volgende probleem 
 <span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
 ...
 
-Los het probleem op m.b.v. het <em>'maak lcd-scherm leeg'-blok</em>: 
+Solve the problem using the <em>'clear lcd screen'-block</em>: 
 
-![alt](embed/maaklcdleeg.png "maak lcd-scherm leeg")
+![alt](embed/maaklcdleeg.png "clear lcd screen")

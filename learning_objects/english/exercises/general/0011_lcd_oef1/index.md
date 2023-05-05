@@ -29,9 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Lcd-scherm
+## Lcd screen
 
-OPGAVE 1
+EXERCISE 1
 
-Laat 'Welkom robot' op het lcd-scherm verschijnen.
-
+Display 'Welcome robot' on the lcd screen.

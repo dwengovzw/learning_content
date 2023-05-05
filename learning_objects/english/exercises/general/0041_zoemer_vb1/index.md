@@ -29,13 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Zoemer
+## Buzzer
 
-OPGAVE 1  
+EXERCISE 1
 
-Schrijf een programma zodat de buzzer een toon met frequentie 262 Hz afspeelt in intervallen van 1 seconde aan en 1 seconde uit.
+Write a program so that the buzzer plays a tone with a frequency of 262 Hz in intervals of 1 second on and 1 second off.
 
+Solution:
 
-Oplossing:
-
-![blockly](@learning-object/zoemer_m1/nl/3)
+![blockly](@learning-object/zoemer/en/3)

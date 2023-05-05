@@ -31,14 +31,14 @@ teacher_exclusive: true
 ---
 ## Led
 
-OPGAVE 2
+TASK 2
 
-Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
+Let the "odd" leds (except led 13) light up for 2 seconds.
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/led_m2/nl/3)
+![blockly](@learning-object/led_m2/en/3)
 
 <div class="alert alert-box alert-success">
-Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '<em>zet klaar</em>'-gedeelte van het programma.
+If no repetition is requested, program it accordingly. For this exercise, you only have to use the '<em>zet klaar</em>'-part of the program.
 </div>

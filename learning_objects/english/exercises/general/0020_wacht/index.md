@@ -30,16 +30,16 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Wacht
+## Delay
 
-Het *'wacht'-blok* is een instructie die de computer laat weten hoelang iets uitgevoerd moet worden. 
+The *'delay'-block* is an instruction that tells the computer how long something should be executed.
 
-![](embed/Afb1.png "Voorbeeld wacht")
+![](embed/Afb1.png "Example of wait")
 
-De tijd wordt uitgedrukt in milliseconden. Eén milliseconde is een duizendste van een seconde. In één seconde kunnen dus duizend milliseconden.
+The time is expressed in milliseconds. One millisecond is one thousandth of a second. So in one second there are a thousand milliseconds.
 
-**Voorbeeld**
+**Example**
 
-Probeer onderstaand voorbeeld eens uit zodat je ziet hoe het werkt!
+Try out the example below to see how it works!
 
 ![blockly](@learning-object/wacht_m/nl/3)

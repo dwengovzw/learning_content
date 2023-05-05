@@ -31,6 +31,6 @@ teacher_exclusive: false
 ---
 ## Led
 
-OPGAVE 3
+EXERCISE 3
 
-Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent dat led 0 eerst brandt en dan uitgaat wanneer led 1 gaat branden, led 1 uitgaat wanneer led 2 gaat branden ...
+Make all LEDs flicker for half a second in numerical order. This means that LED 0 should turn on and then turn off when LED 1 turns on, LED 1 turns off when LED 2 turns on, and so on.

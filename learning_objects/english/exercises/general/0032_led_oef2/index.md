@@ -31,11 +31,11 @@ teacher_exclusive: false
 ---
 ## Led
 
-OPGAVE 2
+EXERCISE 2
 
-Laat de "oneven" leds (behalve led 13) branden voor 2 seconden.
+Let the "odd" LEDs (except LED 13) light up for 2 seconds.
 
 ***
 
-<div class="alert alert-box alert-danger">Als er geen herhaling gevraagd wordt, programmeer dit dan ook zo. Voor deze opgave moet je enkel gebruik maken van het '<em>zet klaar</em>'-gedeelte van het programma.
+<div class="alert alert-box alert-danger">If no repetition is requested, program it that way. For this exercise, you only need to use the '<em>setup</em>' part of the program.
 </div>

@@ -29,8 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-## Lcd-scherm
+## LCD screen
 
-OPGAVE 3
+EXERCISE 3
 
-Plaats de tekst nu in het midden van het lcd-scherm.
+Now place the text in the center of the LCD screen.

@@ -29,17 +29,17 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-## Lcd-scherm
+## LCD screen
 
-OPGAVE 2
+EXERCISE 2
 
-Zorg ervoor dat 'Welkom' en 'robot' op aparte lijnen verschijnen.
+Make sure that 'Welcome' and 'robot' appear on separate lines.
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/lcd_m2/nl/3)
+![blockly](@learning-object/lcd_m2/en/3)
 
 <div class="alert alert-box alert-success">
-Om de tekst over twee lijnen te verdelen, heb je een tweede <em>'lcd-scherm'-blok</em> nodig.<br>
-Verander je bij 'op rij:' de 0 in een 1, dan komt de tekst op de tweede lijn.
+To split the text over two lines, you need a second <em>'lcd screen'-block</em>.<br>
+Change the 0 in 'on row:' to 1, and the text will appear on the second line.
 </div>

@@ -30,30 +30,30 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # dwenguinoBlockly
-## Lcd-scherm
+## LCD screen
 
 ### Type
-- Uitvoer
+- Output
 - Actuator
 
-### Werking
-Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
-Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. 
+### Functionality
+The LCD screen can display text, which can be used to convey a message.<br>
+The dwenguino LCD screen can display a maximum of 32 characters, such as letters or numbers, spread over two lines. Therefore, you can display 16 characters per line.
 
-> De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier, terwijl het lcd-scherm aanstaat.
+> The brightness of the screen is adjustable. You can adjust this yourself by turning the yellow screw (see figure) with a screwdriver while the LCD screen is on.
 
 ***
 
-### In het echt
+### In real life
 
-![](embed/dwenguino_lcd.png "Afbeelding lcd-scherm")
+![](embed/dwenguino_lcd.png "LCD screen image")
 
-### In de simulator
+### In the simulator
 
-![](embed/lcd.png "lcd-scherm")
+![](embed/lcd.png "LCD screen")
 
-De blokken om het lcd-scherm aan te sturen vind je terug in de categorie ![](embed/cat_uitvoer.png "categorie uitvoer")
+You can find the blocks to control the LCD screen in the category ![](embed/cat_output.png "output category").
 
 <div class="alert alert-box alert-success">
-Voor meer informatie over het lcd-scherm kan je terecht in de leerlingenfiches van de <em>Sociale Robot</em>.
+For more information on the LCD screen, you can consult the student sheets of the <em>Social Robot</em>.
 </div>

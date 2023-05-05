@@ -31,10 +31,10 @@ teacher_exclusive: true
 ---
 ## Led
 
-OPGAVE 3
+TASK 3
 
-Laat alle leds een halve seconde flikkeren in numerieke volgorde. Dit betekent dat led 0 eerst brandt en dan uitgaat wanneer led 1 gaat branden, led 1 uitgaat wanneer led 2 gaat branden ...
+Let all LEDs blink for half a second in numerical order. This means that LED 0 lights up first and goes off when LED 1 lights up, LED 1 goes off when LED 2 lights up, ...
 
-Oplossing:
+Solution:
 
-![blockly](@learning-object/led_m3/nl/3)
+![blockly](@learning-object/led_m3/en/3)

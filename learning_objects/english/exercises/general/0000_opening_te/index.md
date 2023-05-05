@@ -2,9 +2,9 @@
 hruid: g_inleiding_lkr
 version: 3
 language: en
-title: "Inleiding"
-description: "Uitleg voor het beginnen van de algemene oefeningen voor de dwenguinoblockly simulator"
-keywords: ["oefeningen"]
+title: "Introduction"
+description: "Explanation for starting the general exercises for the DwenguinoBlockly simulator"
+keywords: ["exercises"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -30,11 +30,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # DwenguinoBlockly
-## Inleiding - leerkracht
+## Introduction - teacher
 
-DwenguinoBlockly is een programmeeromgeving ontworpen voor kinderen van de derde graad van het basisonderwijs en de eerste graad van het secundair onderwijs. De omgeving gebruikt een grafische programmeertaal en geeft leerlingen de mogelijkheid om een robot te programmeren. 
+DwenguinoBlockly is a programming environment designed for children in the third grade of primary education and the first grade of secondary education. The environment uses a graphical programming language and gives students the opportunity to program a robot.
 
-Binnen de programmeeromgeving werd een simulator voorzien om programma's uit te testen. In de simulator kan men kiezen uit verschillende scenario’s, zoals een rijdende robot, een sociale robot en een spirograaf (tekenrobot). 
-Voor zij die geen fysiek materiaal ter beschikking hebben, kan DwenguinoBlockly dus ook autonoom ingezet worden als lestool. Een fysieke robot is niet noodzakelijk.
+Within the programming environment, a simulator has been provided to test programs. In the simulator, you can choose from different scenarios, such as a driving robot, a social robot, and a spirograph (drawing robot). 
+For those who do not have physical material at their disposal, DwenguinoBlockly can also be used autonomously as a teaching tool. A physical robot is not necessary.
 
-Voor zij die wel fysiek materiaal ter beschikking hebben, kan de de simulator gebruikt worden om een programma testen, voor het op de fysieke robot uit te proberen. Als er dan iets niet werkt, vermijd je het dilemma dat je niet weet of het probleem in het programma zit of het aan de fysieke robot ligt.
+For those who do have physical material at their disposal, the simulator can be used to test a program before trying it out on the physical robot. This avoids the dilemma of not knowing whether the problem is in the program or with the physical robot if something does not work.
