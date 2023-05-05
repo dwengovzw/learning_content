@@ -2,8 +2,8 @@
 hruid: g_lcd
 version: 3
 language: en
-title: "Uitleg Lcd"
-description: "Uitleg Lcd"
+title: "Explanation LCD"
+description: "Explanation LCD"
 keywords: ["oefeningen", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
