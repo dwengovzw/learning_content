@@ -37,11 +37,11 @@ The programming environment with simulator is available online at [https://block
 
 Below you will see a screenshot of the environment with a description of the different components.
 
-![](embed/simulator.png "Simulator Components")
+![](embed/en_simulator_sr.png "Simulator Components")
 
-1. **Toolbox**<br> In this menu you can find the different code blocks. The menu is divided into categories, each containing a specific type of blocks. In ![alt](embed/cat_invoer.png "input category"), for example, you can find all the blocks related to input.
+1. **Toolbox**<br> In this menu you can find the different code blocks. The menu is divided into categories, each containing a specific type of blocks. In ![alt](embed/cat_input.png "input category"), for example, you can find all the blocks related to input.
 
-2. **Code area**<br> This is where your program is located. The *'setup/loop' block* is already in place. <br><br>![alt](embed/b_zetklaarherhaal.png "Setup/loop block")
+2. **Code area**<br> This is where your program is located. The *'setup/loop' block* is already in place. <br><br>![alt](embed/en_setuploop.png "Setup/loop block")
 
 > Only code placed in the 'setup/loop' part of this block will be executed. Code placed elsewhere will not be executed. To program, simply drag and drop blocks from the *toolbox* to the *code area* and snap them into place in the *'setup/loop'* block.
 
