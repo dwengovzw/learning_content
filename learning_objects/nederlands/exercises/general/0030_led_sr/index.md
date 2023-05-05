@@ -34,6 +34,7 @@ teacher_exclusive: false
 
 ### Type
 - Uitvoer
+- Actuator
 
 ### Werking
 Links onderaan op het dwenguino-bord vind je acht leds:
