@@ -34,9 +34,11 @@ Spot is een vierpotige robot van het bedrijf Boston Dynamics.
 
 #### Nest thermostaat
 ![](@learning-object/org-dwengo-jommeke-images-nest-thermostat/nl/1) 
-<sub>© Google LLC</sub> 
+<sub>Google and Nest Learning Thermostat are trademarks of Google LLC.</sub>
 
 Google Nest is een slimme thermostaat die de temperatuur automatisch aanpast aan je gedrag.
+
+<sub>Google en de Nest Learning Thermostat zijn een handelsmerk van Google LLC.</sub>
 
 #### Tesla model 3
 ![](@learning-object/org-dwengo-jommeke-images-tesla-model-3/nl/1)
@@ -49,6 +51,5 @@ De Tesla model 3 heeft een automatische piloot die sterk afhankelijk is van AI-s
 Shazam heeft geleerd om op basis van korte stukjes opgenomen audio te voorspellen welk liedje er speelt.
 
 #### TikTok
-![](@learning-object/org-dwengo-jommeke-images-tiktok-logo/nl/1)
-<sub>© Tiktok</sub>
+
 TikTok maakt gebruik van AI-systemen om te voorspellen welke filmpjes jij leuk zal vinden. Op die manier zorgen ze ervoor dat je blijft kijken.
