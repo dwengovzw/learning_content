@@ -29,21 +29,20 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Lesson plan
+## Module 4: Creative assignment and class discussion (± 2 hours)
 
-# Lesverloop
-## Module 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
+*The link below takes you to module 4 of 'Social Robot'* <br>
+[Module 4: Creative processing and debriefing](https://www.dwengo.org/learning-path.html?hruid=sr4&language=en&te=true "Module 4")  
 
-*Onderstaande link brengt je naar module 4 van 'Sociale Robot'* <br>
-[Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl&te=true "Module 4")  
-
-**Lesfase A - Creatieve opdrachten**
-* Laat de leerlingen hun creatieve opdrachten voorstellen. Geef hen indien nodig nog wat tijd om dit voor te bereiden in de les.
+**Lesson Phase A - Creative assignments**
+* Have the students present their creative assignments. If necessary, give them some time to prepare in class.
 
 
-**Lesfase B - Klasgesprek ter afronding project**
-* Sluit het project af met een klasgesprek over sociale robots.
+**Lesson Phase B - Class discussion to conclude project**
+* Conclude the project with a class discussion on social robots.
 
 <div class="alert alert-box alert-success">
-Zorg ervoor dat de leerlingen een herinnering overhouden aan hun robot: een filmpje, een foto ... Ze zullen de robot immers moeten afbreken.<br>
-Het robotlichaam kan wel bewaard worden. De openingen die ontstaan zijn door het verwijderen van sensoren en actuatoren, kunnen eventueel opgevuld worden met een geprinte of kartonnen versie. Zo blijft de robot er toch nog uitzien als een robot.
+Make sure the students have a reminder of their robot: a video, a photo... as they will have to dismantle the robot.<br>
+However, the robot body can be kept. The openings that have been created by removing sensors and actuators can be filled with a printed or cardboard version. This way, the robot will still look like a robot.
 </div>
