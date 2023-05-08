@@ -38,7 +38,8 @@ Men maakt het onderscheid tussen 'nabije' en 'verre' transfer. **Nabije transfer
 
 Er zijn wel factoren waarvan men vermoedt dat ze **transfer bevorderen**, zoals integratie en het expliciteren van overeenkomstigheden. Omdat we geleerde concepten die met elkaar verbonden zijn gemakkelijker terug kunnen ophalen in vergelijking met concepten die niet verbonden zijn, zou integratie effectief kunnen zijn. Door leerlingen expliciet te wijzen op de mogelijkheden van transfer, door bv. te wijzen op de overeenkomstigheden tussen twee problemen of te refereren aan een achterliggend concept, vergroot de kans dat de transfer plaatsvindt (Honey et al., 2014).
 
-#### Bronnnen: 
+---------------------------
+#### Bronnen: 
 Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing computational thinking in compulsory education : implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
 Guzdial, M. (2015). Learner-Centered Design of Computing Education: Research on Computing for Everyone. *Synthesis Lectures on Human-Centered Informatics.*<br>
 Honey, M., Pearson, G., & Schweingruber, H. (2014). *STEM Integration in K-12 Education: Status, Prospects, and an Agenda for Research.* Washington D.C.: The National Academies Press.<br>
