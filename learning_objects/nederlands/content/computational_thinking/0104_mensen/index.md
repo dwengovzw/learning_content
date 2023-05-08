@@ -46,7 +46,8 @@ Bij het ontwerpen van een nieuw systeem betrekt men best de mensen die ermee zul
 
 > Meer over Tay in de handleiding bij het project ‘Chatbot’ van AI Op School vind je [hier](https://www.dwengo.org/chatbot "chatbot").
 
-#### Bronnnen: 
+---------------------------
+#### Bronnen: 
 Bell, T. (2018). Computer Science in K-12 Education: The Big Picture. *Olympiads in Informatics, 12*, 3-11.<br>
 Curzon, P. & McOwan, P. (2017). *The power of computational thinking.* Londen: World Scientific Publishing Europe.<br>
 Denning, P. & Tedre, M. (2019). *Computational thinking.* VS: MIT Press.<br>
