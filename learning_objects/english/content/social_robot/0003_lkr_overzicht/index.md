@@ -32,34 +32,32 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Overview
 
-# Overzicht
+A detailed overview of the project can be found in the [**project sheet**](embed/projectfiche_socialerobot.pdf "social robot project sheet").
 
-Een gedetailleerd overzicht van het project kan je terugvinden in de [**projectfiche**](embed/projectfiche_socialerobot.pdf "projectfiche sociale robot").
+## Target audience
+Secondary education, 1st or 2nd grade.
 
+## Time commitment
+6 to 12 lesson hours, preferably in blocks of 2 to 3 lesson hours.
 
-## Doelgroep
-Secundair onderwijs, 1e of 2e graad.
+## Central challenge
+Design, program, and build a social robot.
 
-## Tijdsbesteding
-6 tot 12 lesuren, best in blokken van 2 à 3 lesuren.
+## Project structure
+### Introduction to social robots (± 1 lesson hour)
+* What are social robots? (20 - 40 min)
+* How does a social robot come to be? (10 - 20 min)
 
-## Centrale uitdaging
-Ontwerp, programmeer en bouw een sociale robot.
+### Own social robot (± 6 lesson hours)
+* Unplugged computational thinking (30 - 60 min)
+* Brainstorming (30 min)
+* Getting started with the simulator (90 - 150 min)
+* Construction of the robot (90 - 150 min)
 
-## Projectstructuur
-### Inleiding sociale robots (± 1 lesuur)
-* Wat zijn sociale robots? (20 - 40 min)
-* Hoe komt een sociale robot tot stand? (10 - 20 min)
+### Processing (± 2 lesson hours)
+* Creative task with built robot (60 min)
+* Classroom discussion (60 min)
 
-### Eigen sociale robot (± 6 lesuren)
-* Computationeel denken unplugged (30 - 60 min)
-* Brainstorm (30 min)
-* Aan de slag met de simulator (90 - 150 min)
-* Constructie van de robot (90 - 150 min)
-
-### Verwerking (± 2 lesuren)
-* Creatieve opdracht met gebouwde robot (60 min)
-* Klasgesprek (60 min)
-
-### Evaluatie 
+### Evaluation
