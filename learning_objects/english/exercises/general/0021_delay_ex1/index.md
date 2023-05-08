@@ -40,8 +40,8 @@ Write a program that does the following:
 * Repeat.
 
 <div class="alert alert-box alert-danger">
-Note that you need to place the code in the <em>'repeat'-part</em> of the <em>'setup/repeat'-block</em> for this!<br>
-The program only repeats code that is inside the <em>'repeat'-part</em>.
+Note that you need to place the code in the <em>'loop'-part</em> of the <em>'setup/loop'-block</em> for this!<br>
+The program only loops code that is inside the <em>'loop'-part</em>.
 </div>
 
 ***
@@ -50,11 +50,11 @@ EXERCISE 1.2
 
 If you have programmed the LCD screen correctly, you should experience the following problem:
 
-> <span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><br>
-<span style="color:red">&nbsp;I&nbsp;k&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;e&nbsp;n&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
-<span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
-<span style="color:red">&nbsp;I&nbsp;k&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;e&nbsp;n&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
-<span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+> <span style="color:green">H&nbsp;e&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;p&nbsp;e&nbsp;&nbsp;o&nbsp;p&nbsp;l&nbsp;e</span><br>
+<span style="color:red">&nbsp;I&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;a&nbsp;m&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+<span style="color:green">H&nbsp;e&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;p&nbsp;e&nbsp;&nbsp;o&nbsp;p&nbsp;l&nbsp;e</span><span style="color:red">&nbsp;n&nbsp;o&nbsp;</span><br>
+<span style="color:red">&nbsp;I&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;a&nbsp;m&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+<span style="color:green">H&nbsp;e&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;p&nbsp;e&nbsp;&nbsp;o&nbsp;p&nbsp;l&nbsp;e</span><span style="color:red">&nbsp;n&nbsp;o&nbsp;</span><br>
 ...
 
 Solve the problem using the <em>'clear lcd screen'-block</em>: 

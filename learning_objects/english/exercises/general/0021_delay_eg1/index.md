@@ -44,25 +44,25 @@ Solution:
 ![blockly](@learning-object/wacht_m1a/en/3)
 
 <div class="alert alert-box alert-success">
-The <em>'wait'</em> block that comes <strong>after</strong> a specific instruction, indicates how long the computer must <strong>wait</strong> before starting with the next instruction.
+The <em>'delay'</em> block that comes <strong>after</strong> a specific instruction, indicates how long the computer must <strong>delay</strong> the next instruction before it is initiated.
 </div>
 
 <div class="alert alert-box alert-danger">
-Note that you need to place the code in the <em>'repeat'</em> part of the <em>'setup/repeat'</em> block!<br>
-The program only repeats code that is in the <em>'repeat'</em> part.
+Note that you need to place the code in the <em>'loop'</em> part of the <em>'setup/loop'</em> block!<br>
+The program only loops code that is in the <em>'loop'</em> part.
 </div>
 
 ***
 
-You will notice that the simulator alternates between "Hello people" and "I am dwenguino". However, this infinite repetition causes a new problem:
+You will notice that the simulator alternates between "Hello people" and "I am dwenguino". However, this infinite loop causes a new problem:
 
 ![alt](embed/lcdvoorbeeld.png "Example text")
 
 This problem is caused by the fact that the LCD screen does not refresh all characters, but only the ones that change.
 
-> <span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><br>
-<span style="color:red">&nbsp;I&nbsp;k&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;e&nbsp;n&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
-<span style="color:green">H&nbsp;a&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;m&nbsp;e&nbsp;&nbsp;n&nbsp;s&nbsp;e&nbsp;n</span><span style="color:red">&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span>
+> <span style="color:green">H&nbsp;e&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;p&nbsp;e&nbsp;&nbsp;o&nbsp;p&nbsp;l&nbsp;e</span><br>
+<span style="color:red">&nbsp;I&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;a&nbsp;m&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;w&nbsp;e&nbsp;n&nbsp;g&nbsp;u&nbsp;i&nbsp;n&nbsp;o</span><br>
+<span style="color:green">H&nbsp;e&nbsp;l&nbsp;&nbsp;l&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;p&nbsp;e&nbsp;&nbsp;o&nbsp;p&nbsp;l&nbsp;e</span><span style="color:red">&nbsp;n&nbsp;o&nbsp;</span><br>
 
 To solve this, use the *'clear LCD screen'-block* to clear the LCD screen each time before new text appears:
 
