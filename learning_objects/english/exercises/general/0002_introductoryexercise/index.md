@@ -38,7 +38,7 @@ Now that you know where everything is, you can start programming!
 
 * In the *toolbox*, go to the category ![alt](embed/cat_dwenguino.png "dwenguino category") and look for the *'lcd screen' block*: <br><br>![alt](embed/firstprogram.png "lcd block")
 
-* Drag this block to the *code area* and snap it into the 'set up' section of the *'set up/repeat'* block: <br><br>![alt](embed/firstprogram2.png "click lcd")
+* Drag this block to the *code area* and snap it into the 'set up' section of the *'set up/loop'* block: <br><br>![alt](embed/firstprogram2.png "click lcd")
 
 * You just wrote your first program!
 
