@@ -34,8 +34,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Lesverloop
-## Module 1: Inleiding & context
+# Course Outline
+## Module 1: Introduction & Context
 
-*Onderstaande link brengt je naar module 1 van 'Sociale Robot'*<br>
-[Module 1: Wat zijn sociale robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl "Module 1")  
+*The link below will take you to Module 1 of 'Social Robot'*<br>
+[Module 1: What are social robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl "Module 1")
