@@ -33,19 +33,18 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Lesson Plan
+## Module 0: Project Overview for Students
 
-# Lesverloop
-## Module 0: Projectoverzicht voor de leerlingen
+*The following link will take you to module 0 of 'Social Robot'*<br>
+[**Module 0: The Social Robot**](https://www.dwengo.org/learning-path.html?hruid=sr0_lln_algemeen&language=nl "Module 0")  
 
-*Onderstaande link brengt je naar module 0 van 'Sociale Robot'*<br>
-[**Module 0: De Sociale Robot**](https://www.dwengo.org/learning-path.html?hruid=sr0_lln_algemeen&language=nl "Module 0")  
-
-Module 0 is het eerste leerpad dat de leerlingen zullen zien binnen dit project. Het bestaat uit een korte inleiding en 4 **links** naar de volgende modules. Deze links zullen de leerlingen doorverwijzen naar de **leerpaden voor leerlingen**.
+Module 0 is the first learning path that students will see within this project. It consists of a short introduction and 4 **links** to the next modules. These links will refer the students to the **learning paths for students**.
 
 <div class="alert alert-box alert-success">
-De leerpaden die op de projectpagina te vinden zijn, zijn de </strong>leerpaden voor leerkrachten</strong>,  <strong>Module 0: Leerlingen</strong> en <strong>Module 2: Oefeningen</strong>.
+The learning paths found on the project page are the </strong>learning paths for teachers</strong>, <strong>Module 0: Students</strong>, and <strong>Module 2: Exercises</strong>.
 
-Om naar de leerpaden voor leerlingen te gaan, heb je 2 opties:<br>
-<ul><li>de links in <em>Module 0: Leerlingen</em></li></ul>
-<ul><li>je gebruikt de knop <em>'Link naar leerpad voor leerlingen'</em> die je terugvindt in het corresponderende leerpad voor leerkrachten.
+To access the learning paths for students, you have 2 options:<br>
+<ul><li>the links in <em>Module 0: Students</em></li></ul>
+<ul><li>you can use the <em>'Link to learning path for students'</em> button that you will find in the corresponding learning path for teachers.
 </div>
