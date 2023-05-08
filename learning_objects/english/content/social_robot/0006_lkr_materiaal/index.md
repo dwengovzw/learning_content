@@ -32,25 +32,24 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Material
 
-# Materiaal
-
-Dwengo heeft voor het 'Sociale robot'-project een kit ontwikkeld met elektronica en gereedschap voor het bouwen van een eigen sociale robot.  
+Dwengo has developed a kit with electronics and tools for building your own social robot for the 'Social Robot' project. 
 
 ![](embed/doos_socialerobot.png "1 kit")
 
-Eén zo'n kit bevat het onderstaande materiaal:  
+One such kit contains the following materials: 
 
-![](embed/constructiekit_socialerobot.png "Inhoud kit")
+![](embed/constructiekit_socialerobot.png "Kit content")
 
-Bij elke set wordt ook een [**ficheboekje**](embed/ficheboekje_leerkracht.pdf "Ficheboekje") meegeleverd. Hierin staan de fiches met extra uitleg die gemaakt werden voor de leerlingen, zodat jij optimaal voorbereid bent.
+Each set also comes with a [**notebook**](embed/ficheboekje_leerkracht.pdf "Notebook") containing notes with additional explanations that have been made for the students so that you are optimally prepared.
 
-## Materiaal kopen
-Dwengo verkoopt deze kits in sets van 5. Voor meer informatie kan je in [**onze webshop**](https://www.dwengo.org/shop/) terecht.
+## Buying material
+Dwengo sells these kits in sets of 5. For more information, please visit [**our webshop**](https://www.dwengo.org/shop/).
 
-## Materiaal ontlenen
-Voor scholen uit de [**provincie Oost-Vlaanderen**](https://oost-vlaanderen.be/leren/educatief-materiaal/de-sociale-robot.html) stelt de provincie 6 sets ter beschikking. Deze kunnen in overleg met de verantwoordelijken ontleend worden via <a href="mailto:jorinde.lannau@oost-vlaanderen.be">mail</a>.  
+## Borrowing material
+For schools in the [**province of East Flanders**](https://oost-vlaanderen.be/leren/educatief-materiaal/de-sociale-robot.html), the province provides 6 sets. These can be borrowed in consultation with the responsible persons via <a href="mailto:jorinde.lannau@oost-vlaanderen.be">email</a>. 
 
-Scholen van het [**Provinciaal Onderwijs Vlaanderen**](https://povsites.be/stem/voorbereiding-project-sociale-robot/) kunnen terecht bij hun [pedagogische begeleidingsdienst](https://povsites.be/stem/voorbereiding-project-sociale-robot/#kits-en-lesfiches).
+Schools of the [**Provincial Education Flanders**](https://povsites.be/stem/voorbereiding-project-sociale-robot/) can contact their [pedagogical support service](https://povsites.be/stem/voorbereiding-project-sociale-robot/#kits-en-lesfiches).
 
-De [**cel iSTEM inkleuren**](https://istem.be/) heeft ook enkele sets om uit te lenen. Contacteer de cel via <a href="mailto:contact@istem.be">mail</a>. 
+The [**iSTEM coloring cell**](https://istem.be/) also has a few sets to lend out. Contact the cell via <a href="mailto:contact@istem.be">email</a>.
