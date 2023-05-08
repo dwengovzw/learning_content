@@ -33,21 +33,20 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Evaluatie
+# Evaluation
 
-Dit project biedt je de mogelijkheid om zowel aan proces- als productevaluatie te doen. Hieronder vind je suggesties voor beide.
+This project offers you the opportunity to do both process and product evaluations. Below are suggestions for both.
+
+## Process evaluation
+
+* The process that the students go through in designing their social robot
+* The process that the students go through in programming their social robot
+* The process that the students go through in building their social robot
 
 
-## Procesevaluatie
+## Product evaluation
 
-* Het proces dat de leerlingen doorlopen bij het ontwerpen van hun sociale robot
-* Het proces dat de leerlingen doorlopen bij het programmeren van hun sociale robot
-* Het proces dat de leerlingen doorlopen bij het bouwen van hun sociale robot
-
-
-## Productevaluatie
-
-* De schets van hun droomrobot en hun technische tekening
-* Het eindprogramma
-* De afgewerkte sociale robot
-* De presentatie op het einde van het project
+* The sketch of their dream robot and their technical drawing
+* The final program
+* The finished social robot
+* The presentation at the end of the project

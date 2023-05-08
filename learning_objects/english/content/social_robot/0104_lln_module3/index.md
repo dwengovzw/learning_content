@@ -31,8 +31,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Lesverloop
-## Module 3: Bouwen
+# Lesson plan
+## Module 3: Building
 
-*Onderstaande link brengt je naar module 3 van 'Sociale Robot'* <br>
-[Module 3: Bouwen van de robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=nl "Module 3")  
+*The link below takes you to module 3 of 'Social Robot'* <br>
+[Module 3: Building the robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=en "Module 3")

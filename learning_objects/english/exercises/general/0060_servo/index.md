@@ -57,7 +57,7 @@ There are 2 types of servos available:
 
 ![](embed/servos_simulator.png "Servo motor simulator")
 
-To control the servo motors, numerous blocks have been provided which can be found under the category ![](embed/cat_uitvoer.png "output category").
+To control the servo motors, numerous blocks have been provided which can be found under the category ![](embed/cat_output.png "output category").
 
 The servo motors can have a different appearance in the simulation window. You can do this by double-clicking on the component (after adding it to the simulation window). The following menu will appear:
 

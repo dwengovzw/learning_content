@@ -33,4 +33,4 @@ teacher_exclusive: false
 ## Variables
 From now on, you will be able to use variables. This will make your code more organized. Variables are extremely useful when reading out sensors, such as the sonar sensor and the sound sensor.
 
-You can find the necessary blocks in the category ![](embed/cat_variabelen.png "variable category").
+You can find the necessary blocks in the category ![](embed/cat_variables.png "variable category").

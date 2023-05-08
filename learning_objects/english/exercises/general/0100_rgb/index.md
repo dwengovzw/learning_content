@@ -49,7 +49,7 @@ The RGB LED is a LED whose light color can be determined by programming the inte
 
 ![](embed/rgb_sim.png "RGB LED simulator")
 
-The blocks you need for programming the LED matrices can be found under the category ![](embed/cat_uitvoer.png "category output").
+The blocks you need for programming the LED matrices can be found under the category ![](embed/cat_output.png "category output").
 
 ### Important combinations
 

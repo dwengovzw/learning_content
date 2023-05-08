@@ -56,7 +56,7 @@ The program only loops code that is in the <em>'loop'</em> part.
 
 You will notice that the simulator alternates between "Hello people" and "I am dwenguino". However, this infinite loop causes a new problem:
 
-![alt](embed/lcdvoorbeeld.png "Example text")
+![alt](embed/lcd_screen.png "Example text")
 
 This problem is caused by the fact that the LCD screen does not refresh all characters, but only the ones that change.
 

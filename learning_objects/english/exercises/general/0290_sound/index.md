@@ -52,4 +52,4 @@ In the simulator, a button is provided to simulate sound. Pressing the button si
 
 ![](embed/sim_geluidssensor.png "sound sensor simulator")
 
-You can find the necessary blocks for controlling the sound sensor under the category ![](embed/cat_uitvoer.png "output category").
+You can find the necessary blocks for controlling the sound sensor under the category ![](embed/cat_output.png "output category").
