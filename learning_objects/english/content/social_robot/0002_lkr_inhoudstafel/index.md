@@ -33,22 +33,22 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Inhoudstafel
+# Table of Contents
 
-[**Overzicht**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_overzicht;nl;3)
+[**Overview**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_overzicht;en;3)
 
-[**Eindtermen**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_eindtermen;nl;3)
+[**Learning Outcomes**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_eindtermen;en;3)
 
-[**Evaluatie**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_evaluatie;nl;3)
+[**Assessment**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_evaluatie;en;3)
 
-[**Materiaal**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_materiaal;nl;3)
+[**Materials**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_materiaal;en;3)
 
-[**Module 0**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module0;nl;3)
+[**Module 0**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module0;en;3)
 
-[**Module 1**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module1;nl;3)
+[**Module 1**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module1;en;3)
 
-[**Module 2**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module2;nl;3)
+[**Module 2**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module2;en;3)
 
-[**Module 3**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module3;nl;3)
+[**Module 3**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module3;en;3)
 
-[**Module 4**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=nl&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module4;nl;3)
+[**Module 4**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_module4;en;3)
