@@ -30,18 +30,18 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Het 'Sociale Robot'-project
+# The 'Social Robot' Project
 
-![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Introductie Sociale Robot")
+![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w?list=PLHRY06NDfDXlBpLm5J3BK26Ul6GxGykDu "Introduction Social Robot")
 
-*Welkom bij het 'Sociale Robot'-project! In dit project zal je aan de slag gaan om je eigen sociale robot te verwezenlijken!*
+*Welcome to the 'Social Robot' project! In this project, you will get started on building your own social robot!*
 
-<strong>Maar... hoe begin je eraan? Hoe maak je dat, zo'n *'sociale robot'*?</strong>
+"But... how do you get started? How do you make such a *'social robot'*?"
 
-Het bouwen van een sociale robot is geen eenvoudige taak, maar als je het probleem in kleinere deelproblemen opsplitst, lijkt het al een stuk minder moeilijk.
+Building a social robot is not an easy task, but if you break down the problem into smaller sub-problems, it already seems less difficult.
 
-* *Hoe ontwerp ik een sociale robot?*
-* *Hoe programmeer ik een sociale robot?*
-* *Hoe bouw ik een sociale robot?*
+* *How do I design a social robot?*
+* *How do I program a social robot?*
+* *How do I build a social robot?*
 
-Dit is al iets meer concreet! Het is tijd om erin te vliegen!
+This is already a bit more concrete! It's time to get started!
