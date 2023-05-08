@@ -90,5 +90,9 @@ Expliciteren van een reeks eenduidige instructies die stapsgewijs moeten worden 
 Inzien dat deze reeks van instructies en de volgorde ervan essentieel zijn om het gewenste resultaat op te leveren.
 </div> 
 
-#### Bronnnen: 
+Het volgende filmpje geeft je alvast een eerste idee van wat deze basisconcepten concreet kunnen betekenen.  
+
+![](@youtube/https://www.youtube.com/embed/gcyPaABTWcQ "filmpje basisconcepten computationeel denken") 
+
+#### Bronnen: 
 AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via [https://onderwijsdoelen.be/uitgangspunten/4814](https://onderwijsdoelen.be/uitgangspunten/4814)
