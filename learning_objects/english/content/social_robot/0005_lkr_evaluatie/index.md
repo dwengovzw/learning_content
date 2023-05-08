@@ -2,8 +2,8 @@
 hruid: sr0_lkr_evaluatie
 version: 3
 language: en
-title: "Evaluatie"
-description: "Evaluatie"
+title: "Evaluation"
+description: "Evaluation"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
