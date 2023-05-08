@@ -46,10 +46,3 @@ Each set also comes with a [**notebook**](embed/ficheboekje_leerkracht.pdf "Note
 
 ## Buying material
 Dwengo sells these kits in sets of 5. For more information, please visit [**our webshop**](https://www.dwengo.org/shop/).
-
-## Borrowing material
-For schools in the [**province of East Flanders**](https://oost-vlaanderen.be/leren/educatief-materiaal/de-sociale-robot.html), the province provides 6 sets. These can be borrowed in consultation with the responsible persons via <a href="mailto:jorinde.lannau@oost-vlaanderen.be">email</a>. 
-
-Schools of the [**Provincial Education Flanders**](https://povsites.be/stem/voorbereiding-project-sociale-robot/) can contact their [pedagogical support service](https://povsites.be/stem/voorbereiding-project-sociale-robot/#kits-en-lesfiches).
-
-The [**iSTEM coloring cell**](https://istem.be/) also has a few sets to lend out. Contact the cell via <a href="mailto:contact@istem.be">email</a>.

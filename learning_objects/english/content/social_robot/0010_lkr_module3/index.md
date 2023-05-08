@@ -31,27 +31,24 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Lesverloop
-## Module 3: Constructie van de robot (± 3 lesuren)
+# Lesson Plan
+## Module 3: Construction of the Robot (± 3 class hours)
 
-*Onderstaande link brengt je naar module 3 van 'Sociale Robot'* <br>
-[Module 3: Bouwen van de robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=nl&te=true "Module 3")  
+*The link below will take you to module 3 of 'Social Robot'* <br>
+[Module 3: Building the Robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=en&te=true "Module 3")
 
-**Lesfase A - Verzamelen materiaal**
-* De leerlingen beginnen met de constructie van de fysieke robot. Hiervoor moeten ze eerst het materiaal dat ze nodig hebben, verzamelen. De leerlingen worden aangemoedigd om hierbij creatief uit de hoek te komen.
+**Lesson Phase A - Collecting Materials**
+* The students start with the construction of the physical robot. To do this, they must first collect the materials they need. The students are encouraged to be creative in this process.
 
+**Lesson Phase B - Building the Robot**
+* The students start building the physical robot using the collected materials. Be sure to provide sufficient guidance!
 
-**Lesfase B - Bouwen van de robot**
-* De leerlingen gaan aan de slag met het verzamelde materiaal voor het maken van de fysieke robot. Voorzie hierbij zeker voldoende begeleiding!
+**Lesson Phase C - Programming the Robot**
+* The students test their program on the physical robot. They discover any errors and work systematically to correct them.
+* The students check whether their robot meets their chosen requirements and the predetermined criteria.
+* If there is still time left, the students can add additional functionalities to their robot. They always test the program first in the simulator and only when it works flawlessly there, they transfer it to the physical robot.
 
-
-**Lesfase C - Programmeren van de robot**
-* De leerlingen testen hun programma op de fysieke robot. Ze ontdekken eventuele fouten en gaan systematisch te werk om de fouten te verhelpen.
-* De leerlingen gaan na of hun robot voldoet aan hun eigen gekozen vereisten en de vooropgestelde criteria.
-* Als er nog tijd over is, kunnen de leerlingen nog extra functionaliteiten aan hun robot toevoegen. Hierbij testen ze het programma steeds eerst uit in de simulator en pas als het daar feilloos werkt, zetten ze het over naar de fysieke robot.
-
-
-**Lesfase D - Slot**
-* De leerlingen ruimen hun werkplaats op.
-* De leerlingen doen aan zelfevaluatie en formuleren schriftelijk een verbeterpunt.
-* Geef de leerlingen een creatieve opdracht mee om voor te bereiden tegen de volgende les. Dit kan een korte voorstelling zijn, een verhaal over hoe hun robot tot stand kwam, of zelfs een korte sketch met hun robot!
+**Lesson Phase D - Conclusion**
+* The students clean up their workplace.
+* The students conduct self-evaluation and formulate a written improvement point.
+* Give the students a creative assignment to prepare for the next lesson. This can be a short presentation, a story about how their robot came to be, or even a short sketch with their robot!

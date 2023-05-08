@@ -38,7 +38,7 @@ To let your robot respond to such stimuli, you use a conditional statement. Cond
 
 ***
 
-In the simulator, you can find the blocks for a conditional statement in the category ![](embed/cat_logica.png "category logic"). The simplest form of this block is the *'IF-THEN'* block.
+In the simulator, you can find the blocks for a conditional statement in the category ![](embed/cat_logic.png "category logic"). The simplest form of this block is the *'IF-THEN'* block.
 
 ![](embed/keuzestructuur1.png "IF-THEN block")
 

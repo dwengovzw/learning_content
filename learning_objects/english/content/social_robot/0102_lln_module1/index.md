@@ -38,4 +38,4 @@ teacher_exclusive: false
 ## Module 1: Introduction & Context
 
 *The link below will take you to Module 1 of 'Social Robot'*<br>
-[Module 1: What are social robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl "Module 1")
+[Module 1: What are social robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=en "Module 1")

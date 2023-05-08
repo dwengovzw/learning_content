@@ -32,8 +32,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Lesverloop
-## Module 2: Ontwerpen & programmeren
+# Lesson Plan
+## Module 2: Design & Programming
 
-*Onderstaande link brengt je naar module 2 van 'Sociale Robot'* <br>
-[Module 2: Ontwerpen en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2_oefeningen&language=nl "Module 2")  
+*The following link will take you to Module 2 of 'Social Robot'* <br>
+[Module 2: Design and Programming](https://www.dwengo.org/learning-path.html?hruid=sr2_oefeningen&language=en "Module 2")

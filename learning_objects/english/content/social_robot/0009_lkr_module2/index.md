@@ -35,7 +35,7 @@ teacher_exclusive: true
 ## Module 2: Brainstorm, programming, and material selection (± 3 hours)
 
 *The link below will take you to Module 2 of 'Social Robot'* <br>
-[Module 2: Brainstorm and programming](https://www.dwengo.org/learning-path.html?hruid=sr2&language=nl&te=true "Module 2")  
+[Module 2: Brainstorm and programming](https://www.dwengo.org/learning-path.html?hruid=sr2&language=en&te=true "Module 2")  
 
 **Lesson Phase A - Introduction**
 * Provide sufficient structure and guidance so that students do not get lost in their ideas. Brainstorming with students is not easy, so it is important to guide them properly.

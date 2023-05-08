@@ -49,7 +49,7 @@ The LED Matrix is a square 8x8 matrix with 64 LEDs in a fixed color (red). The m
 
 ![](embed/led_matrix.png "led-matrix simulator")
 
-The blocks you need to program the LED matrices can be found under the category ![](embed/cat_uitvoer.png "output category").
+The blocks you need to program the LED matrices can be found under the category ![](embed/cat_output.png "output category").
 
 <div class="alert alert-box alert-success">
 For more information about the LED Matrix, you can consult the student sheets of the <em>Social Robot</em>.

@@ -37,7 +37,7 @@ teacher_exclusive: true
 ## Module 1: Introduction and Unplugged Computational Thinking (± 2 hours)
 
 *The following link will take you to module 1 of 'Social Robot'*<br>
-[Module 1: What are social robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl&te=true "Module 1")  
+[Module 1: What are social robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=en&te=true "Module 1")  
 
 **Lesson Phase A - What are social robots?**
 

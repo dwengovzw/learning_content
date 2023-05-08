@@ -54,7 +54,7 @@ In the simulator, a slider is provided to simulate the distance between the sens
 
 ![](embed/Sonarsim.png "Sonar Sensor simulator")
 
-You can find the blocks for programming the sonar sensor under the category ![](embed/cat_uitvoer.png "output category").
+You can find the blocks for programming the sonar sensor under the category ![](embed/cat_output.png "output category").
 
 <div class="alert alert-box alert-success">
 For more information about the sonar sensor, you can consult the student sheets of the <em>Social Robot</em>.

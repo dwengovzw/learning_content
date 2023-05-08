@@ -30,8 +30,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Lesverloop
-## Module 4: Creatieve opdracht
+# Lesson Plan
+## Module 4: Creative Assignment
 
-*Onderstaande link brengt je naar module 4 van 'Sociale Robot'* <br>
-[Module 4: Creatieve opdracht](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl "Module 4")  
+*The following link takes you to module 4 of 'Social Robot'* <br>
+[Module 4: Creative Assignment](https://www.dwengo.org/learning-path.html?hruid=sr4&language=en "Module 4")
