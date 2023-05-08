@@ -32,20 +32,18 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Learning outcomes
 
-# Eindtermen
+We assume that this project will mainly be taught in Technology or STEM classes. Therefore, we provide an overview of which learning outcomes can be achieved and how they can be achieved in [**this document**](embed/eindtermen_socialerobot.pdf "Learning outcomes"). 
 
-We gaan ervan uit dat dit project vooral in de lessen Techniek of lessen STEM gegeven wordt.
-We geven daartoe mee aan welke eindtermen er gewerkt kan worden. We geven ook aan op welke manier dit kan gebeuren. [**Dit overzicht**](embed/eindtermen_socialerobot.pdf "Eindtermen") beschrijft dit alles uitvoerig.
+You decide which learning outcomes and objectives to focus on. If you follow the approach proposed by Dwengo for the project as part of AI At School, certain learning outcomes should definitely be addressed.
 
-Je beslist zelf aan welke eindtermen en leerdoelen er wordt gewerkt. Als de aanpak gevolgd wordt die Dwengo voor het project voorstelt in het kader van AI Op School, zouden bepaalde eindtermen zeker aan bod moeten komen.
-**Hoe jij als leerkracht dit project invult, bepaalt welke eindtermen effectief aan bod komen en in welke mate.**
+**How you as a teacher implement this project will determine which learning outcomes are effectively addressed and to what extent.**
 
+## Computational thinking
 
-## Computationeel denken
+Computational thinking is essential when designing the robot. For example, students need to figure out which electronic components they need to make the robot do what they want, and they will write instructions in their own words on how the interaction with humans will occur.
 
-Bij het ontwerpen van de robot komt computationeel denken ruim aan bod. Zo moeten de leerlingen o.a. uitvissen welke elektronische onderdelen ze nodig hebben om de robot te laten doen wat ze willen en zullen ze in hun eigen woorden instructies noteren over hoe de interactie met de mens zal gebeuren.
+Therefore, when working on this project, it is essential to understand and evaluate the computational skills of the students. This helps to determine which skills the students are using and which ones they still need to develop. It is important to guide the students and help them strengthen these skills.
 
-Bij het werken aan dit project is het dus essentieel om de computationele vaardigheden van de leerlingen te begrijpen en te evalueren. Zo kan men vaststellen welke vaardigheden de leerlingen inzetten en welke ze nog moeten ontwikkelen. Het is belangrijk om de leerlingen te begeleiden en hen te helpen bij het versterken van deze vaardigheden.
-
-![poster computationeel denken](embed/computationeeldenken.png "poster computationeel denken")
+![poster computational thinking](embed/computationeeldenken.png "poster computational thinking")
