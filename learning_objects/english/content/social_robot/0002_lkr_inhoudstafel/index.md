@@ -2,8 +2,8 @@
 hruid: sr0_lkr_inhoudstafel
 version: 3
 language: en
-title: "Inhoudstafel"
-description: "Inhoudstafel"
+title: "Table of Contents"
+description: "Table of Contents"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -36,8 +36,6 @@ teacher_exclusive: true
 # Table of Contents
 
 [**Overview**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_overzicht;en;3)
-
-[**Learning Outcomes**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_eindtermen;en;3)
 
 [**Assessment**](https://www.dwengo.org/learning-path.html?hruid=sr0_lkr_algemeen&language=en&te=true&source_page=%2Fsocialrobot%2F#sr0_lkr_evaluatie;en;3)
 

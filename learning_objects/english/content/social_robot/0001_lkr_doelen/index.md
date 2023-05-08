@@ -2,8 +2,8 @@
 hruid: sr0_lkr_doelen
 version: 3
 language: en
-title: "Hoofddoelen"
-description: "hoofddoelen"
+title: "Objectives"
+description: "Objectives"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

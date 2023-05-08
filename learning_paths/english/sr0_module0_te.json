@@ -60,21 +60,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "sr0_lkr_eindtermen",
-            "version": "3",
-            "language": "en"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "sr0_lkr_eindtermen",
-      "version": "3",
-      "language": "en",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "sr0_lkr_evaluatie",
             "version": "3",
             "language": "en"

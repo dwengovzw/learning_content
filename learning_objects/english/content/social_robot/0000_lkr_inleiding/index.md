@@ -2,8 +2,8 @@
 hruid: sr0_lkr_inleiding
 version: 3
 language: en
-title: "Het 'Sociale Robot'-project"
-description: "Inleiding sociale robot"
+title: "The 'Social robot'-project"
+description: "The 'Social robot'-project"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

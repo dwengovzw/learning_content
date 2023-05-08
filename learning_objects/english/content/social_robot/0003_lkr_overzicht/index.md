@@ -2,8 +2,8 @@
 hruid: sr0_lkr_overzicht
 version: 3
 language: en
-title: "Overzicht"
-description: "Overzicht"
+title: "Overview"
+description: "Overview"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

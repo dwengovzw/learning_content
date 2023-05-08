@@ -2,8 +2,8 @@
 hruid: sr0_lkr_materiaal
 version: 3
 language: en
-title: "Materiaal"
-description: "Materiaal"
+title: "Material"
+description: "Material"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

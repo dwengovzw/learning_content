@@ -2,7 +2,7 @@
 hruid: sr0_lkr_eindtermen
 version: 3
 language: en
-title: "Eindtermen"
+title: "Learning outcomes"
 description: "Eindtermen"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
