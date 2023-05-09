@@ -2,8 +2,8 @@
 hruid: sr2_simulator_vb
 version: 3
 language: en
-title: "Voorbereiding simulator"
-description: "Beschrijving van de activiteit"
+title: "Preparation simulator"
+description: "Preparation simulator"
 keywords: ["WeGoSTEM"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,33 +30,29 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Voorbereiding - Simulator
-## minstens 1,5 uur tijdens de les
+# Preparation - Simulator
+## At least 1.5 hours during class
 
-### Voorbereiding
+### Preparation
 
-We raden aan dat je, als leerkracht, minstens de basisoefeningen doorneemt om de leerlingen optimaal te kunnen begeleiden. Deze behandelen de volgende elementen:  
+We recommend that you, as a teacher, go through at least the basic exercises to be able to guide the students optimally. These cover the following elements:
 
-* Lcd-scherm
-* Servomotor
-* Led-matrix
-* Rgb-led
-* Sonar-sensor
-* Geluidssensor
+* LCD screen
+* Servo motor
+* LED matrix
+* RGB LED
+* Sonar sensor
+* Sound sensor
 
-* Wacht
-* Herhalingsstructuur (lus)
-* Variabelen
-* Keuzestructuur (Als - Dan)
-* Keuzestructuur (Als - Dan - Anders)
+* Wait
+* Loop structure
+* Variables
+* If-Then structure
+* If-Then-Else structure
 
-In dit leerpad werden de *voorbeelden* voor de essentiële blokken reeds opgenomen. Voor het oefeningenleerpad kan je terecht in [Module 2: Oefeningen](https://www.dwengo.org/learning-path.html?hruid=sr2_oefeningen&language=nl "Module 2: oefeningen").
+In this learning path, the *examples* for the essential blocks have already been included. For the exercise learning path, you can refer to [Module 2: Exercises](https://www.dwengo.org/learning-path.html?hruid=sr2_exercises&language=en "Module 2: Exercises").
 
+### What happens in the classroom?
+It is not intended that you immediately give the students all the answers. Let them experiment with the simulator from time to time before helping them.
 
-### Wat gebeurt er in de klas?
-Het is niet de bedoeling dat je de leerlingen onmiddellijk de pap in de mond geeft. Laat hen gerust af en toe eens wat experimenteren met de simulator vooraleer hen te helpen.
-
-Wanneer de voorbereidende oefeningen afgewerkt zijn, zijn ze in staat om zelfstandig hun sociale robot te programmeren.
-
-
-
+When the preparatory exercises are completed, they will be able to program their social robot independently.

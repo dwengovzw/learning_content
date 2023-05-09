@@ -2,8 +2,8 @@
 hruid: sr2_programma
 version: 3
 language: en
-title: "Programmeer je eigen robot"
-description: "Programmeer je eigen robot"
+title: "Program your robot"
+description: "Program your robot"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,28 +30,27 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Program your own robot
 
-# Programmeer je eigen robot
+Congratulations! Now that you have some programming skills, you can start programming your own robot.
 
-Proficiat! Nu je het programmeren wat onder de knie hebt, kan je beginnen met je eigen robot te programmeren.
+Review again what your robot needs to do and write it down in pseudocode.
 
-Overloop nogmaals wat jouw robot moet kunnen en schrijf dit nu op in 'pseudocode'.
-
-**Voorbeeld**  
-*Wat moet hij kunnen*  
-Als de robot niets ziet, houdt hij zijn armen omhoog en knippert hij met de ogen. 
-Als iemand dichter dan 20 cm nadert, begint de robot te zwaaien.  
+**Example**  
+*What it needs to do*  
+If the robot doesn't see anything, it keeps its arms up and blinks its eyes. 
+If someone approaches closer than 20 cm, the robot starts waving.
 
 *pseudocode*  
-**ALS** iemand op 20 cm **DAN** zwaaien en ogen knipperen  
-**ANDERS** armen omhoog en ogen normaal  
+**IF** someone is at 20 cm **THEN** wave and blink eyes  
+**ELSE** arms up and eyes normal  
 
-Eens je de pseudocode hebt, schrijf en test je de verschillende deelprogramma's die je nodig hebt om dit te verwezenlijken. Deze deelprogramma's moeten:
+Once you have the pseudocode, write and test the different subprograms you need to achieve this. These subprograms should:
 
-- de armen laten stilstaan;
-- de ogen laten verschijnen;
-- de armen laten zwaaien;
-- de ogen laten knipperen;
-- de sonar-sensor uitlezen, met een "*Als - Dan - Anders*"-blok om er voorwaarden aan te koppelen.  
+- keep the arms still
+- display the eyes
+- wave the arms
+- blink the eyes
+- read the sonar sensor, with an "*If - Then - Else*" block to attach conditions
 
-Wanneer je dan alle deelprogramma's bij elkaar plaatst, heb je het volledige programma voor de robot!
+When you then put all the subprograms together, you have the full program for the robot!
