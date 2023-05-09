@@ -2,8 +2,8 @@
 hruid: sr3_elektronica1
 version: 3
 language: en
-title: "Moederbord"
-description: "Moederbord"
+title: "Motherboard"
+description: "Motherboard"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,25 +30,24 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-# Bouwen van de fysieke robot
-## Het moederbord
-Je zal gebruikmaken van de Dwenguino en het bijbehorende uitbreidingsbord. Bij het snijden van de uitsparingen zal je hier dus ook plaats voor moeten voorzien!  
+# Building the physical robot
+## The motherboard
+You will be using the Dwenguino and its accompanying expansion board. When cutting out the recesses, you will need to provide space for this!
 
 <div class="alert alert-box alert-danger">
-Houd er rekening mee dat de USB-poort van de Dwenguino toegankelijk moet zijn om de USB-kabel comfortabel aan te sluiten.
+Note that the USB port of the Dwenguino must be accessible for comfortable connection of the USB cable.
 </div>
 
-### Bedrading en monteren
+### Wiring and assembly
 
-Voordat je de onderdelen op het lichaam van de robot bevestigt, is het verstandig om eerst de bedrading tussen de Dwenguino en de andere componenten aan te sluiten. Dit voorkomt dat er te weinig ruimte overblijft om de draden aan te sluiten, nadat de componenten zijn bevestigd.
+Before attaching the components to the body of the robot, it is wise to first connect the wiring between the Dwenguino and the other components. This prevents there from being too little space left to connect the wires after the components have been attached.
 
-Onderstaande afbeelding toont welke onderdelen aanwezig zijn op de Dwenguino en welke actuatoren hier rechtstreeks op kunnen worden aangesloten.
+The image below shows which components are present on the Dwenguino and which actuators can be connected directly to it.
 
 ![](embed/assemblage1.png "Dwenguino")
 
-*Het contrast van het lcd-scherm kan worden aangepast. Je kan de Dwenguino van stroom voorzien via de USB-kabel of een adapter.*
+*The contrast of the LCD screen can be adjusted. You can power the Dwenguino via the USB cable or an adapter.*
 
-Op de *extension connector* zal je het uitbreidingsbord kunnen aansluiten (zie afbeelding). Dit is speciaal op maat gemaakt voor de sociale robot. Hiermee kan je alle andere sensoren en actuatoren aansluiten.  
+On the *extension connector*, you can connect the expansion board (see image). This is specifically tailored for the social robot. With this, you can connect all other sensors and actuators.
 
-![](embed/pcb.png "Uitbreidingsbord")
+![](embed/pcb.png "Expansion board")

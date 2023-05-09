@@ -2,8 +2,8 @@
 hruid: sr4_creatieveopdracht
 version: 3
 language: en
-title: "Creatieve opdracht"
-description: "T"
+title: "Creative assignment"
+description: "Creative assignment"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,5 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-# Creatieve opdracht
-Nu je robot klaar is, wil je die uiteraard voorstellen aan je klas! Bespreek met je leerkracht hoe jullie dit gaan doen.
+# Creative assignment
+Now that your robot is ready, you want to present it to your class! Discuss with your teacher how you are going to do this.

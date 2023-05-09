@@ -2,8 +2,8 @@
 hruid: sr3_bouwen
 version: 3
 language: en
-title: "Voorbereiding"
-description: "Uitleg over het uitsnijden van uitsparingen"
+title: "Preparation"
+description: "Preparation"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,22 +31,22 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Bouwen van de fysieke robot
+# Building the physical robot
 
-Tijdens deze les ga je eindelijk aan de slag met het materiaal!  
+During this lesson, you will finally get started with the material!
 
-Zorg ervoor dat je alles wat je nodig hebt bij de hand hebt, voordat je begint met het bouwen van je sociale robot. Hieronder vind je een lijst met alle benodigde materialen en gereedschappen:
+Make sure you have everything you need at hand before you start building your social robot. Below is a list of all the necessary materials and tools:
 
-* het ontwerp van je robot;
-* het materiaal waaruit je het frame van jullie robot gaat maken (een kartonnen doos, planken, ...);
-* de elektronica die je zal gebruiken;
-* het sjabloon om uitsparingen te snijden voor de elektronica;
-* het gereedschap dat je nodig hebt, zoals snijmes en liniaal;
-* eventueel knutselmateriaal zoals lijm en tape;
-* de USB-kabel om de dwenguino te verbinden met je computer.
+* the design of your robot;
+* the material from which you will make the frame of your robot (a cardboard box, planks, ...);
+* the electronics you will use;
+* the template to cut out openings for the electronics;
+* the tools you need, such as a cutting knife and ruler;
+* possibly crafting materials such as glue and tape;
+* the USB cable to connect the Dwenguino to your computer.
 
-Het onderstaande filmpje vat samen wat de volgende leerobjecten beschrijven.
+The video below summarizes what the next learning objectives describe.
 
-![](@youtube/https://www.youtube.com/embed/AYcoFGi99Ns "Montage")
+![](@youtube/https://www.youtube.com/embed/AYcoFGi99Ns "Assembly")
 
-Heb je alles verzameld in je werkruimte, begin dan maar!
+Once you have collected everything in your workspace, you can start!

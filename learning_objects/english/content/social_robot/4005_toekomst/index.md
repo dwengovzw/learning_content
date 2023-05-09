@@ -2,8 +2,8 @@
 hruid: sr4_projecten
 version: 3
 language: en
-title: "Andere projecten"
-description: "Andere projecten"
+title: "Other projects"
+description: "Other projects"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,24 +30,24 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Andere projecten
-## Eerste graad
+# Other projects
+## First grade
 
 [StartToDwenguino](https://www.dwengo.org/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F#g_inleiding_lkr;nl;3)
 
 [Theremin](https://www.dwengo.org/learning-path.html?hruid=pc_theremin&language=nl&te=true&source_page=%2Fphysical_computing%2F#g_inleiding_lkr;nl;3)
 
-[Rijdende Robot](https://www.dwengo.org/learning-path.html?hruid=pc_rijdenderobot&language=nl&te=true&source_page=%2Fphysical_computing%2F#g_inleiding_lkr;nl;3)
+[Driving robot](https://www.dwengo.org/learning-path.html?hruid=pc_rijdenderobot&language=nl&te=true&source_page=%2Fphysical_computing%2F#g_inleiding_lkr;nl;3)
 
 
-## Tweede graad
+## Second grade
 
-[AI in de Zorg](https://www.dwengo.org/care/)
+[AI in healthcare](https://www.dwengo.org/care/)
 
-[Python in de wiskundeles](https://www.dwengo.org/math_with_python/)
+[Python in mathematics class](https://www.dwengo.org/math_with_python/)
 
 
-## Derde graad
+## Third grade
 
 [KIKS](https://www.dwengo.org/kiks/)
 

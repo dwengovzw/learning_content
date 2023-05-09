@@ -2,8 +2,8 @@
 hruid: sr3_troubleshooting
 version: 3
 language: en
-title: "Testen en debuggen"
-description: "T"
+title: "Testing and debugging"
+description: "Testing and debugging"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,34 +30,34 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Programmeren van de fysieke robot
-## Testen en debuggen
-Wanneer je bezig bent met testen en debuggen, kan het nodig zijn om verschillende dingen uit te proberen, voordat je het gewenste resultaat bereikt. Dit vereist echter wel een doordachte aanpak. Probeer eerst te achterhalen wat er precies fout gaat en bedenk vervolgens een oplossing. Test deze oplossing en herhaal het proces indien nodig.
+# Programming the physical robot
+## Testing and debugging
 
-**Voorbeeld 1**  
-Stel dat je 2 ledmatrices als ogen hebt gebruikt voor de robot, maar ze zijn per ongeluk omgewisseld van plaats.
+When you are testing and debugging, it may be necessary to try different things before achieving the desired result. However, this requires a thoughtful approach. First, try to identify exactly what is going wrong and then come up with a solution. Test this solution and repeat the process if necessary.
 
-*Optie 1*  
-Je verwisselt de ledmatrices in de fysieke robot, zodat ze overeenkomen met het programma.  
+**Example 1**  
+Suppose you have used 2 LED matrices as eyes for the robot, but they have accidentally been swapped.
 
-*Optie 2*  
-Je programmeert de ogen opnieuw, maar nu voor de juiste plaats.  
+*Option 1*  
+You switch the LED matrices in the physical robot to match the program.
 
+*Option 2*  
+You reprogram the eyes, but this time for the correct position.
 
-**Voorbeeld 2**  
-De armpjes van de fysieke robot bewegen niet, terwijl ze in de simulator wel goed functioneerden.
+**Example 2**  
+The arms of the physical robot are not moving, while they functioned correctly in the simulator.
 
-*Optie 1*
-Controleer de bedrading om te zien of er draden verwisseld of losgekomen zijn.
+*Option 1*  
+Check the wiring to see if wires have been swapped or disconnected.
 
-*Optie 2*
-Controleer of er geen onderdelen van de robot in de weg zitten, waardoor de armen niet kunnen bewegen.
+*Option 2*  
+Check if there are no parts of the robot blocking the arms from moving.
 
-*Optie 3*
-Maak de armen los en controleer of de servomotoren werken. Misschien zijn de armen te zwaar om te bewegen?
+*Option 3*  
+Detach the arms and check if the servo motors are working. Perhaps the arms are too heavy to move?
 
 <div class="alert alert-box alert-success">
-Tijdens het testen en debuggen is het belangrijk om de oorzaak van de fout vast te stellen, voordat je een oplossing bedenkt. Op deze manier kun je gericht naar een oplossing zoeken en het proces efficiënter maken. 
+When testing and debugging, it is important to identify the cause of the error before coming up with a solution. This way you can search for a solution in a targeted way and make the process more efficient.
 </div>
 
-Indien je nog tijd over hebt, kan je je robot nog extra zaken laten doen. Had je nog iets in gedachten tijdens de brainstorm?
+If you have time left, you can let your robot do additional things. Did you have anything in mind during the brainstorm?

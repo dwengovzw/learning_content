@@ -2,8 +2,8 @@
 hruid: sr3_afwerken
 version: 3
 language: en
-title: "Afwerken en extra's"
-description: "T"
+title: "Finishing the robot"
+description: "Finishing the robot"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,13 +29,13 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Afwerken van de robot
-Controleer je robot a.d.h.v. de **technische tekening**: 
+# Finishing the robot
+Check your robot using the **technical drawing**:
 
-* Heb je alle functionaliteiten geïmplementeerd?
-* Werkt het programma zoals verwacht?
-* Ziet je robot eruit als verwacht?
+* Have you implemented all functionalities?
+* Does the program work as expected?
+* Does your robot look as expected?
 
-Zo ja, dan heb je je doelstellingen bereikt en ben je klaar! 
+If yes, then you have achieved your objectives and you are done!
 
-Als je tijd over hebt, kun je overwegen om extra functionaliteiten toe te voegen aan je robot. Misschien had je tijdens het brainstormen nog ideeën die je graag zou willen implementeren?
+If you have extra time, you can consider adding additional functionalities to your robot. Perhaps you had ideas during the brainstorming that you would like to implement?
