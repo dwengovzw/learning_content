@@ -30,14 +30,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Computationeel denken unplugged
-## Maak een gezicht 
-### 20 minuten in de klas
+# Computational thinking unplugged
+## Make a face
+### 20 minutes in class
 
-Tijdens deze activiteit zullen de leerlingen belangrijke inzichten opdoen, zoals:
+During this activity, students will gain important insights, such as:
 
-* Het feit dat iets dat op het eerste gezicht moeilijk lijkt toch geprogrammeerd kan worden met enkele eenvoudige regels.
-* Het besef dat programma's slechts regels zijn die door computers worden gevolgd.
-* Het belang van het opsplitsen van een programma in verschillende onderdelen om het gemakkelijker te maken.
+* The fact that something that seems difficult at first can still be programmed with a few simple rules.
+* The realization that programs are just rules followed by computers.
+* The importance of breaking down a program into different parts to make it easier.
 
-Je kan de volledig uitgeschreven activiteit met afbeeldingen [**hier**](embed/maakeengezicht_activiteit.pdf "Activiteit 'Maak een gezicht'") terugvinden. Deze activiteit is gecreëerd door Paul Curzon, Queen Mary University of London.
+You can find the fully written activity with images [**here**](embed/maakeengezicht_activiteit.pdf "Activity 'Make a face'"). This activity was created by Paul Curzon, Queen Mary University of London.

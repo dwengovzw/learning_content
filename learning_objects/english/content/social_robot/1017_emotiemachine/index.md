@@ -30,19 +30,19 @@ skos_concepts: [
 ]
 teacher_exclusive: True
 ---
-# Computationeel denken unplugged
-## Emotiemachine
-### Werkwijze
+# Unplugged Computational Thinking
+## Emotion Machine
+### Procedure
 
-1. Geef aan iedereen de emotiemachine-fiche en vraag hen om het volgende te doen (zoals weergegeven op de fiche):
+1. Give everyone the emotion machine sheet and ask them to do the following (as shown on the sheet):
 
-* Knip langs de zwarte stippellijn, zodat je de emotiemachine en een gezicht met lege gleuven krijgt, plus 3 stroken die je door deze gleuven kunt schuiven.
-* Weef de stroken door de gleuven voor de wenkbrauwen, ogen en mond, zodat de letters verschijnen in de emotiemachine en de wenkbrauwen, ogen en mond verschijnen op het gezicht.
+* Cut along the black dotted line to get the emotion machine and a face with empty slots, plus 3 strips that can be slid through these slots.
+* Weave the strips through the slots for the eyebrows, eyes, and mouth, so that the letters appear in the emotion machine and the eyebrows, eyes, and mouth appear on the face.
 
-2. Nu is het tijd om de leerlingen de werkbladen met de tabel te geven. Op deze werkbladen kunnen ze de tabel invullen met de emoties die ze willen uitbeelden.
+2. Now it's time to give the students the worksheets with the table. On these worksheets, they can fill in the table with the emotions they want to portray.
 
-3. Vat op het einde de computerlessen van de activiteit samen. Programma’s bestaan uit reeksen van instructies die, wanneer ze worden gevolgd, leiden tot een actie, zoals een robot die verschillende emoties toont.  
+3. At the end, summarize the computer lessons of the activity. Programs consist of sequences of instructions that, when followed, lead to an action, such as a robot showing different emotions.
 
 <div class="alert alert-box alert-success">
-Computerinstructies zijn in essentie low-level code. Programmeertalen gebruiken high-level instructies om het schrijven van programma’s makkelijker te maken. Ze gebruiken abstractie om de details van de low-level code te verbergen. We kunnen een programma met high-level instructies nemen en het compileren tot een programma dat effectief gebruikt wordt om de machine te besturen. Of we kunnen een vertolker gebruiken die de instructies vertaalt wanneer we ertoe komen.
+Computer instructions are essentially low-level code. Programming languages use high-level instructions to make writing programs easier. They use abstraction to hide the details of the low-level code. We can take a program with high-level instructions and compile it into a program that is effectively used to control the machine. Or we can use an interpreter that translates the instructions when we get to them.
 </div>

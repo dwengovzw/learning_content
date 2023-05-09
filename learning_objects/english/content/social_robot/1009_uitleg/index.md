@@ -30,29 +30,29 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+translate
+# What are social robots?
+## Social robots in the future
 
-# Wat zijn sociale robots?
-## Sociale robots in de toekomst
+*Robots are popping up everywhere, like a robot vacuum cleaner in your home, a robot in the hotel that welcomes customers, a robot for the demining service, a robot in the car factory, and a surgical robot.*
 
-*Robots duiken her en der op, zoals een robotstofzuiger bij je thuis, een robot in het hotel die de klanten verwelkomt, een robot voor de ontmijningsdienst, een robot in de autofabriek en een operatierobot.*  
+*Thanks to developments in robotics and research into the interaction between humans and robots, more will be possible in the future in the field of social robots.*
 
-*Dankzij de ontwikkelingen in de robotica en het onderzoek naar de interactie tussen mens en robot zal er op het vlak van de sociale robots meer mogelijk worden in de toekomst.*  
+*What will the future look like? Will robots become as indispensable in our daily lives as our smartphones?*
 
-*Hoe zal de toekomst eruitzien? Zullen robots in ons dagelijks leven even onmisbaar worden als onze smartphone?*  
+There are still many question marks about this! Dreaming about a future with robots is certainly exciting: robots to transport us and entertain us, robots for the classroom, robots for better healthcare, and maybe even a robot as a colleague.
 
-Hierover bestaan nog veel vraagtekens! Dromen over een toekomst met robots is alvast spannend: robots om ons te vervoeren en om ons te entertainen, robots voor de klas, robots voor een betere gezondheidszorg en misschien zelfs een robot als collega.
+In the healthcare sector, there is a shift towards robots that not only provide companionship but also monitor people's health.
 
-In de zorgsector evolueert men naar robots die niet enkel gezelschap bieden, maar ook de gezondheid van de mensen in de gaten houden.  
+> Discussion<br>Would you rather receive an injection from a robot or a nurse?
 
-> Discussie<br>Zou jij liever een injectie krijgen van een robot of van een verpleegkundige?
+For education, there is a focus on robots that can take on more active tasks, such as teaching a foreign language.
 
-Voor het onderwijs zet men in op robots die meer actieve taken kunnen opnemen, bijvoorbeeld in het onderwijzen van een vreemde taal.
+It is predicted that our homes will increasingly evolve into smart homes, where daily tasks are automated and even furniture is smart.
 
-Men voorziet dat onze huizen meer en meer zullen evolueren naar slimme woningen, waarbij dagelijkse taken geautomatiseerd zijn en ook de meubelen slim zijn.
+There is also experimentation with social garbage bin robots, such as the Sociable Trash Box, which approaches people and motivates them to throw their trash in the bin.
 
-Men experimenteert ook met sociale vuilnisbakrobots, zoals de *Sociable Trash Box*, die mensen benadert en hen motiveert om hun afval in de vuilnisbak te gooien.  
-
-> Discussie<br>Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?
+> Discussion<br>What applications can you think of for social robots in the future?
 
 ![© Lukas via Unsplash](embed/RobotOpStraat.jpg "© Lukas via Unsplash")
-<sub>Onthaalrobot Pepper - © Lukas via Unsplash</sub>
+<sub>Reception robot Pepper - © Lukas via Unsplash</sub>

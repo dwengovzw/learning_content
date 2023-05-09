@@ -30,9 +30,8 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# What are social robots?
+## 20-40 minutes in the classroom
+The 'Social Robot' project is best started with an introduction to social robots. What are social robots? Where are social robots used? What does the future with social robots look like? How can such a robot communicate and can it also show emotions? A social robot that is easy to get along with is able to simulate emotions.
 
-# Wat zijn sociale robots?
-## 20 - 40 minuten in de klas
-Het project ‘Sociale robot’ start het best met een inleiding over sociale robots. Wat zijn sociale robots? Waar worden sociale robots ingezet? Hoe ziet de toekomst met sociale robots eruit? Hoe kan zo’n robot communiceren en kan hij ook emoties tonen? Een sociale robot die vlot in de omgang is, is in staat om emoties te simuleren.
-
-Voor een meer uitgebreide context betreffende de sociale robots, verwijzen we naar het [robotboekje 'Hallo robot!'](embed/SocialeRobot_handleiding_eerstedruk.pdf "Hallo Robot!")
+For a more extensive context on social robots, we refer to the [robot booklet 'Hello robot!'](embed/SocialeRobot_handleiding_eerstedruk.pdf "Hello Robot!")

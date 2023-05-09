@@ -32,23 +32,21 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# What are social robots?
+If you don't want to provide too much background information but want to mention some discussions, you can find the discussions of the above learning objects summarized here.
 
-# Wat zijn sociale robots?
-Indien je niet te veel randinformatie wilt geven, maar wel enkele discussies wilt aanhalen, vind je hier de discussies van de bovenstaande leerobjecten nog eens samengevat terug.  
+## Discussions
 
-## Discussies
+*Is a robot vacuum cleaner a social robot?*  
 
-*Is een robotstofzuiger een sociale robot?*  
+*Is a social robot good company for a lonely elderly person?*  
 
-*Is een sociale robot goed gezelschap voor een eenzame bejaarde?*  
+*Is it okay for children and elderly people to share their entire lives with a social robot that can store this information?*  
 
-*Is het oké dat kinderen en bejaarden hun volledige leven vertellen aan een sociale robot die dit kan opslaan?*  
+*Can a manufacturer use your conversations with your virtual assistant to improve its speech technology?*  
 
-*Mag een fabrikant je gesprekken met je virtuele assistent gebruiken om zijn spraaktechnologie te verbeteren?*  
+*Is it okay to kick a robot dog?*  
 
-*Mag men een robothond schoppen?*   
+*Would you rather get an injection from a robot or a nurse?*  
 
-*Zou jij liever een injectie krijgen van een robot of van een verpleegkundige?*  
-
-*Welke toepassingen kan jij bedenken voor sociale robots in de toekomst?*  
-
+*What applications can you think of for social robots in the future?*

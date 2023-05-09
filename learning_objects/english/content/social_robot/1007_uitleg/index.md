@@ -31,15 +31,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-# Wat zijn sociale robots?
+# What are social robots?
 ## Home assistants
 
-Gezinnen hebben steeds vaker een **home assistant** in huis die taken kan overnemen en, door de mogelijke interactie, deel wordt van het gezin. Smart-home assistenten, zoals Amazons Alexa, kunnen vragen beantwoorden, een muziekje afspelen en informatie geven over het weer en het laatste nieuws.
+Families increasingly have a **home assistant** in their homes that can take on tasks and, through possible interaction, become part of the family. Smart home assistants, such as Amazon's Alexa, can answer questions, play music, and provide information about the weather and the latest news.
 
-> Discussie<br>Mag een fabrikant je gesprekken met je virtuele assistent gebruiken om zijn spraaktechnologie te verbeteren?
+> Discussion<br>Can a manufacturer use your conversations with your virtual assistant to improve their speech technology?
 
-Maar er zijn ondertussen ook al persoonlijke assistenten op de markt die bijvoorbeeld ogen, oren en een mond hebben en de indruk wekken dat ze meegenieten van de muziek.
+But there are already personal assistants on the market that have eyes, ears, and a mouth, for example, and give the impression that they are enjoying the music too.
 
 ![© Peter Bertels](embed/googlehome.jpg "© Peter Bertels")
 <sub>© Peter Bertels</sub>
