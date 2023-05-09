@@ -32,13 +32,11 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 Spot is een vierpotige robot van het bedrijf Boston Dynamics.
 
-#### Nest thermostaat
+#### Nest Learning Thermostat
 ![](@learning-object/org-dwengo-jommeke-images-nest-thermostat/nl/1) 
-<sub>Google and Nest Learning Thermostat are trademarks of Google LLC.</sub>
-
-Google Nest is een slimme thermostaat die de temperatuur automatisch aanpast aan je gedrag.
-
 <sub>Google en de Nest Learning Thermostat zijn een handelsmerk van Google LLC.</sub>
+
+De Nest Learning Thermostat is een slimme thermostaat die de temperatuur automatisch aanpast aan je gedrag.
 
 #### Tesla model 3
 ![](@learning-object/org-dwengo-jommeke-images-tesla-model-3/nl/1)
