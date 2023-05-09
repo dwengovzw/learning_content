@@ -2,8 +2,8 @@
 hruid: sr2_slot
 version: 3
 language: en
-title: "Slot"
-description: "Slot"
+title: "Conclusion"
+description: "Conclusion"
 keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,10 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Conclusion
 
-# Slot
+This is the end of the second module. You now have a basic design for your robot. You also have a first version of the program. You will probably have to adjust this once you start building the robot!
 
-Dit is het einde van de tweede module. Je hebt nu een basisontwerp voor jouw robot. 
-Je hebt ook al een eerste versie van het programma. Dit zal je waarschijnlijk nog moeten aanpassen eens je begint aan het bouwen van de robot! 
-
-[Module 3: Bouwen van de robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=nl "Module 3")  
+[Module 3: Building the robot](https://www.dwengo.org/learning-path.html?hruid=sr3&language=nl "Module 3")

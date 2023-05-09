@@ -31,37 +31,32 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Lesson Plan
+## Module 2: Brainstorm, programming, and material selection (± 3 lesson hours)
 
-# Lesverloop
-## Module 2: Brainstorm, programmeren en selectie materiaal (± 3 lesuren)
+*The following link will take you to the student module* <br>
+[Module 2: Brainstorm and Programming](https://www.dwengo.org/learning-path.html?hruid=sr2&language=en "Module 2")
 
-*Onderstaande link brengt je naar de leerlingenmodule* <br>
-[Module 2: Brainstorm en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2&language=nl "Module 2")  
+*This module has a separate student module to keep a complete overview. The link below will take you to the exercises module* <br>
+[Module 2: Exercises](https://www.dwengo.org/learning-path.html?hruid=sr2_oefeningen&language=en "Module 2: Exercises")
 
-*Deze module heeft een aparte leerlingenmodule om hier het volledige overzicht te behouden. De onderstaande link brengt je naar de oefeningenmodule* <br>
-[Module 2: Oefeningen](https://www.dwengo.org/learning-path.html?hruid=sr2_oefeningen&language=nl "Module 2: oefeningen")
+**Lesson Phase A - Introduction**
+* Provide sufficient structure and guidance to ensure that students do not lose themselves in their ideas. Brainstorming with students is not easy.
+* Give the students the task for the brainstorming. Formulate what they should brainstorm about and what the outcome of the brainstorming should be.
+* If there are limitations or criteria they need to consider, be sure to communicate them now.
+* *Extra*: Explain brainstorming techniques.
 
-**Lesfase A - Inleiding les**
-* Zorg voor voldoende structuur en begeleiding, zodat leerlingen zichzelf niet verliezen in hun ideeën. Brainstormen met leerlingen is immers niet evident. 
-* Geef de leerlingen de opdracht voor de brainstorm. Formuleer waarover ze moeten brainstormen en wat de uitkomst van de brainstorm moet inhouden.
-* Als er beperkingen of criteria zijn waar ze rekening mee moeten houden, geef die dan zeker nu mee.
-* *Extra*: Geef uitleg over brainstormtechnieken.
+**Lesson Phase B - Brainstorming**
+* Preferably, let the students work in pairs or threes for the 'Social Robot' project. In the brainstorming session, they discuss what their robot should be able to do, how it should communicate, and what it should react to.
+* After the brainstorming session, they must present a final design. This could be in the form of a mind map or a description. They must take into account the imposed criteria, the limitations of the kit, their own capabilities, the available time, and any other choices they make.
 
-**Lesfase B - Brainstorm**
-* Laat de leerlingen bij voorkeur per twee of per drie aan het 'Sociale Robot'-project werken. In de brainstormsessie overleggen ze over wat hun robot moet kunnen, hoe hij moet communiceren en waarop hij moet reageren.
-* Na de brainstorm moeten ze een eindontwerp voorleggen. Dit kan bijvoorbeeld in de vorm van een mindmap of een beschrijving. Ze moeten hierbij rekening houden met de opgelegde criteria, de berperkingen van de kit, hun eigen capaciteiten, de beschikbare tijd, en eventuele andere keuzes die ze zelf maken.
+**Lesson Phase C - Explore Simulator**
+* If a group quickly comes up with a design, they can already start on the second lesson phase. Let them explore the simulator and try out the different functionalities they need. When the students have mastered the basics of the simulator, they can discover the rest while making their first virtual robot.
+* The students design the body of the robot in the simulation field of the programming environment. The students then have a virtual robot.
+* The students develop an algorithm and write it down, for example, in pseudocode (in the form of sentences) or using a flowchart.
 
+**Lesson Phase D - Virtual Robot**
+* Let the students work step by step when programming the virtual robot. They must formulate sub-problems and solve them independently. Test these sub-programs, correct any errors, and only combine them into the final program when they all work. The process of testing and debugging is very important here. Programming is not easy, and the students must experience that to write a good program, you need to test and adjust a lot until you get the desired result.
 
-**Lesfase C - Verkennen simulator**
-* Indien een groepje snel tot een ontwerp komt, kunnen ze al beginnen aan de tweede lesfase. Laat hen de simulator ontdekken en de verschillende functionaliteiten die ze nodig hebben, uitproberen. Wanneer de leerlingen de basis van de simulator onder de knie hebben, kunnen ze de rest ontdekken tijdens het maken van hun eerste virtuele robot.
-* De leerlingen ontwerpen het lichaam van de robot in het simulatieveld van de programmeeromgeving. De leerlingen beschikken dan over een virtuele robot. 
-* De leerlingen stellen een algoritme op en schrijven het neer, bv. in pseudocode (in de vorm van zinnen) of a.d.h.v. een flowchart.
-
-
-**Lesfase D - Virtuele robot**
-* Laat de leerlingen stapsgewijs werken bij het programmeren van de virtuele robot. Ze moeten deelproblemen formuleren en deze losstaand van elkaar oplossen. Test deze deelprogramma's, verhelp eventuele fouten, en voeg ze pas samen tot het uiteindelijke programma als ze alle werken.  
-Het proces van testen en debuggen is hierbij zeer belangrijk. Programmeren is niet eenvoudig en de leerlingen moeten ervaren dat je om een goed programma te schrijven, veel moet testen en aanpassen tot je het gewenste resultaat bekomt.
-
-
-**Lesfase E - Slot**
-* Laat de leerlingen een lijst van knutselmateriaal opstellen dat ze nodig hebben voor het bouwen van hun robot. Je kan dit materiaal zelf voorzien, maar je kan ook de leerlingen zelf dozen, wol, papier e.d. laten meebrengen indien gewenst. 
+**Lesson Phase E - Conclusion**
+* Let the students create a list of crafting materials they need to build their robot. You can provide this material yourself, but you can also have the students bring in boxes, wool, paper, etc. if desired.

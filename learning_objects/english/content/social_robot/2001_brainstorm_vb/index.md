@@ -2,8 +2,8 @@
 hruid: sr2_brainstorm_vb
 version: 3
 language: en
-title: "Brainstorm & Ontwerp"
-description: "Brainstorm & Ontwerp"
+title: "Brainstorm & Design"
+description: "Brainstorm & Design"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,80 +30,81 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+Translation:
 
-# Brainstorm & Ontwerp
+# Brainstorm & Design
 
-De leerlingen beschikken nu over alle basisvaardigheden die ze nodig hebben om hun eigen sociale robot te ontwerpen! Ze weten wat sociale robots zijn en hoe ze werken, en ze begrijpen hoe ze functioneren en 'denken'.
+The students now have all the basic skills they need to design their own social robot! They know what social robots are and how they work, and they understand how they function and "think".
 
-Om het ontwerpen van hun sociale robot vlotter te laten verlopen, vind je hier enkele tips die je kunnen helpen bij het ondersteunen van de leerlingen.
+To make designing their social robot smoother, here are some tips to help you support the students.
 
 
-### Brainstormtechnieken
+### Brainstorming Techniques
 
-#### Techniek 1: Brainwriting
+#### Technique 1: Brainwriting
 
-De leerlingen schrijven zoveel mogelijk ideeën neer op papier binnen een afgesproken tijd (bijvoorbeeld 5 minuten). Tijdens het schrijven wordt er niet met elkaar gesproken of naar de ideeën van anderen gekeken.
+The students write down as many ideas as possible on paper within an agreed time (for example, 5 minutes). While writing, they do not speak to each other or look at others' ideas.
 
-Eens de tijd op is, vergelijk en bespreek je de ideeën.
+Once the time is up, compare and discuss the ideas.
 
 <div class="alert alert-box alert-success">
-Als je merkt dat je bepaalde ideeën gemakkellijk kan groeperen, kan het interessant zijn om op dit moment de leerlingen op te delen in groepjes o.b.v. gelijkenissen in hun ideeën.
+If you find that you can easily group certain ideas, it may be interesting to divide the students into groups based on similarities in their ideas at this time.
 </div>
 
 
-#### Techniek 2: Mindmaps
+#### Technique 2: Mind Maps
 
-Deze techniek zijn ze misschien al eens tegengekomen tijdens het studeren. Ze is echter ook zeer nuttig tijdens het brainstormproces.
+They may have encountered this technique during their studies. However, it is also very useful during the brainstorming process.
 
-Laat de leerlingen "Sociale Robot" in het midden van een blad schrijven. Dit is hun vertrektpunt. Rond dit vertrekpunt schrijven ze de zaken waaraan dit onderwerp hen doet denken en ze verbinden deze met het midden m.b.v. een lijntje. Dit proces kunnen ze dan herhalen met de nieuwe woorden als vertrekpunt.
+Let the students write "Social Robot" in the middle of a sheet of paper. This is their starting point. They write down the things that this topic makes them think of around this starting point and connect them to the center using a line. They can then repeat this process with the new words as the starting point.
 
 <div class="alert alert-box alert-success">
-Het kan nuttig zijn om niet alleen met woorden te werken, maar ook tekeningen toe te voegen. Op die manier kunnen sommige ideeën en concepten beter worden weergegeven.
+It may be useful not only to work with words but also to add drawings. In this way, some ideas and concepts can be better represented.
 </div>
 
 ![](embed/brainstorm.png "Brainstorm")
 
 
-### Ontwerpen
+### Design
 
 <div class="alert alert-box alert-success">
-Geef de leerlingen <strong>papier</strong> en <strong>stiften</strong>. Moedig hen zeker aan om tekeningen te maken en verschillende ideeën uit te proberen.<br><br>
+Give the students <strong>paper</strong> and <strong>markers</strong>. Encourage them to make drawings and try out different ideas.<br><br>
 
-Zorg ervoor dat alle leerlingen zich op hun gemak voelen bij het tekenen en het delen van hun ontwerpen. Moedig hen aan om open te staan voor elkaars ideeën en om samen te werken aan het verbeteren van hun ontwerp. Het kan daarom interessant zijn om diverse voorbeelden (zowel "mooi" als "lelijk") te tonen van ontwerpen, waarbij je duidelijk maakt dat het belangrijker is om een functionele schets te maken dan een kunstwerk.
+Make sure all students feel comfortable drawing and sharing their designs. Encourage them to be open to each other's ideas and to work together to improve their design. It may be interesting to show various examples (both "beautiful" and "ugly") of designs, making it clear that it is more important to make a functional sketch than a work of art.
 </div>
 
 <div class="alert alert-box alert-danger">
-Om de creativiteit van de leerlingen niet te beknotten, is het aan te raden om de leerlingen eerst hun <strong>droomrobot</strong> te laten ontwerpen.<br><br>
+To not restrict the creativity of the students, it is recommended to first let the students design their <strong>dream robot</strong>.<br><br>
 
-Nadien kan je hen er dan (waarschijnlijk) op wijzen dat deze niet haalbaar is binnen de context van het project. Je overloopt samen met hen de beperkingen zoals het beschikbare materiaal en hun eigen vaardigheden. Dit luidt dan de tweede fase van het ontwerpproces in. De leerlingen denken na over welke aanpassingen ze moeten maken aan hun droomrobot om een nieuw ontwerp te bekomen dat wel realiseerbaar is. Dit tweede ontwerp noemen we de <strong>technische tekening</strong>.
+Afterward, you can then point out to them that this is not feasible within the context of the project. You go through the limitations together, such as the available materials and their own skills. This marks the second phase of the design process. The students consider what adjustments they need to make to their dream robot to obtain a new design that is feasible. This second design is called the <strong>technical drawing</strong>.
 </div>
 
-Eens de leerlingen effectief beginnen aan het ontwerpproces van de robot, zullen ze ideeën uitwisselen over het uiterlijk, de functionaliteiten, het materiaal...
+Once the students actually start the design process of the robot, they will exchange ideas about the appearance, functionalities, material...
 
-Ze brainstormen dan binnen hun groep over **hun** sociale robot. Als je merkt dat ze het moeilijk hebben om een startpunt te vinden of vooruitgang te boeken zijn hier alvast enkele voorbeeldvragen die hen op weg kunnen zetten:
+They then brainstorm within their group about **their** social robot. If you notice that they are having difficulty finding a starting point or making progress, here are some sample questions that can help them get started:
 
-* Hoe moet je robot eruitzien?
-* Wat moet je robot kunnen?
-* Hoe zal je robot mensen kunnen waarnemen?
-* Hoe zal je robot interageren met mensen?
-* Heeft je robot een naam?
-* Wat kan je verwezenlijken met het beschikbare materiaal?
-* Met welke beperkingen of criteria moet je rekening houden?
+* What should your robot look like?
+* What should your robot be able to do?
+* How will your robot be able to perceive people?
+* How will your robot interact with people?
+* Does your robot have a name?
+* What can you achieve with the available material?
+* What limitations or criteria should you take into account?
 * ...
 
-Als een groep te veel wilt doen, zullen ze keuzes moeten maken:
+If a group wants to do too much, they will have to make choices:
 
-* Wat moet je robot minstens kunnen?
-* Welke dingen kan je eventueel achteraf nog doen als er tijd over is?
+* What should your robot be able to do at a minimum?
+* What things can you possibly do later if there is time left?
 * ...
 
 ---
-Eens ze tevreden zijn met hun ontwerp, formuleren ze criteria op basis waarvan ze op het einde hun robot kunnen evalueren. Dit kunnen zeer uiteenlopende criteria zijn, afhankelijk van hun ontwerp. Hieronder vind je alvast enkele voorbeelden:
+Once they are satisfied with their design, they formulate criteria based on which they can evaluate their robot at the end. These criteria can be very diverse, depending on their design. Below are some examples:
 
-* De robot heeft armen.
-* De armen kunnen bewegen.
-* De robot zwaait.
-* De robot heeft ogen.
-* De robot reageert wanneer iemand te dicht komt.
-* De robot lijkt op een neushoorn.
+* The robot has arms.
+* The arms can move.
+* The robot can wave.
+* The robot has eyes.
+* The robot reacts when someone comes too close.
+* The robot resembles a rhinoceros.
 * ...

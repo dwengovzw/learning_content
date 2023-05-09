@@ -2,8 +2,8 @@
 hruid: sr2_robotontwerp
 version: 3
 language: en
-title: "Robotontwerp"
-description: "Robotontwerp"
+title: "Robot design"
+description: "Robot design"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,27 +30,25 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Robot design
 
-# Robotontwerp
+You now have all the basic knowledge you need to design your own social robot! You know what social robots are and how they work, and you understand how they function and "think".
 
-Je beschikt nu over al de basiskennis die je nodig hebt om je eigen sociale robot te ontwerpen! Je weet wat sociale robots zijn en hoe ze werken, en je begrijpt hoe ze functioneren en 'denken'.
-
-Denk na over **jouw** sociale robot. Wat voor robot wil je maken? Hoe moet jouw robot eruit zien? Wat moet jouw robot kunnen?
-Neem er een blad papier bij en schrijf je ideeën neer. Dit kan je doen in zowel woorden als tekeningen!
+Think about **your** social robot. What kind of robot do you want to create? How should your robot look? What should your robot be able to do?
+Take a sheet of paper and write down your ideas. You can do this in both words and drawings!
 
 ![](embed/brainstorm.png "Brainstorm")
 
 ---
 
-Eens je tevreden bent met je ontwerp, formuleer je criteria op basis waarvan je op het einde je robot zal evalueren. Dit kunnen zeer uiteenlopende criteria zijn afhankelijk van je ontwerp, maar hieronder vind je alvast enkele voorbeelden:
+Once you are satisfied with your design, formulate criteria based on which you will evaluate your robot in the end. These can be very diverse criteria depending on your design, but below are some examples:
 
-- De robot heeft armen.
-- De armen kunnen bewegen.
-- De robot zwaait.
-- De robot heeft ogen.
-- De robot reageert wanneer iemand te dicht komt.
-- De robot lijkt op een neushoorn.
+- The robot has arms.
+- The arms can move.
+- The robot waves.
+- The robot has eyes.
+- The robot reacts when someone gets too close.
+- The robot looks like a rhinoceros.
 - ...
 
-Veel inspiratie toegewenst!
-
+Wishing you lots of inspiration!

@@ -2,8 +2,8 @@
 hruid: sr2_voorbeelden
 version: 3
 language: en
-title: "Brainstorm & Ontwerp"
-description: "Brainstorm & Ontwerp"
+title: "Brainstorm & Design"
+description: "Brainstorm & Design"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
