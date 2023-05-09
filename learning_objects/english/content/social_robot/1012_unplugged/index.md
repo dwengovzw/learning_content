@@ -30,8 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Computational thinking unplugged
+## 30 - 60 minutes in the classroom
 
-# Computationeel denken unplugged
-## 30 - 60 minuten in de klas
-
-Het doel van deze activiteiten is om de leerlingen vertrouwd te maken met sociale robots en hoe ze kunnen communiceren met mensen. Tijdens de activiteiten ligt de focus op het geven van een menselijk ‘gezicht’ aan een robot en het programmeren van emoties en gelaatsuitdrukkingen. Hiertoe stellen we twee opdrachten voor: ‘maak-een-gezicht’ en ‘de emotiemachine’, waarbij de leerlingen leren programmeren zonder een computer te gebruiken.
+The aim of these activities is to familiarize students with social robots and how they can communicate with people. The focus during the activities is on giving a human 'face' to a robot and programming emotions and facial expressions. To this end, we propose two tasks: 'make-a-face' and 'the emotion machine', where students learn to program without using a computer.

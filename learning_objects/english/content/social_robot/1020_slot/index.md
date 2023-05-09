@@ -29,9 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Conclusion
 
-# Slot
+The first module has now been completed and you have gained a better understanding of the possibilities of social robots. In the next module, you will start designing your own robot!
 
-De eerste module is nu afgerond en je hebt nu een beter inzicht gekregen in de mogelijkheden van sociale robots. In de volgende module ga je van start met het ontwerpen van jouw eigen robot! 
-
-[Module 2: Brainstorm en programmeren](https://www.dwengo.org/learning-path.html?hruid=sr2&language=nl "Module 2")
+[Module 2: Brainstorm and Programming](https://www.dwengo.org/learning-path.html?hruid=sr2&language=en "Module 2")

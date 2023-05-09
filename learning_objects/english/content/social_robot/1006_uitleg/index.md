@@ -31,21 +31,20 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-# Wat zijn sociale robots?
+# What are social robots?
 ## Privacy
 
-Voor kinderen zijn er dan weer talloze **'speelmaatjes'** op de markt, waar ze zich zeer sterk kunnen aan gaan hechten, zoals Furby.
+For children, there are numerous **'playmates'** on the market, to which they can become strongly attached, such as Furby.
 
-Deze speelgoedrobots worden echter niet altijd goed onthaald. Met het ‘Internet of Toys’ worden kinderen betrokken in een commerciële, datagestuurde wereld. We moeten er ons bewust van zijn dat er morele grenzen kunnen worden overschreden. Kinderen kunnen gevoelig zijn voor wat een robot hen vraagt of zegt te doen. Maar ook de privacy van de kinderen is in gevaar.  
+However, these toy robots are not always well received. With the 'Internet of Toys', children are involved in a commercial, data-driven world. We must be aware that moral boundaries can be crossed. Children can be sensitive to what a robot asks or tells them to do. But also the privacy of the children is in danger.
 
-Hello Barbie is een pop waarmee het kind conversaties kan voeren dankzij spraakherkenning. De pop is verbonden met servers in de cloud en leert uit vorige gesprekken. Omwille van privacyredenen kwam hier veel kritiek op en werd de pop van de markt gehaald.  
+Hello Barbie is a doll with which the child can have conversations thanks to voice recognition. The doll is connected to servers in the cloud and learns from previous conversations. Due to privacy concerns, this received a lot of criticism and the doll was taken off the market.
 
-> Discussie<br>Is het oké dat kinderen en bejaarden hun volledige leven vertellen aan een sociale robot die dit kan opslaan?
+> Discussion<br>Is it okay for children and elderly people to tell their entire life story to a social robot that can store this information?
 
-Gesprekken tussen kinderen en hun teddybeer van CloudPets werden gehackt.  
-In Duitsland werd de slimme pop My Friend Cayla verboden omdat ze onder andere als afluisterapparatuur gebruikt kan worden door derden.  
-Robothond Aibo mag omwille van privacyredenen niet verkocht worden in de EU. Aibo neemt bijvoorbeeld foto’s van je woning die worden opgeslagen in de cloud, en ook de conversaties die je met Aibo voert, komen bij de fabrikant terecht.
+Conversations between children and their CloudPets teddy bear were hacked.
+In Germany, the smart doll My Friend Cayla was banned because it can be used as a listening device by third parties.
+Robotic dog Aibo may not be sold in the EU due to privacy reasons. For example, Aibo takes photos of your home that are stored in the cloud, and the conversations you have with Aibo also end up with the manufacturer.
 
-![Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.](embed/furby.jpg "Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.")
-<sub>Furby is een interactieve knuffel die een andere persoonlijkheid aanneemt, afhankelijk van hoe je met hem omgaat.</sub>
+![Furby is an interactive stuffed animal that takes on a different personality depending on how you interact with it.](embed/furby.jpg "Furby is an interactive stuffed animal that takes on a different personality depending on how you interact with it.")
+<sub>Furby is an interactive stuffed animal that takes on a different personality depending on how you interact with it.</sub>

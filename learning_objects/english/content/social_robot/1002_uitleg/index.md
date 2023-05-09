@@ -30,16 +30,15 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# What are social robots?
+## Digital systems
 
-# Wat zijn sociale robots?
-## Digitale systemen
+*Today, digital devices are indispensable in our society. Think of a robot vacuum cleaner, a washing machine, an electric toothbrush, or a clock radio.*
 
-*Vandaag de dag zijn digitale apparaten niet meer weg te denken uit onze maatschappij. Denk maar aan een robotstofzuiger, een wasmachine, een elektrische tandenborstel of een wekkerradio.*
+These are also referred to as **digital systems**. Many of these devices are controlled by a **microcontroller**. Digital systems have inputs and outputs. The microcontroller receives data from the inputs (**input**), processes the data, performs calculations, and then controls the digital devices (**output**).  
+In this project, you will use the **Dwenguino**, which is a microcontroller platform that allows you to quickly and easily build your own device.
 
-Men spreekt ook van **digitale systemen**. Veel van die apparaten worden aangestuurd door een **microcontroller**. Digitale systemen beschikken over ingangen en uitgangen. De microcontroller krijgt gegevens van de ingangen (**input**). Hij **verwerkt** de gegevens, voert berekeningen uit en stuurt vervolgens de digitale apparaten aan (**output**).  
-In dit project gebruik je de **Dwenguino**. Dat is een microcontrollerplatform waarmee je snel en gemakkelijk je eigen apparaat kan bouwen.
-
-> Discussie<br>Is een robotstofzuiger een sociale robot?
+> Discussion<br>Is a robot vacuum cleaner a social robot?
 
 ![© Jens Mahnke via Pexels](embed/stofzuiger.png "© Jens Mahnke via Pexels")
 <sub>© Jens Mahnke via Pexels</sub>

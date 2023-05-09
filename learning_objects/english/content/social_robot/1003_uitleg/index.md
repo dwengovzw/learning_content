@@ -30,23 +30,22 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# What are social robots?
+## Social robots
 
-# Wat zijn sociale robots?
-## Sociale robots
+Social robots are robots that can communicate with humans. They are used in various sectors of our society, such as the healthcare sector and the hospitality industry. 
 
-*Sociale robots zijn robots die kunnen communiceren met mensen. Ze worden in onze samenleving in uiteenlopende gedaantes ingezet in verschillende sectoren, zoals de zorgsector en de horeca.*  
+In nursing homes, social robots are used to keep elderly people company and stimulate social interaction. In hospitals, they are used for rehabilitation exercises. Social robots can also be used at home, for example to remind people to take their medication so that they can stay at home longer, or to teach children how to manage their diabetes.
 
-In het **rusthuis** worden sociale robots gebruikt om bejaarden gezelschap te houden en sociaal contact te stimuleren. In het **ziekenhuis** worden ze ingezet bij revalidatieoefeningen. Sociale robots kunnen ook thuis ingezet worden, bijvoorbeeld om mensen te herinneren aan het nemen van hun medicatie waardoor ze langer thuis kunnen blijven wonen, of bijvoorbeeld om kinderen te leren omgaan met hun diabetes.  
+> Discussion<br>Is a social robot good company for a lonely elderly person?
 
-> Discussie<br>Is een sociale robot goed gezelschap voor een eenzame bejaarde?
+In education, social robots can be used to guide students individually, or a student can explain the subject matter to a peer robot.
 
-In het onderwijs kunnen sociale robots ingezet worden om leerlingen individueel te begeleiden, of men kan een leerling de leerstof laten uitleggen aan een *peer-robot*. 
+At the airport, a robot directs travelers to the correct gate. In the museum, a robot gives a guided tour. In some hotels, a robot is stationed at the reception desk. In the store, a robot can inform customers about current promotions.
 
-Op de luchthaven wijst een robot de reizigers de weg naar de juiste gate. In het museum geeft een robot een rondleiding. In sommige hotels staat een robot aan de receptie. In de winkel kan een robot de klanten op de hoogte brengen van de geldende promoties.  
-
-> Discussie<br>Bekijk onderstaande afbeelding.<br>Welk dier stelt Paro voor? Waarvoor zou Paro al deze apparatuur gebruiken?
+> Discussion<br>Look at the image below.<br>What animal does Paro represent? What would Paro use all this equipment for?
 
 ![](embed/paro.jpg "© Peter Häll")
-<sub>Paro houdt bejaarden gezelschap - © Peter Häll</sub>
+<sub>Paro keeps elderly people company - © Peter Häll</sub>
 
-![](embed/Paro2.png "Paro uitleg")
+![](embed/Paro2.png "Paro explanation")

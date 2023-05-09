@@ -30,9 +30,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Unplugged computational thinking
 
-# Computationeel denken unplugged
+Social robots are robots that are capable of communicating with humans in various ways. During the following activities, you will learn how to program emotions and facial expressions in robots.
 
-Sociale robots zijn robots die in staat zijn om te communiceren met mensen, op diverse manieren. Tijdens de volgende activiteiten leer je hoe je emoties en gelaatsuitdrukkingen kunt programmeren bij robots.
-
-Deze activiteiten vallen onder de noemer 'unplugged computationeel denken', wat betekent dat je gaat "programmeren" zonder computer.
+These activities fall under the category of 'unplugged computational thinking', which means that you will be "programming" without a computer.

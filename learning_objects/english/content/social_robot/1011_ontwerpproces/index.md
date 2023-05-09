@@ -30,19 +30,18 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# The design process
+## 10 - 20 minutes in the classroom
+Now that the students have a rough concept of what social robots are, you can hold a short brainstorming session with the class to see if they can come up with the process for building such a social robot themselves.
 
-# Het ontwerpproces
-## 10 - 20 minuten in de klas
-Nu de leerlingen een ruw concept hebben van wat sociale robots zijn, kun je samen met de klas een korte brainstormsessie houden om te zien of ze zelf het proces voor het bouwen van zo'n sociale robot kunnen opstellen.
+The process in this learning path is as follows:
+1. Designing the social robot
+2. Writing the first version of the program
+3. Simulating the program
+4. Debugging the program
+5. Making electrical circuits
+6. Building the robot
+7. Testing and debugging the robot
+8. Finishing the robot
 
-Het proces in dit leerpad verloopt als volgt:
-1. Ontwerpen van de sociale robot
-2. Schrijven van eerste versie van het programma
-3. Simuleren van het programma
-4. Debuggen van het programma
-5. Maken van elektrische schakelingen
-6. Bouwen van de robot
-7. Testen en debuggen van de robot
-8. Afwerken van de robot
-
-Je kunt de leerlingen alvast vertellen dat het proces dat ze zullen doorlopen uit verschillende stappen bestaat. Het is nu aan hen om te bedenken wat deze stappen precies inhouden.
+You can already tell the students that the process they will go through consists of several steps. It is now up to them to figure out what these steps entail.

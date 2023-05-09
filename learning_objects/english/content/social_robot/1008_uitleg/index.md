@@ -30,30 +30,24 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# What are social robots?
+## Humanization
 
-# Wat zijn sociale robots?
-## Vermenselijking
+*People tend to attribute human qualities to objects.*
 
-*Mensen zijn geneigd om menselijke eigenschappen toe te kennen aan objecten.*
+You have probably also encouraged your computer to work faster. And although a robot dog is a machine without real feelings, it is quickly seen as a pet.
 
-Jij hebt vast ook al eens je computer aangemoedigd om sneller te gaan werken.  
-En hoewel een robothond een machine is zonder echte gevoelens, wordt hij algauw beschouwd als een huisdier.  
+> Discussion<br>Is it okay to kick a robot dog?
 
-> Discussie<br>Mag men een robothond schoppen?
+The **appearance** of a social robot influences the extent to which this 'humanization' occurs. The appearance of a robot creates **expectations**. If the robot does not live up to those expectations, it leads to disappointment for the user. From a robot with eyes, one expects that it sees, from a robot with wheels, that it drives...
+The robot Paro, which looks like a seal, is treated by people as a pet, but does not create the expectations of a dog or cat. When creating the robot Paro, a seal was deliberately chosen instead of a dog or a cat, because a robot that looks like a dog or cat brings more expectations with it. A seal is something that people are familiar with, but apart from the appearance, they do not really know how a seal behaves, which creates less expectations.
+From an android robot, a robot that looks very human, one also expects human actions. The robot Pepper does not look enough like a human to expect him to be very human-like.
 
-**Bekijk dit [filmpje](https://www.youtube.com/watch?v=M8YjvHYbZ9w "Robothond")**
-![](@youtube/https://www.youtube.com/embed/M8YjvHYbZ9w "robothond")
-
-
-Het **uiterlijk** van een sociale robot beïnvloedt in welke mate deze 'vermenselijking' gebeurt. Het uiterlijk van een robot schept **verwachtingen**. Als de robot die verwachtingen niet waarmaakt, dan leidt dat tot teleurstelling bij de gebruiker. Van een robot met ogen verwacht men dat hij ziet, van een robot met wielen dat hij rijdt ...  
-De robot Paro, die eruitziet als een zeehond, wordt door de mensen wel behandeld als een huisdier, maar schept niet de verwachtingen van een hond of kat. Bij het maken van de robot Paro werd bewust gekozen voor een zeehond i.p.v. een hond of een kat, omdat een robot die op een hond of kat lijkt, meer verwachtingen met zich meebrengt. Een zeehond kent men wel van ziens, maar behalve het uitzicht, weet men niet echt hoe een zeehond zich gedraagt, waardoor deze minder verwachtingen schept.
-Van een androïde robot, een robot die er heel menselijk uitziet, verwacht men ook menselijke handelingen. De robot Pepper lijkt net niet genoeg op een mens om te verwachten dat hij ook heel menselijk voor de dag komt.  
-
-Als de verwachtingen die men van de robot heeft, niet overeenstemmen met wat hij effectief doet, dan ervaren mensen de robot als iets negatiefs.  
-Het is verwarrend als het lichaam van een robot gedeeltelijk bedekt is door 'huid', maar er ook mechanische onderdelen zichtbaar zijn. Het is bevreemdend als een robotdier praat.  
-Mensen  vinden robots die eruitzien als mensen meestal leuk, maar een robot mag ook niet te veel op een mens lijken, want dan vinden ze hem helemaal niet leuk meer.  
-Het fenomeen dat mensen zo op robots reageren, heet *The Uncanny Valley*.  
-Hoe meer een robot op een mens lijkt, hoe meer menselijke gedragingen men hem zal toedichten en hoe groter de kans dat de robot die verwachting niet waarmaakt.
+If the expectations one has of the robot do not correspond to what it actually does, people experience the robot as something negative.
+It is confusing when the body of a robot is partially covered by 'skin', but mechanical parts are also visible. It is strange when a robot animal talks.
+People usually like robots that look like humans, but a robot cannot look too much like a human, otherwise they will not like it at all.
+The phenomenon of how people react to robots is called *The Uncanny Valley*.
+The more a robot looks like a human, the more human behaviors people will attribute to it and the greater the chance that the robot will not live up to those expectations.
 
 ![ERICA - © ERATO ISHIGURO Symbiotic Human-Robot Interaction Project](embed/UncannyValley.jpg "© ERATO ISHIGURO Symbiotic Human-Robot Interaction Project")
 <sub>ERICA - © ERATO ISHIGURO Symbiotic Human-Robot Interaction Project</sub>

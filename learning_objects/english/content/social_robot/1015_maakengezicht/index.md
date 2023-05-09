@@ -30,73 +30,69 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Computationeel denken unplugged
-## Maak een gezicht
+# Unplugged computational thinking
+## Create a face
 
-![gezichtje](embed/gezichtje.png "gezichtje")
+![face](embed/gezichtje.png "face")
 
-Programmeer gelaatsuitdrukkingen op een robotgezicht en simuleer emoties. Je doet dit zonder computer. Het gezicht moet aan de volgende voorwaarden voldoen:
+Program facial expressions on a robot face and simulate emotions without using a computer. The face must meet the following conditions:
 
-* Het robotgezicht moet in staat zijn om te reageren op verschillende geluiden, zoals vervelende, plotse en onverwachte geluiden.
-* Het robotgezicht moet verschillende emoties kunnen simuleren, zoals verdrietig, blij en verrast.
-* Je bedenkt nog enkele andere gelaatsuitdrukkingen die de robot moet kunnen weergeven.
-* Je programmeert regels om het robotgezicht te laten reageren op verschillende geluiden en emoties met de nieuwe gelaatsuitdrukkingen.
+* The robot face must be able to respond to different sounds, such as annoying, sudden, and unexpected sounds.
+* The robot face must be able to simulate different emotions, such as sadness, happiness, and surprise.
+* You come up with a few other facial expressions that the robot should be able to display.
+* You program rules to make the robot face respond to different sounds and emotions with the new facial expressions.
 
-### Voorbereiding
+### Preparation
 
-Bekijk zeker het volgende filmpje en maak de onderdelen van het gezicht op voorhand klaar uit een stuk karton.
+Be sure to watch the following video and prepare the face parts in advance using a piece of cardboard.
 
-![](@youtube/https://www.youtube.com/embed/7S3_QkAMi3Y "voorbereiding maak een gezicht")
+![](@youtube/https://www.youtube.com/embed/7S3_QkAMi3Y "preparation create a face")
 
+### Procedure
 
-### Werkwijze
+**Preparation**
 
-**Voorbereiding**
+1. Prepare the face parts before the session. The eyes and eyebrows can be made from hard cardboard covered with self-adhesive plastic or glued to colored paper.
 
-1. Maak de onderdelen van het gezicht voor aanvang van de sessie. De ogen en wenkbrauwen kunnen gemaakt worden van hard karton bedekt met zelfklevend plastic of gelijmd op gekleurd papier. 
+2. The mouth is made of 4 long tubes (e.g. wrapping paper or PVC). Tie them together in a loop by threading a wire or rope through them. They should be easy to bend into curved shapes and into a circle. Color it bright red with colored paper or self-adhesive plastic.
 
-2. De mond is gemaakt van 4 lange buizen (bv. van inpakpapier of PVC). Deze bind je samen in een lus door er draad of touw door te steken. Dit moet je gemakkelijk in gebogen vormen en in een cirkel kunnen buigen. Kleur het felrood met gekleurd papier of zelfklevend plastic.
+**Setting up the face**
 
+1. Have six volunteers come forward. They will operate the different parts of the robot face by following the program's instructions. The rest of the group will make sounds to which the robot will respond. If you make the activity longer, you can have the volunteers who operate the robot face alternate with each other. You can even make 2 faces at the same time if you want to involve more participants.
 
-**Het gezicht instellen**
+2. Give the two tallest volunteers each an eyebrow and let them stand a few meters apart. They must hold the eyebrows quite high. Ideally, there should be a blank wall behind them as a background for the face. Then give two more volunteers an open and a squinted eye each. They kneel in front of the first two and hold the narrowed eyes under the eyebrows. The wide-open eyes are kept behind their backs until they are needed. Finally, the last two people kneel and hold the sides of the mouth.
 
-1. Laat zes vrijwilligers naar voren komen. Zij zullen de verschillende delen van het robotgezicht bedienen door de instructies van het programma te volgen. De rest van de groep maakt geluiden waarop de robot reageert. Als je de activiteit langer laat duren, kan je de vrijwilligers die het robotgezicht bedienen, elkaar laten afwisselen. Je kan zelfs 2 gezichten tegelijk laten maken als je er meer deelnemers bij wilt betrekken.
+**Controlling the Face**
 
-2. Geef de twee langste vrijwilligers elk een wenkbrauw en laat ze een paar meter uit elkaar gaan staan. Zij moeten de wenkbrauwen vrij hoog houden. Idealiter staat er een blinde muur achter hen als achtergrond voor het gezicht. Geef vervolgens nog twee vrijwilligers elk een open en een toegeknepen oog. Ze knielen voor de eerste twee en houden de vernauwde ogen onder de wenkbrauwen. De wijd open ogen worden achter de rug gehouden totdat ze nodig zijn.  Tot slot knielen de laatste twee mensen en houden de zijkanten van de mond vast.
+1. Now you have a robot face. Point out that it will not do anything useful without following rules, without a program. You could write instructions for the entire face, but it is easier to think of it as different, smaller objects (two eyes, two eyebrows, and two sides of the mouth) each with their own, independent rules.
 
+2. Give each person in the face the corresponding instructions for controlling their object. They are listed at the end of this activity. They are made up of IF-THEN rules:
 
-**Het gezicht besturen**
+![rules](embed/rules.png "rules")
 
-1. Nu heb je een robotgezicht. Wijs erop dat het niets nuttigs zal doen zonder te volgen regels, zonder een programma. Je zou instructies kunnen opstellen voor het volledige gezicht, maar het is makkelijker om het te bekijken als verschillende, kleinere objecten (twee ogen, twee wenkbrauwen en twee kanten van de mond) elk met hun eigen, onafhankelijke regels.
+3. Explain that they should listen to the sounds of the audience and then perform the corresponding action. The eyebrows can be held up as high as they want and lowered to just above the eyes. The eyes can be wide open or squinted. The mouth can point in the middle up or down, or the two tubes each person is holding can be opened. The rules tell them in which position to stand depending on the sounds they hear.
 
-2. Geef elke persoon in het gezicht de bijbehorende instructies voor het besturen van hun object. Ze staan op het einde van deze activiteit. Ze zijn gemaakt van ALS-DAN regels:
+4. Then explain to the audience what they should do. When you tell them, they should either make a horrible sound (as horrible as possible), make a beautiful sound, or suddenly boo. You tell the audience what to do using flash cards so that the people controlling the face can only react to the sound and not to what you say. See Figures 2-4 for the types of faces you should get.
 
-![regels](embed/regels.png "regels")
-
-3. Leg uit dat ze moeten luisteren naar de geluiden van het publiek en dan de corresponderende actie moeten uitvoeren. De wenkbrauwen kunnen ze zo hoog houden als ze willen en verlagen tot net boven de ogen. De ogen kunnen wijd open of toegeknepen zijn. De mond kan in het midden naar beneden of naar boven wijzen of de twee buizen die elke persoon vasthoudt, kunnen worden geopend. De regels vertellen hen in welke stand ze moeten staan, afhankelijk van de geluiden die ze horen.
-
-4. Leg vervolgens uit aan het publiek wat zij moeten doen. Wanneer je het hen zegt, moeten ze ofwel een afschuwelijk geluid maken (zo afschuwelijk mogelijk), een mooi geluid maken, of plots boe roepen. Jij vertelt het publiek wat te doen d.m.v. kaarten (flash cards) zodat de personen die het gezicht bedienen enkel kunnen reageren op het geluid en niet op wat jij zegt. Zie figuren 2 – 4 voor de soorten gezichten die je zou moeten krijgen.
-
-5. Hou enkele oefenrondes waarbij je zegt wat er op de kaart staat, zodat de personen die het gezicht bedienen het in de vingers krijgen, terwijl jij controleert. Doe daarna een echte ronde, waarbij je de kaarten gebruikt om het publiek te tonen wat ze moeten doen. Wissel deze kaarten willekeurig af. Je kan dit doen met verschillende leerlingen als je tijd hebt en als je wilt dat iedereen eens het gezicht bestuurt.
+5. Hold a few practice rounds where you say what is on the card, so that the people controlling the face get the hang of it, while you check. Then do a real round, using the cards to show the audience what to do. Randomize these cards. You can do this with different students if you have time and want everyone to control the face.
 
 
-**Het gezicht programmeren**
+**Programming the Face**
 
-1. De volgende uitdaging is het programmeren van het gezicht. Splits de kinderen op in groepen van zes en laat elke groep maximaal drie nieuwe gelaatsuitdrukkingen naar keuze bedenken (bv. knipogen). Laat ze eventueel elk om beurt hun emotie uitbeelden zodat de anderen een beter idee krijgen van de gelaatsuitdrukking. Wijs erop dat de linker- en rechterkant van het gezicht verschillende regels kunnen hanteren en dat ze dus verschillende dingen kunnen doen. Ze kunnen ook nieuwe posities creëren zoals schuine wenkbrauwen of gesloten ogen.
+1. The next challenge is programming the face. Divide the children into groups of six and have each group come up with up to three new facial expressions of their choice (e.g., winking). They can also create new positions like slanted eyebrows or closed eyes. Have them take turns demonstrating their expression so that others get a better idea of the facial expression. Note that the left and right sides of the face can have different rules, so they can do different things.
 
-2. Daarna moeten ze de verschillende gelaatsuitdrukkingen van het gezicht tekenen. Dit is belangrijk omdat er exacte posities en vormen van wenkbrauwen, ogen en mond bepaald kunnen worden. Daarna moeten ze een geluid bedenken (of iets dat in het publiek te zien is) dat ertoe kan leiden om die bepaalde emoties of gelaatsuitdrukkingen te tonen.
+2. Then, have them draw the different facial expressions of the face. This is important because exact positions and shapes of eyebrows, eyes, and mouth can be determined. Then, they need to come up with a sound (or something visible in the audience) that can cause those particular emotions or facial expressions to be displayed.
 
-3. Ten slotte moeten ze één van deze gelaatsuitdrukkingen kiezen om toe te voegen aan het programma van het gezicht. Ze moeten een kaart (flash card) creëren voor de gelaatsuitdrukking die het publiek vertelt wat het moet doen. Ze moeten een ALS-DAN regel opstellen voor de gelaatsuitdrukking, gebaseerd op de vorm van degene die al op de kaarten staan. Voor elk van de zes voorwerpen is er één regel nodig. Een mogelijk voorbeeld van zo’n regel is: “ALS saai geluid DAN gesloten” voor het linkeroog. De extra regels voeg je dan toe aan de bestaande regels, en een kopie van deze instructies wordt dan gegeven aan elke groep.
+3. Finally, they need to choose one of these facial expressions to add to the face's program. They need to create a flash card for the facial expression that tells the audience what to do. They need to create an IF-THEN rule for the facial expression, based on the shape of the ones already on the cards. One rule is needed for each of the six objects. One possible example of such a rule is: "IF boring sound THEN closed" for the left eye. The additional rules are then added to the existing rules, and a copy of these instructions is given to each group.
 
-4. Elke groep kan dan om de beurt het gezicht besturen met hun aangepaste regels.
+4. Each group can then take turns controlling the face with their customized rules.
 
-5. Rond af door samen te vatten wat ze hebben gedaan: een programma schrijven, dat lijkt op een programma dat men zou gebruiken om een echt gezicht te bedienen, objectgeoriënteerd programmeren en de mens-computer-interactie van de toekomst onderzoeken.
+5. Wrap up by summarizing what they did: writing a program that resembles one that would be used to control a real face, object-oriented programming, and exploring the human-computer interaction of the future.
 
 <div class="alert alert-box alert-success">
-<strong>Variaties en uitbreidingen</strong><br>
+<strong>Variations and extensions</strong><br>
 <ul>
-<li>Indien je meer tijd hebt, kan je de groep zelf de verschillende delen van het gezicht laten maken a.d.h.v. de voorbereide vormen.</li>
-<li>Een andere mogelijkheid is om de groep extra onderdelen van het gezicht te laten ontwerpen, zoals een tong of gesloten ogen, om zo de gewenste emoties beter te kunnen uitbeelden.</li>
-<li>De groep kan ook regels schrijven om het gezicht op andere dingen dan geluid te laten reageren. Zo zou je bijvoorbeeld twee gezichten kunnen hebben die elkaar aanstaren, waarbij het ene reageert op geluid, en het andere het eerste nadoet. Als het ene glimlacht, dan glimlacht het tweede ook.</li>
+<li>If you have more time, you can have the group design the different parts of the face themselves, using paper or other materials. </li>
+<li>The group can also write rules to make the face react to things other than sound. For example, you could have two faces staring at each other, where one reacts to sound and the other mimics the first. If one smiles, the second one also smiles.</li>
 </ul>
 </div>

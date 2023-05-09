@@ -31,7 +31,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Robotonderdelen
-Laat de leerlingen kort kennismaken met de elektronica die ze gaan gebruiken tijdens de les. Je kan dit eventueel interessanter maken door hen te laten raden wat elk onderdeel zou kunnen zijn en waarvoor het gebruikt wordt. In het leerpad zijn de afbeeldingen opgenomen die in de simulator worden gebruikt om de echte onderdelen voor te stellen.
+# Robot parts
+Introduce the electronics that will be used during the lesson to the students. You can make this more interesting by asking them to guess what each component might be and what it is used for. The images used in the simulator to represent the real components are included in the learning path.
 
-Dit leerpad bevat gedetailleerde beschrijvingen van de actuatoren en sensoren die gebruikt zullen worden. In de klas kan je ervoor kiezen om deze beschrijvingen korter te maken en te vereenvoudigen.
+This learning path contains detailed descriptions of the actuators and sensors that will be used. In class, you can choose to shorten and simplify these descriptions.

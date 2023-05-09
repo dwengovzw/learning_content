@@ -33,34 +33,33 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Lesson Plan
+## Module 1: Introduction and unplugged computational thinking (± 2 class hours)
 
-# Lesverloop
-## Module 1: Inleiding en computationeel denken unplugged (± 2 lesuren)
+*The link below will take you to the student module*<br>
+[Module 1: What are social robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=en "Module 1")
 
-*Onderstaande link brengt je naar de leerlingenmodule*<br>
-[Module 1: Wat zijn sociale robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl "Module 1")  
+**Lesson Phase A - What are social robots?**
 
-**Lesfase A - Wat zijn sociale robots?**
+*Option 1*
+* Start the lesson with a presentation of photos of social robots that already exist in society, such as Pepper, Paro, Aibo, or Hatchimal. You can then analyze these robots further to discuss the sensors and actuators and make the link to 'input-processing-output.'
 
-*Optie 1*
-* Start de les met een presentatie met foto's van sociale robots die reeds voorkomen in de maatschappij, zoals Pepper, Paro, Aibo of een Hatchimal. Je kan deze dan verder analyseren om de sensoren en actuatoren te bespreken en de link leggen met 'invoer-verwerking-uitvoer'.
-
-*Optie 2*
-* Laat de leerlingen een schets maken van de robot van hun dromen. Bespreek nadien klassikaal of daar ook sociale robots tussen zitten. Bespreek tot slot ook enkele sociale robots die reeds voorkomen in de maatschappij.
-
-
-**Lesfase B - Computationeel denken unplugged**
-* Voorzie na de inleiding eventueel een korte pauze om de actieve werkvormen op te stellen. 
-* Activiteit 1: Maak-een-gezicht (klassikaal)
-* Activiteit 2: Emotiemachine (groepjes van 3 à 4)
-* Zorg ervoor dat je nog voldoende tijd hebt om op te ruimen én de laatste lesfase te doorlopen.
+*Option 2*
+* Have the students draw a sketch of the robot of their dreams. Afterwards, discuss in class if there are any social robots among them. Finally, discuss some social robots that already exist in society.
 
 
-**Lesfase C - Verkennen elektronica**
-* Rond de les af met het verkennen van de sensoren en actuatoren in de kit van het 'Sociale robot'-project. De leerlingen moeten zich voor de bouw van het fysieke lichaam van hun eigen scoiale robot beperken tot een selectie van de onderdelen in de kit en herbruikbaar materiaal.
+**Lesson Phase B - Unplugged computational thinking**
+* After the introduction, provide a short break to set up the active work forms.
+* Activity 1: Make-a-face (whole class)
+* Activity 2: Emotion machine (groups of 3 to 4)
+* Make sure you have enough time left to clean up and go through the last lesson phase.
 
 
-**Lesfase D - Slot**
-* Vorm de groepen waarin de leerlingen hun sociale robot zullen maken.
-* Geef hen eventueel als huistaak mee om al eens (samen) na te denken over hun sociale robot ter voorbereiding van de brainstorm waarmee je de volgende les zal beginnen. 
-* Extra: De leerlingen kunnen een opdracht krijgen als voorbereiding tegen de volgende les. Bv. op het world wide web op zoek gaan naar een sociale robot in een context die hen sterk aanspreekt en daar een digitaal document rond maken.
+**Lesson Phase C - Exploring electronics**
+* End the lesson by exploring the sensors and actuators in the kit of the 'Social Robot' project. The students must limit themselves to a selection of the parts in the kit and reusable materials for building the physical body of their own social robot.
+
+
+**Lesson Phase D - Conclusion**
+* Form the groups in which the students will build their social robots.
+* Give them homework to (together) think about their social robot in preparation for the brainstorming that you will start with in the next lesson.
+* Extra: The students can be given an assignment as preparation for the next lesson. For example, to search the world wide web for a social robot in a context that strongly appeals to them and create a digital document about it.

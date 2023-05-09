@@ -30,22 +30,22 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Computationeel denken unplugged
-## Emotiemachine
-### 20 minuten in de klas
+# Unplugged Computational Thinking
+## Emotion Machine
+### 20 minutes in the classroom
 
-De leerlingen ontwerpen een gezicht en programmeren een 2D-robot van karton om verschillende emoties uit te drukken. Ze maken een tabel waarin ze emoties (high-level) omzetten in instructies (code) die door een machine (low-level) begrepen kunnen worden. Vervolgens tekenen ze de emoties op stroken karton die een bepaalde stand van de wenkbrauwen, ogen en mond vertegenwoordigen.
+The students design a face and program a 2D cardboard robot to express different emotions. They create a table in which they translate emotions (high-level) into instructions (code) that can be understood by a machine (low-level). They then draw the emotions on strips of cardboard that represent a certain position of the eyebrows, eyes, and mouth.
 
-![](embed/Emotiemachine.png "Emotiemachine in de praktijk")
+![](embed/Emotiemachine.png "Emotion Machine in practice")
 
-Later (tijdens de bouwsessies) kunnen ze de emoties ook programmeren met de ledmatrix van hun sociale robot. Hiervoor denken de leerlingen na over hoe ze de wenkbrauwen, ogen en mond kunnen voorstellen op de ledmatrix.  
+Later (during the building sessions), they can also program the emotions with the LED matrix of their social robot. For this, the students think about how they can represent the eyebrows, eyes, and mouth on the LED matrix.
 
-Je kan hier eventueel ook kort vermelden dat men tegenwoordig gezichtsherkenning (*facial recognition*) probeert uit te breiden naar het herkennen van emoties m.b.v. AI-technieken. Zo kunnen computers steeds beter emoties herkennen in gezichtsuitdrukkingen, wat kan leiden tot nieuwe toepassingen in o.a. de gezondheidszorg en beveiliging.
+Optionally, you can also briefly mention that nowadays facial recognition is being extended to recognize emotions using AI techniques. This allows computers to better recognize emotions in facial expressions, which can lead to new applications in, among other things, healthcare and security.
 
-![](embed/FacRec.png "Emoties herkennen met AI")
+![](embed/FacRec.png "Recognizing emotions with AI")
 <sub>By Abyssus - Own work, CC BY-SA 4.0</sub>
 
-### Materiaal
-* [Tabel emoties](embed/emotiemachine_gids.pdf "tabel")
-* [Gezicht 1](embed/emotiemachine_gewoon_nl.pdf "gezicht gewoon")
-* [Gezicht 2](embed/emotiemachine_matrices_nl.pdf "gezicht 2")
+### Material
+* [Table of emotions](embed/emotiemachine_gids.pdf "table")
+* [Face 1](embed/emotiemachine_gewoon_nl.pdf "regular face")
+* [Face 2](embed/emotiemachine_matrices_nl.pdf "face 2")
