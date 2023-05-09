@@ -2,8 +2,8 @@
 hruid: sr1_uitleg5
 version: 3
 language: en
-title: "Vermenselijking"
-description: "Vermenselijking"
+title: "Humanisation"
+description: "Humanisation"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,13 +31,16 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # What are social robots?
-## Humanization
+## Humanisation
 
 *People tend to attribute human qualities to objects.*
 
 You have probably also encouraged your computer to work faster. And although a robot dog is a machine without real feelings, it is quickly seen as a pet.
 
 > Discussion<br>Is it okay to kick a robot dog?
+
+**Watch this [video](https://www.youtube.com/watch?v=M8YjvHYbZ9w "Robotdog")**
+![](@youtube/https://www.youtube.com/embed/M8YjvHYbZ9w "Robotdog")
 
 The **appearance** of a social robot influences the extent to which this 'humanization' occurs. The appearance of a robot creates **expectations**. If the robot does not live up to those expectations, it leads to disappointment for the user. From a robot with eyes, one expects that it sees, from a robot with wheels, that it drives...
 The robot Paro, which looks like a seal, is treated by people as a pet, but does not create the expectations of a dog or cat. When creating the robot Paro, a seal was deliberately chosen instead of a dog or a cat, because a robot that looks like a dog or cat brings more expectations with it. A seal is something that people are familiar with, but apart from the appearance, they do not really know how a seal behaves, which creates less expectations.

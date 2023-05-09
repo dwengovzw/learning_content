@@ -2,8 +2,8 @@
 hruid: sr1_slot
 version: 3
 language: en
-title: "Slot"
-description: "Slot"
+title: "Conclusion"
+description: "Conclusion"
 keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 

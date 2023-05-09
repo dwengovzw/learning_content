@@ -2,8 +2,8 @@
 hruid: sr1_unplugged
 version: 3
 language: en
-title: "Computationeel denken unplugged"
-description: "Context SR unplugged"
+title: "Unplugged CT"
+description: "Unplugged CT"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

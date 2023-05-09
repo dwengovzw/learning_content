@@ -2,8 +2,8 @@
 hruid: sr1_uitleg6
 version: 3
 language: en
-title: "Sociale robots in de toekomst"
-description: "Sociale robots in de toekomst"
+title: "Social robots in the future"
+description: "Social robots in the future"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 

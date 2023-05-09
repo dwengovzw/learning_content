@@ -2,8 +2,8 @@
 hruid: sr1_maakeengezicht
 version: 3
 language: en
-title: "Maak een gezicht"
-description: "Maak een gezicht"
+title: "Make a Face"
+description: "Make a Face"
 keywords: ["sociale robot", "activiteit"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -68,7 +68,7 @@ Be sure to watch the following video and prepare the face parts in advance using
 
 2. Give each person in the face the corresponding instructions for controlling their object. They are listed at the end of this activity. They are made up of IF-THEN rules:
 
-![rules](embed/rules.png "rules")
+![rules](embed/regels.png "rules")
 
 3. Explain that they should listen to the sounds of the audience and then perform the corresponding action. The eyebrows can be held up as high as they want and lowered to just above the eyes. The eyes can be wide open or squinted. The mouth can point in the middle up or down, or the two tubes each person is holding can be opened. The rules tell them in which position to stand depending on the sounds they hear.
 
@@ -93,6 +93,7 @@ Be sure to watch the following video and prepare the face parts in advance using
 <strong>Variations and extensions</strong><br>
 <ul>
 <li>If you have more time, you can have the group design the different parts of the face themselves, using paper or other materials. </li>
+<li>Another option is to allow the group to design extra parts for the face, such as a tongue or closed eyes in order to better depict the desired emotions.</li>
 <li>The group can also write rules to make the face react to things other than sound. For example, you could have two faces staring at each other, where one reacts to sound and the other mimics the first. If one smiles, the second one also smiles.</li>
 </ul>
 </div>

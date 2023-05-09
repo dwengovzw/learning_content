@@ -2,8 +2,8 @@
 hruid: sr1_uitleg1
 version: 3
 language: en
-title: "Digitale systemen"
-description: "Digitale systemen"
+title: "Digital systems"
+description: "Digital systems"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 

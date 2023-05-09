@@ -2,8 +2,8 @@
 hruid: sr1_wzsr
 version: 3
 language: en
-title: "Wat zijn sociale robots?"
-description: "Wat zijn sociale robots?"
+title: "What are social robots?"
+description: "What are social robots?"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

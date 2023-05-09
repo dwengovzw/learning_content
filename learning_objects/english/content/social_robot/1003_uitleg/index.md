@@ -2,8 +2,8 @@
 hruid: sr1_uitleg2
 version: 3
 language: en
-title: "Sociale robots"
-description: "Sociale robots"
+title: "Social robots"
+description: "Social robots"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -33,7 +33,7 @@ teacher_exclusive: false
 # What are social robots?
 ## Social robots
 
-Social robots are robots that can communicate with humans. They are used in various sectors of our society, such as the healthcare sector and the hospitality industry. 
+*Social robots are robots that can communicate with humans. They are used in various sectors of our society, such as the healthcare sector and the hospitality industry.*
 
 In nursing homes, social robots are used to keep elderly people company and stimulate social interaction. In hospitals, they are used for rehabilitation exercises. Social robots can also be used at home, for example to remind people to take their medication so that they can stay at home longer, or to teach children how to manage their diabetes.
 
