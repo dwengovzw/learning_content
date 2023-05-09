@@ -2,8 +2,8 @@
 hruid: sr1_maakeengezicht_vb
 version: 3
 language: en
-title: "Voorbereiding Maak een gezicht"
-description: "Maak een gezicht"
+title: "Make a Face - preparation"
+description: "Make a Face - preparation"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

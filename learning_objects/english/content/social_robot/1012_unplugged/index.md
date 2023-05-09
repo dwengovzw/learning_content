@@ -2,8 +2,8 @@
 hruid: sr1_unplugged_vb
 version: 3
 language: en
-title: "Unplugged activiteiten"
-description: "Doel SR unplugged"
+title: "Unplugged activities"
+description: "Unplugged activities"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

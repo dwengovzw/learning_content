@@ -2,8 +2,8 @@
 hruid: sr1_emotiemachine_vb
 version: 3
 language: en
-title: "Voorbereiding Emotiemachine"
-description: "Emotiemachine"
+title: "Emotion machine - preparation"
+description: "Emotion machine - preparation"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

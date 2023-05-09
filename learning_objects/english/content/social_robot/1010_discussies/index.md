@@ -2,8 +2,8 @@
 hruid: sr1_discussies
 version: 3
 language: en
-title: "Discussies"
-description: "Een toekomst met robots"
+title: "Discussions"
+description: "Discussions"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 

@@ -2,8 +2,8 @@
 hruid: sr1_emotiemachine
 version: 3
 language: en
-title: "Emotiemachine"
-description: "Emotiemachine"
+title: "Emotion machine"
+description: "Emotion machine"
 keywords: ["sociale robot", "activiteit"]
 educational_goals: [
     {source: Source, id: id}, 

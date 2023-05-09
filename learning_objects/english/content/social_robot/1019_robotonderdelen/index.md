@@ -2,8 +2,8 @@
 hruid: sr1_robotonderdelen
 version: 3
 language: en
-title: "Overzicht robotonderdelen"
-description: "Overzicht robotonderdelen"
+title: "Overview robotparts"
+description: "Overview robotparts"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 

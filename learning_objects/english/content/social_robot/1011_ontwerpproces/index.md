@@ -2,8 +2,8 @@
 hruid: sr1_ontwerpproces
 version: 3
 language: en
-title: "Het ontwerpproces"
-description: "Wat zijn sociale robots?"
+title: "The design process"
+description: "The design process?"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
