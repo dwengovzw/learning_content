@@ -29,21 +29,20 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Class Discussion
 
-# Klasgesprek
+To conclude or during the project, you can have a class discussion with the students. Various topics can be discussed in this discussion.
 
-Ter afsluiting, of tussendoor, hou je nog een klasgesprek met de leerlingen. Hierin kan je verschillende onderwerpen aan bod laten komen.
+Here are some suggestions:
 
-Enkele suggesties:
+**Topics**
+* *A class discussion about the ethical aspects associated with social robots*
+* *A class discussion about the use of social robots in certain sectors, such as healthcare and the automotive industry*
+* *A class discussion about a bullied robot*
 
-**Onderwerpen**
-* *Een klasgesprek over de ethische aspecten die gepaard gaan met sociale robots*
-* *Een klasgesprek over het inzetten van sociale robots in bepaalde sectoren, bv. de zorg en de auto-industrie*
-* *Een klasgesprek over een gepeste robot*
-
-**Werkvormen**
-* *De leerlingen kunnen ook in groepjes van vier of vijf met elkaar over bepaalde stellingen discussiëren*
+**Formats**
+* *The students can also discuss certain statements in groups of four or five*
 
 <div class="alert alert-box alert-success">
-Een goed startpunt voor deze activiteit is <a href="https://www.dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf"> de kaartenset</a> die Dwengo heeft ontwikkeld. Er is ook een gedrukte versie verkrijgbaar via <a href="./shop">de webshop</a>.
+A good starting point for this activity is <a href="https://www.dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf">the card set</a> developed by Dwengo. A printed version is also available through <a href="./shop">the webshop</a>.
 </div>

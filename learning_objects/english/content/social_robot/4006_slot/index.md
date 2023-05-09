@@ -2,8 +2,8 @@
 hruid: sr4_slot
 version: 3
 language: en
-title: "Slot"
-description: "Slot"
+title: "Conclusion"
+description: "Conclusion"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,22 +29,21 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
-# Slot
-Proficiat, Je hebt het project succesvol afgerond!
-Hopelijk vond je het leuk en is je interesse voor robotica gewekt!
+# Conclusion
+Congratulations, you have successfully completed the project!
+We hope you enjoyed it and that your interest in robotics has been piqued!
 
 <div class="alert alert-box alert-success">
-Je hebt tijdens het project veel zaken bijgeleerd, zoals: 
+During the project, you learned a lot of things, such as:
 <br>
 <ul>
-<li>wat een sociale robot is;</li>
-<li>waar je sociale robots terugvindt in de echte wereld;</li>
-<li>hoe sociale robots werken;</li>
-<li>hoe een ontwerpproces in z'n werk gaat;</li>
-<li>hoe je een robot moet programmeren;</li>
-<li>hoe een robot 'denkt';</li>
+<li>what a social robot is;</li>
+<li>where social robots are found in the real world;</li>
+<li>how social robots work;</li>
+<li>how a design process works;</li>
+<li>how to program a robot;</li>
+<li>how a robot 'thinks';</li>
 </ul>
 
-en uiteindelijk <strong>hoe je zelf een sociale robot kan ontwerpen, programmeren en bouwen</strong>!
+and ultimately, <strong>how to design, program, and build a social robot yourself</strong>!
 </div>

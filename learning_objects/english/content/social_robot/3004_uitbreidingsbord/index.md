@@ -2,8 +2,8 @@
 hruid: sr3_elektronica2
 version: 3
 language: en
-title: "Uitbreidingsbord"
-description: "Uitbreidingsbord"
+title: "Expansion board"
+description: "Expansion board"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,23 +30,22 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Building the physical robot
+## The expansion board
 
-# Bouwen van de fysieke robot
-## Het uitbreidingsbord
+An additional advantage of using an expansion board is that the connectors are labeled with the specific sensors or actuators they are intended for.
 
-Een bijkomend voordeel van het gebruik van een uitbreidingsbord is dat de connectoren gelabeld zijn met de specifieke sensoren of actuatoren waarvoor ze bedoeld zijn.
-
-![](embed/pcb-inkscape.png "Figuur uitbreidingsbord")
+![](embed/pcb-inkscape.png "Expansion board figure")
 
 <div class="alert alert-box alert-danger">
-Wees voorzichtig bij het aansluiten of losmaken van het uitbreidingsbord en de dwenguino. De pinnen buigen zeer gemakkelijk, waardoor een goede verbinding tussen het uitbreidingsbord en de dwenguino niet meer mogelijk is.
+Be careful when connecting or disconnecting the expansion board and the Dwenguino. The pins bend very easily, which can result in a poor connection between the expansion board and the Dwenguino.
 </div>
 
-### Bedrading en monteren
-Bij het inpluggen van je pinnen is het belangrijk dat je de juiste zaken met elkaar verbindt. De sensoren en actuatoren hebben bij hun connectoren zaken zoals '+', '-', 'GND' staan en het is ook belangrijk dat je deze met de overeenkomstige pin op het uitbreidingsbord verbindt.
+### Wiring and assembly
+When plugging in your pins, it is important to connect the correct components to each other. The sensors and actuators have symbols such as '+', '-', and 'GND' at their connectors, and it is important to connect these to the corresponding pin on the expansion board.
 
-M.b.v. [deze fiches](embed/leerlingenfiches.pdf "fiches") kan je dit gemakkelijk doen.  
+You can easily do this with [these cards](embed/leerlingenfiches.pdf "cards").
 
-Eens de bedrading in orde is, kan je de elektronica monteren op het lichaam van de robot.  
+Once the wiring is in order, you can mount the electronics on the body of the robot.
 
-Als je moeite hebt om bepaalde zaken vast te maken aan het lichaam, kan je ook hiervoor in de fiches kijken. Daar tonen we je dan hoe je met de hulpstukken snel iets kan vastmaken.
+If you have difficulty attaching certain items to the body, you can also consult the cards for help with the attachments. There we show you how to quickly attach something with the help of accessories.

@@ -2,8 +2,8 @@
 hruid: sr4_creatieveopdracht_vb
 version: 3
 language: en
-title: "Creatieve opdracht"
-description: "T"
+title: "Creative assignment"
+description: "Creative assignment"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,16 +30,15 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Creative Assignment
+Now that the students have made their robots, you can provide a presentation as a conclusion to the project. **You can potentially do this in collaboration with language teachers.**
 
-# Creatieve opdracht
-Nu de leerlingen hun robot hebben gemaakt, kan je als afsluiter voor het project een presentatie voorzien. **Dit kan je eventueel in samenspraak doen met de leerkrachten van een taalvak.**
+Here are some fun ideas:
 
-Hier bundelen we alvast enkele leuke ideeën:
+* **Robot Exhibition**<br>The group has its own booth and presents their robot. They can explain what the robot does and demonstrate its skills.
 
-* **Robottentoonstelling**<br>Het groepje heeft zijn eigen standje en stelt zijn robot voor. Zo kunnen ze uitleg geven bij wat de robot doet en de vaardigheden van de robot demonstreren.
+* **Theater**<br>The group creates a short play in which the robot is included as an actor. They can show how to interact with their robot.
 
-* **Toneel**<br>Het groepje verzint een klein toneelstuk waarin de robot verwerkt zit als een acteur. Zo kunnen ze tonen hoe men kan interageren met hun robot.
-
-* **Dokter leerling**<br>Het groepje overloopt het *'medisch dossier'* van zijn robot. Ze stellen de robot voor als persoon en overlopen de capaciteiten van de robot. Daarnaast beschrijven ze ook de problemen die ze ondervonden tijdens het bouwen van de robot als medische gebeurtenissen. (Een robotarm die eraf viel is dan 'een schouder uit de kom', een gebroken neus iets dat fout gesneden is, een component die ze moesten vervangen is een 'transplantatie', ...).
+* **Student Doctor**<br>The group goes through the robot's *'medical record'*. They present the robot as a person and go over the robot's abilities. They also describe the problems they encountered during the construction of the robot as medical events. (A robot arm that fell off is then 'a dislocated shoulder', a broken nose is something that was cut wrong, a component they had to replace is a 'transplant', ...).
 
 * ...

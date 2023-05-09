@@ -2,8 +2,8 @@
 hruid: sr3_techniek
 version: 3
 language: en
-title: "Uitsnijden van de uitsparingen"
-description: "sr_BouwenRobot"
+title: "Cutting out the openings"
+description: "Cutting out the openings"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,37 +30,36 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Building the physical robot
+## Cutting out the openings
 
-# Bouwen van de fysieke robot
-## Uitsnijden van de uitsparingen
+### Marking the box
+It is important to carefully consider where you will attach the electronics to the box before you start cutting or poking holes. Mistakes can be difficult to undo once you have started. Make sure to leave enough space around the edges of the openings for wiring.
 
-### Markeren van de doos
-Het is belangrijk om goed na te denken over waar je de elektronica op de doos gaat bevestigen, voordat je begint met snijden of prikken. Fouten kunnen moeilijk ongedaan gemaakt worden zodra je hiermee begonnen bent. Zorg ervoor dat je voldoende ruimte laat langs de randen van de uitsparingen voor de bedrading.
-
-Om je hierbij te helpen kan je gebruikmaken van het sjabloon voor de elektrische onderdelen dat bij de SR-kit is inbegrepen.
+To help you with this, you can use the template for the electrical components that is included with the SR kit.
 
 ![](embed/sjabloon.png)
 
-Gebruik een dunne stift om de correcte plaatsen op de doos aan te duiden.  
+Use a thin pen to mark the correct places on the box.
 
-### Snijden van de uitsparingen
+### Cutting the openings
 
-Het uitsnijden kan met een **mesje** gebeuren of door te prikken met de bijgeleverde **priem** in de voorziene gleuven. 
+The openings can be cut out using a **knife** or by poking with the provided **awl** in the designated slots.
 
-**Veiligheidsinstructies**
+**Safety instructions**
 
-1. Wees voorzichtig bij het hanteren van snijgereedschap.
+1. Be careful when handling cutting tools.
 
-2. Pak het snijgereedschap alleen vast wanneer je het meteen nodig hebt.
+2. Only pick up the cutting tool when you need it immediately.
 
-3. Leg het gereedschap neer als anderen in de buurt zijn of draai jezelf van hen weg.
+3. Lay down the tool when others are nearby or turn away from them.
 
-4. Schrik anderen niet af wanneer ze scherp gereedschap vasthebben, anders kunnen ze zich bezeren.
+4. Don't startle others who are holding sharp tools, as they may injure themselves.
 
-5. Houd de scherpe kant van het snijgereedschap weg van jezelf en anderen.
+5. Keep the sharp edge of the cutting tool away from yourself and others.
 
-6. Geef het snijgereedschap nooit rechtstreeks aan iemand anders. Leg het op een veilige plaats neer waar het niet weg kan rollen, en laat de andere persoon het zelf oppakken.
+6. Never hand the cutting tool directly to someone else. Put it down in a safe place where it can't roll away, and let the other person pick it up themselves.
 
-7. Houd je aandacht erbij als je aan het snijden of prikken bent of het gereedschap vasthoudt. Laat je niet afleiden en leid anderen ook niet af.
+7. Stay focused when cutting or poking or holding the tool. Don't get distracted and don't distract others.
 
-8. Snijd altijd op een stabiele ondergrond, zodat het mesje of de priem niet kan wegglijden. Gebruik hiervoor de bijgeleverde snijmat.
+8. Always cut on a stable surface so that the knife or awl cannot slip. Use the provided cutting mat for this.

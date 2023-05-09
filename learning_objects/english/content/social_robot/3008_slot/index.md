@@ -2,8 +2,8 @@
 hruid: sr3_slot
 version: 3
 language: en
-title: "Slot"
-description: "Slot"
+title: "Conclusion"
+description: "Conclusion"
 keywords: ["sociale robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,11 +29,10 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Conclusion
 
-# Slot
+This is the end of the third module. You have finally completed your social robot, congratulations!
 
-Dit is het einde van de derde module. Je bent eindelijk klaar met jouw sociale robot, proficiat!
+As the final part of the project, you will soon propose a creative assignment. Start thinking about it already.
 
-Als laatste onderdeel van het project zal je binnenkort een creatieve opdracht voorstellen. Begin er maar alvast over na te denken.
-
-[Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl "Module 4")  
+[Module 4: Creative Processing and Debriefing](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl "Module 4")

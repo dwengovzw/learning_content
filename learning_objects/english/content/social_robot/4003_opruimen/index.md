@@ -2,8 +2,8 @@
 hruid: sr4_opruimen
 version: 3
 language: en
-title: "Opruimen"
-description: "T"
+title: "Cleaning up"
+description: "Cleaning up"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,12 +30,12 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Opruimen
+# Cleaning up
 
-Jammer genoeg moet je op het einde van de rit je robot afbreken ... Wees gerust, je kan de meeste onderdelen houden! Enkel de elektronica zal je eruit moeten halen en opbergen in de doos. In de doos vind je terug welk onderdeel waar hoort. Hieronder geven we je alvast ook nog eens een overzicht van de inhoud:
+Unfortunately, at the end of the project, you will have to dismantle your robot ... Don't worry, you can keep most of the parts! You will only have to remove the electronics and store them in the box. In the box, you will find a list of which part goes where. Below, we also provide an overview of the contents:
 
-![](embed/constructiekit_socialerobot.png "Inhoud kit")
+![](embed/constructiekit_socialerobot.png "Contents of the kit")
 
 <div class="alert alert-box alert-success">
-Je kan eventueel de sensoren namaken in papier of karton om de looks na te bootsen.
+You can recreate the sensors in paper or cardboard to mimic the looks.
 </div>
