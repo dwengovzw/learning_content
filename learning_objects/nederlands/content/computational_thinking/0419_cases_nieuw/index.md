@@ -2,8 +2,8 @@
 hruid: ct_cases19
 version: 3
 language: nl
-title: "Sentimentanalyse"
-description: "Sentimentanalyse"
+title: "Case"
+description: "Case"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,11 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Sentimentanalyse
-**Doelgroep:** Leerlingen 2de en 3de graad van een talenrichting.
+# Case
+**Doelgroep:** ...
 
-**Voorkennis:** De leerlingen weten dat sentimentanalyse gebeurt a.d.h.v. een lexicon.
+**Voorkennis:** De leerlingen ...
 
 ![ct-schema](@learning-object/m_ct_cases19/nl/3)
 
-Voor meer uitleg, zie het project "Chatbot' over taaltechnologie. 
+
