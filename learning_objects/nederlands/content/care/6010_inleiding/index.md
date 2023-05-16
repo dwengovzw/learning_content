@@ -2,8 +2,8 @@
 hruid: aiz5_inleiding
 version: 1
 language: nl
-title: "Computervisie"
-description: "Computervisie"
+title: "Inleiding"
+description: "Inleiding"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,10 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Computervisie
-Objectdetectie kan worden gedefinieerd als een computervisietechniek die tot doel heeft objecten op een afbeelding of video te lokaliseren en a.d.h.v. een classificatietechniek te identificeren.<br>
-Hoewel objectdetectiesystemen tegenwoordig al op heel wat plaatsen gebruikt worden in de maatschappij, zijn er toch nog heel wat verbeteringen mogelijk.<br> 
-In een eerste notebook worden enkele praktijkvoorbeelden gegeven en kom je we wat meer te weten over de werking van een objectdetectiesysteem.<br>
-In een tweede notebook ga je aan de slag met een bestaand objectdetectiealgoritme: YOLO.
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4010 "Computervisie")
+# Inleiding
+Dokters, verpleegkundigen en andere zorgverleners kunnen hulp gebruiken bij het stellen van een diagnose of het kiezen van een geschikte behandeling.<br>
+Beslissingsbomen kunnen daarbij erg handig zijn. Je moet eenvoudige vragen beantwoorden, bv. vragen waarop je met ja of nee kunt antwoorden, en op basis daarvan helpen ze bij het nemen van beslissingen. <br>
+Als je bv. naar de spoed gaat, dan stellen ze je ook allerlei vragen, om vast te stellen hoe dringend je vraag om hulp is. 
