@@ -34,8 +34,8 @@ teacher_exclusive: false
 Met de applicatie *Moet ik naar de dokter?* kan je gemakkelijk en snel achterhalen of en wanneer je naar de dokter moet. Dat kan bijvoorbeeld handig zijn in het weekend, want dan kan je niet bij je huisarts terecht voor advies.
 
 Deze app toont hoe een **beslissingsboom in de praktijk** in zijn werk gaat.<br><br>
-Je kan de app [hier](https://sandbox.moetiknaardedokter.be/) uitproberen.  <br>
-Je kan de taal van de app kiezen. 
+Met dank aan het team van *Moet ik naar de dokter?* kan je de app [hier](https://sandbox.moetiknaardedokter.be/) uitproberen.  <br>
+De taal van de app kan je kiezen. 
 
 ### Hoe?
 In de app beantwoord je een reeks eenvoudige vragen. Er wordt bijvoorbeeld gevraagd naar je leeftijd of je krijgt een vraag te zien die je kan beantwoorden met ja of nee.<br>
@@ -60,7 +60,17 @@ Mogelijke adviezen: <br>
 - Zou je de app zelf gebruiken?
 - Met welk doel zou deze app ontwikkeld zijn? 
 
-### Opdracht
+### Opdracht 1
+Bekijk de lijst van *ingangsklachten* die je te zien krijgt bij klachten aan de buik. 
+- Vergelijk deze klachten bij iemand die als man en bij iemand die als vrouw geboren is. Wat merk je op? 
+- Wat betekent dit voor de beslissingsboom als je die zou willen tekenen?
+
+### Opdracht 2
+- Ga op zoek naar een ander lichaamsdeel waarbij je voor man en vrouw een andere lijst van *ingangsklachten* te zien krijgt.
+- Ga op zoek naar een lichaamsdeel waarbij je voor man en vrouw dezelfde lijst van *ingangsklachten* te zien krijgt.
+- Ga op zoek naar een lichaamsdeel waarbij je afhankelijk van de leeftijd een andere lijst van *ingangsklachten* te zien krijgt.
+
+### Opdracht 3
 - Ontdek een ziektebeeld waarbij het advies niet afhangt van het geslacht. 
 - Ontdek een ziektebeeld waarbij het advies wel afhangt van het geslacht. 
 - Ontdek een ziektebeeld waarbij het advies niet afhangt van de leeftijd. 
