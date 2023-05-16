@@ -1,0 +1,45 @@
+{
+  "hruid": "aiz5_triage",
+  "language": "nl",
+  "title": "Triage",
+  "description": "Beslissingsboom voor triage patienten huisdokter.",
+  "image": "",
+  "nodes": [
+    {
+      "learningobject_hruid": "agri_computervisie",
+      "version": "3",
+      "language": "nl",     
+      "start_node": true,
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "agri_webcam",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "agri_webcam",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "agri_tomaten",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "agri_tomaten",
+      "version": "3",
+      "language": "nl"
+    } 
+  ]
+}
