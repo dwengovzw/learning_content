@@ -2,8 +2,8 @@
 hruid: aiz5_triage
 version: 1
 language: nl
-title: "Computervisie"
-description: "Computervisie"
+title: "Triage op spoed"
+description: "Triage op spoed"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,10 +30,10 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Computervisie
-Objectdetectie kan worden gedefinieerd als een computervisietechniek die tot doel heeft objecten op een afbeelding of video te lokaliseren en a.d.h.v. een classificatietechniek te identificeren.<br>
-Hoewel objectdetectiesystemen tegenwoordig al op heel wat plaatsen gebruikt worden in de maatschappij, zijn er toch nog heel wat verbeteringen mogelijk.<br> 
-In een eerste notebook worden enkele praktijkvoorbeelden gegeven en kom je we wat meer te weten over de werking van een objectdetectiesysteem.<br>
-In een tweede notebook ga je aan de slag met een bestaand objectdetectiealgoritme: YOLO.
+# Triage op spoed
+Je kan wel eens pech hebben en op de spoedeisende hulp van het ziekenhuis belanden.<br>
+En dan ben je daar al een uur aan het wachten en dan komt er een nieuwe patiënt binnen die meteen wordt geholpen. <br>
+Dat komt omdat de zorgverleners gebruikmaken van triage. Ze meten bijvoorbeeld je bloeddruk, hartslag en lichaamstemperatuur en op basis van een vragenlijst bepalen ze dan hoe dringend je hulp nodig hebt. En ja, mensen die heel dringend hulp nodig hebben, krijgen soms sneller een arts te zien, hoewel ze later naar de spoed kwamen.   
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4010 "Computervisie")
+Dit filmpje van het ziekenhuis in Geel verduidelijkt dit:
+![](@youtube/https://www.youtube.com/embed/mkN5WA0v6kU)
