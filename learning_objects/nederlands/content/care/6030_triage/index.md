@@ -37,3 +37,5 @@ Dat komt omdat de zorgverleners gebruikmaken van triage. Ze meten bijvoorbeeld j
 
 Dit filmpje van het ziekenhuis in Geel verduidelijkt dit:
 ![](@youtube/https://www.youtube.com/embed/mkN5WA0v6kU)
+
+Kan je in je eigen woorden vertellen hoe de triage op de spoedgevallen in zijn werk gaat en waarom ze gebeurt?
