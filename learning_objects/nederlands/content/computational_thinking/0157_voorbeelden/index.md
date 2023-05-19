@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden7
 version: 3
 language: nl
-title: "Alledaagse voorbeelden"
-description: "Alledaagse voorbeelden"
+title: "Alledaagse voorbeelden uit de literatuur"
+description: "Alledaagse voorbeelden uit de literatuur"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
