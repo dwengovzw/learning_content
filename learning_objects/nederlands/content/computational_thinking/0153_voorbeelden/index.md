@@ -31,11 +31,13 @@ teacher_exclusive: true
 ---
 # Basisconcepten computationeel denken in de Bebras-wedstrijd
 
-Het hoofddoel van de Bebras-wedstrijd is om de deelnemers warm te maken voor de informatica. Tijdens de wedstrijd pakken de deelnemers verschillende problemen aan die kunnen gelinkt worden aan concepten uit de informaticawetenschappen. Hierbij wordt dus ook het computationeel en probleemoplossend denken van de deelnemers getest.
+Het hoofddoel van de Bebras-wedstrijd is om de deelnemers warm te maken voor de informatica. Tijdens de wedstrijd pakken de deelnemers verschillende problemen aan die kunnen gelinkt worden aan concepten uit de informaticawetenschappen. Hierbij wordt dus ook het **computationeel en probleemoplossend denken** van de deelnemers getest.
 
 > Voor meer uitleg over de internationale Bebras-wedstrijd zie https://www.bebras.be/nl/home
 
-Hieronder vind je een aantal vragen uit de Bebras-wedstrijd met daarbij telkens een beschrijving van welke basisconcepten van computationeel denken je gebruikt om *tot de oplossing te komen van het gestelde probleem*.<br>
+In het leerpad over de Bebras-wedstrijd worden de basisconcepten van computationeel denken verduidelijkt door enkele vragen van de Bebras-wedstrijd en hun oplossing te bespreken.
+
+Je vind er dus een aantal vragen uit de Bebras-wedstrijd met daarbij telkens een beschrijving van welke basisconcepten van computationeel denken je gebruikt om *tot de oplossing van het gestelde probleem te komen*.<br>
 
 De gebruikerslicentie van de Bebras-opgaven is CC BY-NC-SA (Creative Commons Attribution-NonCommercial-ShareAlike 3.0 of later).
 
