@@ -2,8 +2,8 @@
 hruid: ct_voorbeelden6
 version: 3
 language: nl
-title: "Over CD en STEM"
-description: "Over CD en STEM"
+title: "CD in ons STEM-lesmateriaal"
+description: "CD in ons STEM-lesmateriaal"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
