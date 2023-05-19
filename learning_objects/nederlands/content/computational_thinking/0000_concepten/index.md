@@ -2,8 +2,8 @@
 hruid: ct_inleiding
 version: 3
 language: nl
-title: "Inleiding"
-description: "Inleiding"
+title: "De gedigitaliseerde wereld"
+description: "De gedigitaliseerde wereld"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
