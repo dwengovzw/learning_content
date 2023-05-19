@@ -32,8 +32,7 @@ teacher_exclusive: true
 # Automatische terrasverlichting
 **Doelgroep:** Leerlingen 2de graad.
 
-**Voorkennis:** De leerlingen kunnen ...
+**Voorkennis:** De leerlingen kennen in- en uitvoerelementen van digitale systemen. Ze kunnen werken met waarheidstabellen en Karnaugh kaarten.
 
 ![ct-schema](@learning-object/m_ct_cases16/nl/3)
 
-In opbouw. 
