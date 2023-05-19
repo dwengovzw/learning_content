@@ -35,4 +35,6 @@ In onderstaand filmpje wordt kort uitleg gegeven over het lesmateriaal dat dweng
 
 ![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")
 
-Concrete voorbeelden van hoe computationeel denken aan bod komt in de les, vind je in het leerpad 'Cases' van het project 'Computationeel denken'. 
+Het bestaande curriculum biedt tal van mogelijkheden om met computationeel denken aan de slag te gaan. Onderzoekers van over heel de wereld hebben daar al heel wat over gepubliceerd. Ook wij expliciteren zoveel mogelijk het computationeel denken dat aanwezig is in ons lesmateriaal. Computationeel denken kan dus op heel veel manieren je lessen binnenkomen. We hebben deze voorbeelden verzameld. Je vindt ze terug in het leerpad 'Voorbeelden'. 
+
+Concrete voorbeelden van hoe computationeel denken aan bod komt in de les zijn uitgewerkt in het leerpad 'Cases' van het project 'Computationeel denken'. 
