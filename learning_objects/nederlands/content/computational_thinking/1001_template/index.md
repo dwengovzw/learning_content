@@ -3,7 +3,7 @@ hruid: ct_10_1
 version: 3
 language: nl
 title: "Groter en kleiner: Decompositie en abstractie"
-description: "VGroter en kleiner: Decompositie en abstractie"
+description: "Groter en kleiner: Decompositie en abstractie"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
