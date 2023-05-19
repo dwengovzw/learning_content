@@ -36,6 +36,6 @@ Het hoofddoel van de Bebras-wedstrijd is om de deelnemers warm te maken voor de 
 > Voor meer uitleg over de internationale Bebras-wedstrijd zie https://www.bebras.be/nl/home
 
 -------------------------------
-Hierna vind je een aantal vragen uit de Bebras-wedstrijd met daarbij telkens een beschrijving van welke basisconcepten van computationeel denken je gebruikt om *tot de oplossing te komen* van het gestelde probleem.<br>
+Hierna vind je een aantal vragen uit de Bebras-wedstrijd met daarbij telkens een beschrijving van welke **basisconcepten van computationeel denken** je gebruikt om *tot de oplossing te komen* van het gestelde probleem.<br>
 
 De gebruikerslicentie van de Bebras-opgaven is CC BY-NC-SA (Creative Commons Attribution-NonCommercial-ShareAlike 3.0 of later).
