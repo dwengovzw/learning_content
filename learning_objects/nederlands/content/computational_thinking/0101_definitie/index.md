@@ -60,7 +60,7 @@ _Computationeel denken is een methodologie om een complex probleem aan te pakken
 </div>
 
 <div class="alert alert-box alert-success">
-Computationeel denken steunt op vier basisconcepten: decompositie, abstractie, patroonherkenning en algoritmisch denken.
+Computationeel denken steunt op **vier basisconcepten: decompositie, abstractie, patroonherkenning en algoritmisch denken**.
     
 Voor een bepaald probleem zijn deze basisconcepten vaak verweven met elkaar. Computationeel denken houdt in dat het op te lossen probleem goed begrepen en geformuleerd wordt, er een oplossing bedacht wordt, er een algoritme opgesteld en (indien gewenst) geïmplementeerd wordt in de computer.
 
