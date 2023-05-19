@@ -32,8 +32,6 @@ teacher_exclusive: true
 # Houten stormlantaarn
 **Doelgroep:** Leerlingen 2de graad.
 
-**Voorkennis:** De leerlingen kunnen met CAD en CNC werken.
+**Voorkennis:** De leerlingen kunnen met CAD en CNC werken. Ze kunnen een vlakschaafmachine en vandiktebank instellen en bedienen.
 
 ![ct-schema](@learning-object/m_ct_cases15/nl/3)
-
-In opbouw.
