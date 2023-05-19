@@ -2,8 +2,8 @@
 hruid: ct_ib1
 version: 3
 language: nl
-title: "De gedigitaliseerde wereld"
-description: "De gedigitaliseerde wereld"
+title: "Internationaal belang"
+description: "Internationaal belang"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
