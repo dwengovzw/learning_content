@@ -95,5 +95,9 @@ Tot slot moeten we de omgekeerde prijs alleen nog vermenigvuldigen met 5. Op dez
 | Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           |3 |
 | Maat| 1 | 2 | 2 | 3 | 5 | 5 | 5 |
 
-Nu maken we de verschillende radardiagrammen. Dit zijn de bekomen resultaten: 
-...
+Nu maken we de verschillende radardiagrammen. 
+[Hier]() kan je de verschillende radardiagrammen bekijken
+
+Een radardiagram opmaken doe je zo:
+* [Bekijk]() het stappenplan voor Microsoft Excel
+* [Bekijk]() het stappenplan voor Google Spreadsheets 
