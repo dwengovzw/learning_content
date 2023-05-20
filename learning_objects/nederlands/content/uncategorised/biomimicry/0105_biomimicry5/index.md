@@ -96,8 +96,9 @@ Tot slot moeten we de omgekeerde prijs alleen nog vermenigvuldigen met 5. Op dez
 | Maat| 1 | 2 | 2 | 3 | 5 | 5 | 5 |
 
 Nu maken we de verschillende radardiagrammen. 
-[Hier]() kan je de verschillende radardiagrammen bekijken
 
 Een radardiagram opmaken doe je zo:
-* [Bekijk]() het stappenplan voor Microsoft Excel
-* [Bekijk]() het stappenplan voor Google Spreadsheets 
+* [Bekijk](embed/Radardiagram_Excel.pdf "pdf") het stappenplan voor Microsoft Excel
+* [Bekijk](embed/Radardiagram_Spreadsheets.pdf "pdf") het stappenplan voor Google Spreadsheets 
+
+[Hier](embed/Radardiagram_orthese.pdf "pdf") kan je de verschillende radardiagrammen bekijken
