@@ -43,5 +43,8 @@ Zoals eerder aangegeven kan de nek van een zeepaardje strekken en terugtrekken, 
 
 
 De enkel-voet-orthese bestaat uit ge-3D-printe platen gebaseerd op de bouw van de nekregio van een zeepaardje. Het eindresultaat wordt aangevuld met twee schelpen, bovenaan en onderaan om zo tot een werkbare enkel-voet-orthese te komen. 
-
 ![](embed/zeepaardje.png "afbeelding")
+![](embed/orthese1.png "afbeelding")
+
+Er werd al eens een eerste prototype gemaakt van een orthese gebaseerd op het zeepaardje. Dit was het resultaat:
+![](embed/orthesereal.png "afbeelding")
