@@ -38,13 +38,13 @@ te maken waarbij twee criteria elkaar beïnvloeden.
 Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:
 Stel we willen verschillende koelkasten vergelijken, iedere koelkast heeft een prijs en heeft ook een verbruik (in kWh). Als we de koelkasten uitzetten in een grafiek zien we het volgende:
 
-1
+![](embed/Koelkast1.png "afbeelding")
 
 De blauwe lijn verbindt eigenlijk de meest extreme punten (een héél goedkope koelkast die veel verbruikt én een héél dure koelkast die weinig verbruikt). 
 
 Op basis van de grafiek zie je ook dat er een heleboel ‘sub-optimale’ punten zijn, beter gezegd koelkasten die niet interessant zijn om te kopen. Neem nu onderstaand voorbeeld:
 
-2
+![](embed/Koelkast2.png "afbeelding")
 
 Koelkast X is niet ideaal, voor dezelfde prijs kunnen we ook een koelkast bemachtigen die véél minder verbruikt. Het meest optimale punt is in dit geval het punt dat zo dicht mogelijk bij het Pareto-front (de blauwe lijn) ligt. 
 
