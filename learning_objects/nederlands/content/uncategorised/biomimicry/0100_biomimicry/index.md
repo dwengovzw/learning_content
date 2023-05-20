@@ -27,10 +27,10 @@ estimated_time: 4
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Inleiding en probleemstelling
+# Verzwikte jij al eens je voet? 
 
 Een letsel oplopen kan soms snel gebeuren. Een arm of been dat breekt of een verzwikte enkel, het is een vrij alledaags gegeven op spoeddiensten. Elk soort letsel vereist een specifieke behandeling, maar vaak wordt het letsel opgelost met een spalk of gips. Wat geen flexibiliteit biedt aan de ledematen van de persoon. Dit verlengt de revalidatietijd met 25% voor patiënten. Toch is die stevigheid nodig om de regio rond het letsel te stabiliseren. Idealiter hebben de andere zones rondom het letsel voldoende bewegingsvrijheid, waardoor flexibiliteit nodig is. Tegenwoordig zijn er meer en meer verschillende soorten ‘ortheses’ die hiermee rekening proberen houden. Ortheses is een verzamelnaam voor een extern gedragen correctiemiddel. De nieuwe ortheses noemen we intelligente ortheses, deze proberen om meerdere eigenschappen te combineren in meerdere zones rond het letsel. 
 
