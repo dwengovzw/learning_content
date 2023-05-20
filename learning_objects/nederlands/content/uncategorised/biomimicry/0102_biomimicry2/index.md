@@ -59,21 +59,21 @@ We bekijken enkele ortheses die nu op de markt zijn. Onderaan vind je een overzi
 
 [www.medibelgium.be](https://www.medibelgium.be/producten/levamed-stabili-tri/)
 
-**EXO-L**
+**EXO-L:**
 [www.exo-l.com](https://www.exo-l.com/nld/)
 
-**B2-Foot AFO (van Spentys)**
+**B2-Foot AFO (van Spentys):**
 [www.spentys.com](https://www.spentys.com/social-sharing/b2)
 
 
 
 # Eigenschappen huidige ortheses
 De ortheses die vandaag op de markt zijn hebben allemaal andere eigenschappen. In onderstaande tabel kan je de eigenschappen van iedere orthese vinden. We bespreken eerst kort even wat deze eigenschappen inhouden:
-* Stabilisatie letsel: patiënten gebruiken de orthese om te revalideren. Afhankelijk van de 'graad' van het letsel duurt de revalidatie korter of langer. Een letsel van de eerste graad heeft een revalidatie van 2-10 dagen, van de tweede graad 4-6 weken en een letsel van de derde graad 6-8 weken. Een eerste graadsletsel is meestal een verstuiking, terwijl bij de tweede en derde graad één of meerdere ligamenten gescheurd zijn.
-* Prijs: dit is hoeveel de orthese kost
-* Materiaal: een orthese moet gemaakt zijn uit het juiste materiaal. Een volledig metalen orthese is té zwaar om mee rond te lopen, terwijl een wollen orthese dan weer geen stabiliteit biedt. Bij de huidige ortheses wordt vooral gebruik gemaakt van kunststoffen.
-* Instelbaarheid: een orthese die meer instelbaar is, is multifunctioneler. Ze kan dus ingesteld worden afhankelijk van het het type letsel en/of schoen.
-* Op maat van de patiënt: net zoals een schoen, een t-shirt of een trui heeft een orthese een bepaalde maat. Sommige ortheses hebben maar één maat, terwijl andere volledig op maat van de patiënt zijn. 
+* **Stabilisatie letsel**: patiënten gebruiken de orthese om te revalideren. Afhankelijk van de 'graad' van het letsel duurt de revalidatie korter of langer. Een letsel van de eerste graad heeft een revalidatie van 2-10 dagen, van de tweede graad 4-6 weken en een letsel van de derde graad 6-8 weken. Een eerste graadsletsel is meestal een verstuiking, terwijl bij de tweede en derde graad één of meerdere ligamenten gescheurd zijn.
+* **Prijs**: dit is hoeveel de orthese kost
+* **Materiaal**: een orthese moet gemaakt zijn uit het juiste materiaal. Een volledig metalen orthese is té zwaar om mee rond te lopen, terwijl een wollen orthese dan weer geen stabiliteit biedt. Bij de huidige ortheses wordt vooral gebruik gemaakt van kunststoffen.
+* **Instelbaarheid**: een orthese die meer instelbaar is, is multifunctioneler. Ze kan dus ingesteld worden afhankelijk van het het type letsel en/of schoen.
+* **Op maat van de patiënt**: net zoals een schoen, een t-shirt of een trui heeft een orthese een bepaalde maat. Sommige ortheses hebben maar één maat, terwijl andere volledig op maat van de patiënt zijn. 
 
 
 De eigenschappen van deze enkel-voet-ortheses kan je vinden in onderstaande tabel: 
