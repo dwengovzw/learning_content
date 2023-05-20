@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 # De beste orthese kiezen
 We spitsen ons nu toe op twee criteria. Op basis daarvan kunnen we de zogenaamde pareto-curve maken (een curve met een pareto front). Dit is een typische ingenieurs tool om een beslissing te nemen in een situatie waarbij twee criteria elkaar beïnvloeden. 
-te maken waarbij twee criteria elkaar beïnvloeden.
+te maken waarbij twee criteria elkaar beïnvloeden. 
 
 Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:
 Stel we willen verschillende koelkasten vergelijken, iedere koelkast heeft een prijs en heeft ook een verbruik (in kWh). Als we de koelkasten uitzetten in een grafiek zien we het volgende:
