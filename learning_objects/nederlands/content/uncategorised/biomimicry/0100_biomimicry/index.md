@@ -36,5 +36,5 @@ Een letsel oplopen kan soms snel gebeuren. Een arm of been dat breekt of een ver
 
 Je voet omgezwikt of steun nodig aan je voet na een operatie? Daarvoor zijn er de zogenaamde **enkel-voet-ortheses**. Ze geven je voet steun bij het wandelen. In dit STEM-project gaan we uit van de probleemstelling dat de huidige ortheses ‘te’ stevig zijn. Ze fixeren het letsel, maar ook alle zones eromheen. Zoals eerder gezegd is het belangrijk dat de zones eromheen voldoende kunnen bewegen. We moeten dus op zoek naar ortheses die voldoende stevig zijn maar tegelijkertijd ook flexibiliteit bieden waar nodig. 
 
-
+> Links zie je telkens de tijd staan naast ieder onderdeel. Dit is de tijd die je nodig hebt om het onderdeel te 'lezen', niet om bijhorende problemen op te lossen, iets op te zoeken, een oefening te maken...
 
