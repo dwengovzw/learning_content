@@ -37,3 +37,5 @@ Bij het invullen van het schema dienen de basisconcepten als houvast, maar autom
 Niet alle vakken moeten verplicht worden ingevuld. Het onderste vak 'programmeren' is facultatief. Programmeren hoeft niet altijd aan bod te komen. Zelfs de computer hoeft niet altijd aan bod te komen. Let wel, in geen enkele opdracht met de computer werken is ook geen optie.  
 
 In het leerpad 'Cases' vind je heel wat voorbeelden uit de lespraktijk die uitgewerkt werden met dit schema. 
+
+![ct-schema](@learning-object/m_ct_voorbeelden8/nl/3)

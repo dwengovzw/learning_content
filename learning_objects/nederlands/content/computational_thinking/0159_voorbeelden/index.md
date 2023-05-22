@@ -43,3 +43,5 @@ Hieronder vind je vier uitgewerkte voorbeelden afkomstig van  het werk van Dong 
 #### Bronnen
 Yihuan Dong, Veronica Catete, Robin Jocius, Nicholas Lytle, Tiffany Barnes, Jennifer Albert, Deepti Joshi, Richard Robinson, and Ashley Andrews. 2019. PRADA: A Practical Model for Integrating Computational Thinking in K-12 Education. *In Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)*. Association for Computing Machinery, New York, NY, USA, 906–912.<br>
 Sands, P., Yadav, A., Good, J. (2018). Computational Thinking in K-12: In-service Teacher Perceptions of Computational Thinking. In: Khine, M. (eds) *Computational Thinking in the STEM Disciplines*. Springer, Cham.
+
+![ct-schema](@learning-object/m_ct_voorbeelden9/nl/3)
