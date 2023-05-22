@@ -2,8 +2,8 @@
 hruid: cb5_unplugged
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Wat is AI?"
+description: "Wat is AI?"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,4 +31,19 @@ skos_concepts: [
 ]
 ---
 
-# Chatbot
+# Wat is AI?
+
+### Klasdiscussie
+
+- Denk je dat je al kunstmatige intelligentie hebt gebruikt?
+- Ken je toepassingen van kunstmatige intelligentie?
+
+### Uit de krant
+
+- Wat roepen deze krantenkoppen bij je op? 
+- Vind je dit spannend? Of maakt het je een beetje bang?
+
+### Opdracht
+
+- Zoek op de gegeven websites naar toepassingen van kunstmatige intelligentie die jou aanspreken.
+- Herneem deze vraag: Heb jij ook al kunstmatige intelligentie hebt gebruikt?
