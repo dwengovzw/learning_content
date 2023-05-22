@@ -32,10 +32,11 @@ teacher_exclusive: false
 
 # Triage op spoed
 Je kan wel eens pech hebben en op de spoedeisende hulp van het ziekenhuis belanden.<br>
-En dan ben je daar al een uur aan het wachten en dan komt er een nieuwe patiënt binnen die meteen wordt geholpen. <br>
+En dan ben je daar al een uur aan het wachten en dan komt er een nieuwe patiënt binnen die meteen geholpen wordt. <br>
 Dat komt omdat de zorgverleners gebruikmaken van triage. Ze meten bijvoorbeeld je bloeddruk, hartslag en lichaamstemperatuur en op basis van een vragenlijst bepalen ze dan hoe dringend je hulp nodig hebt. En ja, mensen die heel dringend hulp nodig hebben, krijgen soms sneller een arts te zien, hoewel ze later naar de spoed kwamen.   
 
 Dit filmpje van het ziekenhuis in Geel verduidelijkt dit:
 ![](@youtube/https://www.youtube.com/embed/mkN5WA0v6kU)
 
+#### Opdracht
 Kan je in je eigen woorden vertellen hoe de triage op de spoedgevallen in zijn werk gaat en waarom ze gebeurt?
