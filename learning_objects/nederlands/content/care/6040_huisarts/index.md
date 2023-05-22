@@ -37,8 +37,6 @@ Deze app toont hoe een **beslissingsboom in de praktijk** in zijn werk gaat.<br>
 Met dank aan het team van *Moet ik naar de dokter?* kan je de app [hier](https://sandbox.moetiknaardedokter.be/) uitproberen.  <br>
 De taal van de app kan je kiezen. 
 
-![Moet ik naar de dokter](@learning-object/org-dwengo-moet-ik-naar-de-dokter/nl/1)
-
 ### Hoe?
 In de app beantwoord je een reeks eenvoudige vragen. Er wordt bijvoorbeeld gevraagd naar je leeftijd of je krijgt een vraag te zien die je kan beantwoorden met ja of nee.<br>
 Op basis van gegevens zoals je leeftijd, je geslacht en je symptomen zal de app je een advies geven. Bijvoorbeeld dat je onmiddellijk de 112 moet bellen of dat je tot de volgende dag kan wachten om naar je huisarts te gaan. 
