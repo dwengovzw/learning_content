@@ -18,7 +18,7 @@ skos_concepts: [
 ]
 copyright: "CC BY dwengo"
 target_ages: [16, 17, 18]
-content_location: "dwengo.org/docs/care/moetiknaardedokter/"
+content_location: "https://dwengo.org/docs/care/moetiknaardedokter/"
 ---
 
 
