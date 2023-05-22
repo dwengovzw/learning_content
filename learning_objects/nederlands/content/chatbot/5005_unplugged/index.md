@@ -36,4 +36,4 @@ teacher_exclusive: true
 
 Lerende chatbots, zoals ChatGPT, zijn gebaseerd op grote taalmodellen. 
 
-
+Al schrijven lerende chatbots zoals ChatGPT vaak hele mooie zinnen, ze durven helaas ook heel wat nonsens verzinnen. 
