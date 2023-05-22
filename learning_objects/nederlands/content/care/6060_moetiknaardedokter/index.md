@@ -26,7 +26,7 @@ target_ages: [16, 17, 18]
 <script src="https://moetiknaardedokter.azurewebsites.net/embed/index.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-window.addEventListener('DOMContentLoaded', function() {
+setTimeout(function() {
 	window.mindd.init({
 		ApiKey: '0ZJjjXDS6PBNoOfL2opOjOJaRCP2SNUo',
 		target: '#mindd_widget_embedded',
@@ -86,5 +86,5 @@ window.addEventListener('DOMContentLoaded', function() {
 	el.addEventListener("minddWidgetClosed", (e) => {
 		console.log(`Language changed from ${e.detail.previousLanguage.code} to ${e.detail.newLanguage.code}; event`);
 	});
-});
+})
 </script>
