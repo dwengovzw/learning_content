@@ -2,7 +2,7 @@
 hruid: org-dwengo-moet-ik-naar-de-dokter
 version: 1
 language: nl
-title: "Moet ik naar de dokter"
+title: "Moet ik naar de dokter?"
 description: "De applicatie 'Moet ik naar de dokter' is een regelgebaseerd systeem dat een patient helpt beslissen of en wanneer die de dokter moet contacteren."
 keywords: ["beslissingsboom", "zorg", "artificiële intelligentie", "triage"]
 content_type: "text/markdown"
