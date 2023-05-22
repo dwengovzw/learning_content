@@ -2,8 +2,8 @@
 hruid: cb5_unplugged1
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Wat is een chatbot?"
+description: "Wat is een chatbot?"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,4 +31,23 @@ skos_concepts: [
 ]
 ---
 
-# Chatbot
+# Wat is een chatbot?
+
+### Wat is een chatbot?
+
+### Soorten chatbots
+
+Er zijn regelgebaseerde chatbots en er zijn lerende chatbots.
+
+#### Opdracht
+
+Billy, de chatbot van bol.com is een regelgebaseerde chatbot.
+
+Chat eens met Billy. Kan je hem in de war brengen?
+
+#### Computationeel denken unplugged: werking van een regelgebaseerde chatbot
+
+In het deel hierna leer je meer over hoe regelegbaseerde chatbots werken.
+
+
+
