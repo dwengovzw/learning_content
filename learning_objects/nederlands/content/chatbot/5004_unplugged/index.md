@@ -2,8 +2,8 @@
 hruid: cb5_unplugged4
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Afstand"
+description: "Afstand"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,4 +31,4 @@ skos_concepts: [
 ]
 ---
 
-# Chatbot
+# Afstand
