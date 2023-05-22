@@ -59,21 +59,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "org-dwengo-moet-ik-naar-de-dokter",
-            "version": "1",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "org-dwengo-moet-ik-naar-de-dokter",
-      "version": "1",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "aiz5_slot",
             "version": "1",
             "language": "nl"
