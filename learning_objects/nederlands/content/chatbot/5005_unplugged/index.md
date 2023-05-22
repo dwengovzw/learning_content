@@ -2,8 +2,8 @@
 hruid: cb5_unplugged5
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Lerende chatbots"
+description: "Lerende chatbots"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,6 +29,11 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
+teacher_exclusive: true
 ---
 
-# Chatbot
+# Lerende chatbots
+
+Lerende chatbots, zoals ChatGPT, zijn gebaseerd op grote taalmodellen. 
+
+
