@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 15
+estimated_time: 
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -53,7 +53,7 @@ Voor de koelkast krijgen we dan het volgende:
 
 Deze punten zijn allemaal haalbare keuzes, afhankelijk van je eigen vereisten kan je het best hier eentje uit kiezen.
 
-
+## Pareto-curve van de ortheses 
 We keren terug naar onze enkel-voet-ortheses. We willen namelijk de beste keuze maken. 
 We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen hierbij voor 'prijs' en 'op maat van de patiënt', twee criteria die van belang zijn voor de patiënt'. Merk op dat we nu het omgekeerde moeten nemen voor ‘maat’, omdat we willen dat een lage score overeenkomt met ‘volledig op maat van de patiënt gemaakt’. In een pareto-cruve is het meest ideale namelijk een lage prijs en een volledig op maat van de patiënt (een lage score dus).
 |                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
@@ -62,6 +62,8 @@ We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen 
 | Maat            | 1              | 2              | 2          | 3               | 5         | 5           | 5 |
 | Maat (inverse)  | 5              | 4              | 4          | 3               | 1         | 1           | 1 |
 
+
+## Oplossing: pareto-front van de verschillende curves
 Hiervan maken we vervolgens een plot met de verschillende punten:
 
 ![](embed/Zeepaardje1.png "afbeelding")
