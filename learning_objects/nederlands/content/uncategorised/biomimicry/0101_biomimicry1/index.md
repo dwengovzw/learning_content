@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 Flexibiliteit en stevigheid zijn slechts twee criteria die het succes van een orthese bepalen. Bij het ontwerpen van een nieuw product moet er rekening worden gehouden met veel verschillende criteria. Criteria over het materiaal, over het productieproces, criteria die belangrijk zijn voor de patiënt, de zorgkundigen… 
 
-> In dit leerpad gebruiken we de termmen **criterium** en **eigenschap**. Een criterium is bijvoorbeeld een 'lage prijs', terwijl de eigenschap dan '€50' is. 
+> In dit leerpad gebruiken we de termen **criterium** en **eigenschap**. Een criterium is bijvoorbeeld een 'lage prijs', terwijl de eigenschap dan '€50' is. 
 
 Er zijn héél veel criteria die van toepassing zijn op een orthese om te bepalen of het een ‘goede’ of ‘slechte’ orthese is.
 
