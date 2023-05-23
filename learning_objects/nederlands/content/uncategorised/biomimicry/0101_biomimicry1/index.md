@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 5
+estimated_time: 
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -32,11 +32,15 @@ teacher_exclusive: false
 
 # Criteria en eigenschappen
 
-Flexibiliteit en stevigheid zijn slechts twee criteria die het succes van een orthese bepalen. Bij het ontwerpen van een nieuw product moet er rekening worden gehouden met veel verschillende criteria. Om enkel-voet-ortheses te vergelijken moeten we dus met meer criteria rekening houden. Criteria over het materiaal, over het productieproces, criteria die belangrijk zijn voor de patiënt, de zorgkundigen… 
+Flexibiliteit en stevigheid zijn slechts twee criteria die het succes van een orthese bepalen. Bij het ontwerpen van een nieuw product moet er rekening worden gehouden met veel verschillende criteria. Criteria over het materiaal, over het productieproces, criteria die belangrijk zijn voor de patiënt, de zorgkundigen… 
+
+> In dit leerpad gebruiken we de termmen **criterium** en **eigenschap**. Een criterium is bijvoorbeeld een 'lage prijs', terwijl de eigenschap dan '€50' is. 
+
 Er zijn héél veel criteria die van toepassing zijn op een orthese om te bepalen of het een ‘goede’ of ‘slechte’ orthese is.
 
 ## Oefening
 Denk nu zelf even na wat mogelijke criteria zouden zijn voor een enkel-voet-orthese. 
-
+Waaraan moet een orthese allemaal voldoen?! 
+![](embed/malleloc2.jpeg "afbeelding")
 
 
