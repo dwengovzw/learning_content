@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "un_biomimicry15",
+            "hruid": "un_biomimicry1",
             "version": "3",
             "language": "nl"
           }
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "learningobject_hruid": "un_biomimicry15",
+      "learningobject_hruid": "un_biomimicry1",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -210,6 +210,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "un_biomimicry15",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "un_biomimicry15",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "un_biomimicry14",
             "version": "3",
             "language": "nl"
@@ -219,21 +234,6 @@
     },
     {
       "learningobject_hruid": "un_biomimicry14",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "un_biomimicry1",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "un_biomimicry1",
       "version": "3",
       "language": "nl"
     } 
