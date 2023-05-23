@@ -2,7 +2,7 @@
 hruid: un_biomimicry10
 version: 3
 language: nl
-title: "Radardiagrammen"
+title: "Pareto-curve"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
