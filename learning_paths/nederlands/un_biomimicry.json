@@ -15,7 +15,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "un_biomimicry1",
+            "hruid": "un_biomimicry15",
             "version": "3",
             "language": "nl"
           }
@@ -225,7 +225,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "un_biomimicry15",
+            "hruid": "un_biomimicry1",
             "version": "3",
             "language": "nl"
           }
