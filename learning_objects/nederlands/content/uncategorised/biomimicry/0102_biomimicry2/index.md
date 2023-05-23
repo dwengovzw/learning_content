@@ -39,7 +39,7 @@ We bekijken enkele ortheses die nu op de markt zijn. Onderaan vind je een overzi
 
 ![](embed/malleloc2.jpg "afbeelding")
 
-[link](https://www.bauerfeind.nl/nl_nl/producten/braces/enkelbrace/details/product/malleoloc-l)
+[www.bauerfeind.nl](https://www.bauerfeind.nl/nl_nl/producten/braces/enkelbrace/details/product/malleoloc-l)
 
 **ROM Walker (van Medi)**
 
