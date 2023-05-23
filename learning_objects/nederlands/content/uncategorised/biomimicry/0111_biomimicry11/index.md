@@ -30,120 +30,59 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Vergelijken van de enkel-voet-ortheses
-We willen de verschillende enkel-voet-ortheses vergelijken met elkaar. We kunnen dit doen met behulp van een radardiagram. Een radardiagram, ook wel spindiagram genoemd, combineert verschillende parameters. We maken nu voor iedere enkel-voet-orthese een radardiagram.
-De leerlingen maken zelf de radardiagrammen op uit onderstaande dataset. Hier wordt stap voor stap uitgelegd hoe ze tot die radardiagrammen komen.
+# Is er een ideale orthese?
+We spitsen ons nu toe op twee criteria. Op basis daarvan kunnen we de zogenaamde pareto-curve maken (een curve met een pareto front). Dit is een typische ingenieurs tool om een beslissing te nemen in een situatie waarbij twee criteria elkaar beïnvloeden. 
+te maken waarbij twee criteria elkaar beïnvloeden. 
+
+Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:
+Stel we willen verschillende koelkasten vergelijken, iedere koelkast heeft een prijs en heeft ook een verbruik (in kWh). Als we de koelkasten uitzetten in een grafiek zien we het volgende:
+
+![](embed/Koelkast1.png "afbeelding")
+
+De blauwe lijn verbindt eigenlijk de meest extreme punten (een héél goedkope koelkast die veel verbruikt én een héél dure koelkast die weinig verbruikt). 
+
+Op basis van de grafiek zie je ook dat er een heleboel ‘sub-optimale’ punten zijn, beter gezegd koelkasten die niet interessant zijn om te kopen. Neem nu onderstaand voorbeeld:
+
+![](embed/Koelkast2.png "afbeelding")
+
+Koelkast X is niet ideaal, voor dezelfde prijs kunnen we ook een koelkast bemachtigen die véél minder verbruikt. Het meest optimale punt is in dit geval het punt dat zo dicht mogelijk bij het Pareto-front (de blauwe lijn) ligt. 
+
+Het effectieve pareto-front is geen mooie kromme maar verbindt de optimale punten met elkaar. Het geeft je de mogelijkheid om je aandacht te berpeken om een efficiënte afweging te maken, in plaats van naar een volledige dataset te kijken en het volledig bereik van elke parameter in overweging te nemen.
+Voor de koelkast krijgen we dan het volgende: 
+![](embed/Koelkast3.png "afbeelding")
+
+Deze punten zijn allemaal haalbare keuzes, afhankelijk van je eigen vereisten kan je het best hier eentje uit kiezen.
 
 
-## Stap 1: dataset aanvullen: 'op maat van de patiënt' 
-
-Van de bestaande ortheses vind je hieronder een tabel met de verschillende eigenschappen. Dit is ook de dataset die de leerlingen krijgen.
+We keren terug naar onze enkel-voet-ortheses. We willen namelijk de beste keuze maken. 
+We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen hierbij voor 'prijs' en 'op maat van de patiënt', twee criteria die van belang zijn voor de patiënt'. Merk op dat we nu het omgekeerde moeten nemen voor ‘maat’, omdat we willen dat een lage score overeenkomt met ‘volledig op maat van de patiënt gemaakt’. In een pareto-cruve is het meest ideale namelijk een lage prijs en een volledig op maat van de patiënt (een lage score dus).
 |                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
 |-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
-| Prijs           | 70             | 253.8          | 85         | 175          | 172     | 115       | 127.5 |
-| Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
-| Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           | 3 |
+| Prijs           | 70             | 253.8          | 85         | 175             | 172       | 115         | 127.5 | 
+| Maat            | 1              | 2              | 2          | 3               | 5         | 5           | 5 |
+| Maat (inverse)  | 5              | 4              | 4          | 3               | 1         | 1           | 1 |
 
-**Vanaf hier** moeten de leerlingen zelf de verschillende stappen doorlopen, maar ze krijgen niet aangereikd hoe ze die stappen moeten doorlopen. 
+Hiervan maken we vervolgens een plot met de verschillende punten:
 
-We kunnen daarvoor gebruikmaken van bovenstaande eigenschappen. Wetenschappers hebben die ‘gekwantificeerd’. 
-Er ontbreekt nog één parameter: namelijk ‘op maat van de patiënt’. Die staat nog niet in de tabel maar is wel opgenomen als belangrijke eigenschap. We moeten eerst ook nog iedere enkel-voet-orthese een cijfer geven voor ‘op maat van de patiënt’. We zouden ervoor kunnen kiezen de orthese die volledig op maat van de patiënt is, de hoogste score te geven en dan af te tellen. Maar dan verkrijg je niet zo’n optimale weergave. Beter is om eerst scores te bepalen en met wat die score overeenkomt. We doen dit eerst in onderstaande tabel:
+![](embed/Zeepaardje1.png "afbeelding")
 
-| **Score:** | **Betekenis:**                  |
-|------------|---------------------------------|
-| 5          | Volledig op maat van de patiënt |
-| 4          | 5 vormen of meer                |
-| 3          | 4-5 vormen of meer              |
-| 2          | 2-3 vormen of meer              |
-| 1          | Slechts één universele vorm     |
+Stel we bekijken nu de twee meest extreme punten: een heel goedkope orthese maar wel maar één universele maat én een heel dure orthese die wel volledig op maat is van de patiënt. Dan bekomen we, theoretisch, het volgende als we deze punten verbinden:
 
-Nu we dit hebben kunnen we de score toekennen aan de orthese. We bekomen het volgende:
-|                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
-|-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 | 
-| Prijs           | 70             | 253.8          | 85         | 175          | 172     | 115       | 127.5 |
-| Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 |
-| Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           | 3 |
-| Op maat van de patiënt | 1 | 2 | 2 | 3 | 5 | 5 | 5 |
+![](embed/Zeepaardje2.jpg "afbeelding")
 
-## Stap 2: Omgekeerde prijs gebruiken en normaliseren
+We gaan op zoek naar het meest ‘ideale’ punt. Deze ligt zo dicht mogelijk tegen het blauwe pareto-front. Alle andere punten noemen we suboptimale punten. Want voor deze sub-optimale punten is er telkens een ander punt dat ofwel goedkoper ofwel meer op maat van de patiënt is. Dit is duidelijk in onderstaande figuur:
 
-Nu kunnen we radardiagrammen maken. Alleen zal deze nog geen volledig beeld geven. Alle scores werken namelijk als volgt: een lage score is slecht, een hoge score is goed. Voor ‘prijs’ werkt dit net omgekeerd, we willen een zo laag mogelijke prijs. Daarom moeten we de waarde van de prijs anders gaan bekijken. We doen dit door het **omgekeerde** te nemen van de prijs: 1/prijs. Daardoor krijgen we hoge waarden die een lage prijs weerspiegelen en omgekeerd. 
+![](embed/Zeepaardje3.jpg "afbeelding")
 
-|                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
-|-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
-| Prijs           | 85             | 253.8          | 80         | 184.95          | 169       | 100         | 127.5 |
-| 1/Prijs         | 0.01429    | 0.00394        | 0.01176     | 0.00571        | 0.005817  | 0.0087 | 0.00784 |
-| Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
-| Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           |3 |
-| Maat| 1 | 2 | 2 | 3 | 5 | 5 | 5 |
+Hieruit kunnen we concluderen dat de orthese gebaseerd op het zeepaardje niet de ‘beste’ is. Er zijn enkele suboptimale ortheses, die dat op het pareto-front liggen kunnen we als een nuttige piste beschouwen. 
+![](embed/Zeepaardje4.jpg "afbeelding")
 
-Een radardiagram kunnen we opstellen, maar daarvoor moeten we zorgen dat alle assen **dezelfde schaal** hanteren. Anders kunnen we ze niet t.o.v. elkaar vergelijken. We hebben geluk: alle eigenschappen buiten ‘1/Prijs’ staan al op éénzelfde schaal: namelijk een getal tussen 1 en 5. Enkel de omgekeerde prijs wordt nu uitgedrukt in veel te kleine getallen. We moeten deze eigenschap dus hetzelfde interpreteren als de anderen; de prijs moet namelijk een ‘score’ krijgen. Dit doen we door ieder getal te delen door de maximumwaarde van de volledige rij. De goedkoopste enkel-voet-orthese krijgt dan de score ‘1’, alle anderen krijgen een score tussen 0 en 1.
+Het is belangrijk om op te merken dat dit voorbeeld een vereenvoudiging is van de realiteit en er dus nog een aantal stappen moeten genomen worden alvorens dit soort ortheses een echte plaats kan krijgen op de markt. In werkelijkheid moet er bij de afweging met veel meer factoren rekening worden gehouden dan enkel 'prijs' en 'op maat van de patiënt'.
 
-|                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
-|-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
-| 1/Prijs         | 1       | 0.27581        | 0.82353     | 0.4       | 0.40698  | 0.6087 | 0.54902 |
-| Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
-| Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           |3 |
-| Maat| 1 | 2 | 2 | 3 | 5 | 5 | 5 |
-
-Tot slot moeten we de omgekeerde prijs alleen nog vermenigvuldigen met 5, we doen dit om de waarden te **normaliseren**. Op deze manier bekomen we een score tussen 0 en 5 en niet tussen 0 en 1. We bekomen het volgende:
-
-|                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
-|-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
-| 1/Prijs         | 5       | 1.37904       | 4.11765          | 2        | 2.03488  | 3.04348           | 2.7451 |
-| Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
-| Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           |3 |
-| Maat| 1 | 2 | 2 | 3 | 5 | 5 | 5 |
+### Oefening: jouw ideale Smartphone!
+Je kiest je nieuwe Smartphone nu misschien alleen op basis van de prijs of op basis van de kleur. Maar, dan heb je misschien niet altijd alles uit de prijs gehaald die je ervoor betaalde.
+* Bepaal wat voor jou belangrijk is aan een Smartphone: kies twee criteria die jij belangrijk vindt. Vind je de prijs belangrijk? Of toch maar hoe lang het duurt voordat je Smartphone volledig is opgeladen? Misschien vind je de duurzaamheid van je Smartphone wel belangrijk? 
+* Zoek enkele (minstens 10) Smartphone's op via het internet en zoek de eigenschappen van de twee criteria die jij voorop stelde. 
+* Maak uit je tabel een pareto-front en je komt helemaal te welke Smartphones ideaal zijn voor jou, of beter: welke je beter niét koopt!
 
 
-Eens dit alles is opgelost, kunnen de leerlingen de radardiagrammen opmaken.
-
-Een radardiagram opmaken doe je zo:
-* [Bekijk](embed/Radardiagram_Excel.pdf "pdf") het stappenplan voor Microsoft Excel
-* [Bekijk](embed/Radardiagram_Spreadsheets.pdf "pdf") het stappenplan voor Google Spreadsheets 
-
-[Hier](embed/Radardiagram_orthese.pdf "pdf") kan je de verschillende radardiagrammen bekijken
-
-------------------------------------------------------------
-
-
-| Patiëntnummer | Pijn in de borststreek | Man | Rookt | Voldoende lichaamsbeweging | Hartaanval |
-|---------------|------------------------|-----|-------|----------------------------|------------|
-| 1             | ja                     | ja  | nee   | ja                         | ja         |
-| 2             | ja                     | ja  | ja    | nee                        | jq         |
-| 3             | nee                    | nee | ja    | nee                        | ja         |
-| 4             | nee                    | ja  | nee   | ja                         | nee        |
-| 5             | ja                     | nee | ja    | ja                         | ja         |
-| 6             | nee                    | ja  | ja    | ja                         | nee        |
-
-# Biomimicry
-
-## Subtitel
-
-Tekst
-
-![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
-
-![](embed/dwengo.png "afbeelding")
-
-[link](embed/dwenguino_elektrischschema.pdf "pdf")
-
-**bold** __bold__
-*italic* _italic_
-
-> weetjes
-
-<div class="alert alert-box alert-success">
-Samenvatting (groen kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
-
-<div class="alert alert-box alert-danger">
-Let op (rood kader)<br>
-binnen "div /div" enkel html-opmaak gebruiken, markdown werkt niet. 
-</div>
