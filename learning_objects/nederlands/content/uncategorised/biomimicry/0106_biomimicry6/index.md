@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time:
+estimated_time: void
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
