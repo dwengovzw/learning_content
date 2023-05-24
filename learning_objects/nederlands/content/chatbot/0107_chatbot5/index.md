@@ -41,7 +41,7 @@ De technologie is echter niet splinternieuw. ChatGPT is ontstaan uit GPT-3.5, ee
 > Microsoft integreert ChatGPT in zijn zoekmachine Bing.
 
 ## Citizen science
-Eigenlijk voert OpenAI momenteel een enorm burgerwetenschapsproject uit met ChatGPT. Het systeem wordt op een ongekend grote schaal getest vanaf week één van de lancering in november 2022. Men spreekt van 1 miljoen gebruikers na de eerste week en van 100 miljoen in januari 2023. De ontwikkelaars bij OpenAI gebruiken de input van de gebruikers om het systeem te verbeteren. De leeftijdsgrens van 18 jaar, vooropgesteld door OpenAI, wordt niet gerespecteerd en sommigen maken zich dan ook *zorgen over het gebruik van de chatbot door minderjarigen*.
+Eigenlijk voert OpenAI momenteel een enorm burgerwetenschapsproject uit met ChatGPT. Het systeem wordt op een ongekend grote schaal getest vanaf week één van de lancering in november 2022. Men spreekt van 1 miljoen gebruikers na de eerste week en van 100 miljoen in januari 2023. De ontwikkelaars bij OpenAI gebruiken de input van de gebruikers om het systeem te verbeteren. OpenAI stelde bij de opstart van ChatGPT de leeftijdsgrens van 18 jaar voorop, maar deze werd niet gerespecteerd. Ondertussen is de leeftijdsgrens aangepast naar 13 jaar (mits toestemming van ouder of voogd). Sommigen maken zich dan ook *zorgen over het gebruik van de chatbot door minderjarigen*.
 
 ## Soortgelijke chatbots
 ChatGPT is niet de enige in zijn soort. Een andere chatbot is [ChatSonic](https://writesonic.com/chat) waar je ook aan kunt vragen om beelden te genereren. Google heeft [Bard](https://bard.google.com/), een broertje van ChatGPT. Bard beschikt wel over recente informatie omdat Bard het world wide web kan raadplegen.
