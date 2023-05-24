@@ -50,8 +50,12 @@ Nu willen de verschillende enkel-voet-ortheses vergelijken met elkaar. We kunnen
 Er ontbreekt nog één parameter: namelijk ‘op maat van de patiënt’. Die staat nog niet in de tabel maar is wel opgenomen als belangrijke eigenschap. We moeten eerst ook nog iedere enkel-voet-orthese een cijfer geven voor ‘op maat van de patiënt’. Je kan hiervoor gebruik maken van de eigenschappen van de verschillende enkel-voet-ortheses uit het vorige onderdeel.
 De orthese gebaseerd op de nek van het zeepaardje is op maat gemaakt, via 3D-printers.
 
+## Opdracht: voeg 'op maat van de patiënt' toe aan de dataset
+Je moet een kwalitatieve eigenschap omzetten naar een kwantitiatieve eigenschap. 
+Denk eerst na hoe je dit gaat doen? Hoe ga je de ortheses scoren op basis van 'op maat van de patiënt'?
 
-## Radardiagram opmaken
+
+## Opdracht: radardiagram opmaken
 Nu je de volledige dataset hebt, kan je van iedere orthese een radardiagram opmaken. 
 
 Een radardiagram opmaken doe je zo:
