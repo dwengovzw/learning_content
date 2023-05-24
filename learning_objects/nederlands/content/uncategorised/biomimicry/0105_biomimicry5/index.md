@@ -2,7 +2,7 @@
 hruid: un_biomimicry5
 version: 3
 language: nl
-title: "Vergelijken van ortheses"
+title: "Zeepaardje als oplossing"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
@@ -23,41 +23,32 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 
+estimated_time:
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: false
 ---
 
-# Vergelijken van de enkel-voet-ortheses
+# Zeepaardje als oplossing
 
-Er zijn reeds verschillende enkel-voet-orthese op de markt. Elk met hun specifieke eigenschappen en dus ook voor- en nadelen. De enkel-voet-orthese op basis van het zeepaardje komt daar nu bij. Ons probleem is namelijk opgelost: we hebben een enkel-voet-orthese die flexibel is in de omliggende zones, maar genoeg stevigheid kan bieden. Nu moeten we alleen nog bepalen welke enkel-voet-orthese het ‘beste’ is.
-Een keuze maken moet objectief gebeuren, daarom kiezen we ervoor om de verschillende types ortheses te gaan vergelijken op basis van criteria. 
+Je merkt dat iedere enkel-voet orthese zijn eigen voor- en nadelen heeft. Maar bij alle enkel-voet-ortheses komt flexibiliteit van de omliggende zones te weinig aan bod. We moeten op zoek naar een ander systeem dat flexibel en stevig is op hetzelfde moment.
 
-Van de bestaande ortheses vind je hieronder een tabel met de verschillende eigenschappen. 
+Om dit probleem op te lossen kijken ingenieurs naar de natuur, meer specifiek naar het zeepaardje. De staart van het zeepaardje heeft namelijk de eigenschappen om flexibel te zijn in meerdere richtingen, de staart kan namelijk in meerdere richtingen heen bewegen. Toch is de staart ook heel stevig, zo toonden onderzoekers aan dat er enorm veel kracht kan worden op uitgeoefend. Zo beschermen zeepaardjes zich tegen predatoren. Deze stevigheid en flexibiliteit van de staart dient verschillende doelen en dit geldt eigenlijk voor het volledige skelet van het zeepaardje. Stevigheid ter bescherming tegen predatoren en flexibel om te kunnen bewegen en te kunnen eten. Het zeepaardje gebruikt zijn flexibele nek om te kunnen eten. De nek kan zich uitstrekken als er voedsel langskomt. Het zeepaardje hecht zich met zijn staart vast aan bijvoorbeeld zeegras om dan zijn nek uit te strekken en te eten. Zogenaamde pivot feeding. De nek kan strekken en zich terugtrekken, maar in de zijdelingse richtingen kan die zich veel minder bewegen. Laat dat nu juist interessant zijn voor een enkel-voet-orthese, daarbij moet de voet zijdelings gefixeerd worden maar mag die wel nog bewegen in de zogenaamde dorsale en plantaire richting. Zou er een mogelijkheid bestaan om op basis van het skelet van een zeepaardje een meer flexibele enkel-voet-orthese te maken?
 
-|                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
-|-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Compatibiliteit | 3              | 4              | 3          | 3               | 3         | 1           | 5 |
-| Prijs           | 70             | 253.8          | 85         | 175          | 172     | 115       | 127.5 |
-| Stabiliteit     | 2              | 5              | 4          | 4               | 2         | 5           | 4 | 
-| Hygiëne         | 2              | 1              | 2          | 3               | 3         | 5           | 3 |
+> De hierboven omschreven manier van werken noemen we **'biomimicry'**. Hierbij kijken onderzoekers en ingenieurs naar de natuur om een bestaand probleem op te lossen. 
 
-Nu willen de verschillende enkel-voet-ortheses vergelijken met elkaar. We kunnen dit doen met behulp van een radardiagram. Een radardiagram, ook wel spindiagram genoemd, combineert verschillende parameters. We maken nu voor iedere enkel-voet-orthese een radardiagram. We kunnen daarvoor gebruikmaken van bovenstaande eigenschappen. Wetenschappers hebben die ‘gekwantificeerd’. 
-
-## Probleem: 'Op maat van de patiënt'
-Er ontbreekt nog één parameter: namelijk ‘op maat van de patiënt’. Die staat nog niet in de tabel maar is wel opgenomen als belangrijke eigenschap. We moeten eerst ook nog iedere enkel-voet-orthese een cijfer geven voor ‘op maat van de patiënt’. Je kan hiervoor gebruik maken van de eigenschappen van de verschillende enkel-voet-ortheses uit het vorige onderdeel.
-De orthese gebaseerd op de nek van het zeepaardje is op maat gemaakt, via 3D-printers.
-
-## Opdracht: voeg 'op maat van de patiënt' toe aan de dataset
-Je moet een kwalitatieve eigenschap omzetten naar een kwantitiatieve eigenschap. 
-Denk eerst na hoe je dit gaat doen? Hoe ga je de ortheses scoren op basis van 'op maat van de patiënt'?
+Dit is geen nieuw gegeven, wetenschappers maken al veel langer gebruik van de natuur als inspiratiebron. 
+In naslagwerken kan je ook nog andere benamingen terugvinden en deze worden vaak door elkaar gebruikt; biomimetica, biomimics, bio-inspired-design. Hierbij gaat het vaak over 'subdisciplines'. Gemakshalve hanteren wij hier enkel de term 'biomimicry'.
 
 
-## Opdracht: radardiagram opmaken
-Nu je de volledige dataset hebt, kan je van iedere orthese een radardiagram opmaken. 
+# Voorbeelden van biomimicry
 
-Een radardiagram opmaken doe je zo:
-* [Bekijk](embed/Radardiagram_Excel.pdf "pdf") het stappenplan voor Microsoft Excel
-* [Bekijk](embed/Radardiagram_Spreadsheets.pdf "pdf") het stappenplan voor Google Spreadsheets 
+Alvorens in te gaan op onze ortheses, bekijken we eerst enkele voorbeelden van biomimicry. 
+
+**Velcro** is misschien wel het bekendste voorbeeld. Velcro is uitgevonden door de Zwitserse ingenieurs Georde De Mestral toen het hem opviel hoe zaden en bolsters van planten bleven kleven in de vacht van zijn hond. Hij ontdekte dat deze allemaal kleine haakjes hadden op het einde van de stekkers. Het inspireerde De Mestral om ermee aan de slag te gaan. Velcro werd geboren.
+
+Een ander voorbeeld is het **Lotus-effect**. Het blad van de lotusplant (Nelumbo nucifera) is waterafstondend, de waterdruppels lopen er letterlijk van. Op dat moment worden allerlei vuiltjes en stofdeeltjes meegenomen door de waterdruppels. De plant reinigt zichzelf dus continu. Onderzoekers proberen op dit moment dit zelfreinigende effect toe te passen op allerlei soorten materialen, bijvoorbeeld op dat van geneeskundig materiaal dat steriel moet zijn en blijven.
+
+Er zijn tal van voorbeelden, maar het gaat niet allemaal over design. Recent dachten onderzoekers na over hoe treinen efficiënter kunnen rijden van punt A naar punt B en dit in de complexe structuur van een **treinnetwerk**. Ze baseerden zich hierbij op een amoeba-achtig diertje dat zijn protoplasma continu laat heen en weer stromen om te bewegen. Het protoplasma moet dus continu worden getransporteerd naar de andere kant van het diertje afhankelijk in welke richting het wil bewegen. De onderzoekers maakten hier een computeralgoritme van om dit dan toe te passen op de treindienstregeling.
+![](@youtube/https://www.youtube.com/embed/7pR7TNzJ_pA "video") 

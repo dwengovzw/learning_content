@@ -2,7 +2,7 @@
 hruid: un_biomimicry6
 version: 3
 language: nl
-title: "Een keuze maken"
+title: "Ortheses op basis van zeepaardjes"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
@@ -29,46 +29,21 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Enkel-voet-ortheses op basis van een zeepaardje
 
-# Is er een ideale orthese?
-We spitsen ons nu toe op twee criteria. Op basis daarvan kunnen we de zogenaamde pareto-curve maken (een curve met een pareto front). Dit is een typische ingenieurs tool om een beslissing te nemen in een situatie waarbij twee criteria elkaar beïnvloeden. 
-te maken waarbij twee criteria elkaar beïnvloeden. 
+We kijken naar de nekregio van een zeepaardje om een enkel-voet-orthese te maken. Het benige pantser van een zeepaardje bestaat uit benige platen die in elkaar kunnen glijden. De benige platen hebben een uitstekende stekel, de volgende plaat heeft een groeve waar die stekel vlotjes in en uit kan glijden. Zo kan een zeepaardje zijn staart vlot bewegen in verschillende richtingen. Maar ook ter hoogte van de nek en buik vind je hetzelfde systeem terug.
 
-Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:
-Stel we willen verschillende koelkasten vergelijken, iedere koelkast heeft een prijs en heeft ook een verbruik (in kWh). Als we de koelkasten uitzetten in een grafiek zien we het volgende:
+Hieronder zie je de structuur van de beenplaten bij een zeepaardje:
+![](embed/zeepaardjeanatomie.png "afbeelding") ![](embed/zeepaardjenek.png "afbeelding")
+![](@https://youtu.be/tSinZHH0Aic "video") 
 
-![](embed/Koelkast1.png "afbeelding")
+Zoals eerder aangegeven kan de nek van een zeepaardje strekken en terugtrekken, maar kan het zich in de zijdelingse richtingen veel minder bewegen. Dit is wat we nodig hebben voor de enkel-voet-orthese. Hierbij moet de voet zijdelings gefixeerd worden, maar mag die wel nog in de zogenaamde dorsale en plantaire richtingen (zie figuur) bewegen. 
 
-De blauwe lijn verbindt eigenlijk de meest extreme punten (een héél goedkope koelkast die veel verbruikt én een héél dure koelkast die weinig verbruikt). 
+![](embed/bewegingsrichtingen.jpg "afbeelding")
 
-Op basis van de grafiek zie je ook dat er een heleboel ‘sub-optimale’ punten zijn, beter gezegd koelkasten die niet interessant zijn om te kopen. Neem nu onderstaand voorbeeld:
+De enkel-voet-orthese bestaat uit ge-3D-printe platen gebaseerd op de bouw van de nekregio van een zeepaardje. Het eindresultaat wordt aangevuld met twee schelpen, bovenaan en onderaan om zo tot een werkbare enkel-voet-orthese te komen. 
+![](embed/zeepaardje.png "afbeelding")
+![](embed/orthese1.png "afbeelding")
 
-![](embed/Koelkast2.png "afbeelding")
-
-Koelkast X is niet ideaal, voor dezelfde prijs kunnen we ook een koelkast bemachtigen die véél minder verbruikt. Het meest optimale punt is in dit geval het punt dat zo dicht mogelijk bij het Pareto-front (de blauwe lijn) ligt. 
-
-Het effectieve pareto-front is geen mooie kromme maar verbindt de optimale punten met elkaar. Het geeft je de mogelijkheid om je aandacht te berpeken om een efficiënte afweging te maken, in plaats van naar een volledige dataset te kijken en het volledig bereik van elke parameter in overweging te nemen.
-Voor de koelkast krijgen we dan het volgende: 
-![](embed/Koelkast3.png "afbeelding")
-
-Deze punten zijn allemaal haalbare keuzes, afhankelijk van je eigen vereisten kan je het best hier eentje uit kiezen.
-
-## Pareto-curve opstellen voor de ortheses
-We keren terug naar onze enkel-voet-ortheses. We willen namelijk de beste keuze maken. 
-We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen hierbij voor 'prijs' en 'op maat van de patiënt', twee criteria die van belang zijn voor de patiënt'. Merk op dat we nu het omgekeerde moeten nemen voor ‘maat’, omdat we willen dat een lage score overeenkomt met ‘volledig op maat van de patiënt gemaakt’. In een pareto-cruve is het meest ideale namelijk een lage prijs en een volledig op maat van de patiënt (een lage score dus).
-|                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
-|-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Prijs           | 70             | 253.8          | 85         | 175             | 172       | 115         | 127.5 | 
-| Maat            | 1              | 2              | 2          | 3               | 5         | 5           | 5 |
-| Maat (inverse)  | 5              | 4              | 4          | 3               | 1         | 1           | 1 |
-
-
-Maak hier nu een pareto-curve van. Wat kan je uit deze grafiek afleiden? 
-
-
-
-### Oefening: jouw ideale Smartphone!
-Je kiest je nieuwe Smartphone nu misschien alleen op basis van de prijs of op basis van de kleur. Maar, dan heb je misschien niet altijd alles uit de prijs gehaald die je ervoor betaalde.
-* Bepaal wat voor jou belangrijk is aan een Smartphone: kies twee criteria die jij belangrijk vindt. Vind je de prijs belangrijk? Of toch maar hoe lang het duurt voordat je Smartphone volledig is opgeladen? Misschien vind je de duurzaamheid van je Smartphone wel belangrijk? 
-* Zoek enkele (minstens 10) Smartphone's op via het internet en zoek de eigenschappen van de twee criteria die jij voorop stelde. 
-* Maak uit je tabel een pareto-front en je komt helemaal te welke Smartphones ideaal zijn voor jou, of beter: welke je beter niét koopt!
+Er werd al eens een eerste prototype gemaakt van een orthese gebaseerd op het zeepaardje. Dit was het resultaat:
+![](embed/orthesereal.png "afbeelding")

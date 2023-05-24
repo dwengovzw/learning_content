@@ -2,7 +2,7 @@
 hruid: un_biomimicry11
 version: 3
 language: nl
-title: "Pareto-curve"
+title: "In de klas"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
@@ -30,61 +30,28 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Is er een ideale orthese?
-We spitsen ons nu toe op twee criteria. Op basis daarvan kunnen we de zogenaamde pareto-curve maken (een curve met een pareto front). Dit is een typische ingenieurs tool om een beslissing te nemen in een situatie waarbij twee criteria elkaar beïnvloeden. 
-te maken waarbij twee criteria elkaar beïnvloeden. 
+# Hoe vertaal je dit naar een STEM-project met leerlingen?
 
-Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:
-Stel we willen verschillende koelkasten vergelijken, iedere koelkast heeft een prijs en heeft ook een verbruik (in kWh). Als we de koelkasten uitzetten in een grafiek zien we het volgende:
+In dit laatste onderdeel geven we kort enkele opties mee om in de klas aan de slag te gaan met dit STEM-project.
+In de inleiding voor leerkrachten vond je al informatie over de minimumdoelen (eindtermen), studierichtingen en mogelijke evaluatiemiddelen. 
 
-![](embed/Koelkast1.png "afbeelding")
+## Vertaalslag naar de klas
+Dit STEM-project vertrekt vanuit het uitgangspunt dat leerlingen geconfronteerd worden met problemen én dit ook moeten oplossen. Het is dan ook nuttig dit zo te vertalen naar de klaspraktijk. Zo kan de probleemstelling klassikaal overlopen en ingeleid worden. Leerlingen kunnen in groepjes verder nadenken over het probleem en waar mogelijke oplossingen te vinden zijn, het concept van biomimicry kan zo worden aangebracht en klassikaal worden gestuurd. De verschillende enkel-voet-ortheses kunnen doceren worden aangebracht, maar er zijn ook alternatieven: via video’s, via korte vragen… De leerlingen gaan vervolgens aan de slag om de radardiagrammen te maken, maar moeten eerst nog categorische waarden toekennen aan 'op maat van de patiënt'. Ze moeten zelf proberen inzien dat categorisch werken hier nuttiger kan zijn dan iedere enkel-voet-orthese zelf een score toe te kennen. Hierna kunnen leerlingen de radardiagrammen nog niet opbouwen. Alleen ‘prijs’ is een score waarbij hoe hoger, hoe slechter is. Terwijl bij andere scores een hoge waarde overeenkomt met een goede eigenschap. De leerlingen moeten dus eerst de inversie nemen van de prijs. Daarna moeten ze deze waarden nog normaliseren, iets wat vereist is bij radardiagrammen. 
 
-De blauwe lijn verbindt eigenlijk de meest extreme punten (een héél goedkope koelkast die veel verbruikt én een héél dure koelkast die weinig verbruikt). 
+Als de radardiagrammen gemaakt zijn kunnen de leerlingen aan de slag om een Pareto-front te gaan opstellen. Hiervoor zullen ze ook eerst nog de inversie moeten nemen van de maat, zodat het Pareto-front een logische opbouw kent. Als het Pareto-front opgebouwd is, kunnen leerlingen een conclusie trekken. 
+Het is dus aan te raden om in het begin een klassikale inleiding te geven en de leerlingen goed bij te sturen zodat ze de probleemstelling, context en doel goed begrijpen. **Hierna kan je leerlingen aan de slag laten gaan, al dan niet in groepjes. Ze zullen zelf op de problemen stoten dat de radardiagrammen een raar beeld geven als ze geen inversie nemen van de prijs (en die vervolgens ook niet normaliseren). Laat leerlingen die fout maken en laat ze zelf naar een oplossing toewerken. Leerlingen zouden dit moeten kunnen oplossen, zet hen actief aan om het probleem dat ze tegenkomen op te lossen**. Het is ook zeker mogelijk om de lessen een andere invulling te geven. 
 
-Op basis van de grafiek zie je ook dat er een heleboel ‘sub-optimale’ punten zijn, beter gezegd koelkasten die niet interessant zijn om te kopen. Neem nu onderstaand voorbeeld:
+## Overzicht (mogelijke) lessen
 
-![](embed/Koelkast2.png "afbeelding")
+*Opgelet*: De mogelijke structuur van de lessen kent een lichtjes andere vorm dan het leerpad.
 
-Koelkast X is niet ideaal, voor dezelfde prijs kunnen we ook een koelkast bemachtigen die véél minder verbruikt. Het meest optimale punt is in dit geval het punt dat zo dicht mogelijk bij het Pareto-front (de blauwe lijn) ligt. 
+Het overzicht zoals aangegeven in onderstaande tabel is één mogelijkheid. Als leerkracht ken je je eigen leerlingen het best en kan je beter inschatten of er meer of minder tijd nodig is voor bepaalde onderdelen. Voorzie best voldoende tijd om de radardiagrammen en het pareto-front op te bouwen, zodat leerlingen voldoende tijd hebben om de problemen die ze tegenkomen op te lossen. 
 
-Het effectieve pareto-front is geen mooie kromme maar verbindt de optimale punten met elkaar. Het geeft je de mogelijkheid om je aandacht te berpeken om een efficiënte afweging te maken, in plaats van naar een volledige dataset te kijken en het volledig bereik van elke parameter in overweging te nemen.
-Voor de koelkast krijgen we dan het volgende: 
-![](embed/Koelkast3.png "afbeelding")
-
-Deze punten zijn allemaal haalbare keuzes, afhankelijk van je eigen vereisten kan je het best hier eentje uit kiezen.
-
-## Pareto-curve van de ortheses 
-We keren terug naar onze enkel-voet-ortheses. We willen namelijk de beste keuze maken. 
-We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen hierbij voor 'prijs' en 'op maat van de patiënt', twee criteria die van belang zijn voor de patiënt'. Merk op dat we nu het omgekeerde moeten nemen voor ‘maat’, omdat we willen dat een lage score overeenkomt met ‘volledig op maat van de patiënt gemaakt’. In een pareto-cruve is het meest ideale namelijk een lage prijs en een volledig op maat van de patiënt (een lage score dus).
-|                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
-|-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Prijs           | 70             | 253.8          | 85         | 175             | 172       | 115         | 127.5 | 
-| Maat            | 1              | 2              | 2          | 3               | 5         | 5           | 5 |
-| Maat (inverse)  | 5              | 4              | 4          | 3               | 1         | 1           | 1 |
-
-
-## Oplossing: pareto-front van de verschillende curves
-Hiervan maken we vervolgens een plot met de verschillende punten:
-
-![](embed/Zeepaardje1.png "afbeelding")
-
-Stel we bekijken nu de twee meest extreme punten: een heel goedkope orthese maar wel maar één universele maat én een heel dure orthese die wel volledig op maat is van de patiënt. Dan bekomen we, theoretisch, het volgende als we deze punten verbinden:
-
-![](embed/Zeepaardje2.jpg "afbeelding")
-
-We gaan op zoek naar het meest ‘ideale’ punt. Deze ligt zo dicht mogelijk tegen het blauwe pareto-front. Alle andere punten noemen we suboptimale punten. Want voor deze sub-optimale punten is er telkens een ander punt dat ofwel goedkoper ofwel meer op maat van de patiënt is. Dit is duidelijk in onderstaande figuur:
-
-![](embed/Zeepaardje3.jpg "afbeelding")
-
-Hieruit kunnen we concluderen dat de orthese gebaseerd op het zeepaardje niet de ‘beste’ is. Er zijn enkele suboptimale ortheses, die dat op het pareto-front liggen kunnen we als een nuttige piste beschouwen. 
-![](embed/Zeepaardje4.jpg "afbeelding")
-
-Het is belangrijk om op te merken dat dit voorbeeld een vereenvoudiging is van de realiteit en er dus nog een aantal stappen moeten genomen worden alvorens dit soort ortheses een echte plaats kan krijgen op de markt. In werkelijkheid moet er bij de afweging met veel meer factoren rekening worden gehouden dan enkel 'prijs' en 'op maat van de patiënt'.
-
-### Oefening: jouw ideale Smartphone!
-Je kiest je nieuwe Smartphone nu misschien alleen op basis van de prijs of op basis van de kleur. Maar, dan heb je misschien niet altijd alles uit de prijs gehaald die je ervoor betaalde.
-* Bepaal wat voor jou belangrijk is aan een Smartphone: kies twee criteria die jij belangrijk vindt. Vind je de prijs belangrijk? Of toch maar hoe lang het duurt voordat je Smartphone volledig is opgeladen? Misschien vind je de duurzaamheid van je Smartphone wel belangrijk? 
-* Zoek enkele (minstens 10) Smartphone's op via het internet en zoek de eigenschappen van de twee criteria die jij voorop stelde. 
-* Maak uit je tabel een pareto-front en je komt helemaal te welke Smartphones ideaal zijn voor jou, of beter: welke je beter niét koopt!
+| Lesnummer        | Inhoud    | Lesverloop         | Opmerkingen | 
+| ---------------- | --------- | ------------------- | ----------------- |
+| Les 1            | Inleiding, huidige ortheses en probleemstelling | Inleiding en probleemstelling: klassikaal. Criteria: brainstorm in groepjes. Ortheses: klassikaal/individueel. | |
+| Les 2            | Probleemstelling & oplossing (→ biomimicry: zeepaardje als oplossing?) | Eisen orthese & waar oplossing halen: klassikaal. Concrete zoektocht naar zeepaardje als oplossing: individueel. | Verwerk het doel van dit project hier duidelijk: zeepaardje-orthese kan een oplossig zijn, maar is het beter dan de anderen? |
+| Les 3 | Radardiagrammen | Opstellen radardiagrammen: individueel. Probleemoplossend denken stimuleren |
+| Les 4 | Pareto-front & conclusie | Pareto-curve opstellen: individueel. In groepjes over resultaat discussiëren (of klassikaal) | | 
 
 
