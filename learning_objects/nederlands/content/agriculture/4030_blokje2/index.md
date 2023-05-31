@@ -1,9 +1,9 @@
 ---
-hruid: agri_webcam
+hruid: agri_webcam3
 version: 3
 language: nl
-title: "Met de webcam"
-description: "Met de webcam"
+title: "Titel"
+description: Titel"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
