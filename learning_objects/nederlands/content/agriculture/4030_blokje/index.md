@@ -2,8 +2,8 @@
 hruid: agri_webcam2
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "Mogelijkheden en beperkingen"
+description: "Mogelijkheden en beperkingen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,10 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Met de webcam
-In een eerste notebook ga je aan de slag met een camera, bv. je webcam, en YOLO.<br>
-De tweede notebook leert je begrijpen wat mogelijke beperkingen zijn van een objectdetectiesysteeem. <br>
-In de derde notebook maak je kennis met technieken om je dataset uit te breiden. 
+# Met de webcam: mogelijkheden en beperkingen van een objectdetectiesysteem
+Deze tweede notebook leert je begrijpen wat de mogelijkheden en de mogelijke beperkingen zijn van een objectdetectiesysteeem. <br>
 
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4020 "Webcam")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4021 "Webcam")
