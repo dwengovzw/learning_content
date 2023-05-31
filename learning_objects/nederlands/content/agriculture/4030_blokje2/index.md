@@ -2,8 +2,8 @@
 hruid: agri_webcam3
 version: 3
 language: nl
-title: "Beperkingen"
-description: "Beperkingen"
+title: "Dataset uitbreiden"
+description: "Dataset uitbreiden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Met de webcam: mogelijkheden en beperkingen van een objectdetectiesysteem
-Deze tweede notebook leert je begrijpen wat de mogelijkheden en de mogelijke beperkingen zijn van een objectdetectiesysteeem. <br>
+# De dataset uitbreiden
+In deze derde notebook maak je kennis met technieken om de dataset uit te breiden. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4021 "Webcam")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4022 "Webcam")
