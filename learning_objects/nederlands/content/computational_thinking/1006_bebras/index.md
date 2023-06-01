@@ -32,7 +32,7 @@ teacher_exclusive: true
 # Voorbeeld 6:  Abstractie maken
 Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
 Tekst: Zoltán Molnár, HU, Zsuzsa Pluhár, HU<br>
-Afbeeldingen: Ivo Blöchliger, CH
+Afbeeldingen: Ivo Blöchliger, CH<br>
 Vertaling: Kris Coolsaet 
 
 ## Stormbestendig netwerk (Bebras 2014-HU-02) 
