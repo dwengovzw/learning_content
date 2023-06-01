@@ -33,11 +33,12 @@ teacher_exclusive: true
 Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
 Tekst: Zoltán Molnár, HU, Zsuzsa Pluhár, HU<br>
 Afbeeldingen: Ivo Blöchliger, CH
+Vertaling: Kris Coolsaet 
 
 ## Stormbestendig netwerk (Bebras 2014-HU-02) 
 
 De GSM-maatschappij Bever Telecom wil GSM-masten plaatsen op Windeneiland.<br>
-Het dekkingsgebied van een mast is een cirkel die errond is gecentreerd. Twee masten heten verbonden met elkaar als hun dekkingsgebieden overlappen. Twee masten kunnen met elkaar communiceren als er een rij tussenliggende masten bestaat zodat elke mast met elke volgende is verbonden.<br>
+Het dekkingsgebied van een mast is een cirkel die errond is gecentreerd. Twee masten heten *verbonden* met elkaar als hun dekkingsgebieden overlappen. Twee masten kunnen met elkaar *communiceren* als er een rij tussenliggende masten bestaat zodat elke mast met elke volgende is verbonden.<br>
 Door de sterke wind op het eiland gebeurt het af en toe dat een mast breekt. Als er ergens één mast niet meer functioneert, willen we toch nog dat elke twee van de overblijvende torens met elkaar kunnen blijven communiceren.
 
 *Welke van de opstellingen hieronder moeten we hiervoor gebruiken?*
