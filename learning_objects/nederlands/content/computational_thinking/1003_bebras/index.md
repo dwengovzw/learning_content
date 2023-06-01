@@ -32,7 +32,8 @@ teacher_exclusive: true
 # Voorbeeld 3:  Patroon herkennen
 Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
 Tekst: Opráné Vecsei Éva, HU, Zsuzsa Pluhár, HU, Sébastien Combéfis, BE<br>
-Afbeeldingen: onbekend
+Afbeeldingen: onbekend<br>
+Vertaling: Kris Coolsaet
 
 ## IJsjesmachine (Bebras 2013-HU-01)
 
