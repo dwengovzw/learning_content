@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # De Bebras-wedstrijd
 
-Het hoofddoel van de Bebras-wedstrijd is om de deelnemers warm te maken voor de informatica. Tijdens de wedstrijd pakken de deelnemers verschillende problemen aan die kunnen gelinkt worden aan concepten uit de informaticawetenschappen. Hierbij wordt dus ook het computationeel en probleemoplossend denken van de deelnemers getest.
+Het hoofddoel van de internationale Bebras-wedstrijd is om de deelnemers warm te maken voor de informatica. Tijdens de wedstrijd pakken de deelnemers verschillende problemen aan die kunnen gelinkt worden aan concepten uit de informaticawetenschappen. Hierbij wordt dus ook het computationeel en probleemoplossend denken van de deelnemers getest.
 
 > Voor meer uitleg over de internationale Bebras-wedstrijd zie https://www.bebras.be/nl/home
 
