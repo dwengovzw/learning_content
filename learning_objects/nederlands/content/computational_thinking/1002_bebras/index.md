@@ -32,7 +32,8 @@ teacher_exclusive: true
 # Voorbeeld 2:  Algoritme toepassen
 Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
 Tekst: Mathias Hiron, FR<br>
-Afbeeldingen: onbekend
+Afbeeldingen: onbekend<br>
+Vertaling: Kris Coolsaet 
 
 ## Naar beneden (Bebras 2012-FR-10)
 Mevrouw Bever heeft een robot geplaatst bovenaan een doolhof. De robot daalt het doolhof af van het ene platform naar het andere eronder, totdat hij één van de vakken bereikt helemaal onderaan. Hiebij verplaatst hij zich altijd op dezelfde manier: hij verplaatst zich eerst naar rechts, en telkens wanneer hij een platform naar beneden valt, vertrekt hij opnieuw in de omgekeerde richting.
