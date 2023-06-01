@@ -32,7 +32,8 @@ teacher_exclusive: true
 # Voorbeeld 1:  Decompositie en abstractie
 Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
 Tekst: Pär Söderhjelm, SE, Artem Iglikov, KZ, Jan Berki, CZ<br>
-Afbeeldingen: Maiko Shimabuku, JP
+Afbeeldingen: Maiko Shimabuku, JP<br>
+Vertaling: Kris Coolsaet 
 
 ## Groter en kleiner (Bebras 2014-SE-04)
 
