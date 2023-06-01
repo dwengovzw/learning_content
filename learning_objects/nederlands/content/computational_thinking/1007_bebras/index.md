@@ -31,10 +31,11 @@ teacher_exclusive: true
 ---
 # Voorbeeld 7:  Abstractie en algoritme
 Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
-Tekst: Kris Coolsaet, BE<br>
-Afbeeldingen: Kris Coolsaet, BE 
+Tekst: Michael Weigend, DE<br>
+Afbeeldingen: Michael Weigend, DE<br> 
+Vertaling: Kris Coolsaet
 
-## Toevalsprenten (Bebras ...)
+## Toevalsprenten (Bebras 2013-DE-02)
 
 De bevers hebben een klein bedrijfje dat gepersonaliseerde wenskaarten en geschenkpapier ontwerpt. De verschillende modellen worden gemaakt aan de hand van de volgende instructies:
 
