@@ -32,7 +32,8 @@ teacher_exclusive: true
 # Voorbeeld 5:  Algoritme bedenken
 Bron: [het online platform van de Belgische Bebras-wedstrijd](https://bebras.ugent.be/)<br>
 Tekst: Yukio Idosaka, JP, Yasushi Kuno, JP, Elena Sutkute, LT, Juha Vartiainen, FI, Barbara Müllner, AT<br>
-Afbeeldingen: Maiko Shimabuku, JP, Javier Bilbao, ES
+Afbeeldingen: Maiko Shimabuku, JP, Javier Bilbao, ES<br>
+Vertaling: Kris Coolsaet en Natacha Gesquière
 
 ## Kortste route (Bebras 2013-JP-10)
 
