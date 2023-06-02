@@ -31,23 +31,21 @@ teacher_exclusive: true
 ---
 
 <context>
-Leerkrachten van een middelbare school maakte een historisch puzzelspel voor leerlingen om het leven in de middeleeuwen te verkennen door middel van puzzels en quizzen. 
+De leerlingen leggen in teams een test af a.d.h.v. een Snap!-programma. Bij elke vraag hoort een bepaalde afstand. Bij een goed antwoord gaat het team die afstand vooruit, bij een foutief antwoord wordt het team afgestraft. 
 </context>
 <decomposition>
-Subtaken (**decompositie**):
-Leerlingen moeten "gebeurtenissen onderzoeken en data noteren in de tijdlijn, specifieke kenmerken ontdekken in de proloog van het spel, de logische componenten in de puzzelspellen ontleden, enz.".
+Bepaalde subtaken in de test zijn eruit gehaald om te definieren a.d.h.v. zelfgedefinieerde functies in het programma. (**decompositie**)
 </decomposition>
 <patternRecognition>
-"Leerlingen herkennen de herhaling in een spel, de progressie van de tijdlijn, personages, puzzelpatronen en de patronen in grafieken."
- (**patroonherkenning**)
+De leerlingen moeten al spelend de herhalende **patronen** in het spel opmerken en vertrouwd raken met de spelmechanismen, bv. wat er gebeurt bij een goed antwoord. 
 </patternRecognition>
 <abstraction>
-
+Leerkrachten laten een blok zien dat overeenkomt met een zelfgedefinieerde functie en uitleggen hoe het zo vervatten van een algoritme wordt beschouwd als een **abstractie**.
 </abstraction>
 <algorithms>
-Leerlingen ontwerpen **algoritmen** om "de verschillende onderdelen van het spel te programmeren en een storyboard te maken". 
+Leerlingen gebruiken algoritmen in de loop van het spel.  
 </algorithms>
 <implementation>
-**Programma in Snap!**
+De leerlingen moeten niet zelf programmeren. De leerkrachten hebben het Snap!-programma geschreven.
 </implementation>
 
