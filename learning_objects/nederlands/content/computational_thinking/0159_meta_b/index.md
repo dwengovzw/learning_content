@@ -31,21 +31,22 @@ teacher_exclusive: true
 ---
 
 <context>
-Leerkrachten van een middelbare school maakte een historisch puzzelspel voor leerlingen om het leven in de middeleeuwen te verkennen door middel van puzzels en quizzen. 
+De leerlingen programmeren een quiz om de gesteentencyclus te herhalen en in te oefenen in Snap! De leerlingen voeren ook een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies a.d.h.v. het programma.  
 </context>
 <decomposition>
 Subtaken (**decompositie**):
-Leerlingen moeten "gebeurtenissen onderzoeken en data noteren in de tijdlijn, specifieke kenmerken ontdekken in de proloog van het spel, de logische componenten in de puzzelspellen ontleden, enz.".
+- Leerlingen moeten "de samenstelling van mineralen nagaan a.d.h.v. de dichtheid, de hardheid en de sterkte" (wetenschappen). 
+- Leerlingen "herwerken delen van de reeds geschreven code voor een overzichtsspel in Snap! door regels code te vervangen door andere vragen" (coderen).
 </decomposition>
 <patternRecognition>
-"Leerlingen herkennen de herhaling in een spel, de progressie van de tijdlijn, personages, puzzelpatronen en de patronen in grafieken."
- (**patroonherkenning**)
+- Leerlingen moeten "de samenstelling van gesteenten gedurende de hele gesteentekringloop herkennen" (wetenschappen). (**patroonherkenning**)
+- Leerlingen "herkennen **patronen** in het Snap!-programma en hoe ze lussen kunnen inbouwen" (programmeren).
 </patternRecognition>
 <abstraction>
-
+Leerlingen moeten globale en lokale eigenschappen van gesteenten en mineralen identificeren (wetenschap). 
 </abstraction>
 <algorithms>
-Leerlingen ontwerpen **algoritmen** om "de verschillende onderdelen van het spel te programmeren en een storyboard te maken". 
+De leerlingen "voltooien sorteeractiviteiten in het programma" (coderen).
 </algorithms>
 <implementation>
 **Programma in Snap!**
