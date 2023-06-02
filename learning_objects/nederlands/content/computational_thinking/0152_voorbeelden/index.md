@@ -67,7 +67,7 @@ Hij kwam tot een **overzicht van denkprocessen, activiteiten en manieren van aan
 Het is duidelijk dat de eindtermen verder gaan dan de vier basisconcepten van computationeel denken, maar een basiskennis over computerwetenschappen beogen. 
 Het gaat immers ook over computationeel handelen. Hiervoor biedt het overzicht van Lodi heel wat overeenkomst met het kader waarbinnen Vlaamse scholen zullen werken.
 
-Ook het kader van Weintrop om met computationeel denken aan de slag te gaan in lessen wiskunde en wetenschappen, vertoont veel overlap met de leerdoelen verwoord in de eindtermen 
+Ook het kader van Weintrop (2016) om met computationeel denken aan de slag te gaan in lessen wiskunde en wetenschappen, vertoont veel overlap met de leerdoelen verwoord in de eindtermen 
 computationeel denken en handelen.
 
 • Binnen de leerdoelen zit basiskennis van digitale systemen en het werken met digitale tools.<br>
@@ -84,5 +84,6 @@ Gezien de link met de 21ste-eeuwse vaardigheden, zoals mediawijsheid en informat
 #### Bronnen
 Denning, P. & Tedre, M. (2019). *Computational thinking.* VS: MIT Press.<br>
 Lodi, M. (2020). Informatical Thinking. *Olympiads in Informatics: An International Journal, 14*, 113–132.<br>
-Guzdial, M. (2015). Learner-Centered Design of Computing Education: Research on Computing for Everyone. *Synthesis Lectures on Human-Centered Informatics.*
+Guzdial, M. (2015). Learner-Centered Design of Computing Education: Research on Computing for Everyone. *Synthesis Lectures on Human-Centered Informatics.*<br>
+Weintrop, D., Beheshti, E., Horn, M., Orton, K., Jona, K., Trouille, L., & Wilensky, U. (2016). Defining Computational Thinking for Mathematics and Science Classrooms. *Journal of Science Education and Technology, 25*.
 
