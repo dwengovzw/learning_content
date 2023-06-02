@@ -2,8 +2,8 @@
 hruid: ct_cases17
 version: 3
 language: nl
-title: "Case"
-description: "Case"
+title: "Wet van Boyle en Mariotte"
+description: "Wet van Boyle en Mariotte"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
