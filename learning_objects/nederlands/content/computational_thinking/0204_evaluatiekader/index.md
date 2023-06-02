@@ -2,8 +2,8 @@
 hruid: ct_evaluatiekader4
 version: 3
 language: nl
-title: "Evaluatiekader"
-description: "Evaluatiekader"
+title: "Grafische programmeeropdracht"
+description: "Grafische programmeeropdracht"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,8 +32,18 @@ teacher_exclusive: true
 
 # Evaluatiekader
 
-## Tussentitel
+## Sociale robot: aan de slag met de Dwengo-simulator 
 
-### Subtitel
+### Onderwijsdoel: De leerlingen ontwerpen een algoritme om een probleem digitaal op te lossen.
 
-**Onderverdeling**
+**Voorbereiding leerkracht:** 
+- 
+
+**Te evalueren leerdoel:** 
+
+**Opdrachten voor de leerlingen:**<br>
+-  
+
+**Evaluatieschema:**
+
+**Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
