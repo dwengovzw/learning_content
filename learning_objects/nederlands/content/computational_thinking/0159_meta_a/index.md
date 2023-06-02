@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-Leerkrachten van een middelbare school maakte een historisch puzzelspel voor leerlingen om het leven in de middeleeuwen te verkennen door middel van puzzels en quizzen. 
+De leerlingen spelen een spel en verkennen zo het leven in de middeleeuwen door middel van puzzels en quizzen. De leerlingen programmeren het spel in de Snap!-omgeving. 
 </context>
 <decomposition>
 Subtaken (**decompositie**):
