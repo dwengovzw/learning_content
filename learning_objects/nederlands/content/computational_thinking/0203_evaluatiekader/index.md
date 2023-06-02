@@ -2,8 +2,8 @@
 hruid: ct_evaluatiekader3
 version: 3
 language: nl
-title: "Evaluatiekader"
-description: "Evaluatiekader"
+title: "Sentimentanalyse"
+description: "Sentimentanalyse"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,8 +32,18 @@ teacher_exclusive: true
 
 # Evaluatiekader
 
-## Tussentitel
+## Sentimentanalyse a.d.h.v. regelgebaseerd systeem 
 
-### Subtitel
+### Onderwijsdoel: De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.
 
-**Onderverdeling**
+**Voorbereiding leerkracht:** 
+- Schema concepten CD invullen om de link met de basisconcepten van computationeel denken duidelijk te maken.
+
+**Te evalueren leerdoel:** 
+
+**Opdrachten voor de leerlingen:**<br>
+-  
+
+**Evaluatieschema:**
+
+**Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
