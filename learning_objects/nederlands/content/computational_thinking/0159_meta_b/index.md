@@ -1,5 +1,5 @@
 ---
-hruid: m_ct_voorbeelden9
+hruid: m_ct_voorbeelden9b
 version: 3
 language: nl
 title: "Soortgelijk schema uit de literatuur"
