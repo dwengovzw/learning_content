@@ -2,8 +2,8 @@
 hruid: ct_evaluatiekader5
 version: 3
 language: nl
-title: "Evaluatiekader"
-description: "Evaluatiekader"
+title: "Beslisisngsbomen in de zorg"
+description: "Beslissingsbomen in de zorg"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,8 +32,3 @@ teacher_exclusive: true
 
 # Evaluatiekader
 
-## Tussentitel
-
-### Subtitel
-
-**Onderverdeling**
