@@ -2,8 +2,8 @@
 hruid: ct_cases18
 version: 3
 language: nl
-title: "Case"
-description: "Case"
+title: "Periodiek systeem"
+description: "Periodiek system"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
