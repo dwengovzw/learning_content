@@ -43,12 +43,12 @@ Subtaken (**decompositie**):
 - Leerlingen "herkennen **patronen** in het Snap!-programma en hoe ze lussen kunnen inbouwen" (programmeren).
 </patternRecognition>
 <abstraction>
-Leerlingen moeten globale en lokale eigenschappen van gesteenten en mineralen identificeren (wetenschap). 
+
 </abstraction>
 <algorithms>
-De leerlingen "voltooien sorteeractiviteiten in het programma" (coderen).
+De leerlingen "voltooien sorteeractiviteiten in het programma" (coderen). (**algoritme**)
 </algorithms>
 <implementation>
-**Programma in Snap!**
+**Programma** in Snap!
 </implementation>
 
