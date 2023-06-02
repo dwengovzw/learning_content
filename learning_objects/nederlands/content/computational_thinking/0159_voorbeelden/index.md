@@ -43,7 +43,7 @@ Het eerste voorbeeld situeert zich in de **geschiedenisles**. Een interdisciplin
 
 ![ct-schema](@learning-object/m_ct_voorbeelden9a/nl/3)
 
-Het tweede voorbeeld komt uit een **les wetenschappen**. Leerkrachten ontwierpen een quiz om de geziene leerstof over de gesteentencyclus te herhalen en in te oefenen. De leerlingen moeten die quiz programmeren in Snap! De leerlingen voeren ook een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies door hun bevindingen a.d.h.v. het programma.   
+Het tweede voorbeeld komt uit een **les wetenschappen**. Leerkrachten ontwierpen een quiz om de geziene leerstof over de gesteentencyclus te herhalen en in te oefenen. De leerlingen moeten die quiz programmeren in Snap! De leerlingen voeren ook een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies a.d.h.v. het programma.   
 
 ![ct-schema](@learning-object/m_ct_voorbeelden9b/nl/3)
 
