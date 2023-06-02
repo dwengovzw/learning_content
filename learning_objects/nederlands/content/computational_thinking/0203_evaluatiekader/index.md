@@ -51,7 +51,8 @@ teacher_exclusive: true
 
 **Evaluatieschema:**
 
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/c9327d16-df0b-4aad-aa8c-23c616c23bc8)
+![image](https://github.com/dwengovzw/learning_content/assets/48352335/d1e8efd8-faf3-4d93-b3bf-1a3e9a97003f)
+
 
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
 - Computationeel denken over de werking van geautomatiseerde, regelgebaseerde sentimentanalyse a.d.h.v. onderwijsleergesprek: "Hoe breng ik dit naar de computer?" & klassikaal exit ticket (formatief)
