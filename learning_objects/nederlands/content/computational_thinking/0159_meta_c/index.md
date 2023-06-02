@@ -46,6 +46,6 @@ Leerkrachten laten een blok zien dat overeenkomt met een zelfgedefinieerde funct
 Leerlingen **gebruiken algoritmen** in de loop van het spel.  
 </algorithms>
 <implementation>
-De leerlingen moeten niet zelf programmeren. De leerkrachten hebben het Snap!-programma geschreven.
+De leerlingen moeten niet zelf programmeren. De leerkrachten schreven het Snap!-programma.
 </implementation>
 
