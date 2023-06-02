@@ -48,6 +48,6 @@ Leerlingen moeten "gebeurtenissen onderzoeken en data noteren in de tijdlijn, sp
 Leerlingen ontwerpen **algoritmen** om "de verschillende onderdelen van het spel te programmeren en een storyboard te maken". 
 </algorithms>
 <implementation>
-**Programma in Snap!**
+**Programma** in Snap!
 </implementation>
 
