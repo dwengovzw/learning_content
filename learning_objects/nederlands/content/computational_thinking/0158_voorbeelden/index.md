@@ -38,4 +38,4 @@ Niet alle vakken moeten verplicht worden ingevuld. Het onderste vak 'programmere
 
 In het leerpad 'Cases' vind je heel wat voorbeelden uit de lespraktijk die uitgewerkt werden met dit schema. 
 
-![ct-schema](@learning-object/m_ct_voorbeelden8/nl/3)
+
