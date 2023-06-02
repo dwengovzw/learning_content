@@ -2,8 +2,8 @@
 hruid: ct_cases19
 version: 3
 language: nl
-title: "Case"
-description: "Case"
+title: "Determineren"
+description: "Determineren"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
