@@ -37,17 +37,17 @@ Sands et al. (2018) gaven aan dat een nascholing voor leerkrachten over computat
 
 PRADA focust op dezelfde basisconcepten van computationeel denken als wij doen. Dong et al. willen net als wij aan leerkrachten "leren om concepten van conputationeel denken te herkennen in hun domein, en ze voorbeelden aan te reiken van hoe ze de concepten in hun lessen kunnen binnenbrengen". Ook zij streven ernaar dat leerkrachten op eigen houtje zo'n lessen zouden kunnen voorbereiden.
 
-Hieronder vind je enkele voorbeelden afkomstig van het werk van Dong et al.
+### Enkele voorbeelden afkomstig van het werk van Dong et al.
 
-Het eerste voorbeeld situeert zich in de **geschiedenisles**. Een interdisciplinaire groep keerkrachten van de middelbare school ontwierp een historisch puzzelspel voor leerlingen om het leven in de middeleeuwen te verkennen door middel van puzzels en quizzen. Ze laten de leerlingen het spel programmeren in Snap!, een Scratch-achtige programmeeromgeving.
+Het **eerste voorbeeld** situeert zich in de **geschiedenisles**. Een interdisciplinaire groep keerkrachten van de middelbare school ontwierp een historisch puzzelspel voor leerlingen om het leven in de middeleeuwen te verkennen door middel van puzzels en quizzen. Ze laten de leerlingen het spel programmeren in Snap!, een Scratch-achtige programmeeromgeving.
 
 ![ct-schema](@learning-object/m_ct_voorbeelden9a/nl/3)
 
-Het tweede voorbeeld komt uit een **les wetenschappen**. Leerkrachten ontwierpen een quiz om de geziene leerstof over de gesteentencyclus te herhalen en in te oefenen. De leerlingen moeten die quiz programmeren in Snap! De leerlingen voeren ook een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies a.d.h.v. het programma.   
+Het **tweede voorbeeld** komt uit een **les wetenschappen**. Leerkrachten ontwierpen een quiz om de geziene leerstof over de gesteentencyclus te herhalen en in te oefenen. De leerlingen moeten die quiz programmeren in Snap! De leerlingen voeren ook een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies a.d.h.v. het programma.   
 
 ![ct-schema](@learning-object/m_ct_voorbeelden9b/nl/3)
 
-Het derde voorbeeld dient om te oefenen op gestandandaardiseerde testen in de context van het **vak wiskunde**. De leerkrachten hebben een test geprogrammeerd in Snap! en de leerlingen leggen de test af in teams a.d.h.v. het programma. Bij elke vraag hoort een bepaalde afstand. Bij een goed antwoord gaat het team die afstand vooruit, bij een foutief antwoord wordt het team afgestraft.   
+Het **derde voorbeeld** dient om te oefenen op gestandandaardiseerde testen in de context van het **vak wiskunde**. De leerkrachten hebben een test geprogrammeerd in Snap! en de leerlingen leggen de test af in teams a.d.h.v. het programma. Bij elke vraag hoort een bepaalde afstand. Bij een goed antwoord gaat het team die afstand vooruit, bij een foutief antwoord wordt het team afgestraft.   
 
 ![ct-schema](@learning-object/m_ct_voorbeelden9c/nl/3)
 
