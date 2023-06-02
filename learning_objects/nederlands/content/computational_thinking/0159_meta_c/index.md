@@ -43,7 +43,7 @@ De leerlingen moeten al spelend de herhalende **patronen** in het spel opmerken 
 Leerkrachten laten een blok zien dat overeenkomt met een zelfgedefinieerde functie en uitleggen hoe het zo vervatten van een algoritme wordt beschouwd als een **abstractie**.
 </abstraction>
 <algorithms>
-Leerlingen gebruiken algoritmen in de loop van het spel.  
+Leerlingen **gebruiken algoritmen** in de loop van het spel.  
 </algorithms>
 <implementation>
 De leerlingen moeten niet zelf programmeren. De leerkrachten hebben het Snap!-programma geschreven.
