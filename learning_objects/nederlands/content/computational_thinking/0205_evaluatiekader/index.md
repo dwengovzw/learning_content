@@ -32,3 +32,22 @@ teacher_exclusive: true
 
 # Evaluatiekader
 
+## AI in de Zorg - beslissingsbomen (H4 en verder)
+
+### Onderwijsdoelen:
+- De leerlingen gebruiken grafen voor een toepassing.
+- De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.    
+- De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.
+
+**Voorbereiding leerkracht:** 
+- 
+
+**Te evalueren leerdoel:** 
+
+**Opdrachten voor de leerlingen:**<br>
+-  
+
+**Evaluatieschema:**
+
+**Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
+
