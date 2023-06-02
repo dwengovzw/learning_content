@@ -36,4 +36,8 @@ teacher_exclusive: true
 
 ### Subtitel
 
-**Onderverdeling**
+**Inspiratie:** 
+- Bredere evaluatie: schuiven op vier assen, Katrien Bultynck, 2004.
+- Toolkit breed evalueren. Harde of zachte evaluatie, Saveyn, J., 2007. https://data-onderwijs.vlaanderen.be/documenten/bestand.ashx?id=12568
+- https://formatiefevalueren.kdg.be/ 
+- Infographic Tom Neutens: Hoe evalueer ik grafische code?
