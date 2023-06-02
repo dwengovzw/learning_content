@@ -2,8 +2,8 @@
 hruid: ct_evaluatiekader2
 version: 3
 language: nl
-title: "Evaluatiekader"
-description: "Evaluatiekader"
+title: "Jommeke inkleuren"
+description: "Jommeke inkleuren"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,8 +32,27 @@ teacher_exclusive: true
 
 # Evaluatiekader
 
-## Tussentitel
+## Bias in AI-systemen a.d.h.v. inkleuren van Jommeke
 
-### Subtitel
+### Onderwijsdoel: De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.
 
-**Onderverdeling**
+**Voorbereiding leerkracht:** 
+- Schema concepten CD invullen om de link met de basisconcepten van computationeel denken duidelijk te maken.
+
+**Te evalueren leerdoel:** De leerlingen analyseren de output van het AI-systeem, gekoppeld aan de vooringenomenheid ervan, en zien het verband met de impact op de maatschappij van dit systeem.
+
+**Opdrachten voor de leerlingen:**<br>
+-  Turingtest: identificeer of een afbeelding al dan niet artificieel is gegeneerd   
+-  Bevindingen en argumenten bespreken tijdens een klassikaal onderwijsleergesprek 
+-  Tekening maken die het AI-systeem kan omzeilen 
+-  Korte uitzetting van de impact van het AI-systeem op de maatschappij 
+
+**Evaluatieschema:**
+![image](https://github.com/dwengovzw/learning_content/assets/48352335/da293518-3da3-4806-ad32-29826d636754)
+  
+**Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
+-  Turingtest: identificeer of een afbeelding al dan niet artificieel is gegeneerd   &  Participatie: gedaan/niet gedaan (hard & formatief)
+-  Bevindingen en argumenten bespreken tijdens een klassikaal onderwijsleergesprek & Klassikaal (1-2-3) exitticket (zacht & formatief)
+-  Tekening maken die het AI-systeem kan omzeilen & Werkstuk: gelukt/niet gelukt (hard & formatief)
+-  Korte uitzetting van de impact van het AI-systeem op de maatschappij & Werkstuk: document (zacht & formatief)
+
