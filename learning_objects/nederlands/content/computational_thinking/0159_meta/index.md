@@ -31,62 +31,23 @@ teacher_exclusive: true
 ---
 
 <context>
-Automatiseer het berekenen van de (reële) wortels van een vierkantsvergelijking. Er wordt op zoek gegaan naar het aantal wortels en de waarde van de wortels.
+Leerkrachten van een middelbare school maakte een historisch puzzelspel voor leerlingen om het leven in de middeleeuwen te verkennen door middel van puzzels en quizzen. 
 </context>
 <decomposition>
 Subtaken (**decompositie**):
-1. Inzetten van de computer om de wortels van een vierkantsvergelijking te berekenen. 
-2. Formules op een of andere manier aan de computer geven om de wortels te berekenen: discriminant, formules voor de wortels zelf.
-3. Gebruiker moet in staat zijn om de coëfficiënten van de vierkantsvergelijking in te geven.
-4. Welk datatype is het meest geschikt voor die coëfficiënten? Int of float?
-5. Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?
+Leerlingen moeten "gebeurtenissen onderzoeken en data noteren in de tijdlijn, specifieke kenmerken ontdekken in de proloog van het spel, de logische componenten in de puzzelspellen ontleden, enz.".
 </decomposition>
 <patternRecognition>
-Als eenzelfde berekening vaak moet herhaald worden, dan is het handig deze te vatten in een functie. (**patroonherkenning**)
-De formules zullen daarom opgenomen worden in een zelfgedefinieerde functie: een voor de discriminant en een voor de wortels.
+"Leerlingen herkennen de herhaling in een spel, de progressie van de tijdlijn, personages, puzzelpatronen en de patronen in grafieken."
  (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Een functie is een **abstractie** van een subalgoritme.<br><br>
-*Weetje: een vierkantsvergelijking is een abstractie van het zoeken naar de snijpunten van een parabool met de x-as.*
+
 </abstraction>
 <algorithms>
-Het **algoritme** bevat (in deze volgorde) instructies om:<br>
-de gegevens op te vragen aan de gebruiker;<br>
-die gegevens te verwerken met als doel het bekomen van de discriminant en de wortels;<br>
-het aantal wortels te laten zien op het scherm;<br>
-de wortels te laten zien op het scherm. 
+Leerlingen ontwerpen **algoritmen** om "de verschillende onderdelen van het spel te programmeren en een storyboard te maken". 
 </algorithms>
 <implementation>
-**Programma in Python**<br>
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-def discriminant(a, b, c):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van discriminant."""<br>
-&nbsp;&nbsp;&nbsp;&nbsp;d = b**2 – 4 * a * c<br>
-&nbsp;&nbsp;&nbsp;&nbsp;return d<br><br>
-def wortels(a, b, c, d):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van de wortels bij niet-negatieve discriminant."""<br>
-&nbsp;&nbsp;&nbsp;&nbsp;w1 = (- b + math.sqrt(d)) / (2 * a )<br>
-&nbsp;&nbsp;&nbsp;&nbsp;w2 = (- b - math.sqrt(d)) / (2 * a )<br>
-&nbsp;&nbsp;&nbsp;&nbsp;return w1, w2<br><br>
-# invoer<br>
-a = float(input("Geef de coëfficiënt van x²: "))<br>
-b = float(input("Geef de coëfficiënt van x: "))<br>
-c = float(input("Geef de constante term: "))<br><br>
-# verwerking<br>
-d = discriminant(a, b, c)<br>
-if d >= 0:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;x1, x2 = wortels(a, b, c, d)<br><br>
-# uitvoer<br>
-if d >= 0:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print("De wortels zijn: ", x1, "en", x2)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;if d > 0:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("Er zijn 2 verschillende wortels.")<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;else:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("Er zijn 2 samenvallende wortels.")<br>
-else:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print("Er zijn geen reële wortels.")    
-</p>
-</div>
+**Programma in Snap!**
 </implementation>
 
