@@ -34,8 +34,10 @@ teacher_exclusive: false
 Met de applicatie *Moet ik naar de dokter?* kan je gemakkelijk en snel achterhalen of en wanneer je naar de dokter moet. Dat kan bijvoorbeeld handig zijn in het weekend, want dan kan je meestal niet bij je huisarts terecht voor advies.
 
 Deze app toont hoe een **beslissingsboom in de praktijk** in zijn werk gaat.<br><br>
-Met dank aan het team van *Moet ik naar de dokter?* kan je de app [hier](https://sandbox.moetiknaardedokter.be/) uitproberen.  <br>
-De taal van de app kan je kiezen. 
+**Met dank aan het team van *Moet ik naar de dokter?* kan je de app hieronder uitproberen.<br>
+De taal van de app kan je kiezen.**
+
+*Het is niet de bedoeling dat je de applicatie gebruikt buiten een educatieve context. Daarvoor bezoek je beter een webpagina van een zorgverlener die ook de app aanbiedt.*
 
 ![Moet ik naar de dokter](@learning-object/org-dwengo-moet-ik-naar-de-dokter/nl/1)
 
