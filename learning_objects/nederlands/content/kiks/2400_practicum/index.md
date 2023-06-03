@@ -76,3 +76,9 @@ Door de planten gevarieerd te kiezen, krijg je ook een **variatie** in de beelde
     <ul><li>Bekijk het preparaat onder de microscoop.</li></ul> 
     <ul><li>Noteer wat je ziet: veel of weinig huidmondjes, grote of kleine huidmondjes, welke vorm ze hebben, hoe ze geordend zijn ...</li></ul> 
 </div> 
+
+-------------------------
+### Workshop over huidmondjes in de Plantentuin
+
+Je kan voor een workshop over huidmondjes ook terecht in de Plantentuin van de UGent bij het GUM.<br>
+Zie het atelier [Kruip in de huid van een wetenschapper](https://www.gum.gent/nl/de-plantentuin-voor-secundair-onderwijs).
