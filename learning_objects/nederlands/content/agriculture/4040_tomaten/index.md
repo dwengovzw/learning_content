@@ -31,6 +31,9 @@ teacher_exclusive: false
 ---
 
 # Tomaten
+
+**In opbouw**<br>
+<br><br>
 Met het huidig YOLO-algoritme kunnen al heel wat zaken herkend worden, maar zeker niet alle voorwerpen. Om een algoritme te trainen is er een enorme geheugenplaats nodig voor de immense dataset. De volgende notebook toont hoe je zelf je eigen dataset kan creëren om je eigen algoritme te trainen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4040 "Tomaten")
