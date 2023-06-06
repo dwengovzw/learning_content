@@ -34,4 +34,4 @@ teacher_exclusive: true
 
 # Afstand
 
-![](@youtube/www.youtube.com/embed/JKGJ1u4Fk78)
+![](@youtube/https://www.youtube.com/embed/JKGJ1u4Fk78)
