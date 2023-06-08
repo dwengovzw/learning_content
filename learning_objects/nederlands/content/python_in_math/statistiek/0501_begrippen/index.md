@@ -32,4 +32,4 @@ teacher_exclusive: true
 
 # Enkele begrippen
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0102 "Notebook")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0360 "Notebook")
