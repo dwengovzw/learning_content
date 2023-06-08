@@ -32,4 +32,8 @@ teacher_exclusive: true
 
 # Inleiding
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0102 "Notebook")
+Voorkennis voor dit leerpad: het leerpad 'Werken met notebooks'.
+
+Een aanvulling op dit leerpad is bivariate statistiek: het visualiseren van een puntenwolk en het eventueel bepalen van een de bijbehorende regressielijn. Zie daarvoor de leerpaden 'Spreidingsdiagram', "Lineaire regressie', 'Regressielijnen'.
+
+De volgende drie onderdelen zijn te situeren binnen de beschrijvende statistiek. Het laatste onderdeel maakt een verbinding tussen de beschrijvende en de verklarende statistiek. 
