@@ -2,8 +2,8 @@
 hruid: pim_statistiek_inleiding
 version: 3
 language: nl
-title: "Enkele begrippen"
-description: "Enkele begrippen"
+title: "Inleiding"
+description: "Inleiding"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
