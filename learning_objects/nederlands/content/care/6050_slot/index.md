@@ -33,3 +33,6 @@ teacher_exclusive: false
 # Slot
 Beslissingsbomen zijn een veelgebruikte techniek binnen de artificiële intelligentie. Deze techniek heeft als voordeel dat ze heel transparant (of doorzichtig) is. Beslissingsbomen zijn heel duidelijk. 
 Als een computer een beslissing neemt op basis van een beslissingsboom, dan kan je gemakkelijk zien hoe deze beslissing is genomen. Omdat ze eenvoudig te begrijpen is, is de techniek goed aanvaard.  
+
+-----------------------
+*Met dank aan An Vanfroyenhoven (PXL) voor de tip om rond triage te werken!*
