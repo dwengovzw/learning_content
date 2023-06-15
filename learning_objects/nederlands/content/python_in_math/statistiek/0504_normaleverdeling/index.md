@@ -32,4 +32,4 @@ teacher_exclusive: false
 
 # Normale verdeling
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0380 "Notebook")
+
