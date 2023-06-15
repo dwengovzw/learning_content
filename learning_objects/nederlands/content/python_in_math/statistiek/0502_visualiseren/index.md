@@ -32,4 +32,4 @@ teacher_exclusive: false
 
 # Data visualiseren
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0370 "Notebook")
+
