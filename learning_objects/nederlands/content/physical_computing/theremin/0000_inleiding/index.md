@@ -30,10 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+# Theremin
 
-## Tussentitel
+## Inleiding
 
-### Subtitel
-
-**Onderverdeling**
+In dit leerpad zal je een microcontroller ombouwen tot theremin!
