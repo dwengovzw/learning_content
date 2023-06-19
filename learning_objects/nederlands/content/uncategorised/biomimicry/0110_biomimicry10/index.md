@@ -49,6 +49,7 @@ Koelkast X is niet ideaal, voor dezelfde prijs kunnen we ook een koelkast bemach
 
 Het effectieve pareto-front is geen mooie kromme maar verbindt de optimale punten met elkaar. Het geeft je de mogelijkheid om je aandacht te berpeken om een efficiënte afweging te maken, in plaats van naar een volledige dataset te kijken en het volledig bereik van elke parameter in overweging te nemen.
 Voor de koelkast krijgen we dan het volgende: 
+
 ![](embed/Koelkast3.png "afbeelding")
 
 Deze punten zijn allemaal haalbare keuzes, afhankelijk van je eigen vereisten kan je het best hier eentje uit kiezen.
@@ -83,8 +84,11 @@ Het is belangrijk om op te merken dat dit voorbeeld een vereenvoudiging is van d
 
 ### Oefening: jouw ideale Smartphone!
 Je kiest je nieuwe Smartphone nu misschien alleen op basis van de prijs of op basis van de kleur. Maar, dan heb je misschien niet altijd alles uit de prijs gehaald die je ervoor betaalde.
+
 * Bepaal wat voor jou belangrijk is aan een Smartphone: kies twee criteria die jij belangrijk vindt. Vind je de prijs belangrijk? Of toch maar hoe lang het duurt voordat je Smartphone volledig is opgeladen? Misschien vind je de duurzaamheid van je Smartphone wel belangrijk? 
+
 * Zoek enkele (minstens 10) Smartphone's op via het internet en zoek de eigenschappen van de twee criteria die jij voorop stelde. 
+
 * Maak uit je tabel een pareto-front en je komt helemaal te welke Smartphones ideaal zijn voor jou, of beter: welke je beter niét koopt!
 
 

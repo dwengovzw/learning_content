@@ -107,4 +107,4 @@ Een radardiagram opmaken doe je zo:
 * [Bekijk](embed/Radardiagram_Excel.pdf "pdf") het stappenplan voor Microsoft Excel
 * [Bekijk](embed/Radardiagram_Spreadsheets.pdf "pdf") het stappenplan voor Google Spreadsheets 
 
-[Hier](embed/Radardiagram_orthese.pdf "pdf") kan je de verschillende radardiagrammen bekijken
+[Hier](embed/Radardiagram_ortheses.pdf "pdf") kan je de verschillende radardiagrammen bekijken

@@ -34,7 +34,7 @@ teacher_exclusive: false
 We spitsen ons nu toe op twee criteria. Op basis daarvan kunnen we de zogenaamde pareto-curve maken (een curve met een pareto front). Dit is een typische ingenieurs tool om een beslissing te nemen in een situatie waarbij twee criteria elkaar beïnvloeden. 
 te maken waarbij twee criteria elkaar beïnvloeden. 
 
-Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:
+Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:<br>
 Stel we willen verschillende koelkasten vergelijken, iedere koelkast heeft een prijs en heeft ook een verbruik (in kWh). Als we de koelkasten uitzetten in een grafiek zien we het volgende:
 
 ![](embed/Koelkast1.png "afbeelding")
@@ -69,6 +69,9 @@ Maak hier nu een pareto-curve van. Wat kan je uit deze grafiek afleiden?
 
 ### Oefening: jouw ideale Smartphone!
 Je kiest je nieuwe Smartphone nu misschien alleen op basis van de prijs of op basis van de kleur. Maar, dan heb je misschien niet altijd alles uit de prijs gehaald die je ervoor betaalde.
+
 * Bepaal wat voor jou belangrijk is aan een Smartphone: kies twee criteria die jij belangrijk vindt. Vind je de prijs belangrijk? Of toch maar hoe lang het duurt voordat je Smartphone volledig is opgeladen? Misschien vind je de duurzaamheid van je Smartphone wel belangrijk? 
+
 * Zoek enkele (minstens 10) Smartphone's op via het internet en zoek de eigenschappen van de twee criteria die jij voorop stelde. 
+
 * Maak uit je tabel een pareto-front en je komt helemaal te welke Smartphones ideaal zijn voor jou, of beter: welke je beter niét koopt!

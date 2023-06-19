@@ -41,4 +41,5 @@ Er zijn héél veel criteria die van toepassing zijn op een orthese om te bepale
 ## Oefening
 Denk nu zelf even na wat mogelijke criteria zouden zijn voor een enkel-voet-orthese. 
 Waaraan moet een orthese allemaal voldoen?! 
+
 ![](embed/malleloc2.jpg "afbeelding")
