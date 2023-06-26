@@ -34,4 +34,4 @@ teacher_exclusive: true
 
 ## Inleiding
 
-In dit leerpad zal je een microcontroller ombouwen tot theremin!
+Verken 
