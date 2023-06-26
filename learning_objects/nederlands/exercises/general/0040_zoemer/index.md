@@ -41,7 +41,7 @@ Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoem
 
 Geluid is een golf van luchtdruk veroorzaakt door een trillend object zoals bijvoorbeeld een instrument of luidspreker. De hoeveelheid trillingen per seconde (de frequentie) bepaalt de toonhoogte. Wanneer het aantal trillingen per seconde tussen de 20 en 20 000 ligt, dan kan je dit als mens horen. Voor trillingen per seconde gebruiken we de eenheid Hertz, afgekort Hz. De mens kan dus trillingen horen tussen de 20 Hz en 20 000 Hz.
 
-Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer die je met een gekozen frequentie kunt laten afspelen.
+Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer die je een gekozen frequentie kunt laten afspelen.
 
 ***
 
