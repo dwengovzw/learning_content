@@ -2,8 +2,8 @@
 hruid: pc_theremin
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Inleiding"
+description: "Inleiding"
 keywords: ["Microcontroller"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -34,4 +34,6 @@ teacher_exclusive: true
 
 ## Inleiding
 
-Verken 
+Verken de boeiende wereld van microcontrollers en ontdek stap voor stap hoe je zelf een theremin kunt maken!
+
+In dit leerpad leer je wat een theremin is en hoe je de microcontroller kan inzetten om zelf een theremin te maken.
