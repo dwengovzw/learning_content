@@ -2,8 +2,8 @@
 hruid: pc_theremin4
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Pentatoniek"
+description: "Pentatoniek"
 keywords: ["Microcontroller"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,10 +30,22 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+# Theremin
 
-## Tussentitel
+## Pentatoniek
 
-### Subtitel
+Analyseer de voorbeeldcode, programmeer de code op de Dwenguino en test ze uit! 
 
-**Onderverdeling**
+![blockly](@learning-object/theremin_4/nl/3)
+
+<div class="alert alert-box alert-success">
+Door rechts te klikken op een als-blok kan je deze kopiëren, kies in het menu voor Duplicaat.
+</div>
+
+Eens de Dwenguino geprogrammmeerd is, kan je het volgende deuntje eens uitproberen. Herken je het?
+
+![](embed/grieg.png "Grieg")
+
+<div class="alert alert-box alert-success">
+Probeer het zelf! Er bestaan heel veel pentatonische reeksen. Zoek er een paar op en probeer ook de frequenties van de tonen te weten te komen. Straks, wanneer jouw instrument af is, kan je ze uitproberen.
+</div>

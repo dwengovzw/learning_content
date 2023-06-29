@@ -55,4 +55,6 @@ Als voorbeeld kiezen we voor de tonen C, D, E, G en A (met als toonnamen do, re,
 
 Om dit voor elkaar te krijgen, moet je met elk van de vijf drukknoppen op de Dwenguino een frequentie laten overeenkomen, nl. 262, 294, 330, 392 en 440 Hz. Je kan dit eenvoudigweg doen door vijf als-blokken te gebruiken, waarbij je aan elke drukknop de juiste conditie meegeeft (je kan kiezen uit SW_N, SW_E, SW_S, SW_W en SW_C) terwijl je ook de acties aanpast.
 
-Analyseer de voorbeeldcode, programmeer de code op de Dwenguino en test ze uit! 
+<div class="alert alert-box alert-success">
+In het volgende leerobject vind je voorbeeldcode waarmee je de Dwenguino in een pentatonisch instrument transformeert.
+</div>

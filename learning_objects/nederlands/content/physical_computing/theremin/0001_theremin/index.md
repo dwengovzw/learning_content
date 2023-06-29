@@ -40,6 +40,10 @@ Een theremin is het eerste elektronisch muziekinstrument. Het is uitgevonden doo
 
 ![](embed/theremin.jpg "theremin")
 
+Een theremin beschikt over 2 antennes (zie afbeelding) die verbonden zijn met een kistje. Eén antenne regelt de toonhoogte, de andere het volume. De muzikant kan dan de toonhoogte en/of het volume aanpassen door de handen dichter of verder van de respectievelijke antennes te bewegen.
+
+***
+
 Om een eenvoudige theremin te bouwen, gebruik je een Dwenguino die verbonden is met een sonar-sensor; de zoemer is al aanwezig op de Dwenguino. De microcontroller van de Dwenguino zal de waarden die de sonar-sensor meet, verwerken en de zoemer laten zoemen op een bepaalde toonhoogte.  
 
 Een theremin moet zo worden geprogrammeerd dat de afstand van je hand tot de sonar de toonhoogte bepaalt. Dit is dus een digitaal systeem dat interageert met zijn omgeving.
