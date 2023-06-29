@@ -2,8 +2,8 @@
 hruid: pc_theremin7
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Van afstand naar geluid"
+description: "Van afstand naar geluid"
 keywords: ["Microcontroller"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,10 +30,16 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+# Theremin
 
-## Tussentitel
+## Van afstand naar geluid
 
-### Subtitel
+Bekijk onderstaande code en probeer te achterhalen wat deze doet.
 
-**Onderverdeling**
+![blockly](@learning-object/theremin_7a/nl/3)
+
+Dit is een zeer basische theremin, die je uiteraard zal moeten finetunen. Je hebt het misschien al gehoord: als er geen object voor de sonar-sensor staat, klinkt er een lage bromtoon. Dit komt omdat de sonar-sensor een 0 teruggeeft als hij geen obstakel ziet. Wijzig het programma zodat het stil blijft wanneer er geen obstakel gedetecteerd wordt (tip: je zal hiervoor het als-blok moeten gebruiken).
+
+![blockly](@learning-object/theremin_7b/nl/3)
+
+Indien je iets meer controle over de theremin wilt bewaren, kan je het 100 ms wacht-blok laten staan bij de frequentie.

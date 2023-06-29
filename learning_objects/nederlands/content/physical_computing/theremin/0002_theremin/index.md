@@ -36,6 +36,8 @@ teacher_exclusive: true
 
 <div class="alert alert-box alert-danger">
 De uitleg over de componenten die je hieronder terugvindt, is een beknopte samenvatting uit <a href="https://staging.dwengo.org/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true"><strong>het leerpad StartToDwenguino</strong></a>. Indien je dit nog niet hebt doorlopen of nog extra informatie wilt, kan je <a href="https://staging.dwengo.org/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true"><strong>hier</strong></a> terecht voor een meer uitgebreide uitleg.
+
+De hierop volgende 3 leerobjecten herhalen tevens de basis van de simulator.
 </div>
 
 Om met de Dwenguino een theremin te maken, zal je gebruik maken van 4 onderdelen:
