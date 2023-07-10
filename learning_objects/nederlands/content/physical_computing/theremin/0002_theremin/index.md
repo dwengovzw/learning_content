@@ -36,7 +36,7 @@ teacher_exclusive: true
 
 <div class="alert alert-box alert-danger">
 De uitleg over de componenten die je hieronder terugvindt, is een beknopte samenvatting uit <a href="https://staging.dwengo.org/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true"><strong>het leerpad StartToDwenguino</strong></a>. Indien je dit nog niet hebt doorlopen of nog extra informatie wilt, kan je <a href="https://staging.dwengo.org/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true"><strong>hier</strong></a> terecht voor een meer uitgebreide uitleg.
-
+<br><br>
 De hierop volgende 3 leerobjecten herhalen tevens de basis van de simulator.
 </div>
 
@@ -54,8 +54,6 @@ Hieronder wordt kort beschreven wat de componenten doen en hoe ze eruit zien.
 
 ![](embed/dwenguino_lcd.png "Afbeelding lcd-scherm")
 
-![](embed/lcd.png "lcd-scherm")
-
 Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
 Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. 
 
@@ -63,8 +61,6 @@ Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters o
 ### Zoemer
 
 ![](embed/zoemer.png "Zoemer")
-
-![](embed/buzzer_on_board.png "buzzer")
 
 Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoemer of buzzer. Hiermee kan je geluiden afspelen. 
 
@@ -77,8 +73,6 @@ Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer 
 
 ![](embed/knoppen.png "knoppen")
 
-![](embed/knoppen_sim.png "knoppen simulator")
-
 Op de dwenguino vind je vijf drukknoppen. De buitenste knoppen kregen de namen NOORD, ZUID, OOST, WEST, net als in aardrijkskunde. De middelste knop heet MIDDEN.
 
 Je kan op een knop klikken met je muis. Als je erop klikt, is de knop ingedrukt. Als je de knop weer loslaat, is hij niet meer ingedrukt.  
@@ -87,8 +81,6 @@ Je kan op een knop klikken met je muis. Als je erop klikt, is de knop ingedrukt.
 ### Sonar-sensor
 
 ![](embed/sonar.png "Sonar-sensor")
-
-![](embed/sonarsim.png "Sonar-sensor simulator")
 
 De sensor stuurt een ultrasoon geluidssignaal uit. Indien er een voorwerp binnen bereik is, zal deze ultrasone geluidsgolf op dit voorwerp weerkaatsen. Je kan de werking vergelijken met de echolocatie van vleermuizen. Door de tijd te meten tussen het verzenden van het geluidssignaal en het ontvangen van de weerkaatste straal, kan de sensor de afstand tot het object nauwkeurig bepalen. 
 
