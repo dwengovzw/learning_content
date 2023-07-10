@@ -40,7 +40,7 @@ Daarna komt een extra uitdaging: je programma finetunen zodat je een instrument 
 
 ***
 
-Eens je met de theremin begint te spelen, zal je gauw merken dat de het volledige spectrum een beetje teveel van het goede is. De hoge tonen worden al snel schril en het is moeilijk om de theremin nauwkeurig in te zetten daar je frequenties met stappen van 59 Hz springen. Hier kan je een mouw aan passen door de factor bij de afstand te verminderen.
+Eens je met de theremin begint te spelen, zal je gauw merken dat de het volledige spectrum een beetje teveel van het goede is. De hoge tonen worden al snel schril en het is moeilijk om de theremin nauwkeurig in te zetten omdat je frequenties met stappen van 59 Hz springen. Hier kan je een mouw aan passen door de factor bij de afstand te verminderen.
 
 Hieronder vind je een voorbeeld waarbij de factor is aangepast van 59 naar 10.
 
@@ -49,6 +49,6 @@ Hieronder vind je een voorbeeld waarbij de factor is aangepast van 59 naar 10.
 <div class="alert alert-box alert-success">
 Door de factor bij de afstand aan te passen, kan je het bereik van de theremin inperken tot lagere tonen en tegelijk de nauwkeurigheid van de theremin verbeteren.<br><br>
 
-Door de factor van 59 naar 10 te veranderen wordt het bereik 210 - 2200, wat meer dan voldoende is om een degelijk instrument te maken.
-Het verschil in nauwkeurigheid is ook opmerkzaam. De tonen zullen nu slechts met 10 Hz verschillen i.p.0v. 59 Hz, wat de theremin ook veel beter doet klinken.
+Door de factor van 59 naar 10 te veranderen wordt het bereik 210 - 220 Hz, wat meer dan voldoende is om een degelijk instrument te maken.
+Het verschil in nauwkeurigheid is ook opmerkzaam. De tonen zullen nu slechts met 10 Hz verschillen i.p.0v. 59 Hz, wat de theremin veel beter doet klinken.
 </div>
