@@ -42,8 +42,8 @@ De sonar zal dus een waarde tussen 0 en 200 teruggeven, terwijl geluidssignalen 
 Merk op dat we nu gebruik zullen maken van twee variabelen:
 
 <ul>
-<li>De variabele afstand waarin de sonar-meting opgeslagen wordt;</li>
-<li>De variabele frequentie die de afspeelbare frequentie zal bevatten (na omrekening van de afstand).</li>
+<li>De variabele <em>afstand</em> waarin de sonar-meting opgeslagen wordt;</li>
+<li>De variabele <em>frequentie</em> die de afspeelbare frequentie zal bevatten (na omrekening van de afstand).</li>
 </ul>
 </div>
 

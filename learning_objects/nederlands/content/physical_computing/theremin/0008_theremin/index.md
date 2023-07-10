@@ -50,5 +50,5 @@ Hieronder vind je een voorbeeld waarbij de factor is aangepast van 59 naar 10.
 Door de factor bij de afstand aan te passen, kan je het bereik van de theremin inperken tot lagere tonen en tegelijk de nauwkeurigheid van de theremin verbeteren.<br><br>
 
 Door de factor van 59 naar 10 te veranderen wordt het bereik 210 - 2200, wat meer dan voldoende is om een degelijk instrument te maken.
-Het verschil in nauwkeurigheid is ook opmerkzaam. De tonen zullen nu slechts met 10 Hz verschillen i.[.v. 59 Hz, wat de theremin ook veel beter doet klinken.
+Het verschil in nauwkeurigheid is ook opmerkzaam. De tonen zullen nu slechts met 10 Hz verschillen i.p.0v. 59 Hz, wat de theremin ook veel beter doet klinken.
 </div>
