@@ -65,5 +65,14 @@ Je gaat m.a.w. op zoek naar een regel die vertelt wat de populatiegroote op tijd
 
 Je maakt drie veronderstellingen voor zo'n regel:<br>
 -  De regel is *determistisch*: eenzelfde aantal op tijdstip *t-1* resulteert altijd in eenzelfde aantal op tijdstip *t*. Er wordt dus geen rekening gehouden met willekeurige fluctuaties.
--  De populatie is groot genoeg, zodat we de kunnen voorstellen aan de hand van reële getallen.  zoals  in plaats van natuurlijke getallen zoals ... In werkelijkheid zijn er geen (levende) 'halve' rupsen. Voor de eenvoud nemen we aan dat de populatie grootgenoeg is dat de populatie oneindig deelbaar is zodat kommagetallen een goede benadering zijn. FN: Voorwie zich nog altijd niet helemaal lekker voelt bij fracties van rupsen, je kan ook over denken als de biomassa van rupsen. Dit is het totaal gewicht van rupsen op tijdstip
-- De populatiegrootte wordt bekeken in een rij van perfect gescheiden generaties. We zeggen dus de *tijd discreet* doortikt. Onze modellen geven de populatiegroottes aan op tijdstippen *0, 1, 2, 3, ...*. Het houdt bv. geen steek om te kijken naar tijdstip *2,4*. Er is niets tussen de generaties!
+-  TODO De populatie is groot genoeg, zodat ze kan voorgesteld worden aan de hand van reële getallen, in plaats van natuurlijke getallen. In werkelijkheid zijn er geen (levende) 'halve' rupsen. Voor de eenvoud nemen we aan dat de populatie groot genoeg is dat de populatie oneindig deelbaar is zodat kommagetallen een goede benadering zijn. FN: Voor wie zich nog altijd niet helemaal lekker voelt bij fracties van rupsen, je kan ook over *x<sub>t</sub>* denken als de biomassa van rupsen, het totaal gewicht van rupsen op tijdstip *t*.
+- De *tijd* tikt *discreet* door: de populatiegrootte wordt bekeken in een rij van perfect gescheiden generaties. Een model geeft de populatiegroottes aan op tijdstippen *0, 1, 2, 3, ...*. Het houdt bv. geen steek om te kijken naar tijdstip *2,4*. Er is niets tussen de generaties!
+
+Een model kan je dus zien als een soort van uurwerk dat verder tikt. Elke stap wordt dezelfde regel toegepast op een variabele, om van de huidige generatie naar de volgende te gaan. 
+
+Afhankelijk van de manier waarop je de regel concretiseert, bekom je een ander model. 
+In de latere onderdelen van dit leerpad zal je elk van de bovenstaande veronderstellingen versoepelen om zo meer realistischere modellen te bekomen.
+
+Je start met twee regels die aanleiding geven tot twee modellen:<br>
+-  Exponentiële groei, waar de populatie ofwel snel uitsterft ofwel blijft groeien zonder rem.
+-  Logistische groei, waar de populatie wel een limiet heeft en een veel rijker gedrag kan vertonen.
