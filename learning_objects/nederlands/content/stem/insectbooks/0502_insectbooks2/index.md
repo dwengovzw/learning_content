@@ -40,11 +40,43 @@ De groeifactor $a$ stelt het gemiddeld aantal nakomelingen per rups voor. We wer
 -  In het randgeval waarbij $a = 1$, dan is de populatiegrootte **stabiel**: de geboorte van nieuwe rupsen compenseert de sterfte.
 
 -----------------------------
+## De parameters in het wiskundig model
+
+In de notebook wordt de grafiek geplot van een exponentiële functie. <br>
+Deze functie heeft $t$ als **veranderlijke**. Voor bepaalde waarden van $t$ wordt de populatiegrootte berekend en teruggegeven.<br>
+De exponentiële functie wordt bepaald door het functievoorschrift met daarin twee **parameters**: de groeifactor $r$ en de beginwaarde $x_{0}$. <br>
+Door de parameters aan te passen kan met het model geëxperimenteerd worden. De leerlingen kunnen het effect van de parameters op het model onderzoeken:
+-  Wat is het effect van een grotere beginwaarde?
+-  Wat is het effect van een grotere groeifactor?
+-  Wat is het effect van een groeifactor kleiner dan 1? 
+
 ## Draagkracht 
 
-In de **notebook** wordt de grafiek getekend van de exponentiële functie die de evolutie van de grootte van de rupsenpopulatie modelleert. <br>
+In de **notebook** wordt de grafiek getekend van de exponentiële functie die de evolutie van de grootte van de rupsenpopulatie modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.** <br>
 De plaag groeit erg snel, wat verontrustend is. Als ze nog verder in de tijd kijken, stellen ze het volgende vast: de populatiegrootte groeit zonder enige belemmering verder aan. Na 50 generaties zijn er meer dan 29 000 000 000 000 rupsen. Als je aanneemt dat één rups ongeveer 3 gram weegt, zijn er na 50 generaties meer dan 87 miljoen ton rupsen, het equivalent van 40 miljoen nijlpaarden. Er zijn bijlange niet genoeg buxushagen in de wereld om dergelijke populaties te ondersteunen!
 
 In de praktijk heeft elk ecosystem een bepaalde **draagkracht**, de hoeveelheden voedsel, water en ruimte die voorhanden zijn om een bepaalde populatie te ondersteunen. Onze rupsenpopulatie is gelimiteerd door het aantal planten dat beschikbaar is als voedsel. De draagkracht wordt vaak voorgesteld door de letter $K$.<br>
 $K = 1000$ zou betekenen dat een tuin genoeg buxussen heeft om 1000 rupsen te voeden, maar niet meer. <br>
 In het volgende onderdeel wordt het model aangepast om rekening te houden met de draagkracht.
+
+-----------------------------
+# Minimumdoelen (derde graad doorstroom) 
+### Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde
+TODO de andere richtingen met deze specifieke informaticadoelen: Bedrijfsondersteunende informaticawetenschappen(GO!), Informatica- en communicatiewetenschappen, Bedrijfswetenschappen (GO!), Mechatronica, Biotechnologische en chemische STEM-wetenschappen
+
+SMD 07.01.01	De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.<br>
+Er wordt een gestructureerde programmeertaal gebruikt, nl. Python.  Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken.
+
+MD 06.06	De leerlingen gebruiken modellen voor exponentiële groei. <br>
+Duiding uit het leerplan van Katholiek Onderwijs Vlaanderen: *Dit doel omvat enerzijds het modelleren (opstellen van het voorschrift vanuit een verwoording) en anderzijds het oplossen van vragen aan de hand van het model, bv. de waarde bepalen bij een gegeven tijdstip of het tijdstip bij een gegeven waarde bepalen. Alhoewel ‘exponentiële groei’ een toename suggereert, kan je ook dalende processen beschrijven.*
+
+SMD 06.08.07	De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken. <br>
+
+SMD 06.08.13	De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.<br> 
+
+MD 06.19	De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad. 
+
+MD 06.20	De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken. 
+Wenken uit het leerplan van Katholiek Onderwijs Vlaanderen: *Voorbeelden van heuristieken die aan bod kunnen komen: het gegeven en gevraagde expliciteren, het probleem herformuleren of opdelen in deelproblemen, een schets of tekening maken, bijzondere gevallen onderzoeken, tijdelijk één van de voorwaarden laten vallen, van achter naar voor werken, alle mogelijkheden opschrijven en dan elimineren. Het demathematiseren kan gebeuren via een antwoordzin. Controleren of een antwoord realistisch kan zijn, hoort ook bij deze stap van het oplossingsproces.*
+
+MD 06.21	De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken. 
