@@ -58,3 +58,4 @@ Begin met een bescheiden populatie van vijf rupsen.
 - Stel het functievoorschrift op voor deze exponentiele groei.
 
 ----------------------------
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6010 "Insect exponentieel")
