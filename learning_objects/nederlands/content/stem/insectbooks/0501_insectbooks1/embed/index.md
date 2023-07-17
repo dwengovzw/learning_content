@@ -50,7 +50,8 @@ waarbij $a \in \rm IR_{0}^{+}$ de **groeifactor** is.
 
 ## Model
 Bij een groeifactor $a=1,8$ leidt elke rups gemiddeld tot iets minder dan twee nieuwe rupsen per generatie.<br>
-Begin met een bescheiden populatie van vijf rupsen.
+Beschouw een bescheiden beginpopulatie van vijf rupsen.<br>
+A.d.h.v. de volgende opdracht stel je een wiskundig model op voor de evolutie van deze populatie rupsen. 
 
 #### Opdracht
 - Stel $a=1,8$ en $x_{0} = 5$.
@@ -58,4 +59,6 @@ Begin met een bescheiden populatie van vijf rupsen.
 - Stel het functievoorschrift op voor deze exponentiele groei.
 
 ----------------------------
+Nu ga je aan de slag met een interactieve online notebook. In de notebook zet je Python in om te rekenen en om het model grafisch voor te stellen.
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6010 "Insect exponentieel")
