@@ -45,7 +45,7 @@ Vele insecten zijn nuttig, maar vaak zijn ze een plaag wanneer ze de planten opv
 
 Foto buxusmot in actie
 
-Omdat deze rups zo schadelijk is, zijn ecologen en gewasbeschermers erg geïnteresseerd om de groei van populaties op te volgen en te modelleren. Wiskundige modellen helpen hen in te schatten of de populatie binnen een aanvaardbare grootte blijft of wanneer ze dreigt uit haar voegen te treden en bestrijding nodig is.
+Omdat deze rups zo schadelijk is, zijn ecologen en gewasbeschermers erg geïnteresseerd om de groei van populaties op te volgen en te modelleren. **Wiskundige modellen helpen hen in te schatten of de populatie binnen een aanvaardbare grootte blijft of wanneer ze dreigt uit haar voegen te treden en bestrijding nodig is.**
 
 ## Een wiskundig model
 
@@ -63,12 +63,14 @@ Je gaat m.a.w. op zoek naar een regel die vertelt wat de populatiegroote op tijd
 
 **Een wiskundig model is altijd een vereenvoudiging van de werkelijkheid.** Hier zal je een rupsenpopulatie modelleren in perfecte, niet-overlappende generaties.
 
-Je maakt drie veronderstellingen voor zo'n regel:<br>
+Je gaat uit van drie **veronderstellingen** voor zo'n regel:<br>
 -  De regel is *determistisch*: eenzelfde aantal op tijdstip *t-1* resulteert altijd in eenzelfde aantal op tijdstip *t*. Er wordt dus geen rekening gehouden met willekeurige fluctuaties.
 -  TODO De populatie is groot genoeg, zodat ze kan voorgesteld worden aan de hand van reële getallen, in plaats van natuurlijke getallen. In werkelijkheid zijn er geen (levende) 'halve' rupsen. Voor de eenvoud nemen we aan dat de populatie groot genoeg is dat de populatie oneindig deelbaar is zodat kommagetallen een goede benadering zijn. FN: Voor wie zich nog altijd niet helemaal lekker voelt bij fracties van rupsen, je kan ook over *x<sub>t</sub>* denken als de biomassa van rupsen, het totaal gewicht van rupsen op tijdstip *t*.
 - De *tijd* tikt *discreet* door: de populatiegrootte wordt bekeken in een rij van perfect gescheiden generaties. Een model geeft de populatiegroottes aan op tijdstippen *0, 1, 2, 3, ...*. Het houdt bv. geen steek om te kijken naar tijdstip *2,4*. Er is niets tussen de generaties!
 
+<div class="alert alert-box alert-success">
 Een model kan je dus zien als een soort van uurwerk dat verder tikt. Elke stap wordt dezelfde regel toegepast op een variabele, om van de huidige generatie naar de volgende te gaan. 
+</div>
 
 Afhankelijk van de manier waarop je de regel concretiseert, bekom je een ander model. 
 In de latere onderdelen van dit leerpad zal je elk van de bovenstaande veronderstellingen versoepelen om zo meer realistischere modellen te bekomen.
