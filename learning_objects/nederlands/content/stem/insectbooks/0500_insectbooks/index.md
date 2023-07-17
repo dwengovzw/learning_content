@@ -49,15 +49,17 @@ Omdat deze rups zo schadelijk is, zijn ecologen en gewasbeschermers erg geïnter
 
 ## Een wiskundig model
 
-**Het doel is om een rij te bekomen die de populatiegrootte doorheen de tijd voorstelt:**<br>
-<p align="center"><em><b>x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>t-1</sub>, x<sub>t</sub>, ...</b></em></p>
+<div class="alert alert-box alert-success">
+Het doel is om een rij te bekomen die de populatiegrootte doorheen de tijd voorstelt:<br>
+<align="center"><em><b>x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>t-1</sub>, x<sub>t</sub>, ...</b></em>
 
 Hierbij geldt:<br>
--  *x<sub>0</sub>* is de initiële populatiegrootte: het aantal rupsen bij het begin van de metingen.
--  *x<sub>t</sub>* stelt de populatiegrootte voor op generatie of tijdstip *t*.
--  *t* neemt de waarden *0, 1, 2, 3, ...* aan.
+-  <em>x<sub>0</sub></em> is de initiële populatiegrootte: het aantal rupsen bij het begin van de metingen.
+-  <em>x<sub>t</sub></em> stelt de populatiegrootte voor op generatie of tijdstip <em>t</em>.
+-  <em>t</em> neemt de waarden <em>0, 1, 2, 3, ...</em> aan.
 
-**Stel dat *x<sub>t-1</sub>*, het aantal rupsen op het tijdstip *t-1*, gekend is.<br> Wat is dan *x<sub>t</sub>*? M.a.w. hoeveel rupsen zijn er dan op tijdstip *t*?**
+<strong>Stel dat <em>x<sub>t-1</sub></em>, het aantal rupsen op het tijdstip <em>t-1</em>, gekend is.<br> Wat is dan <em>x<sub>t</sub></em>? M.a.w. hoeveel rupsen zijn er dan op tijdstip <em>t</em>?</strong>
+</div>
 
 Je gaat m.a.w. op zoek naar een regel die vertelt wat de populatiegroote op tijdstip *t* is, gegeven het aantal rupsen op tijdstip *t-1*. 
 
