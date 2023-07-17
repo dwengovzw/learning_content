@@ -49,7 +49,7 @@ Omdat deze rups zo schadelijk is, zijn ecologen en gewasbeschermers erg geïnter
 
 ## Een wiskundig model
 
-**Het doel is om een rij te bekomen die te populatiegrootte doorheen de tijd voorstelt:**<br>
+**Het doel is om een rij te bekomen die de populatiegrootte doorheen de tijd voorstelt:**<br>
 <p align="center"><em><b>x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>t-1</sub>, x<sub>t</sub>, ...</b></em></p>
 
 Hierbij geldt:<br>
