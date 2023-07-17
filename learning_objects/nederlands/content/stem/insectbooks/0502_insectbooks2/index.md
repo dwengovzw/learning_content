@@ -64,19 +64,22 @@ In het volgende onderdeel wordt het model aangepast om rekening te houden met de
 ### Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde
 TODO de andere richtingen met deze specifieke informaticadoelen: Bedrijfsondersteunende informaticawetenschappen(GO!), Informatica- en communicatiewetenschappen, Bedrijfswetenschappen (GO!), Mechatronica, Biotechnologische en chemische STEM-wetenschappen
 
-SMD 07.01.01	De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.<br>
+<span style="color: yellowgreen">SMD 07.01.01	De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
 Er wordt een gestructureerde programmeertaal gebruikt, nl. Python.  Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken.
 
-MD 06.06	De leerlingen gebruiken modellen voor exponentiële groei. <br>
+<span style="color: yellowgreen">MD 06.06	De leerlingen gebruiken modellen voor exponentiële groei.</span> <br>
 Duiding uit het leerplan van Katholiek Onderwijs Vlaanderen: *Dit doel omvat enerzijds het modelleren (opstellen van het voorschrift vanuit een verwoording) en anderzijds het oplossen van vragen aan de hand van het model, bv. de waarde bepalen bij een gegeven tijdstip of het tijdstip bij een gegeven waarde bepalen. Alhoewel ‘exponentiële groei’ een toename suggereert, kan je ook dalende processen beschrijven.*
 
-SMD 06.08.07	De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken. <br>
+<span style="color: yellowgreen">SMD 06.08.07	De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span> <br>
 
-SMD 06.08.13	De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.<br> 
+<span style="color: yellowgreen">SMD 06.08.13	De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.</span><br> 
 
-MD 06.19	De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad. 
+<span style="color: yellowgreen">MD 06.12	De leerlingen gebruiken rekenkundige en meetkundige rijen om patronen te beschrijven.</span><br>
+Het gaat hier om een meetkundige rij waarbij initieel het recursief voorschrift wordt gehanteerd. Voor het model, het voorschrift van de exponentiële functie, wordt de formule voor de algemene term gebruikt.   
 
-MD 06.20	De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken. 
+<span style="color: yellowgreen">MD 06.19	De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad. </span>
+
+<span style="color: yellowgreen">MD 06.20	De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</span><br> 
 Wenken uit het leerplan van Katholiek Onderwijs Vlaanderen: *Voorbeelden van heuristieken die aan bod kunnen komen: het gegeven en gevraagde expliciteren, het probleem herformuleren of opdelen in deelproblemen, een schets of tekening maken, bijzondere gevallen onderzoeken, tijdelijk één van de voorwaarden laten vallen, van achter naar voor werken, alle mogelijkheden opschrijven en dan elimineren. Het demathematiseren kan gebeuren via een antwoordzin. Controleren of een antwoord realistisch kan zijn, hoort ook bij deze stap van het oplossingsproces.*
 
-MD 06.21	De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken. 
+<span style="color: yellowgreen">MD 06.21	De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken. </span>
