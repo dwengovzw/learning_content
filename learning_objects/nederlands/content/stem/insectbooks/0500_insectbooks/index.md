@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Modelleren van een rupsenuitbraak met een exponentiële functie
+# Modelleren van een rupsenuitbraak
 
 ## Ecologen modelleren
 
