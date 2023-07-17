@@ -35,7 +35,7 @@ teacher_exclusive: false
 
 **Ecologen bestuderen hoe levende organismen interageren met andere levende organismen en met hun omgeving.**<br>
 
-Een van de meest fundamentele vragen die ze proberen te beantwoorden, is hoe een populatie vandieren, planten, bacteriën of mensen verandert doorheen de tijd. Groeit ze? Daalt ze? Stagneert ze? Gaat de populatie op en neer? Kan ze plots imploderen? 
+Een van de meest fundamentele vragen die ze proberen te beantwoorden, is hoe een populatie van dieren, planten, bacteriën of mensen verandert doorheen de tijd. Groeit ze? Daalt ze? Stagneert ze? Gaat de populatie op en neer? Kan ze plots imploderen? 
 
 Dit soort vragen beantwoorden ecologen aan de hand van **groeimodellen**: wiskundige vergelijkingen die de (verwachte) groei doorheen de tijd voorstellen. 
 
