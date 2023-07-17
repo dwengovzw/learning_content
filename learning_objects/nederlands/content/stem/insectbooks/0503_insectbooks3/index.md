@@ -2,8 +2,8 @@
 hruid: stem5_3
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "Logistieke groei"
+description: "Logistieke groei"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,6 +27,6 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-# Titel
+# Rupsenuitbraak modelleren met de logistieke functie
