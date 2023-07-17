@@ -33,10 +33,11 @@ teacher_exclusive: true
 
 ## Ecologen modelleren
 
-Ecologen bestuderen hoe levende organismen interageren met andere levende organismen en met hun omgeving. <br>
-Een van de meest fundamentele vragen die ze proberen te beantwoorden, is hoe een populatie vandieren, planten, bacteriën of mensen verandert doorheen de tijd. Groeit ze? Daalt ze? Stagneert ze? Gaat depopulatie op en neer? Kan ze plots imploderen? 
+**Ecologen bestuderen hoe levende organismen interageren met andere levende organismen en met hun omgeving.**<br>
 
-Dit soort vragen beantwoorden ecologen aan de hand van groeimodellen: wiskundige vergelijkingen die de (verwachte) groei doorheen de tijd voorstellen. 
+Een van de meest fundamentele vragen die ze proberen te beantwoorden, is hoe een populatie vandieren, planten, bacteriën of mensen verandert doorheen de tijd. Groeit ze? Daalt ze? Stagneert ze? Gaat de populatie op en neer? Kan ze plots imploderen? 
+
+Dit soort vragen beantwoorden ecologen aan de hand van **groeimodellen**: wiskundige vergelijkingen die de (verwachte) groei doorheen de tijd voorstellen. 
 
 ## Ontmoet de buxusmot
 
@@ -48,32 +49,21 @@ Omdat deze rups zo schadelijk is, zijn ecologen en gewasbeschermers erg geïnter
 
 ## Een wiskundig model
 
-Een wiskundig model is een vereenvoudiging van de werkelijkheid. Hier zal je de rupsenpopulatie modelleren in perfecte, niet-overlappende generaties. 
-
 **Het doel is om een rij te bekomen die te populatiegrootte doorheen de tijd voorstelt:**<br>
-<p style="text-align: center;">**x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>t-1</sub>, x<sub>t</sub>, ...**</p>
+<p align="center"><em><b>x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>t-1</sub>, x<sub>t</sub>, ...</b></em></p>
 
 Hierbij geldt:<br>
--  x<sub>0</sub> is de initiële populatiegrootte: het aantal rupsen bij het begin van de metingen.
--  x<sub>t</sub> stelt de populatiegrootte voor op generatie of tijdstip t.
--  t neemt de waarden 0, 1, 2, 3 ... aan.
+-  *x<sub>0</sub>* is de initiële populatiegrootte: het aantal rupsen bij het begin van de metingen.
+-  *x<sub>t</sub>* stelt de populatiegrootte voor op generatie of tijdstip *t*.
+-  *t* neemt de waarden *0, 1, 2, 3, ...* aan.
 
-**Stel dat x<sub>t-1</sub>, het aantal rupsen op het tijdstip t-1, gekend is. Wat is dan x<sub>t</sub>? M.a.w. hoeveel rupsen zijn er dan op tijdstip t?**<br>
-Je gaat m.a.w. op zoek naar een regel die vertelt wat de populatiegroote op tijdstip t is, gegeven het aantal rupsen er zijn op tijdstip t-1. 
+**Stel dat *x<sub>t-1</sub>*, het aantal rupsen op het tijdstip *t-1*, gekend is.<br> Wat is dan *x<sub>t</sub>*? M.a.w. hoeveel rupsen zijn er dan op tijdstip *t*?**
 
-We maken drie veronderstellingen voor zo'n regel:
-We gaan ervan uit dat de regel determistisch is. Als we de grootte kennen op tijdstip
-, resulteert ditaltijd in dezelfde grootte op tijdstip
-. We houden dus geen rekening met willekeurige fluctuaties.
-We nemen aan dat onze populatie groot genoeg is zodat we de kunnen voorstellen aan de hand van reëlegetallen zoals
-,
-, en
-in plaats van natuurlijke getallen zoals
-,
-en
-. Inwerkelijkheid zijn er geen (levende) 'halve' rupsen. Voor de eenvoud nemen we aan dat de populatie grootgenoeg is dat de populatie oneindig deelbaar is zodat kommagetallen een goede benadering zijn. FN: Voorwie zich nog altijd niet helemaal lekker voelt bij fracties van rupsen, je kan ook over
-denken als debiomassa van rupsen. Dit is het totaal gewicht van rupsen op tijdstip
-.
-De populatiegrootte wordt bekeken in een reeks van perfect gescheiden generaties. We zeggen dus de tijddiscreet doortikt. Onze modellen geven de groottes aan op tijdstippen
-, maar het houdt geensteek om te kijken naar tijdstip
-. Er is niets tussen de generaties!
+Je gaat m.a.w. op zoek naar een regel die vertelt wat de populatiegroote op tijdstip *t* is, gegeven het aantal rupsen op tijdstip *t-1*. 
+
+**Een wiskundig model is altijd een vereenvoudiging van de werkelijkheid.** Hier zal je een rupsenpopulatie modelleren in perfecte, niet-overlappende generaties.
+
+Je maakt drie veronderstellingen voor zo'n regel:<br>
+-  De regel is *determistisch*: eenzelfde aantal op tijdstip *t-1* resulteert altijd in eenzelfde aantal op tijdstip *t*. Er wordt dus geen rekening gehouden met willekeurige fluctuaties.
+-  De populatie is groot genoeg, zodat we de kunnen voorstellen aan de hand van reële getallen.  zoals  in plaats van natuurlijke getallen zoals ... In werkelijkheid zijn er geen (levende) 'halve' rupsen. Voor de eenvoud nemen we aan dat de populatie grootgenoeg is dat de populatie oneindig deelbaar is zodat kommagetallen een goede benadering zijn. FN: Voorwie zich nog altijd niet helemaal lekker voelt bij fracties van rupsen, je kan ook over denken als de biomassa van rupsen. Dit is het totaal gewicht van rupsen op tijdstip
+- De populatiegrootte wordt bekeken in een rij van perfect gescheiden generaties. We zeggen dus de *tijd discreet* doortikt. Onze modellen geven de populatiegroottes aan op tijdstippen *0, 1, 2, 3, ...*. Het houdt bv. geen steek om te kijken naar tijdstip *2,4*. Er is niets tussen de generaties!
