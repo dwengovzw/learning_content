@@ -30,3 +30,5 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 # Rupsenuitbraak modelleren volgens logistieke groei
+
+TODO Uitleg hoe de vergelijking tot stand komt. Groei afhankelijk van de populatiegrootte volgens lineair verband.
