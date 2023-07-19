@@ -51,32 +51,37 @@ Omdat deze rups zo schadelijk is, zijn ecologen en gewasbeschermers erg geïnter
 
 <div class="alert alert-box alert-success">
 Het doel is om een rij te bekomen die de populatiegrootte doorheen de tijd voorstelt:<br>
-<align="center"><em><b>x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>t-1</sub>, x<sub>t</sub>, ...</b></em>
+<align="center"><em><b>u<sub>0</sub>, u<sub>1</sub>, u<sub>2</sub>, ..., u<sub>t-1</sub>, u<sub>t</sub>, ...</b></em>
 
 Hierbij geldt:<br>
--  <em>x<sub>0</sub></em> is de initiële populatiegrootte: het aantal rupsen bij het begin van de metingen.
--  <em>x<sub>t</sub></em> stelt de populatiegrootte voor op generatie of tijdstip <em>t</em>.
+-  <em>u<sub>0</sub></em> is de initiële populatiegrootte: het aantal rupsen bij het begin van de metingen.
+-  <em>u<sub>t</sub></em> stelt de populatiegrootte voor op generatie of tijdstip <em>t</em>.
 -  <em>t</em> neemt de waarden <em>0, 1, 2, 3, ...</em> aan.
 
-<strong>Stel dat <em>x<sub>t-1</sub></em>, het aantal rupsen op het tijdstip <em>t-1</em>, gekend is.<br> Wat is dan <em>x<sub>t</sub></em>? M.a.w. hoeveel rupsen zijn er dan op tijdstip <em>t</em>?</strong>
+<strong>Stel dat <em>u<sub>t-1</sub></em>, het aantal rupsen op het tijdstip <em>t-1</em>, gekend is.<br> Wat is dan <em>u<sub>t</sub></em>? M.a.w. hoeveel rupsen zijn er dan op tijdstip <em>t</em>?</strong>
 </div>
 
-Je gaat m.a.w. op zoek naar een regel die vertelt wat de populatiegroote op tijdstip *t* is, gegeven het aantal rupsen op tijdstip *t-1*. 
+Je gaat dus op zoek naar een vergelijking die vertelt wat de populatiegrootte op tijdstip *t* is, gegeven het aantal rupsen op tijdstip *t-1*. 
 
-**Een wiskundig model is altijd een vereenvoudiging van de werkelijkheid.** Hier zal je een rupsenpopulatie modelleren in perfecte, niet-overlappende generaties.
+**Een wiskundig model is altijd een vereenvoudiging van de werkelijkheid.** Hier zal je een rupsenpopulatie modelleren in niet-overlappende generaties.
 
-Je gaat uit van drie **veronderstellingen** voor zo'n regel:<br>
--  De regel is *determistisch*: eenzelfde aantal op tijdstip *t-1* resulteert altijd in eenzelfde aantal op tijdstip *t*. Er wordt dus geen rekening gehouden met willekeurige fluctuaties.
--  TODO De populatie is groot genoeg, zodat ze kan voorgesteld worden aan de hand van reële getallen, in plaats van natuurlijke getallen. In werkelijkheid zijn er geen (levende) 'halve' rupsen. Voor de eenvoud nemen we aan dat de populatie groot genoeg is dat de populatie oneindig deelbaar is zodat kommagetallen een goede benadering zijn. FN: Voor wie zich nog altijd niet helemaal lekker voelt bij fracties van rupsen, je kan ook over *x<sub>t</sub>* denken als de biomassa van rupsen, het totaal gewicht van rupsen op tijdstip *t*.
-- De *tijd* tikt *discreet* door: de populatiegrootte wordt bekeken in een rij van perfect gescheiden generaties. Een model geeft de populatiegroottes aan op tijdstippen *0, 1, 2, 3, ...*. Het houdt bv. geen steek om te kijken naar tijdstip *2,4*. Er is niets tussen de generaties!
+Om te beginnen ga je uit van drie **veronderstellingen** voor zo'n vergelijking:<br>
+-  De vergelijking is *determistisch*: eenzelfde aantal op tijdstip *t-1* resulteert altijd in eenzelfde aantal op tijdstip *t*. Er wordt dus geen rekening gehouden met willekeurige fluctuaties.
+-  De populatiegrootte kan voorgesteld worden aan de hand van reële getallen in plaats van natuurlijke getallen. In werkelijkheid zijn er geen (levende) 'halve' rupsen; voor wie zich niet helemaal lekker voelt bij fracties van rupsen, je kan ook over *u<sub>t</sub>* denken als de biomassa van rupsen, de totale massa van de rupsen op tijdstip *t*. Bij aanzienlijke popultaiegroottes bv. kan met een eenheid van 100 of 1000 gewerkt worden, waardoor de aantallen door kommagetallen kunnen weergegeven worden.  
+-  De *tijd* tikt *discreet* door: de populatiegrootte wordt bekeken in een rij van perfect gescheiden generaties. Een model geeft de populatiegroottes aan op tijdstippen *0, 1, 2, 3, ...*. Het houdt bv. geen steek om te kijken naar tijdstip *2,4*. Er is niets tussen de generaties!
 
 <div class="alert alert-box alert-success">
-Een model kan je dus zien als een soort van uurwerk dat verder tikt. Elke stap wordt dezelfde regel toegepast op een variabele, om van de huidige generatie naar de volgende te gaan. 
+Een discreet model kan je dus zien als een soort van uurwerk dat verder tikt. Elke stap wordt dezelfde regel toegepast op een variabele, om van de huidige generatie naar de volgende te gaan. 
 </div>
 
 Afhankelijk van de manier waarop je de regel concretiseert, bekom je een ander model. 
-In de latere onderdelen van dit leerpad zal je elk van de bovenstaande veronderstellingen versoepelen om zo meer realistischere modellen te bekomen.
+In de latere onderdelen van dit leerpad zal je elk van de bovenstaande veronderstellingen versoepelen om zo realistischere modellen te bekomen.
 
-Je start met twee regels die aanleiding geven tot twee modellen:<br>
--  Exponentiële groei, waar de populatie ofwel snel uitsterft ofwel blijft groeien zonder rem.
--  Logistische groei, waar de populatie wel een limiet heeft en een veel rijker gedrag kan vertonen.
+Je start met twee discrete modellen:<br>
+-  Exponentiële groei, waar de populatie ofwel uitsterft ofwel blijft groeien zonder rem.
+-  Logistieke groei, waar de populatie wel een limiet heeft en een veel rijker gedrag kan vertonen.
+
+<div class="alert alert-box alert-success">
+Een wiskundig model is altijd een vereenvoudiging van de werkelijkheid.<br>
+Een wiskundig model helpt om de werkelijke situatie beter te begrijpen.
+</div>
