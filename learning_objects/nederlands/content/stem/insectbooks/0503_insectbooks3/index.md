@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Rupsenuitbraak modelleren met de logistieke functie
+# Rupsenuitbraak modelleren volgens logistieke groei
