@@ -29,22 +29,27 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Rupsenuitbraak modelleren met een exponentiële functie
+# Rupsenuitbraak modelleren volgens exponentiële groei
 
-## Situatie afhankelijk van de waarde van de groeifactor
+## Situatie afhankelijk van de waarde van a
 
-De groeifactor $a$ stelt het gemiddeld aantal nakomelingen per rups voor. We werken met gemiddelden, dus kommagetallen zijn toegestaan, maar negatieve getallen houden geen steek.
+Het getal <em>a</em> stelt het gemiddeld aantal nakomelingen per rups voor. We werken met gemiddelden, dus kommagetallen zijn toegestaan, maar negatieve getallen houden geen steek.
 
--  Als $a<1$, dan brengt elke rups minder dan één rups voort per generatie. In elke tijdstap wordt de populatie kleiner en kleiner tot ze uiteindelijk uitsterft. Je hebt dan te maken met een exponentiële **afname**.
--  Als $a>1$, zal elke rups aanleiding geven tot meer dan één nieuwe rups in de volgende generatie. De populatie zal groeien. Je hebt dan te maken met een exponentiële **toename**.
+-  Als <em>a < 1</em>, dan brengt elke rups minder dan één rups voort per generatie. In elke tijdstap wordt de populatie kleiner en kleiner tot ze uiteindelijk uitsterft. Je hebt dan te maken met een exponentiële **afname**.
+-  Als <em>a > 1</em>, dan zal elke rups aanleiding geven tot meer dan één nieuwe rups in de volgende generatie. De populatie zal groeien. Je hebt dan te maken met een exponentiële **toename**.
 -  In het randgeval waarbij $a = 1$, dan is de populatiegrootte **stabiel**: de geboorte van nieuwe rupsen compenseert de sterfte.
+
+In het geval van de rups van de buxusmot is <em>a > 1</em>, aangezien deze rupsen een plaag vormen.
+
+Het voorschrift is het recusrisef voorschrift van een meetkundige rij. Het getal <em>a</em> is niets anders dan het equivalent van de **groeifactor** bij een exponentiële functie (continu model i.p.v. discreet). Je hebt dus te maken met **exponentiële groei**. 
 
 -----------------------------
 ## De parameters in het wiskundig model
 
-In de notebook wordt de grafiek geplot van een exponentiële functie. <br>
-Deze functie heeft $t$ als **veranderlijke**. Voor bepaalde waarden van $t$ wordt de populatiegrootte berekend en teruggegeven.<br>
-De exponentiële functie wordt bepaald door het functievoorschrift met daarin twee **parameters**: de groeifactor $r$ en de beginwaarde $x_{0}$. <br>
+In de notebook wordt de grafiek geplot van een meetkundige rij a.d.h.v. het algemeen voorschrift. <br>
+De index <em>t</em> speelt de rol van **veranderlijke**. Voor bepaalde waarden van <em>t</em> wordt de populatiegrootte berekend en teruggegeven.<br>
+De meetkundige rij wordt bepaald door het algemeen voorschrift met daarin twee **parameters**: de groeifactor <em>a</em> en de beginwaarde <em>u<sub>0</sub></em>.
+
 Door de parameters aan te passen kan met het model geëxperimenteerd worden. De leerlingen kunnen het effect van de parameters op het model onderzoeken:
 -  Wat is het effect van een grotere beginwaarde?
 -  Wat is het effect van een grotere groeifactor?
@@ -52,11 +57,11 @@ Door de parameters aan te passen kan met het model geëxperimenteerd worden. De 
 
 ## Draagkracht 
 
-In de **notebook** wordt de grafiek getekend van de exponentiële functie die de evolutie van de grootte van de rupsenpopulatie modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.** <br>
-De plaag groeit erg snel, wat verontrustend is. Als ze nog verder in de tijd kijken, stellen ze het volgende vast: de populatiegrootte groeit zonder enige belemmering verder aan. Na 50 generaties zijn er meer dan 29 000 000 000 000 rupsen. Als je aanneemt dat één rups ongeveer 3 gram weegt, zijn er na 50 generaties meer dan 87 miljoen ton rupsen, het equivalent van 40 miljoen nijlpaarden. Er zijn bijlange niet genoeg buxushagen in de wereld om dergelijke populaties te ondersteunen!
+In de **notebook** wordt de grafiek getekend van een meetkundige rij die de evolutie van de rupsenpopulatiegrootte modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.** <br>
+De plaag groeit erg snel, wat verontrustend is. Als je nog verder in de tijd kijkt, stel je hetvolgende vast: de populatiegrootte groeit zonder enige belemmering verder aan; na 50 generaties zijn er meer dan 29 000 000 000 000 rupsen. Als je aanneemt dat één rups ongeveer 3 gram weegt, zijn er na 50 generaties meer dan 87 miljoen ton rupsen, het equivalent van 40 miljoen nijlpaarden. Er zijn bijlange niet genoeg buxushagen in de wereld om dergelijke populaties te ondersteunen!
 
-In de praktijk heeft elk ecosystem een bepaalde **draagkracht**, de hoeveelheden voedsel, water en ruimte die voorhanden zijn om een bepaalde populatie te ondersteunen. Onze rupsenpopulatie is gelimiteerd door het aantal planten dat beschikbaar is als voedsel. De draagkracht wordt vaak voorgesteld door de letter $K$.<br>
-$K = 1000$ zou betekenen dat een tuin genoeg buxussen heeft om 1000 rupsen te voeden, maar niet meer. <br>
+In de praktijk heeft elk ecosystem een bepaalde **draagkracht**, de hoeveelheden voedsel, water en ruimte die voorhanden zijn om een bepaalde populatie te ondersteunen. Onze rupsenpopulatie is gelimiteerd door het aantal planten dat beschikbaar is als voedsel. De draagkracht wordt vaak voorgesteld door de letter <em>K</em>.<br>
+<em>K = 1000 </em> zou betekenen dat een tuin genoeg buxussen heeft om 1000 rupsen te voeden, maar niet meer. <br>
 In het volgende onderdeel wordt het model aangepast om rekening te houden met de draagkracht.
 
 -----------------------------
