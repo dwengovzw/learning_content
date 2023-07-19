@@ -29,34 +29,35 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Rupsenuitbraak modelleren met de exponentiële functie
+# Rupsenuitbraak modelleren volgens exponentiële groei
 
 ## Inleiding
 Vele insecten willen zo veel mogelijk nakomelingen voortbrengen. <br>
-In een generatie verpopt een buxusmotrups zich tot een buxusmot, welke nieuwe eitjes legt op een haag. Uit deze eitjes kruipen nieuwe rupsen en de cyclus herbegint. <br>
+In een generatie verpoppen buxusmotrupsen zich tot een buxusmotten, die op hun beurt nieuwe eitjes leggen op een haag. Uit deze eitjes kruipen nieuwe rupsen en de cyclus herbegint. <br>
 Het leven van een insect is echter niet zonder gevaar. Op elk moment in de cyclus kunnen eitjes, rupsen, poppen en motten sterven door predatie van vogels, pesticiden, uithongering of andere gevaren. 
 
-Gemiddeld gezien kan je echter aannemen dat elke rups aanleiding geeft tot een bepaald aantal nieuwe rupsen in de volgende generatie.<br>
-Dit leidt tot de volgende regel: 
-$$x_{t} = a . x_{t-1}$$
+Gemiddeld gezien kan je echter aannemen dat elke rups aanleiding geeft tot een bepaald aantal nieuwe rupsen in de volgende generatie.
 
-waarbij $a \in \rm IR_{0}^{+}$ de **groeifactor** is. 
+Dit leidt tot de volgende uitdrukking:<br>
+<p align="center"><em> u<sub>t</sub> = a . u<sub>t-1</sub></em></p>
 
-#### Opdracht
+waarbij <em>a</em> een strikt positief getal is. <br>
+Deze vergelijking is niets anders dan het recursief voorschrift van een rij.
 
--  Beschrijf de situatie naargelang de waarde van $a$.
--  De buxusmot vormt een plaag. Welke waarden van $a$ passen in deze situatie?
+#### Opdracht 1
+-  Beschrijf de situatie naargelang de waarde van <em>a</em>.
+-  De rupsen van de buxusmot vormen een plaag. Welke waarden van <em>a</em> passen in deze situatie?
 -  Leg uit waarom je hier te maken hebt met **exponentiële groei**.
 
 ## Model
-Bij een groeifactor $a=1,8$ leidt elke rups gemiddeld tot iets minder dan twee nieuwe rupsen per generatie.<br>
+Bij een groeifactor <em>a = 1,8</em> leidt elke rups gemiddeld tot iets minder dan twee nieuwe rupsen per generatie.<br>
 Beschouw een bescheiden beginpopulatie van vijf rupsen.<br>
 A.d.h.v. de volgende opdracht stel je een wiskundig model op voor de evolutie van deze populatie rupsen. 
 
-#### Opdracht
-- Stel $a=1,8$ en $x_{0} = 5$.
-- Bepaal het aantal rupsen op $t = 1$, $t = 2$, $t = 3$ en $t = 4$.
-- Stel het functievoorschrift op voor deze exponentiele groei.
+#### Opdracht 2
+- Stel <em>a = 1,8</em> en <em>u<sub>0</sub> = 5</em>.
+- Bepaal het aantal rupsen op <em>t = 1</em>, <em>t = 2</em>, <em>t = 3</em> en <em>t = 4</em>.
+- Stel het algemeen voorschrift op voor de rij met deze exponentiële groei.
 
 ----------------------------
 Nu ga je aan de slag met een interactieve online notebook. In de notebook zet je Python in om te rekenen en om het model grafisch voor te stellen.
