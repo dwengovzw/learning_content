@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Belang van computationeel denken
+# De gedigitaliseerde wereld
 
 <div class="alert alert-box alert-info">
     <strong>Klasdiscussie</strong><br> 
@@ -42,8 +42,13 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
 
 <div class="alert alert-box alert-success">
     <strong>Functioneren in de gedigitaliseerde wereld</strong><br> 
-    We leven in een technologische kennismaatschappij, die <strong>snel verandert</strong> door de aanhoudende ontwikkelingen in digitalisering, de niet te stoppen stroom aan informatie, en de opkomst van artificiële intelligentie.<br> Om de gedigitaliseerde wereld te begrijpen is digitale toepassingen kunnen <strong>gebruiken niet voldoende</strong>. Het is immers van belang dat mensen zich weerbaar en flexibel kunnen opstellen tegenover nieuwe digitale toepassingen.<br> <strong>Computationeel denken is een werkwijze om die digitale wereld te begrijpen en erop in te grijpen.</strong> Door inzichten te verwerven in de concepten die aan de basis liggen van de digitalisering, kan men de mogelijkheden, de beperkingen en de eventuele risico’s van deze toepassingen beter inschatten, wat ook de angst voor technologie wegneemt. Computationeel kunnen denken kan ervoor zorgen dat men beter functioneert in en kan participeren in de gedigitaliseerde maatschappij, en dat men de wisselwerking tussen technologische ontwikkelingen en de evoluties in de maatschappij begrijpt. 
+    We leven in een technologische kennismaatschappij, die <em>snel verandert</em> door de aanhoudende ontwikkelingen in digitalisering, de niet te stoppen stroom aan informatie, en de opkomst van artificiële intelligentie.<br> Om de gedigitaliseerde wereld te begrijpen is digitale toepassingen kunnen <em>gebruiken niet voldoende</em>. Het is immers van belang dat mensen zich weerbaar en flexibel kunnen opstellen tegenover nieuwe digitale toepassingen. <em>Computationeel denken is een werkwijze om die digitale wereld te begrijpen en erop in te grijpen.</em> Door inzichten te verwerven in de concepten die aan de basis liggen van de digitalisering, kan men de mogelijkheden, de beperkingen en de eventuele risico’s van deze toepassingen beter inschatten, wat ook de angst voor technologie wegneemt. Computationeel kunnen denken kan ervoor zorgen dat men beter functioneert in en kan participeren in de gedigitaliseerde maatschappij, en dat men de wisselwerking tussen technologische ontwikkelingen en de evoluties in de maatschappij begrijpt. 
 </div>
+
+**Wereldwijd** is er een groeiende aandacht voor computationeel denken, een manier van denken die aan de basis ligt van alle digitale toepassingen. 
+
+Computationeel kunnen denken stelt mensen in staat om zich weerbaar en flexibel te kunnen opstellen tegenover nieuwe digitale toepassingen. Daarom kiezen steeds meer landen ervoor om computationeel denken in de leerdoelen van het secundair onderwijs op te nemen. 
+In **Vlaanderen** is computationeel denken bv. verplicht voor alle leerlingen van de eerste graad, en kreeg het zelfs de status van **basisgeletterdheid**. Dat betekent dat elke individuele leerling de opgelegde doelstellingen dient te behalen. 
 
 <div class="alert alert-box alert-primary">
     <strong>Opdracht voor de leerlingen. Welke digitale systemen heb je thuis?</strong><br> 
@@ -53,8 +58,6 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
 Er is echter nog veel werk aan de winkel. Er is nog veel onzekerheid over welke concepten van computationeel denken het beste aan bod komen in het onderwijs en hoe dat dan het beste gebeurt. Ook de professionalisering van leerkrachten verdient de nodige aandacht, want ze zijn onvoldoende vertrouwd met de terminologie van computationeel denken en mogelijke manieren van aanpak, didactiek en evaluatie.<br>
 Een historisch overzicht van het ontstaan van computationeel denken (zie leerpad 'Historiek' van het project 'Computationeel denken'), de ervaringen die men in het buitenland al heeft opgebouwd in het onderwijs, en inzichten van specialisten ter zake kunnen hier de weg wijzen. Voorbeelden uit de klaspraktijk maken de aanpak van computationeel denken concreet (zie leerpad 'Cases' van het project 'Computationeel denken').
 
-**Wereldwijd** is er een groeiende aandacht voor computationeel denken, een manier van denken die aan de basis ligt van alle digitale toepassingen. Computationeel kunnen denken stelt mensen in staat om zich weerbaar en flexibel te kunnen opstellen tegenover nieuwe digitale toepassingen. Daarom kiezen steeds meer landen ervoor om computationeel denken in de leerdoelen van het secundair onderwijs op te nemen. 
-In **Vlaanderen** is computationeel denken bv. verplicht voor alle leerlingen van de eerste graad, en kreeg het zelfs de status van **basisgeletterdheid**. Dat betekent dat elke individuele leerling de opgelegde doelstellingen dient te behalen. 
-
+---------------------------------
 #### Bronnen:
 Riley, D. & Hunt, K. (2014). *COMPUTATIONAL THINKING FOR THE MODERN PROBLEM SOLVER.* Florida, Verenigde Staten: Chapman and Hall/CRC.
