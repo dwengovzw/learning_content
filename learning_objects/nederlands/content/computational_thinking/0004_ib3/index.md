@@ -34,14 +34,15 @@ teacher_exclusive: true
 
 ## Computationeel denken is niet nieuw
 
-Maar wat houdt computationeel denken in? De term is vrij nieuw - ‘computationeel denken’ dook voor het eerst in een onderwijscontext op in 1980, in het boek ‘Mindstorms’ van Seymour Papert - en is bij leerkrachten niet altijd gekend. Vaak wordt verkeerdelijk gedacht dat de term een compleet nieuwe lading leerstof dekt, terwijl de concepten van computationeel denken in feite heel ver teruggaan in de tijd, naar een tijd waarin computers nog niet bestonden. 
+Maar wat houdt computationeel denken in? De term is vrij nieuw - ‘computationeel denken’ dook voor het eerst in een onderwijscontext op in 1980, in het boek ‘Mindstorms’ van Seymour Papert - en is bij leerkrachten niet altijd gekend. Vaak wordt verkeerdelijk gedacht dat de term een compleet nieuwe lading leerstof dekt, terwijl de concepten van computationeel denken in feite heel ver teruggaan in de tijd, naar een tijd waarin computers nog niet bestonden. Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden zo niet altijd herkend.
 
 <div class="alert alert-box alert-success">
     <strong>Computationeel denken is niet nieuw</strong><br>
-    Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden zo niet altijd herkend. Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal (Barr & Stephenson, 2011; Bocconi et al., 2016; Yadav et al., 2017a). 
+     Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal (Barr & Stephenson, 2011; Bocconi et al., 2016; Yadav et al., 2017a). 
 </div> 
 
-Een werkbare definitie van computationeel denken vind je in het leerpad 'Concreet' van het project 'Computationeel denken'.
+Een werkbare definitie van computationeel denken vind je in het leerpad 'Definitie en aandachtspunten'.<br>
+Voor een historisch overzicht van het ontstaan van computationeel denken, zie leerpad 'Historiek'.
 
 #### Bronnen:
 Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM
