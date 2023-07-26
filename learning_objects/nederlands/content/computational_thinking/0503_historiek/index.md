@@ -30,15 +30,14 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Historiek
+# Computationeel denken
 
-## Computationeel denken 
 **Computationeel denken is dus gestoeld op wiskundig, logisch en algoritmisch denken, gecombineerd met inzichten uit de natuurwetenschappen, de technologie en de ingenieurswetenschappen.** Het vertoont dan ook overeenkomstigheden met ‘andere’ manieren van denken (Denning & Tedre, 2019; Barr & Stephenson, 2011; Selby & Woollard, 2013). En hoewel computationeel denken zijn oorsprong niet kent in de computerwetenschappen, is het wel een **essentiële praktijk voor een computerwetenschapper** (zie ook de kader over de ‘Great Principles’). 
 
-> Ook in andere domeinen zijn er van die ‘grote principes’, bv. Big Ideas in de natuurwetenschappen ([Big Ideas](https://bigideasgreatscience.wordpress.com/)) en cross-cutting concepts in STEM. 
+> Ook in andere domeinen zijn er van die ‘grote principes’, bv. 'big ideas' in de natuurwetenschappen ([Big Ideas](https://bigideasgreatscience.wordpress.com/)) overeenkomstig met de 'cross-cutting concepts' in STEM. 
 
-Daarenboven verstaat niet iedereen hetzelfde onder ‘computationeel denken’. Iemands opleiding kan daar bv. een rol in spelen: een computerwetenschapper zal er met een andere bril naar kijken dan bv. een bioloog of een wiskundige. 
-Ook de manier waarop iemand computationeel denken aanwendt, verschilt naargelang waarvoor die het wil gebruiken (Hemmendinger, 2010; Weintrop et al., 2016). 
+Niet iedereen verstaat hetzelfde onder ‘computationeel denken’. Iemands opleiding kan daar bv. een rol in spelen: een computerwetenschapper zal er met een andere bril naar kijken dan bv. een bioloog of een wiskundige. 
+Ook de manier waarop iemand computationeel denken aanwendt, verschilt, naargelang waarvoor die het wil gebruiken (Hemmendinger, 2010; Weintrop et al., 2016). 
 
 De verschillende facetten die computationeel denken behelst, zijn bovendien over de decennia heen uitgebreid naar bv. denken in meerdere niveaus van abstractie (wat verschilt van ‘abstractie’ in de wiskunde) en nagaan hoe goed een computeroplossing opschaalt (Denning, 2009). Bovendien verandert de inhoud van de term steeds mee met de ontwikkelingen in de computerwetenschappen, dus met ‘wat moderne computers kunnen’ en de verdere digitalisering van de maatschappij (Denning & Tedre, 2019). Computationeel denken gaat nu vooral om **het denkvermogen “om op een effectieve manier met een computer de complexe problemen op te lossen waar mensen tegenaan lopen”** (Lu & Fletcher, 2009). De computer wordt bv. ingezet om een maatschappelijk relevant probleem, zoals de klimaatverandering, beter te begrijpen. **Het creatieve proces waarin men nadenkt over hoe men de computer voor al deze problemen inzet, is de essentie van computationeel denken**. 
 
