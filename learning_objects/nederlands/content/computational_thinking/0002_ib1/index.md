@@ -40,10 +40,12 @@ Leerlingen leren over fysica, chemie en biologie omwille van de natuurwetenschap
 
 **Computationeel denken is een werkwijze om die digitale wereld te begrijpen en erop in te grijpen**. Het is dan ook niet verwonderlijk dat er overal ter wereld een groeiende aandacht voor is in het leerplichtonderwijs (Wing, 2006; Bocconi et al., 2016; Yadav et al., 2017a). 
 
+**Wereldwijd** is er een groeiende aandacht voor computationeel denken, een manier van denken die aan de basis ligt van alle digitale toepassingen. Computationeel kunnen denken stelt mensen in staat om zich weerbaar en flexibel te kunnen opstellen tegenover nieuwe digitale toepassingen. Daarom kiezen steeds meer landen ervoor om computationeel denken in de leerdoelen van het secundair onderwijs op te nemen. 
+In **Vlaanderen** is computationeel denken bv. verplicht voor alle leerlingen van de eerste graad, en kreeg het zelfs de status van **basisgeletterdheid**. Dat betekent dat elke individuele leerling de opgelegde doelstellingen dient te behalen.
+
 Naast de fysieke wereld wordt de digitale wereld steeds belangrijker. De ontwikkeling van al die digitale toestellen en toepassingen gebeurt door mensen die computationeel kunnen denken. Om onze leerlingen te laten inzien wat aan de grondslag ligt van de steeds meer gedigitaliseerde maatschappij, om ze te laten begrijpen welke impact de digitalisering heeft op hun eigen leven en opdat ze in de toekomst als burger gefundeerde beslissingen zouden kunnen nemen, is het nodig dat onze leerlingen de basisconcepten van computationeel denken begrijpen en kunnen toepassen.
 Over de **hele wereld** wordt dan ook gepleit om de jongeren computationeel te leren denken en wordt computationeel denken aangezien als een **21ste-eeuwse competentie** (Yadav et al., 2017a). Zo ook in Vlaanderen. <br>
-De digitale vaardigheden worden zelfs aangezien als een manier om de andere 21ste-eeuwse vaardigheden te verwerven en te evalueren. Dat is de voornaamste reden waarom landen computationeel denken invoeren in het onderwijs. Ook de Europese Unie onderschrijft het belang van de 21ste-eeuwse competenties en de rol die computationeel
-denken daarin kan spelen. 
+De digitale vaardigheden worden zelfs aangezien als een manier om de andere 21ste-eeuwse vaardigheden te verwerven en te evalueren. Dat is de voornaamste reden waarom landen computationeel denken invoeren in het onderwijs. Ook de Europese Unie onderschrijft het belang van de 21ste-eeuwse competenties en de rol die computationeel denken daarin kan spelen. 
 
 > Meer uitleg over de 21ste-eeuwse vaardigheden vind je in het leerpad 'Eindtermen en minimumdoelen'. 
 
