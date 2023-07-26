@@ -30,14 +30,13 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Historiek
+# Robots en AI
 
-## Robots en AI 
-Nadenken over automatisatie en kunstmatige intelligentie is van alle tijden. Homeros (ongeveer 800 jaar voor Christus) beschreef in de Ilias automatische hemelpoorten en in de Odyssee artificieel intelligente schepen. Maar deze werken illustreren ook de eeuwenoude fascinatie om dierlijk en menselijk gedrag te imiteren: de gouden dienstmeisjes van Hephaistos, die eigenlijk een soort van zorgrobots waren, zijn automatische tripods die de goden konden dienen alsook de gouden en zilveren honden die het paleis van Alkinoos moesten bewaken en onsterfelijk waren (Kalligeropoulos & Vasileiadou, 2008; Kline, 2004, 2009). 
+Nadenken over automatisatie en kunstmatige intelligentie is van alle tijden. Homeros (ongeveer 800 jaar voor Christus) beschreef in de Ilias automatische hemelpoorten en in de Odyssee artificieel intelligente schepen. Maar deze werken illustreren ook de eeuwenoude fascinatie om dierlijk en menselijk gedrag te imiteren. Homeros schrijft over de gouden dienstmeisjes van Hephaistos, die eigenlijk een soort van zorgrobots waren, zijn automatische tripods die de goden konden dienen, alsook de gouden en zilveren honden die het paleis van Alkinoos moesten bewaken en onsterfelijk waren (Kalligeropoulos & Vasileiadou, 2008; Kline, 2004, 2009). 
 
 > Het woord ‘automata ( αυτ ó µατα )’ komt van Homeros; het komt voor in de Ilias en de Odyssee. Het betekent ‘uit zichzelf’. Homeros beschrijft er machines van Hephaistos mee die uit zichzelf kunnen bewegen (Kalligeropoulos & Vasileiadou, 2008). 
 
-Automatisatie bleef dus niet beperkt tot het **ontwerpen van machines**, maar mensen gingen ook op zoek naar manieren om **dierlijk en menselijk gedrag te imiteren**. Ismail Al-Jazari schreef in 1206 een boek waarin hij de indrukwekkende automaten beschreef die hij ontwierp, waaronder een boot met vier automatische muzikanten. Dan zijn er nog de ‘humanoïde robot’ die Leonardo da Vinci ontwierp (maar niet realiseerde) (waarschijnlijk op het einde van de 15de eeuw) en de mechanische eend van Jacques de Vaucanson uit de 18de eeuw. De automaten waren een eerste aanzet tot de huidige robots. 
+Automatisatie bleef dus niet beperkt tot het **ontwerpen van machines**, maar mensen gingen ook op zoek naar manieren om **dierlijk en menselijk gedrag te imiteren**. Ismail Al-Jazari schreef in 1206 een boek waarin hij de indrukwekkende automaten beschreef die hij ontwierp, waaronder een boot met vier automatische muzikanten. Dan zijn er nog de ‘humanoïde robot’ die Leonardo da Vinci op het einde van de 15de eeuw ontwierp (maar vermoedelijk nooit realiseerde) en de mechanische eend van Jacques de Vaucanson uit de 18de eeuw die de vertering van voedsel simuleerde. De automaten waren een eerste aanzet tot de huidige robots. 
 
 > [De 'Mechanische Turk'](https://youtu.be/N4ccP8MwR50https://youtu.be/MCW_wp0dgF4) </br>
 > [Robot Leonardo Da Vinci](https://nl.wikipedia.org/wiki/Leonardo_da_Vinci%27s_robot) </br>
