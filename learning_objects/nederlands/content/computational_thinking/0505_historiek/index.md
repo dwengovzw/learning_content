@@ -30,9 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Historiek
+# Misconcepten
 
-## Misconcepten
 Soms steken er misconcepten de kop op: men droomt ervan dat 
 * computers alle taken zullen kunnen uitvoeren en alle problemen zullen kunnen oplossen; 
 * men door te leren programmeren alle problemen zal kunnen aanpakken; 
