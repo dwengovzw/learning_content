@@ -34,7 +34,8 @@ teacher_exclusive: true
 
 <div class="alert alert-box alert-warning">
     <strong>Samengevat</strong><br> 
-    Computationeel denken wordt aangezien als een vaardigheid die ons weerbaar maakt in een snel veranderende maatschappij. Er is dan ook een groeiende aandacht voor in het leerplichtonderwijs, ook in Vlaanderen. Hoewel computationeel denken stamt uit een tijd dat er nog geen computers waren, zijn leerkrachten er toch onvoldoende vertrouwd mee. 
+    Computationeel denken wordt aangezien als een competentie die ons weerbaar maakt in een snel veranderende maatschappij. Er is dan ook een groeiende aandacht voor in het leerplichtonderwijs, ook in Vlaanderen. Hoewel computationeel denken stamt uit een tijd dat er nog geen computers waren, zijn leerkrachten er toch onvoldoende vertrouwd mee. Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden zo niet altijd herkend.
 </div>
 
-Wil je meer weten? Een definitie van computationeel denken en enkele aandachtspunten vind je in het leerpad 'Concreet' van het project 'Computationeel denken'. Net zoals 'Cases' en 'Kijkwijzer' geeft dit leerpad informatie om concreet met computationeel denken aan de slag te gaan in jouw les.<br> Verken de leerpaden 'Historiek' en "Eindtermen' van het project 'Computationeel denken' voor meer achtergrondinformatie. Bekijk 'Evaluatiekader' voor tips rond evalueren.    
+Wil je meer weten? Bekijk het leerpad 'Definitie en aandachtspunten'.<br> Verken de leerpaden 'Historiek' en "Eindtermen en minimumdoelen' voor meer achtergrondinformatie.<br>
+Het leerpad 'Voorbeelden' toont waar computationeel denken aan bod kan komen in verschillenden vakken of domeinen.<br> 'Bebras' geeft meer duiding bij de terminologie.<br> En de leerpaden 'Cases', 'Impact van digitale systemen' en 'Kijkwijzer' geven informatie om concreet met computationeel denken aan de slag te gaan in jouw les.<br> Bekijk 'Evaluatiekader' voor tips rond evalueren.    
