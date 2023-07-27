@@ -60,6 +60,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "ct_historiek5",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct_historiek5",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "ct_historiek6",
             "version": "3",
             "language": "nl"
