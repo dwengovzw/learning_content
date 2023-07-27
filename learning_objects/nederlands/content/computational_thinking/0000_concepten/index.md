@@ -47,9 +47,6 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
 
 **Wereldwijd** is er een groeiende aandacht voor computationeel denken, een manier van denken die aan de basis ligt van alle digitale toepassingen. 
 
-Computationeel kunnen denken stelt mensen in staat om zich weerbaar en flexibel te kunnen opstellen tegenover nieuwe digitale toepassingen. Daarom kiezen steeds meer landen ervoor om computationeel denken in de leerdoelen van het secundair onderwijs op te nemen. 
-In **Vlaanderen** is computationeel denken bv. verplicht voor alle leerlingen van de eerste graad, en kreeg het zelfs de status van **basisgeletterdheid**. Dat betekent dat elke individuele leerling de opgelegde doelstellingen dient te behalen. 
-
 <div class="alert alert-box alert-primary">
     <strong>Opdracht voor de leerlingen. Welke digitale systemen heb je thuis?</strong><br> 
     Ga na welke digitale systemen je gebruikt op een doorsnee dag, vanaf het moment dat je wakker wordt tot wanneer je op school komt. 
