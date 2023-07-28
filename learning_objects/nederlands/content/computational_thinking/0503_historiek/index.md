@@ -49,8 +49,10 @@ Ook de manier waarop iemand computationeel denken aanwendt, verschilt, naargelan
 Het gaat om het kunnen oplossen van de **eigen** problemen waarmee men geconfronteerd wordt (Hemmendinger, 2010). Computationeel denken gaat nu vooral om **het denkvermogen “om op een effectieve manier met een computer de complexe problemen op te lossen waar mensen tegenaan lopen”** (Lu & Fletcher, 2009). 
 
 <div class="alert alert-box alert-success">
-    Computationeel denken helpt om de werking van digitale toestellen en digitale toepassingen te begrijpen, maar gaat ook om het denkproces dat leidt tot het creëren ervan. Computationeel denken is zo spontaan uitgebreid met het zien waar en hoe de computer kan worden ingezet, en dat niet enkel door computerwetenschappers.** Naarmate het domein van de computerwetenschappen zich verder ontwikkelt, zal ook het computationeel denken mee evolueren (Aho, 2011; Denning & Tedre, 2019; Selby & Woollard, 2013).
+    Computationeel denken helpt om de werking van digitale toestellen en digitale toepassingen te begrijpen, maar gaat ook om het denkproces dat leidt tot het creëren ervan. Computationeel denken is zo spontaan uitgebreid met het zien waar en hoe de computer kan worden ingezet, en dat niet enkel door computerwetenschappers. Naarmate het domein van de computerwetenschappen zich verder ontwikkelt, zal ook het computationeel denken mee evolueren (Aho, 2011; Denning & Tedre, 2019; Selby & Woollard, 2013).
 </div>
+
 -----------------------
+
 #### Bronnen
 
