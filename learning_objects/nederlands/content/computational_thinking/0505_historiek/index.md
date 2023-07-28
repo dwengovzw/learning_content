@@ -2,8 +2,8 @@
 hruid: ct_historiek6
 version: 3
 language: nl
-title: "Misconcepten"
-description: "Misconcepten"
+title: "Misconcepties"
+description: "Misconcepties"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,9 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Misconcepten
+# Misconcepties
 
-Soms steken er misconcepten de kop op: men droomt ervan dat 
+Soms steken er misconcepties de kop op: men droomt ervan dat 
 * computers alle taken zullen kunnen uitvoeren en alle problemen zullen kunnen oplossen; 
 * men door te leren programmeren alle problemen zal kunnen aanpakken; 
 * dat men computationeel kan denken zonder enig benul van de technische kant van computers en de mogelijkheden en beperkingen die daarmee gepaard gaan. 
@@ -51,3 +51,9 @@ De volgende feiten tonen dat zulke wensen niet reëel zijn.
 * Programmeren kan helpen om sneller tot een oplossing van een bepaald probleem te komen. Maar programmeren vraagt oefening en het bedenken van een oplossing voor een probleem kan niet zonder kennis over het domein waarbinnen het probleem zich situeert. 
 
 * Enige technische kennis van de computer is onontbeerlijk voor computationeel denken. Voldoende weten over de technische kant is nodig om te kunnen inschatten wanneer een computer kan worden ingezet. De hardware van het computersysteem waarover men beschikt, kent zijn limieten: de hoeveelheid geheugen, de snelheid van de processor ... en daar moet men rekening mee houden. Een defect onderdeel van de hardware kan ervoor zorgen dat een computerprogramma niet naar behoren werkt. Naast de hardware is ook de software van belang: bv. voor het visualiseren van data moet gepaste software op het toestel geïnstalleerd zijn (Denning & Tedre, 2019). Bij het bedenken van oplossingen voor nieuwe problemen komt men soms tot de ontdekking dat de systemen die voorhanden zijn, ontoereikend zijn en dan moeten er nieuwe systemen uitgevonden worden (Aho, 2011).
+
+-----------------
+#### Bronnen
+
+Aho, A. (2011). Ubiquity Symposium: Computation and Computational Thinking. *Ubiquity*, 2011.<br>
+Denning, P. & Tedre, M. (2019). *Computational thinking*. VS: MIT Press.
