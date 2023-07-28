@@ -43,21 +43,25 @@ Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om com
 
 **Vak**: Wiskunde
 
-### Stap 1
+### Stap 1: automatiseren van het rekenwerk
 
 **Voorkennis:** De leerlingen kennen de stelling van Pythagoras in formulevorm. Ze kunnen a.d.h.v. de stelling van Pythagoras de schuine zijde van een rechthoekige driehoek manueel berekenen. 
 
 ![ct-schema](@learning-object/m_ct_cases3a/nl/3)
 
-### Stap 2
+### Stap 2: input vragen aan de gebruiker
 
 **Voorkennis:** De leerlingen weten hoe ze input kunnen vragen aan de gebruiker, of ze kunnen het hier aanleren. 
+
+**Leerdoel in functie van MD 04.05:** De leerlingen zien in dat het belangrijk is dat je een applicatie gebruiksvriendelijk maakt, als je wil dat die applicatie wordt gebruikt. Gebruiksvriendelijkere digitale toepassingen zullen meer impact kunnen verwezenlijken.   
 
 ![ct-schema](@learning-object/m_ct_cases3a/nl/3)
 
 ### Stap 3: toepassen van patroonherkenning en abstractie
 
 **Voorkennis:** De leerlingen hebben eventueel al geleerd om in Python een functie te definiëren, of dat kan hier worden aangebracht.
+
+**Leerdoel in functie van MD 04.05:** Een van de redenen dat routeplanners zoveel gebruikt worden en dus zoveel impact hebben, is de mate van abstractie in de routplanner. Indien gewenst, kan je enkel de instructies opvolgen van de weg die je moet volgen (het stappenplan of algoritme). Je moet je niet bezighouden met het opzoeken van de weg op een kaart, waarbij je rekening zou moeten houden met bv. eenrichtingsverkeer, de oriëntatie van de kaart, enz. Zo'n routeplanner heeft dus een groot gebruiksgemak. Bovendien krijg je er bijkomende informatie zoals files, wegwerkzaamheden, waar je kan tanken, enz. Omdat zoveel mensen het gebruiken kan het ook een ongewenst effect hebben, bv. Waze, dat autoverkeer langs woonwijken omleidt om files te vermijden.       
 
 ![ct-schema](@learning-object/m_ct_cases3b/nl/3)
 
