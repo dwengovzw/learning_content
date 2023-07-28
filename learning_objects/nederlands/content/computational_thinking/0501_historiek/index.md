@@ -45,7 +45,11 @@ De logica is een discipline die al teruggaat tot in de oudheid en die het redene
 
 Ingenieurs wendden vervolgens **inzichten uit de wiskunde, de logica en de ingenieurswetenschappen** aan om computers te bouwen. De eerste computer werd in 1938 gebouwd door de Duitser Konrad Zuse en maakte gebruik van binaire getallen. In de VS deed de computer zijn intrede in 1944: de Mark I van Howard Aiken (Denning & Tedre, 2019). De eerste elektronische computers waren de Colossus in het VK (1943) en de ENIAC (1945) uit de VS, maar die waren minder gemakkelijk te programmeren. De SSEM (Small-Scale Experimental Machine) van de universiteit van Manchester uit 1948 en ook de "Baby" genoemd was de eerste electronische, digitale computer die niet enkel data kon opslaan, maar ook een kort programma van een gebruiker kon opslaan en uitvoeren (Napper, 1998).
 
-**Frustraties over het gebrek aan gebruiksvriendelijkheid en de wil om de computer sneller, beter en op grotere schaal te kunnen inzetten, leiden tot steeds snellere en meer betrouwbare toestellen en tot meer intuïtieve computertalen.** Net zoals wiskundige algoritmen ervoor zorgen dat meer mensen bepaalde berekeningen foutloos kunnen uitvoeren, leiden toegankelijke programmeertalen en betere computers ertoe dat **meer mensen** de mogelijkheden ontdekken die computers hen bieden. Dit zou niet kunnen zonder bepaalde **facetten van computationeel denken**: nadenken over hoe fouten te vermijden, het opsporen en verhelpen van beperkingen in de systemen en in de software, en het samenbrengen van kennis uit verschillende disciplines (Denning & Tedre, 2019).
+**Frustraties over het gebrek aan gebruiksvriendelijkheid en de wil om de computer sneller, beter en op grotere schaal te kunnen inzetten, leiden tot steeds snellere en meer betrouwbare toestellen en tot meer intuïtieve computertalen.** 
+
+<div class="alert alert-box alert-success">
+Net zoals wiskundige algoritmen ervoor zorgen dat meer mensen bepaalde berekeningen foutloos kunnen uitvoeren, leiden toegankelijke programmeertalen en betere computers ertoe dat <em>meer mensen</em> de mogelijkheden ontdekken die computers hen bieden. Dit zou niet kunnen zonder bepaalde facetten van <em>computationeel denken</em>: nadenken over hoe fouten te vermijden, het opsporen en verhelpen van beperkingen in de systemen en in de software, en het samenbrengen van kennis uit verschillende disciplines (Denning & Tedre, 2019).
+</div>
 
 Zo evolueerden de eenvoudige rekentoestellen uit de 17de eeuw tot de computers die we vandaag kennen. 
 
