@@ -43,7 +43,7 @@ Dit soort vragen beantwoorden ecologen aan de hand van **groeimodellen**: wiskun
 
 Vele insecten zijn nuttig, maar vaak zijn ze een plaag wanneer ze de planten opvreten. Zo is de rups van de buxusmot (*Cydalima perspectalis*) een nachtmerrie voor elke tuinier met een mooie buxushaag. De buxusmot is een invasieve soort in Europa met een grote economische kost. Meer informatie lees je op de [website van ILVO](https://ilvo.vlaanderen.be/nl/dossiers/buxusmot).
 
-Foto buxusmot in actie
+![Buxusmot](embed/buxusmot.jpg "https://commons.wikimedia.org/wiki/File:Raupe_des_Buchsbaumz%C3%BCnsler,_Cydalima_perspectalis_11.JPG")
 
 Omdat deze rups zo schadelijk is, zijn ecologen en gewasbeschermers erg geïnteresseerd om de groei van populaties op te volgen en te modelleren. **Wiskundige modellen helpen hen om in te schatten of de populatie binnen een aanvaardbare grootte blijft of wanneer ze dreigt uit haar voegen te treden en bestrijding nodig is.**
 
@@ -65,23 +65,27 @@ Je gaat dus op zoek naar een vergelijking die vertelt wat de populatiegrootte op
 
 **Een wiskundig model is altijd een vereenvoudiging van de werkelijkheid.** Hier zal je een rupsenpopulatie modelleren in niet-overlappende generaties.
 
-Om te beginnen ga je uit van drie **veronderstellingen** voor zo'n vergelijking:<br>
--  De vergelijking is *determistisch*: eenzelfde aantal op tijdstip *t-1* resulteert altijd in eenzelfde aantal op tijdstip *t*. Er wordt dus geen rekening gehouden met willekeurige fluctuaties.
--  De populatiegrootte kan voorgesteld worden aan de hand van reële getallen in plaats van natuurlijke getallen. In werkelijkheid zijn er geen (levende) 'halve' rupsen; voor wie zich niet helemaal lekker voelt bij fracties van rupsen, je kan ook over *u<sub>t</sub>* denken als de biomassa van rupsen, de totale massa van de rupsen op tijdstip *t*. Bij aanzienlijke popultaiegroottes bv. kan met een eenheid van 100 of 1000 gewerkt worden, waardoor de aantallen door kommagetallen kunnen weergegeven worden.  
--  De *tijd* tikt *discreet* door: de populatiegrootte wordt bekeken in een rij van perfect gescheiden generaties. Een model geeft de populatiegroottes aan op tijdstippen *0, 1, 2, 3, ...*. Het houdt bv. geen steek om te kijken naar tijdstip *2,4*. Er is niets tussen de generaties!
+Om te beginnen ga je uit van drie **veronderstellingen** voor zo'n vergelijking:
+
+- De vergelijking is *deterministisch*: eenzelfde aantal op tijdstip *t-1* resulteert altijd in eenzelfde aantal op tijdstip *t*. Er wordt dus geen rekening gehouden met willekeurige fluctuaties.
+
+- De populatiegrootte kan voorgesteld worden aan de hand van reële getallen in plaats van natuurlijke getallen. In werkelijkheid zijn er geen (levende) 'halve' rupsen; voor wie zich niet helemaal lekker voelt bij fracties van rupsen, je kan ook over *u<sub>t</sub>* denken als de biomassa van rupsen, de totale massa van de rupsen op tijdstip *t*. Bij aanzienlijke populatiegroottes bijvoorbeeld kan met een eenheid van 100 of 1000 gewerkt worden, waardoor de aantallen door kommagetallen kunnen weergegeven worden.
+
+- De *tijd* tikt *discreet* door: de populatiegrootte wordt bekeken in een rij van perfect gescheiden generaties. Een model geeft de populatiegroottes aan op tijdstippen *0, 1, 2, 3, ...*. Het houdt bijvoorbeeld geen steek om te kijken naar tijdstip *2,4*. Er is niets tussen de generaties!
 
 <div class="alert alert-box alert-success">
-Een discreet model kan je dus zien als een soort van uurwerk dat verder tikt. Elke stap wordt dezelfde regel toegepast op een variabele, om van de huidige generatie naar de volgende te gaan. 
+Een discreet model kan je dus zien als een soort van uurwerk dat verder tikt. Elke stap wordt dezelfde regel toegepast op een variabele, om van de huidige generatie naar de volgende te gaan.
 </div>
 
-Afhankelijk van de manier waarop je de regel concretiseert, bekom je een ander model. 
-In de latere onderdelen van dit leerpad zal je elk van de bovenstaande veronderstellingen versoepelen om zo realistischere modellen te bekomen.
+Afhankelijk van de manier waarop je de regel concretiseert, bekom je een ander model. In de latere onderdelen van dit leerpad zal je elk van de bovenstaande veronderstellingen versoepelen om zo realistischere modellen te bekomen.
 
-Je start met twee discrete modellen:<br>
--  Exponentiële groei, waar de populatie ofwel uitsterft ofwel blijft groeien zonder rem.
--  Logistieke groei, waar de populatie wel een limiet heeft en een veel rijker gedrag kan vertonen.
+Je start met twee discrete modellen:
+
+- Exponentiële groei, waar de populatie ofwel uitsterft ofwel blijft groeien zonder rem.
+- Logistische groei, waar de populatie wel een limiet heeft en een veel rijker gedrag kan vertonen.
 
 <div class="alert alert-box alert-success">
-Een wiskundig model is altijd een vereenvoudiging van de werkelijkheid.<br>
+Een wiskundig model is altijd een vereenvoudiging van de werkelijkheid.
+
 Een wiskundig model helpt om de werkelijke situatie beter te begrijpen.
 </div>

@@ -29,10 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
 # Modelleren van een rupsenuitbraak volgens de logistische groei
 
-Eerder bekeek je het exponentiële groeimodel om een populatie rupsen voor te stellen. Je stelde hierbij vast dat je ooit op een limiet moeten botsen: een tuin heeft geen onbeperkte draagkracht! In dit hoofdstuk bekijk je daarom de logistische groei. Dit model heeft een verrassende eigenschap: het kan chaotisch zijn, waardoor het voor bepaalde waarden totaal onvoorspelbaar is!
+Eerder bekeek je het exponentiële groeimodel om een populatie rupsen voor te stellen. Je stelde hierbij vast dat je ooit op een limiet moeten botsen: een tuin heeft geen onbeperkte draagkracht! In deze module bekijk je daarom de logistische groei. Dit model heeft een verrassende eigenschap: het kan chaotisch zijn, waardoor het voor bepaalde waarden totaal onvoorspelbaar is!
+
+## Logistische groei
 
 **Je zoekt een regel die rekening houdt met de draagkracht van het systeem.** Er wordt verwacht dat wanneer de populatiegrootte klein is, en er dus veel planten per rups zijn, onbelemmerde groei mogelijk is. Wanneer het aantal rupsen dicht bij de draagkracht $K$ komt, moet de groei stoppen. De volgende regel kan hiervoor gebruikt worden:
 
@@ -48,10 +49,12 @@ Herinner je dat $a$ hierbij de groeifactor voorstelt. Wanneer $u_{t - 1}$ bij be
 
 $$u_t = \left[1 + r \left(1 - \frac{u_{t - 1}}{K}\right)\right] u_{t - 1} \approx u_{t - 1}$$
 
-De populatiegrootte stabiliseert dus. Dit model wordt een **logistisch model** genoemd.
+De populatiegrootte stabiliseert dus.
 
-----------------------------
+Een model waarbij de populatie aangroeit volgens het voorgestelde recursieve voorschrift wordt een **logistisch model** genoemd!
 
-Nu ga je aan de slag met een interactieve online notebook. In de notebook zet je Python in om te rekenen en om dit model grafisch voor te stellen.
+## Interactieve notebook
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6010 "Insect logistisch")
+Nu ga je aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om dit model grafisch voor te stellen.
+
+[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6010 "Insect logistisch")
