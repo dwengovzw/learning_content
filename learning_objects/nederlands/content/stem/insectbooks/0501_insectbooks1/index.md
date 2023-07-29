@@ -29,37 +29,37 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Rupsenuitbraak modelleren volgens exponentiële groei
+# Modelleren van een rupsenuitbraak volgens de exponentiële groei
 
-## Inleiding
-Vele insecten willen zo veel mogelijk nakomelingen voortbrengen. <br>
-In een generatie verpoppen buxusmotrupsen zich tot een buxusmotten, die op hun beurt nieuwe eitjes leggen op een haag. Uit deze eitjes kruipen nieuwe rupsen en de cyclus herbegint. <br>
-Het leven van een insect is echter niet zonder gevaar. Op elk moment in de cyclus kunnen eitjes, rupsen, poppen en motten sterven door predatie van vogels, pesticiden, uithongering of andere gevaren. 
+Vele insecten willen zo veel mogelijk nakomelingen voortbrengen. In een generatie verpoppen buxusmotrupsen zich tot een buxusmotten, die op hun beurt nieuwe eitjes leggen op een haag. Uit deze eitjes kruipen nieuwe rupsen en de cyclus herbegint. Het leven van een insect is echter niet zonder gevaar. Op elk moment in de cyclus kunnen eitjes, rupsen, poppen en motten sterven door predatie van vogels, pesticiden, uithongering of andere gevaren. Gemiddeld gezien kan je echter aannemen dat elke rups aanleiding geeft tot een bepaald aantal nieuwe rupsen in de volgende generatie. Deze aanname vormt de basis van de **exponentiële groei**.
 
-Gemiddeld gezien kan je echter aannemen dat elke rups aanleiding geeft tot een bepaald aantal nieuwe rupsen in de volgende generatie.
+## Exponentiële groei
 
-Dit leidt tot de volgende uitdrukking:<br>
-<p align="center"><em> u<sub>t</sub> = a . u<sub>t-1</sub></em></p>
+Wanneer je mag aannemen dat een rups gemiddeld gezien aanleiding geeft tot $a > 0$ nieuwe rupsen, bekom je de volgende uitdrukking:
 
-waarbij <em>a</em> een strikt positief getal is. <br>
-Deze vergelijking is niets anders dan het recursief voorschrift van een rij.
+$$u_t = a \cdot u_{t - 1}$$
 
-#### Opdracht 1
--  Beschrijf de situatie naargelang de waarde van <em>a</em>.
--  De rupsen van de buxusmot vormen een plaag. Welke waarden van <em>a</em> passen in deze situatie?
--  Leg uit waarom je hier te maken hebt met **exponentiële groei**.
+Deze vergelijking is niets anders dan het recursieve voorschrift van een rij, waarbij je op basis van een gegeven element eenvoudig het volgende element kan bepalen door te vermenigvuldigen met $a$. Deze parameter $a$ wordt de **groeifactor** genoemd.
 
-## Model
-Bij een groeifactor <em>a = 1,8</em> leidt elke rups gemiddeld tot iets minder dan twee nieuwe rupsen per generatie.<br>
-Beschouw een bescheiden beginpopulatie van vijf rupsen.<br>
-A.d.h.v. de volgende opdracht stel je een wiskundig model op voor de evolutie van deze populatie rupsen. 
+### Opdracht 1
 
-#### Opdracht 2
-- Stel <em>a = 1,8</em> en <em>u<sub>0</sub> = 5</em>.
-- Bepaal het aantal rupsen op <em>t = 1</em>, <em>t = 2</em>, <em>t = 3</em> en <em>t = 4</em>.
-- Stel het algemeen voorschrift op voor de rij met deze exponentiële groei.
+- Beschrijf de situatie naargelang de waarde van $a$. Wat gebeurt er bijvoorbeeld indien $a < 1$?
+- De rupsen van de buxusmot vormen een plaag. Welke waarden van $a$ passen in deze situatie?
+- Leg uit waarom je hier te maken hebt met **exponentiële groei**.
 
-----------------------------
+## Exponentieel model
+
+Bij een groeifactor $a = 1,6$ leidt elke rups gemiddeld tot iets meer dan anderhalve nieuwe rupsen per generatie. Beschouw een bescheiden beginpopulatie van vijf rupsen. Stel aan de hand van de volgende opdracht een wiskundig model op voor de evolutie van populatiegrootte.
+
+### Opdracht 2
+
+- Stel $a = 1,6$ en $u_0 = 5$. Bepaal dan het aantal rupsen op $t = 1$, $t = 2$, $t = 3$ en $t = 4$.
+- Stel het algemene voorschrift op voor de rij met deze exponentiële groei.
+
+Het algemene voorschrift stelt nu het exponentiële groeimodel voor!
+
+## Interactieve notebook
+
 Nu ga je aan de slag met een interactieve online notebook. In de notebook zet je Python in om te rekenen en om het model grafisch voor te stellen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6010 "Insect exponentieel")
+[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6010 "Insect exponentieel")

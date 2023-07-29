@@ -38,7 +38,7 @@ Tekst
 
 ## Link notebooks
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0201 "Notebooks Eerste Grafiek")
+[![](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0201 "Notebooks Eerste Grafiek")
 
 ## Extra
 
