@@ -2,8 +2,8 @@
 hruid: stem5_7
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "De Lesliematrix"
+description: "De Lesliematrix"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
