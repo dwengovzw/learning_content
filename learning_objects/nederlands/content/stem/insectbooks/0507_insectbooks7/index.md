@@ -27,7 +27,7 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 # Modelleren van de levensloop van een kever met de Lesliematrix
 
