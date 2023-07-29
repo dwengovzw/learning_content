@@ -2,8 +2,8 @@
 hruid: stem5_9
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "Differentiaalvergelijkingen"
+description: "Differentiaalvergelijkingen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Lieveheersbeestjes en luizenplagen: een dynamisch wereldbeeld
+# Lieveheersbeestjes en luizenplagen: een dynamisch wereldbeeld met differentiaalvergelijkingen
 
 Het vorig hoofdstuk was onze eerste kennismaking met (groei)modellen. Realistisch of niet, deze werden gekarakteriseerd doordat ze discreet in de tijd waren: de tijd tikte generatie per generatie voorbij. In de praktijk ervaren we tijd echter als continu: tussen vandaag en morgen zitten een oneindig aantal individuele momenten. Vandaar dat wetenschappers de realiteit vaak beschrijven door een krachtiger model: de **differentiaalvergelijking**. De oplossing van een dergelijke differentiaalvergelijking is dan geen getal, maar een functie die het systeem beschrijft doorheen de tijd. Differentiaalvergelijkingen worden doorgaans pas gegeven na een stevige wiskundebasis. In dit hoofdstuk geven we een eerste introductie tot differentiaalvergelijkingen, met als doel een populatie bladluizen en lieveheersbeestjes te beschrijven.
 
