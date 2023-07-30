@@ -31,50 +31,37 @@ teacher_exclusive: true
 ---
 
 <context>
-New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in kilometer. 
-    
+Automatiseer het berekenen van de schuine zijde van een rechthoekige driehoek als de rechthoekszijden gekend zijn.
 </context>
 <decomposition>
-**Decompositie** in subtaken:<br>
-1. De wandelafstand van Times Square naar het Empire State Building kan opgevraagd worden in een routeplanner. 
-2. Vat het probleem samen in een figuur.
-3. Herken een rechthoekige driehoek in de figuur.
-4. Duid op de figuur aan wat gekend is.
-5. Zoek de lengtes van de twee rechthoekszijden op in de gegeven wandelroute.
-6. Pas de stelling van Pythagoras toe.
-    
-![Kaart New York](kaartnewyork.png)
-    
-![GPS New York](gpsnewyork.png)
+Subtaken (**decompositie**):<br>
+1. Inzetten van de computer om de schuine zijde te berekenen. 
+2. Formule? Gekend uit de stelling van Pythagoras.
+3. Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?
 </decomposition>
 <patternRecognition>
-Het stratenplan vertoont een **patroon**:<br> 
-de straten vormen een rechthoekig rooster.<br>
-De afstand in vogelvlucht kan dus bepaald worden als de schuine zijde van een rechthoekige driehoek.
-Herkennen dat het probleem verwant is met een eerder opgelost probleem: oefening is er een van het type waarbij de schuine zijde berekend wordt als de twee rechthoekszijden gekend zijn.  
+
 </patternRecognition>
 <abstraction>
-De straten en kruispunten worden **geabstraheerd** tot de zijden en de hoekpunten van een rechthoekige driehoek. <br>
-Enkele instructies van het programma worden gegroepeerd in een **functie**, waarbij een abstractie wordt gemaakt van de waarden en de gedetailleerde instructies uit het probleem. 
+
 </abstraction>
 <algorithms>
-**Algoritme**: Bereken de vierkantswortel van de som van de kwadraten van de parameters.
-(De parameters zijn de lengtes van de rechthoekszijden.) 
+Het algoritme bevat (in deze volgorde) instructies om:
+1. de gegevens;
+2. die gegevens te verwerken met als doel het bekomen van de lengte van de schuine zijde;
+3. de lengte van de schuine zijde te laten zien op het scherm. 
+
 </algorithms>
 <implementation>
 **Programma in Python**
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-def pythagoras(a, b):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Schuine zijde berekenen uit gekende rechthoekszijden."""  
-&nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;return c<br><br>
 # invoer<br>
-rhz1 = float(input("Lengte van de eerste rechthoekszijde: "))<br>
-rhz2 = float(input("Geef de lengte van de tweede rechthoekszijde: "))<br><br>
+rhz1 = 3<br>
+rhz2 = 4<br><br>
 # verwerking<br>
-vogelvlucht = pythagoras(rhz1, rhz2)<br><br>
+schz = math.sqrt(rhz1**2 + rhz2**2)<br><br>
 # uitvoer<br>
-print("De afstand in vogelvlucht is: ", vogelvlucht)
+print("De lengte van de schuine zijde is: ", schz)
 </p>
 </div>
 </implementation>
