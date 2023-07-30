@@ -37,7 +37,7 @@ Het getal <em>a</em> stelt het gemiddeld aantal nakomelingen per rups voor. We w
 
 - Als <em>a < 1</em>, dan brengt elke rups minder dan één rups voort per generatie. In elke tijdstap wordt de populatie kleiner en kleiner tot ze uiteindelijk uitsterft. Je hebt dan te maken met een exponentiële **afname**.
 - Als <em>a > 1</em>, dan zal elke rups aanleiding geven tot meer dan één nieuwe rups in de volgende generatie. De populatie zal groeien. Je hebt dan te maken met een exponentiële **toename**.
-- In het randgeval waarbij $a = 1$, dan is de populatiegrootte **stabiel**: de geboorte van nieuwe rupsen compenseert de sterfte.
+- In het randgeval waarbij <em>a = 1</em>, is de populatiegrootte **stabiel**: de geboorte van nieuwe rupsen compenseert de sterfte.
 
 In het geval van de rups van de buxusmot is <em>a > 1</em>, aangezien deze rupsen een plaag vormen.
 
@@ -45,11 +45,9 @@ Het voorschrift is het recursieve voorschrift van een meetkundige rij. Het getal
 
 ## De parameters in het wiskundig model
 
-In de notebook wordt de grafiek geplot van een meetkundige rij aan de hand van het algemene voorschrift.<br>
-De index <em>t</em> speelt de rol van **veranderlijke**. Voor bepaalde waarden van <em>t</em> wordt de populatiegrootte berekend en teruggegeven.<br>
-De meetkundige rij wordt bepaald door het algemeen voorschrift met daarin twee **parameters**: de groeifactor <em>a</em> en de beginwaarde <em>u<sub>0</sub></em>.
+In de notebook wordt de grafiek geplot van een meetkundige rij aan de hand van het algemene voorschrift. De index <em>t</em> speelt hierbij de rol van **veranderlijke**. Voor bepaalde waarden van <em>t</em> wordt de populatiegrootte berekend en teruggegeven.
 
-Door de parameters aan te passen kan met het model geëxperimenteerd worden. De leerlingen kunnen het effect van de parameters op het model onderzoeken:
+De meetkundige rij wordt bepaald door het algemene voorschrift met daarin twee **parameters**: de groeifactor <em>a</em> en de beginwaarde <em>u<sub>0</sub></em>. Door de parameters aan te passen kan met het model geëxperimenteerd worden. De leerlingen kunnen het effect van de parameters op het model onderzoeken:
 
 - Wat is het effect van een grotere beginwaarde?
 - Wat is het effect van een grotere groeifactor?
@@ -57,8 +55,8 @@ Door de parameters aan te passen kan met het model geëxperimenteerd worden. De 
 
 ## Draagkracht
 
-In de **notebook** wordt de grafiek getekend van een meetkundige rij die de evolutie van de rupsenpopulatiegrootte modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.** <br>
-De plaag groeit erg snel, wat verontrustend is. Als je nog verder in de tijd kijkt, stel je het volgende vast: de populatiegrootte groeit zonder enige belemmering verder aan; na 50 generaties zijn er meer dan 29 000 000 000 000 rupsen. Als je aanneemt dat één rups ongeveer 3 gram weegt, zijn er na 50 generaties meer dan 87 miljoen ton rupsen, het equivalent van 40 miljoen nijlpaarden. Er zijn niet genoeg buxushagen in de wereld om dergelijke populaties te ondersteunen!
+In de notebook wordt de grafiek getekend van een meetkundige rij die de evolutie van de rupsenpopulatiegrootte modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.** <br>
+De plaag groeit erg snel, wat verontrustend is. Als je nog verder in de tijd kijkt, stel je het volgende vast: de populatiegrootte groeit zonder enige belemmering verder aan; na 70 generaties zijn er meer dan 971 000 000 000 000 rupsen. Als je aanneemt dat één rups ongeveer 3 gram weegt, zijn er op dit moment bijna 3 miljard ton aan rupsen, het equivalent van 2 miljard nijlpaarden. Er zijn niet genoeg buxushagen in de wereld om dergelijke populaties te ondersteunen!
 
 In de praktijk heeft elk ecosystem een bepaalde **draagkracht**, de hoeveelheden voedsel, water en ruimte die voorhanden zijn om een bepaalde populatie te ondersteunen. Onze rupsenpopulatie is gelimiteerd door het aantal planten dat beschikbaar is als voedsel. De draagkracht wordt vaak voorgesteld door de letter <em>K</em>. Een waarde <em>K = 1000 </em> zou betekenen dat een tuin genoeg buxussen heeft om 1000 rupsen te voeden, maar niet meer.
 
@@ -76,34 +74,99 @@ Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te do
 
 - te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
 
+- te weten hoe [while-loops](https://www.w3schools.com/python/python_while_loops.asp) werken
+
 - te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken
 
 - te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
 
-Om het voor de leerkracht en de leerlingen eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
 
-## Minimumdoelen (derde graad doorstroom)
+## Richtingen (derde graad doorstroomfinaliteit)
 
-### Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde; Biotechnologische en chemische STEM-wetenschappen; Informatica- en communicatiewetenschappen; Mechatronica; Bedrijfsondersteunende informaticawetenschappen; Bedrijfswetenschappen (GO!)
 
-TODO de andere richtingen met deze specifieke informaticadoelen: Bedrijfsondersteunende informaticawetenschappen(GO!), Informatica- en communicatiewetenschappen, Bedrijfswetenschappen (GO!), Mechatronica, Biotechnologische en chemische STEM-wetenschappen
+## Minimumdoelen
 
-<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python.  Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken.
+### Domein Wiskunde
 
-<span style="color: yellowgreen">MD 06.06 De leerlingen gebruiken modellen voor exponentiële groei.</span> <br>
+#### Wiskunde B+S
+
+Bedrijfsondersteunende informaticawetenschappen
+
+#### Wiskunde B+S'
+
+Biotechnologische en chemische STEM-wetenschappen; Informatica- en communicatiewetenschappen; Mechatronica
+
+<span style="color: yellowgreen">MD 06.06 De leerlingen gebruiken modellen voor exponentiële groei.</span><br>
+In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoerig besproken, en dit aan de hand van een exponentieel groeimodel.<br>
 Duiding uit het leerplan van Katholiek Onderwijs Vlaanderen: *Dit doel omvat enerzijds het modelleren (opstellen van het voorschrift vanuit een verwoording) en anderzijds het oplossen van vragen aan de hand van het model, bijvoorbeeld de waarde bepalen bij een gegeven tijdstip of het tijdstip bij een gegeven waarde bepalen. Alhoewel "exponentiële groei" een toename suggereert, kan je ook dalende processen beschrijven.*
 
-<span style="color: yellowgreen">SMD 06.08.07	De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span> <br>
+<span style="color: yellowgreen">MD 06.12 De leerlingen gebruiken rekenkundige en meetkundige rijen om patronen te beschrijven.</span><br>
+Het gaat hier om een meetkundige rij waarbij initieel het recursief voorschrift wordt gehanteerd. Voor het model, het voorschrift van de exponentiële functie, wordt de formule voor de algemene term gebruikt.<br>
+<span style="color: red">Is deze laatste zin volledig?</span>
 
-<span style="color: yellowgreen">SMD 06.08.13	De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.</span><br> 
+<span style="color: yellowgreen">MD 06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.</span><br>
+In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoerig besproken, en dit aan de hand van een exponentieel groeimodel.
 
-<span style="color: yellowgreen">MD 06.12	De leerlingen gebruiken rekenkundige en meetkundige rijen om patronen te beschrijven.</span><br>
-Het gaat hier om een meetkundige rij waarbij initieel het recursief voorschrift wordt gehanteerd. Voor het model, het voorschrift van de exponentiële functie, wordt de formule voor de algemene term gebruikt.   
-
-<span style="color: yellowgreen">MD 06.19	De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad. </span>
-
-<span style="color: yellowgreen">MD 06.20	De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</span><br> 
+<span style="color: yellowgreen">MD 06.20 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</span><br>
+In de notebook wordt er onder meer gevraagd om te bepalen wanneer het aantal buxusmotten voor het eerst een gegeven waarde overschrijdt.<br>
 Wenken uit het leerplan van Katholiek Onderwijs Vlaanderen: *Voorbeelden van heuristieken die aan bod kunnen komen: het gegeven en gevraagde expliciteren, het probleem herformuleren of opdelen in deelproblemen, een schets of tekening maken, bijzondere gevallen onderzoeken, tijdelijk één van de voorwaarden laten vallen, van achter naar voor werken, alle mogelijkheden opschrijven en dan elimineren. Het demathematiseren kan gebeuren via een antwoordzin. Controleren of een antwoord realistisch kan zijn, hoort ook bij deze stap van het oplossingsproces.*
 
-<span style="color: yellowgreen">MD 06.21	De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken. </span>
+<span style="color: yellowgreen">MD 06.21 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.</span><br>
+De notebook berekent de populatiegrootte op verschillende momenten in de tijd, en laat toe om grafieken te genereren die de groei van de populatie illustreert.
+
+#### Wiskunde B+S''
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde
+
+<span style="color: yellowgreen">Alle voorgaande minimumdoelen</span>
+
+<span style="color: yellowgreen">SMD 06.08.07 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
+In de notebook worden verschillende grafieken gegenereerd die de populatiegrootte doorheen de tijd tonen. De leerlingen stellen hierbij vast dat de populatiegrootte steeds verder blijft toenemen indien <em>a > 1</em>. Ook wordt uitgelegd hoe de logaritmische as gebruikt kan worden in een grafiek.
+
+<span style="color: yellowgreen">SMD 06.08.13 De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.</span><br>
+<span style="color: red">Komt dit wel expliciet aan bod? Van de leerlingen wordt enkel gevraagd om de populatiegrootte op een gegeven moment in de tijd te berekenen, en aan de hand van een while-loop te controleren wanneer de populatiegrootte voor het eerst een gegeven waarde zal overschrijden.</span>
+
+#### Natuurwetenschappen B+S
+
+Latijn-Wetenschappen; Wetenschappen-Wiskunde
+
+#### Natuurwetenschappen B+S'
+
+Grieks-Wiskunde; Latijn-Wiskunde
+
+<span style="color: yellowgreen">MD 06.46 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.</span><br>
+Dit minimumdoel kan betrokken worden in deze module, op initiatief van de leerkracht.
+
+### Domein Informaticawetenschappen
+
+#### Informaticawetenschappen
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Wetenschappen-Wiskunde
+
+#### Informaticawetenschappen S''
+
+Bedrijfsondersteunende informaticawetenschappen
+
+#### Informatica- en communicatiewetenschappen B+S
+
+Informatica- en communicatiewetenschappen
+
+#### Technologische wetenschappen en Engineering B+S
+
+Technologische wetenschappen en Engineering
+
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+
+#### Biotechnologische en chemische STEM-wetenschappen B+S
+
+Biotechnologische en chemische STEM-wetenschappen
+
+#### Mechatronica B+S
+
+Mechatronica
+
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.

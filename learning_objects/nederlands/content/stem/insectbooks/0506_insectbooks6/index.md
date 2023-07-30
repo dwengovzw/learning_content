@@ -2,8 +2,8 @@
 hruid: stem5_6
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "De chaos verklaard"
+description: "De chaos verklaard"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Titel
+# De chaos verklaard

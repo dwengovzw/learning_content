@@ -2,8 +2,8 @@
 hruid: stem5_10
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "Differentiaalvergelijkingen"
+description: "Differentiaalvergelijkingen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Titel
+# Lieveheersbeestjes en luizenplagen: een dynamisch wereldbeeld met differentiaalvergelijkingen

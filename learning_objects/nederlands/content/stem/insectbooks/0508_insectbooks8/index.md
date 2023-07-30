@@ -2,8 +2,8 @@
 hruid: stem5_8
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "De Lesliematrix"
+description: "De Lesliematrix"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Titel
+# Modelleren van de levensloop van een kever met de Lesliematrix
