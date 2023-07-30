@@ -2,8 +2,8 @@
 hruid: ct9_3
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "ChatGPT"
+description: "ChatGPT"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
