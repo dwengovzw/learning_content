@@ -2,8 +2,8 @@
 hruid: stem5_4
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "Logistische groei"
+description: "Logistische groei"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Titel
+# Modelleren van een rupsenuitbraak volgens de logistische groei
