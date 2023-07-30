@@ -36,9 +36,9 @@ teacher_exclusive: true
 
 Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven minimale leerdoelen verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). 
 
-> Deze minimale leerdoelen worden eindtermen genoemd. Klik [hier](https://etaamb.openjustice.be/nl/decreet-van-12-februari-2021_n2021031270.html) voor het decreet betreffende de nieuwe eindtermen. 
+> Deze minimale leerdoelen worden eindtermen of minimumdoelen genoemd. Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad en [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de (vernietigde) eindtermen van de tweede en derde graad. 
 
-> In het leerpad 'Eindtermen' van het project 'Computationeel denken' wordt er dieper op deze eindtermen en de verbanden ertussen ingegaan. 
+In dit leerpad wordt er dieper op deze eindtermen en minimumdoelen en de verbanden ertussen ingegaan. 
 
 De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
 
@@ -48,12 +48,16 @@ De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd u
 
 * De bouwsteen ‘Verantwoord, kritisch en ethisch omgaan met digitale en niet-digitale media en informatie’ rond mediawijsheid. Deze bouwsteen gaat o.a. over de impact van de technologische ontwikkeling op de maatschappij en de ermee gepaard gaande ethische aspecten. Deze bouwsteen moet ook het kritische denken versterken. 
 
-> Zie onderwijsdoelen.be/uitgangspunten/4814 voor meer informatie betreffende de sleutelcompetenties. 
-
 > De sleutelcompetenties zijn: competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op het vlak van lichamelijke, geestelijke en emotionele gezondheid; competenties in het Nederlands; competenties in andere talen; digitale competentie en mediawijsheid; sociaalrelationele competenties; competenties inzake wiskunde, exacte wetenschappen en technologie; burgerschapscompetenties met inbegrip van competenties inzake samenleven; competenties met betrekking tot historisch bewustzijn; competenties met betrekking tot ruimtelijk bewustzijn; competenties inzake duurzaamheid; economische en financiële competenties; juridische competenties; leercompetenties met inbegrip van onderzoekscompetenties, innovatiedenken, creativiteit, probleemoplossend en kritisch denken, systeemdenken, informatieverwerking en samenwerken; zelfbewustzijn en zelfexpressie, zelfsturing en wendbaarheid; ontwikkeling van initiatief,  ambitie, ondernemingszin en loopbaancompetenties; cultureel bewustzijn en culturele expressie. 
+
+> Zie [onderwijsdoelen.be](onderwijsdoelen.be/uitgangspunten/4814) voor meer informatie betreffende de sleutelcompetenties.
 
 Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. 
 
 Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van **basisgeletterdheid**, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
 
-> Het Grondwettelijk Hof vernietigde op 16 juni 2022 de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. Deze worden opnieuw bekeken. 
+> Het Grondwettelijk Hof vernietigde op 16 juni 2022 de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. Deze zijn ondertussen herwerkt. De nieuwe minimumdoelen gaan in op 1 september 2023 in het derde en vijfde jaar van het secundair onderwijs.
+
+----------------
+Bronnnen:<br>
+AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via https://onderwijsdoelen.be/uitgangspunten/4814
