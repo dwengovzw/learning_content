@@ -88,7 +88,7 @@ Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappe
 
 ## Minimumdoelen
 
-### Domein Wiskunde
+### WD_06 Wiskunde
 
 #### Wiskunde B+S
 
@@ -139,7 +139,7 @@ Grieks-Wiskunde; Latijn-Wiskunde
 <span style="color: yellowgreen">MD 06.46 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.</span><br>
 Dit minimumdoel kan betrokken worden in deze module, op initiatief van de leerkracht.
 
-### Domein Informaticawetenschappen
+### WD_07 Informaticawetenschappen
 
 #### Informaticawetenschappen
 
@@ -156,6 +156,10 @@ Informatica- en communicatiewetenschappen
 #### Technologische wetenschappen en Engineering B+S
 
 Technologische wetenschappen en Engineering
+
+#### Bedrijfswetenschappen S (GO!)
+
+Bedrijfswetenschappen (GO!)
 
 <span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
 Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
