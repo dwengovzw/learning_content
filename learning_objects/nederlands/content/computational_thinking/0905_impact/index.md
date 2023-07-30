@@ -2,8 +2,8 @@
 hruid: ct9_5
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Solliciteren"
+description: "Solliciteren"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
