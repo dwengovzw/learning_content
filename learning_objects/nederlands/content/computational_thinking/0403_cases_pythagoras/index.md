@@ -47,7 +47,7 @@ Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om com
 
 **Voorkennis:** De leerlingen kennen de stelling van Pythagoras in formulevorm. Ze kunnen a.d.h.v. de stelling van Pythagoras de schuine zijde van een rechthoekige driehoek manueel berekenen. 
 
-![ct-schema](@learning-object/m_ct_cases3a/nl/3)
+![ct-schema](@learning-object/m_ct_cases3d/nl/3)
 
 ### Stap 2: input vragen aan de gebruiker
 
