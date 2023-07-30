@@ -2,8 +2,8 @@
 hruid: ct9_4
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Home assistant"
+description: "Home assistant"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
