@@ -36,10 +36,10 @@ Het is duidelijk dat de eindtermen verder gaan dan de vier basisconcepten van co
 Ook het kader van Weintrop om met computationeel denken aan de slag te gaan in lessen wiskunde en wetenschappen, vertoont veel overlap met de leerdoelen verwoord in de eindtermen computationeel denken en handelen.
 
 Binnen de leerdoelen zit basiskennis van digitale systemen en het werken met digitale tools.
-• Debuggen en principes van programmeertalen, modellering en simuleren, en digitale representatie van informatie.
-• Het doel is dat de leerlingen de werking van digitale systemen begrijpen en op termijn ook inzien wanneer ze op een zinvolle manier de computer kunnen inzetten, bv. bij het oplossen van een probleem of het proberen te halen van informatie uit data.
-• Leerlingen kunnen in de gedigitaliseerde wereld beter functioneren als kritische burger.
-• Computationeel denken is niet hetzelfde als programmeren en ruimer dan probleemoplossend denken. Het gaat ook om het zien wanneer een computer kan worden ingezet; dat kan bij het oplossen van een probleem zijn, maar ook bij het automatiseren van een proces of het verwerken en visualiseren van data.
+-  Debuggen en principes van programmeertalen, modellering en simuleren, en digitale representatie van informatie.
+-  Het doel is dat de leerlingen de werking van digitale systemen begrijpen en op termijn ook inzien wanneer ze op een zinvolle manier de computer kunnen inzetten, bv. bij het oplossen van een probleem of het proberen te halen van informatie uit data.
+- Leerlingen kunnen in de gedigitaliseerde wereld beter functioneren als kritische burger.
+- Computationeel denken is niet hetzelfde als programmeren en ruimer dan probleemoplossend denken. Het gaat ook om het zien wanneer een computer kan worden ingezet; dat kan bij het oplossen van een probleem zijn, maar ook bij het automatiseren van een proces of het verwerken en visualiseren van data.
 
 Het waarom van deze nieuwe eindtermen is te vinden in de nood aan 21ste-eeuwse competenties, wat in de lijn ligt van hoe computationeel denken internationaal
 wordt aangezien. Leerkrachten verliezen best het hoger doel van deze leerdoelen niet uit het oog.
