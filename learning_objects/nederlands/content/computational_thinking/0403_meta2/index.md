@@ -62,7 +62,7 @@ Het algoritme bevat (in deze volgorde) instructies om:
 <implementation>
 **Programma in Python**
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-def pythagoras(a, b):<br>
+def pythagoras1(a, b):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"""Schuine zijde berekenen uit gekende rechthoekszijden."""<br>
 &nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return c<br><br>
@@ -70,7 +70,7 @@ def pythagoras(a, b):<br>
 rhz1 = float(input("Lengte van de eerste rechthoekszijde: "))<br>
 rhz2 = float(input(“Geef de lengte van de tweede rechthoekszijde: "))<br><br>
 # verwerking<br>
-schz = pythagoras(rhz1, rhz2)<br><br>
+schz = pythagoras1(rhz1, rhz2)<br><br>
 # uitvoer<br>
 print("De lengte van de schuine zijde is: ", schz)
 </p>
