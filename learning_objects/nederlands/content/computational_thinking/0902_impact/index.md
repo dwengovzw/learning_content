@@ -2,8 +2,8 @@
 hruid: ct9_2
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Routeplanner"
+description: "Routeplanner"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,26 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+# Routeplanner
+
+### Principes van computationeel denken bij een routeplanner
+- Decompositie:
+  - Bij het ontwerp van de routeplanner kan al dan niet rekening gehouden worden met bepaalde parameters. Men kan ervoor kiezen een variabele in rekening te brengen die aangeeft of een bepaalde straat tot een woonwijk behoort of niet.
+  - De routeplanner kan bij gebruik verbonden zijn met het internet om in real time aanpassingen te doen. Wordt daarbij opgeslagen waar de gebruiker zich bevindt?   
+- Abstractie:
+  - Overtollige gegevens over de omgeving zijn verwijderd.
+  - Nochtans worden sommige zaken toch weergegven zoals bepaalde winkels, tankstations ...
+- Patroonherkenning:
+  - real time verkeersinformatie: Als een aantal gebruikers op een bepaald stuk weg alle trager rijden, wordt dit door het systeem herkend als files of vertraagd verkeer.   
+- Algoritme
+
+### Impact op de maatschappij
+
+-  Een van de redenen dat routeplanners zoveel gebruikt worden en dus zoveel impact hebben, is de grote mate van abstractie in de routplanner. <br> Indien gewenst, kan je enkel de instructies opvolgen van de weg die je moet volgen (het stappenplan of algoritme). Je moet je niet bezighouden met het opzoeken van de weg op een kaart, waarbij je rekening zou moeten houden met bv. eenrichtingsverkeer, de oriëntatie van de kaart, enz.
+-  Zo'n routeplanner heeft dus een groot gebruiksgemak.
+-  Bovendien krijg je er bijkomende informatie zoals files, wegwerkzaamheden, waar je kan tanken, enz.
+-  Het gebruik van een routeplanner door zoveel mensen kan ook ongewenste effecten hebben, zoals extra verkeer in woonwijken wanneer een routeplanner het autoverkeer langs woonwijken omleidt om files te vermijden. De vraag is met hoeveel aspecten van de omgeving het algoritme in de routeplanner rekening houdt. In de invoer is het misschien weggeabstraheerd dat een bepaalde omgeving een woonwijk is, of in het programma wordt er met die variabele geen rekening gehouden.  
+-  Omdat er in routeplanners zoveel geabstraheerd wordt, heb je geen volledig zicht meer op de omgeving. Dat kan ook een nadeel zijn t.o.v. een papieren kaart die veel meer details geven van de omgeving en een bepaalde plaats bovendien situeren in een groter gebied. Routplanners hollen als het ware het ruimtelijk bwustzijn rond een plaats uit.
+-  Teveel afhankelijk zijn van digitale routeplanners kan daarom ook gevaarlijk zijn, mensen rijden bv. een treinspoor op of op een trap. Of je kan in een gebied terechtkomen waar er geen mobiel bereik is, of de batterij van je smartphone kan plat zijn. Sommige gebieden zijn ook onvoldoende gedetailleerd of onnauwkeurig aanwezig. Digitale routeplanners kunnen dus fouten bevatten, zoals een foute maximale snelheid die op een bepaalde weg is toegelaten of een straat met eenrichtingsverkeer die als tweerichtingsverkeer is aangegeven.
+-  Als de locaties van de gebruiker worden opgeslagen, dan rijst de vraag wat de verstrekker van de routeplanner aanvangt met die gegevens.
+-  Hoe wordt bepaald welke winkels, tankstations ... getoond worden in de routeplanner? Dit is een vorm van reclame.
