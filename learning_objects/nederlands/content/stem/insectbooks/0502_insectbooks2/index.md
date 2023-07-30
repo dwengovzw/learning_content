@@ -174,3 +174,13 @@ Mechatronica
 
 <span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
 Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+
+## Evaluatie
+
+De interactieve notebook voorziet heel wat opdrachten voor de leerlingen, waarbij zij bovenstaande minimumdoelen nastreven. Om te evalueren of de leerlingen de minimumdoelen bereikt hebben, zijn er twee opties:
+
+- De leerkracht beperkt zich tot deze notebook, en vraagt de leerlingen om de notebooks (en handgeschreven oplossingen) in te dienen
+
+- De leerkracht voorziet een tweede notebook met extra oefeningen, waarbij een nieuw probleem gebaseerd op de exponentiële groei vermeld wordt
+
+In dit laatste geval kunnen de reeds bestaande opdrachten hergebruikt worden, specifiek toegepast op het nieuwe probleem. Het wordt aangeraden om leerlingen gebruik te laten maken van de code die ze eerder zelf implementeerden; een programmeur zal immers hetzelfde doen.
