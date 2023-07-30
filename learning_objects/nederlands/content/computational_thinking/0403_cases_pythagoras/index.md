@@ -171,5 +171,3 @@ medische beeldvorming om op basis van een eerste scan eventuele afwijkingen te m
 &nbsp;&nbsp;&nbsp;&nbsp;* Elke STEM-discipline komt ten minste één maal geïntegreerd aan bod.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau creëren
-
-![ct-schema](@learning-object/m_ct_cases3d/nl/3)
