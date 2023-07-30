@@ -72,7 +72,7 @@ def pythagoras(a, b):<br>
 rhz1 = float(input("Lengte van de eerste rechthoekszijde: "))<br>
 rhz2 = float(input("Geef de lengte van de tweede rechthoekszijde: "))<br><br>
 # verwerking<br>
-vogelvlucht = pythagoras(rhz1, rhz2)<br><br>
+vogelvlucht = pythagoras1(rhz1, rhz2)<br><br>
 # uitvoer<br>
 print("De afstand in vogelvlucht is: ", vogelvlucht)
 </p>
