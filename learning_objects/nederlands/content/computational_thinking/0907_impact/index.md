@@ -2,8 +2,8 @@
 hruid: ct9_7
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Autonome wagens"
+description: "Autonome wagens"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
