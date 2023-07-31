@@ -2,8 +2,8 @@
 hruid: ct9_6
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Digitale landbouw"
+description: "Digitale landbouw"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+# Digitale landbouw
+
+De landbouw voorziet ons van voedsel. Verder is de landbouw belangrijk voor de economie, o.a. de werkgelegenheid, de export en het voorzien van grondstoffen.
+De manier waarop aan landbouw gedaan wordt impacteert niet enkel de huidige maatschappij, maar ook toekomstige generaties.
+
+### Principes van computationeel denken
+
+### Impact op de maatschappij
