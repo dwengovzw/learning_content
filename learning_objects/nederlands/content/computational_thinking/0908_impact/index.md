@@ -34,8 +34,8 @@ teacher_exclusive: true
 -----------------------
 #### Leestip
 
-[Zelfscankassa in de supermarkt leidt tot forse toename winkeldiefstal](https://www.bnnvara.nl/kassa/artikelen/zelfscankassa-in-de-supermarkt-leidt-tot-forse-toename-winkeldiefstal)
-[Nu winkeldiefstal fors toeneemt, stopt Action met zelfscankassa's in sommige filialen](https://www.ed.nl/economie/nu-winkeldiefstal-fors-toeneemt-stopt-action-met-zelfscankassa-s-in-sommige-filialen~a80c5816/)
-[Privacyaspecten van camerasurveillance](https://www.action.com/nl-be/privacy-statement/zelfscankassa/)
-[KLAGERS WORDEN GEK VAN DE ZELFSCANKASSA (EN DE CONTROLES)](https://favorflav.com/nl/eat-drink/food-stories/klagers-worden-gek-van-de-zelfscankassa-en-de-controles/)
+[Zelfscankassa in de supermarkt leidt tot forse toename winkeldiefstal](https://www.bnnvara.nl/kassa/artikelen/zelfscankassa-in-de-supermarkt-leidt-tot-forse-toename-winkeldiefstal)<br>
+[Nu winkeldiefstal fors toeneemt, stopt Action met zelfscankassa's in sommige filialen](https://www.ed.nl/economie/nu-winkeldiefstal-fors-toeneemt-stopt-action-met-zelfscankassa-s-in-sommige-filialen~a80c5816/)<br>
+[Privacyaspecten van camerasurveillance](https://www.action.com/nl-be/privacy-statement/zelfscankassa/)<br>
+[KLAGERS WORDEN GEK VAN DE ZELFSCANKASSA (EN DE CONTROLES)](https://favorflav.com/nl/eat-drink/food-stories/klagers-worden-gek-van-de-zelfscankassa-en-de-controles/)<br>
 [Zelfscankassa](https://nl.wikipedia.org/wiki/Zelfscankassa#:~:text=Deze%20streepjescode%20wordt%20door%20de,zelfscankassa%20zit%20dan%20een%20geldtelmachine.)
