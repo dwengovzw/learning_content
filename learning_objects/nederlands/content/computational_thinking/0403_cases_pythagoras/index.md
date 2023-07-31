@@ -55,7 +55,7 @@ Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om com
 
 ![ct-schema](@learning-object/m_ct_cases3a/nl/3)
 
-<div class="alert alert-box alert-primary">
+<div class="alert alert-box alert-success">
     <strong>Leerdoel in functie van MD 04.05:</strong><br>
     De leerlingen zien in dat het belangrijk is dat je een applicatie gebruiksvriendelijk maakt, als je wil dat die applicatie wordt gebruikt. Gebruiksvriendelijkere digitale toepassingen zullen meer impact kunnen verwezenlijken.
 </div>
@@ -76,8 +76,15 @@ Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om com
 
 ![ct-schema](@learning-object/m_ct_cases3c/nl/3)
 
-<div class="alert alert-box alert-primary">
-    <strong>Leerdoel in functie van MD 04.05:</strong><br> Een van de redenen dat routeplanners zoveel gebruikt worden en dus zoveel impact hebben, is de grote mate van abstractie in de routplanner. Indien gewenst, kan je enkel de instructies opvolgen van de weg die je moet volgen (het stappenplan of algoritme). Je moet je niet bezighouden met het opzoeken van de weg op een kaart, waarbij je rekening zou moeten houden met bv. eenrichtingsverkeer, de oriëntatie van de kaart, enz. Zo'n routeplanner heeft dus een groot gebruiksgemak. Bovendien krijg je er bijkomende informatie zoals files, wegwerkzaamheden, waar je kan tanken, enz. Het gebruik van een routeplanner door zoveel mensen kan ook ongewenste effecten hebben, zoals extra verkeer in woonwijken wanneer een routeplanner het autoverkeer langs woonwijken omleidt om files te vermijden. Omdat er in routeplanners zoveel geabstraheerd wordt, heb je geen volledig zicht meer op de omgeving. Dat kan ook een nadeel zijn t.o.v. een papieren kaart die veel meer details geven van de omgeving en een bepaalde plaats bovendien situeren in een groter gebied. Routplanners hollen als het ware het ruimtelijk bwustzijn rond een plaats uit. Teveel afhankelijk zijn van digitale routeplanners kan daarom ook gevaarlijk zijn, mensen rijden bv. een treinspoor op of op een trap. Of je kan in een gebied terechtkomen waar er geen mobiel bereik is, of de batterij van je smartphone kan plat zijn. Sommige gebieden zijn ook onvoldoende gedetailleerd of onnauwkeurig aanwezig, digitale routeplanners kunnen fouten bevatten.         
+<div class="alert alert-box alert-success">
+    <strong>Leerdoel in functie van MD 04.05:</strong><br> 
+- Een van de redenen dat routeplanners zoveel gebruikt worden en dus zoveel impact hebben, is de grote mate van abstractie in de routplanner. Indien gewenst, kan je enkel de instructies opvolgen van de weg die je moet volgen (het stappenplan of algoritme). 
+    - Je moet je niet bezighouden met het opzoeken van de weg op een kaart, waarbij je rekening zou moeten houden met bv. eenrichtingsverkeer, de oriëntatie van de kaart, enz. Zo'n routeplanner heeft dus een groot gebruiksgemak. 
+    - Bovendien krijg je er bijkomende informatie zoals files, wegwerkzaamheden, waar je kan tanken, enz. 
+    - Omdat er in routeplanners zoveel geabstraheerd wordt, heb je geen volledig zicht meer op de omgeving. Dat kan ook een nadeel zijn t.o.v. een papieren kaart die veel meer details geven van de omgeving en een bepaalde plaats bovendien situeren in een groter gebied. Routplanners hollen als het ware het ruimtelijk bewustzijn rond een plaats uit. Teveel afhankelijk zijn van digitale routeplanners kan daarom ook gevaarlijk zijn, mensen rijden bv. een treinspoor op of op een trap. 
+    - Bij gebruik van een routeplanner moet je er rekening mee houden dat je kan in een gebied kunt terechtkomen waar er geen mobiel bereik is, of dat je ervoor moet opletten dat de batterij van je smartphone niet leeg is. 
+    - Je moet er ook rekening mee houden dat sommige gebieden onvoldoende gedetailleerd of onnauwkeurig aanwezig kunnen zijn. En dat digitale routeplanners fouten kunnen bevatten, zoals een foute maximale snelheid die op een bepaalde weg is toegelaten of een straat met eenrichtingsverkeer die als tweerichtingsverkeer is aangegeven. 
+    - Routeplanners hebben een impact op de maatschappij: Het gebruik van een routeplanner door zoveel mensen kan ongewenste effecten hebben, zoals extra verkeer in woonwijken wanneer een routeplanner het autoverkeer langs woonwijken omleidt om files te vermijden. De vraag is met hoeveel aspecten van de omgeving het algoritme in de routeplanner rekening houdt. In de invoer is het misschien weggeabstraheerd dat een bepaalde omgeving een woonwijk is, of in het programma wordt er met die variabele geen rekening gehouden. Routeplanners kunnen reclame bevatten: Hoe wordt immers bepaald welke winkels, tankstations ... getoond worden in de routeplanner? Routeplanners hebben geleid tot nieuwe toepassingen in de maatschappij: ze worden bv. gebruikt door robots die boodschappen naar huis brengen of door medische drones; a.d.h.v. de routeplanner vinden ze de weg. Met het gebruik van een routeplanner kunnen ook privacy aspecten gemoeid zijn: Als de locaties van de gebruiker worden opgeslagen, dan rijst de vraag wat de verstrekker van de routeplanner aanvangt met die gegevens. 
 </div>
 
 ### Volgende stap: toepassen van patroonherkenning en abstractie
