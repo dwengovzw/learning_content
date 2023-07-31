@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Routeplanner
 
-### Principes van computationeel denken bij een routeplanner
+### Principes van computationeel denken
 - Decompositie:
   - Bij het ontwerp van de routeplanner kan al dan niet rekening gehouden worden met bepaalde parameters. Men kan ervoor kiezen een variabele in rekening te brengen die aangeeft of een bepaalde straat tot een woonwijk behoort of niet.
   - De routeplanner kan bij gebruik verbonden zijn met het internet om in real time aanpassingen te doen. Wordt daarbij opgeslagen waar de gebruiker zich bevindt?
@@ -43,6 +43,9 @@ teacher_exclusive: true
   - Real time verkeersinformatie: Als een aantal gebruikers op een bepaald stuk weg alle trager rijden, wordt dit door het systeem herkend als files of vertraagd verkeer.   
 - Algoritme:
   - Routeplanners gebruiken algoritmes die de weg berekenen, vaak rekening houdend met real time informatie.
+
+### Werking 
+In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://staging.dwengo.org/backend/api/learningObject/getWrapped?hruid=aiz_routeplanner&version=3&language=nl) uit de doeken gedaan. 
 
 ### Impact op de maatschappij
 
