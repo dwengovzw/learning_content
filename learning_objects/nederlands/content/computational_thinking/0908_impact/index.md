@@ -2,8 +2,8 @@
 hruid: ct9_8
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Zelfscankassa"
+description: "Zelfscankassa"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,9 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+# Zelfscankassa
+
+-----------------------
+#### Leestip
+
+[Zelfscankassa in de supermarkt leidt tot forse toename winkeldiefstal}(https://www.bnnvara.nl/kassa/artikelen/zelfscankassa-in-de-supermarkt-leidt-tot-forse-toename-winkeldiefstal)
