@@ -35,7 +35,7 @@ Vele insecten willen zo veel mogelijk nakomelingen voortbrengen. In een generati
 
 ## Exponentiële groei
 
-Wanneer je mag aannemen dat een rups gemiddeld gezien aanleiding geeft tot \$a > 0\$ nieuwe rupsen, bekom je de volgende uitdrukking:
+Wanneer je mag aannemen dat een rups gemiddeld gezien aanleiding geeft tot \\$a > 0\\$ nieuwe rupsen, bekom je de volgende uitdrukking:
 
 $$u_t = a \cdot u_{t - 1}$$
 
