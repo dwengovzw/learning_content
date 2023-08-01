@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-$a = 1,6$
+$$a = 1,6$$
 
 # Wat is WeGoSTEM?
 
