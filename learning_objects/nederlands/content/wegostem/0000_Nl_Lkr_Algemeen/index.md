@@ -30,6 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
+$a = 1,6$
+
 # Wat is WeGoSTEM?
 
 Ben je leerkracht in de derde graad van het basisonderwijs? Wil je leerlingen enthousiasmeren voor techniek en informaticawetenschappen? Dan ben je bij WeGoSTEM aan het juiste adres. Wij bieden je al het materiaal om met jouw leerlingen een kunstrobot te bouwen en te programmeren. Een robot die zelf kan tekenen. Zo verwerven jouw leerlingen een heleboel STEM-vaardigheden, van techniek tot computationeel denken.
