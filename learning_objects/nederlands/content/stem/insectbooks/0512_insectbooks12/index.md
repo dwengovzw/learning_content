@@ -40,6 +40,14 @@ Tekst
 
 [![](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0201 "Notebooks Eerste Grafiek")
 
+
+## html
+
+kader (cf. notebooks) (success - danger - warning - info - ...)
+<div class="alert alert-box alert-success">
+Enkel html opmaak werkt hier, zoals <br>, <em>cursief</em> en <strong>vet</strong>.
+</div>
+
 ## Extra
 
 Basische markdown opmaakelementen:
