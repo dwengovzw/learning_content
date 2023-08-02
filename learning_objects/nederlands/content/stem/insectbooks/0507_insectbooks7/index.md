@@ -53,7 +53,7 @@ Op basis van de waarden van de knopen in de graaf, kan de volgende toestand bere
 
 Om aan matrixvermenigvuldiging te kunnen doen, stel je de toestand op tijdstip $0$ gelijk aan een vector $v_0$, die het aantal eitjes, levers en kevers bevat. Beschouw bijvoorbeeld:
 
-\\\[v_0 = \begin{bmatrix} 1000 \\ 100 \\ 60 \end{bmatrix}\\\]
+\\[v_0 = \begin{bmatrix} 1000 \\ 100 \\ 60 \end{bmatrix}\\]
 
 Om dan de toestand $v_{1}$ op tijdstip $1$ te bepalen, gebruik je de **Lesliematrix** $L$ die de populatiegroei beschrijft. In bovenstaand voorbeeld ziet deze er als volgt uit:
 
