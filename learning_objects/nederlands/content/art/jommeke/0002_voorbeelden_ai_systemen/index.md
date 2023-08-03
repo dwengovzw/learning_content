@@ -28,7 +28,7 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 #### Spot
 ![Boston dynamics spot](@learning-object/org-dwengo-jommeke-images-spot/nl/1 "Boston dynamics spot")
-<sub>© Boston Dynamics</sub> 
+<sub>Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden.</sub>
 
 Spot is een vierpotige robot van het bedrijf Boston Dynamics.
 
@@ -41,11 +41,13 @@ De Nest Learning Thermostat is een slimme thermostaat die de temperatuur automat
 #### Tesla model 3
 ![](@learning-object/org-dwengo-jommeke-images-tesla-model-3/nl/1)
 <Sub>© Tesla Enterprises, LLC</sub>
+
 De Tesla model 3 heeft een automatische piloot die sterk afhankelijk is van AI-systemen.
 
 #### Shazam
 ![](@learning-object/org-dwengo-jommeke-images-shazam-logo/nl/1)
 <sub>Shazam®</sub>
+
 Shazam heeft geleerd om op basis van korte stukjes opgenomen audio te voorspellen welk liedje er speelt.
 
 #### TikTok
