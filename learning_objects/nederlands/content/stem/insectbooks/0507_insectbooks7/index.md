@@ -57,7 +57,7 @@ Om aan matrixvermenigvuldiging te kunnen doen, stel je de toestand op tijdstip $
 
 Om dan de toestand $v_{1}$ op tijdstip $1$ te bepalen, gebruik je de **Lesliematrix** $L$ die de populatiegroei beschrijft. In bovenstaand voorbeeld ziet deze er als volgt uit:
 
-$$L = \begin{bmatrix} 0 & 0 & 100 \\ 0.05 & 0 & 0 \\ 0 & 0.75 & 0 \end{bmatrix}$$
+$$L = \begin{bmatrix} 0 & 0 & 100 \ 0.05 & 0 & 0 \ 0 & 0.75 & 0 \end{bmatrix}$$
 
 Vertrek je van de toestand $v_0$, dan kan $v_{1}$ berekend worden als volgt:
 
