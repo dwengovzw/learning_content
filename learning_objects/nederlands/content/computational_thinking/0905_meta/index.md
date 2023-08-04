@@ -1,9 +1,9 @@
 ---
-hruid: ct9_1
+hruid: m_ct_impact_5
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Sentimentanalyse"
+description: "Sentimentanalyse"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: dwengo
 licence: dwengo
-content_type: text/markdown
+content_type: text/ct-schema
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -29,5 +29,26 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
-![ct-schema](@learning-object/m_ct_impact_1/nl/3)
+
+<context>
+... 
+</div>
+</context>
+<decomposition>
+Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
+1. ... 
+</decomposition>
+<patternRecognition>
+...  (**patroonherkenning**)
+</patternRecognition>
+<abstraction>
+... (**abstractie**)<br>
+</abstraction>
+<algorithms>
+Een **algoritme** ... <br>
+- ... 
+</algorithms>
+<implementation>
+... 
+</implementation>
+

@@ -30,3 +30,4 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Autonome wagens
+![ct-schema](@learning-object/m_ct_impact_7/nl/3)

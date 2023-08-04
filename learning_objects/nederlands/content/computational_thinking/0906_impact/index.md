@@ -37,3 +37,5 @@ De manier waarop aan landbouw gedaan wordt impacteert niet enkel de huidige maat
 ### Principes van computationeel denken
 
 ### Impact op de maatschappij
+
+![ct-schema](@learning-object/m_ct_impact_6/nl/3)
