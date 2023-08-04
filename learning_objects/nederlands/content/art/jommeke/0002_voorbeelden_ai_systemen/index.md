@@ -28,9 +28,9 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 #### Spot
 
-![Boston dynamics spot](@learning-object/org-dwengo-jommeke-images-spot/nl/1 "Boston dynamics spot") {.img0}
+![Boston dynamics spot](@learning-object/org-dwengo-jommeke-images-spot/nl/1#test0 "Boston dynamics spot")
 
-![](embed/image1.png){.img1}
+![](embed/image1.png#test1 "Boston dynamics spot")
 
 
 
