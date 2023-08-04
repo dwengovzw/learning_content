@@ -2,8 +2,8 @@
 hruid: ct9_0
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Mediawijs minimumdoel"
+description: "Mediawijs minimumdoel"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Minimumdoel 
+# Mediawijs minimumdoel 
 
 Voor de tweede graad is een minimumdoel geformuleerd dat beoogt dat leerlingen de impact die digitale systemen hebben, leren inschatten; met de principes van computationeel denken als houvast denken ze na over de werking van deze systemen.
 
