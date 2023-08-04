@@ -28,14 +28,19 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 #### Spot
 
-<div class="test">
-T E S T
-</div>
-![]()
+![Boston dynamics spot](@learning-object/org-dwengo-jommeke-images-spot/nl/1 "Boston dynamics spot") {.img0}
+
+![](embed/image1.png){.img1}
+
 
 
 <p style="text-align: center;">
- <img src="image1.png" alt="Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden."><br>
+ <img src="img1" alt="Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden."><br>
+ <sub>Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden.</sub>
+</p>
+
+<p style="text-align: center;">
+ <img src="img0" alt="Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden."><br>
  <sub>Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden.</sub>
 </p>
 
