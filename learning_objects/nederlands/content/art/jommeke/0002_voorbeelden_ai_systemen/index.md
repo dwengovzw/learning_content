@@ -28,8 +28,6 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 #### Spot
 
-<img src="/embed/image1.png" alt="Test4">
-
 <img src="image1.png" alt="Test0">
 
 <img src="/image1.png" alt="Test1">
