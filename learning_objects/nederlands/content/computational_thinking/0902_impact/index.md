@@ -72,7 +72,14 @@ Navigatiesystemen leiden tot nieuwe verwachtingen op het gebied van online shopp
 -  Het gebruik van routeplanners kan ervoor zorden dat een bedrijf de kosten en de tijd gebruikt voor transport kan minimaliseren en de werking kan optimaliseren, bv. bij een leveringsbedrijf of taxibedrijf.
 -  Als de routeplanner toegang krijgt tot databanken van restaurants, winkels, bioscopen, enz. dan kan een toerist via de routeplanner bv. te weten komen welke zaken er in de buurt zijn van het hotel.
 -  Routes die doorgaans enkel gekend zijn door lokale bewoners kunnen door het gebruik van de app bekend worden bij het systeem (patroonherkenning) en gedeeld worden met niet-lokale autobestuurders.
-  
+
+  -  Bij het ontwerp van de routeplanner kan al dan niet rekening gehouden worden met bepaalde parameters. Men kan ervoor kiezen een variabele in rekening te brengen die aangeeft of een bepaalde straat tot een woonwijk behoort of niet.
+-  Wordt real time informatie over de routes van de daarbij opgeslagen waar de gebruiker zich bevindt?
+-  Real time verkeersinformatie kan afkomstig zijn van meerdere bronnen, bijvoorbeeld de politie of een beheerder van een autosnelweg. Maar het systeem kan ook informatie bekomen via patroonherkenning.
+-      1. Vaak houden ze daarbij, vaak rekening houdend met real time informatie, zoals files, die ze dan proberen te ontwijken. 
+    2. Misschien zijn er afspraken met commerciële partners om hen zoeveel mogelijk op de routes te laten aanwezig zijn.
+    3. Zowel in de vormgeving als in de werking van een routeplanner speelt **abstractie** een prominente rol.
+    4. De routeplanner houdt voor het bepalen van de route slechts rekening met bepaalde parameters, zoals de afstand. Andere parameters zoals het feit dat een straat in een woonwijk ligt, worden genegeerd. 
 -----------------------------
 ### Werking 
 In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://staging.dwengo.org/backend/api/learningObject/getWrapped?hruid=aiz_routeplanner&version=3&language=nl) uit de doeken gedaan.
