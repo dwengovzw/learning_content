@@ -42,11 +42,6 @@ Een historisch overzicht van het ontstaan van computationeel denken vind je in h
 Via de andere leerpaden van dit project word je vertrouwd met de nieuwe terminologie en zal je in staat zijn om aspecten van computationeel denken in je eigen lesmateriaal te herkennen.
 Een eerste nood, de nood aan een werkbare definitie van computationeel denken, wordt alvast verholpen in het leerpad 'Definitie en aandachtspunten'.
 
-<div class="alert alert-box alert-success">
-    <strong>Computationeel denken is niet nieuw</strong><br>
-     Het is belangrijk om leerkrachten vertrouwd te maken met de terminologie zodat ze aspecten van computationeel denken in hun eigen lesmateriaal kunnen herkennen, en hun zelfvertrouwen om les te geven over computationeel denken groeit. Daartoe is er o.a. nood aan een ruim aanbod van kwalitatief lesmateriaal (Barr & Stephenson, 2011; Bocconi et al., 2016; Yadav et al., 2017a). 
-</div> 
-
 ---------------------------------
 #### Bronnen:
 Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM
