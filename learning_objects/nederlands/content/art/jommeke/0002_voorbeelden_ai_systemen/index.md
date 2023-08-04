@@ -28,29 +28,30 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 #### Spot
 
-<img src="learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test0">
+<img src="image1.png" alt="Test0">
 
-<img src="/learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test0">
+<img src="/image1.png" alt="Test1">
 
-<img src="./learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test0">
+<img src="./image1.png" alt="Test2">
 
-<img src="images/boston_dynamics_spot/image1.png" alt="Test1">
+<img src="embed/image1.png" alt="Test3">
 
-<img src="/images/boston_dynamics_spot/image1.png" alt="Test2">
+<img src="/embed/image1.png" alt="Test4">
 
-<img src="./images/boston_dynamics_spot/image1.png" alt="Test3">
+<img src="./embed/image1.png" alt="Test5">
 
-<img src="image1.png" alt="Test4">
+<img src="images/boston_dynamics_spot/image1.png" alt="Test6">
 
-<img src="/image1.png" alt="Test5">
+<img src="/images/boston_dynamics_spot/image1.png" alt="Test7">
 
-<img src="./image1.png" alt="Test6">
+<img src="./images/boston_dynamics_spot/image1.png" alt="Test8">
 
-<img src="embed/image1.png" alt="Test7">
+<img src="learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test9">
 
-<img src="/embed/image1.png" alt="Test8">
+<img src="/learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test10">
 
-<img src="./embed/image1.png" alt="Test9">
+<img src="./learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test11">
+
 
 
 <p style="text-align: center;">
