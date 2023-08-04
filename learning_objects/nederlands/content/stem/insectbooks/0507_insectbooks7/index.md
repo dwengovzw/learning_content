@@ -61,11 +61,11 @@ $$L = \begin{bmatrix} 0 & 0 & 100 \\ 0.05 & 0 & 0 \\ 0 & 0.75 & 0 \end{bmatrix}$
 
 Vertrek je van de toestand $v_0$, dan kan $v_{1}$ berekend worden als volgt:
 
-$$v_{1} = L v_0 = \begin{bmatrix} 0 & 0 & 100 \\ 0.05 & 0 & 0 \\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 1000 \\ 100 \\ 60 \end{bmatrix} = \begin{bmatrix} 6000 \\ 50 \\ 75 \end{bmatrix}$$
+$$v_{1} = L v_0 = \begin{bmatrix} 0 & 0 & 100 \\\\ 0.05 & 0 & 0 \\\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 1000 \\\\ 100 \\\\ 60 \end{bmatrix} = \begin{bmatrix} 6000 \\\\ 50 \\\\ 75 \end{bmatrix}$$
 
 Ga je een stap verder, dan vind je:
 
-$$v_{2} = L v_{1} = \begin{bmatrix} 0 & 0 & 100 \\ 0.05 & 0 & 0 \\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 6000 \\ 50 \\ 75 \end{bmatrix} = \begin{bmatrix} 7500 \\ 300 \\ 37.5 \end{bmatrix}$$
+$$v_{2} = L v_{1} = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix} = \begin{bmatrix} 7500 \\\ 300 \\\ 37.5 \end{bmatrix}$$
 
 Bemerk dat deze laatste uitdrukking ook als volgt geschreven kan worden:
 
