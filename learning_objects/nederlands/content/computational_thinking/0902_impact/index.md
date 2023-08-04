@@ -34,28 +34,17 @@ teacher_exclusive: true
 Er zijn meerdere aspecten gemoeid met de mogelijke impact van het gebruik van navigatiesystemen op de maatschappij.<br>
 Hier volgen twee voorbeelden.
 
-## 1. Impact: meer verkeer in woonwijken
+## Impact: meer verkeer in woonwijken
 Veel mensen gebruiken een navigatiesysteem in de auto, bijvoorbeeld om snel ergens naartoe te rijden waar ze nog nooit geweest zijn, of om files te ontwijken.
+
 In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten aan het wijdverspreid gebruik van navigatiesystemen.
 
-## 2. Impact: online shopping
-Navigatiesystemen leiden tot nieuwe verwachtingen op het gebied van online shoppen, zoals snellere levering van pakjes en levering door rijdende robots of drones. 
+> **Leestips:**<br>
+> [Navigatieapp Waze laat Brusselse woonstraten vollopen](https://www.bruzz.be/analyse/navigatieapp-waze-laat-brusselse-woonstraten-vollopen-2019-09-18)<br>
+> [Waze Asked to Stop Providing Drivers With Traffic Shortcuts Because of Obvious Reasons](https://www.autoevolution.com/news/waze-asked-to-stop-providing-drivers-with-traffic-shortcuts-because-of-obvious-reasons-215490.html)
 
 ## Principes van computationeel denken
 
-- Decompositie:
-  - Bij het ontwerp van de routeplanner kan al dan niet rekening gehouden worden met bepaalde parameters. Men kan ervoor kiezen een variabele in rekening te brengen die aangeeft of een bepaalde straat tot een woonwijk behoort of niet.
-  - De routeplanner kan bij gebruik verbonden zijn met het internet om in real time aanpassingen te doen. Wordt daarbij opgeslagen waar de gebruiker zich bevindt?
-  - Heeft de routeplanner toegenag tot andere databanken, naast het strikt noodzakelijke om te kunnen werken?
-- Abstractie:
-  - Overtollige gegevens over de omgeving zijn verwijderd.
-  - Nochtans worden sommige zaken toch weergegeven zoals bepaalde winkels, tankstations ...
-- Patroonherkenning:
-  - Real time verkeersinformatie: Als een aantal gebruikers op een bepaald stuk weg alle trager rijden, wordt dit door het systeem herkend als files of vertraagd verkeer.
-  - Routes die doorgaans enkel gekend zijn door lokale bewoners kunnen door het gebruik van de app bekend worden bij het systeem.
-- Algoritme:
-  - Routeplanners gebruiken algoritmes die de weg berekenen, vaak rekening houdend met real time informatie.
-  
 ![ct-schema](@learning-object/m_ct_impact_2/nl/3)
  
 ## Bespreking van de impact
@@ -79,25 +68,54 @@ Navigatiesystemen leiden tot nieuwe verwachtingen op het gebied van online shopp
 -      1. Vaak houden ze daarbij, vaak rekening houdend met real time informatie, zoals files, die ze dan proberen te ontwijken. 
     2. Misschien zijn er afspraken met commerciële partners om hen zoeveel mogelijk op de routes te laten aanwezig zijn.
     3. Zowel in de vormgeving als in de werking van een routeplanner speelt **abstractie** een prominente rol.
-    4. De routeplanner houdt voor het bepalen van de route slechts rekening met bepaalde parameters, zoals de afstand. Andere parameters zoals het feit dat een straat in een woonwijk ligt, worden genegeerd. 
+    4. De routeplanner houdt voor het bepalen van de route slechts rekening met bepaalde parameters, zoals de afstand. Andere parameters zoals het feit dat een straat in een woonwijk ligt, worden genegeerd.
+ 
+    5. - Decompositie:
+  - Bij het ontwerp van de routeplanner kan al dan niet rekening gehouden worden met bepaalde parameters. Men kan ervoor kiezen een variabele in rekening te brengen die aangeeft of een bepaalde straat tot een woonwijk behoort of niet.
+  - De routeplanner kan bij gebruik verbonden zijn met het internet om in real time aanpassingen te doen. Wordt daarbij opgeslagen waar de gebruiker zich bevindt?
+  - Heeft de routeplanner toegenag tot andere databanken, naast het strikt noodzakelijke om te kunnen werken?
+- Abstractie:
+  - Overtollige gegevens over de omgeving zijn verwijderd.
+  - Nochtans worden sommige zaken toch weergegeven zoals bepaalde winkels, tankstations ...
+- Patroonherkenning:
+  - Real time verkeersinformatie: Als een aantal gebruikers op een bepaald stuk weg alle trager rijden, wordt dit door het systeem herkend als files of vertraagd verkeer.
+  - Routes die doorgaans enkel gekend zijn door lokale bewoners kunnen door het gebruik van de app bekend worden bij het systeem.
+- Algoritme:
+  - Routeplanners gebruiken algoritmes die de weg berekenen, vaak rekening houdend met real time informatie.
 -----------------------------
 ### Werking 
 In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://staging.dwengo.org/backend/api/learningObject/getWrapped?hruid=aiz_routeplanner&version=3&language=nl) uit de doeken gedaan.
+
+
 -------------------------------
+## Impact op online shopping en op de zorgsector
+Routeplanners leiden tot nieuwe verwachtingen op het gebied van online shoppen, zoals snellere levering van pakjes en levering door rijdende robots of drones. 
+> ["Without location technology, delivering packages for Christmas would be a nightmare!"](https://www.here.com/learn/blog/last-mile-holiday-season-2021)
+> [GETEST. Wij lieten onze boodschappen leveren door robot van Carrefour: “We geloven onze ogen niet ”](https://www.nieuwsblad.be/cnt/dmf20230726_96924324)
+
+Behalve in de verkoop, is men ook in andere sectoren gaan nadenken over de opportuniteiten van navigatiesystemen.<br>
+In de zorgsector zag men bv. de mogelijkheid tot het inzetten van drones voor transport tussen ziekenhuizen.  
+> [Met Medical Drone Service in minuten heen en weer tussen ziekenhuislocaties](https://www.antoniusziekenhuis.nl/nieuwsoverzicht/met-medical-drone-service-minuten-heen-en-weer-tussen-ziekenhuislocaties-0)<br>
+
+Bij de brandweer van Genk zet men drones in om een betere inschatting te kunnen van een incident.
+> [Genks proefproject met safety drones krijgt navolging in het hele land](https://www.vrt.be/vrtnws/nl/2023/03/14/genks-proefproject-met-safety-drones-krijgt-navolging-in-het-hel/)<br>
+
+-----------------------------
 #### Leestips
-[Navigatieapp Waze laat Brusselse woonstraten vollopen](https://www.bruzz.be/analyse/navigatieapp-waze-laat-brusselse-woonstraten-vollopen-2019-09-18)<br>
+
 [TomTom VIA53: voor navigatie en files omzeilen](https://www.intogadgets.nl/tomtom-via53-voor-navigatie-en-files-omzeilen/)<br>
-[Waze Asked to Stop Providing Drivers With Traffic Shortcuts Because of Obvious Reasons](https://www.autoevolution.com/news/waze-asked-to-stop-providing-drivers-with-traffic-shortcuts-because-of-obvious-reasons-215490.html)<br>
-[Navigatie Mercedes ontwijkt criminele buurten](https://www.ad.nl/auto/navigatie-mercedes-ontwijkt-criminele-buurten~a48a4169/)<br>
-[TomTom Mapmakers: Meet Leen D’hondt, Product Manager, TomTom Maps](https://developer.tomtom.com/blog/spotlight/tomtom-mapmakers-meet-leen-dhondt-product-manager-tomtom-maps/)<br>
 [Politie Heusden-Zolder waarschuwt voor gebruik van GPS bij wegenwerken](https://www.vrt.be/vrtnws/nl/2021/09/23/politie-heusden-zolder-waarschuwt-voor-gebruik-van-gps-bij-wegen/)<br>
-[Met Medical Drone Service in minuten heen en weer tussen ziekenhuislocaties](https://www.antoniusziekenhuis.nl/nieuwsoverzicht/met-medical-drone-service-minuten-heen-en-weer-tussen-ziekenhuislocaties-0)<br>
-[Genks proefproject met safety drones krijgt navolging in het hele land](https://www.vrt.be/vrtnws/nl/2023/03/14/genks-proefproject-met-safety-drones-krijgt-navolging-in-het-hel/)<br>
-[GETEST. Wij lieten onze boodschappen leveren door robot van Carrefour: “We geloven onze ogen niet ”](https://www.nieuwsblad.be/cnt/dmf20230726_96924324)<br>
+
+[Navigatie Mercedes ontwijkt criminele buurten](https://www.ad.nl/auto/navigatie-mercedes-ontwijkt-criminele-buurten~a48a4169/)<br>
+
+[TomTom Mapmakers: Meet Leen D’hondt, Product Manager, TomTom Maps](https://developer.tomtom.com/blog/spotlight/tomtom-mapmakers-meet-leen-dhondt-product-manager-tomtom-maps/)<br>
+
+
+
 [Autonomous Robots for Industry 4.0](https://starshipdeliveries.com/industry/)<br>
-["Without location technology, delivering packages for Christmas would be a nightmare!"](https://www.here.com/learn/blog/last-mile-holiday-season-2021)<br>
-[https://www.knack.be/nieuws/vermijden-verschuiven-en-verschonen-hoe-kunnen-we-e-commerce-duurzamer-organiseren/](https://www.knack.be/nieuws/vermijden-verschuiven-en-verschonen-hoe-kunnen-we-e-commerce-duurzamer-organiseren/)<br>
 [Delivery robots begin to look real](https://www.gpsworld.com/delivery-robots-begin-to-look-real/)
 [Delivery robots](https://youtu.be/tQZWe1JFR9g)
 [Delivery robots](https://youtu.be/Z417CncwQsg)
 [Werking delivery robots](https://youtu.be/6rq6Hx0PRAc)
+
+[https://www.knack.be/nieuws/vermijden-verschuiven-en-verschonen-hoe-kunnen-we-e-commerce-duurzamer-organiseren/](https://www.knack.be/nieuws/vermijden-verschuiven-en-verschonen-hoe-kunnen-we-e-commerce-duurzamer-organiseren/)<br>
