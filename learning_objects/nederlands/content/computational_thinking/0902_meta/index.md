@@ -2,8 +2,8 @@
 hruid: m_ct_impact_2
 version: 3
 language: nl
-title: "Sentimentanalyse"
-description: "Sentimentanalyse"
+title: "Impact routeplanner"
+description: "Impact routeplanner"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,24 +31,44 @@ teacher_exclusive: true
 ---
 
 <context>
-... 
+Ontwikkelen van een routeplanner.
 </div>
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. ... 
+1. Global positioning system (gps)
+2. Vastleggen met welke parameters de routeplanner rekening houdt en met welke niet?
+    - Parameters om de snelste weg te kunnen bepalen zoals toegelaten snelheid, verkeersdrukte.
+    - Parameters om de kortste weg te kunnen bepalen zoals afstand.
+    - Parameters om de meest optimale weg te kunnen bepalen zoals het weer.
+    - Geschiktheid van de wegen voor vrachtwagens.
+    - Lokaal karakter zoals woonwijk of industriepark. 
+    - Tot welke databanken heeft de routeplanner toegang? 
+       -- Een databank van commerciële partners zoals bepaalde winkels, tankstations, ...
+       -- Wegenwerken
+    ...
+3. Vastleggen hoe de routeplanner real time aanpassingen kan doen aan de route.
+    - Een mobiele internetverbinding
+    - Real time verkeersinformatie
+    - - Wordt ervoor gekozen om real time informatie over de routes van de gebruikers te communiceren?
 </decomposition>
 <patternRecognition>
-...  (**patroonherkenning**)
+Het systeem kan informatie bekomen via **patroonherkenning**, bijvoorbeeld:
+1. De gebruikers die op een bepaald stuk weg alle trager rijden, kunnen door het systeem herkend worden als file of vertraagd verkeer.
+2. Het systeem zou een patroon van herhaaldelijke file op een bepaalde plaats kunnen detecteren en aanduiden als te vermijden plaats.
+3. Een routes die doorgaans enkel gekend is door lokale bewoners zou door het rijden ervan  als mogelijk traject kunnen opgeslagen worden in het systeem. 
 </patternRecognition>
 <abstraction>
-... (**abstractie**)<br>
+Zowel in de vormgeving als in de werking van een routeplanner speelt **abstractie** een prominente rol. 
+1. Overtollige gegevens over de omgeving zijn verwijderd in de vormgeving. Je krijgt enkel de weg te zien, zonder veel informatie van de omgeving waar je door rijdt.
+    - Nochtans worden bepaalde winkels, tankstations ... toch weergegeven.  
+2.  De routeplanner houdt voor het bepalen van de route slechts rekening met bepaalde parameters, zoals de afstand. Andere parameters, zoals het feit dat een straat in een woonwijk ligt, worden genegeerd.       
 </abstraction>
 <algorithms>
-Een **algoritme** ... <br>
-- ... 
+Routeplanners gebruiken **algoritmes** die de weg berekenen. 
+1. Naargelang de wens van de gebruiker zoeken ze naar de kortste, snelste of meest optimale weg.
+2. Mogelijk is er een algoritme dat real time informatie verwerkt.
+3. Mogelijk is er ook een algoritme dat de route linkt aan de aanwezigheid van commerciële partners. 
 </algorithms>
-<implementation>
-... 
-</implementation>
+
 
