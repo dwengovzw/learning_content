@@ -28,6 +28,12 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 #### Spot
 
+<img src="learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test0">
+
+<img src="/learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test0">
+
+<img src="./learning_content/learning_objects/nederlands/art/jommeke/images/boston_dynamics_spot/image1.png" alt="Test0">
+
 <img src="images/boston_dynamics_spot/image1.png" alt="Test1">
 
 <img src="/images/boston_dynamics_spot/image1.png" alt="Test2">
