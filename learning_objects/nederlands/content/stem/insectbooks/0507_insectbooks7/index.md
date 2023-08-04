@@ -53,15 +53,15 @@ Op basis van de waarden van de knopen in de graaf, kan de volgende toestand bere
 
 Om aan matrixvermenigvuldiging te kunnen doen, stel je de toestand op tijdstip $0$ gelijk aan een vector $v_0$, die het aantal eitjes, levers en kevers bevat. Beschouw bijvoorbeeld:
 
-\\[v_0 = \begin{bmatrix} 1000 &#92;&#92; 100 &#92;&#92; 60 \end{bmatrix}\\]
+\\[v_0 = \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix}\\]
 
 Om dan de toestand $v_{1}$ op tijdstip $1$ te bepalen, gebruik je de **Lesliematrix** $L$ die de populatiegroei beschrijft. In bovenstaand voorbeeld ziet deze er als volgt uit:
 
-$$L = \begin{bmatrix} 0 & 0 & 100 \ 0.05 & 0 & 0 \ 0 & 0.75 & 0 \end{bmatrix}$$
+$$L = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix}$$
 
 Vertrek je van de toestand $v_0$, dan kan $v_{1}$ berekend worden als volgt:
 
-$$v_{1} = L v_0 = \begin{bmatrix} 0 & 0 & 100 \\\\ 0.05 & 0 & 0 \\\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 1000 \\\\ 100 \\\\ 60 \end{bmatrix} = \begin{bmatrix} 6000 \\\\ 50 \\\\ 75 \end{bmatrix}$$
+$$v_{1} = L v_0 = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix} = \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix}$$
 
 Ga je een stap verder, dan vind je:
 
