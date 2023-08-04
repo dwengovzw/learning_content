@@ -53,3 +53,5 @@ TODO
 
 [Apps kunnen meeluisteren, maar doen ze dat wel?]https://factcheck.vlaanderen/factcheck/apps-kunnen-meeluisteren-doen-wel
 [VOICE ASSISTANTS](https://data-en-maatschappij.ai/publicaties/brainfood-databescherming-en-voice-assistants-1)
+
+![ct-schema](@learning-object/m_ct_impact_4/nl/3)

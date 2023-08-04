@@ -30,3 +30,4 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 Tekst
+![ct-schema](@learning-object/m_ct_impact_0/nl/3)

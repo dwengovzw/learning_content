@@ -39,3 +39,5 @@ teacher_exclusive: true
 [Privacyaspecten van camerasurveillance](https://www.action.com/nl-be/privacy-statement/zelfscankassa/)<br>
 [KLAGERS WORDEN GEK VAN DE ZELFSCANKASSA (EN DE CONTROLES)](https://favorflav.com/nl/eat-drink/food-stories/klagers-worden-gek-van-de-zelfscankassa-en-de-controles/)<br>
 [Zelfscankassa](https://nl.wikipedia.org/wiki/Zelfscankassa#:~:text=Deze%20streepjescode%20wordt%20door%20de,zelfscankassa%20zit%20dan%20een%20geldtelmachine.)
+
+![ct-schema](@learning-object/m_ct_impact_8/nl/3)

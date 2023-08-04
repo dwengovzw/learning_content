@@ -67,3 +67,5 @@ In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://staging.
 [Genks proefproject met safety drones krijgt navolging in het hele land](https://www.vrt.be/vrtnws/nl/2023/03/14/genks-proefproject-met-safety-drones-krijgt-navolging-in-het-hel/)<br>
 [GETEST. Wij lieten onze boodschappen leveren door robot van Carrefour: “We geloven onze ogen niet ”](https://www.nieuwsblad.be/cnt/dmf20230726_96924324)<br>
 [Autonomous Robots for Industry 4.0](https://starshipdeliveries.com/industry/)
+
+![ct-schema](@learning-object/m_ct_impact_2/nl/3)
