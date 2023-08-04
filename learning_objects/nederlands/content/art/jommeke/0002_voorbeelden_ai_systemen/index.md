@@ -29,6 +29,7 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 #### Spot
 ![Boston dynamics spot](@learning-object/org-dwengo-jommeke-images-spot/nl/1 "Boston dynamics spot")
 <sub>Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden.</sub>
+<p style="text-align: center;">Text_content</p>
 
 Spot is een vierpotige robot van het bedrijf Boston Dynamics.
 
