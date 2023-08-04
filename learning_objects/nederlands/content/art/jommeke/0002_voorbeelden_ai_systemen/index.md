@@ -27,9 +27,15 @@ Voorbeelden van AI-systemen
 Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van AI-systemen. 
 
 #### Spot
+<p style="text-align: center;">
+ <img src="embed/image1.png" alt="Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden."><br>
+ <sub>Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden.</sub>
+</p>
+
+<p style="text-align: center;">
 ![Boston dynamics spot](@learning-object/org-dwengo-jommeke-images-spot/nl/1 "Boston dynamics spot")
 <sub>Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden.</sub>
-<p style="text-align: center;">Text_content</p>
+</p>
 
 Spot is een vierpotige robot van het bedrijf Boston Dynamics.
 
