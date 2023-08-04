@@ -32,7 +32,7 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 ![](embed/image1.png#test1 "Boston dynamics spot")
 
-
+![](embed/image1.png)
 
 <p style="text-align: center;">
  <img src="img1" alt="Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden."><br>
