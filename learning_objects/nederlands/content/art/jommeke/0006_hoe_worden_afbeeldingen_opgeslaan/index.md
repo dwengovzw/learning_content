@@ -26,7 +26,7 @@ Een foto of digitaal beeld bestaat uit een eindig aantal pixels. Het woord 'pixe
 
 Bekijk de afbeelding van Jommeke. Je kan inzoomen op een bepaald deel van de foto. 
 
-![](embed/banner_jommeke_2.png) 
+![](embed/banner_jommeke_2.png#test2) 
 
 Als je dit genoeg doet dan kan je de verschillende pixels onderscheiden. 
 
