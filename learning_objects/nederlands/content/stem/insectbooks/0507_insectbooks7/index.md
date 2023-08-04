@@ -45,7 +45,7 @@ Bij kevers is de overgang van één levensfase naar een andere niet meteen evide
 
 Deze volgorde van levensfases leidt tot een cyclus. Deze cyclus kan in een graag gegoten worden, die de overgang tussen toestanden op een zeker moment in de tijd beschrijft:
 
-![Graaf](files/graph.png "https://www.wisfaq.nl/pagina.asp?nummer=1883")
+![Graaf](embed/graph.png "https://www.wisfaq.nl/pagina.asp?nummer=1883")
 
 Op basis van de waarden van de knopen in de graaf, kan de volgende toestand berekend worden. Om dit proces te vereenvoudigen, zal je matrices gebruiken.
 
