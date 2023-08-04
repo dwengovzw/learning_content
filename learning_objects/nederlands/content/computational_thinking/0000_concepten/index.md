@@ -54,9 +54,6 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
     Ga na welke digitale systemen je gebruikt op een doorsnee dag, vanaf het moment dat je wakker wordt tot wanneer je op school komt. 
 </div>
 
-Er is echter nog veel werk aan de winkel. Er is nog veel onzekerheid over welke concepten van computationeel denken het beste aan bod komen in het onderwijs en hoe dat dan het beste gebeurt. Ook de professionalisering van leerkrachten verdient de nodige aandacht, want ze zijn onvoldoende vertrouwd met de terminologie van computationeel denken en mogelijke manieren van aanpak, didactiek en evaluatie.<br>
-Een historisch overzicht van het ontstaan van computationeel denken (zie leerpad 'Historiek' van het project 'Computationeel denken'), de ervaringen die men in het buitenland al heeft opgebouwd in het onderwijs, en inzichten van specialisten ter zake kunnen hier de weg wijzen. Voorbeelden uit de klaspraktijk maken de aanpak van computationeel denken concreet (zie leerpad 'Cases' van het project 'Computationeel denken').
-
 ---------------------------------
 #### Bronnen:
 Riley, D. & Hunt, K. (2014). *COMPUTATIONAL THINKING FOR THE MODERN PROBLEM SOLVER.* Florida, Verenigde Staten: Chapman and Hall/CRC.
