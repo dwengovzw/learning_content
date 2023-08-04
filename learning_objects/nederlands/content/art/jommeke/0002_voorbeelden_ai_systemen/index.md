@@ -28,7 +28,7 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 #### Spot
 
-<img src="/image1.png" alt="Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden.">
+<img src="embed/image1.png" alt="Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden.">
 
 <p style="text-align: center;">
  <img src="image1.png" alt="Afbeelding met dank aan Boston Dynamics, Inc.  Alle rechten voorbehouden."><br>
