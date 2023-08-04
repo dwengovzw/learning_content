@@ -28,17 +28,23 @@ Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van 
 
 #### Spot
 
-<img src="images/boston_dynamics_spot/image1.png" alt="Test">
+<img src="images/boston_dynamics_spot/image1.png" alt="Test1">
 
-<img src="/images/boston_dynamics_spot/image1.png" alt="Test">
+<img src="/images/boston_dynamics_spot/image1.png" alt="Test2">
 
-<img src="image1.png" alt="Test">
+<img src="./images/boston_dynamics_spot/image1.png" alt="Test3">
 
-<img src="/image1.png" alt="Test">
+<img src="image1.png" alt="Test4">
 
-<img src="embed/image1.png" alt="Test">
+<img src="/image1.png" alt="Test5">
 
-<img src="/embed/image1.png" alt="Test">
+<img src="./image1.png" alt="Test6">
+
+<img src="embed/image1.png" alt="Test7">
+
+<img src="/embed/image1.png" alt="Test8">
+
+<img src="./embed/image1.png" alt="Test9">
 
 
 <p style="text-align: center;">
