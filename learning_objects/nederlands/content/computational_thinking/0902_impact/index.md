@@ -34,7 +34,7 @@ teacher_exclusive: true
 Routeplanners zijn een veelgebruikte digitale toepassing. Ze hebben op meerdere manieren een impact op onze maatschappij.
 Alvast een voorbeeld.
 
-## Impact: meer verkeer in woonwijken
+**Impact: meer verkeer in woonwijken**<br>
 Veel mensen gebruiken een navigatiesysteem in de auto, bijvoorbeeld om snel ergens naartoe te rijden waar ze nog nooit geweest zijn, of om files te ontwijken.
 
 In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten aan het wijdverspreid gebruik van navigatiesystemen.
@@ -71,21 +71,22 @@ In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten
     - Routeplanners kunnen ook rekening houden met zaken die je niet zou verwachten.
       > [Navigatie Mercedes ontwijkt criminele buurten](https://www.ad.nl/auto/navigatie-mercedes-ontwijkt-criminele-buurten~a48a4169/)<br>
 -------------------------------
-## Impact op online shopping en op de zorgsector
-Routeplanners leiden tot nieuwe verwachtingen op het gebied van online shoppen, zoals snellere levering van pakjes en levering door rijdende robots of drones. 
+## Gerelateerde voorbeelden: online shopping, de zorgsector ...
 
-Het gebruik van routeplanners kan ervoor zorden dat een bedrijf de kosten en de tijd gebruikt voor transport kan minimaliseren en de werking kan optimaliseren, bv. bij een leveringsbedrijf of taxibedrijf.
+Routeplanners leiden tot nieuwe verwachtingen op het gebied van online shoppen, zoals snellere **levering** van pakjes en levering door rijdende robots of drones. 
+
+Het gebruik van routeplanners kan ervoor zorgen dat een bedrijf **de kosten en de tijd** gebruikt voor transport kan minimaliseren en de werking kan optimaliseren, bv. bij een leveringsbedrijf of taxibedrijf.
 > ["Without location technology, delivering packages for Christmas would be a nightmare!"](https://www.here.com/learn/blog/last-mile-holiday-season-2021)
 
-Rijdende robots worden gebruikt om in de buurt van de supermarkt etenswaren en andere boodschappen te bezorgen.
+**Rijdende robots** worden gebruikt om in de buurt van de supermarkt etenswaren en andere boodschappen te bezorgen.
 > [GETEST. Wij lieten onze boodschappen leveren door robot van Carrefour: “We geloven onze ogen niet ”](https://www.nieuwsblad.be/cnt/dmf20230726_96924324)
 
 Behalve in de verkoop, is men ook in andere sectoren gaan nadenken over de opportuniteiten van navigatiesystemen.<br> Robots en drones kunnen a.d.h.v. een digitaal navigatiesysteem de weg vinden.
 
-In de zorgsector zag men bv. de mogelijkheid tot het inzetten van medische drones voor het transport tussen ziekenhuizen.  
+In de **zorgsector** zag men bv. de mogelijkheid tot het inzetten van medische **drones** voor het transport tussen ziekenhuizen.  
 > [Met Medical Drone Service in minuten heen en weer tussen ziekenhuislocaties](https://www.antoniusziekenhuis.nl/nieuwsoverzicht/met-medical-drone-service-minuten-heen-en-weer-tussen-ziekenhuislocaties-0)<br>
 
-Bij de brandweer van Genk zet men drones in om een betere inschatting te kunnen van een incident.
+Bij de **brandweer** van Genk zet men drones in om een betere inschatting te kunnen van een incident.
 > [Genks proefproject met safety drones krijgt navolging in het hele land](https://www.vrt.be/vrtnws/nl/2023/03/14/genks-proefproject-met-safety-drones-krijgt-navolging-in-het-hel/)<br>
 
 -----------------------------
