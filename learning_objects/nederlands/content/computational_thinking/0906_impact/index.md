@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 De landbouw voorziet ons van voedsel. Verder is de landbouw belangrijk voor de economie, o.a. de werkgelegenheid, de export en het voorzien van grondstoffen.
 De manier waarop aan landbouw gedaan wordt impacteert niet enkel de huidige maatschappij, maar ook toekomstige generaties.
-Precisielandbouw doet een beroep op digitale toepassingen om de productie van gewassen op het veld te optimaliseren met een kleinere impact op het milieu. 
+Het automatiseren van bepaalde taken kan de werklast van de landbouwers verminderen. Via precisielandbouw - precisielandbouw doet een beroep op digitale toepassingen - kan de productie van gewassen op het veld geoptimaliseerd worden met een kleinere impact op het milieu. 
 
 > **Leestips:**<br>
 
@@ -60,4 +60,5 @@ In het leerpad '' wordt [de werking] uit de doeken gedaan.
 [Precisielandbouw: een hulpmiddel voor verduurzaming](https://ilvo.vlaanderen.be/en/dossiers/precisielandbouw)<br>
 [Precisielandbouw en datatechnologie](https://ilvo.vlaanderen.be/nl/themas/precisielandbouw-en-datatechnologie)
 [Precisielandbouw](https://www.wur.nl/nl/dossiers/dossier/dossier-precisielandbouw.htm)
+
 #### Kijktips
