@@ -107,5 +107,5 @@ In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://staging.
 [Delivery robotsStarship Completes One Million Autonomous Deliveries](https://youtu.be/tQZWe1JFR9g)<br>
 [A Day in the Life of a Starship Robot](https://youtu.be/Z417CncwQsg)<br>
 [Presentatie over o.a. werking delivery robots](https://youtu.be/6rq6Hx0PRAc)
-
+[World first: new drone network for smooth and safe traffic in Antwerp](https://youtu.be/w3bzDc5pEq0)https://youtu.be/w3bzDc5pEq0)
 
