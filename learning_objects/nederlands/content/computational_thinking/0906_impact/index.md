@@ -2,8 +2,8 @@
 hruid: ct9_6
 version: 3
 language: nl
-title: "Digitale landbouw"
-description: "Digitale landbouw"
+title: "Precisielandbouw"
+description: "Precisielandbouw"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,13 +29,35 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Digitale landbouw
+# Precisielandbouw
 
 De landbouw voorziet ons van voedsel. Verder is de landbouw belangrijk voor de economie, o.a. de werkgelegenheid, de export en het voorzien van grondstoffen.
 De manier waarop aan landbouw gedaan wordt impacteert niet enkel de huidige maatschappij, maar ook toekomstige generaties.
+Precisielandbouw doet een beroep op digitale toepassingen om de productie van gewassen op het veld te optimaliseren met een kleinere impact op het milieu. 
 
-### Principes van computationeel denken
+> **Leestips:**<br>
 
-### Impact op de maatschappij
+
+## Principes van computationeel denken
 
 ![ct-schema](@learning-object/m_ct_impact_6/nl/3)
+
+## Bespreking van de impact
+
+-  "Bij precisielandbouw wordt gebruikgemaakt van geavanceerde technologieën zoals GPS, sensoren, drones, artificiële intelligentie, machine learning, enzovoort om de productie van gewassen op het veld te optimaliseren" (ILVO).
+    - 
+
+-------------------------------
+## Gerelateerde voorbeelden: 
+
+-----------------------------
+### Werking 
+In het leerpad '' wordt [de werking] uit de doeken gedaan.
+
+-----------------------------
+#### Leestips
+
+[Precisielandbouw: een hulpmiddel voor verduurzaming](https://ilvo.vlaanderen.be/en/dossiers/precisielandbouw)<br>
+[Precisielandbouw en datatechnologie](https://ilvo.vlaanderen.be/nl/themas/precisielandbouw-en-datatechnologie)
+[Precisielandbouw](https://www.wur.nl/nl/dossiers/dossier/dossier-precisielandbouw.htm)
+#### Kijktips
