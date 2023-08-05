@@ -52,5 +52,3 @@ In het leerpad Cases kon je al uitgebreid kennismaken met de concrete invulling 
 ![Schema basisconcepten](embed/schema.png "Schema basisconcepten CD")
 
 Ook in dit leerpad zal dit schema van pas komen.
-
-![ct-schema](@learning-object/m_ct_impact_0/nl/3)
