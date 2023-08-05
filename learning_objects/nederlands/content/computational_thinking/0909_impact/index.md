@@ -2,8 +2,8 @@
 hruid: ct9_9
 version: 3
 language: nl
-title: "T"
-description: "T"
+title: "Slimme fietspadverlichting"
+description: "Slimme fietspadverlichting"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -34,7 +34,7 @@ teacher_exclusive: true
 
 [Zhaga Motion Sensor Street Lighting in Belgium](https://vimeo.com/383465814)
 
-**Impact: ...**<br>
+**Impact: een veelgebruikt fietspad door jongeren veiliger maken**<br>
 ....
 
 > **Leestips:**<br>
