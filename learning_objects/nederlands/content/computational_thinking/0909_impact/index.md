@@ -29,4 +29,39 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+
+# Titel
+
+...
+
+**Impact: ...**<br>
+....
+
+> **Leestips:**<br>
+
+
+## Principes van computationeel denken
+
 ![ct-schema](@learning-object/m_ct_impact_9/nl/3)
+ 
+## Bespreking van de impact
+
+-  
+    - 
+
+-------------------------------
+## Gerelateerde voorbeelden: 
+
+-----------------------------
+### Werking 
+In het leerpad '' wordt [de werking] uit de doeken gedaan.
+
+-----------------------------
+#### Leestips
+
+
+
+
+#### Kijktips
+
+
