@@ -30,9 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+# Slimme fietspadverlichting
 
-...
+[Zhaga Motion Sensor Street Lighting in Belgium](https://vimeo.com/383465814)
 
 **Impact: ...**<br>
 ....
@@ -52,6 +52,10 @@ teacher_exclusive: true
 -------------------------------
 ## Gerelateerde voorbeelden: 
 
+[Agentschap Wegen en Verkeer werkt met ML6 aan slimme verlichting langs snelwegen](https://datanews.knack.be/nieuws/agentschap-wegen-en-verkeer-werkt-met-ml6-aan-slimme-verlichting-langs-snelwegen/)<br>
+[A smart and data driven solution for the road lighting on Flemish highways](https://www.ml6.eu/client-cases/predictive-steering-of-road-lighting-on-flemish-highways-turing-project)
+
+
 -----------------------------
 ### Werking 
 In het leerpad '' wordt [de werking] uit de doeken gedaan.
@@ -59,9 +63,9 @@ In het leerpad '' wordt [de werking] uit de doeken gedaan.
 -----------------------------
 #### Leestips
 
-
+[Tvilight maakt straat veiliger voor de jonge fietsers in Mechelen en Bonheiden](https://tvilight.com/nl/tvilight-maakt-straat-veiliger-voor-de-jonge-fietsers-in-mechelen-en-bonheiden/)
 
 
 #### Kijktips
-
+[How Motion Sensor Smart Street Lights Work](https://youtu.be/kiNxjFDDGCk)
 
