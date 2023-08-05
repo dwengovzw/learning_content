@@ -60,5 +60,5 @@ In het leerpad '' wordt [de werking] uit de doeken gedaan.
 [Precisielandbouw: een hulpmiddel voor verduurzaming](https://ilvo.vlaanderen.be/en/dossiers/precisielandbouw)<br>
 [Precisielandbouw en datatechnologie](https://ilvo.vlaanderen.be/nl/themas/precisielandbouw-en-datatechnologie)
 [Precisielandbouw](https://www.wur.nl/nl/dossiers/dossier/dossier-precisielandbouw.htm)
-
+[Precisielandbouw (smart farming): de boerderij van de toekomst](https://www.zlto.nl/precisielandbouw-smart-farming)
 #### Kijktips
