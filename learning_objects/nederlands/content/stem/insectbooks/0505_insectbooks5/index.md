@@ -37,4 +37,4 @@ Eerder bekeken we het logistische groeimodel om een populatie rupsen voor te ste
 
 In deze module ga je meteen aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om enkele interessante grafieken op te stellen.
 
-[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6030 "Insect chaos")
+[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6040 "Insect chaos")
