@@ -57,4 +57,4 @@ Een model waarbij de populatie aangroeit volgens het voorgestelde recursieve voo
 
 Nu ga je aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om dit model grafisch voor te stellen.
 
-[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6010 "Insect logistisch")
+[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6020 "Insect logistisch")
