@@ -30,3 +30,4 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Titel
+[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6050 "Insect Model met interactie Differentiaalvergelijking")
