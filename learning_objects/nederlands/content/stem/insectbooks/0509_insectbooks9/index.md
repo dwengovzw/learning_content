@@ -51,4 +51,4 @@ Wanneer men lieveheersbeestjes introduceert in de omgeving, zullen deze zich ver
 
 Nu ga je aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om de interactie tussen de populatiegroottes van bladluizen en lieveheersbeestjes in kaart te brengen.
 
-[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6040 "Insect Differentiaalvergelijking")
+[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6050 "Insect Differentiaalvergelijking")
