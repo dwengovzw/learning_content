@@ -30,7 +30,4 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Icoontjes
-In het lesmateriaal van dwengo, zal je af en toe iconen tegenkomen. Hieronder vind je een overzicht terug. 
-
-![](embed/iconen.png "iconen")
+# Misconcepten
