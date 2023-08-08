@@ -70,6 +70,10 @@ Expliciteren van een reeks eenduidige instructies die stapsgewijs moeten worden 
 Inzien dat deze reeks van instructies en de volgorde ervan essentieel zijn om het gewenste resultaat op te leveren.
 </div> 
 
+Het volgende filmpje geeft je alvast een eerste idee van wat deze basisconcepten concreet kunnen betekenen.  
+
+![](@youtube/https://www.youtube.com/embed/gcyPaABTWcQ "filmpje basisconcepten computationeel denken") 
+
 Om tot deze definitie te komen hielden we rekening met de aspecten van 'computationeel denken' waarover een internationale consensus bestaat en de definitie die meegegeven werd bij de Vlaamse eindtermen.<br> Er zijn sinds 2019 verplichte minimale leerdoelen 'Computationeel denken en handelen' in het Vlaamse onderwijs. Men heeft hierbij ook een definitie geformuleerd - zie kader 'Definitie van computationeel denken en handelen bij de eindtermen' en erbij omschreven wat men daarmee beoogt.<br>
 
 <div class="alert alert-box alert-secondary">
@@ -89,12 +93,6 @@ De leerdoelen over computationeel denken beogen:
     
 <em> Dit sluit aan bij de 21ste-eeuwse vaardigheden, waarvan probleemoplossend denken er een is, en bij de nood aan digitale vaardigheden om de andere 21ste-eeuwse vaardigheden te kunnen verwerven.</em>    
 </div> 
-
-
-
-Het volgende filmpje geeft je alvast een eerste idee van wat deze basisconcepten concreet kunnen betekenen.  
-
-![](@youtube/https://www.youtube.com/embed/gcyPaABTWcQ "filmpje basisconcepten computationeel denken") 
 
 #### Bronnen: 
 AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via [https://onderwijsdoelen.be/uitgangspunten/4814](https://onderwijsdoelen.be/uitgangspunten/4814)
