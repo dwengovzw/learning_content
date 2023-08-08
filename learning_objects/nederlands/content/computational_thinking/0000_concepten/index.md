@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # De gedigitaliseerde wereld
 
-<div class="alert alert-box alert-info">
+<div class="alert alert-box alert-primary">
     <strong>Klasdiscussie</strong><br> 
     Is er een uitvinding die de wereld meer veranderd heeft dan de computer (Riley & Hunt, 2014)? 
 </div>
