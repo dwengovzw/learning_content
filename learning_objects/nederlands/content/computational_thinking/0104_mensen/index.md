@@ -32,19 +32,26 @@ teacher_exclusive: true
 # Aandachtspunten
 
 ## Mensen
-Computationeel denken gaat om mensen.  De digitale toepassingen worden immers door en voor mensen gemaakt en door mensen gebruikt. Volgens Lowe & Brophy (2017) is bijna elk digitaal systeem deel van een groter systeem waarin **de mens centraal** staat. Wing (2006), die computationeel denken wereldwijd op de agenda plaatste, vermeldde “understanding human behavior” als een van de aspecten van computationeel denken.
+Computationeel denken gaat om mensen. 
 
-Het inzetten van nieuwe technologieën brengt vaak ethische bekommernissen met zich mee.
+- De digitale toepassingen worden immers door en voor mensen gemaakt en door mensen gebruikt. <br>
+- Volgens Lowe & Brophy (2017) is bijna elk digitaal systeem deel van een groter systeem waarin **de mens centraal** staat. <br>
+- Wing (2006), die computationeel denken wereldwijd op de agenda plaatste, vermeldde **“understanding human behavior”** als een van de aspecten van computationeel denken. <br>
+- Computers inzetten is ook een sociale activiteit waarbij men rekening moet houden met de rol ervan in de **maatschappij** (Kafai en Proctor, 2022).
+
+Men kan een nieuwe digitale toepassing dus niet loszien van de mens die ze ontwikkelde, de mens die ze zal gebruiken en de maatschappij waarin ze zal terechtkomen.
+
+Het inzetten van nieuwe technologieën brengt vaak **ethische bekommernissen** met zich mee.
 
 -  Hoe reageren mensen op de nieuwe technologieën en hoe gaan ze ermee om (Lowe & Brophy, 2017; Curzon & McOwan, 2017; Bell, 2018)?<br>
 -  Houdt men bij de ontwikkeling van nieuwe digitale systemen rekening met culturele verschillen en ethische aspecten (Denning & Tedre, 2019)?<br>
--  Computers inzetten is ook een sociale activiteit waarbij men rekening moet houden met de rol ervan in de maatschappij; een voorbeeld hiervan is het omgaan met culturele bias in computersystemen (Kafai en Proctor, 2022).
+-  Hoe gaan we om met culturele bias in computersystemen (Kafai en Proctor, 2022)?
 
 > Meer over de ethische aspecten van nieuwe technologische toepassingen lees je in de handleidingen van de projecten ‘KIKS’, ‘AI in de Zorg’ en ‘Chatbot’ van AI Op School. Zie [dwengo.org](https://dwengo.org "website").
 
-Bij het ontwerpen van een nieuw systeem betrekt men best de mensen die ermee zullen moeten werken, zodat een toestel bv. voldoende gebruiksvriendelijk is, en een AI-systeem bv. niet discrimineert. Zo gaat men hopelijk ook niet voorbij aan mogelijk gedrag van mensen, zoals bij de Twitterbot Tay. Tay was initieel gebouwd voor ontspanning, maar werd op een totaal andere manier gebruikt. Tay verspreidde reeds na enkele uren haatspraak, en werd dan ook snel offline gehaald (Neff & Nagy, 2016).
+Bij het ontwerpen van een nieuw systeem betrekt men best de mensen die ermee zullen moeten werken, zodat een toestel bv. voldoende gebruiksvriendelijk is, en een AI-systeem bv. niet discrimineert. Zo gaat men hopelijk ook niet voorbij aan mogelijk gedrag van mensen, zoals bij de Twitterbot Tay. 
 
-> Meer over Tay in de handleiding bij het project ‘Chatbot’ van AI Op School vind je [hier](https://www.dwengo.org/chatbot "chatbot").
+> Tay was initieel gebouwd voor ontspanning, maar werd op een totaal andere manier gebruikt. Tay verspreidde reeds na enkele uren haatspraak, en werd dan ook snel offline gehaald (Neff & Nagy, 2016).<br> Meer over Tay vind je in de [handleiding bij het project ‘Chatbot’](https://www.dwengo.org/chatbot "chatbot") van AI Op School.
 
 ---------------------------
 #### Bronnen: 
