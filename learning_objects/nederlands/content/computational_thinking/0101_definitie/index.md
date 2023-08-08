@@ -31,6 +31,7 @@ teacher_exclusive: true
 ---
 # Definitie
 In de kader 'Een definitie van computationeel denken' stellen we een definitie voor die voor Vlaamse leerkrachten als startpunt kan dienen.<br> 
+Om tot deze definitie te komen hielden we rekening met de aspecten van 'computationeel denken' waarover een internationale consensus bestaat (zie hetvolgende leerobject 'Aandachtspunt: Consensus') en de definitie die meegegeven werd bij de Vlaamse eindtermen van de eerste graad (zie onderaan deze pagina).
 
 <div class="alert alert-box alert-success">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 
@@ -74,7 +75,7 @@ Het volgende filmpje geeft je alvast een eerste idee van wat deze basisconcepten
 
 ![](@youtube/https://www.youtube.com/embed/gcyPaABTWcQ "filmpje basisconcepten computationeel denken") 
 
-Om tot deze definitie te komen hielden we rekening met de aspecten van 'computationeel denken' waarover een internationale consensus bestaat en de definitie die meegegeven werd bij de Vlaamse eindtermen.<br> Er zijn sinds 2019 verplichte minimale leerdoelen 'Computationeel denken en handelen' in het Vlaamse onderwijs. Men heeft hierbij ook een definitie geformuleerd - zie kader 'Definitie van computationeel denken en handelen bij de eindtermen' en erbij omschreven wat men daarmee beoogt.<br>
+Er zijn sinds 2019 verplichte minimale leerdoelen 'Computationeel denken en handelen' in het Vlaamse onderwijs. Men heeft in de uitgangspunten bij de eindtermen van de eerste graad hierbij ook een definitie geformuleerd - zie kader 'Definitie van computationeel denken en handelen bij de eindtermen' en erbij omschreven wat men daarmee beoogt.<br>
 
 <div class="alert alert-box alert-secondary">
 <strong><h5>Definitie van computationeel denken en handelen bij de eindtermen</h5></strong> 
