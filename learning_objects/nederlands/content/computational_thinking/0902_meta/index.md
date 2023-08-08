@@ -36,19 +36,27 @@ Ontwikkelen van een routeplanner.
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. Global positioning system (gps)
-2. Vastleggen met welke parameters de routeplanner rekening houdt en met welke niet?
-    - Parameters om de snelste weg te kunnen bepalen zoals toegelaten snelheid, verkeersdrukte.
-    - Parameters om de kortste weg te kunnen bepalen zoals afstand.
-    - Parameters om de meest optimale weg te kunnen bepalen zoals het weer.
-    - Geschiktheid van de wegen voor vrachtwagens.
-    - Lokaal karakter zoals woonwijk of industriepark. 
+1. De positie van de gebruiker
+2. Een voorstelling van het wegennet, wat inhoudt:
+    - welke wegen er met elkaar verbonden zijn;
+    - de waarde van de parameters van de wegen.
+3. Er moet dus beslist worden met welke parameters de routeplanner rekening zal houden en met welke niet, zoals:
+    - toegelaten snelheid;
+    - verkeersdrukte;
+    - lengte;
+    - weer;
+    - karakter.
+    - - Geschiktheid van de wegen voor vrachtwagens.
+    - - Lokaal karakter zoals woonwijk of industriepark. 
     - Tot welke databanken heeft de routeplanner toegang? 
        -- Een databank van commerciële partners zoals bepaalde winkels, tankstations, ...
        -- Wegenwerken
     ...
-3. Vastleggen hoe de routeplanner real time aanpassingen kan doen aan de route.
+3. Een algoritme om het kortste, snelste of meest optimale pad te bepalen    
+4. Vastleggen of en hoe de routeplanner real time aanpassingen kan doen aan de route.
     - Een mobiele internetverbinding
+    - Real time positie van de gebruiker 
+    - - Global positioning system (gps)
     - Real time verkeersinformatie
     - - Wordt ervoor gekozen om real time informatie over de routes van de gebruikers te communiceren?
 </decomposition>
