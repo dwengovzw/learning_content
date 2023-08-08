@@ -34,7 +34,7 @@ teacher_exclusive: true
 ## Consensus over de basisconcepten
 
 Computationeel denken kent heel wat concepten en praktijken. Die concepten en praktijken worden niet door iedereen op dezelfde manier gepercipieerd: de relevantie van een bepaald aspect verschilt naargelang het doel waarvoor iemand computationeel denken wil gebruiken; ook iemands opleiding speelt daar een rol in. Wat voor de ene persoon een concept is van computationeel denken, wordt door een ander mogelijk als een toepassing ervan beschouwd. Bovendien verandert de inhoud van de term 'computationeel denken' mee met wat computers kunnen. 
-Niet iedereen verstaat dus hetzelfde onder ‘computationeel denken’ en ook de manier waarop iemand computationeel denken aanwendt, verschilt (Hemmendinger, 2010; Weintrop et al., 2016). 
+Niet iedereen verstaat dus hetzelfde onder ‘computationeel denken’ en ook de manier waarop iemand computationeel denken aanwendt, verschilt (zie ook leerpad 'Historiek'). 
 
 Internationaal bestaat er dan ook geen consensus over een definitie van computationeel denken. Maar uit onderzoek blijkt dat er wel consensus is over bepaalde concepten die aan de basis liggen van computationeel denken, nl. **decompositie, generalisatie en patroonherkenning, abstractie en algoritme** (Bocconi, 2016; Grover & Pea, 2017; Lodi, 2020; Lowe & Brophy, 2017; Selby & Woolard, 2013). 
 
@@ -43,8 +43,6 @@ Internationaal bestaat er dan ook geen consensus over een definitie van computat
 ## Misconcepten
 
 Er is echter ook heel wat te zeggen over wat computationeel denken **niet** is en wat het **ook** is. Nogal wat misconcepten doen de ronde. 
-> Men gaat er soms verkeerdelijk vanuit dat men computationeel kan denken zonder enig benul van de technische kant van computers en de mogelijkheden en beperkingen die daarmee gepaard gaan (Denning & Tedre, 2019).<br>
-> Anderzijds draait computationeel denken niet enkel om technologie, maar heeft het ook een culturele en sociale dimensie (Kafai & Proctor, 2022).
 
 Het is belangrijk dat leerkrachten deze misconcepten kennen; het is dus aangewezen om hier dieper op in te gaan.
 
@@ -56,6 +54,7 @@ Het is belangrijk dat leerkrachten deze misconcepten kennen; het is dus aangewez
 <ul><li>Computationeel denken is niet gelijk aan ICT.</li></ul>
 <ul><li>Computationeel denken is niet gelijk aan programmeren.</li></ul>
 <ul><li>Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.</li></ul>
+<ul><li>Computationeel denken leer je niet enkel unplugged.</li></ul>    
 <ul><li>Computationeel denken is geen louter technologisch fenomeen.</li></ul>
 </div>
 
@@ -80,14 +79,24 @@ Computationeel denken biedt wel een **houvast om een complex probleem aan te pak
 Computationeel denken is niet gelijk aan ICT.
 </div>
 
-Computationeel denken is niet hetzelfde als ICT, zoals het **louter werken met** toepassingen, zoals tekstverwerking of het ontwerpen van een eenvoudige webpagina. Praktijken zoals data representeren en op zoek gaan naar de meest efficiënte oplossing voor een probleem zijn eigen aan computationeel denken (Voogt et al., 2015). 
+Computationeel denken is niet hetzelfde als ICT, het **louter werken met** toepassingen, zoals tekstverwerking of het ontwerpen van een eenvoudige webpagina. Het gaat over praktijken zoals data representeren; ook op zoek gaan naar de meest efficiënte oplossing voor een probleem is eigen aan computationeel denken (Voogt et al., 2015). 
 
 <div class="alert alert-box alert-secondary">
 Computationeel denken is niet gelijk aan programmeren.
 </div>
     
-Er is een grote consensus over het feit dat **computationeel denken en programmeren niet hetzelfde zijn**, en dat programmeren ook niet het belangrijkste aspect is. De digitalisering van de maatschappij gaat om veel meer dan programmeren. Het heeft ons wereldbeeld veranderd (Wing, 2006; Papert, 1980; Tedre & Denning, 2016; Bocconi et al., 2016; Grover & Pea, 2017). Wat niet wegneemt dat programmeren een goede manier kan zijn om computationeel te leren denken (Bocconi et al., 2016; Grover & Pea, 2017) en een middel kan zijn voor creatieve expressie (Voogt et al., 2015; Mishra & Yadav, 2013; Europese Unie, 2015). Programmeren alleen is echter niet toereikend om computationeel te leren denken. <br>Computationeel denken invoeren in het leerplichtonderwijs heeft geenszins als doel om van iedereen programmeurs of computerwetenschappers te maken, maar om de **basisvaardigheden van computationeel denken te verwerven en om te verkennen wat ze betekenen voor de verschillende disciplines**, en indien nodig door computationeel denken zelfs even los te koppelen van de computerwetenschappen (denk bv. aan activiteiten zonder computer, de unplugged voorbeelden) (Hemmendinger, 2010; Barr & Stephenson, 2011). <br>
+Er is een grote consensus over het feit dat **computationeel denken en programmeren niet hetzelfde zijn**, en dat programmeren ook niet het belangrijkste aspect is. De digitalisering van de maatschappij gaat om veel meer dan programmeren. Het heeft ons wereldbeeld veranderd (Wing, 2006; Papert, 1980; Tedre & Denning, 2016; Bocconi et al., 2016; Grover & Pea, 2017).
+Dat neemt niet weg dat programmeren een goede manier kan zijn om computationeel te leren denken (Bocconi et al., 2016; Grover & Pea, 2017) en een middel kan zijn voor creatieve expressie (Voogt et al., 2015; Mishra & Yadav, 2013; Europese Unie, 2015). Programmeren alleen is echter niet toereikend om computationeel te leren denken. 
+
+Computationeel denken invoeren in het leerplichtonderwijs heeft geenszins als doel om van iedereen programmeurs of computerwetenschappers te maken, maar om de **basisvaardigheden van computationeel denken te verwerven en om te verkennen wat ze betekenen voor de verschillende disciplines**, en indien nodig door computationeel denken zelfs even los te koppelen van de computerwetenschappen (denk bv. aan activiteiten zonder computer, de unplugged voorbeelden) (Hemmendinger, 2010; Barr & Stephenson, 2011). <br>
+
+<div class="alert alert-box alert-success">
+Computationeel denken leer je niet enkel unplugged.
+</div>
+
 Men kan ook zonder computer aan de slag gaan met computationeel denken. ‘**Unplugged**’ maakt ingewikkelde concepten bovendien vaak toegankelijker. Maar ook dat is niet toereikend om computationeel te leren denken: om digitale systemen ten volle te begrijpen, zal er bv. ook programmeren aan te pas moeten komen (Bell & Lodi, 2019).
+
+> Men gaat er soms verkeerdelijk vanuit dat men computationeel kan denken zonder enig benul van de technische kant van computers en de mogelijkheden en beperkingen die daarmee gepaard gaan (Denning & Tedre, 2019).<br>
 
 > Als computationeel denken aan bod komt in lessen niet-computerwetenschappen, of bv. via unplugged activiteiten, dan zou de link met computer geëxpliciteerd moeten worden, wil men een transfer van de activiteit naar inzicht in computerwetenschappen verwezenlijken. Onderzoek wijst uit dat het populaire 'CS Unplugged' best gelinkt aan hedendaagse technologie aan bod komt (Bell, 2018).
 
@@ -96,14 +105,18 @@ Dus hoewel men niet altijd een computer nodig heeft om bepaalde vaardigheden van
 <div class="alert alert-box alert-secondary">
 Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.
 </div>
-    
-Stemmen gaan op om computationeel denken **vakoverstijgend** aan te bieden, in relevante **real world contexten**, zeker gezien de link met de 21ste-eeuwse vaardigheden (Grover & Pea, 2017) Voogt et al. (2015) waarschuwen er dan weer voor bij lessen rond computationeel denken al te veel nadruk te leggen op het verwerven van skills, zoals doorzettingsvermogen, kunnen samenwerken en kunnen omgaan met complexiteit en dubbelzinnigheid. Dat zou er immers toe kunnen leiden dat het werken aan de skill van computationeel denken zelf verloren gaat.
 
+Stemmen gaan op om computationeel denken **vakoverstijgend** aan te bieden, in relevante **real world contexten**, zeker gezien de link met de 21ste-eeuwse vaardigheden (Grover & Pea, 2017) Voogt et al. (2015) waarschuwen er dan weer voor bij lessen rond computationeel denken al te veel nadruk te leggen op het verwerven van skills, zoals doorzettingsvermogen, kunnen samenwerken en kunnen omgaan met complexiteit en dubbelzinnigheid. Dat zou er immers toe kunnen leiden dat het werken aan de skill van computationeel denken zelf verloren gaat.<br>
+Je leest hier meer over in hetvolgende leerobject, nl. 'Aandachtspunten: Transfer'.
 
 <div class="alert alert-box alert-secondary">
 Computationeel denken is geen louter technologisch fenomeen.
 </div>
+Computers inzetten is ook een sociale activiteit waarbij men rekening moet houden met de rol ervan in de maatschappij. Computationeel denken gaat om mensen. 
 
+> Computationeel denken niet enkel om technologie, maar heeft ook een culturele en sociale dimensie (Kafai & Proctor, 2022).
+
+Je leest hier meer over in een van de volgende leerobjecten, nl. 'Aandachtspunten: Mensen'.
     
 ---------------------------
 #### Bronnen: 
@@ -121,9 +134,10 @@ Hemmendinger, D. (2010). A Plea for Modesty. *ACM Inroads, 1*(2), 4–7.<br>
 Kafai, Y. B. & Proctor, C. (2022). A Revaluation of Computational Thinking in K–12 Education: Moving Toward Computational Literacies. *Educational Researcher, 51*(2),
 146–151.<br>
 Lodi, M. (2020). Informatical Thinking. *Olympiads in Informatics: An International Journal, 14*, 113–132.<br>
+Lowe, T. & Brophy, S. P. (2017). An operationalized model for defining computational thinking. *2017 IEEE Frontiers in Education Conference (FIE)*, (pp. 1–8).<br>
 Mishra, P. & Yadav, A. (2013). Of Art and Algorithms: Rethinking Technology & Creativity in the 21st Century. TechTrends, 57(3), 10–14.<br>
 Papert, S. (1980). *Mindstorms: Children, Computers, and Powerful Ideas.* VS: Basic Books, Inc.<br>
+Selby, C. & Woollard, J. (2013). *Computational thinking: the developing definition*. University of Southampton (E-prints). https://eprints.soton.ac.uk/356481/.<br>
 Tedre, M. & Denning, P. (2016). The Long Quest for Computational Thinking. *Proceedings of the 16th Koli Calling International Conference on Computing Education Research*, (pp. 120–129).<br>
 Voogt, J., Fisser, P., Good, J., Mishra, P., & Yadav, A. (2015). Computational thinking in compulsory education: Towards an agenda for research and practice. *Education and Information Technologies, 20*.<br>
 Wing, J. M. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35.
-
