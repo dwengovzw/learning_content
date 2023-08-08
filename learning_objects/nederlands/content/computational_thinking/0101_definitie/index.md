@@ -30,27 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Definitie
-Er zijn sinds 2019 verplichte minimale leerdoelen 'Computationeel denken en handelen' in het Vlaamse onderwijs. Men heeft hierbij ook een definitie geformuleerd - zie kader 'Definitie van computationeel denken en handelen bij de eindtermen' en erbij omschreven wat men daarmee beoogt. 
-
-<div class="alert alert-box alert-secondary">
-<strong><h5>Definitie van computationeel denken en handelen bij de eindtermen</h5></strong> 
-<h5>(AHOVOKS, 2020)</h5> 
-
-_Computationeel denken en handelen is een proces waarbij men tot output komt gebruikmakend van volgende technieken: herkennen van patronen (patroonherkenning) en veralgemenen (generalisering), opdelen van een probleem in deelproblemen (decompositie), abstraheren van de gegevens of het probleem zelf (abstractie), vormgeven van de oplossingsmethode (modelleren) en volgen van een vast stappenplan (algoritmen)._ 
-
-</div>
-
-<div class="alert alert-box alert-secondary">
-Men had daarbij in gedachten om leerlingen "niet alleen digitale technologie te leren gebruiken, maar er ook voor te zorgen dat ze de onderlinge werking begrijpen".<br>
-De leerdoelen over computationeel denken beogen: 
-<ul><li>leerlingen een beter zicht te geven op complexe problemen;</li></ul>
-<ul><li>hen de werking van een computer te laten begrijpen zodat ze die "in een later stadium kunnen inzetten als hulpmiddel om een probleem op te lossen";</li></ul>
-<ul><li>leerlingen voor te bereiden op een leven in een snel veranderende wereld en hen te wapenen om kritisch te kunnen nadenken over de impact die technologie heeft op de privacy, werkgelegenheid en gezondheid.</li></ul>
-    
-<em> Dit sluit aan bij de 21ste-eeuwse vaardigheden, waarvan probleemoplossend denken er een is, en bij de nood aan digitale vaardigheden om de andere 21ste-eeuwse vaardigheden te kunnen verwerven.</em>    
-</div> 
-
-Rekening houdend met deze definitie en de internationale consensus die er heerst rond de term 'computationeel denken' stellen we in de kader 'Een definitie van computationeel denken' zelf een definitie voor die alvast voor Vlaamse leerkrachten als startpunt kan dienen.<br>  
+In de kader 'Een definitie van computationeel denken' stellen we een definitie voor die voor Vlaamse leerkrachten als startpunt kan dienen.<br> 
 
 <div class="alert alert-box alert-success">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 
@@ -89,6 +69,28 @@ Herkennen dat een probleem gelijkenissen vertoont met een eerder opgelost proble
 Expliciteren van een reeks eenduidige instructies die stapsgewijs moeten worden uitgevoerd.<br> 
 Inzien dat deze reeks van instructies en de volgorde ervan essentieel zijn om het gewenste resultaat op te leveren.
 </div> 
+
+Om tot deze definitie te komen hielden we rekening met de aspecten van 'computationeel denken' waarover een internationale consensus bestaat en de definitie die meegegeven werd bij de Vlaamse eindtermen.<br> Er zijn sinds 2019 verplichte minimale leerdoelen 'Computationeel denken en handelen' in het Vlaamse onderwijs. Men heeft hierbij ook een definitie geformuleerd - zie kader 'Definitie van computationeel denken en handelen bij de eindtermen' en erbij omschreven wat men daarmee beoogt.<br>
+
+<div class="alert alert-box alert-secondary">
+<strong><h5>Definitie van computationeel denken en handelen bij de eindtermen</h5></strong> 
+<h5>(AHOVOKS, 2020)</h5> 
+
+_Computationeel denken en handelen is een proces waarbij men tot output komt gebruikmakend van volgende technieken: herkennen van patronen (patroonherkenning) en veralgemenen (generalisering), opdelen van een probleem in deelproblemen (decompositie), abstraheren van de gegevens of het probleem zelf (abstractie), vormgeven van de oplossingsmethode (modelleren) en volgen van een vast stappenplan (algoritmen)._ 
+
+</div>
+
+<div class="alert alert-box alert-secondary">
+Men had daarbij in gedachten om leerlingen "niet alleen digitale technologie te leren gebruiken, maar er ook voor te zorgen dat ze de onderlinge werking begrijpen".<br>
+De leerdoelen over computationeel denken beogen: 
+<ul><li>leerlingen een beter zicht te geven op complexe problemen;</li></ul>
+<ul><li>hen de werking van een computer te laten begrijpen zodat ze die "in een later stadium kunnen inzetten als hulpmiddel om een probleem op te lossen";</li></ul>
+<ul><li>leerlingen voor te bereiden op een leven in een snel veranderende wereld en hen te wapenen om kritisch te kunnen nadenken over de impact die technologie heeft op de privacy, werkgelegenheid en gezondheid.</li></ul>
+    
+<em> Dit sluit aan bij de 21ste-eeuwse vaardigheden, waarvan probleemoplossend denken er een is, en bij de nood aan digitale vaardigheden om de andere 21ste-eeuwse vaardigheden te kunnen verwerven.</em>    
+</div> 
+
+
 
 Het volgende filmpje geeft je alvast een eerste idee van wat deze basisconcepten concreet kunnen betekenen.  
 
