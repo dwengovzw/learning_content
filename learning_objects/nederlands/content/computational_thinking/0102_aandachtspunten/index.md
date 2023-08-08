@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Aandachtspunten
 
-## Consensus over de basiscocnepten
+## Consensus over de basisconcepten
 
 Computationeel denken kent heel wat concepten en praktijken. Die concepten en praktijken worden niet door iedereen op dezelfde manier gepercipieerd: de relevantie van een bepaald aspect verschilt naargelang het doel waarvoor iemand computationeel denken wil gebruiken; ook iemands opleiding speelt daar een rol in. Wat voor de ene persoon een concept is van computationeel denken, wordt door een ander mogelijk als een toepassing ervan beschouwd. Bovendien verandert de inhoud van de term 'computationeel denken' mee met wat computers kunnen. 
 Niet iedereen verstaat dus hetzelfde onder ‘computationeel denken’ en ook de manier waarop iemand computationeel denken aanwendt, verschilt (Hemmendinger, 2010; Weintrop et al., 2016). 
