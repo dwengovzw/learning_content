@@ -40,9 +40,26 @@ Internationaal bestaat er dan ook geen consensus over een definitie van computat
 
 > Om computationeel denken te kunnen introduceren in het onderwijs is het best dat het begrip duidelijk is. Voor het Vlaamse onderwijs is er een definitie van computationeel denken meegegeven met de eindtermen van de eerste graad (zie vorig onderdeel van dit leerpad).
 
-## Misconcepten
+## Consensus over de misconcepten
 
-Er is echter ook heel wat te zeggen over wat computationeel denken **niet** is en wat het **ook** is. Nogal wat misconcepten doen de ronde. 
+Er is echter ook heel wat consensus over wat computationeel denken **niet** is en wat het **ook** is. Helaas doen nogal wat misconcepten doen de ronde. 
+
+Het is belangrijk dat leerkrachten deze misconcepten kennen.
+
+<div class="alert alert-box alert-success">
+<strong>Wat is computationeel denken niet?</strong>
+<ul><li>Computationeel denken is niet denken als een computer.</li></ul>
+<ul><li>Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.</li></ul>
+<ul><li>Computationeel denken is niet gelijk aan ICT.</li></ul>
+<ul><li>Computationeel denken is niet gelijk aan programmeren.</li></ul>
+<ul><li>Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.</li></ul>
+<ul><li>Computationeel denken leer je niet enkel unplugged.</li></ul>    
+<ul><li>Computationeel denken is geen louter technologisch fenomeen.</li></ul>
+</div>
+
+Je bekijkt deze opsomming van naderbij in het volgende leerobject 'Aandachtspunt: Misconcepten'. 
+
+Er is heel wat te zeggen over wat computationeel denken **niet** is en wat het **ook** is. Nogal wat misconcepten doen de ronde. 
 
 Het is belangrijk dat leerkrachten deze misconcepten kennen; het is dus aangewezen om hier dieper op in te gaan.
 
