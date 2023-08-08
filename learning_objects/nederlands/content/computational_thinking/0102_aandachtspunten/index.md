@@ -32,7 +32,13 @@ teacher_exclusive: true
 # Aandachtspunten
 
 ## Consensus
-Er bestaat internationaal geen consensus over een definitie van computationeel denken. Maar uit onderzoek blijkt dat er wel consensus is over bepaalde concepten van computationeel denken, nl. **decompositie, generalisatie en patroonherkenning, abstractie en algoritme**. Het verschil zit vooral in de aspecten waarvan sommigen die als basiselementen van computationeel denken beschouwen en anderen eerder als een toepassing van.
+
+Computationeel denken kent heel wat concepten en praktijken. Die concepten en praktijken worden niet door iedereen op dezelfde manier gepercipieerd: de relevantie van een bepaald aspect verschilt naargelang het doel waarvoor iemand computationeel denken wil gebruiken; ook iemands opleiding speelt daar een rol in. 
+Wat voor de ene persoon een concept is van computationeel denken, wordt door een ander mogelijk als een toepassing ervan beschouwd. 
+Bovendien verandert de inhoud van de term 'computationeel denken' mee met de ontwikkelingen in de computerwetenschappen en de verdere digitalisering van de maatschappij (Denning & Tedre, 2019): 'wat moderne computers kunnen’ verandert voortdurend waardoor de problemen die met de computer kunnen worden opgelost ook veranderen, op een bepaald moment kunnen computers voor zaken kunnen worden ingezet waar dat voorheen onmogelijk was, en zo worden er ook telkens nieuwe aspecten aan computationeel denken toegevoegd.
+Niet iedereen verstaat dus hetzelfde onder ‘computationeel denken’ en ook de manier waarop iemand computationeel denken aanwendt, verschilt (Hemmendinger, 2010; Weintrop et al., 2016). 
+
+Daardoor bestaat er internationaal geen consensus over een definitie van computationeel denken. Maar uit onderzoek blijkt dat er wel consensus is over bepaalde concepten die aan de basis liggen van computationeel denken, nl. **decompositie, generalisatie en patroonherkenning, abstractie en algoritme**. 
 
 > Om computationeel denken te kunnen introduceren in het onderwijs is het best dat het begrip duidelijk is. Voor het Vlaamse onderwijs is er een definitie van computationeel denken meegegeven met de eindtermen (zie vorig onderdeel van dit leerpad).
 
