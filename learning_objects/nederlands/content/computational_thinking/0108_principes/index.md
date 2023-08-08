@@ -35,7 +35,7 @@ In onderstaand filmpje wordt kort uitleg gegeven over het lesmateriaal dat dweng
 
 ![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")
 
-Computationeel denken kan dus op heel veel manieren je lessen binnenkomen. Het bestaande curriculum biedt tal van mogelijkheden om met computationeel denken aan de slag te gaan. 
+Computationeel denken kan op heel veel manieren je lessen binnenkomen. Het bestaande curriculum biedt tal van mogelijkheden om met computationeel denken aan de slag te gaan. 
 
 - Onderzoekers van over heel de wereld hebben daar al heel wat over gepubliceerd.
 - Ook wij expliciteren zoveel mogelijk het computationeel denken dat aanwezig is in ons lesmateriaal.
