@@ -31,12 +31,15 @@ teacher_exclusive: true
 ---
 # Inleiding
 Computationeel kunnen denken is noodzakelijk om de digitale wereld te begrijpen. Vandaar de introductie van de nieuwe eindtermen computationeel denken en handelen in de eerste, tweede en derde graad van het Vlaamse secundair onderwijs. <br>
-Helaas hebben veel leerkrachten en lerarenopleiders moeite met het herkennen en toepassen van de concepten van computationeel denken en handelen. Nochtans gebruiken we computationeel denken vaak in ons dagdagelijkse leven, en komt het overvloedig, doch impliciet, aan bod in veel lessen. 
+Mogelijk is het voor jou nog niet helemaal duidelijk wat computationeel denken juist inhoudt en ben je nog niet vertrouwd met de nieuwe terminologie. Dan is het niet evident de concepten en praktijken van computationeel denken te herkennen, laat staan toe te passen. Nochtans gebruiken we computationeel denken vaak in ons dagdagelijkse leven, en komt het overvloedig, doch impliciet, aan bod in veel lessen. 
 
 <div class="alert alert-box alert-warning">
-Om computationeel denken zinvol te kunnen integreren in bestaande lessen moeten leerkrachten weten wat de terminologie inhoudt, dus een werkbare 'definitie' is zeker vereist. Ze hebben best weet van dagdagelijkse voorbeelden. Bovendien is het nodig dat ze mogelijke toepassingen herkennen, en dat ze kennis hebben van mogelijke didiactische aanpakken en manieren van evaluatie.<br>
-Zowel activiteiten met of zonder computer kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker.  Maar om de digitale systemen ten volle te begrijpen zal men uiteindelijk toch de stap naar de computer moeten zetten.<br>
-Om computationeel denken met de juiste insteek op school aan bod te laten komen is het belangrijk dat leerkrachten op de hoogte zijn van bepaalde misconcepten.<br> 
+<strong>Nodige kennis</strong><br>
+    - Om computationeel denken zinvol te kunnen integreren in jouw bestaande lessen moet je als leerkracht weten wat de terminologie inhoudt, dus een <em>werkbare 'definitie'</em> is zeker vereist. <br>
+    - Aan de hand van <em>dagdagelijkse voorbeelden</em> worden de nieuwe terminologie snel duidelijk. <br>
+    - Bovendien is het nodig dat je mogelijke toepassingen <em>herkent</em>, en dat je kennis hebben van mogelijke <em>didiactische aanpakken</em> en manieren van evaluatie.<br>
+    - Zowel activiteiten <em>met of zonder computer</em> kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker. Maar opdat jouw leerlingen de digitale systemen ten volle zouden begrijpen, zal je uiteindelijk toch de stap naar de computer moeten zetten.<br>
+    - Om computationeel denken met de juiste insteek op school aan bod te laten komen, is het belangrijk dat je als leerkracht op de hoogte bent van bepaalde <em>misconcepten</em>,.<br> 
 </div>
-In dit leerpad wordt eerst de term 'computationeel denken' gedefinieerd.  Onder 'Aandachtspunten' worden een aantal misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
+In dit leerpad wordt eerst een werkbare definitie van de term 'computationeel denken' voorgesteld.  Onder 'Aandachtspunten' worden een aantal misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
 
