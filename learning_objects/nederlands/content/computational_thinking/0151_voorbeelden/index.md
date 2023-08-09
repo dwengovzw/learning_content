@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Basisconcepten computationeel denken
 
-Een uitgebreide uitleg over de basisconcepten van computationeel denken vind je in de leerpaden 'Concreet' en 'Historiek'.<br>
+Een uitgebreide uitleg over de basisconcepten van computationeel denken vind je in de leerpaden ['Voorbeelden'](https://www.dwengo.org/learning-path.html?hruid=ct3_voorbeelden&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding_voorbeelden;nl;3) en ['Historiek'](https://www.dwengo.org/learning-path.html?hruid=ct7_historiek&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_historiek1;nl;3).<br>
 Een samenvatting:
 
 ![Basisconcepten](embed/basisconcepten.png "Basisconcepten CD")

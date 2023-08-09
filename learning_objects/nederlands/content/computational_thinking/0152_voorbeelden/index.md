@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Computationeel denken en handelen
 
-Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. Het verschil zit vooral in de aspecten waarvan sommigen die als basiselementen van computationeel denken beschouwen en anderen eerder als een toepassing van. Je leest hier meer over in het leerpad 'Definitie en aandachtspunten'. 
+Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. Het verschil zit vooral in de aspecten waarvan sommigen die als basiselementen van computationeel denken beschouwen en anderen eerder als een toepassing van. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
 
 Michael Lodi (2020) gooide het echter over een andere boeg: in plaats van te kijken waarover er consensus is, bekeek Lodi welke aspecten er worden aangehaald.<br>
 Hij kwam tot een **overzicht van denkprocessen, activiteiten en manieren van aanpak**:

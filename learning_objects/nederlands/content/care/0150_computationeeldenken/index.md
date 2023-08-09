@@ -82,7 +82,7 @@ Bij het aanpakken van complexe problemen is er nood aan abstractie, omdat het re
 </div>
 Computationeel denken is echter niet beperkt tot deze basisconcepten, maar omvat nog andere concepten en praktijken, zoals problemen oplossen, debuggen, data representeren en modelleren ... 
 
-> Je leest hier meer over in het leerpad op www.dwengo.org/computationeeldenken 
+> Je leest hier meer over in het project [Computationeel denken](https://www.dwengo.org/computational_thinking/) 
 
 De definitie van Denning & Tedre benadrukt dit bredere beeld, zie kader 'Definitie van Denning en Tedre'. 
 

@@ -57,6 +57,6 @@ Een **algoritme** om in Python de trendlijnen te visualiseren (a.d.h.v. Python-m
 5. Visualiseer data en trendlijn
 </algorithms>
 <implementation>
-Voor de implementatie verwijzen we naar het leerpad 'Klimaat' van het lesthema 'Python in STEM'.
+Voor de implementatie verwijzen we naar het leerpad ['Klimaat'](https://www.dwengo.org/learning-path.html?hruid=pn_klimaatverandering&language=nl&te=true&source_page=%2Fstem%2F&source_title=%20STEM#pn_inleiding_klimaat;nl;3) van het lesthema ['Python in STEM'](https://www.dwengo.org/stem/).
 </implementation>
 

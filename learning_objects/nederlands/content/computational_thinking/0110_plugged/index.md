@@ -34,13 +34,13 @@ teacher_exclusive: true
 Voor activiteiten waarbij ook geprogrammeerd wordt, is er een uitgebreid aanbod in de leerpaden.
 
 - Je leert programmeren binnen de grafische programmeeromgeving dwenguinoBlockly. De blokken zijn er voorhanden op verschillende abstractieniveaus en in meerdere talen.  
-    - [StartTodwenguino]()
-    - [WeGoSTEM]()
-    - [Sociale robot]()
+    - [StartTodwenguino](https://www.dwengo.org/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#g_inleiding_lkr;nl;3)
+    - [WeGoSTEM](https://www.dwengo.org/wegostem/)
+    - [Sociale robot](https://www.dwengo.org/socialrobot/)
     - [Ik kan al programmeren]()
-    - [Theremin]()
+    - [Theremin](https://www.dwengo.org/learning-path.html?hruid=pc_theremin&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#g_inleiding_lkr;nl;3)
 
 - Je leert programmeren in Python.
-    - [Python in STEM]()
-    - [Python in wiskunde]()
-    - [AI Op School]()
+    - [Python in STEM](https://www.dwengo.org/stem/)
+    - [Python in wiskunde](https://www.dwengo.org/stem/)
+    - [AI Op School](https://dwengo.org/aiopschool/)

@@ -47,7 +47,7 @@ het creëren van taalinteractie met behulp van artificiële intelligentie (chatb
 het creëren van kunst (beelden, muziek, poëzie, andere kunstvormen) met behulp van artificiële intelligentie;
 medische beeldvorming om op basis van een eerste scan eventuele afwijkingen te melden aan artsen.
 
-In het leerpad Cases kon je al uitgebreid kennismaken met de concrete invulling van het schema dat we aan leerkrachten voorstelden ter voorbereiding van hun lessen in het kader van computationeel denken.
+In het leerpad ['Cases'](https://www.dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_cases0;nl;3) kon je al uitgebreid kennismaken met de concrete invulling van het schema dat we aan leerkrachten voorstelden ter voorbereiding van hun lessen in het kader van computationeel denken.
 
 ![Schema basisconcepten](embed/schema.png "Schema basisconcepten CD")
 

@@ -60,7 +60,7 @@ Computationeel denken is niet denken zoals een computer (computers denken niet),
 Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.
 </div>
 
-Computationeel denken vertoont overeenkomstigheden met andere manieren van denken, en kan het niet bestempeld worden als de ‘beste’ manier van denken, het is een **extra manier van denken** naast kritisch denken, systeemdenken . . . (zie hiervoor ook het leerpad 'Historiek').<br>
+Computationeel denken vertoont overeenkomstigheden met andere manieren van denken, en kan het niet bestempeld worden als de ‘beste’ manier van denken, het is een **extra manier van denken** naast kritisch denken, systeemdenken . . . (zie hiervoor ook het leerpad ['Historiek'](https://www.dwengo.org/learning-path.html?hruid=ct7_historiek&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_historiek1;nl;3)).<br>
 Computationeel denken is ook geenszins de ‘beste’ manier om problemen op te lossen (Tedre & Denning, 2016; Papert, 1980). 
 
 Computationeel denken biedt wel een **houvast om een complex probleem aan te pakken** en een manier te bedenken om **m.b.v. de computer** tot een oplossing voor dat probleem te komen. Zo zijn sommige oplossingen voor de mens onhaalbaar, maar kunnen computers ze door hun snelheid wel uitvoeren. **Computationeel denken gaat dus ook over het zien van de opportuniteiten die de computer biedt om aan wetenschappelijk onderzoek te doen, ander onderzoek of meer efficiënt onderzoek, en het ruiken van kansen om taken te automatiseren.**
