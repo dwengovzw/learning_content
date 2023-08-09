@@ -2,8 +2,8 @@
 hruid: stem5_0
 version: 3
 language: nl
-title: "Rupsenuitbraak modelleren"
-description: "Rupsenuitbraak modelleren"
+title: "Een rupsenuitbraak modelleren"
+description: "Een rupsenuitbraak modelleren"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
