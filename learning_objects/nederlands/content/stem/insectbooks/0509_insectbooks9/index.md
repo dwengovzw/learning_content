@@ -2,8 +2,8 @@
 hruid: stem5_9
 version: 3
 language: nl
-title: "Differentiaalvergelijkingen"
-description: "Differentiaalvergelijkingen"
+title: "De eindige differentiemethode"
+description: "De eindige differentiemethode"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,26 +29,64 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Lieveheersbeestjes en luizenplagen: een dynamisch wereldbeeld met differentiaalvergelijkingen
+# De eindige differentiemethode
 
-Het vorig hoofdstuk was onze eerste kennismaking met (groei)modellen. Realistisch of niet, deze werden gekarakteriseerd doordat ze discreet in de tijd waren: de tijd tikte generatie per generatie voorbij. In de praktijk ervaren we tijd echter als continu: tussen vandaag en morgen zitten een oneindig aantal individuele momenten. Vandaar dat wetenschappers de realiteit vaak beschrijven door een krachtiger model: de **differentiaalvergelijking**. De oplossing van een dergelijke differentiaalvergelijking is dan geen getal, maar een functie die het systeem beschrijft doorheen de tijd. Differentiaalvergelijkingen worden doorgaans pas gegeven na een stevige wiskundebasis. In dit hoofdstuk geven we een eerste introductie tot differentiaalvergelijkingen, met als doel een populatie bladluizen en lieveheersbeestjes te beschrijven.
+In de vorige modules maakte je voor het eerst kennis met (groei)modellen. Realistisch of niet, deze werden gekarakteriseerd doordat ze discreet in de tijd waren: de tijd tikte generatie per generatie voorbij. In de praktijk ervaren we tijd echter als continu: tussen vandaag en morgen zitten een oneindig aantal individuele momenten. In deze module bespreken we daarom een belangrijk instrument om met continue functies en hun afgeleiden aan de slag te gaan: **de eindige differentiemethode**.
 
-## Biologische bestrijding met lieveheersbeestjes
+## Het gebruik van functies
 
-Waar rupsen ware monsters zijn die bladeren van planten opeten en gewassen op die manier aantasten, zijn bladluizen meer verfijnd. Met hun naaldvormig mondstuk zuigen ze het sap van een plant rechtstreeks uit het vaatweefsel. Dit sap bevat voornamelijk suikers, en relatief weinig aminozuren die de luizen ook nodig hebben. Daarom scheiden de luizen het sap grotendeels terug uit, ontdaan van de meeste aminozuren; deze substantie wordt honingdauw genoemd. Hoewel honingdauw een belangrijke voedingsbron voor mieren en wespen is, kan deze substantie ook schadelijke schimmels aantrekken. Bovendien onttrekken luizen via het vaatweefsel niet alleen de kostbare suikers van de plant, maar ook gevaarlijke plantenvirussen die zich op deze manier verder kunnen verspreiden. Daarom zijn luizen erg vervelende beestjes voor vele soorten gewassen, zoals aardappelen, bonen en rozen.
+Bij het modelleren gebruik je functies, die een gegeven input omzetten naar een output. Beschouw bijvoorbeeld de functie \\(f\\) met voorschrift \\(f(t) = t sin (t)\\). Deze functie zal een reële waarde \\(t\\) omzetten naar \\(t sin(t)\\), waarbij \\(t\\) een hoek (in radialen) is.
 
-![Bladluis](embed/bladluis.jpg "https://commons.wikimedia.org/wiki/File:Aphids_May_2010-2.jpg")
+### Opdracht 1
 
-Omdat luizen zo schadelijk zijn, bestaan er verschillende chemische verdelgingsmiddelen. Deze behandeling kan er evenwel voor zorgen dat er schadelijke stoffen in de gewassen en de bodem terechtkomen, die slecht zijn voor mens en natuur. Daarom wordt er ook vaak een biologische bestrijding toegepast: bladluizen zijn immers smakelijk voedsel voor vele andere insecten en vogels. Het lieveheersbeestje in het bijzonder is een echte moordmachine voor bladluizen. Larven alleen al eten zo'n 400 bladluizen, terwijl een volwassen lieveheersbeestje maar liefst 5000 luizen kan verorberen. Men kan daarom de larven van lieveheersbeestjes kopen om een luizenplaag onder controle te brengen.
+Evalueer het functievoorschrift voor de waarden \\(t = \frac{\pi}{2}\\), \\(t = \pi\\), \\(t = \frac{3 \pi}{2}\\), \\(t = 2 \pi\\), \\(t = \frac{5 \pi}{2}\\), \\(t = 3 \pi\\), \\(t = \frac{7 \pi}{2}\\), \\(t = 4 \pi\\). Welke waarden bekom je? Kan je voorspellen hoe de functie zal evolueren voor grotere waarden van \\(t\\)?
 
-![Lieveheersbeestje](embed/lieveheersbeestje.jpg "https://upload.wikimedia.org/wikipedia/commons/4/42/Ladybug.jpg")
+\\(f(\frac{\pi}{2}) = 1.57\\)
 
-Wanneer men lieveheersbeestjes introduceert in de omgeving, zullen deze zich verder voortplanten. Een lieveheersbeestje kan op een dag wel 50 eitjes leggen, die eerst larven worden, en zich na ongeveer 20 dagen verpoppen tot nieuwe lieveheersbeestjes. Dit betekent dat de populatie zal aangroeien zolang er voldoende voedsel is. Wanneer er op een gegeven moment te weinig bladluizen over zijn, zal het aantal lieveheersbeestjes weer dalen.
+\\(f(\pi) = 0\\)
 
-**Om de effecten van biologische bestrijding te modelleren, heb je dus een complexer model nodig dan deze die je hiervoor behandeld hebt**. Je zal namelijk twee toestanden moeten modelleren: het aantal bladluizen en het aantal lieveheersbeestjes.
+\\(f(\frac{3 \pi}{2}) = -4.71\\)
+
+\\(f(2 \pi) = 0\\)
+
+\\(f(\frac{5 \pi}{2}) = 7.85\\)
+
+\\(f(3 \pi) = 0\\)
+
+\\(f(\frac{7 \pi}{2}) = -11.00\\)
+
+\\(f(4 \pi) = 0\\)
+
+## Het differentiequotiënt
+
+Van een afleidbare functie kan je een afgeleide berekenen. Deze afgeleide kan benaderd worden door het differentiequotiënt:
+
+\\(\\)f'(t) = \frac{\text{d}f(t)}{\text{d}t} \approx \frac{f(t + \Delta t) - f(t)}{\Delta t}\\(\\)
+
+De formule die hier gebruikt wordt om de afgeleide te schatten wordt de **eindige differentiemethode** genoemd. Bij deze methode is \\(\Delta_t\\) bij voorkeur zo klein mogelijk.
+
+### Opdracht 2
+
+Bereken op basis van bovenstaande formule een schatting voor het differentiequotiënt van \\(f\\) in \\(t = 2\\), waarbij je \\(\Delta t = 0.1\\) stelt.
+
+\\(f(2) = 2 sin(2) \approx 1.8186\\)
+
+\\(f(t + \Delta t) = f(2.1) = 2.1 sin(2.1) \approx 1.8127\\)
+
+\\(f(t + \Delta t) - f(t) \approx 1.8127 - 1.8186 = -0.0059\\)
+
+\\(\frac{f(t + \Delta t) - f(t)}{\Delta t} \approx \frac{-0.0059}{0.1} = -0.059\\)
+
+## De afgeleide van een functie
+
+Wanneer je kleinere stapjes neemt, neemt de absolute waarde van het verschil \\(f(t + \Delta t) - f(t)\\) typisch af, maar deel je ook door een steeds kleiner getal. Wanneer je de limiet van \\(\Delta t\\) naar 0 beschouwt, convergeert de benadering naar de echte afgeleide \\(f'(t)\\):
+
+\\[f'(t) = \lim\limits_{\Delta t \to 0} \frac{f(t + \Delta t) - f(t)}{\Delta t}\\]
+
+In de notebook zullen we de impact van de parameter \\(\Delta t\\) onderzoeken.
 
 ## Interactieve notebook
 
-Nu ga je aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om de interactie tussen de populatiegroottes van bladluizen en lieveheersbeestjes in kaart te brengen.
+In de notebook hieronder zal je Python gebruiken om de grafiek van de functie \\(f\\) te plotten, en om te onderzoeken of een kleinere waarde voor \\(\Delta t\\) tot betere schattingen van de afgeleide leidt.
 
-[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6050 "Insect Differentiaalvergelijking")
+[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_5.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_5.ipynb)

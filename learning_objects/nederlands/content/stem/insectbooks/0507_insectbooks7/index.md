@@ -37,6 +37,8 @@ In de vorige modules concentreerden we ons op het aantal rupsen van de buxusmot 
 - Uit het eitje komt een larve gekropen
 - De larve ontpopt zich tot een kever
 
+![Kever](embed/kever.jpg "https://commons.wikimedia.org/wiki/File:Chrysomelidae_-_Chrysolina_americana.JPG")
+
 Voor een bioloog is het interessant om te weten hoeveel eitjes, larven en kevers er op verschillende momenten in de tijd zijn. In dit hoofdstuk zal je leren dat deze populatiegroottes gemodelleerd kunnen worden met behulp van de **Lesliematrix**.
 
 ## Overgangen tussen levensfases
@@ -51,32 +53,32 @@ Op basis van de waarden van de knopen in de graaf, kan de volgende toestand bere
 
 ## De Lesliematrix
 
-Om aan matrixvermenigvuldiging te kunnen doen, stel je de toestand op tijdstip $0$ gelijk aan een vector $v_0$, die het aantal eitjes, levers en kevers bevat. Beschouw bijvoorbeeld:
+Om aan matrixvermenigvuldiging te kunnen doen, stel je de toestand op tijdstip \\(0\\) gelijk aan een vector \\(v_0\\), die het aantal eitjes, levers en kevers bevat. Beschouw bijvoorbeeld:
 
 \\[v_0 = \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix}\\]
 
-Om dan de toestand $v_{1}$ op tijdstip $1$ te bepalen, gebruik je de **Lesliematrix** $L$ die de populatiegroei beschrijft. In bovenstaand voorbeeld ziet deze er als volgt uit:
+Om dan de toestand \\(v_{1}\\) op tijdstip \\(1\\) te bepalen, gebruik je de **Lesliematrix** \\(L\\) die de populatiegroei beschrijft. In bovenstaand voorbeeld ziet deze er als volgt uit:
 
-$$L = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix}$$
+\\[L = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix}\\]
 
-Vertrek je van de toestand $v_0$, dan kan $v_{1}$ berekend worden als volgt:
+Vertrek je van de toestand \\(v_0\\), dan kan \\(v_{1}\\) berekend worden als volgt:
 
-$$v_{1} = L v_0 = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix} = \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix}$$
+\\[v_{1} = L v_0 = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix} = \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix}\\]
 
 Ga je een stap verder, dan vind je:
 
-$$v_{2} = L v_{1} = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix} = \begin{bmatrix} 7500 \\\ 300 \\\ 37.5 \end{bmatrix}$$
+\\[v_{2} = L v_{1} = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix} = \begin{bmatrix} 7500 \\\ 300 \\\ 37.5 \end{bmatrix}\\]
 
 Bemerk dat deze laatste uitdrukking ook als volgt geschreven kan worden:
 
-$$v_{2} = L v_{1} = L L v_{0} = L^2 v_{0}$$
+\\[v_{2} = L v_{1} = L L v_{0} = L^2 v_{0}\\]
 
-Om het aantal eitjes, larven en kevers in tijdstap $t$ te berekenen, volstaat het dus om de $t^\text{de}$ macht van de matrix $L$ te berekenen, en deze te vermenigvuldigen met $v_0$:
+Om het aantal eitjes, larven en kevers in tijdstap \\(t\\) te berekenen, volstaat het dus om de \\(t^\text{de}\\) macht van de matrix \\(L\\) te berekenen, en deze te vermenigvuldigen met \\(v_0\\):
 
-$$v_{t} = L^t v_{0}$$
+\\[v_{t} = L^t v_{0}\\]
 
 ## Interactieve notebook
 
 Nu ga je aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om matrixberekeningen uit te voeren en de populatiegroei grafisch te illustreren.
 
-[![Knop](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6030 "Insect Lesliematrix")
+[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_4.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_4.ipynb)
