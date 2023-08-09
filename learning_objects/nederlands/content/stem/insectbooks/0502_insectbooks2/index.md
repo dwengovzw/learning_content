@@ -83,9 +83,20 @@ Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te do
 
 Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
 
-## Richtingen (derde graad doorstroomfinaliteit)
+## Richtingen
 
-Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde; Biotechnologische en chemische STEM-wetenschappen; Informatica- en communicatiewetenschappen; Mechatronica; Bedrijfsondersteunende informaticawetenschappen; Bedrijfswetenschappen (GO!)
+Deze module kan ingezet worden in de volgende vakken uit de derde graad doorstroomfinaliteit:
+
+- Economie-Wiskunde
+- Grieks-Wiskunde
+- Latijn-Wiskunde
+- Technologische wetenschappen en Engineering
+- Wetenschappen-Wiskunde
+- Biotechnologische en chemische STEM-wetenschappen
+- Informatica- en communicatiewetenschappen
+- Mechatronica
+- Bedrijfsondersteunende informaticawetenschappen
+- Bedrijfswetenschappen (GO!)
 
 ## Minimumdoelen
 
