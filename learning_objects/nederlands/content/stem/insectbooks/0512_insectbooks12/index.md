@@ -2,8 +2,8 @@
 hruid: stem5_12
 version: 3
 language: nl
-title: "Voorbeeld"
-description: "Voorbeeld"
+title: "Differentiaalvergelijkingen"
+description: "Differentiaalvergelijkingen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,26 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Titel
-
-## Tussentitel
-
-Tekst
-
-
-## Link notebooks
-
-[![](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0201 "Notebooks Eerste Grafiek")
-
-
-## html
-
-kader (cf. notebooks) (success - danger - warning - info - ...)
-<div class="alert alert-box alert-success">
-Enkel html opmaak werkt hier, zoals <br>, <em>cursief</em> en <strong>vet</strong>.
-</div>
-
-## Extra
-
-Basische markdown opmaakelementen:
-https://markdownlivepreview.com/
+# Lieveheersbeestjes en luizenplagen: een dynamisch wereldbeeld met differentiaalvergelijkingen

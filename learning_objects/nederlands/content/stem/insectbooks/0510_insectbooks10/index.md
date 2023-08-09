@@ -2,8 +2,8 @@
 hruid: stem5_10
 version: 3
 language: nl
-title: "Differentiaalvergelijkingen"
-description: "Differentiaalvergelijkingen"
+title: "De eindige differentiemethode"
+description: "De eindige differentiemethode"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Lieveheersbeestjes en luizenplagen: een dynamisch wereldbeeld met differentiaalvergelijkingen
+# De eindige differentiemethode
