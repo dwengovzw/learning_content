@@ -31,23 +31,23 @@ teacher_exclusive: true
 ---
 # Modelleren van een rupsenuitbraak volgens de exponentiële groei
 
-## Situatie afhankelijk van de groeifactor <em>a</em>
+## Situatie afhankelijk van de groeifactor \\(a\\)
 
-Het getal <em>a</em> stelt het gemiddeld aantal nakomelingen per rups voor. We werken met gemiddelden, dus kommagetallen zijn toegestaan, maar negatieve getallen houden geen steek.
+Het getal \\(a\\) stelt het gemiddeld aantal nakomelingen per rups voor. We werken met gemiddelden, dus kommagetallen zijn toegestaan, maar negatieve getallen houden geen steek.
 
-- Als <em>a < 1</em>, dan brengt elke rups minder dan één rups voort per generatie. In elke tijdstap wordt de populatie kleiner en kleiner tot ze uiteindelijk uitsterft. Je hebt dan te maken met een exponentiële **afname**.
-- Als <em>a > 1</em>, dan zal elke rups aanleiding geven tot meer dan één nieuwe rups in de volgende generatie. De populatie zal groeien. Je hebt dan te maken met een exponentiële **toename**.
-- In het randgeval waarbij <em>a = 1</em>, is de populatiegrootte **stabiel**: de geboorte van nieuwe rupsen compenseert de sterfte.
+- Als \\(a < 1\\), dan brengt elke rups minder dan één rups voort per generatie. In elke tijdstap wordt de populatie kleiner en kleiner tot ze uiteindelijk uitsterft. Je hebt dan te maken met een exponentiële **afname**.
+- Als \\(a > 1\\), dan zal elke rups aanleiding geven tot meer dan één nieuwe rups in de volgende generatie. De populatie zal groeien. Je hebt dan te maken met een exponentiële **toename**.
+- In het randgeval waarbij \\(a = 1\\), is de populatiegrootte **stabiel**: de geboorte van nieuwe rupsen compenseert de sterfte.
 
-In het geval van de rups van de buxusmot is <em>a > 1</em>, aangezien deze rupsen een plaag vormen.
+In het geval van de rups van de buxusmot is \\(a > 1\\), aangezien deze rupsen een plaag vormen.
 
-Het voorschrift is het recursieve voorschrift van een meetkundige rij. Het getal <em>a</em> is niets anders dan het equivalent van de **groeifactor** bij een exponentiële functie (continu model in plaats van discreet). Je hebt dus te maken met **exponentiële groei**. 
+Het voorschrift is het recursieve voorschrift van een meetkundige rij. Het getal \\(a\\) is niets anders dan het equivalent van de **groeifactor** bij een exponentiële functie (continu model in plaats van discreet). Je hebt dus te maken met **exponentiële groei**. 
 
 ## De parameters in het wiskundig model
 
-In de notebook wordt de grafiek geplot van een meetkundige rij aan de hand van het algemene voorschrift. De index <em>t</em> speelt hierbij de rol van **veranderlijke**. Voor bepaalde waarden van <em>t</em> wordt de populatiegrootte berekend en teruggegeven.
+In de notebook wordt de grafiek geplot van een meetkundige rij aan de hand van het algemene voorschrift. De index \\(t\\) speelt hierbij de rol van **veranderlijke**. Voor bepaalde waarden van \\(t\\) wordt de populatiegrootte berekend en teruggegeven.
 
-De meetkundige rij wordt bepaald door het algemene voorschrift met daarin twee **parameters**: de groeifactor <em>a</em> en de beginwaarde <em>u<sub>0</sub></em>. Door de parameters aan te passen kan met het model geëxperimenteerd worden. De leerlingen kunnen het effect van de parameters op het model onderzoeken:
+De meetkundige rij wordt bepaald door het algemene voorschrift met daarin twee **parameters**: de groeifactor \\(a\\) en de beginwaarde \\(u_0\\). Door de parameters aan te passen kan met het model geëxperimenteerd worden. De leerlingen kunnen het effect van de parameters op het model onderzoeken:
 
 - Wat is het effect van een grotere beginwaarde?
 - Wat is het effect van een grotere groeifactor?
@@ -55,10 +55,11 @@ De meetkundige rij wordt bepaald door het algemene voorschrift met daarin twee *
 
 ## Draagkracht
 
-In de notebook wordt de grafiek getekend van een meetkundige rij die de evolutie van de rupsenpopulatiegrootte modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.** <br>
+In de notebook wordt de grafiek getekend van een meetkundige rij die de evolutie van de rupsenpopulatiegrootte modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.**
+
 De plaag groeit erg snel, wat verontrustend is. Als je nog verder in de tijd kijkt, stel je het volgende vast: de populatiegrootte groeit zonder enige belemmering verder aan; na 70 generaties zijn er meer dan 971 000 000 000 000 rupsen. Als je aanneemt dat één rups ongeveer 3 gram weegt, zijn er op dit moment bijna 3 miljard ton aan rupsen, het equivalent van 2 miljard nijlpaarden. Er zijn niet genoeg buxushagen in de wereld om dergelijke populaties te ondersteunen!
 
-In de praktijk heeft elk ecosystem een bepaalde **draagkracht**, de hoeveelheden voedsel, water en ruimte die voorhanden zijn om een bepaalde populatie te ondersteunen. Onze rupsenpopulatie is gelimiteerd door het aantal planten dat beschikbaar is als voedsel. De draagkracht wordt vaak voorgesteld door de letter <em>K</em>. Een waarde <em>K = 1000 </em> zou betekenen dat een tuin genoeg buxussen heeft om 1000 rupsen te voeden, maar niet meer.
+In de praktijk heeft elk ecosystem een bepaalde **draagkracht**, de hoeveelheden voedsel, water en ruimte die voorhanden zijn om een bepaalde populatie te ondersteunen. Onze rupsenpopulatie is gelimiteerd door het aantal planten dat beschikbaar is als voedsel. De draagkracht wordt vaak voorgesteld door de letter \\(K\\). Een waarde \\(K = 1000 \\) zou betekenen dat een tuin genoeg buxussen heeft om 1000 rupsen te voeden, maar niet meer.
 
 In het volgende onderdeel wordt het model aangepast om rekening te houden met de draagkracht.
 
@@ -123,7 +124,7 @@ Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappe
 <span style="color: yellowgreen">Alle voorgaande minimumdoelen</span>
 
 <span style="color: yellowgreen">SMD 06.08.07 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
-In de notebook worden verschillende grafieken gegenereerd die de populatiegrootte doorheen de tijd tonen. De leerlingen stellen hierbij vast dat de populatiegrootte steeds verder blijft toenemen indien <em>a > 1</em>. Ook wordt uitgelegd hoe de logaritmische as gebruikt kan worden in een grafiek.
+In de notebook worden verschillende grafieken gegenereerd die de populatiegrootte doorheen de tijd tonen. De leerlingen stellen hierbij vast dat de populatiegrootte steeds verder blijft toenemen indien \\(a > 1\\). Ook wordt uitgelegd hoe de logaritmische as gebruikt kan worden in een grafiek.
 
 <span style="color: yellowgreen">SMD 06.08.13 De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.</span><br>
 <span style="color: red">Komt dit wel expliciet aan bod? Van de leerlingen wordt enkel gevraagd om de populatiegrootte op een gegeven moment in de tijd te berekenen, en aan de hand van een while-loop te controleren wanneer de populatiegrootte voor het eerst een gegeven waarde zal overschrijden.</span>
