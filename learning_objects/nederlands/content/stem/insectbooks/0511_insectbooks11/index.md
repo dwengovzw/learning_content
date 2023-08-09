@@ -2,8 +2,8 @@
 hruid: stem5_11
 version: 3
 language: nl
-title: "Titel"
-description: "Titel"
+title: "Differentiaalvergelijkingen"
+description: "Differentiaalvergelijkingen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 

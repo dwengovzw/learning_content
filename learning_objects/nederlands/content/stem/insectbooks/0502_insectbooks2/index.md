@@ -115,8 +115,7 @@ In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoer
 Duiding uit het leerplan van Katholiek Onderwijs Vlaanderen: *Dit doel omvat enerzijds het modelleren (opstellen van het voorschrift vanuit een verwoording) en anderzijds het oplossen van vragen aan de hand van het model, bijvoorbeeld de waarde bepalen bij een gegeven tijdstip of het tijdstip bij een gegeven waarde bepalen. Alhoewel "exponentiële groei" een toename suggereert, kan je ook dalende processen beschrijven.*
 
 <span style="color: yellowgreen">MD 06.12 De leerlingen gebruiken rekenkundige en meetkundige rijen om patronen te beschrijven.</span><br>
-Het gaat hier om een meetkundige rij waarbij initieel het recursief voorschrift wordt gehanteerd. Voor het model, het voorschrift van de exponentiële functie, wordt de formule voor de algemene term gebruikt.<br>
-<span style="color: red">Is deze laatste zin volledig?</span>
+Het gaat hier om een meetkundige rij, waarbij initieel het recursieve voorschrift wordt gehanteerd. Voor het model, het voorschrift van de exponentiële functie, wordt de formule voor de algemene term gebruikt.
 
 <span style="color: yellowgreen">MD 06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.</span><br>
 In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoerig besproken, en dit aan de hand van een exponentieel groeimodel.
