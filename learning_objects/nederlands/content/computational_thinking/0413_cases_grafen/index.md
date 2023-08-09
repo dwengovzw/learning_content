@@ -54,4 +54,4 @@ Dit voorbeeld is een inleiding op het algoritme van Dijkstra en hoe dit praktisc
 
 
 
-Voor meer uitleg, zie het leerpad 'Grafen' bij het project AI in de Zorg of bij Python in de Wiskundeles.
+Voor meer uitleg, zie het leerpad ['Grafen'](https://www.dwengo.org/learning-path.html?hruid=aiz2_grafen&language=nl&te=true&source_page=%2Fcare%2F&source_title=%20AI%20in%20de%20Zorg#aiz_sprouts;nl;3) bij het project [AI in de Zorg](https://www.dwengo.org/care/) of bij [Python in de Wiskundeles](https://www.dwengo.org/math_with_python/).

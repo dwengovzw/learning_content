@@ -45,7 +45,7 @@ De digitale vaardigheden worden zelfs aangezien als een manier om de andere 21st
 Kortom, steeds meer landen kiezen ervoor om computationeel denken in de leerdoelen van het secundair onderwijs op te nemen. 
 In **Vlaanderen** is computationeel denken verplicht voor alle leerlingen van de eerste graad, waar het zelfs de status van **basisgeletterdheid** kreeg. Dat betekent dat elke individuele leerling de opgelegde doelstellingen dient te behalen.
 
-> Meer uitleg over de 21ste-eeuwse vaardigheden vind je in het leerpad 'Eindtermen en minimumdoelen'. 
+> Meer uitleg over de 21ste-eeuwse vaardigheden vind je in het leerpad ['Eindtermen en minimumdoelen'](https://www.dwengo.org/learning-path.html?hruid=ct8_eindtermen&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_eindtermen;nl;3). 
 
 Dat men wereldwijd een groot belang hecht aan computationeel denken, weerspiegelt zich in het feit dat computationeel denken ondertussen is opgenomen in de internationale vergelijkende testen van de OECD en de IEA, resp. in het wiskundeluik van de **PISA-test** en in de **ICILS-test**. 
 

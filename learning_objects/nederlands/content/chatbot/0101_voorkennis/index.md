@@ -39,7 +39,7 @@ Dit leerpad bevat een Python notebook die de werking van een eenvoudige kennisge
 
 Om deze notebook te kunnen doorlopen is het volgende leerpad  vereist als voorkennis:
 
-* Leerpad *'Werken met notebooks'*
+* Leerpad ['Werken met notebooks'](https://www.dwengo.org/learning-path.html?hruid=pn_werking&language=nl&te=true&source_page=%2Fchatbot%2F&source_title=%20Chatbot#pn_werkingnotebooks;nl;3)
 
 Wil je ook de details van de code die erin voorkomt, goed begrijpen, neem dan ook de volgende leerpaden door:
 

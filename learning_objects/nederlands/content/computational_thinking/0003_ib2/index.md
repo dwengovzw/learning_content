@@ -42,7 +42,7 @@ Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven minim
 </div>
 
 
-> In het leerpad 'Eindtermen en minimumdoelen' wordt er dieper op deze eindtermen en minimumdoelen en de verbanden ertussen ingegaan. 
+> In het leerpad ['Eindtermen en minimumdoelen'](https://www.dwengo.org/learning-path.html?hruid=ct8_eindtermen&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_eindtermen;nl;3) wordt er dieper op deze eindtermen en minimumdoelen en de verbanden ertussen ingegaan. 
 
 De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
 

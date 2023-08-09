@@ -41,4 +41,4 @@ teacher_exclusive: true
 Afhankelijk van het feit of leerlingen reeds kennis maakten met het gebruik van functies in een programma, kan de **patroonherkenning en abstractie** van in het begin, dan wel later aan bod komen. Er kan stap voor stap gewerkt worden. Er kan eerst een programma geschreven worden, zonder toepassing van de vermelde patroonherkenning en abstractie. Dat programma kan dan de aanleiding zijn om aan de slag te gaan met een zelfgedefinieerde **functie** en de voordelen ervan te duiden.
 
 
-Onder het lesthema 'Python in de Wiskundeles' vind je in het leerpad 'Parabolen' een Python notebook waar je dit kan programmeren.
+Onder het lesthema ['Python in de Wiskundeles'](https://www.dwengo.org/math_with_python/) vind je in het leerpad ['Parabolen'](https://www.dwengo.org/learning-path.html?hruid=maths_parabolen&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_voorkennis_parabolen;nl;3) een Python notebook waar je dit kan programmeren.

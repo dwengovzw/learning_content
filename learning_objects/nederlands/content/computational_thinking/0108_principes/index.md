@@ -40,6 +40,6 @@ Computationeel denken kan op heel veel manieren je lessen binnenkomen. Het besta
 - Onderzoekers van over heel de wereld hebben daar al heel wat over gepubliceerd.
 - Ook wij expliciteren zoveel mogelijk het computationeel denken dat aanwezig is in ons lesmateriaal.
 
-We hebben deze voorbeelden verzameld. Je vindt ze terug in het leerpad 'Voorbeelden'. 
+We hebben deze voorbeelden verzameld. Je vindt ze terug in het leerpad ['Voorbeelden'](https://www.dwengo.org/learning-path.html?hruid=ct3_voorbeelden&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding_voorbeelden;nl;3). 
 
-Concrete lesvoorbeelden van computationeel denken in de les zijn uitgewerkt in het leerpad 'Cases' van het project 'Computationeel denken'. 
+Concrete lesvoorbeelden van computationeel denken in de les zijn uitgewerkt in het leerpad ['Cases'](https://www.dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_cases0;nl;3). 

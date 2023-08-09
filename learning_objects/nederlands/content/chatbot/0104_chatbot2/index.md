@@ -55,7 +55,7 @@ Chatbots worden voor verschillende doeleinden ingezet, bijvoorbeeld:<br>
 De meest eenvoudige chatbots, waaronder de eerste chatbots zoals ELIZA, zijn **kennisgebaseerde** systemen. Bij zulke chatbots zijn verschillende scenario’s expliciet geprogrammeerd. Dit leidt automatisch tot beperkingen waardoor gebruikers zich moeten aanpassen aan de limieten van het systeem. Als men bijvoorbeeld een vraag aan de chatbot anders formuleert dan geprogrammeerd, dan zal de chatbot de vraag niet herkennen.<br>
 Zulke chatbots zijn vaak niet populair, maar worden toch nog op veel websites gebruikt.
 
-> Wil je meer weten over kennis- en datagebaseerde systemen? Zie het leerpad 'Artificiële intelligentie'.  
+> Wil je meer weten over kennis- en datagebaseerde systemen? Zie het leerpad ['Artificiële intelligentie'].(https://www.dwengo.org/learning-path.html?hruid=un_artificiele_intelligentie&language=nl&te=true&source_page=%2Fchatbot%2F&source_title=%20Chatbot#un_ai;nl;3)  
 
 Moderne chatbots maken gebruik van **Natural Language Processing (NLP)**, dus van machine learning; in het bijzonder met deep learning herkent een chatbot wel al vragen met een soortgelijke inhoud.
 

@@ -31,4 +31,4 @@ skos_concepts: [
 ---
 # Slot
 
-Nu ben je klaar voor het leerpad *'Rechten'*, waarna je aan de slag kunt met het leerpad *'lineaire regressie'*.
+Nu ben je klaar voor het leerpad ['Rechten'](https://www.dwengo.org/learning-path.html?hruid=maths_rechten&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_rechten;nl;3), waarna je aan de slag kunt met het leerpad ['lineaire regressie'](https://www.dwengo.org/learning-path.html?hruid=maths_lineaireregressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_lineaireregressie;nl;3).

@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Inleiding
 
-In het leerpad 'Definitie en aandachtspunten' maakte je kennis met de volgende werkbare definitie van computationeel denken. 
+In het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3) maakte je kennis met de volgende werkbare definitie van computationeel denken. 
 
 <div class="alert alert-box alert-success">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 

@@ -32,5 +32,5 @@ skos_concepts: [
 
 # Voorkennis
 
-* Leerpad *'Werken met de notebooks'*
+* Leerpad ['Werken met de notebooks'](https://www.dwengo.org/learning-path.html?hruid=pn_werking&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_werkingnotebooks;nl;3)
 * _Wiskundige operatoren - Rekenen_ uit leerpad *'Operatoren'* van 'Programmeren in Python'. 
