@@ -106,7 +106,7 @@ Computers inzetten is ook een sociale activiteit waarbij men rekening moet houde
 
 > Computationeel denken niet enkel om technologie, maar heeft ook een culturele en sociale dimensie (Kafai & Proctor, 2022).
 
-Je leest hier meer over in een van de volgende leerobjecten, nl. 'Aandachtspunten: Mensen'.
+Je leest hier meer over in een van de volgende leerobjecten, nl. 'Aandachtspunt: Mensen'.
     
 ---------------------------
 #### Bronnen: 
