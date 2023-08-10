@@ -92,7 +92,7 @@ De leerdoelen over computationeel denken beogen:
 <ul><li>hen de werking van een computer te laten begrijpen zodat ze die "in een later stadium kunnen inzetten als hulpmiddel om een probleem op te lossen";</li></ul>
 <ul><li>leerlingen voor te bereiden op een leven in een snel veranderende wereld en hen te wapenen om kritisch te kunnen nadenken over de impact die technologie heeft op de privacy, werkgelegenheid en gezondheid.</li></ul>
     
-<em> Dit sluit aan bij de 21ste-eeuwse vaardigheden, waaronder probleemoplossend denken en digitale vaardigheden, en bij de nood aan digitale vaardigheden om de andere 21ste-eeuwse vaardigheden te kunnen verwerven.</em>    
+<em> Dit sluit aan bij de 21ste-eeuwse competenties, waaronder probleemoplossend denken en digitale caompetenties, en bij de nood aan digitale competenties om de andere 21ste-eeuwse vaardigheden te kunnen verwerven.</em>    
 </div> 
 
 #### Bronnen: 
