@@ -31,9 +31,6 @@ teacher_exclusive: true
 ---
 
 # Lesmateriaal
-In onderstaand filmpje wordt kort uitleg gegeven over het lesmateriaal dat dwengo aanbiedt. 
-
-![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")
 
 Computationeel denken kan op heel veel manieren je lessen binnenkomen. Het bestaande curriculum biedt tal van mogelijkheden om met computationeel denken aan de slag te gaan. 
 
@@ -43,3 +40,7 @@ Computationeel denken kan op heel veel manieren je lessen binnenkomen. Het besta
 We hebben deze voorbeelden verzameld. Je vindt ze terug in het leerpad ['Voorbeelden'](https://www.dwengo.org/learning-path.html?hruid=ct3_voorbeelden&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding_voorbeelden;nl;3). 
 
 Concrete lesvoorbeelden van computationeel denken zijn uitgewerkt in het leerpad ['Cases'](https://www.dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_cases0;nl;3). 
+
+In onderstaand filmpje wordt kort uitleg gegeven hoe Dwengo computationeel denken integreert in STEM-projecten of in de les wiskunde. 
+
+![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")
