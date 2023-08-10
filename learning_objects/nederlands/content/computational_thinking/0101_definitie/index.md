@@ -30,6 +30,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Definitie
+
+Wat houdt computationeel denken in? In dit filmpje krijg je alvast een inleiding.  
+
+![](@youtube/https://www.youtube.com/embed/QrE3dtHFwas "filmpje kennismaking basisconcepten computationeel denken") 
+
 In de kader 'Een definitie van computationeel denken' stellen we een definitie voor die voor Vlaamse leerkrachten als startpunt kan dienen.<br> 
 Om tot deze definitie te komen hielden we rekening met de aspecten van 'computationeel denken' waarover een internationale consensus bestaat (zie hetvolgende leerobject 'Aandachtspunt: Consensus') en de definitie die meegegeven werd bij de Vlaamse eindtermen van de eerste graad (zie onderaan deze pagina).
 
@@ -51,7 +56,7 @@ Voor sommige problemen is dit een efficiënte methodologie om tot een oplossing 
     
 Het begrip 'computer' wordt gebruikt in de ruime zin van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen.     
 </div>
-    
+
 De basisconcepten worden niet verduidelijkt in de uitgangspunten bij de eindtermen. Wij definiëren de basisconcepten in de volgende kader.
 
 <div class="alert alert-box alert-success">
