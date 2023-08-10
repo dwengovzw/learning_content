@@ -32,6 +32,10 @@ teacher_exclusive: true
 
 # Ontstaan
 
+Het volgende filmpje leidt in hoe het computationeel denken is geworden tot wat het nu is.  
+
+![](@youtube/https://www.youtube.com/embed/Kli1fKCSl1s "filmpje kennismaking basisconcepten computationeel denken") 
+
 Bij het uitvoeren van eentonige, repetitieve taken maken mensen fouten door verstrooidheid. Rekenfouten zijn niet uit te sluiten bij berekeningen die met de hand worden uitgevoerd. Mensen zijn gaan nadenken over manieren om dit tegen te gaan. 
 Al duizenden jaren is men op zoek naar methodes om de ‘menselijke fout’ waar mogelijk te gaan vermijden. Men bedacht _**systemen**_ die fouten zouden kunnen voorkomen, men ontwierp _**hulpmiddelen**_ om te rekenen, en men dacht na over _**machines**_ die specifieke taken zouden kunnen uitvoeren.
 
