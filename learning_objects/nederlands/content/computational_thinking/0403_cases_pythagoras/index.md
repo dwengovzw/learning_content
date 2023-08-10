@@ -31,6 +31,10 @@ teacher_exclusive: true
 ---
 # De stelling van Pythagoras: berekenen schuine zijde
 
+Deze case wordt toegelicht in dit filmpje. 
+
+![](@youtube/https://www.youtube.com/embed/ZUl27Ek9zHo "filmpje case pythagoras") 
+
 ### Doel
 
 **Het berekenen van de schuine zijde bij gekende rechthoekszijden automatiseren.** 
