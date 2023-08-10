@@ -2,8 +2,8 @@
 hruid: ct_mensen
 version: 3
 language: nl
-title: "Aandachtspunten: Mensen"
-description: "Aandachtspunten: Mensen"
+title: "Aandachtspunt: Mensen"
+description: "Aandachtspunt: Mensen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
