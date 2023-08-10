@@ -2,7 +2,7 @@
 hruid: ct_evaluatiekader6
 version: 3
 language: nl
-title: "Beslisisngsbomen in de zorg"
+title: "Beslissingsbomen in de zorg"
 description: "Beslissingsbomen in de zorg"
 keywords: [""]
 educational_goals: [
