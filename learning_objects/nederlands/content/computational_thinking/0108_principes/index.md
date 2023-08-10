@@ -41,6 +41,6 @@ We hebben deze voorbeelden verzameld. Je vindt ze terug in het leerpad ['Voorbee
 
 Concrete lesvoorbeelden van computationeel denken zijn uitgewerkt in het leerpad ['Cases'](https://www.dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_cases0;nl;3). 
 
-In onderstaand filmpje wordt kort uitleg gegeven hoe Dwengo computationeel denken integreert in STEM-projecten of in de les wiskunde. 
+In onderstaand filmpje wordt kort uitgelegd hoe Dwengo computationeel denken integreert in STEM-projecten of in de les wiskunde. 
 
 ![](@youtube/https://www.youtube.com/embed/Nifa0vooyKg "filmpje")
