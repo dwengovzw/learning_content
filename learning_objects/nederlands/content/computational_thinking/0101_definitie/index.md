@@ -73,7 +73,7 @@ Inzien dat deze reeks van instructies en de volgorde ervan essentieel zijn om he
 
 Het volgende filmpje geeft je alvast een eerste idee van wat deze basisconcepten concreet kunnen betekenen.  
 
-![](@youtube/https://www.youtube.com/embed/eoJSlXszQh8 "filmpje basisconcepten computationeel denken") 
+![](@youtube/https://www.youtube.com/embed/eoJSlXszQh8 "filmpje kennismaking basisconcepten computationeel denken") 
 
 Er zijn sinds 2019 verplichte minimale leerdoelen 'Computationeel denken en handelen' in het Vlaamse onderwijs. Men heeft in de uitgangspunten bij de eindtermen van de eerste graad hierbij ook een definitie geformuleerd - zie kader 'Definitie van computationeel denken en handelen bij de eindtermen' en erbij omschreven wat men daarmee beoogt.<br>
 
