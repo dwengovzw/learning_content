@@ -1,5 +1,5 @@
 ---
-hruid: ct_principesprogrammeren
+hruid: ct_lesmateriaal
 version: 3
 language: nl
 title: "Lesmateriaal"
