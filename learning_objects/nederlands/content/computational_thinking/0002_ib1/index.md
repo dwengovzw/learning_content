@@ -39,12 +39,13 @@ Die digitale wereld wordt steeds belangrijker. De ontwikkeling van al die digita
 
 **Computationeel denken is een werkwijze om die digitale wereld te begrijpen en erop in te grijpen**. Het is een manier van denken die aan de basis ligt van alle digitale toepassingen. Computationeel denken is een methodologie die leerlingen kunnen aanleren om nieuwe problemen aan te pakken en die een houvast biedt als aanvulling op andere competenties die nodig zijn om problemen op te lossen. Het stelt mensen in staat om zich weerbaar en flexibel te kunnen opstellen tegenover nieuwe digitale toepassingen. Het is dan ook niet verwonderlijk dat er **overal ter wereld** een groeiende aandacht voor is in het leerplichtonderwijs (Wing, 2006; Bocconi et al., 2016; Yadav et al., 2017a). 
  
-Over de **hele wereld** wordt dan ook gepleit om de jongeren computationeel te leren denken en wordt computationeel denken aangezien als een fundament voor de digitale competenties, een van de  **21ste-eeuwse competenties** (Yadav et al., 2017a). Zo ook in Vlaanderen. <br>
+Over de **hele wereld** wordt dan ook gepleit om de jongeren computationeel te leren denken en wordt computationeel denken aangezien als een fundament voor de digitale competenties, een van de  **21ste-eeuwse competenties** (Voogt et al., 2013; Yadav et al., 2017a). Zo ook in Vlaanderen. <br>
 De digitale competenties worden zelfs aangezien als een manier om de andere 21ste-eeuwse competenties te verwerven en te evalueren. Dat is de voornaamste reden waarom landen computationeel denken invoeren in het onderwijs. Ook de Europese Unie onderschrijft het belang van de 21ste-eeuwse competenties en de rol die computationeel denken daarin kan spelen. 
 
 Kortom, steeds meer landen kiezen ervoor om computationeel denken in de leerdoelen van het secundair onderwijs op te nemen. 
 In **Vlaanderen** is computationeel denken verplicht voor alle leerlingen van de eerste graad, waar het zelfs de status van **basisgeletterdheid** kreeg. Dat betekent dat elke individuele leerling de opgelegde doelstellingen dient te behalen.
 
+> Competenties zijn een geheel van kennis, vaardigheden en attitudes.<br>
 > Meer uitleg over de 21ste-eeuwse competenties vind je in het leerpad ['Eindtermen en minimumdoelen'](https://www.dwengo.org/learning-path.html?hruid=ct8_eindtermen&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_eindtermen;nl;3). 
 
 <div class="alert alert-box alert-secondary">
@@ -56,6 +57,7 @@ Dat men wereldwijd een groot belang hecht aan computationeel denken, weerspiegel
 
 --------------------------------------
 #### Bronnnen:  
-Wing, J. M. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35.<br> 
 Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing computational thinking in compulsory education : implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
 Yadav, A., Good, J., Voogt, J., & Fisser, P. (2017a). Computational Thinking as an Emerging Competence Domain. *Technical and Vocational Education and Training, 23*, 1051–1067.
+Voogt, J., Erstad, O., Dede, C., & Mishra, P. (2013). Challenges to learning and schooling in the digital networked world of the 21st century. *Journal of Computer Assisted Learning, 29*.<br>
+Wing, J. M. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35.<br> 
