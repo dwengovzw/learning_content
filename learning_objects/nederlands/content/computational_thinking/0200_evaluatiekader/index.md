@@ -38,3 +38,12 @@ Computationeel denken kan in alle reguliere lessen aan bod komen. Telkens men me
 
 ![CD bij aanpak probleem](embed/schemabijevaluatie.png "CD bij aanpak probleem")
 
+## Sjabloon
+
+We stellen een sjabloon voor dat kan gebruikt worden als 'evaluatievoorbereiding'.
+
+Het sjabloon omvat ...
+
+## Gehanteerde termen
+
+.....
