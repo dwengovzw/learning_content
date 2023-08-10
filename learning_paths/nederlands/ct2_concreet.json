@@ -45,6 +45,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "ct_misconcepties",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct_misconcepties",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "ct_transfer",
             "version": "3",
             "language": "nl"
@@ -90,7 +105,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct_icoontjes",
+            "hruid": "ct_lesmateriaal",
             "version": "3",
             "language": "nl"
           }
@@ -98,22 +113,7 @@
       ]
     },
     {
-      "learningobject_hruid": "ct_icoontjes",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "ct_principesprogrammeren",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct_principesprogrammeren",
+      "learningobject_hruid": "ct_lesmateriaal",
       "version": "3",
       "language": "nl"
     } 

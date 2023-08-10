@@ -1,5 +1,5 @@
 ---
-hruid: ct_icoontjes
+hruid: ct_misconcepties
 version: 3
 language: nl
 title: "Aandachtspunt: Misconcepties"
