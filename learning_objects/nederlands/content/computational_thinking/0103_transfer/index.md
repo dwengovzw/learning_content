@@ -2,8 +2,8 @@
 hruid: ct_transfer
 version: 3
 language: nl
-title: "Aandachtspunten: Transfer"
-description: "Aandachtspunten: Transfer"
+title: "Aandachtspunt: Transfer"
+description: "Aandachtspunt: Transfer"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
