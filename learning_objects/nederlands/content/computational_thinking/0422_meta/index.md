@@ -2,8 +2,8 @@
 hruid: m_ct_cases22
 version: 3
 language: nl
-title: "Meta"
-description: "Meta"
+title: "Meta Wet van Ohm"
+description: "Meta Wet van Ohm"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
