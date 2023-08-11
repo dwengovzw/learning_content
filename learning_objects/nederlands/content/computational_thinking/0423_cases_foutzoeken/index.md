@@ -139,6 +139,10 @@ Inhoud:
 
 · Het leren van fouten en voorkomen van herhaling.
 
+Evaluatie: Dit vormt een belangrijke stap tijdens het foutzoeken in een elektrische installatie. Het dient als verificatie van de oplossing en het nemen van preventieve maatregelen om toekomstige problemen te voorkomen.
+
+· Na het implementeren van oplossingen is het belangrijk om het systeem te verifiëren en te testen om te controleren of het probleem is opgelost en het systeem correct functioneert.
+
 ![ct-schema](@learning-object/m_ct_cases23/nl/3)
 
 
