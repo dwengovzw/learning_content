@@ -32,4 +32,6 @@ teacher_exclusive: false
 
 # Data visualiseren
 
+## Taartdiagram
 
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0371 "Notebook Taartdiagram")
