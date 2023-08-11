@@ -53,6 +53,10 @@ Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om com
 
 ![ct-schema](@learning-object/m_ct_cases3d/nl/3)
 
+In dit filmpje overlopen we het programmeergedeelte. 
+
+![](@youtube/https://www.youtube.com/embed/oMFW-0mnAUU "demo case pythagoras") 
+
 ### Stap 2: input vragen aan de gebruiker
 
 **Voorkennis:** De leerlingen weten hoe ze input kunnen vragen aan de gebruiker, of ze kunnen het hier aanleren. 
