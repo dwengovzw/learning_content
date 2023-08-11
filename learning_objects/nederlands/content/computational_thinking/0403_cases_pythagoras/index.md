@@ -53,7 +53,7 @@ Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om com
 
 ![ct-schema](@learning-object/m_ct_cases3d/nl/3)
 
-In dit filmpje overlopen we het programmeergedeelte. 
+In dit filmpje krijg je stap voor stap het programmeergedeelte te zien. 
 
 ![](@youtube/https://www.youtube.com/embed/oMFW-0mnAUU "demo case pythagoras") 
 
