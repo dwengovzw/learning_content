@@ -32,4 +32,7 @@ teacher_exclusive: false
 
 # Data analyseren
 
+## Gemiddelde, mediaan en uitschieters. Kwartielen, interkwartielafstand, boxplot. 
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0300 "Notebook analyse data")
 
