@@ -2,8 +2,8 @@
 hruid: ct_cases22
 version: 3
 language: nl
-title: "Determineren"
-description: "Determineren"
+title: "Wet van Ohm"
+description: "Wet van Ohm"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Case
+# Wet van Ohm
+
 **Doelgroep:** ...
 
 **Voorkennis:** De leerlingen ...
