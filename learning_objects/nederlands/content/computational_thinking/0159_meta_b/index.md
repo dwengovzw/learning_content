@@ -31,7 +31,9 @@ teacher_exclusive: true
 ---
 
 <context>
-De leerlingen programmeren een quiz om de gesteentencyclus te herhalen en in te oefenen in Snap! De leerlingen voeren ook een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies a.d.h.v. het programma.  
+**Probleemstelling:**<br>
+    - De leerlingen programmeren een quiz om de gesteentencyclus te herhalen en in te oefenen in Snap! 
+    - De leerlingen voeren een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies a.d.h.v. het programma.  
 </context>
 <decomposition>
 Subtaken (**decompositie**):
