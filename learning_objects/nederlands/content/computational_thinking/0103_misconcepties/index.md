@@ -43,6 +43,7 @@ Het is belangrijk dat leerkrachten deze misconcepties kennen; het is dus aangewe
 <ul><li>Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.</li></ul>
 <ul><li>Computationeel denken is niet gelijk aan ICT.</li></ul>
 <ul><li>Computationeel denken is niet gelijk aan programmeren.</li></ul>
+<ul><li>Computationeel denken is niet enkel interessant voor programmeurs en andere informatici.</li></ul> 
 <ul><li>Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.</li></ul>
 <ul><li>Computationeel denken leer je niet enkel unplugged.</li></ul>    
 <ul><li>Computationeel denken is geen louter technologisch fenomeen.</li></ul>
@@ -80,7 +81,13 @@ Dat neemt niet weg dat programmeren een goede manier kan zijn om computationeel 
 
 Computationeel denken invoeren in het leerplichtonderwijs heeft geenszins als doel om van iedereen programmeurs of computerwetenschappers te maken, maar om de **basisvaardigheden van computationeel denken te verwerven en om te verkennen wat ze betekenen voor de verschillende disciplines**, en indien nodig door computationeel denken zelfs even los te koppelen van de computerwetenschappen (denk bv. aan activiteiten zonder computer, de unplugged voorbeelden) (Hemmendinger, 2010; Barr & Stephenson, 2011). <br>
 
-<div class="alert alert-box alert-success">
+<div class="alert alert-box alert-secondary">
+<ul><li>Computationeel denken is niet enkel interessant voor programmeurs en andere informatici.</li></ul> 
+</div>
+
+Bijna elke wetenschap, zowel exacte als humane, bijna elke beroep kent tegenwoordig een computationeel aspect. 
+
+<div class="alert alert-box alert-secondary">
 Computationeel denken leer je niet enkel unplugged.
 </div>
 
