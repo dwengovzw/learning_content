@@ -55,7 +55,7 @@ Het begrip 'computer' wordt gebruikt in de ruime zin van het woord: het geheel v
 In hetzelfde leerpad kreeg je ook meer uitleg over wat die basisconcepten nu juist inhouden. In het volgende menublok wordt dat nog eens samengevat. 
 
 ---------------------------------
-Computationeel denken is echter niet beperkt tot de basisconcepten. Het beslaat veel meer, zoals in het vorige leerpad al bleek uit de poster van *Barefoot Computing*. De Vlaamse eindtermen spreken daarom ook over 'computationeel denken en handelen'.
+Computationeel denken is echter niet beperkt tot de basisconcepten. Het beslaat veel meer, zoals in het vorige leerpad al bleek uit de poster van *Barefoot Computing*. De Vlaamse eindtermen en minimumdoelen spreken daarom ook over 'computationeel denken en handelen'.
 
 In dit leerpad hebben we voorbeelden verzameld over hoe **computationeel denken en handelen** aan bod kan komen in jouw lessen. Dat zijn voorbeelden uit de literatuur en voorbeelden uit ons eigen lesmateriaal. <br>
 Deze voorbeelden zijn niet beperkt tot het STEM-domein; ook humane wetenschappen komen aan bod. 
