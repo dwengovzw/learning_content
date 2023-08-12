@@ -42,7 +42,9 @@ PRADA focust op dezelfde basisconcepten van computationeel denken als wij doen. 
 
 ### Enkele voorbeelden afkomstig van het werk van Dong et al.
 
-Het **eerste voorbeeld** situeert zich in de **geschiedenisles**. Een interdisciplinaire groep keerkrachten van de middelbare school ontwierp een historisch puzzelspel voor leerlingen om het leven in de middeleeuwen te verkennen door middel van puzzels en quizzen. Ze laten de leerlingen het spel programmeren in Snap!, een Scratch-achtige programmeeromgeving.
+Het **eerste voorbeeld** situeert zich in de **geschiedenisles**. Een interdisciplinaire groep keerkrachten van de middelbare school ontwierp een historisch puzzelspel: door middel van puzzels en quizzen  verkennen leerlingen het leven in de middeleeuwen. Ze laten de leerlingen het spel programmeren in Snap!, een Scratch-achtige programmeeromgeving.
+
+**Doel van de les:** het leven in de middeleeuwen leren kennen
 
 ![ct-schema](@learning-object/m_ct_voorbeelden9a/nl/3)
 
