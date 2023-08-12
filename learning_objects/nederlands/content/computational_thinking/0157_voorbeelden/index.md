@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Alledaagse voorbeelden
 
-Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van computationeel denken in het dagelijks leven. Een groot aantal daarvan zijn unplugged voorbeelden, dus activiteiten waar geen computer bij aan te pas kont. Andere praktijken maken wel gebruik van een computer, maar er hoeft niet geprogrammeerd te worden.  
+Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van computationeel denken in het dagelijks leven. Een groot aantal daarvan zijn unplugged voorbeelden: activiteiten waar geen computer bij aan te pas komt. Andere maken wel gebruik van een computer, maar er hoeft niet geprogrammeerd te worden.  
 
 **Grover & Pea (2017)**
 |**CD**|**Dagdagelijkse toepassingen**|
@@ -39,7 +39,7 @@ Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van co
 |Patroonherkenning|gezichtsherkenning op Facebook en aanbevelingen op Amazon of iTunes|
 |Abstractie|simulatie als abstractie van fenomeen in de echte wereld in de media|
 |Decompositie|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|
-|Algoritme|recept|
+|Algoritme|recept; gezichtsherkenning op Facebook en aanbevelingen op Amazon of iTunes|
 |Evalueren en debuggen|gerecht proeven|
 
 **Cansu et al. (2019)**
