@@ -31,14 +31,23 @@ teacher_exclusive: true
 ---
 
 <context>
-De leerlingen spelen een spel en verkennen zo het leven in de middeleeuwen door middel van puzzels en quizzen. De leerlingen programmeren het spel in de Snap!-omgeving. 
+**Probleemstelling**<br>
+    Eerst: De leerlingen spelen een spel en verkennen zo het leven in de middeleeuwen door middel van puzzels en quizzen. <br>
+    Opdracht: De leerlingen programmeren het spel in de Snap!-omgeving. 
 </context>
 <decomposition>
-Subtaken (**decompositie**):
-Leerlingen moeten "gebeurtenissen onderzoeken en data noteren in de tijdlijn, specifieke kenmerken ontdekken in de proloog van het spel, de logische componenten in de puzzelspellen ontleden, enz.".
+Subtaken (**decompositie**): Leerlingen moeten:<br>
+- "gebeurtenissen onderzoeken en data noteren in de tijdlijn, 
+- specifieke kenmerken ontdekken in de proloog van het spel, 
+    - de logische componenten in de puzzelspellen ontleden, enz.".
 </decomposition>
 <patternRecognition>
-"Leerlingen herkennen de herhaling in een spel, de progressie van de tijdlijn, personages, puzzelpatronen en de patronen in grafieken."
+"Leerlingen herkennen <br>
+    - de herhaling in een spel, 
+    - de progressie van de tijdlijn, 
+    - personages, 
+    - puzzelpatronen en 
+    - de patronen in grafieken."
  (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
