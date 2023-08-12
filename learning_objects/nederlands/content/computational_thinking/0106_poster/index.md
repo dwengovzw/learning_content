@@ -2,8 +2,8 @@
 hruid: ct_poster
 version: 3
 language: nl
-title: "Concepten en vaardigheden"
-description: "Concepten en vaardigheden"
+title: "Concepten en praktijken"
+description: "Concepten en praktijken"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -35,7 +35,7 @@ teacher_exclusive: true
 ## Veelvoorkomende concepten en vaardigheden
 
 Computationeel denken kent heel wat concepten en praktijken. <br>
-Op de poster zie je concepten van computationeel denken en manieren van aanpak. Deze lijst van concepten en praktijken is niet volledig. Het valt bijvoorbeeld op dat 'modelleren' in de lijst ontbreekt. 
+Op de poster zie je concepten van computationeel denken en manieren van aanpak. Deze lijst van concepten, praktijken en vaardigheden is niet volledig. Het valt bijvoorbeeld op dat 'modelleren' in de lijst ontbreekt. 
 
 > In de definitie bij de uitgangspunten van de eindtermen van de eerste graad wordt modelleren expliciet vermeld (zie Leerpad 'Eindtermen').
 
@@ -47,6 +47,6 @@ Deze poster is gebaseerd op een poster van *Barefoot Computing* uit het Verenigd
 
 ## Icoontjes
 
-In het lesmateriaal van dwengo, zal je af en toe iconen tegenkomen. Hieronder vind je een overzicht terug. 
+In het lesmateriaal van Dwengo, zal je af en toe iconen tegenkomen. Hieronder vind je een overzicht terug. 
 
 ![](embed/iconen.png "iconen")
