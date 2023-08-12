@@ -31,10 +31,11 @@ teacher_exclusive: true
 ---
 # Computationeel denken en handelen
 
-Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. Het verschil zit vooral in de aspecten waarvan sommigen die als basiselementen van computationeel denken beschouwen en anderen eerder als een toepassing van. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
+Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. De consensus ontbreekt omdat de concepten en praktijken van computationeel denken niet door iedereen op dezelfde manier gepercipieerd worden. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
 
-Michael Lodi (2020) gooide het echter over een andere boeg: in plaats van te kijken waarover er consensus is, bekeek Lodi welke aspecten er worden aangehaald.<br>
-Hij kwam tot een **overzicht van denkprocessen, activiteiten en manieren van aanpak**:
+## Algemeen inzetbaar overzicht concepten en praktijken
+
+In plaats van te kijken waarover er consensus is, kan je echter ook nagaan welke aspecten van computationeel denken er allemaal worden aangehaald.<br>Michael Lodi (2020) gooide het over deze andere boeg en hij kwam tot een **overzicht van denkprocessen, activiteiten en manieren van aanpak**:
 
 • **Denkprocessen:**<br>
 – algoritmisch denken;<br>
@@ -64,8 +65,18 @@ Hij kwam tot een **overzicht van denkprocessen, activiteiten en manieren van aan
 
 *In verband met de ‘ruim inzetbare vaardigheden’: Lodi noemt ze ‘transversale vaardigheden’, maar omdat zo’n algemene vaardigheden geenszins gemakkelijk transfereerbaar zijn, verkiezen wij te spreken van ruim inzetbare vaardigheden (Guzdial, 2015; Denning & Tedre, 2019).*
 
-Het is duidelijk dat de eindtermen verder gaan dan de vier basisconcepten van computationeel denken, maar een basiskennis over computerwetenschappen beogen. 
-Het gaat immers ook over computationeel handelen. Hiervoor biedt het overzicht van Lodi heel wat overeenkomst met het kader waarbinnen Vlaamse scholen zullen werken.
+De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. 
+
+Het overzicht van Lodi vertoont heel wat overeenkomstigheden met het kader waarbinnen Vlaamse scholen zullen werken:
+- De basisconcepten (algoritmisch denken, decompositie, abstractie en patroonherkenning (waaronder generalisatie)) staan vermeld in de eindtermen en minimumdoelen voor alle finaliteiten.
+- Logisch denken, modelleren en simuleren komt voor in de minimumdoelen van de 2de en 3de graad; weliswaar niet voor alle leerlingen, maar afhankelijk van de studierichting.
+- Automatisatie komt in de specifieke minimumdoelen voor in technische richtingen. Maar het zit ook in het gebruik van software in lessen statistiek. Automatisatie zit bij alle leerlingen bijvoorbeeld in het gebruiken van digitale toepassingen zoals een rekenblad of een rekenapp. Het kan ook deel uitmaken van lessen waarbij een digitale artefact zoals een sociale robot wordt gebouwd en geprogrammeerd.   
+- Programmeren komt voor in de eindtermen van de eerste graad en de specifieke minimumdoelen van de derde graad. Testen en debuggen hoort daarbij. Hergebruiken en remixen wordt in de eindtermen en minimumdoelen aangemoedigd, bijvoorbeeld via het gebruik van softwarebibliotheken en door het documenteren van geschreven code.
+- 'De wereld op een computationele manier begrijpen' maakt deel uit van het minimumdoel van mediawijsheid in de tweede graad.
+- Creëren van digitale toepassingen komt aan bod in de eindtermen en minimumdoelen van digitale competenties voor alle leerlingen in alle graden. Of leerlingen ook een digitale toepassing moeten ontwerpen, is richtingafhankelijk, maar komt vaak in de klas aan bod, zowel in STEM- als niet-STEM-vakken. 
+
+
+## Overzicht concepten en praktijken gericht op wetenschappen en wiskunde
 
 Ook het kader van Weintrop (2016) om met computationeel denken aan de slag te gaan in lessen wiskunde en wetenschappen, vertoont veel overlap met de leerdoelen verwoord in de eindtermen 
 computationeel denken en handelen.
