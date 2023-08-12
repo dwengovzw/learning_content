@@ -52,6 +52,7 @@ Het is belangrijk dat leerkrachten deze misconcepties kennen.
 <ul><li>Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.</li></ul>
 <ul><li>Computationeel denken is niet gelijk aan ICT.</li></ul>
 <ul><li>Computationeel denken is niet gelijk aan programmeren.</li></ul>
+<ul><li>Computationeel denken is niet enkel interessant voor programmeurs en andere informatici.</li></ul>    
 <ul><li>Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.</li></ul>
 <ul><li>Computationeel denken leer je niet enkel unplugged.</li></ul>    
 <ul><li>Computationeel denken is geen louter technologisch fenomeen.</li></ul>
