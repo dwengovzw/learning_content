@@ -31,11 +31,14 @@ teacher_exclusive: true
 ---
 ## Voorbeeld uit de literatuur: PRADA
 
-Sands et al. (2018) gaven aan dat een nascholing voor leerkrachten over computationeel denken pas succesvol kan zijn als die gerelateerd is met de lesinhouden die leerkrachten geven en toont hoe computationeel denken in het bestaande curriculum en vakspecifieke lessen kan geïntegreerd worden, op een manier die bovendien past bij hun didactische methodes. Dong et al. (2019) lieten zich hierdoor inspireren en ontwikkelden het PRADA-model - PRADA staat voor *Pattern Recognition, Abstraction, Decomposition, and ALgorithms*. Ze trokken met hun model naar leerkrachten wiskunde, wetenschappen, maatschappijleer en Engelse taalkunde en stelden vast dat **dit model leerkrachten stimuleert tot het leggen van linken tussen computationeel denken en hun eigen lesmateriaal**. 
+Sands et al. (2018) gaven aan dat een nascholing voor jou, als leerkracht, over computationeel denken pas succesvol kan zijn als<br>
+- die gerelateerd is met de lesinhouden die jij geeft en
+- toont hoe computationeel denken in het bestaande curriculum en vakspecifieke lessen kan geïntegreerd worden,
+- op een manier die bovendien past bij jouw didactische methodes. Dong et al. (2019) lieten zich hierdoor inspireren en ontwikkelden het PRADA-model - PRADA staat voor *Pattern Recognition, Abstraction, Decomposition, and ALgorithms*. Ze trokken met hun model naar leerkrachten wiskunde, wetenschappen, maatschappijleer en Engelse taalkunde en stelden vast dat **dit model leerkrachten stimuleert tot het leggen van linken tussen computationeel denken en hun eigen lesmateriaal**. 
 
-**Het onderzoek van Dong et al. toonde aan dat interdisciplinaire leerkrachtenteams in staat zijn de basisconcepten van computationeel denken vanuit verschillende domeinen te "mixen en matchen", wat weerlegt dat sommige domeinen niet zouden toelaten om met computationeel denken bezig te zijn.**
+**Het onderzoek van Dong et al. toonde aan dat interdisciplinaire leerkrachtenteams in staat zijn de basisconcepten van computationeel denken vanuit verschillende domeinen te "mixen en matchen". Ze weerleggen dus dat sommige domeinen niet zouden toelaten om met computationeel denken bezig te zijn.**
 
-PRADA focust op dezelfde basisconcepten van computationeel denken als wij doen. Dong et al. willen net als wij aan leerkrachten "leren om concepten van conputationeel denken te herkennen in hun domein, en ze voorbeelden aan te reiken van hoe ze de concepten in hun lessen kunnen binnenbrengen". Ook zij streven ernaar dat leerkrachten op eigen houtje zo'n lessen zouden kunnen voorbereiden.
+PRADA focust op dezelfde basisconcepten van computationeel denken als wij doen. Dong et al. willen net als wij aan leerkrachten "leren om concepten van computationeel denken te herkennen in hun domein, en ze voorbeelden aan te reiken van hoe ze de concepten in hun lessen kunnen binnenbrengen". Ook zij streven ernaar dat leerkrachten op eigen houtje zo'n lessen zouden kunnen voorbereiden.
 
 ### Enkele voorbeelden afkomstig van het werk van Dong et al.
 
