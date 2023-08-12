@@ -31,9 +31,11 @@ teacher_exclusive: true
 ---
 # Integreren van computationeel denken en handelen in lessen sociale wetenschappen, taal en kunst
 
-Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen. 
+<div class="alert alert-box alert-success">
+Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen.<br>
+We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>: sociale wetenschappen, taal en kunst.
+</div>
 
-We geven hier een (niet exhaustief) overzicht.
 
 **Barr en Stephenson (2011)** benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
 
