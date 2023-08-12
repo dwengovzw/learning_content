@@ -31,10 +31,10 @@ teacher_exclusive: true
 ---
 
 <context>
-De leerlingen leggen in teams een test af a.d.h.v. een Snap!-programma. Bij elke vraag hoort een bepaalde afstand. Bij een goed antwoord gaat het team die afstand vooruit, bij een foutief antwoord wordt het team afgestraft. 
+**Probleemstelling:**<br>De leerlingen leggen in teams een test af a.d.h.v. een Snap!-programma. Bij elke vraag hoort een bepaalde afstand. Bij een goed antwoord gaat het team die afstand vooruit, bij een foutief antwoord wordt het team afgestraft. 
 </context>
 <decomposition>
-Bepaalde subtaken in de test zijn eruit gehaald om te definieren a.d.h.v. zelfgedefinieerde functies in het programma. (**decompositie**)
+Bepaalde subtaken in de test zijn eruit gehaald om te definiëren a.d.h.v. zelfgedefinieerde functies in het programma. (**decompositie**)
 </decomposition>
 <patternRecognition>
 De leerlingen moeten al spelend de herhalende **patronen** in het spel opmerken en vertrouwd raken met de spelmechanismen, bv. wat er gebeurt bij een goed antwoord. 
