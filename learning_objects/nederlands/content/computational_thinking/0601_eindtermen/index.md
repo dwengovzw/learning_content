@@ -51,6 +51,19 @@ In deze formulering verbindt de Academie computationeel denken onlosmakelijk met
 
 De tekst van de KVAB miste zijn doel niet en was een van de referentiekaders voor de hervorming van het Vlaamse secundair onderwijs betreffende digitale vaardigheden. **De leerdoelen van digitale vaardigheden werden uitgebreid met de concepten van computationeel denken en met de basis van de computerwetenschappen.**
 
+----------------------------------------------
+In dit leerpad wordt er ingegaan op deze leerdoelen van digitale vaardigheden, de verbanden ertussen en de linken met leerdoelen van andere domeinen.
+
+--------------------------------------
+
+#### Bronnen
+
+Samaey, G., Van Remortel, J., Bersini, H., Bruynseraede, Y., Dekelver, J., De Laender, F., Deschoolmeester, D., Gistelinck, P., Martens, B., Martens, L., Neven, F., Snoeck, M., Steels, L., Tempels, M., Vandenabeele, P., Vanderborght, B., Vandewalle, J., Van Uffelen, S., Vercauteren, G., Verschaffel, L., Waerniers, P., & wyffels, F. (2014). *Informaticawetenschappen in het leerplichtonderwijs.* Brussel: KVAB Standpunten
+27.<br>
+wyffels, F., Martens, B., & Lemmens, S. (2014). Starting from Scratch: Experimenting with Computer Science in Flemish Secondary Education. *In Proceedings of the 9th Workshop in Primary and Secondary Computing Education (WiPSCE ’14)*, (pp. 12–15).
+
+
+
 De eindtermen en minimumdoelen sommen de minimaal te behalen leerdoelen op. Ze zijn te lezen op [onderwijsdoelen.be](https://onderwijsdoelen.be/). Ze vertegenwoordigen een meetbare standaard als basis voor te ontwikkelen curricula. <br>
 De leerinhouden, de leeractiviteiten en de evaluatie van de leerlingen moeten hierop afgestemd worden, maar de overheid legt niet op hoe scholen dit moeten verwezenlijken.
 
