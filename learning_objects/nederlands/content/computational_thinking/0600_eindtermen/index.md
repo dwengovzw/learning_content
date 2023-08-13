@@ -29,14 +29,34 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-
 # Vlaamse eindtermen en minimumdoelen
 
-Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven minimale leerdoelen verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). 
+Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven leerdoelen. 
+- Deze [eindtermen en minimumdoelen](https://onderwijsdoelen.be/) sommen de **minimaal te behalen leerdoelen** op.
+- Ze vertegenwoordigen een **meetbare standaard** als basis voor te ontwikkelen curricula.
+- De leerinhouden, de leeractiviteiten en de evaluatie van de leerlingen moeten hierop afgestemd worden, maar de overheid legt niet op hoe scholen dit moeten verwezenlijken.
 
-> Deze minimale leerdoelen worden eindtermen of minimumdoelen genoemd. Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad en [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de (vernietigde) eindtermen van de tweede en derde graad. 
+> Het staat scholen dus vrij om de eindtermen en minimumdoelen in een vak, vakoverstijgend in meerdere vakken of bijvoorbeeld via een projectweek aan te bieden. Ze mogen ook zelf bepalen welke leerinhouden ze hiervoor gebruiken, hoewel ze daarover richtlijnen krijgen van de onderwijsverstrekkers GO!, KOV, POV, OVSG of OKO.
 
-In dit leerpad wordt er dieper op deze eindtermen en minimumdoelen en de verbanden ertussen ingegaan. 
+De eindtermen zijn ingegaan in het eerste jaar van het secundair onderwijs in september 2019 en worden schooljaar na schooljaar verder doorgevoerd in de andere leerjaren. In september 2023 wordt er gestart met de minimumdoelen in het vijfde jaar.
+
+De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). ‘Computationeel denken en handelen’ is een van de bouwstenen van deze sleutelcompetentie.
+
+In dit leerpad wordt er dieper op deze eindtermen en minimumdoelen en de verbanden ertussen ingegaan.
+
+> Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad en [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de (vernietigde) eindtermen van de tweede en derde graad. 
+
+
+
+> De eerste versie van de nieuwe eindtermen vermeldden expliciet de verwachte feitenkennis en de bijbehorende conceptuele, procedurele en metacognitieve kennis. Daarenboven was het beheersingsniveau van deze minimale leerdoelen gespecifieerd volgens de herwerkte taxonomie van Bloom. <br>Voor meer uitleg over de herwerkte taxonomie van Bloom zie  ‘A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives’ van Anderson en Krathwohl (2001).
+
+> Echter, op 16 juni 2022 vernietigde het Grondwettelijk de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. <br> Ondertussen werden reeds nieuwe minimumdoelen opgesteld voor de tweede en de derde graad: er werd gestreefd naar minder en minder gedetailleerde doelen, waarbij de vooropgestelde kennis duidelijk is. Er werd afgestapt van de taxonomie van Bloom; het vereiste beheersingsniveau kan afgeleid worden uit het handelingswerkwoord in het minimumdoel.<br>
+> De eindtermen van de eerste graad worden ook nog opnieuw bekeken.
+
+> Voor meer uitleg over de handelingswerkwoorden in de eindtermen/minimumdoelen, zie het leerobject 'Beheersingsniveau'.
+
+
+ 
 
 De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
 
