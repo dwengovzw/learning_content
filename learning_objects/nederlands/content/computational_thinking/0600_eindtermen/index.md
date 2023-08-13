@@ -30,9 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen
-
-## Vlaanderen
+# Vlaamse eindtermen en minimumdoelen
 
 Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven minimale leerdoelen verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). 
 
@@ -48,11 +46,28 @@ De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd u
 
 * De bouwsteen ‘Verantwoord, kritisch en ethisch omgaan met digitale en niet-digitale media en informatie’ rond mediawijsheid. Deze bouwsteen gaat o.a. over de impact van de technologische ontwikkeling op de maatschappij en de ermee gepaard gaande ethische aspecten. Deze bouwsteen moet ook het kritische denken versterken. 
 
-> De sleutelcompetenties zijn: competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op het vlak van lichamelijke, geestelijke en emotionele gezondheid; competenties in het Nederlands; competenties in andere talen; digitale competentie en mediawijsheid; sociaalrelationele competenties; competenties inzake wiskunde, exacte wetenschappen en technologie; burgerschapscompetenties met inbegrip van competenties inzake samenleven; competenties met betrekking tot historisch bewustzijn; competenties met betrekking tot ruimtelijk bewustzijn; competenties inzake duurzaamheid; economische en financiële competenties; juridische competenties; leercompetenties met inbegrip van onderzoekscompetenties, innovatiedenken, creativiteit, probleemoplossend en kritisch denken, systeemdenken, informatieverwerking en samenwerken; zelfbewustzijn en zelfexpressie, zelfsturing en wendbaarheid; ontwikkeling van initiatief,  ambitie, ondernemingszin en loopbaancompetenties; cultureel bewustzijn en culturele expressie. 
+> De sleutelcompetenties zijn:
+> - competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op het vlak van lichamelijke, geestelijke en emotionele gezondheid;
+> - competenties in het Nederlands;
+> - competenties in andere talen;
+> - digitale competentie en mediawijsheid;
+> - sociaalrelationele competenties;
+> - competenties inzake wiskunde, exacte wetenschappen en technologie;
+> - burgerschapscompetenties met inbegrip van competenties inzake samenleven;
+> - competenties met betrekking tot historisch bewustzijn;
+> - competenties met betrekking tot ruimtelijk bewustzijn;
+> - competenties inzake duurzaamheid;
+> - economische en financiële competenties;
+> - juridische competenties;
+> - leercompetenties met inbegrip van onderzoekscompetenties, innovatiedenken, creativiteit, probleemoplossend en kritisch denken, systeemdenken, informatieverwerking en samenwerken;
+> - zelfbewustzijn en zelfexpressie, zelfsturing en wendbaarheid;
+> - ontwikkeling van initiatief,  ambitie, ondernemingszin en loopbaancompetenties;
+> - cultureel bewustzijn en culturele expressie. 
 
-> Zie [onderwijsdoelen.be](onderwijsdoelen.be/uitgangspunten/4814) voor meer informatie betreffende de sleutelcompetenties.
 
 Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. 
+
+> De [uitgangspunten](onderwijsdoelen.be/uitgangspunten/4814) bij de eindtermen en minimumdoelen lichten verder toe dat de eindtermen die voor de digitale competentie zijn ontwikkeld verband houden met de meeste sleutelcompetenties.
 
 Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van **basisgeletterdheid**, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
 
