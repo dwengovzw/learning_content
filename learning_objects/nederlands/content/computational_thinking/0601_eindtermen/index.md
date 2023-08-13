@@ -64,19 +64,5 @@ wyffels, F., Martens, B., & Lemmens, S. (2014). Starting from Scratch: Experimen
 
 
 
-De eindtermen en minimumdoelen sommen de minimaal te behalen leerdoelen op. Ze zijn te lezen op [onderwijsdoelen.be](https://onderwijsdoelen.be/). Ze vertegenwoordigen een meetbare standaard als basis voor te ontwikkelen curricula. <br>
-De leerinhouden, de leeractiviteiten en de evaluatie van de leerlingen moeten hierop afgestemd worden, maar de overheid legt niet op hoe scholen dit moeten verwezenlijken.
-
-> Het staat scholen dus vrij om de eindtermen en minimumdoelen, waaronder die van 'Digitale competentie en mediawijsheid' en in het bijzonder ‘computationeel denken en handelen’, in een vak, vakoverstijgend in meerdere vakken of bijvoorbeeld via een projectweek aan te bieden. Ze mogen ook zelf bepalen welke leerinhouden ze hiervoor gebruiken, hoewel ze daarover richtlijnen krijgen van de onderwijsverstrekkers GO!, KOV, POV, OVSG of OKO.
-
-De eindtermen zijn ingegaan in het eerste jaar van het secundair onderwijs in september 2019 en worden schooljaar na schooljaar verder doorgevoerd in de andere leerjaren. In september 2023 wordt er gestart met de minimumdoelen in het vijfde jaar.
-
-> De eerste versie van de nieuwe eindtermen vermeldden expliciet de verwachte feitenkennis en de bijbehorende conceptuele, procedurele en metacognitieve kennis. Daarenboven was het beheersingsniveau van deze minimale leerdoelen gespecifieerd volgens de herwerkte taxonomie van Bloom. <br>Voor meer uitleg over de herwerkte taxonomie van Bloom zie  ‘A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives’ van Anderson en Krathwohl (2001).
-
-> Echter, op 16 juni 2022 vernietigde het Grondwettelijk de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. <br> Ondertussen werden reeds nieuwe minimumdoelen opgesteld voor de tweede en de derde graad: er werd gestreefd naar minder en minder gedetailleerde doelen, waarbij de vooropgestelde kennis duidelijk is. Er werd afgestapt van de taxonomie van Bloom; het vereiste beheersingsniveau kan afgeleid worden uit het handelingswerkwoord in het minimumdoel.<br>
-> De eindtermen van de eerste graad worden ook nog opnieuw bekeken.
-
-> Voor meer uitleg over de handelingswerkwoorden in de eindtermen/minimumdoelen, zie het leerobject 'Beheersingsniveau'.
-
 
 
