@@ -38,7 +38,7 @@ Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven leerd
 
 > Het staat scholen dus vrij om de eindtermen en minimumdoelen in een vak, vakoverstijgend in meerdere vakken of bijvoorbeeld via een projectweek aan te bieden. Ze mogen ook zelf bepalen welke leerinhouden ze hiervoor gebruiken, hoewel ze daarover richtlijnen krijgen van de onderwijsverstrekkers GO!, KOV, POV, OVSG of OKO.
 
-<div class="alert alert-box alert-primary">
+<div class="alert alert-box alert-success">
 De eindtermen zijn ingegaan in het eerste jaar van het secundair onderwijs in september 2019 en worden schooljaar na schooljaar verder doorgevoerd in de andere leerjaren. In september 2023 wordt er gestart met de minimumdoelen in het vijfde jaar.
 </div>
 
@@ -59,7 +59,8 @@ Ondertussen zijn deze vernietigde eindtermen naar nieuwe minimumdoelen voor de t
 
 ## Digitale competentie en mediawijsheid
 
-De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). ‘Computationeel denken en handelen’ is een van de bouwstenen van deze sleutelcompetentie.<br>
+De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). ‘Computationeel denken en handelen’ is een van de bouwstenen van deze sleutelcompetentie.
+
 De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
 
 * De bouwsteen ‘Digitale media en toepassingen om te creëren, te participeren en te interageren’ rond het gebruik van informatie- en communicatietechnologie. Bv. het gebruik van online tools, het creëren van digitale content, en het digitaal burgerschap. Deze bouwsteen kent een samenhang met leerdoelen over informatie verwerven en beheren van de sleutelcompetentie rond leren. 
@@ -90,8 +91,8 @@ Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten
 
 > De [uitgangspunten](onderwijsdoelen.be/uitgangspunten/4814) bij de eindtermen en minimumdoelen lichten verder toe dat de eindtermen voor de digitale competentie verband houden met de meeste sleutelcompetenties.
 
-<div class="alert alert-box alert-primary">
-Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van **basisgeletterdheid**, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
+<div class="alert alert-box alert-success">
+Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van <strong>basisgeletterdheid</strong>, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
 </div>
 
 ----------------
