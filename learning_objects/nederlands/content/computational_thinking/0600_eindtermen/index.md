@@ -38,26 +38,28 @@ Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven leerd
 
 > Het staat scholen dus vrij om de eindtermen en minimumdoelen in een vak, vakoverstijgend in meerdere vakken of bijvoorbeeld via een projectweek aan te bieden. Ze mogen ook zelf bepalen welke leerinhouden ze hiervoor gebruiken, hoewel ze daarover richtlijnen krijgen van de onderwijsverstrekkers GO!, KOV, POV, OVSG of OKO.
 
+<div class="alert alert-box alert-primary">
 De eindtermen zijn ingegaan in het eerste jaar van het secundair onderwijs in september 2019 en worden schooljaar na schooljaar verder doorgevoerd in de andere leerjaren. In september 2023 wordt er gestart met de minimumdoelen in het vijfde jaar.
+</div>
 
-De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). ‘Computationeel denken en handelen’ is een van de bouwstenen van deze sleutelcompetentie.
-
-In dit leerpad wordt er dieper op deze eindtermen en minimumdoelen en de verbanden ertussen ingegaan.
+<div class="alert alert-box alert-secondary">
+<strong>Een bewogen parcours</strong><br>
+Het Grondwettelijk Hof vernietigde op 16 juni 2022 de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. 
+<ul><li>De eerste versie van de nieuwe eindtermen vermeldden expliciet de verwachte feitenkennis en de bijbehorende conceptuele, procedurele en metacognitieve kennis.</li></ul> 
+<ul><li>Daarenboven was het beheersingsniveau van deze minimale leerdoelen gespecifieerd volgens de herwerkte taxonomie van Bloom.<br><em>Voor meer uitleg over de herwerkte taxonomie van Bloom zie ‘A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives’ van Anderson en Krathwohl (2001).</em></li></ul>
+Ondertussen zijn deze vernietigde eindtermen naar nieuwe minimumdoelen voor de tweede en derde graad. 
+<ul><li>Hierbij werd gestreefd naar minder en minder gedetailleerde doelen, waarbij de vooropgestelde kennis duidelijk is.</li></ul>
+<ul><li>Er werd afgestapt van de taxonomie van Bloom.</li></ul> 
+<ul><li>het vereiste beheersingsniveau kan afgeleid worden uit het handelingswerkwoord in het minimumdoel.</li></ul> 
+<ul><li>De eindtermen van de eerste graad worden ook nog opnieuw bekeken.</li></ul> 
+<ul><li>Voor meer uitleg over de handelingswerkwoorden in de eindtermen/minimumdoelen, zie het leerobject 'Beheersingsniveau'.</li></ul> 
+</div>
 
 > Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad en [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de (vernietigde) eindtermen van de tweede en derde graad. 
 
+## Digitale competentie en mediawijsheid
 
-
-> De eerste versie van de nieuwe eindtermen vermeldden expliciet de verwachte feitenkennis en de bijbehorende conceptuele, procedurele en metacognitieve kennis. Daarenboven was het beheersingsniveau van deze minimale leerdoelen gespecifieerd volgens de herwerkte taxonomie van Bloom. <br>Voor meer uitleg over de herwerkte taxonomie van Bloom zie  ‘A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives’ van Anderson en Krathwohl (2001).
-
-> Echter, op 16 juni 2022 vernietigde het Grondwettelijk de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. <br> Ondertussen werden reeds nieuwe minimumdoelen opgesteld voor de tweede en de derde graad: er werd gestreefd naar minder en minder gedetailleerde doelen, waarbij de vooropgestelde kennis duidelijk is. Er werd afgestapt van de taxonomie van Bloom; het vereiste beheersingsniveau kan afgeleid worden uit het handelingswerkwoord in het minimumdoel.<br>
-> De eindtermen van de eerste graad worden ook nog opnieuw bekeken.
-
-> Voor meer uitleg over de handelingswerkwoorden in de eindtermen/minimumdoelen, zie het leerobject 'Beheersingsniveau'.
-
-
- 
-
+De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). ‘Computationeel denken en handelen’ is een van de bouwstenen van deze sleutelcompetentie.<br>
 De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
 
 * De bouwsteen ‘Digitale media en toepassingen om te creëren, te participeren en te interageren’ rond het gebruik van informatie- en communicatietechnologie. Bv. het gebruik van online tools, het creëren van digitale content, en het digitaal burgerschap. Deze bouwsteen kent een samenhang met leerdoelen over informatie verwerven en beheren van de sleutelcompetentie rond leren. 
@@ -84,14 +86,13 @@ De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd u
 > - ontwikkeling van initiatief,  ambitie, ondernemingszin en loopbaancompetenties;
 > - cultureel bewustzijn en culturele expressie. 
 
-
 Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. 
 
-> De [uitgangspunten](onderwijsdoelen.be/uitgangspunten/4814) bij de eindtermen en minimumdoelen lichten verder toe dat de eindtermen die voor de digitale competentie zijn ontwikkeld verband houden met de meeste sleutelcompetenties.
+> De [uitgangspunten](onderwijsdoelen.be/uitgangspunten/4814) bij de eindtermen en minimumdoelen lichten verder toe dat de eindtermen voor de digitale competentie verband houden met de meeste sleutelcompetenties.
 
+<div class="alert alert-box alert-primary">
 Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van **basisgeletterdheid**, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
-
-> Het Grondwettelijk Hof vernietigde op 16 juni 2022 de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. Deze zijn ondertussen herwerkt. De nieuwe minimumdoelen gaan in op 1 september 2023 in het derde en vijfde jaar van het secundair onderwijs.
+</div>
 
 ----------------
 Bronnnen:<br>
