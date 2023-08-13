@@ -34,7 +34,8 @@ teacher_exclusive: true
 
 ## De nood aan informaticales op school
 
-Meerder decennia was computerwetenschappen bijna afwezig in het lesaanbod van het Vlaamse onderwijs (wyffels et al., 2014). In 20214 deed de Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten (KVAB) een oproep om computerwetenschappen verplicht op te nemen in het curriculum. <br>
+Meerdere decennia was computerwetenschappen bijna afwezig in het lesaanbod van het Vlaamse onderwijs (wyffels et al., 2014). <br>
+In 20214 deed de Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten (KVAB) een oproep om computerwetenschappen verplicht op te nemen in het curriculum. 
 In hun rapport ‘Informaticawetenschappen in het leerplichtonderwijs’ uit 2014 bepleit de KVAB dat "iedere jonge mens 'informaticavaardig, digitaal geletterd' moet worden en in staat 'computationeel' te denken". 
 
 > "Alle kinderen moeten immers in staat zijn om de snelle technologische evolutie van informatica te kunnen volgen. Hiervoor moeten zij de onderliggende werking van informatica leren begrijpen, en inzicht verwerven in de concepten die aan de basis liggen van deze technologieën. Bovendien is het nodig dat voldoende jongeren deze technologische evolutie kunnen sturen, hetgeen inhoudt dat zij in staat en gemotiveerd zijn om nieuwe technologieën te creëren", staat te lezen in het rapport van de KVAB (Samaey et al., 2014).
@@ -46,20 +47,22 @@ In deze formulering verbindt de Academie computationeel denken onlosmakelijk met
 
 ## Nieuwe onderwijsdoelen sinds 2019
 
-**In het Vlaamse onderwijs zijn er recent nieuwe eindtermen geformuleerd voor het secundair onderwijs, met als doel een toekomstgericht onderwijs dat rekening houdt met de uitdagingen van de 21ste eeuw.** 
-
-> De eindtermen en minimumdoelen zijn te lezen op [onderwijsdoelen.be](https://onderwijsdoelen.be/)
-
-> Deze eindtermen sommen de minimaal te behalen leerdoelen op, met een expliciete vermelding van de verwachte feitenkennis
-en de bijbehorende conceptuele, procedurele en metacognitieve kennis. Daarenboven is het beheersingsniveau van deze minimale leerdoelen gespecifieerd volgens de herwerkte taxonomie van Bloom.
-> . Echter, op 16 juni 2022 vernietigde het Grondwettelijk de nieuwe eindtermen voor de
-tweede en derde graad van het secundair onderwijs. Deze worden opnieuw bekeken.
-
-> Voor meer uitleg over de herwerkte taxonomie van Bloom zie  ‘A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives’ van Anderson en Krathwohl (2001).
+**In het Vlaamse onderwijs zijn er recent nieuwe eindtermen en minimumdoelen geformuleerd voor het secundair onderwijs, met als doel een toekomstgericht onderwijs dat rekening houdt met de uitdagingen van de 21ste eeuw.** 
 
 De tekst van de KVAB miste zijn doel niet en was een van de referentiekaders voor de hervorming van het Vlaamse secundair onderwijs betreffende digitale vaardigheden. **De leerdoelen van digitale vaardigheden werden uitgebreid met de concepten van computationeel denken en met de basis van de computerwetenschappen.**
 
-De eindtermen zijn ingegaan in het eerste jaar van het secundair onderwijs in september 2019 en worden schooljaar na schooljaar verder doorgevoerd in de andere
-leerjaren. Ze vertegenwoordigen een meetbare standaard als basis voor te ontwikkelen curricula. De leerinhouden, de leeractiviteiten en de evaluatie van de
-leerlingen moeten hierop afgestemd worden, maar de overheid legt niet op hoe scholen dit moeten verwezenlijken.
+De eindtermen en minimumdoelen sommen de minimaal te behalen leerdoelen op. Ze zijn te lezen op [onderwijsdoelen.be](https://onderwijsdoelen.be/). Ze vertegenwoordigen een meetbare standaard als basis voor te ontwikkelen curricula. <br>
+De leerinhouden, de leeractiviteiten en de evaluatie van de leerlingen moeten hierop afgestemd worden, maar de overheid legt niet op hoe scholen dit moeten verwezenlijken.
 Het staat scholen dus vrij om de 21ste-eeuwse vaardigheden, waaronder de digitale en in het bijzonder ‘computationeel denken en handelen’, in een vak, vakoverstijgend in meerdere vakken of bv. via een projectweek aan te bieden. Ze mogen ook zelf bepalen welke leerinhouden ze hiervoor gebruiken, hoewel ze daarover richtlijnen krijgen van de onderwijsverstrekkers GO!, KOV, POV, OVSG of OKO.
+
+
+
+> De eerste versie van de nieuwe eindtermen vermeldden expliciet de verwachte feitenkennis en de bijbehorende conceptuele, procedurele en metacognitieve kennis. Daarenboven was het beheersingsniveau van deze minimale leerdoelen gespecifieerd volgens de herwerkte taxonomie van Bloom. <br>Voor meer uitleg over de herwerkte taxonomie van Bloom zie  ‘A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives’ van Anderson en Krathwohl (2001).
+
+> Echter, op 16 juni 2022 vernietigde het Grondwettelijk de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. <br> Ondertussen werden reeds nieuwe minimumdoelen opgesteld voor de tweede en de derde graad: er werd gestreefd naar minder en minder gedetailleerde doelen, waarbij de vooropgestelde kennis duidelijk is. Er werd afgestapt van de taxonomie van Bloom; het vereiste beheersingsniveau kan afgeleid worden uit het handelingswerkwoord in het minimumdoel.<br>
+> De eindtermen van de eerste graad worden ook nog opnieuw bekeken.
+
+> Voor meer uitleg over de handelingswerkwoorden in de eindtermen/minimumdoelen, zie het leerobject 'Beheersingsniveau'.
+
+De eindtermen zijn ingegaan in het eerste jaar van het secundair onderwijs in september 2019 en worden schooljaar na schooljaar verder doorgevoerd in de andere leerjaren. In september 2023 wordt er gestart met de minimumdoelen in het vijfde jaar.
+
