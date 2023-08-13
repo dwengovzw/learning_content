@@ -59,7 +59,7 @@ Ondertussen zijn deze vernietigde eindtermen naar nieuwe minimumdoelen voor de t
 
 ## Digitale competentie en mediawijsheid
 
-De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** 
+De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’**. 
 
 <div class="alert alert-box alert-success">
 <strong>‘Digitale competentie en mediawijsheid’</strong> heeft als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). <br>
@@ -94,5 +94,9 @@ Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel 
 </div>
 
 ----------------
-Bronnnen:<br>
-AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via https://onderwijsdoelen.be/uitgangspunten/4814
+#### Bronnnen
+
+AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via https://onderwijsdoelen.be/uitgangspunten/4814<br>
+Li, Y., Schoenfeld, A.H., diSessa, A.A. et al. (2020). On Computational Thinking and STEM Education. *Journal for STEM Education Research, 3*, 147–166. https://doi.org/10.1007/s41979-020-00044-w<br>
+Voogt, J., Erstad, O., Dede, C., & Mishra, P. (2013). Challenges to learning and schooling in the digital networked world of the 21st century. *Journal of Computer Assisted Learning, 29*.<br>
+Yadav, A., Good, J., Voogt, J., & Fisser, P. (2017a). Computational Thinking as an Emerging Competence Domain. *Technical and Vocational Education and Training, 23*, 1051–1067. 
