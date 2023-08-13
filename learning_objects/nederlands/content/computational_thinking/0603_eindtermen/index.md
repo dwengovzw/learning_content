@@ -30,9 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen
+# Definitie computationeel denken
 
-## Definitie
 Behalve de nieuwe leerdoelen werd ook een definitie van 'Computationeel denken en handelen' geformuleerd en omschreven wat men met deze bouwsteen beoogt; zie kader 'Definitie van computationeel denken bij de eindtermen' . 
 
 <div class="alert alert-box alert-secondary">
