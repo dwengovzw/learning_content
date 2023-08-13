@@ -33,39 +33,33 @@ teacher_exclusive: true
 
 Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. De consensus ontbreekt omdat de concepten en praktijken van computationeel denken niet door iedereen op dezelfde manier gepercipieerd worden. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
 
-## Algemeen inzetbaar overzicht concepten en praktijken
+De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. <br>
+We hebben verschillende kaders van onderzoekers afgetoetst aan de Vlaamse eindtermen en minimumdoelen.
+Twee kaders van onderzoekers vertoonden daar veel overeenkomst mee en kunnen daarom inspiratie bieden over de concepten en praktijken van computationeel denken die aan bod kunnen komen in jouw lessen.
+
+## Algemeen inzetbaar overzicht concepten en praktijken 
 
 In plaats van te kijken waarover er consensus is, kan je echter ook nagaan welke aspecten van computationeel denken er allemaal worden aangehaald.<br>Michael Lodi (2020) gooide het over deze andere boeg en hij kwam tot een **overzicht van denkprocessen, activiteiten en manieren van aanpak**:
 
-• **Denkprocessen:**<br>
-– algoritmisch denken;<br>
-– logisch denken;<br>
-– decompositie;<br>
-– abstractie;<br>
-– patroonherkenning;<br>
-– generalisatie.<br>
-• **Methodes / activiteiten:**<br>
-– automatisatie;<br>
-– data verzamelen, analyseren en voorstellen;<br>
-– parallellisatie;<br>
-– modelleren en simuleren;<br>
-– analyseren en evalueren;<br>
-– programmeren.<br>
-• **Praktijken / manieren van aanpak:**<br>
-– experimenteren, itereren, tinkering;<br>
-– testen en debuggen;<br>
-– hergebruiken en remixen.<br>
-• **Ruim inzetbare vaardigheden**:<br>
-– ontwerpen en creëren;<br>
-– communiceren;<br>
-– samenwerken;<br>
-– reflecteren, leren, metareflecteren, de wereld op een computationele manier begrijpen;<br>
-– kunnen omgaan met dubbelzinnigheid;<br>
-– doorzettingsvermogen bij complexe problemen.<br>
+|**Denkprocessen**|**Methodes / activiteiten**|**Praktijken / manieren van aanpak**|
+|---------------|------------------------|---------------------|
+|algoritmisch denken|automatisatie|experimenteren, itereren, tinkering|
+|logisch denken|data verzamelen, analyseren en voorstellen|testen en debuggen|
+|decompositie|parallellisatie|hergebruiken en remixen|
+|abstractie|modelleren en simuleren|
+|patroonherkenning|analyseren en evalueren|
+|generalisatie|programmeren|
 
-*In verband met de ‘ruim inzetbare vaardigheden’: Lodi noemt ze ‘transversale vaardigheden’, maar omdat zo’n algemene vaardigheden geenszins gemakkelijk transfereerbaar zijn, verkiezen wij te spreken van ruim inzetbare vaardigheden (Guzdial, 2015; Denning & Tedre, 2019).*
+|**Transversale (ruim inzetbare) vaardigheden**|
+|------------------------|
+|ontwerpen en creëren|
+|communiceren|
+|samenwerken|
+|reflecteren, leren, metareflecteren, de wereld op een computationele manier begrijpen|
+|kunnen omgaan met dubbelzinnigheid|
+|doorzettingsvermogen bij complexe problemen|
 
-De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. 
+*In verband met de 'transversale vaardigheden’ willen we in de verf zetten dat zo’n algemene vaardigheden geenszins gemakkelijk transfereerbaar zijn (Guzdial, 2015; Denning & Tedre, 2019).*
 
 Het overzicht van Lodi vertoont heel wat overeenkomstigheden met het kader waarbinnen Vlaamse scholen zullen werken:
 - De basisconcepten (algoritmisch denken, decompositie, abstractie en patroonherkenning (waaronder generalisatie)) staan vermeld in de eindtermen en minimumdoelen voor alle finaliteiten.
@@ -80,6 +74,25 @@ Het overzicht van Lodi vertoont heel wat overeenkomstigheden met het kader waarb
 
 Ook het kader van Weintrop (2016) om met computationeel denken aan de slag te gaan in lessen wiskunde en wetenschappen, vertoont veel overlap met de leerdoelen verwoord in de eindtermen 
 computationeel denken en handelen.
+
+|**Praktijken betreffende data**|**Praktijken betreffende modelleren en simuleren**|
+|------------------------|------------------------|
+|data verzamelen, creëren, manipuleren, analyseren en visualiseren|modellen gebruiken om een concept te gebruiken|
+||modellen gebruiken om oplossingen te vinden en te testen|
+||modellen testen|
+||modellen ontwerpen|
+||modellen construeren|
+
+|**Praktijken betreffende het computationeel oplossen van problemen**|**Praktijken betreffende systeemdenken**|
+|------------------------|------------------------|
+|problemen voorbereiden om computationeel op te lossen|een complex systeem als geheel onderzoeken|
+|programmeren|de relaties binnen een systeem begrijpen|
+|effectieve tools kiezen|in niveaus denken|
+|verschillende benaderingen en oplossingen voor een probleem testen|informatie over een systeem kunnen verstrekken|
+|modulaire oplossingen ontwikkelen|een systeem definiëren en omgaan met complexiteit|
+|abstracties creëren|
+|troubleshooting en debuggen||
+
 
 • Binnen de leerdoelen zit basiskennis van digitale systemen en het werken met digitale tools.<br>
 • Debuggen en principes van programmeertalen, modellering en simuleren, en digitale representatie van informatie.<br>
