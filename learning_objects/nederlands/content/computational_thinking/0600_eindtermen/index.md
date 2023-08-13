@@ -59,7 +59,10 @@ Ondertussen zijn deze vernietigde eindtermen naar nieuwe minimumdoelen voor de t
 
 ## Digitale competentie en mediawijsheid
 
-De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). ‘Computationeel denken en handelen’ is een van de bouwstenen van deze sleutelcompetentie.
+De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). <br>**‘Computationeel denken en handelen’** is een van de bouwstenen van deze sleutelcompetentie.<br>
+Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. 
+
+
 
 De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
 
@@ -87,7 +90,7 @@ De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd u
 > - ontwikkeling van initiatief,  ambitie, ondernemingszin en loopbaancompetenties;
 > - cultureel bewustzijn en culturele expressie. 
 
-Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. 
+
 
 > De [uitgangspunten](onderwijsdoelen.be/uitgangspunten/4814) bij de eindtermen en minimumdoelen lichten verder toe dat de eindtermen voor de digitale competentie verband houden met de meeste sleutelcompetenties.
 
