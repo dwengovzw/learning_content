@@ -30,9 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Onderwijshervorming
+# De nood aan informaticales op school
 
-## De nood aan informaticales op school
+## Oproep
 
 Meerdere decennia was computerwetenschappen bijna afwezig in het lesaanbod van het Vlaamse onderwijs (wyffels et al., 2014). <br>
 In 20214 deed de Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten (KVAB) een oproep om computerwetenschappen verplicht op te nemen in het curriculum. 
