@@ -33,7 +33,7 @@ teacher_exclusive: true
 # Eindtermen
 
 ## Definitie
-Er zijn sinds 2019 verplichte minimale leerdoelen 'Computationeel denken en handelen' in het Vlaamse onderwijs. Behalve de nieuwe leerdoelen werd ook een definitie geformuleerd - zie kader 'Definitie van computationeel denken bij de eindtermen' en erbij omschreven wat men daarmee beoogt. 
+Behalve de nieuwe leerdoelen werd ook een definitie van 'Computationeel denken en handelen' geformuleerd en omschreven wat men met deze bouwsteen beoogt; zie kader 'Definitie van computationeel denken bij de eindtermen' . 
 
 <div class="alert alert-box alert-secondary">
 <strong><h5>Definitie van computationeel denken bij de eindtermen</h5></strong> 
