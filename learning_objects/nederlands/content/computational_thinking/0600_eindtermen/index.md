@@ -2,8 +2,8 @@
 hruid: ct_eindtermen
 version: 3
 language: nl
-title: "Vlaanderen"
-description: "Vlaanderen"
+title: "Hervorming"
+description: "Hervorming"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
