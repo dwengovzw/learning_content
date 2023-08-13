@@ -45,12 +45,19 @@ Computers hebben het wetenschappelijk onderzoek veranderd, zowel de exacte als d
 Bovendien wordt de computer door een heleboel mensen gebruikt naast de computer- en andere wetenschappers. In bijna elk beroep worden computers gebruikt. En ook in de vrije tijd is de computer aanwezig, voor dienstverlening, sociale media en ontspanning.    
 </div>
 
- **Bijna elk wiskundig of wetenschappelijk domein heeft een computationele tegenhanger**, bio-informatica is daarvan een bekend voorbeeld, maar er is bv. ook *histoinformatics*. Wetenschappers hebben immers begrepen dat ze m.b.v. computers zaken kunnen onderzoeken die vroeger niet uit te voeren waren, zoals onderzoek a.d.h.v. zeer grote datasets en het modelleren en simuleren van natuurwetenschappelijke fenomenen. Bovendien wordt de computer door een heleboel mensen gebruikt naast de computer- en andere wetenschappers (Lowe & Brophy, 2017). Er wordt immers ook computationeel gedacht in domeinen zoals de juridische wereld. 
-**Computationeel denken gaat dus ook over het zien van de opportuniteiten die de computer biedt om aan wetenschappelijk onderzoek te doen, ander onderzoek of meer efficiënt onderzoek, en het ruiken van kansen om taken te automatiseren.** De computer wordt bv. ingezet om een maatschappelijk relevant probleem, zoals de klimaatverandering, beter te begrijpen. **Het creatieve proces waarin men nadenkt over hoe men de computer voor al deze problemen inzet, is de essentie van computationeel denken**. 
+ **Bijna elk wiskundig of wetenschappelijk domein heeft een computationele tegenhanger**.
 
-> Historici doen met Natural Language Processing onderzoek naar de auteurs van oude teksten. Juristen gebruiken algoritmes om snel documenten te doorzoeken. Restaurateurs ontsluieren geheimen die vervat zijn in schilderijen. Klimaatwetenschappers modelleren de klimaatverandering en simuleren verschillende  scenario’s voor de opwarming van de Aarde. De realistische beelden in games en animatiefilms zijn te danken aan steeds meer verfijnde computertechnieken. 
-> Geneesheren gebruiken chatbots voor het anamnesegesprek. Dankzij software wandelen architecten virtueel rond in de gebouwen die ze ontwerpen, nog voor die gebouwd zijn. 
+> Bio-informatica is daarvan een bekend voorbeeld, maar er is bv. ook *histoinformatics*.<br>
+> Historici doen met Natural Language Processing onderzoek naar de auteurs van oude teksten. Juristen gebruiken algoritmes om snel documenten te doorzoeken. Restaurateurs ontsluieren geheimen die vervat zijn in schilderijen. Klimaatwetenschappers modelleren de klimaatverandering en simuleren verschillende  scenario’s voor de opwarming van de Aarde. De realistische beelden in games en animatiefilms zijn te danken aan steeds meer verfijnde computertechnieken.
 > Archeologen gaan in digitale scans van het landschap op zoek naar sporen van archeologische objecten, zoals grafheuvels en prehistorische akkerbouwsystemen, of doen een beroep op een algoritme om nauwkeuriger en sneller het geslacht van een menselijk skelet te bepalen. 
+> Wetenschappers hebben immers begrepen dat ze m.b.v. computers zaken kunnen onderzoeken die vroeger niet uit te voeren waren, zoals onderzoek a.d.h.v. zeer grote datasets en het modelleren en simuleren van natuurwetenschappelijke fenomenen.
+
+Bovendien wordt de computer door een heleboel mensen gebruikt naast de computer- en andere wetenschappers (Lowe & Brophy, 2017). 
+
+> Er wordt immers ook computationeel gedacht in domeinen zoals de juridische wereld. 
+> Geneesheren gebruiken chatbots voor het anamnesegesprek. Dankzij software wandelen architecten virtueel rond in de gebouwen die ze ontwerpen, nog voor die gebouwd zijn.
+
+**Computationeel denken gaat dus ook over het zien van de opportuniteiten die de computer biedt om aan wetenschappelijk onderzoek te doen, ander onderzoek of meer efficiënt onderzoek, en het ruiken van kansen om taken te automatiseren.** De computer wordt bv. ingezet om een maatschappelijk relevant probleem, zoals de klimaatverandering, beter te begrijpen. **Het creatieve proces waarin men nadenkt over hoe men de computer voor al deze problemen inzet, is de essentie van computationeel denken**. 
 
 **Niet iedereen verstaat hetzelfde onder ‘computationeel denken’.** Iemands opleiding kan daar bv. een rol in spelen: een computerwetenschapper zal er met een andere bril naar kijken dan bv. een bioloog of een historicus. 
 Ook de manier waarop iemand computationeel denken aanwendt, verschilt, naargelang waarvoor die het wil gebruiken (Hemmendinger, 2010; Weintrop et al., 2016). 
