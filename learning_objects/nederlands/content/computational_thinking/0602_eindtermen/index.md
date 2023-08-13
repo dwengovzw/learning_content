@@ -2,8 +2,8 @@
 hruid: ct_eindtermen2
 version: 3
 language: nl
-title: "Digitale competentie"
-description: "Digitale competentie"
+title: "Digitale competentie en mediawijsheid"
+description: "Digitale competentie en mediawijsheid"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
