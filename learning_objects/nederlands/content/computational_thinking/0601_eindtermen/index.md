@@ -2,8 +2,8 @@
 hruid: ct_eindtermen1
 version: 3
 language: nl
-title: "Hervorming"
-description: "Hervorming"
+title: "Informatica"
+description: "Informatica"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
