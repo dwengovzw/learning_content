@@ -59,18 +59,13 @@ Ondertussen zijn deze vernietigde eindtermen naar nieuwe minimumdoelen voor de t
 
 ## Digitale competentie en mediawijsheid
 
-De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). <br>**‘Computationeel denken en handelen’** is een van de bouwstenen van deze sleutelcompetentie.<br>
-Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. 
+De eindtermen en minimumdoelen zijn verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** 
 
-
-
-De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
-
-* De bouwsteen ‘Digitale media en toepassingen om te creëren, te participeren en te interageren’ rond het gebruik van informatie- en communicatietechnologie. Bv. het gebruik van online tools, het creëren van digitale content, en het digitaal burgerschap. Deze bouwsteen kent een samenhang met leerdoelen over informatie verwerven en beheren van de sleutelcompetentie rond leren. 
-
-* De bouwsteen **‘Computationeel denken en handelen’**, die een “basiskennis en vaardigheid op het vlak van informatica beoogt”, en bv. ook probleemoplossend denken wil bevorderen. 
-
-* De bouwsteen ‘Verantwoord, kritisch en ethisch omgaan met digitale en niet-digitale media en informatie’ rond mediawijsheid. Deze bouwsteen gaat o.a. over de impact van de technologische ontwikkeling op de maatschappij en de ermee gepaard gaande ethische aspecten. Deze bouwsteen moet ook het kritische denken versterken. 
+<div class="alert alert-box alert-success">
+<strong>‘Digitale competentie en mediawijsheid’</strong> heeft als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). <br>
+<strong>‘Computationeel denken en handelen’</strong> is een van de bouwstenen van deze sleutelcompetentie. Internationaal wordt computationeel denken aangezien als fundament voor de digitale competenties (Voogt et al., 2013; Yadav et al., 2017a, Li et al., 2020).<br>
+Gezien de <strong>verwevenheid</strong> van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. 
+</div>
 
 > De sleutelcompetenties zijn:
 > - competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op het vlak van lichamelijke, geestelijke en emotionele gezondheid;
