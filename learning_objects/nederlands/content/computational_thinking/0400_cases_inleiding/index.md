@@ -29,4 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Inleiding
+# Schema concepten computationeel denken
+In dit leerpad vind je uitgewerkte voorbeelden van hoe je computationeel denken kunt aan bod laten komen in bestaande lessen. Deze kunnen je inspireren. <br>
+
+We doen dit aan de hand van een schema. Dit schema biedt jou, als leerkracht, een houvast bij de voorbereiding van je lessen rond concepten van computationeel denken.
+
+![Schema basisconcepten](embed/schema.png "Schema basisconcepten CD")
+
+Bij het invullen van het schema vertrek je van de basisconcepten, maar automatisch komen ook andere concepten en praktijken van computationeel denken naar voren.<br>
+Niet alle vakken moeten verplicht worden ingevuld. Het onderste vak 'programmeren' is facultatief. Programmeren hoeft niet altijd aan bod te komen. Zelfs de computer hoeft niet altijd aan bod te komen. Let wel, in geen enkele opdracht met de computer werken is ook geen optie.  
