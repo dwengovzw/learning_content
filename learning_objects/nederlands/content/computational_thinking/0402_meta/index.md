@@ -33,8 +33,8 @@ teacher_exclusive: true
 Maak drie kleerhangers voor volwassenen, twee voor kinderen en vier voor baby’s.
 </context>
 <decomposition>
-Dit probleem kunnen we bijvoorbeeld opsplitsen in deelproblemen(**decompositie**):
-<ul><li>Welke materialen</li></ul>
+Dit probleem kunnen we opsplitsen in deelproblemen (**decompositie**):
+<ul><li>Welke materialen?</li></ul>
 <ul><li>Welke software? <span style="color: yellowgreen">→ geparameteriseerd CAD-ontwerp</span></li></ul>
 <ul><li>Welke parameters zijn nodig?</li></ul>
 <ul><li>Welke machine wordt er ingezet? <span style="color: yellowgreen">→ CNC-machine</span></li></ul>
@@ -46,12 +46,12 @@ Dit probleem kunnen we bijvoorbeeld opsplitsen in deelproblemen(**decompositie**
 De vorm van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-De geparametriseerde CAD-tekening is **abstractie** van de drie soorten van kleerhanger.<br>
+De geparametriseerde CAD-tekening is een **abstractie** van de drie maten kleerhangers.<br>
 Eigenlijk wordt een kleerhanger voorgesteld d.m.v. de waarden van de gekozen parameters. (**abstractie**)  
 </abstraction>
 <algorithms>
 **algoritme** <br>
-    Aanpassen van bepaalde parameters in de software.
+   Om van de ene maat naar een andere maat over te gaan, dien je bepaalde parameters in de software aan te passen. De computer zorgt voor het nodige rekenwerk en het ontwerp wordt automatisc aangepast.
 </algorithms>
 <implementation>
 Geen implementatie. Dit is (voorlopig) een unplugged voorbeeld.
