@@ -145,15 +145,18 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 **Taub 2014 Yevseyeva 2012**
 **Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.**
 
-Men kan bv. datasets vinden op het world wide web, maar om uit die data conclusies te kunnen trekken is er voorbereidend werk nodig. Deze data moeten worden opgekuist, eventueel verwerkt en op een geschikte manier worden voorgesteld. Leerlingen moeten over de conclusies leren communiceren. AI-systemen zoals deep learning werken met zeer grote datasets. Het is belangrijk dat leerlingen begrijpen hoe deze grote datasets tot stand komen, en hoe beperkingen in de dataset leiden tot tekortkomingen van de AI-systemen, zoals de aanwezige bias.
-
-Leerlingen kunnen ook zelf data genereren via een experiment, bv. gebruikmakend van een microcontroller.
-
-Als men modellen gebruikt om een simulatie te doen, dan is het belangrijk dat men meegeeft wat de beperkingen en de voordelen zijn van een simulator.
-
-Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
-
-Leerlingen leren dat alles als een systeem kan bekeken worden.
+* Men kan datasets vinden op het world wide web, maar om uit die data conclusies te kunnen trekken is er voorbereidend werk nodig:
+  * Deze data moeten worden opgekuist,
+  * eventueel verwerkt en
+  * op een geschikte manier worden voorgesteld.
+* Leerlingen moeten over de conclusies leren communiceren.
+* AI-systemen zoals deep learning werken met zeer grote datasets.
+   * Het is belangrijk dat leerlingen begrijpen hoe deze grote datasets tot stand komen, en
+   * hoe beperkingen in de dataset leiden tot tekortkomingen van de AI-systemen, zoals de aanwezige bias.
+* Leerlingen kunnen ook zelf data genereren via een experiment, bv. gebruikmakend van een microcontroller.
+* Als men modellen gebruikt om een simulatie te doen, dan is het belangrijk dat men meegeeft wat de beperkingen en de voordelen zijn van een simulator.
+* Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
+* Leerlingen leren dat alles als een systeem kan bekeken worden.
 
 **Lowe & Brophy (2017)**
 **Lu & Fletcher (2009)**
