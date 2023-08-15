@@ -40,16 +40,37 @@ teacher_exclusive: true
 
 **Vak:** Wiskunde - Wetenschappen - STEM
 
+**Vak:** Informaticawetenschappen
+
+**Doelgroep:** derde graad - Bedrijfsondersteunende Informaticawetenschappen, Economie-Wiskunde, Grieks-Wiskunde, Informatica- en communicatiewetenschappen, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde, Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtwetenschappen, Mechatronica
+
 ### Uitdaging: Analyseer hoe het zeeniveau in Oostende in de toekomst zal evolueren.
 
-Voorkennis: 
+**Voorkennis:** 
 * De leerlingen kunnen informatie verzamelen via het internet. 
 * De leerlingen weten dat de vorm van het spreidingsdiagram een indicatie is van een mogelijk trendlijn. 
 * De leerlingen kunnen in Python een spreidingsdiagram en een trendlijn visualiseren. 
 
 ![ct-schema](@learning-object/m_ct_cases4/nl/3)
 
-### Eindtermen (Bron: onderwijsdoelen.be)
+
+### Minimumdoelen (Bron: onderwijsdoelen.be)
+
+<span style="color: yellowgreen">(06.06 Finaliteit doorstroom) De leerlingen passen de stelling van Pythagoras toe om meetkundige problemen op te lossen in het vlak en in de ruimte.</span>
+
+<span style="color: yellowgreen">(04.05 Finaliteit doorstroom; Dubbele finaliteit, Finaliteit arbeidsmarkt) De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</span>
+
+Via deze case ga je aan de slag met de principes van computationeel denken. Met deze case werk je dus deels aan deze eindterm.
+
+### Specifieke minimumdoelen (Bron: onderwijsdoelen.be)
+
+<span style="color: yellowgreen"><strong>Algoritmen en programmeren</strong></span><br>
+<span style="color: yellowgreen">(07.01.01 Finaliteit doorstroom) De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Doelgroep: Bedrijfsondersteunende Informaticawetenschappen, Economie-Wiskunde, Grieks-Wiskunde, Informatica- en communicatiewetenschappen, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde<br>
+<span style="color: yellowgreen">(07.02.01) De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span>
+Doelgroep: Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtwetenschappen, Mechatronica
+
+### Vernietigde eindtermen (Bron: onderwijsdoelen.be)
 <span style="color: yellowgreen">(4.5 Finaliteit doorstroom) De leerlingen ontwerpen algoritmen om problemen digitaal op te lossen.</span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau creëren
