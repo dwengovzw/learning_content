@@ -30,9 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Concepten en vaardigheden
+# Concepten en praktijken
 
-## Veelvoorkomende concepten en vaardigheden
+## Veelvoorkomende concepten, praktijken en vaardigheden
 
 Computationeel denken kent heel wat concepten en praktijken. <br>
 Op de poster zie je concepten van computationeel denken en manieren van aanpak. Deze lijst van concepten, praktijken en vaardigheden is niet volledig. Het valt bijvoorbeeld op dat 'modelleren' in de lijst ontbreekt. 
