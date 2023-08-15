@@ -31,12 +31,14 @@ teacher_exclusive: true
 ---
 # Maatregelen inschatten COVID-19
 
-**Doelgroep:** 3de graad
+**Doelgroep:** 3de graad doorstroom - richtingen met 6 uur wiskunde
 
 **Vak:** Wiskunde - Biologie - STEM
 
-Voorkennis: matrices en afgeleiden
+**Voorkennis:** matrices en afgeleiden
 
 ![ct-schema](@learning-object/m_ct_cases8/nl/3)
+
+-----------------------
 
 Voor de uitwerking van dit project, zie het leerpad 'Epidemie' in het thema 'Python in STEM'. 
