@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-Ontwerp en realiseer een gesloten stormlantaarn. Je moet daarbij hout en plexiglas gebruiken.  
+![Stormlantaarn](lantaarn.jpg) Ontwerp en realiseer een gesloten stormlantaarn. Je moet daarbij hout en plexiglas gebruiken.  
 </div>
 </context>
 <decomposition>
