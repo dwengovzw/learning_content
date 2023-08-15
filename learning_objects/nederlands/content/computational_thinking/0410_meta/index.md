@@ -39,23 +39,29 @@ Subtaken (**decompositie**):<br>
 2. Hoe geef ik de foto’s aan de computer?
 3. Classificatie (Staat er een huidmondje op de foto of niet?)
 4. Hoe ziet de trainingsset eruit?
-5. Bias in de dataset
+5. Hoe bekom ik een dataset?
+6. Bias in de dataset.
+7. Hoe goed moet het AI-systeem presteren?
 </decomposition>
 <patternRecognition>
-Objectherkenning gebeurt al veel gedaan a.d.h.v. een AI-sytemen. Veel gebruikt zijn de diepe convolutionele neurale netwerken. (**patroonherkenning**)
-
+Objectherkenning gebeurt al veel gedaan a.d.h.v. een AI-sytemen. Veel gebruikt zijn de diepe convolutionele neurale netwerken. (**patroonherkenning**)<br>
+Het AI-systeem zal kenmerken van huidmondjes moeten herkennen.<br>
 Bias in de dataset (**patroon**): <br>
 1. Alle huidmondjes hebben een afmeting van ongeveer 125x125 pixels
 2. De foto’s zijn grijsachtig van kleur
 </patternRecognition>
 <abstraction>
-Een kleurenfoto wordt aan de computer gegeven in de vorm van een driedimensionale tabel van getallen. Een digitale foto bestaat uit pixels waarbij de kleur van elke pixel wordt weergegeven door de RGB-code, niets anders dan een drie getallen. (**abstractie**)
+Een kleurenfoto wordt aan de computer gegeven in de vorm van een driedimensionaal rooster van getallen. Een digitale foto bestaat uit pixels waarbij de kleur van elke pixel wordt weergegeven door de RGB-code, niets anders dan drie getallen. (**abstractie**)
 </abstraction>
 <algorithms>
 Er zijn meerdere **algoritmes** nodig. <br>
-1. Een algoritme om de aangeboden foto op te delen in vierkantjes van 125 op 125 pixels. 
-2. Een algoritme om huidmondjes te herkennen a.d.h.v. een convolutioneel neuraal netwerk.
-3. Een algoritme om de huidmondjes te tellen. 
+    Voor de dataset:<br>
+1. Een algoritme om de microfoto's van de plantentuin op te delen in voorbeelden van huidmondjes en voorbeelden van niet-huidmondjes.
+2. Een algoritme om het neuraal netwerk te trainen.
+    Om het neuraal netwerk te kunnen gebruiken:<br>
+3. Een algoritme om de aangeboden foto op te delen in vierkantjes van 125 op 125 pixels. Deze vierkantjes worden aangeboden aan het convolutioneel neuraal netwerk om te zien of er een huidmondje op staat.
+4. Een algoritme om de huidmondjes die hetzelfde zijn te clusteren.    
+5. Een algoritme om de huidmondjes te tellen. 
 </algorithms>
 <implementation>
 Voor de programma’s, zie het KIKS-project (https://dwengo.org/kiks).
