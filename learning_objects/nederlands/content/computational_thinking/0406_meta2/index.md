@@ -36,7 +36,7 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
 </context>
 <decomposition>
 **Decompositie** in subtaken:
-1. Roep de hulp in van een computer → gebruik een routeplanner, bv. Google maps.
+1. Roep de hulp in van een computer → gebruik een routeplanner, bv. Google Maps.
 2. Times Square en Empire State Building aanduiden.
 3. Duid op de figuur aan wat gekend is.
 4. Zoek de lengtes van de twee rechthoekszijden op in de gegeven route.
@@ -46,8 +46,7 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
 ![image](https://user-images.githubusercontent.com/48352335/206760823-a837820a-2010-4cb1-95c5-6818671f4867.png)
 </decomposition>
 <patternRecognition>
-Het stratenplan vertoont een **patroon**: <br>
-de straten vormen een rechthoekig rooster. <br>
+Het stratenplan vertoont een **patroon**: de straten vormen een rechthoekig rooster. <br>
 De afstand in volgelvlucht kan dus bepaald worden als de schuine zijde van een rechthoekige driehoek.<br><br>
 Herkennen dat het probleem verwant is met een eerder opgelost probleem: oefening is er een van het type waarbij de schuine zijde berekend wordt als de twee rechthoekszijden gekend zijn. (**patroonherkenning**)  
 </patternRecognition>
