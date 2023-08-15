@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 **De leerlingen ontwerpen en realiseren een houten stormlantaarn o.a. m.b.v. een CAD-programma en een CNC-machine.**
 
-**Doelgroep:** Hout 2de graad (finaliteit arbeidsmarkt)- Houttechnieken 2de graad (dubbele finaliteit)
+**Doelgroep:** Hout 2de graad (finaliteit arbeidsmarkt) - Houttechnieken 2de graad (dubbele finaliteit)
 
 **Vak:** Hout 2de graad - Houttechnieken 2de graad
 
