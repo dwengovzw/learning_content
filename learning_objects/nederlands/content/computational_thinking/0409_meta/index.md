@@ -31,7 +31,8 @@ teacher_exclusive: true
 ---
 
 <context>
-Volgende week staat er een uitstap naar Brussel op het programma met de trein. De leerlingen moeten uitzoeken wanneer en waar ze moeten vertrekken om tijdig in Brussel aan te komen.
+Volgende week staat er een uitstap naar Brussel op het programma met de trein.<br>
+Zoek uit wanneer en waar je moet vertrekken om tijdig in Brussel aan te komen.
 
 </context>
 <decomposition>
