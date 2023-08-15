@@ -31,7 +31,6 @@ teacher_exclusive: true
 ---
 # Afstand in vogelvlucht
 
-### Doel
 **De afstand in vogelvlucht bepalen.**
 
 *De leerlingen kunnen dit probleem op meerdere manieren aanpakken, bv. door een atlas te gebruiken of via een online routeplanner. De leerlingen ondervinden echter dat ze het resultaat sneller bekomen als ze de hulp van de computer inroepen.*
@@ -45,7 +44,11 @@ teacher_exclusive: true
 * De leerlingen kennen de betekenis van de schaal vermeld op een kaart.
 * De leerlingen weten dat er online routeplanners zijn. 
 
+### Eerste mogelijke aanpak
+
 ![ct-schema](@learning-object/m_ct_cases6/nl/3)
+
+### Tweede mogelijke aanpak
 
 De leerlingen zullen misschien een andere routeplanner gebruiken die niet over de mogelijkheid beschikt om de afstand in vogelvlucht op te vragen. <br><br>
 Deze leerlingen kunnen de afstand in vogelvlucht
