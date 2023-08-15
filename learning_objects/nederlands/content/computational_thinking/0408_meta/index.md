@@ -37,18 +37,19 @@ Kunnen we het effect van de COVID-19-maatregelen inschatten voordat we ze invoer
 </div>
 </context>
 <decomposition>
-We identificeren 3 deelproblemen:
+We identificeren 3 deelproblemen (**decompositie**):
 1. Model voor verspreiding
 2. Menselijke interacties voorstellen 
-3. Simuleren van het model
+3. Simuleren van de verspreiding a.d.h.v. het model
 </decomposition>
 <patternRecognition>
-De verspreiding van de pest en cholera gedragen zich gelijkaardig waarbij we een verschil maken tussen vatbare individuen, geïnfecteerden en resistente individuen …(**patroonherkenning**)<br><br>
-Interacties tussen mensen kunnen we op dezelfde manier als verbindingen tussen wegen of kennis van leerlingen, nl. met een graaf. (**patroonherkenning**)
+De verspreiding van de pest, cholera, COVID-19 ... gedraagt zich gelijkaardig. We onderscheiden daarbij: vatbare individuen, geïnfecteerden en resistente individuen. (**patroonherkenning**)<br><br>
+Interacties tussen mensen kunnen we op dezelfde manier voorstellen als verbindingen tussen steden (wegen), nl. met een graaf. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
 We stellen de interacties tussen de mensen **abstract** voor door een graaf.
     ![image](https://user-images.githubusercontent.com/48352335/208770354-903065c9-a265-4816-847e-d2dcc75e193f.png)
+De evoluties in de aantallen vatbare individuen, geïnfecteerden en resistente individuen worden **abstract** voorgesteld door differentiaalvergelijkingen.  
 ![image](https://user-images.githubusercontent.com/48352335/208770366-bb891a18-c4a3-4eab-bd38-dbebb1c35b75.png)
 </abstraction>
 <algorithms>
