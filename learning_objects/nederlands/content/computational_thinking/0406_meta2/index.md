@@ -47,8 +47,8 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
 </decomposition>
 <patternRecognition>
 Het stratenplan vertoont een **patroon**: de straten vormen een rechthoekig rooster. <br>
-De afstand in volgelvlucht kan dus bepaald worden als de schuine zijde van een rechthoekige driehoek.<br><br>
-Herkennen dat het probleem verwant is met een eerder opgelost probleem: oefening is er een van het type waarbij de schuine zijde berekend wordt als de twee rechthoekszijden gekend zijn. (**patroonherkenning**)  
+De afstand in vogelvlucht kan dus bepaald worden als de schuine zijde van een rechthoekige driehoek.<br><br>
+Herkennen dat het probleem verwant is met een eerder opgelost probleem: de oefening is er een van het type waarbij de schuine zijde berekend wordt als de twee rechthoekszijden gekend zijn. (**patroonherkenning**)  
 </patternRecognition>
 <abstraction>
 Het stratenplan van New York is een **abstractie** van de stad. 
