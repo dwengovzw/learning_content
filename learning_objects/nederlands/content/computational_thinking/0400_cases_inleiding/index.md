@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Schema concepten computationeel denken
-In dit leerpad vind je uitgewerkte voorbeelden van hoe je computationeel denken kunt aan bod laten komen in bestaande lessen. Deze kunnen je inspireren. <br>
+In dit leerpad vind je **uitgewerkte voorbeelden** van hoe je computationeel denken kunt aan bod laten komen in bestaande lessen. Deze kunnen je **inspireren**. <br>
 
 We doen dit aan de hand van een schema. Dit schema biedt jou, als leerkracht, een houvast bij de voorbereiding van je lessen rond concepten van computationeel denken.
 
