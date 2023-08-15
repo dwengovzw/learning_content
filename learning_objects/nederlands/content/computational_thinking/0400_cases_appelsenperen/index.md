@@ -56,7 +56,7 @@ De bedenkingen en conclusies uit het klasgesprek kunnen worden samengevat in een
 
 Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neuraal netwerk kan betere resultaten geven, dan progammeren aan de hand van regels. 
 
-![CNN zoekt naar kenmerken van objecten om ze te kunnen herkennen.](kenmerkenappelpeer.png)
+![CNN zoekt naar kenmerken van objecten om ze te kunnen herkennen.](embed/kenmerkenappelpeer.png)
 
 ---------------------------
 Het leerpad 'Digitale beelden' legt uit hoe een computer naar afbeeldingen kijkt. In de notebooks kan je er ook actief mee aan de slag gaan.<br> Het leerpad 'Artificiele intelligentie' gaat o.a. in op AI voor beeldherkenning. <br>
