@@ -37,7 +37,7 @@ Samen met de leerlingen bouw je stap voor stap een applicatie om het rekenwerk b
 
 Een troef van de stelling van Pythagoras is, is dat je gemakkelijk *real-world* toepassingen vindt.
 
-Met het programmeren ga je zo ver als je zelf wilt. In dit uitgewerkt voorbeeld komen variabelen, datatypes en operatoren aan bod, vragen we input aan de gebruiker, en gebruiken we ingebouwde en zelfgedefinieerde functies. We maken ook gebruik van Python-modules (bibliotheken). Indien gewenst, dan kan je de applicatie nog verder verbeteren en ook aan de slag gaan met keuze- en herhalingsstructuren. 
+Met het programmeren ga je zo ver als je zelf wilt. In dit uitgewerkt voorbeeld komen variabelen, datatypes en operatoren aan bod, vragen we input aan de gebruiker, en gebruiken we ingebouwde en zelfgedefinieerde functies. We maken ook gebruik van Python-modules (bibliotheken) en besteden aandacht aan het schrijven van commentaar. Indien gewenst, dan kan je de applicatie nog verder verbeteren en ook aan de slag gaan met keuze- en herhalingsstructuren. 
 
 Deze case wordt toegelicht in dit filmpje. 
 
