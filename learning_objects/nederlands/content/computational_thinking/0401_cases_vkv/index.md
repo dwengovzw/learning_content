@@ -43,7 +43,7 @@ Deze applicatie kan vervolgens gebruikt worden bij het oplossen van vraagstukken
 > In de case over de stelling van Pythagoras zie je hoe je zo'n applicatie geleidelijk aan uitwerkt, vertrekkend vanuit computationeel denken.
 
 
-Met het programmeren ga je zo ver als je zelf wilt. In dit uitgewerkt voorbeeld komen variabelen, datatypes, operatoren, logische uitdrukkingen en de keuzestructuur aan bod, vragen we input aan de gebruiker, en gebruiken we ingebouwde en zelfgedefinieerde functies. We maken ook gebruik van Python-modules (bibliotheken). <br>
+Met het programmeren ga je zo ver als je zelf wilt. In dit uitgewerkt voorbeeld komen variabelen, datatypes, operatoren, logische uitdrukkingen en de keuzestructuur aan bod, vragen we input aan de gebruiker, en gebruiken we ingebouwde en zelfgedefinieerde functies. We maken ook gebruik van Python-modules (bibliotheken) en besteden aandacht aan het schrijven van commentaar. <br>
 *Indien gewenst, dan kan je de applicatie nog verder verbeteren en ook aan de slag gaan met herhalingsstructuren. Je kan bv. een voorwaardelijke herhaling gebruiken om te laten controleren of de ingevoerde coëfficiënt van de tweedegraadsvergelijking niet nul is.*
 
 **Doelgroep:** 2de graad - finaliteit doorstroom, 3de graad - dubbele finaliteit
