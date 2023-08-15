@@ -36,7 +36,11 @@ teacher_exclusive: true
 
 *De leerlingen kunnen dit probleem op meerdere manieren aanpakken, bv. door een atlas te gebruiken of via een online routeplanner. De leerlingen ondervinden echter dat ze het resultaat sneller bekomen als ze de hulp van de computer inroepen.*
 
-Voorkennis: 
+**Doelgroep:** eerste graad
+
+**Vak:** aardrijkskunde, ICT
+
+**Voorkennis:** 
 * De leerlingen kunnen een atlas gebruiken. 
 * De leerlingen kennen de betekenis van de schaal vermeld op een kaart.
 * De leerlingen weten dat er online routeplanners zijn. 
@@ -45,7 +49,8 @@ Voorkennis:
 
 De leerlingen zullen misschien een andere routeplanner gebruiken die niet over de mogelijkheid beschikt om de afstand in vogelvlucht op te vragen. <br><br>
 Deze leerlingen kunnen de afstand in vogelvlucht
-* berekenen met de stelling van Pythagoras (nodige voorkennis: de leerlingen kennen de stelling van Pythagoras). 
-* vinden door te meten (zelf een tekening maken en meten, of meten op de figuur van de routeplanner) (nodige voorkennis: de leerlingen kennen gelijkvormige driehoeken). 
+* berekenen met de stelling van Pythagoras (nodige voorkennis: de leerlingen kennen de stelling van Pythagoras); 
+* vinden door te meten (zelf een tekening maken en meten, of meten op de figuur van de routeplanner);
+*  **extra voorkennis**: de leerlingen kennen het concept van gelijkvormige driehoeken en kunnen dat in verband brengen met de schaal van een kaart.
 
 ![ct-schema](@learning-object/m_ct_cases6b/nl/3)
