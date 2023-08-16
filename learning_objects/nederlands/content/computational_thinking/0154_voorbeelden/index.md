@@ -39,7 +39,7 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
-|Decompositie|objecten en methoden definiëren; hoofddeel programma afbakenen en functies definiëren|volgorde van bewerkingen in een uitdrukking toepassen|een soortenindeling maken||Data verzamelen|gegevensbron vinden voor een probleem|gegevens verzamelen via experiment uit kansrekenen, bv. gooien met dobbelstenen of munten opgooien|gegevens verzamelen via experiment|
+|Decompositie|objecten en methoden definiëren; hoofddeel programma afbakenen en functies definiëren|volgorde van bewerkingen in een uitdrukking toepassen|een soortenindeling maken||data verzamelen|gegevensbron vinden voor een probleem|gegevens verzamelen via experiment uit kansrekenen, bv. gooien met dobbelstenen of munten opgooien|gegevens verzamelen via experiment|
 |Decompositie|||de verschillende delen van een syteem kunnen idientificeren en hun interacties beschrijven|de verschillende delen van een syteem kunnen idientificeren en hun interacties beschrijven|
 |Decompositie||gemiddelde berekenen van de klas voor een examen (wat is er nodig)||
 |Decompositie|technische opdracht verdelen in subtaken||| 
@@ -56,15 +56,15 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 |Abstractie|een reeks van vaak herhaalde instructies abstraheren tot een functie|het gebruik van letters in algebra; in een vraagstuk de nodige gegevens eruit halen|een model bouwen van een fysieke entiteit|
 |Abstractie|||verschillende niveaus van abstractie bij het oplossen van een probleem uit de fysica| 
 |Abstractie||door iets abstract voor te stellen meer duidelijkheid bieden|door iets abstract voor te stellen meer duidelijkheid bieden|
-|Abstractie||Vergelijking||
+|Abstractie||vergelijking||
 |Abstractie|||verschillende niveaus van abstractie van aardrijkskundige kaarten| 
 |Abstractie|algoritme als voorbeeld van abstractie|model en simulatie als abstractie van fenomeen in de echte wereld||
-|Abstractie||Om een 'vraagstuk' op te lossen, moeten leerlingen relevante zaken van niet-relevante van elkaar onderscheiden en komen tot een op te lossen vergelijking|abstractie van aardrijkskundige kaarten| 
+|Abstractie||om een 'vraagstuk' op te lossen, moeten leerlingen relevante zaken van niet-relevante van elkaar onderscheiden en komen tot een op te lossen vergelijking|abstractie van aardrijkskundige kaarten| 
 |Abstractie en automatisering|ontwerpen en programmeren van webpagina's en smartphone-apps||| 
-|Abstractie|Robot ontwerpen die aan bepaalde criteria moet beantwoorden|||
+|Abstractie|robot ontwerpen die aan bepaalde criteria moet beantwoorden|||
 |Abstractie, modelleren||model van ons zonnestelsel maken|
 |Abstractie, simuleren||simuleren hoe bevolking regaeert op een ziekte-uitbraak|
-|Abstractie|RGB als abstractie van het aantal kleuren dat mensen kunnen waarenemen|keuze paramaeters die meegenomen worden in een wiskundig model|leerlingen maken een schema van een gegeven elektronische opstelling en andere leerlingen construeren de opstelling opnieuw a.d.h.v. het schema|
+|Abstractie|RGB als abstractie van het aantal kleuren dat mensen kunnen waarnemen|keuze paramaeters die meegenomen worden in een wiskundig model|leerlingen maken een schema van een gegeven elektronische opstelling en andere leerlingen construeren de opstelling opnieuw a.d.h.v. het schema|
 |Abstractie|representatie opmaken die kan geprogrammeerd worden||beslissingsboom voor classificatie opstellen; algebraïsche functie schrijven voor een proces|
 
 
@@ -72,7 +72,7 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 |---------------|------------------------|-----------|----------------------------|
 |Algoritme|bestudeer klassieke algoritmen; een algoritme voor een probleem|staartdeling uitvoeren, ontbinden in factoren, cijferen|een experimentele procedure uitvoeren|
 |Algoritme|doolhof doorlopen|||
-|Algoritme||Algoritme voor het trekken van een vierkantswortel||
+|Algoritme||algoritme voor het trekken van een vierkantswortel||
 |Algoritme|10 000 items sorteren|werken met grote hoeveelheden data|voorbeelden geven van systemen die veel rekenkracht vergen, zoals weermodellen|
 |Algoritme|robot die een pad volgt||robot volgt een pad dat de metamorfose van rups tot vlinder weergeeft in de juiste volgorde|
 |Algoritme||flowchart maken in een les over delers en veelvouden|wetenschappeleijke redenering verwoorden m.b.v. als-dan constructie, bv. om een hypothese te evalueren|
@@ -83,7 +83,7 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 |Data voorstellen|gegevensstructuren gebruiken zoals array, gekoppelde lijst, stack, wachtrij, grafiek, hash tabel, enz.|histogram, taartdiagram, staafdiagram gebruiken om gegevens weer te geven; stel gegevens overzichtelijk voor d.m.v. verzamekingen, lijsten, grafieken, enz.|gegevens samenvatten van een experiment|
 |Data genereren||microcontroller|microcontroller|
 |Data voorverwerken|gegevens sorteren, filteren, opkuisen, normaliseren, samenbrengen|||
-|Data voorstellen||Computationele voor- en nadelen soort diagram||
+|Data voorstellen||computationele voor- en nadelen soort diagram||
 |Data analyseren|||internationale datsets van broeikasgasuitstoot vergelijken naar hoeveelheid, land, economische sector ...| 
 |Data|data verzamelen (via dataloggers, via world wide web, via simulaties) en opkuisen|kansverdeling simuleren|data verzamelen (via dataloggers, via world wide web, via simulaties), opkuisen, monitoren en analyseren; meedoen aan een citizen science project|
 
@@ -94,12 +94,12 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 |Programmeren|videogames maken via programmeren in Scratch|||
 |Programmeren|bestaande programma's begrijpen en/of aanpassen, functies schrijven|data visualiseren, wiskundige model bouwen||  
 |Controlestructuren|controlestructuren gebruiken conditionals, lussen, recursie, enz.|wiskundige functies bestuderen vergeleken met functies in programmeren; iteratie gebruiken om vraagstukken op te lossen||
-|Iteratie||Vermenigvuldiging als iteratieve optelling||
+|Iteratie||vermenigvuldiging als iteratieve optelling||
 |Programmeren|nadenken over sequentie, iteratie, selectie, variabelen, invoer en uitvoer||| 
 |Artefact|programmeren en simuleren gevolgd door fysieke artefact; programmeren van een app bruikbaar door anderen|||
 |Automatisatie|wanneer is automatisatie zinvol; nodige abstracties en datarepresentaties|||
 |Parameters|experimenteren met de parameters in een logo om nieuwe logo's te creëren|parameters in een logo identificeren||
-|Automatiseren|Programma verwerkt invoer van de sensoren op een robot|||
+|Automatiseren|programma verwerkt invoer van de sensoren op een robot|||
 |Automatisatie, modeleren en simuleren||simuleren a.d.h.v. Netlogo om patronen op te sporen biologische, aardrijkundige, fysische, chemische ... processen|
 |Programmeren|toestel ontwerpen en bouwen om paperclips te tellen|geld wisselen; bewegen op een getallenlijn (bv. in Scratch)||
 |Automatisatie|bespreken welke dagdagelijkse processen er (deels) geautomatiseerd kunnen worden en welke niet|stelsels vergelijkingen laten oplossen door de computer|simulaties gebruiken, bv. betreffende de dynamiek in een ecosysteem|
@@ -113,11 +113,11 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
-|Modellen valideren| |regressielijnen|model toetsen aan de werkelijkheid|
+|Modellen valideren||regressielijnen|model toetsen aan de werkelijkheid|
 |Simulatie|animatie van een algoritme, parameters meerdere waarden laten aannemen om effect te zien|effect van de waarde van de parameters bij een functie bestuderen op een grafiek|beweging van het zonnestelsel simuleren|
 |Simuleren|Sim2Real|model gebruiken; Netlogo|model gebruiken; Concord Consortium's Molecular Workbench; PhET-project; Netlogo; iLab Network|
 |Modelleren|Sim2Real|model creëren|model creëren|
-|Modelleren en simuleren, en abstractie|Selecteren van de kenmerken die opgenomen worden in een model|||
+|Modelleren en simuleren, en abstractie|selecteren van de kenmerken die opgenomen worden in een model|||
 
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
