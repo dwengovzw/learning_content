@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 <context>
 ![Maatregelen COVID-19](covid19maatregelen.png)<br>
-*Buitenplan 5 maart 2021*. Afbeelding © NCCN, Brussel, België.
+*Buitenplan 5 maart 2021*.<br>Afbeelding © NCCN, Brussel, België.
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
 Kunnen we het effect van de COVID-19-maatregelen inschatten voordat we ze invoeren?
 </div>
