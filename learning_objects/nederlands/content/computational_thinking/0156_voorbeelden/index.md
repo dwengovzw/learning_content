@@ -40,7 +40,7 @@ teacher_exclusive: true
 |Decompositie, abstractie, algoritme, patroon- herkenning|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'|||||
 |Patroon- herkenning|||||sentimentanalyse vs. cyberpestdetectie|
 |Patroon- herkenning, abstractie|||||auteursherkenning, profilering, HR|
-|Abstractie|Emotiemachine in het project 'Sociale robot'|||Emotiemachine in het project 'Sociale robot'||
+|Abstractie|Emotiemachine in het project 'Sociale robot'|||emotiemachine in het project 'Sociale robot'||
 |Abstractie||trendlijn, grafiek in Python (herleid tot enkele lijnstukken)|||ChatGPT (vectoren i.p.v. zinnen)|
 |Abstractie|werking routeplanner; algoritme van Dijkstra; vingerafdrukken matchen|grafen||||
 |Data verzamelen|datastructuren||||veel voorkomende datastructuren in taaltechnologie (in het project 'Chatbot')|
