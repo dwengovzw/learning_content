@@ -109,4 +109,10 @@ Je zal ook moeten nadenken over welke evaluatievormen je wil hanteren, zoals een
 
 
 
-.....
+-----------------------
+
+#### Bronnen en inspiratie #### 
+
+- Bredere evaluatie: schuiven op vier assen, Katrien Bultynck, 2004.
+- Toolkit breed evalueren. Harde of zachte evaluatie, Saveyn, J., 2007. https://data-onderwijs.vlaanderen.be/documenten/bestand.ashx?id=12568
+- https://formatiefevalueren.kdg.be/ 
