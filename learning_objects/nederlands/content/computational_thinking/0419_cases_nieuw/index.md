@@ -2,8 +2,8 @@
 hruid: ct_cases19
 version: 3
 language: nl
-title: "Determineren"
-description: "Determineren"
+title: "Elektriciteit"
+description: "Elektriciteit"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,10 +29,13 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Case
-**Doelgroep:** ...
+# Basisbegrippen elektriciteit
 
-**Voorkennis:** De leerlingen ...
+**Het aanbrengen van de concepten elektrische lading, elektrische stroom, spanning en weerstand.** 
+
+**Doelgroep:** alle leerlingen die les krijgen over de basisbegrippen van elektriciteit
+
+**Voorkennis:** geen
 
 ![ct-schema](@learning-object/m_ct_cases19/nl/3)
 
