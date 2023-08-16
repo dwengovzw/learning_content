@@ -31,18 +31,18 @@ teacher_exclusive: true
 ---
 
 <context>
-... 
+In de elektrische installatie zit een fout. Verhelp deze fout.
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
+Verkennen van het probleem. Wat heb je nodig? Subtaken (**decompositie**):<br>
 - Probleemdecompositie is tijdens het foutzoeken in een elektrische installatie van groot belang, omdat elektrische systemen vaak complex zijn en uit meerdere componenten en subsystemen bestaan.
-- Elektrische installaties kunnen meerdere functies en subsystemen hebben, zoals verlichting, stopcontacten, schakelaars, beveiligingsapparatuur, enz. Als er een probleem optreedt, kan het opdelen van de installatie in deze verschillende subsystemen helpen om het probleemgebied te isoleren.
-- Een elektrische installatie bestaat uit verschillende circuits en bedrading die elektriciteit leveren aan verschillende delen van een gebouw. Als er een storing optreedt, kan het analyseren van elk circuit afzonderlijk helpen om het specifieke probleemgebied te identificeren 
+- Elektrische installaties kunnen **meerdere functies en subsystemen** hebben, zoals verlichting, stopcontacten, schakelaars, beveiligingsapparatuur, enz. Als er een probleem optreedt, kan het opdelen van de installatie in deze verschillende subsystemen helpen om het probleemgebied te isoleren.
+- Een elektrische installatie bestaat uit **verschillende circuits en bedrading** die elektriciteit leveren aan verschillende delen van een gebouw. Als er een storing optreedt, kan het analyseren van elk circuit afzonderlijk helpen om het specifieke probleemgebied te identificeren 
 </decomposition>
 <patternRecognition>
 **patroonherkenning**<br>
-- Bij het opsporen van fouten moet je vaak patronen in gegevens of gedrag identificeren. Dit kan variëren van het herkennen van herhalende problemen tot het analyseren van trends die kunnen wijzen op mogelijke oorzaken.
+Bij het opsporen van fouten moet je vaak patronen in gegevens of gedrag identificeren. Dit kan variëren van het herkennen van herhalende problemen tot het analyseren van trends die kunnen wijzen op mogelijke oorzaken.
 - Als bepaalde problemen zich herhaaldelijk voordoen, kan dit wijzen op een patroon van fouten. Het identificeren van dergelijke patronen kan helpen om diepgaander te zoeken naar de onderliggende oorzaak van de herhalende problemen.
 - Bij het gebruik van meetinstrumenten zoals multimeters of oscilloscopen kunnen abnormale meetwaarden of signalen patronen aangeven die niet overeenkomen met de verwachte resultaten.
 - Patroonherkenning kan betrekking hebben op het identificeren van relaties tussen het optreden van problemen en wijzigingen in het systeem, zoals het toevoegen van nieuwe componenten, software-updates, enz.
@@ -57,10 +57,10 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
     diagnosticeren.
 </patternRecognition>
 <abstraction>
-*abstractie**<br>
-    - Het begrijpen van complexe elektrische systemen vereist abstrahering, waarbij niet elk detail in beschouwing wordt genomen, maar eerder de hoog-niveau concepten en verbanden. Dit helpt bij het begrijpen van het systeem als geheel.
-    - Het lezen van een elektrisch schema vereist het vermogen om de abstracte representaties van componenten, verbindingen en functionaliteit te begrijpen.
-    - Foutopsporing omvat vaak het interpreteren van symbolen, zoals meetwaarden op een multimeter of visuele indicatoren op een apparaat. Dit vereist abstract denken om de symbolen te begrijpen in relatie tot de werkelijke toestand van het systeem.
+**abstractie**<br>
+- Het begrijpen van complexe elektrische systemen vereist abstrahering, waarbij niet elk detail in beschouwing wordt genomen, maar eerder de hoog-niveau concepten en verbanden. Dit helpt bij het begrijpen van het systeem als geheel.
+- Het lezen van een elektrisch schema vereist het vermogen om de abstracte representaties van componenten, verbindingen en functionaliteit te begrijpen.
+- Foutopsporing omvat vaak het interpreteren van symbolen, zoals meetwaarden op een multimeter of visuele indicatoren op een apparaat. Dit vereist abstract denken om de symbolen te begrijpen in relatie tot de werkelijke toestand van het systeem.
     - Veiligheidssymbolen vereisen het vermogen om abstracte concepten te begrijpen en te koppelen aan concrete acties of situaties.
 </abstraction>
 <algorithms>
