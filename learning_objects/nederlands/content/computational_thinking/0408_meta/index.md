@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-![image](https://user-images.githubusercontent.com/48352335/208769355-bb0d30c7-add2-4f5a-a6da-77ec9d9dec85.png)
+![Maatregelen COVID-19](covid19maatregelen.png)
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
 Kunnen we het effect van de COVID-19-maatregelen inschatten voordat we ze invoeren?
 </div>
