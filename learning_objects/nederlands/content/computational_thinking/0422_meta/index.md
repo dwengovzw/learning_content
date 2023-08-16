@@ -31,38 +31,33 @@ teacher_exclusive: true
 ---
 
 <context>
-... 
+De fundamentele relatie tussen stroom, spanning en weerstand wordt beschreven door de Wet van Ohm <em>U = I . R</em>.
 </div>
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-    - Decompositie is aanwezig wanneer je de basisbegrippen van elektriciteit en de Wet van Ohm opsplitst in hun afzonderlijke componenten. Je analyseert de concepten van elektrische stroom, spanning en weerstand afzonderlijk om uiteindelijk de relatie tussen hen te begrijpen.
-    - Bij het uitleggen van elektrische stroom, spanning en weerstand wordt elk begrip afzonderlijk behandeld en uitgelegd voordat hun relatie volgens de Wet van Ohm wordt besproken.
-    - Bij het oplossen van oefenproblemen waarbij je de Wet van Ohm moet toepassen om stroom, spanning en weerstand te berekenen, breek je het probleem af in specifieke stappen om elk van deze grootheden te berekenen.
+<ul><li>De concepten elektrische stroom, spanning en weerstand worden elk afzonderlijk uitgelegd voordat hun relatie volgens de Wet van Ohm wordt besproken.</li></ul>
+<ul><li>De relatie tussen elektrische stroom, spanning en weerstand worden onderzocht, bv. door het meten van spanning en stroom en het uitzetten van deze gegevens in een grafiek.</li></ul>
+<ul><li>Bij het oplossen van oefenproblemen bij de Wet van Ohm, wordt het probleem opgebroken in specifieke stappen om elk van deze grootheden te berekenen. Bv. bij een vraagstuk moeten eerst de relevante gegevens in de opgave herkend worden. </li></ul>
 </decomposition>
 <patternRecognition>
 (**patroonherkenning**)<br>
-    - Patroonherkenning zit in het begrijpen van hoe elektrische stroom, spanning en weerstand met elkaar in verband staan volgens de Wet van Ohm. Het herkennen van de patronen van verandering in deze grootheden wanneer je hun waarden aanpast, helpt je om de fundamentele relatie tussen hen te begrijpen.
-    - Patroonherkenning is van toepassing bij het meten van spanning en stroom en het uitzetten van deze gegevens in een grafiek. Het stelt leerlingen in staat om te begrijpen hoe deze elektrische grootheden zich tot elkaar verhouden en om relevante patronen en trends in de gegevens te identificeren.
-    - Generalisatie komt aan bod wanneer je de Wet van Ohm leert en begrijpt hoe deze op verschillende situaties kan worden toegepast. Door te begrijpen hoe de relatie tussen stroom, spanning en weerstand werkt, kun je deze kennis generaliseren en toepassen op diverse elektrische circuits en problemen.
-    - Door het oplossen van oefenproblemen waarbij de Wet van Ohm wordt gebruikt, leer je hoe je de concepten kunt generaliseren om specifieke waarden te berekenen in uiteenlopende scenario's.
-    - Het begrijpen van veiligheidsprincipes en het toepassen ervan bij verschillende elektrische apparaten en situaties omvat een vorm van generalisatie, waarbij je universele voorzorgsmaatregelen toepast op verschillende contexten.
-    - Hoewel de cursus zich voornamelijk richt op de Wet van Ohm, kunnen leerlingen generalisatie toepassen door verbanden te leggen met andere elektrische concepten die ze in de toekomst zouden kunnen tegenkomen (Bv. Geleiding, vermogen, schakelen van weerstanden).
+<ul><li>Bij het meten van spanning en stroom, en het uitzetten van deze gegevens in een grafiek, ga de leerlingen na hoe deze elektrische grootheden zich tot elkaar verhouden en identificeren ze relevante <strong>patronen en trends</strong> in de gegevens.</li></ul>
+<ul><li>De Wet van Ohm geeft het verband tussen elektrische stroom, spanning en weerstand. Het herkennen van de <strong>patronen van verandering</strong> in deze grootheden wanneer je hun waarden aanpast, helpt je om de fundamentele relatie tussen hen te begrijpen.</li></ul>
+<ul><li>De Wet van Ohm wordt binnen verschillende situaties toegepast. Leerlingen herkennen dat de Wet van Ohm toepasbaar is op diverse elektrische circuits en problemen. Bij het oplossen van oefenproblemen moet herkend worden of het al dan niet een toepassing van de Wet van Ohm betreft. Later zullen leerlingen nog in contact komen met andere scenario's waarbij ze verbanden zullen leggen met elektrische concepten, zoals geleiding, vermogen, en het schakelen van weerstanden.</li></ul>
 </patternRecognition>
 <abstraction>
 (**abstractie**)<br>
-    - Abstract denken komt naar voren omdat je leert over concepten zoals elektrische lading, stroom, spanning en weerstand. Deze concepten zijn abstracte representaties van echte fysieke fenomenen die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.
-    - Schematische voorstelling van een elektrische opstelling: In een schematische voorstelling worden elektrische componenten, draden en verbindingen weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn abstracte representaties die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.
-    - Bij het aanpakken van een vraagstuk is abstract denken betrokken bij het analyseren van het probleem en het identificeren van de kernconcepten en relaties. Dit houdt in dat je de essentiële details van het probleem abstractieert om tot de kern van het vraagstuk te komen.
+<ul><li>De concepten elektrische lading, stroom, spanning en weerstand zijn <strong>abstracte representaties van echte fysieke fenomenen</strong> die niet direct zichtbaar zijn, 
+    maar cruciaal zijn voor het begrijpen van elektriciteit.</li></ul>
+<ul><li>Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn <strong>abstracte</strong> voorstellingen die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.</li></ul>
+<ul><li>Bij het aanpakken van een vraagstuk is abstract denken betrokken bij het analyseren van het probleem en het identificeren van de kernconcepten en relaties. Dit houdt in dat je de essentiële details van het probleem abstractieert om tot de kern van het vraagstuk te komen.</li></ul>
+<ul><li>De wiskundige formule van de Wet van Ohm '<em>U = I . R</em>' is een abstract voorstelling van de fundamentele relatie tussen stroom, spanning en weerstand.</li></ul>
 </abstraction>
 <algorithms>
 **algoritme**<br>
-    - Algoritmisch denken zit vervat in het toepassen van de Wet van Ohm-formule (I = V / R) om stroom, spanning en weerstand te berekenen. Het volgen van deze stappen om numerieke waarden om te zetten in berekeningen en resultaten vertoont algoritmisch denken.
-    - Het toepassen van de Wet van Ohm-formule (I = V / R) om de stroom, spanning en weerstand te berekenen, vereist een algoritmische aanpak. Leerlingen moeten de juiste stappen volgen en de formule op de juiste manier gebruiken om de gewenste resultaten te bereiken.
-    - Bij het oplossen van oefenproblemen waarbij de Wet van Ohm wordt toegepast, moeten leerlingen een reeks algoritmische stappen volgen: gegevens identificeren, de formule toepassen, de berekeningen uitvoeren en de resultaten interpreteren.
-    - De sectie over elektrische veiligheid kan algoritmisch denken bevatten in de vorm van stappenplannen of checklists voor het veilig werken met elektrische apparaten, zoals het uitschakelen van de stroombron, het dragen van beschermende uitrusting, enz.
-    - Wanneer leerlingen een labo-proef uitvoeren, zullen ze algoritmisch denken gebruiken om stap voor stap de benodigde componenten en verbindingen te identificeren, metingen uit te voeren, enz.
-Generalisatie: Generalisatie ko 
+<ul><li>Het toepassen van de Wet van Ohm-formule (<em>U = I . R</em>) om de stroom, spanning en weerstand te berekenen, vereist een algoritmische aanpak. Leerlingen moeten de juiste stappen volgen en de formule op de juiste manier gebruiken om de gewenste resultaten te bereiken: gegevens identificeren, de formule toepassen, de berekeningen uitvoeren en de resultaten interpreteren.</li></ul>
+<ul><li>Wanneer leerlingen een labo-proef uitvoeren, zullen ze algoritmisch denken gebruiken om stap voor stap de benodigde componenten en verbindingen te identificeren, metingen uit te voeren, enz.</li></ul>
 </algorithms>
 <implementation>
  
