@@ -36,11 +36,14 @@ teacher_exclusive: true
 
 ### Subtitel
 
-**Inspiratie:** 
-- Bredere evaluatie: schuiven op vier assen, Katrien Bultynck, 2004.
-- Toolkit breed evalueren. Harde of zachte evaluatie, Saveyn, J., 2007. https://data-onderwijs.vlaanderen.be/documenten/bestand.ashx?id=12568
-- https://formatiefevalueren.kdg.be/ 
 
-### Infographic Tom Neutens: Hoe evalueer ik grafische code?
+
+## Het evalueren van programmeren vereist een eigen aanpak
+
+Programmeeropdrachten worden vaak verbeterd door leerkrachten die geen opleiding in informaticawetenschappen genoten. En omdat programmeren vaak aangewend wordt om met computationeel denken aan de slag te gaan in de klas, geven we hier enkele criteria mee om programmeeropdrachten te verbeteren.
+
+Deze criteria zijn opgemaakt voor programmeeropdrachten binnen een blokgebaseerde omgevind, maar zijn zeker ook zinvol binnen een tekstuele omgeving.
+
+## Infographic Tom Neutens: Hoe evalueer ik grafische code?
 - 
 ![infographic](https://github.com/dwengovzw/learning_content/assets/48352335/3d33c7d2-9ae6-4cd4-ba07-01532e64c5e7)
