@@ -140,11 +140,8 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 |---------------|------------------------|------------|----------------------------|
 |Logica||logische uitdrukkingen in een real-world context||
 
-**Barr en Stephenson (2011)** benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
-**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken.** <br>
-**Taub 2014 Yevseyeva 2012**
-**Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.**
-
+Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
+Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.<br>
 * Men kan datasets vinden op het world wide web, maar om uit die data conclusies te kunnen trekken is er voorbereidend werk nodig:
   * Deze data moeten worden opgekuist,
   * eventueel verwerkt en
@@ -157,16 +154,23 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 * Als men modellen gebruikt om een simulatie te doen, dan is het belangrijk dat men meegeeft wat de beperkingen en de voordelen zijn van een simulator.
 * Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
 * Leerlingen leren dat alles als een systeem kan bekeken worden.
+-----------------------
+#### Bronnen
 
-**Lowe & Brophy (2017)**
-**Lu & Fletcher (2009)**
-**Grover & Pea (2017)**
+Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM
+Inroads*, 2(1), 48-54.<br>
+Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing computational thinking in compulsory education : implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
+Grover, S. & Pea, R. (2017). Computational Thinking: A Competency Whose Time Has Come. *Computer Science Education.*<br>
+Lowe, T. & Brophy, S. P. (2017). An operationalized model for defining computational thinking. *2017 IEEE Frontiers in Education Conference (FIE)*, (pp. 1–8).<br>
+Lu, J. & Fletcher, G. (2009). Thinking about Computational Thinking. *ACM Sigcse Bulletin, 41*, 260–264.<br>
+Mishra, P. & Yadav, A. (2013). Of Art and Algorithms: Rethinking Technology & Creativity in the 21st Century. TechTrends, 57(3), 10–14.<br>
+Weintrop, D., Beheshti, E., Horn, M., Orton, K., Jona, K., Trouille, L., & Wilensky, U. (2016). Defining Computational Thinking for Mathematics and Science Classrooms. *Journal of Science Education and Technology, 25*.<br>
+
 **Berry (2021a) en (2021b)**
 **Cansu et al. (2019)**
-**Mishra & Yadav (2013)**
 **Lee et al. (2011)**
-**Yadav et al. (2016)**
 **Lee & Malyn-Smith (2019)**
-
-
+**Taub 2014 Yevseyeva 2012**
+Weintrop et al. **(2015) **<br>
+**Yadav et al. (2016)**
 
