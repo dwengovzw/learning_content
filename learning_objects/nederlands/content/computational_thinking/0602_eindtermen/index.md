@@ -40,8 +40,8 @@ Zoals eerder vermeld zijn de eindtermen en mimimumdoelen verdeeld over 16 sleute
 <strong>De drie bouwstenen van de sleutelcompetentie ‘Digitale competentie en mediawijsheid’</strong>
 <ul><li><strong>‘Digitale media en toepassingen om te creëren, te participeren en te interageren’</strong>
     <ul><li>De bouwsteen rond het gebruik van informatie- en communicatietechnologie.</li></ul>
-    <ul><li>Deze gaat in op de digitale ontwikkelingen, en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren in de samenleving.</li></ul>
-    <ul><li>Deze bouwsteen kent een samenhang met de bouwsteen rond informatiegeletterdheid (leerdoelen over informatie verwerven en beheren) van de sleutelcompetentie over leercompetenties.</li></ul>
+    <ul><li>Deze gaat in op de digitale ontwikkelingen, en op het belang van basiskennis en goed gebruik van ICT om te kunnen participeren in de samenleving.</li></ul>
+    <ul><li>Deze bouwsteen kent een samenhang met eindtermen en minimumdoelen rond informatiegeletterdheid (leerdoelen over informatie verwerven en beheren; deze behoren tot de sleutelcompetentie over leercompetenties).</li></ul>
     <ul><li>In de formulering van deze eindtermen wordt expliciet verwezen naar creëren, delen en samenwerken, een hebben dus een duidelijke link met de 21ste-eeuwse vaardigheden.</li></ul>
     <ul><li>Voorbeelden: het gebruik van online tools, het creëren van digitale content, en het digitaal burgerschap.</li></ul>
 </li></ul>
