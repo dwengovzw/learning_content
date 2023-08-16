@@ -66,7 +66,6 @@ Bij het opsporen van fouten moet je vaak patronen in gegevens of gedrag identifi
     - Veiligheidssymbolen zijn een abstracte voorstelling van concrete waarschuwingen, acties of situaties.
 </abstraction>
 <algorithms>
-**algoritme**<br>
 Het foutopsporingsproces vereist **algoritmisch denken**. Het bestaat uit het gestructureerd benaderen van het probleem en het volgen van duidelijke stappen om de oorzaak van het probleem te identificeren: een vooraf bepaalde reeks stappen, zoals visuele inspectie, metingen, logische tests en het implementeren van oplossingen.
 - Het proces van systematisch elimineren: het systeem als geheel analyseren en vervolgens specifieke componenten dichterbij bestuderen. 
 - Het uitvoeren van logische tests om bepaalde componenten of verbindingen uit te sluiten als mogelijke oorzaken van het probleem, volgt een gestructureerde logica die vergelijkbaar is met een algoritme.
