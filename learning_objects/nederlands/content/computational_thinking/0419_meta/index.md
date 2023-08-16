@@ -31,7 +31,8 @@ teacher_exclusive: true
 ---
 
 <context>
-... 
+Wat is elektrische lading, stroom, spanning en weerstand? <br>
+Welke veiligheidsprincipes neem je in acht bij het hanteren van elektrische opstellingen en toestellen?
 </div>
 </context>
 <decomposition>
