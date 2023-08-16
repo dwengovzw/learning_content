@@ -31,9 +31,11 @@ teacher_exclusive: true
 ---
 # Computationeel denken en handelen
 
-Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. De consensus ontbreekt omdat de concepten en praktijken van computationeel denken niet door iedereen op dezelfde manier gepercipieerd worden. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
+Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. De consensus ontbreekt omdat de Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
 
-De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. <br>
+Behalve de basisconcepten worden de concepten en praktijken van computationeel denken niet door iedereen op dezelfde manier gepercipieerd. Maar voor het Vlaamse onderwijs is het vooral interessant te weten welke er in de eindtermen, minimumdoelen en leerplannen voorkomen. Je wil immers weten met welke je zeker aan bod moet laten komen in jouw lessen. <br>
+De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. In het leerpad 'Eindtermen en minimumdoelen' lees je daar meer over.
+
 We hebben verschillende kaders van onderzoekers afgetoetst aan de Vlaamse eindtermen en minimumdoelen.
 Twee kaders van onderzoekers vertoonden daar veel overeenkomst mee en kunnen daarom inspiratie bieden over de concepten en praktijken van computationeel denken die aan bod kunnen komen in jouw lessen.
 
