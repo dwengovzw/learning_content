@@ -60,13 +60,13 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 |---------------|------------------------|----------------------------|
 |Abstractie|feiten samenvatten; besluiten trekken uit feiten|gebruik van vergelijking en metafoor|
 |Abstractie|door iets abstract voor te stellen meer duidelijkheid bieden|door iets abstract voor te stellen meer duidelijkheid bieden|
-|Abstractie|Geschiedenislessen zijn abstracties van wat er in een bepaalde periode gebeurd is||
+|Abstractie|geschiedenislessen zijn abstracties van wat er in een bepaalde periode gebeurd is||
 |Abstractie|kenmerken van leerlingen, zoals oogkleur, haarstijl en lengte, om hen voor te stellen||
 |Abstractie en algoritme||origami|
 |Abstractie||gebruik van metaforen|
 |Abstractie|netwerken (verspreiden van roddels, ziektes ...)||
 |Abstractie||bepaalde dansmove bestaat voor geoefende danser uit reeds gekende opeenvolging van danspassen|
-|Abstractie||In game design zijn games geabstraheerd tot een verzameling scenes waarin karakters optreden|
+|Abstractie||*in game design* zijn games geabstraheerd tot een verzameling scenes waarin karakters optreden|
 
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
@@ -86,7 +86,7 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 |Artefact||verhaal creëren of werken met geleidende inkt|
 |Programmeren||werken met microcontrollers of e-textiel; game creëren|
 |Automatisatie, modeleren en simuleren|simuleren a.d.h.v. Netlogo om patronen op te sporen in sociale processen, bv. patroon van segregatie bij onderzoek naar de voorkeur van mensen om in de nabijheid van mensen vergelijkbaar met henzelf te gaan wonen||
-|Automatisatie|Online shop in kader van theam 'Internet, handel en maatschappij'||
+|Automatisatie|online shop in kader van theam 'Internet, handel en maatschappij'||
 |Automatisatie|animatiefilm bv. stop-motion||
 |Programmeren||Lilypad (e-textiel)|
 |Artefact en vector graphics||Illustrator en 3D-printen|
@@ -103,10 +103,10 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 |Data verzamelen|grafieken interpreteren met een maatschappelijke context, bv. bevolkingsgegevens|taalkundige analyse van zinnen uitvoeren|
 |Data analyse|trends identificeren in statistische gegevens|patronen herkennen voor verschillende soorten van zinnen|
 |Data voorstellen|trends samenvatten en voorstellen|patronen van verschillende soorten zinnen voorstellen|
-|Data analyse|Verband tussen geweld in films en aggressie||
+|Data analyse|verband tussen geweld in films en aggressie||
 |Data verzamelen en analyseren||principes van Europese kunst|
 |Data voorstellen en interpreteren||ontstaan van de tweede wereldoorlog|
-|Data verzamelen|Bekijken wat meest gebruikte woorden zijn in *inaugural speeches* van presidenten van 1789 tot 2009||
+|Data verzamelen|bekijken wat meest gebruikte woorden zijn in *inaugural speeches* van presidenten van 1789 tot 2009||
 |Data analyseren|*inaugural speeches* vergelijken, bv. verschillen omschrijven tsuuen democratische en republikeinse presidenten, of tussen periodes||
 |Data analyseren|burgerzin (bv. haatgroepen)||
 
@@ -138,35 +138,24 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 |---------------|------------------------|----------------------------|
 |Optimalisatie|reisbrochure maken die route optimaliseert naar afstand, tijd, prijs ...||
 
-**Barr en Stephenson (2011)** benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
-**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken.** 
 
+-----------------------
+#### Bronnen 
+
+**Barr en Stephenson (2011)** 
+**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken.** 
 **Repenning et al. (2015)**, **Yevseyeva & Towhidnejad (2012)**
 **Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.**
-Men kan bv. datasets vinden op het world wide web, maar om uit die data conclusies te kunnen trekken is er voorbereidend werk nodig. Deze data moeten worden opgekuist, eventueel verwerkt en op een geschikte manier worden voorgesteld. Leerlingen moeten over de conclusies leren communiceren. AI-systemen zoals deep learning werken met zeer grote datasets. Het is belangrijk dat leerlingen begrijpen hoe deze grote datasets tot stand komen, en hoe beperkingen in de dataset leiden tot tekortkomingen van de AI-systemen, zoals de aanwezige bias.
-
-Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
-
 **Grover & Pea (2017)**
 **Lu & Fletcher (2009)**
 **Berry (2021)**
-
-Volgens Berry kunnen deze unplugged voorbeelden best beschouwd worden als analogieën van concepten van computationeel denken. Het is pas wanneer men deze benaderingen omzet naar een digitale toepassingen dat het echt computationeel denken wordt. 
-
 **Cansu & Fatih (2019)**
-
 **Yadav et al. (2016), Yadav et al. (2017)**
-
 **Lee & Malyn-Smith (2019)**
-
 **Perkovic et al. (2010)**
-
 **Goldberg et al. (2012)**
-
 **Neutens (2022)**
-
 **Mishra & Yadav (2013)**
-
 **Lee et al. (2011)**
 
 
