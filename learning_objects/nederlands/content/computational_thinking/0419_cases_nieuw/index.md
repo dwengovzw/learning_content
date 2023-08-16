@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Basisbegrippen elektriciteit
 
-**Het aanbrengen van de concepten elektrische lading, elektrische stroom, spanning en weerstand.** 
+**Leren van de concepten elektrische lading, elektrische stroom, spanning en weerstand. Omgaan met veiligheidsprincipes.** 
 
 **Doelgroep:** alle leerlingen die les krijgen over de basisbegrippen van elektriciteit
 
