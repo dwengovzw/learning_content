@@ -32,4 +32,6 @@ teacher_exclusive: false
 
 # Enkele begrippen
 
+## Absolute en relatieve frequentie
 
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0361 "Notebook Frequentie")
