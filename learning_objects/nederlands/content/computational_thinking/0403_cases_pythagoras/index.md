@@ -112,7 +112,7 @@ De leerlingen bouwden een applicatie om het rekenwerk te doen bij een oefening v
 Een aanvulling bij deze case zou zijn dat de leerlingen een tweede functie toevoegen `pythagoras2()`, zodat met de applicatie het rekenwerk van beide types gedaan kan worden.
 Vanaf dan kunnen een reeks vraagstukken aan de leerlingen aangeboden worden, waarbij de leerlingen vooral aan patroonherkenning moeten doen en telkens de applicatie gebruiken voor het rekenwerk.
 
-<div class="alert alert-box alert-secondary">
+<div class="alert alert-box alert-info">
 <strong>Opmerking bij de naamgeving van de zelfgedefinieerde functies:</strong><br>
 Het is beter de namen van de functies aan te passen zodat ze ineens ook vertellen wat de functies doen. In plaats van <code>pythagoras1()</code> gebruik je beter <code>bereken_schuinezijde_uit_rechthoekszijden()</code> als naam van de functie. Analoog pas je de naam <code>pythagoras2()</code> aan naar <code>bereken_rechthoekszijde_uit_schuinezijde_en_rechthoekszijde()</code>.<br>
 Als je wilt bereiken dat de functie ook bruikbaar is voor wie niet vertrouwd is met de standaardnotatie <em>a, b</em> en <em>c</em> uit de wiskundeles, dan pas je best ook de parameters in de functies aan. Dus nog betere namen voor de functies zijn <code>bereken_schuinezijde(rechthoekszijde_1, rechthoekszijde_2)</code> en <code>bereken_rechthoekszijde(schuinezijde, rechthoekszijde)</code>.
