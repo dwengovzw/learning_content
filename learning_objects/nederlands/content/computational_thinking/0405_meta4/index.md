@@ -45,6 +45,7 @@ Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moet
 <ul><li>Onderdelen monteren op robotlichaam</li></ul>
 <ul><li>Geheel testen en evalueren</li></ul>
 <ul><li>(Optimaliseren)</li></ul>
+    
 ![schetsontwerp](schetsontwerp.png)
 </decomposition>
 <patternRecognition>
