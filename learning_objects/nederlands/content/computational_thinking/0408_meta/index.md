@@ -49,9 +49,9 @@ Interacties tussen mensen kunnen we op dezelfde manier voorstellen als verbindin
 </patternRecognition>
 <abstraction>
 We stellen de interacties tussen de mensen **abstract** voor door een graaf.
-    ![image](https://user-images.githubusercontent.com/48352335/208770354-903065c9-a265-4816-847e-d2dcc75e193f.png)
+    ![Sociaal netwerk](sociaalnetwerk.png)
 De evoluties in de aantallen vatbare individuen, geïnfecteerden en resistente individuen worden **abstract** voorgesteld door differentiaalvergelijkingen.  
-![image](https://user-images.githubusercontent.com/48352335/208770366-bb891a18-c4a3-4eab-bd38-dbebb1c35b75.png)
+![Stelsel differentiaalvergeljkingen epidemie](differentiaalvergelijkingenepidemie.png)
 </abstraction>
 <algorithms>
 Stappenplan (**algoritme**):
