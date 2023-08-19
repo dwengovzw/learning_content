@@ -68,4 +68,4 @@ Onder het lesthema ['Python in de Wiskundeles'](https://www.dwengo.org/math_with
 Je kan leerlingen na afloop zelfstandig aan het werk zetten met een van de volgende opdrachten:
 * Schrijf een analoge applicatie om de top te berekenen van een parabool.
 * Schrijf een analoge applicatie die geeft of een parabool de x-as snijdt en of de snijpunten links, rechts of aan weerszijden van de oorsprong liggen.
-* Schrijf een applicatie die de grafiek tekent van een parabool er er de top op aanduidt. Dalparbolen vrschijnen in het groen en bergparabolen in het blauw. 
+* Schrijf een applicatie die de grafiek tekent van een parabool er er de top op aanduidt. Dalparbolen verschijnen in het groen en bergparabolen in het blauw. 
