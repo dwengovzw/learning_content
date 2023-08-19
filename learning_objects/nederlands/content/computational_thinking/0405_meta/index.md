@@ -42,6 +42,7 @@ Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moet
 <ul><li>‘Lichaam robot’ ontwerpen (tekening)</li></ul>
 <ul><li>‘Acties robot’ bedenken</li></ul>
 <ul><li>Nodige actuatoren en sensoren</li></ul>
+    
 ![schetsontwerp](schetsontwerp.png)
 </decomposition>
 <patternRecognition>
