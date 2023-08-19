@@ -40,6 +40,7 @@ Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moet
 <ul><li>Nodige actuatoren en sensoren aanpassen</li></ul>
 <ul><li>Tekening aanpassen</li></ul>
 <ul><li>Algoritme aanpassen</li></ul>
+    
 ![schetsontwerp](schetsontwerp.png)
 </decomposition>
 <patternRecognition>
