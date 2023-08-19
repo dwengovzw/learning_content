@@ -45,7 +45,7 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
 </patternRecognition>
 <abstraction>
 Het stratenplan van New York is een **abstractie** van de stad. 
-Het gebouw en het plein worden geabstraheerd tot een puntje op de kaart.  
+Het gebouw en het plein zijn geabstraheerd tot een puntje op de kaart.  
 </abstraction>
 <algorithms>
 
