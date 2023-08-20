@@ -2,8 +2,8 @@
 hruid: stem5_9
 version: 3
 language: nl
-title: "De eindige differentiemethode"
-description: "De eindige differentiemethode"
+title: "De Lesliematrix"
+description: "De Lesliematrix"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,66 +27,167 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
-# De eindige differentiemethode
+# Modelleren van de levensloop van een kever met de Lesliematrix
 
-In de vorige modules maakte je voor het eerst kennis met (groei)modellen. Realistisch of niet, deze werden gekarakteriseerd doordat ze discreet in de tijd waren: de tijd tikte generatie per generatie voorbij. In de praktijk ervaren we tijd echter als continu: tussen vandaag en morgen zitten een oneindig aantal individuele momenten. In deze module bespreken we daarom een belangrijk instrument om met continue functies en hun afgeleiden aan de slag te gaan: **de eindige differentiemethode**.
+In dit leerobject zullen de leerlingen vertrouwd worden met de Lesliematrix, die het mogelijk maakt om het aantal individuen in een specifieke levensfase van een populatie te berekenen. Deze matrix wordt geïntroduceerd aan de hand van de levensvormen van de kever: het eitje, de larve en de volwassen kever. Deze volgorde van levensfases leidt tot een cyclus, die in een graaf gegoten kan worden:
 
-## Het gebruik van functies
+![Graaf](embed/graph.png "https://www.wisfaq.nl/pagina.asp?nummer=1883")
 
-Bij het modelleren gebruik je functies, die een gegeven input omzetten naar een output. Beschouw bijvoorbeeld de functie \\(f\\) met voorschrift \\(f(t) = t sin (t)\\). Deze functie zal een reële waarde \\(t\\) omzetten naar \\(t sin(t)\\), waarbij \\(t\\) een hoek (in radialen) is.
+Op basis van de waarden van de knopen in de graaf, kan de volgende toestand berekend worden. Om dit proces te vereenvoudigen, zullen de leerlingen matrices gebruiken.
 
-### Opdracht 1
+## De Lesliematrix
 
-Evalueer het functievoorschrift voor de waarden \\(t = \frac{\pi}{2}\\), \\(t = \pi\\), \\(t = \frac{3 \pi}{2}\\), \\(t = 2 \pi\\), \\(t = \frac{5 \pi}{2}\\), \\(t = 3 \pi\\), \\(t = \frac{7 \pi}{2}\\), \\(t = 4 \pi\\). Welke waarden bekom je? Kan je voorspellen hoe de functie zal evolueren voor grotere waarden van \\(t\\)?
+Om aan matrixvermenigvuldiging te kunnen doen, wordt de toestand op tijdstip \\(0\\) gelijk gesteld aan een vector \\(v_0\\), die het aantal eitjes, levers en kevers bevat. Het volgende voorbeeld wordt gebruikt:
 
-\\(f(\frac{\pi}{2}) = 1.57\\)
+\\[v_0 = \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix}\\]
 
-\\(f(\pi) = 0\\)
+Om dan de toestand \\(v_{1}\\) op tijdstip \\(1\\) te bepalen, wordt de Lesliematrix \\(L\\) gebruikt. In bovenstaand voorbeeld ziet deze er als volgt uit:
 
-\\(f(\frac{3 \pi}{2}) = -4.71\\)
+\\[L = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix}\\]
 
-\\(f(2 \pi) = 0\\)
+Vertrekkend van de toestand \\(v_0\\), kan \\(v_{1}\\) berekend worden als volgt:
 
-\\(f(\frac{5 \pi}{2}) = 7.85\\)
+\\[v_{1} = L v_0 = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix} = \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix}\\]
 
-\\(f(3 \pi) = 0\\)
+## Matrices in Python
 
-\\(f(\frac{7 \pi}{2}) = -11.00\\)
+Het leerobject voorziet eerst een inleiding tot matrices, waar mee gewerkt kan worden met behulp van de `NumPy`-bibliotheek. Enkele voorbeelden worden gegeven, waarbij gevraagd wordt om enkele eenvoudige berekeningen eerst met de hand te maken. Het volgende wordt uitgelegd:
 
-\\(f(4 \pi) = 0\\)
+- Hoe matrices gedefinieerd kunnen worden
 
-## Het differentiequotiënt
+- Hoe matrixvermenigvuldigen gedaan kunnen worden
 
-Van een afleidbare functie kan je een afgeleide berekenen. Deze afgeleide kan benaderd worden door het differentiequotiënt:
+- Dat Numpy het mogelijk maakt om een matrix rechts te vermenigvuldigen met een rijmatrix, ook al is deze berekening wiskundig gezien niet mogelijk
 
-\\(\\)f'(t) = \frac{\text{d}f(t)}{\text{d}t} \approx \frac{f(t + \Delta t) - f(t)}{\Delta t}\\(\\)
+- Hoe machten van een matrix berekend kunnen worden met behulp van de functie `linalg.matrix_power`
 
-De formule die hier gebruikt wordt om de afgeleide te schatten wordt de **eindige differentiemethode** genoemd. Bij deze methode is \\(\Delta_t\\) bij voorkeur zo klein mogelijk.
+Op basis hiervan worden de nodige berekeningen gedaan omtrent de populatiegrootte van de kevers. Daarnaast wordt onder meer gevraagd om een grafiek te genereren, waarbij de nodige data voorzien moet worden.
 
-### Opdracht 2
+## Sterftetabellen
 
-Bereken op basis van bovenstaande formule een schatting voor het differentiequotiënt van \\(f\\) in \\(t = 2\\), waarbij je \\(\Delta t = 0.1\\) stelt.
+Als tweede voorbeeld wordt er gewerkt met sterfte- en reproductiecijfers bij vrouwen. Hierbij worden vrouwen ingedeeld volgens leeftijd, per periode van tien jaar.
 
-\\(f(2) = 2 sin(2) \approx 1.8186\\)
+Om de kans te berekenen dat een willekeurige vrouw van de ene fase overgaat naar de volgende, wordt gebruik gemaakt van een sterftetabel met officiële gegevens voor België. Van de leerlingen wordt gevraagd om deze te raadplegen, en op basis van de gegevens (per jaar) de kansen op overleven (na tien jaar) te berekenen en deze in te vullen in de Lesliematrix.
 
-\\(f(t + \Delta t) = f(2.1) = 2.1 sin(2.1) \approx 1.8127\\)
+Daarnaast wordt ook fictieve data aangeleverd, die de verwachtingswaarde van het aantal dochters die een vrouw krijgt in een zekere levensfase bevat. Door ook deze in te vullen in de Lesliematrix, kan het aantal vrouwen in een bepaalde fase bepaald worden over perioden van tien jaar heen.
 
-\\(f(t + \Delta t) - f(t) \approx 1.8127 - 1.8186 = -0.0059\\)
+## Wegschrijven naar CSV-bestanden
 
-\\(\frac{f(t + \Delta t) - f(t)}{\Delta t} \approx \frac{-0.0059}{0.1} = -0.059\\)
+Van de leerlingen wordt gevraagd om de berekende gegevens voor de volgende 20 generaties vrouwen weg te schrijven naar een CSV-bestand. Om de data weg te schrijven wordt gebruik gemaakt van de `Pandas`-bibliotheek.
 
-## De afgeleide van een functie
+## Python
 
-Wanneer je kleinere stapjes neemt, neemt de absolute waarde van het verschil \\(f(t + \Delta t) - f(t)\\) typisch af, maar deel je ook door een steeds kleiner getal. Wanneer je de limiet van \\(\Delta t\\) naar 0 beschouwt, convergeert de benadering naar de echte afgeleide \\(f'(t)\\):
+Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
 
-\\[f'(t) = \lim\limits_{\Delta t \to 0} \frac{f(t + \Delta t) - f(t)}{\Delta t}\\]
+- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
 
-In de notebook zullen we de impact van de parameter \\(\Delta t\\) onderzoeken.
+- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
 
-## Interactieve notebook
+- te weten hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden
 
-In de notebook hieronder zal je Python gebruiken om de grafiek van de functie \\(f\\) te plotten, en om te onderzoeken of een kleinere waarde voor \\(\Delta t\\) tot betere schattingen van de afgeleide leidt.
+- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
 
-[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_5.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_5.ipynb)
+- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, matrices te definiëren, matrixvermenigvuldigen en machtsverheffingen uit te voeren, en matrices te hervormen
+
+- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
+
+- te weten hoe de [Pandas-bibliotheek](https://pythonbasics.org/read-csv-with-pandas/) het mogelijk maakt om gegevens uit een dataframe, dat de gegevens in tabelvorm bevat, weg te schrijven naar een CSV-bestand
+
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
+
+## Minimumdoelen
+
+### WD_06 Wiskunde
+
+#### Algemene minimumdoelen
+
+Alle beschouwde richtingen
+
+<span style="color: yellowgreen">MD 06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.</span><br>
+In deze notebook wordt de groei van de populatiegroottes van de kever (in de vorm van eitjes, larven en kevers) uitvoerig besproken, en dit aan de hand van de Lesliematrix.
+
+<span style="color: yellowgreen">MD 06.20 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</span><br>
+In de notebook wordt onder meer gevraagd om te bepalen wanneer het aantal nieuw geboren meisjes voor het eerst een gegeven waarde overschrijdt.<br>
+Wenken uit het leerplan van Katholiek Onderwijs Vlaanderen: *Voorbeelden van heuristieken die aan bod kunnen komen: het gegeven en gevraagde expliciteren, het probleem herformuleren of opdelen in deelproblemen, een schets of tekening maken, bijzondere gevallen onderzoeken, tijdelijk één van de voorwaarden laten vallen, van achter naar voor werken, alle mogelijkheden opschrijven en dan elimineren. Het demathematiseren kan gebeuren via een antwoordzin. Controleren of een antwoord realistisch kan zijn, hoort ook bij deze stap van het oplossingsproces.*
+
+<span style="color: yellowgreen">MD 06.21 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.</span><br>
+De notebook berekent de populatiegrootte na een aantal tijdsstappen, en dit voor de verschillende levensfasen van de kever. Dit laat toe om een grafiek te genereren die het aantal individuen in elke levensfase illustreert.
+
+#### Natuurwetenschappen B+S
+
+Latijn-Wetenschappen; Wetenschappen-Wiskunde
+
+#### Natuurwetenschappen B+S'
+
+Grieks-Wiskunde; Latijn-Wiskunde
+
+<span style="color: yellowgreen">MD 06.46 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.</span><br>
+Dit minimumdoel kan betrokken worden in deze module, op initiatief van de leerkracht.
+
+#### Wiskunde B+S
+
+Bedrijfsondersteunende informaticawetenschappen
+
+<span style="color: yellowgreen">06.05.01 De leerlingen voeren bewerkingen uit met matrices: optelling, scalaire vermenigvuldiging, matrixvermenigvuldiging, machtsverheffing en transpositie.</span><br>
+Vermenigvuldigingen van de Lesliematrix met een kolommatrix wordt toegepast om de toestand in de volgende tijdstap te bepalen, en machtsverheffing van de Lesliematrix wordt toegepast om de toestand verder in de tijd te bepalen.
+
+<span style="color: yellowgreen">06.05.02 De leerlingen gebruiken matrixmodellen om evoluties te beschrijven.</span><br>
+De Lesliematrix wordt gebruikt om de evolutie van het aantal eitjes, larven en kevers doorheen de tijd te beschrijven. De link wordt gelegd met de matrixvoorstelling van een graaf.
+
+#### Wiskunde B+S'
+
+Biotechnologische en chemische STEM-wetenschappen; Informatica- en communicatiewetenschappen; Mechatronica
+
+<span style="color: yellowgreen">06.04.01 De leerlingen voeren bewerkingen uit met matrices: optelling, scalaire vermenigvuldiging, matrixvermenigvuldiging, machtsverheffing en transpositie.</span><br>
+Vermenigvuldigingen van de Lesliematrix met een kolommatrix wordt toegepast om de toestand in de volgende tijdstap te bepalen, en machtsverheffing van de Lesliematrix wordt toegepast om de toestand verder in de tijd te bepalen.
+
+<span style="color: yellowgreen">06.04.02 De leerlingen gebruiken matrixmodellen om evoluties te beschrijven.</span><br>
+De Lesliematrix wordt gebruikt om de evolutie van het aantal eitjes, larven en kevers doorheen de tijd te beschrijven. De link wordt gelegd met de matrixvoorstelling van een graaf.
+
+#### Wiskunde B+S''
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde
+
+<span style="color: yellowgreen">06.08.01 De leerlingen voeren bewerkingen uit met matrices: optelling, scalaire vermenigvuldiging, matrixvermenigvuldiging, machtsverheffing en transpositie.</span><br>
+Vermenigvuldigingen van de Lesliematrix met een kolommatrix wordt toegepast om de toestand in de volgende tijdstap te bepalen, en machtsverheffing van de Lesliematrix wordt toegepast om de toestand verder in de tijd te bepalen.
+
+<span style="color: yellowgreen">06.08.02 De leerlingen gebruiken matrixmodellen om evoluties te beschrijven.</span><br>
+De Lesliematrix wordt gebruikt om de evolutie van het aantal eitjes, larven en kevers doorheen de tijd te beschrijven. De link wordt gelegd met de matrixvoorstelling van een graaf.
+
+### WD_07 Informaticawetenschappen
+
+#### Informaticawetenschappen
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Wetenschappen-Wiskunde
+
+#### Informaticawetenschappen S''
+
+Bedrijfsondersteunende informaticawetenschappen
+
+#### Informatica- en communicatiewetenschappen B+S
+
+Informatica- en communicatiewetenschappen
+
+#### Technologische wetenschappen en Engineering B+S
+
+Technologische wetenschappen en Engineering
+
+#### Bedrijfswetenschappen S (GO!)
+
+Bedrijfswetenschappen (GO!)
+
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+
+#### Biotechnologische en chemische STEM-wetenschappen B+S
+
+Biotechnologische en chemische STEM-wetenschappen
+
+#### Mechatronica B+S
+
+Mechatronica
+
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.

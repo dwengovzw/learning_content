@@ -2,8 +2,8 @@
 hruid: stem5_7
 version: 3
 language: nl
-title: "De Lesliematrix"
-description: "De Lesliematrix"
+title: "De chaos verklaard"
+description: "De chaos verklaard"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,58 +27,111 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
-# Modelleren van de levensloop van een kever met de Lesliematrix
+# De chaos verklaard
 
-In de vorige modules concentreerden we ons op het aantal rupsen van de buxusmot doorheen de tijd, waarbij we een rups als een onveranderende entiteit beschouwden. In dit hoofdstuk zullen we ook rekening houden met de levensfase waarin een insect zich kan bevinden. Daarvoor zullen we de kever beschouwen, die drie verschillende levensfases doorloopt:
+## Transities tussen populatiegroottes
 
-- De kever komt ter wereld in de vorm van een eitje
-- Uit het eitje komt een larve gekropen
-- De larve ontpopt zich tot een kever
+In dit leerobject wordt de schijnbare willekeur voor bepaalde waarden van de groeifactor $a$ onder de loep genomen. Daartoe wordt een nieuwe grafiek geïntroduceerd, die de transities van \\(u_{t - 1}\\) naar \\(u_t\\) weergeeft, samen met de eerste bissector en het evenwichtspunt. Deze grafiek wordt voorzien door middel van een functie, die hergebruikt kan worden om de impact van de parameters \\(u_0\\), \\(a\\) en \\(K\\) te onderzoeken:
 
-![Kever](embed/kever.jpg "https://commons.wikimedia.org/wiki/File:Chrysomelidae_-_Chrysolina_americana.JPG")
+- Wat gebeurt er voor verschillende waarden van \\(a > 1\\)?
 
-Voor een bioloog is het interessant om te weten hoeveel eitjes, larven en kevers er op verschillende momenten in de tijd zijn. In dit hoofdstuk zal je leren dat deze populatiegroottes gemodelleerd kunnen worden met behulp van de **Lesliematrix**.
+- Welke impact heeft de startwaarde \\(u_0=\\)? Wat gebeurt er indien \\(u_0 = K\\)?
 
-## Overgangen tussen levensfases
+Aan de hand van de gegeven opdrachten, zullen de leerlingen vaststellen dat een periode van twee, een periode van vier, of chaotisch gedrag bekomen wordt.
 
-Bij kevers is de overgang van één levensfase naar een andere niet meteen evident te noemen. Zo werd er empirisch vastgesteld dat maar liefst 95% van de eitjes opgegeten wordt of nooit uitkomt. Wanneer er initieel 1000 eitjes zijn, blijven er na een maand dus slechts ongeveer 50 over! De kans dat de larve vervolgens een kever wordt is een stuk groter: maar liefst 75% van de larven ontpopt zich tot een kever. Eens ontpopt, legt de kever in een maand tijd ongeveer 100 eitjes.
+## Het bifurcatiediagram
 
-Deze volgorde van levensfases leidt tot een cyclus. Deze cyclus kan in een graag gegoten worden, die de overgang tussen toestanden op een zeker moment in de tijd beschrijft:
+De code om een bifurcatiediagram te genereren wordt voorzien, waarbij de logistische vergelijking toegepast wordt voor een groot aantal stappen, voor alle waarden van \\(a\\) van \\(0\\) tot \\(4\\) met tussenstappen van \\(0{,}01\\). Typisch worden alle gehele waarden van 1 tot en met \\(K - 1\\) geplot, maar om rekening te houden met grote waarden van \\(K\\) (die de uitvoeringstijd significant beïnvloeden) wordt ervoor gekozen om 100 willekeurige getallen tussen \\(1\\) en \\(K - 1\\) te trekken met herhaling. Uit het resultaat kan het volgende geconcludeerd worden:
 
-![Graaf](embed/graph.png "https://www.wisfaq.nl/pagina.asp?nummer=1883")
+- Voor $0 < a < 1$ is er geen groei, de populatie sterft uit;
 
-Op basis van de waarden van de knopen in de graaf, kan de volgende toestand berekend worden. Om dit proces te vereenvoudigen, zal je matrices gebruiken.
+- Voor $1 \le a < 3$ is er convergentie naar $K$;
 
-## De Lesliematrix
+- Voor $3 \le a < 4$ stel je eerst een splitsing (een bifurcatie) in twee vast, die duidt op een periodieke reeks met periode twee. Voor hogere waarden stel je een periodieke reeks van vier vast, om uiteindelijk naar een chaotisch regime over te gaan.
 
-Om aan matrixvermenigvuldiging te kunnen doen, stel je de toestand op tijdstip \\(0\\) gelijk aan een vector \\(v_0\\), die het aantal eitjes, levers en kevers bevat. Beschouw bijvoorbeeld:
+Momenteel wordt de code voor deze grafiek gegeven, met de vraag aan de leerlingen om op basis hiervan een tweede grafiek te maken met verschillende eigenschappen. De leerkracht kan er ook voor kiezen om de voorbeeldcode niet te geven, maar hier een (programmeer)opdracht van te maken.
 
-\\[v_0 = \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix}\\]
+## Wegschrijven van grafieken
 
-Om dan de toestand \\(v_{1}\\) op tijdstip \\(1\\) te bepalen, gebruik je de **Lesliematrix** \\(L\\) die de populatiegroei beschrijft. In bovenstaand voorbeeld ziet deze er als volgt uit:
+Van de leerlingen wordt gevraagd om een gegenereerd bifurcatiediagram weg te schrijven naar een PDF-bestand. Hiervoor zal gebruik gemaakt worden van de `Matplotlib`-bibliotheek.
 
-\\[L = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix}\\]
+## Python
 
-Vertrek je van de toestand \\(v_0\\), dan kan \\(v_{1}\\) berekend worden als volgt:
+Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
 
-\\[v_{1} = L v_0 = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix} = \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix}\\]
+- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
 
-Ga je een stap verder, dan vind je:
+- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
 
-\\[v_{2} = L v_{1} = \begin{bmatrix} 0 & 0 & 100 \\\ 0.05 & 0 & 0 \\\ 0 & 0.75 & 0 \end{bmatrix} \begin{bmatrix} 6000 \\\ 50 \\\ 75 \end{bmatrix} = \begin{bmatrix} 7500 \\\ 300 \\\ 37.5 \end{bmatrix}\\]
+- te weten hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden
 
-Bemerk dat deze laatste uitdrukking ook als volgt geschreven kan worden:
+- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
 
-\\[v_{2} = L v_{1} = L L v_{0} = L^2 v_{0}\\]
+- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en om willekeurige getallen in een gegeven bereik te genereren
 
-Om het aantal eitjes, larven en kevers in tijdstap \\(t\\) te berekenen, volstaat het dus om de \\(t^\text{de}\\) macht van de matrix \\(L\\) te berekenen, en deze te vermenigvuldigen met \\(v_0\\):
+- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren, en deze weg te schrijven naar een lokaal bestand
 
-\\[v_{t} = L^t v_{0}\\]
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
 
-## Interactieve notebook
+## Minimumdoelen
 
-Nu ga je aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om matrixberekeningen uit te voeren en de populatiegroei grafisch te illustreren.
+### WD_06 Wiskunde
 
-[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_4.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_4.ipynb)
+#### Algemene minimumdoelen
+
+Alle beschouwde richtingen
+
+<span style="color: yellowgreen">MD 06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.</span><br>
+In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoerig besproken, en dit aan de hand van een logistisch groeimodel.
+
+<span style="color: yellowgreen">MD 06.21 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.</span><br>
+De notebook berekent de populatiegrootte na een honderdtal generaties, en dit voor verschillende waarden van de groeifactor \\(a\\) en startwaarden \\(u\\). Dit laat toe om een bifurcatiediagram te genereren, die de impact van de groeifactor op de finale populatiegrootte illustreert.
+
+#### Natuurwetenschappen B+S
+
+Latijn-Wetenschappen; Wetenschappen-Wiskunde
+
+#### Natuurwetenschappen B+S'
+
+Grieks-Wiskunde; Latijn-Wiskunde
+
+<span style="color: yellowgreen">MD 06.46 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.</span><br>
+Dit minimumdoel kan betrokken worden in deze module, op initiatief van de leerkracht.
+
+### WD_07 Informaticawetenschappen
+
+#### Informaticawetenschappen
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Wetenschappen-Wiskunde
+
+#### Informaticawetenschappen S''
+
+Bedrijfsondersteunende informaticawetenschappen
+
+#### Informatica- en communicatiewetenschappen B+S
+
+Informatica- en communicatiewetenschappen
+
+#### Technologische wetenschappen en Engineering B+S
+
+Technologische wetenschappen en Engineering
+
+#### Bedrijfswetenschappen S (GO!)
+
+Bedrijfswetenschappen (GO!)
+
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+
+#### Biotechnologische en chemische STEM-wetenschappen B+S
+
+Biotechnologische en chemische STEM-wetenschappen
+
+#### Mechatronica B+S
+
+Mechatronica
+
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
