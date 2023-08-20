@@ -71,7 +71,9 @@ Op basis van recent onderzoek wordt aangeraden om leerlingen in paren van twee t
 
 - De leerkracht voorziet een tweede notebook met extra oefeningen, waarbij een nieuw probleem gebaseerd op de exponentiële groei vermeld wordt. Reeds bestaande opdrachten kunnen hergebruikt worden, specifiek toegepast op het nieuwe probleem. Leerlingen kunnen hierbij eventueel gebruik maken van de code die ze eerder implementeerden; een programmeur zal immers hetzelfde doen.
 
-De leerkracht kan bij de evaluatie gebruik maken van een rubric, die op voorhand gedeeld wordt met de leerlingen. Zo is het voor hen meteen duidelijk welke zaken belangrijk zijn voor hun leerproces. Ook voor de leerkracht is dit een handig hulpmiddel, dat kan helpen om het evaluatieproces efficiënt en transparant te doen verlopen. Een voorbeeld van een rubric, die de eerste drie leerobjecten omvat, kan [hier](TODO) teruggevonden worden.
+De leerkracht kan bij de evaluatie gebruik maken van een rubric, die op voorhand gedeeld wordt met de leerlingen. Zo is het voor hen meteen duidelijk welke zaken belangrijk zijn voor hun leerproces. Ook voor de leerkracht is dit een handig hulpmiddel, dat kan helpen om het evaluatieproces efficiënt en transparant te doen verlopen. Een voorbeeld van een rubric, die de eerste drie leerobjecten omvat, kan hieronder teruggevonden worden.
+
+![Rubric](embed/rubric.png "Rubric")
 
 ## Contact
 
