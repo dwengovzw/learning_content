@@ -27,171 +27,48 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 # Modelleren van een rupsenuitbraak volgens de exponentiële groei
 
-## Situatie afhankelijk van de groeifactor \\(a\\)
+Vele insecten willen zo veel mogelijk nakomelingen voortbrengen. In een generatie verpoppen buxusmotrupsen zich tot een buxusmotten, die op hun beurt nieuwe eitjes leggen op een haag. Uit deze eitjes kruipen nieuwe rupsen en de cyclus herbegint. Het leven van een insect is echter niet zonder gevaar. Op elk moment in de cyclus kunnen eitjes, rupsen, poppen en motten sterven door predatie van vogels, pesticiden, uithongering of andere gevaren. Gemiddeld gezien kan je echter aannemen dat elke rups aanleiding geeft tot een bepaald aantal nieuwe rupsen in de volgende generatie. Deze aanname vormt de basis van de **exponentiële groei**.
 
-Het getal \\(a\\) stelt het gemiddeld aantal nakomelingen per rups voor. We werken met gemiddelden, dus kommagetallen zijn toegestaan, maar negatieve getallen houden geen steek.
+## Exponentiële groei
 
-- Als \\(a < 1\\), dan brengt elke rups minder dan één rups voort per generatie. In elke tijdstap wordt de populatie kleiner en kleiner tot ze uiteindelijk uitsterft. Je hebt dan te maken met een exponentiële **afname**.
-- Als \\(a > 1\\), dan zal elke rups aanleiding geven tot meer dan één nieuwe rups in de volgende generatie. De populatie zal groeien. Je hebt dan te maken met een exponentiële **toename**.
-- In het randgeval waarbij \\(a = 1\\), is de populatiegrootte **stabiel**: de geboorte van nieuwe rupsen compenseert de sterfte.
+Wanneer je mag aannemen dat een rups gemiddeld gezien aanleiding geeft tot \\(a > 0\\) nieuwe rupsen, bekom je de volgende uitdrukking:
 
-In het geval van de rups van de buxusmot is \\(a > 1\\), aangezien deze rupsen een plaag vormen.
+\\[u_t = a \cdot u_{t - 1}\\]
 
-Het voorschrift is het recursieve voorschrift van een meetkundige rij. Het getal \\(a\\) is niets anders dan het equivalent van de **groeifactor** bij een exponentiële functie (continu model in plaats van discreet). Je hebt dus te maken met **exponentiële groei**. 
+Deze vergelijking is niets anders dan het recursieve voorschrift van een rij, waarbij je op basis van een gegeven element eenvoudig het volgende element kan bepalen door te vermenigvuldigen met \\(a\\). Deze parameter \\(a\\) wordt de **groeifactor** genoemd.
 
-## De parameters in het wiskundig model
+### Opdracht 1
 
-In de notebook wordt de grafiek geplot van een meetkundige rij aan de hand van het algemene voorschrift. De index \\(t\\) speelt hierbij de rol van **veranderlijke**. Voor bepaalde waarden van \\(t\\) wordt de populatiegrootte berekend en teruggegeven.
+- Beschrijf de situatie naargelang de waarde van \\(a\\). Wat gebeurt er bijvoorbeeld indien \\(a < 1\\)?
+- De rupsen van de buxusmot vormen een plaag. Welke waarden van \\(a\\) passen in deze situatie?
+- Leg uit waarom je hier te maken hebt met **exponentiële groei**.
 
-De meetkundige rij wordt bepaald door het algemene voorschrift met daarin twee **parameters**: de groeifactor \\(a\\) en de beginwaarde \\(u_0\\). Door de parameters aan te passen kan met het model geëxperimenteerd worden. De leerlingen kunnen het effect van de parameters op het model onderzoeken:
+## Exponentieel model
 
-- Wat is het effect van een grotere beginwaarde?
-- Wat is het effect van een grotere groeifactor?
-- Wat is het effect van een groeifactor kleiner dan 1?
+Bij een groeifactor \\(a = 1,6\\) leidt elke rups gemiddeld tot iets meer dan anderhalve nieuwe rupsen per generatie. Beschouw een bescheiden beginpopulatie van vijf rupsen. Stel aan de hand van de volgende opdracht een wiskundig model op voor de evolutie van populatiegrootte.
 
-## Draagkracht
+### Opdracht 2
 
-In de notebook wordt de grafiek getekend van een meetkundige rij die de evolutie van de rupsenpopulatiegrootte modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.**
+- Stel \\(a = 1,6\\) en \\(u_0 = 5\\). Bepaal dan het aantal rupsen op \\(t = 1\\), \\(t = 2\\), \\(t = 3\\) en \\(t = 4\\).
+- Stel het algemene voorschrift op voor de rij met deze exponentiële groei.
 
-De plaag groeit erg snel, wat verontrustend is. Als je nog verder in de tijd kijkt, stel je het volgende vast: de populatiegrootte groeit zonder enige belemmering verder aan; na 70 generaties zijn er meer dan 971 000 000 000 000 rupsen. Als je aanneemt dat één rups ongeveer 3 gram weegt, zijn er op dit moment bijna 3 miljard ton aan rupsen, het equivalent van 2 miljard nijlpaarden. Er zijn niet genoeg buxushagen in de wereld om dergelijke populaties te ondersteunen!
+Het algemene voorschrift stelt nu het exponentiële groeimodel voor!
 
-In de praktijk heeft elk ecosystem een bepaalde **draagkracht**, de hoeveelheden voedsel, water en ruimte die voorhanden zijn om een bepaalde populatie te ondersteunen. Onze rupsenpopulatie is gelimiteerd door het aantal planten dat beschikbaar is als voedsel. De draagkracht wordt vaak voorgesteld door de letter \\(K\\). Een waarde \\(K = 1000 \\) zou betekenen dat een tuin genoeg buxussen heeft om 1000 rupsen te voeden, maar niet meer.
+## Interactieve notebook
 
-In het volgende onderdeel wordt het model aangepast om rekening te houden met de draagkracht.
+Nu ga je aan de slag met een interactieve online notebook. In de notebook zet je Python in om te rekenen en om het model grafisch voor te stellen.
 
-## Python
+[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_1.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_1.ipynb)
 
-Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
+## De insecten voorbij
 
-- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
+Bekijk nu volgende grafiek, die het aantal transistoren op een computerchip toont in functie van de tijd. Stel vast dat er een logaritmische as gebruikt wordt, en dat je dus wel degelijk te maken hebt met een exponentiële groei!
 
-- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
+![Moore](embed/moore.png "https://commons.wikimedia.org/wiki/File:Moore%27s_Law_Transistor_Count_1970-2020.png")<br/>
+Bron: [https://commons.wikimedia.org/wiki/File:Moore%27s_Law_Transistor_Count_1970-2020.png](https://commons.wikimedia.org/wiki/File:Moore%27s_Law_Transistor_Count_1970-2020.png)
 
-- te weten hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden
-
-- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
-
-- te weten hoe [while-loops](https://www.w3schools.com/python/python_while_loops.asp) werken
-
-- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken
-
-- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
-
-Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
-
-## Richtingen
-
-Deze module kan ingezet worden in de volgende vakken uit de derde graad doorstroomfinaliteit:
-
-- Economie-Wiskunde
-- Grieks-Wiskunde
-- Latijn-Wiskunde
-- Technologische wetenschappen en Engineering
-- Wetenschappen-Wiskunde
-- Biotechnologische en chemische STEM-wetenschappen
-- Informatica- en communicatiewetenschappen
-- Mechatronica
-- Bedrijfsondersteunende informaticawetenschappen
-- Bedrijfswetenschappen (GO!)
-
-## Minimumdoelen
-
-### WD_06 Wiskunde
-
-#### Wiskunde B+S
-
-Bedrijfsondersteunende informaticawetenschappen
-
-#### Wiskunde B+S'
-
-Biotechnologische en chemische STEM-wetenschappen; Informatica- en communicatiewetenschappen; Mechatronica
-
-<span style="color: yellowgreen">MD 06.06 De leerlingen gebruiken modellen voor exponentiële groei.</span><br>
-In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoerig besproken, en dit aan de hand van een exponentieel groeimodel.<br>
-Duiding uit het leerplan van Katholiek Onderwijs Vlaanderen: *Dit doel omvat enerzijds het modelleren (opstellen van het voorschrift vanuit een verwoording) en anderzijds het oplossen van vragen aan de hand van het model, bijvoorbeeld de waarde bepalen bij een gegeven tijdstip of het tijdstip bij een gegeven waarde bepalen. Alhoewel "exponentiële groei" een toename suggereert, kan je ook dalende processen beschrijven.*
-
-<span style="color: yellowgreen">MD 06.12 De leerlingen gebruiken rekenkundige en meetkundige rijen om patronen te beschrijven.</span><br>
-Het gaat hier om een meetkundige rij, waarbij initieel het recursieve voorschrift wordt gehanteerd. Voor het model, het voorschrift van de exponentiële functie, wordt de formule voor de algemene term gebruikt.
-
-<span style="color: yellowgreen">MD 06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.</span><br>
-In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoerig besproken, en dit aan de hand van een exponentieel groeimodel.
-
-<span style="color: yellowgreen">MD 06.20 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</span><br>
-In de notebook wordt er onder meer gevraagd om te bepalen wanneer het aantal buxusmotten voor het eerst een gegeven waarde overschrijdt.<br>
-Wenken uit het leerplan van Katholiek Onderwijs Vlaanderen: *Voorbeelden van heuristieken die aan bod kunnen komen: het gegeven en gevraagde expliciteren, het probleem herformuleren of opdelen in deelproblemen, een schets of tekening maken, bijzondere gevallen onderzoeken, tijdelijk één van de voorwaarden laten vallen, van achter naar voor werken, alle mogelijkheden opschrijven en dan elimineren. Het demathematiseren kan gebeuren via een antwoordzin. Controleren of een antwoord realistisch kan zijn, hoort ook bij deze stap van het oplossingsproces.*
-
-<span style="color: yellowgreen">MD 06.21 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.</span><br>
-De notebook berekent de populatiegrootte op verschillende momenten in de tijd, en laat toe om grafieken te genereren die de groei van de populatie illustreert.
-
-#### Wiskunde B+S''
-
-Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde
-
-<span style="color: yellowgreen">Alle voorgaande minimumdoelen</span>
-
-<span style="color: yellowgreen">SMD 06.08.07 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
-In de notebook worden verschillende grafieken gegenereerd die de populatiegrootte doorheen de tijd tonen. De leerlingen stellen hierbij vast dat de populatiegrootte steeds verder blijft toenemen indien \\(a > 1\\). Ook wordt uitgelegd hoe de logaritmische as gebruikt kan worden in een grafiek.
-
-<span style="color: yellowgreen">SMD 06.08.13 De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.</span><br>
-<span style="color: red">Komt dit wel expliciet aan bod? Van de leerlingen wordt enkel gevraagd om de populatiegrootte op een gegeven moment in de tijd te berekenen, en aan de hand van een while-loop te controleren wanneer de populatiegrootte voor het eerst een gegeven waarde zal overschrijden.</span>
-
-#### Natuurwetenschappen B+S
-
-Latijn-Wetenschappen; Wetenschappen-Wiskunde
-
-#### Natuurwetenschappen B+S'
-
-Grieks-Wiskunde; Latijn-Wiskunde
-
-<span style="color: yellowgreen">MD 06.46 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.</span><br>
-Dit minimumdoel kan betrokken worden in deze module, op initiatief van de leerkracht.
-
-### WD_07 Informaticawetenschappen
-
-#### Informaticawetenschappen
-
-Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Wetenschappen-Wiskunde
-
-#### Informaticawetenschappen S''
-
-Bedrijfsondersteunende informaticawetenschappen
-
-#### Informatica- en communicatiewetenschappen B+S
-
-Informatica- en communicatiewetenschappen
-
-#### Technologische wetenschappen en Engineering B+S
-
-Technologische wetenschappen en Engineering
-
-#### Bedrijfswetenschappen S (GO!)
-
-Bedrijfswetenschappen (GO!)
-
-<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
-
-#### Biotechnologische en chemische STEM-wetenschappen B+S
-
-Biotechnologische en chemische STEM-wetenschappen
-
-#### Mechatronica B+S
-
-Mechatronica
-
-<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
-
-## Evaluatie
-
-De interactieve notebook voorziet heel wat opdrachten voor de leerlingen, waarbij zij bovenstaande minimumdoelen nastreven. Om te evalueren of de leerlingen de minimumdoelen bereikt hebben, zijn er twee opties:
-
-- De leerkracht beperkt zich tot deze notebook, en vraagt de leerlingen om de notebooks (en handgeschreven oplossingen) in te dienen
-
-- De leerkracht voorziet een tweede notebook met extra oefeningen, waarbij een nieuw probleem gebaseerd op de exponentiële groei vermeld wordt
-
-In dit laatste geval kunnen de reeds bestaande opdrachten hergebruikt worden, specifiek toegepast op het nieuwe probleem. Het wordt aangeraden om leerlingen gebruik te laten maken van de code die ze eerder zelf implementeerden; een programmeur zal immers hetzelfde doen.
+Verschillende computerwetenschappers stellen dat de wet van Moore zich niet kan blijven doorzetten, omdat ontwikkelaars vroeg of laat op fysische grenzen zullen stuiten. **Oneindige groei is vrijwel altijd onmogelijk: ooit moet je op de limieten van het systeem botsen.** Toch vormt een exponentieel model vaak een uitstekende beschrijving van het begin van de groei.
