@@ -2,8 +2,8 @@
 hruid: org-dwengo-jommeke-zelf-aan-de-slag
 version: 1
 language: nl
-title: "Zelf aan de slag"
-description: "Is de mens accurater dan een AI-systeem?"
+title: "Jommeke inkleuren"
+description: "Zwart-wit Jommeke automatisch inkleuren"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
 estimated_time: 5
@@ -47,4 +47,6 @@ In het bovenstaande voorbeeld is duidelijk dat het algoritme in staat is om het 
 ---
 #### Bronnen
 
-[1] Simon Schellaert. (2019). [Automatic Colorization of Comics through Deep Learning.](https://simonschellaert.com/img/projects/thesis/paper.pdf)
+[1] Simon Schellaert. (2019). [Automatic Colorization of Comics through Deep Learning.](https://simonschellaert.com/img/projects/thesis/paper.pdf).
+
+Afbeeldingen © Standaard Uitgeverij 2022.
