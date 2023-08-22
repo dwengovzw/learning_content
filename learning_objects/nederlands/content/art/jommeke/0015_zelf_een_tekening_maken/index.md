@@ -2,7 +2,7 @@
 hruid: org-dwengo-jommeke-zelf-tekening-maken
 version: 1
 language: nl
-title: "Test de AI"
+title: "Test het AI-systeem"
 description: "Is de mens accurater dan een AI-systeem?"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
