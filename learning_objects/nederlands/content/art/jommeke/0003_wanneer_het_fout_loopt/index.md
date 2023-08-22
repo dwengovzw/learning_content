@@ -48,6 +48,10 @@ Fake news
 
 AI-systemen maken het ook mogelijk om gemakkelijk nieuwsartikels te schrijven. Deze artikels zijn echter vaak niet gebaseerd op echte feiten. Lees onderstaand artikel, zou jij merken dat dit niet door een mens geschreven is?
 
-![](@learning-object/org-dwengo-jommeke-fake-review/nl/1)
+![image](https://github.com/dwengovzw/learning_content/assets/48352335/f8ddd920-cfba-4c2c-9300-5d06f1187aaf)
+
+(Gegenereerd met ChatGPTFree Research Preview van OpenAI. ChatGPT August 3 Version.)
+
+
 
 
