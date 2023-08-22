@@ -40,10 +40,15 @@ skos_concepts: [
 
 ### Uit de krant
 
+Bekijk de twee krantenkoppen:<br>
+[Eerste krantenkop](https://www.nieuwsblad.be/cnt/dmf20230328_99679587)<br>
+[Tweede krantenkop](https://www.hln.be/het-leukste-van-het-web/paus-in-opvallende-witte-rapperjas-gaat-viraal-maar-is-de-foto-wel-echt~aa454b78/)<br>
 - Wat roepen deze krantenkoppen bij je op? 
 - Vind je dit spannend? Of maakt het je een beetje bang?
 
 ### Opdracht
 
-- Zoek op de gegeven websites naar toepassingen van kunstmatige intelligentie die jou aanspreken.
-- Herneem deze vraag: Heb jij ook al kunstmatige intelligentie hebt gebruikt?
+Bekijk: [voorbeelden van kunstmatige intelligentie](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=org-dwengo-jommeke-voorbeelden-ai-systemen&version=1&language=nl).
+
+- Welke van de getoonde toepassingen van kunstmatige intelligentie spreken jou aan?
+- Herneem deze vraag: Heb jij ook al kunstmatige intelligentie gebruikt?
