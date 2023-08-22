@@ -47,4 +47,4 @@ In het bovenstaande voorbeeld is duidelijk dat het algoritme in staat is om het 
 ---
 #### Bronnen
 
-[1] [Thesis Simon Schellaert](https://simonschellaert.com/img/projects/thesis/paper.pdf)
+[1] Simon Schellaert. (2019). [Automatic Colorization of Comics through Deep Learning.](https://simonschellaert.com/img/projects/thesis/paper.pdf)
