@@ -65,7 +65,7 @@ TikTok maakt gebruik van AI-systemen om te voorspellen welke filmpjes jij leuk z
 Je maakte vast al gebruik van de zoekbalk in Google. Kunstmatige intelligentie zorgt ervoor dat je zoekopdracht betere resultaten oplevert.<br>
 Op reis kan je de hulp inroepen van Google Translate als er een taalprobleem opduikt, en de toepassing is nog gebruiksvriendelijker met Google Lens.
 
-![Snapchat](ghostlogo.png)
+![Snapchat](embed/ghostlogo.png)
 
 #### Filters op Snapchat
 
