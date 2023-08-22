@@ -43,4 +43,8 @@ Oefening
 
 
  **Uitleg**:
-  Het gaat hier om 3 foto’s. De eerste foto is de originele afbeelding. De tweede foto werd gegenereerd door een AI-systeem dat geleerd heeft om zwart-wit foto's in te kleuren. Eerst werden dus de kleuren uit het origineel weggehaald en dan werd gevraagd aan het algoritme om de zwart-wit foto in te kleuren. De laatste afbeelding werd gegenereerd door in Photoshop de saturatie van de originele afbeelding te verminderen.
+  Het gaat hier om 3 foto’s. <br>
+  - De eerste foto is de originele afbeelding.
+  - De tweede foto werd gegenereerd door een AI-systeem dat geleerd heeft om zwart-wit foto's in te kleuren. Eerst werden dus de kleuren uit het origineel weggehaald en dan werd gevraagd aan het algoritme om de zwart-wit foto in te kleuren.<br>
+  Foto met dank aan Gwen Katz ([Twitterpost](https://twitter.com/gwenckatz/status/1381653160482140162?s=46&t=N9ayZ_B8mO6rNT1MsiNkgA)).
+  - De laatste afbeelding werd gegenereerd door in Photoshop de saturatie van de originele afbeelding te verminderen.
