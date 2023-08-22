@@ -54,3 +54,24 @@ Shazam heeft geleerd om op basis van korte stukjes opgenomen audio te voorspelle
 #### TikTok
 
 TikTok maakt gebruik van AI-systemen om te voorspellen welke filmpjes jij leuk zal vinden. Op die manier zorgen ze ervoor dat je blijft kijken.
+
+#### Beautyproducten virtueel uittesten
+
+[Kies een kleur van naggellak](https://us.manucurist.com/pages/virtual-try-on)
+
+
+#### Google 
+
+Je maakte vast al gebruik van de zoekbalk in Google. Kunstmatige intelligentie zorgt ervoor dat je zoekopdracht betere resultaten oplevert.<br>
+Op reis kan je de hulp inroepen van Google Translate als er een taalprobleem opduikt, en de toepassing is nog gebruiksvriendelijker met Google Lens.
+
+![Snapchat](ghostlogo.png)
+
+#### Filters op Snapchat
+
+
+#### My AI op SnapChat
+
+Op Snapchat kan je chatten met de chatbot My AI, die gebaseerd is op de technologie achter ChatGPT.
+
+
