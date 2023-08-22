@@ -70,7 +70,7 @@ Op reis kan je de hulp inroepen van Google Translate als er een taalprobleem opd
 #### Filters op Snapchat
 
 
-#### My AI op SnapChat
+#### My AI op Snapchat
 
 Op Snapchat kan je chatten met de chatbot My AI, die gebaseerd is op de technologie achter ChatGPT.
 
