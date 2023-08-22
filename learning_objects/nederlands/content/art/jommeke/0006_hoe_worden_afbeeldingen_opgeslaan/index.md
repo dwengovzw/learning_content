@@ -26,8 +26,8 @@ Een foto of digitaal beeld bestaat uit een eindig aantal pixels. Het woord 'pixe
 
 Bekijk de afbeelding van Jommeke. Je kan inzoomen op een bepaald deel van de foto. 
 
-![](embed/banner_jommeke_2.png) 
-
+![](embed/banner_jommeke_2.png) <br>
+<sub>© Standaard Uitgeverij 2022</sub>
 Als je dit genoeg doet dan kan je de verschillende pixels onderscheiden. 
 
 ![](embed/banner_jommeke_22.png) 
@@ -35,4 +35,4 @@ Als je dit genoeg doet dan kan je de verschillende pixels onderscheiden.
 Om de kleuren van een afbeelding aan te passen, moet je dus de kleur van de pixels aanpassen. 
 
 ---
-© Standaard Uitgeverij 2022 
+Afbeeldingen © Standaard Uitgeverij 2022 
