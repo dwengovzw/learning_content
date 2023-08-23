@@ -33,3 +33,7 @@ teacher_exclusive: true
 # Inspiratievoorbeelden
 
 
+
+## Infographic Hoe evalueer ik grafische code?
+
+![infographic](https://github.com/dwengovzw/learning_content/assets/48352335/3d33c7d2-9ae6-4cd4-ba07-01532e64c5e7)
