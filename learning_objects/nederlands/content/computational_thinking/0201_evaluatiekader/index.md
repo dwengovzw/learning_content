@@ -2,8 +2,8 @@
 hruid: ct_evaluatiekader1
 version: 3
 language: nl
-title: "Evaluatiekader"
-description: "Evaluatiekader"
+title: "Evaluatievormen"
+description: "Evaluatievormen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,14 +30,20 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Evaluatiekader
-
-## Tussentitel
-
-### Subtitel
+# Evaluatievormen
 
 
 
-## .............
+### Veel voorkomende evaluatievormen
 
-## ...........
+### Werkstuk in informaticaonderwijs
+
+### Observatie in informaticaonderwijs
+
+### Interview in informaticaonderwijs
+
+### Portfolio in informaticaonderwijs
+
+### Zelfevaluatie in informaticaonderwijs
+
+### Peerfeedback in informaticaonderwijs
