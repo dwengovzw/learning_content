@@ -32,10 +32,16 @@ teacher_exclusive: true
 
 # Evaluatiekader
 
-Computationeel denken kan in alle reguliere lessen aan bod komen. Telkens men met een probleem geconfronteerd wordt, kan computationeel denken een houvast bieden bij het zoeken naar een oplossing. Afhankelijk van de aard van het probleem zullen bepaalde concepten en handelingen van computationeel denken al dan niet aan bod komen. <br>
+Computationeel denken kan in alle reguliere lessen aan bod komen. Telkens de leerlingen met een probleem geconfronteerd worden, kan computationeel denken een houvast bieden bij het zoeken naar een oplossing. Afhankelijk van de aard van het probleem zullen bepaalde concepten en handelingen van computationeel denken al dan niet aan bod komen. <br>
 Afhankelijk van de duur en het belang van een opdracht kunnen er bv. meer of minder evaluatiemomenten zijn, en kan er een voorkeur zijn voor bepaalde evaluatievormen.  
 
 ## Computationeel denken bij de aanpak van een probleem
+
+Computationeel denken steunt op vier basisconcepten: decompositie, patroonherkenning, abstractie en algoritmisch denken. 
+
+(https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct_voorbeelden1&version=3&language=nl)
+
+Ons [schema met de vier basisconcepten](https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct_voorbeelden8&version=3&language=nl) biedt een houvast bij het aanpakken van een probleem. 
 
 ![CD bij aanpak probleem](embed/schemabijevaluatie.png "CD bij aanpak probleem")
 
