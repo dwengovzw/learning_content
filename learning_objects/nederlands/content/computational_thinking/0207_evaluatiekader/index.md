@@ -57,7 +57,7 @@ Het sjabloon omvat vier elementen:<br>
   
 Bij deze elementen zijn er telkens vier mogelijkheden, genummerd van 1 t.e.m. 4 (dit houdt geen gradatie in).
 
-![Evaluatiesjabloon](evaluatiekader.png)
+![Evaluatiesjabloon](embed/evaluatiekader.png)
 
 ||Complexiteit|Evaluatiemomenten|Harde/zachte evaluatie|wie evalueert?|
 |--|------------|-----------------|----------------------|--------------|
