@@ -121,7 +121,7 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 |De leerlingen analyseren en evalueren data en informatie, en leggen uit dat data van slechte kwaliteit leidt tot onbetrouwbare resultaten en onnauwkeurige conclusies.<sup>1</sup>| 
 |De leerlingen redeneren logisch om de uitvoer van een algoritme / programma te voorspellen.<sup>1</sup>|
 |De leerlingen kunnen semantische fouten in een programma opsporen en verhelpen.<sup>1</sup>|
-|De leerlingen stellen data voor in een digitale vorm.<sup>1</sup>||
+|De leerlingen stellen data voor in een digitale vorm.<sup>1</sup>|
 
 
 ----------------
@@ -131,4 +131,4 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 -----------------
 
 
-  
+![Projectschema](embed/projectschema.png)
