@@ -53,9 +53,11 @@ Ons [schema met de vier basisconcepten](https://www.dwengo.org/backend/api/learn
 
 ## Mogelijke leerdoelen van computationeel denken
 
-Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van computationeel denken er aan bod komen in een bepaalde lessenreeks, waarop je zal kiezen welke je zal evalueren en hoe. 
+Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van computationeel denken er aan bod komen in een bepaalde lessenreeks, waarop je zal kiezen welke je zal evalueren en hoe. <br>
+**Bij het oplossen van een probleem zal een basisconcept niet geïsoleerd voorkomen.** Dus meerdere doelen die met meerdere basisconcepten overeenkomen kunnen geëvalueerd worden. 
 
-### Mogelijke leerdoelen bij decompositie 
+
+### Mogelijke leerdoelen betreffende decompositie 
 
 |Decompositie|
 |--------------|
@@ -66,6 +68,8 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 |De leerlingen integreren de deeloplossingen tot een coherent geheel en lossen hiermee het probleem op.<sup>1</sup>| 
 |De leerlingen structureren data in tabellen om het meer bruikbaar te maken.<sup>1</sup>|
 |De leerlingen bewaren bestanden, daarbij gebruikmakend van geschikte namen voor bestanden en mappen.<sup>1</sup>| 
+
+### Mogelijke leerdoelen betreffende patroonherkenning
 
 |Patroonherkenning|
 |--------------|
@@ -84,6 +88,8 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 |De leerlingen zien in dat een digitale voorstelling meerdere vormen kan aannemen.<sup>1</sup>|
 |De leerlingen bieden data aan de computer aan in de juiste digitale voorstelling.<sup>1</sup>|
 
+### Mogelijke leerdoelen betreffende abstractie
+
 |Abstractie|
 |--------------|
 |De leerlingen passen abstractie toe door de essentiële stappen voor het oplossen van een probleem te bepalen.|
@@ -100,6 +106,8 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 |De leerlingen gebruiken een functie om de details van een deeloplossing te verbergen.<sup>1</sup>|
 |De leerlingen definiëren een functie om de details van een deeloplossing te verbergen.<sup>1</sup>|
 |De leerlingen kiezen het juiste datatype voor een representatie.<sup>1</sup>|
+
+### Mogelijke leerdoelen betreffende algoritmisch denken 
 
 |Algoritmisch denken|
 |--------------|
