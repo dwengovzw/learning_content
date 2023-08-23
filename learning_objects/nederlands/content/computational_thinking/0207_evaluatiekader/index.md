@@ -2,8 +2,8 @@
 hruid: ct_evaluatiekader7
 version: 3
 language: nl
-title: "Terminologie"
-description: "Terminologie"
+title: "Evaluatie voorbereiden"
+description: "Evaluatie voorbereiden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
