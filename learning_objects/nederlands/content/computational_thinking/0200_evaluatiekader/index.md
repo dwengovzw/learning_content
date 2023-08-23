@@ -49,7 +49,6 @@ Meer uitleg over de ze concepten kreeg je [hier](https://www.dwengo.org/backend/
 
 Ons [schema met de vier basisconcepten](https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct_voorbeelden8&version=3&language=nl) biedt een houvast bij het aanpakken van een probleem. 
 
-![CD bij aanpak probleem](embed/schemabijevaluatie.png "CD bij aanpak probleem")
 
 ## Mogelijke leerdoelen van computationeel denken
 
@@ -129,6 +128,8 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/5e0e7b33-18ec-4740-869b-615915d04d0e)
 
 -----------------
+### Wat wil je met computationeel denken bij leerlingen bereiken?
 
+Voorbeeld: verschillende aspecten van computationeel denken binnen het oplossen van een probleem.
 
-![Projectschema](embed/projectschema.png)
+![Projectschema](projectschemabijevaluatie.png "CD bij aanpak probleem")
