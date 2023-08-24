@@ -33,17 +33,17 @@ teacher_exclusive: true
 
 <div class="alert alert-box alert-success">
 Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen.<br>
-We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskunde.
+We geven hier een (niet-exhaustief) overzicht gericht op wetenschappen en wiskunde.
 </div>
 
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
 |Decompositie|objecten en methoden definiëren; hoofddeel programma afbakenen en functies definiëren|volgorde van bewerkingen in een uitdrukking toepassen|een soortenindeling maken||data verzamelen|gegevensbron vinden voor een probleem|gegevens verzamelen via experiment uit kansrekenen, bv. gooien met dobbelstenen of munten opgooien|gegevens verzamelen via experiment|
-|Decompositie|||de verschillende delen van een syteem kunnen idientificeren en hun interacties beschrijven|de verschillende delen van een syteem kunnen idientificeren en hun interacties beschrijven|
-|Decompositie||gemiddelde berekenen van de klas voor een examen (wat is er nodig)||
+|Decompositie|||de verschillende delen van een syteem kunnen idientificeren en hun interacties beschrijven|de verschillende delen van een syteem kunnen identificeren en hun interacties beschrijven|
+|Decompositie||gemiddelde berekenen van de klas voor een examen (wat is er nodig?)||
 |Decompositie|technische opdracht verdelen in subtaken||| 
-|Decompositie|uitzoeken hoe een bestaand Legobouwsel geconstrueerd werd||uitzoeken hoe een simulatietoepassing werkt|
+|Decompositie|uitzoeken hoe een bestaand legobouwsel geconstrueerd werd||uitzoeken hoe een simulatietoepassing werkt|
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
@@ -55,17 +55,17 @@ We geven hier een (niet exhaustief) overzicht gericht op wetenschappen en wiskun
 |---------------|------------------------|-----------|----------------------------|
 |Abstractie|een reeks van vaak herhaalde instructies abstraheren tot een functie|het gebruik van letters in algebra; in een vraagstuk de nodige gegevens eruit halen|een model bouwen van een fysieke entiteit|
 |Abstractie|||verschillende niveaus van abstractie bij het oplossen van een probleem uit de fysica| 
-|Abstractie||door iets abstract voor te stellen meer duidelijkheid bieden|door iets abstract voor te stellen meer duidelijkheid bieden|
+|Abstractie||door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|
 |Abstractie||vergelijking||
 |Abstractie|||verschillende niveaus van abstractie van aardrijkskundige kaarten| 
 |Abstractie|algoritme als voorbeeld van abstractie|model en simulatie als abstractie van fenomeen in de echte wereld||
 |Abstractie||om een 'vraagstuk' op te lossen, moeten leerlingen relevante zaken van niet-relevante van elkaar onderscheiden en komen tot een op te lossen vergelijking|abstractie van aardrijkskundige kaarten| 
-|Abstractie en automatisering|ontwerpen en programmeren van webpagina's en smartphone-apps||| 
+|Abstractie en automatisering|ontwerpen en programmeren van webpagina's en smartphoneapps||| 
 |Abstractie|robot ontwerpen die aan bepaalde criteria moet beantwoorden|||
 |Abstractie, modelleren||model van ons zonnestelsel maken|
-|Abstractie, simuleren||simuleren hoe bevolking regaeert op een ziekte-uitbraak|
-|Abstractie|RGB als abstractie van het aantal kleuren dat mensen kunnen waarnemen|keuze paramaeters die meegenomen worden in een wiskundig model|leerlingen maken een schema van een gegeven elektronische opstelling en andere leerlingen construeren de opstelling opnieuw a.d.h.v. het schema|
-|Abstractie|representatie opmaken die kan geprogrammeerd worden||beslissingsboom voor classificatie opstellen; algebraïsche functie schrijven voor een proces|
+|Abstractie, simuleren||simuleren hoe bevolking reageert op een ziekte-uitbraak|
+|Abstractie|RGB als abstractie van het aantal kleuren dat mensen kunnen waarnemen|keuze parameters die meegenomen worden in een wiskundig model|leerlingen maken een schema van een gegeven elektronische opstelling en andere leerlingen construeren de opstelling opnieuw a.d.h.v. het schema|
+|Abstractie|representatie opmaken die geprogrammeerd kan worden||beslissingsboom voor classificatie opstellen; algebraïsche functie schrijven voor een proces|
 
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
