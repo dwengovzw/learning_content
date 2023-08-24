@@ -41,12 +41,17 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 3. Het gevraagde weergeven d.m.v. een waarheidstabel en Karnaughdiagram. 
 </decomposition>
 <patternRecognition>
-Soortgelijke probelemn kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en het Karnaughdiagram. (**patroonherkenning**)
+Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en het Karnaughdiagram. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel en een Karnaughdiagram.
+Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel en een Karnaughdiagram.<br>
+![Waarheidstabel](waarheidstabel.png)  <br>
+![Karnaughdiagram](karnaugh.png)
 </abstraction>
 <algorithms>
+De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een algoritme (hier in een flowchart en in pseudocode).
+![Flowchart](flowchart.png)<br>
+![Pseudocode](pseudocode.png)
 </algorithms>
 <implementation>
 Deze activiteit kan zonder computer gebeuren.

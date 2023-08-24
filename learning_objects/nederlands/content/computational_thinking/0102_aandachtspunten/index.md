@@ -42,20 +42,20 @@ Internationaal bestaat er dan ook geen consensus over een definitie van computat
 
 ## Consensus over de misconcepties
 
-Er is echter ook heel wat consensus over wat computationeel denken **niet** is en wat het **ook** is. Helaas doen nogal wat misconcepties doen de ronde. 
+Er is echter ook heel wat consensus over wat computationeel denken **niet** is en wat het **ook** is. Helaas doen nogal wat misconcepties de ronde. 
 
 Het is belangrijk dat leerkrachten deze misconcepties kennen.
 
-<div class="alert alert-box alert-success">
-<strong>Wat is computationeel denken niet?</strong>
-<ul><li>Computationeel denken is niet denken als een computer.</li></ul>
-<ul><li>Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.</li></ul>
-<ul><li>Computationeel denken is niet gelijk aan ICT.</li></ul>
-<ul><li>Computationeel denken is niet gelijk aan programmeren.</li></ul>
-<ul><li>Computationeel denken is niet enkel interessant voor programmeurs en andere informatici.</li></ul>    
-<ul><li>Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.</li></ul>
-<ul><li>Computationeel denken leer je niet enkel unplugged.</li></ul>    
-<ul><li>Computationeel denken is geen louter technologisch fenomeen.</li></ul>
+<div class="alert alert-box alert-danger">
+<strong>Misconcepties over computationeel denken.</strong>
+<ul><li>Computationeel denken is "denken als een computer".</li></ul>
+<ul><li>Computationeel denken is dé beste manier van denken, en dé beste manier om een probleem op te lossen.</li></ul>
+<ul><li>Computationeel denken is gelijk aan ICT.</li></ul>
+<ul><li>Computationeel denken is gelijk aan programmeren.</li></ul>
+<ul><li>Computationeel denken is enkel interessant voor programmeurs en andere informatici.</li></ul>    
+<ul><li>Computationeel denken is een generieke vaardigheid die wordt getransfereerd.</li></ul>
+<ul><li>Computationeel denken kan louter unplugged geleerd worden.</li></ul>    
+<ul><li>Computationeel denken is een louter technologisch fenomeen.</li></ul>
 </div>
 
 Je bekijkt deze opsomming van naderbij in het volgende leerobject 'Aandachtspunt: Misconcepties'. 
@@ -68,7 +68,7 @@ Bell, T. (2018). Computer Science in K-12 Education: The Big Picture. *Olympiads
 Bell, T. & Lodi, M. (2019). Authors’ Response: Keeping the “Computation” in “Computational Thinking” Through Unplugged Activities. *Constructivist Foundations, 14*(3),
 357–359.<br>
 Berry, M. (2019). *Revisiting computational thinking* [Blogpost](http://milesberry.net/2019/04/revisiting-ct/). Geraadpleegd op 26 mei 2022 via [http://milesberry.net/2019/04/revisiting-ct/](http://milesberry.net/2019/04/revisiting-ct/)<br>
-Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing computational thinking in compulsory education : implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
+Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing Computational Thinking in Compulsory Education : Implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
 Denning, P. & Tedre, M. (2019). *Computational thinking.* VS: MIT Press.<br>
 Europese Unie (2015). Gezamenlijk verslag 2015 van de Raad en de Commissie over de uitvoering van het strategisch kader voor Europese samenwerking op het gebied van onderwijs en opleiding (ET 2020). Nieuwe prioriteiten voor Europese samenwerking op het gebied van onderwijs en opleiding. Geraadpleegd op 26 mei 2022 via [https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:52015XG1215(02)&from=EN](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:52015XG1215(02)&from=EN)<br>
 Grover, S. & Pea, R. (2017). Computational Thinking: A Competency Whose Time Has Come. *Computer Science Education.*<br>

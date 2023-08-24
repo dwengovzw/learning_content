@@ -30,7 +30,12 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Houten stormlantaarn
-**Doelgroep:** Leerlingen 2de graad.
+
+**De leerlingen ontwerpen en realiseren een houten stormlantaarn o.a. m.b.v. een CAD-programma en een CNC-machine.**
+
+**Doelgroep:** Hout 2de graad (finaliteit arbeidsmarkt) - Houttechnieken 2de graad (dubbele finaliteit)
+
+**Vak:** Hout 2de graad - Houttechnieken 2de graad
 
 **Voorkennis:** De leerlingen kunnen met CAD en CNC werken. Ze kunnen een vlakschaafmachine en vandiktebank instellen en bedienen.
 

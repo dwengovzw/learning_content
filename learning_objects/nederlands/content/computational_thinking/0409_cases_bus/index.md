@@ -30,6 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Bus en trein
+
+**Leerlingen plannen het openbaar vervoer voor een uitstap.**
+
 **Doelgroep:** B-stroom of finaliteit arbeidsmarkt
 
 **Voorkennis:** De leerlingen hebben geleerd hoe ze een verplaatsing met de bus kunnen plannen.

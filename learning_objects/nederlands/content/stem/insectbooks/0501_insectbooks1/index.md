@@ -2,8 +2,8 @@
 hruid: stem5_1
 version: 3
 language: nl
-title: "Exponentiële groei"
-description: "Exponentiële groei"
+title: "Een rupsenuitbraak modelleren"
+description: "Een rupsenuitbraak modelleren"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,47 +27,54 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
-# Modelleren van een rupsenuitbraak volgens de exponentiële groei
+# Modelleren van een rupsenuitbraak
 
-Vele insecten willen zo veel mogelijk nakomelingen voortbrengen. In een generatie verpoppen buxusmotrupsen zich tot een buxusmotten, die op hun beurt nieuwe eitjes leggen op een haag. Uit deze eitjes kruipen nieuwe rupsen en de cyclus herbegint. Het leven van een insect is echter niet zonder gevaar. Op elk moment in de cyclus kunnen eitjes, rupsen, poppen en motten sterven door predatie van vogels, pesticiden, uithongering of andere gevaren. Gemiddeld gezien kan je echter aannemen dat elke rups aanleiding geeft tot een bepaald aantal nieuwe rupsen in de volgende generatie. Deze aanname vormt de basis van de **exponentiële groei**.
+Dit lesmateriaal wordt beschikbaar gesteld voor leerkrachten die aan de slag wensen te gaan met de vernieuwde minimumdoelen wiskunde en informaticawetenschappen in de derde graad doorstroomfinaliteit. Hierbij worden zes leerobjecten voorzien:
 
-## Exponentiële groei
+- Exponentiële groei
+- Logistische groei
+- De chaos verklaard
+- De Lesliematrix
+- De eindige differentiemethode
+- Differentiaalvergelijkingen
 
-Wanneer je mag aannemen dat een rups gemiddeld gezien aanleiding geeft tot \\(a > 0\\) nieuwe rupsen, bekom je de volgende uitdrukking:
+Het staat de leerkracht vrij om te kiezen welke leerobjecten al dan niet aan bod komen. Om de leerkracht te helpen bij deze keuze, wordt bij elk leerobject extra informatie voorzien: een samenvatting van de belangrijkste wiskundige concepten die aan bod komen, een overzicht van programmeerspecifieke elementen die gebruikt worden, en de minimumdoelen die geadresseerd worden.
 
-\\[u_t = a \cdot u_{t - 1}\\]
+## Richtingen
 
-Deze vergelijking is niets anders dan het recursieve voorschrift van een rij, waarbij je op basis van een gegeven element eenvoudig het volgende element kan bepalen door te vermenigvuldigen met \\(a\\). Deze parameter \\(a\\) wordt de **groeifactor** genoemd.
+Deze module kan ingezet worden in de volgende vakken uit de derde graad doorstroomfinaliteit:
 
-### Opdracht 1
+- Economie-Wiskunde
+- Grieks-Wiskunde
+- Latijn-Wiskunde
+- Technologische wetenschappen en Engineering
+- Wetenschappen-Wiskunde
+- Biotechnologische en chemische STEM-wetenschappen
+- Informatica- en communicatiewetenschappen
+- Mechatronica
+- Bedrijfsondersteunende informaticawetenschappen
+- Bedrijfswetenschappen (GO!)
 
-- Beschrijf de situatie naargelang de waarde van \\(a\\). Wat gebeurt er bijvoorbeeld indien \\(a < 1\\)?
-- De rupsen van de buxusmot vormen een plaag. Welke waarden van \\(a\\) passen in deze situatie?
-- Leg uit waarom je hier te maken hebt met **exponentiële groei**.
+## Werkwijze
 
-## Exponentieel model
+De interactieve notebook voorziet heel wat opdrachten voor de leerlingen, waarbij zij verschillende minimumdoelen nastreven. Belangrijk hierbij is ervoor te zorgen dat er voldoende laptops of computers beschikbaar zijn: bij voorkeur één toestel per leerling. De voorkeur gaat naar een lokaal dat groot genoeg is, zodat leerlingen de vrijheid hebben om te werken en de leerkracht voldoende ruimte heeft om zich te verplaatsen en vragen van leerlingen te beantwoorden.
 
-Bij een groeifactor \\(a = 1,6\\) leidt elke rups gemiddeld tot iets meer dan anderhalve nieuwe rupsen per generatie. Beschouw een bescheiden beginpopulatie van vijf rupsen. Stel aan de hand van de volgende opdracht een wiskundig model op voor de evolutie van populatiegrootte.
+Op basis van recent onderzoek wordt aangeraden om leerlingen in paren van twee te laten werken aan de verschillende opdrachten, waarbij er een gezonde mix is van leerlingen met en zonder eerdere programmeerervaring. De leerkracht is er bij voorkeur waakzaam voor dat leerlingen die voornamelijk alleen wensen te werken hiertoe de kans krijgen, door hen te paren met leerlingen die een gelijkaardige voorkeur toegedaan zijn. Zij kunnen nog steeds overleggen, maar krijgen zo ook de kans om individueel aan de slag te gaan. Merk op dat dit laatste ook kan bij leerlingen die meer samenwerken: beide leerlingen kunnen individueel typen op een eigen laptop of computer, zodat ze beiden werken aan de vaardigheid van het programmeren. De uiteindelijke keuze voor een of twee apparaten per paar leerlingen ligt bij de leerkracht, die hierbij rekening kan houden met het beschikbare materiaal.
 
-### Opdracht 2
+## Evaluatie
 
-- Stel \\(a = 1,6\\) en \\(u_0 = 5\\). Bepaal dan het aantal rupsen op \\(t = 1\\), \\(t = 2\\), \\(t = 3\\) en \\(t = 4\\).
-- Stel het algemene voorschrift op voor de rij met deze exponentiële groei.
+ Om te evalueren of de leerlingen de minimumdoelen bereikt hebben, zijn er een aantal opties:
 
-Het algemene voorschrift stelt nu het exponentiële groeimodel voor!
+- De leerkracht beperkt zich tot deze notebook, en vraagt de leerlingen om de notebooks te exporteren naar een PDF-bestand. Dit bestand kan dan online ingediend worden (e.g., via Smartschool) en geëvalueerd worden door de leerkracht.
 
-## Interactieve notebook
+- De leerkracht voorziet een tweede notebook met extra oefeningen, waarbij een nieuw probleem gebaseerd op de exponentiële groei vermeld wordt. Reeds bestaande opdrachten kunnen hergebruikt worden, specifiek toegepast op het nieuwe probleem. Leerlingen kunnen hierbij eventueel gebruik maken van de code die ze eerder implementeerden; een programmeur zal immers hetzelfde doen.
 
-Nu ga je aan de slag met een interactieve online notebook. In de notebook zet je Python in om te rekenen en om het model grafisch voor te stellen.
+De leerkracht kan bij de evaluatie gebruik maken van een rubric, die op voorhand gedeeld wordt met de leerlingen. Zo is het voor hen meteen duidelijk welke zaken belangrijk zijn voor hun leerproces. Ook voor de leerkracht is dit een handig hulpmiddel, dat kan helpen om het evaluatieproces efficiënt en transparant te doen verlopen. Een voorbeeld van een rubric, die de eerste drie leerobjecten omvat, kan hieronder teruggevonden worden.
 
-[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_1.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_1.ipynb)
+![Rubric](embed/rubric.png "Rubric")
 
-## De insecten voorbij
+## Contact
 
-Bekijk nu volgende grafiek, die het aantal transistoren op een computerchip toont in functie van de tijd. Stel vast dat er een logaritmische as gebruikt wordt, en dat je dus wel degelijk te maken hebt met een exponentiële groei!
-
-![Moore](embed/moore.png "https://commons.wikimedia.org/wiki/File:Moore%27s_Law_Transistor_Count_1970-2020.png")
-
-Verschillende computerwetenschappers stellen dat de wet van Moore zich niet kan blijven doorzetten, omdat ontwikkelaars vroeg of laat op fysische grenzen zullen stuiten. **Oneindige groei is vrijwel altijd onmogelijk: ooit moet je op de limieten van het systeem botsen.** Toch vormt een exponentieel model vaak een uitstekende beschrijving van het begin van de groei.
+Indien er vragen of opmerkingen zijn over het voorziene lesmateriaal, vragen we om contact op te nemen met Natacha Gesquière via [natacha.gesquiere@ugent.be](mailto:natacha.gesquiere@ugent.be).

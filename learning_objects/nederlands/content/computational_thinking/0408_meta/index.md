@@ -31,25 +31,27 @@ teacher_exclusive: true
 ---
 
 <context>
-![image](https://user-images.githubusercontent.com/48352335/208769355-bb0d30c7-add2-4f5a-a6da-77ec9d9dec85.png)
+![Maatregelen COVID-19](covid19maatregelen.png)<br>
+*Buitenplan 5 maart 2021*.<br>Afbeelding © NCCN, Brussel, België.
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
 Kunnen we het effect van de COVID-19-maatregelen inschatten voordat we ze invoeren?
 </div>
 </context>
 <decomposition>
-We identificeren 3 deelproblemen:
+We identificeren 3 deelproblemen (**decompositie**):
 1. Model voor verspreiding
 2. Menselijke interacties voorstellen 
-3. Simuleren van het model
+3. Simuleren van de verspreiding a.d.h.v. het model
 </decomposition>
 <patternRecognition>
-De verspreiding van de pest en cholera gedragen zich gelijkaardig waarbij we een verschil maken tussen vatbare individuen, geïnfecteerden en resistente individuen …(**patroonherkenning**)<br><br>
-Interacties tussen mensen kunnen we op dezelfde manier als verbindingen tussen wegen of kennis van leerlingen, nl. met een graaf. (**patroonherkenning**)
+De verspreiding van de pest, cholera, COVID-19 ... gedraagt zich gelijkaardig. We onderscheiden daarbij: vatbare individuen, geïnfecteerden en resistente individuen. (**patroonherkenning**)<br><br>
+Interacties tussen mensen kunnen we op dezelfde manier voorstellen als verbindingen tussen steden (wegen), nl. met een graaf. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
 We stellen de interacties tussen de mensen **abstract** voor door een graaf.
-    ![image](https://user-images.githubusercontent.com/48352335/208770354-903065c9-a265-4816-847e-d2dcc75e193f.png)
-![image](https://user-images.githubusercontent.com/48352335/208770366-bb891a18-c4a3-4eab-bd38-dbebb1c35b75.png)
+    ![Sociaal netwerk](sociaalnetwerk.png)
+De evoluties in de aantallen vatbare individuen, geïnfecteerden en resistente individuen worden **abstract** voorgesteld door differentiaalvergelijkingen.  
+![Stelsel differentiaalvergeljkingen epidemie](differentiaalvergelijkingenepidemie.png)
 </abstraction>
 <algorithms>
 Stappenplan (**algoritme**):

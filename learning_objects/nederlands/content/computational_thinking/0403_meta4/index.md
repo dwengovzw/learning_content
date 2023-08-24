@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-Automatiseer het berekenen van de schuine zijde van een rechthoekige driehoek als de rechthoekszijden gekend zijn.
+![Driehoek1](pyth1.png) Automatiseer het berekenen van de schuine zijde van een rechthoekige driehoek als de rechthoekszijden gekend zijn.
 </context>
 <decomposition>
 Subtaken (**decompositie**):<br>

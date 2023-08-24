@@ -24,7 +24,8 @@ target_ages: [10, 11, 12, 13]
 
 Al in 1936 bedacht Alan Turing een test om te bepalen in hoeverre een computersysteem menselijke intelligentie vertoont. In de originele test moet een gebruiker chatten met een persoon die deze niet kent. De persoon aan de andere kant van de chat is ofwel een echte persoon ofwel een computerprogramma dat een persoon probeert na te doen. Als de gebruiker met een computer aan het chatten is, maar dit niet door heeft dan slaagt het computerprogramma voor de Turingtest.
 
-We hebben voor ons AI-systeem ook een soort van Turingtest opgesteld. Kan jij in onderstaande vragen aanduiden welke van de afbeeldingen het origineel is?
+We hebben voor ons AI-systeem ook een soort van Turingtest opgesteld. Kan jij in onderstaande vragen aanduiden welke van de afbeeldingen het origineel is?<br>
+<sub>Gebruik van de afbeeldingen met dank aan Standaard Uitgeverij 2022</sub>
 
 | **Afbeelding** | **Origineel of gegenereerd?** |
 |---------------------------|:---:|
@@ -42,4 +43,4 @@ We hebben voor ons AI-systeem ook een soort van Turingtest opgesteld. Kan jij in
 | ![Vraag 11](turing/original/4.png) | origineel/ gegenereerd |
 
 ---
-© Standaard Uitgeverij 2022
+Afbeeldingen © Standaard Uitgeverij 2022

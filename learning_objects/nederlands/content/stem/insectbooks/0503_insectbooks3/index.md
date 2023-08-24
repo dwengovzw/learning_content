@@ -2,8 +2,8 @@
 hruid: stem5_3
 version: 3
 language: nl
-title: "Logistische groei"
-description: "Logistische groei"
+title: "Exponentiële groei"
+description: "Exponentiële groei"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,34 +27,166 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
-# Modelleren van een rupsenuitbraak volgens de logistische groei
+# Modelleren van een rupsenuitbraak volgens de exponentiële groei
 
-Eerder bekeek je het exponentiële groeimodel om een populatie rupsen voor te stellen. Je stelde hierbij vast dat je ooit op een limiet moeten botsen: een tuin heeft geen onbeperkte draagkracht! In deze module bekijk je daarom de logistische groei. Dit model heeft een verrassende eigenschap: het kan chaotisch zijn, waardoor het voor bepaalde waarden totaal onvoorspelbaar is!
+## Situatie afhankelijk van de groeifactor \\(a\\)
 
-## Logistische groei
+Het getal \\(a\\) stelt het gemiddeld aantal nakomelingen per rups voor. We werken met gemiddelden, dus kommagetallen zijn toegestaan, maar negatieve getallen houden geen steek.
 
-**Je zoekt een regel die rekening houdt met de draagkracht van het systeem.** Er wordt verwacht dat wanneer de populatiegrootte klein is, en er dus veel planten per rups zijn, onbelemmerde groei mogelijk is. Wanneer het aantal rupsen dicht bij de draagkracht \\(K\\) komt, moet de groei stoppen. De volgende regel kan hiervoor gebruikt worden:
+- Als \\(a < 1\\), dan brengt elke rups minder dan één rups voort per generatie. In elke tijdstap wordt de populatie kleiner en kleiner tot ze uiteindelijk uitsterft. Je hebt dan te maken met een exponentiële **afname**.
+- Als \\(a > 1\\), dan zal elke rups aanleiding geven tot meer dan één nieuwe rups in de volgende generatie. De populatie zal groeien. Je hebt dan te maken met een exponentiële **toename**.
+- In het randgeval waarbij \\(a = 1\\), is de populatiegrootte **stabiel**: de geboorte van nieuwe rupsen compenseert de sterfte.
 
-\\[u_t = \left[1 + (a - 1) \left(1 - \frac{u_{t - 1}}{K}\right)\right] u_{t - 1} = \left[1 + r \left(1 - \frac{u_{t - 1}}{K}\right)\right] u_{t - 1}\\]
+In het geval van de rups van de buxusmot is \\(a > 1\\), aangezien deze rupsen een plaag vormen.
 
-Dit is het recursieve voorschrift van een meetkundige rij, waarbij \\(a\\) de groeifactor en \\(r\\) het groeipercentage voorstelt. Ook hier geldt dat als je \\(u_0\\) kent, je stapsgewijs elk element uit de rij kan berekenen.
+Het voorschrift is het recursieve voorschrift van een meetkundige rij. Het getal \\(a\\) is niets anders dan het equivalent van de **groeifactor** bij een exponentiële functie (continu model in plaats van discreet). Je hebt dus te maken met **exponentiële groei**. 
 
-Uit het functievoorschrift stel je vast dat als \\(u_{t - 1}\\) klein is, het gedeelte tussen ronde haakjes ongeveer gelijk is aan \\(1\\). Je bekomt dan bij benadering terug de exponentiële groei:
+## De parameters in het wiskundig model
 
-\\[u_t = \left[1 + r \left(1 - \frac{u_{t - 1}}{K}\right)\right] u_{t - 1} \approx (1 + r) \cdot u_{t - 1} = a \cdot u_{t - 1}\\]
+In de notebook wordt de grafiek geplot van een meetkundige rij aan de hand van het algemene voorschrift. De index \\(t\\) speelt hierbij de rol van **veranderlijke**. Voor bepaalde waarden van \\(t\\) wordt de populatiegrootte berekend en teruggegeven.
 
-Herinner je dat \\(a\\) hierbij de groeifactor voorstelt. Wanneer \\(u_{t - 1}\\) bij benadering gelijk is aan \\(K\\), dan is het deel tussen ronde haakjes ongeveer gelijk aan \\(0\\), en zal de populatiegrootte in de volgende stap min of meer gelijk zijn:
+De meetkundige rij wordt bepaald door het algemene voorschrift met daarin twee **parameters**: de groeifactor \\(a\\) en de beginwaarde \\(u_0\\). Door de parameters aan te passen kan met het model geëxperimenteerd worden. De leerlingen kunnen het effect van de parameters op het model onderzoeken:
 
-\\[u_t = \left[1 + r \left(1 - \frac{u_{t - 1}}{K}\right)\right] u_{t - 1} \approx u_{t - 1}\\]
+- Wat is het effect van een grotere beginwaarde?
+- Wat is het effect van een grotere groeifactor?
+- Wat is het effect van een groeifactor kleiner dan 1?
 
-De populatiegrootte stabiliseert dus.
+## Draagkracht
 
-Een model waarbij de populatie aangroeit volgens het voorgestelde recursieve voorschrift wordt een **logistisch model** genoemd!
+In de notebook wordt de grafiek getekend van een meetkundige rij die de evolutie van de rupsenpopulatiegrootte modelleert. **Via de grafiek wordt het probleem immers veel duidelijker.**
 
-## Interactieve notebook
+De plaag groeit erg snel, wat verontrustend is. Als je nog verder in de tijd kijkt, stel je het volgende vast: de populatiegrootte groeit zonder enige belemmering verder aan; na 70 generaties zijn er meer dan 971.000.000.000.000 rupsen. Er zijn niet genoeg buxushagen in de wereld om dergelijke populaties te ondersteunen!
 
-Nu ga je aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om dit model grafisch voor te stellen.
+In de praktijk heeft elk ecosysteem een bepaalde **draagkracht**, de hoeveelheden voedsel, water en ruimte die voorhanden zijn om een bepaalde populatie te ondersteunen. Onze rupsenpopulatie is gelimiteerd door het aantal planten dat beschikbaar is als voedsel. De draagkracht wordt vaak voorgesteld door de letter \\(K\\). Een waarde \\(K = 1000 \\) zou betekenen dat een tuin genoeg buxussen heeft om 1000 rupsen te voeden, maar niet meer.
 
-[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_2.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_2.ipynb)
+In het volgende leerobject wordt het model aangepast om rekening te houden met deze draagkracht.
+
+## Besmettingen met COVID-19
+
+Bij wijze van illustratie, worden gegevens ingelezen vanuit een CSV-bestand, die het aantal besmettingen en het aantal dodelijke slachtoffers door COVID-19 in België beschrijft in de eerste weken van de lockdown in maart 2020. Aan de hand van enkele grafieken wordt het gevaar van onbeperkte groei geïllustreerd. Om de data in te lezen wordt gebruik gemaakt van de `Pandas`-bibliotheek.
+
+Leerlingen die vroeger klaar zijn met dit leerobject, of een sterke interesse vertonen in dit onderwerp, kunnen [dit gerelateerde leerobject](https://www.dwengo.org/learning-path.html?hruid=maths_epidemie&language=nl&te=true&source_page=%2F&source_title=%20Ga%20aan%20de%20slag%20met%20uniek%20lesmateriaal%20over%20AI%20en%20STEM!#pn_expogroei;nl;3) volgen.
+
+## De logaritmische as
+
+Als laatste voorbeeld van exponentiële groei wordt de wet van Moore besproken. Om deze te illustreren wordt een grafiek gebruikt met een logaritmische as; het gebruik van een dergelijke as wordt besproken aan de hand van concrete voorbeelden in Python.
+
+## Python
+
+Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
+
+- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
+
+- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
+
+- te weten hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden
+
+- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
+
+- te weten hoe [while-loops](https://www.w3schools.com/python/python_while_loops.asp) werken
+
+- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken
+
+- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
+
+- te weten hoe de [Pandas-bibliotheek](https://pythonbasics.org/read-csv-with-pandas/) het mogelijk maakt om CSV-bestanden uit te lezen naar een dataframe, dat gegevens in tabelvorm bevat
+
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
+
+## Minimumdoelen
+
+### WD_06 Wiskunde
+
+#### Algemene minimumdoelen
+
+Alle beschouwde richtingen
+
+<span style="color: yellowgreen">MD 06.06 De leerlingen gebruiken modellen voor exponentiële groei.</span><br>
+In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoerig besproken, en dit aan de hand van een exponentieel groeimodel.<br>
+Duiding uit het leerplan van Katholiek Onderwijs Vlaanderen: *Dit doel omvat enerzijds het modelleren (opstellen van het voorschrift vanuit een verwoording) en anderzijds het oplossen van vragen aan de hand van het model, bijvoorbeeld de waarde bepalen bij een gegeven tijdstip of het tijdstip bij een gegeven waarde bepalen. Alhoewel "exponentiële groei" een toename suggereert, kan je ook dalende processen beschrijven.*
+
+<span style="color: yellowgreen">MD 06.12 De leerlingen gebruiken rekenkundige en meetkundige rijen om patronen te beschrijven.</span><br>
+Het gaat hier om een meetkundige rij, waarbij initieel het recursieve voorschrift wordt gehanteerd. Voor het model, het voorschrift van de exponentiële functie, wordt de formule voor de algemene term gebruikt.
+
+<span style="color: yellowgreen">MD 06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.</span><br>
+In deze notebook wordt de groei van de populatiegroottes van de buxusmot uitvoerig besproken, en dit aan de hand van een exponentieel groeimodel.
+
+<span style="color: yellowgreen">MD 06.20 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</span><br>
+In de notebook wordt onder meer gevraagd om te bepalen wanneer het aantal buxusmotten voor het eerst een gegeven waarde overschrijdt.<br>
+Wenken uit het leerplan van Katholiek Onderwijs Vlaanderen: *Voorbeelden van heuristieken die aan bod kunnen komen: het gegeven en gevraagde expliciteren, het probleem herformuleren of opdelen in deelproblemen, een schets of tekening maken, bijzondere gevallen onderzoeken, tijdelijk één van de voorwaarden laten vallen, van achter naar voor werken, alle mogelijkheden opschrijven en dan elimineren. Het demathematiseren kan gebeuren via een antwoordzin. Controleren of een antwoord realistisch kan zijn, hoort ook bij deze stap van het oplossingsproces.*
+
+<span style="color: yellowgreen">MD 06.21 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.</span><br>
+De notebook berekent de populatiegrootte op verschillende momenten in de tijd, en laat toe om grafieken te genereren die de groei van de populatie illustreert.
+
+#### Natuurwetenschappen B+S
+
+Latijn-Wetenschappen; Wetenschappen-Wiskunde
+
+#### Natuurwetenschappen B+S'
+
+Grieks-Wiskunde; Latijn-Wiskunde
+
+<span style="color: yellowgreen">MD 06.46 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.</span><br>
+Dit minimumdoel kan betrokken worden in deze module, op initiatief van de leerkracht.
+
+#### Wiskunde B+S
+
+Bedrijfsondersteunende informaticawetenschappen
+
+<span style="color: yellowgreen">06.05.06 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
+In de notebook worden verschillende grafieken gegenereerd die de populatiegrootte doorheen de tijd tonen. De leerlingen stellen hierbij vast dat de populatiegrootte steeds verder blijft toenemen indien \\(a > 1\\). Ook wordt uitgelegd hoe de logaritmische as gebruikt kan worden in een grafiek.
+
+#### Wiskunde B+S'
+
+Biotechnologische en chemische STEM-wetenschappen; Informatica- en communicatiewetenschappen; Mechatronica
+
+<span style="color: yellowgreen">06.04.06 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
+In de notebook worden verschillende grafieken gegenereerd die de populatiegrootte doorheen de tijd tonen. De leerlingen stellen hierbij vast dat de populatiegrootte steeds verder blijft toenemen indien \\(a > 1\\). Ook wordt uitgelegd hoe de logaritmische as gebruikt kan worden in een grafiek.
+
+#### Wiskunde B+S''
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde
+
+<span style="color: yellowgreen">SMD 06.08.07 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
+In de notebook worden verschillende grafieken gegenereerd die de populatiegrootte doorheen de tijd tonen. De leerlingen stellen hierbij vast dat de populatiegrootte steeds verder blijft toenemen indien \\(a > 1\\). Ook wordt uitgelegd hoe de logaritmische as gebruikt kan worden in een grafiek.
+
+<span style="color: yellowgreen">SMD 06.08.13 De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.</span><br>
+<span style="color: red">Komt dit wel expliciet aan bod? Van de leerlingen wordt enkel gevraagd om de populatiegrootte op een gegeven moment in de tijd te berekenen, en aan de hand van een while-loop te controleren wanneer de populatiegrootte voor het eerst een gegeven waarde zal overschrijden.</span>
+
+### WD_07 Informaticawetenschappen
+
+#### Informaticawetenschappen
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Wetenschappen-Wiskunde
+
+#### Informaticawetenschappen S''
+
+Bedrijfsondersteunende informaticawetenschappen
+
+#### Informatica- en communicatiewetenschappen B+S
+
+Informatica- en communicatiewetenschappen
+
+#### Technologische wetenschappen en Engineering B+S
+
+Technologische wetenschappen en Engineering
+
+#### Bedrijfswetenschappen S (GO!)
+
+Bedrijfswetenschappen (GO!)
+
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+
+#### Biotechnologische en chemische STEM-wetenschappen B+S
+
+Biotechnologische en chemische STEM-wetenschappen
+
+#### Mechatronica B+S
+
+Mechatronica
+
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.

@@ -31,6 +31,14 @@ teacher_exclusive: true
 ---
 # De stelling van Pythagoras: berekenen schuine zijde
 
+Wil je met je leerlingen programmeren in de wiskundeles? Dit onderwerp leent er zich toe.
+
+Samen met de leerlingen bouw je stap voor stap een applicatie om het rekenwerk bij de stelling van Pythagoras te automatiseren. Je vertrekt daarbij van één type oefening. Een tweede type kan je door de leerlingen alleen laten doen; dan is het ineens duidelijk of ze alles begrepen hebben. 
+
+Een troef van de stelling van Pythagoras is, is dat je gemakkelijk *real-world* toepassingen vindt.
+
+Met het programmeren ga je zo ver als je zelf wilt. In dit uitgewerkt voorbeeld komen variabelen, datatypes en operatoren aan bod, vragen we input aan de gebruiker, en gebruiken we ingebouwde en zelfgedefinieerde functies. We maken ook gebruik van Python-modules (bibliotheken) en besteden aandacht aan het schrijven van commentaar. Indien gewenst, dan kan je de applicatie nog verder verbeteren en ook aan de slag gaan met keuze- en herhalingsstructuren. 
+
 Deze case wordt toegelicht in dit filmpje. 
 
 ![](@youtube/https://www.youtube.com/embed/ZUl27Ek9zHo "filmpje case pythagoras") 
@@ -86,13 +94,12 @@ In dit filmpje krijg je stap voor stap het programmeergedeelte te zien.
 
 <div class="alert alert-box alert-success">
     <strong>Leerdoel in functie van MD 04.05:</strong><br> 
-- Een van de redenen dat routeplanners zoveel gebruikt worden en dus zoveel impact hebben, is de grote mate van abstractie in de routplanner. Indien gewenst, kan je enkel de instructies opvolgen van de weg die je moet volgen (het stappenplan of algoritme). 
-    - Je moet je niet bezighouden met het opzoeken van de weg op een kaart, waarbij je rekening zou moeten houden met bv. eenrichtingsverkeer, de oriëntatie van de kaart, enz. Zo'n routeplanner heeft dus een groot gebruiksgemak. 
-    - Bovendien krijg je er bijkomende informatie zoals files, wegwerkzaamheden, waar je kan tanken, enz. 
-    - Omdat er in routeplanners zoveel geabstraheerd wordt, heb je geen volledig zicht meer op de omgeving. Dat kan ook een nadeel zijn t.o.v. een papieren kaart die veel meer details geven van de omgeving en een bepaalde plaats bovendien situeren in een groter gebied. Routplanners hollen als het ware het ruimtelijk bewustzijn rond een plaats uit. Teveel afhankelijk zijn van digitale routeplanners kan daarom ook gevaarlijk zijn, mensen rijden bv. een treinspoor op of op een trap. 
-    - Bij gebruik van een routeplanner moet je er rekening mee houden dat je kan in een gebied kunt terechtkomen waar er geen mobiel bereik is, of dat je ervoor moet opletten dat de batterij van je smartphone niet leeg is. 
-    - Je moet er ook rekening mee houden dat sommige gebieden onvoldoende gedetailleerd of onnauwkeurig aanwezig kunnen zijn. En dat digitale routeplanners fouten kunnen bevatten, zoals een foute maximale snelheid die op een bepaalde weg is toegelaten of een straat met eenrichtingsverkeer die als tweerichtingsverkeer is aangegeven. 
-    - Routeplanners hebben een impact op de maatschappij: Het gebruik van een routeplanner door zoveel mensen kan ongewenste effecten hebben, zoals extra verkeer in woonwijken wanneer een routeplanner het autoverkeer langs woonwijken omleidt om files te vermijden. De vraag is met hoeveel aspecten van de omgeving het algoritme in de routeplanner rekening houdt. In de invoer is het misschien weggeabstraheerd dat een bepaalde omgeving een woonwijk is, of in het programma wordt er met die variabele geen rekening gehouden. Routeplanners kunnen reclame bevatten: Hoe wordt immers bepaald welke winkels, tankstations ... getoond worden in de routeplanner? Routeplanners hebben geleid tot nieuwe toepassingen in de maatschappij: ze worden bv. gebruikt door robots die boodschappen naar huis brengen of door medische drones; a.d.h.v. de routeplanner vinden ze de weg. Met het gebruik van een routeplanner kunnen ook privacy aspecten gemoeid zijn: Als de locaties van de gebruiker worden opgeslagen, dan rijst de vraag wat de verstrekker van de routeplanner aanvangt met die gegevens. 
+<ul><li>Een van de redenen dat routeplanners zoveel gebruikt worden en dus zoveel impact hebben, is het gebruiksgemak. Dat een routeplanner zo gebruiksvriendelijk is, komt door de hoge graad van abstractie in de routplanner: de route is geabstraheerd tot aantal kilometers en tijdig afslaan; indien gewenst, kan je enkel de instructies opvolgen van de weg die je moet volgen (het stappenplan of algoritme). Je moet je niet bezighouden met het opzoeken van de weg op een kaart, waarbij je rekening zou moeten houden met bv. eenrichtingsverkeer, de oriëntatie van de kaart, enz. </li></ul>
+<ul><li>Bovendien krijg je er bijkomende informatie zoals files, wegwerkzaamheden, waar je kan tanken, enz. </li></ul>
+<ul><li>Omdat er in routeplanners zoveel geabstraheerd wordt, heb je geen volledig zicht meer op de omgeving. Dat kan ook een nadeel zijn t.o.v. een papieren kaart die veel meer details geven van de omgeving en een bepaalde plaats bovendien situeren in een groter gebied. Routplanners hollen als het ware het ruimtelijk bewustzijn rond een plaats uit. Teveel afhankelijk zijn van digitale routeplanners kan daarom ook gevaarlijk zijn, mensen rijden bv. een treinspoor op of op een trap. </li></ul>
+<ul><li>Bij gebruik van een routeplanner moet je er rekening mee houden dat je kan in een gebied kunt terechtkomen waar er geen mobiel bereik is, of dat je ervoor moet opletten dat de batterij van je smartphone niet leeg is. </li></ul>
+<ul><li>Je moet er ook rekening mee houden dat sommige gebieden onvoldoende gedetailleerd of onnauwkeurig aanwezig kunnen zijn. En dat digitale routeplanners fouten kunnen bevatten, zoals een foute maximale snelheid die op een bepaalde weg is toegelaten of een straat met eenrichtingsverkeer die als tweerichtingsverkeer is aangegeven. </li></ul>
+<ul><li>Routeplanners hebben een impact op de maatschappij: Het gebruik van een routeplanner door zoveel mensen kan ongewenste effecten hebben, zoals extra verkeer in woonwijken wanneer een routeplanner het autoverkeer langs woonwijken omleidt om files te vermijden. De vraag is met hoeveel aspecten van de omgeving het algoritme in de routeplanner rekening houdt. In de invoer is het misschien weggeabstraheerd dat een bepaalde omgeving een woonwijk is, of in het programma wordt er met die variabele geen rekening gehouden. Routeplanners kunnen reclame bevatten: Hoe wordt immers bepaald welke winkels, tankstations ... getoond worden in de routeplanner? Routeplanners hebben geleid tot nieuwe toepassingen in de maatschappij: ze worden bv. gebruikt door robots die boodschappen naar huis brengen of door medische drones; a.d.h.v. de routeplanner vinden ze de weg. Met het gebruik van een routeplanner kunnen ook privacy aspecten gemoeid zijn: Als de locaties van de gebruiker worden opgeslagen, dan rijst de vraag wat de verstrekker van de routeplanner aanvangt met die gegevens. </li></ul>
 </div>
 
 ### Volgende stap: toepassen van patroonherkenning en abstractie
@@ -104,6 +111,12 @@ De leerlingen van de tweede graad worden in de wiskundeles ingewijd in de stelli
 De leerlingen bouwden een applicatie om het rekenwerk te doen bij een oefening van het eerste type. In de applicatie wordt een zelfgedefinieerde functie `pythagoras1()` gebruikt.<br>  
 Een aanvulling bij deze case zou zijn dat de leerlingen een tweede functie toevoegen `pythagoras2()`, zodat met de applicatie het rekenwerk van beide types gedaan kan worden.
 Vanaf dan kunnen een reeks vraagstukken aan de leerlingen aangeboden worden, waarbij de leerlingen vooral aan patroonherkenning moeten doen en telkens de applicatie gebruiken voor het rekenwerk.
+
+<div class="alert alert-box alert-info">
+<strong>Opmerking bij de naamgeving van de zelfgedefinieerde functies:</strong><br>
+Het is beter de namen van de functies aan te passen zodat ze ineens ook vertellen wat de functies doen. In plaats van <code>pythagoras1()</code> gebruik je beter <code>bereken_schuine_zijde_uit_rechthoekszijden()</code> als naam van de functie. Analoog pas je de naam <code>pythagoras2()</code> aan naar <code>bereken_rechthoekszijde_uit_schuine_zijde_en_rechthoekszijde()</code>.<br>
+Als je wilt bereiken dat de functie ook bruikbaar is voor wie niet vertrouwd is met de standaardnotatie <em>a, b</em> en <em>c</em> uit de wiskundeles, dan pas je best ook de parameters in de functies aan. Dus nog betere namen voor de functies zijn <code>bereken_schuine_zijde(rechthoekszijde_1, rechthoekszijde_2)</code> en <code>bereken_rechthoekszijde(schuine_zijde, rechthoekszijde)</code>.
+</div>
 
 ----------------------------------------------------
 ### Minimumdoelen (Bron: onderwijsdoelen.be)

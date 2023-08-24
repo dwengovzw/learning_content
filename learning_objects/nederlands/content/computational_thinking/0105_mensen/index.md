@@ -39,7 +39,7 @@ Computationeel denken gaat om mensen.
 - Wing (2006), die computationeel denken wereldwijd op de agenda plaatste, vermeldde **“understanding human behavior”** als een van de aspecten van computationeel denken. <br>
 - Computers inzetten is ook een sociale activiteit waarbij men rekening moet houden met de rol ervan in de **maatschappij** (Kafai en Proctor, 2022).
 
-Men kan een nieuwe digitale toepassing dus niet loszien van de mens die ze ontwikkelde, de mens die ze zal gebruiken en de maatschappij waarin ze zal terechtkomen.
+Je kan een nieuwe digitale toepassing dus niet los zien van de mens die ze ontwikkelde, de mens die ze zal gebruiken en de maatschappij waarin ze zal terechtkomen.
 
 Het inzetten van nieuwe technologieën brengt vaak **ethische bekommernissen** met zich mee.
 
@@ -56,10 +56,10 @@ Bij het ontwerpen van een nieuw systeem betrekt men best de mensen die ermee zul
 ---------------------------
 #### Bronnen: 
 Bell, T. (2018). Computer Science in K-12 Education: The Big Picture. *Olympiads in Informatics, 12*, 3-11.<br>
-Curzon, P. & McOwan, P. (2017). *The power of computational thinking.* Londen: World Scientific Publishing Europe.<br>
+Curzon, P. & McOwan, P. (2017). *The Power of Computational Thinking.* Londen: World Scientific Publishing Europe.<br>
 Denning, P. & Tedre, M. (2019). *Computational thinking.* VS: MIT Press.<br>
 Kafai, Y. B. & Proctor, C. (2022). A Revaluation of Computational Thinking in K–12 Education: Moving Toward Computational Literacies. *Educational Researcher, 51*(2),
 146–151.<br>
-Lowe, T. & Brophy, S. P. (2017). An operationalized model for defining computational thinking. *2017 IEEE Frontiers in Education Conference (FIE)*, (pp. 1–8).<br>
+Lowe, T. & Brophy, S. P. (2017). An Operationalized Model for Defining Computational Thinking. *2017 IEEE Frontiers in Education Conference (FIE)*, (pp. 1–8).<br>
 Neff, G. & Nagy, P. (2016). Talking to Bots: Symbiotic Agency and the Case of Tay. *International Journal of Communication, 10*, 4915–4931.<br>
 Wing, J. M. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35.

@@ -40,8 +40,8 @@ Zoals eerder vermeld zijn de eindtermen en mimimumdoelen verdeeld over 16 sleute
 <strong>De drie bouwstenen van de sleutelcompetentie ‘Digitale competentie en mediawijsheid’</strong>
 <ul><li><strong>‘Digitale media en toepassingen om te creëren, te participeren en te interageren’</strong>
     <ul><li>De bouwsteen rond het gebruik van informatie- en communicatietechnologie.</li></ul>
-    <ul><li>Deze gaat in op de digitale ontwikkelingen, en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren in de samenleving.</li></ul>
-    <ul><li>Deze bouwsteen kent een samenhang met de bouwsteen rond informatiegeletterdheid (leerdoelen over informatie verwerven en beheren) van de sleutelcompetentie over leercompetenties.</li></ul>
+    <ul><li>Deze gaat in op de digitale ontwikkelingen, en op het belang van basiskennis en goed gebruik van ICT om te kunnen participeren in de samenleving.</li></ul>
+    <ul><li>Deze bouwsteen kent een samenhang met eindtermen en minimumdoelen rond informatiegeletterdheid (leerdoelen over informatie verwerven en beheren; deze behoren tot de sleutelcompetentie over leercompetenties).</li></ul>
     <ul><li>In de formulering van deze eindtermen wordt expliciet verwezen naar creëren, delen en samenwerken, een hebben dus een duidelijke link met de 21ste-eeuwse vaardigheden.</li></ul>
     <ul><li>Voorbeelden: het gebruik van online tools, het creëren van digitale content, en het digitaal burgerschap.</li></ul>
 </li></ul>
@@ -71,11 +71,13 @@ De volgende kaders ‘Enkele eindtermen over computationeel denken’ en ‘Kenn
 <ul><li> BG 4.3 De leerling herkent in functionele contexten bouwstenen van digitale systemen. (onthouden)</li></ul>
 <ul><li> BG 4.4 De leerling past in functionele contexten een aangereikt algoritmetoe om een probleem digitaal en niet-digitaal op te lossen. (toepassen)</li></ul>
 <strong>Voor de tweede graad (vernietigd):</strong><br>
-<ul><li> 4.4 De leerlingen lichten toe hoe bouwstenen van digitale systemen zich tot elkaar verhouden en op elkaar inwerken. (begrijpen)<br>
-Voor de tweede graad, naargelang de studierichting uitgebreid met:</li></ul>
-<ul><li> 4.5 De leerlingen lossen een afgebakend probleem digitaal op door een aangereikt algoritme aan te passen. (creëren)<br>
-of met:</li></ul>
-<ul><li> 4.5 De leerlingen ontwerpen algoritmen om problemen digitaal op te lossen. (creëren)</li></ul>
+<ul><li> 4.4 De leerlingen lichten toe hoe bouwstenen van digitale systemen zich tot elkaar verhouden en op elkaar inwerken. (begrijpen)</li></ul>
+<br>
+Naargelang de studierichting uitgebreid met:
+<ul><li> 4.5 (finaliteit arbeidsmarkt) De leerlingen lossen een afgebakend probleem digitaal op door een aangereikt algoritme aan te passen. (creëren)</li></ul>
+<br>
+of met:
+<ul><li> 4.5 (dubbele finaliteit of finaliteit doorstroom) De leerlingen ontwerpen algoritmen om problemen digitaal op te lossen. (creëren)</li></ul>
 <strong>Nieuw minimumdoel voor de tweede graad:</strong><br>
 <ul><li> 04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li></ul>
 </div>

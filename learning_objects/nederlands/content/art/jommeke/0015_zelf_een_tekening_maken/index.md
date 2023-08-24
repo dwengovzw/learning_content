@@ -2,7 +2,7 @@
 hruid: org-dwengo-jommeke-zelf-tekening-maken
 version: 1
 language: nl
-title: "Test de AI"
+title: "Test het AI-systeem"
 description: "Is de mens accurater dan een AI-systeem?"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
@@ -22,4 +22,6 @@ target_ages: [10, 11, 12, 13]
 
 ## Tekenen maar
 
-We hebben al een aantal voorbeelden gezien van waar de inkleuring goed of minder goed werkt. Je kan nu zelf wat verder de mogelijkheden van het systeem testen. Dit doe je door zelf een zwart-wit lijntekening te maken en die via de volgende link te uploaden naar het AI-systeem. [Test het AI systeem](https://kiks.ilabt.imec.be/jommeke/)
+We hebben al een aantal voorbeelden gezien van waar de inkleuring goed of minder goed werkt. Je kan nu zelf wat verder de mogelijkheden van het systeem testen. Dit doe je door zelf een zwart-wit lijntekening te maken en die via de volgende link te uploaden naar het AI-systeem.
+
+[Test het AI systeem](https://kiks.ilabt.imec.be/jommeke/)

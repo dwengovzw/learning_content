@@ -31,15 +31,17 @@ teacher_exclusive: true
 ---
 # Computationeel denken en handelen
 
-Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. De consensus ontbreekt omdat de concepten en praktijken van computationeel denken niet door iedereen op dezelfde manier gepercipieerd worden. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
+Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
 
-De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. <br>
+Behalve de basisconcepten worden de concepten en praktijken van computationeel denken niet door iedereen op dezelfde manier gepercipieerd. Maar voor het Vlaamse onderwijs is het vooral interessant te weten welke er in de eindtermen, minimumdoelen en leerplannen voorkomen. Je wil immers weten welke je zeker aan bod moet laten komen in jouw lessen. <br>
+De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. In het leerpad 'Eindtermen en minimumdoelen' lees je daar meer over.
+
 We hebben verschillende kaders van onderzoekers afgetoetst aan de Vlaamse eindtermen en minimumdoelen.
 Twee kaders van onderzoekers vertoonden daar veel overeenkomst mee en kunnen daarom inspiratie bieden over de concepten en praktijken van computationeel denken die aan bod kunnen komen in jouw lessen.
 
 ## Algemeen inzetbaar overzicht concepten en praktijken 
 
-In plaats van te kijken waarover er consensus is, kan je echter ook nagaan welke aspecten van computationeel denken er allemaal worden aangehaald.<br>Michael Lodi (2020) gooide het over deze andere boeg en hij kwam tot een **overzicht van denkprocessen, activiteiten en manieren van aanpak**:
+In plaats van te kijken waarover er consensus is, kan je echter ook nagaan welke aspecten van computationeel denken er allemaal worden aangehaald.<br>Michael Lodi (2020) gooide het over deze andere boeg en hij kwam tot volgend **overzicht van denkprocessen, activiteiten en manieren van aanpak**:
 
 |**Denkprocessen**|**Methodes / activiteiten**|**Praktijken / manieren van aanpak**|
 |---------------|------------------------|---------------------|
@@ -63,7 +65,7 @@ In plaats van te kijken waarover er consensus is, kan je echter ook nagaan welke
 
 Het overzicht van Lodi vertoont heel wat overeenkomstigheden met het kader waarbinnen Vlaamse scholen zullen werken:
 - De basisconcepten (algoritmisch denken, decompositie, abstractie en patroonherkenning (waaronder generalisatie)) staan vermeld in de eindtermen en minimumdoelen voor alle finaliteiten.
-- Logisch denken, modelleren en simuleren komt voor in de minimumdoelen van de 2de en 3de graad; weliswaar niet voor alle leerlingen, maar afhankelijk van de studierichting.
+- Logisch denken, modelleren en simuleren komen voor in de minimumdoelen van de 2de en 3de graad; weliswaar niet voor alle leerlingen, maar afhankelijk van de studierichting.
 - Automatisatie komt in de specifieke minimumdoelen voor in technische richtingen. Maar het zit ook in het gebruik van software in lessen statistiek. Automatisatie zit bij alle leerlingen bijvoorbeeld in het gebruiken van digitale toepassingen zoals een rekenblad of een rekenapp. Het kan ook deel uitmaken van lessen waarbij een digitale artefact zoals een sociale robot wordt gebouwd en geprogrammeerd.   
 - Programmeren komt voor in de eindtermen van de eerste graad en de specifieke minimumdoelen van de derde graad. Testen en debuggen hoort daarbij. Hergebruiken en remixen wordt in de eindtermen en minimumdoelen aangemoedigd, bijvoorbeeld via het gebruik van softwarebibliotheken en door het documenteren van geschreven code.
 - 'De wereld op een computationele manier begrijpen' maakt deel uit van het minimumdoel van mediawijsheid in de tweede graad.
@@ -94,19 +96,19 @@ computationeel denken en handelen.
 |troubleshooting en debuggen||
 
 
-• Binnen de leerdoelen zit basiskennis van digitale systemen en het werken met digitale tools.<br>
+• Tot de leerdoelen behoren basiskennis van digitale systemen en het werken met digitale tools.<br>
 • Debuggen en principes van programmeertalen, modellering en simuleren, en digitale representatie van informatie.<br>
 • Het doel is dat de leerlingen de werking van digitale systemen begrijpen en op termijn ook inzien wanneer ze op een zinvolle manier de computer kunnen
 inzetten, bv. bij het oplossen van een probleem of het proberen te halen van informatie uit data.<br>
 • Leerlingen kunnen in de gedigitaliseerde wereld beter functioneren als kritische burger.<br>
-• Computationeel denken is niet hetzelfde als programmeren en ruimer dan probleemoplossend denken. Het gaat ook om het zien wanneer een computer
+• Computationeel denken is niet hetzelfde als programmeren en is ruimer dan probleemoplossend denken. Het gaat ook om het zien wanneer een computer
 kan worden ingezet; dat kan bij het oplossen van een probleem zijn, maar ook bij het automatiseren van een proces of het verwerken en visualiseren van data.<br>
 
 Gezien de link met de 21ste-eeuwse vaardigheden, zoals mediawijsheid en informatiegeletterdheid, kan computationeel denken ook aan bod komen en en is het zelfs van belang in niet-STEM-vakken.
 
 ----------------------
 #### Bronnen
-Denning, P. & Tedre, M. (2019). *Computational thinking.* VS: MIT Press.<br>
+Denning, P. & Tedre, M. (2019). *Computational Thinking.* VS: MIT Press.<br>
 Lodi, M. (2020). Informatical Thinking. *Olympiads in Informatics: An International Journal, 14*, 113–132.<br>
 Guzdial, M. (2015). Learner-Centered Design of Computing Education: Research on Computing for Everyone. *Synthesis Lectures on Human-Centered Informatics.*<br>
 Weintrop, D., Beheshti, E., Horn, M., Orton, K., Jona, K., Trouille, L., & Wilensky, U. (2016). Defining Computational Thinking for Mathematics and Science Classrooms. *Journal of Science Education and Technology, 25*.
