@@ -38,7 +38,8 @@ Dankzij alle handige voorzieningen op de Dwenguino en het gebruiksgemak van de s
 
 Een theremin is het eerste elektronisch muziekinstrument. Het is uitgevonden door de Russische wetenschapper Leon Theremin in 1919. Wat hem speciaal maakt, is dat de theremin wordt bespeeld zonder hem aan te raken. 
 
-![](embed/theremin.jpg "theremin")
+![](embed/theremin.jpg "theremin")<br>
+<sub>Gregor Hohenberg. (2009). *Barbara Buchholz die het model TVox van George Pavlov bespeelt*. CC BY-SA 3.0, via Wikimedia Commons.</sub>
 
 Een theremin beschikt over 2 antennes (zie afbeelding) die verbonden zijn met een kistje. Eén antenne regelt de toonhoogte, de andere het volume. De muzikant kan dan de toonhoogte en/of het volume aanpassen door de handen dichter of verder van de respectievelijke antennes te bewegen.
 
