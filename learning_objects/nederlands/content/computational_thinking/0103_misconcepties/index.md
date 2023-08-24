@@ -53,16 +53,16 @@ Het is belangrijk dat leerkrachten deze misconcepties kennen; het is dus aangewe
 Computationeel denken is niet "denken als een computer".
 </div>
 
-Computationeel denken is niet denken zoals een computer (computers denken niet), en hoewel computerwetenschappers er ongetwijfeld meester in zijn, is het voor de meeste mensen ook niet denken zoals een computerwetenschapper. Het gaat om het kunnen oplossen van de eigen problemen waarmee men geconfronteerd wordt (Hemmendinger, 2010; Barr & Stephenson, 2011; Denning & Tedre, 2019).
+Computationeel denken is niet "denken zoals een computer" (computers denken niet), en hoewel computerwetenschappers er ongetwijfeld meester in zijn, is het voor de meeste mensen ook niet denken zoals een computerwetenschapper. Het gaat om het kunnen oplossen van de eigen problemen waarmee men geconfronteerd wordt (Hemmendinger, 2010; Barr & Stephenson, 2011; Denning & Tedre, 2019).
 
 > Eenvoudig gezegd: om te kunnen denken als een computerwetenschapper, moet men een computerwetenschapper zijn. De computerwetenschapper Hemmendinger (2010) schrijft “Teaching computational thinking, however is something else; not to lead people to think like us — which is pretty varied anyway. Instead, it is to teach them how to think like an economist, a physicist, an artist, and to understand how to use computation to solve their problems, to create, and to discover new questions that can fruitfully be explored.”
 
 <div class="alert alert-box alert-success">
-Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.
+Computationeel denken is niet altijd dé beste manier van denken, noch dé beste manier om een probleem op te lossen.
 </div>
 
 Computationeel denken vertoont overeenkomstigheden met andere manieren van denken, en kan niet bestempeld worden als de ‘beste’ manier van denken, het is een **extra manier van denken** naast kritisch denken, systeemdenken . . . (zie hiervoor ook het leerpad ['Historiek'](https://www.dwengo.org/learning-path.html?hruid=ct7_historiek&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_historiek1;nl;3)).<br>
-Computationeel denken is ook geenszins de ‘beste’ manier om problemen op te lossen (Tedre & Denning, 2016; Papert, 1980). 
+Computationeel denken is ook geenszins de ‘beste’ manier om problemen op te lossen (Tedre & Denning, 2016; Papert, 1980). De aard van het probleem bepaalt mee welke aanpak de beste is. Voor sommige problemen is computationeel denken echter de enige manier om het op te lossen. 
 
 Computationeel denken biedt wel een **houvast om een complex probleem aan te pakken** en een manier te bedenken om **m.b.v. de computer** tot een oplossing voor dat probleem te komen. Zo zijn sommige oplossingen voor de mens onhaalbaar, maar kunnen computers ze door hun snelheid wel uitvoeren. **Computationeel denken gaat dus ook over het zien van de opportuniteiten die de computer biedt om aan wetenschappelijk onderzoek te doen, ander onderzoek of meer efficiënt onderzoek, en het ruiken van kansen om taken te automatiseren.**
 
@@ -70,7 +70,7 @@ Computationeel denken biedt wel een **houvast om een complex probleem aan te pak
 Computationeel denken is niet gelijk aan ICT.
 </div>
 
-Computationeel denken is niet hetzelfde als ICT, het **louter werken met** toepassingen, zoals tekstverwerking of het ontwerpen van een eenvoudige webpagina. Het gaat over praktijken zoals data representeren; ook op zoek gaan naar de meest efficiënte oplossing voor een probleem is eigen aan computationeel denken (Voogt et al., 2015). 
+Computationeel denken is niet hetzelfde als ICT, wat in de praktijk vaak neerkomt op het **louter werken met** toepassingen, zoals tekstverwerking of het ontwerpen van een eenvoudige webpagina. Computationeel denken gaat over praktijken zoals data representeren; ook op zoek gaan naar de meest efficiënte oplossing voor een probleem is eigen aan computationeel denken (Voogt et al., 2015). 
 
 <div class="alert alert-box alert-success">
 Computationeel denken is niet gelijk aan programmeren.
@@ -104,7 +104,7 @@ Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfere
 </div>
 
 Stemmen gaan op om computationeel denken **vakoverstijgend** aan te bieden, in relevante **real world contexten**, zeker gezien de link met de 21ste-eeuwse vaardigheden (Grover & Pea, 2017). Voogt et al. (2015) waarschuwen er dan weer voor bij lessen rond computationeel denken al te veel nadruk te leggen op het verwerven van skills, zoals doorzettingsvermogen, kunnen samenwerken en kunnen omgaan met complexiteit en dubbelzinnigheid. Dat zou er immers toe kunnen leiden dat het werken aan de skill van computationeel denken zelf verloren gaat.<br>
-Je leest hier meer over in het volgende leerobject, nl. 'Aandachtspunten: Transfer'.
+Je leest hier meer over in het volgende leerobject, nl. ['Aandachtspunten: Transfer'](https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct_transfer&version=3&language=nl).
 
 <div class="alert alert-box alert-success">
 Computationeel denken is geen louter technologisch fenomeen.
@@ -113,7 +113,7 @@ Computers inzetten is ook een sociale activiteit waarbij men rekening moet houde
 
 > Computationeel denken gaat niet enkel om technologie, maar heeft ook een culturele en sociale dimensie (Kafai & Proctor, 2022).
 
-Je leest hier meer over in een van de volgende leerobjecten, nl. 'Aandachtspunt: Mensen'.
+Je leest hier meer over in een van de volgende leerobjecten, nl. ['Aandachtspunt: Mensen'](https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct_mensen&version=3&language=nl).
     
 ---------------------------
 #### Bronnen: 
