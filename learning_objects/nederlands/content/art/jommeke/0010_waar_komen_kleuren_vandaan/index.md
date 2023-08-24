@@ -32,4 +32,4 @@ Voor AI-systemen is dit net hetzelfde. Voor deze systemen afbeeldingen correct k
 
 Maar zelfs dan kan er af en toe nog iets mislopen. Dat kan je duidelijk zien op onderstaande afbeelding:
 
-![Paprika's](img/image13.png)
+![Paprika's](img/image.png)
