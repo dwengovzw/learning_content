@@ -45,3 +45,6 @@ Een van de leerlingen speelt de chatbot. Een andere leerling speelt de gebruiker
 De gebruiker heeft een script om een gesprek met de chatbot op poten te zetten. 
 
 De chatbot heeft een kaartenset met aan de ene kant een mogelijk gestelde vraag en aan de andere kant het antwoord dat de chatbot moet geven.
+
+ [![kaartjes](embed/unpluggedkaartjes.png)](embed/unplugged_kaartjes_ontwerp.pdf)
+ [![script](embed/unpluggedscript.png)](embed/unplugged_script_ontwerp.pdf)
