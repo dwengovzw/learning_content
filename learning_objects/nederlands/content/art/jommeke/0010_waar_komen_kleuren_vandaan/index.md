@@ -25,7 +25,7 @@ target_ages: [10, 11, 12, 13]
 Hieronder zie je de oplossing. <br>
 **Waarom ging het deze keer beter of slechter dan bij de vorige afbeelding?**
 
-![Yoshi](img/image11.png) 
+![Yoshi](img/image.png) 
 
 Het is duidelijk dat het niet eenvoudig is om een afbeelding zomaar correct in te kleuren. Als je niet weet dat de pet van Mario rood is, dan is de kans groot dat je die fout inkleurt. 
 Voor AI-systemen is dit net hetzelfde. Voor deze systemen afbeeldingen correct kunnen inkleuren, ondergaan ze een diepgaande 'training'. Tijdens deze training leren ze op basis van heel veel voorbeeldafbeeldingen hoe bepaalde voorwerpen en zaken eruit zien. Zo kunnen ze bijvoorbeeld leren dat gras groen is, de lucht blauw en de zon geel. Als het dan een van die zaken herkent in een zwart-wit afbeelding, dan weet het in welke kleur het ingekleurd moet worden. 
