@@ -37,7 +37,7 @@ Eerder bekeken we het logistische groeimodel om een populatie rupsen voor te ste
 
 In deze module ga je meteen aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om enkele interessante grafieken op te stellen.
 
-[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_3.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_3.ipynb)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6020 "Differentiaalvergelijking")
 
 ## De insecten voorbij
 
