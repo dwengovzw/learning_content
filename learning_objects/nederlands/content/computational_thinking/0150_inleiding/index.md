@@ -37,5 +37,5 @@ In hetzelfde leerpad kreeg je ook meer uitleg over wat de basisconcepten nu juis
 
 Computationeel denken is echter niet beperkt tot de basisconcepten. Het beslaat veel meer, zoals in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3) al bleek uit de poster van *Barefoot Computing*. De Vlaamse eindtermen en minimumdoelen spreken daarom ook over 'computationeel denken en handelen'.
 
-In dit leerpad maak je kennis met andere concepten en praktijken en hebben we voorbeelden verzameld over hoe **computationeel denken en handelen** aan bod kan komen in jouw lessen. Dat zijn voorbeelden uit de literatuur en voorbeelden uit ons eigen lesmateriaal. <br>
+In dit leerpad maak je kennis met andere concepten en praktijken en hebben we voorbeelden verzameld over hoe **computationeel denken en handelen** aan bod kan komen in jouw lessen. Dat zijn voorbeelden uit de literatuur en uit ons eigen lesmateriaal. <br>
 Deze voorbeelden zijn niet beperkt tot het STEM-domein; ook humane wetenschappen komen aan bod. 
