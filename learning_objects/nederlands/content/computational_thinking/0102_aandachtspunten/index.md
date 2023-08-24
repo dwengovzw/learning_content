@@ -54,7 +54,7 @@ Het is belangrijk dat leerkrachten deze misconcepties kennen.
 <ul><li>Computationeel denken is gelijk aan programmeren.</li></ul>
 <ul><li>Computationeel denken is enkel interessant voor programmeurs en andere informatici.</li></ul>    
 <ul><li>Computationeel denken is een generieke vaardigheid die wordt getransfereerd.</li></ul>
-<ul><li>Computationeel denken leren kan louter unplugged geleerd worden.</li></ul>    
+<ul><li>Computationeel denken kan louter unplugged geleerd worden.</li></ul>    
 <ul><li>Computationeel denken is een louter technologisch fenomeen.</li></ul>
 </div>
 
