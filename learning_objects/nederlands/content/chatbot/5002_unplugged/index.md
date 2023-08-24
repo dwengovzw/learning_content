@@ -34,6 +34,12 @@ teacher_exclusive: true
 
 # Speel zelf chatbot
 
+---------------------------------
+#### Computationeel denken unplugged: werking van een regelgebaseerde chatbot
+---------------------------------
+
+Rollenspel:
+
 Een van de leerlingen speelt de chatbot. Een andere leerling speelt de gebruiker.
 
 De gebruiker heeft een script om een gesprek met de chatbot op poten te zetten. 
