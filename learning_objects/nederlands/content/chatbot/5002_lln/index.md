@@ -39,7 +39,7 @@ teacher_exclusive: false
 #### Computationeel denken unplugged: werking van een regelgebaseerde chatbot
 ---------------------------------
 
-In het deel hierna speel je een rollenspel. Je leert zo hoe regelgbaseerde chatbots werken.
+In het deel hierna speel je een rollenspel. Je leert zo hoe regelgebaseerde chatbots werken.
 
 Een van de leerlingen speelt de chatbot. Een andere leerling speelt de gebruiker.
 
