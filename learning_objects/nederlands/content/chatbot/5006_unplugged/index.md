@@ -34,6 +34,15 @@ teacher_exclusive: true
 
 # Lerende chatbots
 
+De werking van lerende chatbots wordt [hier](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=cb_chatbot3&version=3&language=nl) uitgelegd. Via *embeddings* wordt tekst omgezet naar vectoren. 
+
+Onthoud: <br>
+* Semantisch verwante teksten worden dicht bij elkaar in de vectorruimte geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men de overeenkomstige drie vectoren dicht bij elkaar vinden in de vectorruimte.
+* Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden.
+
+De lerende chatbot zal woorden die dicht bij elkaar liggen gebruiken om zinnen mee te maken. 
+
+
 ### Opdracht 1
 
 Bekijk het eerste schema. Lees de tekst die ChatGPT schreef en die hoort bij het eerste schema.
@@ -48,6 +57,11 @@ Bekijk nu het tweede schema. Welke tekst zou ChatGPT kunnen schrijven bij dit sc
 
 ![emiliaveld](https://github.com/dwengovzw/learning_content/assets/48352335/25fcec34-9d31-4fc3-92c3-2835edec7f36)
 
+![werkblad](embed/werkblad_wie is Emilia.pdf)
+
+*Mogelijk antwoord:*<br>
+*Emilia is een tekenfilm door tekenaar Kobe Devries. Ze heeft een zeehond en haar beste vriend is Arsène.* 
+
 
 ### Opdracht 3
 
@@ -57,6 +71,10 @@ Leg de kaartjes in het veld. Hoe dichter woorden bij elkaar horen, hoe dichter j
 
 ![veld](https://github.com/dwengovzw/learning_content/assets/48352335/953abce7-119a-4ca2-a7d2-382caccac749)
 
+*Een voorbeeldoplossing (er zijn meerdere oplossingen):*<br>
+![ingevuldveld](https://github.com/dwengovzw/learning_content/assets/48352335/dad2251d-ce91-4ea0-bad8-42f8e1bcd714)<br>
+
+
 ### Opdracht 4
 
 Lees de tekst over Suske en Wiske.
@@ -65,5 +83,5 @@ Lees de tekst over Suske en Wiske.
 
 Merk je iets vreemds op in deze tekst?
 
-
+*Wiske heeft geen blauwe strik, maar een rode. Heeft Lambik wel een snor?* 
 
