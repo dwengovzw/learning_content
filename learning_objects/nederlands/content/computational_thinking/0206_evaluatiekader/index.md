@@ -2,8 +2,8 @@
 hruid: ct_evaluatiekader6
 version: 3
 language: nl
-title: "Bloom"
-description: "Bloom"
+title: "Handelingswerkwoorden"
+description: "Handelingswerkwoorden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,9 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Evaluatiekader
-
-## Taxonomie van Bloom
+# Handelingswerkwoorden
 
 
 
