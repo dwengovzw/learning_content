@@ -36,12 +36,12 @@ Wat houdt computationeel denken in? In dit filmpje krijg je alvast een inleiding
 ![](@youtube/https://www.youtube.com/embed/QrE3dtHFwas "filmpje kennismaking basisconcepten computationeel denken") 
 
 In de kader 'Een definitie van computationeel denken' stellen we een definitie voor die voor Vlaamse leerkrachten als startpunt kan dienen.<br> 
-Om tot deze definitie te komen hielden we rekening met de aspecten van 'computationeel denken' waarover een internationale consensus bestaat (zie hetvolgende leerobject 'Aandachtspunt: Consensus') en de definitie die meegegeven werd bij de Vlaamse eindtermen van de eerste graad (zie onderaan deze pagina).
+Om tot deze definitie te komen hielden we rekening met de aspecten van 'computationeel denken' waarover een internationale consensus bestaat (zie het volgende leerobject 'Aandachtspunt: Consensus') en de definitie die meegegeven werd bij de Vlaamse eindtermen van de eerste graad (zie onderaan deze pagina).
 
 <div class="alert alert-box alert-success">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 
     
-_Computationeel denken is een methodologie om een complex probleem aan te pakken, op een manier dat een computer zou kunnen ingezet worden om het op te lossen._    
+_Computationeel denken is een methodologie om een complex probleem aan te pakken, op een manier dat een computer zou kunnen worden ingezet om het op te lossen._    
 
 </div>
 
@@ -91,7 +91,7 @@ _Computationeel denken en handelen is een proces waarbij men tot output komt geb
 </div>
 
 <div class="alert alert-box alert-secondary">
-Men had daarbij in gedachten om leerlingen "niet alleen digitale technologie te leren gebruiken, maar er ook voor te zorgen dat ze de onderlinge werking begrijpen".<br>
+Men had daarbij in gedachten om leerlingen "niet alleen digitale technologie te leren gebruiken, maar er ook voor te zorgen dat ze de onderliggende werking begrijpen".<br>
 De leerdoelen over computationeel denken beogen: 
 <ul><li>leerlingen een beter zicht te geven op complexe problemen;</li></ul>
 <ul><li>hen de werking van een computer te laten begrijpen zodat ze die "in een later stadium kunnen inzetten als hulpmiddel om een probleem op te lossen";</li></ul>

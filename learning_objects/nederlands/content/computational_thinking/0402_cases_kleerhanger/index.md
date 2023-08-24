@@ -29,9 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Een kleerhanger ontwerpen
-Doelgroep: 2de graad hout-richting
+# Kleerhanger 
 
-Voorkennis: De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
+**Een kleerhanger ontwerpen.**
+
+**Doelgroep:** 2de graad hout en 2de graad houttechnieken
+
+**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
+
+**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
 
 ![ct-schema](@learning-object/m_ct_cases2/nl/3)

@@ -30,7 +30,10 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Automatische terrasverlichting
-**Doelgroep:** Leerlingen 2de graad.
+
+**Doelgroep:** 2de graad - dubbele finaliteit 
+
+**Vak:**............
 
 **Voorkennis:** De leerlingen kennen in- en uitvoerelementen van digitale systemen. Ze kunnen werken met waarheidstabellen en Karnaugh kaarten.
 

@@ -46,20 +46,22 @@ Het gebruik van een niet-digitale en een digitale zwangerschapstest verloopt op 
 - Bij beide reageert het urinestaal al dan niet op een bepaalde stof die aanwezig is in het meettoestel.   
 </patternRecognition>
 <abstraction>
-Het al dan niet zwanger zijn wordt bij een zwangerschapstest weergegeven door een **symbool**: een of twee streepjes, een plus- of een minteken, … (**abstractie**)
+Het al dan niet zwanger zijn, wordt bij een zwangerschapstest weergegeven door een **symbool**: één of twee streepjes, een plus- of een minteken, … (**abstractie**)
 </abstraction>
 <algorithms>
-**Algoritme:**<br>
+**Algoritme bij de digitale test:**<br>  
 ALS de urine reageert met de stof <br>
-   DAN zwanger<br>
-   ANDERS niet zwanger<br>
-ALS zwanger<br>
-    DAN toon boodschap + op het scherm <br>
-    ANDERS toon boodschap - op het scherm<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DAN toon boodschap + op het scherm <br>
+ANDERS toon boodschap - op het scherm<br>
 ALS de test niet goed uitgevoerd is<br>
-    DAN geef een foutboodschap op het scherm
-    
-Het uitvoeren van de test zelf verloopt ook volgens een stappenplan. 
+&nbsp;&nbsp;&nbsp;&nbsp;DAN geef een foutboodschap op het scherm
+
+**Algoritme bij de niet-digitale test:**<br>
+ALS de urine reageert met de stof <br>
+&nbsp;&nbsp;&nbsp;&nbsp;DAN verschijnen er twee streepjes<br>
+ANDERS is er slechts één streepje (het controlestreepje)
+
+Het uitvoeren van de test zelf verloopt ook volgens een stappenplan (zowel bij de digitale als bij de niet-digitale test). 
 </algorithms>
 <implementation>
 Dit is een activiteit waarbij niet geprogrammeerd moet worden.

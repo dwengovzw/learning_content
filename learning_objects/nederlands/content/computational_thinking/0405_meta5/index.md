@@ -59,10 +59,10 @@ De leerling heeft bv. gekozen: <br>
 <algorithms>
 **Algoritme:**<br>
 ALS iemand dichter dan 30 cm komt<br>
-DAN robot zwaait met beide handjes en knipoogt <br>
+&nbsp;&nbsp;&nbsp;&nbsp;DAN robot zwaait met beide handjes en knipoogt <br>
 ANDERS zwaait hij niet en ogen wijd open <br>
 ALS iemand in de handen klapt<br>
-DAN verschijnt de boodschap ‘Hallo! Hoe gaat het?’<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DAN verschijnt de boodschap ‘Hallo! Hoe gaat het?’<br>
 </algorithms>
 <implementation>
 Plaats hier een screenshot van de Blockly-code.

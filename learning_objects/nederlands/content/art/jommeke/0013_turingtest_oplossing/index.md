@@ -45,4 +45,4 @@ Hieronder zie je de oplossing van de vraag op de vorige pagina. Hoeveel afbeeldi
 Bekijk de ingekleurde afbeeldingen nog eens goed. Op welke manier loopt het mis in die afbeeldingen?
 
 ---
-© Standaard Uitgeverij 2022
+Afbeeldingen © Standaard Uitgeverij 2022

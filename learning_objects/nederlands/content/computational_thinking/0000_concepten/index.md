@@ -51,7 +51,7 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
 
 <div class="alert alert-box alert-primary">
     <strong>Opdracht voor de leerlingen. Welke digitale systemen heb je thuis?</strong><br> 
-    Ga na welke digitale systemen je gebruikt op een doorsnee dag, vanaf het moment dat je wakker wordt tot wanneer je op school komt. 
+    Ga na welke digitale systemen je gebruikt op een doorsnee dag, bijvoorbeeld vanaf het moment dat je wakker wordt tot wanneer je op school komt. 
 </div>
 
 ---------------------------------

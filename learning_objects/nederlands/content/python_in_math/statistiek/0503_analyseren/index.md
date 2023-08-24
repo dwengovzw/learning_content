@@ -34,5 +34,5 @@ teacher_exclusive: false
 
 ## Gemiddelde, mediaan en uitschieters. Kwartielen, interkwartielafstand, boxplot. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0300 "Notebook analyse data")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0375 "Notebook analyse data")
 

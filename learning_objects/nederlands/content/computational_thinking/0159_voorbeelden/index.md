@@ -64,5 +64,5 @@ Het **derde voorbeeld** dient om te oefenen op gestandandaardiseerde testen in d
 
 --------------------
 #### Bronnen
-Yihuan Dong, Veronica Catete, Robin Jocius, Nicholas Lytle, Tiffany Barnes, Jennifer Albert, Deepti Joshi, Richard Robinson, and Ashley Andrews. 2019. PRADA: A Practical Model for Integrating Computational Thinking in K-12 Education. *In Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)*. Association for Computing Machinery, New York, NY, USA, 906–912.<br>
-Sands, P., Yadav, A., Good, J. (2018). Computational Thinking in K-12: In-service Teacher Perceptions of Computational Thinking. In: Khine, M. (eds) *Computational Thinking in the STEM Disciplines*. Springer, Cham.
+Dong, Y., Catete, V., Jocius, R., Lytle, N., Barnes, T., Albert, J., Joshi, D., Robinson, R., & Ashley Andrews, A. (2019). PRADA: A Practical Model for Integrating Computational Thinking in K-12 Education. *In Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)*. Association for Computing Machinery, New York, NY, USA, 906–912.<br>
+Sands, P., Yadav, A., & Good, J. (2018). Computational Thinking in K-12: In-service Teacher Perceptions of Computational Thinking. In: Khine, M. (eds) *Computational Thinking in the STEM Disciplines*. Springer, Cham.

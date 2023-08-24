@@ -2,8 +2,8 @@
 hruid: ct_evaluatiekader1
 version: 3
 language: nl
-title: "Evaluatiekader"
-description: "Evaluatiekader"
+title: "Evaluatievormen"
+description: "Evaluatievormen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,17 +30,20 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Evaluatiekader
+# Evaluatievormen
 
-## Tussentitel
 
-### Subtitel
 
-**Inspiratie:** 
-- Bredere evaluatie: schuiven op vier assen, Katrien Bultynck, 2004.
-- Toolkit breed evalueren. Harde of zachte evaluatie, Saveyn, J., 2007. https://data-onderwijs.vlaanderen.be/documenten/bestand.ashx?id=12568
-- https://formatiefevalueren.kdg.be/ 
+### Veel voorkomende evaluatievormen
 
-### Infographic Tom Neutens: Hoe evalueer ik grafische code?
-- 
-![infographic](https://github.com/dwengovzw/learning_content/assets/48352335/3d33c7d2-9ae6-4cd4-ba07-01532e64c5e7)
+### Werkstuk in informaticaonderwijs
+
+### Observatie in informaticaonderwijs
+
+### Interview in informaticaonderwijs
+
+### Portfolio in informaticaonderwijs
+
+### Zelfevaluatie in informaticaonderwijs
+
+### Peerfeedback in informaticaonderwijs

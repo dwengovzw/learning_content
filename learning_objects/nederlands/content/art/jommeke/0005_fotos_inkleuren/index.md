@@ -22,12 +22,12 @@ target_ages: [10, 11, 12, 13]
 
 # Foto's inkleuren
 
-Een specifieke toepassing van AI-systemen is het inkleuren van zwart-wit beelden. In de rest van deze les gaan we dieper in op hoe deze systemen in staat zijn om automatisch foto's in te kleuren.
+Een specifieke toepassing van AI-systemen is het inkleuren van zwart-wit beelden. In wat volgt ga je dieper in op hoe deze systemen in staat zijn om automatisch foto's in te kleuren.
 
 Oefening
 ------------
 
- De volgende foto werd genomen door Sergei Mikhailovich Prokudin-Gorskii in het Russische rijk ergens tussen 1905 en 1915. Je ziet hieronder drie weergaven van dezelfde foto. Twee van de weergaven zijn bewerkt, een is het origineel. Welke foto is volgens jou het origineel?
+ De volgende foto werd genomen door Sergei Mikhailovich Prokudin-Gorskii in het Russische rijk ergens tussen 1905 en 1915. Je ziet hieronder drie weergaven van dezelfde foto. Twee van de weergaven zijn bewerkt, een is het origineel. **Welke foto is volgens jou het origineel?**
 
 
  ![Versie 1](img/image17.png)
@@ -43,4 +43,8 @@ Oefening
 
 
  **Uitleg**:
-  Het gaat hier om 3 foto’s. De eerste foto is de originele afbeelding. De tweede foto werd gegenereerd door een AI-systeem dat geleerd heeft om zwart-wit foto's in te kleuren. Eerst werden dus de kleuren uit het origineel weggehaald en dan werd gevraagd aan het algoritme om de zwart-wit foto in te kleuren. De laatste afbeelding werd gegenereerd door in Photoshop de saturatie van de originele afbeelding te verminderen.
+  Het gaat hier om drie foto’s. <br>
+  - De eerste foto is de originele afbeelding.
+  - De tweede foto werd gegenereerd door een AI-systeem dat geleerd heeft om zwart-wit foto's in te kleuren. Eerst werden dus de kleuren uit het origineel weggehaald en dan werd gevraagd aan het algoritme om de zwart-wit foto in te kleuren.<br>
+  Foto met dank aan Gwen Katz ([Twitterpost](https://twitter.com/gwenckatz/status/1381653160482140162?s=46&t=N9ayZ_B8mO6rNT1MsiNkgA)).
+  - De laatste afbeelding werd gegenereerd door in Photoshop de saturatie van de originele afbeelding te verminderen.

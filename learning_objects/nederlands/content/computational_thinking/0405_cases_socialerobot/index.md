@@ -30,14 +30,17 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Ontwerp en realiseer een sociale robot
-In het project 'Sociale robot' maken de leerlingen een schets van hun droomrobot.<br>Ze bedenken hoe hun robot zal communiceren met mensen, en ze beschrijven dit met een algoritme. Ze schrijven neer welke sensoren en actuatoren daarvoor nodig zijn. <br>Nadien passen ze het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waar ze over beschikken. <br>
+In het project 'Sociale robot' maken de leerlingen een schets van hun droomrobot.<br>Ze bedenken hoe hun robot zal communiceren met mensen, en ze beschrijven dit met een algoritme. Ze schrijven neer welke sensoren en actuatoren daarvoor nodig zijn. 
+
+Nadien passen ze het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waar ze over beschikken. <br>
+
 Tot slot creëren ze een fysieke robot, gebaseerd op hun eigen ontwerp. 
 
 ![Ontwerp](schetsontwerp.png)
 
 ![Fysieke robot](ironman.jpg)
 
-**Doelgroep**: 1ste of 2de graad - alle finaliteiten; 3de graad - finaliteit arbeidsmarkt; alle graden OKAN
+**Doelgroep**: 1ste of 2de graad - alle finaliteiten; 3de graad - finaliteit arbeidsmarkt; alle graden - OKAN
 
 **Vak**: 1ste graad Techniek - STEM - Informatica; 2de graad STEM - Informatica; 3de graad PAV - STEM
 
@@ -64,6 +67,8 @@ Tot slot creëren ze een fysieke robot, gebaseerd op hun eigen ontwerp.
 ### Concreet: De leerlingen monteren de hardware op het lichaam van de robot.
 
 ![ct-schema](@learning-object/m_ct_cases5f/nl/3)
+
+---------------------------------
 
 ### Eindtermen 1ste graad (Bron: onderwijsdoelen.be)
 

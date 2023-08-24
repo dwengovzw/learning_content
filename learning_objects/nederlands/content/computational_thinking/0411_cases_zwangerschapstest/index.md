@@ -30,7 +30,13 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Zwangerschapstest
+
+Op de markt zijn zwangerschapstesten zowel in niet-digitale als in digitale vorm te vinden. De digitale zijn aanzienlijk duurder. De leerlingen vergelijken de werking van beide systemen. Vervolgens kan klassikaal besproken worden wat de voor- en nadelen van beide systemen zijn en of de meerkost de moeite loont. 
+
+
 **Doelgroep:**: derde graad, finaliteit arbeidsmarkt
+
+**Vak:** PAV
 
 **Voorkennis:** De leerlingen kennen begrippen als input en output en maakten reeds kennis met keuzestructuren (ALS-DAN-constructies).
 

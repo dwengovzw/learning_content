@@ -2,8 +2,8 @@
 hruid: stem5_11
 version: 3
 language: nl
-title: "Differentiaalvergelijkingen"
-description: "Differentiaalvergelijkingen"
+title: "De eindige differentiemethode"
+description: "De eindige differentiemethode"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,64 +27,108 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
-# Lieveheersbeestjes en luizenplagen: een dynamisch wereldbeeld met differentiaalvergelijkingen
+# De eindige differentiemethode
 
-We stelden reeds vast dat de tijd in de praktijk als continu ervaren wordt, waarbij discrete groeimodellen niet lang volstaan. Daarom beschrijven wetenschappers de realiteit vaak door een krachtiger model: de **differentiaalvergelijking**. De oplossing van een dergelijke differentiaalvergelijking is dan geen getal, maar een functie die het systeem beschrijft doorheen de tijd. Differentiaalvergelijkingen worden doorgaans pas gegeven na een stevige wiskundebasis. In deze module geven we een eerste introductie tot differentiaalvergelijkingen, met als doel een populatie bladluizen en lieveheersbeestjes te beschrijven.
+In dit leerobject wordt de eindige differentiemethode uitgelegd, die gebruik maakt van het differentiequotiënt om de afgeleide van een functie voor een gegeven waarde te schatten:
 
-## Biologische bestrijding met lieveheersbeestjes
+\\[f'(t) = \frac{\text{d}f(t)}{\text{d}t} \approx \frac{f(t + \Delta t) - f(t)}{\Delta t}\\]
 
-Waar rupsen ware monsters zijn die bladeren van planten opeten en gewassen op die manier aantasten, zijn bladluizen meer verfijnd. Met hun naaldvormig mondstuk zuigen ze het sap van een plant rechtstreeks uit het vaatweefsel. Dit sap bevat voornamelijk suikers, en relatief weinig aminozuren die de luizen ook nodig hebben. Daarom scheiden de luizen het sap grotendeels terug uit, ontdaan van de meeste aminozuren; deze substantie wordt honingdauw genoemd. Hoewel honingdauw een belangrijke voedingsbron voor mieren en wespen is, kan deze substantie ook schadelijke schimmels aantrekken. Bovendien onttrekken luizen via het vaatweefsel niet alleen de kostbare suikers van de plant, maar ook gevaarlijke plantenvirussen die zich op deze manier verder kunnen verspreiden. Daarom zijn luizen erg vervelende beestjes voor vele soorten gewassen, zoals aardappelen, bonen en rozen.
+Een concreet voorbeeld wordt gegeven voor de functie \\(f\\) met voorschrift \\(f(t) = t sin (t)\\), al zijn andere voorbeelden uiteraard ook mogelijk.
 
-![Bladluis](embed/bladluis.jpg "https://commons.wikimedia.org/wiki/File:Aphids_May_2010-2.jpg")
+## De impact van het tijdsinterval \\(\Delta t\\)
 
-Omdat luizen zo schadelijk zijn, bestaan er verschillende chemische verdelgingsmiddelen. Deze behandeling kan er evenwel voor zorgen dat er schadelijke stoffen in de gewassen en de bodem terechtkomen, die slecht zijn voor mens en natuur. Daarom wordt er ook vaak een biologische bestrijding toegepast: bladluizen zijn immers smakelijk voedsel voor vele andere insecten en vogels. Het lieveheersbeestje in het bijzonder is een echte moordmachine voor bladluizen. Larven alleen al eten zo'n 400 bladluizen, terwijl een volwassen lieveheersbeestje maar liefst 5000 luizen kan verorberen. Men kan daarom de larven van lieveheersbeestjes kopen om een luizenplaag onder controle te brengen.
+Een functie `plot_afgeleide` wordt gegeven, die het mogelijk maakt om de afgeleide van de functie \\(f\\) te plotten in een grafiek, samen met een schatting van de functiewaarden op basis van de eindige differentiemethode. Deze Pythonfunctie heeft het tijdsinterval \\(\Delta t\\) als input, wat het mogelijk maakt om te experimenteren met verschillende waarden voor deze parameter; hierdoor kan de leerling de impact van een groter/kleiner tijdsinterval onderzoeken.
 
-![Lieveheersbeestje](embed/lieveheersbeestje.jpg "https://upload.wikimedia.org/wikipedia/commons/4/42/Ladybug.jpg")
+Bij wijze van uitbreiding kan de leerkracht alternatieve functies laten onderzoeken, of de leerlingen vragen om een tijdsinterval \\(\Delta t\\) te zoeken waarvoor de afwijking ten opzichte van de werkelijke waarden een gegeven drempelwaarde niet overschrijdt. Ook kan gevraagd worden om een enkele grafiek te voorzien, waarin de bekomen resultaten geplot worden voor verschillende waarden van het tijdsinterval, en dit met een bijhorende legende.
 
-Wanneer men lieveheersbeestjes introduceert in de omgeving, zullen deze zich verder voortplanten. Een lieveheersbeestje kan op een dag wel 50 eitjes leggen, die eerst larven worden, en zich na ongeveer 20 dagen verpoppen tot nieuwe lieveheersbeestjes. Dit betekent dat de populatie zal aangroeien zolang er voldoende voedsel is. Wanneer er op een gegeven moment te weinig bladluizen over zijn, zal het aantal lieveheersbeestjes weer dalen.
+## Python
 
-**Om de effecten van biologische bestrijding te modelleren, heb je dus een complexer model nodig dan deze die je hiervoor behandeld hebt**. Je zal namelijk twee toestanden moeten modelleren: het aantal bladluizen en het aantal lieveheersbeestjes.
+Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
 
-## De populatiegrootte als differentiaalvergelijking
+- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
 
-In deze module zal je het concept van afgeleiden gebruiken om de verandering van de populatiegrootte van bladluizen en lieveheersbeestjes te beschrijven, waarbij de ene populatiegrootte een rechtstreekse impact heeft op de andere. Hiervoor zal je een vergelijking gebruiken waarbij zowel een functie als haar afgeleide voorkomt; dit wordt een **differentiaalvergelijking** genoemd.
+- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
 
-Eigen aan differentiaalvergelijkingen is dat de afgeleide van een functie, genoteerd als \\(\dot{y}\\), geschreven kan worden als een functie van de originele functie \\(y\\) op een specifiek moment in de tijd \\(t\\):
+- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
 
-\\[\dot{y} = f(y, t)\\]
+- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen
 
-Specifiek gericht op het probleem met bladluizen, kan je de groei van de populatiegrootte van luizen als volgt beschrijven:
+- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
 
-\\[\dot{y} = ry \left(1 - \frac{y}{K}\right)\\]
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
 
-Hierbij stellen \\(r = a - 1\\) het groeipercentage en \\(K\\) de draagkracht voor (beide strikt positieve constanten), en stelt \\(y\\) de populatiegrootte voor. \\(\dot{y}\\) is dan de afgeleide van \\(y\\), die je iets vertelt over de verandering van de populatiegrootte:
+## Minimumdoelen
 
-- Wanneer \\(\dot{y} > 0\\), zal de populatiegrootte stijgen
-- Wanneer \\(\dot{y} < 0\\), zal de populatiegrootte dalen
-- Wanneer \\(\dot{y} = 0\\), zal er geen verandering zijn en blijft de populatiegrootte constant
+### WD_06 Wiskunde
 
-Belangrijk is dus om vast te stellen dat \\(\dot{y}\\) de verandering (groei/afname) van de populatiegrootte beschrijft, en niet de populatiegrootte zelf!
+#### Algemene minimumdoelen
 
-Je kunt je de vraag stellen wanneer het systeem in evenwicht is, en de populatiegrootte dus constant blijft. In dat geval moet je volgende vergelijking oplossen:
+Alle beschouwde richtingen
 
-\\[\dot{y} = 0 \iff ry \left(1 - \frac{y}{K}\right) = 0 \iff ry = 0 \lor 1 - \frac{y}{K} = 0 \iff y = 0 \lor y = K\\]
+<span style="color: yellowgreen">MD 06.03 De leerlingen interpreteren de afgeleide als limiet van een differentiequotiënt en als richtingscoëfficiënt van de raaklijn aan de grafiek.</span><br>
+De eindige differentiatiemethode komt aan bod, waarbij het differentiequotiënt besproken wordt.
 
-In het eerste geval zijn er geen bladluizen, in het tweede geval wordt de draagkracht \\(K\\) bereikt (zie eerder).
+<span style="color: yellowgreen">MD 06.04 De leerlingen leggen grafisch het verband tussen een functie en haar afgeleide functie.</span><br>
+De leerlingen stellen vast dat de functiewaarden toenemen wanneer de afgeleide positief is, en afnemen wanneer deze negatief is.
 
-De bedoeling is nu om het verloop van de populatiegrootte te kunnen beschrijven doorheen de tijd. Hiervoor kan je de **methode van Euler** gebruiken, die toelaat om een numerieke oplossing te berekenen van een differentiaalvergelijking met beginvoorwaarden. Herinner je dat je de afgeleide van een functie als volgt kan benaderen:
+<span style="color: yellowgreen">MD 06.21 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.</span><br>
+De notebook berekent de geschatte afgeleide voor verschillende waarden \\(t\\), en laat toe om grafieken te genereren die de impact van de variabele \\(\Delta t\\) illustreren.
 
-\\[f'(t) \approx \frac{f(t + \Delta t) - f(t)}{\Delta t}\\]
+#### Wiskunde B+S
 
-met \\(\Delta t\\) zo klein mogelijk. Je vindt dan dat:
+Bedrijfsondersteunende informaticawetenschappen
 
-\\[f(t + \Delta t) \approx f(t) + \Delta t \cdot f'(t)\\]
+<span style="color: yellowgreen">06.05.06 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
+In de notebook wordt de grafiek van een functie geplot, waarbij periodiciteit vastgesteld wordt. De link tussen het stijgen en dalen van de functie en de afgeleide van de functie wordt besproken.
 
-In het beschouwde geval stelt \\(y = f(t)\\) de populatiegrootte voor, en \\(\dot{y} = f'(t)\\) de verandering van deze grootte. In de interactieve notebook zal je deze laatste formule gebruiken om stap voor stap nieuwe schattingen voor de functie \\(f\\) te maken.
+#### Wiskunde B+S'
 
-## Interactieve notebook
+Biotechnologische en chemische STEM-wetenschappen; Informatica- en communicatiewetenschappen; Mechatronica
 
-Ga nu aan de slag met een interactieve notebook, waarin je Python zal gebruiken om de interactie tussen de populatiegroottes van bladluizen en lieveheersbeestjes in kaart te brengen.
+<span style="color: yellowgreen">06.04.06 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
+In de notebook wordt de grafiek van een functie geplot, waarbij periodiciteit vastgesteld wordt. De link tussen het stijgen en dalen van de functie en de afgeleide van de functie wordt besproken.
 
-[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_6.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_6.ipynb)
+#### Wiskunde B+S''
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappen en Engineering; Wetenschappen-Wiskunde
+
+<span style="color: yellowgreen">SMD 06.08.07 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
+In de notebook wordt de grafiek van een functie geplot, waarbij periodiciteit vastgesteld wordt. De link tussen het stijgen en dalen van de functie en de afgeleide van de functie wordt besproken.
+
+### WD_07 Informaticawetenschappen
+
+#### Informaticawetenschappen
+
+Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Wetenschappen-Wiskunde
+
+#### Informaticawetenschappen S''
+
+Bedrijfsondersteunende informaticawetenschappen
+
+#### Informatica- en communicatiewetenschappen B+S
+
+Informatica- en communicatiewetenschappen
+
+#### Technologische wetenschappen en Engineering B+S
+
+Technologische wetenschappen en Engineering
+
+#### Bedrijfswetenschappen S (GO!)
+
+Bedrijfswetenschappen (GO!)
+
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+
+#### Biotechnologische en chemische STEM-wetenschappen B+S
+
+Biotechnologische en chemische STEM-wetenschappen
+
+#### Mechatronica B+S
+
+Mechatronica
+
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.

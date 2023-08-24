@@ -30,11 +30,15 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Locked-in Syndroom
+
+Aan de hand van deze echt gebeurde *case* ga je unplugged aan de slag met concepten en praktijken van computationeel denken en laat je de leerlingen inzien dat de mens centraal staat bij het ontwikkelen van nieuwe technologische toepassingen. 
+
+
+Deze case maakt deel uit van het project 'AI in de Zorg', maar kan ook los van dat project gedaan worden.
+
 **Voorkennis:** geen
 
 **Doelgroep:** iedereen
-
-Dit voorbeeld past in het project AI in de Zorg, maar kan ook buiten dat project worden gedaan.
 
 ![ct-schema](@learning-object/m_ct_cases12/nl/3)
 
