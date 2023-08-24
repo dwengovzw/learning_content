@@ -91,7 +91,7 @@ _Computationeel denken en handelen is een proces waarbij men tot output komt geb
 </div>
 
 <div class="alert alert-box alert-secondary">
-Men had daarbij in gedachten om leerlingen "niet alleen digitale technologie te leren gebruiken, maar er ook voor te zorgen dat ze de onderlinge werking begrijpen".<br>
+Men had daarbij in gedachten om leerlingen "niet alleen digitale technologie te leren gebruiken, maar er ook voor te zorgen dat ze de onderliggende werking begrijpen".<br>
 De leerdoelen over computationeel denken beogen: 
 <ul><li>leerlingen een beter zicht te geven op complexe problemen;</li></ul>
 <ul><li>hen de werking van een computer te laten begrijpen zodat ze die "in een later stadium kunnen inzetten als hulpmiddel om een probleem op te lossen";</li></ul>
