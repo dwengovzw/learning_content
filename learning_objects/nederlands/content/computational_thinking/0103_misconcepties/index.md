@@ -37,20 +37,20 @@ Er is heel wat te zeggen over wat computationeel denken **niet** is en wat het *
 Het is belangrijk dat leerkrachten deze misconcepties kennen; het is dus aangewezen om hier dieper op in te gaan.
 
 
-<div class="alert alert-box alert-success">
-<strong>Wat is computationeel denken niet?</strong>
-<ul><li>Computationeel denken is niet denken als een computer.</li></ul>
-<ul><li>Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.</li></ul>
-<ul><li>Computationeel denken is niet gelijk aan ICT.</li></ul>
-<ul><li>Computationeel denken is niet gelijk aan programmeren.</li></ul>
-<ul><li>Computationeel denken is niet enkel interessant voor programmeurs en andere informatici.</li></ul> 
-<ul><li>Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.</li></ul>
-<ul><li>Computationeel denken leer je niet enkel unplugged.</li></ul>    
-<ul><li>Computationeel denken is geen louter technologisch fenomeen.</li></ul>
+<div class="alert alert-box alert-danger">
+<strong>Misconcepties over computationeel denken.</strong>
+<ul><li>Computationeel denken is "denken als een computer".</li></ul>
+<ul><li>Computationeel denken is dé beste manier van denken, en dé beste manier om een probleem op te lossen.</li></ul>
+<ul><li>Computationeel denken is gelijk aan ICT.</li></ul>
+<ul><li>Computationeel denken is gelijk aan programmeren.</li></ul>
+<ul><li>Computationeel denken is enkel interessant voor programmeurs en andere informatici.</li></ul>    
+<ul><li>Computationeel denken is een generieke vaardigheid die wordt getransfereerd.</li></ul>
+<ul><li>Computationeel denken leren kan louter unplugged geleerd worden.</li></ul>    
+<ul><li>Computationeel denken is een louter technologisch fenomeen.</li></ul>
 </div>
 
 <div class="alert alert-box alert-secondary">
-Computationeel denken is niet denken als een computer.
+Computationeel denken is niet "denken als een computer".
 </div>
 
 Computationeel denken is niet denken zoals een computer (computers denken niet), en hoewel computerwetenschappers er ongetwijfeld meester in zijn, is het voor de meeste mensen ook niet denken zoals een computerwetenschapper. Het gaat om het kunnen oplossen van de eigen problemen waarmee men geconfronteerd wordt (Hemmendinger, 2010; Barr & Stephenson, 2011; Denning & Tedre, 2019).
