@@ -43,28 +43,39 @@ In deze lessenreeks breng je leerlingen inzichten bij in de werking van een chat
 
 # De inleiding 'Wat is AI?' is als volgt opgebouwd:
 
-### Klasdiscussie
+## Klasdiscussie
 
 *De leerlingen hebben vaak geen idee van hoeveel AI-systemen reeds in het dagdagelijkse leven worden gebruikt.*  
 
-- Denk je dat je al kunstmatige intelligentie hebt gebruikt?
-- Ken je toepassingen van kunstmatige intelligentie?
+* Denk je dat je al kunstmatige intelligentie hebt gebruikt?
+* Ken je toepassingen van kunstmatige intelligentie?
 
-### Uit de krant
+## Uit de krant
 
 *We geven twee krantenkoppen als voorbeeld. Wil je liever inspelen op de actualiteit of vind je deze artikelen niet zo geschikt voor jouw klasgroep, kies dan zeker andere.*
 
 Bekijk de twee krantenkoppen:<br>
 [AI-chatbot overtuigde jonge Belg om uit het leven te stappen](https://www.nieuwsblad.be/cnt/dmf20230328_99679587)<br>
 [Paus in witte rapperjas](https://www.hln.be/het-leukste-van-het-web/paus-in-opvallende-witte-rapperjas-gaat-viraal-maar-is-de-foto-wel-echt~aa454b78/)<br>
-- Wat roepen deze krantenkoppen bij je op? 
-- Vind je dit spannend? Of maakt het je een beetje bang?
+* Wat roepen deze krantenkoppen bij je op? 
+* Vind je dit spannend? Of maakt het je een beetje bang?
 
-### Opdracht
+## Opdracht
 
 *We verzamelden enkele AI-toepassingen die leerlingen mogelijk al kennen. In onze andere AI-projecten, bv. in de leerkrachtenhandleidingen, kan je nog een hele resem aan andere, ook minder gekende, voorbeelden vinden.*
 
 Bekijk: [voorbeelden van kunstmatige intelligentie](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=org-dwengo-jommeke-voorbeelden-ai-systemen&version=1&language=nl).
 
-- Welke van de getoonde toepassingen van kunstmatige intelligentie spreken jou aan?
-- Herneem deze vraag: Heb jij ook al kunstmatige intelligentie gebruikt?
+* Welke van de getoonde toepassingen van kunstmatige intelligentie spreken jou aan?
+* Herneem deze vraag: Heb jij ook al kunstmatige intelligentie gebruikt?
+
+## Stellingenspel
+
+Je kan nog een stapje verder gaan en leerlingen een standpunt laten innemen bij bepaalde stellingen.<br>
+Voorbeelden van stellingen:<br>
+* AI kan niet creatief zijn zoals mensen dat wel zijn.
+* AI zal de meeste banen vervangen en mensen werkloos maken.
+* AI kan gebruikt worden om sociale problemen zoals armoede op te lossen.
+* AI kan gebruikt worden om betere medicijnen te ontwikkelen en ziektes te genezen.
+
+Hiervoor kan je eventueel ook gebruikmaken van de [kaartenset](https://dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf) (met [handleiding](https://dwengo.org/assets/files/care/AIIndeZorgKaartenset_UitlegVoorLeerkracht.pdf)) van het project AI in de Zorg.
