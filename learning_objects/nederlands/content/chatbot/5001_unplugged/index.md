@@ -34,21 +34,22 @@ teacher_exclusive: true
 
 # Wat is een chatbot?
 
-### Wat is een chatbot?
+*Je start deze les met een eenvoudige definitie.*<br>
+*Vervolgens ga je in op het feit dat niet alle chatbots even goed werken. Ze werken ook niet allemaal op dezelfde manier.*
 
 ### Soorten chatbots
 
-Er zijn regelgebaseerde chatbots en er zijn lerende chatbots.
+Er zijn regelgebaseerde chatbots en er zijn lerende chatbots. *In het leerpad Chatbot wordt hier dieper op ingegaan. Ook het 'hallucineren' van een chatbot zoals ChatGPT komt er aan bod.*
 
 #### Opdracht
+
+*Kunnen leerlingen verklaren waarom ze Billy van de wijs kunnen brengen?*
 
 Billy, de chatbot van bol.com is een regelgebaseerde chatbot.
 
 Chat eens met Billy. Kan je hem in de war brengen?
 
-#### Computationeel denken unplugged: werking van een regelgebaseerde chatbot
 
-In het deel hierna leer je meer over hoe regelegbaseerde chatbots werken.
 
 
 
