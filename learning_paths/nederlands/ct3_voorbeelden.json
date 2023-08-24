@@ -30,21 +30,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct_voorbeelden2",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct_voorbeelden2",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "ct_voorbeelden3",
             "version": "3",
             "language": "nl"
@@ -54,6 +39,21 @@
     },
     {
       "learningobject_hruid": "ct_voorbeelden3",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct_voorbeelden2",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct_voorbeelden2",
       "version": "3",
       "language": "nl",
       "transitions": [
