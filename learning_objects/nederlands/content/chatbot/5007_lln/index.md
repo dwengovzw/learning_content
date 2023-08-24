@@ -2,8 +2,8 @@
 hruid: cb5_unplugged7lln
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Leeg"
+description: "Leeg"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,4 +32,4 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Chatbot
+# Leeg
