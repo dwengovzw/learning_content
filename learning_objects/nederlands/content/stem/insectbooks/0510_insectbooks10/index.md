@@ -89,4 +89,4 @@ In de notebook zullen we de impact van de parameter \\(\Delta t\\) onderzoeken.
 
 In de notebook hieronder zal je Python gebruiken om de grafiek van de functie \\(f\\) te plotten, en om te onderzoeken of een kleinere waarde voor \\(\Delta t\\) tot betere schattingen van de afgeleide leidt.
 
-[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_5.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_5.ipynb)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6060 Differentiemethode")
