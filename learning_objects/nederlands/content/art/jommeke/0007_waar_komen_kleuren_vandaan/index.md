@@ -28,4 +28,4 @@ Zelf een grijswaardenafbeelding inkleuren
 
 Hieronder zie je een *pixel art* afbeelding. Je krijgt van je leerkracht een raster dat even groot is als dat op de afbeelding. **Probeer het lege raster in te kleuren zodat je een gekleurde versie bekomt van onderstaande afbeelding.**
 
-![Mario](img/image9.png)
+![Mario](img/image.png)
