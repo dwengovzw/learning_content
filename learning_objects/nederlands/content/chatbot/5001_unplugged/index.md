@@ -37,11 +37,11 @@ teacher_exclusive: true
 *Je start deze les met een eenvoudige definitie.*<br>
 *Vervolgens ga je in op het feit dat niet alle chatbots even goed werken. Ze werken ook niet allemaal op dezelfde manier.*
 
-### Soorten chatbots
+## Soorten chatbots
 
 Er zijn regelgebaseerde chatbots en er zijn lerende chatbots. *In het leerpad Chatbot wordt hier dieper op ingegaan. Ook het 'hallucineren' van een chatbot zoals ChatGPT komt er aan bod.*
 
-#### Opdracht
+## Opdracht
 
 *Kunnen leerlingen verklaren waarom ze Billy van de wijs kunnen brengen?*
 
