@@ -1,5 +1,5 @@
 ---
-hruid: cb5_unplugged
+hruid: cb5_unpluggedlln
 version: 3
 language: nl
 title: "Wat is AI?"
@@ -29,7 +29,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Wat is AI?

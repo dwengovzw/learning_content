@@ -15,6 +15,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "cb5_unpluggedlln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unpluggedlln",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "cb5_unplugged1",
             "version": "3",
             "language": "nl"
@@ -24,6 +39,21 @@
     },
     {
       "learningobject_hruid": "cb5_unplugged1",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cb5_unplugged1lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged1lln",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -45,6 +75,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "cb5_unplugged2lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged2lln",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "cb5_unplugged3",
             "version": "3",
             "language": "nl"
@@ -54,6 +99,21 @@
     },
     {
       "learningobject_hruid": "cb5_unplugged3",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cb5_unplugged3lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged3lln",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -75,6 +135,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "cb5_unplugged4lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged4lln",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "cb5_unplugged5",
             "version": "3",
             "language": "nl"
@@ -84,6 +159,21 @@
     },
     {
       "learningobject_hruid": "cb5_unplugged5",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cb5_unplugged5lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged5lln",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -105,6 +195,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "cb5_unplugged6lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged6lln",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "cb5_unplugged7",
             "version": "3",
             "language": "nl"
@@ -120,6 +225,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "cb5_unplugged7lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged7lln",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "cb5_unplugged8",
             "version": "3",
             "language": "nl"
@@ -129,6 +249,21 @@
     },
     {
       "learningobject_hruid": "cb5_unplugged8",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cb5_unplugged8lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged8lln",
       "version": "3",
       "language": "nl"
     }
