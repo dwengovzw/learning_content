@@ -83,5 +83,7 @@ Lees de tekst over Suske en Wiske.
 
 Merk je iets vreemds op in deze tekst?
 
-*Wiske heeft geen blauwe strik, maar een rode. Heeft Lambik wel een snor?* 
+*Wiske heeft geen blauwe strik, maar een rode. Heeft Lambik wel een snor?*<br>
+*Lerende chatbots durven dus heel wat te verzinnen!*
+*Regelgebaseerde chatbots doen dat niet.*
 
