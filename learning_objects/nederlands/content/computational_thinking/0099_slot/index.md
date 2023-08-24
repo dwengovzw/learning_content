@@ -34,7 +34,7 @@ teacher_exclusive: true
 
 <div class="alert alert-box alert-warning">
     <strong>Samengevat</strong><br> 
-    Computationeel denken wordt aangezien als een competentie die ons weerbaar maakt in een snel veranderende maatschappij. Er is dan ook een groeiende aandacht voor in het leerplichtonderwijs, ook in Vlaanderen. Hoewel computationeel denken stamt uit een tijd dat er nog geen computers waren, zijn leerkrachten er toch onvoldoende vertrouwd mee. Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden zo niet altijd herkend.
+    Computationeel denken wordt aangezien als een competentie die ons weerbaar maakt in een snel veranderende maatschappij. Er is dan ook een groeiende aandacht voor in het leerplichtonderwijs, ook in Vlaanderen. Hoewel computationeel denken stamt uit een tijd dat er nog geen computers waren, zijn leerkrachten er toch onvoldoende vertrouwd mee. Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden niet altijd zo herkend.
 </div>
  
 ---
