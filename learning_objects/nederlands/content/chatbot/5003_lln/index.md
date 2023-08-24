@@ -2,8 +2,8 @@
 hruid: cb5_unplugged3lln
 version: 3
 language: nl
-title: "Afstand"
-description: "Afstand"
+title: "Afstand uitgelegd"
+description: "Afstand uitgelegd"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
