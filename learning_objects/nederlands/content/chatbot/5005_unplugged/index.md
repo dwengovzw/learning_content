@@ -37,3 +37,11 @@ teacher_exclusive: true
 Lerende chatbots, zoals ChatGPT, zijn gebaseerd op grote taalmodellen. 
 
 Al schrijven lerende chatbots zoals ChatGPT vaak hele mooie zinnen, ze durven helaas ook heel wat nonsens verzinnen. 
+
+Je zou klassikaal kunnen chatten met ChatGPT. De leerlingen kunnen vragen verzinnen, waarop de antwoorden klassikaal besproken worden. 
+
+Eventuele richtvragen:<br>
+* Kan de chatbot rekenen?
+* Kan je de chatbot op foute/bizarre antwoorden betrappen?
+* Vraag door over een onderwerp waar je zelf veel over weet.
+
