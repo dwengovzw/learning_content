@@ -2,8 +2,8 @@
 hruid: cb5_unplugged
 version: 3
 language: nl
-title: "Wat is AI?"
-description: "Wat is AI?"
+title: "Chatbot unplugged"
+description: "Chatbot unplugged"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,22 +32,37 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Wat is AI?
+# Chatbot unplugged
+
+In deze lessenreeks breng je leerlingen inzichten bij in de werking van een chatbot. <br>
+* Ze krijgen eerst een inleiding tot het domein van de kunstmatige intelligentie. Daarbij is ruimte voorzien voor een klasdiscussie en het verwoorden van eigen opvattingen.  
+* Vervolgens leren ze via een rollenspel hoe een regelgebaseerde chatbot werkt.
+* Afhankelijk van de leerlingengroep en de tijd die je hebt, kan je dieper ingaan op de technische kant: Hoe bepaalt een eenvoudige rekensom welk antwoord de chatbot geeft als de vraag niet in zijn 'woordenboek' staat?
+* Ook lerende chatbots gebruiken het concept 'afstand', zij het op een totaal andere manier. De leerlingen verkennen hoe ChatGPT hiermee aan de slag gaat.
+
+
+# De inleiding 'Wat is AI?' is als volgt opgebouwd:
 
 ### Klasdiscussie
+
+*De leerlingen hebben vaak geen idee van hoeveel AI-systemen reeds in het dagdagelijkse leven worden gebruikt.*  
 
 - Denk je dat je al kunstmatige intelligentie hebt gebruikt?
 - Ken je toepassingen van kunstmatige intelligentie?
 
 ### Uit de krant
 
+*We geven twee krantenkoppen als voorbeeld. Wil je liever inspelen op de actualiteit of vind je deze artikelen niet zo geschikt voor jouw klasgroep, kies dan zeker andere.*
+
 Bekijk de twee krantenkoppen:<br>
-[Eerste krantenkop](https://www.nieuwsblad.be/cnt/dmf20230328_99679587)<br>
-[Tweede krantenkop](https://www.hln.be/het-leukste-van-het-web/paus-in-opvallende-witte-rapperjas-gaat-viraal-maar-is-de-foto-wel-echt~aa454b78/)<br>
+[AI-chatbot overtuigde jonge Belg om uit het leven te stappen](https://www.nieuwsblad.be/cnt/dmf20230328_99679587)<br>
+[Paus in witte rapperjas](https://www.hln.be/het-leukste-van-het-web/paus-in-opvallende-witte-rapperjas-gaat-viraal-maar-is-de-foto-wel-echt~aa454b78/)<br>
 - Wat roepen deze krantenkoppen bij je op? 
 - Vind je dit spannend? Of maakt het je een beetje bang?
 
 ### Opdracht
+
+*We verzamelden enkele AI-toepassingen die leerlingen mogelijk al kennen. In onze andere AI-projecten, bv. in de leerkrachtenhandleidingen, kan je nog een hele resem aan andere, ook minder gekende, voorbeelden vinden.*
 
 Bekijk: [voorbeelden van kunstmatige intelligentie](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=org-dwengo-jommeke-voorbeelden-ai-systemen&version=1&language=nl).
 
