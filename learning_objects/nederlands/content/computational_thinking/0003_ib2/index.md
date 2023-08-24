@@ -32,6 +32,8 @@ teacher_exclusive: true
 
 # Vlaanderen
 
+Sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van **basisgeletterdheid**, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
+
 Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven minimale leerdoelen verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). 
 
 > Deze minimale leerdoelen worden eindtermen of minimumdoelen genoemd. Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad en [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de (vernietigde) eindtermen van de tweede en derde graad. 
@@ -56,7 +58,7 @@ De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd u
 
 > De sleutelcompetenties zijn:
 > - competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op het vlak van lichamelijke, geestelijke en emotionele gezondheid; competenties in het Nederlands; 
-> - ompetenties in andere talen; digitale competentie en mediawijsheid;
+> - competenties in andere talen; digitale competentie en mediawijsheid;
 > - sociaalrelationele competenties;
 > - competenties inzake wiskunde, exacte wetenschappen en technologie;
 > - burgerschapscompetenties met inbegrip van competenties inzake samenleven; competenties met betrekking tot historisch bewustzijn;
@@ -68,9 +70,7 @@ De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd u
 > - ontwikkeling van initiatief,  ambitie, ondernemingszin en loopbaancompetenties;
 > - cultureel bewustzijn en culturele expressie. 
 
-Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet losstaat van de andere vijftien sleutelcompetenties. Zie ook [onderwijsdoelen.be](https://onderwijsdoelen.be/uitgangspunten/4814).
-
-Kortom, sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van het verplichte curriculum voor alle leerlingen van het secundair onderwijs. Voor de leerlingen van de middenschool (eerste graad van het secundair onderwijs) kreeg ‘computationeel denken en handelen’ zelfs het statuut van **basisgeletterdheid**, wat betekent dat elke individuele leerling de vooropgestelde doelstellingen dient te behalen. 
+Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet kan los gezien worden van de andere vijftien sleutelcompetenties. Zie ook [onderwijsdoelen.be](https://onderwijsdoelen.be/uitgangspunten/4814).
  
 -------------------------------
 #### Bronnnen: 
