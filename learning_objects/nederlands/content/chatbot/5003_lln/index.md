@@ -1,9 +1,9 @@
 ---
-hruid: cb5_unplugged7
+hruid: cb5_unplugged3lln
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Afstand"
+description: "Afstand"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,9 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Chatbot
+# Afstand
+
+![](@youtube/https://www.youtube.com/embed/JKGJ1u4Fk78)

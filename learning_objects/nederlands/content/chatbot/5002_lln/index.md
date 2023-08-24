@@ -1,9 +1,9 @@
 ---
-hruid: cb5_unplugged7
+hruid: cb5_unplugged2lln
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Speel zelf chatbot"
+description: "Speel zelf chatbot"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,13 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Chatbot
+# Speel zelf chatbot
+
+Een van de leerlingen speelt de chatbot. Een andere leerling speelt de gebruiker.
+
+De gebruiker heeft een script om een gesprek met de chatbot op poten te zetten. 
+
+De chatbot heeft een kaartenset met aan de ene kant een mogelijk gestelde vraag en aan de andere kant het antwoord dat de chatbot moet geven.

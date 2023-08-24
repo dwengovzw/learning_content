@@ -1,5 +1,5 @@
 ---
-hruid: cb5_unplugged7
+hruid: cb5_unplugged7lln
 version: 3
 language: nl
 title: "Chatbot"
@@ -29,7 +29,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Chatbot
