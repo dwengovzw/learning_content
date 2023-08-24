@@ -35,10 +35,10 @@ Mogelijk is het voor jou nog niet helemaal duidelijk wat computationeel denken j
 
 <div class="alert alert-box alert-warning">
 <strong>Nodige kennis</strong><br>
-    - Om computationeel denken zinvol te kunnen integreren in jouw bestaande lessen moet je als leerkracht weten wat de terminologie inhoudt, dus een <em>werkbare 'definitie'</em> is zeker vereist. Aan de hand van <em>dagdagelijkse voorbeelden</em> wordt de nieuwe terminologie snel duidelijk. <br>
-    - Het is nodig dat je mogelijke toepassingen <em>herkent</em>, en dat je kennis hebben van mogelijke <em>didiactische aanpakken</em> en manieren van evaluatie.<br>
-    - Zowel activiteiten <em>met of zonder computer</em> kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker. Maar opdat jouw leerlingen de digitale systemen ten volle zouden begrijpen, zal je uiteindelijk toch de stap naar de computer moeten zetten.<br>
-    - Om computationeel denken met de juiste insteek op school aan bod te laten komen, is het belangrijk dat je als leerkracht op de hoogte bent van bepaalde <em>misconcepten</em>,.<br> 
+    <ul><li>Om computationeel denken zinvol te kunnen integreren in jouw bestaande lessen moet je als leerkracht weten wat de terminologie inhoudt, dus een <em>werkbare 'definitie'</em> is zeker vereist. Aan de hand van <em>dagdagelijkse voorbeelden</em> wordt de nieuwe terminologie snel duidelijk.</li></ul><br>
+    <ul><li>Het is nodig dat je mogelijke toepassingen <em>herkent</em>, en dat je kennis hebben van mogelijke <em>didiactische aanpakken</em> en manieren van evaluatie.</li></ul><br>
+    <ul><li>Zowel activiteiten <em>met of zonder computer</em> kunnen dienen om computationeel te leren denken. Via unplugged activiteiten worden sommige ingewikkelde concepten toegankelijker. Maar opdat jouw leerlingen de digitale systemen ten volle zouden begrijpen, zal je uiteindelijk toch de stap naar de computer moeten zetten.</li></ul><br>
+    <ul><li>Om computationeel denken met de juiste insteek op school aan bod te laten komen, is het belangrijk dat je als leerkracht op de hoogte bent van bepaalde <em>misconcepties</em>.</li></ul><br> 
 </div>
 In dit leerpad wordt eerst een werkbare definitie van de term 'computationeel denken' voorgesteld.  Onder 'Aandachtspunten' worden een aantal misconcepten toegelicht, wordt er gewezen op het mogelijk verliezen van de link met de maatschappij, en wordt het centraal stellen van de mens binnen computationeel denken benadrukt. 
 
