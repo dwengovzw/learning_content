@@ -82,4 +82,4 @@ Om het aantal eitjes, larven en kevers in tijdstap \\(t\\) te berekenen, volstaa
 
 Nu ga je aan de slag met een interactieve online notebook, waarin je Python zal gebruiken om matrixberekeningen uit te voeren en de populatiegroei grafisch te illustreren.
 
-[![Knop](embed/knop.png "https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_4.ipynb")](https://colab.research.google.com/github/jvdrhoof/Insects/blob/main/hoofdstuk_4.ipynb)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6030 "Lesliematrix")
