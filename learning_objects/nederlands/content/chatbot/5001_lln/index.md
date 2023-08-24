@@ -34,21 +34,17 @@ teacher_exclusive: false
 
 # Wat is een chatbot?
 
-### Wat is een chatbot?
+Chatbots zijn softwaresystemen die kunnen interageren met mensen via getypte tekstboodschappen. **Een chatbot is niets anders dan een robot waarmee je kan chatten.**
 
-### Soorten chatbots
+## Soorten chatbots
 
-Er zijn regelgebaseerde chatbots en er zijn lerende chatbots.
+Er zijn regelgebaseerde chatbots, zoals Billy van bol.com, en er zijn lerende chatbots, zoals ChatGPT.
 
-#### Opdracht
+## Opdracht
 
 Billy, de chatbot van bol.com is een regelgebaseerde chatbot.
 
 Chat eens met Billy. Kan je hem in de war brengen?
-
-#### Computationeel denken unplugged: werking van een regelgebaseerde chatbot
-
-In het deel hierna leer je meer over hoe regelegbaseerde chatbots werken.
 
 
 
