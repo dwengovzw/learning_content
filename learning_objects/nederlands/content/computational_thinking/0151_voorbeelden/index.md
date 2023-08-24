@@ -43,7 +43,7 @@ Een herhaling:
 <div class="alert alert-box alert-success">
 <strong><h5>Een definitie van computationeel denken</h5></strong> 
     
-_Computationeel denken is een methodologie om een complex probleem aan te pakken, op een manier dat een computer zou kunnen ingezet worden om het op te lossen._    
+_Computationeel denken is een methodologie om een complex probleem aan te pakken, op een manier dat een computer zou kunnen worden ingezet om het op te lossen._    
 
 </div>
 
