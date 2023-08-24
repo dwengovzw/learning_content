@@ -61,7 +61,7 @@ Computationeel denken is niet denken zoals een computer (computers denken niet),
 Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.
 </div>
 
-Computationeel denken vertoont overeenkomstigheden met andere manieren van denken, en kan het niet bestempeld worden als de ‘beste’ manier van denken, het is een **extra manier van denken** naast kritisch denken, systeemdenken . . . (zie hiervoor ook het leerpad ['Historiek'](https://www.dwengo.org/learning-path.html?hruid=ct7_historiek&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_historiek1;nl;3)).<br>
+Computationeel denken vertoont overeenkomstigheden met andere manieren van denken, en kan niet bestempeld worden als de ‘beste’ manier van denken, het is een **extra manier van denken** naast kritisch denken, systeemdenken . . . (zie hiervoor ook het leerpad ['Historiek'](https://www.dwengo.org/learning-path.html?hruid=ct7_historiek&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_historiek1;nl;3)).<br>
 Computationeel denken is ook geenszins de ‘beste’ manier om problemen op te lossen (Tedre & Denning, 2016; Papert, 1980). 
 
 Computationeel denken biedt wel een **houvast om een complex probleem aan te pakken** en een manier te bedenken om **m.b.v. de computer** tot een oplossing voor dat probleem te komen. Zo zijn sommige oplossingen voor de mens onhaalbaar, maar kunnen computers ze door hun snelheid wel uitvoeren. **Computationeel denken gaat dus ook over het zien van de opportuniteiten die de computer biedt om aan wetenschappelijk onderzoek te doen, ander onderzoek of meer efficiënt onderzoek, en het ruiken van kansen om taken te automatiseren.**
@@ -103,15 +103,15 @@ Dus hoewel men niet altijd een computer nodig heeft om bepaalde vaardigheden van
 Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.
 </div>
 
-Stemmen gaan op om computationeel denken **vakoverstijgend** aan te bieden, in relevante **real world contexten**, zeker gezien de link met de 21ste-eeuwse vaardigheden (Grover & Pea, 2017) Voogt et al. (2015) waarschuwen er dan weer voor bij lessen rond computationeel denken al te veel nadruk te leggen op het verwerven van skills, zoals doorzettingsvermogen, kunnen samenwerken en kunnen omgaan met complexiteit en dubbelzinnigheid. Dat zou er immers toe kunnen leiden dat het werken aan de skill van computationeel denken zelf verloren gaat.<br>
-Je leest hier meer over in hetvolgende leerobject, nl. 'Aandachtspunten: Transfer'.
+Stemmen gaan op om computationeel denken **vakoverstijgend** aan te bieden, in relevante **real world contexten**, zeker gezien de link met de 21ste-eeuwse vaardigheden (Grover & Pea, 2017). Voogt et al. (2015) waarschuwen er dan weer voor bij lessen rond computationeel denken al te veel nadruk te leggen op het verwerven van skills, zoals doorzettingsvermogen, kunnen samenwerken en kunnen omgaan met complexiteit en dubbelzinnigheid. Dat zou er immers toe kunnen leiden dat het werken aan de skill van computationeel denken zelf verloren gaat.<br>
+Je leest hier meer over in het volgende leerobject, nl. 'Aandachtspunten: Transfer'.
 
 <div class="alert alert-box alert-secondary">
 Computationeel denken is geen louter technologisch fenomeen.
 </div>
 Computers inzetten is ook een sociale activiteit waarbij men rekening moet houden met de rol ervan in de maatschappij. Computationeel denken gaat om mensen. 
 
-> Computationeel denken niet enkel om technologie, maar heeft ook een culturele en sociale dimensie (Kafai & Proctor, 2022).
+> Computationeel denken gaat niet enkel om technologie, maar heeft ook een culturele en sociale dimensie (Kafai & Proctor, 2022).
 
 Je leest hier meer over in een van de volgende leerobjecten, nl. 'Aandachtspunt: Mensen'.
     
@@ -124,7 +124,7 @@ Bell, T. & Lodi, M. (2019). Authors’ Response: Keeping the “Computation” i
 357–359.<br>
 Berry, M. (2019). *Revisiting computational thinking* [Blogpost](http://milesberry.net/2019/04/revisiting-ct/). Geraadpleegd op 26 mei 2022 via [http://milesberry.net/2019/04/revisiting-ct/](http://milesberry.net/2019/04/revisiting-ct/)<br>
 Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing Computational Thinking in Compulsory Education : Implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
-Denning, P. & Tedre, M. (2019). *Computational thinking.* VS: MIT Press.<br>
+Denning, P. & Tedre, M. (2019). *Computational Thinking.* VS: MIT Press.<br>
 Europese Unie (2015). Gezamenlijk verslag 2015 van de Raad en de Commissie over de uitvoering van het strategisch kader voor Europese samenwerking op het gebied van onderwijs en opleiding (ET 2020). Nieuwe prioriteiten voor Europese samenwerking op het gebied van onderwijs en opleiding. Geraadpleegd op 26 mei 2022 via [https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:52015XG1215(02)&from=EN](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:52015XG1215(02)&from=EN)<br>
 Grover, S. & Pea, R. (2017). Computational Thinking: A Competency Whose Time Has Come. *Computer Science Education.*<br>
 Hemmendinger, D. (2010). A Plea for Modesty. *ACM Inroads, 1*(2), 4–7.<br>
