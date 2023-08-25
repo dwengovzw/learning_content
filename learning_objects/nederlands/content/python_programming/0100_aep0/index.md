@@ -2,8 +2,8 @@
 hruid: pp_aep0
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Specifieke minimumdoelen"
+description: "Specifieke minimumdoelen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,44 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Specifieke minimumdoelen
 
+In het schooljaar 2023-2024 gaan de volgende specifieke minmumdoelen in in sommige richtingen van het secundair onderwijs:
 
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span>
+
+Met onderliggende (kennis)elementen:<br>
+* Algoritmen en datastructuren
+* Algoritmische technieken
+* Numerieke methodes
+* Gebruik van softwarebibliotheken
+* Gestructureerde programmeertaal
+* Invoer van en uitvoer naar externe gegevensbronnen
+
+In de memorie van toelichting:<br>
+* Algoritmische technieken zoals recursie, brute-force, gulzig (greedy), verdeel-en-heers en dynamisch programmeren.
+* Datastructuren zoals lijst, stapel (stack), wachtrij (queue), boom, graaf, hashtabel.
+* Externe gegevensbronnen zoals bestanden, databank, website, cloud.
+
+Voor de studierichtingen: Bedrijfsondersteunende Informaticawetenschappen, Economie-Wiskunde, Grieks-Wiskunde, Informatica- en communicatiewetenschappen, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde
+ 
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span>
+
+Met onderliggende (kennis)elementen:<br>
+* Algoritmen en datastructuren
+* Algoritmische technieken
+* Gebruik van softwarebibliotheken
+* Gestructureerde programmeertaal
+* Invoer van en uitvoer naar externe gegevensbronnen
+
+In de memorie van toelichting:<br>
+* Algoritmische technieken zoals recursie, brute-force, gulzig (greedy), verdeel-en-heers en dynamisch programmeren.
+* Datastructuren zoals lijst, stapel (stack), wachtrij (queue), boom, graaf, hashtabel.
+* Externe gegevensbronnen zoals bestanden, databank, website, cloud.
+  
+Voor de studierichtingen: Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtwetenschappen, Mechatronica
+
+<div class="alert alert-box alert-success">
+    <strong>Lesmateriaal Dwengo</strong><br>
+    Dwengo heeft een ruim aanbod aan lesmateriaal waarmee aan deze minimumdoelen kan gewerkt worden. 
+</div>
