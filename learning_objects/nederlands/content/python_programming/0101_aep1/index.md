@@ -2,8 +2,8 @@
 hruid: pp_aep1
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Overzicht lesmateriaal"
+description: "Overzicht lesmateriaal"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Algoritmische technieken, algoritmen en datastructuren
+
+Algoritme van Dijkstra 
+A*-algoritme
 
 
