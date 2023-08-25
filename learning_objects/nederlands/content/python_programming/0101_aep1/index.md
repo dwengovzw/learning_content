@@ -32,7 +32,15 @@ teacher_exclusive: false
 
 # Algoritmische technieken, algoritmen en datastructuren
 
-Algoritme van Dijkstra 
-A*-algoritme
+In heel wat projecten gebruiken we Python Notebook. Python is een **gestructureerde programmeertaal**. <br>
+We maken veelvuldig gebruik van de Python **bibliotheken**. <br>
+We gebruiken csv-bestanden van real-world datasets en afbeeldingen als **externe gegevensbronnen**. 
+
+> De leerlingen kunnen bv. ook gegenereerde grafieken extern opslaan.
+
+In de projecten waar we met Python werken, komen datatypes zoals integer, float, boolean aan bod, en **datastructuren** zoals lijst, NumPy-lijst, NumPy array van hogere dimensie, pandas DataFrame, dictionary en graaf. 
+
+> Als we aan de slag gaan met afbeeldingen en foto's komen bv. ook matrices en tensoren aan bod.   
+
 
 
