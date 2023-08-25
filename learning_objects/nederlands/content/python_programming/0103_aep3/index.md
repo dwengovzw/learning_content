@@ -46,7 +46,7 @@ In de module [Jommeke inkleuren](https://dwengo.org/learning-path.html?hruid=art
 
 Sorteeralgoritme:<br>
 [![Wereldrecord menselijk sorteernetwerk](embed/sorteerrecord.png)](@youtube/https://www.youtube.com/embed/eI0nniqgQnc "Wereldrecord menselijk sorteernetwerk gebaseerd op CS unplugged") <br>
- + uitleg van het algoritme
+ + [korter filmpje](http://www.csunplugged.nl/08-sorteernetwerken/) + [uitleg van het algoritme](http://www.csunplugged.nl/wp-content/uploads/activiteit-8.pdf)
 
 
 
