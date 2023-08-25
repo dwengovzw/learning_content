@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Algoritmische technieken, algoritmen en datastructuren
+# Welke elementen komen aan bod in ons lesmateriaal?
 
 In heel wat projecten gebruiken we Python Notebook. Python is een **gestructureerde programmeertaal**. <br>
 We maken veelvuldig gebruik van de Python **bibliotheken**. <br>
