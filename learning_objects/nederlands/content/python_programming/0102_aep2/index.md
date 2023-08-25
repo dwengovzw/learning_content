@@ -2,7 +2,7 @@
 hruid: pp_aep2
 version: 3
 language: nl
-title: "titel"
+title: "Algoritmische technieken, algoritmen en datastructuren"
 description: "titel"
 keywords: [""]
 educational_goals: [
@@ -30,6 +30,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Algoritmische technieken, algoritmen en datastructuren
+
+Algoritme van Dijkstra 
+A*-algoritme
 
 
