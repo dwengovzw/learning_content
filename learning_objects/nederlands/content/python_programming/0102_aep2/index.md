@@ -32,7 +32,6 @@ teacher_exclusive: false
 
 # Algoritmische technieken, algoritmen en datastructuren
 
-Algoritme van Dijkstra 
-A*-algoritme
+
 
 
