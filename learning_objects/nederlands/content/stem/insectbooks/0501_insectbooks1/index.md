@@ -77,4 +77,4 @@ De leerkracht kan bij de evaluatie gebruik maken van een rubric, die op voorhand
 
 ## Contact
 
-Indien er vragen of opmerkingen zijn over het voorziene lesmateriaal, vragen we om contact op te nemen met Natacha Gesquière via [natacha.gesquiere@ugent.be](mailto:natacha.gesquiere@ugent.be).
+Indien er vragen of opmerkingen zijn over het voorziene lesmateriaal, vragen we om Dwengo te contacteren via e-mail.
