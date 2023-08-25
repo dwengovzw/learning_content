@@ -152,8 +152,8 @@ Economie-Wiskunde; Grieks-Wiskunde; Latijn-Wiskunde; Technologische wetenschappe
 <span style="color: yellowgreen">SMD 06.08.07 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.</span><br>
 In de notebook worden verschillende grafieken gegenereerd die de populatiegrootte doorheen de tijd tonen. De leerlingen stellen hierbij vast dat de populatiegrootte steeds verder blijft toenemen indien \\(a > 1\\). Ook wordt uitgelegd hoe de logaritmische as gebruikt kan worden in een grafiek.
 
-<span style="color: yellowgreen">SMD 06.08.13 De leerlingen lossen eenvoudige veeltermvergelijkingen, rationale vergelijkingen, irrationale vergelijkingen, exponentiële vergelijkingen, logaritmische vergelijkingen en goniometrische vergelijkingen algebraïsch op.</span><br>
-<span style="color: red">Komt dit wel expliciet aan bod? Van de leerlingen wordt enkel gevraagd om de populatiegrootte op een gegeven moment in de tijd te berekenen, en aan de hand van een while-loop te controleren wanneer de populatiegrootte voor het eerst een gegeven waarde zal overschrijden.</span>
+<span style="color: yellowgreen">SMD 06.08.09 De leerlingen lossen vergelijkingen en ongelijkheden grafisch op.</span><br>
+De leerlingen berekenen de populatiegrootte op een gegeven moment in de tijd, en aan de hand van een while-loop controleren ze wanneer de populatiegrootte voor het eerst een gegeven waarde zal overschrijden.
 
 ### WD_07 Informaticawetenschappen
 
