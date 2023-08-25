@@ -2,8 +2,8 @@
 hruid: pp_aep5
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Numerieke methodes"
+description: "Numerieke methodes"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,10 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Numerieke methodes
+
+[Gradient descent](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=kiks_gradient_descent&version=3&language=nl)
+[Insectenboek](https://dwengo.org/learning-path.html?hruid=stem_insectbooks&language=nl&te=true&source_page=%2Fpython_programming%2F&source_title=%20Programmeren%20in%20Python#stem5_0;nl;3)
+
 
 
