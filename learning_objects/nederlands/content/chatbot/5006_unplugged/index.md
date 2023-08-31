@@ -2,8 +2,8 @@
 hruid: cb5_unplugged6
 version: 3
 language: nl
-title: "Lerende chatbots"
-description: "Lerende chatbots"
+title: "Werking lerende chatbots"
+description: "Werking lerende chatbots"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,7 +32,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Lerende chatbots
+# Hoe werkt een lerende chatbot?
 
 De werking van lerende chatbots wordt [hier](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=cb_chatbot3&version=3&language=nl) uitgelegd. Via *embeddings* wordt tekst omgezet naar vectoren. 
 
