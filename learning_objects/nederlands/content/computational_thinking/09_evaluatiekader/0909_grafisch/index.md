@@ -52,7 +52,7 @@ teacher_exclusive: true
 
 **Evaluatieschema:**
 
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/cc71fb59-508d-436e-945f-a1db09825d6e)
+![spindiagram sociale robot](embed/spinsocialerobot.png)
 
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
 - Programmeeroefeningen & Werkstuk: beoordeling code (hard & formatief)<br>
