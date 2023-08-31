@@ -55,6 +55,6 @@ teacher_exclusive: true
 ![spindiagram sociale robot](embed/spinsocialerobot.png)
 
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
-- Programmeeroefeningen & Werkstuk: beoordeling code (hard & formatief)<br>
+- Programmeeroefeningen & Werkstuk: beoordeling code (kwantitatief & formatief)<br>
 - Debuggen & Rubric<br>
-- Zelfreflectieformulier invullen & Zelfreflectie: na een iets grotere oefening (zacht & formatief)<br>
+- Zelfreflectieformulier invullen & Zelfreflectie: na een iets grotere oefening (kwalitatief & formatief)<br>
