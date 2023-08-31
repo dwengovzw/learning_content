@@ -48,12 +48,12 @@ Het sjabloon omvat vier elementen:<br>
 Bij deze elementen zijn er telkens vier mogelijkheden, genummerd van 1 t.e.m. 4 (dit houdt geen gradatie in).
 
 
-||Complexiteit|Evaluatiemomenten|Karakter|Wie evalueert?|
+||Complexiteit|Evaluatiemomenten|Karakter van de evaluatie|Wie evalueert?|
 |--|------------|-----------------|----------------------|--------------|
-|1|Eenvoudig|Eenmalige formatieve evaluatie|Product en kwantitatief|Leraar|
-|2|Gemiddeld|Eenmalige summatieve evaluatie|Proces en kwalitatief|Leraar en leerling|
-|3|Complex|Meerdere formatieve evaluaties|Product & proces, kwalitatief|Leraar, leerling en medeleerlingen|
-|4|Uitdagend|Meerdere formatieve en summatieve evaluaties|Product & proces, combi kwantitatief en kwalitatief|Leraar, leerlingen, medeleerlingen en anderen (ouders, externe jury ...)|
+|1|Eenvoudig|Eenmalige formatieve evaluatie|Product en kwantitatief|Leerkracht|
+|2|Gemiddeld|Eenmalige summatieve evaluatie|Proces en kwalitatief|Leerkracht en leerling|
+|3|Complex|Meerdere formatieve evaluaties|Product & proces, kwalitatief|Leerkracht, leerling en medeleerlingen|
+|4|Uitdagend|Meerdere formatieve en summatieve evaluaties|Product & proces, combinatie van kwantitatief en kwalitatief|Leerkracht, leerlingen, medeleerlingen en anderen (ouders, externe jury ...)|
 
 #### Complexiteit
 
@@ -69,7 +69,7 @@ De complexiteit van een opdracht hangt af van meerdere factoren, zoals:<br>
   
 #### Evaluatiemomenten
 
-Bij het vastleggen van het aantal evauatiemomenten leg je ook vast wanneer je formatief of summatief wilt evalueren.
+Bij het vastleggen van het aantal evaluatiemomenten leg je ook vast wanneer je formatief of summatief wilt evalueren.
 
 - Een *formatief* evaluatiemoment houdt in dat er een opdracht wordt ingezet als een middel om feedback te bieden op het leerproces, voordat een definitieve beoordeling plaatsvindt. Zo'n evaluatiemoment ondersteunt in het bereiken van de leerdoelen: het focust op het identificeren van sterke en zwakke punten, waarop de leerling, indien nodig, het leerproces kan bijsturen, al dan niet samen met de leerkracht. Het betreft dus een *tussentijdse beoordeling* van de te evalueren leerdoelen in de vorm van een cijfer of tekstbeoordeling. Een formatief evaluatiemoment  kan zowel hard of zacht zijn. 
 - Een *summatief* evaluatiemoment houdt in dat een opdracht wordt ingezet om een leerprestatie te beoordelen bij het aflsuiten van een leerperiode. Het betreft een *definitieve beoordeling* in de vorm van een cijfer of tekstbeoordeling. Een summatief evaluatiemoment kan zowel hard of zacht zijn.  
@@ -81,23 +81,29 @@ Bij het vastleggen van het aantal evauatiemomenten leg je ook vast wanneer je fo
 
 Bij een evaluatiemoment kan jij als leerkracht evalueren, maar de leerlingen kunnen ook elkaar evalueren of zichzelf. Ook de ouders of een externe jury kunnen betrokken worden. 
 
-De keuze voor wie evalueert hangt af van:
+De keuze voor wie evalueert hangt af van:<br>
 - de te evalueren leerdoelen,
 - hoe formeel de beoordeling is en hoe zwaar die doorweegt,
 - het eigenaarschap van de leerlingen,
 -  ...
 
 
-#### Harde en zachte evaluatie
+#### Karakter van de evaluatie
 
-Bij dit element denk je na over harde en zachte evaluatie, en over proces- en productevaluatie.<br>
+Bij dit element denk je na over proces- en productevaluatie, en of je kwantitatief of kwalitatief wil evalueren.<br>
 - Procesevaluatie en productevaluatie zijn twee verschillende soorten evaluatie om verschillende aspecten van het leerproces te beoordelen. In essentie beoordeelt procesevaluatie het leerproces zelf, terwijl productevaluatie het resultaat van dat leerproces beoordeelt.
-- Harde evaluatie is kwantitatief en meetbaar, terwijl zachte evaluatie kwalitatief is en de subjectieve aspecten van leren belicht. 
+- Voor een kwantitatieve evaluatie moet je beschikken over meetbare gegevens. Om de eerder subjectieve aspecten van leren te belichten, kan je op een kwalitatieve manier evalueren.  
 
 
-#### De evaluatievormen
+#### Spinnenwebdiagram
+
+De kenmerken die de aanpak van de evaluatie uitdagend maken (zij het voor de leerling, zij het voor de leerkracht), bevinden zich het meest aan de buitenkant van 'het web'.
+
+
+## De evaluatievormen
 
 Je zal ook moeten nadenken over welke evaluatievormen je wil hanteren, zoals een individuele toets, een mondelinge opdracht, een werkstuk, een portfolio, zelfevaluatie, observatie, een exit ticket ... 
+In het volgend leerpadonderdeel bekijk je enkele vormen van dichterbij.
 
 
 
@@ -105,6 +111,6 @@ Je zal ook moeten nadenken over welke evaluatievormen je wil hanteren, zoals een
 
 #### Bronnen en inspiratie #### 
 
-- Bredere evaluatie: schuiven op vier assen, Katrien Bultynck, 2004.
-- Toolkit breed evalueren. Harde of zachte evaluatie, Saveyn, J., 2007. https://data-onderwijs.vlaanderen.be/documenten/bestand.ashx?id=12568
-- https://formatiefevalueren.kdg.be/ 
+Bredere evaluatie: schuiven op vier assen, Katrien Bultynck, 2004.<br>
+Toolkit breed evalueren. Harde of zachte evaluatie, Saveyn, J., 2007. https://data-onderwijs.vlaanderen.be/documenten/bestand.ashx?id=12568<br>
+https://formatiefevalueren.kdg.be/ <br>
