@@ -36,7 +36,7 @@ teacher_exclusive: true
 
 Voorbeeld: verschillende aspecten van computationeel denken binnen het oplossen van een probleem.
 
-![Projectschema](projectschemabijevaluatie.png "CD bij aanpak probleem")
+![Projectschema](embed/projectschemabijevaluatie.png "CD bij aanpak probleem")
 
 ## Voorbereiden
 
