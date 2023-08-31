@@ -38,12 +38,17 @@ De werking van lerende chatbots wordt [hier](https://dwengo.org/backend/api/lear
 
 Onthoud: <br>
 * Semantisch verwante teksten worden dicht bij elkaar in de vectorruimte geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men de overeenkomstige drie vectoren dicht bij elkaar vinden in de vectorruimte.
-* Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden.
+* Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden. Vergelijkbare relaties tussen elementen kunnen voorgesteld worden door een gelijke positie tussen de elementen.
 
 De lerende chatbot zal woorden die dicht bij elkaar liggen gebruiken om zinnen mee te maken. 
 
 
 ### Opdracht 1
+
+*Deze opdracht gebruikt kenmerken van de strip 'Jommeke'.*<br>
+*Misschien kennen je leerlingen 'Jommeke' niet.* <br>
+* *Je kan dan bv. een of twee pagina's uit een Jommekestrip met de leerlingen lezen om ze te laten kennismaken met de personages.*
+* *Of je kan polsen welke strips ze wel lezen en de oefening aanpassen aan de kenmerken van een andere strip.* 
 
 Bekijk het eerste schema. Lees de tekst die ChatGPT schreef en die hoort bij het eerste schema.
 
@@ -76,6 +81,9 @@ Leg de kaartjes in het veld. Hoe dichter woorden bij elkaar horen, hoe dichter j
 
 
 ### Opdracht 4
+
+*Deze opdracht gaat over de 'Suske en Wiske'-strips.*<br> 
+*Misschien kennen je leerlingen 'Suske en Wiske' niet. Breng enkele 'Suske en Wiskes' mee, dan zien de leerlingen snel wat er niet klopt.*
 
 Lees de tekst over Suske en Wiske.
 
