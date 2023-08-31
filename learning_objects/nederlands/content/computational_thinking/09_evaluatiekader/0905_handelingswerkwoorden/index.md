@@ -1,9 +1,9 @@
 ---
-hruid: ct10_04
+hruid: ct09_05
 version: 3
 language: nl
-title: "Evaluatievormen"
-description: "Evaluatievormen"
+title: "Handelingswerkwoorden"
+description: "Handelingswerkwoorden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,20 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Evaluatievormen
+# Handelingswerkwoorden
 
 
 
-### Veel voorkomende evaluatievormen
-
-### Werkstuk in informaticaonderwijs
-
-### Observatie in informaticaonderwijs
-
-### Interview in informaticaonderwijs
-
-### Portfolio in informaticaonderwijs
-
-### Zelfevaluatie in informaticaonderwijs
-
-### Peerfeedback in informaticaonderwijs
