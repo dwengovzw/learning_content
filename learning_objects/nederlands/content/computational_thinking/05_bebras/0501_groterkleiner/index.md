@@ -37,7 +37,7 @@ Vertaling: Kris Coolsaet
 
 ## Groter en kleiner (Bebras 2014-SE-04)
 
-De jonge bevers Anna, Britt, Charlotte, Demi en Emma - allemaal met een verschillende lengte - willen met jou een spelletje spelen. Ze plaatsen zich in een rij, de ene achter de andere, terwijl ze allemaal in dezelfde richting kijken, in een volgorde die ze zelf hebben gekozen. Elke bever telt dan hoeveel bevers vóór en achter haar groter zijn. Dit zijn de resultaten:
+De jonge bevers Anna, Britt, Charlotte, Demi en Emma - allemaal met een verschillende lengte - willen met jou een spelletje spelen. Ze plaatsen zich in een rij, de ene achter de andere, terwijl ze allemaal in dezelfde richting kijken, in een volgorde die ze zelf hebben gekozen. Elke bever telt dan hoeveel bevers vóór en achter zich groter zijn. Dit zijn de resultaten:
 
 |**Naam**|**Aantal grotere bevers ervoor**|**Aantal grotere bevers erachter**|
 |---------------|------------------------|----------------------------|
@@ -53,14 +53,14 @@ De jonge bevers Anna, Britt, Charlotte, Demi en Emma - allemaal met een verschil
 #### Oplossing
 
 Er zijn 5 bevers. <br>
-Uit de tabel kan je afleiden dat Demi de grootste is want geen enkel bever ervoor of erachter is groter. Daarna volgt Charlotte met slechts één bever die groter is (nl. Demi), dan Emma, en dan Anna en tot slot Britt. Britt is de kleinste bever want alle vier de andere bevers zijn groter.
+Uit de tabel kan je afleiden dat Demi de grootste is want geen enkele bever ervoor of erachter is groter. Daarna volgt Charlotte met slechts één bever die groter is (nl. Demi), dan Emma, dan Anna en tot slot Britt. Britt is de kleinste bever want alle vier de andere bevers zijn groter.
 
 ![bebrasdecompositiestap1](embed/bebrasdecompositiestap1.png)
 
 Redeneer nu op de volgende manier:<br>
 - Omdat iedereen kleiner is dan Demi, is Demi groter dan Charlotte, en moet het Demi zijn die voor Charlotte in de rij staat.   
     - Demi - Charlotte
-- Er zijn twee bevers groter dan Emma en die staan voor Emma. Die twee bevers zijn Demi en Charlotte  
+- Er zijn twee bevers groter dan Emma en die staan voor Emma. Die twee bevers zijn Demi en Charlotte.  
     - Demi - Charlotte - Emma
 - Omdat slechts één grotere bever voor Anna staat, moet dat Demi zijn. Dus Anna komt na Demi en voor Charlotte en Emma. 
     - Demi - Anna - Charlotte - Emma
