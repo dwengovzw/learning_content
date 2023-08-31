@@ -47,7 +47,7 @@ Er zijn echter enkele plaatsen op de kaart, aangeduid met een rode X, waar hij n
 
 ##### Oplossing
 
-ER zijn 18 routes met dezelfde minimale lengte (nl. 9 verplaatsingen, 6 naar rechts en 3 naar boven).
+Er zijn 18 routes met dezelfde minimale lengte (nl. 9 verplaatsingen, 6 naar rechts en 3 naar boven).
 
 ![Kortste route](embed/bebrasalgoritmebedenkenoplossing.png "Bebras Korste route oplossing")
 
@@ -57,7 +57,7 @@ Daarom noteer je vanaf links onderaan bij elk kruispunt de aantallen en verplaat
 ##### Bespreking
 
 De oplossing bestaat uit twee denkstappen: 
-- een eerste stap bestaat erin zich te realiseren dat je in een kortste route noodgedwongen nooit naar links of naar beneden beweegt;
+- een eerste stap bestaat erin je te realiseren dat je in een kortste route noodgedwongen nooit naar links of naar beneden beweegt;
 - in een tweede stap hoef je dus enkel dergelijke routes te bekijken.
 
 In tegenstelling tot voorbeelden 2 en 4, moet je hier wel zelf een **algoritme** opstellen om tot de oplossing te komen: je moet een systematische manier bedenken om tot die oplossing te komen. <br>
@@ -67,4 +67,4 @@ Bij dit voorbeeld: van linksonder naar rechtsboven werken en telkens bij de boom
 Merk op dat je hier wel algoritmisch denken nodig hebt, maar niet hoeft te programmeren!
 
 De techniek die je gebruikt om deze opgave op te lossen, heet *dynamisch programmeren*: je verdeelt je probleem in kleinere deelproblemen die je gemakkelijk kan oplossen. In dit geval is het deelprobleem 'hoeveel routes zijn er naar het kruispunt waar we net mee bezig zijn?' Dat aantal routes hangt af van het aantal routes naar het kruispunt waar je net van komt. Je begint daarom links onderaan en je gaat stap voor stap naar rechts en naar boven, en je schrijft bij elk kruispunt de aantallen op tot je rechtsboven aankomt.<br>
-*Misschien had je al ervaring met dit soort problemen en herkende je dat dynamisch te programmeren hier misschien snel tot de oplossing zou kunnen leiden.*
+*Misschien had je al ervaring met dit soort problemen en herkende je dat dynamisch programmeren hier misschien snel tot de oplossing zou kunnen leiden.*
