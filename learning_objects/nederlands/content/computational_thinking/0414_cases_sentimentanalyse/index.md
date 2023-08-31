@@ -30,9 +30,12 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Sentimentanalyse
+
+**Een AI-systeem voor sentimentanalyse ontwerpen.**
+
 **Doelgroep:** Leerlingen 2de en 3de graad van een talenrichting.
 
-**Voorkennis:** De leerlingen weten dat sentimentanalyse gebeurt a.d.h.v. een lexicon.
+**Voorkennis:** De leerlingen weten dat sentimentanalyse kan gebeuren a.d.h.v. een lexicon.
 
 ![ct-schema](@learning-object/m_ct_cases14/nl/3)
 
