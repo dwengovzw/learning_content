@@ -1,5 +1,5 @@
 ---
-hruid: ct_kijkwijzer5
+hruid: ct08_03
 version: 3
 language: nl
 title: "Kijkwijzer"
@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 # Kijkwijzer
-v1
+
 ## Tussentitel
 
 ### Subtitel

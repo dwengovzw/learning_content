@@ -1,5 +1,5 @@
 ---
-hruid: ct_kijkwijzer3
+hruid: ct08_00
 version: 3
 language: nl
 title: "Kijkwijzer"
