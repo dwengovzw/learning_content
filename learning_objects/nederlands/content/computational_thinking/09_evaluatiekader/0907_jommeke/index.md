@@ -51,8 +51,8 @@ teacher_exclusive: true
 ![Jommeke inkleuren](embed/spinjommeke.png)
   
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
--  Turingtest: identificeer of een afbeelding al dan niet artificieel is gegeneerd   &  Participatie: gedaan/niet gedaan (hard & formatief)
--  Bevindingen en argumenten bespreken tijdens een klassikaal onderwijsleergesprek & Klassikaal (1-2-3) exitticket (zacht & formatief)
--  Tekening maken die het AI-systeem kan omzeilen & Werkstuk: gelukt/niet gelukt (hard & formatief)
--  Korte uitzetting van de impact van het AI-systeem op de maatschappij & Werkstuk: document (zacht & formatief)
+-  Turingtest: identificeer of een afbeelding al dan niet artificieel is gegeneerd   &  Participatie: gedaan/niet gedaan (kwantitatief & formatief)
+-  Bevindingen en argumenten bespreken tijdens een klassikaal onderwijsleergesprek & Klassikaal (1-2-3) exitticket (kwalitatief & formatief)
+-  Tekening maken die het AI-systeem kan omzeilen & Werkstuk: gelukt/niet gelukt (kwantitatief & formatief)
+-  Korte uitzetting van de impact van het AI-systeem op de maatschappij & Werkstuk: document (kwalitatief & formatief)
 
