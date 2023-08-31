@@ -32,9 +32,6 @@ teacher_exclusive: true
 
 # Basisconcepten evalueren
 
-Computationeel denken kan in alle reguliere lessen aan bod komen. Telkens de leerlingen met een probleem geconfronteerd worden, kan computationeel denken een houvast bieden bij het zoeken naar een oplossing. Afhankelijk van de aard van het probleem zullen bepaalde concepten en handelingen van computationeel denken al dan niet aan bod komen. <br>
-Afhankelijk van de duur en het belang van een opdracht kunnen er bv. meer of minder evaluatiemomenten zijn, en kan er een voorkeur zijn voor bepaalde evaluatievormen.  
-
 ## Computationeel denken bij de aanpak van een probleem
 
 <div class="alert alert-box alert-success">
