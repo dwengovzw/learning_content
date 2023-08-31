@@ -1,5 +1,5 @@
 ---
-hruid: ct_voorbeelden9
+hruid: ct02_09
 version: 3
 language: nl
 title: "Soortgelijk schema uit literatuur"
@@ -52,15 +52,15 @@ Het **eerste voorbeeld** situeert zich in de **geschiedenisles**. Een interdisci
 
 **Doel van de les:** het leven in de middeleeuwen leren kennen
 
-![ct-schema](@learning-object/m_ct_voorbeelden9a/nl/3)
+![ct-schema](@learning-object/m_ct02_09a/nl/3)
 
 Het **tweede voorbeeld** komt uit een **les wetenschappen**. Leerkrachten ontwierpen een quiz om de geziene leerstof over de gesteentencyclus te herhalen en in te oefenen. De leerlingen moeten die quiz programmeren in Snap! De leerlingen voeren ook een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies a.d.h.v. het programma.   
 
-![ct-schema](@learning-object/m_ct_voorbeelden9b/nl/3)
+![ct-schema](@learning-object/m_ct02_09b/nl/3)
 
 Het **derde voorbeeld** dient om te oefenen op gestandandaardiseerde testen in de context van het **vak wiskunde**. De leerkrachten hebben een test geprogrammeerd in Snap! en de leerlingen leggen de test af in teams a.d.h.v. het programma. Bij elke vraag hoort een bepaalde afstand. Bij een goed antwoord gaat het team die afstand vooruit, bij een foutief antwoord wordt het team afgestraft.   
 
-![ct-schema](@learning-object/m_ct_voorbeelden9c/nl/3)
+![ct-schema](@learning-object/m_ct02_09c/nl/3)
 
 --------------------
 #### Bronnen
