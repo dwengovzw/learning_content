@@ -2,8 +2,8 @@
 hruid: ct08_05
 version: 3
 language: nl
-title: "Kijkwijzer"
-description: "Kijkwijzer"
+title: "Algoritmisch denken"
+description: "Algoritmisch denken"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,10 +30,17 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Kijkwijzer
-v1
-## Tussentitel
+# Algoritmisch denken
 
-### Subtitel
+* Leerlingen moeten/kunnen een systematische manier bedenken om het (deel)probleem op te lossen. Die systematische manier is een set van opeenvolgende, eenduidige stappen in de nodige volgorde.
 
-**Onderverdeling**
+Voorbeeld: Bij de automatisatie van een ophaalbrug, ziet een mogelijk algoritme er als volgt uit:
+•	Als de sensor op de brug een inkomende boot waarneemt, dan 
+    - Moeten de verkeerslichten aan het wegdek voor doorgaand verkeer (auto’s, fietsers…) op rood
+	Moet ‘x’ minuten gewacht worden om verkeer op de brug de kans te geven eraf te geraken
+	Moeten de slagbomen dicht
+	Mag de motor van de brug starten om de brug op te halen
+	Moet de motor stoppen als de brug boven is
+	Moet het sein voor de boot op ‘doorvaren mag’ gezet worden
+•	Als de boot door is en de sensor de uitgaande boot waarneemt, dan
+	…..
