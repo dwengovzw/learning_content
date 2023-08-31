@@ -32,6 +32,8 @@ teacher_exclusive: true
 
 # Internationaal belang
 
+![](@youtube/https://www.youtube.com/embed/bfizj6FUaDo "Computationeel denken - Belang")
+
 > In deze tekst wordt ‘computer’ gebruikt in de ruime zin van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen. 
 
 Leerlingen leren over fysica, chemie en biologie omwille van de natuurwetenschappelijke processen in de wereld waarin ze leven. Een aanzienlijk deel van hun **leven speelt zich echter digitaal af**. Denk aan sociale media, gaming en online lessen. 
