@@ -96,7 +96,7 @@ Er zijn **drie belangrijke aspecten** die bepalen dat het om een werkstuk gaat.<
 * Beoordeel in welke mate het werkstuk creatief (extra, interessante elementen) en/of origineel (unieke, persoonlijke elementen) is.
 * ...
 
-[Voorbeeld van concretisering]()
+[Voorbeeld van concretisering](https://www.dwengo.org/learning-path.html?hruid=ct4_evaluatiekader&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct09_06;nl;3)
 
 ## Observatie in informaticaonderwijs
 
