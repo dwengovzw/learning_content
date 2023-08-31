@@ -44,7 +44,8 @@ Er zijn regelgebaseerde chatbots, zoals Billy van bol.com, en er zijn lerende ch
 
 Billy, de chatbot van bol.com is een regelgebaseerde chatbot.
 
-Chat eens met Billy. Kan je hem in de war brengen?
+Chat eens met Billy. Je vindt hem links onderaan op deze [webpagina](https://www.bol.com/nl/nl/m/klantenservice/). <br>
+Kan je hem in de war brengen?
 
 
 
