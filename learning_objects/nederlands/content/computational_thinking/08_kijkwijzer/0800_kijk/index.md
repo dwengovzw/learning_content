@@ -2,8 +2,8 @@
 hruid: ct08_00
 version: 3
 language: nl
-title: "Kijkwijzer"
-description: "Kijkwijzer"
+title: "Introductie"
+description: "Introductie"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,8 +32,17 @@ teacher_exclusive: true
 
 # Kijkwijzer
 
-## Tussentitel
+Deze kijkwijzer kan je inzetten om zelf een opdracht vorm te geven of om een uitgewerkte opdracht te begrijpen en/of te beoordelen. 
 
-### Subtitel
 
-**Onderverdeling**
+* Vertrek van het schema met de vier basisconcepten:
+ 
+* Gebruik de verduidelijkingen/ aandachtspunten bij de basisconcepten om je opdracht nog eens te screenen of om het werk van anderen of leerlingen te interpreteren, te evalueren en zo nodig bij te sturen. 
+* Vink eventueel aan.
+
+**Let op:**<br> 
+* De vier basisconcepten moeten niet altijd aalemaal aan bod komen (hangt af van de probleemstelling en de complexiteit ervan).
+* De basisconcepten worden ingezet in functie van het oplossen van een uitdaging/probleem en worden niet enkel losstaand geoefend.
+* Ook geneste aanpakken zijn mogelijk/nodig (bv. bij deelproblemen/deelopdrachten kunnen de basisconcepten eveneens ingezet worden).
+* Als je leerlingen een opdracht geeft, dan is hetgeen ze bedenken niet noodzakelijk identitiek aan jouw oplossing, maar hun idee kan toch zinvol kan zijn.
+
