@@ -32,6 +32,12 @@ teacher_exclusive: true
 
 # Kader
 
+### Wat wil je met computationeel denken bij leerlingen bereiken?
+
+Voorbeeld: verschillende aspecten van computationeel denken binnen het oplossen van een probleem.
+
+![Projectschema](projectschemabijevaluatie.png "CD bij aanpak probleem")
+
 ## Voorbereiden
 
 * Formuleer het onderwerp/de leeractiviteit.
