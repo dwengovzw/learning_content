@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Alledaagse voorbeelden
 
-Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van computationeel denken in het dagelijks leven. Een groot aantal daarvan zijn unplugged voorbeelden: activiteiten waar geen computer bij aan te pas komt. Andere maken wel gebruik van een computer, maar er hoeft niet geprogrammeerd te worden.  
+Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van computationeel denken in het dagelijks leven. Een groot aantal daarvan zijn unplugged voorbeelden: activiteiten waar geen computer aan te pas komt. Andere maken wel gebruik van een computer, maar er hoeft niet geprogrammeerd te worden.  
 
 |**CD**|**Dagdagelijkse toepassingen**|
 |---------------|------------------------|
