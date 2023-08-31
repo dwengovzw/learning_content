@@ -1,5 +1,5 @@
 ---
-hruid: ct10_06
+hruid: ct09_06
 version: 3
 language: nl
 title: "Inspiratievoorbeelden"

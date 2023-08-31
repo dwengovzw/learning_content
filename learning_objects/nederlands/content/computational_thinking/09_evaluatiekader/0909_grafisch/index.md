@@ -1,5 +1,5 @@
 ---
-hruid: ct10_09
+hruid: ct09_09
 version: 3
 language: nl
 title: "Grafische programmeeropdracht"
