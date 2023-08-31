@@ -2,8 +2,8 @@
 hruid: ct00_03
 version: 3
 language: nl
-title: "Computationeel denken"
-description: "Vlaanderen"
+title: "Sinds jaar en dag"
+description: "CD is niet nieuw"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
