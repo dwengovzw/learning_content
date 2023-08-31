@@ -2,8 +2,8 @@
 hruid: ct09_06
 version: 3
 language: nl
-title: "Inspiratievoorbeelden"
-description: "Inspiratievoorbeelden"
+title: "Code evalueren"
+description: "Code evalueren"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
