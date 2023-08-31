@@ -1,5 +1,5 @@
 ---
-hruid: ct_10_3
+hruid: ct05_03
 version: 3
 language: nl
 title: "IJsjesmachine: Patroon herkennen"

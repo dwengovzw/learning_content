@@ -1,5 +1,5 @@
 ---
-hruid: ct_10_4
+hruid: ct05_04
 version: 3
 language: nl
 title: "Kaarten omdraaien: Algoritme toepassen en patroon herkennen"
