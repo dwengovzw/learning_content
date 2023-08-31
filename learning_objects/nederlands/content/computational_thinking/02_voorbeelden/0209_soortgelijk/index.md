@@ -31,9 +31,9 @@ teacher_exclusive: true
 ---
 # Voorbeeld uit de literatuur: PRADA
  
-Sands et al. (2018) gaven aan dat een nascholing voor jou, als leerkracht, over computationeel denken pas succesvol kan zijn als<br>
+Sands et al. (2018) gaven aan dat een nascholing over computationeel denken voor jou, als leerkracht, pas succesvol kan zijn als<br>
 - die gerelateerd is met de lesinhouden die jij geeft;
-- toont hoe computationeel denken in het bestaande curriculum en vakspecifieke lessen kan geïntegreerd worden;
+- die aantoont hoe computationeel denken in het bestaande curriculum en vakspecifieke lessen geïntegreerd kan worden;
 - en dat op een manier die bovendien past bij jouw didactische methodes.
 
 Dong et al. (2019) lieten zich hierdoor inspireren en ontwikkelden het PRADA-model - PRADA staat voor *Pattern Recognition, Abstraction, Decomposition, and ALgorithms*. Ze trokken met hun model naar leerkrachten wiskunde, wetenschappen, maatschappijleer en Engelse taalkunde en stelden vast dat **dit model leerkrachten stimuleert tot het leggen van linken tussen computationeel denken en hun eigen lesmateriaal**. 
