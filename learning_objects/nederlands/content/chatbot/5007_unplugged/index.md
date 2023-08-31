@@ -2,8 +2,8 @@
 hruid: cb5_unplugged7
 version: 3
 language: nl
-title: "Chatbot"
-description: "Chatbot"
+title: "Afsluiter"
+description: "Afsluiter"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,12 +32,13 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Chatbot
+# Conclusie en een leuke afsluiter
 
 * Lerende chatbots durven heel wat te verzinnen.
 * Lerende chatbots zijn flexibel en vlot.
 * Regelgebaseerde chtabots doen dat niet, maar ook zij geven niet altijd correcte antwoorden. Als de vraag niet 'voorgeprogrammeerd' is, geven ze soms een antwoord die eigenlijk bij een andere vraag hoort. Of soms antwoorden ze dat ze je niet kunnen helpen, wat ook vervelend is. Ze zijn dus niet flexibel. Je kan hier meer over lezen in [hoofdstuk 4 van de handleiding](https://dwengo.org/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf) bij het chatbotproject. 
 
 
-Misschien een leuke afsluiter:<br>
+Misschien een leuke afsluiter:
+
 ![ChatGPT geeft tips](embed/chatgptadvieslief.png)
