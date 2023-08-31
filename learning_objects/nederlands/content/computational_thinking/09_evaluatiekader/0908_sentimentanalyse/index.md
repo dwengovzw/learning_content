@@ -51,7 +51,7 @@ teacher_exclusive: true
 
 **Evaluatieschema:**
 
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/d1e8efd8-faf3-4d93-b3bf-1a3e9a97003f)
+![spindiagranm sentimentanalyse](embed/spinsentiment.png)
 
 
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
