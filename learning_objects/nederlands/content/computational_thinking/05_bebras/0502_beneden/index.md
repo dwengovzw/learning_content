@@ -64,7 +64,7 @@ Herhaal de volgende vier lijnen, zolang je niet beneden bent aangekomen:<br>
 </p>
 </div>
 
-Er zijn verschillende manieren om algoritmisch denken in een computationeel denkproces toe te passen. In dit voorbeeld komt algoritmisch denken voor in zijn eenvoudigste vorm is. In de andere voorbeelden maak je kennis met andere vormen van algoritmisch denken.
+Er zijn verschillende manieren om algoritmisch denken in een computationeel denkproces toe te passen. In dit voorbeeld komt algoritmisch denken voor in zijn eenvoudigste vorm. In de andere voorbeelden maak je kennis met andere vormen van algoritmisch denken.
 
 Mogelijke toepassingen zijn:
 - een opgegeven algoritme kunnen toepassen (voorbeeld 2, voorbeeld 4);
