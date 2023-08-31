@@ -39,7 +39,7 @@ teacher_exclusive: true
 
 ## Soorten chatbots
 
-Er zijn regelgebaseerde chatbots en er zijn lerende chatbots. *In het leerpad Chatbot wordt hier dieper op ingegaan. Ook het 'hallucineren' van een chatbot zoals ChatGPT komt er aan bod.*
+Er zijn regelgebaseerde chatbots en er zijn lerende chatbots. *In het [leerpad Chatbot](https://dwengo.org/learning-path.html?hruid=cb1_chatbot&language=nl&te=true&source_page=%2Fchatbot%2F&source_title=%20Chatbot#cb_chatbot_inleiding;nl;3) wordt hier dieper op ingegaan. Ook het 'hallucineren' van een chatbot zoals ChatGPT komt daar aan bod.*
 
 ## Opdracht
 
@@ -50,22 +50,22 @@ Billy, de chatbot van bol.com is een regelgebaseerde chatbot.
 Chat eens met Billy. Kan je hem in de war brengen?
 
 *Tips die je kan geven aan de leerlingen voor het chatgesprek:*<br>
-*	Start het gesprek door het stellen van een vraag. Wat krijg je te zien? 
-*	Probeer informatie te krijgen over een product. 
-*	Vraag hoe laat je tandartsafspraak is. Wat krijg je te zien? 
-*	Wat doet Billie, de chatbot, wanneer hij niet kan antwoorden? 
+* Start het gesprek door het stellen van een vraag. Wat krijg je te zien? 
+* Probeer informatie te krijgen over een product. 
+* Vraag hoe laat je tandartsafspraak is. Wat krijg je te zien? 
+* Wat doet Billie, de chatbot, wanneer hij niet kan antwoorden? 
 
 Misschien kennen de leerlingen nog andere chatbots. Laat de leerlingen op verschillende chatbots een gesprek voeren. Denk aan  Zalando, kenniscentrum Data & Maatschappij … of chat met de allereerste chatbot [ELIZA](https://www.eclecticenergies.com/nederlands/psyche/eliza). 
 
 *Nabespreking:*<br>
-*	Hoe hebben jullie het chatten met de chatbot ervaren? 
-*	Wat doet deze chatbot wanneer hij het antwoord niet kent? 
-*	Wat zouden voordelen zijn van deze chatbot? 
-*	Wat zouden nadelen zijn van deze chatbot? 
-*	Welke gelijkenissen/verschillen merk je tussen de verschillende chatbots? 
+* Hoe hebben jullie het chatten met de chatbot ervaren? 
+* Wat doet deze chatbot wanneer hij het antwoord niet kent? 
+* Wat zouden voordelen zijn van deze chatbot? 
+* Wat zouden nadelen zijn van deze chatbot? 
+* Welke gelijkenissen/verschillen merk je tussen de verschillende chatbots? 
 
 -----------------------
-Met deze activiteit kan je werken aan **minimumdoelen** van Nederlands voor de finaliteit **arbeidsmarkt**. 
+Met deze activiteit kan je bv. werken aan **minimumdoelen** van Nederlands voor de finaliteit **arbeidsmarkt**. 
 
 <span style="color: yellowgreen">(02.02 Finaliteit arbeidsmarkt) De leerlingen beoordelen doelgericht informatie op betrouwbaarheid, correctheid en bruikbaarheid bij het lezen en luisteren.</span>
 
