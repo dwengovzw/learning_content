@@ -1,5 +1,5 @@
 ---
-hruid: ct_10_5
+hruid: ct05_05
 version: 3
 language: nl
 title: "Kortste route: Algoritme bedenken"

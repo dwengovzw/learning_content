@@ -1,5 +1,5 @@
 ---
-hruid: ct_10_6
+hruid: ct05_06
 version: 3
 language: nl
 title: "Stormbestendig netwerk: Abstractie maken"

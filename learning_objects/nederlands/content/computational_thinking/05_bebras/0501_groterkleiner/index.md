@@ -1,5 +1,5 @@
 ---
-hruid: ct_10_1
+hruid: ct05_01
 version: 3
 language: nl
 title: "Groter en kleiner: Decompositie en abstractie"

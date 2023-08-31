@@ -1,5 +1,5 @@
 ---
-hruid: ct_10_7
+hruid: ct05_07
 version: 3
 language: nl
 title: "Toevalsprenten: Abstractie en algoritme"
