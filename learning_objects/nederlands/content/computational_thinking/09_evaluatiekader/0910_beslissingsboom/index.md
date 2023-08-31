@@ -61,11 +61,11 @@ teacher_exclusive: true
 ![spin beslissingsboom ai in de zorg](embed/spinaizorg.png)
 
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
-- Klassikaal onderwijsleergesprek over beslissingsbomen a.d.h.v. 'echte' voorbeelden & Klassikaal (1-2-3) exit ticket (zacht & formatief)
-- Klassikaal onderwijsleegesprek: Computationeel denken: wat is nodig om een beslissingboom door computer te kunnen laten opstellen & Klassikaal (1-2-3) exit ticket (zacht & formatief)
-- Een voorbereiding maken tegen de volgende les: oefeningen op gini-index & Participatie: gedaan/niet gedaan (hard & formatief)
-- Toets op gini-index & Klassieke toets (hard & summatief)
-- Beslissingsboom opstellen (unplugged) vanuit gegeven tabel & Participatie: gedaan/niet gedaan (hard & formatief)
-- Dezelfde beslissingsboom opstellen (plugged) met Python notebook & Werkstuk: gelukt/niet gelukt (hard & formatief) of nagaan van correcte aanpassing code, naamgeving variabelen (hard & summatief)
-- Korte individuele uitzetting van de beperkingen en opportuniteiten van het gebruik van beslissingsbomen in de zorgsector & Werkstuk: document (zacht & formatief)
+- Klassikaal onderwijsleergesprek over beslissingsbomen a.d.h.v. 'echte' voorbeelden & Klassikaal (1-2-3) exit ticket (kwalitatief & formatief)
+- Klassikaal onderwijsleergesprek: Computationeel denken: wat is nodig om een beslissingboom door computer te kunnen laten opstellen & Klassikaal (1-2-3) exit ticket (kwalitatief & formatief)
+- Een voorbereiding maken tegen de volgende les: oefeningen op gini-index & Participatie: gedaan/niet gedaan (kwantitatief & formatief)
+- Toets op gini-index & Klassieke toets (kwantitatief & summatief)
+- Beslissingsboom opstellen (unplugged) vanuit gegeven tabel & Participatie: gedaan/niet gedaan (kwantitatief & formatief)
+- Dezelfde beslissingsboom opstellen (plugged) met Python notebook & Werkstuk: gelukt/niet gelukt (kwantitatief & formatief) of nagaan van correcte aanpassing code, naamgeving variabelen (kwantitatief & summatief)
+- Korte individuele uitzetting van de beperkingen en opportuniteiten van het gebruik van beslissingsbomen in de zorgsector & Werkstuk: document (kwalitatief & summatief)
 
