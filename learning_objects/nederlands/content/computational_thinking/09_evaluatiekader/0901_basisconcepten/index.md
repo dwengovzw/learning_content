@@ -118,7 +118,7 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 * De leerlingen stellen data voor in een digitale vorm.<sup>1</sup>|
 
 
-## Computationele leerdoelen bij het oplossen van een probleem
+## Concepten van computationeel denken bij het oplossen van een probleem en in een STEM-project
 
 Het volgende schema biedt een houvast bij het aanpakken van een probleem. <br>
 ![schema link probleem oplossen met de vier basisconcepten](projectschemabijevaluatie.png "schema probleem oplossen en computationeel denken") 
