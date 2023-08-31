@@ -2,8 +2,8 @@
 hruid: ct08_01
 version: 3
 language: nl
-title: "Kijkwijzer"
-description: "Kijkwijzer"
+title: "Probleemstelling"
+description: "Probleemstelling"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,10 +30,13 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Kijkwijzer
+# De opdracht/probleemstelling
 
-## Tussentitel
+* De opdracht/probleemstelling is functioneel relevant voor de doelgroep. 
+  >>Bij voorkeur: de opdracht is gekoppeld aan een ET/doel met inhouden specifiek voor de studierichting 
+  >>Voorbeeld: het opstellen van een teeltplan past in het toepassingsgebied ‘biotechniek’ voor het vak techniek in de eerste graad B-stroom
+* De opdracht/probleemstelling behandelt een maatschappelijk relevant probleem/vraagstuk.
+* De opdracht/probleemstelling daagt leerlingen uit de basisconcepten in te zetten om tot een oplossing te komen 
+* De opdracht kan leiden tot het inzetten van een computer om het probleem op te lossen
 
-### Subtitel
 
-**Onderverdeling**
