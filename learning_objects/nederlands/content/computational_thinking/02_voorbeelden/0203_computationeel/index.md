@@ -33,7 +33,7 @@ teacher_exclusive: true
 
 Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
 
-Behalve de basisconcepten worden de concepten en praktijken van computationeel denken niet door iedereen op dezelfde manier gepercipieerd. Maar voor het Vlaamse onderwijs is het vooral interessant te weten welke er in de eindtermen, minimumdoelen en leerplannen voorkomen. Je wil immers weten welke je zeker aan bod moet laten komen in jouw lessen. <br>
+De concepten en praktijken van computationeel denken worden niet door iedereen op dezelfde manier gepercipieerd. Maar voor het Vlaamse onderwijs is het vooral interessant te weten welke er in de eindtermen, minimumdoelen en leerplannen voorkomen. Je wil immers weten welke je zeker aan bod moet laten komen in jouw lessen. <br>
 De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. In het leerpad 'Eindtermen en minimumdoelen' lees je daar meer over.
 
 We hebben verschillende kaders van onderzoekers afgetoetst aan de Vlaamse eindtermen en minimumdoelen.
