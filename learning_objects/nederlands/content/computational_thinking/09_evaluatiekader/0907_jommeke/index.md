@@ -48,7 +48,7 @@ teacher_exclusive: true
 -  Korte uitzetting van de impact van het AI-systeem op de maatschappij 
 
 **Evaluatieschema:**
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/da293518-3da3-4806-ad32-29826d636754)
+![Jommeke inkleuren](embed/spinjommeke.png)
   
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
 -  Turingtest: identificeer of een afbeelding al dan niet artificieel is gegeneerd   &  Participatie: gedaan/niet gedaan (hard & formatief)
