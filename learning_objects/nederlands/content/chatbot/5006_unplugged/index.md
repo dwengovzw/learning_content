@@ -42,7 +42,8 @@ Onthoud: <br>
 
 De lerende chatbot zal woorden die dicht bij elkaar liggen, gebruiken om zinnen mee te maken. 
 
-*Voordat de leerlingen aan de oefeningen beginnen, kan je best deze werking eens met hen bespreken.* 
+*Voordat de leerlingen aan de oefeningen beginnen, kan je best deze werking eens met hen bespreken.* <br>
+*Na de oefeningen kan je nog eens op de werking terugkomen. Je kan ook een spellingscorrector vermelden. Als bv. een woord in Word onderlijnd wordt met een rode krullijn, dan kan je suggesties opvragen om het woord te corrigeren. Kunnen leerlingen vertellen hoe het systeem die suggesties mogelijk bepaalt?* 
 
 ### Opdracht 1
 
