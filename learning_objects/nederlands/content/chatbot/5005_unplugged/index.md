@@ -45,5 +45,5 @@ Eventuele richtvragen:<br>
 * Kan je de chatbot op foute/bizarre antwoorden betrappen?
 * Vraag door over een onderwerp waar je zelf veel over weet.
 
-De leerlingen krijgen ook een fake nieuwsartikel voorgeschoteld. Je kan dit met hen bespreken.<br>
+De leerlingen krijgen ook een *fake* nieuwsartikel voorgeschoteld. Je kan dit met hen bespreken.<br>
 Nadien kunnen ze zelf een vraag verzinnen voor ChatGPT om hem een *fake* boodschap te laten schrijven.
