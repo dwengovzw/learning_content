@@ -2,8 +2,8 @@
 hruid: cb5_unplugged6lln
 version: 3
 language: nl
-title: "Lerende chatbots"
-description: "Lerende chatbots"
+title: "Werking lerende chatbots"
+description: "Weking lerende chatbots"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,7 +32,19 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Lerende chatbots
+# Hoe werkt een lerende chatbot?
+
+Een chatbot op basis van een lerend AI-systeem heeft geleerd door heel veel teksten te lezen. Bijvoorbeeld de teksten van Wikipedia, boodschappen op sociale media, en hele boeken die online staan.<br>  
+In die teksten komen sommige woorden vaak samen voor. In een tekst over een hond of een kat, zal het bv. vaak ook over een dierenarts gaan. In een tekst over een school, zal het vaak over leerkrachten en leerlingen gaan, en over brooddozen, boekentassen, schoolboeken, laptops en soms ook over de schoolbel.
+
+Het AI-systeem onthoudt al die informatie door het op een bepaalde manier te structureren. Eenvoudig gezegd:<br>
+* Je kan het beschouwen als een groot veld waarin woorden geplaatst worden.
+* De woorden die veel met elkaar te maken hebben, staan dicht bij elkaar.
+* De woorden die niets met elkaar te maken hebben, staan ver van elkaar.
+* In dat veld kan je ook verbanden terugvinden, zoals 'koning-koningin' en 'man-vrouw'.
+* De plaats van 'koningin' t.o.v. 'koning', en de plaats van 'vrouw' t.o.v. 'man' ziet er in het veld hetzelfde uit.
+
+**Door de volgende oefeningen te maken zal je beter begrijpen hoe een lerende chatbot te werk gaat en waarom hij soms foute dingen zegt.** 
 
 ### Opdracht 1
 
