@@ -48,4 +48,4 @@ Eventuele richtvragen:<br>
 De leerlingen krijgen ook een *fake* nieuwsartikel voorgeschoteld. Je kan dit met hen bespreken.<br>
 Nadien kunnen ze zelf een vraag verzinnen voor ChatGPT om hem een *fake* boodschap te laten schrijven.
 
-Tot slot zien ze wat ChatGPT voor hen kan betekenen a.d.h.v. enekele oefeningen. 
+Tot slot zien ze wat ChatGPT voor hen kan betekenen a.d.h.v. enkele oefeningen. 
