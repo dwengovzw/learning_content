@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Algoritmisch denken
 
-* Leerlingen moeten/kunnen een systematische manier bedenken om het (deel)probleem op te lossen. Die systematische manier is een set van opeenvolgende, eenduidige stappen in de nodige volgorde.
+* Leerlingen bedenken een systematische manier om het (deel)probleem op te lossen. Die systematische manier is een set van opeenvolgende, eenduidige stappen in de nodige volgorde.
 
 Voorbeeld: Bij de automatisatie van een ophaalbrug, ziet een mogelijk algoritme er als volgt uit:
 •	Als de sensor op de brug een inkomende boot waarneemt, dan 
