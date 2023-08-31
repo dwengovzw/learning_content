@@ -43,6 +43,8 @@ De chatbot zoekt het best gelijkende antwoord door de 'afstand' te berekenen tus
 
 **Hoewel de leerlingen af en toe toch eens de computer gebruiken in dit leerpad, werd toch gekozen voor de titel 'Chatbot unplugged'. De leerlingen bootsen de werking van een regelgebaseerde chatbot na via een rollenspel, en ook de werking van een lerende chatbot wordt zonder computer toegelicht. In dit leerpad wordt er niet geprogrammeerd.** 
 
+**Klik links, boven het menu, op 'Link naar leerpad voor leerlingen' om de rechtstreekse link te krijgen naar het leerlingenleerpad. Dat is opgebouwd met de witte menublokken. Die URL kan je aan je leerlingen bezorgen om rechtstreeks naar het leerlingenleerpad te surfen.**
+
 # De inleiding 'Wat is AI?' is als volgt opgebouwd:
 
 ## Klasdiscussie
