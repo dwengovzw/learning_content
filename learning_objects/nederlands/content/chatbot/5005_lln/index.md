@@ -36,10 +36,14 @@ teacher_exclusive: false
 
 Lerende chatbots, zoals ChatGPT, zijn gebaseerd op grote taalmodellen. 
 
+## Nonsens
+
 En ook al schrijven lerende chatbots zoals ChatGPT vaak hele mooie zinnen, ze durven helaas ook heel wat nonsens verzinnen. <br>
 Als je bijvoorbeeld ChatGPT naar iets vraagt waar je zelf heel veel over weet, dan kan je hem misschien wel betrappen!<br>
 
-AI-systemen maken het ook mogelijk om gemakkelijk nieuwsartikels te schrijven.<br>
+## Nieuwsartikels en fake news
+
+AI-systemen maken het ook mogelijk om gemakkelijk nieuwsartikels te schrijven. Op sommige nieuwssites bijvoorbeeld worden de kleine artikeltjes met de sportuitslagen door AI-systemen geschreven.<br>
 Lees onderstaand artikel, zou jij merken dat dit niet door een mens geschreven is?
 
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/f8ddd920-cfba-4c2c-9300-5d06f1187aaf)<br>
@@ -48,4 +52,22 @@ Lees onderstaand artikel, zou jij merken dat dit niet door een mens geschreven i
 Je merkte vast op dat de inhoud van dit artikel helemaal niet waar is. Dergelijke artikels zijn vaak niet gebaseerd op echte feiten. <br>
 Dus mensen met minder goede bedoelingen kunnen zulke chatbots bv. gebruiken om *fake news* te schrijven. En omdat chatbots zoals ChatGPT in een mum van tijd heel veel tekst kunnen schrijven, kunnen ze dat nu gemakkelijker doen dan vroeger.
 
-**Verzin zelf een vraag voor ChatGPT om hem een *fake* boodschap te laten schrijven.**
+### Opdracht 1
+
+**Verzin zelf een vraag voor ChatGPT (of een andere chatbot) om hem een *fake* boodschap te laten schrijven.**
+
+## Lerende chatbot gebruiken
+
+### Opdracht 2
+
+Veronderstel dat je een eigen schoenwinkel uitbaat. <br>
+Vraag de chatbot om je te helpen bij het schrijven van een e-mail naar je boekhouder.
+
+### Opdracht 3
+
+Geef een ingewikkelde tekst aan de chatbot en vraag hem om de tekst te herschrijven in eenvoudige taal.
+
+### Opdracht 4
+
+Geef een verhaal aan de chatbot en vraag hem dat verhaal te herschrijven voor een 8-jarig kind. 
+
