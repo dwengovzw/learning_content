@@ -1,5 +1,5 @@
 ---
-hruid: ct_historiek2
+hruid: ct07_01
 version: 3
 language: nl
 title: "Computer"

@@ -1,5 +1,5 @@
 ---
-hruid: ct_historiek7
+hruid: ct07_06
 version: 3
 language: nl
 title: "Slot"
