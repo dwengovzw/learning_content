@@ -55,9 +55,9 @@ teacher_exclusive: true
 
 
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
-- Computationeel denken over de werking van geautomatiseerde, regelgebaseerde sentimentanalyse a.d.h.v. onderwijsleergesprek: "Hoe breng ik dit naar de computer?" & klassikaal exit ticket (formatief)
-- Leerlingen voeren sentimentanalyse unplugged uit op een review & (individueel of in groep) schriftelijke neerslag (correct of niet - harde evaluatie) (summatief);
-- Leerlingen beargumenteren kritisch wat dit betekent voor de maatschappelijke impact a.d.h.v. onderwijsleergesprek & klassikaal exit ticket (formatief);
-- Leerlingen analyseren de impact op de maatschappij van een regelbaseerd systeem voor cyberpestdetectie individueel, schriftelijk reflectieverslag (summatief); 
-- Leerlingen zoeken (originele) voorbeelden van taaltechnologie en delen die met de klas participatie (gedaan/ niet gedaan - harde evaluatie) (formatief) en peerfeedback (zachte evaluatie) (formatief);
-- Klassikaal onderwijsleergesprek betreffende patronen binnen de werking van verschillende taalsystemen & klassikaal exit ticket (formatief).
+- Computationeel denken over de werking van geautomatiseerde, regelgebaseerde sentimentanalyse a.d.h.v. onderwijsleergesprek: "Hoe breng ik dit naar de computer?" & klassikaal exit ticket (kwalitatieve evaluatie, formatief)
+- Leerlingen voeren sentimentanalyse unplugged uit op een review & (individueel of in groep) schriftelijke neerslag (correct of niet - kwalitatieve evaluatie) (summatief);
+- Leerlingen beargumenteren kritisch wat dit betekent voor de maatschappelijke impact a.d.h.v. onderwijsleergesprek & klassikaal exit ticket (kwantitatieve evaluatie, formatief);
+- Leerlingen analyseren de impact op de maatschappij van een regelbaseerd systeem voor cyberpestdetectie individueel, schriftelijk reflectieverslag (tussentijdse evaluatie kwalitatief, formatief - kwantitatief, summatief); 
+- Leerlingen zoeken (originele) voorbeelden van taaltechnologie en delen die met de klas participatie (gedaan/ niet gedaan - kwantitatieve evaluatie) (formatief) en peerfeedback (kwalitatieve evaluatie) (formatief);
+- Klassikaal onderwijsleergesprek betreffende patronen binnen de werking van verschillende taalsystemen & klassikaal exit ticket (kwalitatieve evaluatie, formatief).
