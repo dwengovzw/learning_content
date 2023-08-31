@@ -40,10 +40,10 @@ Dat getal wordt **afstand** genoemd.
 
 **Voorbeeld**<br>
 koken en haken -> er moeten twee letters veranderd worden: een 'k' en de 'h'. Beide woorden hebben 5 letters, het langste woord heeft dus 5 letters <br>
-De afstand = 2/5 = 0,4<br>
+De afstand = 2/5 = 0,4.<br>
 <br>
 koken en koren -> er moet 1 letter veranderd worden: een 'k'. Beide woorden hebben 5 letters, het langste woord heeft dus 5 letters <br>
-De afstand = 1/5 = 0,2<br>  
+De afstand = 1/5 = 0,2.<br>  
 <br>
 Dit betekent dat 'koken' meer op 'koren' gelijkt dan op 'haken'.
 <br>
