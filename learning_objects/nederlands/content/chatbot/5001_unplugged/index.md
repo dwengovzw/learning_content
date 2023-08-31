@@ -45,7 +45,7 @@ Er zijn regelgebaseerde chatbots en er zijn lerende chatbots. *In het [leerpad C
 
 *Kunnen leerlingen verklaren waarom ze Billy van de wijs kunnen brengen?*
 
-Billy, de chatbot van bol.com is een regelgebaseerde chatbot.
+Billy, de chatbot van bol.com is een regelgebaseerde chatbot. Je vindt hem links onderaan op deze [webpagina](https://www.bol.com/nl/nl/m/klantenservice/).
 
 Chat eens met Billy. Kan je hem in de war brengen?
 
@@ -55,7 +55,9 @@ Chat eens met Billy. Kan je hem in de war brengen?
 * Vraag hoe laat je tandartsafspraak is. Wat krijg je te zien? 
 * Wat doet Billie, de chatbot, wanneer hij niet kan antwoorden? 
 
-Misschien kennen de leerlingen nog andere chatbots. Laat de leerlingen op verschillende chatbots een gesprek voeren. Denk aan  Zalando, kenniscentrum Data & Maatschappij … of chat met de allereerste chatbot [ELIZA](https://www.eclecticenergies.com/nederlands/psyche/eliza). 
+Laat de leerlingen met verschillende chatbots een gesprek voeren. <br>
+Denk aan Zalando, kenniscentrum Data & Maatschappij … of chat met de allereerste chatbot [ELIZA](https://www.eclecticenergies.com/nederlands/psyche/eliza). 
+Misschien kennen jouw leerlingen nog andere chatbots ... en misschien gebruiken ze er een zoals de chatbot MyAI van Snapchat. 
 
 *Nabespreking:*<br>
 * Hoe hebben jullie het chatten met de chatbot ervaren? 
