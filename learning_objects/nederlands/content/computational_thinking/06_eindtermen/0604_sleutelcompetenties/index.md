@@ -1,5 +1,5 @@
 ---
-hruid: ct_eindtermen4
+hruid: ct06_04
 version: 3
 language: nl
 title: "Andere sleutelcompetenties"

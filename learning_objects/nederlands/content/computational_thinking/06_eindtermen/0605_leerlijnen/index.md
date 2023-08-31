@@ -1,5 +1,5 @@
 ---
-hruid: ct_eindtermen5
+hruid: ct06_05
 version: 3
 language: nl
 title: "Leerlijnen"

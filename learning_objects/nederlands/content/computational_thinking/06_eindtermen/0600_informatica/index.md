@@ -1,5 +1,5 @@
 ---
-hruid: ct_eindtermen1
+hruid: ct06_00
 version: 3
 language: nl
 title: "Informatica"

@@ -1,5 +1,5 @@
 ---
-hruid: ct_eindtermen
+hruid: ct06_01
 version: 3
 language: nl
 title: "Hervorming"
