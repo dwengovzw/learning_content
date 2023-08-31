@@ -43,9 +43,9 @@ teacher_exclusive: true
 |Abstractie|Emotiemachine in het project 'Sociale robot'|||emotiemachine in het project 'Sociale robot'||
 |Abstractie||trendlijn, grafiek in Python (herleid tot enkele lijnstukken)|||ChatGPT (vectoren i.p.v. zinnen)|
 |Abstractie|werking routeplanner; algoritme van Dijkstra; vingerafdrukken matchen|grafen||||
-|Data verzamelen|datastructuren||||veel voorkomende datastructuren in taaltechnologie (in het project 'Chatbot')|
+|Data verzamelen|datastructuren||||veelvoorkomende datastructuren in taaltechnologie (in het project 'Chatbot')|
 |Data voorstellen||spreidingsdiagram en trendlijn|data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat|||
-|Data voorverwerken|gegevens CO2 samenbrengen in leerpad Klimaat; gegevens opkuisen in project AI in de Zorg; gegevens numeriek maken in project AI in de Zorg; gegevens filteren in notebook NMBS; herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen|||||
+|Data voorverwerken|gegevens CO<sub>2</sub> samenbrengen in leerpad Klimaat; gegevens opkuisen in project "AI in de Zorg'; gegevens numeriek maken in project 'AI in de Zorg'; gegevens filteren in notebook NMBS; herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen|||||
 |Simuleren|||verschillende scenario's binnen dwenguino simulator||verschillende scenario's binnen dwenguino simulator|
 |Inzicht in tools||||begrijpen waarom beslissingsboom soms wordt verkozen boven een diep neuraal netwerk (zie project AI in de Zorg)||
 
