@@ -63,7 +63,7 @@ Bekijk nu het tweede schema. Welke tekst zou ChatGPT kunnen schrijven bij dit sc
 
 ![emiliaveld](https://github.com/dwengovzw/learning_content/assets/48352335/25fcec34-9d31-4fc3-92c3-2835edec7f36)
 
-![werkblad](embed/werkblad_wie is Emilia.pdf)
+![werkblad](embed/werkbladwieisemilia.pdf)
 
 *Mogelijk antwoord:*<br>
 *Emilia is een tekenfilm door tekenaar Kobe Devries. Ze heeft een zeehond en haar beste vriend is Arsène.* 
