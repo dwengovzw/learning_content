@@ -79,28 +79,28 @@ We geven hier een (niet-exhaustief) overzicht gericht op wetenschappen en wiskun
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
-|Data analyse|programma schrijven om eenvoudige statistische berekeningen te doen op een dataset|aantal keer kop of munt automatisch laten tellen en resultaat interpreteren|gegevens analyseren van een experiment|
-|Data voorstellen|gegevensstructuren gebruiken zoals array, gekoppelde lijst, stack, wachtrij, grafiek, hash tabel, enz.|histogram, taartdiagram, staafdiagram gebruiken om gegevens weer te geven; stel gegevens overzichtelijk voor d.m.v. verzamekingen, lijsten, grafieken, enz.|gegevens samenvatten van een experiment|
+|Data-analyse|programma schrijven om eenvoudige statistische berekeningen te doen op een dataset|aantal keer kop of munt automatisch laten tellen en resultaat interpreteren|gegevens van een experiment analyseren|
+|Data voorstellen|gegevensstructuren gebruiken zoals array, gekoppelde lijst, stack, wachtrij, grafiek, hash tabel, enz.|histogram, taartdiagram, staafdiagram gebruiken om gegevens weer te geven; stel gegevens overzichtelijk voor d.m.v. verzamelingen, lijsten, grafieken, enz.|gegevens van een experiment samenvatten|
 |Data genereren||microcontroller|microcontroller|
 |Data voorverwerken|gegevens sorteren, filteren, opkuisen, normaliseren, samenbrengen|||
 |Data voorstellen||computationele voor- en nadelen soort diagram||
-|Data analyseren|||internationale datsets van broeikasgasuitstoot vergelijken naar hoeveelheid, land, economische sector ...| 
+|Data analyseren|||internationale datasets van broeikasgasuitstoot vergelijken naar hoeveelheid, land, economische sector ...| 
 |Data|data verzamelen (via dataloggers, via world wide web, via simulaties) en opkuisen|kansverdeling simuleren|data verzamelen (via dataloggers, via world wide web, via simulaties), opkuisen, monitoren en analyseren; meedoen aan een citizen science project|
 
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
-|Automatisatie||eenvoudige zaken in Python programmeren; Geogebra gebruiken| |
+|Automatisatie||eenvoudige zaken in Python programmeren; GeoGebra gebruiken| |
 |Programmeren|videogames maken via programmeren in Scratch|||
-|Programmeren|bestaande programma's begrijpen en/of aanpassen, functies schrijven|data visualiseren, wiskundige model bouwen||  
-|Controlestructuren|controlestructuren gebruiken conditionals, lussen, recursie, enz.|wiskundige functies bestuderen vergeleken met functies in programmeren; iteratie gebruiken om vraagstukken op te lossen||
+|Programmeren|bestaande programma's begrijpen en/of aanpassen, functies schrijven|data visualiseren, wiskundige modellen bouwen||  
+|Controlestructuren|controlestructuren gebruiken: conditionals, lussen, recursie, enz.|wiskundige functies bestuderen vergeleken met functies in programmeren; iteratie gebruiken om vraagstukken op te lossen||
 |Iteratie||vermenigvuldiging als iteratieve optelling||
 |Programmeren|nadenken over sequentie, iteratie, selectie, variabelen, invoer en uitvoer||| 
 |Artefact|programmeren en simuleren gevolgd door fysieke artefact; programmeren van een app bruikbaar door anderen|||
-|Automatisatie|wanneer is automatisatie zinvol; nodige abstracties en datarepresentaties|||
+|Automatisatie|wanneer is automatisatie zinvol? nodige abstracties en datarepresentaties|||
 |Parameters|experimenteren met de parameters in een logo om nieuwe logo's te creëren|parameters in een logo identificeren||
 |Automatiseren|programma verwerkt invoer van de sensoren op een robot|||
-|Automatisatie, modeleren en simuleren||simuleren a.d.h.v. Netlogo om patronen op te sporen biologische, aardrijkundige, fysische, chemische ... processen|
+|Automatisatie, modeleren en simuleren||simuleren a.d.h.v. Netlogo om patronen op te sporen: biologische, aardrijkundige, fysische, chemische ... processen|
 |Programmeren|toestel ontwerpen en bouwen om paperclips te tellen|geld wisselen; bewegen op een getallenlijn (bv. in Scratch)||
 |Automatisatie|bespreken welke dagdagelijkse processen er (deels) geautomatiseerd kunnen worden en welke niet|stelsels vergelijkingen laten oplossen door de computer|simulaties gebruiken, bv. betreffende de dynamiek in een ecosysteem|
 
@@ -108,7 +108,7 @@ We geven hier een (niet-exhaustief) overzicht gericht op wetenschappen en wiskun
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
 |Testen en evalueren|programma debuggen|antwoord schatten en verifiëren|data opkuisen| | |
-|Evalueren en debuggen|strategieen om uit te vissen waarom iets niet werkt zoals verwacht|||
+|Evalueren en debuggen|strategieën om uit te vissen waarom iets niet werkt zoals verwacht|||
 
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
@@ -128,7 +128,7 @@ We geven hier een (niet-exhaustief) overzicht gericht op wetenschappen en wiskun
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
 |---------------|------------------------|-----------|----------------------------|
-|Parallelisatie|*threading*, *pipelining*, het verdelen van gegevens of taak op zo'n een manier om te worden verwerkt in parallel|stelsel van lineaire vergelijkingen oplossen; matrixvermenigvuldiging|data opkuisen|experimenten gelijktijdig uitvoeren met verschillende parameters|
+|Parallellisatie|*threading*, *pipelining*, het verdelen van gegevens of taak op zo'n manier om te worden verwerkt in parallel|stelsel van lineaire vergelijkingen oplossen; matrixvermenigvuldiging|data opkuisen|experimenten gelijktijdig uitvoeren met verschillende parameters|
 
 
 |**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
@@ -140,26 +140,26 @@ We geven hier een (niet-exhaustief) overzicht gericht op wetenschappen en wiskun
 |---------------|------------------------|------------|----------------------------|
 |Logica||logische uitdrukkingen in een real-world context||
 
-Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier kunnen uitgetest worden.<br>
+Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier uitgetest kunnen worden.<br>
 Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.<br>
 * Men kan datasets vinden op het world wide web, maar om uit die data conclusies te kunnen trekken is er voorbereidend werk nodig:
   * Deze data moeten worden opgekuist,
-  * eventueel verwerkt en
+  * eventueel verwerkt, en
   * op een geschikte manier worden voorgesteld.
 * Leerlingen moeten over de conclusies leren communiceren.
 * AI-systemen zoals deep learning werken met zeer grote datasets.
-   * Het is belangrijk dat leerlingen begrijpen hoe deze grote datasets tot stand komen, en
+   * het is belangrijk dat leerlingen begrijpen hoe deze grote datasets tot stand komen, en
    * hoe beperkingen in de dataset leiden tot tekortkomingen van de AI-systemen, zoals de aanwezige bias.
 * Leerlingen kunnen ook zelf data genereren via een experiment, bv. gebruikmakend van een microcontroller.
 * Als men modellen gebruikt om een simulatie te doen, dan is het belangrijk dat men meegeeft wat de beperkingen en de voordelen zijn van een simulator.
 * Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
-* Leerlingen leren dat alles als een systeem kan bekeken worden.
+* Leerlingen leren dat alles als een systeem bekeken kan worden.
 -----------------------
 #### Bronnen
 
 Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM
 Inroads*, 2(1), 48-54.<br>
-Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing computational thinking in compulsory education : implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
+Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing Computational Thinking in Compulsory Education : Implications for olicy and practice.* Luxemburg: Publications Office of the European Union.<br>
 Grover, S. & Pea, R. (2017). Computational Thinking: A Competency Whose Time Has Come. *Computer Science Education.*<br>
 Lowe, T. & Brophy, S. P. (2017). An operationalized model for defining computational thinking. *2017 IEEE Frontiers in Education Conference (FIE)*, (pp. 1–8).<br>
 Lu, J. & Fletcher, G. (2009). Thinking about Computational Thinking. *ACM Sigcse Bulletin, 41*, 260–264.<br>
