@@ -2,7 +2,7 @@
 hruid: ct05_09
 version: 3
 language: nl
-title: "T"
+title: "..."
 description: "T"
 keywords: [""]
 educational_goals: [
@@ -29,4 +29,4 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-Tekst
+...
