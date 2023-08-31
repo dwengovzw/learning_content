@@ -43,11 +43,12 @@ Het sjabloon omvat vier elementen:<br>
 - het karakter van de evaluatie;
 - wie er evalueert.
   
-Bij deze elementen zijn er telkens vier mogelijkheden, genummerd van 1 t.e.m. 4 (dit houdt geen gradatie in).
-
 ![Evaluatiesjabloon](embed/spindiagram.png)
 
-|Complexiteit|Evaluatiemomenten|Karakter|Wie evalueert?|
+Bij deze elementen zijn er telkens vier mogelijkheden, genummerd van 1 t.e.m. 4 (dit houdt geen gradatie in).
+
+
+||Complexiteit|Evaluatiemomenten|Karakter|Wie evalueert?|
 |--|------------|-----------------|----------------------|--------------|
 |1|Eenvoudig|Eenmalige formatieve evaluatie|Product en kwantitatief|Leraar|
 |2|Gemiddeld|Eenmalige summatieve evaluatie|Proces en kwalitatief|Leraar en leerling|
