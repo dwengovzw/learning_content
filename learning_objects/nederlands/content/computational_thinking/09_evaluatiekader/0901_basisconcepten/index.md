@@ -120,10 +120,12 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 
 ## Computationele leerdoelen bij het oplossen van een probleem
 
-Dit [schema met de vier basisconcepten](https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct_voorbeelden8&version=3&language=nl) biedt een houvast bij het aanpakken van een probleem. 
+Het volgende schema biedt een houvast bij het aanpakken van een probleem. <br>
+![schema link probleem oplossen met de vier basisconcepten](projectschemabijevaluatie.png "schema probleem oplossen en computationeel denken") 
 
-In dit [schema](schemacdstem.png) wordt de link gelegd tussen computationeel denken en de aspecten van een STEM-project. <br>
-<sub>Dit model is gekoppeld aan het Engineering Design Proces (EDP). Met dank aan Seppe Hermans, UAntwerpen</sub>
+Het volgende schema legt linken tussen computationeel denken en de aspecten van een STEM-project. <br>
+![schema](schemacdstem.png "schema STEM en computationeel denken") 
+<sub>Dit model is gekoppeld aan het Engineering Design Proces (EDP). Met dank aan Seppe Hermans, UAntwerpen.</sub>
 
 
 
