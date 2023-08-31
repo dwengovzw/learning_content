@@ -2,8 +2,8 @@
 hruid: ct00_04
 version: 3
 language: nl
-title: "Slot"
-description: "Slot"
+title: "Samengevat"
+description: "Samengevat"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,16 +30,15 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Slot
+# Samengevat
 
 <div class="alert alert-box alert-warning">
-    <strong>Samengevat</strong><br> 
     Computationeel denken wordt aangezien als een competentie die ons weerbaar maakt in een snel veranderende maatschappij. Er is dan ook een groeiende aandacht voor in het leerplichtonderwijs, ook in Vlaanderen. Hoewel computationeel denken stamt uit een tijd dat er nog geen computers waren, zijn leerkrachten er toch onvoldoende vertrouwd mee. Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden niet altijd zo herkend.
 </div>
  
 ---
 
-Hieronder vind je een overzicht terug van al de relevante leerpaden binnen het project:
+Hieronder vind je een overzicht terug van de leerpaden binnen het project:
 
 **Meer weten over wat de term inhoudt**<br>
 ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct_inleiding1;nl;3)
