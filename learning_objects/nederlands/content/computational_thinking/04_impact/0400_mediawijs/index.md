@@ -31,6 +31,8 @@ teacher_exclusive: true
 ---
 # Mediawijs minimumdoel 
 
+![](@youtube/https://www.youtube.com/embed/FfqPxrT39_8 "Computationeel denken - Impact")
+
 Voor de tweede graad is een minimumdoel geformuleerd dat beoogt dat leerlingen de impact die digitale systemen hebben, leren inschatten; met de principes van computationeel denken als houvast denken ze na over de werking van deze systemen.
 
 <span style="color: yellowgreen">(04.05 Finaliteit doorstroom; Dubbele finaliteit, Finaliteit arbeidsmarkt) De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</span>
