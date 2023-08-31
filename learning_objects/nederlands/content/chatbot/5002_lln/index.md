@@ -37,8 +37,18 @@ teacher_exclusive: false
 
 Je speelt een rollenspel om een leren hoe regelgebaseerde chatbots werken.
 
-Een van de leerlingen speelt de chatbot. Een andere leerling speelt de gebruiker.
+Je speelt dit rollenspel met twee: jij en een medeleerling. Een van jullie speelt de chatbot, de andere leerling speelt de gebruiker (de mens die de chatbot gebruikt).
 
-De gebruiker heeft een script om een gesprek met de chatbot op poten te zetten. 
+De gebruiker krijgt een script om een gesprek met de chatbot op poten te zetten. 
 
-De chatbot heeft een kaartenset met aan de ene kant een mogelijk gestelde vraag en aan de andere kant het antwoord dat de chatbot moet geven.
+De chatbot krijgt een kaartenset met aan de ene kant een mogelijk gestelde vraag en aan de andere kant het antwoord dat de chatbot moet geven. 
+
+De gebruiker bouwt een gesprek op. Je wordt daarbij geholpen door het script.<br> 
+Het rollenspel verloop als volgt:<br>
+* De gebruiker spreekt de chatbot aan. Dat kan een groet zijn, of een vraag, of een antwoord op een vraag die de chatbot stelde.
+* De chatbot zal deze boodschap opzoeken in zijn 'woordenboek', nl. in de kaartenset. Als hij de juiste kaart gevonden heeft, dan weet de chatbot wat hij moet zeggen.
+*  Vervolgens is het weer aan de gebruiker.
+*  Enz.
+
+De gebruiker is redelijk vrij! Je moet het script niet letterlijk volgen.<br>
+De chatbot is helemaal niet vrij. Die moet letterlijk zeggen wat het kaartje opdraagt.
