@@ -30,6 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Appels onderscheiden van peren
+
+**Klasdiscussie rond objectherkenning door een AI-systeem.**
+
 Objectherkenning is een toepassing van artificiële intelligentie die de dag van vandaag veelvuldig voorkomt. Met technieken van machinaal leren kan een computer bv. dier- en plantsoorten of gezichten van mensen herkennen. 
 
 In de klas kan je samen met de leerlingen bespreken hoe een computer naar foto's kijkt en hoe men een computer zou kunnen programmeren om a.d.h.v. regels appels en peren van elkaar te onderscheiden.
