@@ -36,7 +36,7 @@ teacher_exclusive: true
   >>Bij voorkeur: de opdracht is gekoppeld aan een ET/doel met inhouden specifiek voor de studierichting 
   >>Voorbeeld: het opstellen van een teeltplan past in het toepassingsgebied ‘biotechniek’ voor het vak techniek in de eerste graad B-stroom
 * De opdracht/probleemstelling behandelt een maatschappelijk relevant probleem/vraagstuk.
-* De opdracht/probleemstelling daagt leerlingen uit de basisconcepten in te zetten om tot een oplossing te komen 
-* De opdracht kan leiden tot het inzetten van een computer om het probleem op te lossen
+* De opdracht/probleemstelling daagt leerlingen uit om de basisconcepten in te zetten om tot een oplossing te komen. 
+* De opdracht kan leiden tot het inzetten van een computer om het probleem op te lossen.
 
 
