@@ -40,7 +40,7 @@ Bepaalde subtaken in de test zijn eruit gehaald om te definiëren a.d.h.v. zelfg
 De leerlingen moeten al spelend de herhalende **patronen** in het spel opmerken en vertrouwd raken met de spelmechanismen, bv. wat er gebeurt bij een goed antwoord. 
 </patternRecognition>
 <abstraction>
-Leerkrachten laten een blok zien dat overeenkomt met een zelfgedefinieerde functie en uitleggen hoe het zo vervatten van een algoritme wordt beschouwd als een **abstractie**.
+Leerkrachten laten een blok zien dat overeenkomt met een zelfgedefinieerde functie en leggen uit hoe het zo vervatten van een algoritme wordt beschouwd als een **abstractie**.
 </abstraction>
 <algorithms>
 Leerlingen **gebruiken algoritmen** in de loop van het spel.  
