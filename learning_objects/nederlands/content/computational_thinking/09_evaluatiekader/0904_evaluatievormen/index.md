@@ -96,9 +96,7 @@ Er zijn **drie belangrijke aspecten** die bepalen dat het om een werkstuk gaat.<
 * Beoordeel in welke mate het werkstuk creatief (extra, interessante elementen) en/of origineel (unieke, persoonlijke elementen) is.
 * ...
 
-Voorbeeld van concretisering: <br>
-Link naar infographic Tom: Hoe evalueer ik grafische code?
-
+[Voorbeeld van concretisering]()
 
 ## Observatie in informaticaonderwijs
 
