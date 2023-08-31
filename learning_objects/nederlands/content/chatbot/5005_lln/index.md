@@ -42,11 +42,10 @@ Als je bijvoorbeeld ChatGPT naar iets vraagt waar je zelf heel veel over weet, d
 AI-systemen maken het ook mogelijk om gemakkelijk nieuwsartikels te schrijven.<br>
 Lees onderstaand artikel, zou jij merken dat dit niet door een mens geschreven is?
 
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/f8ddd920-cfba-4c2c-9300-5d06f1187aaf)
-
-(Gegenereerd met ChatGPTFree Research Preview van OpenAI. ChatGPT August 3 Version.)
+![image](https://github.com/dwengovzw/learning_content/assets/48352335/f8ddd920-cfba-4c2c-9300-5d06f1187aaf)<br>
+<sub>Gegenereerd met ChatGPTFree Research Preview van OpenAI. ChatGPT August 3 Version.</sub>
 
 Je merkte vast op dat de inhoud van dit artikel helemaal niet waar is. Dergelijke artikels zijn vaak niet gebaseerd op echte feiten. <br>
-Dus mensen met minder goede bedoelingen kunnen zulke chatbots bv. gebruiken om fake news te schrijven. En omdat chatbots zoals ChatGPT in een mum van tijd heel veel tekst kunnen schrijven, kunnen ze dat nu gemakkelijker doen dan vroeger.
+Dus mensen met minder goede bedoelingen kunnen zulke chatbots bv. gebruiken om *fake news* te schrijven. En omdat chatbots zoals ChatGPT in een mum van tijd heel veel tekst kunnen schrijven, kunnen ze dat nu gemakkelijker doen dan vroeger.
 
 **Verzin zelf een vraag voor ChatGPT om hem een *fake* boodschap te laten schrijven.**
