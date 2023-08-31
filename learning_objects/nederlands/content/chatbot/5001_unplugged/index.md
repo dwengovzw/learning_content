@@ -56,7 +56,7 @@ Chat eens met Billy. Kan je hem in de war brengen?
 * Wat doet Billie, de chatbot, wanneer hij niet kan antwoorden? 
 
 Laat de leerlingen met verschillende chatbots een gesprek voeren. <br>
-Denk aan Zalando, kenniscentrum Data & Maatschappij … of chat met de allereerste chatbot [ELIZA](https://www.eclecticenergies.com/nederlands/psyche/eliza). 
+Denk aan Zalando, kenniscentrum Data & Maatschappij … of chat met de allereerste chatbot [ELIZA](https://www.eclecticenergies.com/nederlands/psyche/eliza). <br>
 Misschien kennen jouw leerlingen nog andere chatbots ... en misschien gebruiken ze er een zoals de chatbot MyAI van Snapchat. 
 
 *Nabespreking:*<br>
@@ -66,6 +66,18 @@ Misschien kennen jouw leerlingen nog andere chatbots ... en misschien gebruiken 
 * Wat zouden nadelen zijn van deze chatbot? 
 * Welke gelijkenissen/verschillen merk je tussen de verschillende chatbots? 
 
+*Door te chatten met ELIZA kan je met je leerlingen het gebruik van een chatbot als therapeut bespreken.*<br> 
+* *Vinden ze dat een goed idee of niet?*
+* *Je kan bv. aanhalen dat er chatbots worden gemaakt voor therapie, bv. [Woebot]([https://woebothealth.com/](https://woebothealth.com/faq/) (met een speciale versie voor jongeren).*
+
+*Sommige mensen hebben ook een virtuele vriend(in) in de vorm van een app op hun smartphone, zoals de chatbots Replika en Xiaoice.*
+* *Vinden de leerlingen dat een leuk idee?*
+* *Wanneer zou dat waardevol kunnen zijn?*
+* *Welke gevaren loeren om de hoek?*
+
+*Uit een onderzoek van Følstad & Brandtzaeg uit 2020 blijkt dat een chatbotgesprek ook over koetjes en kalfjes kan gaan, of over iemands gevoelens en leven. Sommige gebruikers gaan de uitdaging aan om de chatbot te testen: in hoeverre is de chatbot in staat om als een mens te reageren. Maar voor anderen is de chatbot een manier om de dag door te komen; hoewel ze zich ervan bewust zijn dat ze converseren met een machine, wordt de chat aangezien als een waardevolle sociale interactie.*<br>
+*Als mensen enkel nog 'omgaan' met de virtuele 'app'-vrienden, kunnen in een 'bubbel' terechtkomen: ze krijgen bv. geen feeback over hun gedrag: de apps zijn doorgaans meegaand en zullen de gebruiker niet op 'de plaats zetten', zoals echte vrienden wel eens doen.* 
+
 -----------------------
 Met deze activiteit kan je bv. werken aan **minimumdoelen** van Nederlands voor de finaliteit **arbeidsmarkt**. 
 
@@ -74,3 +86,14 @@ Met deze activiteit kan je bv. werken aan **minimumdoelen** van Nederlands voor 
 <span style="color: yellowgreen">(02.05 Finaliteit arbeidsmarkt) De leerlingen spreken en schrijven doelgericht.</span>
 
 <span style="color: yellowgreen">(02.07 Finaliteit arbeidsmarkt) De leerlingen nemen doelgericht deel aan mondelinge en schriftelijke interactie.</span>
+
+
+------------------
+#### Bronnen
+
+https://onderwijsdoelen.be/
+
+Davies, S. (2021). Love bytes. A chatbot provides emotional support to lonely hearts and potentially mines data from millions of vulnerable users. Geraadpleegd op 9 april 2021 via https://www.theworldofchinese.com/2021/03/love-bytes/
+
+Følstad, A. & Brandtzaeg, P. B. (2020). Users’ experiences with chatbots: findings from a questionnaire study. *Qual User Exp, 5*(3).
+
