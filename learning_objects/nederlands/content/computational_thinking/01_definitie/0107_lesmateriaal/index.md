@@ -1,5 +1,5 @@
 ---
-hruid: ct_lesmateriaal
+hruid: ct01_07
 version: 3
 language: nl
 title: "Lesmateriaal"
