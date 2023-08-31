@@ -1,5 +1,5 @@
 ---
-hruid: ct_historiek3
+hruid: ct07_02
 version: 3
 language: nl
 title: "Robots en AI"
