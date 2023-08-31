@@ -124,9 +124,3 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 <sup>1</sup> Bron: https://teachinglondoncomputing.files.wordpress.com/2014/07/computing_progression_pathways_with_computational_thinking_v2-3.pdf<br>
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/5e0e7b33-18ec-4740-869b-615915d04d0e)
 
------------------
-### Wat wil je met computationeel denken bij leerlingen bereiken?
-
-Voorbeeld: verschillende aspecten van computationeel denken binnen het oplossen van een probleem.
-
-![Projectschema](projectschemabijevaluatie.png "CD bij aanpak probleem")
