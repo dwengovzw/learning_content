@@ -1,5 +1,5 @@
 ---
-hruid: ct_eindtermen3
+hruid: ct06_03
 version: 3
 language: nl
 title: "Definitie computationeel denken"

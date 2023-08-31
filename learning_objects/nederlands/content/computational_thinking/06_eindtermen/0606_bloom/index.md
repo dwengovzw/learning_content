@@ -1,9 +1,9 @@
 ---
-hruid: ct_eindtermen7
+hruid: ct06_06
 version: 3
 language: nl
-title: "21ste eeuwse competenties"
-description: "Titel"
+title: "Taxonomie van Bloom"
+description: "titel"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 

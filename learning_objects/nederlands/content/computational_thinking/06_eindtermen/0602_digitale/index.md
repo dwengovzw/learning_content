@@ -1,5 +1,5 @@
 ---
-hruid: ct_eindtermen2
+hruid: ct06_02
 version: 3
 language: nl
 title: "Digitale competentie en mediawijsheid"
