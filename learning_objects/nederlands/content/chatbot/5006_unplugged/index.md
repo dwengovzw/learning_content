@@ -40,8 +40,9 @@ Onthoud: <br>
 * Semantisch verwante teksten worden dicht bij elkaar in de vectorruimte geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men de overeenkomstige drie vectoren dicht bij elkaar vinden in de vectorruimte.
 * Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden. Vergelijkbare relaties tussen elementen kunnen voorgesteld worden door een gelijke positie tussen de elementen.
 
-De lerende chatbot zal woorden die dicht bij elkaar liggen gebruiken om zinnen mee te maken. 
+De lerende chatbot zal woorden die dicht bij elkaar liggen, gebruiken om zinnen mee te maken. 
 
+*Voordat de leerlingen aan de oefeningen beginnen, kan je best deze werking eens met hen bespreken.* 
 
 ### Opdracht 1
 
