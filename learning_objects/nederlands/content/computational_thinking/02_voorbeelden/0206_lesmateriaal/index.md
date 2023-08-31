@@ -1,5 +1,5 @@
 ---
-hruid: ct_voorbeelden6
+hruid: ct02_06
 version: 3
 language: nl
 title: "CD in ons STEM-lesmateriaal"

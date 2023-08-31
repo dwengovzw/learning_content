@@ -1,5 +1,5 @@
 ---
-hruid: ct_voorbeelden2
+hruid: ct02_03
 version: 3
 language: nl
 title: "Computationeel denken en handelen"

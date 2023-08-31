@@ -1,5 +1,5 @@
 ---
-hruid: ct_voorbeelden7
+hruid: ct02_07
 version: 3
 language: nl
 title: "Alledaagse voorbeelden uit de literatuur"

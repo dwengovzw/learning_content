@@ -1,5 +1,5 @@
 ---
-hruid: ct_voorbeelden3
+hruid: ct02_02
 version: 3
 language: nl
 title: "Bebras en CD"
