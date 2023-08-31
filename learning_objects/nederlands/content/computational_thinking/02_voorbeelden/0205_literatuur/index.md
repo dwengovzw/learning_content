@@ -59,7 +59,7 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
 |Abstractie|feiten samenvatten; besluiten trekken uit feiten|gebruik van vergelijking en metafoor|
-|Abstractie|door iets abstract voor te stellen meer duidelijkheid bieden|door iets abstract voor te stellen meer duidelijkheid bieden|
+|Abstractie|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|
 |Abstractie|geschiedenislessen zijn abstracties van wat er in een bepaalde periode gebeurd is||
 |Abstractie|kenmerken van leerlingen, zoals oogkleur, haarstijl en lengte, om hen voor te stellen||
 |Abstractie en algoritme||origami|
@@ -78,22 +78,19 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
-|Automatisatie|Excel gebruiken|spellingschecker gebruiken|
+|Automatisatie|Excel gebruiken|spellingchecker gebruiken|
 |Programmeren||interactieve storytelling|
-|Artefact||video games ontwikkelen|
+|Artefact||videogames ontwikkelen|
 |Controlestructuren||een verhaal schrijven met verschillende mogelijke uitkomsten (*branches*)|
 |Artefact||computationele (fysieke) artefact maken als uiting van creativiteit|
 |Artefact||verhaal creëren of werken met geleidende inkt|
 |Programmeren||werken met microcontrollers of e-textiel; game creëren|
 |Automatisatie, modeleren en simuleren|simuleren a.d.h.v. Netlogo om patronen op te sporen in sociale processen, bv. patroon van segregatie bij onderzoek naar de voorkeur van mensen om in de nabijheid van mensen vergelijkbaar met henzelf te gaan wonen||
-|Automatisatie|online shop in kader van theam 'Internet, handel en maatschappij'||
-|Automatisatie|animatiefilm bv. stop-motion||
+|Automatisatie|onlineshop in kader van thema 'Internet, handel en maatschappij'||
+|Automatisatie|animatiefilm, bv. stop-motion||
 |Programmeren||Lilypad (e-textiel)|
 |Artefact en vector graphics||Illustrator en 3D-printen|
 |Artefact||computerprogramma ontwikkelen dat muziek genereert (vereist computationeel denken en domeinkennis)|
-
-
-
 |Volgorde||in het kader van begrijpend lezen gegeven zinnen in de juiste volgorde plaatsen|
 |Herhaling||herhaling van ritme en tonen in muziekstuk|
 
@@ -101,18 +98,18 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
 |Data verzamelen|grafieken interpreteren met een maatschappelijke context, bv. bevolkingsgegevens|taalkundige analyse van zinnen uitvoeren|
-|Data analyse|trends identificeren in statistische gegevens|patronen herkennen voor verschillende soorten van zinnen|
+|Data-analyse|trends identificeren in statistische gegevens|patronen herkennen voor verschillende soorten van zinnen|
 |Data voorstellen|trends samenvatten en voorstellen|patronen van verschillende soorten zinnen voorstellen|
-|Data analyse|verband tussen geweld in films en aggressie||
+|Data-analyse|verband tussen geweld in films en agressie||
 |Data verzamelen en analyseren||principes van Europese kunst|
 |Data voorstellen en interpreteren||ontstaan van de tweede wereldoorlog|
 |Data verzamelen|bekijken wat meest gebruikte woorden zijn in *inaugural speeches* van presidenten van 1789 tot 2009||
-|Data analyseren|*inaugural speeches* vergelijken, bv. verschillen omschrijven tsuuen democratische en republikeinse presidenten, of tussen periodes||
+|Data analyseren|*inaugural speeches* vergelijken, bv. verschillen omschrijven tussen Democratische en Republikeinse presidenten, of tussen periodes||
 |Data analyseren|burgerzin (bv. haatgroepen)||
 
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
-|Simulatie|speel Age of Empires|speel echte gebeurtenissen na of een beeld een verhaal uit| 
+|Simulatie|speel Age of Empires|speel echte gebeurtenissen na of beeld een verhaal uit| 
 
 |**CD**|**Sociale wetenschappen**|**Taal en kunst**|
 |---------------|------------------------|----------------------------|
