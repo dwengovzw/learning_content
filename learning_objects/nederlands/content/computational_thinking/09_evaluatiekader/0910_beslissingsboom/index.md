@@ -58,7 +58,7 @@ teacher_exclusive: true
  
 **Evaluatieschema:**
 
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/b67b11f2-185f-4909-a44d-ad0d7e9c6c74)
+![spin beslissingsboom ai in de zorg](embed\spinaizorg.png)
 
 **Opdrachten voor de leerlingen en voorgestelde evaluatievorm:**<br>
 - Klassikaal onderwijsleergesprek over beslissingsbomen a.d.h.v. 'echte' voorbeelden & Klassikaal (1-2-3) exit ticket (zacht & formatief)
