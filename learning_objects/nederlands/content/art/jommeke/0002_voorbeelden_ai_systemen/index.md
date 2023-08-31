@@ -57,8 +57,9 @@ TikTok maakt gebruik van AI-systemen om te voorspellen welke filmpjes jij leuk z
 
 #### Beautyproducten virtueel uittesten
 
-[Kies een kleur van naggellak](https://us.manucurist.com/pages/virtual-try-on)
+Ook de schoonheidsindustrie zet in op de kracht van digitale toepassingen. Aan de hand van een app op je smartphone kan je bv. bekijken of een bepaalde kleur lippenstift je wel staat en kan je een bepaalde nagellak virtueel uitproberen op je eigen nagels. 
 
+[Kies een kleur van nagellak](https://us.manucurist.com/pages/virtual-try-on)
 
 #### Google 
 
@@ -67,11 +68,18 @@ Op reis kan je de hulp inroepen van Google Translate als er een taalprobleem opd
 
 ![Snapchat](embed/ghostlogo.png)
 
-#### Filters op Snapchat
+#### Filters en lenzen op Snapchat
 
+[Voorbeelden Snapchat](https://www.snapchat.com/lens)
 
 #### My AI op Snapchat
 
 Op Snapchat kan je chatten met de chatbot My AI, die gebaseerd is op de technologie achter ChatGPT.
 
+#### Spelling en grammatica controleren in Microsoft Word
 
+Als je een tekst typt in Word, dan kan je via Microsoft Editor laten controleren of je de woorden juist gespeld hebt, en kan je ook suggesties krijgen i.v.m. leestekens en de stijl van je tekst. 
+
+#### Netflix
+
+Jouw ervaringen op Netflix worden gepersonaliseerd. A.d.h.v. algoritmes zullen bepaalde films en series jou aanbevolen worden.
