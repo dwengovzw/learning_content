@@ -29,7 +29,10 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Case
+# Periodiek systeem
+
+**_Deze case is nog in ontwerpfase.**_
+
 **Doelgroep:** Leerlingen ...
 
 **Voorkennis:** De leerlingen ...
