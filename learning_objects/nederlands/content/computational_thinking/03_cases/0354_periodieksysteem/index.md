@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Periodiek systeem
 
-**_Deze case is nog in ontwerpfase.**_
+**_Deze case is nog in ontwerpfase._**
 
 **Doelgroep:** Leerlingen ...
 
