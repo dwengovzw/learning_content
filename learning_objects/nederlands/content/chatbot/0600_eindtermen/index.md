@@ -32,5 +32,9 @@ teacher_exclusive: true
 
 # Inleiding
 
-De leerkracht bepaalt zelf welke leerdoelen aan bod komen in het ‘Chatbot’-project. Aan de eindtermen van [‘Digitale competentie en mediawijsheid’](https://onderwijsdoelen.be "Eindtermen digitale competentie en mediawijsheid") voor de tweede en derde graad kan zeker gewerkt worden.<br>
-De gelinkte eindtermen zijn hier opgenomen. 
+De leerkracht bepaalt zelf welke leerdoelen aan bod komen in het ‘Chatbot’-project. 
+
+Aan de (vernietigde) eindtermen van [‘Digitale competentie en mediawijsheid’](https://onderwijsdoelen.be "Eindtermen digitale competentie en mediawijsheid") voor de tweede en derde graad kan zeker gewerkt worden.<br>
+De gelinkte (vernietigde) eindtermen zijn hier opgenomen. 
+
+De nieuwe minimumdoelen worden ook opgenomen. 
