@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Wet van Boyle en Mariotte
 
-**_Deze case is nog in ontwerpfase.**_
+**_Deze case is nog in ontwerpfase._**
 
 **Doelgroep:** Leerlingen ...
 
