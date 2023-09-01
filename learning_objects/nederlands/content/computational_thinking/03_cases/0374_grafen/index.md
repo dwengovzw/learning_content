@@ -30,6 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Toepassingen grafen
+
+**Een graaf als datastructuur bij 2 problemen met een verschillende context.** 
+
 Hier bekijk je enkele toepassingen van grafen: de werking van een routeplanner en het matchen van vingerafdrukken. Deze voorbeelden maken onderdeel uit van een lessenreeks over grafentheorie.
 
 **Doelgroep:** Leerlingen 2de en 3de graad finaliteit doorstroom en dubbele finaliteit (richtingen nog te bepalen).
