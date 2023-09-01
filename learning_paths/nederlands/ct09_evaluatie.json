@@ -160,6 +160,21 @@
     {
       "learningobject_hruid": "ct09_10",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct09_11",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct09_11",
+      "version": "3",
       "language": "nl"
     } 
   ]
