@@ -30,6 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Ontwerp en realiseer een sociale robot
+
+**Meerdere deelopdrachten in het kader van het ontwerpen, bouwen en programmeren van een sociale robot.**
+
 In het project 'Sociale robot' maken de leerlingen een schets van hun droomrobot.<br>Ze bedenken hoe hun robot zal communiceren met mensen, en ze beschrijven dit met een algoritme. Ze schrijven neer welke sensoren en actuatoren daarvoor nodig zijn. 
 
 Nadien passen ze het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waar ze over beschikken. <br>
