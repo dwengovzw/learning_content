@@ -2,8 +2,8 @@
 hruid: ct03_56
 version: 3
 language: nl
-title: "Determineren"
-description: "Determineren"
+title: "Chatbot"
+description: "Chatbot"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,8 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Case
-**Doelgroep:** ...
+# Regelgebaseerde chatbot
+
+**-Case in ontwerpfase_**
+
+**Doelgroep:** iedereen
 
 **Voorkennis:** De leerlingen ...
 
