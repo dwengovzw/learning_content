@@ -1,5 +1,5 @@
 ---
-hruid: m_ct_cases22
+hruid: m_ct03_22
 version: 3
 language: nl
 title: "Meta Wet van Ohm"

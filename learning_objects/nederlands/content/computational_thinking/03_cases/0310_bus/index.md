@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases9
+hruid: ct03_10
 version: 3
 language: nl
 title: "Bus"
@@ -37,4 +37,4 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen hebben geleerd hoe ze een verplaatsing met de bus kunnen plannen.
 
-![ct-schema](@learning-object/m_ct_cases9/nl/3)
+![ct-schema](@learning-object/m_ct03_9/nl/3)

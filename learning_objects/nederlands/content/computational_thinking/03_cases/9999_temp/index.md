@@ -32,6 +32,6 @@ teacher_exclusive: true
 # Ttel
 Tekst
 
-![ct-schema](@learning-object/m_ct_casesX/nl/3)
+![ct-schema](@learning-object/m_ct03_X/nl/3)
 
 Tekst

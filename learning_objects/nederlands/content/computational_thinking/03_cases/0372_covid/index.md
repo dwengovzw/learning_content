@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases8
+hruid: ct03_72
 version: 3
 language: nl
 title: "COVID-19"
@@ -47,7 +47,7 @@ Om deze en andere belangrijke vragen te beantwoorden, worden vaak ziekteversprei
 
 **Voorkennis:** matrices, grafen (eventueel), afgeleiden
 
-![ct-schema](@learning-object/m_ct_cases8/nl/3)
+![ct-schema](@learning-object/m_ct03_8/nl/3)
 
 -----------------------
 

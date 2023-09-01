@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases23
+hruid: ct03_35
 version: 3
 language: nl
 title: "Foutzoeken in elektrische installatie"
@@ -38,6 +38,6 @@ De leerlingen leren waarom foutzoeken belangrijk is in elektrische installaties 
 
 **Voorkennis:** De leerlingen kennen de basis van elektriciteit die nodig is voor de betreffende installatie. Ze kunnen de functies en subsystemen, de verschillende circuits en de bedrading herkennen. 
 
-![ct-schema](@learning-object/m_ct_cases23/nl/3)
+![ct-schema](@learning-object/m_ct03_23/nl/3)
 
 

@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases12
+hruid: ct03_12
 version: 3
 language: nl
 title: "Locked-in Syndroom"
@@ -40,5 +40,5 @@ Deze case maakt deel uit van het project 'AI in de Zorg', maar kan ook los van d
 
 **Doelgroep:** iedereen
 
-![ct-schema](@learning-object/m_ct_cases12/nl/3)
+![ct-schema](@learning-object/m_ct03_12/nl/3)
 

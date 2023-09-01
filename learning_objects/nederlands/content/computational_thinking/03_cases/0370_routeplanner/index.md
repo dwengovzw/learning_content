@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases6
+hruid: ct03_70
 version: 3
 language: nl
 title: "Routeplanner"
@@ -46,7 +46,7 @@ teacher_exclusive: true
 
 ### Eerste mogelijke aanpak
 
-![ct-schema](@learning-object/m_ct_cases6/nl/3)
+![ct-schema](@learning-object/m_ct03_6/nl/3)
 
 ### Tweede mogelijke aanpak
 
@@ -56,4 +56,4 @@ Deze leerlingen kunnen de afstand in vogelvlucht
 * vinden door te meten (zelf een tekening maken en meten, of meten op de figuur van de routeplanner);
 *  **extra voorkennis**: de leerlingen kennen het concept van gelijkvormige driehoeken en kunnen dat in verband brengen met de schaal van een kaart.
 
-![ct-schema](@learning-object/m_ct_cases6b/nl/3)
+![ct-schema](@learning-object/m_ct03_6b/nl/3)

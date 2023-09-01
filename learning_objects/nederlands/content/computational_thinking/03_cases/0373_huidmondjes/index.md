@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases10
+hruid: ct03_73
 version: 3
 language: nl
 title: "Huidmondjes"
@@ -53,6 +53,6 @@ In de klas kan je samen met de leerlingen bespreken hoe zo'n convolutioneel netw
 
 De bedenkingen en conclusies uit het klasgesprek kunnen worden samengevat in een schema.
 
-![ct-schema](@learning-object/m_ct_cases10/nl/3)
+![ct-schema](@learning-object/m_ct03_10/nl/3)
 
 

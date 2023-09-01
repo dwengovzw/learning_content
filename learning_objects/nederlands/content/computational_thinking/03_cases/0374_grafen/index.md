@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases13
+hruid: ct03_74
 version: 3
 language: nl
 title: "Toepassingen grafen"
@@ -44,13 +44,13 @@ Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vog
 ![image](https://user-images.githubusercontent.com/48352335/213927739-9b9c0801-bdb0-4692-af36-eafa8f172864.png)
 ![image](https://user-images.githubusercontent.com/48352335/213927749-83781385-10f4-43f4-9d28-10bfc20d3700.png)
 
-![ct-schema](@learning-object/m_ct_cases13/nl/3)
+![ct-schema](@learning-object/m_ct03_13/nl/3)
 
 Dit voorbeeld is een inleiding op het algoritme van Dijkstra en hoe dit praktisch toegepast wordt. 
 
 ### Het matchen van vingerafdrukken
 
-![ct-schema](@learning-object/m_ct_cases13b/nl/3)
+![ct-schema](@learning-object/m_ct03_13b/nl/3)
 
 
 
