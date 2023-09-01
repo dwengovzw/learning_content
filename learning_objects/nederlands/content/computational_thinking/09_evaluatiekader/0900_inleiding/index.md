@@ -33,7 +33,8 @@ teacher_exclusive: true
 # Computationeel denken van leerlingen evalueren
 
 Computationeel denken kan in alle reguliere lessen aan bod komen. Telkens de leerlingen met een probleem geconfronteerd worden, kan computationeel denken een houvast bieden bij het zoeken naar een oplossing. Afhankelijk van de aard van het probleem zullen bepaalde concepten en handelingen van computationeel denken al dan niet aan bod komen.<br>
-Afhankelijk van de duur en het belang van een opdracht kunnen er bv. meer of minder evaluatiemomenten zijn, en kan er een voorkeur zijn voor bepaalde evaluatievormen. 
+De evaluatie zal dus moeten afgestemd worden op die concepten en handelingen, en door de grote variatie zal er dus ook een grote variatie aan evaluatievormen zijn.   
+Afhankelijk van de duur en het belang van een opdracht kunnen er bv. meer of minder evaluatiemomenten zijn, en kan de soort en het karakter van de evaluatie bij elk evaluatiemoment verschillen. 
 
 Dit leerpad stelt een evaluatiekader voor.
 
