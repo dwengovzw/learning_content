@@ -31,6 +31,8 @@ teacher_exclusive: true
 ---
 # Zwangerschapstest
 
+**De werking vam een digitale zwangerschapstest bestuderen en deze test vergelijken met een niet-digitale test.**
+
 Op de markt zijn zwangerschapstesten zowel in niet-digitale als in digitale vorm te vinden. De digitale zijn aanzienlijk duurder. De leerlingen vergelijken de werking van beide systemen. Vervolgens kan klassikaal besproken worden wat de voor- en nadelen van beide systemen zijn en of de meerkost de moeite loont. 
 
 
