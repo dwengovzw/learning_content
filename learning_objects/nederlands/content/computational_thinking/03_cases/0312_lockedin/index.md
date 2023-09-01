@@ -31,6 +31,8 @@ teacher_exclusive: true
 ---
 # Locked-in Syndroom
 
+**Klassikaal bespreken hoe iemand die enkel nog in staat is van te knipperen met één oog, toch een boek kan schrijven.** 
+
 Aan de hand van deze echt gebeurde *case* ga je unplugged aan de slag met concepten en praktijken van computationeel denken en laat je de leerlingen inzien dat de mens centraal staat bij het ontwikkelen van nieuwe technologische toepassingen. 
 
 
