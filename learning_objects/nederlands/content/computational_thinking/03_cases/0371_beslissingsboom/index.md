@@ -31,13 +31,13 @@ teacher_exclusive: true
 ---
 # Beslissingsboom
 
+**Uitdaging: Stel gelabelde data uit de zorgsector voor op een manier die geschikt is om er beslissingen mee te nemen betreffende een diagnose of een behandeling.**
+
 *In het project 'AI in de Zorg' gaan leerlingen samen met de leerkracht op zoek naar een middel om zorgverleners te helpen bij het stellen van een diagnose of het bepalen van een behandeling. Ze kunnen daarbij steunen op patiëntendata.*  
 
 **Doelgroep**: 2de graad - finaliteit doorstroom; 3de graad - dubbele finaliteit
 
 **Vak:** Wiskunde - STEM 
-
-### Uitdaging: Stel gelabelde data uit de zorgsector voor op een manier die geschikt is om er beslissingen mee te nemen betreffende een diagnose of een behandeling.
 
 Voorkennis:
 
