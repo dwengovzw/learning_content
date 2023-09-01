@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Regelgebaseerde chatbot
 
-**-Case in ontwerpfase_**
+**_Case in ontwerpfase_**
 
 **Doelgroep:** iedereen
 
