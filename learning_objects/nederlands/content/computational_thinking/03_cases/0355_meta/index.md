@@ -1,5 +1,5 @@
 ---
-hruid: m_ct03_19
+hruid: m_ct03_55
 version: 3
 language: nl
 title: "Elektriciteit"

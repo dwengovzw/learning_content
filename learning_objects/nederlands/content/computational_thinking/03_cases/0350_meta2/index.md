@@ -1,5 +1,5 @@
 ---
-hruid: m_ct03_3b
+hruid: m_ct03_50b
 version: 3
 language: nl
 title: "Pythagoras - schuine zijde"
