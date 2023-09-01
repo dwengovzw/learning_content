@@ -50,7 +50,10 @@ Tevens in de 18de eeuw moest de Mechanische Turk (zie Figuur 2.1) de mensen late
     <figcaption align = "center"><b>Kopergravure van de Mechanische Turk met open kastdeuren (von Windisch, 1783)</b></figcaption>
 </figure>
 
-De dag van vandaag vertaalt zich dit in de ontwikkeling van de **artificiële intelligentie** (AI), waaronder de zoektocht naar AGI (artificial general intelligence). AI-systemen zijn al op verschillende domeinen actief, bv. ter ondersteuning van een radioloog bij het beoordelen van medische beelden. Maar een mogelijke motivatie voor het inzetten van AI kan ook als volgt zijn: als mensen beslissingen nemen, dan zijn die niet altijd gebaseerd op objectieve overwegingen. Een ogenschijnlijk objectief toestel, zoals een computer, beslissingen laten nemen, lijkt dus een aanlokkelijk idee. 
+De dag van vandaag vertaalt zich dit in de ontwikkeling van de **artificiële intelligentie** (AI), waaronder de zoektocht naar AGI (artificial general intelligence). AI-systemen zijn al op verschillende domeinen actief, bv. ter ondersteuning van een radioloog bij het beoordelen van medische beelden. 
+
+Er zijn dus meerdere drijfveeren die leiden tot het ontwikkelen van artificieel intelligente systemen, zoals het willen automatiseren van bepaalde processen en het nabootsen van menselijk gedrag. <br> 
+Maar er is nog een mogelijke motivatie voor het inzetten (en ontwikkelen) van AI: als mensen beslissingen nemen, dan zijn die niet altijd gebaseerd op objectieve overwegingen. Een ogenschijnlijk objectief toestel, zoals een computer, beslissingen laten nemen, lijkt dus een aanlokkelijk idee. 
 
 --------------------
 #### Bronnen
