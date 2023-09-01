@@ -31,6 +31,8 @@ teacher_exclusive: true
 ---
 # De stelling van Pythagoras: berekenen schuine zijde
 
+**De berekening van de schuine zijde van een rechthoekige driehoek op basis van gegeven rechthoekszijden automatiseren.**
+
 Wil je met je leerlingen programmeren in de wiskundeles? Dit onderwerp leent er zich toe.
 
 Samen met de leerlingen bouw je stap voor stap een applicatie om het rekenwerk bij de stelling van Pythagoras te automatiseren. Je vertrekt daarbij van één type oefening. Een tweede type kan je door de leerlingen alleen laten doen; dan is het ineens duidelijk of ze alles begrepen hebben. 
