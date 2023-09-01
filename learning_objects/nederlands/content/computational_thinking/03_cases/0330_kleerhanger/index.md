@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases2
+hruid: ct03_30
 version: 3
 language: nl
 title: "Kleerhanger"
@@ -39,4 +39,4 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
 
-![ct-schema](@learning-object/m_ct_cases2/nl/3)
+![ct-schema](@learning-object/m_ct03_2/nl/3)

@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases1
+hruid: ct03_51
 version: 3
 language: nl
 title: "Vierkantsvergelijking"
@@ -54,7 +54,7 @@ Met het programmeren ga je zo ver als je zelf wilt. In dit uitgewerkt voorbeeld 
 * De leerlingen kunnen een vierkantsvergelijking manueel oplossen. Ze kennen de formules voor de discriminant en de wortels.
 * De leerlingen kennen een keuzestructuur (of het kan hier klassikaal aangebracht worden).
 
-![ct-schema](@learning-object/m_ct_cases1/nl/3)
+![ct-schema](@learning-object/m_ct03_1/nl/3)
 
 Afhankelijk van het feit of leerlingen reeds kennis maakten met het gebruik van functies in een programma, kan de **patroonherkenning en abstractie** van in het begin, dan wel later aan bod komen. Er kan stap voor stap gewerkt worden. Er kan eerst een programma geschreven worden, zonder toepassing van de vermelde patroonherkenning en abstractie. Dat programma kan dan de aanleiding zijn om aan de slag te gaan met een zelfgedefinieerde **functie** en de voordelen ervan te duiden.
 

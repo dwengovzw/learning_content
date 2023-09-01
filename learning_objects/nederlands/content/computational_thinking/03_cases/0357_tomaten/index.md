@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases21
+hruid: ct03_57
 version: 3
 language: nl
 title: "Determineren"
@@ -34,6 +34,6 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen ...
 
-![ct-schema](@learning-object/m_ct_cases21/nl/3)
+![ct-schema](@learning-object/m_ct03_21/nl/3)
 
 

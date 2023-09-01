@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases17
+hruid: ct03_53
 version: 3
 language: nl
 title: "Wet van Boyle en Mariotte"
@@ -34,5 +34,5 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen ...
 
-![ct-schema](@learning-object/m_ct_cases17/nl/3)
+![ct-schema](@learning-object/m_ct03_17/nl/3)
 

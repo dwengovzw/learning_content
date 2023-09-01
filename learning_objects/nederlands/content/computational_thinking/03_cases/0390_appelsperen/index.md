@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases0
+hruid: ct03_90
 version: 3
 language: nl
 title: "Appels en peren"
@@ -55,7 +55,7 @@ In de klas kan je samen met de leerlingen bespreken hoe een computer naar foto's
 
 De bedenkingen en conclusies uit het klasgesprek kunnen worden samengevat in een schema.
 
-![ct-schema](@learning-object/m_ct_cases0/nl/3)
+![ct-schema](@learning-object/m_ct03_0/nl/3)
 
 Het spreekt voor zich dat de oplossing van het probleem in realiteit veel complexer is. De vorm van sommige peren gelijkt bv. sterk op die van een appel; andere kenmerken zoals de textuur van de schil kunnen dan uitsluitsel geven. Het gebruik van een diep neuraal netwerk kan betere resultaten geven, dan progammeren aan de hand van regels. 
 

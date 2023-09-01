@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases18
+hruid: ct03_54
 version: 3
 language: nl
 title: "Periodiek systeem"
@@ -34,6 +34,6 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen ...
 
-![ct-schema](@learning-object/m_ct_cases18/nl/3)
+![ct-schema](@learning-object/m_ct03_18/nl/3)
 
 

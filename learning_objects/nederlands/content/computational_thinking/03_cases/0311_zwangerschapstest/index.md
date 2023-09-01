@@ -1,5 +1,5 @@
 ---
-hruid: ct_cases11
+hruid: ct03_11
 version: 3
 language: nl
 title: "Zwangerschapstest"
@@ -40,6 +40,6 @@ Op de markt zijn zwangerschapstesten zowel in niet-digitale als in digitale vorm
 
 **Voorkennis:** De leerlingen kennen begrippen als input en output en maakten reeds kennis met keuzestructuren (ALS-DAN-constructies).
 
-![ct-schema](@learning-object/m_ct_cases11/nl/3)
+![ct-schema](@learning-object/m_ct03_11/nl/3)
 
 **Klasgesprek:** Bij dit voorbeeld hoort ook een vorm van reflectie. Is het digitaliseren van een zwangerschapstest wel zinvol? Wat zijn de voor- en nadelen?
