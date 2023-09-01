@@ -2,8 +2,8 @@
 hruid: ct09_07
 version: 3
 language: nl
-title: "Code evalueren"
-description: "Code evalueren"
+title: "Sociale robot kit"
+description: "Sociale robot kit"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,26 +29,6 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-
-# Inspiratievoorbeelden
-
-In wat volgt worden voorbeelden gegeven ter inspiratie.
-
-Hier alvast een eerste voorbeeld: hoe evalueer je code die leerlingen geschreven hebben? Welke criteria zijn er zinvol?
-
-----------------------
-
-# Het evalueren van programmeren vereist een eigen aanpak
-
-Programmeeropdrachten worden vaak verbeterd door leerkrachten die geen opleiding in informaticawetenschappen genoten. En omdat programmeren vaak aangewend wordt om met computationeel denken aan de slag te gaan in de klas, geven we hier enkele criteria mee om programmeeropdrachten te verbeteren.
-
-Deze criteria zijn opgemaakt voor programmeeropdrachten in de eerste graad binnen een blokgebaseerde omgeving, maar zijn zeker ook zinvol in andere graden en binnen een tekstuele omgeving.
-
-## Infographic Hoe evalueer ik grafische code?
-
-![infographic](https://github.com/dwengovzw/learning_content/assets/48352335/3d33c7d2-9ae6-4cd4-ba07-01532e64c5e7)
-
--------------------------
 ## Evalueren van de volgende leeractiviteit: Verkennen van de constructiekit sociale robot
 
 ![Kit](https://github.com/dwengovzw/learning_content/assets/48352335/3d5353ce-ff58-4eb5-a3b3-f859f917731a)
