@@ -2,8 +2,8 @@
 hruid: ct03_57
 version: 3
 language: nl
-title: "Determineren"
-description: "Determineren"
+title: "Tomaten en AI"
+description: "Tomaten en AI"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,12 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Case
+# Toestand van tomaten detecteren 
+
+**_Case in ontwerpfase._**
+
+**Automatsch detecteren van rotte en goede tomaten.**
+
 **Doelgroep:** ...
 
 **Voorkennis:** De leerlingen ...
