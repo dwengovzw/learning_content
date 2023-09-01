@@ -31,6 +31,8 @@ teacher_exclusive: true
 ---
 # Huidmondjes tellen automatiseren
 
+**Klassikaal bespreken van de werking van een neuraal netwerk voor objectherkenning om automatisch huidmondjes te tellen op microscopische foto's.**
+
 Het KIKS-neurale netwerk is ontwikkeld om een onderzoekster van de Plantentuin Meise te helpen bij het tellen van huidmondjes op microscopische foto's van bladeren van planten. Dit in het kader van onderzoek naar welke planten zich goed aanpassen aan de klimaatverandering. 
 
 In de klas kan je samen met de leerlingen bespreken hoe zo'n convolutioneel netwerk getraind wordt en hoe het werkt.
