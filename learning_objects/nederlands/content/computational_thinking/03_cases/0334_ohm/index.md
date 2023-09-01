@@ -38,6 +38,6 @@ teacher_exclusive: true
 **Voorkennis:** De leerlingen kennen de basisbegrippen van elektriciteit (elektrische lading, stroom, spanning, weerstand).
 
 
-![ct-schema](@learning-object/m_ct03_22/nl/3)
+![ct-schema](@learning-object/m_ct03_34/nl/3)
 
 

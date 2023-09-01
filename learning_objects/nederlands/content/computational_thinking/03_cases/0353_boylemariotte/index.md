@@ -34,5 +34,5 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen ...
 
-![ct-schema](@learning-object/m_ct03_17/nl/3)
+![ct-schema](@learning-object/m_ct03_53/nl/3)
 

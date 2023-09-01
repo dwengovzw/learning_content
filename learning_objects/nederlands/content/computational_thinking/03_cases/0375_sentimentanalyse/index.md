@@ -37,6 +37,6 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen weten dat sentimentanalyse kan gebeuren a.d.h.v. een lexicon.
 
-![ct-schema](@learning-object/m_ct03_14/nl/3)
+![ct-schema](@learning-object/m_ct03_75/nl/3)
 
 Voor meer uitleg, zie het project "Chatbot' over taaltechnologie. 

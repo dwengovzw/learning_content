@@ -59,7 +59,7 @@ Eens de leerlingen over het programma beschikken, kunnen ze het gebruiken om com
 
 **Voorkennis:** De leerlingen kennen de stelling van Pythagoras in formulevorm. Ze kunnen a.d.h.v. de stelling van Pythagoras de schuine zijde van een rechthoekige driehoek manueel berekenen. 
 
-![ct-schema](@learning-object/m_ct03_3d/nl/3)
+![ct-schema](@learning-object/m_ct03_50d/nl/3)
 
 In dit filmpje krijg je stap voor stap het programmeergedeelte te zien. 
 
@@ -69,7 +69,7 @@ In dit filmpje krijg je stap voor stap het programmeergedeelte te zien.
 
 **Voorkennis:** De leerlingen weten hoe ze input kunnen vragen aan de gebruiker, of ze kunnen het hier aanleren. 
 
-![ct-schema](@learning-object/m_ct03_3a/nl/3)
+![ct-schema](@learning-object/m_ct03_50a/nl/3)
 
 <div class="alert alert-box alert-success">
     <strong>Leerdoel in functie van MD 04.05:</strong><br>
@@ -80,7 +80,7 @@ In dit filmpje krijg je stap voor stap het programmeergedeelte te zien.
 
 **Voorkennis:** De leerlingen hebben eventueel al geleerd om in Python een functie te definiëren, of dat kan hier worden aangebracht.
 
-![ct-schema](@learning-object/m_ct03_3b/nl/3)
+![ct-schema](@learning-object/m_ct03_50b/nl/3)
 
 ### Toepassing: afstand in vogelvlucht
 
@@ -90,7 +90,7 @@ In dit filmpje krijg je stap voor stap het programmeergedeelte te zien.
 
 *De leerlingen bedenken zelf dat ze een routeplanner en de stelling van Pythagoras kunnen gebruiken.*
 
-![ct-schema](@learning-object/m_ct03_3c/nl/3)
+![ct-schema](@learning-object/m_ct03_50c/nl/3)
 
 <div class="alert alert-box alert-success">
     <strong>Leerdoel in functie van MD 04.05:</strong><br> 

@@ -37,5 +37,5 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen kennen in- en uitvoerelementen van digitale systemen. Ze kunnen werken met waarheidstabellen en Karnaugh kaarten.
 
-![ct-schema](@learning-object/m_ct03_16/nl/3)
+![ct-schema](@learning-object/m_ct03_33/nl/3)
 

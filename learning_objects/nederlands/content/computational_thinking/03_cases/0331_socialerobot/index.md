@@ -46,27 +46,27 @@ Tot slot creëren ze een fysieke robot, gebaseerd op hun eigen ontwerp.
 
 ### Uitdaging: Ontwerp je droomrobot en maak er een schets van. Geef weer hoe deze sociale robot met mensen communiceert.
 
-![ct-schema](@learning-object/m_ct03_5/nl/3)
+![ct-schema](@learning-object/m_ct03_31a/nl/3)
 
 ### Stap 2: De leerlingen passen het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waar ze over beschikken. (De criteria kunnen zelf opgelegd zijn en/of opgelegd door de leerkracht.)
 
-![ct-schema](@learning-object/m_ct03_5b/nl/3)
+![ct-schema](@learning-object/m_ct03_31b/nl/3)
 
 ### Stap 3: De leerlingen realiseren de robot op basis van het ontwerp eerst in de simulator en nadien als fysieke robot.
 
-![ct-schema](@learning-object/m_ct03_5c/nl/3)
+![ct-schema](@learning-object/m_ct03_31c/nl/3)
 
 ### Stap 4: De leerlingen detecteren bepaalde patronen en passen abstractie toe.
 
-![ct-schema](@learning-object/m_ct03_5d/nl/3)
+![ct-schema](@learning-object/m_ct03_31d/nl/3)
 
 ### Concreet: De leerlingen implementeren gewenste acties in de simulator.
 
-![ct-schema](@learning-object/m_ct03_5e/nl/3)
+![ct-schema](@learning-object/m_ct03_31e/nl/3)
 
 ### Concreet: De leerlingen monteren de hardware op het lichaam van de robot.
 
-![ct-schema](@learning-object/m_ct03_5f/nl/3)
+![ct-schema](@learning-object/m_ct03_31f/nl/3)
 
 ---------------------------------
 
