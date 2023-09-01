@@ -31,6 +31,10 @@ teacher_exclusive: true
 ---
 # Automatische terrasverlichting
 
+**_Deze case is nog in ontwerpfase._**
+
+**De leerlingen ontwerpen de sturing van een automatische terrasverlichting.**
+
 **Doelgroep:** 2de graad - dubbele finaliteit 
 
 **Vak:**............
