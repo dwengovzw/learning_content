@@ -29,7 +29,10 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Case
+# Wet van Boyle en Mariotte
+
+**_Deze case is nog in ontwerpfase.**_
+
 **Doelgroep:** Leerlingen ...
 
 **Voorkennis:** De leerlingen ...
