@@ -39,4 +39,4 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen kunnen met CAD en CNC werken. Ze kunnen een vlakschaafmachine en vandiktebank instellen en bedienen.
 
-![ct-schema](@learning-object/m_ct03_15/nl/3)
+![ct-schema](@learning-object/m_ct03_32/nl/3)

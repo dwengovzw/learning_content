@@ -37,6 +37,6 @@ teacher_exclusive: true
 
 **Voorkennis:** geen
 
-![ct-schema](@learning-object/m_ct03_19/nl/3)
+![ct-schema](@learning-object/m_ct03_55/nl/3)
 
 

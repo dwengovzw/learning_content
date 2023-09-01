@@ -45,6 +45,6 @@ Voorkennis:
 * De leerlingen kennen tweedegraadsfuncties.
 * De leerlingen kregen voorbeelden van beslissingsbomen te zien.
  
-![ct-schema](@learning-object/m_ct03_7/nl/3)
+![ct-schema](@learning-object/m_ct03_71/nl/3)
 
 Voor de uitwerking van dit project, zie het project 'AI in de Zorg'.

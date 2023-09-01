@@ -51,7 +51,7 @@ teacher_exclusive: true
 * De leerlingen weten dat de vorm van het spreidingsdiagram een indicatie is van een mogelijk trendlijn. 
 * De leerlingen kunnen in Python een spreidingsdiagram en een trendlijn visualiseren. 
 
-![ct-schema](@learning-object/m_ct03_4/nl/3)
+![ct-schema](@learning-object/m_ct03_52/nl/3)
 
 
 ### Minimumdoelen (Bron: onderwijsdoelen.be)
