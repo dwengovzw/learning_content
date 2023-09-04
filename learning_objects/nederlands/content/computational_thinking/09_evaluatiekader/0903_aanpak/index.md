@@ -105,14 +105,26 @@ De kenmerken die de aanpak van de evaluatie uitdagend maken (zij het voor de lee
 Je zal ook moeten nadenken over welke evaluatievormen je wil hanteren, zoals een individuele toets, een mondelinge opdracht, een werkstuk, een portfolio, zelfevaluatie, observatie, een exit ticket ... 
 In het volgend leerpadonderdeel bekijk je enkele vormen van dichterbij.
 
-**Voorbeeld**<br>
-Om de evaluatievorm te bepalen, moet je nadenken welk leerdoel je juist wilt testen (Weintrop et al., 20210).<br>
+<div class="alert alert-box alert-success">
+<strong>Nadenken over evaluatie</strong><br>
+Om de evaluatievorm te bepalen, moet je nadenken welk leerdoelen je juist wilt testen, welke kennis en vaardigheden (Weintrop et al., 20210).<br>
 Bv. stel dat je abstractie wilt evalueren. Wil je dan dat leerlingen:<br>
-* uitleggen waarom abstracties nuttig zijn?
-* een gegeven abstractie analyseren?
-* een gegeven abstractie gebruiken?
-* een abstractie maken?
-* een oplossing voor een probleem ontwerpen en daarbij een abstractie gebruiken?
+<ul><li>uitleggen waarom abstracties nuttig zijn?</li></ul>
+<ul><li>een gegeven abstractie analyseren?</li></ul>
+<ul><li>een gegeven abstractie gebruiken?</li></ul>
+<ul><li>een abstractie maken?</li></ul>
+<ul><li>een oplossing voor een probleem ontwerpen en daarbij een abstractie gebruiken?</li></ul>
+Stel dat je wil dat ze een abstractie maken.
+<ul><li>Dan zal het type van abstractie en hoe moeilijk deze opdracht is, mee bepalen welke evaluatievorm je zal hanteren.</li></ul>
+<ul><li>Ook de leeftijd van de leerlingen en het gewenste <b>beheersingsniveau</b> zal een rol spelen.</li></ul>
+<ul><li>Je zal ook moeten bepalen of je enkel 'abstractie' beoordeelt, of dat je ook <b>kennis uit een bepaalde context</b> verwacht en of dat je verwacht dat leerlingen ook programmeren. Zeker als computationeel denken geintegreerd wordt in een bepaalde discipline, is dit van toepassing.</li></ul> 
+De <b>tijd</b> die leerlingen voor de beoordeling krijgen, is een aandachtspunt, want die zal voor een stuk bepalen hoe diepgaand de beoordeling kan zijn en hoeveel aspecten van computationeel denken er beoordeeld worden. <br>
+Ook de <b>manier</b> waarop de beoordeling gebeurt, bepaalt dit mee, zoals:<br>
+<ul><li>Is de context van de evaluatie gelijkend op de context van de les?</li></ul>  
+    <ul><li>Zullen de leerlingen een beroep moeten doen op technologie?</li></ul>   
+    <ul><li>Omgekeerd zal wat je wil evalueren ook mee bepalen of je kiest voor ondersteuning met technologie, dan wel een evaluatie met pen en papier.</li></ul> 
+Al deze aandachtspunten bepalen mee welke evaluatie er geschikt is voor het gekozen doel. 
+</div>
 
 -----------------------
 #### Bronnen en inspiratie #### 
