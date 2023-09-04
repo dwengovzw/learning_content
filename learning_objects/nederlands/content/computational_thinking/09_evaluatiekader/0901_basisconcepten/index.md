@@ -65,6 +65,7 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 * De leerlingen breken een probleem op in meer eenvoudige maar identieke problemen die op dezelfde manier opgelost kunnen worden. (Denk aan recursie en 'verdeel-en-heers'-startegieën.)<sup>2</sup>
 * De leerlingen onderscheiden de verschillende onderdelen van een object om er beter mee te kunnen werken.<sup>2</sup>
 * De leerlingen onderscheiden de verschillende delen van een proces om het beter te kunnen uitvoeren of begrijpen.<sup>2</sup>
+* De leerlingen beoordelen of een oplossing voldoet aan de vooropgestelde criteria.<sup>2</sup>
 
 ### Mogelijke leerdoelen betreffende patroonherkenning
 
@@ -83,7 +84,10 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 * De leerlingen weten dat ze met een functie details van een deeloplossing kunnen verbergen.<sup>1</sup>
 * De leerlingen zien in dat sommige problemen niet met de computer kunnen worden opgelost.<sup>1</sup>
 * De leerlingen zien in dat een digitale voorstelling meerdere vormen kan aannemen.<sup>1</sup>
-* De leerlingen bieden data aan de computer aan in de juiste digitale voorstelling.<sup>1</sup>|
+* De leerlingen bieden data aan de computer aan in de juiste digitale voorstelling.<sup>1</sup>
+* De leerlingen identificeren patronen en overeenkomsten in problemen, processen, oplossingen of gegevens.<sup>2</sup>
+* De leerlingen passen oplossingen of delen van oplossingen aan zodat ze van toepassing zijn op een hele klasse van soortgelijke problemen.<sup>2</sup>
+* De leerlingen transfereren ideeën en oplossingen van een probleemgebied naar een ander.<sup>2</sup>
 
 ### Mogelijke leerdoelen betreffende abstractie
 
@@ -133,7 +137,12 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 * De leerlingen zien in dat er algoritmes bestaan die een goede, maar daarom niet de beste oplossingen geeft.<sup>2</sup>
 * De leerlingen onterpen algoritmes om processen in de echte wereld beter te begrijpen (modelleren).<sup>2</sup>
 * De leerlingen ontwerpen algoritmes die rekening houden met de mogelijkheden, beperkingen en wensen van de mensen die ze zullen gebruiken.<sup>2</sup>
-
+* De leerlingen beoordelen of een algoritme geschikt is voor het doel.<sup>2</sup>
+* De leerlingen beoordelen of een algoritme het juiste doet (functionele correctheid).<sup>2</sup>
+* De leerlingen ontwerpen een plan om de werking van een programma te testen, voeren de test uit en interpreteren de resultaten van de test.<sup>2</sup>
+* De leerlingen vergelijken de prestaties van algoritmen die hetzelfde doen.<sup>2</sup>
+* De leerlingen doorlopen een algoritmen of een computer programma stap voor stap om erachter te komen wat ze doen (*dry run / tracing*).<sup>2</sup>
+* De leerlingen zetten gegeven, maar foutief geordende, instructies uit een algoritme in de juiste volgorde om een gewenst effect te bereiken.
 
 ## Concepten van computationeel denken bij het oplossen van een probleem en in een STEM-project
 
