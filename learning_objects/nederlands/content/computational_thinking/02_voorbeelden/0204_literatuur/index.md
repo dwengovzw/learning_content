@@ -36,109 +36,131 @@ Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogeli
 We geven hier een (niet-exhaustief) overzicht gericht op wetenschappen en wiskunde.
 </div>
 
+## Decompositie
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Decompositie|objecten en methoden definiëren; hoofddeel programma afbakenen en functies definiëren|volgorde van bewerkingen in een uitdrukking toepassen|een soortenindeling maken||data verzamelen|gegevensbron vinden voor een probleem|gegevens verzamelen via experiment uit kansrekenen, bv. gooien met dobbelstenen of munten opgooien|gegevens verzamelen via experiment|
-|Decompositie|||de verschillende delen van een syteem kunnen idientificeren en hun interacties beschrijven|de verschillende delen van een syteem kunnen identificeren en hun interacties beschrijven|
-|Decompositie||gemiddelde berekenen van de klas voor een examen (wat is er nodig?)||
-|Decompositie|technische opdracht verdelen in subtaken||| 
-|Decompositie|uitzoeken hoe een bestaand legobouwsel geconstrueerd werd||uitzoeken hoe een simulatietoepassing werkt|
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|objecten en methoden definiëren|volgorde van bewerkingen in een uitdrukking toepassen|een soortenindeling maken||data verzamelen|gegevensbron vinden voor een probleem|gegevens verzamelen via experiment uit kansrekenen, bv. gooien met dobbelstenen of munten opgooien|gegevens verzamelen via experiment|
+|technische opdracht verdelen in subtaken|de verschillende delen van een syteem kunnen identificeren en hun interacties beschrijven|de verschillende delen van een syteem kunnen identificeren en hun interacties beschrijven|
+|uitzoeken hoe een bestaand legobouwsel geconstrueerd werd|gemiddelde berekenen van de klas voor een examen (wat is er nodig?)|uitzoeken hoe een simulatietoepassing werkt|
+|hoofddeel programma afbakenen en functies definiëren|||
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Patroonherkenning|gezichtsherkenning op Facebook en aanbevelingen op Amazon of iTunes|||
-|Patroonherkenning en generalisatie|subprogramma (functie)||| 
+## Patroonherkenning en generalisatie
 
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|gezichtsherkenning op Facebook|||
+|aanbevelingen op Amazon of iTunes|||
+|subprogramma (functie)||| 
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Abstractie|een reeks van vaak herhaalde instructies abstraheren tot een functie|het gebruik van letters in algebra; in een vraagstuk de nodige gegevens eruit halen|een model bouwen van een fysieke entiteit|
-|Abstractie|||verschillende niveaus van abstractie bij het oplossen van een probleem uit de fysica| 
-|Abstractie||door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|
-|Abstractie||vergelijking||
-|Abstractie|||verschillende niveaus van abstractie van aardrijkskundige kaarten| 
-|Abstractie|algoritme als voorbeeld van abstractie|model en simulatie als abstractie van fenomeen in de echte wereld||
-|Abstractie||om een 'vraagstuk' op te lossen, moeten leerlingen relevante zaken van niet-relevante van elkaar onderscheiden en komen tot een op te lossen vergelijking|abstractie van aardrijkskundige kaarten| 
-|Abstractie en automatisering|ontwerpen en programmeren van webpagina's en smartphoneapps||| 
-|Abstractie|robot ontwerpen die aan bepaalde criteria moet beantwoorden|||
-|Abstractie, modelleren||model van ons zonnestelsel maken|
-|Abstractie, simuleren||simuleren hoe bevolking reageert op een ziekte-uitbraak|
-|Abstractie|RGB als abstractie van het aantal kleuren dat mensen kunnen waarnemen|keuze parameters die meegenomen worden in een wiskundig model|leerlingen maken een schema van een gegeven elektronische opstelling en andere leerlingen construeren de opstelling opnieuw a.d.h.v. het schema|
-|Abstractie|representatie opmaken die geprogrammeerd kan worden||beslissingsboom voor classificatie opstellen; algebraïsche functie schrijven voor een proces|
+## Abstractie
 
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|een reeks van vaak herhaalde instructies abstraheren tot een functie|het gebruik van letters in algebra; in een vraagstuk de nodige gegevens eruit halen|een model bouwen van een fysieke entiteit|
+|algoritme als voorbeeld van abstractie|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden| 
+|robot ontwerpen die aan bepaalde criteria moet beantwoorden|vergelijking|verschillende niveaus van abstractie bij het oplossen van een probleem uit de fysica|
+|RGB als abstractie van het aantal kleuren dat mensen kunnen waarnemen|keuze parameters die meegenomen worden in een wiskundig model|model en simulatie als abstractie van fenomeen in de echte wereld|verschillende niveaus van abstractie van aardrijkskundige kaarten|
+|representatie opmaken die geprogrammeerd kan worden|om een 'vraagstuk' op te lossen, moeten leerlingen relevante zaken van niet-relevante van elkaar onderscheiden en komen tot een op te lossen vergelijking|abstractie van aardrijkskundige kaarten| 
+|selecteren van de kenmerken die opgenomen worden in een model||leerlingen maken een schema van een gegeven elektronische opstelling en andere leerlingen construeren de opstelling opnieuw a.d.h.v. het schema|
+|||beslissingsboom voor classificatie opstellen; algebraïsche functie schrijven voor een proces|
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Algoritme|bestudeer klassieke algoritmen; een algoritme voor een probleem|staartdeling uitvoeren, ontbinden in factoren, cijferen|een experimentele procedure uitvoeren|
-|Algoritme|doolhof doorlopen|||
-|Algoritme||algoritme voor het trekken van een vierkantswortel||
-|Algoritme|10 000 items sorteren|werken met grote hoeveelheden data|voorbeelden geven van systemen die veel rekenkracht vergen, zoals weermodellen|
-|Algoritme|robot die een pad volgt||robot volgt een pad dat de metamorfose van rups tot vlinder weergeeft in de juiste volgorde|
-|Algoritme||flowchart maken in een les over delers en veelvouden|wetenschappeleijke redenering verwoorden m.b.v. als-dan constructie, bv. om een hypothese te evalueren|
+## Algoritmisch denken
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Data-analyse|programma schrijven om eenvoudige statistische berekeningen te doen op een dataset|aantal keer kop of munt automatisch laten tellen en resultaat interpreteren|gegevens van een experiment analyseren|
-|Data voorstellen|gegevensstructuren gebruiken zoals array, gekoppelde lijst, stack, wachtrij, grafiek, hash tabel, enz.|histogram, taartdiagram, staafdiagram gebruiken om gegevens weer te geven; stel gegevens overzichtelijk voor d.m.v. verzamelingen, lijsten, grafieken, enz.|gegevens van een experiment samenvatten|
-|Data genereren||microcontroller|microcontroller|
-|Data voorverwerken|gegevens sorteren, filteren, opkuisen, normaliseren, samenbrengen|||
-|Data voorstellen||computationele voor- en nadelen soort diagram||
-|Data analyseren|||internationale datasets van broeikasgasuitstoot vergelijken naar hoeveelheid, land, economische sector ...| 
-|Data|data verzamelen (via dataloggers, via world wide web, via simulaties) en opkuisen|kansverdeling simuleren|data verzamelen (via dataloggers, via world wide web, via simulaties), opkuisen, monitoren en analyseren; meedoen aan een citizen science project|
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|bestudeer klassieke algoritmen|staartdeling uitvoeren|een experimentele procedure uitvoeren|
+|doolhof doorlopen|ontbinden in factoren|wetenschappelijke redenering verwoorden m.b.v. als-dan constructie, bv. om een hypothese te evalueren|
+|een algoritme voor een probleem|algoritme voor het trekken van een vierkantswortel|robot volgt een pad dat de metamorfose van rups tot vlinder weergeeft in de juiste volgorde|
+|10 000 items sorteren|werken met grote hoeveelheden data|voorbeelden geven van systemen die veel rekenkracht vergen, zoals weermodellen|
+|robot die een pad volgt|cijferen||
+||flowchart maken in een les over delers en veelvouden||
 
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Automatisatie||eenvoudige zaken in Python programmeren; GeoGebra gebruiken| |
-|Programmeren|videogames maken via programmeren in Scratch|||
-|Programmeren|bestaande programma's begrijpen en/of aanpassen, functies schrijven|data visualiseren, wiskundige modellen bouwen||  
-|Controlestructuren|controlestructuren gebruiken: conditionals, lussen, recursie, enz.|wiskundige functies bestuderen vergeleken met functies in programmeren; iteratie gebruiken om vraagstukken op te lossen||
-|Iteratie||vermenigvuldiging als iteratieve optelling||
-|Programmeren|nadenken over sequentie, iteratie, selectie, variabelen, invoer en uitvoer||| 
-|Artefact|programmeren en simuleren gevolgd door fysieke artefact; programmeren van een app bruikbaar door anderen|||
-|Automatisatie|wanneer is automatisatie zinvol? nodige abstracties en datarepresentaties|||
-|Parameters|experimenteren met de parameters in een logo om nieuwe logo's te creëren|parameters in een logo identificeren||
-|Automatiseren|programma verwerkt invoer van de sensoren op een robot|||
-|Automatisatie, modeleren en simuleren||simuleren a.d.h.v. Netlogo om patronen op te sporen: biologische, aardrijkundige, fysische, chemische ... processen|
-|Programmeren|toestel ontwerpen en bouwen om paperclips te tellen|geld wisselen; bewegen op een getallenlijn (bv. in Scratch)||
-|Automatisatie|bespreken welke dagdagelijkse processen er (deels) geautomatiseerd kunnen worden en welke niet|stelsels vergelijkingen laten oplossen door de computer|simulaties gebruiken, bv. betreffende de dynamiek in een ecosysteem|
+## Modelleren en simuleren 
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|animatie van een algoritme|effect van de waarde van de parameters bij een functie bestuderen op een grafiek|beweging van het zonnestelsel simuleren|
+|parameters meerdere waarden laten aannemen om effect te zien|regressielijnen|model toetsen aan de werkelijkheid|
+|Sim2Real|model gebruiken|model gebruiken|
+|Sim2Real|model creëren|model creëren|
+||Netlogo|model van ons zonnestelsel maken|
+|selecteren van de kenmerken die opgenomen worden in een model||Concord Consortium's Molecular Workbench|
+|||simuleren hoe bevolking reageert op een ziekte-uitbraak|
+|||simuleren a.d.h.v. Netlogo om patronen op te sporen: biologische, aardrijkundige, fysische, chemische ... processen|
+|||PhET-project|
+|||Netlogo|
+|||iLab Network|
 
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Testen en evalueren|programma debuggen|antwoord schatten en verifiëren|data opkuisen| | |
-|Evalueren en debuggen|strategieën om uit te vissen waarom iets niet werkt zoals verwacht|||
+## Werken met data (data verzamelen, data voorverwerken, data voorstellen, data analyseren, data genereren)
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|programma schrijven om eenvoudige statistische berekeningen te doen op een dataset|aantal keer kop of munt automatisch laten tellen en resultaat interpreteren|gegevens van een experiment analyseren|
+|gegevensstructuren gebruiken zoals array, gekoppelde lijst, stack, wachtrij, grafiek, hash tabel, enz.|histogram, taartdiagram, staafdiagram gebruiken om gegevens weer te geven|gegevens van een experiment samenvatten|
+|data verzamelen (via dataloggers, via world wide web, via simulaties)|microcontroller|microcontroller|
+|gegevens sorteren, filteren|kansverdeling simuleren|internationale datasets van broeikasgasuitstoot vergelijken naar hoeveelheid, land, economische sector ...|
+|stel gegevens overzichtelijk voor d.m.v. verzamelingen, lijsten, grafieken, enz.|computationele voor- en nadelen soort diagram|data verzamelen (via dataloggers, via world wide web, via simulaties), opkuisen, monitoren en analyseren; |
+|data opkuisen||meedoen aan een citizen science project|
+|gegevens normaliseren|||
+|gegevens samenbrengen|||
+
+## Automatiseren en programmeren
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|bespreken welke dagdagelijkse processen er (deels) geautomatiseerd kunnen worden en welke niet|stelsels vergelijkingen laten oplossen door de computer|simulaties gebruiken, bv. betreffende de dynamiek in een ecosysteem|
+|iteratie|GeoGebra gebruiken||
+|bestaande programma's begrijpen en/of aanpassen|eenvoudige zaken in Python programmeren||
+|videogames maken via programmeren in Scratch|vermenigvuldiging als iteratieve optelling||
+|functies schrijven|data visualiseren||  
+|nadenken over sequentie, iteratie, selectie, variabelen, invoer en uitvoer|wiskundige modellen bouwen||
+|controlestructuren gebruiken: conditionals, lussen, recursie, enz.|wiskundige functies bestuderen vergeleken met functies in programmeren||
+|programmeren en simuleren gevolgd door fysieke artefact|iteratie gebruiken om vraagstukken op te lossen||
+|wanneer is automatisatie zinvol? nodige abstracties en datarepresentaties|bewegen op een getallenlijn (bv. in Scratch)||
+|experimenteren met de parameters in een logo om nieuwe logo's te creëren|parameters in een logo identificeren||
+|programma verwerkt invoer van de sensoren op een robot|geld wisselen||
+|toestel ontwerpen en bouwen om paperclips te tellen|||
+|ontwerpen en programmeren van webpagina's en smartphoneapps|||
+|programmeren van een app bruikbaar door anderen|||
+
+## Testen, evalueren, debuggen
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|programma debuggen|antwoord schatten en verifiëren|data opkuisen|||
+|strategieën om uit te vissen waarom iets niet werkt zoals verwacht|||
+
+## Systeemdenken, denken in niveaus
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|||analyse van de interactie tussen de verschillende delen van een syteem en het geheel, zoals bij natuurlijke selectie, dynamiek binnen een populatie, ademhalingsstelsel, ideale gaswetten|
+|||hoe veranderingen op microniveau leiden tot veranderingen op macroniveau|
+|||cross-cutting concepts zoals feedback en stromen beter begrijpen a.d.h.v. digitale tools|
+
+## Parallellisatie
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|*threading*, *pipelining*, het verdelen van gegevens of taak op zo'n manier om te worden verwerkt in parallel|stelsel van lineaire vergelijkingen oplossen|data opkuisen|
+||matrixvermenigvuldiging|experimenten gelijktijdig uitvoeren met verschillende parameters|
+
+## Tools gebruiken
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|-----------|----------------------------|
+|sterktes en zwaktes van digitale tools kunnen afwegen t.o.v. elkaar||infographic|
+
+## Logica
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
+|------------------------|------------|----------------------------|
+||logische uitdrukkingen in een real-world context||
 
 
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Modellen valideren||regressielijnen|model toetsen aan de werkelijkheid|
-|Simulatie|animatie van een algoritme, parameters meerdere waarden laten aannemen om effect te zien|effect van de waarde van de parameters bij een functie bestuderen op een grafiek|beweging van het zonnestelsel simuleren|
-|Simuleren|Sim2Real|model gebruiken; Netlogo|model gebruiken; Concord Consortium's Molecular Workbench; PhET-project; Netlogo; iLab Network|
-|Modelleren|Sim2Real|model creëren|model creëren|
-|Modelleren en simuleren, en abstractie|selecteren van de kenmerken die opgenomen worden in een model|||
-
-
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Systeemdenken|||analyse van de interactie tussen de verschillende delen van een syteem en het geheel, zoals bij natuurlijke selectie, dynamiek binnen een populatie, ademhalingsstelsel, ideale gaswetten; cross-cutting concepts zoals feedback en stromen beter begrijpen a.d.h.v. digitale tools|
-|Denken in niveaus|||hoe veranderingen op microniveau leiden tot verabderingen op macroniveau|
-
-
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Parallellisatie|*threading*, *pipelining*, het verdelen van gegevens of taak op zo'n manier om te worden verwerkt in parallel|stelsel van lineaire vergelijkingen oplossen; matrixvermenigvuldiging|data opkuisen|experimenten gelijktijdig uitvoeren met verschillende parameters|
-
-
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|-----------|----------------------------|
-|Inzicht in tools|sterktes en zwaktes van digitale tools kunnen afwegen t.o.v. elkaar|||
-|Communiceren|||infographic|
-
-|**CD**|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|
-|---------------|------------------------|------------|----------------------------|
-|Logica||logische uitdrukkingen in een real-world context||
 
 Barr en Stephenson (2011) benadrukken dat de ontwikkelingen in de computerwetenschappen ervoor zorgen dat probleemoplossend denken een nieuwe insteek krijgt en dat oplossingen op een nieuwe manier uitgetest kunnen worden.<br>
 Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.<br>
