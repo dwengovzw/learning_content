@@ -36,104 +36,128 @@ Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogeli
 We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>: sociale wetenschappen, taal en kunst.
 </div>
 
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Decompositie||een overzicht maken|
-|Decompositie|autoassemblagelijn (fordisme)||
-|Decompositie en recursie||zinsontleding in een diagram plaatsen|
-|Decompositie||plan opstellen voor een verhaal in een taalles|
-|Decompositie, patronen en programmeren||muziek digitaal componeren|
-|Decompositie en abstractie||scenarioschrijven|
-|Decompositie en algoritme||game design, o.a. decor en spelregels|
-|Decompositie||'tanden poetsen' opbreken in deeltaken|
+## Decompositie
 
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Patroonherkenning en abstractie||letterpatronen in woorden|
-|Patroonherkenning en abstractie||bewegingen in een dans|
-|Patroonherkenning||patronen in poëzie|
-|Patroonherkenning||zinsontleding, woordsoort|
-|Generalisatie||choreografie van een dans uitwerken|
-|Patroonherkenning||dansmoves herkennen in een choreografie van een dans|
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+|autoassemblagelijn (fordisme)|een overzicht maken|
+||zinsontleding in een diagram plaatsen|
+||plan opstellen voor een verhaal in een taalles|
+||muziek digitaal componeren|
+||scenarioschrijven|
+||game design, o.a. decor en spelregels|
+||'tanden poetsen' opbreken in deeltaken|
 
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Abstractie|feiten samenvatten; besluiten trekken uit feiten|gebruik van vergelijking en metafoor|
-|Abstractie|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|
-|Abstractie|geschiedenislessen zijn abstracties van wat er in een bepaalde periode gebeurd is||
-|Abstractie|kenmerken van leerlingen, zoals oogkleur, haarstijl en lengte, om hen voor te stellen||
-|Abstractie en algoritme||origami|
-|Abstractie||gebruik van metaforen|
-|Abstractie|netwerken (verspreiden van roddels, ziektes ...)||
-|Abstractie||bepaalde dansmove bestaat voor geoefende danser uit reeds gekende opeenvolging van danspassen|
-|Abstractie||*in game design* zijn games geabstraheerd tot een verzameling scenes waarin karakters optreden|
+## Patroonherkenning en generalisatie
 
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Algoritme||instructies verwoorden|
-|Algoritme||auteursherkenning a.d.h.v. woordlengte|
-|Algoritme|aanbevelingssystemen||
-|Algoritme||instructies neerschrijven, recept volgen in een vreemde taal|
-|Algoritme|werking van zoekmachines|werking van zoekmachines|
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+||letterpatronen in woorden|
+||bewegingen in een dans|
+||patronen in poëzie|
+||zinsontleding, woordsoort|
+||choreografie van een dans uitwerken|
+||dansmoves herkennen in een choreografie van een dans|
+||muziek digitaal componeren|
 
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Automatisatie|Excel gebruiken|spellingchecker gebruiken|
-|Programmeren||interactieve storytelling|
-|Artefact||videogames ontwikkelen|
-|Controlestructuren||een verhaal schrijven met verschillende mogelijke uitkomsten (*branches*)|
-|Artefact||computationele (fysieke) artefact maken als uiting van creativiteit|
-|Artefact||verhaal creëren of werken met geleidende inkt|
-|Programmeren||werken met microcontrollers of e-textiel; game creëren|
-|Automatisatie, modeleren en simuleren|simuleren a.d.h.v. Netlogo om patronen op te sporen in sociale processen, bv. patroon van segregatie bij onderzoek naar de voorkeur van mensen om in de nabijheid van mensen vergelijkbaar met henzelf te gaan wonen||
-|Automatisatie|onlineshop in kader van thema 'Internet, handel en maatschappij'||
-|Automatisatie|animatiefilm, bv. stop-motion||
-|Programmeren||Lilypad (e-textiel)|
-|Artefact en vector graphics||Illustrator en 3D-printen|
-|Artefact||computerprogramma ontwikkelen dat muziek genereert (vereist computationeel denken en domeinkennis)|
-|Volgorde||in het kader van begrijpend lezen gegeven zinnen in de juiste volgorde plaatsen|
-|Herhaling||herhaling van ritme en tonen in muziekstuk|
+## Abstractie
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+|feiten samenvatten|gebruik van vergelijking en metafoor|
+|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|door iets op een abstracte manier voor te stellen meer duidelijkheid bieden|
+|geschiedenislessen zijn abstracties van wat er in een bepaalde periode gebeurd is|origami|
+|kenmerken van leerlingen, zoals oogkleur, haarstijl en lengte, om hen voor te stellen|bewegingen in een dans|
+|besluiten trekken uit feiten|gebruik van metaforen|
+|netwerken (verspreiden van roddels, ziektes ...)|bepaalde dansmove bestaat voor geoefende danser uit reeds gekende opeenvolging van danspassen|
+||*in game design* zijn games geabstraheerd tot een verzameling scenes waarin karakters optreden|
+||scenarioschrijven|
+||letterpatronen in woorden|
+
+## Algoritmisch denken
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+|aanbevelingssystemen|aanbevelingssystemen|
+|werking van zoekmachines|werking van zoekmachines|
+|reisbrochure maken die route optimaliseert naar afstand, tijd, prijs ...|instructies verwoorden|
+||auteursherkenning a.d.h.v. woordlengte|
+||instructies neerschrijven|
+||recept volgen in een vreemde taal|
+||game design, o.a. decor en spelregels|
+||origami|
+
+## Automatisatie en programmeren, artefact
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+|Excel gebruiken|spellingchecker gebruiken|
+|simuleren a.d.h.v. Netlogo om patronen op te sporen in sociale processen, bv. patroon van segregatie bij onderzoek naar de voorkeur van mensen om in de nabijheid van mensen vergelijkbaar met henzelf te gaan wonen|interactieve storytelling|
+|onlineshop in kader van thema 'Internet, handel en maatschappij'|videogames ontwikkelen|
+||een verhaal schrijven met verschillende mogelijke uitkomsten (*branches*)|
+||computationele (fysieke) artefact maken als uiting van creativiteit|
+||verhaal creëren of werken met geleidende inkt|
+||werken met microcontrollers of e-textiel; game creëren|
+||animatiefilm, bv. stop-motion|
+||Lilypad (e-textiel)|
+||Illustrator en 3D-printen|
+||computerprogramma ontwikkelen dat muziek genereert (vereist computationeel denken en domeinkennis)|
+||in het kader van begrijpend lezen gegeven zinnen in de juiste volgorde plaatsen|
+||herhaling van ritme en tonen in muziekstuk|
+||zinsontleding in een diagram plaatsen|
+||muziek digitaal componeren|
+
+## Modeleren en simuleren
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+|speel Age of Empires|speel echte gebeurtenissen na of beeld een verhaal uit| 
+|simuleren a.d.h.v. Netlogo om patronen op te sporen in sociale processen, bv. patroon van segregatie bij onderzoek naar de voorkeur van mensen om in de nabijheid van mensen vergelijkbaar met henzelf te gaan wonen||
+
+## Werken met data
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+|grafieken interpreteren met een maatschappelijke context, bv. bevolkingsgegevens|taalkundige analyse van zinnen uitvoeren|
+|trends identificeren in statistische gegevens|patronen herkennen voor verschillende soorten van zinnen|
+|trends samenvatten en voorstellen|patronen van verschillende soorten zinnen voorstellen|
+|verband tussen geweld in films en agressie|principes van Europese kunst|
+|bekijken wat meest gebruikte woorden zijn in *inaugural speeches* van presidenten van 1789 tot 2009|ontstaan van de tweede wereldoorlog|
+|*inaugural speeches* vergelijken, bv. verschillen omschrijven tussen Democratische en Republikeinse presidenten, of tussen periodes||
+|burgerzin (bv. haatgroepen)||
+
+## Complexe problemen oplossen
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+|samenwerken aan complexe wereldproblemen||
+
+## Systeemdenken
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+|analyse van de interactie tussen de verschillende delen van een syteem en het geheel, zoals dynamiek binnen een populatie beter begrijpen a.d.h.v. digitale tool||
+
+## Communiceren
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+||infographic|
+
+## Evalueren en debuggen
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+||in tekst typfouten en grammaticale fouten detecteren en verbeteren|
+
+## Logica
+
+|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|----------------------------|
+||logische uitdrukkingen in een real-world context|
 
 
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Data verzamelen|grafieken interpreteren met een maatschappelijke context, bv. bevolkingsgegevens|taalkundige analyse van zinnen uitvoeren|
-|Data-analyse|trends identificeren in statistische gegevens|patronen herkennen voor verschillende soorten van zinnen|
-|Data voorstellen|trends samenvatten en voorstellen|patronen van verschillende soorten zinnen voorstellen|
-|Data-analyse|verband tussen geweld in films en agressie||
-|Data verzamelen en analyseren||principes van Europese kunst|
-|Data voorstellen en interpreteren||ontstaan van de tweede wereldoorlog|
-|Data verzamelen|bekijken wat meest gebruikte woorden zijn in *inaugural speeches* van presidenten van 1789 tot 2009||
-|Data analyseren|*inaugural speeches* vergelijken, bv. verschillen omschrijven tussen Democratische en Republikeinse presidenten, of tussen periodes||
-|Data analyseren|burgerzin (bv. haatgroepen)||
 
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Simulatie|speel Age of Empires|speel echte gebeurtenissen na of beeld een verhaal uit| 
-
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Ccomplexe problemen|samenwerken aan complexe wereldproblemen||
-
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Systeemdenken|analyse van de interactie tussen de verschillende delen van een syteem en het geheel, zoals dynamiek binnen een populatie beter begrijpen a.d.h.v. digitale tool||
-
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Communiceren||infographic|
-
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|---------------------------|
-|Evalueren en debuggen||in tekst typfouten en grammaticale fouten detecteren en verbeteren|
-
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|---------------------------|
-|Logica||logische uitdrukkingen in een real-world context|
-
-|**CD**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|----------------------------|
-|Optimalisatie|reisbrochure maken die route optimaliseert naar afstand, tijd, prijs ...||
 
 
 -----------------------
