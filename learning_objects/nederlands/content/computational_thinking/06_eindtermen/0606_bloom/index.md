@@ -2,7 +2,7 @@
 hruid: ct06_06
 version: 3
 language: nl
-title: "Handelingswerkwoorden"
+title: "Handelingswerkwoord"
 description: "titel"
 keywords: [""]
 educational_goals: [
