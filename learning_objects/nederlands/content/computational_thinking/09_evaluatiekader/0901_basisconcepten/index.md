@@ -55,8 +55,7 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 
 |Decompositie|
 |--------------|
-* De leerlingen identificeren een comp
-* lex probleem als een probleem dat kan worden opgesplitst in deelproblemen.
+* De leerlingen identificeren een complex probleem als een probleem dat kan worden opgesplitst in deelproblemen.
 * De leerlingen splitsten een complex probleem op in goedgekozen deelproblemen.
 * De leerlingen controleren of elk deelprobleem afzonderlijk kan worden opgelost.
 * De leerlingen beslissen welke deelproblemen het belangrijkst zijn om eerst op te lossen en bepalen zo de juiste volgorde om het probleem op te lossen.
@@ -98,12 +97,15 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 * De leerlingen passen abstractie toe door gebruik te maken van datastructuren, die helpen om gegevens te organiseren op een gestructureerde manier (zoals arrays, lijsten, stapels, bomen en grafen).
 * De leerlingen leggen uit dat bij de overgang van analoog naar digitaal er informatie verloren gaat.
 * De leerlingen kennen het verschil tussen data en informatie.<sup>1</sup>
-* De leerlingen weten digitale voorstellingen gebeuren a.d.h.v. binaire getallen.<sup>1</sup>
+* De leerlingen weten dat digitale voorstellingen gebeuren a.d.h.v. binaire getallen.<sup>1</sup>
 * De leerlingen bergijpen hoe een bit-patroon een getal of afbeelding voorstelt.<sup>1</sup>
 * De leerlingen leggen uit wat het verschil is tussen het internet en het world wide web.<sup>1</sup>
 * De leerlingen gebruiken een functie om de details van een deeloplossing te verbergen.<sup>1</sup>
 * De leerlingen definiëren een functie om de details van een deeloplossing te verbergen.<sup>1</sup>
-* De leerlingen kiezen het juiste datatype voor een representatie.<sup>1</sup>|
+* De leerlingen kiezen het juiste datatype voor een representatie.<sup>1</sup>
+* De leerlingen verminderen de complexiteit van een probleem, een opdracht, een vraagstuk ... door onnodige details te verwijderen.<sup>2</sup>
+* De leerlingen kiezen een geschikte wijze om objecten, problemen, processen, systemen ... voor te stellen om het probleem gemakkelijker te kunnen oplossen.<sup>2</sup>
+* De leerlingen filteren informatie bij het ontwikkelen van oplossing.<sup>2</sup>
 
 ### Mogelijke leerdoelen betreffende algoritmisch denken 
 
