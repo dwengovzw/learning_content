@@ -106,12 +106,15 @@ Je zal ook moeten nadenken over welke evaluatievormen je wil hanteren, zoals een
 In het volgend leerpadonderdeel bekijk je enkele vormen van dichterbij.
 
 **Voorbeeld**<br>
-Om de evaluatievorm te bepalen, moet je nadenken welk leerdoel je juist wilt testen.<br>
-Bv. stel dat je abstractie wilt evalueren. Wil je dan:<br>
-*
+Om de evaluatievorm te bepalen, moet je nadenken welk leerdoel je juist wilt testen (Weintrop et al., 20210).<br>
+Bv. stel dat je abstractie wilt evalueren. Wil je dan dat leerlingen:<br>
+* uitleggen waarom abstracties nuttig zijn?
+* een gegeven abstractie analyseren?
+* een gegeven abstractie gebruiken?
+* een abstractie maken?
+* een oplossing voor een probleem ontwerpen en daarbij een abstractie gebruiken?
 
 -----------------------
-
 #### Bronnen en inspiratie #### 
 
 Bultynck, K. (2004). Bredere evaluatie: schuiven op vier assen.<br>
