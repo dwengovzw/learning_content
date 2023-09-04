@@ -71,10 +71,10 @@ De complexiteit van een opdracht hangt af van meerdere factoren, zoals:<br>
 
 Bij het vastleggen van het aantal evaluatiemomenten leg je ook vast wanneer je formatief of summatief wilt evalueren.
 
-- Een *formatief* evaluatiemoment houdt in dat er een opdracht wordt ingezet als een middel om feedback te bieden op het leerproces, voordat een definitieve beoordeling plaatsvindt. Zo'n evaluatiemoment ondersteunt in het bereiken van de leerdoelen: het focust op het identificeren van sterke en zwakke punten, waarop de leerling, indien nodig, het leerproces kan bijsturen, al dan niet samen met de leerkracht. Het betreft dus een *tussentijdse beoordeling* van de te evalueren leerdoelen in de vorm van een cijfer of tekstbeoordeling. Een formatief evaluatiemoment  kan zowel hard of zacht zijn. 
-- Een *summatief* evaluatiemoment houdt in dat een opdracht wordt ingezet om een leerprestatie te beoordelen bij het aflsuiten van een leerperiode. Het betreft een *definitieve beoordeling* in de vorm van een cijfer of tekstbeoordeling. Een summatief evaluatiemoment kan zowel hard of zacht zijn.  
-- *Feedback* kan evenwel niet alleen na het uitvoeren van een opdracht worden gegeven; een vorm van 'feedback' kan ook aan het begin en gedurende het uitvoeren van een opdracht. Je spreekt dan respectievelijk van *feed-up* en *feed-forward*. Dit bevordert de gerichtheid op leerdoelen. 
-- In vergelijking met eenmalige evaluaties bieden meerdere evaluaties een meer betrouwbaar en consistent beeld van de prestaties van de leerling. Formatieve evaluaties stellen leerlingen in staat om hun prestaties te verbeteren door feedback en bijsturing van hun leerproces. Via meerdere evaluaties kunnen verschillende aspecten van een leerdoel, waaronder de diepgang, belicht worden.
+* Een *formatief* evaluatiemoment houdt in dat er een opdracht wordt ingezet als een middel om feedback te bieden op het leerproces, voordat een definitieve beoordeling plaatsvindt. Zo'n evaluatiemoment ondersteunt leerlingen in het bereiken van de leerdoelen: het focust op het identificeren van sterke en zwakke punten, waarop de leerling, indien nodig, het leerproces kan bijsturen, al dan niet samen met de leerkracht. Het betreft dus een *tussentijdse beoordeling* van de te evalueren leerdoelen in de vorm van een cijfer of tekstbeoordeling. Een formatief evaluatiemoment kan zowel kwantitatief als kwalitatief zijn. Formatief verwijst dus niet naar de vorm van evaluatie; het sluit ook geen toetsen uit. Formatief refereert aan de aard van de beslssing die de leerkracht en de leerling neemt op basis van het resultaat van de evaluatie (Sluijsmans, 2020).
+* Een *summatief* evaluatiemoment houdt in dat een opdracht wordt ingezet om een leerprestatie te beoordelen bij het aflsuiten van een leerperiode. Het betreft een *definitieve beoordeling* in de vorm van een cijfer of tekstbeoordeling. Een summatief evaluatiemoment kan zowel kwantitatief als kwalitatief zijn.  
+* *Feedback* kan evenwel niet alleen na het uitvoeren van een opdracht worden gegeven. Een vorm van 'feedback' kan ook aan het begin en gedurende het uitvoeren van een opdracht; je spreekt dan respectievelijk van *feed-up* en *feed-forward*. Dit bevordert de gerichtheid op leerdoelen. 
+* In vergelijking met eenmalige evaluaties bieden meerdere evaluaties een meer betrouwbaar en consistent beeld van de prestaties van de leerling. Formatieve evaluaties stellen leerlingen in staat om hun prestaties te verbeteren door feedback en bijsturing van hun leerproces. Via meerdere evaluaties kunnen verschillende aspecten van een leerdoel, waaronder de diepgang, belicht worden.
 
 
 #### Wie evalueert?
@@ -82,10 +82,10 @@ Bij het vastleggen van het aantal evaluatiemomenten leg je ook vast wanneer je f
 Bij een evaluatiemoment kan jij als leerkracht evalueren, maar de leerlingen kunnen ook elkaar evalueren of zichzelf. Ook de ouders of een externe jury kunnen betrokken worden. 
 
 De keuze voor wie evalueert hangt af van:<br>
-- de te evalueren leerdoelen,
-- hoe formeel de beoordeling is en hoe zwaar die doorweegt,
-- het eigenaarschap van de leerlingen,
--  ...
+* de te evalueren leerdoelen,
+* hoe formeel de beoordeling is en hoe zwaar die doorweegt,
+* het eigenaarschap van de leerlingen,
+*  ...
 
 
 #### Karakter van de evaluatie
@@ -111,6 +111,9 @@ In het volgend leerpadonderdeel bekijk je enkele vormen van dichterbij.
 
 #### Bronnen en inspiratie #### 
 
-Bredere evaluatie: schuiven op vier assen, Katrien Bultynck, 2004.<br>
-Toolkit breed evalueren. Harde of zachte evaluatie, Saveyn, J., 2007. https://data-onderwijs.vlaanderen.be/documenten/bestand.ashx?id=12568<br>
-https://formatiefevalueren.kdg.be/ <br>
+Bultynck, K. (2004). Bredere evaluatie: schuiven op vier assen.<br>
+Curzon, P., Dorling, M., Ng, T., Selby, C., & Woollard, J. (2014). Developing computational thinking in the classroom: a framework Swindon, GB. *Computing at School*.<br>
+Saveyn, J., (2007). Toolkit breed evalueren. Harde of zachte evaluatie. https://data-onderwijs.vlaanderen.be/documenten/bestand.ashx?id=12568<br>
+Karel De Grote hogeschool. Toolbox Formatieve Evaluatie. https://formatiefevalueren.kdg.be/ <br>
+Sluijsmans, D. M. A. (2020). Toetsing als kans om te leren. Een thematisch overzicht naar het waarom, wat, wanneer en hoe van formatief evalueren. Den Haag: NRO.<br>
+Sluijsmans, D. M. A. (2020). Toetsing als motor voor leren: naar succeservaringen voor alle leerlingen. *Remediaal, 3*, 6-12. Remediaal is een uitgave van Uitgeverij Betelgeuze.
