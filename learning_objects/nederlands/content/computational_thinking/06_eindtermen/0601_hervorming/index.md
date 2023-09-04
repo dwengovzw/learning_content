@@ -31,12 +31,12 @@ teacher_exclusive: true
 ---
 # Vlaamse eindtermen en minimumdoelen
 
-Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven leerdoelen. 
+Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven onderwijsdoelen. 
 - Deze [eindtermen en minimumdoelen](https://onderwijsdoelen.be/) sommen de **minimaal te behalen leerdoelen** op.
 - Ze vertegenwoordigen een **meetbare standaard** als basis voor te ontwikkelen curricula.
 - De leerinhouden, de leeractiviteiten en de evaluatie van de leerlingen moeten hierop afgestemd worden, maar de overheid legt niet op hoe scholen dit moeten verwezenlijken.
 
-> Het staat scholen dus vrij om de eindtermen en minimumdoelen in een vak, vakoverstijgend in meerdere vakken of bijvoorbeeld via een projectweek aan te bieden. Ze mogen ook zelf bepalen welke leerinhouden ze hiervoor gebruiken, hoewel ze daarover richtlijnen krijgen van de onderwijsverstrekkers GO!, KOV, POV, OVSG of OKO.
+> Het staat scholen dus vrij om de eindtermen en minimumdoelen in een vak, vakoverstijgend in meerdere vakken of bijvoorbeeld via een projectweek aan te bieden. De scholen bepalen ook zelf welke leerinhouden ze hiervoor gebruiken, hoewel ze daarover richtlijnen krijgen van de onderwijsverstrekkers GO!, KOV, POV, OVSG of OKO.
 
 <div class="alert alert-box alert-success">
 De eindtermen zijn ingegaan in het eerste jaar van het secundair onderwijs in september 2019 en worden schooljaar na schooljaar verder doorgevoerd in de andere leerjaren. In september 2023 wordt er gestart met de minimumdoelen in het vijfde jaar.
@@ -52,10 +52,10 @@ Ondertussen zijn deze vernietigde eindtermen naar nieuwe minimumdoelen voor de t
 <ul><li>Er werd afgestapt van de taxonomie van Bloom.</li></ul> 
 <ul><li>het vereiste beheersingsniveau kan afgeleid worden uit het handelingswerkwoord in het minimumdoel.</li></ul> 
 <ul><li>De eindtermen van de eerste graad worden ook nog opnieuw bekeken.</li></ul> 
-<ul><li>Voor meer uitleg over de handelingswerkwoorden in de eindtermen/minimumdoelen, zie het leerobject 'Beheersingsniveau'.</li></ul> 
+<ul><li>Voor meer uitleg over het beheersingsniveau in de eindtermen/minimumdoelen, zie het leerobject 'Handelingswerkwoorden'.</li></ul> 
 </div>
 
-> Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad en [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de (vernietigde) eindtermen van de tweede en derde graad. 
+> Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad en [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de (vernietigde) eindtermen van de tweede en derde graad. De nieuwe minimumdoelen vind je [hier](https://onderwijsdoelen.be/).
 
 ## Digitale competentie en mediawijsheid
 
