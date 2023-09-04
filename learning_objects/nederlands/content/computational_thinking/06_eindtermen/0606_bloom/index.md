@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Handelingswerkwoorden
+# Handelingswerkwoord
 
 Elke eindterm en ieder minimumdoel zijn geformuleerd a.d.h.v. een handelingswerkwoord. Het beheersingsniveau waarop leerlingen moeten geevalueerd worden, is vastgelegd op basis van dit handelingswerkwoord. 
 
