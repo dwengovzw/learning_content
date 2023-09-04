@@ -35,11 +35,16 @@ teacher_exclusive: true
 ## Veel voorkomende evaluatievormen
 
 **Schriftelijke opdracht - gesloten vragen**<br>
-Bij een opdracht met gesloten vragen evalueert de leerkracht een schriftelijke prestatie waarbij de leerling een antwoord selecteert uit een vooraf opgestelde set van mogelijke antwoorden. Voorbeelden van gesloten vragen zijn meerkeuzevragen, waar/onwaar vragen, matching-vragen, volgorde vragen ...
+Bij een opdracht met gesloten vragen evalueert de leerkracht een schriftelijke prestatie waarbij de leerling een antwoord selecteert uit een vooraf opgestelde set van mogelijke antwoorden. Voorbeelden van gesloten vragen zijn meerkeuzevragen, 'waar/onwaar'-vragen, matching-vragen, volgorde-vragen ...<br>
+Meerkeuzevragen kunnen gebruikt worden om snel de basiskennis van leerlingen te beoordelen, of zelfs om na te gaan of leerlingen aandachtig zijn voor bepaalde valkuilen en kunnen omgaan met bepaalde uitdagingen. Maar niet alle aspecten van computationeel denken kunnen met meerkeuzevragen beoordeeld worden.      
 
 **Schriftelijke opdracht - open vragen**<br>
 Bij een opdracht met open vragen evalueert de leerkracht een schriftelijke prestatie van de leerling waarbij de leerling zelfstandig een antwoord formuleert op open vragen. Voor open vragen die gericht zijn op het testen van feitelijke kennis, zijn de antwoorden beknopt, variërend van één woord tot maximaal enkele regels; hoe lang een verwacht antwoord is, hangt ook wel af van de graad en de studierichitng.<br>
-Voor open vragen die inzicht of toepassing testen, zijn de antwoorden meestal uitgebreider, beginnend bij minstens een alinea. Deze vragen bevatten werkwoorden zoals 'beschrijf', 'bereken', 'bewijs', 'beoordeel', 'adviseer', 'teken' ...
+Voor open vragen die inzicht of toepassing testen, zijn de antwoorden meestal uitgebreider, beginnend bij minstens een alinea. Deze vragen bevatten werkwoorden zoals 'beschrijf', 'bereken', 'bewijs', 'beoordeel', 'adviseer', 'teken' ...<br>
+
+> Open vragen en open opdrachten zijn geschikt om te beoordelen of leerlingen iets kunnen uitleggen of om na te gaan of ze iets kunnen creëren, in tegenstelling tot meerkeuzevragen.(Weintrop et al., 2021).<br>
+> Pen-en-papier kan ook zinvol zijn in het kader van het creëren van een artefact, bv. om te laten neerschrijven welke representaties ze zullen gebruiken, om een algorime in pseudocode te ontwerpen, of om een ontwerp van een oplossing te tekenen (Weintrop et al., 2021).<br>
+> Als leerlingen leerden programmeren in een blokgebaseerde programmeeromgeving die steeds toont over welke blokken men beschikt, en de evaluatie hierover gebeurt met pen-en-papier, dan kan het zijn dat je eerder het vermogen test om de blokken te onthouden, dan het vermogen om met de blokken te programmeren (Weintrop et al., 2021). 
 
 **Mondelinge opdracht**<br>
 Het beoordelen van een mondelinge opdracht vindt doorgaans plaats in een één-op-één setting tussen leerkracht en leerling. De mondelinge prestatie kan variëren van het beantwoorden van kennisvragen tot het bespreken van het ingeleverde werkstuk.
@@ -51,7 +56,7 @@ Tijdens een interview stelt de leerkracht gericht vragen aan de leerling om diep
 Bij presenteren beoordeelt de leerkracht een mondelinge prestatie van een leerling waarbij er publiek aanwezig is. Het publiek kunnen medeleerlingen zijn, andere leraren, externen ... Presenteren is een vaardigheid die niet alleen gaat over kennisoverdracht, maar ook over de manier waarop informatie effectief en overtuigend wordt gecommuniceerd aan een publiek.  
 
 **Werkstuk**<br>
-Bij het beoordelen van een werkstuk evalueert de leerkracht een product dat is gemaakt naar aanleiding van een opdracht. Hierbij wordt vaak ook de mate van zelfstandigheid en/of creativiteit die de leerling(en) tonen in de verwerking van de leerstof in kaart gebracht. 
+Bij het beoordelen van een werkstuk evalueert de leerkracht een product dat is gemaakt als uitkomst van een opdracht. Hierbij wordt vaak ook de mate van zelfstandigheid en/of creativiteit die de leerling(en) tonen in de verwerking van de leerstof in kaart gebracht.   
 
 **Observatie**<br>
 Bij observeren kijkt de leerkracht doelgericht naar de leerlingen. Bij een observatie kunnen er cognitieve aspecten worden beoordeeld zoals de concrete uitvoering van een bepaalde taak, vaardigheid of concept. Maar ook niet-cognitieve aspecten van leren kunnen worden beoordeeld zoals sociaal gedrag, samenwerking, houding ten opzichte van leren ...
@@ -99,6 +104,14 @@ Er zijn **drie belangrijke aspecten** die bepalen dat het om een werkstuk gaat.<
 </div>
 
 [Voorbeeld van concretisering](https://www.dwengo.org/learning-path.html?hruid=ct4_evaluatiekader&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct09_06;nl;3)
+
+## Ondersteuning van technologie
+
+Een evaluatie van programmeerskills met gebruik op de computer biedt als voordeel dat leerlingen hun programma kunnen testen en debuggen. Als ze toegang hebben tot een simulator, krijgen ze zelfs nog meer real-time feedback. Opdrachten die profiteren van deze pluspunten van technologie, dragen de mogelijkheid in zich om meer complexe competenties te beoordelen.<br>
+Misschien heb je als leerkracht de mogelijkheid om de activiteiten van de leerlingen op de computer te loggen. Je kan de data analyseren om te kijken of leerlingen bepaalde competenties verworven hebben, en deze informatie gebruiken om hen te evalueren. Wel opgelet dat leerlingen dan niet afgestraft worden omdat ze exploreren en experimenteren; het werken op de computer moedigt aan om vanalles uit te proberen waardoor ze misschien afgeleid zullen zijn van het eigenlijke doel van de opdracht. <br>
+Ook zouden er in dat geval meerdere strategieën en manieren om de opdracht te vervullen moeten toegelaten zijn. 
+Computationeel denken op deze manier beoordelen kan een beter beeld geven van hoe leerlingen in de echte wereld zouden zijn, maar is wel uitdagend voor de leerkracht (Weintrop et al., 2021).
+
 
 ## Observatie in informaticaonderwijs
 
@@ -200,7 +213,8 @@ Maak aantekeningen van belangrijke punten en koppel deze terug aan de leerling o
 
 ## Portfolio in informaticaonderwijs
 
-Een portfolio is in informaticaonderwijs een **dynamische tool**, die de leerling de mogelijkheid biedt om hun technische vaardigheden, praktische toepassingen, soft skills, ..., en persoonlijke groei op een georganiseerde manier te presenteren.
+Een portfolio is in informaticaonderwijs een **dynamische tool**, die de leerling de mogelijkheid biedt om hun technische vaardigheden, praktische toepassingen, soft skills, ..., en **persoonlijke groei** op een georganiseerde manier te presenteren. Het laat leerlingen ook toe om dat waar ze zeer goed in zijn, in de verf te zetten.<br>
+De verwachte inhoud van het protfolio wordt op voorhand vastgelegd.
 
 De inhoud van het portfolio wordt bepaald door het doel van het portfolio. Grofweg zijn er een drietal types te onderscheiden.<br>
 **Showcase portfolio**<br>
@@ -225,6 +239,8 @@ De inhoud van het portfolio wordt bepaald door het doel van het portfolio. Grofw
 <ul><li>...</li></ul>
 </div>
 
+> Om de inhoud van een portfolio te beoordelen, kan je bv. gebruikmaken van rubrics. 
+
 ## Zelfevaluatie in informaticaonderwijs
 Zelfevaluatie in informaticaonderwijs is een hulpmiddel om **zelfbewustzijn, eigenaarschap van het leerproces en gerichte persoonlijke en professionele groei** bij leerlingen te stimuleren. 
 In de snel evoluerende digitale wereld zijn dit cruciale vaardigheden.
@@ -234,6 +250,8 @@ In de snel evoluerende digitale wereld zijn dit cruciale vaardigheden.
 * Geef leerlingen rubrics om hen te helpen bij het beoordelen van hun eigen werk.
 * Geef leerlingen voldoende ondersteuning om hun zelfevaluatievaardigheden te ontwikkelen.
 * Geef leerlingen feedback op de zelfevaluatie om hen zo te helpen hun zelfevaluatievaardigheden te optimaliseren.
+
+> Het invullen van zelfevaluatie-vragenlijsten heeft soms te leiden onder *self-report* bias: er is een verschil tussen hoe hoog men een bepaalde competentie bij zichzelf inschat en hoe competent men er werkelijk in is (Weintrop et al., 2021). 
 
 ## Peerfeedback in informaticaonderwijs
 
