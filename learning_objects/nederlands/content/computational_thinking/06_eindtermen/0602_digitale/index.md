@@ -56,6 +56,10 @@ Zoals eerder vermeld zijn de eindtermen en mimimumdoelen verdeeld over 16 sleute
 </li></ul>
 </div>
 
+> Bij de eindtermen hoort een definitie van computationeel denken en handelen ; deze definitie vind je in het hierop volgende deel van het leerpad.
+
+> Computationeel denken en mediawijsheid behoren tot dezelfde sleutelcompetentie; dit weerspiegelt hun complementariteit en overlap, zoals aangehaald door Gretter & Yadav (2016).
+
 ## Enkele voorbeelden van eindtermen en minimumdoelen van ‘Computationeel denken en handelen’
 
 De volgende kaders ‘Enkele eindtermen over computationeel denken’ en ‘Kennis betreffend computationeel denken’ geven enkele voorbeelden van eindtermen, eindtermen basisgeletterdheid en minimumdoelen uit de bouwsteen ‘Computationeel denken en handelen’, en de verwachte kennis die ermee gepaard gaat. 
@@ -83,7 +87,7 @@ of met:
 </div>
 
 <div class="alert alert-box alert-warning">
-<strong>Kennis betreffend computationeel denken (eerste versie van de nieuwe eindtermen)</strong> (AHOVOKS, 2020)<br> 
+<strong>Kennis betreffend computationeel denken (eerste versie van de nieuwe eindtermen)</strong> (AHOVOKS)<br> 
 De kennis die leerlingen moeten verwerven betreffend computationeel denken, bestaat o.a. uit: 
 <ul><li>decompositie, patroonherkenning, abstractie, algoritme; </li></ul>
 <ul><li>modelleren en simuleren;</li></ul> 
@@ -106,6 +110,9 @@ De kennis die leerlingen moeten verwerven betreffend computationeel denken, best
 <ul><li>impact van algoritmen.</li></ul>
 </div>
 
-> Bij de eindtermen hoort een definitie van computationeel denken en handelen ; deze definitie vind je in het leerpad in het deel dat hierna komt.
+----------------
+#### Bronnen
 
-> Computationeel denken en mediawijsheid behoren tot dezelfde sleutelcompetentie; dit weerspiegelt hun complementariteit en overlap, zoals aangehaald door Gretter & Yadav (2016) (zie Tabel 4.1 in paragraaf 4.2).
+AHOVOKS. [onderwijsdoelen.be](https://onderwijsdoelen.be/)<br>
+Gretter, S. & Yadav, A. (2016). Computational thinking and media & information literacy: An integrated approach to teaching twenty-first century skills. *TechTrends, 60*.
+
