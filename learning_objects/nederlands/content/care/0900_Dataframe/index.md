@@ -2,8 +2,8 @@
 hruid: aiz_dataframe
 version: 3
 language: nl
-title: "Dataframe"
-description: "Dataframe"
+title: "Data frame"
+description: "Data frame"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Dataframe
+# Data frame
 A.d.h.v. de Python-module pandas kan je op een eenvoudige manier gegevens voorverwerken. Voorbeelden zijn het omzetten van categorische variabelen naar numerieke of het verwijderen van overtollige en onvolledige gegevens.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1018 "Notebooks Dataframe")
