@@ -88,13 +88,15 @@ Er zijn **drie belangrijke aspecten** die bepalen dat het om een werkstuk gaat.<
 * Leerlingen verwerken informatie door die te delen met of te presenteren aan anderen.
 * Leerlingen werken zelfstandig (individueel of in groep) en de leerkracht geeft in principe alleen hulp als leerlingen erom vragen.
 
-**Wat kun je beoordelen?**<br>
-* Beoordeel in welke mate het werkstuk de beoogde doelstelling bereikt.
-* Beoordeel in welke mate het werkstuk voldoet aan de vereisten die in de opdracht zijn gegeven.
-* Beoordeel in welke mate het werkstuk inhoudelijke diepgang heeft.
-* Beoordeel in welke mate het werkstuk presentabel (zoals lay-out, leesbaarheid, overzichtelijke opbouw ...) is.
-* Beoordeel in welke mate het werkstuk creatief (extra, interessante elementen) en/of origineel (unieke, persoonlijke elementen) is.
-* ...
+<div class="alert alert-box alert-success">
+<strong>Wat zou je kunnen beoordelen?</strong><br>
+<ul><li>Beoordeel in welke mate het werkstuk de beoogde doelstelling bereikt.</li></ul>
+<ul><li>Beoordeel in welke mate het werkstuk voldoet aan de vereisten die in de opdracht zijn gegeven.</li></ul>
+<ul><li>Beoordeel in welke mate het werkstuk inhoudelijke diepgang heeft.</li></ul>
+<ul><li>Beoordeel in welke mate het werkstuk presentabel (zoals lay-out, leesbaarheid, overzichtelijke opbouw ...) is.</li></ul>
+<ul><li>Beoordeel in welke mate het werkstuk creatief (extra, interessante elementen) en/of origineel (unieke, persoonlijke elementen) is.</li></ul>
+<ul><li>...</li></ul>
+</div>
 
 [Voorbeeld van concretisering](https://www.dwengo.org/learning-path.html?hruid=ct4_evaluatiekader&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct09_06;nl;3)
 
@@ -151,7 +153,7 @@ Om een ​​overzicht te hebben van wat je observeert, kan het nuttig zijn om e
 
 ## Interview in informaticaonderwijs
 
-Interviews in informaticaonderwijs maken het mogelijk om direct inzicht te krijgen in de competenties en de denkwijze van de leerling. 
+Interviews in informaticaonderwijs maken het mogelijk om **direct inzicht** te krijgen in de competenties en de denkwijze van de leerling. 
 
 Vooraleer je begint met interviewen, bepaal je welke specifieke aspecten van competenties van de leerling je wilt evalueren.
 
@@ -220,6 +222,7 @@ De inhoud van het portfolio wordt bepaald door het doel van het portfolio. Grofw
 <ul><li>Beoordeel in welke mate het werk voldoet aan de vereisten die in de opdracht(en) zijn gegeven.</li></ul>
 <ul><li>Beoordeel in welke mate de organisatie van het portfolio logisch is opgebouwd.</li></ul>
 <ul><li>Beoordeel in welke mate het portfolio gebruiksvriendelijk is gepresenteerd.</li></ul>
+<ul><li>...</li></ul>
 </div>
 
 ## Zelfevaluatie in informaticaonderwijs
