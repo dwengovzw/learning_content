@@ -33,19 +33,43 @@ teacher_exclusive: true
 
 **Eigen voorbeelden**
 
-|**CD**|**Computer- wetenschappen**|**Wiskunde**|**Natuur- wetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
-|---------------|------------------------|-----|-------|----------------------------|------------|
-|Decompositie, abstractie, algoritme|||||sentimentanalyse (score i.p.v. sentiment)|
-|Decompositie, abstractie, algoritme, patroon- herkenning||||'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'||
-|Decompositie, abstractie, algoritme, patroon- herkenning|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'|||||
-|Patroon- herkenning|||||sentimentanalyse vs. cyberpestdetectie|
-|Patroon- herkenning, abstractie|||||auteursherkenning, profilering, HR|
-|Abstractie|Emotiemachine in het project 'Sociale robot'|||emotiemachine in het project 'Sociale robot'||
-|Abstractie||trendlijn, grafiek in Python (herleid tot enkele lijnstukken)|||ChatGPT (vectoren i.p.v. zinnen)|
-|Abstractie|werking routeplanner; algoritme van Dijkstra; vingerafdrukken matchen|grafen||||
+## Decompositie
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|-----|-------|----------------------------|------------|
+|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'||huidmondjes op bladeren bekijken om te onderzoeken hoe planten zich aanpassen aan de klimaatverandering in project 'KIKS'|'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'|sentimentanalyse (score i.p.v. sentiment)|
+
+
 |Data verzamelen|datastructuren||||veelvoorkomende datastructuren in taaltechnologie (in het project 'Chatbot')|
 |Data voorstellen||spreidingsdiagram en trendlijn|data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat|||
 |Data voorverwerken|gegevens CO<sub>2</sub> samenbrengen in leerpad Klimaat; gegevens opkuisen in project "AI in de Zorg'; gegevens numeriek maken in project 'AI in de Zorg'; gegevens filteren in notebook NMBS; herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen|||||
 |Simuleren|||verschillende scenario's binnen dwenguino simulator||verschillende scenario's binnen dwenguino simulator|
 |Inzicht in tools||||begrijpen waarom beslissingsboom soms wordt verkozen boven een diep neuraal netwerk (zie project AI in de Zorg)||
+
+## Patroonherkenning
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuur- wetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|-----|-------|----------------------------|------------|
+|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'||huidmondjes automatisch laten detecteren in project 'KIKS'||'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'|sentimentanalyse vs. cyberpestdetectie|
+||||sentimentanalyse van socialemediaposts om politieke redenen|auteursherkenning|
+||||sentimentanalyse van socialemediaposts voor marketingdoeleinden|profilering|
+|||||HR|
+
+## Abstractie
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuurwetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|-----|-------|----------------------------|------------|
+|emotiemachine in het project 'Sociale robot'|trendlijn||emotiemachine in het project 'Sociale robot'|ChatGPT (vectoren i.p.v. zinnen)|
+|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'|grafiek in Python (herleid tot enkele lijnstukken)||'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'|auteursherkenning|
+|werking routeplanner; algoritme van Dijkstra en A*-algoritme|grafen|||sentimentanalyse (score i.p.v. sentiment)|
+|vingerafdrukken matchen|||| profilering|
+|||||HR|
+
+
+## ALgoritmisch denken
+
+|**Computerwetenschappen**|**Wiskunde**|**Natuur- wetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
+|------------------------|-----|-------|----------------------------|------------|
+|mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'|||'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'|sentimentanalyse (score i.p.v. sentiment)|
+
 
