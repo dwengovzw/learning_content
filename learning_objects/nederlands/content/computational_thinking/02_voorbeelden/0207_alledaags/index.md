@@ -33,32 +33,43 @@ teacher_exclusive: true
 
 Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van computationeel denken in het dagelijks leven. Een groot aantal daarvan zijn unplugged voorbeelden: activiteiten waar geen computer aan te pas komt. Andere maken wel gebruik van een computer, maar er hoeft niet geprogrammeerd te worden.  
 
-|**CD**|**Dagdagelijkse toepassingen**|
-|---------------|------------------------|
-|Decompositie|boodschappenlijst maken om boodschappen doen efficiënter te laten verlopen|
-|Decompositie|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|
+## Decompositie 
 
-|**CD**|**Dagdagelijkse toepassingen**|
-|---------------|------------------------|
-|Patroonherkenning|gezichtsherkenning op Facebook en aanbevelingen op Amazon of iTunes|
-|Patroonherkenning|gemeenschappelijke kenmerken identificeren van voorwerpen, zoals auto's|
-|Patroonherkenning|trend identificeren, zoals de toename van atmosferische CO<sub>2</sub>|
-|Patroonherkenning|tijdsinterval opmerken waarin verkeerslichten op een kruispunt veranderen van kleur|
+|**Dagdagelijkse toepassingen**|
+|------------------------|
+|boodschappenlijst maken om boodschappen doen efficiënter te laten verlopen|
+|zich klaarmaken voor school bestaat uit verschillende taken die elk weer bestaan uit subtaken|
 
-|**CD**|**Dagdagelijkse toepassingen**|
-|---------------|------------------------|
-|Abstractie|simulatie als abstractie van fenomeen in de echte wereld in de media|
-|Abstractie|gebruiken van een metroplan, bv. dat van London Underground|
-|Abstractie|bij voorwerpen in dozen steken enkel rekening houden met de afmetingen van het voorwerp, en niet met het eigenlijke voorwerp|
+## Patroonherkenning
 
-|**CD**|**Dagdagelijkse toepassingen**|
-|---------------|------------------------|
-|Algoritme|recept; gezichtsherkenning op Facebook en aanbevelingen op Amazon of iTunes|
-|Algoritme|recept volgen, instructies volgen om van punt A naar punt B te geraken|
+|**Dagdagelijkse toepassingen**|
+|------------------------|
+|gezichtsherkenning op Facebook en aanbevelingen op Amazon of iTunes|
+|gemeenschappelijke kenmerken identificeren van voorwerpen, zoals auto's|
+|trend identificeren, zoals de toename van atmosferische CO<sub>2</sub>|
+|tijdsinterval opmerken waarin verkeerslichten op een kruispunt veranderen van kleur|
 
-|**CD**|**Dagdagelijkse toepassingen**|
-|---------------|------------------------|
-|Evalueren en debuggen|gerecht proeven|
+## Abstractie
+
+|**Dagdagelijkse toepassingen**|
+|------------------------|
+|simulatie als abstractie van fenomeen in de echte wereld in de media|
+|gebruiken van een metroplan, bv. dat van London Underground|
+|bij voorwerpen in dozen steken enkel rekening houden met de afmetingen van het voorwerp, en niet met het eigenlijke voorwerp|
+
+## Algoritmisch denken
+
+|**Dagdagelijkse toepassingen**|
+|------------------------|
+|recept volgen|
+|gezichtsherkenning op Facebook en aanbevelingen op Amazon of iTunes|
+|instructies volgen om van punt A naar punt B te geraken|
+
+## Evalueren en debuggen
+
+|**Dagdagelijkse toepassing**|
+|------------------------|
+|gerecht proeven|
 
 ---------------------
 #### Bronnen
