@@ -55,13 +55,17 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 
 |Decompositie|
 |--------------|
-* De leerlingen identificeren een complex probleem als een probleem dat kan worden opgesplitst in deelproblemen.
+* De leerlingen identificeren een comp
+* lex probleem als een probleem dat kan worden opgesplitst in deelproblemen.
 * De leerlingen splitsten een complex probleem op in goedgekozen deelproblemen.
 * De leerlingen controleren of elk deelprobleem afzonderlijk kan worden opgelost.
 * De leerlingen beslissen welke deelproblemen het belangrijkst zijn om eerst op te lossen en bepalen zo de juiste volgorde om het probleem op te lossen.
 * De leerlingen integreren de deeloplossingen tot een coherent geheel en lossen hiermee het probleem op.<sup>1</sup>
 * De leerlingen structureren data in tabellen om het meer bruikbaar te maken.<sup>1</sup>
 * De leerlingen bewaren bestanden, daarbij gebruikmakend van geschikte namen voor bestanden en mappen.<sup>1</sup>| 
+* De leerlingen breken een probleem op in meer eenvoudige maar identieke problemen die op dezelfde manier opgelost kunnen worden. (Denk aan recursie en 'verdeel-en-heers'-startegieën.)<sup>2</sup>
+* De leerlingen onderscheiden de verschillende onderdelen van een object om er beter mee te kunnen werken.<sup>2</sup>
+* De leerlingen onderscheiden de verschillende delen van een proces om het beter te kunnen uitvoeren of begrijpen.<sup>2</sup>
 
 ### Mogelijke leerdoelen betreffende patroonherkenning
 
@@ -116,6 +120,17 @@ Als leerkracht zal je nadenken over welke kennis, vaardigheden en attitudes van 
 * De leerlingen redeneren logisch om de uitvoer van een algoritme / programma te voorspellen.<sup>1</sup>
 * De leerlingen kunnen semantische fouten in een programma opsporen en verhelpen.<sup>1</sup>
 * De leerlingen stellen data voor in een digitale vorm.<sup>1</sup>|
+* De leerlingen schrijven instructies die, als ze in een bepaalde volgorde worden opgevolgd (sequentie), een gewenst effect bereiken.<sup>2</sup> 
+* De leerlingen schrijven instructies die rekenkundige en logische bewerkingen gebruiken om een gewenst effect te bereiken.<sup>2</sup> 
+* De leerlingen schrijven instructies die gegevens opslaan, verplaatsen en manipuleren om een gewenst effect te bereiken.<sup>2</sup>. 
+* De leerlingen schrijven instructies en gebruiken daarbij een keuzestructuur om een gewenst effect te bereiken.<sup>2</sup>
+* De leerlingen schrijven instructies en gebruiken daarbij een herhalingsstructuur om een gewenst effect te bereiken.<sup>2</sup>
+* De leerlingen groeperen en benoemen een aantal instructies bedoeld voor een welomschreven taak tot een nieuwe instructie (functies, methoden).<sup>2</sup>
+* De leerlingen ontwerpen een algoritme om een hypothese te testen.<sup>2</sup>
+* De leerlingen voeren een algoritme uit dat een goede, maar niet altijd de beste oplossingen geeft.<sup>2</sup>
+* De leerlingen zien in dat er algoritmes bestaan die een goede, maar daarom niet de beste oplossingen geeft.<sup>2</sup>
+* De leerlingen onterpen algoritmes om processen in de echte wereld beter te begrijpen (modelleren).<sup>2</sup>
+* De leerlingen ontwerpen algoritmes die rekening houden met de mogelijkheden, beperkingen en wensen van de mensen die ze zullen gebruiken.<sup>2</sup>
 
 
 ## Concepten van computationeel denken bij het oplossen van een probleem en in een STEM-project
@@ -131,5 +146,5 @@ Het volgende schema legt linken tussen computationeel denken en de aspecten van 
 
 
 ----------------
-<sup>1</sup> Bron: https://teachinglondoncomputing.files.wordpress.com/2014/07/computing_progression_pathways_with_computational_thinking_v2-3.pdf
-
+<sup>1</sup> Computing progression pathways. https://teachinglondoncomputing.files.wordpress.com/2014/07/computing_progression_pathways_with_computational_thinking_v2-3.pdf<br>
+<sup>2</sup> Curzon, Paul, Dorling, Mark, Ng, Thomas, Selby, Cynthia and Woollard, John (2014) Developing computational thinking in the classroom: a framework Swindon, GB. *Computing at School*.
