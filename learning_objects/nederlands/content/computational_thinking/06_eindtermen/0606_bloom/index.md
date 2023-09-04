@@ -2,7 +2,7 @@
 hruid: ct06_06
 version: 3
 language: nl
-title: "Taxonomie van Bloom"
+title: "Handelingswerkwoorden"
 description: "titel"
 keywords: [""]
 educational_goals: [
@@ -30,4 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen
+# Handelingswerkwoorden
+
+Elke eindterm en ieder minimumdoel zijn geformuleerd a.d.h.v. een handelingswerkwoord. Het beheersingsniveau waarop leerlingen moeten geevalueerd worden, is vastgelegd op basis van dit handelingswerkwoord. 
+
