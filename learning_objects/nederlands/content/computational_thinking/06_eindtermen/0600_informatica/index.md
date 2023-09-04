@@ -35,13 +35,13 @@ teacher_exclusive: true
 ## Oproep
 
 Meerdere decennia was computerwetenschappen bijna afwezig in het lesaanbod van het Vlaamse onderwijs (wyffels et al., 2014). <br>
-In 20214 deed de Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten (KVAB) een oproep om computerwetenschappen verplicht op te nemen in het curriculum. 
-In hun rapport ‘Informaticawetenschappen in het leerplichtonderwijs’ uit 2014 bepleit de KVAB dat "iedere jonge mens 'informaticavaardig, digitaal geletterd' moet worden en in staat 'computationeel' te denken". 
+In 2014 deed de Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten (KVAB) een oproep om computerwetenschappen verplicht op te nemen in het curriculum. 
+In hun rapport ‘Informaticawetenschappen in het leerplichtonderwijs’ uit 2014 bepleit de KVAB dat "iedere jonge mens 'informaticavaardig, digitaal geletterd' moet worden en in staat moet zijn om 'computationeel' te denken". 
 
-> "Alle kinderen moeten immers in staat zijn om de snelle technologische evolutie van informatica te kunnen volgen. Hiervoor moeten zij de onderliggende werking van informatica leren begrijpen, en inzicht verwerven in de concepten die aan de basis liggen van deze technologieën. Bovendien is het nodig dat voldoende jongeren deze technologische evolutie kunnen sturen, hetgeen inhoudt dat zij in staat en gemotiveerd zijn om nieuwe technologieën te creëren", staat te lezen in het rapport van de KVAB (Samaey et al., 2014).
+> "Alle kinderen moeten immers in staat zijn om de snelle technologische evolutie van informatica te kunnen volgen. Hiervoor moeten zij de onderliggende werking van informatica leren begrijpen, en inzicht verwerven in de concepten die aan de basis liggen van deze technologieën. Bovendien is het nodig dat voldoende jongeren deze technologische evolutie kunnen sturen, hetgeen inhoudt dat zij in staat en gemotiveerd zijn om nieuwe technologieën te creëren", volgens het rapport van de KVAB (Samaey et al., 2014).
 
 De KVAB noemt computationeel denken “het menselijke vermogen om complexe problemen op te lossen en daarbij computers als hulpmiddel te zien (door deze oplossingen zo te formuleren dat computers kunnen ingezet worden voor de uitvoering ervan)” en omschrijft ze het verder als “het proces waarbij aspecten van informaticawetenschappen herkend worden in de ons omringende wereld, en waarbij de methodes en technieken uit de informaticawetenschappen toegepast worden om problemen uit de fysische en virtuele wereld te begrijpen en op te lossen”.<br>
-In deze formulering verbindt de Academie computationeel denken onlosmakelijk met computerwetenschappen. Ze ziet computationeel denken als een vorm van probleemoplossend denken, maar een met een concrete invulling: “computationeel denken resulteert immers in een computerprogramma of een robot die echt werkt” (Samaey et al., 2014).
+In deze formulering verbindt de Academie computationeel denken onlosmakelijk met informaticawetenschappen. Ze ziet computationeel denken als een vorm van probleemoplossend denken, maar een met een concrete computergerichte invulling: “computationeel denken resulteert immers in een computerprogramma of een robot die echt werkt” (Samaey et al., 2014).
 
 > Voor de Academie leidt computationeel denken dus steeds tot het implementeren van een oplossing in een computersysteem.
 
@@ -49,10 +49,10 @@ In deze formulering verbindt de Academie computationeel denken onlosmakelijk met
 
 **In het Vlaamse onderwijs zijn er recent nieuwe eindtermen en minimumdoelen geformuleerd voor het secundair onderwijs, met als doel een toekomstgericht onderwijs dat rekening houdt met de uitdagingen van de 21ste eeuw.** 
 
-De tekst van de KVAB miste zijn doel niet en was een van de referentiekaders voor de hervorming van het Vlaamse secundair onderwijs betreffende digitale vaardigheden. **De leerdoelen van digitale vaardigheden werden uitgebreid met de concepten van computationeel denken en met de basis van de computerwetenschappen.**
+De tekst van de KVAB miste zijn doel niet en was een van de referentiekaders voor de hervorming van het Vlaamse secundair onderwijs betreffende digitale vaardigheden. **De leerdoelen van digitale competenties werden uitgebreid met de concepten van computationeel denken en met de basis van de informaticawetenschappen.**
 
 ----------------------------------------------
-In dit leerpad wordt er ingegaan op deze leerdoelen van digitale vaardigheden, de verbanden ertussen en de linken met leerdoelen van andere domeinen.
+In dit leerpad wordt er ingegaan op deze leerdoelen van digitale competenties, de verbanden ertussen en de linken met leerdoelen van andere domeinen.
 
 --------------------------------------
 
