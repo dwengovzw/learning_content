@@ -89,4 +89,4 @@ In het beschouwde geval stelt \\(y = f(t)\\) de populatiegrootte voor, en \\(\do
 
 Ga nu aan de slag met een interactieve notebook, waarin je Python zal gebruiken om de interactie tussen de populatiegroottes van bladluizen en lieveheersbeestjes in kaart te brengen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6050 "Dynamisch model")
+[![](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6050 "Dynamisch model")
