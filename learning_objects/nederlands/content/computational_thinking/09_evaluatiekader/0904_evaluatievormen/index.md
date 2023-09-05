@@ -68,7 +68,7 @@ Bij het beoordelen van een werkstuk evalueert de leerkracht een product dat is g
 
 > Een werkstuk is geschikt om na te gaan of leerlingen de concepten van computationeel denken ook (spontaan) toepassen. Het kan bv. gaan om het schrijven van een programma dat uitgevoerd wordt in een simulator. Of het kan het ontwerp, de bouw en het programmeren van een robot inhouden. Een ander voorbeeld is het ontwikkelen van een computationeel model voor een real-world fenomeen. Het evalueren van een artefact is wel uitdagend voor de leerkracht. De beoordeling kan bijvoorbeeld gebeuren a.d.h.v. een rubric, waarbij op voorhand zeer goed in kaart wordt gebracht wat er geëvalueerd zal worden, maar zonder de creativiteit van de leerling af te straffen (Roman-Gonzalez et al., 2019; Weintrop et al., 2021).
 
-> Een werkstuk alleen is niet voldoende om ook na te gaan of de leerlingen de concepten zelf ten volle begrijpen.  
+> Een werkstuk alleen is niet voldoende om ook na te gaan of de leerlingen de concepten zelf ten volle begrijpen (Roman-Gonzalez et al., 2019; Weintrop et a;., 2021).  
 
 **Mondelinge opdracht**<br>
 Het beoordelen van een mondelinge opdracht vindt doorgaans plaats in een één-op-één setting tussen leerkracht en leerling. De mondelinge prestatie kan variëren van het beantwoorden van kennisvragen tot het bespreken van het ingeleverde werkstuk.
