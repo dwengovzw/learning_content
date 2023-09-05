@@ -36,7 +36,22 @@ Helaas wordt het meermaals verkondigd, maar beweren dat computationeel denken ee
 
 Men maakt het onderscheid tussen 'nabije' en 'verre' transfer. **Nabije transfer** slaat op het toepassen van kennis, aangeleerd in een bepaalde context, in een gelijkaardige context. **Verre transfer** gaat over het toepassen van kennis, aangeleerd in een bepaalde context, in een wezenlijk andere context, bijvoorbeeld transfer van één STEM-discipline naar een andere, of van de klas naar de ‘echte wereld’.
 
-Er zijn wel factoren waarvan men vermoedt dat ze **transfer bevorderen**, zoals integratie en het expliciteren van overeenkomstigheden. Omdat we geleerde concepten die met elkaar verbonden zijn gemakkelijker terug kunnen ophalen in vergelijking met concepten die niet verbonden zijn, zou integratie effectief kunnen zijn. Door leerlingen expliciet te wijzen op de mogelijkheden van transfer, door bv. te wijzen op de overeenkomstigheden tussen twee problemen of te refereren aan een achterliggend concept, vergroot de kans dat de transfer plaatsvindt (Honey et al., 2014).
+Er zijn wel factoren waarvan men vermoedt dat ze **transfer bevorderen**, zoals het inoefenen binnen een context, het expliciteren van overeenkomstigheden en meer inzicht in de concepten (Honey et al., 2014).<br>
+* Omdat we geleerde concepten die met elkaar verbonden zijn gemakkelijker terug kunnen ophalen in vergelijking met concepten die niet verbonden zijn, zou integratie effectief kunnen zijn.
+* Door leerlingen expliciet te wijzen op de mogelijkheden van transfer, door bv. te wijzen op de overeenkomstigheden tussen twee problemen of te refereren aan een achterliggend concept, vergroot de kans dat de transfer plaatsvindt. Een zelfde concept op meerdere manier kunnen voorstellen en in verschillende disciplines, kan leren ook bevorderen.
+* Goed gebruik van een wiskundige voorstelling kan voor een deel bepalen hoe goed leerlingen wetenschappelijke concepten doorgronden. Het is dus belangrijk dat leerlingen representaties van concepten kunnen vertalen van de ene discipline naar de andere. 
+
+
+> Het lesmateriaal van Dwengo versterkt de transfer van kennis en vaardigheden vanuit de klas naar de echte wereld door te werken met levensechte contexten.<br>
+> Er zijn aanwijzingen dat leerstof aanbieden binnen geïntegreerde STEM-projecten kennis bij leerlingen kan verdiepen (Honey et al., 2014). Door concepten uit wetenschappen ook wiskundig te duiden, worden ze ruimer inzetbaar.<br>
+> De taal die gesproken wordt in de verschillende STEM-disciplines is niet dezelfde. Om leerlingen de transfer van kennis en vaardigheden te laten maken tussen verschillende STEM-disciplines, zal het belangrijk zijn om expliciet aan te geven welke begrippen naast elkaar staan, welke notaties voor gelijksoortige concepten worden gebruikt.<br>
+> Meer abstracte voorstellingen, symbolen en grafieken kunnen helpen om zaken uit verschillende domeinen naast elkaar te plaatsen. Daarbij leggen we in het bijzonder verbanden tussen (nieuwe) concepten uit de informatica en concepten uit wetenschappen, technologie en wiskunde.<br>
+> Door bv. digitale modellen te gebruiken kunnen concepten worden gevisualiseerd en gesimuleerd, wat kan leiden tot meer inzicht (Weintrop et al., 2016).<br>
+> Een dieper inzicht kan ook bekomen worden door bij de leerlingen meer interesse op te wekken voor de leerstof en door hun motivatie om te leren te laten stijgen, en dat nu net door te werken met maatschappelijk relevante contexten (Honey et al., 2014).
+> Het weldoordacht inzetten van computationele tools en vaardigheden kan helpen om leerinhouden van wiskunde en wetenschappen beter te begrijpen. Omgekeerd kan men in wiskunde en wetenschappen zinvolle contexten vinden om computationeel denken in toe te passen (Weintrop et al., 2016). Binnen een geïntegreerd STEM-project kan de wisselwerking tussen wiskunde/wetenschappen en computationeel denken en omgekeerd tussen computationeel denken en wiskunde/wetenschappen belicht worden.
+
+
+
 
 ---------------------------
 #### Bronnen: 
