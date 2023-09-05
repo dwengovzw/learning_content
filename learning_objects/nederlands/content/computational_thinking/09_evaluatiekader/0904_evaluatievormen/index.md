@@ -36,36 +36,54 @@ teacher_exclusive: true
 
 **Schriftelijke opdracht - gesloten vragen**<br>
 Bij een opdracht met gesloten vragen evalueert de leerkracht een schriftelijke prestatie waarbij de leerling een antwoord selecteert uit een vooraf opgestelde set van mogelijke antwoorden. Voorbeelden van gesloten vragen zijn meerkeuzevragen, 'waar/onwaar'-vragen, matching-vragen, volgorde-vragen ...<br>
-Meerkeuzevragen kunnen gebruikt worden om snel de basiskennis van leerlingen te beoordelen, of zelfs om na te gaan of leerlingen aandachtig zijn voor bepaalde valkuilen en kunnen omgaan met bepaalde uitdagingen. Maar niet alle aspecten van computationeel denken kunnen met meerkeuzevragen beoordeeld worden.      
+> Meerkeuzevragen kunnen gebruikt worden om snel de basiskennis van leerlingen te beoordelen, of zelfs om na te gaan of leerlingen aandachtig zijn voor bepaalde valkuilen en kunnen omgaan met bepaalde uitdagingen.<br>Er zijn al wat meerkeuzevragen voorhanden om bv. de aanleg van leerlingen in computationeel denken te testen of hoe ze concepten van computationeel denken in een context kunnen toepassen. Vaak kunnen ze ook gebruikt worden om na enige tijd nadat de leerstof gegeven is, na te gaan in welke mate de leerlingen de leerstof uiteindelijk beheersen. <br> Aandachtspunt: Niet alle aspecten van computationeel denken kunnen echter met meerkeuzevragen beoordeeld worden (Roman-Gonzalez et al., 2019; Weintrop et al., 2021).
+
+> Korte gesloten vragen worden bijvoorbeeld aangewend om programmeervaardigheden te beoordelen: leerlingen moeten bv. de uitkomst van een programma voorspellen, ontbrekende stukken invullen, of de instructies in de juist volgorde zetten.   
 
 **Schriftelijke opdracht - open vragen**<br>
 Bij een opdracht met open vragen evalueert de leerkracht een schriftelijke prestatie van de leerling waarbij de leerling zelfstandig een antwoord formuleert op open vragen. Voor open vragen die gericht zijn op het testen van feitelijke kennis, zijn de antwoorden beknopt, variërend van één woord tot maximaal enkele regels; hoe lang een verwacht antwoord is, hangt ook wel af van de graad en de studierichitng.<br>
 Voor open vragen die inzicht of toepassing testen, zijn de antwoorden meestal uitgebreider, beginnend bij minstens een alinea. Deze vragen bevatten werkwoorden zoals 'beschrijf', 'bereken', 'bewijs', 'beoordeel', 'adviseer', 'teken' ...<br>
 
-> Open vragen en open opdrachten zijn geschikt om te beoordelen of leerlingen iets kunnen uitleggen of om na te gaan of ze iets kunnen creëren, in tegenstelling tot meerkeuzevragen.(Weintrop et al., 2021).<br>
+> Open vragen en open opdrachten zijn geschikt om te beoordelen of leerlingen iets kunnen uitleggen of om na te gaan of ze iets kunnen creëren, in tegenstelling tot meerkeuzevragen (Weintrop et al., 2021).<br>
 > Pen-en-papier kan ook zinvol zijn in het kader van het creëren van een artefact, bv. om te laten neerschrijven welke representaties ze zullen gebruiken, om een algorime in pseudocode te ontwerpen, of om een ontwerp van een oplossing te tekenen (Weintrop et al., 2021).<br>
-> Als leerlingen leerden programmeren in een blokgebaseerde programmeeromgeving die steeds toont over welke blokken men beschikt, en de evaluatie hierover gebeurt met pen-en-papier, dan kan het zijn dat je eerder het vermogen test om de blokken te onthouden, dan het vermogen om met de blokken te programmeren (Weintrop et al., 2021). 
-
-**Mondelinge opdracht**<br>
-Het beoordelen van een mondelinge opdracht vindt doorgaans plaats in een één-op-één setting tussen leerkracht en leerling. De mondelinge prestatie kan variëren van het beantwoorden van kennisvragen tot het bespreken van het ingeleverde werkstuk.
+> Aandachtspunt: Als leerlingen leerden programmeren in een blokgebaseerde programmeeromgeving die steeds toont over welke blokken men beschikt, en de evaluatie hierover gebeurt met pen-en-papier, dan kan het zijn dat je eerder het vermogen test om de blokken te onthouden, dan het vermogen om met de blokken te programmeren (Weintrop et al., 2021). 
 
 **Interview**<br>
-Tijdens een interview stelt de leerkracht gericht vragen aan de leerling om dieper inzicht te krijgen in de kennis, vaardigheden, denkwijze en mogelijks ook in de gevoelens of motivaties van de leerling. Het helpt de lerkracht om de leerling beter te kunnen doorgronden. 
+Tijdens een interview stelt de leerkracht gericht vragen aan de leerling om dieper inzicht te krijgen in de kennis, vaardigheden, denkwijze en mogelijks ook in de gevoelens of motivaties van de leerling. Het helpt de lerkracht om de leerling beter te kunnen doorgronden. <br>
+> De leerlingen beoordelen a.d.h.v. een gesprek kan echter veel tijd vergen, maar op die manier kan je wel diepgaand de competenties van leerlingen nagaan.
 
-**Presentatie**<br>
-Bij presenteren beoordeelt de leerkracht een mondelinge prestatie van een leerling waarbij er publiek aanwezig is. Het publiek kunnen medeleerlingen zijn, andere leraren, externen ... Presenteren is een vaardigheid die niet alleen gaat over kennisoverdracht, maar ook over de manier waarop informatie effectief en overtuigend wordt gecommuniceerd aan een publiek.  
+**Zelfevaluatie**<br>
+Bij zelfevaluatie is de leerling zelf betrokken. De leerkracht daagt de leerling uit om na te denken over de eigen prestaties (zelfbeoordeling) en om te bepalen wat er goed is gelopen en wat er kan worden verbeterd (zelfreflectie). De leerling evalueert zichzelf op basis van vooraf opgestelde criteria. Dit kan in de vorm van een rubric, checklist of begeleidende vragen.
+
+> Het invullen van zelfevaluatie-vragenlijsten heeft soms te leiden onder *self-report* bias: er is een verschil tussen hoe hoog men een bepaalde competentie bij zichzelf inschat en hoe competent men er werkelijk in is (Weintrop et al., 2021). Het voordeel is dat het een snellere manier is dan bv. een interview. 
+
+**Peerfeedback**<br>
+Bij peerfeedback zijn medeleerlingen betrokken en geven de leerlingen constructieve feedback op elkaars leerproces en/of eindproduct. Belangrijk is dat de feedback specifiek is en gericht op verbetering waardoor het een wederzijds leerproces wordt waarbij leerlingen van elkaar leren en hun eigen vaardigheden verbeteren.
+
+> Pair programming: Als leerlingen per twee programmeren, waarbij een leerling de code intikt, en de andere deze code kritisch bekijkt, gebeurt de peerfeedback op een spontane manier.<br>
+Het is wel belangrijk dat deze twee leerlingen daarbij regelmatig van rol wisselen.
 
 **Werkstuk**<br>
 Bij het beoordelen van een werkstuk evalueert de leerkracht een product dat is gemaakt als uitkomst van een opdracht. Hierbij wordt vaak ook de mate van zelfstandigheid en/of creativiteit die de leerling(en) tonen in de verwerking van de leerstof in kaart gebracht.   
 
+> Een werkstuk is geschikt om na te gaan of leerlingen de concepten van computationeel denken ook (spontaan) toepassen. Het kan bv. gaan om het schrijven van een programma dat uitgevoerd wordt in een simulator. Of het kan het ontwerp, de bouw en het programmeren van een robot inhouden. Een ander voorbeeld is het ontwikkelen van een computationeel model voor een real-world fenomeen. Het evalueren van een artefact is wel uitdagend voor de leerkracht. De beoordeling kan bijvoorbeeld gebeuren a.d.h.v. een rubric, waarbij op voorhand zeer goed in kaart wordt gebracht wat er geëvalueerd zal worden, maar zonder de creativiteit van de leerling af te straffen (Roman-Gonzalez et al., 2019; Weintrop et al., 2021).
+
+> Een werkstuk alleen is niet voldoende om ook na te gaan of de leerlingen de concepten zelf ten volle begrijpen.  
+
+**Mondelinge opdracht**<br>
+Het beoordelen van een mondelinge opdracht vindt doorgaans plaats in een één-op-één setting tussen leerkracht en leerling. De mondelinge prestatie kan variëren van het beantwoorden van kennisvragen tot het bespreken van het ingeleverde werkstuk.
+
+**Presentatie**<br>
+Bij presenteren beoordeelt de leerkracht een mondelinge prestatie van een leerling waarbij er publiek aanwezig is. Het publiek kunnen medeleerlingen zijn, andere leraren, externen ... Presenteren is een vaardigheid die niet alleen gaat over kennisoverdracht, maar ook over de manier waarop informatie effectief en overtuigend wordt gecommuniceerd aan een publiek.  
+
 **Observatie**<br>
 Bij observeren kijkt de leerkracht doelgericht naar de leerlingen. Bij een observatie kunnen er cognitieve aspecten worden beoordeeld zoals de concrete uitvoering van een bepaalde taak, vaardigheid of concept. Maar ook niet-cognitieve aspecten van leren kunnen worden beoordeeld zoals sociaal gedrag, samenwerking, houding ten opzichte van leren ...
 
-**Openboekevaluatie**<br>
-Bij een openboekevaluatie hebben leerlingen tijdens (een deel van of de gehele) evaluatie toegang tot ondersteunende les- en leermaterialen. Deze vorm van evalueren wordt steeds gecombineerd met een andere evaluatievorm zoals mondelinge opdracht, schriftelijke opdracht met open vragen, een werkstuk ...
+**Participatie**<br>
+Bij het beoordelen van participatie evalueert de leerkracht de leerling op basis van actieve betrokkenheid en deelname aan de activiteiten in de klas. De leerkracht kan zowel de feitelijke (kwantiteit) als de inhoudelijke (kwaliteit) participatie beoordelen.
 
-**Portfolio**<br>
-Bij het beoordelen van een portfolio evalueert de leerkracht een door de leerling gemaakte verzameling van materialen die de inspanningen, vooruitgang en prestaties van de leerling zichtbaar maakt. De inhoud van het portfolio wordt bepaald door het doel van het portfolio: zichtbaar maken van het beste werk van de leerling, wat de leerling heeft geleerd of hoe de leerling aan het leren is.
+**Openboekevaluatie**<br>
+Bij een openboekevaluatie hebben leerlingen tijdens (een deel van of de gehele) evaluatie toegang tot ondersteunende les- en leermaterialen. 
 
 **Ticket/begintaak**<br>
 Tickets en begintaken evalueren wat leerlingen hebben onthouden en begrepen tijdens de les. Deze evaluaties kunnen in verschillende vormen voorkomen waaronder een *exit ticket*, een 3-2-1 ticket en een begintaak, en kunnen zowel individueel als klassikaal gebeuren.<br>
@@ -73,15 +91,25 @@ Tickets en begintaken evalueren wat leerlingen hebben onthouden en begrepen tijd
 * Het 3-2-1 ticket vraagt leerlingen om respectievelijk 3 zaken die ze hebben geleerd, 2 zaken die ze interessant vonden en 1 vraag die ze nog hebben te delen.
 * De begintaak is een activiteit aan het begin van de les om voorkennis te activeren.
 
-**Participatie**<br>
-Bij het beoordelen van participatie evalueert de leerkracht de leerling op basis van actieve betrokkenheid en deelname aan de activiteiten in de klas. De leerkracht kan zowel de feitelijke (kwantiteit) als de inhoudelijke (kwaliteit) participatie beoordelen.
+**Portfolio**<br>
+Bij het beoordelen van een portfolio evalueert de leerkracht een door de leerling gemaakte verzameling van materialen die de inspanningen, vooruitgang en prestaties van de leerling zichtbaar maakt. De inhoud van het portfolio wordt bepaald door het doel van het portfolio: zichtbaar maken van het beste werk van de leerling, wat de leerling heeft geleerd of hoe de leerling aan het leren is.
 
-**Zelfevaluatie**<br>
-Bij zelfevaluatie is de leerling zelf betrokken. De leerkracht daagt de leerling uit om na te denken over de eigen prestaties (zelfbeoordeling) en om te bepalen wat er goed is gelopen en wat er kan worden verbeterd (zelfreflectie). De leerling evalueert zichzelf op basis van vooraf opgestelde criteria. Dit kan in de vorm van een rubric, checklist of begeleidende vragen.
+> Om de inhoud van een portfolio te beoordelen, kan je bv. gebruikmaken van rubrics. Als je de rubric opstelt in parallel met het bepalen van de verschillende opdrachten, komt het mogelijk tot uiting dat bepaalde opdrachten niet volstaan om bepaalde concepten en praktijken van computationeel denken te evalueren, of dat bepaalde opdrachten andere competenties vereisen dan die die je wilt beoordelen. Bekijk ook zeker of de opdrachten niet verkeerd kunnen worden opgevat, en verduidelijk ze voor de leerlingen met het oog op de evaluatie (Weintrop et al., 2021). 
 
-**Peerfeedback**<br>
-Bij peerfeedback zijn medeleerlingen betrokken en geven de leerlingen constructieve feedback op elkaars leerproces en/of eindproduct. Belangrijk is dat de feedback specifiek is en gericht op verbetering waardoor het een wederzijds leerproces wordt waarbij leerlingen van elkaar leren en hun eigen vaardigheden verbeteren.
+## Ondersteuning van technologie
 
+* Een evaluatie van programmeerskills met gebruik van de computer biedt als voordeel dat leerlingen hun programma kunnen testen en debuggen. Als ze toegang hebben tot een simulator, krijgen ze zelfs nog meer real-time feedback. Opdrachten die profiteren van deze pluspunten van technologie, dragen de mogelijkheid in zich om meer complexe competenties te beoordelen.
+* Misschien heb je als leerkracht de mogelijkheid om de activiteiten van de leerlingen op de computer te loggen. Je kan de data analyseren om te kijken of leerlingen bepaalde competenties verworven hebben, en deze informatie gebruiken om hen te evalueren.
+* Wel opgelet dat leerlingen dan niet afgestraft worden omdat ze exploreren en experimenteren; het werken op de computer moedigt aan om vanalles uit te proberen waardoor ze misschien afgeleid zullen zijn van het eigenlijke doel van de opdracht.
+* Ook zouden er in dat geval meerdere strategieën en manieren om de opdracht te vervullen moeten toegelaten zijn.
+  
+Computationeel denken op deze manier beoordelen kan een beter beeld geven van hoe leerlingen in de echte wereld zouden handelen, maar is wel uitdagend voor de leerkracht (Weintrop et al., 2021).
+
+> Om computationeel denken te beoordelen geïntegreerd in een STEM-context zullen leerlingen bv. aan de slag gaan met een simulatietool (Weintrop et al., 2021).<br> 
+Zorg er dan voor dat de leerlingen:
+> * doelgericht aan het werk gaan door vragen te voorzien die ze moeten beantwoorden; 
+> * niet enkel 'spelen' met de tool, maar vraag vooral ook naar de interpretatie van wat ze zien.  
+----------------------------
 
 ## Werkstuk in informaticaonderwijs
 Een werkstuk biedt in informaticaonderwijs voordelen die verder gaan dan die van klassieke toetsen en examens. Leerlingen krijgen immers de kans om zowel hun kennis van concepten te demonstreren, als hun vaardigheid om deze kennis toe te passen. Bovendien stimuleert een werkstuk zelfgestuurd leren en kritisch denken, die ook essentiële vaardigheden zijn in het wetenschapsdomein informaticawetenschappen.
@@ -104,14 +132,6 @@ Er zijn **drie belangrijke aspecten** die bepalen dat het om een werkstuk gaat.<
 </div>
 
 [Voorbeeld van concretisering](https://www.dwengo.org/learning-path.html?hruid=ct4_evaluatiekader&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct09_06;nl;3)
-
-## Ondersteuning van technologie
-
-Een evaluatie van programmeerskills met gebruik op de computer biedt als voordeel dat leerlingen hun programma kunnen testen en debuggen. Als ze toegang hebben tot een simulator, krijgen ze zelfs nog meer real-time feedback. Opdrachten die profiteren van deze pluspunten van technologie, dragen de mogelijkheid in zich om meer complexe competenties te beoordelen.<br>
-Misschien heb je als leerkracht de mogelijkheid om de activiteiten van de leerlingen op de computer te loggen. Je kan de data analyseren om te kijken of leerlingen bepaalde competenties verworven hebben, en deze informatie gebruiken om hen te evalueren. Wel opgelet dat leerlingen dan niet afgestraft worden omdat ze exploreren en experimenteren; het werken op de computer moedigt aan om vanalles uit te proberen waardoor ze misschien afgeleid zullen zijn van het eigenlijke doel van de opdracht. <br>
-Ook zouden er in dat geval meerdere strategieën en manieren om de opdracht te vervullen moeten toegelaten zijn. 
-Computationeel denken op deze manier beoordelen kan een beter beeld geven van hoe leerlingen in de echte wereld zouden zijn, maar is wel uitdagend voor de leerkracht (Weintrop et al., 2021).
-
 
 ## Observatie in informaticaonderwijs
 
@@ -238,8 +258,7 @@ De inhoud van het portfolio wordt bepaald door het doel van het portfolio. Grofw
 <ul><li>Beoordeel in welke mate het portfolio gebruiksvriendelijk is gepresenteerd.</li></ul>
 <ul><li>...</li></ul>
 </div>
-
-> Om de inhoud van een portfolio te beoordelen, kan je bv. gebruikmaken van rubrics. 
+ 
 
 ## Zelfevaluatie in informaticaonderwijs
 Zelfevaluatie in informaticaonderwijs is een hulpmiddel om **zelfbewustzijn, eigenaarschap van het leerproces en gerichte persoonlijke en professionele groei** bij leerlingen te stimuleren. 
@@ -251,7 +270,7 @@ In de snel evoluerende digitale wereld zijn dit cruciale vaardigheden.
 * Geef leerlingen voldoende ondersteuning om hun zelfevaluatievaardigheden te ontwikkelen.
 * Geef leerlingen feedback op de zelfevaluatie om hen zo te helpen hun zelfevaluatievaardigheden te optimaliseren.
 
-> Het invullen van zelfevaluatie-vragenlijsten heeft soms te leiden onder *self-report* bias: er is een verschil tussen hoe hoog men een bepaalde competentie bij zichzelf inschat en hoe competent men er werkelijk in is (Weintrop et al., 2021). 
+
 
 ## Peerfeedback in informaticaonderwijs
 
@@ -297,8 +316,4 @@ Heeft de student variabelen en functies duidelijk benoemd?</li></ul>
 </li></ul>
 </div>
 
-<div class="alert alert-box alert-success">
-<strong>Pair programming</strong><br>
-Als leerlingen per twee programmeren, waarbij een leerling de code intikt, en de andere deze code kritisch bekijkt, gebeurt de peerfeedback op een spontane manier.<br>
-Het is wel belangrijk dat deze twee leerlingen daarbij regelmatig van rol wisselen.
-</div>
+
