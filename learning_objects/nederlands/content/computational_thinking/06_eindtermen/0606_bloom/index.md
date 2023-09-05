@@ -59,9 +59,14 @@ Ze ging ook na hoe moeilijk leerkrachten bepaalde concepten van computationeel d
 In een programmeeropdracht is decompositie het eerste dat men doet. Het feit dat dit als heel moeilijk wordt ervaren, wordt best in rekening gebracht vanuit pedagogisch oogpunt.
 
 De ‘mapping’ en het resultaat van dat onderzoek worden voorgesteld in de volgende figuur.<br>
-![Selby](programmerenbloom.png)
+![Selby](embed/selbybloom.png)<br>
 <sub>Model voor computationeel denken, didactiek van programmeren, en de taxonomie van Bloom (Selby, 2015). We zijn niet akkoord met de
 aangegeven orde van complexiteit en de volgorde waarin bepaalde items aan bod komen in de les; rest is wel waardevol.</sub>
+
+Ramon-Gonzalez et al. geven aan dat het evalueren van computationeel denken niet mogelijk is met een enkele evaluatievorm. In tegendeel, je moet verschillende evaluatievormen gebruiken die elkaar aanvullen. 
+
+![Ramon-Gonzalez](embed/roblesbloom.png)<br>
+<sub>Bloom’s taxonomy and CT assessment tools</sub>
 
 ### Unplugged activiteiten
 
@@ -70,6 +75,7 @@ Behalve programmeren werden ook de ‘CS Unplugged’-activiteiten al eens gespi
 
 -------------------------------------
 #### Bronnen
-Bell & Vahrenhold (2018)<br>
+Bell, T. & Vahrenhold, J. (2018). CS Unplugged - How Is It Used, and Does It Work? *Adventures Between Lower Bounds and Higher Altitudes*.<br>
 [1] Werkwoorden in het kader van de taxonomie van Bloom, geschikt voor gebruik in een digitale context. https://digitaledidactiek.zuyd.nl/leerdoelen/<br>
-Selby, C. (2015)<br>
+Román-González, M., Moreno-León, J., & Robles, G. (2017). Complementary Tools for Computational Thinking Assessment. <br>
+Selby, C. (2015). Relationships: computational thinking, pedagogy of programming, and Bloom’s Taxonomy. *Proceedings of the Workshop in Primary and Secondary Computing Education*, (pp. 80–87).
