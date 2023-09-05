@@ -102,7 +102,7 @@ De kenmerken die de aanpak van de evaluatie uitdagend maken (zij het voor de lee
 
 ## De evaluatievormen
 
-Je zal ook moeten nadenken over welke evaluatievormen je wil hanteren, zoals een individuele toets, een mondelinge opdracht, een werkstuk, een portfolio, zelfevaluatie, observatie, een exit ticket ... 
+Je zal ook moeten nadenken over welke evaluatievormen je wil hanteren, zoals een individuele toets, een mondelinge opdracht, een werkstuk, een portfolio, zelfevaluatie, observatie, een exit ticket ... Om computationeel denken te evalueren zal je niet genoeg hebben aan en evaluatievorm. Je zal verschillende vormen moeten combineren (Roman-Gonzalez et al., 2019; Weintrop et a;., 2021).
 In het volgend leerpadonderdeel bekijk je enkele vormen van dichterbij.
 
 <div class="alert alert-box alert-success">
