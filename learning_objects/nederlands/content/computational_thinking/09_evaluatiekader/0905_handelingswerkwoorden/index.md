@@ -32,5 +32,68 @@ teacher_exclusive: true
 
 # Handelingswerkwoorden
 
+https://docs.vlaamsparlement.be/pfile?id=1970520
 
+* Eindtermen zijn minimumdoelen in de vorm van sober geformuleerde doelzinnen met
+duidelijke handelingswerkwoorden waarbij de kennis telkens geëxpliciteerd wordt en
+desgevallend de relevante context. Het geheel van elke eindterm is zo geschreven dat
+duidelijk is wat wordt verwacht (evalueerbaarheid). De eindtermen zijn in hun samenhang
+competentiegericht: de totale set van eindtermen bepaalt het vermogen van leerlingen om
+kennis, inzichten, vaardigheden en attitudes aan te wenden in hun handelen. Niet in elke
+eindterm komen die elementen allemaal noodzakelijk apart aan bod.
+* Een eindterm bestaat in beginsel uit 1 doelzin met 1 handelingswerkwoord maar waar
+nodig kan gekozen worden voor meerdere handelingswerkwoorden.
+* De kennis wordt in principe geïntegreerd in de doelzin en wordt desgevallend apart
+geëxpliciteerd.
+* Relevante, functionele contexten worden enkel in de doelzin opgenomen indien
+noodzakelijk.
+* Eindtermen hebben geen didactische inkleuring.
+* Kennis die aan bod kwam in de eindtermen van het basisonderwijs of een voorafgaande
+graad, wordt in de regel niet meer herhaald in de eindtermen van de daaropvolgende
+graad
+
+[handelingswerkwoorden](embed/handelingswerkwoorden.pdf)
+
+Wanneer in de specifieke eindtermen ‘Fysica’ de handelingswerkwoorden ‘kwantificeren’ en
+‘analyseren’ gebruikt worden, wordt volgende bedoeld:
+* analyseren: verbanden zoeken tussen gegeven data en een (eigen) besluit trekken;
+* kwantificeren: beredeneren door gebruik te maken van verbanden, formules,
+vergelijkingen
+
+
+Communicatiewetenschappen en taaltechnologie  
+2de graad D-finaliteit
+II-CoTa-d
+
+
+In het glossarium vind je synoniemen voor en toelichting bij een aantal handelingswerkwoorden die je terugvindt in leerplandoelen en (specifieke) minimumdoelen van verschillende graden.
+Handelingswerkwoord	Synoniem	Toelichting
+Analyseren		Verbanden zoeken tussen gegeven data en een (eigen) besluit trekken
+Beargumenteren	Verklaren	Motiveren, uitleggen waarom
+Beoordelen	Evalueren	Een gemotiveerd waardeoordeel geven
+Berekenen	Berekeningen uitvoeren	
+Berekeningen uitvoeren	Berekenen	
+Beschrijven	Toelichten, uitleggen	
+Betekenis geven aan	Interpreteren	
+Een (…)cyclus doorlopen	Een (…)proces doorlopen	Via verschillende fasen tot een (deel)resultaat komen of een doel bereiken
+Een (…)proces doorlopen	Een (…)cyclus doorlopen	Via verschillende fasen tot een (deel)resultaat komen of een doel bereiken
+Evalueren	Beoordelen	
+Gebruiken	Hanteren, inzetten, toepassen	
+Hanteren	Gebruiken, inzetten, toepassen	
+Identificeren		Benoemen; aangeven met woorden, beelden …
+Illustreren		Beschrijven (toelichten, uitleggen) aan de hand van voorbeelden
+In dialoog gaan over	In interactie gaan over	
+In interactie gaan over	In dialoog gaan over	
+Interpreteren	Betekenis geven aan	
+Inzetten	Gebruiken, hanteren, toepassen	
+Kritisch omgaan met	Kritisch gebruiken	
+Kwantificeren		Beredeneren door gebruik te maken van verbanden, formules, vergelijkingen …
+Onderscheiden		Het onderscheid aangeven tussen …
+Onderzoeken	Onderzoek voeren	Verbanden zoeken tussen zelf verzamelde data en een (eigen) besluit trekken
+Onderzoek voeren	Onderzoeken	
+Reflecteren over		Kritisch nadenken over en argumenten afwegen zoals in een dialoog, een gedachtewisseling, een paper
+Testen	Toetsen	
+Toelichten	Beschrijven, uitleggen	
+Toepassen	Gebruiken, hanteren, inzetten	
+Toetsen	Testen	
 
