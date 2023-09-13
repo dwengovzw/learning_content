@@ -44,7 +44,7 @@ Voor meer uitleg over de herwerkte taxonomie van Bloom zie ‘A taxonomy for lea
 ![Herwerkte taxonomie van Bloom](embed/herwerktebloom.png)<br>
 <sub>Herwerkte taxonomie van Bloom, deze houdt geen hierarchie in. [1]</sub>
 
-Nog een andere voorstelling:
+Nog een andere voorstelling:<br>
 ![Herwerkte taxonomie van Bloom](embed/herwerktebloomtbrug.png)<br>
 <sub>DrAntonT, CC BY-SA 4.0, via Wikimedia Commons.</sub>
 
