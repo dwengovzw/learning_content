@@ -34,7 +34,8 @@ teacher_exclusive: true
 
 **Leerlingen identificeren patronen (gelijkenissen, gelijkaardige karakteristieken) in data/gegevens en/of tussen deelproblemen (bv. na decompositie).**
   
-Voorbeeld: ‘Een kleuterjuf moet ervoor zorgen dat alle kleuters hun jasje tijdig aan en dicht hebben. Hierbij is enkel relevant of het jasje vooraan open/dicht gaat, helemaal open/dicht en welke sluitingstechniek het jasje heeft.' <br>
+Voorbeeld: ‘Een kleuterjuf moet ervoor zorgen dat alle kleuters hun jasje tijdig aan en dicht hebben.'<br>
+Hierbij is enkel relevant of het jasje vooraan open/dicht gaat, helemaal open/dicht en welke sluitingstechniek het jasje heeft (zie abstractie).<br>
 Bij het oplossen van dit probleem zal de patroonherkenning de gelijkenissen in de sluitingstechnieken inhouden: houtje-touwtje, ritssluiting, knopen ...
 
 **Leerlingen identificeren patronen tussen problemen, deelproblemen (bv. na decompositie) en in mogelijke oplossingsmethodieken (lln. zien dat bepaalde oplossingsmethodieken kunnen hergebruikt worden).**
