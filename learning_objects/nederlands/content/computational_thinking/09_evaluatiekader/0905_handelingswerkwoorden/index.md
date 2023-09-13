@@ -100,3 +100,7 @@ In het leerplan III-Wis-da van KOV, voor 'Wiskunde B', derde graad, dubbele fina
 |Argumenten geven voor|Beargumenteren, onderbouwen, verklaren||	
 |Uitleggen|Beschrijven, toelichten||
 |Verklaren|Argumenten geven voor, beargumenteren, onderbouwen||
+
+<div class="alert alert-box alert-warning">
+Voor meer info over handelingswerkwoorden in het kader van evaluatie zie <a href>https://dwengo.org/backend/api/learningObject/getWrapped?hruid=ct06_06&version=3&language=nl</a>
+</div>
