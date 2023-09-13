@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Kijkwijzer
 
-Deze kijkwijzer kan je inzetten om zelf een opdracht vorm te geven of om een uitgewerkte opdracht te begrijpen en/of te beoordelen. 
+Deze kijkwijzer kan je inzetten om zelf een opdracht vorm te geven of om een uitgewerkte opdracht te begrijpen en/of te beoordelen in hoeverre computationeel denken aan bod komt of kan komen. 
 
 
 * Vertrek van het schema met de vier basisconcepten:
@@ -41,8 +41,8 @@ Deze kijkwijzer kan je inzetten om zelf een opdracht vorm te geven of om een uit
 * Vink eventueel aan.
 
 **Let op:**<br> 
-* De vier basisconcepten moeten niet altijd aalemaal aan bod komen (hangt af van de probleemstelling en de complexiteit ervan).
+* De vier basisconcepten moeten niet altijd allemaal aan bod komen (dit hangt af van de probleemstelling en de complexiteit ervan).
 * De basisconcepten worden ingezet in functie van het oplossen van een uitdaging/probleem en worden niet enkel losstaand geoefend.
-* Ook geneste aanpakken zijn mogelijk/nodig (bv. bij deelproblemen/deelopdrachten kunnen de basisconcepten eveneens ingezet worden).
+* Ook geneste aanpakken zijn mogelijk en soms zelfs nodig (bv. bij deelproblemen/deelopdrachten kunnen de basisconcepten eveneens ingezet worden).
 * Als je leerlingen een opdracht geeft, dan is hetgeen ze bedenken niet noodzakelijk identitiek aan jouw oplossing, maar hun idee kan toch zinvol kan zijn.
 
