@@ -44,6 +44,10 @@ Voor meer uitleg over de herwerkte taxonomie van Bloom zie ‘A taxonomy for lea
 ![Herwerkte taxonomie van Bloom](embed/herwerktebloom.png)<br>
 <sub>Herwerkte taxonomie van Bloom, deze houdt geen hierarchie in. [1]</sub>
 
+Nog een andere voorstelling:
+![Herwerkte taxonomie van Bloom](embed/herwerktebloomtbrug.png)<br>
+<sub>DrAntonT, CC BY-SA 4.0, via Wikimedia Commons.</sub>
+
 <div class="alert alert-box alert-danger">
 Misconceptie: De categorieën van de taxonomie van Bloom houden een hiërarchie in.<br>
 *Deze misconceptie wordt mede in stand gehouden omdat ze vaak worden voorgesteld in een piramide/driehoek.*
