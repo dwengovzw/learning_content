@@ -32,13 +32,14 @@ teacher_exclusive: true
 
 # Patroonherkenning
 
-* Leerlingen identificeren patronen (gelijkenissen, gelijkaardige karakteristieken) in data/gegevens en/of tussen deelproblemen (bv. na decompositie).
+**Leerlingen identificeren patronen (gelijkenissen, gelijkaardige karakteristieken) in data/gegevens en/of tussen deelproblemen (bv. na decompositie).**
   
-Voorbeeld: In de probleemstelling voor de kleuterjuf (zie abstractie) om de jasje tijdig aan/dicht te krijgen, zal bij het oplossen van dit probleem de patroonherkenning de gelijkenissen in de sluitingstechnieken zijn (houtje-touwtje, ritssluiting, knopen…)
+Voorbeeld: ‘Een kleuterjuf moet ervoor zorgen dat alle kleuters hun jasje tijdig aan en dicht hebben. Hierbij is enkel relevant of het jasje vooraan open/dicht gaat, helemaal open/dicht en welke sluitingstechniek het jasje heeft.' <br>
+Bij het oplossen van dit probleem zal de patroonherkenning de gelijkenissen in de sluitingstechnieken inhouden: houtje-touwtje, ritssluiting, knopen ...
 
-* Leerlingen identificeren patronen tussen problemen, deelproblemen (bv. na decompositie) en in mogelijke oplossingsmethodieken (lln. zien dat bepaalde oplossingsmethodieken kunnen hergebruikt worden).
+**Leerlingen identificeren patronen tussen problemen, deelproblemen (bv. na decompositie) en in mogelijke oplossingsmethodieken (lln. zien dat bepaalde oplossingsmethodieken kunnen hergebruikt worden).**
 
-Voorbeeld1: Als het probleem gesteld wordt dat iets moet ontworpen en gerealiseerd worden (een maaltijd, een kast), dan zal één van de deelproblemen/deeltaken gaan over de werkelijke realisatie (het maakproces). Elk maakproces bestaat uit dezelfde oplossingsmethodiek: benodigdheden verzamelen (materiaal+ gereedschappen), veiligheidsmaatregelen treffen, stap-voor-stap werkvolgorde volgen, opruimen. 
+Voorbeeld 1: Als het probleem gesteld wordt dat iets moet ontworpen en gerealiseerd worden (een maaltijd, een kast), dan zal één van de deelproblemen/deeltaken gaan over de werkelijke realisatie (het maakproces). Elk maakproces bestaat uit dezelfde oplossingsmethodiek: benodigdheden verzamelen (materiaal + gereedschappen), veiligheidsmaatregelen treffen, stap-voor-stap werkvolgorde volgen, opruimen. 
 
-Voorbeeld 2: In een STEM project wordt de uitdaging gesteld een ophaalbrug te automatiseren. Het laten ‘reageren’ van de brug op doorvaart van de éne kant zal op dezelfde manier aangepakt kunnen worden als doorvaart van de tegengestelde kant.
+Voorbeeld 2: In een STEM project wordt de uitdaging gesteld een ophaalbrug te automatiseren. Het laten 'reageren' van de brug op doorvaart van de éne kant zal op dezelfde manier aangepakt kunnen worden als doorvaart van de tegengestelde kant.
 
