@@ -45,7 +45,8 @@ Voor meer uitleg over de herwerkte taxonomie van Bloom zie ‘A taxonomy for lea
 <sub>Herwerkte taxonomie van Bloom, deze houdt geen hierarchie in. [1]</sub>
 
 <div class="alert alert-box alert-danger">
-Misconceptie: De categorieën van de taxonomie van Bloom houden een hiërarchie in. Deze misconceptie wordt mede in stand gehouden omdat ze vaak worden voorgesteld in een piramide.
+Misconceptie: De categorieën van de taxonomie van Bloom houden een hiërarchie in.<br>
+*Deze misconceptie wordt mede in stand gehouden omdat ze vaak worden voorgesteld in een piramide/driehoek.*
 </div>
 
 Om de categorie van een leerdoel vast te leggen, specifiek voor de digitale competenties, kan je gebruikmaken van een van de handelingswerkwoorden die in de volgende afbeelding verzameld zijn. Je kan ze ook gebruiken om het beheersingsniveau te bepalen van een evaluatie.<br>
