@@ -35,12 +35,17 @@ teacher_exclusive: true
 Helaas wordt het meermaals verkondigd, maar beweren dat computationeel denken een vaardigheid is die leerlingen vanzelf overal zullen gaan toepassen, is geen goed idee. **Transfer gebeurt niet vanzelf**, maar moet expliciet deel uitmaken van de didactiek (Bocconi et al., 2016; Tedre & Denning, 2016; Guzdial, 2015). Binnen de onderwijskunde is de transfer van kennis van één vakgebied naar een ander, en van de theorie naar de praktijk, één van de belangrijkste uitdagingen. Het is geweten dat leerlingen leerstof, gezien in een bepaald vak, moeilijk transfereren naar een ander domein. Idealiter kunnen leerlingen hun inzichten overbrengen naar nieuwe contexten binnen en buiten de klas, maar dat is soms te hoog gegrepen (Kober et al., 2015).
 
 Men maakt het onderscheid tussen 'nabije' en 'verre' transfer. 
+
 * **Nabije transfer** slaat op het toepassen van kennis, aangeleerd in een bepaalde context, in een gelijkaardige context.
+
 * **Verre transfer** gaat over het toepassen van kennis, aangeleerd in een bepaalde context, in een wezenlijk andere context, bijvoorbeeld transfer van één STEM-discipline naar een andere, of van de klas naar de ‘echte wereld’.
 
-Er zijn wel factoren waarvan men vermoedt dat ze **transfer bevorderen**, zoals het inoefenen binnen een context, het expliciteren van overeenkomstigheden en meer inzicht in de concepten (Honey et al., 2014).<br>
+Er zijn wel factoren waarvan men vermoedt dat ze **transfer bevorderen**, zoals het inoefenen binnen een context, het expliciteren van overeenkomstigheden en meer inzicht in de concepten (Honey et al., 2014).
+
 * Omdat we geleerde concepten die met elkaar verbonden zijn gemakkelijker terug kunnen ophalen in vergelijking met concepten die niet verbonden zijn, zou integratie effectief kunnen zijn.
+
 * Door leerlingen expliciet te wijzen op de mogelijkheden van transfer, door bv. te wijzen op de overeenkomstigheden tussen twee problemen of te refereren aan een achterliggend concept, vergroot de kans dat de transfer plaatsvindt. Een zelfde concept op meerdere manier kunnen voorstellen en in verschillende disciplines, kan leren ook bevorderen.
+
 * Goed gebruik van een wiskundige voorstelling kan voor een deel bepalen hoe goed leerlingen wetenschappelijke concepten doorgronden. Het is dus belangrijk dat leerlingen representaties van concepten kunnen vertalen van de ene discipline naar de andere. 
 
 

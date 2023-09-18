@@ -34,17 +34,22 @@ teacher_exclusive: true
 ## Mensen
 Computationeel denken gaat om mensen. 
 
-- De digitale toepassingen worden immers door en voor mensen gemaakt en door mensen gebruikt. <br>
-- Volgens Lowe & Brophy (2017) is bijna elk digitaal systeem deel van een groter systeem waarin **de mens centraal** staat. <br>
-- Wing (2006), die computationeel denken wereldwijd op de agenda plaatste, vermeldde **“understanding human behavior”** als een van de aspecten van computationeel denken. <br>
+- De digitale toepassingen worden immers door en voor mensen gemaakt en door mensen gebruikt.
+
+- Volgens Lowe & Brophy (2017) is bijna elk digitaal systeem deel van een groter systeem waarin **de mens centraal** staat. 
+
+- Wing (2006), die computationeel denken wereldwijd op de agenda plaatste, vermeldde **“understanding human behavior”** als een van de aspecten van computationeel denken. 
+
 - Computers inzetten is ook een sociale activiteit waarbij men rekening moet houden met de rol ervan in de **maatschappij** (Kafai en Proctor, 2022).
 
 Je kan een nieuwe digitale toepassing dus niet los zien van de mens die ze ontwikkelde, de mens die ze zal gebruiken en de maatschappij waarin ze zal terechtkomen.
 
 Het inzetten van nieuwe technologieën brengt vaak **ethische bekommernissen** met zich mee.
 
--  Hoe reageren mensen op de nieuwe technologieën en hoe gaan ze ermee om (Lowe & Brophy, 2017; Curzon & McOwan, 2017; Bell, 2018)?<br>
--  Houdt men bij de ontwikkeling van nieuwe digitale systemen rekening met culturele verschillen en ethische aspecten (Denning & Tedre, 2019)?<br>
+-  Hoe reageren mensen op de nieuwe technologieën en hoe gaan ze ermee om (Lowe & Brophy, 2017; Curzon & McOwan, 2017; Bell, 2018)?
+
+-  Houdt men bij de ontwikkeling van nieuwe digitale systemen rekening met culturele verschillen en ethische aspecten (Denning & Tedre, 2019)?
+
 -  Hoe gaan we om met culturele bias in computersystemen (Kafai en Proctor, 2022)?
 
 > Meer over de ethische aspecten van nieuwe technologische toepassingen lees je in de handleidingen van de projecten ‘KIKS’, ‘AI in de Zorg’ en ‘Chatbot’ van AI Op School. Zie [dwengo.org](https://dwengo.org "website").
@@ -53,7 +58,8 @@ Bij het ontwerpen van een nieuw systeem betrekt men best de mensen die ermee zul
 
 > Tay was initieel gebouwd voor ontspanning, maar werd op een totaal andere manier gebruikt. Tay verspreidde reeds na enkele uren haatspraak, en werd dan ook snel offline gehaald (Neff & Nagy, 2016).<br> Meer over Tay vind je in de [handleiding bij het project ‘Chatbot’](https://www.dwengo.org/chatbot "chatbot") van AI Op School.
 
----------------------------
+---
+
 #### Bronnen: 
 Bell, T. (2018). Computer Science in K-12 Education: The Big Picture. *Olympiads in Informatics, 12*, 3-11.<br>
 Curzon, P. & McOwan, P. (2017). *The Power of Computational Thinking.* Londen: World Scientific Publishing Europe.<br>

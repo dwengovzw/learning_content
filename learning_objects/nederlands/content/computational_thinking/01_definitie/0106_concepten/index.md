@@ -34,7 +34,8 @@ teacher_exclusive: true
 
 ## Veelvoorkomende concepten, praktijken en vaardigheden
 
-Computationeel denken kent heel wat concepten en praktijken. <br>
+Computationeel denken kent heel wat concepten en praktijken.
+
 Op de poster zie je concepten van computationeel denken en manieren van aanpak. Deze lijst van concepten, praktijken en vaardigheden is niet volledig. Het valt bijvoorbeeld op dat 'modelleren' in de lijst ontbreekt. 
 
 > In de definitie bij de uitgangspunten van de eindtermen van de eerste graad wordt modelleren expliciet vermeld (zie Leerpad 'Eindtermen').
