@@ -38,29 +38,30 @@ Niet iedereen verstaat dus hetzelfde onder ‘computationeel denken’ en ook de
 
 Internationaal bestaat er dan ook geen consensus over een definitie van computationeel denken. Maar uit onderzoek blijkt dat er wel consensus is over bepaalde concepten die aan de basis liggen van computationeel denken, nl. **decompositie, generalisatie en patroonherkenning, abstractie en algoritme** (Bocconi, 2016; Grover & Pea, 2017; Lodi, 2020; Lowe & Brophy, 2017; Selby & Woolard, 2013). 
 
-> Om computationeel denken te kunnen introduceren in het onderwijs is het best dat het begrip duidelijk is. Voor het Vlaamse onderwijs is er een definitie van computationeel denken meegegeven met de eindtermen van de eerste graad (zie vorig onderdeel van dit leerpad).
+> Om computationeel denken te kunnen introduceren in het onderwijs is het best dat het begrip duidelijk is. Voor het Vlaamse onderwijs is er een definitie van computationeel denken meegegeven met de eindtermen van de eerste graad (zie leerobject 'Definitie').
 
 ## Consensus over de misconcepties
 
-Er is echter ook heel wat consensus over wat computationeel denken **niet** is en wat het **ook** is. Helaas doen nogal wat misconcepties de ronde. 
+Er is echter ook heel wat consensus over wat computationeel denken **niet** is en wat het **wel** is. Helaas doen nogal wat misconcepties de ronde. 
 
 Het is belangrijk dat leerkrachten deze misconcepties kennen.
 
 <div class="alert alert-box alert-danger">
-<strong>Misconcepties over computationeel denken.</strong>
-<ul><li>Computationeel denken is "denken als een computer".</li></ul>
-<ul><li>Computationeel denken is dé beste manier van denken, en dé beste manier om een probleem op te lossen.</li></ul>
-<ul><li>Computationeel denken is gelijk aan ICT.</li></ul>
-<ul><li>Computationeel denken is gelijk aan programmeren.</li></ul>
-<ul><li>Computationeel denken is enkel interessant voor programmeurs en andere informatici.</li></ul>    
-<ul><li>Computationeel denken is een generieke vaardigheid die wordt getransfereerd.</li></ul>
-<ul><li>Computationeel denken kan louter unplugged geleerd worden.</li></ul>    
-<ul><li>Computationeel denken is een louter technologisch fenomeen.</li></ul>
+    <strong><h5>Misconcepties over computationeel denken.</h5></strong>
+    <ol>
+        <li>Computationeel denken is "denken als een computer".</li>
+        <li>Computationeel denken is dé beste manier van denken, en dé beste manier om een probleem op te lossen.</li>
+        <li>Computationeel denken is gelijk aan ICT.</li>
+        <li>Computationeel denken is gelijk aan programmeren.</li>
+        <li>Computationeel denken is enkel interessant voor programmeurs en andere informatici.</li>  
+        <li>Computationeel denken is een generieke vaardigheid die wordt getransfereerd.</li>
+        <li>Computationeel denken kan louter unplugged geleerd worden.</li>
+        <li>Computationeel denken is een louter technologisch fenomeen.</li>
+    </ol>
 </div>
 
-Je bekijkt deze opsomming van naderbij in het volgende leerobject 'Aandachtspunt: Misconcepties'. 
-    
----------------------------
+---
+
 #### Bronnen: 
 Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM
 Inroads*, 2(1), 48-54.<br>
