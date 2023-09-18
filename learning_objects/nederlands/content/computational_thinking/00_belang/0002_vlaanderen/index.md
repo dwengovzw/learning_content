@@ -36,17 +36,19 @@ Sinds september 2019 maakt ‘computationeel denken en handelen’ deel uit van 
 
 Het Vlaamse secundair onderwijs werd onlangs hervormd met nieuw omschreven minimale leerdoelen verdeeld over 16 sleutelcompetenties. Een van de sleutelcompetenties is **‘Digitale competentie en mediawijsheid’** met als uitgangspunt “ingaan op de digitale ontwikkelingen en het belang van basiskennis en goed gebruik van ICT om te kunnen participeren aan de samenleving" (AHOVOKS, 2020). 
 
-> Deze minimale leerdoelen worden eindtermen of minimumdoelen genoemd. Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad en [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de (vernietigde) eindtermen van de tweede en derde graad. 
-
-
 <div class="alert alert-box alert-secondary">
+    Deze minimale leerdoelen worden eindtermen of minimumdoelen genoemd. <br>
+    <br>
     Het Grondwettelijk Hof vernietigde op 16 juni 2022 de nieuwe eindtermen voor de tweede en derde graad van het secundair onderwijs. Deze zijn ondertussen herwerkt. De nieuwe minimumdoelen gaan in op 1 september 2023 in het derde en vijfde jaar van het secundair onderwijs.
 </div>
 
+> Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1031619&datum=&geannoteerd=false&print=false) voor het decreet betreffende de nieuwe eindtermen van de eerste graad.
+> Klik [hier](https://codex.vlaanderen.be/PrintDocument.ashx?id=1035582&datum=&geannoteerd=false&print=false) voor de vernietigde eindtermen van de tweede en derde graad. 
+> Klik [hier](https://onderwijsdoelen.be/) voor de goedgekeurde minimumdoelen voor de tweede en derde graad.
 
-> De goedgekeurde minimumdoelen voor de tweede en derde graad vind je [hier](https://onderwijsdoelen.be/).
-
-> In het leerpad ['Eindtermen en minimumdoelen'](https://www.dwengo.org/learning-path.html?hruid=ct8_eindtermen&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_eindtermen;nl;3) wordt er dieper ingegaan op deze eindtermen en minimumdoelen en de verbanden ertussen. 
+<div class="alert alert-box alert-warning">
+    In het leerpad <a href="https://www.dwengo.org/learning-path.html?hruid=ct8_eindtermen&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_eindtermen;nl;3">'Eindtermen en minimumdoelen'</a> wordt er dieper ingegaan op deze eindtermen, minimumdoelen en de verbanden ertussen. 
+</div>
 
 De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd uit **drie bouwstenen**: 
 

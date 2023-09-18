@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # De gedigitaliseerde wereld
 
-<div class="alert alert-box alert-primary">
+<div class="alert alert-box alert-secondary">
     <strong>Klasdiscussie</strong><br> 
     Is er een uitvinding die de wereld meer veranderd heeft dan de computer (Riley & Hunt, 2014)? 
 </div>
@@ -44,12 +44,16 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
 
 <div class="alert alert-box alert-success">
     <strong>Functioneren in de gedigitaliseerde wereld</strong><br> 
-   Om de gedigitaliseerde wereld te begrijpen is digitale toepassingen kunnen <em>gebruiken niet voldoende</em>. Het is immers van belang dat mensen zich weerbaar en flexibel kunnen opstellen tegenover nieuwe digitale toepassingen. <em>Computationeel denken is een werkwijze om die digitale wereld te begrijpen en erop in te grijpen.</em> Door inzichten te verwerven in de concepten die aan de basis liggen van de digitalisering, kan men de mogelijkheden, de beperkingen en de eventuele risico’s van deze toepassingen beter inschatten, wat ook de angst voor technologie wegneemt. Computationeel kunnen denken kan ervoor zorgen dat men beter functioneert in en kan participeren in de gedigitaliseerde maatschappij, en dat men de wisselwerking tussen technologische ontwikkelingen en de evoluties in de maatschappij begrijpt. 
+   Om de gedigitaliseerde wereld te begrijpen, is digitale toepassingen kunnen <em>gebruiken</em> niet voldoende. Het is immers van belang dat mensen zich weerbaar en flexibel kunnen opstellen tegenover nieuwe digitale toepassingen. <br>
+   <br>
+   <em>Computationeel denken is een werkwijze om die digitale wereld te begrijpen en erop in te grijpen.</em> <br>
+   <br>
+   Door inzichten te verwerven in de concepten die aan de basis liggen van de digitalisering, kan men de mogelijkheden, de beperkingen en de eventuele risico’s van deze toepassingen beter inschatten, wat ook de angst voor technologie wegneemt. Computationeel kunnen denken kan ervoor zorgen dat men beter functioneert en kan participeren in de gedigitaliseerde maatschappij, en dat men de wisselwerking tussen technologische ontwikkelingen en de evoluties in de maatschappij beter begrijpt. 
 </div>
 
 **Wereldwijd** is er een groeiende aandacht voor computationeel denken, een manier van denken die aan de basis ligt van alle digitale toepassingen. 
 
-<div class="alert alert-box alert-primary">
+<div class="alert alert-box alert-secondary">
     <strong>Opdracht voor de leerlingen. Welke digitale systemen heb je thuis?</strong><br> 
     Ga na welke digitale systemen je gebruikt op een doorsnee dag, bijvoorbeeld vanaf het moment dat je wakker wordt tot wanneer je op school komt. 
 </div>

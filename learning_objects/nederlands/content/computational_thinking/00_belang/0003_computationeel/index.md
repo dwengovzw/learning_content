@@ -32,10 +32,12 @@ teacher_exclusive: true
 
 # Computationeel denken is niet nieuw
 
-Maar wat houdt computationeel denken in? De term is vrij nieuw - ‘computationeel denken’ dook voor het eerst in een onderwijscontext op in 1980, in het boek ‘Mindstorms’ van Seymour Papert - en is bij leerkrachten niet altijd gekend. 
+Wat houdt computationeel denken in? De term is vrij nieuw - ‘computationeel denken’ dook voor het eerst op in een onderwijscontext in 1980, in het boek ‘Mindstorms’ van Seymour Papert - en is bij leerkrachten niet altijd gekend. 
 
 <div class="alert alert-box alert-success">
-    Vaak wordt verkeerdelijk gedacht dat de term een compleet nieuwe lading leerstof dekt, terwijl de concepten van computationeel denken in feite heel ver teruggaan in de tijd, naar een tijd waarin computers nog niet bestonden. Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden zo niet altijd herkend.
+    Vaak wordt verkeerdelijk gedacht dat de term een compleet nieuwe lading leerstof dekt, terwijl de concepten van computationeel denken in feite heel ver teruggaan in de tijd, naar een tijd waarin computers nog niet bestonden. <br>
+    <br>
+    <strong>Heel wat aspecten van computationeel denken komen al sinds jaar en dag aan bod in de dagdagelijkse klaspraktijk, maar worden zo niet altijd herkend.</strong>
 </div>
 
 Een historisch overzicht van het ontstaan van computationeel denken vind je in het leerpad ['Historiek'](https://www.dwengo.org/learning-path.html?hruid=ct7_historiek&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_historiek1;nl;3).<br>
