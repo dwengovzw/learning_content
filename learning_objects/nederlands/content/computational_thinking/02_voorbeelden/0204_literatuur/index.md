@@ -31,10 +31,8 @@ teacher_exclusive: true
 ---
 # Integreren van computationeel denken en handelen in lessen wetenschappen en wiskunde 
 
-<div class="alert alert-box alert-success">
-Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen.<br>
+Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen.
 We geven hier een (niet-exhaustief) overzicht gericht op wetenschappen en wiskunde.
-</div>
 
 ## Decompositie
 
@@ -176,7 +174,9 @@ Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.<br>
 * Als men modellen gebruikt om een simulatie te doen, dan is het belangrijk dat men meegeeft wat de beperkingen en de voordelen zijn van een simulator.
 * Je kan de leerlingen problemen voorschotelen die uitermate geschikt zijn om met de computer aan te pakken. Soms kan dat door problemen uit bestaande lessen wat te herformuleren, rekening houdend met bv. de tools die de leerlingen kunnen gebruiken. Leerlingen kunnen leren welke soort tool geschikt is voor welke taak.
 * Leerlingen leren dat alles als een systeem bekeken kan worden.
------------------------
+
+---
+
 #### Bronnen
 
 Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM

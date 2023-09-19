@@ -71,12 +71,13 @@ Onderzoekers besteden in de literatuur vrij veel aandacht aan voorbeelden van co
 |------------------------|
 |gerecht proeven|
 
----------------------
+---
+
 #### Bronnen
 
-**Grover & Pea (2017)**
-**Cansu et al. (2019)**
-**Neutens (2022)**
-**Yadav et al. (2016)**
+Grover & Pea (2017)
+Cansu et al. (2019)
+Neutens (2022)
+Yadav et al. (2016)
 
 

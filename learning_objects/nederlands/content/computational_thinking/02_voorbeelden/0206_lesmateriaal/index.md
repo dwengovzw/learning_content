@@ -39,12 +39,13 @@ teacher_exclusive: true
 |------------------------|-----|-------|----------------------------|------------|
 |mogelijkheden en beperkingen van AI-systemen in project 'Jommeke inkleuren'||huidmondjes op bladeren bekijken om te onderzoeken hoe planten zich aanpassen aan de klimaatverandering in project 'KIKS'|'Zoektocht naar spraak' (naar Paul Curzon) in project 'AI in de Zorg'|sentimentanalyse (score i.p.v. sentiment)|
 
-
-|Data verzamelen|datastructuren||||veelvoorkomende datastructuren in taaltechnologie (in het project 'Chatbot')|
-|Data voorstellen||spreidingsdiagram en trendlijn|data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat|||
-|Data voorverwerken|gegevens CO<sub>2</sub> samenbrengen in leerpad Klimaat; gegevens opkuisen in project "AI in de Zorg'; gegevens numeriek maken in project 'AI in de Zorg'; gegevens filteren in notebook NMBS; herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen|||||
-|Simuleren|||verschillende scenario's binnen dwenguino simulator||verschillende scenario's binnen dwenguino simulator|
-|Inzicht in tools||||begrijpen waarom beslissingsboom soms wordt verkozen boven een diep neuraal netwerk (zie project AI in de Zorg)||
+| Data verzamelen | Data voorstellen | Data voorverwerken | Simuleren | Inzicht in tools |
+|---|---|---|---|---|
+| datastructuren | spreidingsdiagram en trendlijn | gegevens CO<sub>2</sub> samenbrengen in leerpad Klimaat | verschillende scenario's binnen dwenguino simulator | begrijpen waarom beslissingsboom soms wordt verkozen boven een diep neuraal netwerk (zie project AI in de Zorg) |
+| veelvoorkomende datastructuren in taaltechnologie (in het project 'Chatbot') | data van gletsjers en zeeniveau visualiseren in STEM-project rond klimaat | gegevens opkuisen in project "AI in de Zorg' | verschillende scenario's binnen dwenguino simulator |  |
+|  |  | gegevens numeriek maken in project 'AI in de Zorg' |  |  |
+|  |  | gegevens filteren in notebook NMBS |  |  |
+|  |  | herbarium Plantentuin Meise digitaliseren in de vorm van microfoto's en er een dataset van maken door er patches uit te knippen |  |  |
 
 ## Patroonherkenning
 
@@ -66,7 +67,7 @@ teacher_exclusive: true
 |||||HR|
 
 
-## ALgoritmisch denken
+## Algoritmisch denken
 
 |**Computerwetenschappen**|**Wiskunde**|**Natuur- wetenschappen**|**Sociale wetenschappen**|**Taal en kunst**|
 |------------------------|-----|-------|----------------------------|------------|
