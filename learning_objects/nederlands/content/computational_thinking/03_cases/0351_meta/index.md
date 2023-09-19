@@ -35,11 +35,13 @@ Automatiseer het berekenen van de (reële) wortels van een vierkantsvergelijking
 </context>
 <decomposition>
 Subtaken (**decompositie**):
-1. Inzetten van de computer om de wortels van een vierkantsvergelijking te berekenen. 
-2. Formules op een of andere manier aan de computer geven om de wortels te berekenen: discriminant, formules voor de wortels zelf.
-3. Gebruiker moet in staat zijn om de coëfficiënten van de vierkantsvergelijking in te geven.
-4. Welk datatype is het meest geschikt voor die coëfficiënten? Int of float?
-5. Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?
+<ol>
+    <li>Inzetten van de computer om de wortels van een vierkantsvergelijking te berekenen. </li>
+    <li>Formules op een of andere manier aan de computer geven om de wortels te berekenen: discriminant, formules voor de wortels zelf.</li>
+    <li>Gebruiker moet in staat zijn om de coëfficiënten van de vierkantsvergelijking in te geven.</li>
+    <li>Welk datatype is het meest geschikt voor die coëfficiënten? Int of float?</li>
+    <li>Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?</li>
+</ol>
 </decomposition>
 <patternRecognition>
 Als eenzelfde berekening vaak moet herhaald worden, dan is het handig deze te vatten in een functie. (**patroonherkenning**)
@@ -52,10 +54,12 @@ Een functie is een **abstractie** van een subalgoritme.<br><br>
 </abstraction>
 <algorithms>
 Het **algoritme** bevat (in deze volgorde) instructies om:<br>
-de gegevens op te vragen aan de gebruiker;<br>
-die gegevens te verwerken met als doel het bekomen van de discriminant en de wortels;<br>
-het aantal wortels te laten zien op het scherm;<br>
-de wortels te laten zien op het scherm. 
+<ol>
+    <li>de gegevens op te vragen aan de gebruiker;</li>
+    <li>die gegevens te verwerken met als doel het bekomen van de discriminant en de wortels;</li>
+    <li>het aantal wortels te laten zien op het scherm;</li>
+    <li>de wortels te laten zien op het scherm.</li>
+</ol>
 </algorithms>
 <implementation>
 **Programma in Python**<br>

@@ -35,14 +35,18 @@ Monteer de hardware op het lichaam van de robot.
 </context>
 <decomposition>
 **Decompositie**: Opsplitsen in de verschillende stappen:<br>
-<ul><li>Benodigdheden verzamelen</li></ul>
-<ul><li>Tekening overbrengen</li></ul>
-<ul><li>Gaten uitsnijden</li></ul>
-<ul><li>Hardware monteren</li></ul>
+<ul>
+    <li>Benodigdheden verzamelen</li>
+    <li>Tekening overbrengen</li>
+    <li>Gaten uitsnijden</li>
+    <li>Hardware monteren</li>
+</ul>
 </decomposition>
 <patternRecognition>
 **Patroonherkenning**:<br>
-<ul><li>Gaten uitsnijden / hardware monteren gebeurt steeds op dezelfde manier </li></ul>
+<ul>
+    <li>Gaten uitsnijden / hardware monteren gebeurt steeds op dezelfde manier </li>
+</ul>
 </patternRecognition>
 <abstraction>
 **Abstractie:**<br>

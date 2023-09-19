@@ -36,27 +36,34 @@ Zoek uit wanneer en waar je moet vertrekken om tijdig in Brussel aan te komen.
 
 </context>
 <decomposition>
-Het probleem bestaat uit deelproblemen (**decompositie**):<br>    
-- Wat is het dichtstbijzijnde station?
-    - Zijn daar rechtstreekse treinen naar Brussel of zullen we moeten overstappen?
-    - Hoe geraken we in dat station? Te voet, met de fiets, met de bus?
-- Waar moeten we zijn in Brussel? In welk station moeten we uitstappen?
-- Op welk uur rijdt er een trein naar daar? 
-    - Waar kunnen we de uren van de trein raadplegen? Bv. via de app van de NMBS. 
-    - Om hoe laat moeten we dan naar het station vertrekken?
-- Op welk perron moeten we opstappen?
-- ...
-
+Het probleem bestaat uit deelproblemen (<strong>decompositie</strong>):<br> 
+<ul>
+    <li>Wat is het dichtstbijzijnde station?
+        <ul>
+            <li>Zijn daar rechtstreekse treinen naar Brussel of zullen we moeten overstappen?</li>
+            <li>Hoe geraken we in dat station? Te voet, met de fiets, met de bus?</li>
+        </ul>
+    </li>
+    <li>Waar moeten we zijn in Brussel? In welk station moeten we uitstappen?</li>
+    <li>Op welk uur rijdt er een trein naar daar? 
+        <ul>
+            <li>Waar kunnen we de uren van de trein raadplegen? Bv. via de app van de NMBS.</li>
+            <li>Om hoe laat moeten we dan naar het station vertrekken?</li>
+        </ul>
+    </li>
+    <li>Op welk perron moeten we opstappen?</li>
+    <li>...</li>
+</ul>
 </decomposition>
 <patternRecognition>
-Een reis met de bus of met de trein plannen gebeurt op een gelijksoortige manier. (**patroonherkenning**) <br>Voor beide kan eventueel een app gebruikt worden. Zowel de perrons als de bushaltes worden op een abstracte manier omschreven, door een naam of een perronnummer.  
+Een reis met de bus of met de trein plannen gebeurt op een gelijksoortige manier. (<strong>patroonherkenning</strong>) <br>Voor beide kan eventueel een app gebruikt worden. Zowel de perrons als de bushaltes worden op een abstracte manier omschreven, door een naam of een perronnummer.  
 </patternRecognition>
 <abstraction>
-Het perron wordt **geabstraheerd** tot een getal, het perronnummer of anders gezegd het spoor.
+Het perron wordt <strong>geabstraheerd</strong> tot een getal, het perronnummer of anders gezegd het spoor.
 De reis wordt geabstraheerd tot de te volgen route: een opeenvolging van plaatsen (huis, school, stations …) 
 </abstraction>
 <algorithms>
-De te volgen route is herleid tot een stappenplan: een lijst van de van de opeenvolgende uren en overeenkomstige plaatsen. (**algoritme**)
+De te volgen route is herleid tot een stappenplan: een lijst van de opeenvolgende uren en overeenkomstige plaatsen. (<strong>algoritme</strong>)
 </algorithms>
 <implementation>
 Bij dit voorbeeld moet er niet geprogrammeerd worden. 

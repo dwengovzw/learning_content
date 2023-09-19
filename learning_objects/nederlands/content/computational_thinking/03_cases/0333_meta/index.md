@@ -35,21 +35,24 @@ Zorg ervoor dat de buitenverlichting aan een villa in- en uitgeschakeld kan word
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. Welke invoerelementen?
-2. Welke uitvoerelementen?
-3. Het gevraagde weergeven d.m.v. een waarheidstabel en Karnaughdiagram. 
+Verkennen van het probleem. Wat heb je nodig? <br> 
+Subtaken (**decompositie**):<br>
+<ol>
+    <li>Welke invoerelementen?</li>
+    <li>Welke uitvoerelementen?</li>
+    <li>Het gevraagde weergeven d.m.v. een waarheidstabel en Karnaugh-diagram. </li>
+</ol>
 </decomposition>
 <patternRecognition>
-Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en het Karnaughdiagram. (**patroonherkenning**)
+Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en het Karnaugh-diagram. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel en een Karnaughdiagram.<br>
+Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel en een Karnaugh-diagram.<br>
 ![Waarheidstabel](waarheidstabel.png)  <br>
 ![Karnaughdiagram](karnaugh.png)
 </abstraction>
 <algorithms>
-De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een algoritme (hier in een flowchart en in pseudocode).
+De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een algoritme (hier in een flowchart en in pseudocode).<br>
 ![Flowchart](flowchart.png)<br>
 ![Pseudocode](pseudocode.png)
 </algorithms>

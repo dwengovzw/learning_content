@@ -39,9 +39,11 @@ Kunnen we het effect van de COVID-19-maatregelen inschatten voordat we ze invoer
 </context>
 <decomposition>
 We identificeren 3 deelproblemen (**decompositie**):
-1. Model voor verspreiding
-2. Menselijke interacties voorstellen 
-3. Simuleren van de verspreiding a.d.h.v. het model
+<ol>
+    <li>Model voor verspreiding</li>
+    <li>Menselijke interacties voorstellen </li>
+    <li>Simuleren van de verspreiding a.d.h.v. het model</li>
+</ol>
 </decomposition>
 <patternRecognition>
 De verspreiding van de pest, cholera, COVID-19 ... gedraagt zich gelijkaardig. We onderscheiden daarbij: vatbare individuen, geïnfecteerden en resistente individuen. (**patroonherkenning**)<br><br>
@@ -55,12 +57,14 @@ De evoluties in de aantallen vatbare individuen, geïnfecteerden en resistente i
 </abstraction>
 <algorithms>
 Stappenplan (**algoritme**):
-1. Definieer het SIR-model door een stelsel van differentiaalvergelijkingen (zoals links)
-2. Kies samenstelling van de beginpopulatie
-3. Kies het infectiepercentage
-4. Kies het herstelpercentage
-5. Kies een tijdsinterval
-6. Los het stelsel numeriek op
+<ol>
+    <li>Definieer het SIR-model door een stelsel van differentiaalvergelijkingen (zoals links)</li>
+    <li>Kies samenstelling van de beginpopulatie</li>
+    <li>Kies het infectiepercentage</li>
+    <li>Kies het herstelpercentage</li>
+    <li>Kies een tijdsinterval</li>
+    <li>Los het stelsel numeriek op</li>
+</ol>
 </algorithms>
 <implementation>
 Voor het programma: zie de notebooks in leerpad 'Epidemie'.

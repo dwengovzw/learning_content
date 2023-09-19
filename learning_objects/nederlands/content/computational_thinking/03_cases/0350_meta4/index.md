@@ -35,9 +35,11 @@ teacher_exclusive: true
 </context>
 <decomposition>
 Subtaken (**decompositie**):<br>
-1. Inzetten van de computer om de schuine zijde te berekenen. 
-2. Formule? Gekend uit de stelling van Pythagoras.
-3. Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?
+<ol>
+    <li>Inzetten van de computer om de schuine zijde te berekenen. </li>
+    <li>Formule? Gekend uit de stelling van Pythagoras.</li>
+    <li>Na de verwerking van de gegevens via de formule, is er een output. Hoe laat je de output proper verschijnen?</li>
+</ol>
 </decomposition>
 <patternRecognition>
 
@@ -47,10 +49,11 @@ Subtaken (**decompositie**):<br>
 </abstraction>
 <algorithms>
 Het algoritme bevat (in deze volgorde) instructies om:
-1. de gegevens;
-2. die gegevens te verwerken met als doel het bekomen van de lengte van de schuine zijde;
-3. de lengte van de schuine zijde te laten zien op het scherm. 
-
+<ol>
+    <li>de gegevens op te vragen aan de gebruiker;</li>
+    <li>die gegevens te verwerken met als doel het bekomen van de lengte van de schuine zijde;</li>
+    <li>de lengte van de schuine zijde te laten zien op het scherm. </li>
+</ol>
 </algorithms>
 <implementation>
 **Programma in Python**

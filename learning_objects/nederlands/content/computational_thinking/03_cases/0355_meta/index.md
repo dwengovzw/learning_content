@@ -41,17 +41,23 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 </decomposition>
 <patternRecognition>
 (**patroonherkenning**)<br>
-    - De leerlingen passen veiligheidsprincipes toe bij verschillende elektrische apparaten en situaties en zien in dat je **universele voorzorgsmaatregelen** toepast op verschillende contexten.
+<ul>
+    <li>De leerlingen passen veiligheidsprincipes toe bij verschillende elektrische apparaten en situaties en zien in dat je **universele voorzorgsmaatregelen** toepast op verschillende contexten.</li>
+</ul>
 </patternRecognition>
 <abstraction>
 (**abstractie**)<br>
-    - De concepten zoals elektrische lading, stroom, spanning en weerstand zijn **abstracte representaties van echte fysieke fenomenen** die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.
-    - Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn **abstracte representaties** die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.
+<ul>
+    <li>De concepten zoals elektrische lading, stroom, spanning en weerstand zijn **abstracte representaties van echte fysieke fenomenen** die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.</li>
+    <li>Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn **abstracte representaties** die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.</li>
+</ul>
 </abstraction>
 <algorithms>
 **algoritme**<br>
-    - Bij het leren over elektrische veiligheid werken leerlingen soms met stappenplannen of checklists voor het veilig werken met elektrische apparaten, zoals het uitschakelen van de stroombron, het dragen van beschermende uitrusting, enz.
-    - Wanneer leerlingen een labo-proef uitvoeren, zullen ze algoritmisch denken gebruiken om stap voor stap de benodigde componenten en verbindingen te identificeren, metingen uit te voeren, enz.
+<ul>
+    <li>Bij het leren over elektrische veiligheid werken leerlingen soms met stappenplannen of checklists voor het veilig werken met elektrische apparaten, zoals het uitschakelen van de stroombron, het dragen van beschermende uitrusting, enz.</li>
+    <li>Wanneer leerlingen een laboproef uitvoeren, zullen ze algoritmisch denken gebruiken om stap voor stap de benodigde componenten en verbindingen te identificeren, metingen uit te voeren, enz.</li>
+</ul>
 </algorithms>
 <implementation>
  

@@ -37,10 +37,11 @@ teacher_exclusive: true
 
 **Doelgroep**: 2de graad - finaliteit doorstroom; 3de graad - dubbele finaliteit
 
-**Vak:** Wiskunde - STEM 
+**Vak:** 
+* Wiskunde
+* STEM 
 
-Voorkennis:
-
+**Voorkennis:**
 * De leerlingen kunnen reële getallen ordenen.
 * De leerlingen kennen tweedegraadsfuncties.
 * De leerlingen kregen voorbeelden van beslissingsbomen te zien.

@@ -38,9 +38,9 @@ teacher_exclusive: true
 
 **Doelgoep:** 2de of 3de graad - dubbele finaliteit of finaliteit doorstroom
 
-**Vak:** Wiskunde - Wetenschappen - STEM
-
-**Vak:** Informaticawetenschappen
+**Vak:** 
+* Wiskunde - Wetenschappen - STEM
+* Informaticawetenschappen
 
 **Doelgroep:** derde graad - Bedrijfsondersteunende Informaticawetenschappen, Economie-Wiskunde, Grieks-Wiskunde, Informatica- en communicatiewetenschappen, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde, Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtwetenschappen, Mechatronica
 
@@ -48,7 +48,7 @@ teacher_exclusive: true
 
 **Voorkennis:** 
 * De leerlingen kunnen informatie verzamelen via het internet. 
-* De leerlingen weten dat de vorm van het spreidingsdiagram een indicatie is van een mogelijk trendlijn. 
+* De leerlingen weten dat de vorm van het spreidingsdiagram een indicatie is van een mogelijke trendlijn. 
 * De leerlingen kunnen in Python een spreidingsdiagram en een trendlijn visualiseren. 
 
 ![ct-schema](@learning-object/m_ct03_52/nl/3)
@@ -65,9 +65,9 @@ Via deze case ga je aan de slag met de principes van computationeel denken. Met 
 ### Specifieke minimumdoelen (Bron: onderwijsdoelen.be)
 
 <span style="color: yellowgreen"><strong>Algoritmen en programmeren</strong></span><br>
-<span style="color: yellowgreen">(07.01.01 Finaliteit doorstroom) De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
+<span style="color: yellowgreen">(07.01.01 Finaliteit doorstroom) De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
 Doelgroep: Bedrijfsondersteunende Informaticawetenschappen, Economie-Wiskunde, Grieks-Wiskunde, Informatica- en communicatiewetenschappen, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde<br>
-<span style="color: yellowgreen">(07.02.01) De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span>
+<span style="color: yellowgreen">(07.02.01) De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span>
 Doelgroep: Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtwetenschappen, Mechatronica
 
 ### Vernietigde eindtermen (Bron: onderwijsdoelen.be)
@@ -116,23 +116,23 @@ Doelgroep: Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtweten
 <span style="color: yellowgreen">(6.55 Finaliteit doorstroom; 6.31 Dubbele finaliteit) De leerlingen ontwerpen een oplossing voor een probleem door concepten en praktijken uit verschillende STEM-disciplines geïntegreerd aan te wenden.</span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Met inbegrip van context
-&nbsp;&nbsp;&nbsp;&nbsp;* Elke STEM-discipline komt ten minste één maal geïntegreerd aan bod.
+&nbsp;&nbsp;&nbsp;&nbsp;* Elke STEM-discipline komt ten minste eenmaal geïntegreerd aan bod.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau creëren
 
 <span style="color: yellowgreen">(6.57 Finaliteit doorstroom)De leerlingen onderzoeken aan de hand van concrete maatschappelijke uitdagingen de wisselwerking tussen STEM-disciplines onderling en tussen STEM-disciplines met de maatschappij.</span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Met inbegrip van context
-&nbsp;&nbsp;&nbsp;&nbsp;* Contexten zoals klimaatverandering, hernieuwbare energie, zorg en gezondheid, onderwijs, watervoorziening, mobiliteit, leefbare en duurzame steden, oceaanvervuiling komen aan bod.
-&nbsp;&nbsp;&nbsp;&nbsp;* De duurzame ontwikkelingsdoelen zoals geformuleerd door de internationale gemeenschap worden aangereikt (SDG's, sustainable development goals).
+&nbsp;&nbsp;&nbsp;&nbsp;* Contexten zoals klimaatverandering, hernieuwbare energie, zorg en gezondheid, onderwijs, watervoorziening, mobiliteit, leefbare en duurzame steden en oceaanvervuiling, komen aan bod.
+&nbsp;&nbsp;&nbsp;&nbsp;* De duurzame ontwikkelingsdoelen zoals geformuleerd door de internationale gemeenschap, worden aangereikt (SDG's, sustainable development goals).
 
 &nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau analyseren
 
 <span style="color: yellowgreen">(6.33 Dubbele finaliteit)De leerlingen leggen aan de hand van concrete maatschappelijke uitdagingen de wisselwerking tussen STEM-disciplines onderling en tussen STEM-disciplines met de maatschappij uit.</span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Met inbegrip van context
-&nbsp;&nbsp;&nbsp;&nbsp;* Contexten zoals klimaatverandering, hernieuwbare energie, zorg en gezondheid, onderwijs, watervoorziening, mobiliteit, leefbare en duurzame steden, oceaanvervuiling komen aan bod.
-&nbsp;&nbsp;&nbsp;&nbsp;* De duurzame ontwikkelingsdoelen zoals geformuleerd door de internationale gemeenschap worden aangereikt (SDG's, sustainable development goals).
+&nbsp;&nbsp;&nbsp;&nbsp;* Contexten zoals klimaatverandering, hernieuwbare energie, zorg en gezondheid, onderwijs, watervoorziening, mobiliteit, leefbare en duurzame steden en oceaanvervuiling, komen aan bod.
+&nbsp;&nbsp;&nbsp;&nbsp;* De duurzame ontwikkelingsdoelen zoals geformuleerd door de internationale gemeenschap, worden aangereikt (SDG's, sustainable development goals).
 
 &nbsp;&nbsp;&nbsp;&nbsp;Cognitieve dimensie: beheersingsniveau begrijpen
 

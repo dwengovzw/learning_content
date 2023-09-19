@@ -44,7 +44,7 @@ Subtaken (**decompositie**):<br>
 7. Hoe goed moet het AI-systeem presteren?
 </decomposition>
 <patternRecognition>
-Objectherkenning gebeurt al veel gedaan a.d.h.v. een AI-sytemen. Veel gebruikt zijn de diepe convolutionele neurale netwerken. (**patroonherkenning**)<br>
+Objectherkenning wordt al veel gedaan a.d.h.v. een AI-sytemen. Veelgebruikt zijn de diepe convolutionele neurale netwerken. (**patroonherkenning**)<br>
 Het AI-systeem zal kenmerken van huidmondjes moeten herkennen.<br>
 Bias in de dataset (**patroon**): <br>
 1. Alle huidmondjes hebben een afmeting van ongeveer 125x125 pixels
@@ -55,13 +55,17 @@ Een kleurenfoto wordt aan de computer gegeven in de vorm van een driedimensionaa
 </abstraction>
 <algorithms>
 Er zijn meerdere **algoritmes** nodig. <br>
-    Voor de dataset:<br>
-1. Een algoritme om de microfoto's van de plantentuin op te delen in voorbeelden van huidmondjes en voorbeelden van niet-huidmondjes.
-2. Een algoritme om het neuraal netwerk te trainen.
-    Om het neuraal netwerk te kunnen gebruiken:<br>
-3. Een algoritme om de aangeboden foto op te delen in vierkantjes van 125 op 125 pixels. Deze vierkantjes worden aangeboden aan het convolutioneel neuraal netwerk om te zien of er een huidmondje op staat.
-4. Een algoritme om de huidmondjes die hetzelfde zijn te clusteren.    
-5. Een algoritme om de huidmondjes te tellen. 
+Voor de dataset:
+<ol>
+    <li>Een algoritme om de microfoto's van de plantentuin op te delen in voorbeelden van huidmondjes en voorbeelden van niet-huidmondjes.</li>
+    <li>Een algoritme om het neurale netwerk te trainen.</li>
+</ol>
+Om het neurale netwerk te kunnen gebruiken:
+<ol>
+    <li>Een algoritme om de aangeboden foto op te delen in vierkantjes van 125 op 125 pixels. Deze vierkantjes worden aangeboden aan het convolutioneel neurale netwerk om te zien of er een huidmondje op staat.</li>
+    <li>Een algoritme om de huidmondjes die hetzelfde zijn, te clusteren.   </li> 
+    <li>Een algoritme om de huidmondjes te tellen. </li>
+</ol>
 </algorithms>
 <implementation>
 Voor de programma’s, zie het KIKS-project (https://dwengo.org/kiks).

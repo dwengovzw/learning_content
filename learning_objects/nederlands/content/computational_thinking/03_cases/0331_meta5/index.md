@@ -33,28 +33,36 @@ teacher_exclusive: true
 <context>
 Zet de gewenste acties om tot een programma in de simulator.<br>
 De leerling heeft bv. gekozen: <br>
-  Als iemand dichter dan 30cm komt, dan zwaait de robot met beide handjes en moet hij knipogen. <br>
-  Anders zwaait hij niet en zijn zijn ogen wijd open. <br>
-  Als iemand in de handen klapt, dan verschijnt de boodschap ‘Hallo! Hoe gaat het?’
+<ul>
+    <li>Als iemand dichter dan 30 cm komt, dan zwaait de robot met beide handjes en moet hij knipogen.</li>
+    <li>Anders zwaait hij niet en zijn zijn ogen wijd open.</li>
+    <li>   Als iemand in de handen klapt, dan verschijnt de boodschap ‘Hallo! Hoe gaat het?’</li>
+</ul>
 </context>
 <decomposition>
 **Decompositie**:<br>
-<ul><li>opsplitsen per actie </li></ul>
-<ul><li>per actie de invoerelementen bepalen</li></ul>
-<ul><li>per actie de uitvoerelementen bepalen</li></ul>
+<ul>
+    <li>opsplitsen per actie </li>
+    <li>per actie de invoerelementen bepalen</li>
+    <li>per actie de uitvoerelementen bepalen</li>
+</ul>
 </decomposition>
 <patternRecognition>
 **Patroonherkenning**:<br>
-<ul><li>keuzestructuur is voor de verschillende ‘als, dan’ acties gelijklopend</li></ul>
-<ul><li> oogje open sturen, is gelijklopend met oogje dichtknijpen</li></ul>
+<ul>
+    <li>keuzestructuur is voor de verschillende ‘als-dan’ acties gelijklopend</li>
+    <li> oogje open sturen, is gelijklopend met oogje dichtknijpen</li>
+</ul>
 </patternRecognition>
 <abstraction>
 **Abstractie:**<br>
-<ul><li>Handjes zwaaien= servomotoren aansturen</li></ul>
-<ul><li>Oogjes = ledmatrices</li></ul>
-<ul><li>….</li></ul>
-<ul><li>In de handen klappen = geluid waarnemen (let op alle geluid waarnemen!)</li></ul>
-<ul><li>Simulatie is abstractie van wat de robot in de werkelijkheid zal doen</li></ul>
+<ul>
+    <li>Handjes zwaaien= servomotoren aansturen</li>
+    <li>Oogjes = ledmatrices</li>
+    <li>In de handen klappen = geluid waarnemen (let op alle geluid waarnemen!)</li>
+    <li>Simulatie is abstractie van wat de robot in de werkelijkheid zal doen</li>
+    <li>...</li>
+</ul>
 </abstraction>
 <algorithms>
 **Algoritme:**<br>

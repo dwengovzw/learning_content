@@ -34,13 +34,15 @@ Maak drie kleerhangers voor volwassenen, twee voor kinderen en vier voor baby’
 </context>
 <decomposition>
 Dit probleem kunnen we opsplitsen in deelproblemen (**decompositie**):
-<ul><li>Welke materialen?</li></ul>
-<ul><li>Welke software? <span style="color: yellowgreen">→ geparameteriseerd CAD-ontwerp</span></li></ul>
-<ul><li>Welke parameters zijn nodig?</li></ul>
-<ul><li>Welke machine wordt er ingezet? <span style="color: yellowgreen">→ CNC-machine</span></li></ul>
-<ul><li>Welke afmetingen zijn geschikt?</li></ul>
-<ul><li>Welke kromming is geschikt?</li></ul>
-<ul><li>...</li></ul>
+<ul>
+    <li>Welke materialen?</li>
+    <li>Welke software? <span style="color: yellowgreen">→ geparametriseerd CAD-ontwerp</span></li>
+    <li>Welke parameters zijn nodig?</li>
+    <li>Welke machine wordt er ingezet? <span style="color: yellowgreen">→ CNC-machine</span></li>
+    <li>Welke afmetingen zijn geschikt?</li>
+    <li>Welke kromming is geschikt?</li>
+    <li>...</li>
+</ul>
 </decomposition>
 <patternRecognition>
 De vorm van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
@@ -51,7 +53,7 @@ Eigenlijk wordt een kleerhanger voorgesteld d.m.v. de waarden van de gekozen par
 </abstraction>
 <algorithms>
 **algoritme** <br>
-   Om van de ene maat naar een andere maat over te gaan, dien je bepaalde parameters in de software aan te passen. De computer zorgt voor het nodige rekenwerk en het ontwerp wordt automatisc aangepast.
+Om van de ene maat naar een andere maat over te gaan, dien je bepaalde parameters in de software aan te passen. De computer zorgt voor het nodige rekenwerk en het ontwerp wordt automatisch aangepast.
 </algorithms>
 <implementation>
 Geen implementatie. Dit is (voorlopig) een unplugged voorbeeld.

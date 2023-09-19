@@ -35,15 +35,17 @@ Stel gelabelde data uit de zorgsector voor op een manier die geschikt is om er b
 </context>
 <decomposition>
 Subtaken (**decompositie**):
-1. In de voorbeelden op zoek gaan naar een patroon (een gerichte gewortelde graaf, een binaire beslissingsboom).
-2. Uit welke elementen is een beslissingsboom opgebouwd?
-3. Wat is de werking van een beslissingsboom?
-4. Hoe de mate van spreiding weergeven door een getal.
-5. Welke berekeningen leiden tot de juiste splitsing?
-6. Hoe geef je ja-neevragen vorm a.d.h.v. een logische (wiskundige) uitdrukkingen? 
-7. Ontwerpen van een algoritme om een binaire beslissingsboom te construeren.
-8. De implementatie van het algoritme in de computer.
-9. De data voorverwerken tot het gewenste formaat.
+<ol>
+    <li>In de voorbeelden op zoek gaan naar een patroon (een gerichte gewortelde graaf, een binaire beslissingsboom).</li>
+    <li>Uit welke elementen is een beslissingsboom opgebouwd?</li>
+    <li>Wat is de werking van een beslissingsboom?</li>
+    <li>Hoe de mate van spreiding weergeven door een getal.</li>
+    <li>Welke berekeningen leiden tot de juiste splitsing?</li>
+    <li>Hoe geef je ja-neevragen vorm a.d.h.v. logische (wiskundige) uitdrukkingen? </li>
+    <li>Ontwerpen van een algoritme om een binaire beslissingsboom te construeren.</li>
+    <li>De implementatie van het algoritme in de computer.</li>
+    <li>De data voorverwerken tot het gewenste formaat.</li>
+</ol>
 </decomposition>
 <patternRecognition>
 De bestaande voorbeelden tonen dat zulke data vaak worden voorgesteld door een gerichte gewortelde graaf, meetal binair. M.a.w. een binaire beslissingsboom is geschikt om de data te representeren. (**patroonherkenning**)<br><br>
@@ -55,10 +57,12 @@ Deze voorstelling is bovendien transparant.
 </abstraction>
 <algorithms>
 **Algoritme** om binaire beslissingsboom op te stellen.<br>
-1. Bekijk welke wortel de beste splitsing oplevert. Maak takken voor de mogelijke uitkomsten van de ja-neevraag.
-2. Bekijk voor elke tak welke knoop het meest geschikt is voor de volgende splitsing. Maak takken voor de mogelijke uitkomsten van de ja-neevragen.  
-3. Herhaal de vorige stap telkens opnieuw voor de nieuw aangemaakte takken.
-4. Stop met de herhaling als de bekomen verzamelingen homogeen zijn, dus enkel elementen uit een en dezelfde klasse bevatten.
+<ol>
+    <li>Bekijk welke wortel de beste splitsing oplevert. Maak takken voor de mogelijke uitkomsten van de ja-neevraag.</li>
+    <li>Bekijk voor elke tak welke knoop het meest geschikt is voor de volgende splitsing. Maak takken voor de mogelijke uitkomsten van de ja-neevragen.  </li>
+    <li>Herhaal de vorige stap telkens opnieuw voor de nieuw aangemaakte takken.</li>
+    <li>Stop met de herhaling als de bekomen verzamelingen homogeen zijn, dus enkel elementen uit een en dezelfde klasse bevatten.</li>
+</ol>
     
 *Dit is een iteratief proces: om de wortel en de knopen te bepalen wordt telkens dezelfde techniek toegepast.*
 </algorithms>

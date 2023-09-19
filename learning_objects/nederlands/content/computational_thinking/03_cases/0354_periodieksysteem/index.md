@@ -35,6 +35,8 @@ teacher_exclusive: true
 
 **Doelgroep:** Leerlingen ...
 
+**Vak:** /
+
 **Voorkennis:** De leerlingen ...
 
 ![ct-schema](@learning-object/m_ct03_54/nl/3)
