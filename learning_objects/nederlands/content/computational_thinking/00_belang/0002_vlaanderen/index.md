@@ -74,6 +74,7 @@ De sleutelcompetentie ‘Digitale competentie en mediawijsheid’ is opgebouwd u
 
 Gezien de **verwevenheid** van het digitale met ons aller leven staat het buiten kijf dat de sleutelcompetentie ‘Digitale competentie en mediawijsheid’ niet kan los gezien worden van de andere vijftien sleutelcompetenties. Zie ook [onderwijsdoelen.be](https://onderwijsdoelen.be/uitgangspunten/4814).
  
--------------------------------
+---
+
 #### Bronnnen: 
 AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via [https://onderwijsdoelen.be/uitgangspunten/4814](https://onderwijsdoelen.be/uitgangspunten/4814)
