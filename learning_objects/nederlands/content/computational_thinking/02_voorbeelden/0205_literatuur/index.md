@@ -31,10 +31,8 @@ teacher_exclusive: true
 ---
 # Integreren van computationeel denken en handelen in lessen sociale wetenschappen, taal en kunst
 
-<div class="alert alert-box alert-success">
-Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen.<br>
-We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>: sociale wetenschappen, taal en kunst.
-</div>
+Veel onderzoekers hebben in wetenschappelijke artikels gepubliceerd welke mogelijkheden zij zien om computationeel denken en handelen in bestaande lessen te laten aan bod komen.
+We geven hier een (niet-exhaustief) overzicht gericht op de *humanities*: sociale wetenschappen, taal en kunst.
 
 ## Decompositie
 
@@ -107,7 +105,7 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 ||zinsontleding in een diagram plaatsen|
 ||muziek digitaal componeren|
 
-## Modeleren en simuleren
+## Modelleren en simuleren
 
 |**Sociale wetenschappen**|**Taal en kunst**|
 |------------------------|----------------------------|
@@ -163,21 +161,21 @@ We geven hier een (niet-exhaustief) overzicht gericht op de <em>humanities</em>:
 -----------------------
 #### Bronnen 
 
-**Barr en Stephenson (2011)** 
-**Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken.** 
-**Repenning et al. (2015)**, **Yevseyeva & Towhidnejad (2012)**
-**Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.**
-**Grover & Pea (2017)**
-**Lu & Fletcher (2009)**
-**Berry (2021)**
-**Cansu & Fatih (2019)**
-**Yadav et al. (2016), Yadav et al. (2017)**
-**Lee & Malyn-Smith (2019)**
-**Perkovic et al. (2010)**
-**Goldberg et al. (2012)**
-**Neutens (2022)**
-**Mishra & Yadav (2013)**
-**Lee et al. (2011)**
+Barr en Stephenson (2011)
+Bocconi et al. (2016) geven voorbeelden van computationeel denken binnen maar ook buiten STEM-vakken.
+Repenning et al. (2015), Yevseyeva & Towhidnejad (2012)
+Weintrop et al. (2015) focussen op CD in lessen wiskunde en wetenschappen.
+Grover & Pea (2017)
+Lu & Fletcher (2009)
+Berry (2021)
+Cansu & Fatih (2019)
+Yadav et al. (2016), Yadav et al. (2017)
+Lee & Malyn-Smith (2019)
+Perkovic et al. (2010)
+Goldberg et al. (2012)
+Neutens (2022)
+Mishra & Yadav (2013)
+Lee et al. (2011)
 
 
 
