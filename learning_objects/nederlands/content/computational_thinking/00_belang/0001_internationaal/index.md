@@ -56,7 +56,8 @@ Dat men wereldwijd een groot belang hecht aan computationeel denken, weerspiegel
 > [International Computer and Information Literacy Study](https://www.iea.nl/studies/iea/icils/2023#section-740)<br>
 > [PISA assessment](https://www.oecd.org/pisa/sitedocument/PISA-2021-mathematics-framework.pdf)
 
---------------------------------------
+---
+
 #### Bronnnen:  
 Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing Computational Thinking in Compulsory Education: Implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
 Li, Y., Schoenfeld, A.H., diSessa, A.A. et al.  (2020). On Computational Thinking and STEM Education. *Journal for STEM Education Research, 3*, 147–166. https://doi.org/10.1007/s41979-020-00044-w  <br>

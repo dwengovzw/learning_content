@@ -58,6 +58,7 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
     Ga na welke digitale systemen je gebruikt op een doorsnee dag, bijvoorbeeld vanaf het moment dat je wakker wordt tot wanneer je op school komt. 
 </div>
 
----------------------------------
+---
+
 #### Bronnen:
 Riley, D. & Hunt, K. (2014). *COMPUTATIONAL THINKING FOR THE MODERN PROBLEM SOLVER.* Florida, Verenigde Staten: Chapman and Hall/CRC.
