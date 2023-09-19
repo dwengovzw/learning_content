@@ -35,7 +35,7 @@ teacher_exclusive: true
 
 In het project 'Sociale robot' maken de leerlingen een schets van hun droomrobot.<br>Ze bedenken hoe hun robot zal communiceren met mensen, en ze beschrijven dit met een algoritme. Ze schrijven neer welke sensoren en actuatoren daarvoor nodig zijn. 
 
-Nadien passen ze het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waar ze over beschikken. <br>
+Nadien passen ze het ontwerp aan op basis van (zelf)-opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waarover ze beschikken. <br>
 
 Tot slot creëren ze een fysieke robot, gebaseerd op hun eigen ontwerp. 
 
@@ -47,11 +47,13 @@ Tot slot creëren ze een fysieke robot, gebaseerd op hun eigen ontwerp.
 
 **Vak**: 1ste graad Techniek - STEM - Informatica; 2de graad STEM - Informatica; 3de graad PAV - STEM
 
+**Voorkennis:** Geen
+
 ### Uitdaging: Ontwerp je droomrobot en maak er een schets van. Geef weer hoe deze sociale robot met mensen communiceert.
 
 ![ct-schema](@learning-object/m_ct03_31a/nl/3)
 
-### Stap 2: De leerlingen passen het ontwerp aan op basis van (zelf) opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waar ze over beschikken. (De criteria kunnen zelf opgelegd zijn en/of opgelegd door de leerkracht.)
+### Stap 2: De leerlingen passen het ontwerp aan op basis van (zelf)-opgelegde criteria en de beperkingen van de sensoren en actuatoren in de bouwkit waarover ze beschikken. (De criteria kunnen zelf opgelegd zijn en/of opgelegd door de leerkracht.)
 
 ![ct-schema](@learning-object/m_ct03_31b/nl/3)
 

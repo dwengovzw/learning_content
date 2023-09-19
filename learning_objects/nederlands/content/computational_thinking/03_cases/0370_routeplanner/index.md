@@ -37,7 +37,9 @@ teacher_exclusive: true
 
 **Doelgroep:** eerste graad
 
-**Vak:** aardrijkskunde, ICT
+**Vak:** 
+* aardrijkskunde
+*ICT
 
 **Voorkennis:** 
 * De leerlingen kunnen een atlas gebruiken. 

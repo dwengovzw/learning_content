@@ -35,6 +35,8 @@ teacher_exclusive: true
 
 **Doelgroep:** B-stroom of finaliteit arbeidsmarkt
 
+**Vak:** /
+
 **Voorkennis:** De leerlingen hebben geleerd hoe ze een verplaatsing met de bus kunnen plannen.
 
 ![ct-schema](@learning-object/m_ct03_10/nl/3)

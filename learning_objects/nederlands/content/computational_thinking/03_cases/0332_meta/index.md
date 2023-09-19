@@ -37,13 +37,15 @@ Gnangarra. <em>Tranby House kerosene lamp</em> [Afbeelding]. CC BY 2.5 AU, via W
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. Welke houtsoort is er geschikt?
-2. Welke afmetingen zal de lantaarn hebben?
-3. Hoe zorg ik er voor dat ik er een kaars kan in plaatsen? (deur, scharnieren)   
-4. Hoe versier ik het glas?
-5. Welke randprofilering gebruik ik?
-6. Waarmee zal ik afwerken? (verf? vernis? ...) 
-7. Hoe zorg ik ervoor dat ik de lantaarn kan ophangen? Welk materiaal is daarvoor nodig? Hoe zal ik het bevestigen? 
+<ol>
+    <li>Welke houtsoort is er geschikt?</li>
+    <li>Welke afmetingen zal de lantaarn hebben?</li>
+    <li>Hoe zorg ik ervoor dat ik er een kaars kan in plaatsen? (deur, scharnieren)   </li>
+    <li>Hoe versier ik het glas?</li>
+    <li>Welke randprofilering gebruik ik?</li>
+    <li>Waarmee zal ik afwerken? (verf? vernis? ...) </li>
+    <li>Hoe zorg ik ervoor dat ik de lantaarn kan ophangen? Welk materiaal is daarvoor nodig? Hoe zal ik het bevestigen? </li>
+</ol>
 </decomposition>
 <patternRecognition>
 De vorm van de lantaarn is onafhankelijk van de maat. Door in het CAD-programma een van de afmetingen aan te passen worden automatisch de andere afmetingen evenredig aangepast. (**patroonherkenning**)

@@ -35,6 +35,8 @@ teacher_exclusive: true
 
 **Doelgroep:** alle leerlingen die les krijgen over de basisbegrippen van elektriciteit
 
+**Vak:** /
+
 **Voorkennis:** geen
 
 ![ct-schema](@learning-object/m_ct03_55/nl/3)

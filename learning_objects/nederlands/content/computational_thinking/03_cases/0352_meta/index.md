@@ -35,10 +35,12 @@ Analyseer hoe het zeeniveau in Oostende in de toekomst zal evolueren.
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb ik nodig? Subtaken (**decompositie**):<br>
-1. Nodig: data uit het verleden 
-2. Data verzamelen <span style="color: yellowgreen">→ website MIRA</span>
-3. Data visualiseren <span style="color: yellowgreen">→ keuze software, bv. Python</span>
-4. Trendlijnen bepalen
+<ol>
+    <li>Nodig: data uit het verleden </li>
+    <li>Data verzamelen <span style="color: yellowgreen">→ website MIRA</span></li>
+    <li>Data visualiseren <span style="color: yellowgreen">→ keuze software, bv. Python</span></li>
+    <li>Trendlijnen bepalen</li>
+</ol>
 </decomposition>
 <patternRecognition>
 Welke trendlijn is geschikt? <br>
@@ -50,11 +52,13 @@ De trendlijn is een benadering (model) van het schommelende zeeniveau die de sti
 </abstraction>
 <algorithms>
 Een **algoritme** om in Python de trendlijnen te visualiseren (a.d.h.v. Python-modules):
-1. Definieer gedaante van vergelijking rechte
-2. Definieer functie om coëfficiënten trendlijn te bepalen passend bij gegeven datapunten
-3. Lees data in
-4. Bepaal a.d.h.v. data en bovenstaande definities de trendlijn
-5. Visualiseer data en trendlijn
+<ol>
+    <li>Definieer gedaante van vergelijking rechte</li>
+    <li>Definieer functie om coëfficiënten-trendlijn te bepalen passend bij gegeven datapunten</li>
+    <li>Lees data in</li>
+    <li>Bepaal a.d.h.v. data en bovenstaande definities de trendlijn</li>
+    <li>Visualiseer data en trendlijn</li>
+</ol>
 </algorithms>
 <implementation>
 Voor de implementatie verwijzen we naar het leerpad ['Klimaat'](https://www.dwengo.org/learning-path.html?hruid=pn_klimaatverandering&language=nl&te=true&source_page=%2Fstem%2F&source_title=%20STEM#pn_inleiding_klimaat;nl;3) van het lesthema ['Python in STEM'](https://www.dwengo.org/stem/).

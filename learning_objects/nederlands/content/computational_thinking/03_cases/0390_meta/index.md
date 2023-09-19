@@ -38,11 +38,13 @@ Probleem: Stel een algoritme op om een computer a.d.h.v. regels appels en peren 
 </context>
 <decomposition>
 Dit probleem kunnen we bijvoorbeeld opsplitsen in twee deelproblemen (**decompositie**):
-1. Op welke manier kan een stuk fruit aan de computer gegeven worden (*representatie*)?
-2. De computer moet voor een stuk fruit beslissen of het een appel of een peer is (*classificatie*).
+<ol>
+    <li>Op welke manier kan een stuk fruit aan de computer gegeven worden (*representatie*)?</li>
+    <li>De computer moet voor een stuk fruit beslissen of het een appel of een peer is (*classificatie*).</li>
+</ol>
 </decomposition>
 <patternRecognition>
-Iets aanbieden aan de computer gebeurt steeds digitaal, d.w.z. door getallen te gebruiken. Zowel beeld, geluid, tekst wordt omgezet naar een digitale vorm. (**patroonherkenning**)<br>
+Iets aanbieden aan de computer gebeurt steeds digitaal, d.w.z. door getallen te gebruiken. Zowel beeld, geluid als tekst worden omgezet naar een digitale vorm. (**patroonherkenning**)<br>
 Objecten classificeren komt voor in tal van contexten. In deze verschillende contexten worden vaak gelijksoortige oplossingen toegepast, zoals diepe neurale netwerken (een artificieel intelligente techniek voor dit doeleinde). Beseffen dat een gekende oplossing ook toepasbaar is in een nieuwe context, is **patroonherkenning**.
 </patternRecognition>
 <abstraction>

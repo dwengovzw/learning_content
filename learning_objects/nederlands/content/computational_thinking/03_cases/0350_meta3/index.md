@@ -31,18 +31,19 @@ teacher_exclusive: true
 ---
 
 <context>
-New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in kilometer. 
-    
+New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in kilometer?    
 </context>
 <decomposition>
 **Decompositie** in subtaken:<br>
-1. De wandelafstand van Times Square naar het Empire State Building kan opgevraagd worden in een routeplanner. 
-2. Vat het probleem samen in een figuur.
-3. Herken een rechthoekige driehoek in de figuur.
-4. Duid op de figuur aan wat gekend is.
-5. Zoek de lengtes van de twee rechthoekszijden op in de gegeven wandelroute.
-6. Pas de stelling van Pythagoras toe.
-    
+<ol>
+    <li>De wandelafstand van Times Square naar het Empire State Building kan opgevraagd worden in een routeplanner. </li>
+    <li>Vat het probleem samen in een figuur.</li>
+    <li>Herken een rechthoekige driehoek in de figuur.</li>
+    <li>Duid op de figuur aan wat gekend is.</li>
+    <li>Zoek de lengtes van de twee rechthoekszijden op in de gegeven wandelroute.</li>
+    <li>Pas de stelling van Pythagoras toe.</li>
+</ol>
+
 ![Kaart New York](kaartnewyork.png)
     
 ![GPS New York](gpsnewyork.png)

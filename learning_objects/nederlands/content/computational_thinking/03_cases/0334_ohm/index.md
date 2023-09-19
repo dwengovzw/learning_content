@@ -35,6 +35,8 @@ teacher_exclusive: true
 
 **Doelgroep:** alle leerlingen die les krijgen over de Wet van Ohm
 
+**Vak:** /
+
 **Voorkennis:** De leerlingen kennen de basisbegrippen van elektriciteit (elektrische lading, stroom, spanning, weerstand).
 
 

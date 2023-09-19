@@ -34,8 +34,9 @@ teacher_exclusive: true
 **_Case in ontwerpfase_**<br>
 **Je kan wel al een kijkje nemen op de projectpagina over [taaltechnologie](https://dwengo.org/chatbot/).**
 
-
 **Doelgroep:** iedereen
+
+**Vak:** /
 
 **Voorkennis:** De leerlingen ...
 

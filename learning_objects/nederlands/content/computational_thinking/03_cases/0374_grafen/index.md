@@ -35,7 +35,9 @@ teacher_exclusive: true
 
 Hier bekijk je enkele toepassingen van grafen: de werking van een routeplanner en het matchen van vingerafdrukken. Deze voorbeelden maken onderdeel uit van een lessenreeks over grafentheorie.
 
-**Doelgroep:** Leerlingen 2de en 3de graad finaliteit doorstroom en dubbele finaliteit (richtingen nog te bepalen).
+**Doelgroep:** Leerlingen 2de en 3de graad, finaliteit doorstroom en dubbele finaliteit (richtingen nog te bepalen).
+
+**Vak:** /
 
 **Voorkennis:** De leerlingen kennen reeds enkele types van grafen (simpele graaf, gerichte graaf, pad, wandeling, cykel).
 

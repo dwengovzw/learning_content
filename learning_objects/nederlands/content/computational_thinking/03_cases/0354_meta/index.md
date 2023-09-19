@@ -36,7 +36,9 @@ teacher_exclusive: true
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. ... 
+<ol>
+    <li></li>
+</ol>
 </decomposition>
 <patternRecognition>
 ...  (**patroonherkenning**)

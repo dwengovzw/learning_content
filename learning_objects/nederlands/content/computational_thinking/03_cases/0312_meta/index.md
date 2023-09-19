@@ -35,20 +35,34 @@ Locked-in syndroom: Een man, Bauby,  wordt volledig verlamd wakker in het zieken
 </context>
 <decomposition>
 **Decompositie:**<br>
-1. Wat is er nog mogelijk? 
-    - Bauby kan knipperen met één oog. 
-	- Bauby kan lezen en horen. Hij kan niet praten.
-	- Helper kan praten, lezen en schrijven. 
-2. Hoe zou Bauby kunnen communiceren?
-    - Woorden bestaan uit letters. Het knipperen met een oog zal moeten omgezet worden naar letters. Bv. één keer knipperen betekent ‘A’, 2 keer knipperen ‘B’, enz. De helper hoeft alleen maar het aantal keer dat geknipperd wordt te tellen en de bijbehorende letter op te schrijven. 	
-3. Hoe zou Bauby een boek kunnen schrijven?
-    Op dezelfde manier, maar ook spaties, leestekens, cijfers, witruimtes ... toevoegen aan het alfabet.
-4. Er moeten worden afgesproken hoe te communiceren als er per ongeluk een fout wordt gemaakt, of om een gok van de helper goed of af te keuren.
-5. Hoe kan het sneller? 
-    - Moment van knipperen gebruiken i.p.v. het aantal keer.
-    - Eerst de courante letters vragen door de volgorde van de letters in het alfabet aan te passen.
-    - 'Binair zoeken' garandeert dat elke letter gevonden wordt na hoogstens 5 letters op te sommen!
-6. Kunnen we het automatiseren met technologie?
+<ol>
+    <li>Wat is er nog mogelijk? 
+        <ul>
+            <li>Bauby kan knipperen met één oog. 
+	        <li>Bauby kan lezen en horen. Hij kan niet praten.
+	        <li>Helper kan praten, lezen en schrijven. 
+        </ul>
+    </li>
+    <li>Hoe zou Bauby kunnen communiceren?
+        <ul>
+            <li>Woorden bestaan uit letters. Het knipperen met een oog zal moeten omgezet worden naar letters. Bv. één keer knipperen betekent ‘A’, 2 keer knipperen‘B’, enz. De helper hoeft alleen maar het aantal keer dat geknipperd wordt te tellen en de bijbehorende letter op te schrijven. </li>
+        </ul>
+    </li>	
+    <li>Hoe zou Bauby een boek kunnen schrijven?
+        <ul>
+            <li>Op dezelfde manier, maar ook spaties, leestekens, cijfers, witruimtes ... toevoegen aan het alfabet.</li>
+        </ul>
+    </li>
+    <li>Er moet worden afgesproken hoe te communiceren als er per ongeluk een fout wordt gemaakt, of om een gok van de helper goed of af te keuren.</li>
+    <li>Hoe kan het sneller? 
+        <ul>
+            <li>Moment van knipperen gebruiken i.p.v. het aantal keer.</li>
+            <li>Eerst de courante letters vragen door de volgorde van de letters in het alfabet aan te passen.</li>
+            <li>Binair zoeken' garandeert dat elke letter gevonden wordt na hoogstens 5 letters op te sommen!</li>
+        </ul>
+    </li>
+    <li>Kunnen we het automatiseren met technologie?</li>
+</ol>
 </decomposition>
 <patternRecognition>
 Soms kan je halverwege een woord al raden wat het is. Als je ‘a-n-t-i-l’ hebt, zou het woord ‘antiloop’ een goede gok zijn. Dat is hetzelfde als de ‘woordsuggestie’ op een smartphone. (**patroonherkenning**)<br>
@@ -72,6 +86,6 @@ Bij het zoeken naar een oplossing voor een probleem en bij de implementatie erva
 Wat als knipperen een grote inspanning was voor Bauby? Zijn oplossing hield in dat hij slechts één keer per letter knipperde. Ons verdeel-en-heersalgoritme vereist dat hij 5 keer knippert. Zijn oplossing is gemakkelijk te begrijpen voor iedereen, de onze is complexer. Wie zal het uitleggen aan bezoekers? <br>
 Kan automatiseren niet meer kwaad dan goed doen? Er zouden dan geen helpers meer zijn die zorgen voor menselijke warmte. 
 	
-	Bij dit voorbeeld moet niet geprogrammeerd worden.
+Bij dit voorbeeld moet niet geprogrammeerd worden.
 </implementation>
 

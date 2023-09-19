@@ -39,18 +39,26 @@ In de klas kan je samen met de leerlingen bespreken hoe zo'n convolutioneel netw
 
 **Doelgroep:** Leerlingen 2de of 3de graad met een wetenschappelijke basis.
 
-**Vak:** Biologie, aardrijkskunde, STEM, informaticawetenschappen
+**Vak:** 
+* Biologie
+* Aardrijkskunde
+* STEM
+* Informaticawetenschappen
 
-**Voorkennis:** De leerlingen kennen de achtergrond van het KIKS-project. De leerlingen weten wat huidmondjes zijn en wat hun functie is. De leerlingen hebben bij voorkeur reeds het practicum 'Microscopie' van het KIKS-project (of een gelijksoortig practicum) uitgevoerd. 
+**Voorkennis:** 
+* De leerlingen kennen de achtergrond van het KIKS-project. 
+* De leerlingen weten wat huidmondjes zijn en wat hun functie is. 
+* De leerlingen hebben bij voorkeur reeds het practicum 'Microscopie' van het KIKS-project (of een gelijksoortig practicum) uitgevoerd. 
 
 <div class="alert alert-box alert-warning">
-    <strong>Automatisch huidmondjes tellen - activiteit en klasgesprek</strong><br>
-<ul><li>De leerlingen kunnen hun eigen microscopische foto's van bladeren van planten aanbieden aan het neurale netwerk van KIKS om de huidmondjes erop te laten tellen.</li></ul>
-<ul><li>Ze kunnen brainstormen over het neurale netwerk.
-    <ul><li> Wat moet zo'n artificieel intelligent systeem kunnen?</li></ul>
-    <ul><li> Welke aspecten komen daar bij kijken?</li></ul>
-</li></ul>
-<ul><li>Het neurale netwerk van KIKS zal niet op alle foto's van de leerlingen even goed presteren. Vaak zal het zelfs ondermaats presteren. Dit is het uitgelezen moment om het met de leerlingen over bias te hebben, een van de ethische aspecten verbonden aan neurale netwerken. </li></ul>
+<strong>Automatisch huidmondjes tellen - activiteit en klasgesprek</strong><br>
+<ul>
+    <li>De leerlingen kunnen hun eigen microscopische foto's van bladeren van planten aanbieden aan het neurale netwerk van KIKS om de huidmondjes erop te laten tellen.</li>
+    <li>Ze kunnen brainstormen over het neurale netwerk.</li>
+    <li> Wat moet zo'n artificieel intelligent systeem kunnen?</li>
+    <li> Welke aspecten komen daar bij kijken?</li>
+    <li>Het neurale netwerk van KIKS zal niet op alle foto's van de leerlingen even goed presteren. Vaak zal het zelfs ondermaats presteren. Dit is het uitgelezen moment om het met de leerlingen over bias te hebben, een van de ethische aspecten verbonden aan neurale netwerken. </li>
+</ul>
 </div>
 
 De bedenkingen en conclusies uit het klasgesprek kunnen worden samengevat in een schema.

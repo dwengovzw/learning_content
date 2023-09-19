@@ -35,13 +35,14 @@ Ontwerp een sociale robot.
 </context>
 <decomposition>
 Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
-<ul><li>Een ontwerpidee genereren</li></ul>
-<ul><li>Vastleggen criteria/gewenste acties
-<ul><li> Eventueel legt de leerkracht criteria op. De leerlingen kunnen daar dan al dan niet extra criteria aan toevoegen.</li></ul>
-</li></ul>
-<ul><li>‘Lichaam robot’ ontwerpen (tekening)</li></ul>
-<ul><li>‘Acties robot’ bedenken</li></ul>
-<ul><li>Nodige actuatoren en sensoren</li></ul>
+<ul>
+    <li>Een ontwerpidee genereren</li>
+    <li>Vastleggen criteria/gewenste acties</li>
+    <li> Eventueel legt de leerkracht criteria op. De leerlingen kunnen daar dan al dan niet extra criteria aan toevoegen.</li>
+    <li>‘Lichaam robot’ ontwerpen (tekening)</li>
+    <li>‘Acties robot’ bedenken</li>
+    <li>Nodige actuatoren en sensoren</li>
+</ul>
     
 ![schetsontwerp](schetsontwerp.png)
 </decomposition>

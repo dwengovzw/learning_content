@@ -35,11 +35,13 @@ Pas het ontwerp van de sociale robot aan, rekening houdend met criteria.
 </context>
 <decomposition>
 Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
-<ul><li>Aftoetsen van het ontwerp aan de criteria</li></ul>
-<ul><li>‘Lichaam en acties robot’ aanpassen aan de criteria en beperkingen (bv. aanwezige hardware)</li></ul>
-<ul><li>Nodige actuatoren en sensoren aanpassen</li></ul>
-<ul><li>Tekening aanpassen</li></ul>
-<ul><li>Algoritme aanpassen</li></ul>
+<ul>
+    <li>Aftoetsen van het ontwerp aan de criteria</li>
+    <li>‘Lichaam en acties robot’ aanpassen aan de criteria en beperkingen (bv. aanwezige hardware)</li>
+    <li>Nodige actuatoren en sensoren aanpassen</li>
+    <li>Tekening aanpassen</li>
+    <li>Algoritme aanpassen</li>
+</ul>
     
 ![schetsontwerp](schetsontwerp.png)
 </decomposition>
