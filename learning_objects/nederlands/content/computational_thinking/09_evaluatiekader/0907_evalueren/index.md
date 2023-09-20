@@ -29,30 +29,31 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# Evalueren
 ## Evalueren van de volgende leeractiviteit: Verkennen van de constructiekit sociale robot
 
 ![Kit](https://github.com/dwengovzw/learning_content/assets/48352335/3d5353ce-ff58-4eb5-a3b3-f859f917731a)
 
 **Onderwijsdoel/leerplandoel:**<br>
-De leerlingen onderscheiden bouwstenen van digitale systemen en lichten toe hoe deze samenwerken om een het systeem te laten functioneren.
+De leerlingen onderscheiden bouwstenen van digitale systemen en lichten toe hoe deze samenwerken om het systeem te laten functioneren.
 
-**Concepten:**<br>
+**Concepten:**
 * Decompositie: componenten identificeren + verdeling elektronica/niet-elektronica
 * Patroonherkenning: herkennen van invoer, verwerking, uitvoer en transport
-* Abstractie: negeren van niet-elektronica componenten
+* Abstractie: negeren van niet-elektronicacomponenten
 * Digitaal inzicht: het functioneren van een digitaal systeem toelichten
 
-**Leerdoelen:**<br>
-* De leerlingen identificeren iedere component van de constructiekit en onderscheiden elektronica- en niet-elektronica van elkaar. (Begrijpen)
-* De leerlingen focussen zich op de elektronica-componenten en negeren de niet-elektronica-componenten. (Toepassen)
-* De leerlingen herkennen welke elektronica-componenten verantwoordelijk zijn voor invoer, verwerking, uitvoer en transport. (Begrijpen)
+**Leerdoelen:**
+* De leerlingen identificeren iedere component van de constructiekit en onderscheiden elektronica en niet-elektronica van elkaar. (Begrijpen)
+* De leerlingen focussen zich op de elektronicacomponenten en negeren de niet-elektronicacomponenten. (Toepassen)
+* De leerlingen herkennen welke elektronicacomponenten verantwoordelijk zijn voor invoer, verwerking, uitvoer en transport. (Begrijpen)
 * De leerlingen verbinden zelf gekozen elektronische componenten met elkaar. (Toepassen)
-* De leerlingen leggen uit hoe het digitaal systeem kan functioneren. (Begrijpen)
+* De leerlingen leggen uit hoe het digitale systeem kan functioneren. (Begrijpen)
 
-**Leerlingenopdrachten:**<br>
-* De leerlingen verdelen de componenten van de constructiekit in volgens elektronica en niet-elektronica.
-* De leerlingen gebruiken de leerlingenfiches om iedere elektronica-component van de constructiekit te benoemen.
-* De leerlingen verdelen de elektronica-componenten in volgens invoer, verwerking, uitvoer en transport.
+**Leerlingenopdrachten:**
+* De leerlingen delen de componenten van de constructiekit in volgens elektronica en niet-elektronica.
+* De leerlingen gebruiken de leerlingenfiches om iedere elektronicacomponent van de constructiekit te benoemen.
+* De leerlingen verdelen de elektronicacomponenten in volgens invoer, verwerking, uitvoer en transport.
 * De leerlingen gebruiken de leerlingenfiches om elektronische componenten aan te sluiten op de Dwenguino.
 * De leerlingen lichten toe hoe hun digitaal systeem kan functioneren. Ze kiezen zelf hoe ze dit uitleggen via een tekening, tekst, filmpje ...
 

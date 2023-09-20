@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Handelingswerkwoorden
 
-https://docs.vlaamsparlement.be/pfile?id=1970520
+> Klik [Hier](https://docs.vlaamsparlement.be/pfile?id=1970520) voor het voorstel van het decreet, zoals gepresenteerd in het Vlaams parlement.
 
 * Eindtermen zijn minimumdoelen in de vorm van sober geformuleerde doelzinnen met
 duidelijke handelingswerkwoorden waarbij de kennis telkens geëxpliciteerd wordt en
@@ -41,18 +41,23 @@ duidelijk is wat wordt verwacht (evalueerbaarheid). De eindtermen zijn in hun sa
 competentiegericht: de totale set van eindtermen bepaalt het vermogen van leerlingen om
 kennis, inzichten, vaardigheden en attitudes aan te wenden in hun handelen. Niet in elke
 eindterm komen die elementen allemaal noodzakelijk apart aan bod.
+
 * Een eindterm bestaat in beginsel uit 1 doelzin met 1 handelingswerkwoord maar waar
 nodig kan gekozen worden voor meerdere handelingswerkwoorden.
+
 * De kennis wordt in principe geïntegreerd in de doelzin en wordt desgevallend apart
 geëxpliciteerd.
+
 * Relevante, functionele contexten worden enkel in de doelzin opgenomen indien
 noodzakelijk.
+
 * Eindtermen hebben geen didactische inkleuring.
+
 * Kennis die aan bod kwam in de eindtermen van het basisonderwijs of een voorafgaande
 graad, wordt in de regel niet meer herhaald in de eindtermen van de daaropvolgende
 graad
 
-[Handelingswerkwoorden](embed/handelingswerkwoorden.pdf)
+> Dit is een lijst van alle [Handelingswerkwoorden](embed/handelingswerkwoorden.pdf).
 
 Wanneer in de specifieke eindtermen ‘Fysica’ de handelingswerkwoorden ‘kwantificeren’ en
 ‘analyseren’ gebruikt worden, wordt het volgende bedoeld:
@@ -61,7 +66,7 @@ Wanneer in de specifieke eindtermen ‘Fysica’ de handelingswerkwoorden ‘kwa
 vergelijkingen
 
 
-In het leerplan II-CoTa-d van KOV, voor 'Communicatiewetenschappen en taaltechnologie', tweede graad finaliteit Doorstroom, lees je: <br>
+In het leerplan *'II-CoTa-d'* van KOV, voor 'Communicatiewetenschappen en taaltechnologie', tweede graad finaliteit Doorstroom, lees je: <br>
 *"In het glossarium vind je synoniemen voor en toelichting bij een aantal handelingswerkwoorden die je terugvindt in leerplandoelen en (specifieke) minimumdoelen van verschillende graden."*<br>
 |Handelingswerkwoord|Synoniem|Toelichting|
 |-------------------|--------|-----------|
@@ -94,7 +99,7 @@ In het leerplan II-CoTa-d van KOV, voor 'Communicatiewetenschappen en taaltechno
 |Toepassen|Gebruiken, hanteren, inzetten||	
 |Toetsen|Testen||	
 
-In het leerplan III-Wis-da van KOV, voor 'Wiskunde B', derde graad, dubbele finaliteit, lees je ook nog:<br>
+In het leerplan *'III-Wis-da'* van KOV, voor 'Wiskunde B', derde graad, dubbele finaliteit, lees je ook nog:<br>
 |Handelingswerkwoord|Synoniem|Toelichting|
 |-------------------|--------|-----------|
 |Argumenten geven voor|Beargumenteren, onderbouwen, verklaren||	

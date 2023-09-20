@@ -30,17 +30,19 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Inspiratievoorbeelden
+# Evalueren
 
-In wat volgt worden voorbeelden gegeven ter inspiratie.
+## Inspiratievoorbeelden
+
+In wat volgt, worden voorbeelden gegeven ter inspiratie.
 
 Hier alvast een eerste voorbeeld: hoe evalueer je code die leerlingen geschreven hebben? Welke criteria zijn er zinvol?
 
-----------------------
+---
 
-# Het evalueren van programmeren vereist een eigen aanpak
+## Gepersonaliseerde aanpak
 
-Programmeeropdrachten worden vaak verbeterd door leerkrachten die geen opleiding in informaticawetenschappen genoten. En omdat programmeren vaak aangewend wordt om met computationeel denken aan de slag te gaan in de klas, geven we hier enkele criteria mee om programmeeropdrachten te verbeteren.
+Programmeeropdrachten worden vaak verbeterd door leerkrachten die geen opleiding in informaticawetenschappen genoten. Omdat programmeren echter vaak aangewend wordt om met computationeel denken aan de slag te gaan in de klas, geven we hier enkele criteria mee om programmeeropdrachten te verbeteren.
 
 Deze criteria zijn opgemaakt voor programmeeropdrachten in de eerste graad binnen een blokgebaseerde omgeving, maar zijn zeker ook zinvol in andere graden en binnen een tekstuele omgeving.
 
