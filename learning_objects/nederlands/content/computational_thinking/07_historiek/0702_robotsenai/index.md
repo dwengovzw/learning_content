@@ -53,10 +53,13 @@ Tevens in de 18de eeuw moest de Mechanische Turk (zie Figuur 2.1) de mensen late
 De dag van vandaag vertaalt zich dit in de ontwikkeling van de **artificiële intelligentie** (AI), waaronder de zoektocht naar AGI (artificial general intelligence). AI-systemen zijn al op verschillende domeinen actief, bv. ter ondersteuning van een radioloog bij het beoordelen van medische beelden. 
 
 <div class="alert alert-box alert-success">
+<strong><h5>Objectiviteit</h5></strong>
 Er zijn dus meerdere drijfveren die leiden tot het ontwikkelen van artificieel intelligente systemen, zoals het willen automatiseren van bepaalde processen en het nabootsen van menselijk gedrag. <br> 
 Maar er is nog een mogelijke motivatie voor het inzetten (en ontwikkelen) van AI: als mensen beslissingen nemen, dan zijn die niet altijd gebaseerd op objectieve overwegingen. Een ogenschijnlijk objectief toestel, zoals een computer, beslissingen laten nemen, lijkt dus een aanlokkelijk idee. 
 </div>
---------------------
+
+---
+
 #### Bronnen
 
 Kalligeropoulos, D. & Vasileiadou, S. (2008). *The Homeric Automata and Their Implementation*, (pp. 77–84). Dordrecht: Springer Netherlands.<br>
