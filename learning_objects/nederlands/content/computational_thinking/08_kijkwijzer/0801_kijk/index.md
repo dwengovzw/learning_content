@@ -32,12 +32,13 @@ teacher_exclusive: true
 
 # De opdracht/probleemstelling
 
-* De opdracht/probleemstelling is functioneel relevant voor de doelgroep. 
-  > Bij voorkeur: de opdracht is gekoppeld aan een eindterm/minimumdoel met inhouden specifiek voor de studierichting.
-  
-  Voorbeeld: het opstellen van een teeltplan past in het toepassingsgebied 'biotechniek' voor het vak techniek in de eerste graad B-stroom.
-* De opdracht/probleemstelling behandelt een maatschappelijk relevant probleem/vraagstuk.
-* De opdracht/probleemstelling daagt leerlingen uit om de basisconcepten in te zetten om tot een oplossing te komen. 
-* De opdracht kan leiden tot het inzetten van een computer om het probleem op te lossen.
+**De opdracht/probleemstelling is functioneel relevant voor de doelgroep.**
+Bij voorkeur is de opdracht gekoppeld aan een eindterm/minimumdoel met inhouden specifiek voor de studierichting. Bv. het opstellen van een teeltplan past in het toepassingsgebied 'biotechniek' voor het vak techniek in de eerste graad B-stroom.
+
+**De opdracht/probleemstelling behandelt een maatschappelijk relevant probleem/vraagstuk.**
+
+**De opdracht/probleemstelling daagt leerlingen uit om de basisconcepten in te zetten om tot een oplossing te komen.**
+
+**De opdracht kan leiden tot het inzetten van een computer om het probleem op te lossen.**
 
 
