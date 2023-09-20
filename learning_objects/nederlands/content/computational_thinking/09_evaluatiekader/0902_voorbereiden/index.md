@@ -41,7 +41,7 @@ Je wil dat leerlingen zowel weten hoe ze een digitaal systeem moeten gebruiken, 
 Je wil dat leerlingen een probleem doordacht opsplitsen in goedgekozen deelproblemen, zodat elk deel afzonderlijk kan worden aangepakt, en een oplossing van het probleem gemakkelijker bekomen wordt.
 
 **Abstractie**<br>
-Je wil dat leerlingen informatie negeren die niet nodig is om een probleem op te lossen en dat ze bepaalde details verbergen om in grote lijnen over een probleem te kunnen nadenken. Want bij het aanpakken van complexe problemen is er nood aan abstractie omdat het redeneren vlotter verloopt zonder de ballast van irrelevante details.
+Je wil dat leerlingen informatie negeren die niet nodig is om een probleem op te lossen, en dat ze bepaalde details verbergen om in grote lijnen over een probleem te kunnen nadenken. Want bij het aanpakken van complexe problemen is er nood aan abstractie, omdat het redeneren vlotter verloopt zonder de ballast van irrelevante details.
 
 **Patroonherkenning**<br>
 Je wil dat leerlingen achterhalen dat bepaalde aspecten van een probleem gelijkenissen vertonen, waardoor het vereenvoudigd kan worden en/of dat ze herkennen dat een probleem gelijkenissen vertoont met een eerder opgelost probleem.
@@ -65,7 +65,7 @@ Je wil dat leerlingen zowel bestaande methoden volgen, alsook nieuwe manieren zo
 Je wil dat leerlingen bij het oplossen van problemen de vastberadenheid hebben om door te gaan, verschillende benaderingen proberen en leren uit hun fouten.
 
 **Logisch denken**<br>
-Je wil dat leerlingen wat ze geleerd hebben in logica in wiskunde toepassen bij het ontwerpen van een algoritme.
+Je wil dat leerlingen wat ze geleerd hebben in logica, in wiskunde toepassen bij het ontwerpen van een algoritme.
 
 **Modelleren en simuleren**<br>
 Je wil dat leerlingen een wiskundig model ontwerpen en gebruiken om een bepaald fenomeen te simuleren. 
@@ -74,7 +74,7 @@ Je wil dat leerlingen een wiskundig model ontwerpen en gebruiken om een bepaald 
 Je wil dat leerlingen correct inschatten welke data geschikt zijn bij het aanpakken van een probleem, dat ze die data verzamelen, op een goede manier visualiseren en vervolgens analyseren en interpreteren. 
 
 **Communiceren**<br>
-Je wil dat de leerlingen over hun aanpak en oplossing van een probleem communiceren op een heldere manier, en de genomen keuzes argumenteren. 
+Je wil dat leerlingen over hun aanpak en oplossing van een probleem communiceren op een heldere manier, en de genomen keuzes argumenteren. 
 
 ## Hoe kan je je voorbereiden op het evalueren van computationeel denken? 
 
@@ -85,4 +85,3 @@ Je wil dat de leerlingen over hun aanpak en oplossing van een probleem communice
 * Formuleer leerlingenopdrachten.
 * Leg de evaluatievormen vast.
 * Vul de evaluatiefiche in via het sjabloon dat hierna aangereikt wordt.
-
