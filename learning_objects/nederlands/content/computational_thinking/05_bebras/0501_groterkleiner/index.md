@@ -50,6 +50,8 @@ De jonge bevers Anna, Britt, Charlotte, Demi en Emma - allemaal met een verschil
 
 *In welke volgorde staan de bevers opgesteld?*
 
+---
+
 #### Oplossing
 
 Er zijn 5 bevers. <br>
@@ -58,9 +60,9 @@ Uit de tabel kan je afleiden dat Demi de grootste is want geen enkele bever ervo
 ![bebrasdecompositiestap1](embed/bebrasdecompositiestap1.png)
 
 Redeneer nu op de volgende manier:<br>
-- Omdat iedereen kleiner is dan Demi, is Demi groter dan Charlotte, en moet het Demi zijn die voor Charlotte in de rij staat.   
+- Demi is groter dan iedereen er is slechts 1 iemand groter dan Charlotte. Demi is groter dan Charlotte, en staat dus voor Charlotte in de rij.   
     - Demi - Charlotte
-- Er zijn twee bevers groter dan Emma en die staan voor Emma. Die twee bevers zijn Demi en Charlotte.  
+- Er zijn slechts twee bevers groter dan Emma en die staan voor Emma. Die twee bevers zijn dan Demi en Charlotte.  
     - Demi - Charlotte - Emma
 - Omdat slechts één grotere bever voor Anna staat, moet dat Demi zijn. Dus Anna komt na Demi en voor Charlotte en Emma. 
     - Demi - Anna - Charlotte - Emma

@@ -43,11 +43,13 @@ Een ijsmachine produceert gekleurde bollen op een bijzondere systematische manie
 
 *Hoe ziet het volgende ijsje eruit dat door de machine wordt gemaakt?*
 
-##### Oplossing
+---
+
+#### Oplossing
 
 ![IJsjesmachine](embed/bebraspatroonoplossing.png "Bebras IJsjesmachine oplossing")
 
-##### Bespreking
+#### Bespreking
 In deze opgave wordt er expliciet gevraagd om een **patroon** te herkennen en te extrapoleren. Deze opgave is bedoeld voor heel jonge kinderen en is dus voor iedereen gemakkelijk te begrijpen.
 
 De ijsmachine produceert bollen in vier verschillende kleuren en bovendien in een vaste volgorde die zich steeds herhaalt. Na vier bollen wordt een kleur dus herhaald. Dus de onderste bol van een ijsje heeft altijd dezelfde kleur als de bovenste bol van het vorige ijsje.
