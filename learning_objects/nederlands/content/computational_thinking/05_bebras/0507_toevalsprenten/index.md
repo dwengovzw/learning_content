@@ -52,6 +52,8 @@ De bevers hebben een klein bedrijfje dat gepersonaliseerde wenskaarten en gesche
 
 ![Toevalsprenten](embed/bebrasabstractie2.png "Bebras Toevalsprent")
 
+---
+
 ##### Oplossing
 
 Het volgende model kan niet door dit bedrijfje zijn gemaakt:

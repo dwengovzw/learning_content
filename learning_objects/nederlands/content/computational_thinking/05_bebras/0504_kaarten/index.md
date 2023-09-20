@@ -53,13 +53,15 @@ Het spel start met 32 kaarten met alle prenten naar beneden:
 
 *Hoeveel kaarten liggen met de prent **naar boven** nadat je precies 32 stappen in het spel hebt gedaan? (Antwoord met een getal.)*
 
-##### Oplossing
+---
+
+#### Oplossing
 
 ![Kaarten omdraaien](embed/bebrasalgoritmepatroonoplossing.png "Bebras Kaarten omdraaien oplossing")
 
 Merk op dat na 1 stap, na 2, 4, 8 stappen er telkens 1 kaart met de prent naar boven ligt. Dat zijn stappen 2<sup>0</sup>, 2<sup>1</sup>, 2<sup>2</sup>, 2<sup>3</sup>, alle machten van 2. 32 is ook een macht van 2. Na 32 stappen ligt er 1 kaart met de prent naar boven. 
 
-##### Bespreking
+#### Bespreking
 
 Merk op dat je hier opnieuw een algoritme uitvoert en niet zelf bedenkt, zoals in voorbeeld 2.
 Behalve het feit dat je hier een **algoritme** moet uitvoeren, is hier ook sprake van **patroonherkenning**. Tijdens het uitvoeren van het algoritme moet je merken dat er precies één kaart met de prent naar boven ligt na 1 stap, na 2 stappen, na 4 stappen, en dan telkens na het dubbel aantal stappen als de keer ervoor. Het aantal stappen is dus steeds een macht van 2. 32 is 2 tot de vijfde, dus ook dan ligt er één kaart met de prent naar boven. 

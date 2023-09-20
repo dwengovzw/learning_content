@@ -45,7 +45,9 @@ Er zijn echter enkele plaatsen op de kaart, aangeduid met een rode X, waar hij n
 
 *Hoeveel verschillende routes van het huis naar het park kan hij volgen met dezelfde minimale lengte?*
 
-##### Oplossing
+---
+
+#### Oplossing
 
 Er zijn 18 routes met dezelfde minimale lengte (nl. 9 verplaatsingen, 6 naar rechts en 3 naar boven).
 
@@ -54,7 +56,7 @@ Er zijn 18 routes met dezelfde minimale lengte (nl. 9 verplaatsingen, 6 naar rec
 Het aantal mogelijke routes tot aan een bepaald kruispunt is de som van het aantal routes dat van links komt en het aantal dat van beneden komt. (Je mag niet van rechts of van boven komen, want dan moet je ooit terugkeren en dan is het pad niet van minimale lengte.)<br>
 Daarom noteer je vanaf links onderaan bij elk kruispunt de aantallen en verplaats je je stap voor stap naar rechts en naar boven. Het getal dat je dan rechtsboven opschrijft, is het uiteindelijke antwoord.
 
-##### Bespreking
+#### Bespreking
 
 De oplossing bestaat uit twee denkstappen: 
 - een eerste stap bestaat erin je te realiseren dat je in een kortste route noodgedwongen nooit naar links of naar beneden beweegt;

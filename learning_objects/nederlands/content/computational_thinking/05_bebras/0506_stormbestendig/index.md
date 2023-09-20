@@ -45,13 +45,15 @@ Door de sterke wind op het eiland gebeurt het af en toe dat een mast breekt. Als
 
 ![Stormbestendig netwerk](embed/bebrasabstractie.png "Bebras Abstractie maken")
 
-##### Oplossing
+---
+
+#### Oplossing
 
 Het juiste antwoord is B. 
 
 ![Stormbestendig netwerk](embed/bebrasabstractieoplossing.png "Bebras Stormbestendig netwerk oplossing")
 
-##### Bespreking
+#### Bespreking
 
 In de afgebeelde opstellingen worden masten voorgesteld door punten en dekkingsgebieden door cirkels. Dit is een eerste **abstractie** die je correct moet interpreteren.
 

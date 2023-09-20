@@ -44,13 +44,15 @@ De linker afbeelding hieronder toont het traject dat de robot zal volgen in het 
 
 *Als mevrouw Bever haar robot helemaal links plaatst in doolhof nr. 2, in welk vak zal de robot dan uiteindelijk vallen?*
 
-##### Oplossing
+---
+
+#### Oplossing
 
 ![Naar beneden](embed/bebrasalgoritmeoplossing.png "Bebras Naar beneden oplossing")
 
 Je vindt de oplossing door het **algoritme** uit te voeren dat is opgegeven.
 
-##### Bespreking
+#### Bespreking
 
 De robot verplaatst zich volgens een gegeven **algoritme**. Dat algoritme moet je begrijpen en toepassen op het tweede doolhof. 
 
