@@ -46,7 +46,7 @@ Een eerste nood, de nood aan een werkbare definitie van computationeel denken, w
 
 ---
 
-#### Bronnen:
+#### Bronnen
 Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM
 Inroads, 2*(1), 48-54.<br>
 Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing Computational Thinking in Compulsory Education : Implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>

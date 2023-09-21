@@ -62,7 +62,7 @@ Het is belangrijk dat leerkrachten deze misconcepties kennen.
 
 ---
 
-#### Bronnen: 
+#### Bronnen 
 Barr, V. & Stephenson, C. (2011). Bringing Computational Thinking to K-12: What is Involved and What is the Role of the Computer Science Education Community? *ACM
 Inroads*, 2(1), 48-54.<br>
 Bell, T. (2018). Computer Science in K-12 Education: The Big Picture. *Olympiads in Informatics, 12*, 3-11.<br>
