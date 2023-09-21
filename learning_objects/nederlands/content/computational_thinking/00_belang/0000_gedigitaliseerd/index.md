@@ -60,5 +60,5 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
 
 ---
 
-#### Bronnen:
+#### Bronnen
 Riley, D. & Hunt, K. (2014). *COMPUTATIONAL THINKING FOR THE MODERN PROBLEM SOLVER.* Florida, Verenigde Staten: Chapman and Hall/CRC.

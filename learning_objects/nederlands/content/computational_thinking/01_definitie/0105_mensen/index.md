@@ -60,7 +60,7 @@ Bij het ontwerpen van een nieuw systeem betrekt men best de mensen die ermee zul
 
 ---
 
-#### Bronnen: 
+#### Bronnen 
 Bell, T. (2018). Computer Science in K-12 Education: The Big Picture. *Olympiads in Informatics, 12*, 3-11.<br>
 Curzon, P. & McOwan, P. (2017). *The Power of Computational Thinking.* Londen: World Scientific Publishing Europe.<br>
 Denning, P. & Tedre, M. (2019). *Computational thinking.* VS: MIT Press.<br>

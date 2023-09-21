@@ -54,13 +54,13 @@ De bevers hebben een klein bedrijfje dat gepersonaliseerde wenskaarten en gesche
 
 ---
 
-##### Oplossing
+#### Oplossing
 
 Het volgende model kan niet door dit bedrijfje zijn gemaakt:
 
 ![Toevalsprenten](embed/bebrasabstractie2oplossing.png "Bebras Toevalsprent oplossing")
 
-##### Bespreking
+#### Bespreking
 
 Deze afbeelding bevat twee cirkels van verschillende grootte en van een verschillende kleur. In het algoritme wordt de kleur van de cirkel slechts één keer bepaald, namelijk helemaal in het begin; nadien kunnen de cirkels nog wel van grootte veranderen, maar niet van kleur.<br>
 Alle andere antwoorden zijn mogelijke ontwerpen, ook al is dat misschien niet meteen duidelijk. Er moeten evenveel cirkels als vierkanten worden afgedrukt, maar het is best mogelijk dat een vierkant bovenop een cirkel wordt gedrukt en deze op die manier verbergt! Hou er ook rekening mee dat een cirkel of een vierkant toevallig dezelfde kleur kan hebben als de achtergrond.

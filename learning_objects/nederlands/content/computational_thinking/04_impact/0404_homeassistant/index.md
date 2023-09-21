@@ -94,7 +94,7 @@ Wat je tegen de spraakassistent zegt, komt terecht in de cloud. Als je aan Siri 
 Radio 1. Bij Debecker. Gesprek vanaf minuut 3:09. ["We hoeven niet meteen bang te zijn dat apps ons constant afluisteren"](https://radio1.be/lees/we-hoeven-niet-meteen-bang-te-zijn-dat-apps-ons-constant-afluisteren) 
 
 ------------------------------
-##### Bronnen
+#### Bronnen
 
 Capgemini Research Institute (2019). *Voice on the go. How can auto manufacturers provide a superior in-car voice experience.* Geraadpleegd op 9 augustus 2021 via https://www.capgemini.com/wp-content/uploads/2019/11/Report-%E2%80%93-Voice-on-the-Go.pdf<br>
 Fabri M. (15 april 2019), *Apps kunnen meeluisteren, maar doen ze dat wel?* [Blogpost]. Factcheck Vlaanderen. Geraadpleegd op 5 augustus 2023 via https://factcheck.vlaanderen/factcheck/apps-kunnen-meeluisteren-doen-wel <br>

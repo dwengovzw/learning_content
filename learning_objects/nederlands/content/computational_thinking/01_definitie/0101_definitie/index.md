@@ -93,5 +93,5 @@ Er zijn sinds 2019 verplichte minimale leerdoelen 'Computationeel denken en hand
 
 ---
 
-#### Bronnen: 
+#### Bronnen 
 AHOVOKS (2020). Uitgangspunten. Geraadpleegd op 26 mei 2022 via [https://onderwijsdoelen.be/uitgangspunten/4814](https://onderwijsdoelen.be/uitgangspunten/4814)
