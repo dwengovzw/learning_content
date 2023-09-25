@@ -34,7 +34,7 @@ teacher_exclusive: true
 Internationaal is er geen consensus over een definitie van computationeel denken, nochtans wel over enkele basisconcepten. Je leest hier meer over in het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3). 
 
 De concepten en praktijken van computationeel denken worden niet door iedereen op dezelfde manier gepercipieerd. Maar voor het Vlaamse onderwijs is het vooral interessant te weten welke er in de eindtermen, minimumdoelen en leerplannen voorkomen. Je wil immers weten **welke je zeker aan bod moet laten komen in jouw lessen.** <br>
-De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. In het leerpad 'Eindtermen en minimumdoelen' lees je daar meer over.
+De eindtermen en minimumdoelen gaan verder dan de vier basisconcepten van computationeel denken. Ze beogen een basiskennis over computerwetenschappen. Het gaat immers ook over computationeel handelen. In het leerpad ['Eindtermen en minimumdoelen'](https://staging.dwengo.org/learning-path.html?hruid=ct8_eindtermen&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct06_00;nl;3) lees je daar meer over.
 
 We hebben verschillende kaders van onderzoekers afgetoetst aan de Vlaamse eindtermen en minimumdoelen.
 Twee kaders van onderzoekers vertoonden daar veel overeenkomst mee en kunnen daarom inspiratie bieden over de concepten en praktijken van computationeel denken die aan bod kunnen komen in jouw lessen.
@@ -43,7 +43,7 @@ Twee kaders van onderzoekers vertoonden daar veel overeenkomst mee en kunnen daa
 
 In plaats van te kijken waarover er consensus is, kan je echter ook nagaan welke aspecten van computationeel denken er allemaal worden aangehaald.<br>Michael Lodi (2020) gooide het over deze andere boeg en hij kwam tot het volgende: 
 
-**overzicht van denkprocessen, activiteiten en manieren van aanpak**:
+**Overzicht van denkprocessen, activiteiten en manieren van aanpak**:
 
 |**Denkprocessen**|**Methodes / activiteiten**|**Praktijken / manieren van aanpak**|
 |---------------|------------------------|---------------------|

@@ -38,7 +38,7 @@ Computationeel denken kent heel wat concepten en praktijken.
 
 Op de poster zie je concepten van computationeel denken en manieren van aanpak. Deze lijst van concepten, praktijken en vaardigheden is niet volledig. Het valt bijvoorbeeld op dat 'modelleren' in de lijst ontbreekt. 
 
-> In de definitie bij de uitgangspunten van de eindtermen van de eerste graad wordt modelleren expliciet vermeld (zie Leerpad 'Eindtermen').
+> In de definitie bij de uitgangspunten van de eindtermen van de eerste graad wordt modelleren expliciet vermeld (zie Leerpad ['Eindtermen'](https://staging.dwengo.org/learning-path.html?hruid=ct8_eindtermen&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct06_00;nl;3)).
 
 Over de vier basisconcepten 'decompositie, patroonherkenning, abstractie en algortime' is er internationaal een consensus. Welke andere concepten en praktijken men aanhaalt, durft nogal eens verschillen afhankelijk van wie het is, van de opleiding van die persoon en waarvoor die computationeel denken gebruikt. (Je las hier eerder over in het leerobject 'Aandachtspunt: Consensus'.) 
  

@@ -86,7 +86,7 @@ In dit filmpje krijg je stap voor stap het programmeergedeelte te zien.
 
 **Voorkennis:** De leerlingen gebruiken de zelfgedefinieerde functie in een oefening met context.
 
-#### Uitdaging: "New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in kilometer?"
+**Uitdaging: "New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in kilometer?"**
 
 *De leerlingen bedenken zelf dat ze een routeplanner en de stelling van Pythagoras kunnen gebruiken.*
 
