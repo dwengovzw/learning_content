@@ -36,13 +36,24 @@ teacher_exclusive: true
 
 *In de context van de klimaatverandering gaan de leerlingen aan de slag met 'echte' data. Ze vertrekken daarbij van een uitdaging. Ze moeten zelf op zoek gaan naar de data, deze visualiseren a.d.h.v. een spreidingsdiagram en op zoek gaan naar een eventuele trendlijn.*
 
-**Doelgoep:** 2de of 3de graad - dubbele finaliteit of finaliteit doorstroom
+**Doelgroep:** 
+* 2de of 3de graad - dubbele finaliteit
+* 2de of 3de graad - finaliteit doorstroom
 
 **Vak:** 
 * Wiskunde - Wetenschappen - STEM
 * Informaticawetenschappen
 
-**Doelgroep:** derde graad - Bedrijfsondersteunende Informaticawetenschappen, Economie-Wiskunde, Grieks-Wiskunde, Informatica- en communicatiewetenschappen, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde, Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtwetenschappen, Mechatronica
+**Doelgroep:** 
+* derde graad - Bedrijfsondersteunende Informaticawetenschappen
+* Economie-Wiskunde, Grieks-Wiskunde
+* Informatica- en communicatiewetenschappen
+* Latijn-Wiskunde
+* Technologische wetenschappen en engineering
+* Wetenschappen-Wiskunde
+* Biotechnologische en chemische STEM-wetenschappen
+* Bouw- en houtwetenschappen
+* Mechatronica
 
 ### Uitdaging: Analyseer hoe het zeeniveau in Oostende in de toekomst zal evolueren.
 

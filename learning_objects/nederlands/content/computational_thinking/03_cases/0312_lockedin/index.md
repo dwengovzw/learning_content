@@ -40,6 +40,7 @@ Deze case maakt deel uit van het project 'AI in de Zorg', maar kan ook los van d
 **Doelgroep:** iedereen
 
 **Vak:** /
+
 **Voorkennis:** geen
 
 ![ct-schema](@learning-object/m_ct03_12/nl/3)
