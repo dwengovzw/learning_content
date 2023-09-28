@@ -39,6 +39,7 @@ Nu we een **abstracte voorstelling** hebben van de verplaatsingen tussen de vers
 |  |  |
 | - | - |
 | Hier zie je een voorbeeld van hoe we de graaf in twee gelijke stukken kunnen knippen. De rode lijn stelt de lijn voor langs waar we de graaf in twee knippen. Elke boog die de lijn kruist, knippen we door. De totale kost van de knip is dan de som van de gewichten van alle bogen die we doorknippen.  | ![Knip in de graaf.](embed/verplaatsingen_chaos_cut.png "Graaf knip.") |
+|  |  |
 | Op deze afbeelding zie je de bogen die doorgeknipt worden, deze worden voorgesteld door een stippellijn. Deze verzameling van bogen noemen we een knip. De totale kost van deze knip is de som van de gewichten op de stippellijnen. 3 + 5 + 4 + 2 + 6 + 4 = 24 | ![Knip in de graaf.](embed/verplaatsingen_chaos_cut_finished.png "Graaf knip.") |
 
 
