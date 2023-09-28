@@ -57,8 +57,22 @@ De volgorde waarin de verplaatsingen gebeuren is voor ons niet van belang. Wij w
 | **4** | 0 | 0 | 2 | 0 | 2 | 0 | 2 | 0 |
 | **5** | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 3 | 
 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 
-| **7** | 0 | 3 | 0 | 0 | 0 | 2 | 4 | 4 | 
+| **7** | 0 | **3** | 0 | 0 | 0 | 2 | 4 | 4 | 
 | **8** | 2 | 3 | 2 | 0 | 0 | 0 | 2 | 0 | 
 | **9** | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 3 | 
 | **10** | 0 | 0 | 3 | 2 | 2 | 0 | 0 | 0 |
 | **11** | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+
+De tabel geeft het aantal verplaatsingen weer van het verdiep in de eerste kolom naar het verdiep in de eerste rij van de tabel. De cel in het vet op coordinaat (rij 7, kolom 5) stelt bijvoorbeeld het aantal verplaatsingen tussen verdieping zeven en vijf voor (= 3).
+Merk op dat deze verplaatsingen ook de richting aangeven. Er zijn bijvoorbeeld twee verplaatsingen van verdieping zeven naar verdieping negen maar ook twee verplaatsingen van verdieping negen naar zeven. De richting van de verplaatsing is voor ons niet van belang, enkel het aantal verplaatsingen. Deze overbodige informatie laten we weg om het probleem te vereenvoudigen (**abstractie**). We kunnen onze tabel dus omvormen naar een bovendriehoeksmatrix door de verplaatsingen tussen dezelfde verdiepingen op te tellen. Dan krijgen we de volgende tabel:
+
+|  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
+| ----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- |
+| **4** | 0 | 0 | 2 | 0 | 2 | 0 | 2 | 0 |
+| **5** | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 3 | 
+| **6** | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 
+| **7** | 0 | 0 | 0 | 0 | 0 | 2 | 4 | 4 | 
+| **8** | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 
+| **9** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 
+| **10** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **11** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
