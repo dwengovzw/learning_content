@@ -50,5 +50,5 @@ Als je al een beetje kennis hebt van informaticawetenschappen komt deze soort ma
 
 | ![Grafische weergave van de graaf met verplaatsingen tussen de verdiepingen.](embed/verplaatsingen_chaos_with_labels.png "Grafische weergave van graaf met verplaatsingen tussen de verdiepingen.") | 
 | ---- |
-| test |
+| **Afbeelding 1**: Voorstelling verplaatsingen tussen verdiepingen als graaf. |
 
