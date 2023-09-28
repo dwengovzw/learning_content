@@ -63,13 +63,45 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-elevator-riddle-analyzing-3",
+              "hruid": "org-dwengo-elevator-riddle-brute-force-1",
               "version": "1",
               "language": "nl"
             }
           }
         ]
-      }         
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-brute-force-1",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-elevator-riddle-brute-force-2",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-brute-force-2",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-elevator-riddle-brute-force-2",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      }                
     ]
   }
   
