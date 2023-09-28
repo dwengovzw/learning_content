@@ -1,5 +1,5 @@
 ---
-hruid: org_dwengo_elevator_riddle_question
+hruid: org-dwengo-elevator-riddle-question
 version: 1
 language: nl
 title: "Lift vraagstuk"
