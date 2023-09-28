@@ -44,5 +44,16 @@ We starten zonder verdeling. We hebben nog geen enkele verdieping gekozen om toe
 | x | x | x | x | x | x | x | x |
 |   |   |   |   |   |   |   |   |
 
+Voor de eerste verdieping in de lijst hebben we twee opties, ofwel kennen we die toe aan lift 1 ofwel niet. In het geval dat we deze verdieping niet kiezen voor lift 1 wordt deze automatisch toegekend aan lift 2. Dat geeft de volgende opties voor de eerste keuze:
 
+
+|   |   |   |   |   |   |   |   |
+| - | - | - | - | - | - | - | - |
+| 1 | x | x | x | x | x | x | x |
+|   |   |   |   |   |   |   |   |
+
+|   |   |   |   |   |   |   |   |
+| - | - | - | - | - | - | - | - |
+| 2 | x | x | x | x | x | x | x |
+|   |   |   |   |   |   |   |   |
 
