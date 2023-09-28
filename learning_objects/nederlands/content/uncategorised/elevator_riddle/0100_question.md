@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [16, 17, 18, 19, 20]
+target_ages: [16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -26,7 +26,6 @@ content_location: example-location
 estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
-    'https://w3id.org/onderwijs-vlaanderen/id/vak/informaticawetenschappen'
 ]
 teacher_exclusive: false
 ---
