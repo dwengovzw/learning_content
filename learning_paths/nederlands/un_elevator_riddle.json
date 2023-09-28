@@ -15,13 +15,29 @@
           {
             "default": true,
             "next": {
-              "hruid": "un_ai1",
-              "version": "3",
+              "hruid": "org-dwengo-elevator-riddle-analyzing-1",
+              "version": "1",
               "language": "nl"
             }
           }
         ]
-      }      
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-analyzing-1",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-elevator-riddle-question",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      }         
     ]
   }
   
