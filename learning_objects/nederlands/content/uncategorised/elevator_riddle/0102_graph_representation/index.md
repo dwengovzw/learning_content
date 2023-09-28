@@ -2,7 +2,7 @@
 hruid: org-dwengo-elevator-riddle-analyzing-2
 version: 1
 language: nl
-title: "Kiezen van een datastructuur."
+title: "Kiezen van een datastructuur"
 description: "Wanneer we gegevens willen verwerken met de computer moeten we die voorstellen in een datastructuur."
 keywords: ["grafen", "algoritme", "computationeel denken", "clustering", "datastructuur"]
 educational_goals: [
@@ -29,6 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+
+# Kiezen van een datastructuur
 
 |  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
 | ----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- |
