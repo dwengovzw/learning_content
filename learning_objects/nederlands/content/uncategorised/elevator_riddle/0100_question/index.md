@@ -37,7 +37,18 @@ De kantoren van Dwengo bevinden zich op de vierde tot en met elfde verdieping va
 
 De werknemers van Dwengo kunnen zich tussen de eigen verdiepingen verplaatsen met een privélift. Omdat het werknemersaantal de laatse jaren sterk is toegenomen, is de lift vaak overbelast. Om dat op te lossen laat Dwengo een extra privélift installeren. Om deze efficiënt in te zetten, beslissen ze om ervoor te zorgen dat de twee liften een eigen verzameling van verdiepingen hebben waar ze stoppen. Bijvoorbeeld, de ene lift stopt enkel op de even verdiepingen en de andere lift enkel op de oneven verdiepingen. Merk op dat er hierdoor geen verplaatsingen met de lift meer mogelijk zijn tussen even en oneven verdiepingen. Deze mensen moeten de trap nemen.
 
-Omdat er niet evenveel verplaatsingen zijn tussen de verdiepingen, wil Dwengo de opdeling zo kiezen dat er zo weinig mogelijk mensen de trap moeten nemen. Hierboven (tabel 1) kan je een overzicht zien van welke verplaatsingen er op een gemiddelde dag gebeuren.
+Omdat er niet evenveel verplaatsingen zijn tussen de verdiepingen, wil Dwengo de opdeling zo kiezen dat er zo weinig mogelijk mensen de trap moeten nemen. Hieronder kan je een overzicht zien van welke verplaatsingen er op een gemiddelde dag gebeuren.
+
+| Van verdieping      | Naar verdieping |
+| ----------- | ----------- |
+| 4      | 8, 10, 10, 8, 6, 6        |
+| 5   | 8, 8, 9, 9, 11, 11, 11, 9, 8         |
+| 6   | 10, 8, 10, 4         |
+| 7   | 10, 10, 11, 11, 11, 5, 11, 5, 9, 9, 5, 10, 10         |
+| 8   | 5, 5, 4, 6, 4, 6, 5, 10, 10         |
+| 9   | 5, 5, 11, 11, 7, 11, 7, 5         |
+| 10   | 6, 8, 8, 7, 6, 7, 6         |
+| 11   | 7, 5         |
 
 Op welke verdiepingen moet elk van de liften stoppen om ervoor te zorgen dat er zo weinig mogelijk mensen de trap moeten nemen? De twee liften stoppen elk op hun eigen vier verdiepingen, deze verzamelingen overlappen niet.
 
