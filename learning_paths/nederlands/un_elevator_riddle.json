@@ -95,7 +95,23 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-elevator-riddle-brute-force-2",
+              "hruid": "org-dwengo-elevator-riddle-brute-force-3",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-brute-force-3",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-elevator-riddle-brute-force-3",
               "version": "1",
               "language": "nl"
             }
