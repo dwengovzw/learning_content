@@ -34,8 +34,8 @@ teacher_exclusive: false
 
 Hieronder zie je de vertaling van de pseudocode naar Python.
 
-```
-#Deze functie genereert alle mogelijke combinaties van k elementen uit een rij van n elementen
+```python
+# Deze functie genereert alle mogelijke combinaties van k elementen uit een rij van n elementen
 def genereer_alle_mogelijke_keuzes(k, n):
     if k == 0: # Als k == 0 dan mogen er geen elementen meer worden gekozen
         return [[2 for _ in range(n)]]
