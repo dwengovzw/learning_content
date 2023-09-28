@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 Hieronder zie je de vertaling van de pseudocode naar Python.
 
-`
+```
 #Deze functie genereert alle mogelijke combinaties van k elementen uit een rij van n elementen
 def genereer_alle_mogelijke_keuzes(k, n):
     if k == 0: # Als k == 0 dan mogen er geen elementen meer worden gekozen
@@ -51,7 +51,7 @@ def genereer_alle_mogelijke_keuzes(k, n):
         # Ken het eerste verdiep in de rij toe aan lift 2. Combineer dit met alle mogelijke manieren om k elementen te kiezen uit n-1 elementen
         selections.extend([[2] + selection for selection in genereer_alle_mogelijke_keuzes(k, n-1)])
         return selections
-`
+```
 
 Merk op dat de functie genereer_alle_mogelijke_keuzes zichzelf aanroept. Een dergelijk algoritme noemen informaticawetenschappers een recursief algoritme. Recursieve algoritmes zijn vaak nuttig bij problemen waar een bepaald patroon zich herhaalt.
 
