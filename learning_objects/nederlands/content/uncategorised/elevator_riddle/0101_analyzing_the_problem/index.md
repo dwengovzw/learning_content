@@ -2,7 +2,7 @@
 hruid: org-dwengo-elevator-riddle-analyzing-1
 version: 1
 language: nl
-title: "Analyze van het probleem."
+title: "Analyze van het probleem"
 description: "Voor we een probleem kunnen oplossen met de computer, gebruiken we computationeel denken om het probleem te vertalen naar een vorm die de computer begrijpt."
 keywords: ["grafen", "algoritme", "computationeel denken", "clustering"]
 educational_goals: [
@@ -30,6 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
+# Analyse van het probleem
 
 In een eerste fase proberen we alle overbodige informatie die niet nodig is om het probleem op te lossen weg te laten. Door deze abstractie kunnen we focussen op de informatie die relevant is om het probleem op te lossen. Om dit te doen kijken we naar de vraagstelling:
 
