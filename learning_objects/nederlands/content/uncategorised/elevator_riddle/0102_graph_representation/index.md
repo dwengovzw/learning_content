@@ -32,6 +32,8 @@ teacher_exclusive: false
 
 # Kiezen van een datastructuur
 
+Het probleem voorstellen met een gekende datastructuur geeft ons de mogelijkheid om alle algoritmische technieken die bestaan op die datastructuur te gebruiken. Het kiezen van een gepaste datastructuur kan het dus makkelijker maken om het probleem op te lossen.
+
 |  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
 | ----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- |
 | **4** | 0 | 0 | 2 | 0 | 2 | 0 | 2 | 0 |
@@ -46,4 +48,7 @@ teacher_exclusive: false
 
 Als je al een beetje kennis hebt van informaticawetenschappen komt deze soort matrix je misschien bekend voor? Deze matrix heeft dezelfde structuur als de bogenmatrix of adjacentiematrix van een graaf (**patroonherkenning**). We kunnen deze matrix dus ook grafisch voorstellen als een graaf (Afbeelding 1). Een graaf is een verzameling van knopen (= de cirkels), deze worden verbonden  met bogen (= de lijnen tussen de cirkels). Een knoop stelt een verdieping voor. Een boog stelt het aantal verplaatsingen tussen de twee aangrenzende knopen/verdiepingen voor.
 
-![Grafische weergave van de graaf met verplaatsingen tussen de verdiepingen.](embed/verplaatsingen_chaos_with_labels.png "Grafische weergave van graaf met verplaatsingen tussen de verdiepingen.")
+| ![Grafische weergave van de graaf met verplaatsingen tussen de verdiepingen.](embed/verplaatsingen_chaos_with_labels.png "Grafische weergave van graaf met verplaatsingen tussen de verdiepingen.") | 
+| ---- |
+| test |
+
