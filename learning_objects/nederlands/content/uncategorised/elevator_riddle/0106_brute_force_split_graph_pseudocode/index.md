@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 In gewone mensentaal is het vaak moeilijk om formele redeneringen eenduidig te beschrijven. Daarom gebruiken informaticawetenschappers vaak pseudocode om de logica van een algoritme te beschrijven. Hieronder zie je de pseudocode voor het genereren van de keuzes. De code maakt gebruik van twee variabelen: k = het aantal keuzes die je mag maken, n = het aantal items waaruit je mag kiezen.
 
-`
+```pseudocode
 genereer alle mogelijke keuzes van k items uit een lijst van n items:
 	als k = 0 dan mag je uit de rest van de n items geen meer kiezen:
 		Geef een lijst terug met n keer de waarde 2
@@ -49,4 +49,4 @@ genereer alle mogelijke keuzes van k items uit een lijst van n items:
 		voor alle subkeuzes sb in (genereer alle mogelijke keuzes van k - 1 items uit een lijst van n-1 items):
 			maak een lijst [0, sb] en voeg die toe aan de keuzes lijst
 		geef de keuzes lijst terug
-`
+```
