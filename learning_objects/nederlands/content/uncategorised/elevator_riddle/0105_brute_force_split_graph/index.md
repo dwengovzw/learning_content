@@ -59,7 +59,7 @@ Voor de eerste verdieping in de lijst hebben we twee opties, ofwel kennen we die
 
 We kunnen deze twee gevallen nu in detail bekijken.
 
-### Geval 1: De eerste verdieping in de lijst werd toegekend aan lift 1.
+#### Geval 1: De eerste verdieping in de lijst werd toegekend aan lift 1.
 
 |   |   |   |   |   |   |   |   |
 | - | - | - | - | - | - | - | - |
@@ -79,7 +79,7 @@ In dat geval zijn er nog zeven verdiepingen die we moeten toekennen aan een lift
 | 1 | 2 | x | x | x | x | x | x |
 |   |   |   |   |   |   |   |   |
 
-### Geval 2: De eerste verdieping in de lijst werd toegekend aan lift 1.
+#### Geval 2: De eerste verdieping in de lijst werd toegekend aan lift 1.
 
 |   |   |   |   |   |   |   |   |
 | - | - | - | - | - | - | - | - |
@@ -98,7 +98,7 @@ In dit geval mogen we uit de overgebleven verdiepingen er nog vier kiezen om toe
 | 2 | 2 | x | x | x | x | x | x |
 |   |   |   |   |   |   |   |   |
 
-### Geval 1 en geval 2 veralgemenen
+#### Geval 1 en geval 2 veralgemenen
 
 Als we goed naar de twee hierboven beschreven gevallen kijken, zien we patroon opduiken (**patroonherkenning**).
 - We nemen telkens een keuze voor de eerste nog niet toegekende verdieping in de lijst. 
