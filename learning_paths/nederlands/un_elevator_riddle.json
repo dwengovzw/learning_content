@@ -31,13 +31,29 @@
           {
             "default": true,
             "next": {
+              "hruid": "org-dwengo-elevator-riddle-analyzing-2",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-analyzing-2",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org-dwengo-elevator-riddle-question",
               "version": "1",
               "language": "nl"
             }
           }
         ]
-      }         
+      }        
     ]
   }
   
