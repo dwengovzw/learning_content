@@ -1,0 +1,91 @@
+{
+    "hruid": "un_elevator_riddle",
+    "language": "nl",
+    "title": "Lift raadsel",
+    "description": "Dit leerpad bevat basisinformatie over artificiële intelligentie.",
+    "image": "",
+    "nodes": [
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-question",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "un_ai1",
+              "version": "3",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "un_ai1",
+        "version": "3",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "un_ai2",
+              "version": "3",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "un_ai2",
+        "version": "3",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "un_ai3",
+              "version": "3",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "un_ai3",
+        "version": "3",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "un_ai4",
+              "version": "3",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "un_ai4",
+        "version": "3",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "un_ai5",
+              "version": "3",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "un_ai5",
+        "version": "3",
+        "language": "nl"
+      } 
+    ]
+  }
+  
