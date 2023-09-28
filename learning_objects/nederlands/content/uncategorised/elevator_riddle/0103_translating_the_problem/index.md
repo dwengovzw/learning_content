@@ -36,6 +36,8 @@ Nu we een **abstracte voorstelling** hebben van de verplaatsingen tussen de vers
 
 > Hoe knip je een graaf in twee gelijke stukken zodat de som van het aantal bogen dat je doorknipt zo klein mogelijk is?
 
+|  |  |
+| - | - |
 | Hier zie je een voorbeeld van hoe we de graaf in twee gelijke stukken kunnen knippen. De rode lijn stelt de lijn voor langs waar we de graaf in twee knippen. Elke boog die de lijn kruist, knippen we door. De totale kost van de knip is dan de som van de gewichten van alle bogen die we doorknippen.  | ![Knip in de graaf.](embed/verplaatsingen_chaos_cut.png "Graaf knip.") |
 
 
