@@ -46,11 +46,11 @@ Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduce
 |  |  |
 | Als er knopen zijn waartussen er meerdere bogen lopen, vervangen we deze bogen door één boog. Het gewicht van deze boog is gelijk aan de som van de gewichten van de bogen die we vervangen. Tussen knoop (4, 8) en knoop (6) zijn er bijvoorbeeld twee bogen met gewicht 3. Deze vervangen we door één boog met gewicht 6. | ![Karger stap 4](embed/karger4.png "Stap 4.") |
 |  |  |
-| Daarna kiezen we opnieuw een willekeurige boog. | ![Karger stap 6](embed/karger6.png "Stap 6.") |
+| Daarna kiezen we opnieuw een willekeurige boog. | ![Karger stap 5](embed/karger6.png "Stap 5.") |
 |  |  |
-| De aangrenzende knopen van deze boog voegen we opnieuw samen. | ![Karger stap 7](embed/karger7.png "Stap 7.") |
+| De aangrenzende knopen van deze boog voegen we opnieuw samen. | ![Karger stap 6](embed/karger7.png "Stap 6.") |
 |  |  |
-| En we reduceren weer dubbele bogen tussen twee dezelfde knopen. | ![Karger stap ](embed/karger8.png "Stap 8.") |
+| En we reduceren weer dubbele bogen tussen twee dezelfde knopen. | ![Karger stap 7](embed/karger8.png "Stap 7.") |
 |  |  |
 | Dit blijven we herhalen tot er maar twee knopen meer over blijven. Boog selecteren. | ![Karger stap 8](embed/karger9.png "Stap 8.") |
 |  |  |
@@ -73,6 +73,4 @@ Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduce
 
 Na deze reductie is onze gok voor de minimale knip het gewicht van de boog tussen de twee resterende nodes. In dit geval dus 22. **Merk op dat dit algoritme er niet voor zorgt dat de verdeling van de knopen in te twee delen van de knip gelijk is.** In ons geval zitten er 6 knopen in de ene graaf en twee knopen in de andere. 
 
-
-![Karger stap 17](embed/karger18.png "Stap 17.")
 
