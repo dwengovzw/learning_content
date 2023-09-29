@@ -35,7 +35,7 @@ teacher_exclusive: false
 Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen te voegen knopen aan te passen we gebruik kunnen maken van de bogen matrix. Om dit te doen, nemen we eerst de kolommen voor de twee knopen en tellen die op. Daarna doen we hetzelfde voor de rijen. 
 
 
-|  | **4** | **5** | **6** | **7** | <td style="background-color: orange;"><strong>8</strong></td> | **9** | **10** | **11** |
+|  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
 | - | - | - | - | - | - |- | - |- |
 | **4** | 0 | 0 | 2 | 0 | 2 | 0 | 2 | 0 |
 | **5** | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 3 | 
@@ -45,3 +45,106 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
 | **9** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 
 | **10** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **11** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+<table>
+  <tr>
+    <th></th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th style="background-color: orange;">8</th>
+    <th>9</th>
+    <th style="background-color: orange;">10</th>
+    <th>11</th>
+  </tr>
+  <tr>
+    <th>4</th>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+    <td style="background-color: orange;">2</td>
+    <td>0</td>
+    <td style="background-color: orange;">2</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: orange;">3</td>
+    <td>3</td>
+    <td style="background-color: orange;">0</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>6</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: orange;">1</td>
+    <td>0</td>
+    <td style="background-color: orange;">2</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>7</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: orange;">0</td>
+    <td>2</td>
+    <td style="background-color: orange;">4</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>8</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: orange;">0</td>
+    <td>0</td>
+    <td style="background-color: orange;">2</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>9</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: orange;">0</td>
+    <td>0</td>
+    <td style="background-color: orange;">0</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>10</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: orange;">0</td>
+    <td>0</td>
+    <td style="background-color: orange;">0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>11</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: orange;">0</td>
+    <td>0</td>
+    <td style="background-color: orange;">0</td>
+    <td>0</td>
+  </tr>
+</table>
