@@ -39,5 +39,5 @@ Om ons algoritme in Python te implementeren denken we eerst nog eens goed na ove
     - De bogen die vertrekken uit de twee knopen samenvoegen.
 - Meerdere keren een knip gokken en de kleinste onthouden.
 
-Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen te voegen knopen aan te passen we gebruik kunnen maken van de bogen matrix. Om dit te doen, nemen we eerst de kolommen voor de twee knopen en tellen die op. Daarna doen we hetzelfde voor de rijen. 
+
 
