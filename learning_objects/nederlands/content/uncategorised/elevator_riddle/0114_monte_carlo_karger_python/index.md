@@ -1,8 +1,8 @@
 ---
-hruid: org-dwengo-elevator-riddle-monte-carlo-karger-python
+hruid: org-dwengo-elevator-riddle-monte-carlo-karger-python-1
 version: 1
 language: nl
-title: "Algoritme van Karger (Python)"
+title: "Karger in Python (decompositie)"
 description: "Het algoritme van Karger gebruikt de Monte Carlo methode om tot een oplosing te komen."
 keywords: ["grafen", "algoritme", "computationeel denken", "clustering", "datastructuur", "monte carlo", "python", "karger"]
 educational_goals: [
