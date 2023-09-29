@@ -255,13 +255,45 @@
           {
             "default": true,
             "next": {
+              "hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-python-3",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-python-3",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-theory",
               "version": "1",
               "language": "nl"
             }
           }
         ]
-      }                           
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-python-4",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-theory",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      }                               
     ]
   }
   

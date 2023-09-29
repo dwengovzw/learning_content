@@ -34,19 +34,6 @@ teacher_exclusive: false
 
 Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen te voegen knopen aan te passen we gebruik kunnen maken van de bogen matrix. Om dit te doen, nemen we eerst de kolommen voor de twee knopen en tellen die op. Daarna doen we hetzelfde voor de rijen. 
 
-
-|  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
-| - | - | - | - | - | - |- | - |- |
-| **4** | 0 | 0 | 2 | 0 | 2 | 0 | 2 | 0 |
-| **5** | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 3 | 
-| **6** | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 
-| **7** | 0 | 0 | 0 | 0 | 0 | 2 | 4 | 4 | 
-| **8** | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 
-| **9** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 
-| **10** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **11** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-
 <table>
   <tr>
     <th></th>
@@ -148,3 +135,280 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
   </tr>
 </table>
+
+Zo bekomen we een matrix met 1 kolom minder:
+
+<table>
+  <tr>
+    <th></th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th style="background-color: #f9cb9c;">8, 10</th>
+    <th>9</th>
+    <th>11</th>
+  </tr>
+  <tr>
+    <th>4</th>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+    <td style="background-color: #f9cb9c;">4</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: #f9cb9c;">3</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>6</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: #f9cb9c;">3</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>7</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: #f9cb9c;">4</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>8</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: #f9cb9c;">2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>9</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td>0</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>10</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>11</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
+
+Daarna doen we hetzelfde voor de rijen.
+
+<table>
+  <tr>
+    <th></th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8, 10</th>
+    <th>9</th>
+    <th>11</th>
+  </tr>
+  <tr>
+    <th>4</th>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>6</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>7</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>4</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th style="background-color: #f9cb9c;">8</th>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">2</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+  </tr>
+  <tr>
+    <th>9</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th style="background-color: #f9cb9c;">10</th>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+  </tr>
+  <tr>
+    <th>11</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
+
+Dan krijgen we de volgende matrix.
+
+<table>
+  <tr>
+    <th></th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8, 10</th>
+    <th>9</th>
+    <th>11</th>
+  </tr>
+  <tr>
+    <th>4</th>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>6</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>7</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>4</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th style="background-color: #f9cb9c;">8</th>
+    <td style="background-color: #f9cb9c;">2</td>
+    <td style="background-color: #f9cb9c;">3</td>
+    <td style="background-color: #f9cb9c;">5</td>
+    <td style="background-color: #f9cb9c;">2</td>
+    <td style="background-color: #f9cb9c;">4</td>
+    <td style="background-color: #f9cb9c;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
+  </tr>
+  <tr>
+    <th>9</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>11</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
+
+We blijven dit herhalen tot de graaf maar twee knopen meer over heeft.
