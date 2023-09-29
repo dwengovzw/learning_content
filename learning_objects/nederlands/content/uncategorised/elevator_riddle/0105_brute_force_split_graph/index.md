@@ -33,7 +33,7 @@ teacher_exclusive: false
 # Alle mogelijke manieren om de graaf in twee gelijke delen te splitsen
 
 Onze graaf bestaat uit acht knopen (de verdiepingen). We kunnen deze in twee verdelen door vier knopen uit te kiezen en deze toe te kennen aan lift 1. De vier knopen die overblijven kennen we toe aan lift 2.  
-We kunnen het aantal keuzes van vier items uit acht opties berekenen met onze kennis van combinatoriek \\[\mathrm{C}^4_8 = 70\\].
+We kunnen het aantal keuzes van vier items uit acht opties berekenen met onze kennis van combinatoriek \\(\mathrm{C}^4_8 = 70\\).
 
 Om alle 70 combinaties te genereren kunnen we een eenvoudig algoritme bedenken.
 
@@ -66,7 +66,7 @@ We kunnen deze twee gevallen nu in detail bekijken.
 | 1 | x | x | x | x | x | x | x |
 |   |   |   |   |   |   |   |   |
 
-In dat geval zijn er nog zeven verdiepingen die we moeten toekennen aan een lift. Daarvan mogen we er nog 3 toekennen aan lift 1. Er zijn voor deze overige zeven verdiepingen dus nog \\[\mathrm{ C }^3_7 = 35\\] mogelijkheden. Om deze te verdelen over de liften kunnen we opnieuw een keuze maken voor het eerste van de zeven overgebleven verdiepingen. Zo krijgen we de volgende twee mogelijkheden.
+In dat geval zijn er nog zeven verdiepingen die we moeten toekennen aan een lift. Daarvan mogen we er nog 3 toekennen aan lift 1. Er zijn voor deze overige zeven verdiepingen dus nog \\(\mathrm{ C }^3_7 = 35\\) mogelijkheden. Om deze te verdelen over de liften kunnen we opnieuw een keuze maken voor het eerste van de zeven overgebleven verdiepingen. Zo krijgen we de volgende twee mogelijkheden.
 
 
 |   |   |   |   |   |   |   |   |
@@ -86,7 +86,7 @@ In dat geval zijn er nog zeven verdiepingen die we moeten toekennen aan een lift
 | 2 | x | x | x | x | x | x | x |
 |   |   |   |   |   |   |   |   |
 
-In dit geval mogen we uit de overgebleven verdiepingen er nog vier kiezen om toe te kennen aan lift 1. Er zijn voor de overige zeven verdiepingen nog \\[\mathrm{ C }^4_7 = 35\\] mogelijkheden. Ook hier kunnen we het algoritme verder zetten door een selectie te maken voor het tweede verdiep in de lijst.
+In dit geval mogen we uit de overgebleven verdiepingen er nog vier kiezen om toe te kennen aan lift 1. Er zijn voor de overige zeven verdiepingen nog \\(\mathrm{ C }^4_7 = 35\\) mogelijkheden. Ook hier kunnen we het algoritme verder zetten door een selectie te maken voor het tweede verdiep in de lijst.
 
 |   |   |   |   |   |   |   |   |
 | - | - | - | - | - | - | - | - |
