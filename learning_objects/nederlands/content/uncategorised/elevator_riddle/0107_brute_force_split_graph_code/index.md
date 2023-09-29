@@ -37,19 +37,33 @@ Hieronder zie je de vertaling van de pseudocode naar Python.
 ```python
 # Deze functie genereert alle mogelijke combinaties van k elementen uit een rij van n elementen
 def genereer_alle_mogelijke_keuzes(k, n):
-    if k == 0: # Als k == 0 dan mogen er geen elementen meer worden gekozen
+
+    # Als k == 0 dan mogen er geen elementen meer worden gekozen
+    if k == 0:
         return [[2 for _ in range(n)]]
-    if k == n: # Als k == n dan moeten alle elementen worden gekozen
+
+        # Als k == n dan moeten alle elementen worden gekozen
+    if k == n:
         return [[1 for _ in range(n)]]
-    if k > n: # Als k > n dan is er geen mogelijke selectie, dit geval kan niet voorkomen in het algoritme
+
+        # Als k > n dan is er geen mogelijke selectie, dit geval kan niet voorkomen in het algoritme
+    if k > n:
         return []
     else:
         # Maak een lijst om alle mogelijke selecties in op te slaan
         selections = []
-        # Ken het eerste verdiep in de rij toe aan lift 1. Combineer dit met alle mogelijke manieren om k-1 elementen te kiezen uit n-1 elementen
-        selections.extend([[1] + selection for selection in genereer_alle_mogelijke_keuzes(k-1, n-1)])
-        # Ken het eerste verdiep in de rij toe aan lift 2. Combineer dit met alle mogelijke manieren om k elementen te kiezen uit n-1 elementen
-        selections.extend([[2] + selection for selection in genereer_alle_mogelijke_keuzes(k, n-1)])
+        # Ken het eerste verdiep in de rij toe aan lift 1.
+        # Combineer dit met alle mogelijke manieren om k-1 elementen te kiezen uit n-1 elementen
+        selections.extend(
+            [[1] +
+                selection for selection in genereer_alle_mogelijke_keuzes(k-1, n-1)]
+        )
+        # Ken het eerste verdiep in de rij toe aan lift 2.
+        # Combineer dit met alle mogelijke manieren om k uit n-1 elementen te kiezen
+        selections.extend(
+            [[2] +
+                selection for selection in genereer_alle_mogelijke_keuzes(k, n-1)]
+        )
         return selections
 ```
 
