@@ -123,5 +123,5 @@ Als we deze code uitvoeren krijgen we het volgende resultaat:
 De minimale knip is:  9
 De labels van de knopen zijn:  [[0], [1, 5, 2, 4, 6, 3, 7]] 
 
-
+**Opmerking**: Je moet hier een offset van 4 bij optellen om tot het label van de originele knoop te komen.
 
