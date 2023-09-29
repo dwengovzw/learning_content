@@ -380,7 +380,7 @@ Dan krijgen we de volgende matrix.
     <td>4</td>
   </tr>
   <tr>
-    <th style="background-color: #f9cb9c;">8</th>
+    <th style="background-color: #f9cb9c;">8, 10</th>
     <td style="background-color: #f9cb9c;">2</td>
     <td style="background-color: #f9cb9c;">3</td>
     <td style="background-color: #f9cb9c;">5</td>
