@@ -14,7 +14,7 @@ licence: dwengo
 content_type: text/markdown
 available: true
 target_ages: [16, 17, 18]
-difficulty: 3
+difficulty: 5
 return_value: {
     callback_url: callback-url-example,
     callback_schema: {
@@ -23,7 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 10
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
 ]
