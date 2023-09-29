@@ -30,74 +30,39 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Clustering
+# Uitbreiding: Rekening houden met het aantal verdiepingen die met de tram genomen worden
 
-We zagen reeds twee methodes om het raadsel op te lossen. Deze maakten telkens gebruik van een andere algoritmische techniek. Hier kijken we nog kort naar een derde techniek om het probleem op te lossen. Deze maakt gebruik van clustering. Meer informatie over clustering kan je vinden in het het [KIKS leerpad](https://dwengo.org/learning-path.html?hruid=kiks3_dl_basis&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_stomata;nl;3). Daar wordt clustering gebruikt om voorspellingen die dicht bij elkaar liggen samen te voegen. 
+In de vorige oplossingen keken we enkel naar welke verplaatsingen met de trap moesten gebeuren. We hielden echter geen rekening met hoeveel verdiepingen in zo’n verplaatsing zaten. We kunnen onze oplossing daar gemakkelijk aan aanpassen door het aantal verplaatsingen tussen twee verdiepingen te vermenigvuldigen met een kost om zich tussen die verdiepingen te verplaatsen.
+In dat geval krijgen we de volgende bogenmatrix.
 
-Clustering algoritmes worden gebruikt om groepen van items op basis van hun eigenschappen van elkaar te onderscheiden. [Bijvoorbeeld het onderscheiden van appels en peren op basis van hun hoogte en breedte](https://dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_cases0;nl;3). 
+|  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
+| - | - |- | - |- | - |- | - |- |
+| **4** | 0 | 0 | 2x2 | 0 | 2x4 | 0 | 2x8 | 0 |
+| **5** | 0 | 0 | 0 | 0 | 3x3 | 3x4 | 0 | 3x6 | 
+| **6** | 1x2 | 0 | 0 | 0 | 1x2 | 0 | 2x4 | 0 | 
+| **7** | 0 | 3x2 | 0 | 0 | 0 | 2x2 | 4x3 | 4x4 | 
+| **8** | 2x4 | 3x3 | 2x2 | 0 | 0 | 0 | 2x2 | 0 | 
+| **9** | 0 | 3x4 | 0 | 2x2 | 0 | 0 | 0 | 3x2 | 
+| **10** | 0 | 0 | 3x4 | 2x3 | 2x2 | 0 | 0 | 0 |
+| **11** | 0 | 1x6 | 0 | 1x4 | 0 | 0 | 0 | 0 |
 
-Hier gebruiken we clustering om groepen van knopen die sterk samenhangen te identificeren. Door de verbindingen tussen deze sterk samenhangende groepen weg te knippen krijgen we een verdeling van de graaf die vaak een goede benadering is van de minimale knip.
+Dan bekomen we de volgende bogenmatrix:
 
-In dit geval gebruiken we spectrale clustering. Daarvoor bestaan in Python al verschillende implementaties. Wij gebruiken de implementatie uit de sklearn bibliotheek. Dit algoritme werkt op de bogenmatrix van onze graaf. We kunnen het dus eenvoudig toepassen met de volgende code.
+|  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
+| - | - |- | - |- | - |- | - |- |
+| **4** | 0 | 0 | 4 | 0 | 8 | 0 | 16 | 0 |
+| **5** | 0 | 0 | 0 | 0 | 9 | 12 | 0 | 18 | 
+| **6** | 2 | 0 | 0 | 0 | 2 | 0 | 8 | 0 | 
+| **7** | 0 | 6 | 0 | 0 | 0 | 4 | 12 | 16 | 
+| **8** | 8 | 9 | 4 | 0 | 0 | 0 | 4 | 0 | 
+| **9** | 0 | 12 | 0 | 4 | 0 | 0 | 0 | 6 | 
+| **10** | 0 | 0 | 12 | 6 | 4 | 0 | 0 | 0 |
+| **11** | 0 | 6 | 0 | 4 | 0 | 0 | 0 | 0 |
 
+Toevallig is de minimale knip in dit geval gelijk: 
+De minimale kost is:  36
+De verdeling van de verdiepingen over de liften is:  [1, 2, 1, 2, 1, 2, 1, 2]
 
-```python
+Ook andere technieken geven hetzelfde resultaat. Dit is bijvoorbeeld de spectrale embedding:
 
-import numpy as np
-from sklearn.cluster import SpectralClustering
-
-
-bogen_matrix = np.array([
-    [0, 0, 3, 0, 4, 0, 2, 0],
-    [0, 0, 0, 3, 6, 6, 0, 4],
-    [0, 0, 0, 0, 3, 0, 5, 0],
-    [0, 0, 0, 0, 0, 4, 6, 5],
-    [0, 0, 0, 0, 0, 0, 4, 0],
-    [0, 0, 0, 0, 0, 0, 0, 3],
-    [0, 0, 0, 0, 0, 0, 0, 0],
-    [0, 0, 0, 0, 0, 0, 0, 0]])
-
-
-# Pas spectrale clustering toe op de bogen matrix
-clustering = SpectralClustering(
-    n_clusters=2,
-    affinity="precomputed",
-    assign_labels='discretize',
-    random_state=0).fit(bogen_matrix)
-# Druk de verdeling van de knopen af.
-print("De labels van de clusters zijn: ", clustering.labels_)
-
-```
-
-Deze code geeft het volgende resultaat.
-
-De labels van de clusters zijn:  [0 1 0 1 0 1 0 1]
-
-We zien dat ook dit algoritme in staat is om de correcte verdeling te vinden. 
-
-Spectrale clustering maakt gebruik van de tweede eigenwaarde en eigenvector van de Laplaciaance matrix van de graaf. Deze wordt gebruikt om de graaf snel in twee delen te splitsen. Als de tweede eigenwaarde van deze matrix klein is dan krijg je meestal een relatief goede opsplitsing. Als de tweede eigenwaarde zeer groot is, dan is het moeilijk om de graaf in twee delen op te splitsen, er is dan te weinig structuur in de graaf. 
-
-Om de opsplitsing te visualiseren kunnen we ook gebruik maken van de SpectralEmbedding functie in sklearn.
-
-```python
-
-# Voer spectrale inbedding uit
-embedding = spectral_embedding(bogen_matrix, n_components=2, eigen_solver='arpack')
-# Plot de inbedding
-plt.scatter(embedding[:, 0], embedding[:, 1], c=clustering.labels_, cmap='rainbow')
-# Plot labels en bogen.
-for x in range(len(embedding)):
-    plt.annotate(x+4, (embedding[x, 0], embedding[x, 1]))
-    for y in range(len(embedding)):
-        if (bogen_matrix[x][y] != 0 and x != y):
-            plt.plot([embedding[x, 0], embedding[y, 0]], [embedding[x, 1], embedding[y, 1]], 'k-', lw=0.5)
-plt.show()
-
-
-```
-
-Dan krijgen we de volgende figuur.
-
-![Resultaat spectrale embedding.](embed/spectral_embedding.png "Resultaat spectrale embedding")
-
-**Merk op dat de spectral embedding er ook in slaagt om de graaf op een mooie manier weer te geven!**
+![Resultaat spectrale embedding.](embed/spectral_embedding_weighted_floors.png "Resultaat spectrale embedding")
