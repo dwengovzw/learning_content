@@ -207,13 +207,45 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-elevator-riddle-brute-force-3",
+              "hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-theory",
               "version": "1",
               "language": "nl"
             }
           }
         ]
-      }                            
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-theory",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-python",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-python",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-theory",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      }                          
     ]
   }
   

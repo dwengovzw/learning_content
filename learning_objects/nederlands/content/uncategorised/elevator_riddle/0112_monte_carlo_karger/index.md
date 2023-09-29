@@ -60,16 +60,19 @@ Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduce
 |  |  |
 | Boog selecteren. | ![Karger stap 11](embed/karger12.png "Stap 11.") |
 |  |  |
-| Knopen samenvoegen. Reduceren is hier niet nodig omdat er maar 1 boog uit de knoop vertrekt. | ![Karger stap 12](embed/karger13.png "Stap 12.") |
+| Knopen samenvoegen en bogen reduceren. | ![Karger stap 12](embed/karger13.png "Stap 12.") |
 |  |  |
-| Boog selecteren, knopen samenvoegen en reduceren. | ![Karger stap 13](embed/karger14.png "Stap 13.") |
+| Boog selecteren. | ![Karger stap 13](embed/karger14.png "Stap 13.") |
 |  |  |
-| Boog selecteren. | ![Karger stap 14](embed/karger15.png "Stap 14.") |
+| Knopen samenvoegen en bogen reduceren. | ![Karger stap 14](embed/karger15.png "Stap 14.") |
 |  |  |
-| Knopen samenvoegen. | ![Karger stap 15](embed/karger16.png "Stap 15.") |
+| Boog selecteren. | ![Karger stap 15](embed/karger16.png "Stap 15.") |
 |  |  |
-| Bogen reduceren. | ![Karger stap 16](embed/karger17.png "Stap 16.") |
-|  |  |
-| Zo bekomen we een knip. | ![Karger stap 17](embed/karger18.png "Stap 17.") |
-|  |  |
+| Knopen samenvoegen en bogen reduceren. | ![Karger stap 16](embed/karger17.png "Stap 16.") |
+
+
+Na deze reductie is onze gok voor de minimale knip het gewicht van de boog tussen de twee resterende nodes. In dit geval dus 22. **Merk op dat dit algoritme er niet voor zorgt dat de verdeling van de knopen in te twee delen van de knip gelijk is.** In ons geval zitten er 6 knopen in de ene graaf en twee knopen in de andere. 
+
+
+![Karger stap 17](embed/karger18.png "Stap 17.")
 
