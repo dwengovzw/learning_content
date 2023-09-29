@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 Nu we alle mogelijke verdelingen hebben van de graaf is het eenvoudig om de kost van zo'n verdeling te berekenen. We overlopen simpelweg alle bogen in de graaf. Als die aan dezelfde lift zijn toegekend, doen we niets. Als die aan een verschillende lift zijn toegekend, tellen we de kost van die boog op bij de totale kost van de knip. Hieronder zie je een voorbeeld van een verdeling van de graaf met ook de plaats waar de graaf in twee geknipt zal worden.
 
- ![Voorbeeld van een labeling van de graaf.](embed/verplaatsingen_chaos_labeling.png "Voorbeeld van een labeling van de graaf.")
+ ![Voorbeeld van een labeling van de graaf.](embed/verplaatsingen_chaos_labeled.png "Voorbeeld van een labeling van de graaf.")
 
  De volgende Python code berekent de knip kost voor een bepaalde verdeling. We maken daarvoor gebruik van de bogenmatrix die we eerder hebben opgesteld.
 
