@@ -72,3 +72,4 @@ Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduce
 |  |  |
 | Zo bekomen we een knip. | ![Karger stap 17](embed/karger18.png "Stap 17.") |
 |  |  |
+
