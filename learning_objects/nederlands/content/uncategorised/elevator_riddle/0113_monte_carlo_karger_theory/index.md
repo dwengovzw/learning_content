@@ -32,7 +32,7 @@ teacher_exclusive: false
 
 # Algoritme van Karger: theorie
 
-We hebben nu een techniek om te gokken wat de minimale knip van de graaf zou kunnen zijn. Nu is de vraag natuurlijk wat de kans is dat we juist gokken. Als die heel klein is zullen we heel veel moeten gokken om een juiste oplossing te komen. Hoe groter de kans op een juiste gok hoe minder we moeten gokken. Men kan bewijzen dat de kans dat deze gok correct is gelijk is aan \\[\dfrac{2}{n(n-1)}\\]. Als we dus \\(K\\) keer gokken zullen we op zijn minst met de volgende kans de minimale knip vinden \\[1-\left(1-\dfrac{2}{n(n-1)}\right)^K\\].
+We hebben nu een techniek om te gokken wat de minimale knip van de graaf zou kunnen zijn. Nu is de vraag natuurlijk wat de kans is dat we juist gokken. Als die heel klein is zullen we heel veel moeten gokken om een juiste oplossing te komen. Hoe groter de kans op een juiste gok hoe minder we moeten gokken. Men kan bewijzen dat de kans dat deze gok correct is gelijk is aan: \\[\dfrac{2}{n(n-1)}\\] Als we dus \\(K\\) keer gokken zullen we op zijn minst met de volgende kans de minimale knip vinden: \\[1-\left(1-\dfrac{2}{n(n-1)}\right)^K\\]
 
 Als we het aantal pogingen gelijk stellen aan \\(n^2\\) dan kunnen we de kans dat we voor grote grafen een correcte oplossing vinden schatten door de limiet te berekenen.
 
