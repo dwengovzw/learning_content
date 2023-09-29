@@ -42,5 +42,35 @@ Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduce
 |  |  |
 | We kiezen een willekeurige boog en de twee knopen die aan die boog grenzen. | ![Karger stap 2](embed/karger2.png "Stap 2.") |
 |  |  |
-
-
+| We voegen de twee knopen samen door de boog die ze verbindt weg te laten. Alle andere bogen die uit een van de twee knopen vertrokken, vertrekken nu uit de gecombineerde knoop. | ![Karger stap 3](embed/karger3.png "Stap 3.") |
+|  |  |
+| Als er knopen zijn waartussen er meerdere bogen lopen, vervangen we deze bogen door één boog. Het gewicht van deze boog is gelijk aan de som van de gewichten van de bogen die we vervangen. Tussen knoop (4, 8) en knoop (6) zijn er bijvoorbeeld twee bogen met gewicht 3. Deze vervangen we door één boog met gewicht 6. | ![Karger stap 4](embed/karger4.png "Stap 4.") |
+|  |  |
+| Daarna kiezen we opnieuw een willekeurige boog. | ![Karger stap 5](embed/karger5.png "Stap 5.") |
+|  |  |
+| De aangrenzende knopen van deze boog voegen we opnieuw samen. | ![Karger stap 6](embed/karger6.png "Stap 6.") |
+|  |  |
+| En we reduceren weer dubbele bogen tussen twee dezelfde knopen. | ![Karger stap 7](embed/karger7.png "Stap 7.") |
+|  |  |
+| Dit blijven we herhalen tot er maar twee knopen meer over blijven. | ![Karger stap 8](embed/karger8.png "Stap 8.") |
+|  |  |
+| Knopen samenvoegen. | ![Karger stap 9](embed/karger9.png "Stap 9.") |
+|  |  |
+| Bogen reduceren. | ![Karger stap 10](embed/karger10.png "Stap 10.") |
+|  |  |
+| Boog selecteren. | ![Karger stap 11](embed/karger11.png "Stap 11.") |
+|  |  |
+| Knopen samenvoegen. | ![Karger stap 12](embed/karger12.png "Stap 12.") |
+|  |  |
+| Bogen reduceren. | ![Karger stap 13](embed/karger13.png "Stap 13.") |
+|  |  |
+| Boog selecteren. | ![Karger stap 14](embed/karger14.png "Stap 14.") |
+|  |  |
+| Knopen samenvoegen. | ![Karger stap 15](embed/karger15.png "Stap 15.") |
+|  |  |
+| Bogen reduceren. | ![Karger stap 16](embed/karger16.png "Stap 16.") |
+|  |  |
+| Boog selecteren. | ![Karger stap 17](embed/karger17.png "Stap 17.") |
+|  |  |
+| Knopen samenvoegen. | ![Karger stap 18](embed/karger18.png "Stap 18.") |
+|  |  |
