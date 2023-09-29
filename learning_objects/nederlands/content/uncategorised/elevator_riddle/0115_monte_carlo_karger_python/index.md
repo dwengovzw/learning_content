@@ -54,9 +54,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <th>5</th>
     <th>6</th>
     <th>7</th>
-    <th style="background-color: orange;">8</th>
+    <th style="background-color: #f9cb9c;">8</th>
     <th>9</th>
-    <th style="background-color: orange;">10</th>
+    <th style="background-color: #f9cb9c;">10</th>
     <th>11</th>
   </tr>
   <tr>
@@ -65,9 +65,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
     <td>2</td>
     <td>0</td>
-    <td style="background-color: orange;">2</td>
+    <td style="background-color: #f9cb9c;">2</td>
     <td>0</td>
-    <td style="background-color: orange;">2</td>
+    <td style="background-color: #f9cb9c;">2</td>
     <td>0</td>
   </tr>
   <tr>
@@ -76,9 +76,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td style="background-color: orange;">3</td>
+    <td style="background-color: #f9cb9c;">3</td>
     <td>3</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>3</td>
   </tr>
   <tr>
@@ -87,9 +87,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td style="background-color: orange;">1</td>
+    <td style="background-color: #f9cb9c;">1</td>
     <td>0</td>
-    <td style="background-color: orange;">2</td>
+    <td style="background-color: #f9cb9c;">2</td>
     <td>0</td>
   </tr>
   <tr>
@@ -98,9 +98,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>2</td>
-    <td style="background-color: orange;">4</td>
+    <td style="background-color: #f9cb9c;">4</td>
     <td>4</td>
   </tr>
   <tr>
@@ -109,9 +109,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>0</td>
-    <td style="background-color: orange;">2</td>
+    <td style="background-color: #f9cb9c;">2</td>
     <td>0</td>
   </tr>
   <tr>
@@ -120,9 +120,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>0</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>3</td>
   </tr>
   <tr>
@@ -131,9 +131,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>0</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>0</td>
   </tr>
   <tr>
@@ -142,9 +142,9 @@ Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen 
     <td>0</td>
     <td>0</td>
     <td>0</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>0</td>
-    <td style="background-color: orange;">0</td>
+    <td style="background-color: #f9cb9c;">0</td>
     <td>0</td>
   </tr>
 </table>
