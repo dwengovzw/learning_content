@@ -287,11 +287,35 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-elevator-riddle-monte-carlo-karger-theory",
+              "hruid": "org-dwengo-elevator-riddle-clustering",
               "version": "1",
               "language": "nl"
             }
           }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-clustering",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-elevator-riddle-extending-the-problem",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-elevator-riddle-extending-the-problem",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
         ]
       }                               
     ]
