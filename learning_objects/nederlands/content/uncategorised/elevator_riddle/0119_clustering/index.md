@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 We zagen reeds twee methodes om het raadsel op te lossen. Deze maakten telkens gebruik van een andere algoritmische techniek. Hier kijken we nog kort naar een derde techniek om het probleem op te lossen. Deze maakt gebruik van clustering. Meer informatie over clustering kan je vinden in het het [KIKS leerpad](https://dwengo.org/learning-path.html?hruid=kiks3_dl_basis&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_stomata;nl;3). Daar wordt clustering gebruikt om voorspellingen die dicht bij elkaar liggen samen te voegen. 
 
-Clustering algoritmes worden gebruikt om groepen van items op basis van hun eigenschappen van elkaar te onderscheiden. [Bijvoorbeeld het onderscheiden van appels en peren op basis van hun hoogte en breedte](https://dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_cases0;nl;3). 
+Clustering algoritmes worden gebruikt om groepen van items op basis van hun eigenschappen van elkaar te onderscheiden. [Bijvoorbeeld het onderscheiden van appels en peren op basis van hun hoogte en breedte](https://dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct03_90;nl;3). 
 
 Hier gebruiken we clustering om groepen van knopen die sterk samenhangen te identificeren. Door de verbindingen tussen deze sterk samenhangende groepen weg te knippen krijgen we een verdeling van de graaf die vaak een goede benadering is van de minimale knip.
 
