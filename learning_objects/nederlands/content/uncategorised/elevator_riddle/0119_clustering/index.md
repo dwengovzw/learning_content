@@ -95,3 +95,9 @@ plt.show()
 
 
 ```
+
+Dan krijgen we de volgende figuur.
+
+![Resultaat spectrale embedding.](embed/spectral_embedding.png "Resultaat spectrale embedding")
+
+**Merk op dat de spectral embedding er ook in slaagt om de graaf op een mooie manier weer te geven!**
