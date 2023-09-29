@@ -36,7 +36,7 @@ Voor het bepalen van de minimale knip van een graaf bestaat ook een Monte Carlo 
 
 Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduceren tot een graaf met maar twee knopen. De kost om die graaf in twee te knippen is dan de som van alle bogen die die twee knopen verbinden. Deze som is wat het algoritme gokt dat de minimale kost is. Deze procedure wordt een aantal keer herhaald waarna de beste gok gekozen wordt als finaal resultaat. Hieronder zie je een voorbeeld van hoe de graaf gereduceerd kan worden.
 
-|  |  |
+| <div style="width:290px"></div> |  |
 | - | -- |
 | We starten met de volledige graaf. | ![Karger stap 1](embed/karger1.png "Stap 1") |
 |  |  |
@@ -52,7 +52,7 @@ Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduce
 |  |  |
 | En we reduceren weer dubbele bogen tussen twee dezelfde knopen. | ![Karger stap ](embed/karger8.png "Stap 8.") |
 |  |  |
-| Dit blijven we herhalen tot er maar twee knopen meer over blijven. | ![Karger stap 8](embed/karger9.png "Stap 8.") |
+| Dit blijven we herhalen tot er maar twee knopen meer over blijven. Boog selecteren. | ![Karger stap 8](embed/karger9.png "Stap 8.") |
 |  |  |
 | Knopen samenvoegen. | ![Karger stap 9](embed/karger10.png "Stap 9.") |
 |  |  |
@@ -60,9 +60,9 @@ Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduce
 |  |  |
 | Boog selecteren. | ![Karger stap 11](embed/karger12.png "Stap 11.") |
 |  |  |
-| Knopen samenvoegen. | ![Karger stap 12](embed/karger13.png "Stap 12.") |
+| Knopen samenvoegen. Reduceren is hier niet nodig omdat er maar 1 boog uit de knoop vertrekt. | ![Karger stap 12](embed/karger13.png "Stap 12.") |
 |  |  |
-| Bogen reduceren. | ![Karger stap 13](embed/karger14.png "Stap 13.") |
+| Boog selecteren, knopen samenvoegen en reduceren. | ![Karger stap 13](embed/karger14.png "Stap 13.") |
 |  |  |
 | Boog selecteren. | ![Karger stap 14](embed/karger15.png "Stap 14.") |
 |  |  |
