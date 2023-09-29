@@ -36,7 +36,7 @@ Voor het bepalen van de minimale knip van een graaf bestaat ook een Monte Carlo 
 
 Het algoritme van Karger zal de graaf die in stukken geknipt moet worden, reduceren tot een graaf met maar twee knopen. De kost om die graaf in twee te knippen is dan de som van alle bogen die die twee knopen verbinden. Deze som is wat het algoritme gokt dat de minimale kost is. Deze procedure wordt een aantal keer herhaald waarna de beste gok gekozen wordt als finaal resultaat. Hieronder zie je een voorbeeld van hoe de graaf gereduceerd kan worden.
 
-| <div style="width:140px"></div> |  |
+|  | <div style="min-width:450px"></div> |
 | - | -- |
 | We starten met de volledige graaf. | ![Karger stap 1](embed/karger1.png "Stap 1") |
 |  |  |
