@@ -65,4 +65,4 @@ Als we deze code uitvoeren krijgen we het volgende resultaat:
 De minimale kost is:  12
 De verdeling van de verdiepingen over de liften is:  [1, 2, 1, 2, 1, 2, 1, 2]
 
-De optimale verdeling is dus om lift 1 op de even verdiepingen te laten stoppen en lift 2 op de oneven verdiepingen. In dit geval moeten gemiddeld 12 mensen per dag de trap nemen. Merk op dat er nog een verdeling is met minimale kost. Deze is de tegenovergestelde verdeling [2, 1, 2, 1, 2, 1, 2, 1].s
+De optimale verdeling is dus om lift 1 op de even verdiepingen te laten stoppen en lift 2 op de oneven verdiepingen. In dit geval moeten gemiddeld 12 mensen per dag de trap nemen. Merk op dat er nog een verdeling is met minimale kost. Deze is de tegenovergestelde verdeling [2, 1, 2, 1, 2, 1, 2, 1].
