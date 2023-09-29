@@ -40,11 +40,11 @@ Deze laatste stap is de eenvoudigste. Hiervoor overlopen we de lijst van alle mo
 
 Hieronder zien we dat we door de graaf te herstructureren wel een duidelijk beeld kunnen krijgen van hoe de knip kan gebeuren. Zo zien we ook duidelijk dat de minimale knip kost gelijk is aan twaalf.
 
-![Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben.](embed/verplaatsingen_chaos_oplossings_labels.png "Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben.")
+![Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben.](embed/verplaatsingen_structured_oplossings_labels.png "Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben.")
 
 In deze situatie kunnen we vermoeden dat de beste knip de twee bogen tussen knopen 10 en 7 en knopen 8 en 5, zal doorknippen.
 
-![Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben en de graaf in twee geknipt hebben.](embed/verplaatsingen_chaos_oplossings_labels_cut.png "Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben en de graaf in twee geknipt hebben.")
+![Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben en de graaf in twee geknipt hebben.](embed/verplaatsingen_structured_oplossings_labels_cut.png "Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben en de graaf in twee geknipt hebben.")
 
 In deze specifieke graaf kunnen we ook zien dat dit de beste knip is aangezien we om gelijk welke node te wisselen tussen de groepen altijd een hogere knipkost krijgen.
 
