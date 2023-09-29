@@ -34,15 +34,13 @@ teacher_exclusive: false
 
 Door de graaf te tekenen en met de knopen te schuiven kunnen we ook een oplossing bekomen. Hieronder zie je de graaf waarop we even (blauw) en oneven (groen) verdiepingen elk een eigen label gegeven hebben. Het is in deze voorstelling niet onmiddellijk duidelijk hoe we de graaf in twee moeten knippen. We kunnen de knopen echter verplaatsen om zo een duidelijker beeld te krijgen van hoe de graaf geknipt kan worden.
 
-Deze laatste stap is de eenvoudigste. Hiervoor overlopen we de lijst van alle mogelijke keuzes om de liften te verdelen over de verdiepingen en berekenen we de kost van die keuze. In de lijst van kosten zoeken we de minimale kost. De Python code hieronder toont hoe we dat kunnen doen.
-
 ![Voorstelling van de gelabelde graaf.](embed/verplaatsingen_chaos_oplossings_labels.png "Voorstelling van de gelabelde graaf.")
 
-Hieronder zien we dat we door de graaf te herstructureren wel een duidelijk beeld kunnen krijgen van hoe de knip kan gebeuren. Zo zien we ook duidelijk dat de minimale knip kost gelijk is aan twaalf.
+Hieronder zien we dat we door de graaf te herstructureren wel een duidelijk beeld kunnen krijgen van hoe de knip kan gebeuren. 
 
 ![Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben.](embed/verplaatsingen_structured_oplossings_labels.png "Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben.")
 
-In deze situatie kunnen we vermoeden dat de beste knip de twee bogen tussen knopen 10 en 7 en knopen 8 en 5, zal doorknippen.
+Zo zien we ook duidelijk dat de minimale knip kost gelijk is aan twaalf.
 
 ![Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben en de graaf in twee geknipt hebben.](embed/verplaatsingen_structured_oplossings_labels_cut.png "Voorstelling van de gelabelde graaf waarbij we de knopen geherstructureerd hebben en de graaf in twee geknipt hebben.")
 
