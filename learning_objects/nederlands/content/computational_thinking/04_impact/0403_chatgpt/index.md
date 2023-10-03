@@ -44,26 +44,10 @@ teacher_exclusive: true
 ![ct-schema](@learning-object/m_ct04_03/nl/3)
 
  
-
-1.Decompositie:
-
 * ChatGPT kan worden opgesplitst in verschillende componenten, zoals het taalmodel zelf, de trainingsgegevens, en de interface die mensen gebruiken om met het model te communiceren.
-* We kunnen de impact van ChatGPT analyseren door te kijken naar de invloed van elk van deze componenten op verschillende aspecten van de maatschappij.
-
-2. Patroonherkenning:
 
 * ChatGPT gebruikt patroonherkenning om natuurlijke taal te begrijpen en te genereren. Het model leert patronen in tekstdata en gebruikt deze om zinnen te vormen die coherent en relevant zijn.
-*De impact van ChatGPT op patroonherkenning kan worden gezien in hoe het wordt toegepast in chatbots, vertaaltools en andere taalgerelateerde toepassingen.
 
- 3. Abstractie:
-
-* ChatGPT biedt abstractie van complexe taken door menselijke taal te begrijpen en genereren. Het kan informatie samenvatten en abstracte begrippen begrijpen en uitleggen.
-* De impact van ChatGPT op abstractie komt tot uiting in zijn vermogen om gegevens te vereenvoudigen, ideeën te communiceren en complexe taken te automatiseren.
-
-4. Algoritmisch denken:
-
-* Het ontwerpen van ChatGPT en vergelijkbare taalmodellen vereist algoritmisch denken in termen van het optimaliseren van trainingsalgoritmen, het beheren van grote hoeveelheden data, en het implementeren van efficiënte inferentiemethoden.
-* De impact van ChatGPT op algoritmisch denken kan worden gezien in de ontwikkeling van geavanceerde deep learning-modellen en hun toepassing in verschillende industrieën.
 
 ## Bespreking van de impact
 
