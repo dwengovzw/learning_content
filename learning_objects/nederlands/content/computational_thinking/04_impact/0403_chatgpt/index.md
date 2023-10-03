@@ -43,16 +43,6 @@ teacher_exclusive: true
 
 ![ct-schema](@learning-object/m_ct04_03/nl/3)
 
-|     Decompositie    |  Patroonherkenning  |
-|---------------------|---------------------|
-| - Componenten:  Taalmodel,   trainingsgegevens, interface     | - Natuurlijke taal: begrijpen en genereren met patronen. |
-| - Impactanalyse:       Invloed van elk component op   verschillende      maatschappelijke     aspecten.  | - Chatbots, vertaaltools, en  taalgerelateerde   toepassingen.    |
-+---------------------+---------------------+
-|     Abstractie     |  Algoritmisch Denken|
-|---------------------|---------------------|
-| - Vermogen om informatie te samenvatten en   abstracte begrippen te begrijpen en uitleggen.  | - Ontwerp van  ChatGPT vereist algoritmisch denken in  trainingsalgoritmen, data management, efficiënte   inferentiemethoden.|
-| - Toepassing in  het vereenvoudigen van gegevens, ideeën ommuniceren en automatiseren. ||
-
  
 
 1.Decompositie:
@@ -75,20 +65,17 @@ teacher_exclusive: true
 * Het ontwerpen van ChatGPT en vergelijkbare taalmodellen vereist algoritmisch denken in termen van het optimaliseren van trainingsalgoritmen, het beheren van grote hoeveelheden data, en het implementeren van efficiënte inferentiemethoden.
 * De impact van ChatGPT op algoritmisch denken kan worden gezien in de ontwikkeling van geavanceerde deep learning-modellen en hun toepassing in verschillende industrieën.
 
- (Bron ChatgPT 3.5, 17 september 2023)
- 
 ## Bespreking van de impact
 
 -  Conclusie:<br>  
- De impact van ChatGPT op de maatschappij is aanzienlijk. Het heeft de manier waarop we communiceren, informatie delen en taken automatiseren veranderd. Het heeft toepassingen in verschillende domeinen, zoals klantenservice, medische diagnose, vertaling en contentgeneratie. Tegelijkertijd zijn er ook zorgen en uitdagingen, zoals de verspreiding van desinformatie, privacykwesties en ethische overwegingen. Het begrijpen van de impact van ChatGPT vanuit het perspectief van computationeel denken helpt ons om de complexiteit van deze technologie te ontrafelen en effectievere beslissingen te nemen met betrekking tot het gebruik ervan in de samenleving.<br>
- Impact van ChatGPT op  algoritmisch  denken is te zien in de ontwikkeling van geavanceerde deep learningmodellen en hun toepassing in verschillende industrieën. 
+ De impact van ChatGPT op de maatschappij is aanzienlijk. Het heeft de mensen doen beseffen dat kunstmatige intelligentie geen science fiction meer is. ChatGPT heeft reeds toepassingen in verschillende domeinen, zoals het aanwerven van nieuw personeel, het automatisch genereren van nieuwssites en het opstellen van oefeningen. Tegelijkertijd zijn er ook zorgen en uitdagingen, zoals de verspreiding van desinformatie en het mogelijk frauderen van studenten.
 
 -------------------------------
 ## Gerelateerde voorbeelden: 
 
 -----------------------------
 ### Werking 
-In het leerpad '' wordt [de werking] uit de doeken gedaan.
+In het leerpad ['Chatbot'](https://dwengo.org/learning-path.html?hruid=cb1_chatbot&language=nl&te=true&source_page=%2Fchatbot%2F&source_title=%20Chatbot#cb_chatbot_inleiding;nl;3) wordt de werking van ChatGPT (deels) uit de doeken gedaan.
 
 -----------------------------
 #### Leestips
