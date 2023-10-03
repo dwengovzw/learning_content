@@ -35,9 +35,9 @@ De kantoren van Dwengo bevinden zich op de vierde tot en met elfde verdieping va
 
 ![Een tekening van een kantoorgebouw waarin Dwengo zes verdiepingen heeft die verbonden zijn met een privélift](embed/M026_Kantoorgebouw.svg)
 
-De werknemers van Dwengo kunnen zich tussen de eigen verdiepingen verplaatsen met een privélift. Omdat het werknemersaantal de laatse jaren sterk is toegenomen, is de lift vaak overbelast. Om dat op te lossen laat Dwengo een extra privélift installeren. Om deze efficiënt in te zetten, beslissen ze om ervoor te zorgen dat de twee liften een eigen verzameling van verdiepingen hebben waar ze stoppen. Bijvoorbeeld, de ene lift stopt enkel op de even verdiepingen en de andere lift enkel op de oneven verdiepingen. Merk op dat er hierdoor geen verplaatsingen met de lift meer mogelijk zijn tussen even en oneven verdiepingen. Deze mensen moeten de trap nemen.
+De werknemers van Dwengo kunnen zich tussen hun eigen verdiepingen verplaatsen met een privélift. Omdat het aantal werknemers de laatse jaren sterk is toegenomen, is de lift vaak overbelast. Om dat op te lossen, heeft Dwengo besloten om een extra privélift te laten installeren. Om deze efficiënt in te zetten, beslissen ze om ervoor te zorgen dat de twee liften een eigen verzameling van verdiepingen hebben waar ze stoppen. Bijvoorbeeld, de ene lift stopt enkel op de even verdiepingen en de andere lift enkel op de oneven verdiepingen. Merk op dat er hierdoor geen verplaatsingen met de lift meer mogelijk zijn tussen even en oneven verdiepingen. Deze mensen moeten de trap nemen.
 
-Omdat er niet evenveel verplaatsingen zijn tussen de verdiepingen, wil Dwengo de opdeling zo kiezen dat er zo weinig mogelijk mensen de trap moeten nemen. Hieronder kan je een overzicht zien van welke verplaatsingen er op een gemiddelde dag gebeuren.
+Omdat er niet evenveel verplaatsingen zijn tussen de verschillende verdiepingen, wil Dwengo de opdeling zo kiezen dat er zo weinig mogelijk mensen de trap moeten nemen. Hieronder vind je een overzicht van de verplaatsingen die op een gemiddelde dag plaatsvinden.
 
 | Van verdieping      | Naar verdieping |
 | ----------- | ----------- |

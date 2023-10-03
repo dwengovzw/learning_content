@@ -29,14 +29,15 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Monte Carlo
 
-# Algoritme van Karger: opmerking
+## Algoritme van Karger: opmerking
 
-Zoals eerder werd aangegeven zoekt dit algoritme enkel naar de minimale knip. Er wordt geen rekening gehouden met de gelijke verdeling tussen de knopen. Het algoritme stelt hier dus voor om één knoop weg te knippen.
+Zoals eerder werd aangegeven, zoekt dit algoritme enkel naar de minimale knip. Er wordt geen rekening gehouden met de gelijke verdeling tussen de knopen. Het algoritme stelt hier dus voor om één knoop weg te knippen.
 
 ![Voorbeeld van ongelijke knip.](embed/illustration_min_cut_one_node.png "Voorbeeld van ongelijke knip.")
 
-We kunnen om dit op te lossen een extra voorwaarde toevoegen aan de selectie van de minimale knip. 
+We kunnen dit oplossen door een extra voorwaarde toe te voegen aan de selectie van de minimale knip. 
 
 
 ```python

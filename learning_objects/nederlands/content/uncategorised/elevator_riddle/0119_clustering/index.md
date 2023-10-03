@@ -29,14 +29,15 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Monte Carlo
 
-# Clustering
+## Clustering
 
-We zagen reeds twee methodes om het raadsel op te lossen. Deze maakten telkens gebruik van een andere algoritmische techniek. Hier kijken we nog kort naar een derde techniek om het probleem op te lossen. Deze maakt gebruik van clustering. Meer informatie over clustering kan je vinden in het het [KIKS leerpad](https://dwengo.org/learning-path.html?hruid=kiks3_dl_basis&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_stomata;nl;3). Daar wordt clustering gebruikt om voorspellingen die dicht bij elkaar liggen samen te voegen. 
+We zagen reeds twee methodes om het raadsel op te lossen. Deze maakten telkens gebruik van een andere algoritmische techniek. Hier kijken we nog kort naar een derde techniek om het probleem op te lossen. Deze maakt gebruik van clustering. Meer informatie over clustering kan je vinden in het het [KIKS leerpad](https://dwengo.org/learning-path.html?hruid=kiks3_dl_basis&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_stomata;nl;3). Daar wordt clustering gebruikt om voorspellingen die dicht bij elkaar liggen, samen te voegen. 
 
 Clustering algoritmes worden gebruikt om groepen van items op basis van hun eigenschappen van elkaar te onderscheiden. [Bijvoorbeeld het onderscheiden van appels en peren op basis van hun hoogte en breedte](https://dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct03_90;nl;3). 
 
-Hier gebruiken we clustering om groepen van knopen die sterk samenhangen te identificeren. Door de verbindingen tussen deze sterk samenhangende groepen weg te knippen krijgen we een verdeling van de graaf die vaak een goede benadering is van de minimale knip.
+Hier gebruiken we clustering om groepen van knopen die sterk samenhangen te identificeren. Door de verbindingen tussen deze sterk samenhangende groepen weg te knippen, krijgen we een verdeling van de graaf die vaak een goede benadering is van de minimale knip.
 
 In dit geval gebruiken we spectrale clustering. Daarvoor bestaan in Python al verschillende implementaties. Wij gebruiken de implementatie uit de sklearn bibliotheek. Dit algoritme werkt op de bogenmatrix van onze graaf. We kunnen het dus eenvoudig toepassen met de volgende code.
 
@@ -58,7 +59,7 @@ bogen_matrix = np.array([
     [0, 0, 0, 0, 0, 0, 0, 0]])
 
 
-# Pas spectrale clustering toe op de bogen matrix
+# Pas spectrale clustering toe op de bogenmatrix
 clustering = SpectralClustering(
     n_clusters=2,
     affinity="precomputed",
@@ -75,9 +76,9 @@ De labels van de clusters zijn:  [0 1 0 1 0 1 0 1]
 
 We zien dat ook dit algoritme in staat is om de correcte verdeling te vinden. 
 
-Spectrale clustering maakt gebruik van de tweede eigenwaarde en eigenvector van de Laplaciaance matrix van de graaf. Deze wordt gebruikt om de graaf snel in twee delen te splitsen. Als de tweede eigenwaarde van deze matrix klein is dan krijg je meestal een relatief goede opsplitsing. Als de tweede eigenwaarde zeer groot is, dan is het moeilijk om de graaf in twee delen op te splitsen, er is dan te weinig structuur in de graaf. 
+Spectrale clustering maakt gebruik van de tweede eigenwaarde en eigenvector van de Laplaciaance matrix van de graaf. Deze wordt gebruikt om de graaf snel in twee delen te splitsen. Als de tweede eigenwaarde van deze matrix klein is, dan krijg je meestal een relatief goede opsplitsing. Als de tweede eigenwaarde zeer groot is, dan is het moeilijk om de graaf in twee delen op te splitsen, er is dan te weinig structuur in de graaf. 
 
-Om de opsplitsing te visualiseren kunnen we ook gebruik maken van de SpectralEmbedding functie in sklearn.
+Om de opsplitsing te visualiseren, kunnen we ook gebruik maken van de SpectralEmbedding functie in sklearn.
 
 ```python
 

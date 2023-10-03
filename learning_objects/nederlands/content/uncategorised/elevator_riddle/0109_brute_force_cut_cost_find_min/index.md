@@ -29,14 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Brute kracht
+## De knip met laagste kost zoeken
 
-# De knip met laagste kost zoeken
-
-Deze laatste stap is de eenvoudigste. Hiervoor overlopen we de lijst van alle mogelijke keuzes om de liften te verdelen over de verdiepingen en berekenen we de kost van die keuze. In de lijst van kosten zoeken we de minimale kost. De Python code hieronder toont hoe we dat kunnen doen.
+Deze laatste stap is de eenvoudigste. Hiervoor overlopen we de lijst van alle mogelijke keuzes om de liften te verdelen over de verdiepingen en berekenen we de kost van die keuze. In de lijst van kosten zoeken we de minimale kost. De Pythoncode hieronder toont hoe we dat kunnen doen.
 
  ![Voorbeeld van een labeling van de graaf.](embed/verplaatsingen_chaos_labeling.png "Voorbeeld van een labeling van de graaf.")
 
- De volgende Python code berekent de knip kost voor een bepaalde verdeling. We maken daarvoor gebruik van de bogenmatrix die we eerder hebben opgesteld.
+ De volgende Pythoncode berekent de knip kost voor een bepaalde verdeling. We maken daarvoor gebruik van de bogenmatrix die we eerder hebben opgesteld.
 
 ```python
  # Genereer alle mogelijke verdelingen van de verdiepingen over de liften
@@ -60,9 +60,9 @@ print("De minimale kost is: ", minimale_kost)
 print("De verdeling van de verdiepingen over de liften is: ", alle_mogelijke_keuzes[index_minimale_kost])
 ```
 
-Als we deze code uitvoeren krijgen we het volgende resultaat:
+Als we deze code uitvoeren, krijgen we het volgende resultaat:
 
-De minimale kost is:  12
-De verdeling van de verdiepingen over de liften is:  [1, 2, 1, 2, 1, 2, 1, 2]
+De minimale kost is: 12
+De verdeling van de verdiepingen over de liften is: [1, 2, 1, 2, 1, 2, 1, 2]
 
 De optimale verdeling is dus om lift 1 op de even verdiepingen te laten stoppen en lift 2 op de oneven verdiepingen. In dit geval moeten gemiddeld 12 mensen per dag de trap nemen. Merk op dat er nog een verdeling is met minimale kost. Deze is de tegenovergestelde verdeling [2, 1, 2, 1, 2, 1, 2, 1].

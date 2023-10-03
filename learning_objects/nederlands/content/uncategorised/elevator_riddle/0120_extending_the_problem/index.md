@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Uitbreiding: Rekening houden met het aantal verdiepingen die met de tram genomen worden
+# Uitbreiding: Rekening houden met het aantal verdiepingen die met de trap genomen worden
 
 In de vorige oplossingen keken we enkel naar welke verplaatsingen met de trap moesten gebeuren. We hielden echter geen rekening met hoeveel verdiepingen in zo’n verplaatsing zaten. We kunnen onze oplossing daar gemakkelijk aan aanpassen door het aantal verplaatsingen tussen twee verdiepingen te vermenigvuldigen met een kost om zich tussen die verdiepingen te verplaatsen.
 In dat geval krijgen we de volgende bogenmatrix.

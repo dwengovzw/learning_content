@@ -29,10 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Monte Carlo
 
-# Algoritme van Karger: implementatie
+## Algoritme van Karger: implementatie
 
-Om twee willekeurige knopen te kiezen gebruiken we onderstaande functie. We kiezen ervoor om de knopen altijd van klein naar groot gesorteerd terug te geven. Dit zal het makkelijker maken om de rijen en kolommen van de matrix samen te voegen.
+Om twee willekeurige knopen te kiezen, gebruiken we onderstaande functie. We kiezen ervoor om de knopen altijd van klein naar groot gesorteerd terug te geven. Dit zal het makkelijker maken om de rijen en kolommen van de matrix samen te voegen.
 
 ```python
 
