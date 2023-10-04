@@ -29,10 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Monte Carlo
 
-# Algoritme van Karger: implementatie in Python
+## Algoritme van Karger: implementatie in Python
 
-Om ons algoritme in Python te implementeren denken we eerst nog eens goed na over hoe we het probleem in deelproblemen kunnen opsplitsen (decompositie). Wij hebben hiervoor voor de volgende opdeling gekozen:
+Om ons algoritme in Python te implementeren, denken we eerst nog eens goed na over hoe we het probleem in deelproblemen kunnen opsplitsen (decompositie). Wij hebben hiervoor voor de volgende opdeling gekozen:
 - Het gokken van een knip.
     - Kiezen van twee willekeurige knopen.
     - Samenvoegen van deze knopen in de graaf tot één knoop met de labels van de twee samengevoegde knopen.

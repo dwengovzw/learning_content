@@ -29,10 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Monte Carlo
 
-# Algoritme van Karger: kans op juiste gok
+## Algoritme van Karger: kans op juiste gok
 
-Omdat we het antwoord kennen voor onze graaf kunnen we de kans berekenen dat we een correct antwoord hebben na \\(n\\) keer gokken. 
+Omdat we het antwoord kennen voor onze graaf, kunnen we de kans berekenen dat we een correct antwoord hebben na \\(n\\) keer gokken. 
 
 
 ```python

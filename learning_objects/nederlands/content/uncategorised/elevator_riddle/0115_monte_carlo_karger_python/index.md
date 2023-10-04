@@ -29,10 +29,11 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Monte Carlo
 
-# Algoritme van Karger: de bogenmatrix
+## Algoritme van Karger: de bogenmatrix
 
-Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen te voegen knopen aan te passen we gebruik kunnen maken van de bogen matrix. Om dit te doen, nemen we eerst de kolommen voor de twee knopen en tellen die op. Daarna doen we hetzelfde voor de rijen. 
+Een belangrijke observatie bij dit algoritme is dat we om de bogen van de samen te voegen knopen aan te passen, gebruik kunnen maken van de bogenmatrix. Om dit te doen, nemen we eerst de kolommen voor de twee knopen en tellen die op. Daarna doen we hetzelfde voor de rijen. 
 
 <table>
   <tr>
@@ -411,4 +412,4 @@ Dan krijgen we de volgende matrix.
   </tr>
 </table>
 
-We blijven dit herhalen tot de graaf maar twee knopen meer over heeft.
+We blijven dit herhalen tot de graaf slechts 2 knopen over heeft.

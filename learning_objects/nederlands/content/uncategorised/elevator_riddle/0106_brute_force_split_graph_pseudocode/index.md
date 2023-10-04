@@ -29,8 +29,9 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Brute kracht
 
-# Pseudocode
+## Pseudocode
 
 In gewone mensentaal is het vaak moeilijk om formele redeneringen eenduidig te beschrijven. Daarom gebruiken informaticawetenschappers vaak pseudocode om de logica van een algoritme te beschrijven. Hieronder zie je de pseudocode voor het genereren van de keuzes. De code maakt gebruik van twee variabelen: k = het aantal keuzes die je mag maken, n = het aantal items waaruit je mag kiezen.
 
