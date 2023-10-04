@@ -46,7 +46,7 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
     (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Zelfscankassa's abstraheren complexe transacties en betalingsmethoden naar een geautomatiseerd proces. Ze vereenvoudigen het kassa-ervaring voor klanten en maken gebruik van geavanceerde software om productinventaris te beheren en betalingen te verwerken.(**abstractie**)<br>
+(**abstractie**)<br>
 </abstraction>
 <algorithms>
 Een **algoritme** ... <br>
