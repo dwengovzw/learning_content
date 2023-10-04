@@ -29,8 +29,9 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+# Brute kracht
 
-# Implementatie in python
+## Implementatie in python
 
 Hieronder zie je de vertaling van de pseudocode naar Python.
 

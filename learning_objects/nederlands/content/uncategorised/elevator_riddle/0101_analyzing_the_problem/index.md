@@ -32,11 +32,11 @@ teacher_exclusive: false
 
 # Analyse van het probleem
 
-In een eerste fase proberen we alle overbodige informatie die niet nodig is om het probleem op te lossen weg te laten. Door deze abstractie kunnen we focussen op de informatie die relevant is om het probleem op te lossen. Om dit te doen kijken we naar de vraagstelling:
+In een eerste fase proberen we alle overbodige informatie die niet nodig is om het probleem op te lossen, weg te laten. Door deze abstractie kunnen we focussen op de informatie die relevant is om het probleem op te lossen. Hiervoor kijken we naar de vraagstelling:
 
 > Op welke verdiepingen moet elk van de privéliften stoppen om ervoor te zorgen dat zo weinig mogelijk mensen de trap moeten nemen?
 
-In de vraagstelling gaat het enkel over de privéliften, de informatie over de gemeenschappelijke lift is dus niet relevant. In de vraagstelling wordt er ook vanuit gegaan dat er al twee privéliften zijn die elk op hun eigen vier verdiepingen stoppen. We moeten ons dus geen zorgen meer maken over hoe die lift geïnstalleerd moet worden of welke strategie we moeten gebruiken om de liften efficiënt in te zetten. De essentie van het vraagstuk is de opdeling van de verdiepen in twee groepen. Om dit te doen baseren we ons op het historisch liftgebruik.
+In de vraagstelling gaat het enkel over de privéliften, de informatie over de gemeenschappelijke lift is dus niet relevant. In de vraagstelling wordt er ook vanuit gegaan dat er al twee privéliften zijn die elk op hun eigen vier verdiepingen stoppen. We moeten ons dus geen zorgen meer maken over hoe die lift geïnstalleerd moet worden of welke strategie we moeten gebruiken om de liften efficiënt in te zetten. De essentie van het vraagstuk is de opdeling van de verdiepingen in twee groepen. Om dit te doen baseren we ons op het historisch liftgebruik.
 
 Bij het opdelen van de verdiepingen in twee groepen zullen bepaalde verplaatsingen sowieso met de trap moeten gebeuren. Ons doel is om deze verplaatsingen te minimaliseren. Daarvoor baseren we ons op de tabel met verplaatsingen.
 
@@ -51,7 +51,7 @@ Bij het opdelen van de verdiepingen in twee groepen zullen bepaalde verplaatsing
 | 10   | 6, 8, 8, 7, 6, 7, 6         |
 | 11   | 7, 5         |
 
-De volgorde waarin de verplaatsingen gebeuren is voor ons niet van belang. Wij willen enkel kijken naar hoeveel verplaatsingen er zijn tussen elke verdieping. Daarvoor kunnen we een tabel opstellen:
+De volgorde waarin de verplaatsingen gebeuren, is voor ons niet van belang. Wij willen enkel kijken naar hoeveel verplaatsingen er zijn tussen elke verdieping. Daarvoor kunnen we een tabel opstellen:
 
 |  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
 | ----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- |
@@ -64,7 +64,7 @@ De volgorde waarin de verplaatsingen gebeuren is voor ons niet van belang. Wij w
 | **10** | 0 | 0 | 3 | 2 | 2 | 0 | 0 | 0 |
 | **11** | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
 
-De tabel geeft het aantal verplaatsingen weer van het verdiep in de eerste kolom naar het verdiep in de eerste rij van de tabel. De cel in het vet op coordinaat (rij 7, kolom 5) stelt bijvoorbeeld het aantal verplaatsingen tussen verdieping zeven en vijf voor (= 3).
+De tabel geeft het aantal verplaatsingen weer van de verdieping in de eerste kolom naar de verdieping0 in de eerste rij van de tabel. De cel in het vet op coordinaat (rij 7, kolom 5) stelt bijvoorbeeld het aantal verplaatsingen tussen verdieping zeven en vijf voor (= 3).
 Merk op dat deze verplaatsingen ook de richting aangeven. Er zijn bijvoorbeeld twee verplaatsingen van verdieping zeven naar verdieping negen maar ook twee verplaatsingen van verdieping negen naar zeven. De richting van de verplaatsing is voor ons niet van belang, enkel het aantal verplaatsingen. Deze overbodige informatie laten we weg om het probleem te vereenvoudigen (**abstractie**). We kunnen onze tabel dus omvormen naar een bovendriehoeksmatrix door de verplaatsingen tussen dezelfde verdiepingen op te tellen. Dan krijgen we de volgende tabel:
 
 |  | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |

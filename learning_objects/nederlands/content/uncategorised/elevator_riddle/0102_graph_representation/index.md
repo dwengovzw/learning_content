@@ -46,7 +46,7 @@ Het probleem voorstellen met een gekende datastructuur geeft ons de mogelijkheid
 | **11** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 
-Als je al een beetje kennis hebt van informaticawetenschappen komt deze soort matrix je misschien bekend voor? Deze matrix heeft dezelfde structuur als de bogenmatrix of adjacentiematrix van een graaf (**patroonherkenning**). We kunnen deze matrix dus ook grafisch voorstellen als een graaf (Afbeelding 1). Een graaf is een verzameling van knopen (= de cirkels), deze worden verbonden  met bogen (= de lijnen tussen de cirkels). Een knoop stelt een verdieping voor. Een boog stelt het aantal verplaatsingen tussen de twee aangrenzende knopen/verdiepingen voor.
+Als je al een beetje kennis hebt van informaticawetenschappen, komt deze soort matrix je misschien bekend voor. Deze matrix heeft immers dezelfde structuur als de bogenmatrix of adjacentiematrix van een graaf (**patroonherkenning**). We kunnen deze matrix dus ook grafisch voorstellen als een graaf (Afbeelding 1). Een graaf is een verzameling van knopen (= de cirkels), deze worden verbonden  met bogen (= de lijnen tussen de cirkels). Een knoop stelt een verdieping voor. Een boog stelt het aantal verplaatsingen tussen de twee aangrenzende knopen/verdiepingen voor.
 
 | ![Grafische weergave van de graaf met verplaatsingen tussen de verdiepingen.](embed/verplaatsingen_chaos_with_labels.png "Grafische weergave van graaf met verplaatsingen tussen de verdiepingen.") | 
 | ---- |
