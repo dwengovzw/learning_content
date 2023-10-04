@@ -2,7 +2,7 @@
 hruid: org-dwengo-elevator-riddle-analyzing-1
 version: 1
 language: nl
-title: "Analyze van het probleem"
+title: "Analyse van het probleem"
 description: "Voor we een probleem kunnen oplossen met de computer, gebruiken we computationeel denken om het probleem te vertalen naar een vorm die de computer begrijpt."
 keywords: ["grafen", "algoritme", "computationeel denken", "clustering"]
 educational_goals: [
