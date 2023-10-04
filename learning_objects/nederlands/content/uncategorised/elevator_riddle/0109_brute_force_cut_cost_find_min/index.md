@@ -32,9 +32,9 @@ teacher_exclusive: false
 # Brute kracht
 ## De knip met laagste kost zoeken
 
-Deze laatste stap is de eenvoudigste. Hiervoor overlopen we de lijst van alle mogelijke keuzes om de liften te verdelen over de verdiepingen en berekenen we de kost van die keuze. In de lijst van kosten zoeken we de minimale kost. De Pythoncode hieronder toont hoe we dat kunnen doen.
+Deze laatste stap is de eenvoudigste. Hiervoor overlopen we de lijst van alle mogelijke keuzes om de liften te verdelen over de verdiepingen en berekenen we de kost van die keuze. In de lijst van kosten zoeken we de minimale kost. Hieronder zien we een voorbeeld van zo'n toekenning van de knopen aan een groep. We zien ook welke knip deze toekenning dan oplevert.
 
- ![Voorbeeld van een labeling van de graaf.](embed/verplaatsingen_chaos_labeling.png "Voorbeeld van een labeling van de graaf.")
+ ![Voorbeeld van een labeling van de graaf.](embed/verplaatsingen_chaos_labeled.png "Voorbeeld van een labeling van de graaf.")
 
  De volgende Pythoncode berekent de knip kost voor een bepaalde verdeling. We maken daarvoor gebruik van de bogenmatrix die we eerder hebben opgesteld.
 
