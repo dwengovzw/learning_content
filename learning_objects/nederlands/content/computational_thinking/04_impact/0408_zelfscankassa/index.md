@@ -45,14 +45,10 @@ teacher_exclusive: true
  
 ## Bespreking van de impact
 
--  Impactanalyse: De impact van zelfscankassa's kan worden opgesplitst in de invloed van elk van deze componenten op verschillende aspecten van de maatschappij. Bijvoorbeeld, de hardware maakt snelle scans mogelijk, de software automatiseert betalingen en voorraadbeheer, en de gebruikersinterface maakt het gemakkelijk voor klanten om zelf te betalen.
-    - Impactanalyse: Deze patroonherkenning versnelt betalingsprocessen en vermindert wachttijden in winkels en supermarkten. Klanten kunnen snel hun producten scannen en afrekenen.
-    - Impactanalyse: Deze abstractie heeft toepassingen in detailhandel, supermarkten en horeca, waar het winkelen efficiënter wordt. Klanten hoeven niet in de rij te staan en kunnen zelf hun aankopen afhandelen.
-Impactanalyse: Zelfscankassa's hebben invloed op algoritmisch denken doordat ze geavanceerde algoritmen toepassen voor transactieverwerking en voorraadbeheer, wat leidt tot meer efficiëntie en gemak voor consumenten.
-Zelfscankassa's hebben de manier waarop mensen winkelen en betalen veranderd, waardoor het winkelen sneller en efficiënter wordt. Ze hebben invloed op de detailhandel en andere sectoren, waardoor meer efficiëntie en gemak voor consumenten ontstaat. Tegelijkertijd brengen ze zorgen met zich mee, zoals privacyzorgen en werkgelegenheidsvraagstukken, en leiden ze tot debatten over de impact ervan op de samenleving.
+-  De impact van zelfscankassa's gaat over verschillende aspecten van de maatschappij. Bijvoorbeeld, de hardware maakt snelle scans mogelijk, de software automatiseert betalingen en voorraadbeheer, en de gebruikersinterface maakt het gemakkelijk voor klanten om zelf te betalen.
+-  Het doel is om betalingsprocessen te versnellen en wachttijden in winkels en supermarkten te verminderen. 
+- Zelfscankassa's veranderen de manier waarop mensen winkelen en betalen. Tegelijkertijd brengen ze zorgen met zich mee, zoals privacyzorgen en werkgelegenheidsvraagstukken. Sommige winkels installeren camera's die filmen wat er gebeurt aan de zelfscankassa's.
 
-
-Zelfscankassa's brengen enkele privacyzorgen met zich mee, waaronder:
 
 Aankoopgeschiedenis en profielvorming: Wanneer klanten producten scannen en betalen met zelfscankassa's, worden gegevens over hun aankopen verzameld. Deze informatie kan worden gebruikt om gedetailleerde aankoopprofielen van klanten op te bouwen. Bedrijven kunnen deze gegevens gebruiken om gerichte advertenties te tonen, maar dit kan als inbreuk op de privacy worden beschouwd.
 
@@ -62,7 +58,7 @@ Camera's en bewaking: Sommige zelfscankassa's maken gebruik van camera's om prod
 
 Klantidentificatie: Sommige zelfscankassa's vereisen dat klanten hun identiteit verifiëren, bijvoorbeeld door middel van een lidmaatschapskaart of mobiele app. Dit kan leiden tot zorgen over het bijhouden van de aanwezigheid van klanten in de winkel en het volgen van hun gedrag.
 
-Delen van gegevens: In sommige gevallen kunnen gegevens die zijn verzameld door zelfscankassa's worden gedeeld met derden, zoals fabrikanten of adverteerders. Dit kan leiden tot zorgen over de privacy van klantgegevens en het delen van persoonlijke informatie zonder toestemming.
+Delen van gegevens: In sommige gevallen kunnen gegevens die zijn verzameld door zelfscankassa's worden gedeeld met derden, zoals fabrikanten of adverteerders. Dit kan leiden tot zorgen over de privacy van klantgegevens.
 
 Om deze privacyzorgen aan te pakken, moeten bedrijven die zelfscankassa's aanbieden, zich houden aan strikte beveiligingsnormen en transparant zijn over het verzamelen en gebruiken van klantgegevens. Klanten moeten ook op de hoogte worden gesteld van hoe hun gegevens worden gebruikt en moeten de mogelijkheid hebben om toestemming te geven of te weigeren. Het is van groot belang dat persoonlijke en financiële gegevens van klanten veilig worden behandeld om hun privacy te waarborgen.
 
