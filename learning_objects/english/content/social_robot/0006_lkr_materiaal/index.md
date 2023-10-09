@@ -42,7 +42,7 @@ One such kit contains the following materials:
 
 ![](embed/constructiekit_socialerobot.png "Kit content")
 
-Each set also comes with a [**notebook**](embed/ficheboekje_leerkracht.pdf "Notebook") containing notes with additional explanations that have been made for the students so that you are optimally prepared.
+Each set also comes with a [**notebook**](embed/ficheboekje_lkr.pdf "Notebook") containing notes with additional explanations that have been made for the students so that you are optimally prepared.
 
 ## Buying material
 Dwengo sells these kits in sets of 5. For more information, please visit [**our webshop**](https://www.dwengo.org/shop/).
