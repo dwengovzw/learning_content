@@ -2,7 +2,7 @@
 hruid: org-dwengo-elevator-riddle-clustering
 version: 1
 language: nl
-title: "Clustering"
+title: "Clusteren"
 description: "We kunnen het probleem ook met spectrale clustering oplossen."
 keywords: ["grafen", "algoritme", "computationeel denken", "clustering", "python", "spectrale clustering"]
 educational_goals: [
@@ -29,9 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Monte Carlo
 
-## Clustering
+## Clusteren
 
 We zagen reeds twee methodes om het raadsel op te lossen. Deze maakten telkens gebruik van een andere algoritmische techniek. Hier kijken we nog kort naar een derde techniek om het probleem op te lossen. Deze maakt gebruik van clustering. Meer informatie over clustering kan je vinden in het het [KIKS leerpad](https://dwengo.org/learning-path.html?hruid=kiks3_dl_basis&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_stomata;nl;3). Daar wordt clustering gebruikt om voorspellingen die dicht bij elkaar liggen, samen te voegen. 
 
