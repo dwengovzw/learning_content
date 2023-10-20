@@ -44,7 +44,7 @@ Dit soort vragen beantwoorden ecologen aan de hand van **groeimodellen**: wiskun
 Vele insecten zijn nuttig, maar vaak zijn ze een plaag wanneer ze de planten opvreten. Zo is de rups van de buxusmot (*Cydalima perspectalis*) een nachtmerrie voor elke tuinier met een mooie buxushaag. De buxusmot is een invasieve soort in Europa met een grote economische kost. Meer informatie lees je op de [website van ILVO](https://ilvo.vlaanderen.be/nl/dossiers/buxusmot).
 
 ![Buxusmot](embed/buxusmot.jpg "https://commons.wikimedia.org/wiki/File:Raupe_des_Buchsbaumz%C3%BCnsler,_Cydalima_perspectalis_11.JPG")<br/>
-Bron: [https://commons.wikimedia.org/wiki/File:Raupe_des_Buchsbaumz%C3%BCnsler,_Cydalima_perspectalis_11.JPG](https://commons.wikimedia.org/wiki/File:Raupe_des_Buchsbaumz%C3%BCnsler,_Cydalima_perspectalis_11.JPG)
+Bron: böhringer friedrich, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons
 
 Omdat deze rups zo schadelijk is, zijn ecologen en gewasbeschermers erg geïnteresseerd om de groei van populaties op te volgen en te modelleren. **Wiskundige modellen helpen hen om in te schatten of de populatie binnen een aanvaardbare grootte blijft of wanneer ze dreigt uit haar voegen te treden en bestrijding nodig is.**
 
