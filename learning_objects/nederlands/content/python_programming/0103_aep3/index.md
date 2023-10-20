@@ -61,4 +61,6 @@ Een sorteeralgoritme wordt geïllustreerd a.d.h.v. een unplugged activiteit en h
 [![Wereldrecord menselijk sorteernetwerk](embed/sorteerrecord.png)](@youtube/https://www.youtube.com/embed/eI0nniqgQnc "sorteernetwerk")  
 <sub>Wereldrecord menselijk sorteernetwerk gebaseerd op CS unplugged</sub> 
 
-Op [deze webpagina](http://www.csunplugged.nl/08-sorteernetwerken/) vind je een korter filmpje en [hier](http://www.csunplugged.nl/wp-content/uploads/activiteit-8.pdf) wordt het algoritme   uitgelegd.
+Op [deze webpagina](http://www.csunplugged.nl/08-sorteernetwerken/) vind je een korter filmpje en [hier](http://www.csunplugged.nl/wp-content/uploads/activiteit-8.pdf) wordt het algoritme uitgelegd.
+
+[Test](@youtube/https://www.youtube.com/embed/eI0nniqgQnc "sorteernetwerk")
