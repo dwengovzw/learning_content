@@ -58,7 +58,7 @@ Bij de [sentimentanalyse](https://dwengo.org/learning-path.html?hruid=cb2_sentim
 ## Sorteeralgoritme
 
 Een sorteeralgoritme wordt geïllustreerd a.d.h.v. een unplugged activiteit en het breken van een wereldrecord.<br> 
-[![Wereldrecord menselijk sorteernetwerk](embed/sorteerrecord.png)](@youtube/https://www.youtube.com/embed/eI0nniqgQnc)  
+[![Wereldrecord menselijk sorteernetwerk](embed/sorteerrecord.png)](@youtube/https://www.youtube.com/embed/eI0nniqgQnc "sorteernetwerk")  
 <sub>Wereldrecord menselijk sorteernetwerk gebaseerd op CS unplugged</sub> 
 
 Op [deze webpagina](http://www.csunplugged.nl/08-sorteernetwerken/) vind je een korter filmpje en [hier](http://www.csunplugged.nl/wp-content/uploads/activiteit-8.pdf) wordt het algoritme   uitgelegd.
