@@ -1,7 +1,7 @@
 ---
 hruid: wgs_programmingthemotors1
 version: 3
-language: nl
+language: en
 title: "Motors"
 description: "Motors"
 keywords: ["WeGoSTEM"]
