@@ -2,8 +2,8 @@
 hruid: g_lcd_vb3_wgs
 version: 3
 language: en
-title: "Voorbeeld Lcd 3"
-description: "Voorbeeld Lcd 3"
+title: "Example Lcd 3"
+description: "Example Lcd 3"
 keywords: ["oefeningen", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
