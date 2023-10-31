@@ -31,7 +31,10 @@ teacher_exclusive: true
 ---
 
 # ReLU
-De Heaviside-functie (drempelwaardefunctie), de identiteitsfunctie, de signfunctie, de sigmoïde en de ReLU-functie zijn niet-lineaire functies. Ze worden
-vaak aangewend als activatiefunctie in een neuraal netwerk. In het neurale netwerk van KIKS wordt ReLU gebruikt. Het is een niet-lineaire functie die het mogelijk maakt klassen die niet lineair scheidbaar zijn, toch te scheiden. In deze notebook wordt dit uit de doeken gedaan. 
+De Heaviside-functie (drempelwaardefunctie), de identiteitsfunctie, de signfunctie, de sigmoïde en de ReLU-functie zijn *niet-lineaire functies*. Sommige van deze functies hebben een *meervoudig voorschrift*. <br>
+Ze worden vaak aangewend als activatiefunctie in een neuraal netwerk. 
+
+In het neurale netwerk van KIKS wordt ReLU gebruikt. Het is een niet-lineaire functie die het mogelijk maakt klassen die niet lineair scheidbaar zijn, toch te scheiden!<br> 
+In deze notebook wordt uit de doeken gedaan hoe dat mogelijk is. Je zal inzien hoe krachtig deze techniek is. Heel indrukwkkend!
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1752 "Re LU")
