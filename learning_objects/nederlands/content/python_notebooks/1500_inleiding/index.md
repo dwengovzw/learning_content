@@ -40,3 +40,6 @@ Het woord digitaal komt van het Latijnse *digitus* (vinger) en verwijst naar het
 
 Op een goede foto kan je geen pixels onderscheiden, tenzij je sterk inzoomt op de afbeelding.  
 In dit leerpad leer je hoe je de kleuren van een afbeelding kunt aanpassen en manipuleren.
+
+![](embed/begoniazoom.png "Ingezoomde foto")
+
