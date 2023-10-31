@@ -35,6 +35,6 @@ skos_concepts: [
 
 # Afbeeldingen in grijswaarden
 
-Deze notebooks onthult hoe digitale beelden zijn opgebouwd en hoe de computer ernaar kijkt.
+Deze notebooks onthullen hoe digitale beelden zijn opgebouwd en hoe de computer ernaar kijkt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1501 "Notebooks Grijswaarden")
