@@ -38,3 +38,14 @@ skos_concepts: [
 Deze notebooks onthullen hoe digitale beelden zijn opgebouwd en hoe de computer ernaar kijkt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1501 "Notebooks Grijswaarden")
+
+--------------
+#### Opdracht
+In het kader van het mediawijs minimumdoel uit de tweede graad 'De impact van digitale systemen'
+
+Enkele richtvragen:<br>
+- Begrijp je hoe men foto's kan manipuleren?
+- Leg de link naar fake news.
+- Hoe kan je foto's beter maken? Bv. hoe kan je ze donkerder of lichter te maken?
+- Leg de link naar de job van fotograaf of designer.
+
