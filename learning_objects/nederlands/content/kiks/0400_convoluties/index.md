@@ -34,7 +34,7 @@ teacher_exclusive: true
 Met convoluties kan je op zoek gaan naar verschillende kenmerken in een afbeelding. Je kan er bv. randen mee detecteren, ruis in een beeld mee verminderen of het contrast in een beeld verzachten. Convoluties worden toegepast in de zogenaamde convolutionele netwerken. <br>
 De eerste notebook gaat hier dieper op in.
 
-Behalve convoluties worden er ook nog andere technieken gebruikt, zoals RelU en max pooling. <br>Daar gaat de tweede notebook over. 
+Behalve convoluties worden er ook nog andere technieken gebruikt, zoals ReLU en max pooling. <br>Daar gaat de tweede notebook over. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1712 "Convoluties")
 
