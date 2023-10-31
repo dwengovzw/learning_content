@@ -45,7 +45,8 @@ In het kader van het mediawijs minimumdoel uit de tweede graad 'De impact van di
 
 Enkele richtvragen:<br>
 - Begrijp je hoe men foto's kan manipuleren?
-- Leg de link naar fake news.
+- Kan je de link leggen naar fake news?
 - Hoe kan je foto's beter maken? Bv. hoe kan je ze donkerder of lichter te maken?
-- Leg de link naar de job van fotograaf of designer.
+- Kan je dit linken aan de job van fotograaf of designer?
+- Dit kadert in de digitale representatie van informatie. Leg dit uit. 
 
