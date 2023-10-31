@@ -38,3 +38,14 @@ skos_concepts: [
 In deze notebook maak je kennis met de wiskunde achter digitale beelden in kleur. In plaats van matrices worden nu tensoren gebruikt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1502 "Notebooks kleur")
+
+------------
+Kleuren komen voor in een spectrum. 
+![](embed/spectrum.png "Kleurenspectrum")
+
+De kleuren die mensen zien, kunnen benaderd worden door een combinatie van rode, groene en blauwe tinten. <br>
+Kleuren kunnen digitaal voorgesteld worden door RGB. Er is dan voor de rode, groen en blauwe tinten telkens een tabel nodig, m.a.w. een 3D-raster. 
+
+![](embed/rgb.png "RGB")
+
+![](embed/raster.png "3D-raster")
