@@ -44,7 +44,7 @@ Kleuren komen voor in een spectrum.
 ![](embed/spectrum.png "Kleurenspectrum")
 
 De kleuren die mensen zien, kunnen benaderd worden door een combinatie van rode, groene en blauwe tinten. <br>
-Kleuren kunnen digitaal voorgesteld worden door RGB. Er is dan voor de rode, groen en blauwe tinten telkens een tabel nodig, m.a.w. een 3D-raster. 
+Kleuren kunnen digitaal voorgesteld worden door RGB. Er is dan voor de rode, groen en blauwe tinten telkens een tabel nodig; deze vormen een 3D-raster. 
 
 ![](embed/rgb.png "RGB")
 
