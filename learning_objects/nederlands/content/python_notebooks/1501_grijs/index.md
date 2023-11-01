@@ -43,10 +43,10 @@ Deze notebooks onthullen hoe digitale beelden zijn opgebouwd en hoe de computer 
 #### Opdracht
 In het kader van het mediawijs minimumdoel uit de tweede graad 'De impact van digitale systemen'
 
-Enkele richtvragen:<br>
+Enkele denkpistes:<br>
 - Begrijp je hoe men foto's kan manipuleren?
 - Kan je de link leggen naar fake news?
 - Hoe kan je foto's beter maken? Bv. hoe kan je ze donkerder of lichter te maken?
-- Kan je dit linken aan de job van fotograaf of designer?
-- Dit kadert in de digitale representatie van informatie. Leg dit uit. 
+- Wat zou dit kunnen betekenen voor de job van fotograaf of designer?
+- Wat je in de notebook leerde, kadert in de digitale representatie van informatie. Leg dit uit. 
 
