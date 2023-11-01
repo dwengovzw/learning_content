@@ -35,8 +35,7 @@ De Heaviside-functie (drempelwaardefunctie), de identiteitsfunctie, de signfunct
 Ze worden vaak aangewend als activatiefunctie in een neuraal netwerk. 
 
 In het neurale netwerk van KIKS wordt ReLU gebruikt. Het is een niet-lineaire functie die het mogelijk maakt klassen die niet lineair scheidbaar zijn, toch te scheiden!<br> 
-In deze notebook wordt uit de doeken gedaan hoe dat mogelijk is. <br>
-Je zal inzien hoe krachtig deze techniek is. Heel indrukwkkend!<br>
+In deze notebook wordt uit de doeken gedaan hoe dat mogelijk is. Je zal inzien hoe krachtig deze techniek is. Heel indrukwekkend!<br>
 Bovendien zal je begrijpen wat er zoal gebeurt in de *verschillende lagen* van een diep neuraal netwerk.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1752 "Re LU")
