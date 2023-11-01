@@ -43,6 +43,8 @@ skos_concepts: [
 #### Link met de minimumdoelen over computationeel denken en STEM
 In deze opdracht oefen je computationeel denken. <br>
 Je moet nadenken over de digitale representatie van informatie, hier een afbeelding.<br>
+Probleemstelling: Onthul de geheime boodschap die verstopt zit in de afbeelding in de notebook.<br>
 Vul het schema in.
+
 
 ![](embed/schema.png "Schema basisconcepten computationeel denken")
