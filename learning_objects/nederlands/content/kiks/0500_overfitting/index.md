@@ -33,6 +33,10 @@ teacher_exclusive: true
 # Overfitting
 Wanneer een netwerk te gefixeerd geraakt op de trainingdata zal het minder goed presteren op ongeziene data. Het netwerk leert dan als het ware de training data van buiten. Dit wordt **overfitting** genoemd. Wanneer het netwerk nog kan bijleren, door bijvoorbeeld meer lagen toe te voegen, spreekt men van **underfitting**.
 
-In de volgende notebook leer je hiermee rekenening te houden.
+![over- en underfitting](embed/overunderfit.png "Balans tussen over- en underfitting") 
+
+Links op de afbeelding is er sprake van underfitting, de rechtse grafiek illustreert overfitting.
+
+In de volgende notebook leer je hiermee rekening te houden.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1713 "Overfitting")
