@@ -47,7 +47,10 @@ Een afbeelding in grijswaarden is voor een computer niets anders dan een raster 
 <figure>
     <figcaption align = "center">De pixelwaarden van deze drie.</figcaption>
 </figure>
+
 -----------------
+Om hiermee vertrouwd te worden kan je twee notebooks doorlopen.
+
 De eerste notebook onthult hoe digitale beelden in grijswaarden zijn opgebouwd en hoe de computer ernaar kijkt.<br>
 De tweede notebook toont hoe je door bewerkingen uit te voeren op het raster, een afbeelding kan manipuleren. 
 
