@@ -43,4 +43,11 @@ de diagnose van huidkanker, AlphaGO Zero dat zelf go leerde spelen enkel door te
 Het internet en de alomtegenwoordige smartphone hebben een grote invloed op de arbeidsmarkt, ons huishouden en de vrijetijdsbesteding, m.a.w. op ons dagdagelijks leven. Communicatietoepassingen en sociale media hebben de dienstverlening van de overheid en de bedrijven veranderd. Online shoppen, het massaal delen van foto’s, digitaal bankieren, een recept of een goedkopere energieleverancier opzoeken via het internet, een hotel boeken vanuit je luie zetel . . . Deze zaken zijn zo goed ingeburgerd dat een leven zónder haast ondenkbaar is.
 
 De **impact** van AI zal mogelijk nog groter zijn dan de komst van het internet. AI is al aanwezig in het **dagelijks leven**: gezichtsherkenning op Facebook, Google Translate, vragen stellen aan Siri, suggesties op Netflix, in verzekeringsfirma’s triëren robots de inkomende e-mails, op bol.com staat een chatbot jou te woord,  spamfilters, betere navigatiesystemen . . . <br>
-AI is echter ook al doorgedrongen in de juridische wereld, de gezondheidszorg en de journalistiek. Ook het onderwijs kan er niet aan ontsnappen; denk bv. aan learning analytics in het secundair onderwijs, en het gebruik van ChatGPT.
+AI is echter ook al doorgedrongen in de juridische wereld, de gezondheidszorg en de journalistiek. Ook het onderwijs kan er niet aan ontsnappen; denk bv. aan learning analytics in het onderwijs, en het gebruik van ChatGPT.
+
+---
+#### Bronnen
+
+Gabriels, K. (2019). *Regels voor robots. Ethiek in tijden van AI.* Academic And Scientific Publishers.
+
+Steels, L., Berendt, B., Pizurica, A., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
