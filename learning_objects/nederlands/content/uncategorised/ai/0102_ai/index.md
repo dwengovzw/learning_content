@@ -43,7 +43,7 @@ Hoewel er ongetwijfeld spannende ontwikkelingen zijn op het vlak van AI, staat d
     Bij de zogenaamde <em>Artificial General Intelligence</em> (AGI) gaat het over computersystemen met dezelfde capaciteiten als een mens. We hebben vooralsnog niet de kennis om AGI-systemen te ontwerpen. 
 </div>
 
-Voorlopig zit AI nog maar op het niveau van de enge AI.
+AI zat lang op het niveau van de enge AI, maar momenteel situeren sommige toepassingen zich ergens tussen enge en brede AI. 
 
 ## Kennis- en datagebaseerde systemen
 
