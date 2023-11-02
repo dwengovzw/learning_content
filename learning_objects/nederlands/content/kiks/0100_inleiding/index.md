@@ -27,10 +27,8 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-Figuur 7.1
-
 # Inleiding
 Wetenschappers van de Plantentuin Meise en de UGent onderzoeken **hoe bomen uit het tropisch regenwoud zich aanpassen aan de klimaatverandering**. De stomata op hun bladeren verschaffen informatie over de CO<sub>2</sub>-concentratie in de atmosfeer ten tijde van de groei van de planten. De onderzoekers **tellen** het aantal stomata op de bladeren en ze **meten** hun grootte op. Erna vergelijken ze de resultaten van recent materiaal met die van materiaal van honderd jaar terug.
 
