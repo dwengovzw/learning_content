@@ -107,7 +107,7 @@ in een beeld mee verminderen of het contrast in een beeld verzachten. In elke la
 
 ![Doel convoluties](embed/convolutiedoel.png "Doel convoluties")
 
-In het leerpad 'Deep learning - basis' van het project KIKS kan je experimenteren met convoluties. In het leerpad 'Deep learning - gevorderd' van het project KIKS kan je je verdiepen in het achterliggende rekenwerk.
+In het leerpad [Deep learning - basis](https://dwengo.org/learning-path.html?hruid=kiks3_dl_basis&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_inleiding;nl;3) van het project KIKS kan je experimenteren met convoluties. In het leerpad [Deep learning - gevorderd](https://dwengo.org/learning-path.html?hruid=kiks4_dl_gevorderd&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_convolutie_bewerking;nl;3) van het project KIKS kan je je verdiepen in het achterliggende rekenwerk.
 
 ### Model voor objectherkenning vs generatief model
 
