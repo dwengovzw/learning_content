@@ -51,7 +51,7 @@ Om dit te verwezenlijken wordt een ander algoritme ingezet dat een sliding windo
 -  Heel dit proces herhaalt zich tot de volledige afbeelding verwerkt werd met telkens sprongen van 10 pixels.
 
 Dit proces wordt geïllustreerd in de volgende afbeelding. <br>
-Rechts van de afbeelding zie je hoe zeker het netwerk is van de voorspelling. Een voorspelling van '1' betekent dat het netwerk 100 % zeker is dat het vierkantje een stoma bevat, een voorspelling van '0,35' betekent dat het netwerk 35 % zeker is dat het vierkantje een stoma bevat, en een voorspelling van '0' betekent dat het netwerk oordeelt dat het vierkantje zeker geen stoma bevat.<br> Zodra de waarde groter wordt dan 0,5 (dit is een opgegeven drempelwaarde: zie later), wordt het vierkantje geel en valt het in de klasse 'Stoma".
+Rechts van de afbeelding zie je hoe zeker het netwerk is van de voorspelling. Een voorspelling van '1' betekent dat het netwerk 100 % zeker is dat het vierkantje een stoma bevat, een voorspelling van '0,35' betekent dat het netwerk 35 % zeker is dat het vierkantje een stoma bevat, en een voorspelling van '0' betekent dat het netwerk oordeelt dat het vierkantje zeker geen stoma bevat.<br> Zodra de waarde groter wordt dan 0,5 (dit is een opgegeven drempelwaarde: zie later), wordt het vierkantje geel en valt het in de klasse 'Stoma'.
 
 ![sliding window kiks](embed/slidingwindow.gif "Sliding window") 
 
