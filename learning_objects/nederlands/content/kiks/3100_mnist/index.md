@@ -34,8 +34,9 @@ teacher_exclusive: true
 De MNIST dataset bestaat uit 70 000 afbeeldingen van handgeschreven cijfers, elk 28 x 28 pixels in grijswaarden. 
 
 ![](embed/drie.jpg "Een drie uit de MNIST dataset")
-
-![](embed/drieraster.png "Pixelwaarden van deze drie")
+<figure>
+    <figcaption align = "center">Een drie uit de MNIST dataset.</figcaption>
+</figure>
 
 Hiervan worden er 60 000 gebruikt om een neuraal netwerk te trainen en 10 000 om het te testen.
 
