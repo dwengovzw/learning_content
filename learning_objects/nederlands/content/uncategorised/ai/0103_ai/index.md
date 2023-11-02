@@ -69,11 +69,15 @@ De beslissingen van een ML-model worden *voorspellingen* genoemd.
 > - bepalen of een e-mail al dan niet spam is; <br>
 > - van een foto kunnen zeggen of er al dan niet een huidmondje op staat.
 
-![Regressie](https://user-images.githubusercontent.com/48352335/218816712-9bd35fc3-2949-466e-bb4f-a94502781212.png)
-<center>Regressie</center>
+![Regressie](embed/regressie.png "Regressie") 
+<figure>
+    <figcaption align = "center">Regressie.</figcaption>
+</figure> 
 
-![classificatie](https://user-images.githubusercontent.com/48352335/218816762-3c171896-6129-4379-b6cc-ed4c986cb8cb.png)
-<center>Classificatie</center>
+![Classificatie](embed/classificatie.png "Classificatie") 
+<figure>
+    <figcaption align = "center">Classificatie.</figcaption>
+</figure> 
 
 ## Deep learning
 Binnen het machinaal leren bekleedt ***deep learning (DL)*** een prominente plaats. DL heeft een revolutie veroorzaakt in het veld van ML door opmerkelijke resultaten te boeken op het vlak van spraak- en beeldherkenning, wat vaardigheden zijn waarvan de computer de menselijke prestaties tot op vandaag moeilijk kan evenaren. DL speelt behalve in de spraakherkenning ook een grote rol in andere domeinen van taaltechnologie.
