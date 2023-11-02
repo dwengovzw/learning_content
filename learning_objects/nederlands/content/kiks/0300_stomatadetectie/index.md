@@ -71,3 +71,5 @@ Een belangrijke afweging die je moet maken bij het kiezen van de drempelwaarde i
 -  Recall: het percentage van het aantal stomata op een afbeelding dat daadwerkelijk gevonden werd.</li>
 
 Het is duidelijk dat een lage drempelwaarde zal zorgen voor een lage precision (er worden meer punten als stomata beschouwd, dus ook meer foute punten; er zijn dan meer **vals positieven**) maar een hoge recall (van de stomata gaan er ook meer gevonden worden). Andersom geldt dat een hoge drempelwaarde zal zorgen voor een hoge precision maar lage recall (er zullen meer **vals negatieven** zijn).
+
+Zie ook het onderdeel 'Drempelwaarde' in het leerpad 'Maatschappelijke aspecten' van het KIKS-project. 
