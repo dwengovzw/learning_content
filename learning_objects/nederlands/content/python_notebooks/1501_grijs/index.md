@@ -44,14 +44,18 @@ Een afbeelding in grijswaarden is voor een computer niets anders dan een raster 
 </figure>
 
 ![](embed/drieraster.png "Pixelwaarden van deze drie")
-
-Deze notebooks onthullen hoe digitale beelden zijn opgebouwd en hoe de computer ernaar kijkt.
+<figure>
+    <figcaption align = "center">De pixelwaarden van deze drie.</figcaption>
+</figure>
+-----------------
+De eerste notebook onthult hoe digitale beelden in grijswaarden zijn opgebouwd en hoe de computer ernaar kijkt.<br>
+De tweede notebook toont hoe je door bewerkingen uit te voeren op het raster, een afbeelding kan manipuleren. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1501 "Notebooks Grijswaarden")
 
 --------------
 #### Opdracht
-In het kader van het mediawijs minimumdoel uit de tweede graad 'De impact van digitale systemen'
+In het kader van het mediawijs minimumdoel uit de tweede graad '**De impact van digitale systemen**'
 
 Enkele denkpistes:<br>
 - Begrijp je hoe men foto's kan manipuleren?
@@ -60,3 +64,6 @@ Enkele denkpistes:<br>
 - Wat zou dit kunnen betekenen voor de job van fotograaf of designer?
 - Wat je in de notebook leerde, kadert in de digitale representatie van informatie. Leg dit uit. 
 
+-----------
+#### Link met minimumdoelen wiskunde
+In de wiskunde noemt men zo'n raster een **matrix**. 
