@@ -107,6 +107,8 @@ in een beeld mee verminderen of het contrast in een beeld verzachten. In elke la
 
 ![Doel convoluties](embed/convolutiedoel.png "Doel convoluties")
 
+In het leerpad 'Deep learning - basis' van het project KIKS kan je experimenteren met convoluties. In het leerpad 'Deep learning - gevorderd' van het project KIKS kan je je verdiepen in het achterliggende rekenwerk.
+
 ### Model voor objectherkenning vs generatief model
 
 - Een **model voor objectherkenning**, een classificatiemodel dus, zal aan een bepaalde afbeelding een label toekennen, bv. hond. Een classificatiemodel dat een label voorspelt, zal kijken van welk label het het meest zeker is voor een gegeven afbeelding. <br>
