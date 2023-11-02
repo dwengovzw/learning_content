@@ -49,7 +49,7 @@ Voorspellen betekent bijvoorbeeld dat er uit voorbije tendensen cijfers voor de 
 > - bepalen of een e-mail al dan niet spam is; <br>
 > - van een foto kunnen zeggen of er al dan niet een huidmondje op staat.
 
-![Regressie](embed/regressie.png"Regressie") 
+![Regressie](embed/regressie.png "Regressie") 
 <figure>
     <figcaption align = "center">Regressie.</figcaption>
 </figure> 
