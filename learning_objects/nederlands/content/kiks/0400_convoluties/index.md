@@ -38,3 +38,9 @@ Behalve convoluties worden er ook nog andere technieken gebruikt, zoals ReLU en 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1712 "Convoluties")
 
+---
+> De convolutie is een wiskundige bewerking die enkel gebruikmaakt van optellen en vermenigvuldigen. Het komt erop neer dat men aan een pixel een bepaald gewicht geeft en men daaraan gewogen waarden van de omliggende pixels toevoegt.
+
+Met convoluties kan men op zoek gaan naar verschillende kenmerken in een afbeelding. Men kan er bv. verticale en horizontale lijnen mee detecteren, ruis in een beeld mee verminderen of het contrast in een beeld verzachten. In elke laag van het convolutionele neuraal netwerk wordt de representatie van de gegevens door de convoluties getransformeerd in een nieuwe representatie van de gegevens.
+
+![Doel convoluties](embed/convolutiedoel.png "Doel convoluties")
