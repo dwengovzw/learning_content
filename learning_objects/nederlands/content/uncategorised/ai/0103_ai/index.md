@@ -105,7 +105,7 @@ De **convolutionele diepe neurale netwerken** zijn uitermate geschikt om objecte
 Met convoluties kan men op zoek gaan naar verschillende kenmerken in een afbeelding. Men kan er bv. verticale en horizontale lijnen mee detecteren, ruis
 in een beeld mee verminderen of het contrast in een beeld verzachten. In elke laag van het convolutionele neuraal netwerk wordt de representatie van de gegevens door de convoluties getransformeerd in een nieuwe representatie van de gegevens.
 
-![image](https://user-images.githubusercontent.com/48352335/218817526-07143a54-056e-494d-9c35-d23894abe2a3.png)
+![Doel convoluties](embed/convolutiedoel.png "Doel convoluties")
 
 ### Model voor objectherkenning vs generatief model
 
