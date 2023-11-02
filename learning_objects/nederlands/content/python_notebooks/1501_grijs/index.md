@@ -35,6 +35,16 @@ skos_concepts: [
 
 # Afbeeldingen in grijswaarden
 
+
+Een afbeelding in grijswaarden is voor een computer niets anders dan een raster van getallen. 
+
+![](embed/drie.jpg "Een drie uit de MNIST dataset")
+<figure>
+    <figcaption align = "center">Een drie uit de MNIST dataset. De MNIST dataset bestaat uit 70 000 afbeeldingen van handgeschreven cijfers, elk 28 x 28 pixels in grijswaarden.</figcaption>
+</figure>
+
+![](embed/drieraster.png "Pixelwaarden van deze drie")
+
 Deze notebooks onthullen hoe digitale beelden zijn opgebouwd en hoe de computer ernaar kijkt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1501 "Notebooks Grijswaarden")
