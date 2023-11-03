@@ -34,7 +34,7 @@ skos_concepts: [
 ---
 
 # Inleiding
-Een digitaal beeld bestaat uit een eindig aantal pixels. Als je genoeg stippen (of in de digitale wereld vierkantjes) in een raster plaatst, kan je een grote figuur voorstellen.<br>
+Een digitaal beeld bestaat uit een eindig aantal pixels. Als je genoeg vierkantjes in een raster plaatst, kan je een grote figuur voorstellen.<br>
 Het woord 'pixel' is afgeleid van de Engelse woorden *picture* (afbeelding) en *element*.<br>
 Het woord digitaal komt van het Latijnse *digitus* (vinger) en verwijst naar het tellen op de vingers. 
 
