@@ -2,8 +2,8 @@
 hruid: pn_parametersinus
 version: 3
 language: nl
-title: "Parameters sinusvergelijking"
-description: "Parameters sinus"
+title: "Parameters sinusoïde"
+description: "Parameters sinusoïde"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -28,8 +28,8 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 ---
-# Parameters in een algemene sinusvergelijking
-In deze notebooks onderzoek je hoe de parameters in de vergelijking van een algemense sinusfunctie de vorm van de sinusoïde beïnvloeden. 
+# Parameters in een algemene sinusfunctie
+In deze notebooks onderzoek je hoe de parameters in de vergelijking van een algemene sinusfunctie de vorm van de sinusoïde beïnvloeden. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0903 "Notebooks parameters algemene sinusvergelijking")
 <figure>
