@@ -49,3 +49,7 @@ Kleuren kunnen digitaal voorgesteld worden door RGB. Er is dan voor de rode, gro
 ![](embed/rgb.png "RGB")
 
 ![](embed/raster.png "3D-raster")
+
+Ook de kleuren op een televisietoestel zijn bijvoorbeeld opgebouw aan de hand van RGB, zoals je kan zien op de volgende ingezoomde foto van een deel van een televisiebeeld. 
+
+![](embed/RGBtelevisie.jpg "RGB")
