@@ -2,8 +2,8 @@
 hruid: pp_aep5
 version: 3
 language: nl
-title: "Numerieke methodes"
-description: "Numerieke methodes"
+title: "Probleem lift"
+description: "titel"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,15 +27,9 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Numerieke methodes
-
-
-[Gradient descent](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=kiks_gradient_descent&version=3&language=nl)
-
-[Insectenboek](https://dwengo.org/learning-path.html?hruid=stem_insectbooks&language=nl&te=true&source_page=%2Fpython_programming%2F&source_title=%20Programmeren%20in%20Python#stem5_0;nl;3)
-
+# Titel
 
 
