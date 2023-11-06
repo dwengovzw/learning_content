@@ -2,7 +2,7 @@
 hruid: un_ai3
 version: 3
 language: nl
-title: "ML en DL"
+title: "ML"
 description: "ML en DL"
 keywords: [""]
 educational_goals: [

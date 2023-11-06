@@ -2,7 +2,7 @@
 hruid: un_ai5
 version: 3
 language: nl
-title: "ML en DL"
+title: "Soorten training"
 description: "ML en DL"
 keywords: [""]
 educational_goals: [

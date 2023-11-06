@@ -3,7 +3,7 @@ hruid: un_ai4
 version: 3
 language: nl
 title: "ML en DL"
-description: "ML en DL"
+description: "DL"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
