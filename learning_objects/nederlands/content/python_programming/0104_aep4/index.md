@@ -2,8 +2,8 @@
 hruid: pp_aep4
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Tentje-boompje"
+description: "Tentje-boompje"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,33 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Puzzel Tentje-boompje
 
+### Probleemstelling
+- Bekijk het gegeven veld met bomen.
+- Onder, naast of boven elke boom komt er een tent te staan.<br>Meerdere tenten per boom zijn toegestaan.<br>
+De velden van de tenten mogen elkaar niet raken, ook niet diagonaal.
+- Bij elke rij en kolom staat gegeven hoeveel tenten er in die rij of kolom moeten staan.<br>
 
+![Puzzel](embed/tentjeboompje.jpg "Opgave puzzel tentje-boompje")
+<figure>
+    <figcaption align = "center">Afbeelding gebruikt op basis van citaatrecht. Bron: Het Nieuwsblad - NU, 21 oktober 2023.</figcaption>
+</figure>
+
+### Opdracht
+- Schrijf in de notebook een programma dat deze puzzel voor jou oplost.
+- Omschrijf hoe je hierbij **principes van computationeel denken** hebt aangewend. Je kan daarvoor eventueel het onderstaande schema gebruiken.<br>Je werkwijze moet duidelijk zichtbaar zijn in de notebook.
+- Test het programma uit.
+- Wat is de oplossing van de puzzel?
+
+![Schema](embed/schema.png "Schema basisconcepten computationeel denken")
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6210 "Puzzel Tentje-boompje")  
+
+------------------
+Je kan je programma nu gebruiken om soortgelijke puzzels, bijvoorbeeld de onderstaande, op te lossen.
+
+![Puzzel](embed/tentjeboompje2.jpg "Opgave puzzel tentje-boompje")
+<figure>
+    <figcaption align = "center">Afbeelding gebruikt op basis van citaatrecht. Bron: Het Nieuwsblad - NU, 14 oktober 2023.</figcaption>
+</figure>

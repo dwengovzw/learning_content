@@ -42,4 +42,11 @@ zijn.
   
 ![klimopdrempel](https://user-images.githubusercontent.com/48352335/219100751-29a97452-4495-49ea-8157-3c4dcfcc9aa9.png)
 
+Een belangrijke afweging die je moet maken bij het kiezen van de drempelwaarde is de verhouding tussen ***precision*** en ***recall***. 
+
+-  Precision: het percentage van de gevonden stomata dat ook daadwerkelijk stomata zijn.</li>
+-  Recall: het percentage van het aantal stomata op een afbeelding dat daadwerkelijk gevonden werd.</li>
+
+Het is duidelijk dat een lage drempelwaarde zal zorgen voor een lage precision (er worden meer punten als stomata beschouwd, dus ook meer foute punten; er zijn dan meer **vals positieven**) maar een hoge recall (van de stomata gaan er ook meer gevonden worden). Andersom geldt dat een hoge drempelwaarde zal zorgen voor een hoge precision maar lage recall (er zullen meer **vals negatieven** zijn).
+
 De gekozen drempelwaarde is letterlijk van levensbelang in het geval van een diep neuraal netwerk in het domein van de medische beeldvorming als het bv. een systeem betreft voor de herkenning van kwaadaardige gezwellen. 

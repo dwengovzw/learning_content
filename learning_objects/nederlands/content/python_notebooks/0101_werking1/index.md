@@ -41,6 +41,8 @@ Er zijn uitgewerkte *voorbeelden* met daarnaast ook kleine en grote *opdrachten*
 De code die in de notebooks gebruikt wordt, is Python versie 3. We kozen voor Python omdat dit een heel toegankelijke programmeertaal is, die vaak ook intuïtief is.  
 Python is bovendien bezig aan een opmars en wordt gebruikt door bedrijven, zoals Google, NASA, Netflix, Uber, AstraZeneca, Barco, Instagram en YouTube.
 
+We kozen voor notebooks omdat daar enkele belangrijke voordelen aan verbonden zijn: leerkrachten moeten geen geavanceerde installaties doen om de notebooks te gebruiken, leerkrachten kunnen verschillende soorten van lesinhouden aanbieden via één platform, de notebooks zijn interactief, leerlingen bouwen de oplossing van een probleem stap voor stap op in de notebook waardoor dat proces zichtbaar is voor de leerkracht ([Jeroen Van der Hooft, 2023](https://libstore.ugent.be/fulltxt/RUG01/003/151/437/RUG01-003151437_2023_0001_AC.pdf)).    
+
 ---
 Klik je op onderstaande knop 'Open notebooks',  dan word je doorgestuurd naar een andere website waar jouw persoonlijke notebooks ingeladen worden. (Dit kan even duren.)
 

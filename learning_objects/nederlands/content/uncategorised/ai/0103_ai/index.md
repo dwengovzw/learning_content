@@ -35,6 +35,10 @@ teacher_exclusive: true
 ## Machine learning
 Machinaal leren (ML) is een populair en succesvol onderdeel van de artificiële intelligentie. Bij *machine learning* gaat men vooral proefondervindelijk te werk, maar op een wiskundig onderbouwde manier, en gebruikmakend van principes uit de wiskundige statistiek (Chollet, 2018). 
 
+Een mens ontwikkelt het AI-systeem. In dat systeem verwerkt hij parameters waarvan de waarden nog niet vastliggen.<br>
+Gedurende de training leert het systeem, d.w.z. dat het systeem a.d.h.v. een lerend algoritme op zoek gaat naar de optimale waarden voor die parameters.<br>
+Na de training zijn deze waarden bepaald en beschikt men over een ML-model: een ML-systeem dat klaar is voor gebruik.    
+
 **Een machine learning-systeem verwerft met lerende algoritmes kennis uit data met de bedoeling uitkomsten te kunnen voorspellen betreffende nieuwe data.** 
 
 - De nieuwe data moeten wel gelijkaardig zijn aan de aangeboden data. 
@@ -46,26 +50,34 @@ Machinaal leren (ML) is een populair en succesvol onderdeel van de artificiële 
 
 > Een ML-systeem neemt zijn beslissingen dus niet op basis van vooraf in detail geprogrammeerde instructies. 
 
+De beslissingen van een ML-model worden *voorspellingen* genoemd.
+
+### Regressie en classificatie
+
 <div class="alert alert-box alert-success">
     Het voorspellen gebaseerd op tendensen is een <b>regressieprobleem</b>.<br> 
     Het voorspellen van een klasse is een <b>classificatieprobleem</b>. <br>
-    Voorspellen betekent bijvoorbeeld dat er uit voorbije tendensen cijfers voor de toekomst gegenereerd worden (regressie) of dat een object bij een bepaalde categorie (klasse genoemd) wordt ingedeeld (classificatie).
+    <b>Voorspellen</b> betekent bijvoorbeeld dat er uit voorbije tendensen cijfers voor de toekomst gegenereerd worden (regressie) of dat een object bij een bepaalde categorie (klasse genoemd) wordt ingedeeld (classificatie).
 </div>
 
 > In plaats van categorieën spreekt men in deze context eerder van klassen.
  
 > **Concrete voorbeelden van regressie:** <br>
-> de prijs van een appartement voorspellen of beslissen (gebaseerd op de prijzen van apapartemenen die reeds verkocht zijn);<br>
-> uit het zeeniveau van de voorbije decennia in Oostende, het zeeniveau van de komende jaren afleiden. <br>
+> - de prijs van een appartement voorspellen of beslissen (gebaseerd op de prijzen van apapartemenen die reeds verkocht zijn);<br>
+> - uit het zeeniveau van de voorbije decennia in Oostende, het zeeniveau van de komende jaren afleiden. <br>
 > **Concrete voorbeelden van classificatie:** <br>
-> bepalen of een e-mail al dan niet spam is; <br>
-> van een foto kunnen zeggen of er al dan niet een huidmondje op staat.
+> - bepalen of een e-mail al dan niet spam is; <br>
+> - van een foto kunnen zeggen of er al dan niet een huidmondje op staat.
 
-![Regressie](https://user-images.githubusercontent.com/48352335/218816712-9bd35fc3-2949-466e-bb4f-a94502781212.png)
-<center>Regressie</center>
+![Regressie](embed/regressie.png "Regressie") 
+<figure>
+    <figcaption align = "center">Regressie.</figcaption>
+</figure> 
 
-![classificatie](https://user-images.githubusercontent.com/48352335/218816762-3c171896-6129-4379-b6cc-ed4c986cb8cb.png)
-<center>Classificatie</center>
+![Classificatie](embed/classificatie.png "Classificatie") 
+<figure>
+    <figcaption align = "center">Classificatie.</figcaption>
+</figure> 
 
 ## Deep learning
 Binnen het machinaal leren bekleedt ***deep learning (DL)*** een prominente plaats. DL heeft een revolutie veroorzaakt in het veld van ML door opmerkelijke resultaten te boeken op het vlak van spraak- en beeldherkenning, wat vaardigheden zijn waarvan de computer de menselijke prestaties tot op vandaag moeilijk kan evenaren. DL speelt behalve in de spraakherkenning ook een grote rol in andere domeinen van taaltechnologie.
@@ -86,12 +98,16 @@ Binnen het machinaal leren bekleedt ***deep learning (DL)*** een prominente plaa
 Er zijn dus deep learning modellen voor taken zoals regressie en classificatie.<br>
 De **convolutionele diepe neurale netwerken** zijn uitermate geschikt om objecten te herkennen.
 
+### Convolutionele neurale netwerken
+
 > De convolutie is een wiskundige bewerking die enkel gebruikmaakt van optellen en vermenigvuldigen. Het komt erop neer dat men aan een pixel een bepaald gewicht geeft en men daaraan gewogen waarden van de omliggende pixels toevoegt.
 
 Met convoluties kan men op zoek gaan naar verschillende kenmerken in een afbeelding. Men kan er bv. verticale en horizontale lijnen mee detecteren, ruis
 in een beeld mee verminderen of het contrast in een beeld verzachten. In elke laag van het convolutionele neuraal netwerk wordt de representatie van de gegevens door de convoluties getransformeerd in een nieuwe representatie van de gegevens.
 
-![image](https://user-images.githubusercontent.com/48352335/218817526-07143a54-056e-494d-9c35-d23894abe2a3.png)
+![Doel convoluties](embed/convolutiedoel.png "Doel convoluties")
+
+In het leerpad [Deep learning - basis](https://dwengo.org/learning-path.html?hruid=kiks3_dl_basis&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_inleiding;nl;3) van het project KIKS kan je experimenteren met convoluties. In het leerpad [Deep learning - gevorderd](https://dwengo.org/learning-path.html?hruid=kiks4_dl_gevorderd&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_convolutie_bewerking;nl;3) van het project KIKS kan je je verdiepen in het achterliggende rekenwerk.
 
 ### Model voor objectherkenning vs generatief model
 
@@ -101,7 +117,7 @@ in een beeld mee verminderen of het contrast in een beeld verzachten. In elke la
 > Achterliggende wiskunde: om een klasse te voorspellen wordt P(Y|X=x) berekend  en om iets te genereren P(X| Y=y). 
 (https://en.wikipedia.org/wiki/Generative_model)
 
-> **voorbeelden** van generatieve modellen zijn DALL·E 2, dat afbeeldingen genereert, en ChatGPT, een groot taalmodel (*large language model*, LLM).
+> **Voorbeelden** van generatieve modellen zijn DALL·E 2, dat afbeeldingen genereert, en ChatGPT, een groot taalmodel (*large language model*, LLM).
 
 <div class="alert alert-box alert-warning">
     Murray Shanahan zegt dat we goed moeten beseffen wat een groot taalmodel doet.<br> 

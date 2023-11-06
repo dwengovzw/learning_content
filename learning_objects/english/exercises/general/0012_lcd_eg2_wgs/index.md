@@ -2,8 +2,8 @@
 hruid: g_lcd_vb2_wgs
 version: 3
 language: en
-title: "Voorbeeld Lcd 2"
-description: "Voorbeeld Lcd 2"
+title: "Example Lcd 2"
+description: "Example Lcd 2"
 keywords: ["oefeningen", "lcd", "lcd-scherm"]
 educational_goals: [
     {source: Source, id: id}, 
