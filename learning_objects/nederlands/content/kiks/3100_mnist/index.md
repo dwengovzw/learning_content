@@ -27,13 +27,18 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # MNIST
-De MNIST dataset bestaat uit 70 000 afbeeldingen van
-handgeschreven cijfers, elk 28 x 28 pixels in grijswaarden (zie Figuren 10.5 en 10.7). Hiervan worden er
-60 000 gebruikt om een neuraal netwerk te trainen en 10 000 om het te testen.
+De MNIST dataset bestaat uit 70 000 afbeeldingen van handgeschreven cijfers, elk 28 x 28 pixels in grijswaarden. 
+
+![](embed/drie.jpg "Een drie uit de MNIST dataset")
+<figure>
+    <figcaption align = "center">Een drie uit de MNIST dataset.</figcaption>
+</figure>
+
+Hiervan worden er 60 000 gebruikt om een neuraal netwerk te trainen en 10 000 om het te testen.
 
 Het uiteindelijke neurale netwerk dient om handgeschreven cijfers te kunnen herkennen die het netwerk niet eerder gezien heeft.
 

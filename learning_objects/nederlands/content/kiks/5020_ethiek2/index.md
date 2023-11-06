@@ -36,4 +36,11 @@ Het KIKS-model bevat ook een bias. De foto’s van de trainingset zijn zo gemaak
 Deze voorbeelden zijn afdrukken van bladeren genomen met transparante nagellak. Dat heeft als gevolg dat het model het best zal presteren op afbeeldingen
 van even grote huidmondjes in een gelijkaardige, **groengrijze kleur**.
 
+![voorbeeld trainingset](embed/vierkantjespositievestomatavoorbeelden.png "Voorbeelden stomata uit de trainingset") 
+<figure>
+    <figcaption align = "center">Voorbeelden stomata uit de trainingset.</figcaption>
+</figure> 
+
 Dat betekent ook dat als je een microfoto aan het netwerk aanbiedt met te kleine huidmondjes of met veel verschillende kleuren, het netwerk de huidmondjes op die foto misschien niet goed detecteert.
+
+

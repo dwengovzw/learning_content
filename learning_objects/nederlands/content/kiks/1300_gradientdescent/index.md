@@ -27,13 +27,17 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Gradient Descent
+# Gradient descent
 In de wiskunde wordt veel aandacht besteed aan de afgeleide van een reële functie. Afgeleiden hebben veel toepassingen, bv. in de economie en in de fysica.
 
 Ook voor neurale netwerken zijn afgeleiden belangrijk. Men gebruikt ze om de kostenfunctie te minimaliseren. Men gaat op zoek naar het minimum door de
 gewichten stap voor stap aan te passen, gebaseerd op de afgeleide in het ‘huidige’ punt. Deze methode noemt men _gradient descent_.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1760 "Gradient descent")
+
+---------
+#### Verband met minimumdoelen informaticawetenschappen
+In de notebook leer je met gradient descent een minimum benaderen; het is een *numerieke methode*.

@@ -37,3 +37,5 @@ teacher_exclusive: true
 Verken de boeiende wereld van microcontrollers en ontdek stap voor stap hoe je zelf een theremin kunt maken!
 
 In dit leerpad leer je wat een theremin is en hoe je de microcontroller kan inzetten om zelf een theremin te maken.
+
+![](@youtube/https://www.youtube.com/embed/K6KbEnGnymk)

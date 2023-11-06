@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Specifieke minimumdoelen
 
-In het schooljaar 2023-2024 gaan de volgende specifieke minmumdoelen in in sommige richtingen van het secundair onderwijs:
+In het schooljaar 2023-2024 gaan de volgende specifieke minimumdoelen in in sommige richtingen van het secundair onderwijs:
 
 <span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span>
 

@@ -2,8 +2,8 @@
 hruid: kiks_convolutie_bewerking
 version: 3
 language: nl
-title: "Convolutie bewerking"
-description: "Convolutie bewerking"
+title: "Convolutiebewerking"
+description: "Convolutiebewerking"
 keywords: ["AI"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,7 +27,7 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Convolutiebewerking
@@ -35,6 +35,6 @@ Bij een ’convolutie’ laat men een ’filter’ over een afbeelding ’glijde
 Zowel de afbeelding als de filter zijn matrices of tensoren. De elementen van de filter en de elementen van de matrix van de afbeelding worden
 elementsgewijs vermenigvuldigd en erna worden deze producten opgeteld. 
 
-In deze notebook leer je hoe deze bewerking exact verloopt.
+In deze notebook leer je exact hoe deze bewerking verloopt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1751 "Convolutie bewerking")
