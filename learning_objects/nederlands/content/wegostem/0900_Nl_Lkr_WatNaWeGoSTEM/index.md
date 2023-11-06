@@ -32,6 +32,6 @@ teacher_exclusive: true
 
 # Wat na WeGoSTEM?
 
-Tijdens de voorbereiding van WeGoSTEM maakte je kennis met de dwenguinoBlockly-simulator. Als jouw school een PC-klas heeft, dan kan je voor een aantal lesuren aan oefeningen voorzien. Deze oefeningen kan je [**hier**](https://www.dwengo.org/starttodwenguino/ "extra oefeningen simulator") terugvinden.
+Tijdens de voorbereiding van WeGoSTEM maakte je kennis met de dwenguinoBlockly-simulator. Als jouw school een PC-klas heeft, dan kan je voor een aantal lesuren aan oefeningen voorzien. Deze oefeningen kan je [**hier**](https://dwengo.org/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#g_inleiding_lkr;nl; "extra oefeningen simulator") terugvinden.
 
 Opdat het daar niet zou bij blijven, schreven we ter ondersteuning van de leerkrachten het boekje ['Ik kan al programmeren'](https://scholen.dwengo.org/downloads/ikkanalprogrammeren.pdf "robotboekje"), met mogelijke lesjes over computationeel denken en programmeren. Al de activiteiten die opgenomen zijn, hebben slechts een minimum aan materiaal nodig. Er moet bv. geen software geïnstalleerd worden en voor een aantal activiteiten is er zelfs geen computer nodig.
