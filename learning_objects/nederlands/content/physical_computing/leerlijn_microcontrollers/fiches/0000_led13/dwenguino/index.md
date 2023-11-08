@@ -28,7 +28,7 @@ teacher_exclusive: true
     <div class="info_item">
         <h3 class="info_item_title">In het echt</h3>
         <p class="info_item_content">
-            <img src="img/dwenguino_topview_led13_small.png"></img>
+            <img src="img/dwenguino_topview_led13_small.png" alt="Dwenguino location led 13" title="The location of led 13 on the dwenguino"></img>
         </p>
     </div>
     <div class="info_item">
