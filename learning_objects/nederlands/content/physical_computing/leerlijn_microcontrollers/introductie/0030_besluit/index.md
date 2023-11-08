@@ -23,3 +23,8 @@ teacher_exclusive: false
 ---
 
 # Besluit
+
+In dit leerpad maakte je kennis met de µC. Je leerde wat een µC is en voor welke toepassingen die gebruikt kan worden. Daarbovenop ken je nu het verschil tussen de µC en de µP. Deze kennis zal je helpen om bij het ontwerpen van een toepassing voor de juiste verwerkingseenheid te kiezen.
+
+In het volgende leerpad gaan we dieper in op de werking van de µC. Je zal leren hoe je sensoren en actuatoren moet aansluiten en programmeren. Zo zal je snel je eigen microcontrollertoepassing kunnen bouwen.
+
