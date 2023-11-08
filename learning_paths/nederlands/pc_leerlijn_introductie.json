@@ -30,16 +30,16 @@
           {
             "default": true,
             "next": {
-              "hruid": "pc_micro_bouwstenen",
-              "version": "3",
+              "hruid": "leerlijn_uc_vs_up",
+              "version": "1",
               "language": "nl"
             }
           }
         ]
       },
       {
-        "learningobject_hruid": "pc_micro_bouwstenen",
-        "version": "3",
+        "learningobject_hruid": "leerlijn_uc_vs_up",
+        "version": "1",
         "language": "nl",
         "transitions": [
           {
