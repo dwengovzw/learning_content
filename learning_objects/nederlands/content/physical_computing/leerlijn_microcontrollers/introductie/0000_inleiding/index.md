@@ -32,10 +32,9 @@ Om deze leerlijn te kunnen doorlopen zal je toegang moeten hebben tot een microc
 1. Het Dwenguino platform dat we binnen Dwengo zelf ontwikkelen.
 2. Het Arduino Uno platform.
 
-|  |  |
+| Het Dwenguino platform | Het Arduino platform  |
 | - | -- |
 | TODO: add image of dwenguino | TODO: add image of arduino |
-| Het Dwenguino platform | Het Arduino platform |
 
 ## Software
 De software die je voor deze leerlijn nodig hebt hangt af van het gekozen platform. Voor leerlingen van de tweede graad maken we ofwel gebruik van de Dwengo simulator op [blockly.dwengo.org](https://blockly.dwengo.org) ofwel van de [Arduino IDE](https://www.arduino.cc/en/software). Met de Dwengo simulator kan je de Dwenguino zowel grafisch als tekstueel programmeren. Met de Arduino IDE kan je de Arduino Uno enkel tekstueel programmeren.
