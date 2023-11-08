@@ -24,13 +24,18 @@ teacher_exclusive: false
 
 # Inleiding
 
-In deze leerlijn ontdek je hoe microcontrollers allerlei systemen in ons dagelijkse leven controleren. We gaan hands-on aan de slag met verschillende systemen die gestuurd worden aan de hand van microcontrollers (µC). Je leert deze systemen bouwen en programmeren. Naast deze praktische kennis leer je ook over de werking van de µC. Op die manier verwerf je inzicht in de manier waarop de elektrische schakelingen op de µC gebruikt kunnen worden om ons dagelijkse leven comfortabeler te maken.
+In deze leerlijn ontdek je hoe microcontrollers allerlei systemen in ons dagelijkse leven controleren. We gaan hands-on aan de slag met verschillende toepassingen die gebruik maken van microcontrollers (µC). Zo leer je deze microcontrollertoepassingen bouwen en programmeren. Naast deze praktische kennis leer je ook over de werking van de µC. Op die manier verwerf je inzicht in de manier waarop de elektrische schakelingen op de µC gebruikt kunnen worden om ons dagelijkse leven te automatiseren.
 
 ## Hardware
 Om deze leerlijn te kunnen doorlopen zal je toegang moeten hebben tot een microcontrollerplatform. Binnen deze leerlijn hebben we voorbeelden uitgewerkt voor twee platformen:
 
 1. Het Dwenguino platform dat we binnen Dwengo zelf ontwikkelen.
 2. Het Arduino Uno platform.
+
+|  |  |
+| - | -- |
+| TODO: add image of dwenguino | TODO: add image of arduino |
+| Het Dwenguino platform | Het Arduino platform |
 
 ## Software
 De software die je voor deze leerlijn nodig hebt hangt af van het gekozen platform. Voor leerlingen van de tweede graad maken we ofwel gebruik van de Dwengo simulator op [blockly.dwengo.org](https://blockly.dwengo.org) ofwel van de [Arduino IDE](https://www.arduino.cc/en/software). Met de Dwengo simulator kan je de Dwenguino zowel grafisch als tekstueel programmeren. Met de Arduino IDE kan je de Arduino Uno enkel tekstueel programmeren.
