@@ -56,4 +56,9 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 - µC en µP maken gebruik van een klok. Deze legt vast wat de verwerkingssnelheid van het systeem is.
 
 
-
+<div class="dwengo-content assignment">
+<h2>Opdracht</h2>
+<p>
+Ga online op zoek naar voorbeelden van microcontrollers (ATtiny85) en microprocessoren (bv. Apple M3). Zoek voor elk van de voorbeelden op wat hun kloksneleid en energieverbruik zijn.
+</p>
+</div>
