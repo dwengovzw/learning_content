@@ -24,8 +24,12 @@ teacher_exclusive: true
 
 # Leerplandoelen GO!
 
+Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
+
 <ul class="dwengo_content leerplandoelen">
     <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
     <li>BV2_06.37 De leerlingen illustreren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen. </li>
     <li>BV2_07.04 De leerlingen gaan geïnformeerd, beargumenteerd en constructief in dialoog over maatschappelijke thema’s.</li>
+    <li>BV2_09.02 De leerlingen lichten factoren toe die productie en consumptie beïnvloeden aan de hand van voorbeelden uit landbouw, industrie, ontginning van grondstoffen, energieproductie of diensten.</li>
+    <li>BV2_13.04 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.</li>
 </ul>
