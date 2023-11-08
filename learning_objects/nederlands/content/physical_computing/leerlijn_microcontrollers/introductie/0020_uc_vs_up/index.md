@@ -2,7 +2,7 @@
 hruid: leerlijn_uc_vs_up
 version: 1
 language: nl
-title: "µController of µProcessor"
+title: "µController of µProcessor?"
 description: "Hier leggen we het verschil uit tussen een microcontroller en een microprocessor."
 keywords: ["Microcontroller", "µC", "microprocessor", "processor", "CPU"]
 educational_goals: [
@@ -22,3 +22,4 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
+# Microcontroller of microprocessor?
