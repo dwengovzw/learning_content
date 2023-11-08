@@ -38,4 +38,3 @@ teacher_exclusive: true
         </p>
     </div>
 </div>
-
