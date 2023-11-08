@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 3
+estimated_time: 25
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -60,5 +60,12 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 <h2>Opdracht</h2>
 <p>
 Ga online op zoek naar voorbeelden van microcontrollers (ATtiny85) en microprocessoren (bv. Apple M3). Zoek voor elk van de voorbeelden op wat hun kloksneleid en energieverbruik zijn.
+</p>
+</div>
+
+<div class="dwengo-content assignment">
+<h2>Opdracht</h2>
+<p>
+Microprocessoren kunnen bijna alles wat een microcontroller kan maar vaak op een minder efficiënte manier. Efficiënte toepassingen bouwen is echter van groot belang. Zoek op wat het energieverbruik is van complexe applicaties zoals Google en ChatGPT. Welke impact hebben deze systemen op de maatschappij?
 </p>
 </div>
