@@ -85,48 +85,18 @@ int afstand;
 void setup()
 {
   initDwenguino();
+  pinMode(13, OUTPUT);
 }
 
 void loop()
 {
     afstand = sonar.ping_cm();
     if (afstand > 0 && afstand < 100) {
-      pinMode(13, OUTPUT);
       digitalWrite(13, HIGH);
-
     } else {
-      pinMode(13, OUTPUT);
       digitalWrite(13, LOW);
-
     }
     delay(100);
-
-}
-                </code></pre> 
-            </p>
-        </div>
-        <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led 13 laten knipperen</h3>
-            <p class="example_item_content">
-                <pre><code class="language-arduino">
-#include &lt;Wire.h&gt;
-#include &lt;Dwenguino.h&gt;
-#include &lt;LiquidCrystal.h&gt;
-
-void setup()
-{
-    initDwenguino();
-    pinMode(13, OUTPUT);
-
-}
-
-void loop()
-{
-    digitalWrite(13, HIGH);
-    delay(1000);
-    digitalWrite(13, LOW);
-    delay(1000);
-
 }
                 </code></pre> 
             </p>
