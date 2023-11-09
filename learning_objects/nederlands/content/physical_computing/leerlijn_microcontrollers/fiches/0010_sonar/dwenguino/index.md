@@ -84,17 +84,17 @@ NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
 int afstand;
 void setup()
 {
-  initDwenguino();
-  pinMode(13, OUTPUT);
+    initDwenguino();
+    pinMode(13, OUTPUT);
 }
 
 void loop()
 {
     afstand = sonar.ping_cm();
     if (afstand > 0 && afstand < 100) {
-      digitalWrite(13, HIGH);
+        digitalWrite(13, HIGH);
     } else {
-      digitalWrite(13, LOW);
+        digitalWrite(13, LOW);
     }
     delay(100);
 }
