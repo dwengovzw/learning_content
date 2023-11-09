@@ -58,19 +58,17 @@ teacher_exclusive: true
 #include &lt;Dwenguino.h&gt;
 #include &lt;LiquidCrystal.h&gt;
 
-void setup()
-{
+void setup(){
     initDwenguino();
     pinMode(13, OUTPUT);
     digitalWrite(13, HIGH);
 }
-void loop()
-{
+void loop(){
 }
                 </code></pre> 
             </p>
         </div>
-        <div class="example_item">
+        <div class="example_item item">
             <h3 class="example_item_title">Voorbeeld: lampje laten knipperen</h3>
             <p class="example_item_content">
                 <pre><code class="language-arduino">
