@@ -50,6 +50,18 @@ teacher_exclusive: true
                 Leds bestaan in verschillende kleuren. De ingebouwde leds op de Dwenguino kan je rood laten oplichten. Door de pin waarmee de LED verbonden is op hoog te zetten, gaat de LED branden. Merk op dat wanneer je een LED aansluit op een pin van de µC (5V), je steeds een weerstand van ongeveer 200 Ohm in serie moet schakelen met de LED. De exacte waarde van de weerstand hangt af van het type LED die je gebruikt. Voor de LEDs op het Dwenguino bord is al een weerstand voorzien. Vind je die terug op het bord?
             </p>
         </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Symbool</h3>
+            <p class="info_item_content">
+                <img src="img/icon.svg" title="LED symbool" style="max-width: 100px">
+            </p>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Aansluiting</h3>
+            <p class="info_item_content">
+                <img src="img/connection.svg" title="LED aansluiting" style="max-width: 100%">
+            </p>
+        </div>
         <div class="example_item item">
             <h3 class="example_item_title">Voorbeeld: led 13 laten branden</h3>
             <p class="example_item_content">
@@ -73,7 +85,7 @@ void loop()
             </p>
         </div>
         <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: lampje laten knipperen</h3>
+            <h3 class="example_item_title">Voorbeeld: led 13 laten knipperen</h3>
             <p class="example_item_content">
                 <pre><code class="language-arduino">
 #include &lt;Wire.h&gt;
