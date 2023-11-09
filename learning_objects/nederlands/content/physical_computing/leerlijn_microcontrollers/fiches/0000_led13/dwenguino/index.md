@@ -53,13 +53,13 @@ teacher_exclusive: true
         <div class="info_item item">
             <h3 class="info_item_title">Symbool</h3>
             <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool" style="max-width: 100px">
+                <img src="img/icon.svg" title="LED symbool">
             </p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Aansluiting</h3>
             <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" style="max-width: 100%">
+                <img src="img/connection.svg" title="LED aansluiting" >
             </p>
         </div>
         <div class="example_item item">
