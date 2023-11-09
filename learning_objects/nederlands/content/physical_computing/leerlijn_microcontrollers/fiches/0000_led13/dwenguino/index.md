@@ -46,7 +46,7 @@ teacher_exclusive: true
     <div class="example_item">
         <h3 class="example_item_title">Voorbeeld: lampje laten knipperen</h3>
         <p class="example_item_content">
-            <pre><code class="language-cpp">
+            <pre><code class="language-arduino">
 #include &lt;Wire.h&gt;
 #include &lt;Dwenguino.h&gt;
 #include &lt;LiquidCrystal.h&gt;
