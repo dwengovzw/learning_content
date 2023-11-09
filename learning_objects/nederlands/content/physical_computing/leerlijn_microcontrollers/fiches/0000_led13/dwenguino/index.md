@@ -32,9 +32,41 @@ teacher_exclusive: true
         </p>
     </div>
     <div class="info_item">
-        <h3 class="info_item_title">In het echt</h3>
+        <h3 class="info_item_title">Pinnen</h3>
         <p class="info_item_content">
-            TODO: add image.
+            De naam van de LED geeft het al weg, deze is verbonden met <strong>pin 13</strong> van de microcontroller. 
+        </p>
+    </div>
+    <div class="info_item">
+        <h3 class="info_item_title">Type</h3>
+        <p class="info_item_content">
+            Uitvoer, actuator 
+        </p>
+    </div>
+    <div class="example_item">
+        <h3 class="example_item_title">Voorbeeld: lampje laten knipperen</h3>
+        <p class="example_item_content">
+            <pre><code class="language-cpp">
+#include <Wire.h>
+#include <Dwenguino.h>
+#include <LiquidCrystal.h>
+
+void setup()
+{
+initDwenguino();
+pinMode(13, OUTPUT);
+
+}
+
+void loop()
+{
+    digitalWrite(13, HIGH);
+    delay(1000);
+    digitalWrite(13, LOW);
+    delay(1000);
+
+}
+            </code></pre> 
         </p>
     </div>
 </div>
