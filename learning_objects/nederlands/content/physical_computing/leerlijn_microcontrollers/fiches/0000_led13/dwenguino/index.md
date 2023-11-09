@@ -47,25 +47,7 @@ teacher_exclusive: true
         <h3 class="example_item_title">Voorbeeld: lampje laten knipperen</h3>
         <p class="example_item_content">
             <pre><code class="language-cpp">
-#include <Wire.h>
-#include <Dwenguino.h>
-#include <LiquidCrystal.h>
-
-void setup()
-{
-initDwenguino();
-pinMode(13, OUTPUT);
-
-}
-
-void loop()
-{
-    digitalWrite(13, HIGH);
-    delay(1000);
-    digitalWrite(13, LOW);
-    delay(1000);
-
-}
+test
             </code></pre> 
         </p>
     </div>
