@@ -81,7 +81,6 @@ teacher_exclusive: true
 #define ECHO_PIN 12
 #define MAX_DISTANCE 200
 
-NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
 int afstand;
 void setup(){
     initDwenguino();
