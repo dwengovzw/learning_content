@@ -71,7 +71,7 @@ teacher_exclusive: true
             <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-cpp">
+<code class="language-arduino">
     
     #include <Wire.h>
     #include <Dwenguino.h>
