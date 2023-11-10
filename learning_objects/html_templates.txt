@@ -1,0 +1,40 @@
+// HTML voor een opdracht in een leerobject
+
+<div class="dwengo-content assignment">
+<h2>Hier de titel van de opdracht</h2>
+<p>
+Hier de opdracht.
+</p>
+</div>
+
+// HTML voor een weetje of extra info
+
+<div class="dwengo-content sideinfo">
+<h2>Hier de titel van het weetje</h2>
+<p>
+Hier de inhoud van het weetje
+</p>
+</div>
+
+// HTML voor een componentfiche
+
+<div class="dwengo_content fiche">
+    <h1 class="title">Titel van de fiche</h1>
+    <h2 class="subtitle">Subtitel van de fiche</h2>
+    <div class="items">
+        <div class="info_item item">
+            <h3 class="info_item_title">De titel van het item.</h3>
+            <p class="info_item_content">
+                Meer gedetaileerde info over het item.
+            </p>
+        </div>
+        <div class="example_item item">
+            <h3 class="example_item_title">Hier komt de titel van je voorbeeld.</h3>
+            <p class="example_item_content">
+                <pre><code class="language-arduino">
+    Hier komt je codevoorbeeld.
+                </code></pre> 
+            </p>
+        </div>
+    </div>
+</div>
