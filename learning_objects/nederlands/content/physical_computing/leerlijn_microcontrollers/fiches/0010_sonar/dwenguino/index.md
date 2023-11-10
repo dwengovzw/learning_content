@@ -73,10 +73,10 @@ teacher_exclusive: true
 <pre>
 <code class="language-cpp">
     
-    #include &lt;Wire.h&gt;
-    #include &lt;Dwenguino.h&gt;
-    #include &lt;LiquidCrystal.h&gt;
-    #include &lt;NewPing.h&gt;
+    #include <Wire.h>
+    #include <Dwenguino.h>
+    #include <LiquidCrystal.h>
+    #include <NewPing.h>
 
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
