@@ -2,7 +2,7 @@
 hruid: leerlijn_invoer_verwerking_uitvoer_hallo_uc
 version: 1
 language: nl
-title: "Introductie"
+title: "Hallo µC 🙂"
 description: "Beschrijving van wat er aan bod komt in het leerpad over invoer, verwerking en uitvoer."
 keywords: ["invoer", "verwerking", "uitvoer", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
