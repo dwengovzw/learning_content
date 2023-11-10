@@ -62,7 +62,7 @@ Er zijn modellen nodig om deze interacties te begrijpen en om de kwantitatieve v
 om te beslissen over interventiestrategieën.
 
 Menselijk gedrag tijdens ziekte-uitbraken verandert vaak drastisch. 
-Mensen vermijden drukke plaatsen of haasten zich naar drukke plaatsen zoals luchthavens of treinstations als ze proberen te ontsnappen aan de epidemie. 
+Mensen vermijden drukke plaatsen of haasten zich naar drukke plaatsen zoals luchthavens of treinstations, als ze proberen te ontsnappen aan de epidemie. 
 Modellering kan gezondheidswerkers helpen dit soort effecten te voorzien en te begrijpen.
 
 Modellen kunnen ook gebruikt worden om te bepalen hoe bestaansmiddelen toegewezen moeten worden om de beste kans te hebben 
@@ -73,7 +73,7 @@ in de toekomst te maken. Deze benadering wordt gebruikt om vaccinatiecampagnes t
 
 Wetenschappers ontwikkelen hun begrip van ziekteverspreiding met behulp van gegevens zoals gedrags-, demografische en epidemische trends, 
 maar het is vaak moeilijk om betrouwbare gegevens te verzamelen, en voor veel ziekten missen we nog steeds belangrijke informatie over hoe ze zich verspreiden. 
-Modellering kan ook in deze gevallen helpen, omdat wetenschappers verschillende hypotheses kunnen testen om te proberen de hiaten in hun kennis in te vullen.
+Modellering kan ook in deze gevallen helpen, omdat wetenschappers verschillende hypotheses kunnen testen om te proberen de hiaten in hun kennis op te vullen.
 
 ***
 
