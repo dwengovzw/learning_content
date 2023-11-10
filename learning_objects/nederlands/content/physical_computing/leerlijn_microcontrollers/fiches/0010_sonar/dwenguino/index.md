@@ -71,12 +71,15 @@ teacher_exclusive: true
             <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
 #include &lt;Wire.h&gt;
 #include &lt;Dwenguino.h&gt;
 #include &lt;LiquidCrystal.h&gt;
 #include &lt;NewPing.h&gt;
 
+#define TRIGGER_PIN 11
+#define ECHO_PIN 12
+#define MAX_DISTANCE 200
 
 NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
 int afstand;
