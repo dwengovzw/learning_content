@@ -28,7 +28,7 @@ De µC kan eigenlijk geen analoge uitvoer genereren. Om dat in bepaalde situatie
 
 De µC heeft speciale schakelingen die in staat zijn om een voltage op een pin om te zetten naar een getal. Deze schakeling zal een voltage tussen 0V en 5V registreren en omzetten naar een binair getal van 10 bits. Dit getal kunnen we in onze code dan lezen met de analogRead() functie van de arduino bibliotheek.
 
-| ![Diagram PWM signaal.](img/diagram.svg "Diagram PWM signaal.")
+| ![Diagram PWM signaal.](img/diagram.svg "Diagram PWM signaal.") |
 | -- |
 | In deze grafiek zien we hoe we aan de hand van een PWM signaal een analoge waarde kunnen benaderen. De oranje lijn geeft de spanning weer die in de tijd varieert volgens de functie sin(t). Om deze te benaderen passen we de breedte van de pulsen aan zodat de gemiddelde waarde van het blauwe PWM signaal overeenkomt met de waarde van sin(t). Wanneer sin(t) hoog is, zullen de pulsen lang hoog blijven. Wanneer de waarde van sin(t) laag is, zullen de pulsen maar heel kort hoog blijven. |
 
