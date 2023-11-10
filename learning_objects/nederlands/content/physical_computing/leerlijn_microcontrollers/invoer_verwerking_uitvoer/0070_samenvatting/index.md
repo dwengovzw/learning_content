@@ -24,4 +24,4 @@ teacher_exclusive: false
 
 # Samenvatting
 
-In dit leerpad kijken we op een hoog niveau naar de werking van de µC. Je zal leren hoe je op verschillende manieren invoer kan lezen en uitvoer kan genereren met de µC. Voor een groot deel van de oefeningen in dit leerpad maken we gebruik van fiches die beschrijven hoe je een component kan aansluiten en programmeren. Al deze fiches kan je [hier]() vinden (TODO: add link).
+In dit leerpad leerde je hoe je met de µC verschillende componenten kan uitlezen of aansturen. 

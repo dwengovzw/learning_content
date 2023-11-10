@@ -90,6 +90,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_invoer_oplossing",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_invoer_oplossing",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_uitvoer",
               "version": "1",
               "language": "nl"
