@@ -45,6 +45,6 @@ Om deze en andere belangrijke vragen te beantwoorden, worden vaak *ziekteverspre
 
 Aangezien het verloop doorheen de tijd cruciaal is in het geval van ziekteverspreiding, zijn 
 bijna alle ziekteverspreidingsmodellen *dynamisch* van aard. Ze modelleren dus een verandering in de tijd. 
-In dit project zullen we een veel gebruikt type ziekteverspreidingsmodel bestuderen: het SIR-model.
+In dit project zullen we een veelgebruikt type ziekteverspreidingsmodel bestuderen: het SIR-model.
 
 Bij elke golf in de COVID-19 pandemie kennen het aantal besmettingen of het aantal ziekenhuisopnames op een gegeven moment een exponentiële groei. In dit project leer je met regressie een exponentiële functie bepalen die die trend in de data weerspiegelt.
