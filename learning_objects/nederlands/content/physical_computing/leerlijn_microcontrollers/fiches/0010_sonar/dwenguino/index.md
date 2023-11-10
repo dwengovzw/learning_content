@@ -72,28 +72,30 @@ teacher_exclusive: true
             <p class="example_item_content">
 <pre>
 <code class="language-cpp">
-#include &lt;Wire.h&gt;
-#include &lt;Dwenguino.h&gt;
-#include &lt;LiquidCrystal.h&gt;
-#include &lt;NewPing.h&gt;
-#define TRIGGER_PIN 11
-#define ECHO_PIN 12
-#define MAX_DISTANCE 200
-NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
-int afstand;
-void setup(){
-    initDwenguino();
-    pinMode(13, OUTPUT);
-}
-void loop(){
-    afstand = sonar.ping_cm();
-    if (afstand > 0 && afstand < 100){
-        digitalWrite(13, HIGH);
-    } else {
-        digitalWrite(13, LOW);
+    #include &lt;Wire.h&gt;
+    #include &lt;Dwenguino.h&gt;
+    #include &lt;LiquidCrystal.h&gt;
+    #include &lt;NewPing.h&gt;
+    #define TRIGGER_PIN 11
+    #define ECHO_PIN 12
+    #define MAX_DISTANCE 200
+    NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
+    int afstand;
+
+    void setup(){
+        initDwenguino();
+        pinMode(13, OUTPUT);
     }
-    delay(100);
-}
+
+    void loop(){
+        afstand = sonar.ping_cm();
+        if (afstand > 0 && afstand < 100){
+            digitalWrite(13, HIGH);
+        } else {
+            digitalWrite(13, LOW);
+        }
+        delay(100);
+    }
 </code>
 </pre> 
             </p>
