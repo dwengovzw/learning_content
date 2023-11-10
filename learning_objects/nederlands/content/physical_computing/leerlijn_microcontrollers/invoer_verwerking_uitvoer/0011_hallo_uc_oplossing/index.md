@@ -27,33 +27,33 @@ teacher_exclusive: true
 Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er zeker variaties op deze oplossing mogelijk zijn.
 
 ```arduino
- #include <Wire.h>
-    #include <Dwenguino.h>
-    #include <LiquidCrystal.h>
-    #include <NewPing.h>
+#include <Wire.h>
+#include <Dwenguino.h>
+#include <LiquidCrystal.h>
+#include <NewPing.h>
 
-    #define TRIGGER_PIN 11
-    #define ECHO_PIN 12
-    #define MAX_DISTANCE 200
+#define TRIGGER_PIN 11
+#define ECHO_PIN 12
+#define MAX_DISTANCE 200
 
-    NewPing sonar(
-        TRIGGER_PIN, 
-        ECHO_PIN, 
-        MAX_DISTANCE);
-    int afstand;
+NewPing sonar(
+    TRIGGER_PIN, 
+    ECHO_PIN, 
+    MAX_DISTANCE);
+int afstand;
 
-    void setup(){
-        initDwenguino();
-        pinMode(13, OUTPUT);
+void setup(){
+    initDwenguino();
+    pinMode(13, OUTPUT);
+}
+
+void loop(){
+    afstand = sonar.ping_cm();
+    if (afstand > 0 && afstand < 100){
+        digitalWrite(13, HIGH);
+    } else {
+        digitalWrite(13, LOW);
     }
-
-    void loop(){
-        afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
-        }
-        delay(100);
-    }
+    delay(100);
+}
 ```
