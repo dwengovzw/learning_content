@@ -27,7 +27,7 @@ teacher_exclusive: false
 De µC heeft speciale schakelingen die in staat zijn om een voltage op een pin om te zetten naar een getal. Deze schakeling zal een voltage tussen 0V en 5V registreren en omzetten naar een binair getal van 10 bits. Dit getal kunnen we in onze code dan lezen met de analogRead() functie van de arduino bibliotheek.
 
 ```cpp
-int analoge_waarde_pin_A0 = analogRead(A0);
+unsigned int analoge_waarde_pin_A0 = analogRead(A0);
 ```
 
 `analoge_waarde_pin_A0` is de variabele waarin we de analoge waarde opslaan.
@@ -37,6 +37,6 @@ int analoge_waarde_pin_A0 = analogRead(A0);
 <div class="dwengo-content assignment">
 <h2>Inzichtsvraag</h2>
 <p>
-Waarom gebruiken we bij het lezen van analoge invoer int als type van de variabele terwijl we bij het lezen van digitale invoer het type unsigned char gebruiken?
+Waarom gebruiken we bij het lezen van analoge invoer int als type van de variabele <pre><code class="language-cpp">unsigned int</code></pre> wanneer we bij het lezen van digitale invoer het type <pre><code class="language-cpp">unsigned char</code></pre> gebruiken?
 </p>
 </div>
