@@ -2,7 +2,7 @@
 hruid: leerlijn_invoer_verwerking_uitvoer_analoge_invoer_oplossing
 version: 1
 language: nl
-title: "Analoge invoer"
+title: "Analoge invoer (oplossing)"
 description: "Leer hoe je een analoge waarde leest van een pin van de µC."
 keywords: ["invoer", "verwerking", "uitvoer", "microcontroller", "µC", "arduino", "dwenguino", "analogRead"]
 educational_goals: [
@@ -19,7 +19,7 @@ estimated_time: 8
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Analoge invoer (oplossing)
