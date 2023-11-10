@@ -22,6 +22,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
+# Digitale uitvoer
+
 Naar digitale pinnen kan je ook een waarde schrijven (1 of 0). Zo stel je het spanningsniveau op de pin in op 5V of 0V. Hieronder zie je hoe je met de Arduino bibliotheek de waarde 1 (=HIGH) naar pin 12 kan schrijven.
 
 ```cpp
