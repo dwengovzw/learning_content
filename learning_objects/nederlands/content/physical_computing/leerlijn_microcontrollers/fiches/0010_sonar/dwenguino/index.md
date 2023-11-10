@@ -81,7 +81,7 @@ teacher_exclusive: true
 #define ECHO_PIN 12
 #define MAX_DISTANCE 200
 
-int afstand;
+
 void setup(){
     initDwenguino();
     pinMode(13, OUTPUT);
