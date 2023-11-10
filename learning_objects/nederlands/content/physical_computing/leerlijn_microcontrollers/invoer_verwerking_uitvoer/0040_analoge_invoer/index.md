@@ -22,6 +22,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
+# Analoge invoer
+
 De µC heeft speciale schakelingen die in staat zijn om een voltage op een pin om te zetten naar een getal. Deze schakeling zal een voltage tussen 0V en 5V registreren en omzetten naar een binair getal van 10 bits. Dit getal kunnen we in onze code dan lezen met de analogRead() functie van de arduino bibliotheek.
 
 ```cpp
