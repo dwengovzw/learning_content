@@ -19,7 +19,7 @@ estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Hallo µC 🙂
@@ -36,6 +36,6 @@ Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een o
 <div class="dwengo_content assignment">
     <h2>Opdracht</h2>
     <p>
-        Maak gebruik van de fiches om een lamp te maken met beweginssensor. Als beweginssensor maak je gebruik van de sonarsensor. Deze meet de afstand tot het object dat voor de sensor staat. Zorg ervoor dat wanneer iemand voor de sensor loopt, LED13 op de microcontroller gaat branden. Bekijk de fiche van LED13 om te achterhalen hoe je de LED kan aansturen.
+        Maak gebruik van de fiches om een lamp te maken met beweginssensor. Als beweginssensor maak je gebruik van de sonarsensor. Deze meet de afstand tot het object dat voor de sensor staat. Zorg ervoor dat wanneer iemand voor de sensor loopt, LED13 op de microcontroller gaat branden. Bekijk de fiches van LED13 en de sonar om te achterhalen hoe je de LED kan aansturen.
     </p>
 </div>
