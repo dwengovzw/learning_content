@@ -70,8 +70,8 @@ teacher_exclusive: true
         <div class="example_item item">
             <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
             <p class="example_item_content">
-                <pre><code class="language-arduino">
-
+<pre>
+<code class="language-arduino">
 #include &lt;Wire.h&gt;
 #include &lt;Dwenguino.h&gt;
 #include &lt;LiquidCrystal.h&gt;
@@ -87,7 +87,17 @@ void setup(){
     initDwenguino();
     pinMode(13, OUTPUT);
 }
-                </code></pre> 
+void loop(){
+    afstand = sonar.ping_cm();
+    if (afstand > 0 && afstand < 100){
+        digitalWrite(13, HIGH);
+    } else {
+        digitalWrite(13, LOW);
+    }
+    delay(100);
+}
+</code>
+</pre> 
             </p>
         </div>
     </div>
