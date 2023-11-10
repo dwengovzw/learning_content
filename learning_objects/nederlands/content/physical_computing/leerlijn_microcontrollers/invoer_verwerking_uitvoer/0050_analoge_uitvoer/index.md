@@ -33,7 +33,7 @@ De µC heeft speciale schakelingen die in staat zijn om een voltage op een pin o
         <td><img src="img/diagram.svg" alt="Diagram PWM signaal." title="Diagram PWM signaal." style="width: 80%"></td>
     </tr>
     <tr>
-        <td>In deze grafiek zien we hoe we aan de hand van een PWM signaal een analoge waarde kunnen benaderen. De oranje lijn geeft de spanning weer die in de tijd varieert volgens de functie sin(t). Om deze te benaderen passen we de breedte van de pulsen aan zodat de gemiddelde waarde van het blauwe PWM signaal overeenkomt met de waarde van sin(t). Wanneer sin(t) hoog is, zullen de pulsen lang hoog blijven. Wanneer de waarde van sin(t) laag is, zullen de pulsen maar heel kort hoog blijven.</td>
+        <td>In deze grafiek zien we hoe we aan de hand van een PWM signaal een analoge waarde kunnen benaderen. De oranje lijn geeft de spanning weer die in de tijd varieert volgens de functie sin(t). Om deze te benaderen passen we de breedte van de pulsen aan zodat de gemiddelde waarde van het blauwe PWM signaal overeenkomt met de waarde van sin(t). Wanneer sin(t) hoog is, zullen de pulsen lang hoog blijven (en dus breder zijn). Wanneer de waarde van sin(t) laag is, zullen de pulsen maar heel kort hoog blijven (en dus smaller zijn). Vandaar de naam pulsbreedtemodulatie.</td>
     </tr>
 </table>
 
