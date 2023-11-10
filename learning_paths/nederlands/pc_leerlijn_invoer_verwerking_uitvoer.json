@@ -105,7 +105,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_intro_leerplandoelen",
+              "hruid": "leerlijn_invoer_verwerking_uitvoer_bibliotheek",
               "version": "1",
               "language": "nl"
             }
@@ -113,7 +113,37 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_intro_leerplandoelen",
+        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_bibliotheek",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_invoer_verwerking_uitvoer_samenvatting",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_samenvatting",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_invoer_verwerking_uitvoer_leerplandoelen",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_leerplandoelen",
         "version": "1",
         "language": "nl"
       }
