@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Inleiding
 
-In het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_inleiding1;nl;3) maakte je kennis met een werkbare definitie van computationeel denken. Je kreeg ook meer uitleg over wat de basisconcepten nu juist inhouden. In het volgende leerobject wordt dat nog eens samengevat. Computationeel denken is echter niet beperkt tot de basisconcepten. Het beslaat veel meer, zoals al bleek uit [de poster van *Barefoot Computing*](https://staging.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct01_06;nl;3). 
+In het leerpad ['Definitie en aandachtspunten'](https://www.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct01_01;nl;3) maakte je kennis met een werkbare definitie van computationeel denken. Je kreeg ook meer uitleg over wat de basisconcepten nu juist inhouden. In het volgende leerobject wordt dat nog eens samengevat. Computationeel denken is echter niet beperkt tot de basisconcepten. Het beslaat veel meer, zoals al bleek uit [de poster van *Barefoot Computing*](https://staging.dwengo.org/learning-path.html?hruid=ct2_concreet&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct01_06;nl;3). 
 
 De Vlaamse eindtermen en minimumdoelen spreken daarom ook over 'computationeel denken en handelen'.
 
