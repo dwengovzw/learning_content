@@ -76,11 +76,9 @@ teacher_exclusive: true
 #include &lt;Dwenguino.h&gt;
 #include &lt;LiquidCrystal.h&gt;
 #include &lt;NewPing.h&gt;
-
 #define TRIGGER_PIN 11
 #define ECHO_PIN 12
 #define MAX_DISTANCE 200
-
 NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
 int afstand;
 void setup(){
