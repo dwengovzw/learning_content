@@ -59,7 +59,7 @@ Het is bovendien onmogelijk om deze invloed uit ons leven te bannen. Maar **iede
 </div>
 
 <br>
-In wat volgt, zal duidelijk worden dat er een wisselwerking bestaat tussen je bekwaamheid in computationeel denken en je kennis van de werking van digitale systemen. Je kan pas vaardig worden in computationeel denken als je een basiskennis hebt van de werking van digitale systemen. En je kan de werking van digitale systemen pas goed begrijpen als je voldoende bedreven bent in computationeel denken. 
+In wat volgt zal duidelijk worden dat er een wisselwerking bestaat tussen je bekwaamheid in computationeel denken en je kennis van de werking van digitale systemen. Je kan pas vaardig worden in computationeel denken als je een basiskennis hebt van de werking van digitale systemen. En je kan de werking van digitale systemen pas goed begrijpen als je voldoende bedreven bent in computationeel denken. 
 
 ---
 
