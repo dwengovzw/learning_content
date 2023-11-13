@@ -2,7 +2,7 @@
 hruid: un_ai4
 version: 3
 language: nl
-title: "ML en DL"
+title: "Deep learning"
 description: "DL"
 keywords: [""]
 educational_goals: [
@@ -30,9 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Machine learning en deep learning
+# Deep learning
 
-## Deep learning
 Binnen het machinaal leren bekleedt ***deep learning (DL)*** een prominente plaats. DL heeft een revolutie veroorzaakt in het veld van ML door opmerkelijke resultaten te boeken op het vlak van spraak- en beeldherkenning, wat vaardigheden zijn waarvan de computer de menselijke prestaties tot op vandaag moeilijk kan evenaren. DL speelt behalve in de spraakherkenning ook een grote rol in andere domeinen van taaltechnologie.
 
 > **Voorbeeld:**<br>
