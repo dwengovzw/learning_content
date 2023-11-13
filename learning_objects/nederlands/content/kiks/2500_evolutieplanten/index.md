@@ -56,10 +56,11 @@ De evolutie in het plantenrijk heeft geresulteerd in drie soorten planten: C<sub
 <ul><li>Ongeveer 85 % van de plantensoorten zijn C<sub>3</sub>-planten, zoals granen en groenten (bv. rijst, graan, spinazie, tomaten) en alle bomen (bv. appelbomen, eik). Ze vormen moleculen met 3 C-atomen tijdens het fotosyntheseproces.</li></ul><br> 
 <ul><li>Ongeveer 5 % van de plantensoorten zijn C<sub>4</sub>-planten, zoals maïs, gierst, suikerriet en vele grassen. Ze maken wel 25 % uit van de planten op aarde en komen vooral voor in tropische, vaak droge gebieden. Ze vormen moleculen met 4 C-atomen tijdens het fotosyntheseproces.</li></ul><br> 
 <ul><li>De overige 10 % van de plantensoorten zijn CAM-planten, zoals cactus, ananas, Kalanchoë en sedum. Ze komen vooral voor in droge gebieden met hoge dagtemperaturen en lage nachttemperaturen. Ze vormen ook moleculen met 4 C-atomen tijdens het fotosyntheseproces, maar ze verschillen van de C<sub>4</sub>-planten omdat ze ‘s nachts hun stomata openen om CO<sub>2</sub> op te nemen. Zo beschermen ze zichzelf tegen uitdroging. Die CO<sub>2</sub> wordt in de plant opgeslagen en gedurende de dag, als de nodige lichtenergie voorhanden is, terug beschikbaar gemaakt voor de fotosynthese. (Yamori et al., 2013; Sterrenwacht Armand Pien, 2018).</li></ul>
+
+Voor het KIKS-project is kennis van C<sub>3</sub>-, C<sub>4</sub>- en CAM-planten facultatief.
 </div> 
 
 <div class="alert alert-box alert-success">
-    <strong>Notebook Datatypes voor opsommingen</strong><br>
-    Op de webpagina https://dwengo.org/python/ vind je 'Opsommingen' in het leerpad <em>Datatypes</em>. In de notebook <em>1000_Opsommingen.ipynb</em> van dit leerpad komen C<sub>3</sub>-, C<sub>4</sub>- en CAM-planten aan bod.<br><br>
-    Voor het KIKS-project is kennis van C<sub>3</sub>-, C<sub>4</sub>- en CAM-planten facultatief.
+    <strong>Notebook Datatypes over opsommingen</strong><br>
+    Op de webpagina <a href="https://dwengo.org/python/">Programmeren in Python</a> vind je 'Opsommingen' in het leerpad <em>Datatypes</em>. In de notebook <em>1000_Opsommingen.ipynb</em> van dit leerpad komen C<sub>3</sub>-, C<sub>4</sub>- en CAM-planten aan bod.<br><br>
 </div> 
