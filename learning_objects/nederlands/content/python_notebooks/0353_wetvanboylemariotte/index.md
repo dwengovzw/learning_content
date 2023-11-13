@@ -29,3 +29,4 @@ skos_concepts: [
 ]
 ---
 # De Wet van Boyle-Mariotte
+Leerobject in ontwikkeling.
