@@ -76,7 +76,7 @@ Hieronder vind je een aantal mogelijke oplossingen. Deze zijn afhankelijk van de
     Gebruik de multimeter om de volgende vragen te beantwoorden.
     <ul>
         <li>Meet de weerstand van R1 en R2. Wat merk je op?</li>
-        <li><em>Hier kiezen we voor de weerstand van R1 een veelvoud van de weerstand van R2. Bv. \\(R1 = 2 * R2\\), \\(R1 = R2\\) of \\(R1 = 10 * R2\\)</em></li>
+        <li><em>Hier kiezen we voor de weerstand van R1 een veelvoud van de weerstand van R2. Bv. \(R1 = 2 * R2\), \(R1 = R2\) of \(R1 = 10 * R2\)</em></li>
         <li>Meet de spanning tussen de punten a en b, en tussen de punten b en c. Wat merk je op?</li>
         <li><em>Hier zouden de leerlingen moeten opmerken dat de verhoudig tussen de spanningen gelijk is aan de verhoudingen tussen de weerstandswaarden.</em></li>
         <li>Meet de weerstand en spanning tussen a en c. Wat merk je op?</li>
@@ -95,7 +95,7 @@ Hieronder vind je een aantal mogelijke oplossingen. Deze zijn afhankelijk van de
     Gebruik de multimeter om de volgende vragen te beantwoorden.
     <ul>
         <li>Meet de weerstand van R1 en R2.</li>
-        <li><em>Hier kiezen we voor de weerstand van R1 een veelvoud van de weerstand van R2. Bv. \\(R1 = 2 * R2\\), \\(R1 = R2\\) of \\(R1 = 10 * R2\\)</em></li>
+        <li><em>Hier kiezen we voor de weerstand van R1 een veelvoud van de weerstand van R2. Bv. \(R1 = 2 * R2\), \(R1 = R2\) of \(R1 = 10 * R2\)</em></li>
         <li>Meet de spanning tussen a en b.</li>
         <li><em>5 V</em></li>
         <li>Bereken de stroom door het punt c.</li>
