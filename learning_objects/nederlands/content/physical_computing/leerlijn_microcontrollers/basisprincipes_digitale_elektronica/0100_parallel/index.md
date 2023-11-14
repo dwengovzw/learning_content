@@ -41,4 +41,4 @@ In een parallelschakeling is de spanning over elke component gelijk.
 Het effect van de parallelschakeling op de weerstand:
 In een parallelschakeling is de totale weerstand gelijk aan het inverse van de som van de inversen van de individuele weerstanden.
 
-\\[R_T = \frac{1}{\frac{1}{R_1} + \frac{1}{R_2} + \eliplis + \frac{1}{R_n}}\\]
+\\[R_T = \frac{1}{\frac{1}{R_1} + \frac{1}{R_2} + … + \frac{1}{R_n}}\\]
