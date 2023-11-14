@@ -42,7 +42,9 @@ In onderstaande code staat in de commentaar aangegeven welke lijnen te maken heb
     /* Met deze code definieer je het sonar object en sla
      * je die op in de variabele sonar.
      * Deze zal je gebruiken om op een abstracte manier
-     * te communiceren met de sensor. */
+     * te communiceren met de sensor. 
+     * Hier stel je ook al in met welke pinnen de sensor verbonden is
+     * en wat de maximale afstand is dat die mag/kan meten.*/
     NewPing sonar(
         TRIGGER_PIN, 
         ECHO_PIN, 
