@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "Introductie"
 description: "Beschrijving van wat er aan bod komt in het leerpad over invoer, verwerking en uitvoer."
-keywords: ["invoer", "verwerking", "uitvoer", "microcontroller", "µC", "arduino", "dwenguino"]
+keywords: ["digitale elektronica", "basisprincipes", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -24,4 +24,4 @@ teacher_exclusive: false
 
 # Introductie
 
-In dit leerpad kijken we op een hoog niveau naar de werking van de µC. Je zal leren hoe je op verschillende manieren invoer kan lezen en uitvoer kan genereren met de µC. Voor een groot deel van de oefeningen in dit leerpad maken we gebruik van fiches die beschrijven hoe je een component kan aansluiten en programmeren. Al deze fiches kan je [hier]() vinden (TODO: add link).
+In het leerpad over invoer, verwerking en uitvoer zag je hoe je verschillende sensoren en actuatoren kan aansluiten op de µC. In dit leerpad leer je over waarom je die componenten op een bepaalde manier moest aansluiten. Met deze kennis zal je beter in staat zijn om problemen met je toepassing te identificeren en op te lossen (**debuggen**). 
