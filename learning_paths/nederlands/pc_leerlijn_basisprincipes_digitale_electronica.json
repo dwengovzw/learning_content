@@ -165,7 +165,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_uitvoer_oplossing",
+              "hruid": "leerlijn_invoer_basisprincipes_serie",
               "version": "1",
               "language": "nl"
             }
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_uitvoer_oplossing",
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_serie",
         "version": "1",
         "language": "nl",
         "transitions": [
