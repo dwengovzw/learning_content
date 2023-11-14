@@ -46,7 +46,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_fiches_dwenguino_led13",
+              "hruid": "leerlijn_invoer_basisprincipes_intro",
               "version": "1",
               "language": "nl"
             }
@@ -54,7 +54,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_fiches_dwenguino_led13",
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_intro",
         "version": "1",
         "language": "nl"
       }
