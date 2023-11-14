@@ -27,7 +27,11 @@ teacher_exclusive: false
 Hieronder vind je een aantal complexere oefeningen om je meetvaardigheden te oefenen. Zorg ervoor dat je de multimeter altijd **correct instelt** zodat je die niet kapot maakt!
 
 <div class="dwengo-content assignment">
-<h2>Opdracht</h2>
+<h2>Opdracht 1</h2>
+<p>
+    <span>Je krijgt van de leerkracht de volgende schakeling:</span>
+    <img src="img/diagram_01.svg"></img>
+</p>
 <p>
     Gebruik de multimeter om de volgende vragen te beantwoorden.
     <ul>
@@ -39,7 +43,21 @@ Hieronder vind je een aantal complexere oefeningen om je meetvaardigheden te oef
 </p>
 </div>
 
-
+<div class="dwengo-content assignment">
+<h2>Opdracht 2</h2>
+<p>
+    <span>Je krijgt van de leerkracht de volgende schakeling:</span>
+    <img src="img/diagram_02.svg"></img>
+</p>
+<p>
+    Gebruik de multimeter om de volgende vragen te beantwoorden.
+    <ul>
+        <li>Wat is de weerstandswaarde van R1?.</li>
+        <li>Wat is de spanning over de weerstand R1?</li>
+        <li>Welke stroom loopt er door de weerstand R1?</li>
+    </ul>
+</p>
+</div>
 
 
 
