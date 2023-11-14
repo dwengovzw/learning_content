@@ -45,21 +45,6 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
               "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten",
               "version": "1",
               "language": "nl"
@@ -75,7 +60,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_stroom",
+              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning",
               "version": "1",
               "language": "nl"
             }
@@ -83,7 +68,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_weerstand",
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning",
         "version": "1",
         "language": "nl",
         "transitions": [
@@ -99,6 +84,21 @@
       },
       {
         "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_stroom",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_weerstand",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_weerstand",
         "version": "1",
         "language": "nl",
         "transitions": [
