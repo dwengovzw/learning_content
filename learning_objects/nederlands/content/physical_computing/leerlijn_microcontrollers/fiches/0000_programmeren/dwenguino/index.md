@@ -27,29 +27,32 @@ teacher_exclusive: false
     <h2 class="subtitle">Hoe zet ik code vanop mijn computer over naar de Dwenguino?</h2>
     <div class="items">
         <div class="info_item item">
-            <h3 class="info_item_title">1. De binaire code downloaden.</h3>
+            <h3 class="info_item_title">Alle stappen visueel</h3>
             <p class="info_item_content">
-                Download het programma uit de simulator met de knop uit het hoofdmenu: <img src="img/compile_button.png" alt="Dwenguino compile button." title="Dwenguino compile button."></img>. Het programma komt automatisch in de ‘Downloads’-map met bestandsnaam “program.dw”. Het dw-bestand bevat de binaire code van je programma. Het is de vertaling van je programma naar een taal die de Dwenguino begrijpt. Voor meer uitleg hierover kan je het online leerpad op de Dwengo website raadplegen. 
+                <div class="iframe-container iframe-16-9">
+                    <iframe allowfullscreen="" src="https://www.youtube.com/embed/VpAXLlT_JP0" height="315px" width="420px"></iframe>
+                </div>
             </p>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">2. USB kabel aansluiten.</h3>
+            <h3 class="info_item_title">1. De binaire code downloaden</h3>
+            <p class="info_item_content">
+                Download het programma uit de simulator met de knop uit het hoofdmenu: <img src="img/compile_button.png" alt="Dwenguino compile button." title="Dwenguino compile button."></img>. Het programma komt automatisch in de ‘Downloads’-map met bestandsnaam “program.dw”. Het dw-bestand bevat de binaire code van je programma. Het is de vertaling van je programma naar een taal die de Dwenguino begrijpt.
+            </p>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">2. USB kabel aansluiten</h3>
             <p class="info_item_content">
                 Verbind de computer met de Dwenguino door middel van de meegeleverde USB-kabel.
             </p>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">3. Zet Dwenguino in programmeermodus.</h3>
+            <h3 class="info_item_title">3. Zet Dwenguino in programmeermodus</h3>
             <p class="info_item_content">
-                Druk de ‘zuid’-knop van de Dwenguino in en houd de knop ingedrukt. 
-                Druk vervolgens de ‘reset’-knop van de Dwenguino in.
-                Los dan eerst de ‘reset’-knop. 
-                Los daarna de ‘zuid’-knop. Op het lcd-scherm verschijnt de boodschap “Zet bestand over”.  
-            </p>
-            <p class="info_item_content">
-                <div class="iframe-container iframe-16-9">
-                    <iframe allowfullscreen="" src="https://www.youtube.com/embed/VpAXLlT_JP0" height="315px" width="420px"></iframe>
-                </div>
+                Druk de ‘zuid’-knop van de Dwenguino in en houd de knop ingedrukt. </br>
+                Druk vervolgens de ‘reset’-knop van de Dwenguino in. </br>
+                Los dan eerst de ‘reset’-knop. </br>
+                Los daarna de ‘zuid’-knop. Op het lcd-scherm verschijnt de boodschap “Zet bestand over”. 
             </p>
         </div>
         <div class="info_item item">
@@ -65,7 +68,7 @@ teacher_exclusive: false
             </p>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">5. De code laten uitvoeren.</h3>
+            <h3 class="info_item_title">5. De code laten uitvoeren</h3>
             <p class="info_item_content">
                 Druk nog een laatste keer op de ‘reset’-knop van de Dwenguino om het programma definitief over te zetten en de Dwenguino te ontkoppelen. Je programma staat nu in het geheugen van de Dwenguino en zal onmiddellijk worden uitgevoerd.
             </p>
