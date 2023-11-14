@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 2
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -52,7 +52,7 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
     </tr>
     <tr>
         <td>
-            <span>Geluidsensor</span>
+            <div>Geluidsensor</div>
             <img src="img/sound.png" alt="Afbeelding geluidsensor" title="Afbeelding geluidsensor"></img>
         </td>
         <td>
@@ -67,7 +67,7 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
     </tr>
     <tr>
         <td>
-            <span>Sonar-sensor</span>
+            <div>Sonar-sensor</div>
             <img src="img/sonar.png" alt="Afbeelding sonar-sensor" title="Afbeelding sonar-sensor"></img>
         </td>
         <td>
@@ -82,7 +82,7 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
     </tr>
     <tr>
         <td>
-            <span>Servomotor</span>
+            <div>Servomotor</div>
             <img src="img/servo.png" alt="Afbeelding servomotor" title="Afbeelding servomotor"></img>
         </td>
         <td>
@@ -96,7 +96,7 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
     </tr>
     <tr>
         <td>
-            <span>Knop</span>
+            <div>Knop</div>
             <img src="img/button.png" alt="Afbeelding knop" title="Afbeelding knop"></img>
         </td>
         <td>
@@ -110,7 +110,7 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
     </tr>
     <tr>
         <td>
-            <span>LCD-scherm</span>
+            <div>LCD-scherm</div>
             <img src="img/lcd.png" alt="Afbeelding lcd-scherm" title="Afbeelding lcd-scherm"></img>
         </td>
         <td>
