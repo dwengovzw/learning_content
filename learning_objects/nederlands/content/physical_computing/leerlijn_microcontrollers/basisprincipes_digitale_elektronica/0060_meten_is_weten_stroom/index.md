@@ -36,11 +36,11 @@ Om spanning te meten pluggen we de probes in in de volgende poorten op de multim
 
 Waar je de rode probe inplugt hangt af van de verwachte stroom die je gaat meten. Is die niet groter dan 400 mA:
 
-<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 400 mA </span><br><br>
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 400 mA </span><br>
 
 Is die niet groter dan 10A
 
-<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 10 A </span><br><br>
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 10 A </span><br>
 
 
 ### Modus van de multimeter
