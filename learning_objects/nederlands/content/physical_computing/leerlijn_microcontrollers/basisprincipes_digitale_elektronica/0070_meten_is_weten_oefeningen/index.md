@@ -29,7 +29,7 @@ Hieronder vind je een aantal complexere oefeningen om je meetvaardigheden te oef
 <div class="dwengo-content assignment">
 <h2>Opdracht 1</h2>
 <p>
-    <span>Je krijgt van de leerkracht de volgende schakeling:</span>
+    <div>Je krijgt van de leerkracht de volgende schakeling:</div>
     <img src="img/diagram_01.svg"></img>
 </p>
 <p>
@@ -46,20 +46,67 @@ Hieronder vind je een aantal complexere oefeningen om je meetvaardigheden te oef
 <div class="dwengo-content assignment">
 <h2>Opdracht 2</h2>
 <p>
-    <span>Je krijgt van de leerkracht de volgende schakeling:</span>
+    <div>Je krijgt van de leerkracht de volgende schakeling:</div>
     <img src="img/diagram_02.svg"></img>
 </p>
 <p>
     Gebruik de multimeter om de volgende vragen te beantwoorden.
     <ul>
-        <li>Wat is de weerstandswaarde van R1?.</li>
+        <li>Wat is de weerstandswaarde van R1?</li>
         <li>Wat is de spanning over de weerstand R1?</li>
         <li>Welke stroom loopt er door de weerstand R1?</li>
     </ul>
 </p>
 </div>
 
+<div class="dwengo-content assignment">
+<h2>Opdracht 3</h2>
+<p>
+    <div>Je krijgt van de leerkracht de volgende schakeling:</div>
+    <img src="img/diagram_03.svg"></img>
+</p>
+<p>
+    Gebruik de multimeter om de volgende vragen te beantwoorden.
+    <ul>
+        <li>Meet de weerstand van R1 en R2. Wat merk je op?</li>
+        <li>Meet de spanning tussen de punten a en b, en tussen de punten b en c. Wat merk je op?</li>
+        <li>Meet de weerstand en spanning tussen a en c. Wat merk je op?</li>
+    </ul>
+</p>
+</div>
 
+<div class="dwengo-content assignment">
+<h2>Opdracht 4</h2>
+<p>
+    <div>Je krijgt van de leerkracht de volgende schakeling:</div>
+    <img src="img/diagram_04.svg"></img>
+</p>
+<p>
+    Gebruik de multimeter om de volgende vragen te beantwoorden.
+    <ul>
+        <li>Meet de weerstand van R1 en R2.</li>
+        <li>Meet de spanning tussen a en b.</li>
+        <li>Bereken de stroom door het punt c.</li>
+        <li>Bereken de stroom door het punt d.</li>
+    </ul>
+</p>
+</div>
+
+<div class="dwengo-content assignment">
+<h2>Opdracht 5</h2>
+<p>
+    <div>Je krijgt van de leerkracht de volgende schakeling:</div>
+    <img src="img/diagram_05.svg"></img>
+</p>
+<p>
+    Gebruik de multimeter om de volgende vragen te beantwoorden.
+    <ul>
+        <li>Meet de weerstand van R1, R2, R3 en R4.</li>
+        <li>Meet de spanning tussen de punten a en b, b en c, c en d, d en e.</li>
+        <li>Wat merk je als je de weerstanden en spanningen van/over een weerstand met elkaar vergelijkt?</li>
+    </ul>
+</p>
+</div>
 
 
 
