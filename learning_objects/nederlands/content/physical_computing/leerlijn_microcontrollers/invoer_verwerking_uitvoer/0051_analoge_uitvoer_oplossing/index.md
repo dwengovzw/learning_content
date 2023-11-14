@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 20
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -35,7 +35,6 @@ void setup()
 {
     initDwenguino();
     pinMode(13, OUTPUT);
-
 }
 
 void loop()
@@ -44,11 +43,10 @@ void loop()
     delay(5);
     digitalWrite(13, LOW);
     delay(5);
-
 }
 ```
 
-Je kan de leerlingen ook laten experimenteren met de verhouding tussen aan en uit. Op die manier kunnen ze de led dimmen tot verschillende lichtsterktes. Om dit te doen zorg je ervoor dat de duur van de periode gelijk blijft (bv. 10 ms) maar de tijd dat het signaal hoog (de duty cycle) is groter of kleinder wordt. Hieronder zie je een voorbeeld van een led die 20% gedimd wordt.
+Je kan de leerlingen ook laten experimenteren met de verhouding tussen aan en uit. Op die manier kunnen ze de led dimmen tot verschillende lichtsterktes. Om dit te doen zorg je ervoor dat de duur van de **periode** gelijk blijft (bv. 10 ms) maar de tijd dat het signaal hoog (de **duty cycle**) is groter of kleinder wordt. Hieronder zie je een voorbeeld van een led die 20% gedimd wordt.
 
 ```arduino
 #include <Wire.h>;
@@ -59,7 +57,6 @@ void setup()
 {
     initDwenguino();
     pinMode(13, OUTPUT);
-
 }
 
 void loop()
@@ -68,6 +65,5 @@ void loop()
     delay(8);
     digitalWrite(13, LOW);
     delay(2);
-
 }
 ```
