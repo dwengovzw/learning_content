@@ -48,74 +48,29 @@ teacher_exclusive: false
             </p>
             <p class="info_item_content">
                 <div class="iframe-container iframe-16-9">
-                    <iframe allowfullscreen="" src="https://youtu.be/VpAXLlT_JP0?si=ZZ7A1UwEE0-hPWsu" height="315px" width="420px"></iframe>
+                    <iframe allowfullscreen="" src="https://www.youtube.com/embed/VpAXLlT_JP0" height="315px" width="420px"></iframe>
                 </div>
             </p>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">Werking</h3>
+            <h3 class="info_item_title">4. Bestand overzetten</h3>
             <p class="info_item_content">
-                Leds bestaan in verschillende kleuren. De ingebouwde leds op de Dwenguino kan je rood laten oplichten. Door de pin waarmee de LED verbonden is op hoog te zetten, gaat de LED branden. Merk op dat wanneer je een LED aansluit op een pin van de µC (5V), je steeds een weerstand van ongeveer 400 Ohm in serie moet schakelen met de LED. De exacte waarde van de weerstand hangt af van het type LED die je gebruikt. Voor de LEDs op het Dwenguino bord is al een weerstand van 470 Ohm voorzien. Vind je die terug op het bord?
+                De Dwenguino is nu beschikbaar in de verkenner van Windows, zoals je een USB-stick zou openen. Wanneer je de ‘Dwenguino’-map opent, kan je het programma “program.dw” uit de ‘Downloads’-map erin slepen.
+            </p>
+            <p>
+                <img src="img/explorer1.png" alt="De Dwenguino is nu zichtbaar al een USB stick in de verkenner." title="De Dwenguino is nu zichtbaar al een usb stick in de verkenner."></img>
+            </p>
+            <p>
+                <img src="img/explorer2.png" alt="Sleep het gedownloade program.dw bestand naar de USB stick." title="Sleep het gedownloade program.dw bestand naar de USB stick."></img>
             </p>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
+            <h3 class="info_item_title">5. De code laten uitvoeren.</h3>
             <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
+                Druk nog een laatste keer op de ‘reset’-knop van de Dwenguino om het programma definitief over te zetten en de Dwenguino te ontkoppelen. Je programma staat nu in het geheugen van de Dwenguino en zal onmiddellijk worden uitgevoerd.
             </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
-            </p>
-        </div>
-        <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led 13 laten branden</h3>
-            <p class="example_item_content">
-                <pre><code class="language-arduino">
-#include &lt;Wire.h&gt;
-#include &lt;Dwenguino.h&gt;
-#include &lt;LiquidCrystal.h&gt;
-
-void setup()
-{
-    initDwenguino();
-    pinMode(13, OUTPUT);
-    digitalWrite(13, HIGH);
-}
-
-void loop()
-{
-
-}
-                </code></pre> 
-            </p>
-        </div>
-        <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led 13 laten knipperen</h3>
-            <p class="example_item_content">
-                <pre><code class="language-arduino">
-#include &lt;Wire.h&gt;
-#include &lt;Dwenguino.h&gt;
-#include &lt;LiquidCrystal.h&gt;
-
-void setup()
-{
-    initDwenguino();
-    pinMode(13, OUTPUT);
-
-}
-
-void loop()
-{
-    digitalWrite(13, HIGH);
-    delay(1000);
-    digitalWrite(13, LOW);
-    delay(1000);
-
-}
-                </code></pre> 
+            <p>
+                Wil je het programma op de Dwenguino opnieuw starten? Gebruik dan de ‘reset’-knop op de Dwenguino.
             </p>
         </div>
     </div>

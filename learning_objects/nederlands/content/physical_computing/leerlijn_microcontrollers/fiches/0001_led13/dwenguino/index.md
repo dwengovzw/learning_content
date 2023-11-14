@@ -19,7 +19,7 @@ estimated_time: 15
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
