@@ -44,7 +44,7 @@ TODO: voeg foto toe.
 <div class="dwengo-content assignment">
     <h2>Opdracht</h2>
     <p>
-        Hieronder zie je een circuit, bouw dit circuit na en meet de spanning over de weerstand R1 (=\\(440\Omega\\)) door de probes van de multimeter te verbinden met de punten a en b.
+        Hieronder zie je een circuit, bouw dit circuit na en meet de spanning over de weerstand R1 = \\(440\Omega\\) door de probes van de multimeter te verbinden met de punten a en b.
     </p>
     <p>
         <img src="img/diagram.svg"></img>
