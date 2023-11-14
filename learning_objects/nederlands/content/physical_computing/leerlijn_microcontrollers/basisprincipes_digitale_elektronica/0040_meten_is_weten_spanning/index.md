@@ -50,7 +50,9 @@ TODO: voeg foto toe.
         <img src="img/diagram.svg"></img>
     </p>
     <p>
-        Wat gebeurd er als je de probes omwisselt?
-        Wat gebeurd er als je een weerstand met een andere waarde neemt?
+        <ul>
+            <li>Wat gebeurd er als je de probes omwisselt?</li>
+            <li>Wat gebeurd er als je een weerstand met een andere waarde neemt?</li>
+        </ul>
     </p>
 </div>
