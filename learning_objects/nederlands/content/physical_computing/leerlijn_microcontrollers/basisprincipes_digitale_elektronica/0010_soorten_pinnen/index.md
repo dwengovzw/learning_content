@@ -36,7 +36,7 @@ De **GND** aansluiting wordt verbonden met een draad met een neutrale spanning (
 
 Afhankelijk van de component zal die één of meerdere signaalpinnen hebben. Deze pinnen worden gebruikt om informatie uit te wisselen tussen de component en de microcontroller. De naam van deze pinnen hangt af van de component die je gebruikt. Bij eenvoudige componenten met maar één signaalpin is deze informatie meestal binair. Een knop geeft bijvoorbeeld een hoog signaal (5V) op de signaalpin als die ingedrukt is. Wanneer die niet ingedrukt is, dan geeft deze een laag signaal (0V).
 
-Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat standaard voorzien is op het Dwenguino bord heeft bijvoorbeeld 12 signaalpinnen. Hieronder zie je een overzicht van een aantal componenten en de uitleg over hun pinnen.
+Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat standaard voorzien is op het Dwenguino bord heeft bijvoorbeeld 12 signaalpinnen. Hieronder zie je een overzicht van een aantal componenten en de uitleg over hun pinnen. Informatie over andere componenten kan je vinden op de componentfiches.
 
 <table>
     <tr>
@@ -59,9 +59,9 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
             Digitaal en analoog uitlezen
         </td>
         <td>
-            GND = 0V
-            Vcc = 5V
-            D0 = digitale uitvoer
+            GND = 0V</br>
+            Vcc = 5V</br>
+            D0 = digitale uitvoer</br>
             A0 = analoge uitvoer
         </td>
     </tr>
@@ -74,10 +74,66 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
             Via bibliotheek uitlezen.
         </td>
         <td>
-            GND = 0V
-            Vcc = 5V
-            Trig = trigger pin.
-            Echo = echo pin.
+            GND = 0V</br>
+            Vcc = 5V</br>
+            Trig = trigger pin</br>
+            Echo = echo pin
         </td>
+    </tr>
+    <tr>
+        <td>
+            <span>Servomotor</span>
+            <img src="img/servo.png" alt="Afbeelding servomotor" title="Afbeelding servomotor"></img>
+        </td>
+        <td>
+            Via bibliotheek aansturen.
+        </td>
+        <td>
+            GND = 0V</br>
+            Vcc = 5V</br>
+            PWM = PWM pin
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <span>Knop</span>
+            <img src="img/button.png" alt="Afbeelding knop" title="Afbeelding knop"></img>
+        </td>
+        <td>
+            Digitaal uitlezen.
+        </td>
+        <td>
+            GND = 0V</br>
+            Vcc = 5V</br>
+            OUT = digitale uitvoer.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <span>LCD-scherm</span>
+            <img src="img/lcd.png" alt="Afbeelding lcd-scherm" title="Afbeelding lcd-scherm"></img>
+        </td>
+        <td>
+            Via bibliotheek aansturen.
+        </td>
+        <td>
+            GND = 0V</br>
+            Vcc = 5V</br>
+            DB0 = data pin 0</br>
+            DB1 = data pin 1</br>
+            DB2 = data pin 2</br>
+            DB3 = data pin 3</br>
+            DB4 = data pin 4</br>
+            DB5 = data pin 5</br>
+            DB6 = data pin 6</br>
+            DB7 = data pin 7</br>
+            E = Enable</br>
+            R/W = Read/Write</br>
+            RS = Reset</br>
+            LEDK = backlight</br>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=3><strong>Voorbeelden van componenten en hoe ze communiceren met de microcontroller.</strong></td>
     </tr>
 </table>
