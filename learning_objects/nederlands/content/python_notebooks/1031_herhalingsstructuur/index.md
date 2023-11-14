@@ -30,12 +30,12 @@ skos_concepts: [
 ---
 
 # Herhalingsstructuur
-In python zijn er verschillende manieren om een lus te programmeren. De meest voorkomende zijn:  
+In Python zijn er verschillende manieren om een lus te programmeren. De meest voorkomende zijn:  
   
-de 'begrensde herhaling'  
+- de 'begrensde herhaling'  
 *De lus wordt een vast aantal keer doorlopen, bv. het aantal elementen in een verzameling.*  
   
-de 'voorwaardelijke herhaling'.   
+- de 'voorwaardelijke herhaling'.   
 *De lus wordt doorlopen zolang aan de voorwaarde is voldaan.*  
   
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1031 "Notebooks herhalingsstructuur")

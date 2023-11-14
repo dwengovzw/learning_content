@@ -38,7 +38,7 @@ teacher_exclusive: true
 Kan een chatbot de leerkracht vervangen?
 
 **Chat zelf met ELIZA**<br>
-Chat zelf eens met [ELIZA](https://web.njit.edu/~ronkowit/eliza.html)).<br>
+Chat zelf eens met [ELIZA](https://web.njit.edu/~ronkowit/eliza.html).<br>
 Of chat [in het Nederlands](https://www.eclecticenergies.com/nederlands/psyche/eliza).<br>
 Kan ELIZA overtuigen als psychotherapeut?
 

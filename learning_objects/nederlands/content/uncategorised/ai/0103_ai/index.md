@@ -2,8 +2,8 @@
 hruid: un_ai3
 version: 3
 language: nl
-title: "ML"
-description: "ML en DL"
+title: "Machine learning"
+description: "ML"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,9 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Machine learning en deep learning
+# Machine learning
 
-## Machine learning
 Machinaal leren (ML) is een populair en succesvol onderdeel van de artificiële intelligentie. Bij *machine learning* gaat men vooral proefondervindelijk te werk, maar op een wiskundig onderbouwde manier, en gebruikmakend van principes uit de wiskundige statistiek (Chollet, 2018). 
 
 Een mens ontwikkelt het AI-systeem. In dat systeem verwerkt hij parameters waarvan de waarden nog niet vastliggen.<br>

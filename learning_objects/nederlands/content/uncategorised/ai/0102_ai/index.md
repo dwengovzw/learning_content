@@ -68,6 +68,8 @@ Eerst moet zo’n AI-systeem ontwikkeld worden door het *programmeren van algori
 ![AIMLDL](https://user-images.githubusercontent.com/48352335/218815994-b1befa16-019e-46a3-a29c-f611faeecfd3.png)
 <center> Soorten AI</center>
 
+Binnen de ML-systemen vind je de 'deep learning'-systemen.
+
 -------------
 #### Bronnen
 Steels, L., Berendt, B., Pizurica, A., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.

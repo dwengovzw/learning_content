@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Machine learning en deep learning
+# Soorten training
 
 ## Supervised, unsupervised en reinforcement learning
 
