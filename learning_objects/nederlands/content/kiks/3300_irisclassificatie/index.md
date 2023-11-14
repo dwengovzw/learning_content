@@ -30,7 +30,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Iris Classificatie
-Je leert aan de computer om drie soorten irissen van elkaar onderscheiden op basis van kenmerken zoals de lengte van een kroonblad. 
+# Classificatie met de Iris dataset
+
+Je leert aan de computer om de *Iris setosa* en de *Iris versicolor* van elkaar onderscheiden op basis van kenmerken zoals de lengte van een kroonblad. Daarvoor gebruik je een eerste notebook. 
+<br>Na deze notebook ben je klaar om de opdracht in de tweede notebook tot een goed einde te brengen. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1801 "Iris classificatie")
