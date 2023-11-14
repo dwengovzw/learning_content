@@ -26,6 +26,6 @@ teacher_exclusive: false
 
 Nu we weten wat spanning, weerstand en stroom zijn, kunnen we analyseren wat de verhouding is tussen deze drie grootheden. De wet van Ohm beschrijft de verhouding tussen spanning, weerstand en stroom:
 
-\\[U = R x I\\]
+\\[U = R * I\\]
 
 De wet zegt dus dat de spanning over een component gelijk is aan de weerstand van die component maal de stroom die door de component loopt. 
