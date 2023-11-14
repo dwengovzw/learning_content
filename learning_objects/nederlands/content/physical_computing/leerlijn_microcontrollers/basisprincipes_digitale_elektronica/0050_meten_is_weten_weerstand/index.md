@@ -2,7 +2,7 @@
 hruid: leerlijn_invoer_basisprincipes_meten_is_weten_weerstand
 version: 1
 language: nl
-title: "Meten is weten!"
+title: "Meten is weten: weerstand!"
 description: "Hoe meet ik spanning, stroom en weerstand?"
 keywords: ["spanning", "stroom", "weerstand", "multimeter", "meten", "basisprincipes", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
@@ -23,5 +23,37 @@ teacher_exclusive: false
 ---
 
 # Meten is weten (weerstand)
+
+Weerstand kunnen we meten op een gelijkaardige manier meten als spanning. De weerstand meet je wanneer de schakeling **niet verbonden is met een spanningsbron!** Ook haal je best de component waarvan je de weerstand wil meten, indien mogelijk, uit de schakeling. Meet de weerstand van een component door elk van de aansluitingen van de component te verbinden met één van de probes van de multimeter.
+
+## Instellen van de multimeter
+
+### Verbinden van de probes
+
+Om weerstand te meten pluggen we de probes in in de volgende poorten op de multimeter.
+
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">V Ω </span><br><br>
+<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte probe</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
+
+### Modus van de multimeter
+We willen graag de weerstand. Het icoontje voor weerstand is Ω.
+
+TODO: voeg foto toe.
+
+
+<div class="dwengo-content assignment">
+    <h2>Opdracht</h2>
+    <p>
+        Hieronder zie je een circuit. Je krijgt deze schakeling van de leerkracht. Meet de weerstand van R1 door de probes van de multimeter te verbinden met de punten a en b.
+    </p>
+    <p>
+        <img src="img/diagram.svg"></img>
+    </p>
+    <p>
+        <ul>
+            <li>Wat gebeurd er met de weerstand als je de probes omwisselt?</li>
+        </ul>
+    </p>
+</div>
 
 

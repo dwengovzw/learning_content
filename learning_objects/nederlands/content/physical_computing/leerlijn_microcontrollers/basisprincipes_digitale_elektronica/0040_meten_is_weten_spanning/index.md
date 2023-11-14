@@ -2,7 +2,7 @@
 hruid: leerlijn_invoer_basisprincipes_meten_is_weten_spanning
 version: 1
 language: nl
-title: "Meten is weten!"
+title: "Meten is weten: spanning!"
 description: "Hoe meet ik spanning, stroom en weerstand?"
 keywords: ["spanning", "stroom", "weerstand", "multimeter", "meten", "basisprincipes", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 10
+estimated_time: 15
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Meten is weten (spanning)
 
-Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee punten. Vaak is één van deze twee punten de referentiespanning of GND maar dat is niet noodzakelijk. De spanningswaarde die we meten is dus steeds het verschil tussen de spanning op elk van de probes van de multimeter. Verbinden we de zwarte probe van de multimeter met een draad waar 5V op staat en de rode probe met een draad waar 2V op staat, dan zal de multimeter de waarde -3V (2V - 5V) tonen. 
+Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee punten. Vaak is één van deze twee punten de referentiespanning of GND maar dat is niet noodzakelijk. De spanningswaarde die we meten is dus steeds het verschil tussen de spanning op elk van de probes van de multimeter. Verbinden we de zwarte probe van de multimeter met een draad waar 5V op staat en de rode probe met een draad waar 2V op staat, dan zal de multimeter de waarde -3V (2V - 5V) tonen. Om de spanning te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
 
 ## Instellen van de multimeter
 
@@ -51,8 +51,8 @@ TODO: voeg foto toe.
     </p>
     <p>
         <ul>
-            <li>Wat gebeurd er als je de probes omwisselt?</li>
-            <li>Wat gebeurd er als je een weerstand met een andere waarde neemt?</li>
+            <li>Wat gebeurd er met de spanning als je de probes omwisselt?</li>
+            <li>Wat gebeurd er met de spanning als je een weerstand met een andere waarde neemt?</li>
         </ul>
     </p>
 </div>
