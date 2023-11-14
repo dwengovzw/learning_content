@@ -27,7 +27,7 @@ teacher_exclusive: false
 Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een oefening. Bekijk de fiches die je van de leerkracht krijgt. Op elk van de fiches staat beschreven hoe je een bepaalde component aansluit en programmeert.
 
 <ul class="dwengo_content lijst_fiches">
-    <li><href src="TODO">Sonarsensor</href></li>
+    <li><href src="TODO">Sonar-sensor</href></li>
     <li><href src="TODO">LED13</href></li>
 </ul>
 
@@ -36,6 +36,6 @@ Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een o
 <div class="dwengo_content assignment">
     <h2>Opdracht</h2>
     <p>
-        Maak gebruik van de fiches om een lamp te maken met beweginssensor. Als beweginssensor maak je gebruik van de sonarsensor. Deze meet de afstand tot het object dat voor de sensor staat. Zorg ervoor dat wanneer iemand voor de sensor loopt, LED13 op de microcontroller gaat branden. Bekijk de fiches van LED13 en de sonar om te achterhalen hoe je de LED kan aansturen.
+        Maak gebruik van de fiches om een lamp te maken met bewegingssensor. Als beweginssensor maak je gebruik van de sonar-sensor. Deze meet de afstand tot het object dat voor de sensor staat. Zorg ervoor dat wanneer iemand voor de sensor loopt, LED13 op de microcontroller gaat branden. Bekijk de fiches van LED13 en de sonar om te achterhalen hoe je de led kan aansturen.
     </p>
 </div>

@@ -29,7 +29,7 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 ## Verschillen
 
 #### Toepassingen
-**Microcontrollers** zijn ontworpen om zeer specifieke taken uit te voeren zoals het lezen van een sensorwaarde en op basis daarvan een actuator (bv. motor) aan te sturen. Meestal worden microcontrollers geïntegreerd in een ingebed systeem waar ze de hardware van het systeem controleren (bv. een vaatwasmachine, een auto of een elektrische boormachine). Een specifieke eigenschap van microcontrollers is dat ze goed zijn in real-time toepassingen waarbij exacte timing essentieel is.
+**Microcontrollers** zijn ontworpen om zeer specifieke taken uit te voeren zoals het lezen van een sensorwaarde en op basis daarvan een actuator (bv. motor) aan te sturen. Meestal worden microcontrollers geïntegreerd in een ingebed systeem waar ze de hardware van het systeem controleren (bv. een vaatwasmachine, een auto of een elektrische boormachine). Een specifieke eigenschap van microcontrollers is dat ze goed zijn in realtime toepassingen waarbij exacte timing essentieel is.
 
 **Microprocessoren** zijn rekeneenheden voor algemeen gebruik (general-purpose). Bijgevolg kunnen ze veel verschillende taken uitvoeren. Daarom worden ze gebruikt in systemen zoals laptops, desktops en servers.
 
@@ -44,7 +44,7 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 **Microprocessoren** zijn ontworpen om veel rekenkracht te hebben zodat ze complexe taken kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC.
 
 #### Besturingssysteem
-**Microcontrollers** maken gewoonlijk geen gebruik van een besturingssysteem. De code die je schrijft wordt rechtstreeks op de chip uitgevoerd. Dit zorgt ervoor dat je gemakkelijk energie efficiënte real-time toepassingen kan ontwikkelen.
+**Microcontrollers** maken gewoonlijk geen gebruik van een besturingssysteem. De code die je schrijft wordt rechtstreeks op de chip uitgevoerd. Dit zorgt ervoor dat je gemakkelijk energie-efficiënte realtime toepassingen kan ontwikkelen.
 
 **Microprocessoren** hebben een besturingssysteem nodig om te kunnen functioneren. Besturingssystemen zoals Linux, Windows of macOS voorzien verschillende functionaliteiten zoals multitasking.
 
@@ -59,7 +59,7 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 <div class="dwengo-content assignment">
 <h2>Opdracht</h2>
 <p>
-Ga online op zoek naar voorbeelden van microcontrollers (ATtiny85) en microprocessoren (bv. Apple M3). Zoek voor elk van de voorbeelden op wat hun kloksneleid en energieverbruik zijn.
+Ga online op zoek naar voorbeelden van microcontrollers (bv. ATtiny85) en microprocessoren (bv. Apple M3). Zoek voor elk van de voorbeelden op wat hun kloksnelheid en energieverbruik zijn.
 </p>
 </div>
 

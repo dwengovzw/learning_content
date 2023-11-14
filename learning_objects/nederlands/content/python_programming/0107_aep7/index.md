@@ -37,5 +37,17 @@ teacher_exclusive: true
 
 [Insectenboek](https://dwengo.org/learning-path.html?hruid=stem_insectbooks&language=nl&te=true&source_page=%2Fpython_programming%2F&source_title=%20Programmeren%20in%20Python#stem5_0;nl;3)
 
+[Epidemie](https://dwengo.org/learning-path.html?hruid=maths_epidemie&language=nl&te=true&source_page=%2Fstem%2F&source_title=%20STEM#pn_inleiding_epidemie;nl;3)
+
+[Lesliematrix](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=stem5_8&version=3&language=nl)
+
+Nulpunten (eerste manier)
+
+Nulpunten (tweede manier)
+
+Limiet
+
+
+
 
 
