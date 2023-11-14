@@ -116,8 +116,11 @@ Hieronder vind je een aantal mogelijke oplossingen. Deze zijn afhankelijk van de
     Gebruik de multimeter om de volgende vragen te beantwoorden.
     <ul>
         <li>Meet de weerstand van R1, R2, R3 en R4.</li>
+        <li><em>R1 = 220 Ω, R2 = 550 Ω, R3 = 220 Ω, R4 = 1 KΩ</em></li>
         <li>Meet de spanning tussen de punten a en b, b en c, c en d, d en e.</li>
+        <li><em>V1 ≈ 0.55 V, V2 ≈ 1.38V, V3 ≈ 0.55V, V4 ≈ 2.51V</em></li>
         <li>Wat merk je als je de weerstanden en spanningen van/over een weerstand met elkaar vergelijkt?</li>
+        <li><em>De spanningen verouden zich op dezelfde manier tot elkaar als de weerstanden.</em></li>
     </ul>
 </p>
 </div>
