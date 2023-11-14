@@ -32,7 +32,7 @@ Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee 
 
 Om spanning te meten pluggen we de probes in in de volgende poorten op de multimeter.
 
-<span style="color: white, background-color: red">Rode probe: V \\(\Omega\\) </span>
+<span style="color: white, background-color: red">Rode probe: V \\(\Omega\\) </span><br>
 <span style="color: white, background-color: black">Zwarte probe: COM </span>
 
 ### Modus van de multimeter
@@ -44,10 +44,10 @@ TODO: voeg foto toe.
 <div class="dwengo-content assignment">
     <h2>Opdracht</h2>
     <p>
-        Hieronder zie je een circuit, bouw dit circuit na en meet de spanning over de weerstand R1 (=440\\(\Omega\\)) door de probes van de multimeter te verbinden met de punten a en b.
+        Hieronder zie je een circuit, bouw dit circuit na en meet de spanning over de weerstand R1 (=\\(440\Omega\\)) door de probes van de multimeter te verbinden met de punten a en b.
     </p>
     <p>
-        <img src="diagram.svg"></img>
+        <img src="img/diagram.svg"></img>
     </p>
     <p>
         Wat gebeurd er als je de probes omwisselt?
