@@ -65,4 +65,19 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
             A0 = analoge uitvoer
         </td>
     </tr>
+    <tr>
+        <td>
+            <span>Sonar-sensor</span>
+            <img src="img/sonar.png" alt="Afbeelding sonar-sensor" title="Afbeelding sonar-sensor"></img>
+        </td>
+        <td>
+            Via bibliotheek uitlezen.
+        </td>
+        <td>
+            GND = 0V
+            Vcc = 5V
+            Trig = trigger pin.
+            Echo = echo pin.
+        </td>
+    </tr>
 </table>
