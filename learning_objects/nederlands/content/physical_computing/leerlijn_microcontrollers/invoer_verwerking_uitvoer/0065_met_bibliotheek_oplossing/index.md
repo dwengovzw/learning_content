@@ -19,7 +19,7 @@ estimated_time: 20
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Gebruik maken van een bibliotheek
@@ -31,25 +31,18 @@ In onderstaande code staat in de commentaar aangegeven welke lijnen te maken heb
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
 
-    /* Met deze lijn importeer je
-     * de bibliotheek NewPing.
-     * Deze bevat de nodige variabelen
-     * en functies om te spreken
-     * met de sonar-sensor. */
+    /* Met deze lijn importeer je de bibliotheek NewPing.
+     * Deze bevat de nodige variabelen en functies om te spreken met de sonar-sensor. */
     #include <NewPing.h>
 
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
     #define MAX_DISTANCE 200
 
-    /* Met deze code definieer je 
-     * het sonar object en sla
-     * je die op in de variabele
-     * sonar.
-     * Deze zal je gebruiken
-     * om op een abstracte manier
-     * te communiceren met de
-     * sensor. */
+    /* Met deze code definieer je het sonar object en sla
+     * je die op in de variabele sonar.
+     * Deze zal je gebruiken om op een abstracte manier
+     * te communiceren met de sensor. */
     NewPing sonar(
         TRIGGER_PIN, 
         ECHO_PIN, 
@@ -62,14 +55,9 @@ In onderstaande code staat in de commentaar aangegeven welke lijnen te maken heb
     }
 
     void loop(){
-        /* Met deze lijn roep je de 
-         * ping_cm() functie op van
-         * het sonar object.
-         * In deze functie zal de
-         * bibliotheek de juiste 
-         * signalen sturen naar de
-         * sensor zodat die een waarde
-         * kan lezen. */
+        /* Met deze lijn roep je de  ping_cm() functie op van het sonar object.
+         * In deze functie zal de bibliotheek de juiste signalen sturen naar de
+         * sensor zodat die een waarde kan lezen. */
         afstand = sonar.ping_cm();
         if (afstand > 0 && afstand < 100){
             digitalWrite(13, HIGH);
