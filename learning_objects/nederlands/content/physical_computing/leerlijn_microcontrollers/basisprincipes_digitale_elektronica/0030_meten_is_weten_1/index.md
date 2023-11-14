@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_invoer_basisprincipes_meten_is_weten
+hruid: leerlijn_invoer_basisprincipes_meten_is_weten_01
 version: 1
 language: nl
 title: "Meten is weten!"

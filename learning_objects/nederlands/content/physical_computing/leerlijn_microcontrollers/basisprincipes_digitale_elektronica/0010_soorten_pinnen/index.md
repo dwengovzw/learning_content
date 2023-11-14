@@ -30,7 +30,7 @@ teacher_exclusive: false
 
 ## GND, -
 
-De **GND** aansluiting wordt verbonden met een draad met een neutrale spanning (bv. de min kant van een batterij ofwel 0V). Voor verbindingen met de **GND** wordt gewoonlijk een **zwarte draad** gebruikt. 
+De **GND** aansluiting wordt verbonden met een draad met een neutrale spanning ook wel de referentiespanning genoemd (bv. de min kant van een batterij ofwel 0V). Voor verbindingen met de **GND** wordt gewoonlijk een **zwarte draad** gebruikt. 
 
 ## Signaal
 
