@@ -32,8 +32,8 @@ Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee 
 
 Om spanning te meten pluggen we de probes in in de volgende poorten op de multimeter.
 
-<span style="color: white; background-color: red">Rode probe: V \\(\Omega\\) </span><br>
-<span style="color: white; background-color: black">Zwarte probe: COM </span>
+<span style="color: white; background-color: red; padding: 2px; border-radius: 2px">Rode probe</span>: <span style="color: white; background-color: red; padding: 2px; border-radius: 2px">V \\(\Omega\\) </span><br>
+<span style="color: white; background-color: black; padding: 2px; border-radius: 2px">Zwarte probe</span>: <span style="color: white; background-color: black; padding: 2px; border-radius: 2px">COM</span>
 
 ### Modus van de multimeter
 We willen graag gelijkspanning meten. Het icoontje voor gelijkstroom of spanning is ⎓, het icoontje voor voltage is V. 
