@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_01",
+              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning",
               "version": "1",
               "language": "nl"
             }
@@ -53,14 +53,14 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_01",
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_digitale_uitvoer",
+              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_weerstand",
               "version": "1",
               "language": "nl"
             }
@@ -68,14 +68,14 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_digitale_uitvoer",
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_weerstand",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_invoer",
+              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_stroom",
               "version": "1",
               "language": "nl"
             }
@@ -83,7 +83,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_invoer",
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_stroom",
         "version": "1",
         "language": "nl",
         "transitions": [
