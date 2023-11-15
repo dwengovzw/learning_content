@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Meten is weten (spanning)
 
-Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee punten. Vaak is één van deze twee punten de referentiespanning of GND maar dat is niet noodzakelijk. De spanningswaarde die we meten is dus steeds het verschil tussen de spanning op elk van de probes van de multimeter. Verbinden we de zwarte probe van de multimeter met een draad waar 5V op staat en de rode probe met een draad waar 2V op staat, dan zal de multimeter de waarde -3V (2V - 5V) tonen. Om de spanning te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
+Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee punten. Vaak is één van deze twee punten de referentiespanning of GND maar dat is niet noodzakelijk. De spanningswaarde die we meten is dus steeds het verschil tussen de spanning op elk van de probes van de multimeter. Verbinden we de zwarte probe van de multimeter met een draad waar 5V op staat en de rode probe met een draad waar 2V op staat, dan zal de multimeter de waarde -3V (= 2V - 5V) tonen. Om de spanning te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
 
 ## Instellen van de multimeter
 

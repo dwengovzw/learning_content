@@ -26,7 +26,7 @@ teacher_exclusive: false
 
 ## Vcc, V+, +
 
-**Vcc** staat voor *Voltage common collector* en geeft aan dat op deze pin een positieve spanning aanwezig is. Afhankelijk van de producent krijgt de **Vcc**  pin ook andere namen zoals V+, Vdd of gewoon +. De meeste elektronische componenten hebben een **Vcc** en **GND** aansluiting. Dit zijn de twee aansluitingen waarmee je de component van stroom voorziet. De **Vcc** aansluiting wordt altijd verbonden met een draad met een positieve spanning (bv. de plus kant van een batterij). Voor verbindingen met de VCC wordt gewoonlijk een **rode draad** gebruikt. 
+**Vcc** staat voor *Voltage common collector* en geeft aan dat op deze pin een positieve spanning aanwezig is. Afhankelijk van de producent krijgt de **Vcc**  pin ook andere namen zoals V+, Vdd of gewoon +. De meeste elektronische componenten hebben een **Vcc** en **GND** aansluiting. Dit zijn de twee aansluitingen waarmee je de component van stroom voorziet. De **Vcc** aansluiting wordt altijd verbonden met een draad met een positieve spanning (bv. de plus kant van een batterij). Voor verbindingen met de VCC op 5V wordt gewoonlijk een **rode draad** gebruikt. 
 
 ## GND, -
 
@@ -34,7 +34,7 @@ De **GND** of **-** aansluiting wordt verbonden met een draad met een neutrale s
 
 ## Signaal
 
-Afhankelijk van de component zal die één of meerdere signaalpinnen hebben. Deze pinnen worden gebruikt om informatie uit te wisselen tussen de component en de microcontroller. De naam van deze pinnen hangt af van de component die je gebruikt. Bij eenvoudige componenten met maar één signaalpin is deze informatie meestal binair. Een knop geeft bijvoorbeeld een hoog signaal (5V) op de signaalpin als die ingedrukt is. Wanneer die niet ingedrukt is, dan geeft deze een laag signaal (0V).
+Afhankelijk van de component zal die één of meerdere signaalpinnen hebben. Deze pinnen worden gebruikt om informatie uit te wisselen tussen de component en de microcontroller. De naam van deze pinnen hangt af van de component die je gebruikt. Bij eenvoudige componenten met maar één signaalpin is deze informatie meestal binair. Een knop geeft bijvoorbeeld een hoog signaal (5V) op de signaalpin als die ingedrukt is. Wanneer die niet ingedrukt is, dan geeft deze een laag signaal (0V). De kleur van de signaaldraden kies je zelf op basis van welke draden je ter beschikking hebt. Kies kleuren die niet overlappen met Vcc of GND.
 
 Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat standaard voorzien is op het Dwenguino bord heeft bijvoorbeeld 12 signaalpinnen. Hieronder zie je een overzicht van een aantal componenten en de uitleg over hun pinnen. Informatie over andere componenten kan je vinden op de componentfiches.
 
