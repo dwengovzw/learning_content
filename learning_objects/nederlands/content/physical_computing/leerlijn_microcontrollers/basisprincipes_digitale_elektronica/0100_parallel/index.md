@@ -28,17 +28,20 @@ In een parallelschakeling verbinden we de invoer van een reeks componenten met e
 
 <img src="img/parallel.svg" alt="Voorbeeld van een parallelschakeling" title="Voorbeeld van een parallelschakeling"></img>
 
-Het effect van de parallelschakeling op de stroom:
+**Het effect van de parallelschakeling op de stroom:**
+
 De stroom zal zich in een parallelschakeling verdelen over de componenten. Hoeveel stroom er door elke component gaat is omgekeerd evenredig aan de weerstand van die component.
 
 \\[I_T = I_1 + I_2 + … + I_n\\]
 
-Het effect van de parallelschakeling op de spanning:
+**Het effect van de parallelschakeling op de spanning:**
+
 In een parallelschakeling is de spanning over elke component gelijk.
 
 \\[V_T = V_1 = V_2 = … = V_n\\]
 
-Het effect van de parallelschakeling op de weerstand:
+**Het effect van de parallelschakeling op de weerstand:**
+
 In een parallelschakeling is de totale weerstand gelijk aan het inverse van de som van de inversen van de individuele weerstanden.
 
 \\[R_T = \frac{1}{\frac{1}{R_1} + \frac{1}{R_2} + … + \frac{1}{R_n}}\\]
