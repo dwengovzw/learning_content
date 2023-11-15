@@ -26,8 +26,6 @@ teacher_exclusive: false
 
 De µC kan eigenlijk geen analoge uitvoer genereren. Om dat in bepaalde situaties te "simuleren" kan je gebruik maken van een PWM signaal. PWM staat voor **Pulse Width Modulation** ofwel **pulsbreedtemodulatie**. De microcontroller zal pulsen uitsturen. Een puls bestaat uit een tijdsinterval waarin het uitgestuurde signaal 1 (5V) is en een interval waarin het uitgestuurde signaal 0 is (0V). Door de lengte van deze twee intervallen te variëren, kan je de verhouding tussen de tijd dat het signaal hoog is en de tijd dat het signaal laag is veranderen. Als je dat heel snel doet dan krijg je een uitgemiddeld signaal tussen de 0V en 5V.
 
-De µC heeft speciale schakelingen die in staat zijn om een voltage op een pin om te zetten naar een getal. Deze schakeling zal een voltage tussen 0V en 5V registreren en omzetten naar een binair getal van 10 bits. Dit getal kunnen we in onze code dan lezen met de analogRead() functie van de arduino bibliotheek.
-
 <table>
     <tr>
         <td><img src="img/diagram.svg" alt="Diagram PWM signaal." title="Diagram PWM signaal." style="width: 80%"></td>
