@@ -34,7 +34,7 @@ Om deze leerlijn te kunnen doorlopen zal je een microcontrollerplatform nodig he
 
 | Het Dwenguino-platform  |
 | - |
-| ![Het Dwenguino-platform](img/dwenguino_labeled_nl_plain.svg "Het Dwenguino-platform") | 
+| ![Het Dwenguino-platform](img/dwenguino_labeled_nl_650x478.png"Het Dwenguino-platform") | 
 | Het Arduino-platform | 
 | TODO: add image arduino |
 
