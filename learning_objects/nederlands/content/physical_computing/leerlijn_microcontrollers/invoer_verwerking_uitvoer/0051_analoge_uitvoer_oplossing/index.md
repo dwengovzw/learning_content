@@ -29,7 +29,6 @@ Hieronder zie je de oplossing voor de opdracht waarbij de leerlingen LED 13 moet
 ```arduino
 #include <Wire.h>;
 #include <Dwenguino.h>;
-#include <LiquidCrystal.h>;
 
 void setup()
 {
@@ -51,7 +50,6 @@ Je kan de leerlingen ook laten experimenteren met de verhouding tussen aan en ui
 ```arduino
 #include <Wire.h>;
 #include <Dwenguino.h>;
-#include <LiquidCrystal.h>;
 
 void setup()
 {
