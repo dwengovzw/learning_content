@@ -41,9 +41,9 @@ Verder kunnen we uit de grafiek met de karakteristiek van de lichtsensor aflezen
 
 Deze waarden kunnen we nu invullen in de formule.
 
-\\[V_{out} = \frac{R_2}{R_1+R_2}\timesV_{in}\\]
+\\[V_{out} = \frac{R_2}{R_1+R_2}\times V_{in}\\]
 
-\\[1.3V = \frac{10K\omega}{R_1+10K\omega}\times5V\\]
+\\[1.3V = \frac{10K\omega}{R_1+10K\Omega}\times5V\\]
 
 We lossen de vergelijking op om de waarde van R1 te bepalen.
 
