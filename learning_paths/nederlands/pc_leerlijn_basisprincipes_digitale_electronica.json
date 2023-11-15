@@ -270,7 +270,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_samenvatting",
+              "hruid": "leerlijn_invoer_basisprincipes_pull_up_weerstand",
               "version": "1",
               "language": "nl"
             }
@@ -278,7 +278,22 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_samenvatting",
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_pull_up_weerstand",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_invoer_basisprincipes_pull_up_weerstand_oplossing",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_pull_up_weerstand_oplossing",
         "version": "1",
         "language": "nl",
         "transitions": [

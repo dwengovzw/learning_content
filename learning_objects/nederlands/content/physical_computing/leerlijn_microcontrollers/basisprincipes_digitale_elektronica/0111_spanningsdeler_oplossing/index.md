@@ -49,7 +49,7 @@ We lossen de vergelijking op om de waarde van R1 te bepalen.
 
 \\[\frac{1.3}{5} = \frac{10K\Omega}{R_1 + 10K\Omega}\\]
 
-\\[\frac{1.3}{5}R_1 + \frac{13}{5} = 10K\Omega\\]
+\\[\frac{1.3}{5}R_1 + \frac{13}{5}K\Omega = 10K\Omega\\]
 
 \\[\frac{1.3}{5}R_1 = \frac{50}{5}K\Omega - \frac{13}{5}K\Omega\\]
 
