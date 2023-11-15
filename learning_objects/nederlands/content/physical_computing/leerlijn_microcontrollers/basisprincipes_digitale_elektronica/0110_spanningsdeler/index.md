@@ -29,6 +29,8 @@ Een spanningsdeler is een eenvoudige schakeling die in elektronica vaak gebruikt
 
 <img src="img/spanningsdeler.svg" alt="Schema van de spanningsdeler" title="Schema van de spanningsdeler.">
 
+| !["Schema van de spanningsdeler"](img/spanningsdeler.svg "Schema van de spanningsdeler") | Vout is de aansluiting die we verbinden met de µC. De µC zal een 1 lezen als dit voltage boven een bepaalde waarde is. Deze waarde is afhankelijk van de µC die je gebruikt. Voor de Dwenguino en de Arduino is dit bijvoorbeeld 1.3V. Een Vout > 1.3V zal dus als een logische 1 gelezen worden, een Vout < 1.3V als een logische 0. |
+
 Vout is de aansluiting die we verbinden met de µC. De µC zal een 1 lezen als dit voltage boven een bepaalde waarde is. Deze waarde is afhankelijk van de µC die je gebruikt. Voor de Dwenguino en de Arduino is dit bijvoorbeeld 1.3V. Een Vout > 1.3V zal dus als een logische 1 gelezen worden, een Vout < 1.3V als een logische 0. 
 
 Het voltage op de Vout pin hangt af van Vin, R1 en R2. 
