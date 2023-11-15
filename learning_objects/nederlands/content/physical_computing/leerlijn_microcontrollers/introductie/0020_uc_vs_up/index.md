@@ -30,8 +30,8 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 
 <table>
     <tr>
-        <th><strong>Microcontroller</strong></th>
-        <th><strong>Microprocessor</strong></th>
+        <th><h4>Microcontroller</h4></th>
+        <th><h4>Microprocessor</h4></th>
     </tr>
     <tr>
         <td colspan="2"><h5>Toepassingen</h5></td>
@@ -41,21 +41,21 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
         <td>Microprocessoren zijn rekeneenheden voor algemeen gebruik (general-purpose). Bijgevolg kunnen ze veel verschillende taken uitvoeren. Daarom worden ze gebruikt in systemen zoals laptops, desktops en servers.</td>
     </tr>
     <tr>
-        <td colspan="2"><h4>Integratie</h4></td>
+        <td colspan="2"><h5>Integratie</h5></td>
     </tr>
     <tr>
         <td>Microcontrollers zijn systemen op een chip (SoC) apparaten. Alle hardware die nodig is, wordt op de chip geïntegreerd. Een µC heeft zijn eigen verwerkingseenheid (CPU), geheugen, invoer/uitvoer en randapparaten.</td>
         <td>Microprocessoren zijn gewoonlijk afhankelijk van externe apparaten. Meestal gebruiken ze extern geheugen, externe invoer/uitvoer hardware en externe randapparaten (bv. een GPU). Merk op dat recente microprocessoren steeds meer externe apparaten integreren. Zo heeft de nieuwe M3 chip van Apple zowel een geïntegreerde GPU als geïntegreerd geheugen.</td>
     </tr>
     <tr>
-        <td colspan="2"><h4>Stroomverbruik</h4></td>
+        <td colspan="2"><h5>Stroomverbruik</h5></td>
     </tr>
     <tr>
         <td>Microcontrollers hebben gewoonlijk minder rekenkracht en worden geoptimaliseerd voor een specifieke toepassing. Bijgevolg verbruiken ze ook veel minder energie dan een microprocessor.</td>
         <td>Microprocessoren zijn ontworpen om veel rekenkracht te hebben zodat ze complexe taken kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC..</td>
     </tr>
     <tr>
-        <td colspan="2"><h4>Besturingssysteem</h4></td>
+        <td colspan="2"><h5>Besturingssysteem</h5></td>
     </tr>
     <tr>
         <td>Microcontrollers maken gewoonlijk geen gebruik van een besturingssysteem. De code die je schrijft wordt rechtstreeks op de chip uitgevoerd. Dit zorgt ervoor dat je gemakkelijk energie-efficiënte realtime toepassingen kan ontwikkelen.</td>
