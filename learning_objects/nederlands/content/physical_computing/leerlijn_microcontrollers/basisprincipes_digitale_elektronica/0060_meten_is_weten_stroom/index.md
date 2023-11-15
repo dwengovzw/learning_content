@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Meten is weten (stroom)
 
-Om de stroom te kunnen meten moet er ook effectief stroom door onze multimeter lopen. We moeten onze multimeter dus in **serie** aansluiten aan onze schakeling. We moeten onze schakeling dus onderbreken en de probes van de multimeter verbinden met elk van de kanten van de onderbreking. Om de stroom te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
+Om de stroom te kunnen meten moet er ook effectief stroom door onze multimeter lopen. We moeten onze multimeter dus in **serie** aansluiten op onze schakeling. We moeten onze schakeling dus onderbreken en de probes van de multimeter verbinden met elk van de kanten van de onderbreking. Om de stroom te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
 
 ## Instellen van de multimeter
 
@@ -60,7 +60,7 @@ TODO: voeg foto toe.
     <p>
         <ul>
             <li>Wat gebeurd er met de stroom als je de probes omwisselt?</li>
-            <li>Wat gebeurd er met de stroom als je een weerstand met een andere waarde neemt (bv. 220 Ω)?</li>
+            <li>Wat gebeurd er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?</li>
         </ul>
     </p>
 </div>
