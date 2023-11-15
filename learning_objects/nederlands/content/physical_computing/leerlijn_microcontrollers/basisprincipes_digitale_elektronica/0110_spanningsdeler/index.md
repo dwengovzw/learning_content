@@ -34,7 +34,7 @@ Een spanningsdeler is een eenvoudige schakeling die in elektronica vaak gebruikt
 
 Het voltage op de Vout pin hangt af van Vin, R1 en R2. 
 
-\\[V_{out} = \frac{R_2}{R_1+R_2}*V_{in}\\]
+\\[V_{out} = \frac{R_2}{R_1+R_2}\timesV_{in}\\]
 
 In dit schema zijn R1 en R2 constant maar in een schakeling kunnen we R2 vervangen door een sensor die van weerstand verandert op basis van de meetwaarde. Een voorbeeld daarvan is een lichtsensor. De weerstand van de sensor wordt lager als er meer licht op invalt. Vaak wordt voor R1 een variabele weerstand (ofwel potentiometer) gebruikt. Op die manier kan je de verhouding tussen R1 en R2 instellen. Zo kan je instellen vanaf welke sensorwaarde er een detectie zal optreden. Voor onze lichtsensor kunnen we dan instellen vanaf welke lichtsterkte onze µC licht zal detecteren. 
 
