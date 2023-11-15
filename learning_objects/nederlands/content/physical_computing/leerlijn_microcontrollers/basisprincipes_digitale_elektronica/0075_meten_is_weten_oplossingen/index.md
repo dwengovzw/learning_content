@@ -86,8 +86,8 @@ Hieronder vind je een aantal mogelijke oplossingen. Deze zijn afhankelijk van de
     <ul>
         <li>Meet de weerstand van R1 en R2.<br><em>Hier kiezen we voor de weerstand van R1 een veelvoud van de weerstand van R2. Bv. \(R1 = 2 * R2\), \(R1 = R2\) of \(R1 = 10 * R2\)</em></li>
         <li>Meet de spanning tussen a en b.<br><em>5 V</em></li>
-        <li>Bereken de stroom door het punt c.<br><em>\\(\frac{5V}{R1}\\)</em></li>
-        <li>Bereken de stroom door het punt d.<br><em>\\(\frac{5V}{R2}\\)</em></li>
+        <li>Bereken de stroom door het punt c.<br><em>\(\frac{5V}{R1}\)</em></li>
+        <li>Bereken de stroom door het punt d.<br><em>\(\frac{5V}{R2}\)</em></li>
     </ul>
 </p>
 </div>
