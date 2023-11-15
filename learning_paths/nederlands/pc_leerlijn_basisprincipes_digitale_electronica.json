@@ -255,6 +255,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "leerlijn_invoer_basisprincipes_spanningsdeler_oplossing",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_spanningsdeler_oplossing",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "leerlijn_invoer_verwerking_uitvoer_samenvatting",
               "version": "1",
               "language": "nl"
