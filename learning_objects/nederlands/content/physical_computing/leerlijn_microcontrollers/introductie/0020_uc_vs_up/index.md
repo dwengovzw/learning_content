@@ -34,7 +34,7 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
         <th><strong>Microprocessor</strong></th>
     </tr>
     <tr>
-        <td colspan="2"><h7>Toepassingen</h7></td>
+        <td colspan="2"><h5>Toepassingen</h5></td>
     </tr>
     <tr>
         <td>Microcontrollers zijn ontworpen om zeer specifieke taken uit te voeren zoals het lezen van een sensorwaarde en op basis daarvan een actuator (bv. motor) aan te sturen. Meestal worden microcontrollers geïntegreerd in een ingebed systeem waar ze de hardware van het systeem controleren (bv. een vaatwasmachine, een auto of een elektrische boormachine). Een specifieke eigenschap van microcontrollers is dat ze goed zijn in realtime toepassingen waarbij exacte timing essentieel is. </td>
