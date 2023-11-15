@@ -28,17 +28,20 @@ In een serieschakeling verbinden we de uitvoer van de ene component met de invoe
 
 <img src="img/serie.svg" alt="Voorbeeld van een serieschakeling" title="Voorbeeld van een serieschakeling"></img>
 
-Het effect van de serieschakeling op de stroom:
+**Het effect van de serieschakeling op de stroom:**
+
 In een serieschakeling is de stroom overal hetzelfde.
 
 \\[I_T = I_1 = I_2 = … = I_n\\]
 
-Het effect van de serieschakeling op de spanning:
+**Het effect van de serieschakeling op de spanning:**
+
 De spanning in een serieschakeling zal zich verdelen over de componenten. Hoeveel de spanning zakt over een component staat in verhouding met de weerstand van die component.
 
 \\[V_T = V_1 + V_2 + … + V_n\\]
 
-Het effect van de serieschakeling op de weerstand:
+**Het effect van de serieschakeling op de weerstand:**
+
 De totale weerstand van een reeks in serie geschakelde weerstanden is de som van die weerstanden.
 
 \\[R_T = R_1 + R_2 + … + R_n\\]
