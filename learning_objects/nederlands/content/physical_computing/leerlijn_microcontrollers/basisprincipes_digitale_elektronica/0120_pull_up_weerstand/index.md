@@ -42,6 +42,6 @@ Een pull-up weerstand wordt gebruikt om ervoor te zorgen dat een pin van de µC 
 <div class="dwengo-content assignment">
 <h2>Inzichtsvraag</h2>
     <p>
-        Er bestaat ook een pull-down weerstand. Kan jij de schakeling tekenen van hoe we een pull-down weerstand kunnen verbinden met een pin van de µC?
+        Er bestaat ook een pull-down weerstand. Deze zorgt ervoor dat de waarde van de pin laag is tot de knop wordt ingedrukt. Kan jij het schema tekenen van een pull-down weerstand?
     </p>
 </div>
