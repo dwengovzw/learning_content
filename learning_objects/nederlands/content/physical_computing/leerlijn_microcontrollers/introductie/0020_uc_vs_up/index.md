@@ -52,7 +52,7 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
     </tr>
     <tr>
         <td>Microcontrollers hebben gewoonlijk minder rekenkracht en worden geoptimaliseerd voor een specifieke toepassing. Bijgevolg verbruiken ze ook veel minder energie dan een microprocessor.</td>
-        <td>Microprocessoren zijn ontworpen om veel rekenkracht te hebben zodat ze complexe taken kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC..</td>
+        <td>Microprocessoren zijn ontworpen om veel rekenkracht te hebben zodat ze complexe taken kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC.</td>
     </tr>
     <tr>
         <td colspan="2"><h5>Besturingssysteem</h5></td>
@@ -63,25 +63,7 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
     </tr>
 </table>
 
-#### Toepassingen
-**Microcontrollers** zijn ontworpen om zeer specifieke taken uit te voeren zoals het lezen van een sensorwaarde en op basis daarvan een actuator (bv. motor) aan te sturen. Meestal worden microcontrollers geïntegreerd in een ingebed systeem waar ze de hardware van het systeem controleren (bv. een vaatwasmachine, een auto of een elektrische boormachine). Een specifieke eigenschap van microcontrollers is dat ze goed zijn in realtime toepassingen waarbij exacte timing essentieel is.
 
-**Microprocessoren** zijn rekeneenheden voor algemeen gebruik (general-purpose). Bijgevolg kunnen ze veel verschillende taken uitvoeren. Daarom worden ze gebruikt in systemen zoals laptops, desktops en servers.
-
-#### Integratie
-**Microcontrollers** zijn systemen op een chip (SoC) apparaten. Alle hardware die nodig is, wordt op de chip geïntegreerd. Een µC heeft zijn eigen verwerkingseenheid (CPU), geheugen, invoer/uitvoer en randapparaten. 
-
-**Microprocessoren** zijn gewoonlijk afhankelijk van externe apparaten. Meestal gebruiken ze extern geheugen, externe invoer/uitvoer hardware en externe randapparaten (bv. een GPU). Merk op dat recente microprocessoren steeds meer externe apparaten integreren. Zo heeft de nieuwe M3 chip van Apple zowel een geïntegreerde GPU als geïntegreerd geheugen.
-
-#### Stroomverbruik
-**Microcontrollers** hebben gewoonlijk minder rekenkracht en worden geoptimaliseerd voor een specifieke toepassing. Bijgevolg verbruiken ze ook veel minder energie dan een microprocessor.
-
-**Microprocessoren** zijn ontworpen om veel rekenkracht te hebben zodat ze complexe taken kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC.
-
-#### Besturingssysteem
-**Microcontrollers** maken gewoonlijk geen gebruik van een besturingssysteem. De code die je schrijft wordt rechtstreeks op de chip uitgevoerd. Dit zorgt ervoor dat je gemakkelijk energie-efficiënte realtime toepassingen kan ontwikkelen.
-
-**Microprocessoren** hebben een besturingssysteem nodig om te kunnen functioneren. Besturingssystemen zoals Linux, Windows of macOS voorzien verschillende functionaliteiten zoals multitasking.
 
 ## Gelijkenissen
 - µC en µP bevatten beiden een centrale verwerkingseenheid (CVE of CPU). Deze voert de instructies uit die in een programma staan.
