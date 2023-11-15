@@ -32,9 +32,12 @@ Om deze leerlijn te kunnen doorlopen zal je een microcontrollerplatform nodig he
 1. Het Dwenguino-platform dat we binnen Dwengo zelf ontwikkelen.
 2. Het 'Arduino Uno'-platform.
 
-| Het Dwenguino-platform | Het Arduino-platform  |
-| - | -- |
-| ![Het Dwenguino-platform](img/dwenguino_labeled_nl_300x220.png "Het Dwenguino-platform") | TODO: add image of arduino |
+| Het Dwenguino-platform  |
+| - |
+| ![Het Dwenguino-platform](img/dwenguino_labeled_nl_plain.svg "Het Dwenguino-platform") | 
+| Het Arduino-platform | 
+| TODO: add image arduino |
+
 
 De basisfunctionaliteiten van het Dwenguino- en Arduino-platform zijn gelijkaardig. De Dwenguino heeft echter een aantal extra functies die het makkelijker maken om in de klas een microcontrollertoepassing te bouwen. De Dwenguino heeft onder andere een ingebouwd lcd-scherm en de mogelijkheid om motoren aan te sturen. Op de Arduino moet je zelf een lcd-scherm aansluiten en moet je, om motoren aan te sturen, gebruik maken van een externe motor driver. Daarnaast heeft de Dwenguino ook 9 aanstuurbare leds, een buzzer, vijf knoppen en speciale aansluitingen om gemakkelijk dc- en servomotoren aan te sluiten. Bovendien kan je de Dwenguino programmeren vanuit de browser zonder software te moeten installeren. Bijgevolg werkt dit op alle platformen: Windows, Linux, macOS, ChromeOS, ...
 
