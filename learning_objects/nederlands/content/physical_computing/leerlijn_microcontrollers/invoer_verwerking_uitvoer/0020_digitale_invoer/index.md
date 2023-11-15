@@ -30,5 +30,5 @@ De pinnen van de µC kunnen gebruikt worden om een hoge (5V) of lage (0V) spanni
 unsigned char waarde_pin_12 = digitalRead(12);
 ```
 - `waarde_pin_12` is hier de variabele waarin we de waarde van de pin opslaan.
-- `unsigned char` is het type van de variabele. Getallen van dit type hebben een waarde tussen 0 en 255. 
+- `unsigned char` is het type van de variabele. Getallen van dit type hebben een **waarde tussen 0 en 255**. 
 - `digitalRead(12)` is een functie uit de Arduino bibliotheek die de waarde op pin 12 zal lezen.

@@ -30,4 +30,21 @@ Naar digitale pinnen kan je ook een waarde schrijven (1 of 0). Zo stel je het sp
 digitalWrite(12, HIGH)
 ```
 
-Merk op dat de waarde `HIGH` een constante is die gedefinieerd wordt in de Arduino bibliotheek. De waarde van deze constante is gelijk aan 1.
+Merk op dat de waarde `HIGH` een constante is die gedefinieerd wordt in de Arduino bibliotheek. De waarde van deze constante is gelijk aan 1. Je kan de code dus ook op de volgende manier schrijven.
+
+```cpp
+digitalWrite(12, 1)
+```
+
+Wij verkiezen de eerste manier omdat dit de **leesbaarheid** van de code beter maakt. In professionele omgevingen is leesbare code zeer belangrijk.
+
+
+<div class="dwengo-content sideinfo">
+<h2>Wist je dat!</h2>
+    <p>
+        Uit wetenschappelijk onderzoek blijkt dat professionele programmeurs heel veel belang hechten aan leesbaarheid en begrijpbaarheid van code. Wanneer je aan professionele programmeurs vraagt welke eigenschappen kwaliteitsvolle code heeft, zal ongeveer 80% de leesbaarheid ervan in rekening brengen. Om dit in perspectief te plaatsen, van diezelfde groep zal maar ongeveer 50% zeggen dat de code functioneel correct moet zijn.
+    </p>
+    <p>
+        <em>Börstler, J., Störrle, H., Toll, D., Van Assema, J., Duran, R., Hooshangi, S., ... & MacKellar, B. (2018, January). " I know it when I see it" Perceptions of Code Quality: ITiCSE'17 Working Group Report. In Proceedings of the 2017 iticse conference on working group reports (pp. 70-85).</em>
+    </p>
+</div>
