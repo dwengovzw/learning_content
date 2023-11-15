@@ -37,27 +37,27 @@ We weten ook dat het spanningsniveau waarop de µC van een logische 0 naar een l
 
 Verder kunnen we uit de grafiek met de karakteristiek van de lichtsensor aflezen dat die bij een lichtintensiteit van 10 Lux een weerstand van ongeveer 10KΩ zal hebben.
 
-\\[R_2 = 10K\omega\\]
+\\[R_2 = 10K\Omega\\]
 
 Deze waarden kunnen we nu invullen in de formule.
 
 \\[V_{out} = \frac{R_2}{R_1+R_2}\times V_{in}\\]
 
-\\[1.3V = \frac{10K\omega}{R_1+10K\Omega}\times5V\\]
+\\[1.3V = \frac{10K\Omega}{R_1+10K\Omega}\times5V\\]
 
 We lossen de vergelijking op om de waarde van R1 te bepalen.
 
-\\[\frac{1.3}{5} = \frac{10K\omega}{R_1 + 10K\omega}\\]
+\\[\frac{1.3}{5} = \frac{10K\Omega}{R_1 + 10K\Omega}\\]
 
-\\[\frac{1.3}{5}R_1 + \frac{13}{5} = 10K\omega\\]
+\\[\frac{1.3}{5}R_1 + \frac{13}{5} = 10K\Omega\\]
 
-\\[\frac{1.3}{5}R_1 = \frac{50}{5}K\omega - \frac{13}{5}K\omega\\]
+\\[\frac{1.3}{5}R_1 = \frac{50}{5}K\Omega - \frac{13}{5}K\Omega\\]
 
-\\[\frac{1.3}{5}R_1 = \frac{37}{5}K\omega\\]
+\\[\frac{1.3}{5}R_1 = \frac{37}{5}K\Omega\\]
 
-\\[R_1 = \frac{5}{1.3} \times \frac{37}{5}K\omega\\]
+\\[R_1 = \frac{5}{1.3} \times \frac{37}{5}K\Omega\\]
 
-\\[R_1 = \frac{37}{1.3}K\omega \thickapprox 28.46K\omega\\]
+\\[R_1 = \frac{37}{1.3}K\Omega \thickapprox 28.46K\Omega\\]
 
 
 Merk op dat de verhouding tussen de berekende weerstanden (10KΩ en 28.46KΩ) gelijk is aan de verhouding tussen de spanningsniveau's (1.3V en 3.7V).
