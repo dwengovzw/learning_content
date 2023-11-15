@@ -29,7 +29,7 @@ Een pull-up weerstand wordt gebruikt om ervoor te zorgen dat een pin van de µC 
 
 | Schema |  |
 | - | - |
-| !["Schema van de pull-up weerstand"](img/diagram.svg "Schema van de pull-up weerstand") | Deze figuur toont de werking van een pull-up weerstand. De weerstand R1 zorgt ervoor dat, in het geval de de schakelaar niet ingedrukt is, de waarde van de input pin hoog is. Als de knop wordt ingedrukt, verbinden we de pin met de GND dus krijgt die automatisch de waarde 0. |
+| !["Schema van de pull-up weerstand"](img/diagram.svg "Schema van de pull-up weerstand") | Deze figuur toont de werking van een pull-up weerstand. De verbinding met 5V via weerstand R1 zorgt ervoor dat, in het geval de de schakelaar niet ingedrukt is, de waarde van de input pin hoog is. Als de knop wordt ingedrukt, verbinden we de pin met de GND dus krijgt die automatisch de waarde 0. |
 
 
 <div class="dwengo-content assignment">
