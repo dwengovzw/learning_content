@@ -30,9 +30,9 @@ De µC heeft speciale schakelingen die in staat zijn om een voltage op een pin o
 unsigned int analoge_waarde_pin_A0 = analogRead(A0);
 ```
 
-`analoge_waarde_pin_A0` is de variabele waarin we de analoge waarde opslaan.
-`unsigned int` is het type van de variabele `analoge_waarde_pin_A0`. Variabelen van dit type bevatten getallen tussen 0 en 65535.
-`analogRead(A0)` is de functie van de Arduino bibliotheek waarmee we de analoge waarde van pin A0 lezen.
+- `analoge_waarde_pin_A0` is de variabele waarin we de analoge waarde opslaan.
+- `unsigned int` is het type van de variabele `analoge_waarde_pin_A0`. Variabelen van dit type bevatten getallen tussen 0 en 65535.
+- `analogRead(A0)` is de functie van de Arduino bibliotheek waarmee we de analoge waarde van pin A0 lezen.
 
 <div class="dwengo-content assignment">
 <h2>Inzichtsvraag</h2>
