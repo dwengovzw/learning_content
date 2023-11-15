@@ -28,6 +28,41 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 
 ## Verschillen
 
+<table>
+    <tr>
+        <th><strong>Microcontroller</strong></th>
+        <th><strong>Microprocessor</strong></th>
+    </tr>
+    <tr>
+        <td colspan="2"><h4>Toepassingen</h4></td>
+    </tr>
+    <tr>
+        <td>Microcontrollers zijn ontworpen om zeer specifieke taken uit te voeren zoals het lezen van een sensorwaarde en op basis daarvan een actuator (bv. motor) aan te sturen. Meestal worden microcontrollers geïntegreerd in een ingebed systeem waar ze de hardware van het systeem controleren (bv. een vaatwasmachine, een auto of een elektrische boormachine). Een specifieke eigenschap van microcontrollers is dat ze goed zijn in realtime toepassingen waarbij exacte timing essentieel is. </td>
+        <td>Microprocessoren zijn rekeneenheden voor algemeen gebruik (general-purpose). Bijgevolg kunnen ze veel verschillende taken uitvoeren. Daarom worden ze gebruikt in systemen zoals laptops, desktops en servers.</td>
+    </tr>
+    <tr>
+        <td colspan="2"><h4>Integratie</h4></td>
+    </tr>
+    <tr>
+        <td>Microcontrollers zijn systemen op een chip (SoC) apparaten. Alle hardware die nodig is, wordt op de chip geïntegreerd. Een µC heeft zijn eigen verwerkingseenheid (CPU), geheugen, invoer/uitvoer en randapparaten.</td>
+        <td>Microprocessoren zijn gewoonlijk afhankelijk van externe apparaten. Meestal gebruiken ze extern geheugen, externe invoer/uitvoer hardware en externe randapparaten (bv. een GPU). Merk op dat recente microprocessoren steeds meer externe apparaten integreren. Zo heeft de nieuwe M3 chip van Apple zowel een geïntegreerde GPU als geïntegreerd geheugen.</td>
+    </tr>
+    <tr>
+        <td colspan="2"><h4>Stroomverbruik</h4></td>
+    </tr>
+    <tr>
+        <td>Microcontrollers hebben gewoonlijk minder rekenkracht en worden geoptimaliseerd voor een specifieke toepassing. Bijgevolg verbruiken ze ook veel minder energie dan een microprocessor.</td>
+        <td>Microprocessoren zijn ontworpen om veel rekenkracht te hebben zodat ze complexe taken kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC..</td>
+    </tr>
+    <tr>
+        <td colspan="2"><h4>Besturingssysteem</h4></td>
+    </tr>
+    <tr>
+        <td>Microcontrollers maken gewoonlijk geen gebruik van een besturingssysteem. De code die je schrijft wordt rechtstreeks op de chip uitgevoerd. Dit zorgt ervoor dat je gemakkelijk energie-efficiënte realtime toepassingen kan ontwikkelen.</td>
+        <td>Microprocessoren hebben een besturingssysteem nodig om te kunnen functioneren. Besturingssystemen zoals Linux, Windows of macOS voorzien verschillende functionaliteiten zoals multitasking.</td>
+    </tr>
+</table>
+
 #### Toepassingen
 **Microcontrollers** zijn ontworpen om zeer specifieke taken uit te voeren zoals het lezen van een sensorwaarde en op basis daarvan een actuator (bv. motor) aan te sturen. Meestal worden microcontrollers geïntegreerd in een ingebed systeem waar ze de hardware van het systeem controleren (bv. een vaatwasmachine, een auto of een elektrische boormachine). Een specifieke eigenschap van microcontrollers is dat ze goed zijn in realtime toepassingen waarbij exacte timing essentieel is.
 
