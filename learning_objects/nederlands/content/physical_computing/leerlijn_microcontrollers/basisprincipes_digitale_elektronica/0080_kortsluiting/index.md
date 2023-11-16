@@ -24,7 +24,12 @@ teacher_exclusive: false
 
 # Kortsluiting
 
-**LET OP!** Je mag een circuit **nooit kortsluiten**. Op die manier maak je de µC of eventuele componenten die ermee verbonden zijn kapot.
+<div class="dwengo-content important">
+    <h2 class="title">LET OP!</h2>
+    <div class="content">
+        Je mag een circuit <strong>nooit kortsluiten</strong>. Op die manier maak je de µC of eventuele componenten die ermee verbonden zijn kapot.
+    </div>
+</div>
 
 Een circuit is kortgesloten wanneer er een heel hoge stroom door het circuit gaat. Dit doet zich voor wanneer het circuit zelf bijna geen weerstand heeft. Dit volgt rechtstreeks uit de wet van Ω. De spanning die een bron kan leveren blijft meestal relatief constant. Als we de kring sluiten met een kleine weerstand wordt de stroom heel hoog.
 We krijgen bijvoorbeeld kortsluiting als we de Vcc en GND van onze µC rechtstreeks met elkaar verbinden met een koperdraad van 10 cm. Deze koperdraad heeft een weerstand van 1.7 nano Ohm ofwel 1.7e-9 Ω. Passen we hierop de wet van Ohm toe:
