@@ -49,8 +49,8 @@ TODO: voeg foto toe.
         </p>
         <img src="img/diagram.svg"></img>
         <ul>
-            <li>Wat gebeurd er met de spanning als je de meetsnoeren omwisselt?</li>
-            <li>Wat gebeurd er met de spanning als je een weerstand met een andere waarde neemt?</li>
+            <li>Wat gebeurt er met de spanning als je de meetsnoeren omwisselt?</li>
+            <li>Wat gebeurt er met de spanning als je een weerstand met een andere waarde neemt?</li>
         </ul>
     </div>
 </div>
