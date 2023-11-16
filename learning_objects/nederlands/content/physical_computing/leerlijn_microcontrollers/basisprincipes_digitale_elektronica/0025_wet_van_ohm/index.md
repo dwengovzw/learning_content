@@ -32,13 +32,13 @@ De wet zegt dus dat de spanning over een component gelijk is aan de weerstand va
 
 Hier is een eenvoudige uitleg:
 
-**Spanning** (\\(\mathrm U\\)) is het elektrische potentiaalverschil, gemeten in volt (**V**), dat aangeeft hoe sterk de elektrische "druk" is in een circuit.
+**Spanning** (\\(\mathrm U\\)) is het elektrische potentiaalverschil, gemeten in volt (\\(\mathrm V\\)), dat aangeeft hoe sterk de elektrische "druk" is in een circuit.
 
-**Stroom** (**I**) is de elektrische stroom, gemeten in ampère (**A**), die aangeeft hoeveel elektronen door een geleider stromen per eenheid van tijd.
+**Stroom** (\\(\mathrm I\\)) is de elektrische stroom, gemeten in ampère (\\(\mathrm A\\)), die aangeeft hoeveel elektronen door een geleider stromen per eenheid van tijd.
 
-**Weerstand** (**R**) is de mate waarin een materiaal de stroom van elektronen hindert, gemeten in ohm (**Ω**). Hoe hoger de weerstand, hoe moeilijker het is voor de stroom om te vloeien.
+**Weerstand** (\\(\mathrm R\\)) is de mate waarin een materiaal de stroom van elektronen hindert, gemeten in ohm (\\(\mathrm \Omega\\)). Hoe hoger de weerstand, hoe moeilijker het is voor de stroom om te vloeien.
 
-De wet van Ohm stelt dat de spanning (V) over een component in een elektrisch circuit recht evenredig is met de stroom (I) die erdoorheen gaat, en omgekeerd evenredig met de weerstand (R) van die component. Met andere woorden, als je de spanning en de weerstand kent, kun je de stroom berekenen, of als je de stroom en de weerstand kent, kun je de spanning berekenen.
+De wet van Ohm stelt dat de spanning (\\(\mathrm V\\)) over een component in een elektrisch circuit recht evenredig is met de stroom (\\(\mathrm I\\)) die erdoorheen gaat, en omgekeerd evenredig met de weerstand (\\(\mathrm R\\)) van die component. Met andere woorden, als je de spanning en de weerstand kent, kun je de stroom berekenen, of als je de stroom en de weerstand kent, kun je de spanning berekenen.
 
 Dit eenvoudige principe is essentieel bij het ontwerpen en begrijpen van elektrische circuits en helpt ingenieurs en elektriciens om componenten te selecteren en de prestaties van elektrische systemen te voorspellen.
 
