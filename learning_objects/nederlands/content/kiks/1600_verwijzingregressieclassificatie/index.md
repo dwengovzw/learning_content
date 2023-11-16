@@ -42,7 +42,7 @@ Voorspellen betekent bijvoorbeeld dat er uit voorbije tendensen cijfers voor de 
 
 <br><br> 
 > **Concrete voorbeelden van regressie:** <br>
-> - de prijs van een appartement voorspellen of beslissen (gebaseerd op de prijzen van apapartemenen die reeds verkocht zijn);<br>
+> - de prijs van een appartement voorspellen of beslissen (gebaseerd op de prijzen van appartementen die reeds verkocht zijn);<br>
 > - uit het afnemen van de dikte van een gebergtegletsjer gedurende de voorbije decennia, de dikte van de komende jaren afleiden. <br>
 
 > **Concrete voorbeelden van classificatie:** <br>
@@ -59,4 +59,4 @@ Voorspellen betekent bijvoorbeeld dat er uit voorbije tendensen cijfers voor de 
     <figcaption align = "center">Classificatie.</figcaption>
 </figure> 
 
-Met machinaal leren kan men dus problemen van regressie en classificatie behandelen. Deze technieken worden behandeld in respectievelijk de leerpaden ['Classificatie'](https://www.dwengo.org/learning-path.html?hruid=kiks5_classificatie&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_mnist;nl;3) en ['Regressie'](https://www.dwengo.org/learning-path.html?hruid=kiks6_regressie&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_iris_regressie;nl;3).
+Met machinaal leren kan men dus problemen van regressie en classificatie behandelen. Deze technieken worden voorgesteld in respectievelijk de leerpaden ['Classificatie'](https://www.dwengo.org/learning-path.html?hruid=kiks5_classificatie&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_mnist;nl;3) en ['Regressie'](https://www.dwengo.org/learning-path.html?hruid=kiks6_regressie&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#kiks_iris_regressie;nl;3).

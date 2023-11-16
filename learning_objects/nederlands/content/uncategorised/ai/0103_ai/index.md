@@ -62,8 +62,9 @@ De beslissingen van een ML-model worden *voorspellingen* genoemd.
 > In plaats van categorieën spreekt men in deze context eerder van klassen.
  
 > **Concrete voorbeelden van regressie:** <br>
-> - de prijs van een appartement voorspellen of beslissen (gebaseerd op de prijzen van apapartemenen die reeds verkocht zijn);<br>
+> - de prijs van een appartement voorspellen of beslissen (gebaseerd op de prijzen van appartementen die reeds verkocht zijn);<br>
 > - uit het zeeniveau van de voorbije decennia in Oostende, het zeeniveau van de komende jaren afleiden. <br>
+
 > **Concrete voorbeelden van classificatie:** <br>
 > - bepalen of een e-mail al dan niet spam is; <br>
 > - van een foto kunnen zeggen of er al dan niet een huidmondje op staat.

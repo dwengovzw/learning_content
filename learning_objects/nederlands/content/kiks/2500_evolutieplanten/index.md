@@ -31,21 +31,21 @@ teacher_exclusive: false
 ---
 
 # Evolutie van planten en hun stomata 
-**Fossiele bladeren geven veel informatie over de evolutie van planten en hun stomata.** Vierhonderd miljoen jaar geleden kwamen stomata bij planten voor het eerst voor. Sindsdien zijn ze geëvolueerd: er zijn opvallende veranderingen opgetreden waaronder verschillen in de grootte en de dichtheid van de stomata (zie Figuur 1) (Hetherington & Woodward, 2003). **Veel planten zijn op zo’n manier geëvolueerd dat de door stomata ingenomen bladoppervlakte (s.d) zo klein mogelijk is** (Assouline & Or, 2013; Franks & Beerling, 2009). 
+**Fossiele bladeren geven veel informatie over de evolutie van planten en hun stomata.** Vierhonderd miljoen jaar geleden kwamen stomata bij planten voor het eerst voor. Sindsdien zijn ze geëvolueerd: er zijn opvallende veranderingen opgetreden, waaronder verschillen in de grootte en de dichtheid van de stomata (zie Figuur 1) (Hetherington & Woodward, 2003). **Veel planten zijn op zo’n manier geëvolueerd dat de door stomata ingenomen bladoppervlakte (s.d) zo klein mogelijk is** (Assouline & Or, 2013; Franks & Beerling, 2009). 
 
 ![](embed/stomatal-size-and-density.png "stomatale dichtheid") 
 <figure>
-    <figcaption align = "center">Figuur 1: Fossil record-based plant leaf stomatal size (<em>s</em>) and density (<em>d</em>). Hoe meer stomata per oppervlakte-eenheid, hoe kleiner de stomata. De planten zijn zo geevolueerd dat de ingenomen bladoppervlakte (<em>s.d</em>) zo klein mogelijk is (Assouline & Or, 2013). Gebaseerd op Franks & Beerling, 2009.</figcaption>
+    <figcaption align = "center">Figuur 1: Fossil record-based plant leaf stomatal size (<em>s</em>) and density (<em>d</em>). Hoe meer stomata per oppervlakte-eenheid, hoe kleiner de stomata. De planten zijn zo geëvolueerd dat de ingenomen bladoppervlakte (<em>s.d</em>) zo klein mogelijk is (Assouline & Or, 2013). Gebaseerd op Franks & Beerling, 2009.</figcaption>
 </figure> 
 
-**Bij een lage CO<sub>2</sub>-concentratie zijn planten met veel stomata in het voordeel en komen ze dan ook veel voor. Wanneer er veel CO<sub>2</sub> in de atmosfeer zit, zijn planten met minder stomata in het voordeel en zullen veel voorkomen** (Thanukos, 2018). Dit wordt geïllustreerd in Figuur 2. 
+**Bij een lage CO<sub>2</sub>-concentratie zijn planten met veel stomata in het voordeel en komen ze dan ook veel voor. Wanneer er veel CO<sub>2</sub> in de atmosfeer zit, zijn planten met minder stomata in het voordeel en zullen ze veel voorkomen** (Thanukos, 2018). Dit wordt geïllustreerd in Figuur 2. 
 
 ![](embed/aantalStomataCO2.png "Verband stomata en koolstofdioxide") 
 <figure>
     <figcaption align = "center">Figuur 2: Verband tussen aantal en grootte van de stomata en de CO<sub>2</sub>-concentratie.</figcaption>
 </figure> 
 
-**Uit fossiel plantenmateriaal blijkt dat planten reageren op langdurige verandering in CO<sub>2</sub> via een aanpassing in de dichtheid van de stomata.** Behalve de fotosynthese, zijn ook de transpiratie en de waterhuishouding van de planten factoren die daarin meespelen (Franks & Beerling, 2009; de Boer et al., 2016). 
+**Uit fossiel plantenmateriaal blijkt dat planten reageren op langdurige verandering in CO<sub>2</sub> via een aanpassing in de dichtheid van de stomata.** Behalve de fotosynthese zijn ook de transpiratie en de waterhuishouding van de planten factoren die daarin meespelen (Franks & Beerling, 2009; de Boer et al., 2016). 
 
 **De hoeveelheid CO<sub>2</sub> in de atmosfeer kan daarom afgeleid worden uit de stomatale dichtheid. Aangezien het CO<sub>2</sub>-niveau een direct effect heeft op globale temperaturen, geven veranderingen in het CO<sub>2</sub>-niveau ook een duidelijk beeld van veranderingen in het klimaat.** (Assouline & Or, 2013; Franks & Beerling, 2009). 
 

@@ -42,7 +42,7 @@ teacher_exclusive: true
 - In het leerpad ['Beslissingsboom'](https://www.dwengo.org/learning-path.html?hruid=aiz1_zorg&language=nl&te=true&source_page=%2Fcare%2F&source_title=%20AI%20in%20de%20Zorg#aiz_inleiding;nl;3) maak je kennis met een algoritme om een beslissingsboom te genereren. Beslissingsbomen zijn transparante, regelgebaseerde AI-systemen.
 
 ### Het project 'Chatbot'
-- In het leerpad ['Chatbot'](https://www.dwengo.org/learning-path.html?hruid=cb1_chatbot&language=nl&te=true&source_page=%2Fchatbot%2F&source_title=%20Chatbot#cb_chatbot_inleiding;nl;3) bouw je een eenvoudige, regelgebaseerde chatbot. De antwoorden die deze chatbot genereert zijn zeer transparant.
+- In het leerpad ['Chatbot'](https://www.dwengo.org/learning-path.html?hruid=cb1_chatbot&language=nl&te=true&source_page=%2Fchatbot%2F&source_title=%20Chatbot#cb_chatbot_inleiding;nl;3) bouw je een eenvoudige, regelgebaseerde chatbot. De antwoorden die deze chatbot genereert, zijn zeer transparant.
 - In het leerpad ['Sentimentanalyse'](https://www.dwengo.org/learning-path.html?hruid=cb2_sentimentanalyse&language=nl&te=true&source_page=%2Fchatbot%2F&source_title=%20Chatbot#pn_sa_inleiding;nl;3) bouw je o.a. een regelgebaseerd systeem voor sentimentanalyse. 
 
 ### Het project 'AI in de Landbouw'

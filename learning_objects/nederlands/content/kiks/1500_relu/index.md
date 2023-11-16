@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 
 # ReLU
-De Heaviside-functie (drempelwaardefunctie), de identiteitsfunctie, de signfunctie, de sigmoïde en de ReLU-functie zijn *niet-lineaire functies*. Sommige van deze functies hebben een *meervoudig voorschrift*. <br>
+De Heaviside-functie (drempelwaardefunctie), de identiteitsfunctie, de signfunctie, de sigmoïde- en de ReLU-functie zijn *niet-lineaire functies*. Sommige van deze functies hebben een *meervoudig voorschrift*. <br>
 Ze worden vaak aangewend als activatiefunctie in een neuraal netwerk. 
 
 In het neurale netwerk van KIKS wordt ReLU gebruikt. Het is een niet-lineaire functie die het mogelijk maakt klassen die niet lineair scheidbaar zijn, toch te scheiden!<br> 
