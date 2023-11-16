@@ -36,9 +36,11 @@ Er bestaan verschillende soorten motoren die je kan aansturen aan de hand van de
 
 
 <div class="dwengo-content important">
-<h2>Opgelet!</h2>
-<p>
-Sluit een motor nooit rechtstreeks aan op de pinnen van de µC! Gebruik daarvoor steeds de gepaste “driver”. Motoren gebruiken te veel stroom. Door ze rechtstreeks op een pin van de µC aan te sluiten kan je de schakelingen op de µC letterlijk doorbranden. Op het Dwenguino platform is er al een driver aanwezig waardoor je makkelijk motoren kan aansluiten. Op het Arduino platform is dit niet het geval. Bijgevolg moet je daar zelf de motor aansluiten.
-</p>
+    <h2 class="title">Opgelet!</h2>
+    <div class="content">
+        <p>
+        Sluit een motor nooit rechtstreeks aan op de pinnen van de µC! Gebruik daarvoor steeds de gepaste “driver”. Motoren gebruiken te veel stroom. Door ze rechtstreeks op een pin van de µC aan te sluiten kan je de schakelingen op de µC letterlijk doorbranden. Op het Dwenguino platform is er al een driver aanwezig waardoor je makkelijk motoren kan aansluiten. Op het Arduino platform is dit niet het geval. Bijgevolg moet je daar zelf de motor aansluiten.
+        </p>
+    </div>
 </div>
 

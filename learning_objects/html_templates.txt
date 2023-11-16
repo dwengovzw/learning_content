@@ -1,29 +1,29 @@
 // HTML voor een opdracht in een leerobject
 
 <div class="dwengo-content assignment">
-<h2>Hier de titel van de opdracht</h2>
-<p>
+<h2 class="title">Hier de titel van de opdracht</h2>
+<div class="content">
 Hier de opdracht.
-</p>
+</div>
 </div>
 
 // HTML voor een weetje of extra info
 
 <div class="dwengo-content sideinfo">
-<h2>Hier de titel van het weetje</h2>
-<p>
+<h2 class="title">Hier de titel van het weetje</h2>
+<div class="content>
 Hier de inhoud van het weetje
-</p>
+</div>
 </div>
 
 
 // HTML voor een weetje of extra info
 
 <div class="dwengo-content important">
-<h2>Hier de titel van de belangrijke informatie</h2>
-<p>
+<h2 class="title">Hier de titel van de belangrijke informatie</h2>
+<div class="content">
 Hier de inhoud.
-</p>
+</div>
 </div>
 
 // HTML voor een componentfiche

@@ -36,15 +36,19 @@ unsigned int analoge_waarde_pin_A0 = analogRead(A0);
 - `A0` is een constante gedefinieerd in de Arduino bibliotheek. Deze komt overeen met het nummer van een bepaalde pin. Bij de Arduino UNO is dit `14`. Voor de Dwenguino is dit pin nummer `24`. Op de Arduino Mega is het dan weer pin nummer `54`.
 
 <div class="dwengo-content assignment">
-<h2>Inzichtsvraag</h2>
-<p>
-Waarom gebruiken we bij het lezen van analoge invoer int als type van de variabele <code class="language-cpp">unsigned int</code> wanneer we bij het lezen van digitale invoer het type <code class="language-cpp">unsigned char</code> gebruiken?
-</p>
+    <h2 class="title">Inzichtsvraag</h2>
+    <div class="content">
+        <p>
+        Waarom gebruiken we bij het lezen van analoge invoer int als type van de variabele <code class="language-cpp">unsigned int</code> wanneer we bij het lezen van digitale invoer het type <code class="language-cpp">unsigned char</code> gebruiken?
+        </p>
+    </div>
 </div>
 
 <div class="dwengo-content sideinfo">
-<h2>Wist je dat!</h2>
-    <p>
-        Het gebruik van constanten zoals <code class="language-cpp">A0</code> maakt de code niet enkel leesbaarder. Deze <strong>abstractie</strong> zorgt er ook voor dat je dezelfde code kan uitvoeren op verschillende microcontrollerplatformen. Gebruik je niet de waarde <code class="language-cpp">A0</code> maar het overeenkomstige pin nummer bv. <code class="language-cpp">24</code> op de Dwenguino, zal je om dezelfde code te kunnen uitvoeren op een Arduino UNO het pin nummer overal in je code moeten aanpassen.
-    </p>
+    <h2 class="title">Wist je dat!</h2>
+    <div class="content">
+        <p>
+            Het gebruik van constanten zoals <code class="language-cpp">A0</code> maakt de code niet enkel leesbaarder. Deze <strong>abstractie</strong> zorgt er ook voor dat je dezelfde code kan uitvoeren op verschillende microcontrollerplatformen. Gebruik je niet de waarde <code class="language-cpp">A0</code> maar het overeenkomstige pin nummer bv. <code class="language-cpp">24</code> op de Dwenguino, zal je om dezelfde code te kunnen uitvoeren op een Arduino UNO het pin nummer overal in je code moeten aanpassen.
+        </p>
+    </div>
 </div>

@@ -40,11 +40,13 @@ Wij verkiezen de eerste manier omdat dit de **leesbaarheid** van de code beter m
 
 
 <div class="dwengo-content sideinfo">
-<h2>Wist je dat!</h2>
-    <p>
-        Uit wetenschappelijk onderzoek blijkt dat professionele programmeurs heel veel belang hechten aan leesbaarheid en begrijpbaarheid van code. Wanneer je aan professionele programmeurs vraagt welke eigenschappen kwaliteitsvolle code heeft, zal ongeveer 80% de leesbaarheid ervan in rekening brengen. Om dit in perspectief te plaatsen, van diezelfde groep zal maar ongeveer 50% zeggen dat de code functioneel correct moet zijn.
-    </p>
-    <p>
-        <em>Börstler, J., Störrle, H., Toll, D., Van Assema, J., Duran, R., Hooshangi, S., ... & MacKellar, B. (2018, January). " I know it when I see it" Perceptions of Code Quality: ITiCSE'17 Working Group Report. In Proceedings of the 2017 iticse conference on working group reports (pp. 70-85).</em>
-    </p>
+    <h2 class="title">Wist je dat!</h2>
+    <div class="content">
+        <p>
+            Uit wetenschappelijk onderzoek blijkt dat professionele programmeurs heel veel belang hechten aan leesbaarheid en begrijpbaarheid van code. Wanneer je aan professionele programmeurs vraagt welke eigenschappen kwaliteitsvolle code heeft, zal ongeveer 80% de leesbaarheid ervan in rekening brengen. Om dit in perspectief te plaatsen, van diezelfde groep zal maar ongeveer 50% zeggen dat de code functioneel correct moet zijn.
+        </p>
+        <p>
+            <em>Börstler, J., Störrle, H., Toll, D., Van Assema, J., Duran, R., Hooshangi, S., ... & MacKellar, B. (2018, January). " I know it when I see it" Perceptions of Code Quality: ITiCSE'17 Working Group Report. In Proceedings of the 2017 iticse conference on working group reports (pp. 70-85).</em>
+        </p>
+    </div>
 </div>

@@ -74,15 +74,19 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 
 
 <div class="dwengo-content assignment">
-<h2>Opdracht</h2>
-<p>
-Ga online op zoek naar voorbeelden van microcontrollers (bv. ATtiny85) en microprocessoren (bv. Apple M3). Zoek voor elk van de voorbeelden op wat hun kloksnelheid en energieverbruik zijn.
-</p>
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>
+        Ga online op zoek naar voorbeelden van microcontrollers (bv. ATtiny85) en microprocessoren (bv. Apple M3). Zoek voor elk van de voorbeelden op wat hun kloksnelheid en energieverbruik zijn.
+        </p>
+    </div>
 </div>
 
 <div class="dwengo-content assignment">
-<h2>Opdracht</h2>
-<p>
-Microprocessoren kunnen bijna alles wat een microcontroller kan maar vaak op een minder efficiënte manier. Efficiënte toepassingen bouwen is echter van groot belang. Zoek op wat het energieverbruik is van complexe applicaties zoals Google en ChatGPT. Welke impact hebben deze systemen op de maatschappij?
-</p>
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>
+        Microprocessoren kunnen bijna alles wat een microcontroller kan maar vaak op een minder efficiënte manier. Efficiënte toepassingen bouwen is echter van groot belang. Zoek op wat het energieverbruik is van complexe applicaties zoals Google en ChatGPT. Welke impact hebben deze systemen op de maatschappij?
+        </p>
+    </div>
 </div>
