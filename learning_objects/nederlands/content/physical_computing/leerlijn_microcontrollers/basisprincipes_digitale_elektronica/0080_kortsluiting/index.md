@@ -29,6 +29,6 @@ teacher_exclusive: false
 Een circuit is kortgesloten wanneer er een heel hoge stroom door het circuit gaat. Dit doet zich voor wanneer het circuit zelf bijna geen weerstand heeft. Dit volgt rechtstreeks uit de wet van Ω. De spanning die een bron kan leveren blijft meestal relatief constant. Als we de kring sluiten met een kleine weerstand wordt de stroom heel hoog.
 We krijgen bijvoorbeeld kortsluiting als we de Vcc en GND van onze µC rechtstreeks met elkaar verbinden met een koperdraad van 10 cm. Deze koperdraad heeft een weerstand van 1.7 nano Ohm ofwel 1.7e-9 Ω. Passen we hierop de wet van Ohm toe:
 
-\\[\mathrm I = \frac{5\,\mathrm V}{1.7 \cdot 10^{-9}\,\mathrm\Omega} = 2.9\cdot 10^9\,\mathrm A = 2.9\,\mathrm{GA}\\]
+\\[\mathrm{I} = \frac{5\\,\mathrm{V}}{1.7 \cdot 10^{-9}\\,\mathrm{\Omega}} = 2.9\cdot 10^9\\,\mathrm{A} = 2.9\\,\mathrm{GA}\\]
 
-Om dit in perspectief te plaatsen, een stroom van \\(0.1\, \mathrm A\\) kan fataal zijn voor de mens. \\(2.9G\\, \mathrm A\\) is dus zeker fataal voor de µC!
+Om dit in perspectief te plaatsen, een stroom van \\(0.1\\,\mathrm A\\) kan fataal zijn voor de mens. \\(2.9G\\,\mathrm A\\) is dus zeker fataal voor de µC!
