@@ -30,9 +30,9 @@ teacher_exclusive: false
 <div class="dwengo-content assignment">
     <h2>Opdracht 1</h2>
     <p>
-        <div>Je krijgt van de leerkracht de volgende schakeling:</div>
+        <p>Je krijgt van de leerkracht de volgende schakeling:</p>
         <img src="img/diagram_01.svg"></img>
-        <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
+        <p>Gebruik de multimeter om de volgende vragen te beantwoorden.</p>
         <ul>
             <li>Meet de weerstandswaarde van R1.</li>
             <li>Bereken de stroom voor een VCC van 5V.</li>
