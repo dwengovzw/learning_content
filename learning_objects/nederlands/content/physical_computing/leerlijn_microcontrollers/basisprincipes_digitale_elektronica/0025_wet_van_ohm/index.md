@@ -26,13 +26,13 @@ teacher_exclusive: false
 
 Nu we weten wat spanning, weerstand en stroom zijn, kunnen we analyseren wat de verhouding is tussen deze drie grootheden. De wet van Ohm beschrijft de verhouding tussen spanning, weerstand en stroom:
 
-\\[\mathrmU = \mathrmR \cdot\mathrmI\\]
+\\[\mathrm U = \mathrm R \cdot\mathrm I\\]
 
 De wet zegt dus dat de spanning over een component gelijk is aan de weerstand van die component maal de stroom die door de component loopt. 
 
 Hier is een eenvoudige uitleg:
 
-**Spanning** (\\(\mathrmU\\)) is het elektrische potentiaalverschil, gemeten in volt (**V**), dat aangeeft hoe sterk de elektrische "druk" is in een circuit.
+**Spanning** (\\(\mathrm U\\)) is het elektrische potentiaalverschil, gemeten in volt (**V**), dat aangeeft hoe sterk de elektrische "druk" is in een circuit.
 
 **Stroom** (**I**) is de elektrische stroom, gemeten in ampère (**A**), die aangeeft hoeveel elektronen door een geleider stromen per eenheid van tijd.
 
