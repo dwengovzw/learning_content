@@ -16,6 +16,16 @@ Hier de inhoud van het weetje
 </p>
 </div>
 
+
+// HTML voor een weetje of extra info
+
+<div class="dwengo-content important">
+<h2>Hier de titel van de belangrijke informatie</h2>
+<p>
+Hier de inhoud.
+</p>
+</div>
+
 // HTML voor een componentfiche
 
 <div class="dwengo_content fiche">

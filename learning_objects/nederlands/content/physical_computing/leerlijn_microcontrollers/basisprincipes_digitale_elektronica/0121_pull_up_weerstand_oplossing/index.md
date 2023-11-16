@@ -2,7 +2,7 @@
 hruid: leerlijn_invoer_basisprincipes_pull_up_weerstand_oplossing
 version: 1
 language: nl
-title: "De pull-up weerstand"
+title: "De pull-up weerstand (oplossing)"
 description: "De pull-up weerstand zorgt ervoor dat de spanning op een pin steeds voorspelbaar is."
 keywords: ["digitale elektronica", "weerstand", "pull-up", "basisprincipes", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
