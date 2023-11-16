@@ -46,3 +46,4 @@ Hieronder zie je een grafiek die het verband weergeeft tussen de spanning en de 
 
 !["Relatie tussen spanning, stroom en weerstand"](img/relatie_spanning_stroom.png "Relatie tussen spanning, stroom en weerstand")
 
+
