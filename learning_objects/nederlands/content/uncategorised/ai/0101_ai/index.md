@@ -47,7 +47,7 @@ De laatste twee definities omvatten, juist door hun breedheid, veel eigenschappe
 
 # Kunstmatige intelligentie
 
-AI heeft al succesvolle toepassingen: gezichtsherkenning in China om toegang te verlenen tot gebouwen, AI-systemen die specialisten evenaren in de diagnose van huidkanker, AlphaGo Zero dat zelf go leerde spelen enkel door te spelen tegen zichzelf (Steels et al., 2017).
+AI heeft al succesvolle toepassingen: gezichtsherkenning in China om toegang te verlenen tot gebouwen, AI-systemen die specialisten evenaren in de diagnose van huidkanker, AlphaGo Zero dat zelf Go leerde spelen enkel door te spelen tegen zichzelf (Steels et al., 2017).
 
 Een definitie geven van kunstmatige intelligentie, iets dat in zoveel verschillende domeinen wordt ingezet, is geen sinecure. Dus behalve van intelligentie, zijn er ook van AI al **tal van definities** gegeven: 
 
@@ -58,12 +58,12 @@ Een definitie geven van kunstmatige intelligentie, iets dat in zoveel verschille
 ----------
 #### Bronnen
 
-Boden, M. A. (2016). *AI. Its nature and future.* Oxford, Verenigd Koninkrijk: Oxford University Press.
+Boden, M. A. (2016). *AI: Its nature and future.* Oxford, Verenigd Koninkrijk: Oxford University Press.
 
 Legg, S. & Hutter, M. (2007). *Universal Intelligence: A Definition of Machine Intelligence.* Minds & Machines, *17*(4), 391–444.
 
 PwC (2018). *Benchmark studie over artificiële intelligentie, uitgevoerd in opdracht van het Departement Economie, Wetenschap en Innovatie van de Vlaamse Overheid. Rapport PwC.* Geraadpleegd op 29 mei 2019 via https://www.ewi-vlaanderen.be/sites/default/files/bestanden/departement_economie_wetenschap_en_innovatie_-_benchmark_studie_over_artificiele_intelligentie.pdf
 
-Steels, L., Berendt, B., Pizurica, A., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
+Steels, L., Berendt, B., Pizurica, A., Van Dyck, D., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
 
-Tegmark, M. (2017). *LIFE 3.0*. New York, Verenigde Staten: Vintage Books, Penguin Random House, eerste editie edition.
+Tegmark, M. (2017). *LIFE 3.0*. New York, Verenigde Staten: Vintage Books, Penguin Random House, eerste editie.

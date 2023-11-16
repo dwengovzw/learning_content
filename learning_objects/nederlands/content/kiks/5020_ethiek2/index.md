@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Bias bij KIKS
 
-Het KIKS-model bevat ook een bias. De foto’s van de trainingset zijn zo gemaakt dat de huidmondjes erop ongeveer passen in een vak van **120 op 120 pixels**.
+Het KIKS-model bevat ook een bias. De foto’s van de trainingset zijn zo gemaakt dat de huidmondjes erop ongeveer passen in een vak van **120 X 120 pixels**.
 Deze voorbeelden zijn afdrukken van bladeren genomen met transparante nagellak. Dat heeft als gevolg dat het model het best zal presteren op afbeeldingen
 van even grote huidmondjes in een gelijkaardige, **groengrijze kleur**.
 
@@ -41,6 +41,6 @@ van even grote huidmondjes in een gelijkaardige, **groengrijze kleur**.
     <figcaption align = "center">Voorbeelden stomata uit de trainingset.</figcaption>
 </figure> 
 
-Dat betekent ook dat als je een microfoto aan het netwerk aanbiedt met te kleine huidmondjes of met veel verschillende kleuren, het netwerk de huidmondjes op die foto misschien niet goed detecteert.
+Dat betekent ook dat, als je een microfoto aan het netwerk aanbiedt met te kleine huidmondjes of met veel verschillende kleuren, het netwerk de huidmondjes op die foto misschien niet goed detecteert.
 
 

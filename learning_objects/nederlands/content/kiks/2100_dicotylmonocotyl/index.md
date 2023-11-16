@@ -33,14 +33,14 @@ teacher_exclusive: false
 
 ![](embed/bladstructuur.png "Bladstructuur")
 <figure>
-    <figcaption align = "center">Figuur 1: Bladstructuur (Zephyris, 2011)</figcaption>
+    <figcaption align = "center">Figuur 1: Bladstructuur (Zephyris, 2011).</figcaption>
 </figure>
 
 Een huidmondje ligt tussen twee sluitcellen (zoals te zien op de bladstructuur in Figuur 1). Als de sluitcellen in volume toenemen, gaat het huidmondje open. De sluitcellen nemen in volume toe door het opnemen van water. Het gevolg is dat de sluitcellen krommen, waardoor het huidmondje opent (Zie Figuur 2).
 
 ![](embed/stomata.png "Stomata")
 <figure>
-    <figcaption align = "center">Figuur 2: Gesloten en open huidmondje</figcaption>
+    <figcaption align = "center">Figuur 2: Gesloten en open huidmondje.</figcaption>
 </figure>
 
 **Stomata kunnen op beide zijden van een blad voorkomen (amphistomateus), of op slechts één zijde, meestal de onderkant (hypostomateus), uitzonderlijk de bovenkant (epistomateus), bv. bij een waterlelie.**<br>
@@ -50,7 +50,7 @@ Stomata geven informatie over de plaats van de plant in de stamboom van de bloem
 
 ![](embed/cotylen.png "Monocotyl en dicotyl")
 <figure>
-    <figcaption align = "center">Figuur 3: Monocotylen en dicotylen</figcaption>
+    <figcaption align = "center">Figuur 3: Monocotylen en dicotylen.</figcaption>
 </figure>
 
 <div class="alert alert-box alert-success">

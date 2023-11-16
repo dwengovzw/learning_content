@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 
 # Parameters in het convolutioneel neuraal netwerk van KIKS
-In deze notebook train en test je jouw eigen diep neuraal netwerk om stomata te detecteren op microscopische foto's.<br> Je past daarvoor de parammeters aan in een bestaande netwerkarchitectuur, zoals het aantal lagen in het netwerk, het aantal epochs en de leersnelheid.
+In deze notebook train en test je jouw eigen diep neuraal netwerk om stomata te detecteren op microscopische foto's.<br> Je past daarvoor de parameters aan in een bestaande netwerkarchitectuur, zoals het aantal lagen in het netwerk, het aantal epochs en de leersnelheid.
 
 
 

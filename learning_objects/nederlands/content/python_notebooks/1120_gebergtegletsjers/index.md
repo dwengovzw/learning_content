@@ -40,9 +40,9 @@ Hier werk je met data van 2 Zwitserse gletsjers.
 Je bestudeert de inkrimping van de Morteratsch in een geleid voorbeeld. 
 ![Gebergtegletsjer](embed/morteratsch2018lvt.jpg "Morteratsch-gletsjer")
 <figure>
-    <figcaption align = "center">Lander Van Tricht. Morteratsch-gletsjer (2018).</figcaption>
+    <figcaption align = "center">Lander Van Tricht. Morteratschgletsjer (2018).</figcaption>
 </figure>
 
-Nadien wacht je een opdracht over de Silvretta-gletsjer.
+Nadien wacht je een opdracht over de Silvrettagletsjer.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1120 "Notebooks Klimaatverandering")
