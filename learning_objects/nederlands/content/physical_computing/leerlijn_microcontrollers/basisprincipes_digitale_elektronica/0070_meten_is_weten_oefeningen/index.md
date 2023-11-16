@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Meten is weten (oefeningen)
 
-Hieronder vind je een aantal complexere oefeningen om je meetvaardigheden te oefenen. Zorg ervoor dat je de multimeter altijd **correct instelt** zodat je die niet kapot maakt!
+<p>Hieronder vind je een aantal complexere oefeningen om je meetvaardigheden te oefenen. Zorg ervoor dat je de multimeter altijd **correct instelt** zodat je die niet kapot maakt!</p>
 
 
 <div class="dwengo-content assignment">
