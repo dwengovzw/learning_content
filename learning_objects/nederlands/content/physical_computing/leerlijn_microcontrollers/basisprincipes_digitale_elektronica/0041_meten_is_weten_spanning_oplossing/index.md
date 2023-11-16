@@ -25,7 +25,7 @@ teacher_exclusive: true
 # Meten is weten (spanning): oplossing
 
 <ul>
-    <li>Wat gebeurd er met de spanning als je de probes omwisselt?<br><em>Het teken van de spanning draait om.</em></li>
+    <li>Wat gebeurd er met de spanning als je de meetsnoeren omwisselt?<br><em>Het teken van de spanning draait om.</em></li>
     <li>Wat gebeurd er met de spanning als je een weerstand met een andere waarde neemt?<br><em>Hoe hoger de weerstand, hoe groter de absolute waarde van de spanning.</em></li>
 </ul>
 

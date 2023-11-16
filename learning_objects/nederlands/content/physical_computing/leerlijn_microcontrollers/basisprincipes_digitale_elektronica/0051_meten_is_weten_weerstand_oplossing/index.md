@@ -25,7 +25,7 @@ teacher_exclusive: true
 # Meten is weten (weerstand): oplossing
 
 <ul>
-    <li>Wat gebeurd er met de weerstand als je de probes omwisselt?<br><em>Niets, de weerstandswaarde is dezelfde.</em></li>
+    <li>Wat gebeurd er met de weerstand als je de meetsnoeren omwisselt?<br><em>Niets, de weerstandswaarde is dezelfde.</em></li>
 </ul>
 
 

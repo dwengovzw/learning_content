@@ -24,16 +24,16 @@ teacher_exclusive: false
 
 # Meten is weten (spanning)
 
-Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee punten. Vaak is één van deze twee punten de referentiespanning of GND maar dat is niet noodzakelijk. De spanningswaarde die we meten is dus steeds het verschil tussen de spanning op elk van de probes van de multimeter. Verbinden we de zwarte probe van de multimeter met een draad waar 5V op staat en de rode probe met een draad waar 2V op staat, dan zal de multimeter de waarde -3V (= 2V - 5V) tonen. Om de spanning te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
+Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee punten. Vaak is één van deze twee punten de referentiespanning of GND maar dat is niet noodzakelijk. De spanningswaarde die we meten is dus steeds het verschil tussen de spanning op elk van de meetsnoeren van de multimeter. Verbinden we het zwarte meetsnoer van de multimeter met een draad waar 5V op staat en het rode meetsnoer met een draad waar 2V op staat, dan zal de multimeter de waarde -3V (= 2V - 5V) tonen. Om de spanning te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
 
 ## Instellen van de multimeter
 
-### Verbinden van de probes
+### Verbinden van de meetsnoeren
 
-Om spanning te meten pluggen we de probes in in de volgende poorten op de multimeter.
+Om spanning te meten pluggen we de meetsnoeren in in de volgende poorten op de multimeter.
 
-<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> V </span><br><br>
-<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte probe</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> V </span><br><br>
+<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
 
 ### Modus van de multimeter
 We willen graag gelijkspanning meten. Het icoontje voor gelijkstroom of spanning is ⎓, het icoontje voor voltage is V. Kies de instelling die deze icoontjes combineert.
@@ -44,14 +44,14 @@ TODO: voeg foto toe.
 <div class="dwengo-content assignment">
     <h2>Opdracht</h2>
     <p>
-        Hieronder zie je een circuit, bouw dit circuit na en meet de spanning over de weerstand R1 (=440 Ω) door de probes van de multimeter te verbinden met de punten a en b.
+        Hieronder zie je een circuit, bouw dit circuit na en meet de spanning over de weerstand R1 (=440 Ω) door de meetsnoeren van de multimeter te verbinden met de punten a en b.
     </p>
     <p>
         <img src="img/diagram.svg"></img>
     </p>
     <p>
         <ul>
-            <li>Wat gebeurd er met de spanning als je de probes omwisselt?</li>
+            <li>Wat gebeurd er met de spanning als je de meetsnoeren omwisselt?</li>
             <li>Wat gebeurd er met de spanning als je een weerstand met een andere waarde neemt?</li>
         </ul>
     </p>
