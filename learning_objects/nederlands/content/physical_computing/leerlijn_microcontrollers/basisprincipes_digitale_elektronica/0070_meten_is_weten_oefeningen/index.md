@@ -31,7 +31,7 @@ teacher_exclusive: false
     <h2>Opdracht 1</h2>
     <p>
         <p>Je krijgt van de leerkracht de volgende schakeling:</p>
-        <img src="img/diagram_01.svg"></img>
+        <img src="img/diagram_01.svg">
         <p>Gebruik de multimeter om de volgende vragen te beantwoorden.</p>
         <ul>
             <li>Meet de weerstandswaarde van R1.</li>
