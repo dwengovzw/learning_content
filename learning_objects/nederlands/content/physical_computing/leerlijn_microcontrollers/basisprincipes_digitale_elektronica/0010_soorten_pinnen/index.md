@@ -139,8 +139,8 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
 </table>
 
 <div class="dwengo-content sideinfo">
-    <h2>Wist je dat</h2>
-    <p>
+    <h2 class="title">Wist je dat</h2>
+    <div class="content">
     Het lcd-scherm is heel handig om fouten in je code op te sporen. Je kan het bijvoorbeeld gebruiken om waarden van variabelen te tonen tijdens de uitvoering van je progamma. Om het lcd-scherm aan te sluiten op de µC heb je heel wat draden nodig. Op het Dwenguino bord is het scherm al aanwezig. Dat bespaart je in de klas heel wat tijd.
-    </p>
+    </div>
 </div>

@@ -50,17 +50,17 @@ TODO: voeg foto toe.
 
 
 <div class="dwengo-content assignment">
-    <h2>Opdracht</h2>
-    <p>
-        Hieronder zie je een circuit, bouw dit circuit na en meet de stroom door de weerstand R1 (=440 Ω) door de meetsnoeren van de multimeter te verbinden met de punten a en b.
-    </p>
-    <p>
-        <img src="img/diagram.svg"></img>
-    </p>
-    <p>
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>
+            Hieronder zie je een circuit, bouw dit circuit na en meet de stroom door de weerstand R1 (=440 Ω) door de meetsnoeren van de multimeter te verbinden met de punten a en b.
+        </p>
+        <p>
+            <img src="img/diagram.svg"></img>
+        </p>
         <ul>
             <li>Wat gebeurd er met de stroom als je de meetsnoeren omwisselt?</li>
             <li>Wat gebeurd er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?</li>
         </ul>
-    </p>
+    </div>
 </div>

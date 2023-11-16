@@ -33,15 +33,19 @@ Een pull-up weerstand wordt gebruikt om ervoor te zorgen dat een pin van de µC 
 
 
 <div class="dwengo-content assignment">
-<h2>Inzichtsvraag</h2>
-    <p>
-        Waarom gebruiken we hier een weerstand en verbinden we de pin niet gewoon met de 5V lijn?
-    </p>
+    <h2 class="title">Inzichtsvraag</h2>
+    <div class="content">
+        <p>
+            Waarom gebruiken we hier een weerstand en verbinden we de pin niet gewoon met de 5V lijn?
+        </p>
+    </div>
 </div>
 
 <div class="dwengo-content assignment">
-<h2>Inzichtsvraag</h2>
-    <p>
-        Er bestaat ook een pull-down weerstand. Deze zorgt ervoor dat de waarde van de pin laag is tot de knop wordt ingedrukt. Kan jij het schema tekenen van een pull-down weerstand?
-    </p>
+    <h2 class="title">Inzichtsvraag</h2>
+    <div class="content">
+        <p>
+            Er bestaat ook een pull-down weerstand. Deze zorgt ervoor dat de waarde van de pin laag is tot de knop wordt ingedrukt. Kan jij het schema tekenen van een pull-down weerstand?
+        </p>
+    </div>
 </div>

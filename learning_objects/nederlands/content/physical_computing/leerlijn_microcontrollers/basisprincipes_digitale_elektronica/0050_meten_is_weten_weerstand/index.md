@@ -42,18 +42,18 @@ TODO: voeg foto toe.
 
 
 <div class="dwengo-content assignment">
-    <h2>Opdracht</h2>
-    <p>
-        Hieronder zie je een circuit. Je krijgt deze schakeling van de leerkracht. Meet de weerstand van R1 door de meetsnoeren van de multimeter te verbinden met de punten a en b.
-    </p>
-    <p>
-        <img src="img/diagram.svg"></img>
-    </p>
-    <p>
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>
+            Hieronder zie je een circuit. Je krijgt deze schakeling van de leerkracht. Meet de weerstand van R1 door de meetsnoeren van de multimeter te verbinden met de punten a en b.
+        </p>
+        <p>
+            <img src="img/diagram.svg"></img>
+        </p>
         <ul>
             <li>Wat gebeurd er met de weerstand als je de meetsnoeren omwisselt?</li>
         </ul>
-    </p>
+    </div>
 </div>
 
 

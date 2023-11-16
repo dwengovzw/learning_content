@@ -41,12 +41,14 @@ In dit schema zijn R1 en R2 constant maar in een schakeling kunnen we R2 vervang
 
 
 <div class="dwengo-content assignment">
-    <h2>Opdracht</h2>
-    <p>
-        Hieronder zie je de weerstand van een GL55 lichtsensor in functie van de lichtsterkte:
-    </p>
-    <img src="img/sensor_karakteristiek.png" alt="Weerstand van een GL55 lichtsensor." title="Weerstand van een GL55 lichtsensor.">
-    <p>
-        Welke waarde moet de weerstand R1 hebben om ervoor te zorgen dat de µC een lichtsignaal detecteert vanaf ongeveer 10 Lux?
-    </p>
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>
+            Hieronder zie je de weerstand van een GL55 lichtsensor in functie van de lichtsterkte:
+        </p>
+        <img src="img/sensor_karakteristiek.png" alt="Weerstand van een GL55 lichtsensor." title="Weerstand van een GL55 lichtsensor.">
+        <p>
+            Welke waarde moet de weerstand R1 hebben om ervoor te zorgen dat de µC een lichtsignaal detecteert vanaf ongeveer 10 Lux?
+        </p>
+    </div>
 </div>
