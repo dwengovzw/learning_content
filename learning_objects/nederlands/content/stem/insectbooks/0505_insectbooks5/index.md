@@ -55,11 +55,11 @@ In dit leerobject wordt van de leerlingen gevraagd om verschillende grafieken te
 
 - Een nieuwe figuur wordt aangemaakt
 
-- De eerder gegenereerde data wordt geplot
+- De eerder gegenereerde data worden geplot
 
 - De assen worden benoemd
 
-- Een titel wordt voorzien
+- Er wordt voorzien in een titel
 
 - De grafiek wordt getoond
 
@@ -67,25 +67,25 @@ Eigen accenten kunnen hierbij gelegd worden door de leerkracht. Zo kunnen divers
 
 ## Chaostheorie
 
-Doorheen het leerobject zullen de leerlingen ontdekken dat een zekere willekeur onstaat wanneer bepaalde waarden voor de groeifactor $a$ gebruikt worden. Hierbij wordt verwezen naar de chaostheorie, die stelt dat kleine verschillen in de startcondities van een systeem kunnen leiden tot grote verschillen in de uitkomst. Om dit chaotische gedrag te kaderen, wordt een apart leerobject voorzien.
+Doorheen het leerobject zullen de leerlingen ontdekken dat een zekere willekeur onstaat wanneer bepaalde waarden voor de groeifactor $a$ gebruikt worden. Hierbij wordt verwezen naar de chaostheorie, die stelt dat kleine verschillen in de startcondities van een systeem kunnen leiden tot grote verschillen in de uitkomst. Om dit chaotische gedrag te kaderen, wordt in een apart leerobject voorzien.
 
 ## Python
 
-Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
+Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te maken en grafieken te genereren. Het is als leerkracht belangrijk om te weten:
 
-- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
+- welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt;
 
-- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
+- hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden;
 
-- te weten hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden
+- hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden;
 
-- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
+- hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken;
 
-- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken
+- hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken;
 
-- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
+- hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren.
 
-Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd in het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
 
 ## Minimumdoelen
 
@@ -168,8 +168,8 @@ Technologische wetenschappen en Engineering
 
 Bedrijfswetenschappen (GO!)
 
-<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Er wordt voorzien in het nodige commentaar, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
 
 #### Biotechnologische en chemische STEM-wetenschappen B+S
 
@@ -179,5 +179,5 @@ Biotechnologische en chemische STEM-wetenschappen
 
 Mechatronica
 
-<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Er wordt voorzien in het nodige commentaar, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.

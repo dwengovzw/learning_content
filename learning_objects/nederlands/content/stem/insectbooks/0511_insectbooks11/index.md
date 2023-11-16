@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # De eindige differentiemethode
 
-In dit leerobject wordt de eindige differentiemethode uitgelegd, die gebruik maakt van het differentiequotiënt om de afgeleide van een functie voor een gegeven waarde te schatten:
+In dit leerobject wordt de eindige differentiemethode uitgelegd, die gebruikmaakt van het differentiequotiënt om de afgeleide van een functie voor een gegeven waarde te schatten:
 
 \\[f'(t) = \frac{\text{d}f(t)}{\text{d}t} \approx \frac{f(t + \Delta t) - f(t)}{\Delta t}\\]
 
@@ -41,23 +41,23 @@ Een concreet voorbeeld wordt gegeven voor de functie \\(f\\) met voorschrift \\(
 
 Een functie `plot_afgeleide` wordt gegeven, die het mogelijk maakt om de afgeleide van de functie \\(f\\) te plotten in een grafiek, samen met een schatting van de functiewaarden op basis van de eindige differentiemethode. Deze Pythonfunctie heeft het tijdsinterval \\(\Delta t\\) als input, wat het mogelijk maakt om te experimenteren met verschillende waarden voor deze parameter; hierdoor kan de leerling de impact van een groter/kleiner tijdsinterval onderzoeken.
 
-Bij wijze van uitbreiding kan de leerkracht alternatieve functies laten onderzoeken, of de leerlingen vragen om een tijdsinterval \\(\Delta t\\) te zoeken waarvoor de afwijking ten opzichte van de werkelijke waarden een gegeven drempelwaarde niet overschrijdt. Ook kan gevraagd worden om een enkele grafiek te voorzien, waarin de bekomen resultaten geplot worden voor verschillende waarden van het tijdsinterval, en dit met een bijhorende legende.
+Bij wijze van uitbreiding kan de leerkracht alternatieve functies laten onderzoeken, of de leerlingen vragen om een tijdsinterval \\(\Delta t\\) te zoeken waarvoor de afwijking ten opzichte van de werkelijke waarden een gegeven drempelwaarde niet overschrijdt. Ook kan gevraagd worden om in een enkele grafiek te voorzien, waarin de bekomen resultaten geplot worden voor verschillende waarden van het tijdsinterval, en dit met een bijbehorende legende.
 
 ## Python
 
-Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
+Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te maken en grafieken te genereren. Het is als leerkracht belangrijk om te weten:
 
-- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
+- welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt;
 
-- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
+- hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden;
 
-- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
+- hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken;
 
-- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen
+- hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te genereren;
 
-- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
+- hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren.
 
-Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd in het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
 
 ## Minimumdoelen
 
@@ -119,8 +119,8 @@ Technologische wetenschappen en Engineering
 
 Bedrijfswetenschappen (GO!)
 
-<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Er wordt voorzien in het nodige commentaar, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
 
 #### Biotechnologische en chemische STEM-wetenschappen B+S
 
@@ -130,5 +130,5 @@ Biotechnologische en chemische STEM-wetenschappen
 
 Mechatronica
 
-<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Er wordt voorzien in het nodige commentaar, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
