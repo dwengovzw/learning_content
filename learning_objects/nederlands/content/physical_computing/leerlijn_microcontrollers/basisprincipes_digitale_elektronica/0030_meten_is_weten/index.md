@@ -24,11 +24,11 @@ teacher_exclusive: false
 
 # Meten is weten
 
-De begrippen spanning, weerstand en stroom zijn relatief abstract. Om inzicht te krijgen in wat deze begrippen nu juist betekenen, meet je van bestaande schakelingen de spanning, weerstand en stroom. Om deze waarden te meten maken we gebruik van een **multimeter**. Dit apparaat kan je gebruiken om spanning, weerstand en stroom te meten. Hieronder zie je een afbeelding van zo'n multimeter. De multimeter heeft twee **probes** die we kunnen gebruiken om een verbinding te maken tussen onze schakeling en de multimeter.
+De begrippen spanning, weerstand en stroom zijn relatief abstract. Om inzicht te krijgen in wat deze begrippen nu juist betekenen, meet je van bestaande schakelingen de spanning, weerstand en stroom. Om deze waarden te meten maken we gebruik van een **multimeter**. Dit apparaat kan je gebruiken om spanning, weerstand en stroom te meten. Hieronder zie je een afbeelding van zo'n multimeter. De multimeter heeft twee **meetsnoeren** die we kunnen gebruiken om een verbinding te maken tussen onze schakeling en de multimeter.
 
 TODO: Voeg afbeelding van multimeter toe met beschrijving van aanslutingen in instellingen.
 
-TODO: Voeg een afbeelding van de probes van de multimeter toe.
+TODO: Voeg een afbeelding van de meetsnoeren van de multimeter toe.
 
 
 

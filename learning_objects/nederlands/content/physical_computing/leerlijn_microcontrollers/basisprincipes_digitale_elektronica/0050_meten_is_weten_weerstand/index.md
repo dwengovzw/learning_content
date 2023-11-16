@@ -24,16 +24,16 @@ teacher_exclusive: false
 
 # Meten is weten (weerstand)
 
-Weerstand kunnen we meten op een gelijkaardige manier meten als spanning. De weerstand meet je wanneer de schakeling **niet verbonden is met een spanningsbron!** Ook haal je best de component waarvan je de weerstand wil meten, indien mogelijk, uit de schakeling. Meet de weerstand van een component door elk van de aansluitingen van de component te verbinden met één van de probes van de multimeter.
+Weerstand kunnen we meten op een gelijkaardige manier meten als spanning. De weerstand meet je wanneer de schakeling **niet verbonden is met een spanningsbron!** Ook haal je best de component waarvan je de weerstand wil meten, indien mogelijk, uit de schakeling. Meet de weerstand van een component door elk van de aansluitingen van de component te verbinden met één van de meetsnoeren van de multimeter.
 
 ## Instellen van de multimeter
 
-### Verbinden van de probes
+### Verbinden van de meetsnoeren
 
-Om weerstand te meten pluggen we de probes in in de volgende poorten op de multimeter.
+Om weerstand te meten pluggen we de meetsnoeren in in de volgende poorten op de multimeter.
 
-<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> Ω </span><br><br>
-<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte probe</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> Ω </span><br><br>
+<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
 
 ### Modus van de multimeter
 Het icoontje voor weerstand is Ω. Zoek de instelling met dit icoontje.
@@ -44,14 +44,14 @@ TODO: voeg foto toe.
 <div class="dwengo-content assignment">
     <h2>Opdracht</h2>
     <p>
-        Hieronder zie je een circuit. Je krijgt deze schakeling van de leerkracht. Meet de weerstand van R1 door de probes van de multimeter te verbinden met de punten a en b.
+        Hieronder zie je een circuit. Je krijgt deze schakeling van de leerkracht. Meet de weerstand van R1 door de meetsnoeren van de multimeter te verbinden met de punten a en b.
     </p>
     <p>
         <img src="img/diagram.svg"></img>
     </p>
     <p>
         <ul>
-            <li>Wat gebeurd er met de weerstand als je de probes omwisselt?</li>
+            <li>Wat gebeurd er met de weerstand als je de meetsnoeren omwisselt?</li>
         </ul>
     </p>
 </div>

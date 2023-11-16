@@ -24,23 +24,23 @@ teacher_exclusive: false
 
 # Meten is weten (stroom)
 
-Om de stroom te kunnen meten moet er ook effectief stroom door onze multimeter lopen. We moeten onze multimeter dus in **serie** aansluiten op onze schakeling. We moeten onze schakeling dus onderbreken en de probes van de multimeter verbinden met elk van de kanten van de onderbreking. Om de stroom te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
+Om de stroom te kunnen meten moet er ook effectief stroom door onze multimeter lopen. We moeten onze multimeter dus in **serie** aansluiten op onze schakeling. We moeten onze schakeling dus onderbreken en de meetsnoeren van de multimeter verbinden met elk van de kanten van de onderbreking. Om de stroom te kunnen meten moet de schakeling **verbonden zijn met een spanningsbron!**
 
 ## Instellen van de multimeter
 
-### Verbinden van de probes
+### Verbinden van de meetsnoeren
 
-Om spanning te meten pluggen we de probes in in de volgende poorten op de multimeter.
+Om spanning te meten pluggen we de meetsnoeren in in de volgende poorten op de multimeter.
 
-<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte probe</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
+<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
 
-Waar je de rode probe inplugt hangt af van de verwachte stroom die je gaat meten. Is die niet groter dan 400 mA:
+Waar je de rode meetsnoer inplugt hangt af van de verwachte stroom die je gaat meten. Is die niet groter dan 400 mA:
 
-<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 400 mA </span><br>
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 400 mA </span><br>
 
 Is die niet groter dan 10A
 
-<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode probe</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 10 A </span><br>
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 10 A </span><br>
 
 
 ### Modus van de multimeter
@@ -52,14 +52,14 @@ TODO: voeg foto toe.
 <div class="dwengo-content assignment">
     <h2>Opdracht</h2>
     <p>
-        Hieronder zie je een circuit, bouw dit circuit na en meet de stroom door de weerstand R1 (=440 Ω) door de probes van de multimeter te verbinden met de punten a en b.
+        Hieronder zie je een circuit, bouw dit circuit na en meet de stroom door de weerstand R1 (=440 Ω) door de meetsnoeren van de multimeter te verbinden met de punten a en b.
     </p>
     <p>
         <img src="img/diagram.svg"></img>
     </p>
     <p>
         <ul>
-            <li>Wat gebeurd er met de stroom als je de probes omwisselt?</li>
+            <li>Wat gebeurd er met de stroom als je de meetsnoeren omwisselt?</li>
             <li>Wat gebeurd er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?</li>
         </ul>
     </p>
