@@ -39,7 +39,7 @@ unsigned int analoge_waarde_pin_A0 = analogRead(A0);
     <h2 class="title">Inzichtsvraag</h2>
     <div class="content">
         <p>
-        Waarom gebruiken we bij het lezen van analoge invoer int als type van de variabele <code class="language-cpp">unsigned int</code> wanneer we bij het lezen van digitale invoer het type <code class="language-cpp">unsigned char</code> gebruiken?
+        Waarom gebruiken we bij het lezen van analoge invoer <code class="language-cpp">unsigned int</code> als type van de variabele <code class="language-cpp">analoge_waarde_pin_A0 </code> wanneer we bij het lezen van digitale invoer het type <code class="language-cpp">unsigned char</code> gebruiken?
         </p>
     </div>
 </div>

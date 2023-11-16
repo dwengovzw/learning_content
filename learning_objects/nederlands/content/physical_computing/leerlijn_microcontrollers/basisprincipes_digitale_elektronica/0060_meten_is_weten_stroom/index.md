@@ -59,8 +59,8 @@ TODO: voeg foto toe.
             <img src="img/diagram.svg"></img>
         </p>
         <ul>
-            <li>Wat gebeurd er met de stroom als je de meetsnoeren omwisselt?</li>
-            <li>Wat gebeurd er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?</li>
+            <li>Wat gebeurt er met de stroom als je de meetsnoeren omwisselt?</li>
+            <li>Wat gebeurt er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?</li>
         </ul>
     </div>
 </div>

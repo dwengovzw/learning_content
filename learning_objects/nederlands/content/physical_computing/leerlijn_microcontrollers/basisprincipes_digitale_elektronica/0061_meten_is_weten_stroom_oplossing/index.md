@@ -27,8 +27,8 @@ teacher_exclusive: true
 Maak voor deze schakeling gebruik van een weerstand van ongeveer 1KΩ
 
 <ul>
-    <li>Wat gebeurd er met de stroom als je de meetsnoeren omwisselt?<br><em>Het teken van de stroom draait om.</em></li>
-    <li>Wat gebeurd er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?<br><em>De stroom is omgekeerd evenredig met de weerstand. Hoe lager de weerstand, hoe hoger de stroom.</em></li>
+    <li>Wat gebeurt er met de stroom als je de meetsnoeren omwisselt?<br><em>Het teken van de stroom draait om.</em></li>
+    <li>Wat gebeurt er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?<br><em>De stroom is omgekeerd evenredig met de weerstand. Hoe lager de weerstand, hoe hoger de stroom.</em></li>
 </ul>
 
 
