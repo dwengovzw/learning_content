@@ -37,7 +37,7 @@ We weten ook dat het spanningsniveau waarop de µC van een logische 0 naar een l
 
 Verder kunnen we uit de grafiek met de karakteristiek van de lichtsensor aflezen dat die bij een lichtintensiteit van 10 Lux een weerstand van ongeveer 10KΩ zal hebben.
 
-\\[R_2 = 10K\\,\mathrm{\Omega}\\]
+\\[R_2 = 10\\,\mathrm{K\Omega}\\]
 
 Deze waarden kunnen we nu invullen in de formule.
 
@@ -60,5 +60,5 @@ We lossen de vergelijking op om de waarde van R1 te bepalen.
 \\[R_1 = \frac{37}{1.3}\\,\mathrm{K\Omega} \thickapprox 28.46\\,\mathrm{K\Omega}\\]
 
 
-Merk op dat de verhouding tussen de berekende weerstanden (10\\,\mathrm{K\Omega} en 28.46\\,\mathrm{K\Omega}) gelijk is aan de verhouding tussen de spanningsniveau's (1.3\\,\mathrm{V} en 3.7\\,\mathrm{V}).
+Merk op dat de verhouding tussen de berekende weerstanden (\\(10\\,\mathrm{K\Omega} en 28.46\\,\mathrm{K\Omega}\\)) gelijk is aan de verhouding tussen de spanningsniveau's (\\(1.3\\,\mathrm{V} en 3.7\\,\mathrm{V}\\)).
 
