@@ -36,7 +36,7 @@ Om weerstand te meten pluggen we de probes in in de volgende poorten op de multi
 <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte probe</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
 
 ### Modus van de multimeter
-We willen graag de weerstand. Het icoontje voor weerstand is Ω.
+Het icoontje voor weerstand is Ω. Zoek de instelling met dit icoontje.
 
 TODO: voeg foto toe.
 
