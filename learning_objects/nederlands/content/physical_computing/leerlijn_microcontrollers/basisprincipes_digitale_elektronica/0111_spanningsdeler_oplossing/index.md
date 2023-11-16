@@ -60,5 +60,5 @@ We lossen de vergelijking op om de waarde van R1 te bepalen.
 \\[R_1 = \frac{37}{1.3}\\,\mathrm{K\Omega} \thickapprox 28.46\\,\mathrm{K\Omega}\\]
 
 
-Merk op dat de verhouding tussen de berekende weerstanden (\\(10\\,\mathrm{K\Omega} en 28.46\\,\mathrm{K\Omega}\\)) gelijk is aan de verhouding tussen de spanningsniveau's (\\(1.3\\,\mathrm{V} en 3.7\\,\mathrm{V}\\)).
+Merk op dat de verhouding tussen de berekende weerstanden (\\(10\\,\mathrm{K\Omega}\\) en \\(28.46\\,\mathrm{K\Omega}\\)) gelijk is aan de verhouding tussen de spanningsniveau's (\\(1.3\\,\mathrm{V}\\) en \\(3.7\\,\mathrm{V}\\)).
 
