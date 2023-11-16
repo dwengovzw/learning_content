@@ -2,7 +2,7 @@
 hruid: leerlijn_invoer_basisprincipes_wet_van_ohm
 version: 1
 language: nl
-title: "\\(U = R \cdot I\\)"
+title: "U = R . I"
 description: "De wet van ohm?"
 keywords: ["spanning", "stroom", "weerstand", "wet van ohm", "basisprincipes", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
