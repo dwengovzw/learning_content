@@ -31,4 +31,4 @@ We krijgen bijvoorbeeld kortsluiting als we de Vcc en GND van onze µC rechtstre
 
 \\[\mathrm I = \frac{5\mathrm V}{1.7 \times 10^{-9} \mathrm\Omega} = 2.9 \cdot 10^9 \mathrm A = 2.9 \mathrm G\mathrm A\\]
 
-Om dit in perspectief te plaatsen, een stroom van 0.1A kan fataal zijn voor de mens. 2.9GA is dus zeker fataal voor de µC!
+Om dit in perspectief te plaatsen, een stroom van \\(0.1\mathrm A\\) kan fataal zijn voor de mens. \\(2.9G\mathrm A\\) is dus zeker fataal voor de µC!
