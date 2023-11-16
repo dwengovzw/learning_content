@@ -22,9 +22,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Meten is weten (oefeningen)
+<h1>Meten is weten (oefeningen)</h1>
 
-<p>Hieronder vind je een aantal complexere oefeningen om je meetvaardigheden te oefenen. Zorg ervoor dat je de multimeter altijd **correct instelt** zodat je die niet kapot maakt!</p>
+<p>Hieronder vind je een aantal complexere oefeningen om je meetvaardigheden te oefenen. Zorg ervoor dat je de multimeter altijd <strong>correct instelt</strong> zodat je die niet kapot maakt!</p>
 
 
 <div class="dwengo-content assignment">
