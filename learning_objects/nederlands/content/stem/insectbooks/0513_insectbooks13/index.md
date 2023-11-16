@@ -41,9 +41,9 @@ Specifiek gericht op het probleem met bladluizen, wordt de groei van de populati
 
 Hierbij stellen \(r = a - 1\) het groeipercentage en \(K\) de draagkracht voor en stelt \(y\) de populatiegrootte voor. \(\dot{y}\) is dan de afgeleide van \(y\), die de leerlingen iets vertelt over de verandering van de populatiegrootte:
 
-- Wanneer \(\dot{y} > 0\), zal de populatiegrootte stijgen
-- Wanneer \(\dot{y} < 0\), zal de populatiegrootte dalen
-- Wanneer \(\dot{y} = 0\), zal er geen verandering zijn en blijft de populatiegrootte constant
+- wanneer \(\dot{y} > 0\), zal de populatiegrootte stijgen;
+- wanneer \(\dot{y} < 0\), zal de populatiegrootte dalen;
+- wanneer \(\dot{y} = 0\), zal er geen verandering zijn en blijft de populatiegrootte constant.
 
 Het is belangrijk dat de leerlingen inzien dat \(\dot{y}\) **de verandering (groei/afname) van de populatiegrootte** beschrijft, en **niet de populatiegrootte** zelf!
 
@@ -78,7 +78,7 @@ $$
 \end{cases}
 $$
 
-Dit stelsel wordt een **Lotka-Volterravergelijking** genoemd, dat in de ecologie vaak gebruikt wordt om een dynamisch biologisch systeem te beschrijven waarin zowel een prooi (de bladluis) als een predator (het lieveheersbeestje) voorkomt. Het stelsel bestaat uit twee vergelijkingen, met elk twee termen:
+Dit stelsel wordt een **Lotka-Volterravergelijking** genoemd, dat in de ecologie vaak gebruikt wordt om een dynamisch biologisch systeem te beschrijven waarin zowel een prooi (de bladluis) als een predator (het lieveheersbeestje) voorkomen. Het stelsel bestaat uit twee vergelijkingen, met elk twee termen:
 
 - De verandering van de luizenpopulatie doorheen de tijd $\dot{y_1}$
 
@@ -92,25 +92,25 @@ Dit stelsel wordt een **Lotka-Volterravergelijking** genoemd, dat in de ecologie
 
 Bovenstaande vraagt enige uitleg, die klassikaal gegeven kan worden. Daarna kunnen de leerlingen met de voorziene code aan de slag, die het mogelijk maakt om de impact van de verschillende parameters te evalueren door middel van grafieken.
 
-In gerichte opdrachten wordt onder meer gevraagd om te bepalen wanneer beide stelsels in evenwicht zijn. Dit evenwicht wordt eerst wiskundig bepaald, en nadien geverifieerd met behulp van Pythoncode die het mogelijk maakt om een fasediagram van het Lotka-Volterramodel te genereren. In dit diagram worden de populatiegrootte van de jagers en de prooien uitgezet, waarbij een periodisch verloop vastgesteld wordt.
+In gerichte opdrachten wordt onder meer gevraagd om te bepalen wanneer beide stelsels in evenwicht zijn. Dit evenwicht wordt eerst wiskundig bepaald, en nadien geverifieerd met behulp van Python-code die het mogelijk maakt om een fasediagram van het Lotka-Volterramodel te genereren. In dit diagram worden de populatiegrootte van de jagers en de prooien uitgezet, waarbij een periodisch verloop vastgesteld wordt.
 
 ## Python
 
-Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
+Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te maken en grafieken te genereren. Het is als leerkracht belangrijk om te weten:
 
-- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
+- welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt;
 
-- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
+- hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden;
 
-- te weten hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden
+- hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden;
 
-- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
+- hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken;
 
-- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken
+- hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken;
 
-- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
+- hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren.
 
-Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd in het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
 
 ## Minimumdoelen
 
@@ -155,8 +155,8 @@ Technologische wetenschappen en Engineering
 
 Bedrijfswetenschappen (GO!)
 
-<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Er wordt voorzien in het nodige commentaar, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
 
 #### Biotechnologische en chemische STEM-wetenschappen B+S
 
@@ -166,5 +166,5 @@ Biotechnologische en chemische STEM-wetenschappen
 
 Mechatronica
 
-<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Er wordt voorzien in het nodige commentaar, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.

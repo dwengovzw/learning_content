@@ -59,7 +59,7 @@ Deze module kan ingezet worden in de volgende vakken uit de derde graad doorstro
 
 ## Werkwijze
 
-De interactieve notebook voorziet heel wat opdrachten voor de leerlingen, waarbij zij verschillende minimumdoelen nastreven. Belangrijk hierbij is ervoor te zorgen dat er voldoende laptops of computers beschikbaar zijn: bij voorkeur één toestel per leerling. De voorkeur gaat naar een lokaal dat groot genoeg is, zodat leerlingen de vrijheid hebben om te werken en de leerkracht voldoende ruimte heeft om zich te verplaatsen en vragen van leerlingen te beantwoorden.
+De interactieve notebook voorziet in heel wat opdrachten voor de leerlingen, waarbij zij verschillende minimumdoelen nastreven. Belangrijk hierbij is ervoor te zorgen dat er voldoende laptops of computers beschikbaar zijn: bij voorkeur één toestel per leerling. De voorkeur gaat naar een lokaal dat groot genoeg is, zodat leerlingen de vrijheid hebben om te werken en de leerkracht voldoende ruimte heeft om zich te verplaatsen en vragen van leerlingen te beantwoorden.
 
 Op basis van recent onderzoek wordt aangeraden om leerlingen in paren van twee te laten werken aan de verschillende opdrachten, waarbij er een gezonde mix is van leerlingen met en zonder eerdere programmeerervaring. De leerkracht is er bij voorkeur waakzaam voor dat leerlingen die voornamelijk alleen wensen te werken hiertoe de kans krijgen, door hen te paren met leerlingen die een gelijkaardige voorkeur toegedaan zijn. Zij kunnen nog steeds overleggen, maar krijgen zo ook de kans om individueel aan de slag te gaan. Merk op dat dit laatste ook kan bij leerlingen die meer samenwerken: beide leerlingen kunnen individueel typen op een eigen laptop of computer, zodat ze beiden werken aan de vaardigheid van het programmeren. De uiteindelijke keuze voor een of twee apparaten per paar leerlingen ligt bij de leerkracht, die hierbij rekening kan houden met het beschikbare materiaal.
 
@@ -67,11 +67,11 @@ Op basis van recent onderzoek wordt aangeraden om leerlingen in paren van twee t
 
  Om te evalueren of de leerlingen de minimumdoelen bereikt hebben, zijn er een aantal opties:
 
-- De leerkracht beperkt zich tot deze notebook, en vraagt de leerlingen om de notebooks te exporteren naar een PDF-bestand. Dit bestand kan dan online ingediend worden (e.g., via Smartschool) en geëvalueerd worden door de leerkracht.
+- De leerkracht beperkt zich tot deze notebook, en vraagt de leerlingen om de notebooks te exporteren naar een PDF-bestand. Dit bestand kan dan online ingediend worden (e.g. via Smartschool) en geëvalueerd worden door de leerkracht.
 
-- De leerkracht voorziet een tweede notebook met extra oefeningen, waarbij een nieuw probleem gebaseerd op de exponentiële groei vermeld wordt. Reeds bestaande opdrachten kunnen hergebruikt worden, specifiek toegepast op het nieuwe probleem. Leerlingen kunnen hierbij eventueel gebruik maken van de code die ze eerder implementeerden; een programmeur zal immers hetzelfde doen.
+- De leerkracht voorziet in een tweede notebook met extra oefeningen, waarbij een nieuw probleem gebaseerd op de exponentiële groei vermeld wordt. Reeds bestaande opdrachten kunnen hergebruikt worden, specifiek toegepast op het nieuwe probleem. Leerlingen kunnen hierbij eventueel gebruikmaken van de code die ze eerder implementeerden; een programmeur zal immers hetzelfde doen.
 
-De leerkracht kan bij de evaluatie gebruik maken van een rubric, die op voorhand gedeeld wordt met de leerlingen. Zo is het voor hen meteen duidelijk welke zaken belangrijk zijn voor hun leerproces. Ook voor de leerkracht is dit een handig hulpmiddel, dat kan helpen om het evaluatieproces efficiënt en transparant te doen verlopen. Een voorbeeld van een rubric, die de eerste drie leerobjecten omvat, kan hieronder teruggevonden worden.
+De leerkracht kan bij de evaluatie gebruikmaken van een rubric, die op voorhand gedeeld wordt met de leerlingen. Zo is het voor hen meteen duidelijk welke zaken belangrijk zijn voor hun leerproces. Ook voor de leerkracht is dit een handig hulpmiddel, dat kan helpen om het evaluatieproces efficiënt en transparant te doen verlopen. Een voorbeeld van een rubric, die de eerste drie leerobjecten omvat, kan hieronder teruggevonden worden.
 
 ![Rubric](embed/rubric.png "Rubric")
 

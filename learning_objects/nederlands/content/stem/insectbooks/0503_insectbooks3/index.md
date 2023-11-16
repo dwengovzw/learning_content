@@ -65,7 +65,7 @@ In het volgende leerobject wordt het model aangepast om rekening te houden met d
 
 ## Besmettingen met COVID-19
 
-Bij wijze van illustratie, worden gegevens ingelezen vanuit een CSV-bestand, die het aantal besmettingen en het aantal dodelijke slachtoffers door COVID-19 in België beschrijft in de eerste weken van de lockdown in maart 2020. Aan de hand van enkele grafieken wordt het gevaar van onbeperkte groei geïllustreerd. Om de data in te lezen wordt gebruik gemaakt van de `Pandas`-bibliotheek.
+Bij wijze van illustratie, worden gegevens ingelezen vanuit een CSV-bestand, die het aantal besmettingen en het aantal dodelijke slachtoffers door COVID-19 in België beschrijft in de eerste weken van de lockdown in maart 2020. Aan de hand van enkele grafieken wordt het gevaar van onbeperkte groei geïllustreerd. Om de data in te lezen wordt gebruikgemaakt van de `Pandas`-bibliotheek.
 
 Leerlingen die vroeger klaar zijn met dit leerobject, of een sterke interesse vertonen in dit onderwerp, kunnen [dit gerelateerde leerobject](https://www.dwengo.org/learning-path.html?hruid=maths_epidemie&language=nl&te=true&source_page=%2F&source_title=%20Ga%20aan%20de%20slag%20met%20uniek%20lesmateriaal%20over%20AI%20en%20STEM!#pn_expogroei;nl;3) volgen.
 
@@ -75,25 +75,25 @@ Als laatste voorbeeld van exponentiële groei wordt de wet van Moore besproken. 
 
 ## Python
 
-Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te doen en grafieken te genereren. Het is als leerkracht belangrijk om:
+Deze notebook maakt, net als de andere, gebruik van Python om berekeningen te maken en grafieken te genereren. Het is als leerkracht belangrijk om te weten:
 
-- te weten welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt
+- welke [syntax](https://www.w3schools.com/python/python_syntax.asp) Python gebruikt;
 
-- te weten hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden
+- hoe [functies](https://www.w3schools.com/python/python_functions.asp) gedefinieerd worden;
 
-- te weten hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden
+- hoe [lijsten](https://www.w3schools.com/python/python_lists.asp) gebruikt kunnen worden;
 
-- te weten hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken
+- hoe [for-loops](https://www.w3schools.com/python/python_for_loops.asp) werken;
 
-- te weten hoe [while-loops](https://www.w3schools.com/python/python_while_loops.asp) werken
+- hoe [while-loops](https://www.w3schools.com/python/python_while_loops.asp) werken;
 
-- te weten hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken
+- hoe de [NumPy-bibliotheek](https://www.w3resource.com/numpy/array-creation/arange.php) het mogelijk maakt om een lijst van getallen te generen, en functies uit te voeren die de waarden in deze lijst als inputargument gebruiken;
 
-- te weten hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren
+- hoe de [Matplotlib-bibliotheek](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py) het mogelijk maakt om grafieken te genereren;
 
-- te weten hoe de [Pandas-bibliotheek](https://pythonbasics.org/read-csv-with-pandas/) het mogelijk maakt om CSV-bestanden uit te lezen naar een dataframe, dat gegevens in tabelvorm bevat
+- hoe de [Pandas-bibliotheek](https://pythonbasics.org/read-csv-with-pandas/) het mogelijk maakt om CSV-bestanden uit te lezen naar een dataframe, dat gegevens in tabelvorm bevat.
 
-Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
+Om het voor de leerkracht eenvoudiger te maken om te begrijpen wat er gebeurt, werd in het nodige commentaar voorzien. Ook werden alle functies voorzien van een omschrijving met daarin de werking van de functie, de parameters die als input gebruikt worden en de parameters die als output teruggegeven worden. Wanneer een leerkracht deze omschrijving wil consulteren, volstaat het om `help(<functie_naam>)` op te roepen.
 
 ## Minimumdoelen
 
@@ -177,8 +177,8 @@ Technologische wetenschappen en Engineering
 
 Bedrijfswetenschappen (GO!)
 
-<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+<span style="color: yellowgreen">SMD 07.01.01 De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Er wordt voorzien in het nodige commentaar, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
 
 #### Biotechnologische en chemische STEM-wetenschappen B+S
 
@@ -188,5 +188,5 @@ Biotechnologische en chemische STEM-wetenschappen
 
 Mechatronica
 
-<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</span><br>
-Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruik gemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Het nodige commentaar wordt voorzien, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
+<span style="color: yellowgreen">SMD 07.02.01 De leerlingen programmeren zelfontworpen oplossingen voor concrete problemen.</span><br>
+Er wordt een gestructureerde programmeertaal gebruikt, namelijk Python. Er komt een begrensde herhaling aan bod. Er wordt in de notebook gebruikgemaakt van variabelen, gegevenstypes, datastructuren, operatoren, functies en softwarebibliotheken. Er wordt voorzien in het nodige commentaar, zodat leerlingen begrijpen wat de verschillende codefragmenten doen.
