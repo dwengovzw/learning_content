@@ -35,7 +35,7 @@ We stelden reeds vast dat de tijd in de praktijk als continu ervaren wordt, waar
 
 ## Biologische bestrijding met lieveheersbeestjes
 
-Waar rupsen ware monsters zijn die bladeren van planten opeten en gewassen op die manier aantasten, zijn bladluizen meer verfijnd. Met hun naaldvormig mondstuk zuigen ze het sap van een plant rechtstreeks uit het vaatweefsel. Dit sap bevat voornamelijk suikers, en relatief weinig aminozuren die de luizen ook nodig hebben. Daarom scheiden de luizen het sap grotendeels terug uit, ontdaan van de meeste aminozuren; deze substantie wordt honingdauw genoemd. Hoewel honingdauw een belangrijke voedingsbron voor mieren en wespen is, kan deze substantie ook schadelijke schimmels aantrekken. Bovendien onttrekken luizen via het vaatweefsel niet alleen de kostbare suikers van de plant, maar ook gevaarlijke plantenvirussen die zich op deze manier verder kunnen verspreiden. Daarom zijn luizen erg vervelende beestjes voor vele soorten gewassen, zoals aardappelen, bonen en rozen.
+Waar rupsen ware monsters zijn die bladeren van planten opeten en gewassen op die manier aantasten, zijn bladluizen meer verfijnd. Met hun naaldvormig mondstuk zuigen ze het sap van een plant rechtstreeks uit het vaatweefsel. Dit sap bevat voornamelijk suikers, en relatief weinig aminozuren die de luizen ook nodig hebben. Daarom scheiden de luizen het sap grotendeels terug uit, ontdaan van de meeste aminozuren; deze substantie wordt honingdauw genoemd. Hoewel honingdauw een belangrijke voedingsbron voor mieren en wespen is, kan deze substantie ook schadelijke schimmels aantrekken. Bovendien onttrekken luizen via het vaatweefsel niet alleen de kostbare suikers aan de plant, maar ook gevaarlijke plantenvirussen die zich op deze manier verder kunnen verspreiden. Daarom zijn luizen erg vervelende beestjes voor vele soorten gewassen, zoals aardappelen, bonen en rozen.
 
 ![Bladluis](embed/bladluis.jpg "https://commons.wikimedia.org/wiki/File:Aphids_May_2010-2.jpg")<br>
 Bron: [https://commons.wikimedia.org/wiki/File:Aphids_May_2010-2.jpg](https://commons.wikimedia.org/wiki/File:Aphids_May_2010-2.jpg)
@@ -51,7 +51,7 @@ Wanneer men lieveheersbeestjes introduceert in de omgeving, zullen deze zich ver
 
 ## De populatiegrootte als differentiaalvergelijking
 
-In deze module zal je het concept van afgeleiden gebruiken om de verandering van de populatiegrootte van bladluizen en lieveheersbeestjes te beschrijven, waarbij de ene populatiegrootte een rechtstreekse impact heeft op de andere. Hiervoor zal je een vergelijking gebruiken waarbij zowel een functie als haar afgeleide voorkomt; dit wordt een **differentiaalvergelijking** genoemd.
+In deze module zal je het concept van afgeleiden gebruiken om de verandering van de populatiegrootte van bladluizen en lieveheersbeestjes te beschrijven, waarbij de ene populatiegrootte een rechtstreekse impact heeft op de andere. Hiervoor zal je een vergelijking gebruiken waarbij zowel een functie als haar afgeleide voorkomen; dit wordt een **differentiaalvergelijking** genoemd.
 
 Eigen aan differentiaalvergelijkingen is dat de afgeleide van een functie, genoteerd als \\(\dot{y}\\), geschreven kan worden als een functie van de originele functie \\(y\\) op een specifiek moment in de tijd \\(t\\):
 
@@ -63,9 +63,9 @@ Specifiek gericht op het probleem met bladluizen, kan je de groei van de populat
 
 Hierbij stellen \\(r = a - 1\\) het groeipercentage en \\(K\\) de draagkracht voor (beide strikt positieve constanten), en stelt \\(y\\) de populatiegrootte voor. \\(\dot{y}\\) is dan de afgeleide van \\(y\\), die je iets vertelt over de verandering van de populatiegrootte:
 
-- Wanneer \\(\dot{y} > 0\\), zal de populatiegrootte stijgen
-- Wanneer \\(\dot{y} < 0\\), zal de populatiegrootte dalen
-- Wanneer \\(\dot{y} = 0\\), zal er geen verandering zijn en blijft de populatiegrootte constant
+- wanneer \\(\dot{y} > 0\\), zal de populatiegrootte stijgen;
+- wanneer \\(\dot{y} < 0\\), zal de populatiegrootte dalen;
+- wanneer \\(\dot{y} = 0\\), zal er geen verandering zijn en blijft de populatiegrootte constant.
 
 **Belangrijk is dus om vast te stellen dat \\(\dot{y}\\) de verandering (groei/afname) van de populatiegrootte beschrijft, en niet de populatiegrootte zelf!**
 

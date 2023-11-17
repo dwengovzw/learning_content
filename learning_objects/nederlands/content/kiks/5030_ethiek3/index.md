@@ -57,11 +57,11 @@ De datacentra wereldwijd zijn naar schatting verantwoordelijk voor 0,3 % tot 2 %
 <center>Google Data Center, Council Bluffs Iowa. chaddavis.photography from United States, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Google_Data_Center,_Council_Bluffs_Iowa_%2849062863796%29.jpg </center>
 
 <div class="alert alert-box alert-success">
-    Elke Google <b>zoekopdracht</b> verbruikt een klein beetje energie. Maar veel kleintjes maken een grote hoeveelheid en het hoeft niet gezegd dat er enorm veel zoekopdrachten plaatsvinden, miljoenen per minuut en biljoenen per jaar. Volgens Google zorgt elke zoekopdracht voor een CO<sub>2</sub> uitstoot van 0,2 g, wat per jaar zou overeenkomen met de uitstoot van het draaien van één was.
+    Elke Google <b>zoekopdracht</b> verbruikt een klein beetje energie. Maar veel kleintjes maken een grote hoeveelheid en het hoeft niet gezegd dat er enorm veel zoekopdrachten plaatsvinden, miljoenen per minuut en biljoenen per jaar. Volgens Google zorgt elke zoekopdracht voor een CO<sub>2</sub>-uitstoot van 0,2 g, wat per jaar zou overeenkomen met de uitstoot van het draaien van één was.
 </div> 
 
 <div class="alert alert-box alert-success">
-    Als je een vraag stelt aan <b>ChatGPT</b>, dan stuurt je computer die vraag via het internet naar de servers van ChatGPT. Vervolgens gaat het AI-systeem op zoek naar het antwoord op jouw vraag. Dat antwoord wordt dan naar jouw computer gestuurd en verschijnt er op je scherm.
+    Als je een vraag stelt aan <b>ChatGPT</b>, dan stuurt je computer die vraag via het internet naar de servers van ChatGPT. Vervolgens gaat het AI-systeem op zoek naar het antwoord op jouw vraag. Dat antwoord wordt dan naar jouw computer gestuurd en verschijnt op je scherm.
 </div>
 
 **Een nog grotere energiekost gaat echter naar het trainen van deze AI-systemen.** Om deze systemen te ontwikkelen, dus voordat ze gebruikt kunnen worden, worden ze getraind op aanzienlijke hoeveelheden data. Sinds de opkomst van deep learning is de hoeveelheid data gebruikt voor de training jaar na jaar gegroeid, en de hoeveelheid energie ervoor nodig dus toegenomen. 
@@ -82,8 +82,8 @@ Daarnaast is er ook een volledig onderzoeksdomein dat zich focust op de ontwikke
 **Bronnen:**<br>
 [https://www.nrdc.org/sites/default/files/gadget_report_r_19-07-b_13_locked.pdf](https://www.nrdc.org/sites/default/files/gadget_report_r_19-07-b_13_locked.pdf) <br>
 [Data Centers on Wheels: Emissions From Computing Onboard Autonomous Vehicles](https://ieeexplore.ieee.org/document/9942310)<br>
-Knack Elisa Hulstaert 15/1/2023 Steven Latré (Imec): ‘Als AI niet duurzamer wordt, is het gedoemd om te falen’<br>
-Knack De gevaren van ChatGPT ’We dreigen collectief dommer te worden’ 23/1/2023 Elisa Hulstaert <br>
+Knack, Elisa Hulstaert 15/1/2023, Steven Latré (Imec): ‘Als AI niet duurzamer wordt, is het gedoemd om te falen’<br>
+Knack, De gevaren van ChatGPT ’We dreigen collectief dommer te worden’<br>
 [How Much Energy Do Data Centers Really Use?](https://energyinnovation.org/2020/03/17/how-much-energy-do-data-centers-really-use/)<br>
 [Operating on 24/7 Carbon-Free Energy by 2030.](https://sustainability.google/progress/energy/)
     

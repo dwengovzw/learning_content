@@ -33,9 +33,9 @@ teacher_exclusive: false
 
 In de vorige modules concentreerden we ons op het aantal rupsen van de buxusmot doorheen de tijd, waarbij we een rups als een onveranderende entiteit beschouwden. In dit hoofdstuk zullen we ook rekening houden met de levensfase waarin een insect zich kan bevinden. Daarvoor zullen we de kever beschouwen, die drie verschillende levensfases doorloopt:
 
-- De kever komt ter wereld in de vorm van een eitje
-- Uit het eitje komt een larve gekropen
-- De larve ontpopt zich tot een kever
+- de kever komt ter wereld in de vorm van een eitje;
+- uit het eitje komt een larve gekropen;
+- de larve ontpopt zich tot een kever.
 
 ![Kever](embed/kever.jpg "https://commons.wikimedia.org/wiki/File:Chrysomelidae_-_Chrysolina_americana.JPG")<br>
 Bron: [https://commons.wikimedia.org/wiki/File:Chrysomelidae_-_Chrysolina_americana.JPG](https://commons.wikimedia.org/wiki/File:Chrysomelidae_-_Chrysolina_americana.JPG)
@@ -44,9 +44,9 @@ Voor een bioloog is het interessant om te weten hoeveel eitjes, larven en kevers
 
 ## Overgangen tussen levensfases
 
-Bij kevers is de overgang van één levensfase naar een andere niet meteen evident te noemen. Zo werd er empirisch vastgesteld dat maar liefst 95% van de eitjes opgegeten wordt of nooit uitkomt. Wanneer er initieel 1000 eitjes zijn, blijven er na een maand dus slechts ongeveer 50 over! De kans dat de larve vervolgens een kever wordt is een stuk groter: maar liefst 75% van de larven ontpopt zich tot een kever. Eens ontpopt, legt de kever in een maand tijd ongeveer 100 eitjes.
+Bij kevers is de overgang van één levensfase naar een andere niet meteen evident te noemen. Zo werd er empirisch vastgesteld dat maar liefst 95% van de eitjes opgegeten wordt of nooit uitkomt. Wanneer er initieel 1000 eitjes zijn, blijven er na een maand dus slechts ongeveer 50 over! De kans dat de larve vervolgens een kever wordt, is een stuk groter: maar liefst 75% van de larven ontpopt zich tot een kever. Eens ontpopt, legt de kever in een maand tijd ongeveer 100 eitjes.
 
-Deze volgorde van levensfases leidt tot een cyclus. Deze cyclus kan in een graag gegoten worden, die de overgang tussen toestanden op een zeker moment in de tijd beschrijft:
+Deze volgorde van levensfases leidt tot een cyclus. Deze cyclus kan in een graaf gegoten worden, die de overgang tussen toestanden op een zeker moment in de tijd beschrijft:
 
 ![Graaf](embed/graph.png "https://www.wisfaq.nl/pagina.asp?nummer=1883")
 
@@ -54,7 +54,7 @@ Op basis van de waarden van de knopen in de graaf, kan de volgende toestand bere
 
 ## De Lesliematrix
 
-Om aan matrixvermenigvuldiging te kunnen doen, stel je de toestand op tijdstip \\(0\\) gelijk aan een vector \\(v_0\\), die het aantal eitjes, levers en kevers bevat. Beschouw bijvoorbeeld:
+Om aan matrixvermenigvuldiging te kunnen doen, stel je de toestand op tijdstip \\(0\\) gelijk aan een vector \\(v_0\\), die het aantal eitjes, larven en kevers bevat. Beschouw bijvoorbeeld:
 
 \\[v_0 = \begin{bmatrix} 1000 \\\ 100 \\\ 60 \end{bmatrix}\\]
 

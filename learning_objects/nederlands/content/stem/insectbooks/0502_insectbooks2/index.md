@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 # Modelleren van een rupsenuitbraak volgens de exponentiële groei
 
-Vele insecten willen zo veel mogelijk nakomelingen voortbrengen. In een generatie verpoppen buxusmotrupsen zich tot een buxusmotten, die op hun beurt nieuwe eitjes leggen op een haag. Uit deze eitjes kruipen nieuwe rupsen en de cyclus herbegint. Het leven van een insect is echter niet zonder gevaar. Op elk moment in de cyclus kunnen eitjes, rupsen, poppen en motten sterven door predatie van vogels, pesticiden, uithongering of andere gevaren. Gemiddeld gezien kan je echter aannemen dat elke rups aanleiding geeft tot een bepaald aantal nieuwe rupsen in de volgende generatie. Deze aanname vormt de basis van de **exponentiële groei**.
+Vele insecten willen zo veel mogelijk nakomelingen voortbrengen. In een generatie verpoppen buxusmotrupsen zich tot buxusmotten, die op hun beurt nieuwe eitjes leggen op een haag. Uit deze eitjes kruipen nieuwe rupsen en de cyclus herbegint. Het leven van een insect is echter niet zonder gevaar. Op elk moment in de cyclus kunnen eitjes, rupsen, poppen en motten sterven door predatie van vogels, pesticiden, uithongering of andere gevaren. Gemiddeld gezien kan je echter aannemen dat elke rups aanleiding geeft tot een bepaald aantal nieuwe rupsen in de volgende generatie. Deze aanname vormt de basis van de **exponentiële groei**.
 
 ## Exponentiële groei
 
@@ -49,7 +49,7 @@ Deze vergelijking is niets anders dan het recursieve voorschrift van een rij, wa
 
 ## Exponentieel model
 
-Bij een groeifactor \\(a = 1,6\\) leidt elke rups gemiddeld tot iets meer dan anderhalve nieuwe rupsen per generatie. Beschouw een bescheiden beginpopulatie van vijf rupsen. Stel aan de hand van de volgende opdracht een wiskundig model op voor de evolutie van populatiegrootte.
+Bij een groeifactor \\(a = 1,6\\) leidt elke rups gemiddeld tot iets meer dan anderhalve nieuwe rups per generatie. Beschouw een bescheiden beginpopulatie van vijf rupsen. Stel aan de hand van de volgende opdracht een wiskundig model op voor de evolutie van populatiegrootte.
 
 ### Opdracht 2
 
