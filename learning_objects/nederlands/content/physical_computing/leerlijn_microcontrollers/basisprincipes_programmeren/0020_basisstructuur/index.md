@@ -33,10 +33,10 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
     /*
         ONDERDEEL 1: Het koppelen van bibliotheken.
     */
-    #include &gt;Wire.h&lt;
-    #include &gt;Dwenguino.h&lt;
-    #include &gt;LiquidCrystal.h&lt;
-    #include &gt;NewPing.h&lt;
+    #include &lt;Wire.h&gt;
+    #include &lt;Dwenguino.h&gt;
+    #include &lt;LiquidCrystal.h&gt;
+    #include &lt;NewPing.h&gt;
 
     /*
         ONDERDEEL 2: Definiëren van globale variabelen en constanten.
