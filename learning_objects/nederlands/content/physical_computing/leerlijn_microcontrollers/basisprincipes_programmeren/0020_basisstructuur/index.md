@@ -30,6 +30,7 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
 <div class="dwengo-content code-simulator">
 <pre>
 <code class="language-arduino dwengo-code">
+
     /*
         ONDERDEEL 1: Het koppelen van bibliotheken.
     */
