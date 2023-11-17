@@ -1,10 +1,9 @@
 ---
-hruid: leerlijn_basis_programmeren_introductie
-version: 1
+hruid: leerlijn_basis_programmeren_setup_loop
 language: nl
-title: "Introductie"
-description: "Beschrijving van wat je in dit leerpad zal leren."
-keywords: ["programmeren", "lussen", "conditie", "selectie", "iteratie", "if", "als", "then", "dan", "anders", "else", "for", "while", "microcontroller", "µC", "arduino", "dwenguino"]
+title: "Basisstructuur"
+description: "Basisstructuur van het programma: de setup en loop functies."
+keywords: ["programmeren", "setup", "loop", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -22,9 +21,19 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Inleiding
+# Basisstructuur
 
-In het leerpad over invoer-verwerking-uitvoer programmeerde je de µC aan de hand van voorbeelden. Om inzicht te krijgen in de code die je toen schreef, gaan we in dit leerpad dieper in op de programmeerconcepten die je toen gebruikte. 
+Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar ons eerste programma uit het leerpad over invoer, verwerking en uitvoer. Dit programma zorgde ervoor dat led 13 ging branden wanneer de sonarsensor beweging detecteerde. Hieronder zie je die code opnieuw weergegeven. In de commentaar staan de verschillende onderdelen van de code aangeduid.
+
+
+<div class="dwengo-content code-simulator">
+    <pre>
+        <code class="language-arduino dwengo-code">
+            My code here.
+        </code>
+    </pre>
+</div>
+
 
 <div class="dwengo-content sideinfo">
     <h2 class="title">Wist je dat?</h2>
