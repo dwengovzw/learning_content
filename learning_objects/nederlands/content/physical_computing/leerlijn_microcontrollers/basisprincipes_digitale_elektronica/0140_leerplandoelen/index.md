@@ -26,7 +26,7 @@ teacher_exclusive: true
 
 Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
 
-<ul class="dwengo_content leerplandoelen">
+<ul class="dwengo-content leerplandoelen">
     <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
     <li>BV2_06.34 De leerlingen werken op een veilige en duurzame manier met materialen, stoffen, organismen en technische systemen </li>
     <li>BV2_06.11 De leerlingen verklaren fenomenen of toepassingen uit het dagelijkse leven aan de hand van snelheid, kracht, hefboom, druk, zichtbaar licht, straling of elektriciteit.</li>
