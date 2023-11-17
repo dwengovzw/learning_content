@@ -17,7 +17,7 @@ Hier de inhoud van het weetje
 </div>
 
 
-// HTML voor een weetje of extra info
+// HTML voor waarschuwing
 
 <div class="dwengo-content important">
 <h2 class="title">Hier de titel van de belangrijke informatie</h2>
