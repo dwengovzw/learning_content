@@ -29,20 +29,51 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
 <div class="dwengo-content code-simulator">
     <pre>
         <code class="language-arduino dwengo-code">
-            My code here.
+/*
+    ONDERDEEL 1: Het koppelen van bibliotheken.
+*/
+#include <Wire.h>
+#include <Dwenguino.h>
+#include <LiquidCrystal.h>
+#include <NewPing.h>
+
+
+/*
+    ONDERDEEL 2: Definiëren van globale variabelen en constanten.
+*/
+#define TRIGGER_PIN 11
+#define ECHO_PIN 12
+#define MAX_DISTANCE 200
+
+NewPing sonar(
+    TRIGGER_PIN, 
+    ECHO_PIN, 
+    MAX_DISTANCE);
+int afstand;
+
+/*
+    ONDERDEEL 3: De setup() functie, deze functie wordt één keer opgeroepen bij de start van je programma.
+*/
+
+void setup(){
+    initDwenguino();
+    pinMode(13, OUTPUT);
+}
+
+/*
+    ONDERDEEL 4: De loop() functie, deze functie wordt telkens opnieuw opgeroepen tot wanneer het programma stopt.
+*/
+void loop(){
+    afstand = sonar.ping_cm();
+    if (afstand > 0 && afstand < 100){
+        digitalWrite(13, HIGH);
+    } else {
+        digitalWrite(13, LOW);
+    }
+    delay(100);
+}
         </code>
     </pre>
 </div>
 
 
-<div class="dwengo-content sideinfo">
-    <h2 class="title">Wist je dat?</h2>
-    <div class="content">
-        <p>
-            Er zijn verschillende programmeertalen. De keuze voor een bepaalde taal hangt af van verschillende factoren. Zo zijn bepaalde talen meer geschikt voor een bepaalde soort toepassing. Zo is C++ een taal die zeer geschikt is voor het programmeren van een µC omdat deze het toelaat om gemakkelijk zeer efficiënte code te schrijven. Naast de toepassing kunnen er nog andere redenen zijn om voor een bepaalde taal te kiezen bv. de ervaring van de programmeur of de complexiteit van de taal zelf.
-        </p>
-        <p>
-            Onderzoek toont aan dat programmeurs die drie programmeertalen geleerd hebben, gemakkelijk kunnen overschakelen naar elke andere programmeertaal (TODO: ref). Wil je ook programmeertaalpolyglot worden? Je kan naast C++ in dit leerpad ook alles leren over programmeren in python op <a href="/python_programming">dwengo.org/python_programming</a>
-        </p>
-    </div>
-</div>
