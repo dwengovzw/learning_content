@@ -34,8 +34,10 @@ Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een o
 ## Hands-on: bouwen en programmeren van een beweginssensor.
 
 <div class="dwengo_content assignment">
-    <h2>Opdracht</h2>
-    <p>
-        Maak gebruik van de fiches om een lamp te maken met bewegingssensor. Als beweginssensor maak je gebruik van de sonar-sensor. Deze meet de afstand tot het object dat voor de sensor staat. Zorg ervoor dat wanneer iemand voor de sensor loopt, LED13 op de microcontroller gaat branden. Bekijk de fiches van LED13 en de sonar om te achterhalen hoe je de led kan aansturen.
-    </p>
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>
+            Maak gebruik van de fiches om een lamp te maken met bewegingssensor. Als beweginssensor maak je gebruik van de sonar-sensor. Deze meet de afstand tot het object dat voor de sensor staat. Zorg ervoor dat wanneer iemand voor de sensor loopt, LED13 op de microcontroller gaat branden. Bekijk de fiches van LED13 en de sonar om te achterhalen hoe je de led kan aansturen.
+        </p>
+    </div>
 </div>
