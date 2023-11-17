@@ -64,7 +64,8 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
 
     /*
         ONDERDEEL 4: De loop() functie, 
-        deze functie wordt telkens opnieuw opgeroepen tot wanneer het programma stopt.
+        deze functie wordt telkens opnieuw opgeroepen 
+        tot wanneer het programma stopt.
     */
     void loop(){
         afstand = sonar.ping_cm();
