@@ -33,7 +33,8 @@ Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een o
 
 ## Hands-on: bouwen en programmeren van een beweginssensor.
 
-<div class="dwengo_content assignment">
+
+<div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
     <div class="content">
         <p>
