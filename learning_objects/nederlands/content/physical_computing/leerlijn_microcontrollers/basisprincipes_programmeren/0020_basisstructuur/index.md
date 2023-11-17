@@ -40,7 +40,7 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
     #include <NewPing.h>
 
     /*
-        ONDERDEEL 2: Definiëren van globale variabelen en constanten.
+        ONDERDEEL 2: Definiëren van constanten en globale variabelen.
     */
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
@@ -53,7 +53,8 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
     int afstand;
 
     /*
-        ONDERDEEL 3: De setup() functie, deze functie wordt één keer opgeroepen bij de start van je programma.
+        ONDERDEEL 3: De setup() functie, 
+        deze functie wordt één keer opgeroepen bij de start van je programma.
     */
 
     void setup(){
@@ -62,7 +63,8 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
     }
 
     /*
-        ONDERDEEL 4: De loop() functie, deze functie wordt telkens opnieuw opgeroepen tot wanneer het programma stopt.
+        ONDERDEEL 4: De loop() functie, 
+        deze functie wordt telkens opnieuw opgeroepen tot wanneer het programma stopt.
     */
     void loop(){
         afstand = sonar.ping_cm();
