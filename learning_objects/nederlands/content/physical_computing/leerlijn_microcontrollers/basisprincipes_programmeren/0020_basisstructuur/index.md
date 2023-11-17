@@ -1,5 +1,6 @@
 ---
 hruid: leerlijn_basis_programmeren_basisstructuur
+version: 1
 language: nl
 title: "Basisstructuur"
 description: "Basisstructuur van het programma: de setup en loop functies."
