@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_basis_programmeren_setup_loop
+hruid: leerlijn_basis_programmeren_basisstructuur
 language: nl
 title: "Basisstructuur"
 description: "Basisstructuur van het programma: de setup en loop functies."
