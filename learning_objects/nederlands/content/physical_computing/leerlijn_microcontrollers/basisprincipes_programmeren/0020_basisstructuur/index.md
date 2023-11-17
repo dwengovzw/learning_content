@@ -28,53 +28,52 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
 
 
 <div class="dwengo-content code-simulator">
-    <pre>
-        <code class="language-arduino dwengo-code">
-/*
-    ONDERDEEL 1: Het koppelen van bibliotheken.
-*/
-#include <Wire.h>
-#include <Dwenguino.h>
-#include <LiquidCrystal.h>
-#include <NewPing.h>
+<pre>
+<code class="language-arduino dwengo-code">
+    /*
+        ONDERDEEL 1: Het koppelen van bibliotheken.
+    */
+    #include &gt;Wire.h&lt;
+    #include &gt;Dwenguino.h&lt;
+    #include &gt;LiquidCrystal.h&lt;
+    #include &gt;NewPing.h&lt;
 
+    /*
+        ONDERDEEL 2: Definiëren van globale variabelen en constanten.
+    */
+    #define TRIGGER_PIN 11
+    #define ECHO_PIN 12
+    #define MAX_DISTANCE 200
 
-/*
-    ONDERDEEL 2: Definiëren van globale variabelen en constanten.
-*/
-#define TRIGGER_PIN 11
-#define ECHO_PIN 12
-#define MAX_DISTANCE 200
+    NewPing sonar(
+        TRIGGER_PIN, 
+        ECHO_PIN, 
+        MAX_DISTANCE);
+    int afstand;
 
-NewPing sonar(
-    TRIGGER_PIN, 
-    ECHO_PIN, 
-    MAX_DISTANCE);
-int afstand;
+    /*
+        ONDERDEEL 3: De setup() functie, deze functie wordt één keer opgeroepen bij de start van je programma.
+    */
 
-/*
-    ONDERDEEL 3: De setup() functie, deze functie wordt één keer opgeroepen bij de start van je programma.
-*/
-
-void setup(){
-    initDwenguino();
-    pinMode(13, OUTPUT);
-}
-
-/*
-    ONDERDEEL 4: De loop() functie, deze functie wordt telkens opnieuw opgeroepen tot wanneer het programma stopt.
-*/
-void loop(){
-    afstand = sonar.ping_cm();
-    if (afstand > 0 && afstand < 100){
-        digitalWrite(13, HIGH);
-    } else {
-        digitalWrite(13, LOW);
+    void setup(){
+        initDwenguino();
+        pinMode(13, OUTPUT);
     }
-    delay(100);
-}
-        </code>
-    </pre>
+
+    /*
+        ONDERDEEL 4: De loop() functie, deze functie wordt telkens opnieuw opgeroepen tot wanneer het programma stopt.
+    */
+    void loop(){
+        afstand = sonar.ping_cm();
+        if (afstand > 0 && afstand < 100){
+            digitalWrite(13, HIGH);
+        } else {
+            digitalWrite(13, LOW);
+        }
+        delay(100);
+    }
+</code>
+</pre>
 </div>
 
 
