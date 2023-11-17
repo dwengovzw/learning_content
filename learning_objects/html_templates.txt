@@ -48,3 +48,11 @@ Hier de inhoud.
         </div>
     </div>
 </div>
+
+<div class="dwengo-content code-simulator">
+    <pre>
+        <code class="language-arduino dwengo-code">
+            My code here.
+        </code>
+    </pre>
+</div>
