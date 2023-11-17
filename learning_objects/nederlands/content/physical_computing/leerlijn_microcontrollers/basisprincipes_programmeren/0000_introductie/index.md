@@ -26,19 +26,14 @@ teacher_exclusive: false
 
 In het leerpad over invoer-verwerking-uitvoer programmeerde je de µC aan de hand van voorbeelden. Om inzicht te krijgen in de code die je toen schreef, gaan we in dit leerpad dieper in op de programmeerconcepten die je toen gebruikte. 
 
-<ul class="dwengo-content lijst_fiches">
-    <li><href src="TODO">Sonar-sensor</href></li>
-    <li><href src="TODO">LED13</href></li>
-</ul>
-
-## Hands-on: bouwen en programmeren van een beweginssensor.
-
-
-<div class="dwengo-content assignment">
-    <h2 class="title">Opdracht</h2>
+<div class="dwengo-content sideinfo">
+    <h2 class="title">Wist je dat?</h2>
     <div class="content">
         <p>
-            Maak gebruik van de fiches om een lamp te maken met bewegingssensor. Als bewegingssensor maak je gebruik van de sonar-sensor. Deze meet de afstand tot het object dat voor de sensor staat. Zorg ervoor dat wanneer iemand voor de sensor loopt, LED13 op de microcontroller gaat branden. Bekijk de fiches van LED13 en de sonar om te achterhalen hoe je de led kan aansturen.
+            Er zijn verschillende programmeertalen. De keuze voor een bepaalde taal hangt af van verschillende factoren. Zo zijn bepaalde talen meer geschikt voor een bepaalde soort toepassing. Zo is C++ een taal die zeer geschikt is voor het programmeren van een µC omdat deze het toelaat om gemakkelijk zeer efficiënte code te schrijven. Naast de toepassing kunnen er nog andere redenen zijn om voor een bepaalde taal te kiezen bv. de ervaring van de programmeur of de complexiteit van de taal zelf.
+        </p>
+        <p>
+            Onderzoek toont aan dat programmeurs die drie programmeertalen geleerd hebben, gemakkelijk kunnen overschakelen naar elke andere programmeertaal. Wil je ook programmeertaalpolyglot worden? Je kan naast C++ in dit leerpad ook alles leren over programmeren in python op <a href="/python_programming">dwengo.org/python_programming</a>
         </p>
     </div>
 </div>
