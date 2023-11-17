@@ -49,7 +49,7 @@ Hier de inhoud.
     </div>
 </div>
 
-<div class="dwengo-content code-simulator">
+<div class="dwengo-content dwengo-code-simulator">
     <pre>
         <code class="language-arduino dwengo-code">
             My code here.
