@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 
 # Invloed van de omgeving op de vorming van stomata 
-**Experimenten bevestigen dat dichtheid en grootte kunnen veranderen door genetische aanpassingen, alsook door veranderingen in omgevingsfactoren.** Dit betekent dat zowel tussen plantensoorten, tussen individuele exemplaren van eenzelfde soort, als tussen bladeren van eenzelfde plant verschillen kunnen optreden. Voorbeelden van verandering in omgevingsfactoren: 
+**Experimenten bevestigen dat dichtheid en grootte kunnen veranderen door genetische aanpassingen, alsook door veranderingen in omgevingsfactoren.** Dit betekent dat zowel tussen plantensoorten, tussen individuele exemplaren van eenzelfde soort, als tussen bladeren van eenzelfde plant, verschillen kunnen optreden. Voorbeelden van verandering in omgevingsfactoren: 
 
 <ul><li>Bij exemplaren van eenzelfde soort, maar die groeien in verschillende omstandigheden (nl. in de schaduw of in de zon), kunnen verschillen optreden in stomatale dichtheid. Bij een onderzoek op crabwood (Carapa) in het Amazonezoud was de stomatale dichtheid bij de bezonde planten groter (Camargo & Marenco, 2012).</li></ul> 
 
@@ -39,7 +39,7 @@ teacher_exclusive: false
 
 ![](embed/bezondschaduw.png "stomata zon - schaduw") 
 <figure>
-    <figcaption align = "center">Figuur: respectievelijk bezond en beschaduwd blad van <em>Monodora angolensis</em></figcaption>
+    <figcaption align = "center">Figuur: respectievelijk bezond en beschaduwd blad van de <em>Monodora angolensis</em></figcaption>
 </figure> 
 
 <div class="alert alert-box alert-success">

@@ -34,7 +34,7 @@ teacher_exclusive: true
 
 ## Supervised, unsupervised en reinforcement learning
 
-Binnen ML onderscheidt men verschillende types van leren: supervised, unsupervised, en reinforcement learning.<br>
+Binnen ML onderscheidt men verschillende types van leren: supervised, unsupervised en reinforcement learning.<br>
 - Bij supervised en unsupervised learning vertrekt men van een set voorbeelden.<br>
 ![voorbeeldenappelpeer](https://user-images.githubusercontent.com/48352335/222242428-3021670a-b3e7-403b-8752-e1bef9f83668.png)
 
@@ -46,4 +46,4 @@ Binnen ML onderscheidt men verschillende types van leren: supervised, unsupervis
 ![kenmerken](https://user-images.githubusercontent.com/48352335/222240504-2357f827-ec15-42e4-a209-94fcbd142ccf.png)<br>
 ![soortenmlunsupervised](https://user-images.githubusercontent.com/48352335/222239480-09ab805d-da4f-4cd2-acf0-23241c2b4c3d.png)
 
-- Bij **reinforcement learning** streeft het AI-systeem naar een *beloning*. Om bv. goed te worden in een bepaalde videogame, gaat het AI-systeem het spel heel veel spelen en daaruit leren welke acties het beter vermijdt en welke het best onderneemt om te kunnen winnen. Zo werd Google DeepMind’s AlphaGo Zero in 2017 via reinforcement learning een topspeler in go, nog beter dan AlphaGo die de beste menselijke speler eerder al versloeg.
+- Bij **reinforcement learning** streeft het AI-systeem naar een *beloning*. Om bv. goed te worden in een bepaalde videogame, gaat het AI-systeem het spel heel veel spelen en daaruit leren welke acties het beter vermijdt en welke het best onderneemt om te kunnen winnen. Zo werd Google DeepMind’s AlphaGo Zero in 2017 via reinforcement learning een topspeler in Go, nog beter dan AlphaGo die de beste menselijke speler eerder al versloeg.

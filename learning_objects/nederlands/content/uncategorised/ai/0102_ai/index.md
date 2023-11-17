@@ -49,7 +49,7 @@ AI zat lang op het niveau van de enge AI, maar momenteel situeren sommige toepas
 
 Om AI in te zetten voor een bepaald probleem, wordt informatie over dat probleem aan de computer gegeven. Vervolgens verwerkt het AI-systeem deze informatie en komt er een *output*. 
 
-Eerst moet zo’n AI-systeem ontwikkeld worden door het *programmeren van algoritmes* waarin expertenkennis vervat is of a.d.h.v. lerende algoritmes (Steels et al., 2017): 
+Eerst moet zo’n AI-systeem ontwikkeld worden door het *programmeren van algoritmes* waarin expertenkennis vervat is, of a.d.h.v. lerende algoritmes (Steels et al., 2017): 
 
 - **Kennisgebaseerde** (of regelgebaseerde) systemen, die met regels worden geprogrammeerd. Dit houdt in dat men de kennis van menselijke experts zoveel mogelijk in regels probeert te gieten. 
 - **Datagebaseerde** (of lerende) systemen, die met lerende algoritmes worden geprogrammeerd en ook *machine learning*-systemen worden genoemd. Met statistische methodes worden patronen in relevante data opgespoord en dan gebruikt om nieuwe problemen op te lossen. 
@@ -72,5 +72,5 @@ Binnen de ML-systemen vind je de 'deep learning'-systemen.
 
 -------------
 #### Bronnen
-Steels, L., Berendt, B., Pizurica, A., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
+Steels, L., Berendt, B., Pizurica, Van Dyck, D., A., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
 

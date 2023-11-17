@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 In de volgende notebook wordt er getoond hoe men AI inzet om huidmondjes te tellen op microscopische foto's.
 
-Er is ook een kleine demonstratie voorzien zodat je alvast weet waarmee je aan de slag gaat!
+Er is ook in een kleine demonstratie voorzien, zodat je alvast weet waarmee je aan de slag gaat!
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1710 "Basis")
 

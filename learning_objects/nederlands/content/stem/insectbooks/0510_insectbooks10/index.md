@@ -63,7 +63,7 @@ Van een afleidbare functie kan je een afgeleide berekenen. Deze afgeleide kan be
 
 \\(f'(t) = \frac{\text{d}f(t)}{\text{d}t} \approx \frac{f(t + \Delta t) - f(t)}{\Delta t}\\)
 
-De formule die hier gebruikt wordt om de afgeleide te schatten wordt de **eindige differentiemethode** genoemd. Bij deze methode is \\(\Delta_t\\) bij voorkeur zo klein mogelijk.
+De formule die hier gebruikt wordt om de afgeleide te schatten, wordt de **eindige differentiemethode** genoemd. Bij deze methode is \\(\Delta_t\\) bij voorkeur zo klein mogelijk.
 
 ### Opdracht 2
 
