@@ -51,7 +51,7 @@ TODO: voeg foto toe.
             <img src="img/diagram.svg"></img>
         </p>
         <ul>
-            <li>Wat gebeurd er met de weerstand als je de meetsnoeren omwisselt?</li>
+            <li>Wat gebeurt er met de weerstand als je de meetsnoeren omwisselt?</li>
         </ul>
     </div>
 </div>
