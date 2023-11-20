@@ -46,4 +46,16 @@ Hieronder zie je een grafiek die het verband weergeeft tussen de spanning en de 
 
 !["Relatie tussen spanning, stroom en weerstand"](img/relatie_spanning_stroom.png "Relatie tussen spanning, stroom en weerstand")
 
+Omdat de µC meestal werkt met voltages van \\(5\\,\mathrm{V}\\), kan het nuttig zijn om de weerstand te plotten in functie van de stroom bij \\(5\\,\mathrm{V}\\). Die grafiek kan je hieronder zien.
 
+!["Relatie tussen weerstand en stroom bij 5V"](img/relatie_weerstand_stroom.png "Relatie tussen weerstand en stroom bij 5V")
+
+Merk op dat de waarden op de x-as maar gaan tot \\(40\\,\mathrm{mA}\\), dit is de maximale stroom die door een pin van de µC mag lopen. 
+
+<div class="dwengo-content sideinfo">
+    <h2 class="title">Voorschakelweerstand bepalen</h2>
+    <div class="content">
+        Zoals je kan lezen op de componentfiche van led 13, moet je altijd een weerstand in serie schakelen met een led. Dit doe je om de stroom te beperken die door de led gaat. Een led heeft zelf geen weerstand maar veroorzaakt wel een spanningsval. Deze spanningsval hangt af van het kleur en het type van de led. De weerstandswaarde hangt dus af van de spanningsval over de led en de maximale stroom die door de led mag lopen. We kunnen deze weerstandswaarde berekenen met de volgende formule.
+        \[\mathrm{R} = \frac{\mathrm{V_{cc}} - \mathrm{V_l}}{\mathrm{I_{max}}}\]
+    </div>
+</div>
