@@ -66,7 +66,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led 13 laten branden</h3>
             <p class="example_item_content">
                 <pre><code class="language-arduino">
-                
+
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
@@ -96,7 +96,8 @@ teacher_exclusive: false
         }
         delay(100);
     }
-                </code></pre> 
+
+</code></pre> 
             </p>
         </div>
     </div>
