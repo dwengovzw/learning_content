@@ -22,7 +22,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Delay
+# Delay (oplossing)
 
 <pre>
     <code class="language-cpp">
