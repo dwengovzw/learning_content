@@ -51,7 +51,7 @@ Hier de inhoud.
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="language-arduino dwengo-code">
+        <code class="language-arduino">
             My code here.
         </code>
     </pre>

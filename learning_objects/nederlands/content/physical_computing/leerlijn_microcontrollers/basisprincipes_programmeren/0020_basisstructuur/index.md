@@ -27,9 +27,9 @@ teacher_exclusive: false
 Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar ons eerste programma uit het leerpad over invoer, verwerking en uitvoer. Dit programma zorgde ervoor dat led 13 ging branden wanneer de sonarsensor beweging detecteerde. Hieronder zie je die code opnieuw weergegeven. In de commentaar staan de verschillende onderdelen van de code aangeduid.
 
 
-<div class="dwengo-content dwengocode-simulator">
+<div class="dwengo-content dwengo-code-simulator">
 <pre>
-<code class="language-arduino dwengo-code">
+<code class="language-arduino">
 
     /*
         ONDERDEEL 1: Het koppelen van bibliotheken.
