@@ -24,14 +24,14 @@ teacher_exclusive: false
 
 # Delay
 
-Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitgevoerd. Soms is het echter nodig om de uitvoering van je programma even te pauzeren. Hiervoor kan je de <code class="language-cpp">delay(tijd_in_ms)<code> functie gebruiken. Hier vul je op de plaats van <code class="language-cpp">tijd_in_ms<code> in hoe lang je wil wachten. Bijvoorbeeld:
 
-<pre>
-    <code class="language-cpp">
-delay(5000); // Deze instructie zorgt dat de uitvoering van de code hier 5000ms (= 5s) wacht. 
-    </code>
-</pre>
 
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met 1Hz). 
+        <div>
         <pre>
 <code class="language-cpp">
 
@@ -48,12 +48,6 @@ delay(5000); // Deze instructie zorgt dat de uitvoering van de code hier 5000ms 
     }
 </code>
         </pre> 
-
-<div class="dwengo-content assignment">
-    <h2 class="title">Opdracht</h2>
-    <div class="content">
-        Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met 1Hz). 
-        <div>
         </div>
     </div>
 </div>
