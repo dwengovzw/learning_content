@@ -90,7 +90,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning_oplossing",
+              "hruid": "leerlijn_basis_programmeren_lussen_oplossing",
               "version": "1",
               "language": "nl"
             }
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning_oplossing",
+        "learningobject_hruid": "leerlijn_basis_programmeren_lussen_oplossing",
         "version": "1",
         "language": "nl",
         "transitions": [
