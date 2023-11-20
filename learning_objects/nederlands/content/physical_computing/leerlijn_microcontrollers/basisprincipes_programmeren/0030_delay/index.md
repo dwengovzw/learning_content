@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Delay
 
-Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitgevoerd. Soms is het echter nodig om de uitvoering van je programma even te pauzeren. Hiervoor kan je de <code class="language-cpp">delay(tijd_in_ms)<code> functie gebruiken. Hier vul je op de plaats van <code class="language-cpp">tijd_in_ms<code> in hoe lang je wil wachten. Bijvoorbeeld: <code class="language-cpp">delay(5000);</code>
+Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitgevoerd. Soms is het echter nodig om de uitvoering van je programma even te pauzeren. Hiervoor kan je de <code class="language-cpp">delay(tijd_in_ms)<code> functie gebruiken. Hier vul je op de plaats van <code class="language-cpp">tijd_in_ms<code> in hoe lang je wil wachten. Bijvoorbeeld: 
 
 
 <div class="dwengo-content assignment">
