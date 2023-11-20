@@ -113,3 +113,10 @@ Alle code die in de <code class="language-cpp">setup()</code> functie staat word
 ## ONDERDEEL 4: De loop() functie
 
 Alle code in de <code class="language-cpp">loop()</code> functie wordt herhaald tot je het programma stopt (bv. door de stroom uit te trekken of op de reset knop te drukken). Deze functie bevat de belangrijkste logica van je programma.
+
+<div class="dwengo-content important">
+<h2 class="title">OPGELET!</h2>
+<div class="content">
+In C++ eindigt elke lijn op een <code class="language-cpp">;</code>. Vergeet deze <code class="language-cpp">;</code> niet anders zal het niet mogelijk zijn om je programma uit te voeren!
+</div>
+</div>
