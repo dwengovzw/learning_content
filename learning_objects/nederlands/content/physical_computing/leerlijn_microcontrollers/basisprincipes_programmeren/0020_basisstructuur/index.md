@@ -92,6 +92,24 @@ Om een bibliotheek te koppelen, gebruik je steeds het <code class="language-cpp"
 
 In dit onderdeel definieer je **globale** **definities** en **variabelen**. Ze zijn **globaal** omdat je de waarde ervan overal in je programma kan gebruiken. Van **definities** kan je de waarde overal in je programma opvragen. **Je kan de waarde van een definitie echter niet aanpassen**. Deze behoudt dus altijd de waarde die deze in het begin van het programma kreeg. Van variabelen kan je de waarde ook overal in je programma opvragen maar je kan de waarde van een variabele ook **overal in je programma aanpassen**.
 
-Een definitie definieer je aan de hand van een <code class="language-cpp">#define</code>. Erna schrijf je de naam van de definitie in drukletters. Na de naam volgt de waarde die de definitie moet krijgen. Bijvoorbeeld: <code class="language-cpp">#define TRIGGER_PIN 11</code>.
+Een definitie definieer je aan de hand van een <code class="language-cpp">#define</code>. Erna schrijf je de naam van de definitie in drukletters. Na de naam volgt de waarde die de definitie moet krijgen. Bijvoorbeeld: <pre><code class="language-cpp">#define TRIGGER_PIN 11</code></pre>.
 
-Een variabele heeft een type, een naam en een waarde. Het type geeft aan welke soorten waarden je kan opslaan in de variable. Hier gebruiken we een variabele van het type <code class="language-cpp">NewPing</code> met de naam <code class="language-cpp">sonar</code> en een variabele van het type <code class="language-cpp">int</code> met de naam <code class="language-cpp">afstand</code>.
+Een variabele heeft een type, een naam en een waarde. Het type geeft aan welke soorten waarden je kan opslaan in de variable. Hier gebruiken we een variabele van het type <code class="language-cpp">NewPing</code> met de naam <code class="language-cpp">sonar</code> en een variabele van het type <code class="language-cpp">int</code> met de naam <code class="language-cpp">afstand</code>. Merk op dat het niet verplict is om een variabele ook onmiddelijk een waarde te geven. Dat kan ook later in het programma. In onze code gebruiken we bijvoorbeeld:
+
+<pre>
+    <code class="language-cpp">int afstand;</code>
+</pre>
+
+om onze variabele aan te maken. Later in het programma geven we de variabele een waarde gelijk aan de gemeten afstand:
+
+<pre>
+    <code class="language-cpp">afstand = sonar.ping_cm();</code>
+</pre>
+
+## ONDERDEEL 3: De setup() functie
+
+Alle code die in de <code class="language-cpp">setup()</code> functie staat wordt één keer uitgevoerd in het begin van het programma, nadat de globale definities en variabelen zijn aangemaakt. Gebruik deze functie om de starttoestand van je programma in te stellen.
+
+## ONDERDEEL 4: De loop() functie
+
+Alle code in de <code class="language-cpp">loop()</code> functie wordt herhaald tot je het programma stopt (bv. door de stroom uit te trekken of op de reset knop te drukken). Deze functie bevat de belangrijkste logica van je programma.
