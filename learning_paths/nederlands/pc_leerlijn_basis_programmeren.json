@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_wet_van_ohm",
+              "hruid": "leerlijn_basis_programmeren_delay",
               "version": "1",
               "language": "nl"
             }
@@ -53,14 +53,14 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_wet_van_ohm",
+        "learningobject_hruid": "leerlijn_basis_programmeren_delay",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten",
+              "hruid": "leerlijn_basis_programmeren_delay_oplossing",
               "version": "1",
               "language": "nl"
             }
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten",
+        "learningobject_hruid": "leerlijn_basis_programmeren_delay_oplossing",
         "version": "1",
         "language": "nl",
         "transitions": [
