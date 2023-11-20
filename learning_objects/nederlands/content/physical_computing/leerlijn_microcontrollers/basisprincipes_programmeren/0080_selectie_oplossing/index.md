@@ -24,17 +24,10 @@ teacher_exclusive: false
 
 # Selectie: if-then-else (oplossing)
 
-
-
-
-<div class="dwengo-content assignment">
-    <h2 class="title">Opdracht</h2>
-    <div class="content">
-        Vul de code in de loop functie aan zodat led 13 gaat branden als je de zuid-knop indrukt en uitgaat wanneer je de knop loslaat. 
-        <div class="dwengo-content dwengo-code-simulator">
-        <pre>
-<code class="language-cpp">
-
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+        <code class="language-arduino">
+    
     #include <Dwenguino.h>
 
     void setup(){
@@ -52,7 +45,5 @@ teacher_exclusive: false
         delay(50);
     }
 </code>
-        </pre> 
-        </div>
-    </div>
+    </pre>
 </div>

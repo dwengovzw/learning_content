@@ -28,9 +28,11 @@ Met een selectie kunnen we "selecteren" welke code er uitgevoerd zal worden. Dez
 
 ```arduino
 if (digitalRead(SW_S) == LOW){
-    // Voer deze code uit als de waarde van de pin SW_S laag is (= de zuid knop is ingedrukt).
+    // Voer deze code uit als de waarde van de pin SW_S laag is 
+    // (= de zuid knop is ingedrukt).
 } else {
-    // Voer deze code uit als de waarde van de pin SW_S hoog is (= de zuid knop is niet ingedrukt).
+    // Voer deze code uit als de waarde van de pin SW_S hoog is 
+    // (= de zuid knop is niet ingedrukt).
 }
 ```
 
