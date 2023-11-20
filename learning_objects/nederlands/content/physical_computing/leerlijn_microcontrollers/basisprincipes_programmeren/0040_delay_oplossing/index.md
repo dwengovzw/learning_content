@@ -27,7 +27,7 @@ teacher_exclusive: true
 <pre>
     <code class="language-cpp">
 
-    #include <Dwenguino.h>
+    #include &lt;Dwenguino.h&gt;
 
     void setup(){
         initDwenguino();
