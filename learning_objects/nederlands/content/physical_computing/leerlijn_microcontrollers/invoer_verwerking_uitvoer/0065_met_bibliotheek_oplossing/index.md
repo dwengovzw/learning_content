@@ -45,9 +45,9 @@ In onderstaande code staat in de commentaar aangegeven welke lijnen te maken heb
      * te communiceren met de sensor. 
      * Hier stel je ook al in met welke pinnen de sensor verbonden is
      * en wat de maximale afstand is dat die mag/kan meten.*/
-    NewPing sonar(
-        TRIGGER_PIN, 
-        ECHO_PIN, 
+    NewPing sonar = NewPing(
+        TRIGGER_PIN,
+        ECHO_PIN,
         MAX_DISTANCE);
     int afstand;
 
