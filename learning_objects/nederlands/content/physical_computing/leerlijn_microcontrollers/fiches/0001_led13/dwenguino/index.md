@@ -66,47 +66,52 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led 13 laten branden</h3>
             <p class="example_item_content">
                 <pre><code class="language-arduino">
-#include &lt;Wire.h&gt;
-#include &lt;Dwenguino.h&gt;
-#include &lt;LiquidCrystal.h&gt;
+                
+    /*
+        ONDERDEEL 1: Het koppelen van bibliotheken.
+    */
+    #include <Wire.h>
+    #include <Dwenguino.h>
+    #include <LiquidCrystal.h>
+    #include <NewPing.h>
 
-void setup()
-{
-    initDwenguino();
-    pinMode(13, OUTPUT);
-    digitalWrite(13, HIGH);
-}
+    /*
+        ONDERDEEL 2: Definiëren van constanten en globale variabelen.
+    */
+    #define TRIGGER_PIN 11
+    #define ECHO_PIN 12
+    #define MAX_DISTANCE 200
 
-void loop()
-{
+    NewPing sonar = NewPing(
+        TRIGGER_PIN,
+        ECHO_PIN,
+        MAX_DISTANCE);
+    int afstand;
 
-}
-                </code></pre> 
-            </p>
-        </div>
-        <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led 13 laten knipperen</h3>
-            <p class="example_item_content">
-                <pre><code class="language-arduino">
-#include &lt;Wire.h&gt;
-#include &lt;Dwenguino.h&gt;
-#include &lt;LiquidCrystal.h&gt;
+    /*
+        ONDERDEEL 3: De setup() functie,
+        deze functie wordt één keer opgeroepen bij de start van je programma.
+    */
 
-void setup()
-{
-    initDwenguino();
-    pinMode(13, OUTPUT);
+    void setup(){
+        initDwenguino();
+        pinMode(13, OUTPUT);
+    }
 
-}
-
-void loop()
-{
-    digitalWrite(13, HIGH);
-    delay(1000);
-    digitalWrite(13, LOW);
-    delay(1000);
-
-}
+    /*
+        ONDERDEEL 4: De loop() functie,
+        deze functie wordt telkens opnieuw opgeroepen
+        tot wanneer het programma stopt.
+    */
+    void loop(){
+        afstand = sonar.ping_cm();
+        if (afstand > 0 && afstand < 100){
+            digitalWrite(13, HIGH);
+        } else {
+            digitalWrite(13, LOW);
+        }
+        delay(100);
+    }
                 </code></pre> 
             </p>
         </div>
