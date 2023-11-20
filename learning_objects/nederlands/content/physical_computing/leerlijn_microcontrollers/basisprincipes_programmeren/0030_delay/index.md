@@ -38,7 +38,7 @@ Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitge
     <div class="content">
         Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met 1Hz). 
         <pre>
-            <code class="language-cpp">
+<code class="language-cpp">
 
     #include &lt;Dwenguino.h&gt;
 
@@ -51,8 +51,7 @@ Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitge
         digitalWrite(13, HIGH);
         digitalWrite(13, LOW);
     }
-
-            </code>
+</code>
         </pre> 
     </div>
 </div>
