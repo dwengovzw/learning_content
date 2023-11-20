@@ -32,7 +32,7 @@ In C++ zijn er twee manieren om om commentaar te schrijven. De eerste manier noe
     <code class="language-cpp">// De computer zal deze lijn negeren tijdens het uitvoeren.</code>
 </pre>
 
-Een tweede soort commentaar noemen we **blok-commentaar**. Met blok-commentaar kunnen we ervoor zorgen dat meerdere lijnen van ons programma niet worden uitgevoerd. Blok commentaar staat tussen <code class="language-cpp">/*</code> en <code class="language-cpp">*/</code>
+Een tweede soort commentaar noemen we **blok-commentaar**. Met blok-commentaar kunnen we ervoor zorgen dat meerdere lijnen van ons programma niet worden uitgevoerd. Blok commentaar staat tussen <code class="language-cpp">/\*</code> en <code class="language-cpp">\*/</code>
 
 <pre>
     <code class="language-cpp">
