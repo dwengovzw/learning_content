@@ -31,12 +31,12 @@ for (int i = 0 ; i < 10 ; i++){
     // Wat hier staat zal 10 keer herhaalt worden.
 }
 ```
-
+Deze lus start met een variabele `i` van het type `int` die de waarde `0` heeft. De lus blijft herhalen zolang `i < 10`. Telkens we de lus doorlopen hebben, verhogen we i met 1: `i++` dit is een verkorte versie van `i = i + 1`.
 
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
     <div class="content">
-        Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met frequentie van 1Hz). 
+        Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats een for-lus toe om ervoor te zorgend dat de led 10 keer aan en uit gaat. Erna stop het programma. 
         <div class="dwengo-content dwengo-code-simulator">
         <pre>
 <code class="language-cpp">
@@ -46,11 +46,14 @@ for (int i = 0 ; i < 10 ; i++){
     void setup(){
         initDwenguino();
         pinMode(13, OUTPUT);
+        digitalWrite(13, HIGH);
+        delay(500);
+        digitalWrite(13, LOW);
+        delay(500);
     }
 
     void loop(){
-        digitalWrite(13, HIGH);
-        digitalWrite(13, LOW);
+        // De loop is hier leeg.
     }
 </code>
         </pre> 
