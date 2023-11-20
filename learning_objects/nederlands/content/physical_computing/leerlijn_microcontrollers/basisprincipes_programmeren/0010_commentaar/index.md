@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Commentaar
 
-In de voorbeelde die volgen, gebruiken we vaak commentaar om uitlegt te geven. Commentaar zijn stukken tekst in de code die niet uitgevoerd zullen worden. We kunnen er dus schrijven wat we willen zonder de computer in de war te brengen.
+In de voorbeelden die volgen, gebruiken we vaak commentaar om uitlegt te geven. Commentaar zijn stukken tekst in de code die niet uitgevoerd zullen worden. We kunnen er dus schrijven wat we willen zonder de computer in de war te brengen.
 
 In C++ zijn er twee manieren om om commentaar te schrijven. De eerste manier noemen we **lijn-commentaar**. Met deze soort commentaar kunnen we ervoor zorgen dat, zoals de naam al aangeeft, één regel van ons programma niet wordt uitgevoerd. Lijn-commentaar begint met een <code class="language-cpp">//</code>.
 
