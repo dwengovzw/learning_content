@@ -78,7 +78,7 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
     }
 </code>
 </pre>
-</div>
+</div><br>
 
 
 ## ONDERDEEL 1: Het koppelen van bibliotheken
