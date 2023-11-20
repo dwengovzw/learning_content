@@ -37,19 +37,21 @@ Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitge
     <div class="content">
         Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met 1Hz). 
         <pre>
-            <code class="language-cpp">
-#include <Dwenguino.h>
+<code class="language-cpp">
 
-void setup(){
-  initDwenguino();
-  pinMode(13, OUTPUT);
-}
+    #include <Dwenguino.h>
 
-void loop(){
-  digitalWrite(13, HIGH);
-  digitalWrite(13, LOW);
-}
-            </code>
+    void setup(){
+    initDwenguino();
+    pinMode(13, OUTPUT);
+    }
+
+    void loop(){
+    digitalWrite(13, HIGH);
+    digitalWrite(13, LOW);
+    }
+
+</code>
         </pre> 
     </div>
 </div>
