@@ -58,5 +58,6 @@ Merk op dat de waarden op de x-as maar gaan tot \\(40\\,\mathrm{mA}\\), dit is d
         Zoals je kan lezen op de componentfiche van led 13, moet je altijd een weerstand in serie schakelen met een led. Dit doe je om de stroom te beperken die door de led gaat. Een led heeft zelf geen weerstand maar veroorzaakt wel een spanningsval. Deze spanningsval hangt af van het kleur en het type van de led. De weerstandswaarde hangt dus af van de spanningsval over de led en de maximale stroom die door de led mag lopen. We kunnen deze weerstandswaarde berekenen met de volgende formule.
         \[\mathrm{R} = \frac{\mathrm{V_{cc}} - \mathrm{V_l}}{\mathrm{I_{max}}}\]
         waarbij \(\mathrm{V_{cc}} = 5\,\mathrm{V}\), \(\mathrm{I_{max}}\) de maximale stroom is door de led (meestal ongeveer \(20\,\mathrm{mA}\)) en \(\mathrm{V_{l}}\) gelijk is aan de spanningsval over de led. Plotten we deze functie dan kunnen we op de grafiek de weerstandswaarde aflezen voor elke \(\mathrm{V_{l}}\).
+        <img src="img/weerstand_led.png"></img>
     </div>
 </div>
