@@ -32,12 +32,6 @@ delay(5000); // Deze instructie zorgt dat de uitvoering van de code hier 5000ms 
     </code>
 </pre>
 
-
-<div class="dwengo-content assignment">
-    <h2 class="title">Opdracht</h2>
-    <div class="content">
-        Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met 1Hz). 
-        <div>
         <pre>
 <code class="language-cpp">
 
@@ -54,6 +48,12 @@ delay(5000); // Deze instructie zorgt dat de uitvoering van de code hier 5000ms 
     }
 </code>
         </pre> 
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met 1Hz). 
+        <div>
         </div>
     </div>
 </div>
