@@ -28,7 +28,7 @@ Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitge
 
 <pre>
     <code class="language-cpp">
-    delay(5000); // Deze instructie zorgt dat de uitvoering van de code hier 5000ms (= 5s) wacht. 
+delay(5000); // Deze instructie zorgt dat de uitvoering van de code hier 5000ms (= 5s) wacht. 
     </code>
 </pre>
 
