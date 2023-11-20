@@ -24,8 +24,10 @@ teacher_exclusive: true
 
 # Delay (oplossing)
 
-<pre>
-    <code class="language-cpp">
+
+<div class="dwengo-content dwengo-code-simulator">
+        <pre>
+<code class="language-cpp">
 
     #include &lt;Dwenguino.h&gt;
 
@@ -40,5 +42,7 @@ teacher_exclusive: true
         digitalWrite(13, LOW);
         delay(500);
     }
-    </code>
-</pre> 
+</code>
+        </pre> 
+        </div>
+ 
