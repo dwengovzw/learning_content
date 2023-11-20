@@ -36,9 +36,9 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
 #define ECHO_PIN 12
 #define MAX_DISTANCE 200
 
-NewPing sonar(
-    TRIGGER_PIN, 
-    ECHO_PIN, 
+NewPing sonar = NewPing(
+    TRIGGER_PIN,
+    ECHO_PIN,
     MAX_DISTANCE);
 int afstand;
 

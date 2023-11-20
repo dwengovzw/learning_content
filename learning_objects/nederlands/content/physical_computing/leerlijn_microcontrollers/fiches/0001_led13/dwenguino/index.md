@@ -67,17 +67,11 @@ teacher_exclusive: false
             <p class="example_item_content">
                 <pre><code class="language-arduino">
                 
-    /*
-        ONDERDEEL 1: Het koppelen van bibliotheken.
-    */
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
     #include <NewPing.h>
 
-    /*
-        ONDERDEEL 2: Definiëren van constanten en globale variabelen.
-    */
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
     #define MAX_DISTANCE 200
@@ -88,21 +82,11 @@ teacher_exclusive: false
         MAX_DISTANCE);
     int afstand;
 
-    /*
-        ONDERDEEL 3: De setup() functie,
-        deze functie wordt één keer opgeroepen bij de start van je programma.
-    */
-
     void setup(){
         initDwenguino();
         pinMode(13, OUTPUT);
     }
 
-    /*
-        ONDERDEEL 4: De loop() functie,
-        deze functie wordt telkens opnieuw opgeroepen
-        tot wanneer het programma stopt.
-    */
     void loop(){
         afstand = sonar.ping_cm();
         if (afstand > 0 && afstand < 100){
