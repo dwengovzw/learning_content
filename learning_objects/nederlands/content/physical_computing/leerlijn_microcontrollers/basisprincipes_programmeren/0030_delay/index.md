@@ -35,7 +35,7 @@ Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitge
         <pre>
 <code class="language-cpp">
 
-    #include &lt;Dwenguino.h&gt;
+    #include <Dwenguino.h>
 
     void setup(){
         initDwenguino();
