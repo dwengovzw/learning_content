@@ -100,9 +100,9 @@ De naam van een variabele mag je vrij kiezen. Deze mag letters, cijfers en lage 
 
 Er zijn verschillende stijlen waarin je de namen van je variabelen kan schrijven. De stijl die meestal gebruikt wordt in C++, en ook in de voorbeelden in deze leerlijn, is **camelCase**. Bij **camelCase** begint het eerste woord in de variabele met een kleine letter. Elk volgend woord begint met een hoofdletter. Bijvoorbeeld:
 
-- analogeWaardePin
-- afstand
-- waardeKnop
+- `analogeWaardePin`
+- `afstand`
+- `waardeKnop`
 
 <div class="dwengo-content sideinfo">
     <h2 class="title">Wist je dat!</h2>
