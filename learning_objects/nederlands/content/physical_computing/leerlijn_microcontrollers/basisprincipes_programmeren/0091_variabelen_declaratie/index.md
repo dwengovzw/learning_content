@@ -24,13 +24,13 @@ teacher_exclusive: false
 
 # Variabelen (delcaratie)
 
-Bekijk je de declaratie van dichterbij dan zal je zien dat deze uit twee delen bestaat: 1) Het type van de variabele. 2) De naam van de variabele die je in je programma zal gebruiken om ernaar te verwijzen.
+Bekijk je de declaratie van dichterbij dan zal je zien dat deze uit twee delen bestaat: 1) Het type van de variabele. 2) De naam van de variabele.
 
 <pre>
     <code class="language-cpp">
         /*          declaratie                  toekenning
-        <----------------------------------><---------------> 
-           type             naam
+        <-------------------------------><---------------> 
+             type            naam
         <-----------><------------------>*/
         unsigned char digitaleWaardePin6 = digitalRead(6);
     </code>
