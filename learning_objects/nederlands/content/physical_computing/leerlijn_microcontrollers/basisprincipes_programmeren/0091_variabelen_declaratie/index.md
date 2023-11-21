@@ -104,7 +104,7 @@ Zoals we al meerdere keren hebben aangegeven, is de leersbaarheid van je code ze
     <li>Probeer ervoor te zorgen dat namen van variabelen niet eindeloos lang worden.</li>
 </ul>
 
-Als je bijvoorbeeld een rijdende robot bouwt die een sensor heeft waarmee deze de afstand tot de muur meet. Kies voor de gemeten afstand bijvoorbeeld de naam <code class="language-cpp">afstandTotMuur</code> en niet <code class="language-cpp">afstand</code>, <code class="language-cpp">deGemetenAfstandVanDeRobotTotDeMuurDieVoorDeRobotStaat</code> of nog onduidelijker <code class="language-cpp">a</code>
+Als je bijvoorbeeld een rijdende robot bouwt die een sensor heeft waarmee deze de afstand tot de muur meet. Kies voor de gemeten afstand bijvoorbeeld de naam <code class="language-cpp">afstandTotMuur</code> en niet <code class="language-cpp">afstand</code>, <code class="language-cpp">deGemetenAfstandVanDeRobotTotDeMuurDieVoorDeRobotStaat</code> of nog onduidelijker <code class="language-cpp">a</code>.
 
 
 ### 2. Gebruik overal dezelfde stijl
