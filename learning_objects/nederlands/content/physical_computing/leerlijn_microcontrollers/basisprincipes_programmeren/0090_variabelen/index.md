@@ -28,7 +28,7 @@ In het leerpad over invoer-verwerking-uitvoer zagen we al hoe we een digitale en
 
 <pre>
     <code class="language-cpp">
-        unsigned char digitale_waarde_pin_6 = digitalRead(6);
+        unsigned digitaleWaardePin6 = digitalRead(6);
     </code>
 </pre> 
 
@@ -37,8 +37,8 @@ Bovenstaande lijn code is relatief kort maar ze bevat wel heel wat programmeerco
 <pre>
     <code class="language-cpp">
         /*          declaratie                  toekenning
-        <----------------------------------><---------------> */
-        unsigned char digitale_waarde_pin_6 = digitalRead(6);
+        <-------------------------------><---------------> */
+        unsigned char digitaleWaardePin6 = digitalRead(6);
     </code>
 </pre> 
 
@@ -47,13 +47,13 @@ In het bovenstaande voorbeeld gebeuren de **declaratie** en **toekenning** in de
 <pre>
     <code class="language-cpp">
         /*          declaratie              
-        <----------------------------------> */
-        unsigned char digitale_waarde_pin_6;
+        <-------------------------------> */
+        unsigned char digitaleWaardePin6;
         
         // Hier komt nog andere code.
         /*            toekenning
-        <-------------------------------------> */
-        digitale_waarde_pin_6 = digitalRead(6);
+        <----------------------------------> */
+        digitaleWaardePin6 = digitalRead(6);
     </code>
 </pre> 
 
