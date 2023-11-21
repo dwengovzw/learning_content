@@ -38,6 +38,22 @@ Bekijk je de declaratie van dichterbij dan zal je zien dat deze uit twee delen b
 
 ## Het type van een variabele
 
+Het type van de variabele geeft aan welke soort informatie we erin kunnen opslaan. C++ heeft heel wat ingebouwde types. In onderstaande tabel zie je een overzicht.
+
+<table>
+    <tr>
+        <th>Code</th>
+        <th>Mogelijke waarden</th>
+        <th>Aantal bits</th>
+        <th>Beschrijving</th>
+    </tr>
+    <tr>
+        <td><code class="language-cpdd">char</code></td>
+        <td>\(\left[-127, 127\right]\)</td>
+        <td>8</td>
+        <td><code class="language-cpdd">char</code> komt van character. Dit is het kleinst moegelijke datatype in C++.</td>
+    </tr>
+</table>
 
 
 In het bovenstaande voorbeeld gebeuren de **declaratie** en **toekenning** in dezelfde lijn. Je kan deze twee operaties ook uit elkaar trekken:
