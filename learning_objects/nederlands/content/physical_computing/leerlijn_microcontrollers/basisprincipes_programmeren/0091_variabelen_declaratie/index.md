@@ -75,7 +75,7 @@ Het type van de variabele geeft aan welke soort informatie we erin kunnen opslaa
         <td><code class="language-cpp">float</code></td>
         <td>minimum: \(1.2\mathrm{e}^{-38}\), maximum: \(3.4\mathrm{e}^{38}\) (volgens IEEE binary32)</td>
         <td>32</td>
-        <td>Het <code class="language-cpp">float</code> bevat kommagetallen in "vlottende komma" notatie. Dit is een 32-bit benadering van een kommagetal. Omdat er maar 32 bits beschikbaar zijn kan je niet alle mogelijke kommagetallen erin opslaan. Bijgevolg is de opgeslagen waarde een benadering van de effectieve waarde.</td>
+        <td>Het <code class="language-cpp">float</code> type bevat kommagetallen in "vlottende komma" notatie. Dit is een 32-bit benadering van een kommagetal. Omdat er maar 32 bits beschikbaar zijn kan je niet alle mogelijke kommagetallen erin opslaan. Bijgevolg is de opgeslagen waarde een benadering van de effectieve waarde.</td>
     </tr>
 </table>
 
@@ -91,7 +91,7 @@ Er bestaan nog heel wat andere datatypes in C++, met die zal je later waarschijn
 
 ## De naam van de variabele
 
-De naam van een variabele mag je vrij kiezen. Deze mag letters, cijfers en lage streepjes (_) bevatten. Buiten deze beperking, legt C++ geen andere regels op waaraan variabelen moeten voldoen. Er zijn echter twee belangrijke **conventies** die je <strong>moet</strong> om duidelijke en leesbare code te schrijven. 
+De naam van een variabele mag je vrij kiezen. Deze mag letters, cijfers en lage streepjes (_) bevatten. Buiten deze beperking, legt C++ geen andere regels op waaraan variabelen moeten voldoen. Er zijn echter twee belangrijke **conventies** die je <strong>moet</strong> volgen om duidelijke en leesbare code te schrijven. 
 
 ### 1. Kies een duidelijke naam
 
