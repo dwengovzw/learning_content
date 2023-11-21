@@ -79,19 +79,40 @@ Het type van de variabele geeft aan welke soort informatie we erin kunnen opslaa
     </tr>
 </table>
 
+Er bestaan nog heel wat andere datatypes in C++, met die zal je later waarschijnlijk nog in contact komen.
 
-In het bovenstaande voorbeeld gebeuren de **declaratie** en **toekenning** in dezelfde lijn. Je kan deze twee operaties ook uit elkaar trekken:
+<div class="dwengo-content sideinfo">
+    <h2 class="title">Kies het juiste type!</h2>
+    <div class="content">
+        De µC heeft maar een beperkte rekenkracht. Om die zo optimaal te benutten, kies je dus best altijd voor het kleinst mogelijke datatype. Het <code class="language-cpp">char</code> type krijgt voorrang op het <code class="language-cpp">int</code> die dan weer voorrang krijgt op het <code class="language-cpp">float</code> type. Met andere woorden, als de data die je wil opslaan binnen een kleiner datatype past, sla het dan op in een variabele met dat kleinere datatype.
+    </div>
+</div>
 
-<pre>
-    <code class="language-cpp">
-        /*          declaratie              
-        <-------------------------------> */
-        unsigned char digitaleWaardePin6;
-        
-        // Hier komt nog andere code.
-        /*            toekenning
-        <---------------------------------> */
-        digitaleWaardePin6 = digitalRead(6);
-    </code>
-</pre> 
+
+## De naam van de variabele
+
+De naam van een variabele mag je vrij kiezen. Deze mag letters, cijfers en lage streepjes (_) bevatten. Buiten deze beperking, legt C++ geen andere regels op waaraan variabelen moeten voldoen. Er zijn echter twee belangrijke conventies die je <strong>moet</strong> om duidelijke en leesbare code te schrijven. 
+
+### 1. Kies een duidelijke naam
+
+
+### 2. Gebruik overal dezelfde stijl
+
+Er zijn verschillende stijlen waarin je de namen van je variabelen kan schrijven. De stijl die meestal gebruikt wordt in C++, en ook in de voorbeelden in deze leerlijn, is **camelCase**. Bij **camelCase** begint het eerste woord in de variabele met een kleine letter. Elk volgend woord begint met een hoofdletter. Bijvoorbeeld:
+
+- analogeWaardePin
+- afstand
+- waardeKnop
+
+<div class="dwengo-content sideinfo">
+    <h2 class="title">Wist je dat!</h2>
+    <div class="content">
+        Er bestaan nog heel wat andere stijlen voor variabelen. 
+        <ul>
+            <li>snake_case: waarbij tussen elk woord een laag streepje komt.</li>
+            <li>PascalCase: gelijkaardig aan camelCase maar begint ook altijd met een hoofdletter.</li>
+            <li>kebab-case: waarbij er tussen elk woord een gewoon streepje komt. De naam komt van de satéstok die door blokjes vlees en groenten zit. Merk op dat deze stijl niet mogelijk is in C++ omdat je geen streepjes kan gebruiken in namen van variabelen.</li>
+        </ul>
+    </div>
+</div>
 

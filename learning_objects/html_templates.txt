@@ -11,7 +11,7 @@ Hier de opdracht.
 
 <div class="dwengo-content sideinfo">
 <h2 class="title">Hier de titel van het weetje</h2>
-<div class="content>
+<div class="content">
 Hier de inhoud van het weetje
 </div>
 </div>
