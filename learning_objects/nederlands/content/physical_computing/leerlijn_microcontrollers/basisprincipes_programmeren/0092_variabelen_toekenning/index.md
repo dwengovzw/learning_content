@@ -29,9 +29,9 @@ De toekenning zorgt ervoor dat de variabele een waarde krijgt.
 <pre>
     <code class="language-cpp">
         /*          declaratie            
-        <-------------------------------> 
+        <-------------------------------> */
         unsigned char digitaleWaardePin6;
-                    toekenning
+        /*            toekenning
         <------------------------------->*/
         digitaleWaardePin6 = digitalRead(6);
     </code>
@@ -41,10 +41,10 @@ De waarde kan, zoals hierboven, een resultaat zijn van een functieoproep. Maar h
 
 <pre>
     <code class="language-cpp">
-        /*          declaratie            
-        <-------------------------------> 
+        /*        declaratie            
+        <------------------------------->*/ 
         unsigned char digitaleWaardePin6;
-            toekenning met constante
+        /*  toekenning met constante
         <------------------------------->*/
         digitaleWaardePin6 = 210;
     </code>
@@ -53,9 +53,9 @@ De waarde kan, zoals hierboven, een resultaat zijn van een functieoproep. Maar h
 <pre>
     <code class="language-cpp">
         /*          declaratie            
-        <-------------------------------> 
+        <------------------------------->*/
         unsigned char digitaleWaardePin6;
-            met berekening toekenning
+        /*  met berekening toekenning
         <------------------------------->*/
         digitaleWaardePin6 = 15 + 8;
     </code>
