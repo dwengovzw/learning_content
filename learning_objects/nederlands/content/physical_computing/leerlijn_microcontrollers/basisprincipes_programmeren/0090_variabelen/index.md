@@ -36,7 +36,7 @@ Bovenstaande lijn code is relatief kort maar ze bevat wel heel wat programmeerco
 
 <pre>
     <code class="language-cpp">
-        /*          declaratie                  toekenning
+        /*          declaratie               toekenning
         <-------------------------------><---------------> */
         unsigned char digitaleWaardePin6 = digitalRead(6);
     </code>
