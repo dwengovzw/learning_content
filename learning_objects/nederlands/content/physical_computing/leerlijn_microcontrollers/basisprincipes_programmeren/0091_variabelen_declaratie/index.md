@@ -111,7 +111,7 @@ Er zijn verschillende stijlen waarin je de namen van je variabelen kan schrijven
         <ul>
             <li><code class="language-cpp">snake_case</code>: waarbij tussen elk woord een laag streepje komt.</li>
             <li><code class="language-cpp">PascalCase</code>: gelijkaardig aan camelCase maar begint ook altijd met een hoofdletter.</li>
-            <li><code class="language-python">kebab-case</code>: waarbij er tussen elk woord een gewoon streepje komt. De naam komt van de satéstok die door blokjes vlees en groenten zit. Merk op dat deze stijl niet mogelijk is in C++ omdat je geen streepjes kan gebruiken in namen van variabelen.</li>
+            <li><code class="language-css">kebab-case</code>: waarbij er tussen elk woord een gewoon streepje komt. De naam komt van de satéstok die door blokjes vlees en groenten zit. Merk op dat deze stijl niet mogelijk is in C++ omdat je geen streepjes kan gebruiken in namen van variabelen.</li>
         </ul>
     </div>
 </div>
