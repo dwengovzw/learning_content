@@ -55,8 +55,8 @@ teacher_exclusive: true
     </div>
 </div>
 
-
-[](@learning-object/leerlijn_invoer_basisprincipes_pull_up_weerstand/nl/1) 
+## Pull-up weerstand
+Zie leerpad over basisprincipes digitale elektronica: [De pull-up weerstand](@learning-object/leerlijn_invoer_basisprincipes_pull_up_weerstand/nl/1).
 
 
 <div class="dwengo-content assignment">
