@@ -135,6 +135,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "leerlijn_basis_programmeren_conditie",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_basis_programmeren_conditie",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "leerlijn_basis_programmeren_variabelen",
               "version": "1",
               "language": "nl"
