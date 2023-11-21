@@ -98,11 +98,21 @@ De naam van een variabele mag je vrij kiezen. Deze mag letters, cijfers en lage 
 
 ### 2. Gebruik overal dezelfde stijl
 
-Er zijn verschillende stijlen waarin je de namen van je variabelen kan schrijven. De stijl die meestal gebruikt wordt in C++, en ook in de voorbeelden in deze leerlijn, is **camelCase**. Bij **camelCase** begint het eerste woord in de variabele met een kleine letter. Elk volgend woord begint met een hoofdletter. Bijvoorbeeld:
+<table>
+    <tr>
+        <td>
+            Er zijn verschillende stijlen waarin je de namen van je variabelen kan schrijven. De stijl die meestal gebruikt wordt in C++, en ook in de voorbeelden in deze leerlijn, is <strong>camelCase</strong>. Bij <strong>camelCase</strong> begint het eerste woord in de variabele met een kleine letter. Elk volgend woord begint met een hoofdletter. Bijvoorbeeld:
+            <ul>
+                <li><code class="language-cpp">analogeWaardePin</code></li>
+                <li><code class="language-cpp">afstand</code></li>
+                <li><code class="language-cpp">waardeKnop</code></li>
+            </ul>
+        </td>
+        <td><img src="img/camelCase.png" alt="Illustration of a camel with the words camelCase above" title="Illustration of a camel with the words camelCase above"></img></td>
+    </tr>
 
-- `analogeWaardePin`
-- `afstand`
-- `waardeKnop`
+</table>
+
 
 <div class="dwengo-content sideinfo">
     <h2 class="title">Wist je dat!</h2>
