@@ -56,7 +56,7 @@ teacher_exclusive: true
 </div>
 
 
-![](@learning-object/leerlijn_invoer_basisprincipes_pull_up_weerstand/nl/1) 
+[](@learning-object/leerlijn_invoer_basisprincipes_pull_up_weerstand/nl/1) 
 
 
 <div class="dwengo-content assignment">
