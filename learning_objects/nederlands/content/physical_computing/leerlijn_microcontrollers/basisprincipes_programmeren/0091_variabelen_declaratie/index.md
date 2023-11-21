@@ -91,7 +91,7 @@ Er bestaan nog heel wat andere datatypes in C++, met die zal je later waarschijn
 
 ## De naam van de variabele
 
-De naam van een variabele mag je vrij kiezen. Deze mag letters, cijfers en lage streepjes (_) bevatten. Buiten deze beperking, legt C++ geen andere regels op waaraan variabelen moeten voldoen. Er zijn echter twee belangrijke conventies die je <strong>moet</strong> om duidelijke en leesbare code te schrijven. 
+De naam van een variabele mag je vrij kiezen. Deze mag letters, cijfers en lage streepjes (_) bevatten. Buiten deze beperking, legt C++ geen andere regels op waaraan variabelen moeten voldoen. Er zijn echter twee belangrijke **conventies** die je <strong>moet</strong> om duidelijke en leesbare code te schrijven. 
 
 ### 1. Kies een duidelijke naam
 
@@ -109,9 +109,9 @@ Er zijn verschillende stijlen waarin je de namen van je variabelen kan schrijven
     <div class="content">
         Er bestaan nog heel wat andere stijlen voor variabelen. 
         <ul>
-            <li>snake_case: waarbij tussen elk woord een laag streepje komt.</li>
-            <li>PascalCase: gelijkaardig aan camelCase maar begint ook altijd met een hoofdletter.</li>
-            <li>kebab-case: waarbij er tussen elk woord een gewoon streepje komt. De naam komt van de satéstok die door blokjes vlees en groenten zit. Merk op dat deze stijl niet mogelijk is in C++ omdat je geen streepjes kan gebruiken in namen van variabelen.</li>
+            <li><code class="language-cpp">snake_case</code>: waarbij tussen elk woord een laag streepje komt.</li>
+            <li><code class="language-cpp">PascalCase</code>: gelijkaardig aan camelCase maar begint ook altijd met een hoofdletter.</li>
+            <li><code class="language-cpp">kebab-case</code>: waarbij er tussen elk woord een gewoon streepje komt. De naam komt van de satéstok die door blokjes vlees en groenten zit. Merk op dat deze stijl niet mogelijk is in C++ omdat je geen streepjes kan gebruiken in namen van variabelen.</li>
         </ul>
     </div>
 </div>
