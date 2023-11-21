@@ -95,6 +95,17 @@ De naam van een variabele mag je vrij kiezen. Deze mag letters, cijfers en lage 
 
 ### 1. Kies een duidelijke naam
 
+Zoals we al meerdere keren hebben aangegeven, is de leersbaarheid van je code zeer belangrijk. Een belangrijke voorwaarde voor leesbare code is dat je duidelijke variabelenamen kiest. Zorg dat de naam van de variabele duidelijk beschrijft wat de inhoud ervan is. Volg daarvoor de volgende regels:
+
+<ul>
+    <li>Kies een naam gelinkt aan de probleemcontext.</li>
+    <li>Gebruik geen enkelvoudige letters als naam.</li>
+    <li>Probeer afkortingen te vermijden, schrijf woorden voluit.</li>
+    <li>Probeer ervoor te zorgen dat namen van variabelen niet eindeloos lang worden.</li>
+</ul>
+
+Als je bijvoorbeeld een rijdende robot bouwt die een sensor heeft waarmee deze de afstand tot de muur meet. Kies voor de gemeten afstand bijvoorbeeld de naam <code class="language-cpp">afstandTotMuur</code> en niet <code class="language-cpp">afstand</code>, <code class="language-cpp">deGemetenAfstandVanDeRobotTotDeMuurDieVoorDeRobotStaat</code> of nog onduidelijker <code class="language-cpp">a</code>
+
 
 ### 2. Gebruik overal dezelfde stijl
 
