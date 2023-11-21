@@ -49,3 +49,10 @@ Een pull-up weerstand wordt gebruikt om ervoor te zorgen dat een pin van de µC 
         </p>
     </div>
 </div>
+
+<div class="dwengo-content sideinfo">
+<h2 class="title">Interessant om te weten!</h2>
+    <div class="content">
+        In het schema van de pull-up weerstand zie je een voorbeeld van een <strong>externe</strong> pull-up weerstand. De µC heeft op elke pin ook een <strong>interne</strong> pull-up weerstand. Deze kan je activeren aan de hand van code. Wanneer je werkt met een µC is het dus meestal niet nodig om een externe pull-up weerstand op een pin aan te sluiten.
+    </div>
+</div>
