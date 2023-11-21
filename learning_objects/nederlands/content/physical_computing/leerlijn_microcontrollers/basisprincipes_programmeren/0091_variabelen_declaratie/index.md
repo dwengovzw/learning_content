@@ -28,7 +28,7 @@ Bekijk je de declaratie van dichterbij dan zal je zien dat deze uit twee delen b
 
 <pre>
     <code class="language-cpp">
-        /*          declaratie                  toekenning
+        /*          declaratie              toekenning
         <-------------------------------><---------------> 
              type            naam
         <-----------><------------------>*/
@@ -73,7 +73,7 @@ Het type van de variabele geeft aan welke soort informatie we erin kunnen opslaa
     </tr>
     <tr>
         <td><code class="language-cpp">float</code></td>
-        <td>minimum: \(1.2\mathrm{e}^{-38}\), maximum: \(3.4\mathrm{e}^{38}\) (volgens IEEE binary32)</td>
+        <td>minimum: \(1.2\mathrm{e}^{-38}\), maximum: \(3.4\mathrm{e}^{38}\) (volgens IEEE binary32 standaard)</td>
         <td>32</td>
         <td>Het <code class="language-cpp">float</code> type bevat kommagetallen in "vlottende komma" notatie. Dit is een 32-bit benadering van een kommagetal. Omdat er maar 32 bits beschikbaar zijn kan je niet alle mogelijke kommagetallen erin opslaan. Bijgevolg is de opgeslagen waarde een benadering van de effectieve waarde.</td>
     </tr>
