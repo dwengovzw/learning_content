@@ -64,8 +64,27 @@ if (digitalRead(SW_S) == LOW){
 </div>
 
 <div class="dwengo-content sideinfo">
-    <h2 class="title">Hier de titel van het weetje</h2>
+    <h2 class="title">Wist je dat!</h2>
     <div class="content">
         Merk op dat in de setup de lijn <code class="language-cpp">pinMode(SW_S, INPUT_PULLUP).</code> staat. Dit zorgt ervoor dat de pull-up weerstand van de pin SW_S automatisch ingeschakeld wordt. Weet jij nog hoe de schakeling van een pull-up weerstand eruitziet?
+    </div>
+</div>
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        Verander in je oplossing voor de vorige opdracht de lijn:
+        <pre>
+            <code class="language-cpp">
+                pinMode(SW_S, INPUT_PULLUP);
+            </code>
+        </pre>
+        in 
+        <pre>
+            <code class="language-cpp">
+                pinMode(SW_S, INPUT);
+            </code>
+        </pre>
+        Test je programma uit. Wat is het effect? Wat is de verklaring voor wat je ziet?
     </div>
 </div>
