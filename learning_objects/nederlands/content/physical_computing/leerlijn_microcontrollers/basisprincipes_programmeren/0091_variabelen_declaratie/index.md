@@ -71,6 +71,12 @@ Het type van de variabele geeft aan welke soort informatie we erin kunnen opslaa
         <td>16</td>
         <td>Het <code class="language-cpp">unsigned int</code> type kan enkel positieve gehele getallen bevatten.</td>
     </tr>
+    <tr>
+        <td><code class="language-cpp">float</code></td>
+        <td>minimum = \(1.2e^{-38}\), maximum: \(3.4e^{38}\) (volgens IEEE binary32)</td>
+        <td>32</td>
+        <td>Het <code class="language-cpp">float</code> bevat kommagetallen in "vlottende komma" notatie. Dit is een 32-bit benadering van een kommagetal. Omdat er maar 32 bits beschikbaar zijn kan je niet alle mogelijke kommagetallen erin opslaan. Bijgevolg is de opgeslagen waarde een benadering van de effectieve waarde.</td>
+    </tr>
 </table>
 
 
