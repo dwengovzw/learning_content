@@ -78,6 +78,6 @@ Wanneer je in je programma meerdere toekenningen hebt van dezelfde variable, zal
 <div class="dwengo-content sideinfo">
     <h2 class="title">Interessant!</h2>
     <div class="content">
-        Bij een toekenning gebruiken we een <code class="language-cpp">=</code> om een waarde toe te wijzen aan een variabele. Deze heeft een andere betekenis dan de \(=\) uit de wiskunde. In de wiskunde wil \(=\) zeggen dat de delen links en rechts ervan gelijk zijn. in code betekent <code class="language-cpp">=</code> dat we de waarde rechts van de <code class="language-cpp">=</code> toekennen aan de variabele aan de linker kant. We passen dus de waarde van de variabele aan.
+        Bij een toekenning gebruiken we een <code class="language-cpp">=</code> om een waarde toe te wijzen aan een variabele. Deze heeft een andere betekenis dan de \(=\) uit de wiskunde. In de wiskunde wil \(=\) zeggen dat de delen links en rechts ervan gelijk zijn. In code betekent <code class="language-cpp">=</code> dat we de waarde rechts van de <code class="language-cpp">=</code> toekennen aan de variabele aan de linker kant. We passen dus de waarde van de variabele aan.
     </div>
 </div>
