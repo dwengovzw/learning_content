@@ -47,3 +47,34 @@ teacher_exclusive: true
 </code>
     </pre>
 </div>
+
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        Vul de code in de loop functie aan zodat led 13 gaat branden als je de zuid-knop indrukt en uitgaat wanneer je de knop loslaat. 
+        <div class="dwengo-content dwengo-code-simulator">
+        <pre>
+<code class="language-cpp">
+
+    #include <Dwenguino.h>
+
+    void setup(){
+        initDwenguino();
+        pinMode(13, OUTPUT);
+        pinMode(SW_S, INPUT_PULLUP);
+    }
+
+    void loop(){
+        if (digitalRead(SW_S) == LOW){
+            digitalWrite(13, HIGH);
+        } else {
+            digitalWrite(13, LOW);
+        }
+        delay(50);
+    }
+</code>
+        </pre> 
+        </div>
+    </div>
+</div>
