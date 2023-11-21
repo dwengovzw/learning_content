@@ -57,13 +57,19 @@ Het type van de variabele geeft aan welke soort informatie we erin kunnen opslaa
         <td><code class="language-cpp">unsigned char</code></td>
         <td>\(\left[0, 255\right]\)</td>
         <td>8</td>
-        <td>Het <code class="language-cpp">unsigned char</code> type heeft evenveel bits als een <code class="language-cpdd">char</code> maar kan enkel positieve getallen bevatten.</td>
+        <td>Het <code class="language-cpp">unsigned char</code> type heeft evenveel bits als een <code class="language-cpp">char</code> maar kan enkel positieve getallen bevatten.</td>
     </tr>
     <tr>
         <td><code class="language-cpp">int</code></td>
         <td>\(\left[-32768, 32768\right]\)</td>
         <td>16</td>
-        <td>Het <code class="language-cpdd">int</code> type bevat net zoals het <code class="language-cpdd">char</code> <strong>gehele getallen</strong>. Het heeft echter een groter bereik.</td>
+        <td>Het <code class="language-cpp">int</code> type bevat net zoals het <code class="language-cpp">char</code> <strong>gehele getallen</strong>. Het heeft echter een groter bereik.</td>
+    </tr>
+    <tr>
+        <td><code class="language-cpp">unsigned int</code></td>
+        <td>\(\left[0, 65535\right]\)</td>
+        <td>16</td>
+        <td>Het <code class="language-cpp">unsigned int</code> type kan enkel positieve gehele getallen bevatten.</td>
     </tr>
 </table>
 
