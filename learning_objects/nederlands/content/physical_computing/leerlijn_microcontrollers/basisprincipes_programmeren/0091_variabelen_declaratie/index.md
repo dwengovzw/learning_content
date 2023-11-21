@@ -51,7 +51,13 @@ Het type van de variabele geeft aan welke soort informatie we erin kunnen opslaa
         <td><code class="language-cpdd">char</code></td>
         <td>\(\left[-127, 127\right]\)</td>
         <td>8</td>
-        <td><code class="language-cpdd">char</code> komt van character. Dit is het kleinst moegelijke datatype in C++.</td>
+        <td>Het <code class="language-cpdd">char</code> type is het kleinst moegelijke datatype in C++. Het komt van het woord character omdat 8 bits gebruikt werd om karakters/letters in op te slaan.</td>
+    </tr>
+    <tr>
+        <td><code class="language-cpdd">unsigned char</code></td>
+        <td>\(\left[0, 255\right]\)</td>
+        <td>8</td>
+        <td>Het <code class="language-cpdd">unsigned char</code> type heeft evenveel bits als een <code class="language-cpdd">char</code> maar kan enkel positieve getallen bevatten.</td>
     </tr>
 </table>
 
