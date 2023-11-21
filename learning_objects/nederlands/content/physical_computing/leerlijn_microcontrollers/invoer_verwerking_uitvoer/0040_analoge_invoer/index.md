@@ -27,11 +27,11 @@ teacher_exclusive: false
 De µC heeft speciale schakelingen die in staat zijn om een voltage op een pin om te zetten naar een getal. Deze schakeling zal een voltage tussen 0V en 5V registreren en omzetten naar een binair getal van 10 bits. Dit getal kunnen we in onze code dan lezen met de analogRead() functie van de arduino bibliotheek.
 
 ```cpp
-unsigned int analoge_waarde_pin_A0 = analogRead(A0);
+unsigned int analogeWaardePinA0 = analogRead(A0);
 ```
 
-- `analoge_waarde_pin_A0` is de variabele waarin we de analoge waarde opslaan.
-- `unsigned int` is het type van de variabele `analoge_waarde_pin_A0`. Variabelen van dit type bevatten getallen tussen **0 en 65535**.
+- `analogeWaardePinA0` is de variabele waarin we de analoge waarde opslaan.
+- `unsigned int` is het type van de variabele `analogeWaardePinA0`. Variabelen van dit type bevatten getallen tussen **0 en 65535**.
 - `analogRead(A0)` is de functie van de Arduino bibliotheek waarmee we de analoge waarde van pin A0 lezen.
 - `A0` is een constante gedefinieerd in de Arduino bibliotheek. Deze komt overeen met het nummer van een bepaalde pin. Bij de Arduino UNO is dit `14`. Voor de Dwenguino is dit pin nummer `24`. Op de Arduino Mega is het dan weer pin nummer `54`.
 
@@ -39,7 +39,7 @@ unsigned int analoge_waarde_pin_A0 = analogRead(A0);
     <h2 class="title">Inzichtsvraag</h2>
     <div class="content">
         <p>
-        Waarom gebruiken we bij het lezen van analoge invoer <code class="language-cpp">unsigned int</code> als type van de variabele <code class="language-cpp">analoge_waarde_pin_A0 </code> wanneer we bij het lezen van digitale invoer het type <code class="language-cpp">unsigned char</code> gebruiken?
+        Waarom gebruiken we bij het lezen van analoge invoer <code class="language-cpp">unsigned int</code> als type van de variabele <code class="language-cpp">analogeWaardePinA0 </code> wanneer we bij het lezen van digitale invoer het type <code class="language-cpp">unsigned char</code> gebruiken?
         </p>
     </div>
 </div>

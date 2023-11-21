@@ -2,7 +2,7 @@
 hruid: leerlijn_basis_programmeren_variabelen_declaratie
 version: 1
 language: nl
-title: "Variabelen"
+title: "Variabelen (delcaratie)"
 description: "Wat zijn variabelen en hoe kan je het gebruiken."
 keywords: ["programmeren", "variabele", "type", "int", "char", "unsigned", "float", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
@@ -22,38 +22,36 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Variabelen
+# Variabelen (delcaratie)
 
-In het leerpad over invoer-verwerking-uitvoer zagen we al hoe we een digitale en analoge waarde van een pin konden opslaan in een variabele, bijvoorbeeld:
-
-<pre>
-    <code class="language-cpp">
-        unsigned char digitale_waarde_pin_6 = digitalRead(6);
-    </code>
-</pre> 
-
-Bovenstaande lijn code is relatief kort maar ze bevat wel heel wat programmeerconcepten die we onder de knie moeten krijgen. Eerst en vooral bestaat de lijn uit twee delen: 1) Het aanmaken van de variabele ofwel de **declaratie**. 2) Een waarde geven aan de variabele ofwel de **toekenning**.
+Bekijk je de declaratie van dichterbij dan zal je zien dat deze uit twee delen bestaat: 1) Het type van de variabele. 2) De naam van de variabele die je in je programma zal gebruiken om ernaar te verwijzen.
 
 <pre>
     <code class="language-cpp">
         /*          declaratie                  toekenning
-        <----------------------------------><---------------> */
-        unsigned char digitale_waarde_pin_6 = digitalRead(6);
+        <----------------------------------><---------------> 
+           type             naam
+        <-----------><------------------>*/
+        unsigned char digitaleWaardePin6 = digitalRead(6);
     </code>
 </pre> 
+
+## Het type van een variabele
+
+
 
 In het bovenstaande voorbeeld gebeuren de **declaratie** en **toekenning** in dezelfde lijn. Je kan deze twee operaties ook uit elkaar trekken:
 
 <pre>
     <code class="language-cpp">
         /*          declaratie              
-        <----------------------------------> */
-        unsigned char digitale_waarde_pin_6;
+        <-------------------------------> */
+        unsigned char digitaleWaardePin6;
         
         // Hier komt nog andere code.
         /*            toekenning
-        <-------------------------------------> */
-        digitale_waarde_pin_6 = digitalRead(6);
+        <---------------------------------> */
+        digitaleWaardePin6 = digitalRead(6);
     </code>
 </pre> 
 
