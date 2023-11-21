@@ -24,33 +24,9 @@ teacher_exclusive: true
 
 # Selectie: if-then-else (oplossing)
 
-<div class="dwengo-content dwengo-code-simulator">
-    <pre>
-        <code class="language-arduino">
-    
-    #include <Dwenguino.h>
-
-    void setup(){
-        initDwenguino();
-        pinMode(13, OUTPUT);
-        pinMode(SW_S, INPUT_PULLUP);
-    }
-
-    void loop(){
-        if (digitalRead(SW_S) == LOW){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
-        }
-        delay(50);
-    }
-</code>
-    </pre>
-</div>
-
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht</h2>
+    <h2 class="title">Oplossing</h2>
     <div class="content">
         Vul de code in de loop functie aan zodat led 13 gaat branden als je de zuid-knop indrukt en uitgaat wanneer je de knop loslaat. 
         <div class="dwengo-content dwengo-code-simulator">
@@ -76,5 +52,13 @@ teacher_exclusive: true
 </code>
         </pre> 
         </div>
+    </div>
+</div>
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Oplossing</h2>
+    <div class="content">
+        Door de invoermodus <code class="language-cpp">INPUT_PULLUP</code> te gebruiken wordt de pull-up weerstand geactiveerd. Op die manier is de waarde op de pin, wanneer de knop niet wordt ingedrukt, altijd hoog. Wanneer je de knop indrukt wordt dan zal de waarde op de pin laag worden.
+        Gebruiken we invoermodus <code class="language-cpp">INPUT</code> dan wordt de pull-up weerstand niet geactiveerd. Bijgevolg "zweeft" de waarde van de pin wanneer de knop niet wordt ingedrukt. Led 13 zal dus op willekeurige momenten aan- en uitgaan.
     </div>
 </div>
