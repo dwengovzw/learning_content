@@ -1,10 +1,10 @@
 ---
-hruid: leerlijn_fiches_dwenguino_sonar
+hruid: leerlijn_fiches_dwenguino_ledmatrix
 version: 1
 language: nl
-title: "Sonar-sensor"
-description: "Een afstand meten met de sonar-sensor"
-keywords: ["afstand", "sonar", "fiche", "dwenguino"]
+title: "Ledmatrix"
+description: "Figuren maken met de ledmatrix"
+keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
