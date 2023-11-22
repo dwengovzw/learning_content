@@ -28,7 +28,7 @@ Een conditie is een stukje code dat als resultaat de waarde waar (<code class="l
 
 <pre>
     <code class="language-cpp">
-        // Controlleer of een afstand kleiner is dan 100.
+        // Controlleer of een afstand kleiner of gelijk is aan 100.
         afstand <= 100
         // Controleer of de waarde van pin 12 hoog is.
         digitalRead(12) == HIGH
@@ -36,5 +36,47 @@ Een conditie is een stukje code dat als resultaat de waarde waar (<code class="l
         isErLicht()
     </code>
 </pre>
+
+### Operatoren
+
+Meestal zie je een conditie onder de vorm van een vergelijking tussen twee waarden. Je wil bijvoorbeeld weten of een afstand **kleiner of gelijk** is aan 100. Deze **kleiner of gelijk** noemen we in een programmeertaal een vergelijkingsoperator. In de tabel hieronder zie je een overzicht van de vergelijkingsoperatoren in C++.
+
+<table>
+    <tr>
+        <th>Operator</th>
+        <th>Naam</th>
+        <th>Voorbeeld</th>
+    </tr>
+    <tr>
+        <th><code class="language-cpp">==</code></th>
+        <th>Gelijk</th>
+        <th><code class="language-cpp">afstand == 100</code></th>
+    </tr>
+    <tr>
+        <th><code class="language-cpp"></code>!=</th>
+        <th>Niet gelijk</th>
+        <th><code class="language-cpp"></code>digitalRead(sw_S) != HIGH</th>
+    </tr>
+    <tr>
+        <th><code class="language-cpp">&gt;</code></th>
+        <th>Groter dan</th>
+        <th><code class="language-cpp">afstand > 0</code></th>
+    </tr>
+    <tr>
+        <th><code class="language-cpp">&lt;</code></th>
+        <th>Kleiner dan</th>
+        <th><code class="language-cpp">afstand < 200</code></th>
+    </tr>
+    <tr>
+        <th><code class="language-cpp">>=</code></th>
+        <th>Groter of gelijk aan</th>
+        <th><code class="language-cpp">afstand >= 10</code></th>
+    </tr>
+    <tr>
+        <th><code class="language-cpp"><=</code></th>
+        <th>Kleiner of gelijk aan</th>
+        <th><code class="language-cpp">afstand <= 150</code></th>
+    </tr>
+</table>
 
 
