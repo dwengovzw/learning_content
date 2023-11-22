@@ -51,7 +51,7 @@ Het type van de variabele geeft aan welke soort informatie we erin kunnen opslaa
         <td><code class="language-cpp">char</code></td>
         <td>\(\left[-127, 127\right]\)</td>
         <td>8</td>
-        <td>Het <code class="language-cpp">char</code> type is het kleinst moegelijke datatype in C++. Het bevat enkel <strong>gehele getallen</strong> van -127 tot 127. Het komt van het woord character omdat 8 bits gebruikt werd om karakters/letters in op te slaan.</td>
+        <td>Het <code class="language-cpp">char</code> type is het kleinst moegelijke datatype in C++. Het bevat enkel <strong>gehele getallen</strong> van -127 tot 127. Het komt van het woord character omdat vroeger 8 bits gebruikt werd om karakters/letters in op te slaan.</td>
     </tr>
     <tr>
         <td><code class="language-cpp">unsigned char</code></td>
@@ -84,7 +84,7 @@ Er bestaan nog heel wat andere datatypes in C++, met die zal je later waarschijn
 <div class="dwengo-content sideinfo">
     <h2 class="title">Kies het juiste type!</h2>
     <div class="content">
-        De µC heeft maar een beperkte rekenkracht. Om die zo optimaal te benutten, kies je dus best altijd voor het kleinst mogelijke datatype. Het <code class="language-cpp">char</code> type krijgt voorrang op het <code class="language-cpp">int</code> die dan weer voorrang krijgt op het <code class="language-cpp">float</code> type. Met andere woorden, als de data die je wil opslaan binnen een kleiner datatype past, sla het dan op in een variabele met dat kleinere datatype.
+        De µC heeft maar een beperkte rekenkracht. Om die zo optimaal te benutten, kies je dus best altijd voor het kleinst mogelijke datatype. Het <code class="language-cpp">char</code> type krijgt voorrang op het <code class="language-cpp">int</code> type die dan weer voorrang krijgt op het <code class="language-cpp">float</code> type. Met andere woorden, als de data die je wil opslaan binnen een kleiner datatype past, sla het dan op in een variabele met dat kleinere datatype.
     </div>
 </div>
 
