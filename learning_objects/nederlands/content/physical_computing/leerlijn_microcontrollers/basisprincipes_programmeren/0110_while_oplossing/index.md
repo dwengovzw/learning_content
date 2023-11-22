@@ -38,11 +38,11 @@ teacher_exclusive: true
 
     void setup()
     {
-    initDwenguino();
-    pinMode(SW_S, INPUT_PULLUP);
-    while (digitalRead(SW_S) == HIGH){
-        // Doe niets, wacht tot knop wordt ingedrukt.
-    }
+        initDwenguino();
+        pinMode(SW_S, INPUT_PULLUP);
+        while (digitalRead(SW_S) == HIGH){
+            // Doe niets, wacht tot knop wordt ingedrukt.
+        }
     }
 
     void loop()
