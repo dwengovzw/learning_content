@@ -31,7 +31,8 @@ teacher_exclusive: true
     </div>
     <div class="dwengo-content dwengo-code-simulator">
         <pre>
-            <code class="language-arduino">
+<code class="language-arduino">
+
     #include <Wire.h>
     #include <Dwenguino.h>
 
@@ -51,7 +52,7 @@ teacher_exclusive: true
         digitalWrite(13, LOW);
         delay(500);
     }
-            </code>
+</code>
         </pre>
     </div>
 </div>
