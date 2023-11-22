@@ -46,7 +46,7 @@ Stel bijvoorbeeld dat je op meerder plaatsen in je programma een lampje wil late
 Je kan deze functie dan oproepen op andere plaatsten in je code. **Let wel op**: je moet ervoor zorgen dat de code die je functie definieert, zoals die hierboven. Voor de code staat waar de de functie oproept.
 
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
 
     #include <Wire.h>
     #include <Dwenguino.h>
