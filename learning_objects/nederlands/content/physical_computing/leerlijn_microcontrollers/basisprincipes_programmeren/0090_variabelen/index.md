@@ -28,7 +28,7 @@ In het leerpad over invoer-verwerking-uitvoer zagen we al hoe we een digitale en
 
 <pre>
     <code class="language-cpp">
-        unsigned digitaleWaardePin6 = digitalRead(6);
+        unsigned char digitaleWaardePin6 = digitalRead(6);
     </code>
 </pre> 
 
