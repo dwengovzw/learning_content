@@ -24,14 +24,14 @@ teacher_exclusive: false
 
 # Begrensde herhaling (for-lus)
 
-Zoals we al zagen wordt de code in de `loop()` functie herhaalt tot je het programma stopt. Als je een onderdeel van je code wil laten herhalen, maak je gebruik van een lus. Een eerste soort lus is de for-lus. Deze zal starten bij een bepaalde ondergrens en herhalen tot een bovengrens is bereikt. Daarom spreken we van een begrensde herhaling. Hieronder zie je een voorbeeld van zo'n for-lus.
+Zoals we al zagen wordt de code in de <code class="language-cpp">loop()</code> functie herhaalt tot je het programma stopt. Als je een onderdeel van je code wil laten herhalen, maak je gebruik van een lus. Een eerste soort lus is de for-lus. Deze zal starten bij een bepaalde ondergrens en herhalen tot een bovengrens is bereikt. Daarom spreken we van een begrensde herhaling. Hieronder zie je een voorbeeld van zo'n for-lus.
 
 ```arduino
 for (int i = 0 ; i < 10 ; i++){
     // Wat hier staat zal 10 keer herhaalt worden.
 }
 ```
-Deze lus start met een variabele `i` van het type `int` die de waarde `0` heeft. De lus blijft herhalen zolang `i < 10`. Telkens we de lus doorlopen hebben, verhogen we i met 1: `i++` dit is een verkorte versie van `i = i + 1`.
+Deze lus start met een variabele <code class="language-cpp">i</code> van het type <code class="language-cpp">int</code> die de waarde <code class="language-cpp">0</code> heeft. De lus blijft herhalen zolang <code class="language-cpp">i < 10</code>. Telkens we de lus doorlopen hebben, verhogen we i met 1: <code class="language-cpp">i++</code> dit is een verkorte versie van <code class="language-cpp">i = i + 1</code>.
 
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
