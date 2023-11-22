@@ -40,7 +40,7 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
     #include <NewPing.h>
 
     /*
-        ONDERDEEL 2: Definiëren van constanten en globale variabelen.
+        ONDERDEEL 2: Definities en globale variabelen.
     */
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
@@ -83,16 +83,16 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
 
 ## ONDERDEEL 1: Het koppelen van bibliotheken
  
-Bovenaan je programma koppel je de bibliotheken die je wil gebruiken. Op de Dwenguino zal je standaard altijd de Dwenguino bibliotheek (<code class="language-cpp">#include &lt;Dwenguino.h&gt;</code>) en de lcd bibliotheek (<code class="language-cpp">#include &lt;LiquidCrystal.h&gt;</code>) koppelen. Zo kan je makkelijk alle basisfunctionaliteiten van de Dwenguino gebruiken. Op de Arduino UNO moet je in principe geen bibliotheken koppelen. Dit bord heeft immers maar een beperkte functionaliteit. 
+Bovenaan je programma koppel je de bibliotheken die je wil gebruiken. Op de Dwenguino zal je standaard altijd de Dwenguino bibliotheek (<code class="language-cpp">#include &lt;Dwenguino.h&gt;</code>) en de lcd bibliotheek (<code class="language-cpp">#include &lt;LiquidCrystal.h&gt;</code>) koppelen. Zo kan je makkelijk alle basisfunctionaliteiten van de Dwenguino gebruiken. Op de Arduino UNO moet je in principe geen bibliotheken koppelen. Dit bord heeft standaard immers maar een beperkte functionaliteit. 
 
 Om een bibliotheek te koppelen, gebruik je steeds het <code class="language-cpp">#include</code> commando. Hierna plaats je de naam van de bibliotheek tussen <code class="language-cpp">&lt;</code> en <code class="language-cpp">&gt;</code>. Bijvoorbeeld: <code class="language-cpp">#include &lt;LiquidCrystal.h&gt;</code>.
 
 
 ## ONDERDEEL 2: Definities en globale variabelen.
 
-In dit onderdeel definieer je **globale** **definities** en **variabelen**. Ze zijn **globaal** omdat je de waarde ervan overal in je programma kan gebruiken. Van **definities** kan je de waarde overal in je programma opvragen. **Je kan de waarde van een definitie echter niet aanpassen**. Deze behoudt dus altijd de waarde die deze in het begin van het programma kreeg. Van variabelen kan je de waarde ook overal in je programma opvragen maar je kan de waarde van een variabele ook **overal in je programma aanpassen**.
+In dit onderdeel definieer je **globale** **definities** en **globale variabelen**. Ze zijn **globaal** omdat je de waarde ervan overal in je programma kan gebruiken. Van **definities** kan je de waarde overal in je programma opvragen. **Je kan de waarde van een definitie echter niet aanpassen**. Deze behoudt dus altijd de waarde die deze in het begin van het programma kreeg. Van variabelen kan je de waarde ook overal in je programma opvragen maar je kan de waarde van een variabele ook **overal in je programma aanpassen**.
 
-Een definitie definieer je aan de hand van een <code class="language-cpp">#define</code>. Erna schrijf je de naam van de definitie in drukletters. Na de naam volgt de waarde die de definitie moet krijgen. Bijvoorbeeld: <pre><code class="language-cpp">#define TRIGGER_PIN 11</code></pre>.
+Een definitie definieer je aan de hand van een <code class="language-cpp">#define</code>. Erna schrijf je de naam van de definitie in drukletters. Na de naam volgt de waarde die de definitie moet krijgen. Bijvoorbeeld: <pre><code class="language-cpp">#define TRIGGER_PIN 11</code></pre>
 
 Een variabele heeft een type, een naam en een waarde. Het type geeft aan welke soorten waarden je kan opslaan in de variable. Hier gebruiken we een variabele van het type <code class="language-cpp">NewPing</code> met de naam <code class="language-cpp">sonar</code> en een variabele van het type <code class="language-cpp">int</code> met de naam <code class="language-cpp">afstand</code>. Merk op dat het niet verplict is om een variabele ook onmiddelijk een waarde te geven. Dat kan ook later in het programma. In onze code gebruiken we bijvoorbeeld:
 
