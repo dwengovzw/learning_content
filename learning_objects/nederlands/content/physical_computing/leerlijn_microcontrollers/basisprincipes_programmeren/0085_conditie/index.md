@@ -48,34 +48,34 @@ Meestal zie je een conditie onder de vorm van een vergelijking tussen twee waard
         <th>Voorbeeld</th>
     </tr>
     <tr>
-        <th><code class="language-cpp">==</code></th>
-        <th>Gelijk</th>
-        <th><code class="language-cpp">afstand == 100</code></th>
+        <td><code class="language-cpp">==</code></td>
+        <td>Gelijk</td>
+        <td><code class="language-cpp">afstand == 100</code></td>
     </tr>
     <tr>
-        <th><code class="language-cpp"></code>!=</th>
-        <th>Niet gelijk</th>
-        <th><code class="language-cpp"></code>digitalRead(sw_S) != HIGH</th>
+        <td><code class="language-cpp">!=</code></td>
+        <td>Niet gelijk</td>
+        <td><code class="language-cpp">digitalRead(SW_S) != HIGH</code></td>
     </tr>
     <tr>
-        <th><code class="language-cpp">&gt;</code></th>
-        <th>Groter dan</th>
-        <th><code class="language-cpp">afstand > 0</code></th>
+        <td><code class="language-cpp">&gt;</code></td>
+        <td>Groter dan</td>
+        <td><code class="language-cpp">afstand > 0</code></td>
     </tr>
     <tr>
-        <th><code class="language-cpp">&lt;</code></th>
-        <th>Kleiner dan</th>
-        <th><code class="language-cpp">afstand < 200</code></th>
+        <td><code class="language-cpp">&lt;</code></td>
+        <td>Kleiner dan</td>
+        <td><code class="language-cpp">afstand < 200</code></td>
     </tr>
     <tr>
-        <th><code class="language-cpp">>=</code></th>
-        <th>Groter of gelijk aan</th>
-        <th><code class="language-cpp">afstand >= 10</code></th>
+        <td><code class="language-cpp">>=</code></td>
+        <td>Groter of gelijk aan</td>
+        <td><code class="language-cpp">afstand >= 10</code></td>
     </tr>
     <tr>
-        <th><code class="language-cpp"><=</code></th>
-        <th>Kleiner of gelijk aan</th>
-        <th><code class="language-cpp">afstand <= 150</code></th>
+        <td><code class="language-cpp"><=</code></td>
+        <td>Kleiner of gelijk aan</td>
+        <td><code class="language-cpp">afstand <= 150</code></td>
     </tr>
 </table>
 
