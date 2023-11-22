@@ -46,6 +46,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "leerlijn_fiches_dwenguino_ledmatrix",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_ledmatrix",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "leerlijn_invoer_basisprincipes_intro",
               "version": "1",
               "language": "nl"
