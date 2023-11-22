@@ -48,8 +48,8 @@ Je kan deze functie dan oproepen op andere plaatsten in je code. **Let wel op**:
 <pre>
     <code class="language-cpp">
 
-        #include <Wire.h>
-        #include <Dwenguino.h>
+        #include &lt;Wire.h&gt;
+        #include &lt;Dwenguino.h&gt;
 
         void knipperLed13(){
             pinMode(13, OUTPUT);
