@@ -46,33 +46,33 @@ Stel bijvoorbeeld dat je op meerder plaatsen in je programma een lampje wil late
 Je kan deze functie dan oproepen op andere plaatsten in je code. **Let wel op**: je moet ervoor zorgen dat de code die je functie definieert, zoals die hierboven. Voor de code staat waar de de functie oproept.
 
 <pre>
-<code class="language-cpp">
+    <code class="language-cpp">
 
-    #include <Wire.h>
-    #include <Dwenguino.h>
+        #include <Wire.h>
+        #include <Dwenguino.h>
 
-    void knipperLed13(){
-        pinMode(13, OUTPUT);
-        digitalWrite(13, HIGH);
-        delay(500);
-        digitalWrite(13, LOW);
-        delay(500);
-    }
-
-    void setup()
-    {
-        initDwenguino();
-        pinMode(SW_S, INPUT_PULLUP);
-    }
-
-    void loop()
-    {
-        // Knipper met led 13 wanneer SW_S is ingedrukt.
-        if (digitalRead(SW_S) == LOW){
-            knipperLed13();
+        void knipperLed13(){
+            pinMode(13, OUTPUT);
+            digitalWrite(13, HIGH);
+            delay(500);
+            digitalWrite(13, LOW);
+            delay(500);
         }
-    }
-</code>
+
+        void setup()
+        {
+            initDwenguino();
+            pinMode(SW_S, INPUT_PULLUP);
+        }
+
+        void loop()
+        {
+            // Knipper met led 13 wanneer SW_S is ingedrukt.
+            if (digitalRead(SW_S) == LOW){
+                knipperLed13();
+            }
+        }
+    </code>
 </pre>
 
 
