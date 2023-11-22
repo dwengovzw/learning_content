@@ -195,7 +195,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_oefeningen_oplossingen",
+              "hruid": "leerlijn_basis_programmeren_lussen_while",
               "version": "1",
               "language": "nl"
             }
@@ -203,14 +203,14 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_oefeningen_oplossingen",
+        "learningobject_hruid": "leerlijn_basis_programmeren_lussen_while",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_kortsluiting",
+              "hruid": "leerlijn_basis_programmeren_lussen_while_oplossing",
               "version": "1",
               "language": "nl"
             }
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_kortsluiting",
+        "learningobject_hruid": "leerlijn_basis_programmeren_lussen_while_oplossing",
         "version": "1",
         "language": "nl",
         "transitions": [
