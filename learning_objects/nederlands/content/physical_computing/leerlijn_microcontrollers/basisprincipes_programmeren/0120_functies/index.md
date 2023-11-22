@@ -38,6 +38,7 @@ Stel bijvoorbeeld dat je op meerder plaatsen in je programma een lampje wil late
         digitalWrite(13, LOW);
         delay(500);
     }
+
 </code>
 </pre>
 
@@ -72,6 +73,7 @@ Je kan deze functie dan oproepen op andere plaatsten in je code. **Let wel op**:
                 knipperLed13();
             }
         }
+        
     </code>
 </pre>
 
