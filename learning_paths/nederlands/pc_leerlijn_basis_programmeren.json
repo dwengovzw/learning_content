@@ -240,7 +240,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_parallel",
+              "hruid": "leerlijn_basis_programmeren_functies_met_parameters",
               "version": "1",
               "language": "nl"
             }
@@ -248,14 +248,14 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_parallel",
+        "learningobject_hruid": "leerlijn_basis_programmeren_functies_met_parameters",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_spanningsdeler",
+              "hruid": "leerlijn_basis_programmeren_functies_met_parameters_oplossing",
               "version": "1",
               "language": "nl"
             }
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_spanningsdeler",
+        "learningobject_hruid": "leerlijn_basis_programmeren_functies_met_parameters_oplossing",
         "version": "1",
         "language": "nl",
         "transitions": [
