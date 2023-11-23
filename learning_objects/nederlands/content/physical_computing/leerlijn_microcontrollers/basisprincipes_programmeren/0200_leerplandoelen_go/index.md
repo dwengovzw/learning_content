@@ -31,7 +31,6 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
     <li>WD2_11.19.04 De leerlingen gebruiken elektronische componenten en een programmeerbare stuureenheid in een technische toepassing</li>
     <li>WD2_11.08.01 De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module.</li>
     <li>BV2_06.01 De leerlingen voeren met functioneel gebruik van ICT eenvoudige berekeningen uit met gehele getallen, decimale getallen, breuken, procenten en verhoudingen in betekenisvolle contexten.</li>
-    <li>WD2_ 07.01.01  De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.</li>
     <li>WD2_07.01.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.</li>
     <li>WD2_07.02.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.</li>
 </ul>
