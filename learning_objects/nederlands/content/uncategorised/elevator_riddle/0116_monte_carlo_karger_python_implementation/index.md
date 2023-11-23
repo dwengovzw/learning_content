@@ -14,7 +14,7 @@ licence: dwengo
 content_type: text/markdown
 available: true
 target_ages: [16, 17, 18]
-difficulty: 15
+difficulty: 10
 return_value: {
     callback_url: callback-url-example,
     callback_schema: {
