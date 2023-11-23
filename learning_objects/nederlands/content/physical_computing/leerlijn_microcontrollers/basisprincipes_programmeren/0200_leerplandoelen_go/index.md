@@ -27,7 +27,7 @@ teacher_exclusive: true
 Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
 
 <ul class="dwengo-content leerplandoelen">
-    <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.<li>
+    <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
     <li>WD2_11.19.04 De leerlingen gebruiken elektronische componenten en een programmeerbare stuureenheid in een technische toepassing</li>
     <li>WD2_11.08.01 De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module.</li>
     <li>BV2_06.01 De leerlingen voeren met functioneel gebruik van ICT eenvoudige berekeningen uit met gehele getallen, decimale getallen, breuken, procenten en verhoudingen in betekenisvolle contexten.</li>
