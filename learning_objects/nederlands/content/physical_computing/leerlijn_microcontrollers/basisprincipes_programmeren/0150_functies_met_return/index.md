@@ -24,7 +24,7 @@ teacher_exclusive: true
 
 # Functies met returnwaarde
 
-Functies kunnen ook een waarde teruggeven nadat de code erin werd uitgevoerd. Dat is bijvoorbeeld nuttig wanneer je een berekening op meerdere plaatsen in je progamma moet uitvoeren met andere waarden. Stel dat we een afstand meten met een sonarsensor en op basis van die afstand een hoorbaare toon willen afspelen. De afstand die de sensor meet zal tussen de \((0 \mathrm{cm}\)) en \((200 \mathrm{cm}\)) liggen. De frequenties die we kunnen horen liggen tussen de \((200 \mathrm{Hz}\)) en \((12000 \mathrm{Hz}\)). Om de afstandswaarde om te zetten in een frequentiewaarde, kunnen we een functie schrijven die dit voor gelijk welke afstand doet.
+Functies kunnen ook een waarde teruggeven nadat de code erin werd uitgevoerd. Dat is bijvoorbeeld nuttig wanneer je een berekening op meerdere plaatsen in je progamma moet uitvoeren met andere waarden. Stel dat we een afstand meten met een sonarsensor en op basis van die afstand een hoorbaare toon willen afspelen. De afstand die de sensor meet zal tussen de \\(0 \mathrm{cm}\\) en \\(200 \mathrm{cm}\\) liggen. De frequenties die we kunnen horen liggen tussen de \\(200 \mathrm{Hz}\\) en \\(12000 \mathrm{Hz}\\). Om de afstandswaarde om te zetten in een frequentiewaarde, kunnen we een functie schrijven die dit voor gelijk welke afstand doet.
 
 
 
