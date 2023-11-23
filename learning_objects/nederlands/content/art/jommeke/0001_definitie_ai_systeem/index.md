@@ -2,7 +2,7 @@
 hruid: org-dwengo-jommeke-definitie-ai-systeem
 version: 1
 language: nl
-title: "Definitie van een AI-systeem"
+title: "Definitie AI-systeem"
 description: "Uitleg AI-systeem en definitie volgens de EU"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"

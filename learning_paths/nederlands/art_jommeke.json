@@ -154,66 +154,6 @@
             {
                 "default": true,
                 "next":{
-                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-1",
-                    "version": "1",
-                    "language": "nl"
-                }
-            }
-        ]
-      },
-      {
-          "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-1",
-          "language": "nl",
-          "version": "1",
-          "transitions": [
-            {
-                "default": true,
-                "next":{
-                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-2",
-                    "version": "1",
-                    "language": "nl"
-                }
-            }
-        ]
-      },
-      {
-          "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-2",
-          "language": "nl",
-          "version": "1",
-          "transitions": [
-            {
-                "default": true,
-                "next":{
-                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-3",
-                    "version": "1",
-                    "language": "nl"
-                }
-            }
-        ]
-      },
-      {
-          "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-3",
-          "language": "nl",
-          "version": "1",
-          "transitions": [
-            {
-                "default": true,
-                "next":{
-                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-4",
-                    "version": "1",
-                    "language": "nl"
-                }
-            }
-        ]
-      },
-      {
-          "learningobject_hruid": "org-dwengo-jommeke-inkleuren-afbeelding-4",
-          "language": "nl",
-          "version": "1",
-          "transitions": [
-            {
-                "default": true,
-                "next":{
                     "hruid": "org-dwengo-jommeke-zelf-aan-de-slag",
                     "version": "1",
                     "language": "nl"

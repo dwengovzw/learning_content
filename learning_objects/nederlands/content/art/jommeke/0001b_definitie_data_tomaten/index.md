@@ -2,7 +2,7 @@
 hruid: org-dwengo-jommeke-definitie-ai-systeem-data-tomaten
 version: 1
 language: nl
-title: "Definitie van een datagebaseerd AI-systeem (1)"
+title: "Definitie datagebaseerd AI-systeem (1)"
 description: "Uitleg datagebaseerd AI-systeem en definitie volgens de EU"
 keywords: ["AI", "Datagebaseerd", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
@@ -29,7 +29,7 @@ De toepassing "Moet ik naar de dokter" werkt op basis van regels die wij als men
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
     <div class="content">
-        Welke regels kan jij bedenken om die tomaten te detecteren?
+        Welke regels kan jij bedenken om die tomaten te detecteren?<br>
         <img src="img/tomaten.png" alt="Tomaten" title="Tomaten"></img>
     </div>
 </div>
