@@ -6,7 +6,7 @@ title: "Definitie datagebaseerd AI-systeem (1)"
 description: "Uitleg datagebaseerd AI-systeem en definitie volgens de EU"
 keywords: ["AI", "Datagebaseerd", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 8
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
