@@ -28,7 +28,7 @@ Regelgebaseerde AI-systemen werken, zoals de naam al doet vermoeten, op basis va
 
 ![Moet ik naar de dokter?](img/moet_ik_naar_dokter.png "Moet ik naar de dokter?")
 
-Deze toepassing stelt een reeks vragen aan de gebruiker en beslist op basis van de antwoorden welke actie die moet ondernemen. Moet de persoon niet naar de dokter, moet die onmiddellijk naar de dokter, kan die morgen naar de dokter gaan of moet die nu naar de spoeddienst.
+Deze toepassing stelt een reeks vragen aan de gebruiker en beslist op basis van de antwoorden welke actie ondernomen moet worden. Moet de persoon niet naar de dokter, moet die onmiddellijk naar de dokter, kan die morgen naar de dokter gaan of moet die nu naar de spoeddienst.
 
 Zo'n systeem werkt aan de hand van een beslissingsboom. Hieronder zie je een voorbeeld van zo'n boom. 
 
