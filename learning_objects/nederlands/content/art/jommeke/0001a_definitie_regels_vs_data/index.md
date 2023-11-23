@@ -2,7 +2,7 @@
 hruid: org-dwengo-jommeke-definitie-ai-systeem-regels
 version: 1
 language: nl
-title: "Definitie van een regelgebaseerd AI-systeem"
+title: "Definitie regelgebaseerd AI-systeem"
 description: "Uitleg regelgebaseerd AI-systeem en definitie volgens de EU"
 keywords: ["AI", "Regelgebaseerd", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
