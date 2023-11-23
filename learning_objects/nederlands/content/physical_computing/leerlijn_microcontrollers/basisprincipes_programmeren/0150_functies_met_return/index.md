@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_basis_programmeren_functies_met_parameters_oplossing
+hruid: leerlijn_basis_programmeren_functies_met_return
 version: 1
 language: nl
 title: "Functies met returnwaarde"
