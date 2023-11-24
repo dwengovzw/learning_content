@@ -90,7 +90,7 @@ Om een bibliotheek te koppelen, gebruik je steeds het <code class="language-cpp"
 
 ## ONDERDEEL 2: Definities en globale variabelen.
 
-In dit onderdeel definieer je **globale** **definities** en **globale variabelen**. Ze zijn **globaal** omdat je de waarde ervan overal in je programma kan gebruiken. Van **definities** kan je de waarde overal in je programma opvragen. **Je kan de waarde van een definitie echter niet aanpassen**. Deze behoudt dus altijd de waarde die deze in het begin van het programma kreeg. Van variabelen kan je de waarde ook overal in je programma opvragen maar je kan de waarde van een variabele ook **overal in je programma aanpassen**.
+In dit onderdeel definieer je **globale** **definities** en **globale variabelen**. Ze zijn **globaal** omdat je de waarde ervan overal in je programma kan gebruiken. Van **definities** kan je de waarde overal in je programma opvragen. **Je kan de waarde van een definitie echter niet aanpassen**. Deze behoudt dus altijd de waarde die deze in het begin van het programma kreeg. Van **variabelen** kan je de waarde ook overal in je programma opvragen maar je kan de waarde van een variabele ook **overal in je programma aanpassen**.
 
 Een definitie definieer je aan de hand van een <code class="language-cpp">#define</code>. Erna schrijf je de naam van de definitie in drukletters. Na de naam volgt de waarde die de definitie moet krijgen. Bijvoorbeeld: <pre><code class="language-cpp">#define TRIGGER_PIN 11</code></pre>
 
