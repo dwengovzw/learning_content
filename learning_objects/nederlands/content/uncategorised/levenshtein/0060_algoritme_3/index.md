@@ -2,7 +2,7 @@
 hruid: org_dewengo_levenshtein_algorithm_4
 version: 1
 language: nl
-title: "Het algoritme (3)"
+title: "Het algoritme (4)"
 description: "Een algoritme om de Levenshtein afstand te bepalen."
 keywords: ["taaltechnologie", "taal", "afstand", "levenshtein", "algoritme"]
 educational_goals: [
@@ -22,7 +22,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Een algoritme (3)
+# Een algoritme (4)
 
 Hieronder zie je nog een voorbeeld van hoe we een volgende vakje kunnen invullen.
 
