@@ -31,3 +31,13 @@ Om de Levenshtein afstand altijd op een correcte manier te kunnen berekenen, moe
 Om ons algoritme uit te kunnen voeren met de computer, moeten we onze gegevens op een manier voorstellen die de computer begrijpt. In dit geval doen we dat aan de hand van een tabel. Hieronder zie je een voorbeeld van hoe die tabel eruitziet als we de afstand willen zoeken tussen het woord PLAAT en het woord KAST.
 
 <img src="img/levenshtein_example_base_grid.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen">
+
+Zoals je kan zien op de afbeelding, zetten we het woord waarvan we vertrekken in de eerste kolom. Het woord waar we naartoe willen zetten we in de eerste rij. Merk op dat we telkens ook een **leeg vakje** voor het woord plaatsen (coördinaten (1, 0) en (0, 1)). Dit leeg vakje stelt het lege woord voor. Het vakje linksboven (coördinaat (0, 0)) heeft geen betekenis. In de overige vakjes vullen we in wat de afstand is tussen de prefix van het woord dat links staat naar de prefix van het woord dat rechts staat. Hieronder zie je daar twee voorbeelden van.
+
+<img src="img/levenshtein_example_example_point1.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen">
+
+De waarde die we in het oranje vakje (3, 4) zullen schrijven is de afstand tussen PLA en KA.
+
+<img src="img/levenshtein_example_example_point2.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen">
+
+De waarde die we in het oranje vakje (4, 2) zullen schrijven is de afstand tussen P en KAS.
