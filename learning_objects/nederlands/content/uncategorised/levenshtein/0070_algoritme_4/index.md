@@ -2,7 +2,7 @@
 hruid: org_dewengo_levenshtein_algorithm_5
 version: 1
 language: nl
-title: "Het algoritme (4)"
+title: "Het algoritme (5)"
 description: "Een algoritme om de Levenshtein afstand te bepalen."
 keywords: ["taaltechnologie", "taal", "afstand", "levenshtein", "algoritme"]
 educational_goals: [
