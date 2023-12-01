@@ -1,5 +1,5 @@
 ---
-hruid: org_dewengo_levenshtein_algorithm_4
+hruid: org_dewengo_levenshtein_algorithm_5
 version: 1
 language: nl
 title: "Het algoritme (4)"

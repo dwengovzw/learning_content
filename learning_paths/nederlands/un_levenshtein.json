@@ -90,6 +90,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "org_dewengo_levenshtein_algorithm_5",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org_dewengo_levenshtein_algorithm_5",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org_dewengo_levenshtein_algorithm_recursive",
               "version": "1",
               "language": "nl"
