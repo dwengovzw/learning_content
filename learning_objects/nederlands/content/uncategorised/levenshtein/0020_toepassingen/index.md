@@ -24,39 +24,10 @@ teacher_exclusive: false
 
 # Toepassingen van de Levenshtein afstand
 
-De **Levenshtein afstand** is een metriek om de afstand tussen twee woorden of zinnen te bepalen. Om de afstand tussen twee woorden te bepalen, tel je het aantal letters dat je moet toevoegen, verwijderen of vervangen om het ene woord om te vormen in het andere. Hieronder zie je voorbeelden van deze operaties.
+Het zoeken van de afstand tussen twee woorden is een basistechniek die in heel wat toepassingen gebruikt kan worden. Denk bijvoorbeeld aan de genetica. In dit vakgebied is het vaak nodig om gelijkenissen te zoeken in DNA sequenties. Een DNA sequentie wordt voorgesteld door een opeenvolging van base paren. Zo'n basenpaar bestaat uit nucleobasen. Er komen vier verschillende nucleobasen voor in een DNA sequentie: cytosine (C), guanine (G), adenine (A) en thymine (T). Op de computer stellen we een DNA sequentie dus gewoonlijk voor als een opeenvolging van de letters C, G, A en T. Bijvoorbeeld:
 
-<table>
-    <tr>
-        <th>Woord 1</th>
-        <th>Woord 2</th>
-        <th>Operatie</th>
-        <th>Afstand</th>
-    </tr>
-    <tr>
-        <td>STAL</td>
-        <td>STAAL</td>
-        <td>A toevoegen</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>TREK</td>
-        <td>TROK</td>
-        <td>E vervangen door O</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>VIEREN</td>
-        <td>VIER</td>
-        <td>E en N weglaten</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>STAM</td>
-        <td>STAM</td>
-        <td>Geen</td>
-        <td>0</td>
-    </tr>
-</table>
+<code class="language-python">
+    dna_sequentie = "CGGTCACGATCTGACTCTCGCTATTAGTTTCTTACATGCTTTAGTCTCAC"
+</code>
 
-Voor korte en eenvoudige woorden kan je dit makkelijk met de hand doen. Voor langere woorden of zinnen is het voor een mens al een heel stuk moeilijker om te zien welke operaties je moet uitvoeren om het ene woord om te zetten in het andere.
+Een andere toepassing van de Levenshtein afstand die je dagelijks gebruikt is de spellingscontrole in een tekstverwerker. Deze zal voor elk woord dat je typt kijken of het voorkomt in een woordenlijst. Als het niet voorkomt in de lijst, dan zal het systeem op zoek gaan naar de woorden in de woordenlijst die dicht bij het woord liggen dat je geschreven hebt. Hiervoor wordt de Levenshtein afstand gebruikt.
