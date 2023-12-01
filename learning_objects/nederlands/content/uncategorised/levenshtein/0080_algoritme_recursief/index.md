@@ -27,17 +27,19 @@ teacher_exclusive: false
 TODO: info over recursie
 
 <code class="lang-python">
-    def levenshtein(woord1, woord2):
-        if len(woord1) == 0:
-            return len(woord2)
-        if len(woord2) == 0:
-            return len(woord1)
-        if woord1[0] == woord2[0]:
-            return levenshtein(woord1[1:], woord2[1:])
-        else:
-            return 1 + min(levenshtein(woord1[1:], woord2),
-                        levenshtein(woord1, woord2[1:]),
-                        levenshtein(woord1[1:], woord2[1:]))
+
+def levenshtein(woord1, woord2):
+    if len(woord1) == 0:
+        return len(woord2)
+    if len(woord2) == 0:
+        return len(woord1)
+    if woord1[0] == woord2[0]:
+        return levenshtein(woord1[1:], woord2[1:])
+    else:
+        return 1 + min(levenshtein(woord1[1:], woord2),
+                    levenshtein(woord1, woord2[1:]),
+                    levenshtein(woord1[1:], woord2[1:]))
+
 </code>
 
 
