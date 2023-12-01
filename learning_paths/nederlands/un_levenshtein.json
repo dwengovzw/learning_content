@@ -75,6 +75,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "org_dewengo_levenshtein_algorithm_4",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org_dewengo_levenshtein_algorithm_4",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "cb5_unplugged1",
               "version": "1",
               "language": "nl"
