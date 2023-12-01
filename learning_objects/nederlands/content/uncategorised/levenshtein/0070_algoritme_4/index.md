@@ -22,7 +22,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Een algoritme (4)
+# Een algoritme (5)
 
 Vullen we volgens dezelfde regels de rest van de tabel in, dan kunnen we de totale afstand tussen het woord PLAAT en KAST aflezen helemaal rechtsonderaan in de tabel.
 
