@@ -45,7 +45,7 @@ Om de tabel in te vullen, starten we met de eenvoudige gevallen. Deze zijn de tw
 
 <table>
     <tr>
-        <td><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+        <td style="min-width:450px"><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
         <td>Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
     </tr>
     <tr>
