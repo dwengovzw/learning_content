@@ -26,8 +26,7 @@ teacher_exclusive: false
 
 TODO: info over dynamisch programmeren
 
-<code class="lang-python">
-
+```python
 import numpy as np
 
 def levenshtein(woord1, woord2):
@@ -54,6 +53,6 @@ def levenshtein(woord1, woord2):
                                         afstands_matrix[i][j-1] + 1,
                                         afstands_matrix[i-1][j-1] + substitutie_kost)
     return afstands_matrix[len(woord1)][len(woord2)]
-</code>
+```
 
 

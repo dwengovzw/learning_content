@@ -26,7 +26,7 @@ teacher_exclusive: false
 
 TODO: info over recursie
 
-<code class="lang-python">
+```python
 
 def levenshtein(woord1, woord2):
     if len(woord1) == 0:
@@ -40,6 +40,6 @@ def levenshtein(woord1, woord2):
                     levenshtein(woord1, woord2[1:]),
                     levenshtein(woord1[1:], woord2[1:]))
 
-</code>
+```
 
 
