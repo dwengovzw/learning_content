@@ -72,4 +72,4 @@ We willen de minimale kost bepalen dus nemen we nu het minimum van deze drie gev
 </table>
 
 
-We hebben nu een **gegevensvoorstelling** (ofwel een **datastructuur**) waarin we de gegevens van ons probleem zullen opslaan. Nu hebben we nog een **stappenplan** (ofwel een **algoritme**) nodig om deze **datastructuur** in te vullen.
+Op deze manier kunnen we de rest van de tabel invullen.
