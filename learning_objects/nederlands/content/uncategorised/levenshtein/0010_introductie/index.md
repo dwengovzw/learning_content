@@ -66,6 +66,8 @@ Voor korte en eenvoudige woorden kan je dit makkelijk met de hand doen. Voor lan
     <h2 class="title">Geschiedenis</h2>
     <div class="content">
         De Levenshtein afstand is genoemd naar Vladimir Levenshtein. Hij was een Russische wiskundige die werkte voor het Keldysh instituut voor toegepaste wiskunde in Moskou. Naast het ontwikkelen van de Levenshtein afstand, droeg hij bij aan verschillende ontwikkelingen in de informatietheorie. Verder droeg hij ook bij aan het bepalen van de onder en bovengrens van het kusgetal in hogere dimensies.
+    </div>
+    <div>
         <em>Levenshtein, Vladimir Iosifovich. "On bounds for packings in n-dimensional Euclidean space." Doklady Akademii Nauk. Vol. 245. No. 6. Russian Academy of Sciences, 1979.</em>
     </div>
 </div>

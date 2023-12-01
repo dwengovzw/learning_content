@@ -16,7 +16,7 @@
             "default": true,
             "next": {
               "hruid": "org_dewengo_levenshtein_applications",
-              "version": "3",
+              "version": "1",
               "language": "nl"
             }
           }
@@ -24,14 +24,14 @@
       },
       {
         "learningobject_hruid": "org_dewengo_levenshtein_applications",
-        "version": "3",
+        "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
               "hruid": "org_dewengo_levenshtein_algorithm",
-              "version": "3",
+              "version": "1",
               "language": "nl"
             }
           }
@@ -39,7 +39,7 @@
       },
       {
         "learningobject_hruid": "org_dewengo_levenshtein_algorithm",
-        "version": "3",
+        "version": "1",
         "language": "nl",
         "transitions": [
           {
@@ -54,7 +54,7 @@
       },
       {
         "learningobject_hruid": "cb5_unplugged8lln",
-        "version": "3",
+        "version": "1",
         "language": "nl"
       }
     ]
