@@ -26,6 +26,6 @@ teacher_exclusive: true
 
 <ul>
     <li>Wat gebeurt er met de spanning als je de meetsnoeren omwisselt?<br><em>Het teken van de spanning draait om.</em></li>
-    <li>Wat gebeurt er met de spanning als je een weerstand met een andere waarde neemt?<br><em>Hoe hoger de weerstand, hoe groter de absolute waarde van de spanning.</em></li>
+    <li>Wat gebeurt er met de spanning als je een weerstand met een andere waarde neemt?<br><em>Niets, je meet immers de waarden 5V en 0V omdat je meetsnoeren verbonden zijn met Vcc en GND.</em></li>
 </ul>
 
