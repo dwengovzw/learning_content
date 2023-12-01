@@ -45,19 +45,19 @@ Om de tabel in te vullen, starten we met de eenvoudige gevallen. Deze zijn de tw
 
 <table>
     <tr>
-        <td><img src="img/evenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+        <td><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
         <td>Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
     </tr>
     <tr>
-        <td><img src="img/evenshtein_example_step1a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+        <td><img src="img/levenshtein_example_step1a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
         <td>Om van het lege woord naar KAST te gaan moeten we telkens een letter toevoegen. De kost om een letter toe te voegen is 1.</td>
     </tr>
     <tr>
-        <td><img src="img/evenshtein_example_step1b.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+        <td><img src="img/levenshtein_example_step1b.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
         <td>Om van het woord PL naar het lege woord te gaan moeten we PL weglaten. De kost is hier dus 2.</td>
     </tr>
     <tr>
-        <td><img src="img/evenshtein_example_step2.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+        <td><img src="img/levenshtein_example_step2.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
         <td>Met die redenering kunnen we dus de tweede rij en de tweede kolom van de tabel invullen.</td>
     </tr>
 </table>
