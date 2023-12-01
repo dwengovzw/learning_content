@@ -1,8 +1,8 @@
 ---
-hruid: org_dewengo_levenshtein_algorithm_2
+hruid: org_dewengo_levenshtein_algorithm_3
 version: 1
 language: nl
-title: "Het algoritme (2)"
+title: "Het algoritme (3)"
 description: "Een algoritme om de Levenshtein afstand te bepalen."
 keywords: ["taaltechnologie", "taal", "afstand", "levenshtein", "algoritme"]
 educational_goals: [
@@ -22,38 +22,25 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Een algoritme (2)
+# Een algoritme (3)
 
-## De regels
+Om de rest van de tabel in te vullen, maken we gebruik van de informatie die we al hebben. Zo moeten we onze redenering niet voor elk vakje helemaal opnieuw uitvoeren. We bestuderen hier eerst het geval om van P naar K te gaan. We kunnen dat op drie manieren doen:
 
-Zoals we in het begin van dit leerpad beschreven, zijn er drie mogelijk operaties om een woord aan te passen naar een ander woord.
-
-1. Een letter aan het woord toevoegen.
-2. Een letter uit het woord verwijderen.
-3. Een letter in het woord vervangen door een andere letter.
-
-Aan elk van deze operaties koppelen we nu een kost om deze uit te voeren.
-
-1. Letter toevoegen = kost 1.
-2. Letter verwijderen = kost 1.
-3. Letter vervangen = kost 1 als de letters verschillend zijn anders is de kost 0.
-
-## Tabel invullen (van en naar lege woord)
-
-Om de tabel in te vullen, starten we met de eenvoudige gevallen. Deze zijn de tweede rij en de tweede kolom van het raster. Hier ga je telkens van een leeg woord naar een woord met een aantal letters of omgekeerd.
-.
+1. We laten P weg en voegen K toe.
+2. We voegen K toe en laten P weg.
+3. We vervangen P door K.
 
 <table>
     <tr>
-        <td><img src="img/evenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+        <td><img src="img/evenshtein_example_step3.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
         <td>Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
     </tr>
     <tr>
-        <td><img src="img/evenshtein_example_step1a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+        <td><img src="img/evenshtein_example_step4a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
         <td>Om van het lege woord naar KAST te gaan moeten we telkens een letter toevoegen. De kost om een letter toe te voegen is 1.</td>
     </tr>
     <tr>
-        <td><img src="img/evenshtein_example_step1b.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+        <td><img src="img/evenshtein_example_step4b.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
         <td>Om van het woord PL naar het lege woord te gaan moeten we PL weglaten. De kost is hier dus 2.</td>
     </tr>
     <tr>
