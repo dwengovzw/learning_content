@@ -15,7 +15,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "cb5_unpluggedlln",
+              "hruid": "org_dewengo_levenshtein_applications",
               "version": "3",
               "language": "nl"
             }
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "learningobject_hruid": "cb5_unpluggedlln",
+        "learningobject_hruid": "org_dewengo_levenshtein_applications",
         "version": "3",
         "language": "nl",
         "transitions": [
