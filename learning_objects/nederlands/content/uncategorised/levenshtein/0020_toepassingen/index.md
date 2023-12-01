@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 2
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -29,7 +29,7 @@ Het zoeken van de afstand tussen twee woorden is een basistechniek die in heel w
 <code class="language-python">
     # Hier slaan we een stukje van een DNA sequentie op in de variable dna_sequentie
     dna_sequentie = "CGGTCACGATCTGACTCTCGCTATTAGTTTCTTACATGCTTTAGTCTCAC"
-</code>
+</code><br>
 
 
 Een andere toepassing van de Levenshtein afstand die je dagelijks gebruikt is de spellingscontrole in een tekstverwerker. Deze zal voor elk woord dat je typt kijken of het voorkomt in een woordenlijst. Als het niet voorkomt in de lijst, dan zal het systeem op zoek gaan naar de woorden in de woordenlijst die dicht bij het woord liggen dat je geschreven hebt. Hiervoor wordt de Levenshtein afstand gebruikt.
