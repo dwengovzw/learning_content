@@ -30,4 +30,4 @@ Om de Levenshtein afstand altijd op een correcte manier te kunnen berekenen, moe
 
 Om ons algoritme uit te kunnen voeren met de computer, moeten we onze gegevens op een manier voorstellen die de computer begrijpt. In dit geval doen we dat aan de hand van een tabel. Hieronder zie je een voorbeeld van hoe die tabel eruitziet als we de afstand willen zoeken tussen het woord PLAAT en het woord KAST.
 
-<img src="./img/levenshtein_example_base_grid.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen">
+<img src="img/levenshtein_example_base_grid.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen">
