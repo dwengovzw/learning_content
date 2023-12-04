@@ -35,7 +35,7 @@ Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitge
     <h2 class="title">Opdracht</h2>
     <div class="content">
         Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met frequentie van 1Hz). 
-        <div class="dwengo-content dwengo-code-simulator">
+        <div class="dwengo-code-simulator">
         <pre>
 <code class="language-cpp">
 
