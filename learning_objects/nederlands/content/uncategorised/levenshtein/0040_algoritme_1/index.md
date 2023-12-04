@@ -42,25 +42,26 @@ Aan elk van deze operaties koppelen we nu een kost om deze uit te voeren.
 
 Om de tabel in te vullen, starten we met de eenvoudige gevallen. Deze zijn de tweede rij en de tweede kolom van het raster. Hier ga je telkens van een leeg woord naar een woord met een aantal letters of omgekeerd.
 .
-
-<table>
-    <tr>
-        <td style="min-width:450px"><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
-        <td>Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
-    </tr>
-    <tr>
-        <td><img src="img/levenshtein_example_step1a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
-        <td>Om van het lege woord naar KAST te gaan moeten we telkens een letter toevoegen. De kost om een letter toe te voegen is 1.</td>
-    </tr>
-    <tr>
-        <td><img src="img/levenshtein_example_step1b.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
-        <td>Om van het woord PL naar het lege woord te gaan moeten we PL weglaten. De kost is hier dus 2.</td>
-    </tr>
-    <tr>
-        <td><img src="img/levenshtein_example_step2.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
-        <td>Met die redenering kunnen we dus de tweede rij en de tweede kolom van de tabel invullen.</td>
-    </tr>
-</table>
+<div class="dwengo_content table_container">
+    <table>
+        <tr>
+            <td style="min-width:450px"><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td>Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
+        </tr>
+        <tr>
+            <td><img src="img/levenshtein_example_step1a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td>Om van het lege woord naar KAST te gaan moeten we telkens een letter toevoegen. De kost om een letter toe te voegen is 1.</td>
+        </tr>
+        <tr>
+            <td><img src="img/levenshtein_example_step1b.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td>Om van het woord PL naar het lege woord te gaan moeten we PL weglaten. De kost is hier dus 2.</td>
+        </tr>
+        <tr>
+            <td><img src="img/levenshtein_example_step2.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td>Met die redenering kunnen we dus de tweede rij en de tweede kolom van de tabel invullen.</td>
+        </tr>
+    </table>
+</div>
 
 
 We hebben nu een **gegevensvoorstelling** (ofwel een **datastructuur**) waarin we de gegevens van ons probleem zullen opslaan. Nu hebben we nog een **stappenplan** (ofwel een **algoritme**) nodig om deze **datastructuur** in te vullen.
