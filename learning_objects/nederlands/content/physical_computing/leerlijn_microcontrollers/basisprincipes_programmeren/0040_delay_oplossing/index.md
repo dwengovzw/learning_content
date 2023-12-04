@@ -27,7 +27,7 @@ teacher_exclusive: true
 
 <div class="dwengo-content dwengo-code-simulator">
         <pre>
-<code class="language-cpp" data-filename="delay.cpp">
+<code class="language-cpp" data-filename="delay_opl.cpp">
 
     #include <Dwenguino.h>
 

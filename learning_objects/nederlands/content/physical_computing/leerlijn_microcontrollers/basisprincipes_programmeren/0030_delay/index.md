@@ -37,7 +37,7 @@ Standaard worden de instructies in je programma zo snel mogelijk na elkaar uitge
         Hieronder zie je code die led 13 aan- en uitzet. Voeg op de gepaste plaats(en) een wachttijd toe zodat het lampje een halve seconde aan gaat en erna een halve seconde uit blijft (=knipperen met frequentie van 1Hz). 
         <div class="dwengo-code-simulator">
         <pre>
-<code class="language-cpp">
+<code class="language-cpp" data-filename="delay.cpp">
 
     #include <Dwenguino.h>
 
