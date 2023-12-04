@@ -56,3 +56,13 @@ Hier de inhoud.
         </code>
     </pre>
 </div>
+
+// X-scrollable  table: Set td width as desired
+<div class="dwengo_content table_container">
+    <table>
+        <tr>
+            <td style="width:375px;min-width:250px"><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td style="min-width:250px">Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
+        </tr>
+    </table>
+</div>
