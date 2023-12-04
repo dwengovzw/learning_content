@@ -33,8 +33,8 @@ Om de rest van de tabel in te vullen, maken we gebruik van de informatie die we 
 <div class="dwengo_content table_container">
     <table>
         <tr>
-            <td style="min-width:450px"><img src="img/levenshtein_example_step3.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
-            <td>De afstand om van P naar K te gaan schrijven we in het oranje vakje (2, 2). Hieronder bekijken we de drie manieren om dat te doen.</td>
+            <td style="width:375px;min-width:250px"><img src="img/levenshtein_example_step3.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td style="min-width:250px">De afstand om van P naar K te gaan schrijven we in het oranje vakje (2, 2). Hieronder bekijken we de drie manieren om dat te doen.</td>
         </tr>
         <tr>
             <td><img src="img/levenshtein_example_step4a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>

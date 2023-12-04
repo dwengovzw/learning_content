@@ -45,8 +45,8 @@ Om de tabel in te vullen, starten we met de eenvoudige gevallen. Deze zijn de tw
 <div class="dwengo_content table_container">
     <table>
         <tr>
-            <td style="min-width:450px"><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
-            <td>Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
+            <td style="width:375px;min-width:250px"><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td style="min-width:250px">Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
         </tr>
         <tr>
             <td><img src="img/levenshtein_example_step1a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
