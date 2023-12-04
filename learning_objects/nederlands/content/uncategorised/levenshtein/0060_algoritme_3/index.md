@@ -28,8 +28,8 @@ Hieronder zie je nog een voorbeeld van hoe we een volgende vakje kunnen invullen
 <div class="dwengo_content table_container">
     <table>
         <tr>
-            <td style="min-width:450px"><img src="img/levenshtein_example_step9a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
-            <td>Manier 1: De kost om van PL naar KA te gaan kennen we (= 2). Daar tellen we de kost bij op om A te verwijderen uit PLA (= 1). Voor dit geval dus 3 in totaal.</td>
+            <td style="width:375px;min-width:250px"><img src="img/levenshtein_example_step9a.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td style="min-width:250px">Manier 1: De kost om van PL naar KA te gaan kennen we (= 2). Daar tellen we de kost bij op om A te verwijderen uit PLA (= 1). Voor dit geval dus 3 in totaal.</td>
         </tr>
         <tr>
             <td><img src="img/levenshtein_example_step9b.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
