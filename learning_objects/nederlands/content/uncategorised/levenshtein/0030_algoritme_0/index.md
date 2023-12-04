@@ -33,7 +33,7 @@ Om ons algoritme uit te kunnen voeren met de computer, moeten we onze gegevens o
 <div class="dwengo_content table_container">
     <table>
         <tr>
-            <td style="width:450px"><img src="img/levenshtein_example_base_grid.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td style="width:375px"><img src="img/levenshtein_example_base_grid.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
             <td>Zoals je kan zien op de afbeelding, zetten we het woord waarvan we vertrekken in de eerste kolom. Het woord waar we naartoe willen zetten we in de eerste rij. Merk op dat we telkens ook een <strong>leeg vakje</strong> voor het woord plaatsen (coördinaten (1, 0) en (0, 1)). Dit leeg vakje stelt het lege woord voor. Het vakje linksboven (coördinaat (0, 0)) heeft geen betekenis. In de overige vakjes vullen we in wat de afstand is tussen de prefix van het woord dat links staat naar de prefix van het woord dat rechts staat. Hieronder zie je daar twee voorbeelden van.</td>
         </tr>
         <tr>
