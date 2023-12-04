@@ -62,6 +62,3 @@ Om de tabel in te vullen, starten we met de eenvoudige gevallen. Deze zijn de tw
         </tr>
     </table>
 </div>
-
-
-We hebben nu een **gegevensvoorstelling** (ofwel een **datastructuur**) waarin we de gegevens van ons probleem zullen opslaan. Nu hebben we nog een **stappenplan** (ofwel een **algoritme**) nodig om deze **datastructuur** in te vullen.
