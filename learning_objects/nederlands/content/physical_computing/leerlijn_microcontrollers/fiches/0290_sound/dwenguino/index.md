@@ -2,8 +2,8 @@
 hruid: leerlijn_fiches_dwenguino_geluid
 version: 1
 language: nl
-title: "Ledmatrix"
-description: "Figuren maken met de ledmatrix"
+title: "Geluidssensor"
+description: "Hoe stel ik de geluidssensor af?"
 keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 

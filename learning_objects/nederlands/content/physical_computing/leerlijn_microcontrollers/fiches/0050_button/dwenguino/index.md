@@ -2,8 +2,8 @@
 hruid: leerlijn_fiches_dwenguino_knoppen
 version: 1
 language: nl
-title: "Ledmatrix"
-description: "Figuren maken met de ledmatrix"
+title: "Knoppen"
+description: "Leer de knoppen gebruiken"
 keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
