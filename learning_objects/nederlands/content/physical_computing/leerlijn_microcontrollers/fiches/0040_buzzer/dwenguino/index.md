@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "Buzzer"
 description: "De zoemer laten zoemen"
-keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
+keywords: ["buzzer", "zoemer", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

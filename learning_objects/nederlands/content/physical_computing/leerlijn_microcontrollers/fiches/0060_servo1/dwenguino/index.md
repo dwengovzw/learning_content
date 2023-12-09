@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "180° servomotor"
 description: "Hoe werkt de 180° servomotor?"
-keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
+keywords: ["servomotor", "blauw", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

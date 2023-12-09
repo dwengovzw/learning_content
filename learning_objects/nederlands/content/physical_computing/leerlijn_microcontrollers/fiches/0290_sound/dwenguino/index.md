@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "Geluidssensor"
 description: "Hoe stel ik de geluidssensor af?"
-keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
+keywords: ["geluid", "geluidssensor", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
