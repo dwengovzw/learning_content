@@ -2,8 +2,8 @@
 hruid: leerlijn_fiches_dwenguino_lcd
 version: 1
 language: nl
-title: "Ledmatrix"
-description: "Figuren maken met de ledmatrix"
+title: "Lcd-scherm"
+description: "Tekst laten verschijnen op het lcd-scherm"
 keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 

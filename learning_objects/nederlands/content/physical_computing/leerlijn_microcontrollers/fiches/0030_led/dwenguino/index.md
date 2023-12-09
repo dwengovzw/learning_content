@@ -2,8 +2,8 @@
 hruid: leerlijn_fiches_dwenguino_led
 version: 1
 language: nl
-title: "Ledmatrix"
-description: "Figuren maken met de ledmatrix"
+title: "Leds"
+description: "De leds op het bordje aansteken"
 keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 

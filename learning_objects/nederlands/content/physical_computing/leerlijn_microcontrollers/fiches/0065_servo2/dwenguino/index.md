@@ -2,8 +2,8 @@
 hruid: leerlijn_fiches_dwenguino_servo2
 version: 1
 language: nl
-title: "Ledmatrix"
-description: "Figuren maken met de ledmatrix"
+title: "360° servomotor"
+description: "Hoe werkt de 360° servomotor?"
 keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 

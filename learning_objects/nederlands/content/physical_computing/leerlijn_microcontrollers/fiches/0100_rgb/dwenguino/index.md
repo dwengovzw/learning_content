@@ -2,8 +2,8 @@
 hruid: leerlijn_fiches_dwenguino_rgb
 version: 1
 language: nl
-title: "Ledmatrix"
-description: "Figuren maken met de ledmatrix"
+title: "RGB-led"
+description: "De kleuren voor de RGB-led instellen"
 keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
