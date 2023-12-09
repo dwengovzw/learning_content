@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "Knoppen"
 description: "Leer de knoppen gebruiken"
-keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
+keywords: ["Knoppen", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

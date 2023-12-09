@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "Leds"
 description: "De leds op het bordje aansteken"
-keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
+keywords: ["led", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

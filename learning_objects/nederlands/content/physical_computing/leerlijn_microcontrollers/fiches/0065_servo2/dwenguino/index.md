@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "360° servomotor"
 description: "Hoe werkt de 360° servomotor?"
-keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
+keywords: ["servomotor", "zwart", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

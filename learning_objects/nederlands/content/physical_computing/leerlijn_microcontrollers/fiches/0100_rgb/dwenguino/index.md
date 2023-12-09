@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "RGB-led"
 description: "De kleuren voor de RGB-led instellen"
-keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
+keywords: ["rgb", "RGB-led", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

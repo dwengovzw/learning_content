@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "Lcd-scherm"
 description: "Tekst laten verschijnen op het lcd-scherm"
-keywords: ["led", "ledmatrix", "fiche", "dwenguino"]
+keywords: ["lcd", "lcd-scherm", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
