@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_fiches_dwenguino_lcd
+hruid: leerlijn_fiches_dwenguino_zoemer
 version: 1
 language: nl
 title: "Ledmatrix"

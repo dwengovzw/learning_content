@@ -15,7 +15,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_fiches_dwenguino_led13",
+              "hruid": "leerlijn_fiches_dwenguino_upload",
               "version": "1",
               "language": "nl"
             }
@@ -23,7 +23,135 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_fiches_dwenguino_led13",
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_upload",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_lcd",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_lcd",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_led",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_led",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_zoemer",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_zoemer",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_knoppen",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_knoppen",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_servo1",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_servo1",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_servo2",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_servo2",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_ledmatrix",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_ledmatrix",
+        "version": "1",
+        "language": "nl",     
+        "start_node": true,
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_rgb",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_rgb",
         "version": "1",
         "language": "nl",     
         "start_node": true,
@@ -46,7 +174,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_fiches_dwenguino_ledmatrix",
+              "hruid": "leerlijn_fiches_dwenguino_geluid",
               "version": "1",
               "language": "nl"
             }
@@ -54,7 +182,22 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_fiches_dwenguino_ledmatrix",
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_geluid",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_fiches_dwenguino_led13",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_fiches_dwenguino_led13",
         "version": "1",
         "language": "nl",
         "transitions": [
