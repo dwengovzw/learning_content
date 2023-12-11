@@ -72,7 +72,7 @@ teacher_exclusive: false
             </p>
         </div>
         <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
+            <h3 class="example_item_title">Voorbeeld: Laat "Hallo robot" op het lcd-scherm verschijnen.</h3>
             <p class="example_item_content">
 <pre>
 <code class="language-arduino">
@@ -80,31 +80,16 @@ teacher_exclusive: false
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
-    #include <NewPing.h>
-
-    #define TRIGGER_PIN 11
-    #define ECHO_PIN 12
-    #define MAX_DISTANCE 200
-
-    NewPing sonar(
-        TRIGGER_PIN, 
-        ECHO_PIN, 
-        MAX_DISTANCE);
-    int afstand;
 
     void setup(){
         initDwenguino();
-        pinMode(13, OUTPUT);
+
+        dwenguinoLCD.setCursor(0,0);
+        dwenguinoLCD.print(String("Welkom robot"));
     }
 
     void loop(){
-        afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
-        }
-        delay(100);
+        
     }
 </code>
 </pre> 
