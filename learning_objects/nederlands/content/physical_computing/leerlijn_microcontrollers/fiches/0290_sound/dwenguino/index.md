@@ -42,11 +42,10 @@ teacher_exclusive: false
             <h3 class="info_item_title">Pinnen</h3>
             <p class="info_item_content">
                 <table>
-                    <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
+                    <tr><td>A</td><td>...</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
+                    <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
                     <tr><td>D</td><td>...</td></tr>
-                    <tr><td>CS</td><td>...</td></tr>
-                    <tr><td>CLK</td><td>...</td></tr>
                 </table>
             </p>
         </div>
