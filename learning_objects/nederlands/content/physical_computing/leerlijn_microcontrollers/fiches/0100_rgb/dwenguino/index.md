@@ -1,10 +1,10 @@
 ---
-hruid: leerlijn_fiches_dwenguino_lcd
+hruid: leerlijn_fiches_dwenguino_rgb
 version: 1
 language: nl
-title: "Lcd-scherm"
-description: "Tekst laten verschijnen op het lcd-scherm"
-keywords: ["lcd", "lcd-scherm", "fiche", "dwenguino"]
+title: "RGB-led"
+description: "De kleuren voor de RGB-led instellen"
+keywords: ["rgb", "RGB-led", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}

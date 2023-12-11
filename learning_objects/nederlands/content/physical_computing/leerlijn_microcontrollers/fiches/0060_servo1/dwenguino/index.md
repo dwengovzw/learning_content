@@ -1,10 +1,10 @@
 ---
-hruid: leerlijn_fiches_dwenguino_lcd
+hruid: leerlijn_fiches_dwenguino_servo1
 version: 1
 language: nl
-title: "Lcd-scherm"
-description: "Tekst laten verschijnen op het lcd-scherm"
-keywords: ["lcd", "lcd-scherm", "fiche", "dwenguino"]
+title: "180° servomotor"
+description: "Hoe werkt de 180° servomotor?"
+keywords: ["servomotor", "blauw", "fiche", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
