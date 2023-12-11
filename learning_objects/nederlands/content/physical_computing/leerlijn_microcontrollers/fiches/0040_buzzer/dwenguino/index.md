@@ -77,7 +77,7 @@ teacher_exclusive: false
             <p class="example_item_content">
 <pre>
 <code class="language-arduino">
-    
+
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
@@ -87,12 +87,8 @@ teacher_exclusive: false
     }
 
     void loop(){
-        pinMode(BUZZER, OUTPUT);
-        tone(BUZZER, 262);
-        delay(1000);
-        pinMode(BUZZER, OUTPUT);
-        noTone(BUZZER);
-        delay(1000);
+        pinMode(32, OUTPUT);
+        digitalWrite(32, HIGH);
     }
 </code>
 </pre> 
