@@ -23,19 +23,19 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">SONAR-SENSOR</h1>
-    <h2 class="subtitle">Een afstand meten</h2>
+    <h1 class="title">Knoppen</h1>
+    <h2 class="subtitle">Programma's starten m.b.v. knoppen</h2>
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
             <p class="info_item_content">
-                <img src="img/ledmatrix.png" alt="Een afbeelding van een ledmatrix." title="Een afbeelding van het ledmatrix."></img>
+                <img src="img/knoppen.png" alt="Een afbeelding van de knoppen." title="Een afbeelding van de knoppen."></img>
             </p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Type</h3>
             <p class="info_item_content">
-                Uitvoer, digitale actuator 
+                Invoer 
             </p>
         </div>
         <div class="info_item item">
@@ -44,19 +44,18 @@ teacher_exclusive: false
                 <table>
                     <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>D</td><td>...</td></tr>
-                    <tr><td>CS</td><td>...</td></tr>
-                    <tr><td>CLK</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
                 </table>
             </p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
-                Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
-                Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen.<br>
+                Op de dwenguino vind je vijf drukknoppen. De buitenste knoppen kregen de namen NOORD, ZUID, OOST, WEST, net als in aardrijkskunde. De middelste knop heet MIDDEN.<br>
                 <br>
-                De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier, terwijl het lcd-scherm aanstaat.
+                Je kan deze gebruiken om bepaalde delen van je programma niet te laten uitvoeren tot je dit expliciet aangeeft door een knop in te drukken.
             </p>
         </div>
         <div class="info_item item">
@@ -72,7 +71,7 @@ teacher_exclusive: false
             </p>
         </div>
         <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
+            <h3 class="example_item_title">Voorbeeld: led 0 gaat pas branden wanneer je een knop indrukt.</h3>
             <p class="example_item_content">
 <pre>
 <code class="language-arduino">
@@ -80,31 +79,16 @@ teacher_exclusive: false
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
-    #include <NewPing.h>
-
-    #define TRIGGER_PIN 11
-    #define ECHO_PIN 12
-    #define MAX_DISTANCE 200
-
-    NewPing sonar(
-        TRIGGER_PIN, 
-        ECHO_PIN, 
-        MAX_DISTANCE);
-    int afstand;
 
     void setup(){
         initDwenguino();
-        pinMode(13, OUTPUT);
     }
 
     void loop(){
-        afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
+        if (digitalRead(SW_N) == PRESSED) {
+            pinMode(32, OUTPUT);
+            digitalWrite(32, HIGH);
         }
-        delay(100);
     }
 </code>
 </pre> 
