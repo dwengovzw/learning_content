@@ -23,7 +23,7 @@ teacher_exclusive: false
 ---
  
 <div class="dwengo_content fiche">
-    <h1 class="title">Zoemer</h1>
+    <h1 class="title">WIP - Zoemer</h1>
     <h2 class="subtitle">Tonen afspelen</h2>
     <div class="items">
         <div class="info_item item">

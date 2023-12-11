@@ -23,7 +23,7 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">Knoppen</h1>
+    <h1 class="title">WIP - Knoppen</h1>
     <h2 class="subtitle">Programma's starten m.b.v. knoppen</h2>
     <div class="items">
         <div class="info_item item">

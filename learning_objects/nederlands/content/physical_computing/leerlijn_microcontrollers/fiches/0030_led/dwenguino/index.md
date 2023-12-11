@@ -23,7 +23,7 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">Led</h1>
+    <h1 class="title">WIP - Led</h1>
     <h2 class="subtitle">Leds laten branden</h2>
     <div class="items">
         <div class="info_item item">
