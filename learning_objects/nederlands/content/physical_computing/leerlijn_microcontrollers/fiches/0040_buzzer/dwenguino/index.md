@@ -2,7 +2,7 @@
 hruid: leerlijn_fiches_dwenguino_zoemer
 version: 1
 language: nl
-title: "Buzzer"
+title: "Zoemer"
 description: "De zoemer laten zoemen"
 keywords: ["buzzer", "zoemer", "fiche", "dwenguino"]
 educational_goals: [
@@ -21,10 +21,10 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
+ 
 <div class="dwengo_content fiche">
-    <h1 class="title">SONAR-SENSOR</h1>
-    <h2 class="subtitle">Een afstand meten</h2>
+    <h1 class="title">Zoemer</h1>
+    <h2 class="subtitle">Tonen afspelen</h2>
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
@@ -44,19 +44,21 @@ teacher_exclusive: false
                 <table>
                     <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>D</td><td>...</td></tr>
-                    <tr><td>CS</td><td>...</td></tr>
-                    <tr><td>CLK</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
                 </table>
             </p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
-                Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
-                Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen.<br>
-                <br>
-                De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier, terwijl het lcd-scherm aanstaat.
+                Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoemer of buzzer. Hiermee kan je geluiden afspelen. 
+
+Geluid is een golf van luchtdruk veroorzaakt door een trillend object zoals bijvoorbeeld een instrument of luidspreker. De hoeveelheid trillingen per seconde (de frequentie) bepaalt de toonhoogte. Wanneer het aantal trillingen per seconde tussen de 20 en 20 000 ligt, dan kan je dit als mens horen. Voor trillingen per seconde gebruiken we de eenheid Hertz, afgekort Hz. De mens kan dus trillingen horen tussen de 20 Hz en 20 000 Hz.
+
+Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer die je een gekozen frequentie kunt laten afspelen.
+
             </p>
         </div>
         <div class="info_item item">
