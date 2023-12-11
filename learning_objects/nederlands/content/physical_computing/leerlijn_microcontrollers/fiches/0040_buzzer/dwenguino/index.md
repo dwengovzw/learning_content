@@ -29,7 +29,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
             <p class="info_item_content">
-                <img src="img/ledmatrix.png" alt="Een afbeelding van een ledmatrix." title="Een afbeelding van het ledmatrix."></img>
+                <img src="img/zoemer.png" alt="Een afbeelding van de zoemer." title="Een afbeelding van de zoemer."></img>
             </p>
         </div>
         <div class="info_item item">
@@ -53,12 +53,11 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
-                Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoemer of buzzer. Hiermee kan je geluiden afspelen. 
-
-Geluid is een golf van luchtdruk veroorzaakt door een trillend object zoals bijvoorbeeld een instrument of luidspreker. De hoeveelheid trillingen per seconde (de frequentie) bepaalt de toonhoogte. Wanneer het aantal trillingen per seconde tussen de 20 en 20 000 ligt, dan kan je dit als mens horen. Voor trillingen per seconde gebruiken we de eenheid Hertz, afgekort Hz. De mens kan dus trillingen horen tussen de 20 Hz en 20 000 Hz.
-
-Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer die je een gekozen frequentie kunt laten afspelen.
-
+                Boven het lcd-scherm kan je een een ronde, zwarte component zien. Dit is de zoemer of buzzer. Hiermee kan je geluiden afspelen. <br>
+                <br>
+                Geluid is een golf van luchtdruk veroorzaakt door een trillend object zoals bijvoorbeeld een instrument of luidspreker. De hoeveelheid trillingen per seconde (de frequentie) bepaalt de toonhoogte. Wanneer het aantal trillingen per seconde tussen de 20 en 20 000 ligt, dan kan je dit als mens horen. Voor trillingen per seconde gebruiken we de eenheid Hertz, afgekort Hz. De mens kan dus trillingen horen tussen de 20 Hz en 20 000 Hz.<br>
+                <br>
+                Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer die je een gekozen frequentie kunt laten afspelen.
             </p>
         </div>
         <div class="info_item item">
@@ -74,7 +73,7 @@ Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer 
             </p>
         </div>
         <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
+            <h3 class="example_item_title">Voorbeeld: de zoemer een toon herhaaldelijk laten afspelen.</h3>
             <p class="example_item_content">
 <pre>
 <code class="language-arduino">
@@ -82,31 +81,18 @@ Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer 
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
-    #include <NewPing.h>
-
-    #define TRIGGER_PIN 11
-    #define ECHO_PIN 12
-    #define MAX_DISTANCE 200
-
-    NewPing sonar(
-        TRIGGER_PIN, 
-        ECHO_PIN, 
-        MAX_DISTANCE);
-    int afstand;
 
     void setup(){
         initDwenguino();
-        pinMode(13, OUTPUT);
     }
 
     void loop(){
-        afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
-        }
-        delay(100);
+        pinMode(BUZZER, OUTPUT);
+        tone(BUZZER, 262);
+        delay(1000);
+        pinMode(BUZZER, OUTPUT);
+        noTone(BUZZER);
+        delay(1000);
     }
 </code>
 </pre> 
