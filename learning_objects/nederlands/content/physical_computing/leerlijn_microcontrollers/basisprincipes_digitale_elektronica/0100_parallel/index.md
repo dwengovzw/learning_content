@@ -38,7 +38,7 @@ De stroom zal zich in een parallelschakeling verdelen over de componenten. Hoeve
 
 In een parallelschakeling is de spanning over elke component gelijk.
 
-\\[V_T = V_1 = V_2 = … = V_n\\]
+\\[U_T = U_1 = U_2 = … = U_n\\]
 
 **Het effect van de parallelschakeling op de weerstand:**
 
