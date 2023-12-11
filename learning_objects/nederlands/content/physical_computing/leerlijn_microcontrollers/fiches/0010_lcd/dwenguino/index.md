@@ -23,7 +23,7 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">Lcd-scherm</h1>
+    <h1 class="title">WIP - Lcd-scherm</h1>
     <h2 class="subtitle">Tekst weergeven</h2>
     <div class="items">
         <div class="info_item item">
