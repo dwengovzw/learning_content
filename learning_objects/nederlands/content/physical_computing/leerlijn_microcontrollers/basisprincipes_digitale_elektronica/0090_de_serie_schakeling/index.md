@@ -38,7 +38,7 @@ In een serieschakeling is de stroom overal hetzelfde.
 
 De spanning in een serieschakeling zal zich verdelen over de componenten. Hoeveel de spanning zakt over een component staat in verhouding met de weerstand van die component.
 
-\\[V_T = V_1 + V_2 + … + V_n\\]
+\\[U_T = U_1 + U_2 + … + U_n\\]
 
 **Het effect van de serieschakeling op de weerstand:**
 
