@@ -44,9 +44,9 @@ teacher_exclusive: false
                 <table>
                     <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>D</td><td>...</td></tr>
-                    <tr><td>CS</td><td>...</td></tr>
-                    <tr><td>CLK</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
                 </table>
             </p>
         </div>
