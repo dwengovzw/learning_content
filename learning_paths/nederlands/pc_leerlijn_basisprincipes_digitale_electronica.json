@@ -60,7 +60,22 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten",
+              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_symbolen",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_symbolen",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_spanning",
               "version": "1",
               "language": "nl"
             }
