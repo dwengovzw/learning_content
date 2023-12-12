@@ -25,4 +25,3 @@ teacher_exclusive: false
 # Inleiding
 
 In dit leerpad geven we een aantal voorbeelden van hoe de grafische blokken in de Dwengo simulator omgezet worden naar tekstuele code. Door deze voorbeelden te doorlopen zal je inzicht krijgen in de manier waarop tekstuele code opgebouwd kan worden.
-
