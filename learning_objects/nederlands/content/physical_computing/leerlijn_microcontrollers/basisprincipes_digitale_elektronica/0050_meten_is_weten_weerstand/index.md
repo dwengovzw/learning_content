@@ -48,7 +48,7 @@ TODO: voeg foto toe.
             Hieronder zie je een circuit. Je krijgt deze schakeling van de leerkracht. Meet de weerstand van R1 door de meetsnoeren van de multimeter te verbinden met de punten a en b.
         </p>
         <p>
-            <img src="img/diagram.svg"></img>
+            <img src="img/diagram_eu.svg"></img>
         </p>
         <ul>
             <li>Wat gebeurt er met de weerstand als je de meetsnoeren omwisselt?</li>
