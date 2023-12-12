@@ -38,15 +38,18 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
 #include <Dwenguino.h>  // Basisfuncties Dwenguino
 #include <NewPing.h>    // Bibliotheek van de sonarsensor
 
+
 #define TRIGGER_PIN 11
 #define ECHO_PIN 12
 #define MAX_DISTANCE 200
+
 
 NewPing sonar = NewPing(
     TRIGGER_PIN,
     ECHO_PIN,
     MAX_DISTANCE);
 int afstand;
+
 
 void setup(){
     initDwenguino();
@@ -69,7 +72,7 @@ void loop(){
 
 ### Oplossing Arduino
 
-<div class="dwengo-content dwengo-code-simulator">
+<div class="dwengo-content">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
 
