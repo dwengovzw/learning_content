@@ -51,7 +51,7 @@ Hier de inhoud.
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="language-arduino" data-filename="filename.cpp">
+        <code class="lang-cpp" data-filename="filename.cpp">
             My code here.
         </code>
     </pre>

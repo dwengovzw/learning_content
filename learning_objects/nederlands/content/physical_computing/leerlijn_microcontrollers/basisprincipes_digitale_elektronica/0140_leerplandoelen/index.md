@@ -41,5 +41,6 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
     <li>WD2_12.02.01 De leerlingen gebruiken met de nodige nauwkeurigheid meetinstrumenten en hulpmiddelen.</li>
     <li>WD2_11.02.07 De leerlingen kwantificeren grootheden in serie-, parallel- en gemengde elektrische gelijkstroomkringen met twee of drie weerstanden.</li>
     <li>WD2_12.01.02 De leerlingen gebruiken met de nodige nauwkeurigheid meetinstrumenten en hulpmiddelen. </li>
+    <li>WD3_11.08.01 De leerlingen modelleren en realiseren een elektronische schakeling als input/output-interface voor een microcontroller of PLC.</li>
 </ul>
 

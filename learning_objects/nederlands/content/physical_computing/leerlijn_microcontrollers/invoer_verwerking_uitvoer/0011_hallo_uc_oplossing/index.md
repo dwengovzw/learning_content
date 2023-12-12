@@ -24,13 +24,18 @@ teacher_exclusive: true
 
 # Hallo µC (oplossing)
 
-Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er zeker variaties op deze oplossing mogelijk zijn.
+De fiches voor deze opdracht kan je vinden in de leerpaden *Fiches Dwenguino* of *Fiches Arduino*. Het leerpad dat je kiest is afhankelijk van de hardware die je gebruikt. Op de fiches staat telkens informatie over hoe je een component kan aansluiten en programmeren.
 
-```arduino
-#include <Wire.h>
-#include <Dwenguino.h>
-#include <LiquidCrystal.h>
-#include <NewPing.h>
+Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er zeker variaties op deze oplossing mogelijk zijn. In de commentaar is uitleg voorzien bij de code.
+
+### Oplossing Dwenguino
+
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+        <code class="lang-cpp" data-filename="filename.cpp">
+// Eerst importeren we een aantal bibliotheken.
+#include <Dwenguino.h>  // Basisfuncties Dwenguino
+#include <NewPing.h>    // Bibliotheek van de sonarsensor
 
 #define TRIGGER_PIN 11
 #define ECHO_PIN 12
@@ -56,4 +61,41 @@ void loop(){
     }
     delay(100);
 }
-```
+        </code>
+    </pre>
+</div>
+
+### Oplossing Arduino
+
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+        <code class="lang-cpp" data-filename="filename.cpp">
+// Eerst importeren we een aantal bibliotheken.
+#include <NewPing.h>    // Bibliotheek van de sonarsensor
+
+#define TRIGGER_PIN 11
+#define ECHO_PIN 12
+#define MAX_DISTANCE 200
+
+NewPing sonar = NewPing(
+    TRIGGER_PIN,
+    ECHO_PIN,
+    MAX_DISTANCE);
+int afstand;
+
+void setup(){
+    pinMode(13, OUTPUT);
+}
+
+void loop(){
+    afstand = sonar.ping_cm();
+    if (afstand > 0 && afstand < 100){
+        digitalWrite(13, HIGH);
+    } else {
+        digitalWrite(13, LOW);
+    }
+    delay(100);
+}
+        </code>
+    </pre>
+</div>

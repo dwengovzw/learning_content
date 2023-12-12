@@ -29,11 +29,11 @@ Hieronder zie je hoe we de weerstandswaarde van R1 kunnen berekenen.
 
 Eerst lijsten we de informatie op die we al kennen. Zo weten we dat onze schakeling op 5V werkt.
 
-\\[V_{in} = 5\\,\mathrm{V}\\]
+\\[U_{in} = 5\\,\mathrm{V}\\]
 
 We weten ook dat het spanningsniveau waarop de µC van een logische 0 naar een logische 1 overschakelt 1.3V is.
 
-\\[V_{out} = 1.3\\,\mathrm{V}\\]
+\\[U_{out} = 1.3\\,\mathrm{V}\\]
 
 Verder kunnen we uit de grafiek met de karakteristiek van de lichtsensor aflezen dat die bij een lichtintensiteit van 10 Lux een weerstand van ongeveer 10KΩ zal hebben.
 
@@ -41,7 +41,7 @@ Verder kunnen we uit de grafiek met de karakteristiek van de lichtsensor aflezen
 
 Deze waarden kunnen we nu invullen in de formule.
 
-\\[V_{out} = \frac{R_2}{R_1+R_2} V_{in}\\]
+\\[U_{out} = \frac{R_2}{R_1+R_2} U_{in}\\]
 
 \\[1.3\\,\mathrm{V} = \frac{10\\,\mathrm{K\Omega}}{R_1+10\\,\mathrm{K\Omega}} 5\\,\mathrm{V}\\]
 

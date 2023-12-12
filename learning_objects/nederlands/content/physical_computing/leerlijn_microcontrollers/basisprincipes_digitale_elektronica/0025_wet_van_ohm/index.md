@@ -38,7 +38,7 @@ Hier is een eenvoudige uitleg:
 
 **Weerstand** (\\(\mathrm R\\)) is de mate waarin een materiaal de stroom van elektronen hindert, gemeten in ohm (\\(\mathrm \Omega\\)). Hoe hoger de weerstand, hoe moeilijker het is voor de stroom om te vloeien.
 
-De wet van Ohm stelt dat de spanning (\\(\mathrm V\\)) over een component in een elektrisch circuit recht evenredig is met de stroom (\\(\mathrm I\\)) die erdoorheen gaat, en omgekeerd evenredig met de weerstand (\\(\mathrm R\\)) van die component. Met andere woorden, als je de spanning en de weerstand kent, kun je de stroom berekenen, of als je de stroom en de weerstand kent, kun je de spanning berekenen.
+De wet van Ohm stelt dat de spanning (\\(\mathrm U\\)) over een component in een elektrisch circuit recht evenredig is met de stroom (\\(\mathrm I\\)) die erdoorheen gaat, en omgekeerd evenredig met de weerstand (\\(\mathrm R\\)) van die component. Met andere woorden, als je de spanning en de weerstand kent, kun je de stroom berekenen, of als je de stroom en de weerstand kent, kun je de spanning berekenen.
 
 Dit eenvoudige principe is essentieel bij het ontwerpen en begrijpen van elektrische circuits en helpt ingenieurs en elektriciens om componenten te selecteren en de prestaties van elektrische systemen te voorspellen.
 
@@ -56,8 +56,8 @@ Merk op dat de waarden op de x-as maar gaan tot \\(40\\,\mathrm{mA}\\), dit is d
     <h2 class="title">Voorschakelweerstand bepalen</h2>
     <div class="content">
         Zoals je kan lezen op de componentfiche van led 13, moet je altijd een weerstand in serie schakelen met een led. Dit doe je om de stroom te beperken die door de led gaat. Een led heeft zelf geen weerstand maar veroorzaakt wel een spanningsval. Deze spanningsval hangt af van het kleur en het type van de led. De weerstandswaarde hangt dus af van de spanningsval over de led en de maximale stroom die door de led mag lopen. We kunnen deze weerstandswaarde berekenen met de volgende formule.
-        \[\mathrm{R} = \frac{\mathrm{V_{cc}} - \mathrm{V_l}}{\mathrm{I_{max}}}\]
-        waarbij \(\mathrm{V_{cc}} = 5\,\mathrm{V}\), \(\mathrm{I_{max}}\) de maximale stroom is door de led (meestal ongeveer \(20\,\mathrm{mA}\)) en \(\mathrm{V_{l}}\) gelijk is aan de spanningsval over de led. Plotten we deze functie dan kunnen we op de grafiek de weerstandswaarde aflezen voor elke \(\mathrm{V_{l}}\).
+        \[\mathrm{R} = \frac{\mathrm{U_{in}} - \mathrm{U_l}}{\mathrm{I_{max}}}\]
+        waarbij \(\mathrm{U_{in}} = 5\,\mathrm{V}\), \(\mathrm{I_{max}}\) de maximale stroom is door de led (meestal ongeveer \(20\,\mathrm{mA}\)) en \(\mathrm{U_{l}}\) gelijk is aan de spanningsval over de led. Plotten we deze functie dan kunnen we op de grafiek de weerstandswaarde aflezen voor elke \(\mathrm{U_{l}}\).
         <img src="img/weerstand_led.png"></img>
     </div>
 </div>
