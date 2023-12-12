@@ -23,8 +23,8 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">SONAR-SENSOR</h1>
-    <h2 class="subtitle">Een afstand meten</h2>
+    <h1 class="title">Led-matrix</h1>
+    <h2 class="subtitle">Figuren tonen op de led-matrix</h2>
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
@@ -53,10 +53,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
-                Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
-                Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen.<br>
-                <br>
-                De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier, terwijl het lcd-scherm aanstaat.
+                De led-matrix is een vierkante 8x8 matrix met 64 leds in een vaste kleur (rood). De matrix is ideaal om bepaalde patronen te laten oplichten, zoals een oog of een mond van de robot of een ander symbool. Je kan de matrices ook met elkaar verbinden (maximaal 4), als je meerdere matrices tegelijk wil gebruiken. Je kan programmeren welke leds er tegelijk moeten oplichten.
             </p>
         </div>
         <div class="info_item item">
@@ -80,31 +77,28 @@ teacher_exclusive: false
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
-    #include <NewPing.h>
+    #include <LedController.hpp>
 
-    #define TRIGGER_PIN 11
-    #define ECHO_PIN 12
-    #define MAX_DISTANCE 200
-
-    NewPing sonar(
-        TRIGGER_PIN, 
-        ECHO_PIN, 
-        MAX_DISTANCE);
-    int afstand;
+    auto led_matrix = LedController<4,1>();
+    ByteBlock pattern = {};
 
     void setup(){
         initDwenguino();
-        pinMode(13, OUTPUT);
+
+        auto conf = controller_configuration<4,1>();
+        conf.useHardwareSpi = false;
+        conf.SPI_CLK = 13;
+        conf.SPI_MOSI = 2;
+        conf.SPI_CS = 10;
+        led_matrix.init(conf);
+        led_matrix.activateAllSegments();
+        led_matrix.setIntensity(8);
+        led_matrix.clearMatrix();
     }
 
     void loop(){
-        afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
-        }
-        delay(100);
+        pattern = {B00000000,B01100110,B11111111,B11111111,B01111110,B00111100,B00011000,B00000000};
+        led_matrix.displayOnSegment(0, pattern);
     }
 </code>
 </pre> 

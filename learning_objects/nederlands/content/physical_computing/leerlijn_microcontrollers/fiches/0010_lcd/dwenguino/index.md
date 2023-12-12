@@ -23,13 +23,13 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">SONAR-SENSOR</h1>
-    <h2 class="subtitle">Een afstand meten</h2>
+    <h1 class="title">WIP - Lcd-scherm</h1>
+    <h2 class="subtitle">Tekst weergeven</h2>
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
             <p class="info_item_content">
-                <img src="img/ledmatrix.png" alt="Een afbeelding van een ledmatrix." title="Een afbeelding van het ledmatrix."></img>
+                <img src="img/dwenguino_lcd.png" alt="Een afbeelding van een lcd-scherm." title="Een afbeelding een lcd-scherm."></img>
             </p>
         </div>
         <div class="info_item item">
@@ -44,9 +44,9 @@ teacher_exclusive: false
                 <table>
                     <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>D</td><td>...</td></tr>
-                    <tr><td>CS</td><td>...</td></tr>
-                    <tr><td>CLK</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
                 </table>
             </p>
         </div>
@@ -72,7 +72,7 @@ teacher_exclusive: false
             </p>
         </div>
         <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
+            <h3 class="example_item_title">Voorbeeld: Laat "Hallo robot" op het lcd-scherm verschijnen.</h3>
             <p class="example_item_content">
 <pre>
 <code class="language-arduino">
@@ -80,31 +80,16 @@ teacher_exclusive: false
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
-    #include <NewPing.h>
-
-    #define TRIGGER_PIN 11
-    #define ECHO_PIN 12
-    #define MAX_DISTANCE 200
-
-    NewPing sonar(
-        TRIGGER_PIN, 
-        ECHO_PIN, 
-        MAX_DISTANCE);
-    int afstand;
 
     void setup(){
         initDwenguino();
-        pinMode(13, OUTPUT);
+
+        dwenguinoLCD.setCursor(0,0);
+        dwenguinoLCD.print(String("Welkom robot"));
     }
 
     void loop(){
-        afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
-        }
-        delay(100);
+        
     }
 </code>
 </pre> 

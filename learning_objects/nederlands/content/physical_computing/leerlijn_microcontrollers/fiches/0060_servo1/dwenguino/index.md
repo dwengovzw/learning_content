@@ -23,13 +23,13 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">SONAR-SENSOR</h1>
-    <h2 class="subtitle">Een afstand meten</h2>
+    <h1 class="title">WIP - 180° servomotor</h1>
+    <h2 class="subtitle">Rotaties uitvoeren</h2>
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
             <p class="info_item_content">
-                <img src="img/ledmatrix.png" alt="Een afbeelding van een ledmatrix." title="Een afbeelding van het ledmatrix."></img>
+                <img src="img/servos.png" alt="Een afbeelding van de servomotoren." title="Een afbeelding van de servomotoren."></img>
             </p>
         </div>
         <div class="info_item item">
@@ -42,22 +42,21 @@ teacher_exclusive: false
             <h3 class="info_item_title">Pinnen</h3>
             <p class="info_item_content">
                 <table>
-                    <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>D</td><td>...</td></tr>
-                    <tr><td>CS</td><td>...</td></tr>
-                    <tr><td>CLK</td><td>...</td></tr>
+                    <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
+                    <tr><td>PIN</td><td>...</td></tr>
                 </table>
             </p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
-                Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.<br>
-                Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen.<br>
+                Je beschikt over 2 soorten:<br>
                 <br>
-                De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier, terwijl het lcd-scherm aanstaat.
-            </p>
+                - *De blauwe servomotor*: Deze servomotor kan slechts 180 graden draaien. Je kan deze m.a.w. gebruiken om een halve draaibeweging uit te voeren.
+                - *De zwarte servomotor*: Deze servomotor kan 360 graden draaien. Deze gebruik je bijvoorbeeld om iets constant te laten draaien.<br>
+                <br>
+                Het voordeel van de blauwe servomotor t.o.v. de zwarte servomotor is dat je de positie (de draaihoek) exact kunt bepalen. Hij is dus beter voor precieze bewegingen. Het nadeel is dan weer dat het wat ingewikkelder is om deze te programmeren
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Symbool</h3>
@@ -72,7 +71,7 @@ teacher_exclusive: false
             </p>
         </div>
         <div class="example_item item">
-            <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
+            <h3 class="example_item_title">Voorbeeld: 2 servomotoren bewegen herhaaldelijk op en neer zoals armen die zwaaien.</h3>
             <p class="example_item_content">
 <pre>
 <code class="language-arduino">
@@ -80,31 +79,26 @@ teacher_exclusive: false
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
-    #include <NewPing.h>
+    #include <Servo.h>
 
-    #define TRIGGER_PIN 11
-    #define ECHO_PIN 12
-    #define MAX_DISTANCE 200
-
-    NewPing sonar(
-        TRIGGER_PIN, 
-        ECHO_PIN, 
-        MAX_DISTANCE);
-    int afstand;
+    Servo servoOnPin19;
+    Servo servoOnPin18;
 
     void setup(){
         initDwenguino();
-        pinMode(13, OUTPUT);
     }
 
     void loop(){
-        afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
-        }
-        delay(100);
+        servoOnPin19.attach(19);
+        servoOnPin19.write(0);
+        servoOnPin18.attach(18);
+        servoOnPin18.write(0);
+        delay(1000);
+        servoOnPin19.attach(19);
+        servoOnPin19.write(180);
+        servoOnPin18.attach(18);
+        servoOnPin18.write(180);
+        delay(1000);
     }
 </code>
 </pre> 
