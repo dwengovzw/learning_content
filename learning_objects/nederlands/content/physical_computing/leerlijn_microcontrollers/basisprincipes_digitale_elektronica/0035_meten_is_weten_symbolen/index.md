@@ -53,7 +53,7 @@ Om een elektrische schakeling op een correcte manier te kunnen meten, is het nod
             <td style="min-width:250px">Wanneer twee draden kruisen op het schema zijn die <strong>NIET</strong> met elkaar verbonden.</td>
         </tr>
         <tr>
-            <td style="width:375px;min-width:250px"><img src="img/unconnected_crossing.svg" alt="Symbool weerstand" title="Symbool weerstand"></td>
+            <td style="width:375px;min-width:250px"><img src="img/connected_crossing.svg" alt="Symbool weerstand" title="Symbool weerstand"></td>
             <td style="min-width:250px">Om op een schema aan te geven dat draden die kruisen verbonden zijn voegen we een volle stip toe op het kruispunt.</td>
         </tr>
         <tr>
