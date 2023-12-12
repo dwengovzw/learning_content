@@ -35,7 +35,7 @@ teacher_exclusive: false
         <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
         <ul>
             <li>Meet de weerstandswaarde van R1.</li>
-            <li>Bereken de stroom voor een VCC van 5V.</li>
+            <li>Bereken de stroom door het circuit wanneer we de punten a en b met elkaar verbinden.</li>
             <li>Controleer de stroom door deze te meten met de multimeter.</li>
             <li>Wat is de afwijking die je bekomt?</li>
         </ul>

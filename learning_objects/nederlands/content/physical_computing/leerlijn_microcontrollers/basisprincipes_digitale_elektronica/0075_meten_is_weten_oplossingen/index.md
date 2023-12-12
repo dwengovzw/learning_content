@@ -37,7 +37,7 @@ Hieronder vind je een aantal mogelijke oplossingen. Deze zijn afhankelijk van de
         <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
         <ul>
             <li>Meet de weerstandswaarde van R1.<br><em>Wij kozen voor een weerstand van 556 Ω.</em></li>
-            <li>Bereken de stroom voor een VCC van 5V.<br><em>Voor die weerstand krijg je een stroom van 8.992 mA.</em></li>
+            <li>Bereken de stroom door het circuit wanneer we de punten a en b met elkaar verbinden.<br><em>Voor die weerstand krijg je een stroom van 8.992 mA.</em></li>
             <li>Controleer de stroom door deze te meten met de multimeter.<br><em>Deze waarde moeten ze meten maar zou dicht bij de berekende waarde moeten liggen.</em></li>
             <li>Wat is de afwijking die je bekomt?<br><em>Dit bepalen ze op basis van de meting.</em></li>
         </ul>
@@ -95,7 +95,7 @@ Hieronder vind je een aantal mogelijke oplossingen. Deze zijn afhankelijk van de
         <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
         <ul>
             <li>Meet de weerstand van R1, R2, R3 en R4.<br><em>R1 = 220 Ω, R2 = 550 Ω, R3 = 220 Ω, R4 = 1 KΩ</em></li>
-            <li>Meet de spanning tussen de punten a en b, b en c, c en d, d en e.<br><em>V1 ≈ 0.55 V, V2 ≈ 1.38V, V3 ≈ 0.55V, V4 ≈ 2.51V</em></li>
+            <li>Meet de spanning tussen de punten a en b, b en c, c en d, d en e.<br><em>U1 ≈ 0.55 V, U2 ≈ 1.38V, U3 ≈ 0.55V, U4 ≈ 2.51V</em></li>
             <li>Wat merk je als je de weerstanden en spanningen van/over een weerstand met elkaar vergelijkt?<br><em>De spanningen verouden zich op dezelfde manier tot elkaar als de weerstanden.</em></li>
         </ul>
     </div>
