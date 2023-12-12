@@ -49,6 +49,7 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
         TRIGGER_PIN,
         ECHO_PIN,
         MAX_DISTANCE);
+    // Variabele om de afstand in op te slaan.
     int afstand;
 
     // Zet klaar -> een keer bij start programma.
@@ -82,20 +83,25 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
     #include <Wire.h>       // Basisfuncties communicatie
     #include <NewPing.h>    // Bibliotheek van de sonarsensor
 
+    // Definities 
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
     #define MAX_DISTANCE 200
 
+    // Sonar object om afstand te meten.
     NewPing sonar = NewPing(
         TRIGGER_PIN,
         ECHO_PIN,
         MAX_DISTANCE);
+    // Variabele om de afstand in op te slaan.
     int afstand;
 
+    // Zet klaar -> een keer bij start programma.
     void setup(){
         pinMode(13, OUTPUT);
     }
 
+    // Herhaal blijft herhalen tot je stroom uittrekt.
     void loop(){
         afstand = sonar.ping_cm();
         if (afstand > 0 && afstand < 100){
