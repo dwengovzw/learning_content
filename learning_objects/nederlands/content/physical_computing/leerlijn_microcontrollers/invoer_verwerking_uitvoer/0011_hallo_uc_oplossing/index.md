@@ -34,37 +34,38 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
 
-// Eerst importeren we een aantal bibliotheken.
-#include <Dwenguino.h>  // Basisfuncties Dwenguino
-#include <NewPing.h>    // Bibliotheek van de sonarsensor
+    // Eerst importeren we een aantal bibliotheken.
+    #include <Dwenguino.h>  // Basisfuncties Dwenguino
+    #include <NewPing.h>    // Bibliotheek van de sonarsensor
 
+    // Definities 
+    #define TRIGGER_PIN 11
+    #define ECHO_PIN 12
+    #define MAX_DISTANCE 200
 
-#define TRIGGER_PIN 11
-#define ECHO_PIN 12
-#define MAX_DISTANCE 200
+    // Sonar object om afstand te meten.
+    NewPing sonar = NewPing(
+        TRIGGER_PIN,
+        ECHO_PIN,
+        MAX_DISTANCE);
+    int afstand;
 
-
-NewPing sonar = NewPing(
-    TRIGGER_PIN,
-    ECHO_PIN,
-    MAX_DISTANCE);
-int afstand;
-
-
-void setup(){
-    initDwenguino();
-    pinMode(13, OUTPUT);
-}
-
-void loop(){
-    afstand = sonar.ping_cm();
-    if (afstand > 0 && afstand < 100){
-        digitalWrite(13, HIGH);
-    } else {
-        digitalWrite(13, LOW);
+    // Zet klaar -> een keer bij start programma.
+    void setup(){
+        initDwenguino();
+        pinMode(13, OUTPUT);
     }
-    delay(100);
-}
+
+    // Herhaal blijft herhalen tot je stroom uittrekt.
+    void loop(){
+        afstand = sonar.ping_cm();
+        if (afstand > 0 && afstand < 100){
+            digitalWrite(13, HIGH);
+        } else {
+            digitalWrite(13, LOW);
+        }
+        delay(100);
+    }
 
 </code>
     </pre>
