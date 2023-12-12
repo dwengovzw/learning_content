@@ -69,33 +69,34 @@ void loop(){
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="lang-cpp" data-filename="filename.cpp">
-// Eerst importeren we een aantal bibliotheken.
-#include <NewPing.h>    // Bibliotheek van de sonarsensor
+<code class="lang-cpp" data-filename="filename.cpp">
 
-#define TRIGGER_PIN 11
-#define ECHO_PIN 12
-#define MAX_DISTANCE 200
+    // Eerst importeren we een aantal bibliotheken.
+    #include <NewPing.h>    // Bibliotheek van de sonarsensor
 
-NewPing sonar = NewPing(
-    TRIGGER_PIN,
-    ECHO_PIN,
-    MAX_DISTANCE);
-int afstand;
+    #define TRIGGER_PIN 11
+    #define ECHO_PIN 12
+    #define MAX_DISTANCE 200
 
-void setup(){
-    pinMode(13, OUTPUT);
-}
+    NewPing sonar = NewPing(
+        TRIGGER_PIN,
+        ECHO_PIN,
+        MAX_DISTANCE);
+    int afstand;
 
-void loop(){
-    afstand = sonar.ping_cm();
-    if (afstand > 0 && afstand < 100){
-        digitalWrite(13, HIGH);
-    } else {
-        digitalWrite(13, LOW);
+    void setup(){
+        pinMode(13, OUTPUT);
     }
-    delay(100);
-}
-        </code>
+
+    void loop(){
+        afstand = sonar.ping_cm();
+        if (afstand > 0 && afstand < 100){
+            digitalWrite(13, HIGH);
+        } else {
+            digitalWrite(13, LOW);
+        }
+        delay(100);
+    }
+</code>
     </pre>
 </div>
