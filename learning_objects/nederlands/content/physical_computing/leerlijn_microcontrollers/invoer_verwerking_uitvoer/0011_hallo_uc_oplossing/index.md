@@ -73,6 +73,9 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
     </pre>
 </div>
 
+
+<br>
+
 ### Oplossing Arduino
 
 <div class="dwengo-content">
