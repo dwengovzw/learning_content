@@ -32,7 +32,8 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="language-cpp" data-filename="filename.cpp">
+<code class="language-cpp" data-filename="filename.cpp">
+
 // Eerst importeren we een aantal bibliotheken.
 #include <Dwenguino.h>  // Basisfuncties Dwenguino
 #include <NewPing.h>    // Bibliotheek van de sonarsensor
@@ -61,7 +62,8 @@ void loop(){
     }
     delay(100);
 }
-        </code>
+
+</code>
     </pre>
 </div>
 
