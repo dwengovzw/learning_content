@@ -2,8 +2,8 @@
 hruid: leerlijn_grafisch_naar_tekstueel_basisstructuur
 version: 1
 language: nl
-title: "Introductie"
-description: "Beschrijving van wat je in dit leerpad zal leren."
+title: "Basisstructuur"
+description: "Hier bekijken we de basisstructuur van een µC programma."
 keywords: ["programmeren", "blockly", "setup", "loop", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -26,7 +26,7 @@ teacher_exclusive: false
 
 De basisstructuur van elk grafisch programma voor de Dwenguino is het *zet klaar, herhaal* blok. Alle code onder de *zet klaar* wordt een keer uitgevoerd bij het starten van je programma. Je gebruikt dit deel om variabelen aan te maken of standaardwaarden in te stellen. Onder de *herhaal* komt code die steeds herhaald zal worden tot het uitvoeren stopt (bv. wanneer je de µC reset of de stroom uittrekt). Onder *herhaal* komt het grootste deel van de logica van je programma. Hieronder zie je een voorbeeld van hoe deze blok eruitziet.
 
-![blockly](@learning-object/zoemer_m1/nl/3)
+![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_basisstructuur_blocks/nl/1)
 
 Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je te tekstuele code voor de *zet klaar, herhaal* blok. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
 
