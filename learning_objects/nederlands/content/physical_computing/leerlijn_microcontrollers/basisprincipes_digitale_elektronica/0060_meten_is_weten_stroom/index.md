@@ -56,7 +56,7 @@ TODO: voeg foto toe.
             Hieronder zie je een circuit, bouw dit circuit na en meet de stroom door de weerstand R1 (=440 Ω) door de meetsnoeren van de multimeter te verbinden met de punten a en b.
         </p>
         <p>
-            <img src="img/diagram.svg"></img>
+            <img src="img/diagram_eu.svg"></img>
         </p>
         <ul>
             <li>Wat gebeurt er met de stroom als je de meetsnoeren omwisselt?</li>

@@ -4,16 +4,16 @@
 <svg
    version="1.1"
    id="svg2"
-   width="606"
-   height="122"
-   viewBox="0 0 303.32401 61.015999"
+   width="303.32401"
+   height="63.661331"
+   viewBox="0 0 303.32401 63.661331"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs6" />
   <g
      id="g10"
-     transform="matrix(1.3333333,0,0,-1.3333333,9.5013331,39.320001)">
+     transform="matrix(1.3333333,0,0,-1.3333333,9.5013331,39.318667)">
     <g
        id="g12">
       <g
@@ -40,15 +40,15 @@
           </g>
           <g
              id="g28"
-             transform="translate(-7.126,19.278)">
+             transform="translate(-7.126,19.277)">
             <g
                id="g30">
               <g
                  id="g32"
-                 transform="translate(0,-35.55)">
+                 transform="translate(0,-37.534)">
                 <text
                    xml:space="preserve"
-                   transform="matrix(1,0,0,-1,0,35.55)"
+                   transform="matrix(1,0,0,-1,0,37.534)"
                    style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    id="text36"><tspan
                      x="0 6.6450543"
@@ -56,12 +56,12 @@
                      id="tspan34">5V</tspan></text>
                 <g
                    id="g38"
-                   transform="translate(0,35.55)" />
+                   transform="translate(0,37.534)" />
               </g>
             </g>
             <g
                id="g40"
-               transform="translate(7.126,-19.278)" />
+               transform="translate(7.126,-19.277)" />
           </g>
         </g>
         <g
@@ -121,15 +121,15 @@
            id="g84">
           <g
              id="g86"
-             transform="translate(36.503,9.766)">
+             transform="translate(36.503,9.765)">
             <g
                id="g88">
               <g
                  id="g90"
-                 transform="translate(-43.629,-26.038)">
+                 transform="translate(-43.629,-28.022)">
                 <text
                    xml:space="preserve"
-                   transform="matrix(1,0,0,-1,43.629,26.038)"
+                   transform="matrix(1,0,0,-1,43.629,28.022)"
                    style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    id="text94"><tspan
                      x="0"
@@ -137,7 +137,7 @@
                      id="tspan92">R</tspan></text>
                 <text
                    xml:space="preserve"
-                   transform="matrix(1,0,0,-1,51.193,24.543)"
+                   transform="matrix(1,0,0,-1,51.193,26.527)"
                    style="font-variant:normal;font-weight:normal;font-size:6.9738px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    id="text98"><tspan
                      x="0"
@@ -145,12 +145,12 @@
                      id="tspan96">1</tspan></text>
                 <g
                    id="g100"
-                   transform="translate(43.629,26.038)" />
+                   transform="translate(43.629,28.022)" />
               </g>
             </g>
             <g
                id="g102"
-               transform="translate(-36.503,-9.766)" />
+               transform="translate(-36.503,-9.765)" />
           </g>
         </g>
         <g
@@ -188,15 +188,15 @@
            id="g128">
           <g
              id="g130"
-             transform="translate(93.196,9.766)">
+             transform="translate(93.196,9.765)">
             <g
                id="g132">
               <g
                  id="g134"
-                 transform="translate(-100.322,-26.038)">
+                 transform="translate(-100.322,-28.022)">
                 <text
                    xml:space="preserve"
-                   transform="matrix(1,0,0,-1,100.322,26.038)"
+                   transform="matrix(1,0,0,-1,100.322,28.022)"
                    style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    id="text138"><tspan
                      x="0"
@@ -204,7 +204,7 @@
                      id="tspan136">R</tspan></text>
                 <text
                    xml:space="preserve"
-                   transform="matrix(1,0,0,-1,107.886,24.543)"
+                   transform="matrix(1,0,0,-1,107.886,26.528)"
                    style="font-variant:normal;font-weight:normal;font-size:6.9738px;font-family:CMR7;-inkscape-font-specification:CMR7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    id="text142"><tspan
                      x="0"
@@ -212,12 +212,12 @@
                      id="tspan140">2</tspan></text>
                 <g
                    id="g144"
-                   transform="translate(100.322,26.038)" />
+                   transform="translate(100.322,28.022)" />
               </g>
             </g>
             <g
                id="g146"
-               transform="translate(-93.196,-9.766)" />
+               transform="translate(-93.196,-9.765)" />
           </g>
         </g>
         <g
@@ -321,15 +321,15 @@
            id="g226">
           <g
              id="g228"
-             transform="translate(179.176,9.766)">
+             transform="translate(179.176,9.765)">
             <g
                id="g230">
               <g
                  id="g232"
-                 transform="translate(-186.302,-26.038)">
+                 transform="translate(-186.302,-28.022)">
                 <text
                    xml:space="preserve"
-                   transform="matrix(1,0,0,-1,186.302,26.038)"
+                   transform="matrix(1,0,0,-1,186.302,28.022)"
                    style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    id="text236"><tspan
                      x="0"
@@ -337,7 +337,7 @@
                      id="tspan234">R</tspan></text>
                 <text
                    xml:space="preserve"
-                   transform="matrix(1,0,0,-1,193.866,24.543)"
+                   transform="matrix(1,0,0,-1,193.866,26.528)"
                    style="font-variant:normal;font-weight:normal;font-size:6.9738px;font-family:CMMI7;-inkscape-font-specification:CMMI7;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    id="text240"><tspan
                      x="0"
@@ -345,12 +345,12 @@
                      id="tspan238">n</tspan></text>
                 <g
                    id="g242"
-                   transform="translate(186.302,26.038)" />
+                   transform="translate(186.302,28.022)" />
               </g>
             </g>
             <g
                id="g244"
-               transform="translate(-179.176,-9.766)" />
+               transform="translate(-179.176,-9.765)" />
           </g>
         </g>
         <g
@@ -382,11 +382,11 @@
             <g
                id="g268">
               <path
-                 d="M 214.0185,0 V -11.90558"
+                 d="M 214.0185,0 V -9.92134"
                  style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                  id="path270" />
               <path
-                 d="m 208.06564,-11.90558 h 11.9057 m -9.92132,-1.98424 h 7.93695 m -6.44881,-1.98437 h 4.96065"
+                 d="m 208.06564,-9.92134 h 11.9057 l -5.95284,-7.93709 z"
                  style="fill:none;stroke:#000000;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                  id="path272" />
             </g>
