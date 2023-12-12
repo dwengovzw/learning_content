@@ -14,8 +14,8 @@ licence: dwengo
 content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
-difficulty: 1
-estimated_time: 2
+difficulty: 3
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -59,3 +59,5 @@ void loop()
 </code>
     </pre>
 </div>
+
+In de volgende voorbeelden zullen we telkens code toevoegen aan deze *zet klaar, herhaal* blok en uitleggen hoe deze code wordt omgezet naar tekst. We doen dit omdat code buiten de *zet klaar, herhaal* blok niet omgezet zal worden.
