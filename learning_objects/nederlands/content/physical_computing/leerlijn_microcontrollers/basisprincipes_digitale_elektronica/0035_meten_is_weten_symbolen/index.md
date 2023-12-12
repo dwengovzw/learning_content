@@ -2,7 +2,7 @@
 hruid: leerlijn_invoer_basisprincipes_meten_is_weten_symbolen
 version: 1
 language: nl
-title: "Meten is weten: symbolen!"
+title: "Meten is weten: symbolen"
 description: "Hoe meet ik spanning, stroom en weerstand?"
 keywords: ["spanning", "stroom", "weerstand", "multimeter", "meten", "basisprincipes", "microcontroller", "µC", "arduino", "dwenguino", "symbolen"]
 educational_goals: [
