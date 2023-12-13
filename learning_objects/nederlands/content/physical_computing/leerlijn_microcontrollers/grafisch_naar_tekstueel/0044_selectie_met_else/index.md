@@ -24,9 +24,10 @@ teacher_exclusive: false
 
 # Selectie (if-then-else)
 
-Je kan aan een selectie blok ook een "anders" of <code class="language-cpp">else<code> structuur toevoegen. De code in de <code class="language-cpp">else<code> wordt uitgevoerd wanneer de conditie vals is.
+Je kan aan een selectie blok ook een "anders" of <code class="language-cpp">else</code> structuur toevoegen. De code in de <code class="language-cpp">else</code> wordt uitgevoerd wanneer de conditie vals is.
 
 ![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_selectie_blocks_2/nl/1)
+
 
 Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je te tekstuele code voor de eenvoudige selectie. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
 
