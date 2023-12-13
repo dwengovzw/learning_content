@@ -79,7 +79,7 @@ Merk ook op dat de code hier in het *herhaal* gedeelde van de code staat. Dit is
     </pre>
 </div>
 
-**3: Welke verschillen zie je met het tekstuele voorbeeld van de begrensde herhaling hierboven?**
+**3: Welke verschillen zie je met het tekstuele voorbeeld van de begrensde selectie hierboven?**
 
 Je zal zien dat de structuur van de if-then-else dezelfde is maar dat zowel de conditie als de inhoud van zowel de <code class="language-cpp">if</code> als de <code class="language-cpp">else</code> anders is. Je zal zien dat we in de conditie rechtstreeks de waarde van een pin lezen met behulp van de functie <code class="language-cpp">digitalRead(SW_S)</code>. Deze waarde vergelijken we met een definitie met de naam <code class="language-cpp">PRESSED</code>. De waarde van <code class="language-cpp">PRESSED</code> wordt toegekend in de Dwenguino bibliotheek en is gelijk aan 0. Omdat je bovenaan in je programma de Dwenguino.h bibliotheek toevoegt, kan je deze definitie in je programma gebruiken.
 
