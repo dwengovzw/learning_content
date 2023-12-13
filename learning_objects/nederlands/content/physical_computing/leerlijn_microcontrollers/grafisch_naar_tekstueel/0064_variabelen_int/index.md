@@ -22,7 +22,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Voorwaardelijke herhaling
+# Variabelen: int
 
 In de grafische code hebben we twee soorten variabelen. De ene kan getallen bevatten de andere tekst. Hier kijken we naar hoe een variabele waarin je een getal kan opslaan wordt vertaald naar tekstuele code. We vertrekken van de volgende grafische code:
 
