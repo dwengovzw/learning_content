@@ -63,7 +63,6 @@ Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je
     </pre>
 </div>
 
-<br>
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
     <div class="content">
