@@ -60,3 +60,16 @@ Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je
 </code>
     </pre>
 </div>
+
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <ol>
+            <li>Schrijf een grafisch programma dat de tekst "AAN" toont op het scherm wanneer de zuid knop (S) van de Dwenguino wordt ingedrukt en de tekst "UIT" toont wanneer de zuid knop (S) niet ingedrukt wordt.</li>
+            <li>Bekijk de tekstuele code van je afgewerkte programma door in de Dwengo simulator over te schakelen naar de tekstuele weergave.</li>
+            <li>Welke verschillen zie je met het tekstuele voorbeeld van de begrensde herhaling hierboven?</li>
+            <li>Pas de tekstuele code aan zodat je de logica omdraait en "UIT" toont wanneer de knop is ingedrukt en "AAN" wanneer dat niet zo is.</li>
+        </ol>
+    </div>
+</div>
