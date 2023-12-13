@@ -1,9 +1,9 @@
 ---
-hruid: leerlijn_grafisch_naar_tekstueel_voorwaardelijke_herhaling
+hruid: leerlijn_grafisch_naar_tekstueel_variabelen_int
 version: 1
 language: nl
-title: "Voorwaardelijke herhaling (while-lus)"
-description: "Hier bekijken we hoe een while lus wordt omgezet van grafische naar tekstuele code."
+title: "Variabelen (int)"
+description: "Hier zien we hoe een getalvariabele omgezet wordt naar tekstuele code."
 keywords: ["programmeren", "blockly", "setup", "while", "loop", "microcontroller", "µC", "arduino", "dwenguino"]
 educational_goals: [
     {source: Source, id: id}, 
