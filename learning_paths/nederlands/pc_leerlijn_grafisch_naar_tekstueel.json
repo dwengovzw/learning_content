@@ -60,7 +60,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_intro_besluit",
+              "hruid": "leerlijn_grafisch_naar_tekstueel_selectie",
               "version": "1",
               "language": "nl"
             }
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_intro_besluit",
+        "learningobject_hruid": "leerlijn_grafisch_naar_tekstueel_selectie",
         "version": "1",
         "language": "nl",
         "transitions": [

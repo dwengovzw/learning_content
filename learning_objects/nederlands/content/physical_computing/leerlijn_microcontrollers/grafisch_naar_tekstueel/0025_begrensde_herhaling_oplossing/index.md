@@ -103,7 +103,7 @@ Hiervoor moet je de start- en eindwaarde voor i aanpassen in de for-lus:
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
 
-    // De begrensde herhaling voor i van 0 tot en met 10 in stappen van 1
+    // De begrensde herhaling voor i van 31 tot en met 42 in stappen van 1
     // Opmerking i+=1 is een afkorting voor i = i + 1
     for ( int i = 31 ; i <= 42 ; i+=1) {
         // Ga met de cursor naar positie (0, 0) op het scherm (linksboven).
