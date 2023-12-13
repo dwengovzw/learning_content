@@ -64,7 +64,7 @@ Merk op dat alle variabelen die we in de grafische code aanmaken *globaal* zijn.
 
 Bekijk de lijn waarop de **delcaratie** van de variabele staat:
 
-<div class="dwengo-content dwengo-code-simulator">
+<div class="dwengo-content">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
 
