@@ -19,7 +19,7 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Selectie: if-then-else (oplossing)
@@ -31,7 +31,7 @@ Hieronder zie je het grafische programma waarmee je dit resultaat bekomt.
 
 ![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_selectie_met_else_oplossing_blocks/nl/1)
 
-Merk op dat we buiten de als-dan-anders blok een wacht-blok en maak-lcd-scherm-leeg-blok toevoegen. Dit doen we om het scherm leeg te maken. De wachttijd is nodig om flikker op het lcd-scherm te vermijden. Door de wacht zal de tekst een veel groter percentage van de tijd zichtbaar zijn ten opzichte van de tijd dat het scherm leeg is. Daardoor zal je oog het aan en uit flikkeren van de tekst niet kunnen zien op het Dwenguino bord.
+Merk op dat we buiten het als-dan-anders blok een wacht-blok en maak-lcd-scherm-leeg-blok toevoegen. Dit doen we om het scherm leeg te maken. De wachttijd is nodig om flikker op het lcd-scherm te vermijden. Door de wacht zal de tekst een veel groter percentage van de tijd zichtbaar zijn ten opzichte van de tijd dat het scherm leeg is. Daardoor zal je oog het aan en uit flikkeren van de tekst niet kunnen zien op het Dwenguino bord.
 
 Merk ook op dat de code hier in het *herhaal* gedeelde van de code staat. Dit is nodig omdat we telkens opnieuw de waarde van de knop willen lezen en daarop reageren. 
 
