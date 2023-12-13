@@ -25,11 +25,11 @@ teacher_exclusive: false
 # Begrensde herhaling (oplossing)
 
 
-### 1: Schrijf een grafisch programma dat de getallen 0 tot en met 10 afdrukt op het lcd-scherm van de Dwenguino. Je drukt de cijfers op dezelfde plaats op het scherm af. Zorg dat elk cijfer 1 seconde zichtbaar is op het scherm.
+**1: Schrijf een grafisch programma dat de getallen 0 tot en met 10 afdrukt op het lcd-scherm van de Dwenguino. Je drukt de cijfers op dezelfde plaats op het scherm af. Zorg dat elk cijfer 1 seconde zichtbaar is op het scherm.**
 
 ![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_begrensde_herhaling_oplossing_blocks/nl/1)
 
-### 2: Bekijk de tekstuele code van je afgewerkte programma door in de Dwengo simulator over te schakelen naar de tekstuele weergave.
+**2: Bekijk de tekstuele code van je afgewerkte programma door in de Dwengo simulator over te schakelen naar de tekstuele weergave.**
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
@@ -66,7 +66,7 @@ teacher_exclusive: false
     </pre>
 </div>
 
-### 3: Welke verschillen zie je met het tekstuele voorbeeld van de begrensde herhaling hierboven?
+**3: Welke verschillen zie je met het tekstuele voorbeeld van de begrensde herhaling hierboven?**
 
 Je zal zien dat er, net zoals bij de grafische code, enkel tekstuele code is bijgekomen in de for-lus. Je merkt ook op dat één grafische codeblok omgezet kan worden naar meerdere lijnen tekstuele code. De lcd-scherm blok wordt bijvoorbeeld omgezet naar de lijnen <code class="language-cpp">dwenguinoLCD.setCursor(0,0);</code> en <code class="language-cpp">dwenguinoLCD.print(String("Getal: ") + String(i));</code>. Hieronder zie je het stuk van de code waar er veranderingen zijn. Merk op dat we geen nieuwe bibliotheken moeten toevoegen in het begin van ons programma omdat in de Dwengo simulator standaard de dwenguino en lcd bibliotheken toegevoegd worden.
 
@@ -92,7 +92,7 @@ Je zal zien dat er, net zoals bij de grafische code, enkel tekstuele code is bij
     </pre>
 </div>
 
-### 4: Pas de tekstuele code aan zodat je de getallen 31 tot en met 42 afdrukt op het scherm.
+**4: Pas de tekstuele code aan zodat je de getallen 31 tot en met 42 afdrukt op het scherm.**
 
 Hiervoor moet je de start- en eindwaarde voor i aanpassen in de for-lus:
 
