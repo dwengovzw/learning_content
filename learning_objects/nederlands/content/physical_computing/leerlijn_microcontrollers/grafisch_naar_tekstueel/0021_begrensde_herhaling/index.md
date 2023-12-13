@@ -34,30 +34,30 @@ Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
 
-// Deel van de basisstructuur
-#include <Wire.h>
-#include <Dwenguino.h>
-#include <LiquidCrystal.h>
+        // Deel van de basisstructuur
+        #include <Wire.h>
+        #include <Dwenguino.h>
+        #include <LiquidCrystal.h>
 
-// Deel van de basisstructuur
-void setup()
-{
-    // Deel van de basisstructuur voor Dwenguino
-    initDwenguino();
+        // Deel van de basisstructuur
+        void setup()
+        {
+            // Deel van de basisstructuur voor Dwenguino
+            initDwenguino();
 
-    // De begrensde herhaling.
-    // Deze lus zal blijven herhalen tot i gelijk is aan 10.
-    // i start op de waarde 0 en gaat telkens je de lus doorlopen hebt
-    // omhoog met 1.
-    for (int i = 0 ; i <= 10 ; i+=1) {
-    }
-}
+            // De begrensde herhaling.
+            // Deze lus zal blijven herhalen tot i gelijk is aan 10.
+            // i start op de waarde 0 en gaat telkens je de lus doorlopen hebt
+            // omhoog met 1.
+            for (int i = 0 ; i <= 10 ; i+=1) {
+            }
+        }
 
-// Deel van de basisstructuur
-void loop()
-{
-    // De herhaal is hier leeg.
-}
+        // Deel van de basisstructuur
+        void loop()
+        {
+            // De herhaal is hier leeg.
+        }
 
 </code>
     </pre>
