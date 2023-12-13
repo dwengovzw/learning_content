@@ -1,5 +1,6 @@
 ---
 hruid: leerlijn_grafisch_naar_tekstueel_voorwaardelijke_herhaling_oplossing_blocks
+version: 1
 language: nl
 title: "Code oplossing opdracht voorwaardelijke herhaling."
 description: "Code oplossing opdracht voorwaardelijke herhaling."
