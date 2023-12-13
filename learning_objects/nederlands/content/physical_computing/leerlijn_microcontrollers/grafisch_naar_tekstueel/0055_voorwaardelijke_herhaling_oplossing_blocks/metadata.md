@@ -1,8 +1,8 @@
 ---
-hruid: leerlijn_grafisch_naar_tekstueel_voorwaardelijke_herhaling_blocks
+hruid: leerlijn_grafisch_naar_tekstueel_voorwaardelijke_herhaling_oplossing_blocks
 language: nl
-title: "Voorbeeld voorwaardelijke herhaling"
-description: "Dit voorbeeld toont hoe je wacht tot een knop wordt ingedrukt."
+title: "Code oplossing opdracht voorwaardelijke herhaling."
+description: "Code oplossing opdracht voorwaardelijke herhaling."
 keywords: []
 educational_goals: [
     {source: Source, id: id}, 
