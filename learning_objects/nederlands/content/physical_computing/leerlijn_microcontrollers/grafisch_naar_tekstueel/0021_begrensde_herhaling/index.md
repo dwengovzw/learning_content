@@ -42,17 +42,21 @@ Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je
 // Deel van de basisstructuur
 void setup()
 {
-  initDwenguino();
-}
+    // Deel van de basisstructuur voor Dwenguino
+    initDwenguino();
 
-void loop()
-{
     // De begrensde herhaling.
     // Deze lus zal blijven herhalen tot i gelijk is aan 10.
     // i start op de waarde 0 en gaat telkens je de lus doorlopen hebt
     // omhoog met 1.
-    for ( int i = 0 ; i <= 10 ; i+=1) {
+    for (int i = 0 ; i <= 10 ; i+=1) {
     }
+}
+
+// Deel van de basisstructuur
+void loop()
+{
+    // De herhaal is hier leeg.
 }
 
 </code>
