@@ -27,6 +27,8 @@ teacher_exclusive: false
 
 **1: Schrijf een grafisch programma dat de getallen 0 tot en met 10 afdrukt op het lcd-scherm van de Dwenguino. Je drukt de cijfers op dezelfde plaats op het scherm af. Zorg dat elk cijfer 1 seconde zichtbaar is op het scherm.**
 
+Hieronder zie je het grafische programma waarmee je dit resultaat bekomt.
+
 ![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_begrensde_herhaling_oplossing_blocks/nl/1)
 
 **2: Bekijk de tekstuele code van je afgewerkte programma door in de Dwengo simulator over te schakelen naar de tekstuele weergave.**
