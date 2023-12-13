@@ -36,6 +36,7 @@ Hieronder zie je het grafische programma waarmee je dit resultaat bekomt.
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
+
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
