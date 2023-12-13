@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_intro_klasgesprek",
+              "hruid": "leerlijn_grafisch_naar_tekstueel_begrensde_herhaling_oplossing",
               "version": "1",
               "language": "nl"
             }
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_intro_klasgesprek",
+        "learningobject_hruid": "leerlijn_grafisch_naar_tekstueel_begrensde_herhaling_oplossing",
         "version": "1",
         "language": "nl",
         "transitions": [
