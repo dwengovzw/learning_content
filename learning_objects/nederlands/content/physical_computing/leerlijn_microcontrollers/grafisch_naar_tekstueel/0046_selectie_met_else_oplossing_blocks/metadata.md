@@ -3,7 +3,7 @@ hruid: leerlijn_grafisch_naar_tekstueel_selectie_met_else_oplossing_blocks
 version: 1
 language: nl
 title: "Oplossing opdracht if-then-else"
-description: "Oplossing voor opdracht: Schrijf een grafisch programma dat de tekst "AAN" toont op het scherm wanneer de zuid knop (S) van de Dwenguino wordt ingedrukt en de tekst "UIT" toont wanneer de zuid knop (S) niet ingedrukt wordt."
+description: "Oplossing voor opdracht: Schrijf een grafisch programma dat de tekst 'AAN' toont op het scherm wanneer de zuid knop (S) van de Dwenguino wordt ingedrukt en de tekst 'UIT' toont wanneer de zuid knop (S) niet ingedrukt wordt."
 keywords: []
 educational_goals: [
     {source: Source, id: id}, 
