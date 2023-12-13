@@ -1,5 +1,6 @@
 ---
 hruid: leerlijn_grafisch_naar_tekstueel_voorwaardelijke_herhaling_blocks
+version: 1
 language: nl
 title: "Voorbeeld voorwaardelijke herhaling"
 description: "Dit voorbeeld toont hoe je wacht tot een knop wordt ingedrukt."
