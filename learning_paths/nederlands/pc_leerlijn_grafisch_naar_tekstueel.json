@@ -135,7 +135,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_grafisch_naar_tekstueel_voorwaardelijke_herhaling",
+              "hruid": "leerlijn_grafisch_naar_tekstueel_variabelen_int",
               "version": "1",
               "language": "nl"
             }
@@ -143,7 +143,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_grafisch_naar_tekstueel_voorwaardelijke_herhaling",
+        "learningobject_hruid": "leerlijn_grafisch_naar_tekstueel_variabelen_int",
         "version": "1",
         "language": "nl",
         "transitions": [
