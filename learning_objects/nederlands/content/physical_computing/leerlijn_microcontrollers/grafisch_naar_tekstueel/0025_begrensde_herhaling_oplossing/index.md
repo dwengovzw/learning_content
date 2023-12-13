@@ -73,7 +73,7 @@ Hieronder zie je het grafische programma waarmee je dit resultaat bekomt.
 
 Je zal zien dat er, net zoals bij de grafische code, enkel tekstuele code is bijgekomen in de for-lus. Je merkt ook op dat één grafische codeblok omgezet kan worden naar meerdere lijnen tekstuele code. De lcd-scherm blok wordt bijvoorbeeld omgezet naar de lijnen <code class="language-cpp">dwenguinoLCD.setCursor(0,0);</code> en <code class="language-cpp">dwenguinoLCD.print(String("Getal: ") + String(i));</code>. Hieronder zie je het stuk van de code waar er veranderingen zijn. Merk op dat we geen nieuwe bibliotheken moeten toevoegen in het begin van ons programma omdat in de Dwengo simulator standaard de dwenguino en lcd bibliotheken toegevoegd worden.
 
-<div class="dwengo-content dwengo-code-simulator">
+<div class="dwengo-content">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
 
@@ -99,7 +99,7 @@ Je zal zien dat er, net zoals bij de grafische code, enkel tekstuele code is bij
 
 Hiervoor moet je de start- en eindwaarde voor i aanpassen in de for-lus:
 
-<div class="dwengo-content dwengo-code-simulator">
+<div class="dwengo-content">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
 
