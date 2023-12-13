@@ -75,7 +75,22 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_intro_leerplandoelen",
+              "hruid": "leerlijn_grafisch_naar_tekstueel_selectie_met_else",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_grafisch_naar_tekstueel_selectie_met_else",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "leerlijn_grafisch_naar_tekstueel_selectie_met_else",
               "version": "1",
               "language": "nl"
             }
