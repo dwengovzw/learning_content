@@ -22,14 +22,14 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Toepassingen van de Levenshtein afstand
+# Toepassingen van de Levenshteinafstand
 
 Het zoeken van de afstand tussen twee woorden is een basistechniek die in heel wat toepassingen gebruikt kan worden. Denk bijvoorbeeld aan de genetica. In dit vakgebied is het vaak nodig om gelijkenissen te zoeken in DNA sequenties. Een DNA sequentie wordt voorgesteld door een opeenvolging van base paren. Zo'n basenpaar bestaat uit nucleobasen. Er komen vier verschillende nucleobasen voor in een DNA sequentie: cytosine (C), guanine (G), adenine (A) en thymine (T). Op de computer stellen we een DNA sequentie dus gewoonlijk voor als een opeenvolging van de letters C, G, A en T. Bijvoorbeeld:
 
 ```python
-# Hier slaan we een stukje van een DNA sequentie op in de variable dna_sequentie
+# Hier verwijst de variable dna_sequentie naar een stukje van een DNA sequentie.
 dna_sequentie = "CGGTCACGATCTGACTCTCGCTATTAGTTTCTTACATGCTTTAGTCTCAC"
 ```
 
 
-Een andere toepassing van de Levenshtein afstand die je dagelijks gebruikt is de spellingscontrole in een tekstverwerker. Deze zal voor elk woord dat je typt kijken of het voorkomt in een woordenlijst. Als het niet voorkomt in de lijst, dan zal het systeem op zoek gaan naar de woorden in de woordenlijst die dicht bij het woord liggen dat je geschreven hebt. Hiervoor wordt de Levenshtein afstand gebruikt.
+Een andere veelgebruikte toepassing van de Levenshteinafstand is de spellingscontrole in een tekstverwerker. Deze zal voor elk woord dat je typt kijken of het voorkomt in een woordenlijst. Als het niet voorkomt in de lijst, dan zal het systeem op zoek gaan naar de woorden in de woordenlijst die dicht bij het woord liggen dat je geschreven hebt. Deze woorden zal het suggereren als correctie. Hiervoor wordt de Levenshteinafstand gebruikt.
