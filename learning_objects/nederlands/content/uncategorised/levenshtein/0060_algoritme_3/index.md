@@ -54,4 +54,11 @@ We willen de minimale kost bepalen dus nemen we nu het minimum van deze drie gev
     </table>
 </div>
 
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        Probeer de rest van de tabel aan te vullen aan de hand van de regels uit het algoritme.
+    </div>
+</div>
+
 

@@ -2,7 +2,7 @@
 hruid: org_dewengo_levenshtein_intro
 version: 1
 language: nl
-title: "De Levenshtein afstand"
+title: "De Levenshteinafstand"
 description: "Wat is de Levenshtein afstand?"
 keywords: ["taaltechnologie", "taal", "afstand", "levenshtein", "algoritme"]
 educational_goals: [
@@ -22,9 +22,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# De Levenshtein afstand
+# De Levenshteinafstand
 
-De **Levenshtein afstand** is een metriek om de afstand tussen twee woorden of zinnen te bepalen. Om de afstand tussen twee woorden te bepalen, tel je het aantal letters dat je moet toevoegen, verwijderen of vervangen om het ene woord om te vormen in het andere. Hieronder zie je voorbeelden van deze operaties.
+De **Levenshteinafstand** is een metriek om de afstand tussen twee woorden of zinnen te bepalen. Om de afstand tussen twee woorden te bepalen, tel je het aantal letters dat je moet toevoegen, verwijderen of vervangen om het ene woord om te vormen in het andere. Hieronder zie je voorbeelden van deze handelingen.
 
 <div class="dwengo_content table_container">
     <table>
@@ -32,7 +32,7 @@ De **Levenshtein afstand** is een metriek om de afstand tussen twee woorden of z
             <th>Woord 1</th>
             <th>Woord 2</th>
             <th>Operatie</th>
-            <th>Afstand</th>
+            <th>Kost</th>
         </tr>
         <tr>
             <td>STAL</td>
@@ -67,9 +67,9 @@ Voor korte en eenvoudige woorden kan je dit makkelijk met de hand doen. Voor lan
 <div class="dwengo-content sideinfo">
     <h2 class="title">Geschiedenis</h2>
     <div class="content">
-        De Levenshtein afstand is genoemd naar Vladimir Levenshtein. Hij was een Russische wiskundige die werkte voor het Keldysh instituut voor toegepaste wiskunde in Moskou. Naast het ontwikkelen van de Levenshtein afstand, droeg hij bij aan verschillende ontwikkelingen in de informatietheorie. Verder droeg hij ook bij aan het bepalen van de onder en bovengrens van het kusgetal in hogere dimensies.
+        De Levenshteinafstand is genoemd naar Vladimir Levenshtein. Hij was een Russische wiskundige die werkte voor het Keldysh instituut voor toegepaste wiskunde in Moskou. Naast het ontwikkelen van de Levenshteinafstand, werkte hij aan verschillende ontwikkelingen in de informatietheorie. Verder droeg hij ook bij aan het bepalen van de onder en bovengrens van het kusgetal in hogere dimensies.
     </div>
     <div class="content">
-        <em>Levenshtein, Vladimir Iosifovich. "On bounds for packings in n-dimensional Euclidean space." Doklady Akademii Nauk. Vol. 245. No. 6. Russian Academy of Sciences, 1979.</em>
+        <em>Levenshtein, V. I. (1979). On bounds for packings in n-dimensional Euclidean space. In Doklady Akademii Nauk (Vol. 245, No. 6, pp. 1299-1303). Russian Academy of Sciences.</em>
     </div>
 </div>
