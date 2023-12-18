@@ -160,6 +160,21 @@
     {
       "learningobject_hruid": "un_biomimicry10",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "un_biomimicry11",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "un_biomimicry11",
+      "version": "3",
       "language": "nl"
     } 
   ]

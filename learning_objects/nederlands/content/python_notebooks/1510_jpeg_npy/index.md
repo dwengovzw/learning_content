@@ -35,6 +35,8 @@ skos_concepts: [
 
 # Van jpeg naar npy
 
-In deze notebook wordt een voorbeeld gegeven van hoe je een jpg-bestand kunt omzetten naar een grijswaardenafbeelding, gerepresenteerd door een matrix, en hoe je die afbeelding opslaat als een npy-bestand. Je maakt daarvoor gebruik van de module scikit-image (skimage) die algoritmes voorziet voor digitale beeldverwerking en computer vision. 
+In de eerste notebook wordt een voorbeeld gegeven van hoe je een jpg-bestand kunt omzetten naar een grijswaardenafbeelding, gerepresenteerd door een matrix, en hoe je die afbeelding opslaat als een npy-bestand. Je maakt daarvoor gebruik van de module scikit-image (skimage) die in algoritmes voorziet voor digitale beeldverwerking en computer vision. 
+
+In de tweede notebook maak je kennis met de MNIST-dataset en pas je toe wat je leerde in de eerste notebook.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1510 "Notebooks jpeg naar npy")

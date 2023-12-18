@@ -64,7 +64,7 @@ Wees voorzichtig wanneer je het uitbreidingsbord en de dwenguino aan elkaar kopp
 ### Bedrading
 Bij het inpluggen van je pinnen, is het belangrijk dat je de juiste zaken met elkaar verbindt. De sensoren en actuatoren hebben bij hun connectoren zaken zoals '+', '-', 'GND' staan en het is ook belangrijk dat je deze met de overeenkomstige pin op het uitbreidingsbord verbindt.
 
-M.b.v. [deze fiches](embed/Leerlingenfiches.pdf "fiches") kan je dit gemakkelijk doen.  
+M.b.v. [deze fiches](embed/fiches_lln.pdf "fiches") kan je dit gemakkelijk doen.  
 
 ### Monteren
 Eens de bedrading in orde is, kan je de elektronica monteren op het lichaam van de robot.  

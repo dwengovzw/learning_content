@@ -44,7 +44,7 @@ Be careful when connecting or disconnecting the expansion board and the Dwenguin
 ### Wiring and assembly
 When plugging in your pins, it is important to connect the correct components to each other. The sensors and actuators have symbols such as '+', '-', and 'GND' at their connectors, and it is important to connect these to the corresponding pin on the expansion board.
 
-You can easily do this with [these cards](embed/leerlingenfiches.pdf "cards").
+You can easily do this with [these cards](embed/fiches_lln.pdf "cards").
 
 Once the wiring is in order, you can mount the electronics on the body of the robot.
 

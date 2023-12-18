@@ -2,8 +2,8 @@
 hruid: voorbeeld
 version: 3
 language: nl
-title: "This is a title"
-description: "This is a description"
+title: ""
+description: ""
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,21 +30,4 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Dit is les 2
-[Klik hier om de vorige les te bekijken](@learning-object/6103f47abdc32e7f4c6f4838 "Les 1")
-
-## Deel 2.1
-
-Om deze les beginnen, zal je eerst deze video moeten bekijken:
-
-![](@youtube/https://www.youtube.com/embed/dQw4w9WgXcQ)
-
-Nu kunnen we beginnen aan het belangrijkste deel van deze les.
-
-- Puntje 1
-- Puntje 2
-- ![Logo dwengo](logo-dwengo.png "Dit is het logo van dwengo")
-
-...
-
-Test
+# Titel

@@ -14,6 +14,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "wgs_onderwijsdoelen",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "wgs_onderwijsdoelen",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "wgs_inleiding",
             "version": "3",
             "language": "nl"
@@ -194,7 +209,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "wgs_startpagina",
+            "hruid": "g_inleiding_lkr",
             "version": "3",
             "language": "nl"
           }
@@ -202,14 +217,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_startpagina",
+      "learningobject_hruid": "g_inleiding_lkr",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_inleidendeoefening",
+            "hruid": "g_inleiding_lln",
             "version": "3",
             "language": "nl"
           }
@@ -217,14 +232,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_inleidendeoefening",
+      "learningobject_hruid": "g_inleiding_lln",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_uploadendwenguino",
+            "hruid": "g_startpagina",
             "version": "3",
             "language": "nl"
           }
@@ -232,14 +247,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_uploadendwenguino",
+      "learningobject_hruid": "g_startpagina",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_lcd",
+            "hruid": "g_inleidendeoefening",
             "version": "3",
             "language": "nl"
           }
@@ -247,14 +262,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_lcd",
+      "learningobject_hruid": "g_inleidendeoefening",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_Lkr_lcd1",
+            "hruid": "g_uploaden",
             "version": "3",
             "language": "nl"
           }
@@ -262,14 +277,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_Lkr_lcd1",
+      "learningobject_hruid": "g_uploaden",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_Lkr_lcd2",
+            "hruid": "g_lcd_vb1_wgs",
             "version": "3",
             "language": "nl"
           }
@@ -277,14 +292,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_Lkr_lcd2",
+      "learningobject_hruid": "g_lcd_vb1_wgs",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_Lkr_lcd3",
+            "hruid": "g_lcd_vb2_wgs",
             "version": "3",
             "language": "nl"
           }
@@ -292,14 +307,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_Lkr_lcd3",
+      "learningobject_hruid": "g_lcd_vb2_wgs",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_Wacht",
+            "hruid": "g_lcd_vb3_wgs",
             "version": "3",
             "language": "nl"
           }
@@ -307,14 +322,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_Wacht",
+      "learningobject_hruid": "g_lcd_vb3_wgs",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_Knoppen",
+            "hruid": "g_wacht",
             "version": "3",
             "language": "nl"
           }
@@ -322,14 +337,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_Knoppen",
+      "learningobject_hruid": "g_wacht",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_Lkr_Knoppen1",
+            "hruid": "g_knoppen",
             "version": "3",
             "language": "nl"
           }
@@ -337,14 +352,14 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_Lkr_Knoppen1",
+      "learningobject_hruid": "g_knoppen",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "wgs_Lkr_Knoppen2",
+            "hruid": "g_wgs_knoppen_vb1",
             "version": "3",
             "language": "nl"
           }
@@ -352,7 +367,7 @@
       ]
     },
     {
-      "learningobject_hruid": "wgs_Lkr_Knoppen2",
+      "learningobject_hruid": "g_wgs_knoppen_vb1",
       "version": "3",
       "language": "nl",
       "transitions": [

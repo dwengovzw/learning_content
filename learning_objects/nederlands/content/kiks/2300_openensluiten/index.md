@@ -36,7 +36,7 @@ Een plant zoekt voortdurend naar een evenwicht tussen vochtverlies en CO<sub>2</
 
 Stomata zijn onderhevig aan ritmes zoals dag en nacht en de seizoenen. 
 
-Duidelijk is dat de stomata ‘reageren’ op **omgevingsfactoren**. Bij eenzelfde plant ziet men soms het verschil tussen bladeren onderaan de plant, die veel beschaduwd zijn, en bladeren in de kruin die veel meer blootgesteld zijn aan het licht. Zelfs op eenzelfde blad kunnen stomata zich anders gedragen omdat dit de plant ten goede kan komen; op eenzelfde blad kunnen sommige stomata open zijn en andere gesloten (Zie Figuur). 
+Duidelijk is dat de stomata ‘reageren’ op **omgevingsfactoren**. Bij eenzelfde plant ziet men soms het verschil tussen bladeren onderaan de plant, die veel beschaduwd zijn, en bladeren in de kruin die veel meer blootgesteld zijn aan het licht. Zelfs op eenzelfde blad kunnen stomata zich anders gedragen, omdat dit de plant ten goede kan komen; op eenzelfde blad kunnen sommige stomata open zijn en andere gesloten (zie Figuur). 
 
 ![](embed/stomaopentoe.jpg "open en gesloten stomata") 
 <figure>

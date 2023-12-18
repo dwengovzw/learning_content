@@ -2,7 +2,7 @@
 hruid: un_biomimicry6
 version: 3
 language: nl
-title: "Een keuze maken"
+title: "Ortheses op basis van zeepaardjes"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
@@ -23,49 +23,34 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 15
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
+# Enkel-voet-ortheses op basis van een zeepaardje
 
+We kijken naar de nekregio van een zeepaardje om een enkel-voet-orthese te maken. Het benige pantser van een zeepaardje bestaat uit benige platen die in elkaar kunnen glijden. De benige platen hebben een uitstekende stekel, de volgende plaat heeft een groeve waar die stekel vlotjes in en uit kan glijden. Zo kan een zeepaardje zijn staart vlot bewegen in verschillende richtingen. Maar ook ter hoogte van de nek en buik vind je hetzelfde systeem terug.
 
-# De beste orthese kiezen
-We spitsen ons nu toe op twee criteria. Op basis daarvan kunnen we de zogenaamde pareto-curve maken (een curve met een pareto front). Dit is een typische ingenieurs tool om een beslissing te nemen in een situatie waarbij twee criteria elkaar beïnvloeden. 
-te maken waarbij twee criteria elkaar beïnvloeden.
+Hieronder zie je de structuur van de beenplaten bij een zeepaardje:
 
-Om dit beter te begrijpen bekijken we eerst het voorbeeld van een koelkast:
-Stel we willen verschillende koelkasten vergelijken, iedere koelkast heeft een prijs en heeft ook een verbruik (in kWh). Als we de koelkasten uitzetten in een grafiek zien we het volgende:
+![](embed/zeepaardjeanatomie.png "afbeelding") 
 
-![](embed/Koelkast1.png "afbeelding")
+![](embed/zeepaardjenek.png "afbeelding")
 
-De blauwe lijn verbindt eigenlijk de meest extreme punten (een héél goedkope koelkast die veel verbruikt én een héél dure koelkast die weinig verbruikt). 
+![](@youtube/https://www.youtube.com/embed/tSinZHH0Aic "video") 
 
-Op basis van de grafiek zie je ook dat er een heleboel ‘sub-optimale’ punten zijn, beter gezegd koelkasten die niet interessant zijn om te kopen. Neem nu onderstaand voorbeeld:
+Zoals eerder aangegeven kan de nek van een zeepaardje strekken en terugtrekken, maar kan het zich in de zijdelingse richtingen veel minder bewegen. Dit is wat we nodig hebben voor de enkel-voet-orthese. Hierbij moet de voet zijdelings gefixeerd worden, maar mag die wel nog in de zogenaamde dorsale en plantaire richtingen (zie figuur) bewegen. 
 
-![](embed/Koelkast2.png "afbeelding")
+![](embed/bewegingsrichtingen.jpg "afbeelding")
 
-Koelkast X is niet ideaal, voor dezelfde prijs kunnen we ook een koelkast bemachtigen die véél minder verbruikt. Het meest optimale punt is in dit geval het punt dat zo dicht mogelijk bij het Pareto-front (de blauwe lijn) ligt. 
+De enkel-voet-orthese bestaat uit ge-3D-printe platen gebaseerd op de bouw van de nekregio van een zeepaardje. Het eindresultaat wordt aangevuld met twee schelpen, bovenaan en onderaan om zo tot een werkbare enkel-voet-orthese te komen. 
 
-We keren terug naar onze enkel-voet-ortheses. We willen namelijk de beste keuze maken. 
-We hebben twee criteria nodig om de pareto-curve te kunnen opstellen. We kiezen hierbij voor 'prijs' en 'op maat van de patiënt', twee criteria die van belang zijn voor de patiënt'. Merk op dat we nu het omgekeerde moeten nemen voor ‘maat’, omdat we willen dat een lage score overeenkomt met ‘volledig op maat van de patiënt gemaakt’. In een pareto-cruve is het meest ideale namelijk een lage prijs en een volledig op maat van de patiënt (een lage score dus).
-|                 | **Malleloc-L** | **ROM Walker** | **M-step** | **Stabili-tri** | **EXO-L** | **B2-foot** | **Zeepaardje orthese** |
-|-----------------|----------------|----------------|------------|-----------------|-----------|-------------|------------------------|
-| Prijs           | 70             | 253.8          | 85         | 175             | 172       | 115         | 127.5 | 
-| Maat            | 1              | 2              | 2          | 3               | 5         | 5           | 5 |
-| Maat (inverse)  | 5              | 4              | 4          | 3               | 1         | 1           | 1 |
+![](embed/zeepaardje.png "afbeelding")
 
-Hiervan maken we vervolgens een plot met de verschillende punten:
+![](embed/orthese1.png "afbeelding")
 
-![](embed/Zeepaardje1.png "afbeelding")
+Er werd al eens een eerste prototype gemaakt van een orthese gebaseerd op het zeepaardje. Dit was het resultaat:
 
-Stel we bekijken nu de twee meest extreme punten: een heel goedkope orthese maar wel maar één universele maat én een heel dure orthese die wel volledig op maat is van de patiënt. Dan bekomen we, theoretisch, het volgende als we deze punten verbinden:
-
-![](embed/Zeepaardje2.jpg "afbeelding")
-
-We gaan op zoek naar het meest ‘ideale’ punt. Deze ligt zo dicht mogelijk tegen het blauwe pareto-front. Alle andere punten noemen we suboptimale punten. Want voor deze sub-optimale punten is er telkens een ander punt dat ofwel goedkoper ofwel meer op maat van de patiënt is. Dit is duidelijk in onderstaande figuur:
-
-![](embed/Zeepaardje3.jpg "afbeelding")
-
-Hieruit kunnen we concluderen dat de orthese gebaseerd op het zeepaardje niet de ‘beste’ is. In deze situatie komt de B2-foot er beter uit. Het is belangrijk om op te merken dat dit voorbeeld een vereenvoudiging is van de realiteit en er dus nog een aantal stappen moeten genomen worden alvorens dit soort ortheses een echte plaats kan krijgen op de markt. In werkelijkheid moet er bij de afweging met veel meer factoren rekening worden gehouden dan enkel 'prijs' en 'op maat van de patiënt'.
+![](embed/orthesereal.png "afbeelding")

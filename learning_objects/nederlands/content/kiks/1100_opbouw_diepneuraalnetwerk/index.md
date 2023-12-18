@@ -27,10 +27,14 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Opbouw Diep Neuraal Netwerk
-In deze notebook maak je stap voor stap kennis met de opbouw van een *diep neuraal netwerk* dat een oplossing biedt voor een classificatieprobleem. Bij de ontwikkeling van een neuraal netwerk maak je meerdere keuzes en leg je de waarden van enkele parameters vast. Deze keuzes bepalen de architectuur van het netwerk en hoe de training van het netwerk verloopt.
+# Opbouw diep neuraal netwerk
+
+Om huidmondjes te kunnen tellen moet de computer ze eerst herkennen. Hij moet van de verschillende delen van een foto kunnen zien of er een huidmondje op staat of niet. 
+De computer moet dus een *classificatieprobleem* oplossen, waarbij het nodig is dat hij een specifiek object herkent. Het AI-systeem zal dus een systeem voor *objectherkenning* moeten inhouden. Daarvoor is een convolutioneel neuraal netwerk uitermate geschikt.
+
+In deze notebook maak je stap voor stap kennis met de opbouw van een *diep neuraal netwerk* dat een oplossing biedt voor dit classificatieprobleem. Bij de ontwikkeling van een neuraal netwerk maakt de architect van het systeem meerdere keuzes en legt ook de waarden van enkele parameters vast. Deze keuzes bepalen de architectuur van het netwerk en hoe de training van het netwerk verloopt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1701 "Diep neuraal netwerk")

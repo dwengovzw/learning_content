@@ -31,6 +31,24 @@ teacher_exclusive: true
 ---
 
 # Digitale competentie en mediawijsheid 
+
+## Minimumdoelen digitale competentie en mediawijsheid 
+
+*Minimumdoelen tweede graad* 
+<em>
+<ul><li>04.01 De leerlingen gebruiken doelgericht courante functionaliteiten van vergelijkbare toepassingen om digitaal te communiceren.</li></ul> 
+<ul><li>04.02 De leerlingen gebruiken doelgericht courante functionaliteiten van vergelijkbare toepassingen om digitale inhouden te creëren.</li></ul> 
+<ul><li>04.03 De leerlingen gebruiken doelgericht courante functionaliteiten van vergelijkbare toepassingen om digitale inhouden te beheren.</li></ul> 
+<ul><li>04.04 De leerlingen respecteren ethische, sociale en legale regels bij het gebruiken van digitale technologie.</li></ul> 
+<ul><li>04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li></ul> 
+</em>
+
+*Minimumdoelen derde graad* 
+<em>
+<ul><li>04.01De leerlingen gebruiken doelgericht courante functionaliteiten van vergelijkbare toepassingen om digitale inhouden te creëren.</li></ul> 
+<ul><li>04.02 De leerlingen respecteren ethische, sociale en legale regels bij het gebruiken van digitale technologie.</li></ul> 
+</em>
+    
 ## Eindtermen digitale competentie en mediawijsheid 
 
 *Eindtermen tweede graad* 

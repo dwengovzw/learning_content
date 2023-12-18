@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Drempelwaarde
 
-Het KIKS-neuraal netwerk bekijkt voor patches op een gegeven microfoto of er een huidmondje op staat of niet. Het netwerk bepaalt een percentage dat weergeeft hoe zeker het netwerk is dat er een huidmondje te zien is. Bij de ontwikkeling van het neuraal netwerk legt de netwerkarchitect een drempelwaarde vast. Als het bepaalde percentage die drempelwaarde overschrijdt, dan behoort de patch toe tot de klasse 'huidmondje', en anders niet.
+Het KIKS-neuraal netwerk bekijkt voor patches op een gegeven microfoto of er een huidmondje op staat of niet. Het netwerk bepaalt een percentage dat weergeeft hoe zeker het netwerk is dat er een huidmondje te zien is. Bij de ontwikkeling van het neurale netwerk legt de netwerkarchitect een drempelwaarde vast. Als het bepaalde percentage die drempelwaarde overschrijdt, dan behoort de patch toe aan de klasse 'huidmondje', en anders niet.
 
 Een aanpassing van de drempelwaarde heeft invloed op het aantal vals positieven en vals negatieven. De drempelwaarde die het model hanteert, bepaalt hoe ’streng’ het
 model is. 
@@ -42,4 +42,11 @@ zijn.
   
 ![klimopdrempel](https://user-images.githubusercontent.com/48352335/219100751-29a97452-4495-49ea-8157-3c4dcfcc9aa9.png)
 
-De gekozen drempelwaarde is letterlijk van levensbelang in het geval van een diep neuraal netwerk in het domein van de medische beeldvorming als het bv. een systeem betreft voor de herkenning van kwaadaardige gezwellen. 
+Een belangrijke afweging die je moet maken bij het kiezen van de drempelwaarde is de verhouding tussen ***precision*** en ***recall***. 
+
+-  Precision: het percentage van de gevonden stomata dat ook daadwerkelijk stomata zijn.</li>
+-  Recall: het percentage van het aantal stomata op een afbeelding dat daadwerkelijk gevonden werd.</li>
+
+Het is duidelijk dat een lage drempelwaarde zal zorgen voor een lage precision (er worden meer punten als stomata beschouwd, dus ook meer foute punten; er zijn dan meer **vals positieven**), maar een hoge recall (van de stomata gaan er ook meer gevonden worden). Andersom geldt dat een hoge drempelwaarde zal zorgen voor een hoge precision, maar lage recall (er zullen meer **vals negatieven** zijn).
+
+De gekozen drempelwaarde is letterlijk van levensbelang in het geval van een diep neuraal netwerk in het domein van de medische beeldvorming, als het bv. een systeem betreft voor de herkenning van kwaadaardige gezwellen. 

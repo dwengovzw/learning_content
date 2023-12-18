@@ -2,8 +2,8 @@
 hruid: un_ai1
 version: 3
 language: nl
-title: "Intelligentie"
-description: "Intelligentie"
+title: "(Kunstmatige) intelligentie"
+description: "(Kunstmatige) intelligentie"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -47,10 +47,23 @@ De laatste twee definities omvatten, juist door hun breedheid, veel eigenschappe
 
 # Kunstmatige intelligentie
 
-AI heeft al succesvolle toepassingen: gezichtsherkenning in China om toegang te verlenen tot gebouwen, AI-systemen die specialisten evenaren in de diagnose van huidkanker, AlphaGo Zero dat zelf go leerde spelen enkel door te spelen tegen zichzelf (Steels et al., 2017).
+AI heeft al succesvolle toepassingen: gezichtsherkenning in China om toegang te verlenen tot gebouwen, AI-systemen die specialisten evenaren in de diagnose van huidkanker, AlphaGo Zero dat zelf Go leerde spelen enkel door te spelen tegen zichzelf (Steels et al., 2017).
 
 Een definitie geven van kunstmatige intelligentie, iets dat in zoveel verschillende domeinen wordt ingezet, is geen sinecure. Dus behalve van intelligentie, zijn er ook van AI al **tal van definities** gegeven: 
 
 - “Kunstmatige intelligentie verwijst naar systemen die intelligent gedrag vertonen door hun omgeving te analyseren en – in zekere mate zelfstandig – actie te ondernemen om specifieke doelstellingen te verwezenlijken. Op KI gebaseerde systemen kunnen louter softwarematig zijn en actief zijn in de virtuele wereld (bijvoorbeeld stemgestuurde assistenten, software voor beeldanalyse, zoekmachines en systemen voor spraak- en gezichtsherkenning), maar KI kan ook in hardware-apparaten worden geïntegreerd (bijvoorbeeld geavanceerde robots, zelfrijdende auto’s, drones of toepassingen van het internet der dingen)”, dit is de definitie die de Europese Commissie hanteerde in 2018 (PwC, 2018). 
 - “Artificiële intelligentie is niet-biologische intelligentie” (Tegmark, 2017). 
 - “AI verwijst naar computers die de dingen doen die men met verstand doet. Sommige van deze zaken (bv. redeneren) worden doorgaans omschreven als ’intelligent’. Andere (bv. zicht) niet. Maar allemaal vereisen ze psychologische vaardigheden die het voor een mens en een dier mogelijk maken om hun doelen te bereiken, zoals perceptie, associatie, voorspelling, planning en het controleren van een motor” (Boden, 2016).
+
+----------
+#### Bronnen
+
+Boden, M. A. (2016). *AI: Its nature and future.* Oxford, Verenigd Koninkrijk: Oxford University Press.
+
+Legg, S. & Hutter, M. (2007). *Universal Intelligence: A Definition of Machine Intelligence.* Minds & Machines, *17*(4), 391–444.
+
+PwC (2018). *Benchmark studie over artificiële intelligentie, uitgevoerd in opdracht van het Departement Economie, Wetenschap en Innovatie van de Vlaamse Overheid. Rapport PwC.* Geraadpleegd op 29 mei 2019 via https://www.ewi-vlaanderen.be/sites/default/files/bestanden/departement_economie_wetenschap_en_innovatie_-_benchmark_studie_over_artificiele_intelligentie.pdf
+
+Steels, L., Berendt, B., Pizurica, A., Van Dyck, D., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
+
+Tegmark, M. (2017). *LIFE 3.0*. New York, Verenigde Staten: Vintage Books, Penguin Random House, eerste editie.

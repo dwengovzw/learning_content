@@ -2,7 +2,7 @@
 hruid: un_biomimicry1
 version: 3
 language: nl
-title: "Criteria"
+title: "Inleiding voor leerkrachten"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
@@ -23,34 +23,24 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: true
 ---
 
-# Criteria en eigenschappen
+# Welkom op het leerpad! 
 
-Flexibiliteit en stevigheid zijn slechts twee criteria die het succes van een orthese bepalen. Bij het ontwerpen van een nieuw product moet er rekening worden gehouden met veel verschillende criteria. Om enkel-voet-ortheses te vergelijken moeten we dus met meer criteria rekening houden. Criteria over het materiaal, over het productieproces, criteria die belangrijk zijn voor de patiënt, de zorgkundigen… 
+Welkom op het STEM-leerpad over biomimicry. In het leerpad vind je de informatie die leerlingen nodig hebben, dit vind je in de witte onderdelen. De groene onderdelen bieden je extra informatie als leerkracht. In het laatste onderdeel 'In de klas' kan je informatie terugvinden over een mogelijk lesprogramma, al is dit slechts indicatief. 
 
-Er zijn héél veel criteria die van toepassing zijn op een orthese om te bepalen of het een ‘goede’ of ‘slechte’ orthese is: 
-* Prijs
-* Snelheid aanbrengen
-* Flexibiliteit van extremiteit tijdens fixatie (materiaaleigenschap)
-* Stevigheid van extremiteit tijdens fixatie (materiaaleigenschap)
-* Complexiteit van het aanbrengen van fixatiemateriaal (volledige procedure vs iets aanbrengen, kan iedereen het? Moet het in een speciale omgeving?)  opsplitsen!
-* Procedure aanbrengen fixatiemateriaal
-* Locatie aanbrengen fixatiemateriaal (medische omgeving – thuis)
-* Duurtijd van fixatie bij bepaald materiaal
-* Pijn/comfort van patiënt tijdens aanbrengen
-* Pijn/comfort van patiënt tijdens fixatie 
-* Verwijderen van fixatiemateriaal (eenvoudig vs moeilijk/complex)
-* Materiaal van benchmarks
-* Op maat van patiënt 
-* Instelbaarheid en compatibiliteit 
-* Stabilisatie van letsel 
-* Hygiëne van materiaal / reinigbaarheid 
-* …
+Lessen gebaseerd op dit leerpad kunnen helpen om de minimumdoelen i.v.m. STEM te realiseren op school. De lesinhoud is nu vooral gericht op leerlingen uit de dubbele- en doorstroomfinaliteit, maar het is ook mogelijk - mits wat aanpassingen en meer sturing - dit leerpad toe te passen in de arbeidsmarktgerichte finaliteit. Vooral het laatste onderdeel over de radardiagrammen en het pareto-front zullen moeten worden aangepast.
 
-Je kan er waarschijnlijk zelf nog een paar bedenken.
+Afhankelijk van de finaliteit gaat het om volgende minimumdoelen:
+* Doorstroom (D-finaliteit): 6.44-6.46
+* Dubbele (D/A-finaliteit): 6.25-6.27
+* Arbeidsmarkt-finaliteit (A-finaliteit): 6.12
+
+Het leerpad kan in alle studierichtingen worden gebruikt, maar het lijkt ons zeker interessant voor de richtingen gezondheidszorg, orthopedietechnieken, STEM-richtingen, zorgkundige richtingen en sportrichtingen.
+
+Indien je lessen op basis van dit STEM-project zou willen evalueren zijn er verschillende opties mogelijk. Aangezien het hier vooral over probleemoplossend denken gaat, is het aan te raden te werken met een soort van ‘portfolio’. Zo kunnen leerlingen hun progressie duidelijk weergeven. Het is ook mogelijk te eindigen met een posterbeurs of presentaties waarin leerlingen hun resultaten breder communiceren. Hierbij is het dan wel aan te raden om te variëren tussen verschillende groepjes door bij het pareto-front ieder groepje een andere criteria te laten vergelijken met elkaar.

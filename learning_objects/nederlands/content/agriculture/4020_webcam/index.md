@@ -32,8 +32,8 @@ teacher_exclusive: false
 
 # Met de webcam
 In een eerste notebook ga je aan de slag met een camera, bv. je webcam, en YOLO.<br>
-De tweede notebook leert je begrijpen wat mogelijke beperkingen zijn van een objectdetectiesysteeem. <br>
-In de derde notebook maak je kennis met technieken om je dataset uit te breiden. 
-
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4020 "Webcam")
+
+--------------------------------------------
+In de volgende twee notebooks krijg je inzicht in mogelijkheden en beperkingen, en hoe je daar voor een stuk kan op inspelen.

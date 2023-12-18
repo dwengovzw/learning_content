@@ -32,8 +32,8 @@ teacher_exclusive: true
 
 # Microscopie 
 
-Niemand heeft reeds huidmondjes gezien met het blote oog. Je kan huidmondjes bewonderen met een **microscoop**. Dat is een toffe ervaring want je kan de huidmondjes ook door de microscoop **fotograferen** met een smartphone. Je kan bv. een monoculaire microscoop gebruiken die 400 keer vergroot.<br> 
-Als je door de microscoop naar **levend** materiaal kijkt, dan krijg je mooie beelden te zien (Zie Figuur 1). Daarvoor moet je er wel in slagen een stuk van de flinterdunne cuticula van het blad te verwijderen. Bij sommige planten lukt dat niet zo goed, bv. door de stugheid van het blad. 
+Niemand heeft reeds huidmondjes gezien met het blote oog. Je kan huidmondjes bewonderen met een **microscoop**. Dat is een toffe ervaring, want je kan de huidmondjes ook door de microscoop **fotograferen** met een smartphone. Je kan bv. een monoculaire microscoop gebruiken die 400 keer vergroot.<br> 
+Als je door de microscoop naar **levend** materiaal kijkt, dan krijg je mooie beelden te zien (zie Figuur 1). Daarvoor moet je er wel in slagen een stuk van de flinterdunne cuticula van het blad te verwijderen. Bij sommige planten lukt dat niet zo goed, bv. door de stugheid van het blad. 
 
 ![](embed/microfoto1.png "Microfoto") 
 <figure>
@@ -76,3 +76,9 @@ Door de planten gevarieerd te kiezen, krijg je ook een **variatie** in de beelde
     <ul><li>Bekijk het preparaat onder de microscoop.</li></ul> 
     <ul><li>Noteer wat je ziet: veel of weinig huidmondjes, grote of kleine huidmondjes, welke vorm ze hebben, hoe ze geordend zijn ...</li></ul> 
 </div> 
+
+-------------------------
+### Workshop over huidmondjes in de Plantentuin
+
+Je kan voor een workshop over huidmondjes ook terecht in de Plantentuin van de UGent bij het GUM.<br>
+Zie het atelier [Kruip in de huid van een wetenschapper](https://www.gum.gent/nl/de-plantentuin-voor-secundair-onderwijs).

@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Silvretta gletsjer
-Ga aan de slag met echte data van de Zwitserse Silvretta gletjser en merk de invloed van de klimaatverandering op. 
+# Silvrettagletsjer
+Ga aan de slag met echte data van de Zwitserse Silvrettagletjser en merk de invloed van de klimaatverandering op. 
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1930 "Silvretta gletsjer")

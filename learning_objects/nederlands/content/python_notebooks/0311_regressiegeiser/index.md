@@ -33,7 +33,7 @@ skos_concepts: [
 
 # Toepassing
 ## Geiser
-Je werkte reeds met de data van de Old Faithful Geiser in een notebook van het leerpad 'Spreidingsdiagram'.
+Je werkte reeds met de data van de Old Faithful Geiser in een notebook van het leerpad ['Spreidingsdiagram'](https://www.dwengo.org/learning-path.html?hruid=maths_spreidingsdiagrammen&language=nl&te=true&source_page=%2Fstem%2F&source_title=%20STEM#pn_inleiding_spreidingsdiagram;nl;3).
 
 Een geiser is een natuurlijk verwarmde heetwaterbron die regelmatig heet water en stoom de lucht in spuit.
 In deze notebook onderzoek je het verband tussen duurtijd van de erupties (uitbarstingen) en hoeveel tijd er verstrijkt tot de volgende eruptie.

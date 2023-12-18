@@ -32,7 +32,7 @@ teacher_exclusive: false
 
 # Microscopie 
 
-Niemand heeft reeds huidmondjes gezien met het blote oog. Je kan huidmondjes bewonderen met een **microscoop**. Dat is een toffe ervaring want je kan de huidmondjes ook door de microscoop **fotograferen** met een smartphone. Je kan bv. een monoculaire microscoop gebruiken die 400 keer vergroot.<br> 
+Niemand heeft reeds huidmondjes gezien met het blote oog. Je kan huidmondjes bewonderen met een **microscoop**. Dat is een toffe ervaring, want je kan de huidmondjes ook door de microscoop **fotograferen** met een smartphone. Je kan bv. een monoculaire microscoop gebruiken die 400 keer vergroot.<br> 
 Als je door de microscoop naar **levend** materiaal kijkt, dan krijg je mooie beelden te zien (Zie Figuur 1). Daarvoor moet je er wel in slagen een stuk van de flinterdunne cuticula van het blad te verwijderen. Bij sommige planten lukt dat niet zo goed, bv. door de stugheid van het blad. 
 
 ![](embed/microfoto1.png "Microfoto") 

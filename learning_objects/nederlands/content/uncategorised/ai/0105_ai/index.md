@@ -2,8 +2,8 @@
 hruid: un_ai5
 version: 3
 language: nl
-title: "Meer"
-description: "Meer"
+title: "Soorten training"
+description: "ML en DL"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,21 +30,20 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Wil je meer weten?
+# Soorten training
 
-### Het project 'KIKS'
-- In het leerpad 'Regressie' wordt er dieper ingegaan op AI-systemen voor regressie.
-- In het leerpad 'Classificatie' van het project 'KIKS' wordt er dieper ingegaan op AI-systemen voor classificatie, die getraind werden a.d.h.v. gesuperviseerd leren.
-- In het leerpad 'Digitale beelden' leer je de basis van *computer vision* kennen, belangrijk voor systemen voor objectherkenning.
-- In de leerpaden 'Deep learning - basis' en 'Deep learning - gevorderd' wordt er dieper ingegaan op de verschillende bouwstenen van een convolutioneel neuraal netwerk voor beeldherkenning. 
+## Supervised, unsupervised en reinforcement learning
 
-### Het project 'AI in de Zorg'
-- In het leerpad 'Beslissingsboom' maak je kennis met een algoritme om een beslissingsboom te genereren. Beslissingsbomen zijn transparante, regelgebaseerde AI-systemen.
+Binnen ML onderscheidt men verschillende types van leren: supervised, unsupervised en reinforcement learning.<br>
+- Bij supervised en unsupervised learning vertrekt men van een set voorbeelden.<br>
+![voorbeeldenappelpeer](https://user-images.githubusercontent.com/48352335/222242428-3021670a-b3e7-403b-8752-e1bef9f83668.png)
 
-### Het project 'Chatbot'
-- In het leerpad 'Chatbot' bouw je een eenvoudige, regelgebaseerde chatbot. De antwoorden die deze chatbot genereert zijn zeer transparant.
-- In het leerpad 'Sentimentanalyse' bouw je o.a. een regelgebaseerd systeem voor sentimentanalyse. 
+- Bij **supervised learning** zijn de data gelabeld. Het systeem leert dus uit een dataset waarbij elk gegeven bestaat uit twee componenten: een input gekoppeld aan een *label* (de verwachte output) (zie Figuur). Het labelen van de voorbeelden gebeurt vaak manueel door mensen, men noemt dat *annoteren*. Het systeem voert een algoritme uit dat er geleidelijk aan voor zorgt dat het systeem focust op relevante patronen in de data. <br>
+![soortenmlsupervised](https://user-images.githubusercontent.com/48352335/222239255-ee4fa9d7-f181-445a-af3b-d87c529fb530.png)<br>
+![ailerendappelsperen](https://user-images.githubusercontent.com/48352335/222241196-beaa3f95-d30e-4315-a17b-171cad288b95.png)
 
-### Het project 'AI in de Landbouw'
-- In het leerpad 'Deep learning' ga je aan de slag met een AI-systeem voor objectherkenning a.d.h.v. YOLO.
+- Bij **unsupervised learning** bevat de dataset *geen labels*. Het AI-systeem moet op zoek naar kenmerken bij de verschillende voorbeelden en moet ze zo, door het ontdekken van patronen, verdelen in klassen. Men kan het systeem bv. ongelabelde foto’s aanbieden van appels en peren. Het systeem gaat op zoek naar patronen om zo het 
+![kenmerken](https://user-images.githubusercontent.com/48352335/222240504-2357f827-ec15-42e4-a209-94fcbd142ccf.png)<br>
+![soortenmlunsupervised](https://user-images.githubusercontent.com/48352335/222239480-09ab805d-da4f-4cd2-acf0-23241c2b4c3d.png)
 
+- Bij **reinforcement learning** streeft het AI-systeem naar een *beloning*. Om bv. goed te worden in een bepaalde videogame, gaat het AI-systeem het spel heel veel spelen en daaruit leren welke acties het beter vermijdt en welke het best onderneemt om te kunnen winnen. Zo werd Google DeepMind’s AlphaGo Zero in 2017 via reinforcement learning een topspeler in Go, nog beter dan AlphaGo die de beste menselijke speler eerder al versloeg.

@@ -24,4 +24,4 @@ target_ages: [10, 11, 12, 13]
 
 Probeer hetzelfde voor de volgende afbeelding:
 
-![Yoshi](img/image4.png)
+![Yoshi](img/image.png)

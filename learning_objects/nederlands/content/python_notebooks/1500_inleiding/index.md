@@ -34,5 +34,12 @@ skos_concepts: [
 ---
 
 # Inleiding
-Een digitaal beeld bestaat uit een eindig aantal pixels. Als je genoeg stippen (of in de digitale wereld vierkantjes) naast elkaar plaatst, kan je een grotere figuur voorstellen.Het woord 'pixel' is afgeleid van de Engelse woorden *picture* (afbeelding) en *element*. Het woord digitaal komt van het Latijnse *digitus* (vinger) en verwijst naar het tellen op de vingers. Op een goede foto kan je geen pixels onderscheiden, tenzij je veel inzoomt op de afbeelding.  
-Tijdens deze notebooks leer je hoe je de kleuren van een afbeelding kunt aanpassen en manipuleren.
+Een digitaal beeld bestaat uit een eindig aantal pixels. Als je genoeg vierkantjes in een raster plaatst, kan je een grote figuur voorstellen.<br>
+Het woord 'pixel' is afgeleid van de Engelse woorden *picture* (afbeelding) en *element*.<br>
+Het woord digitaal komt van het Latijnse *digitus* (vinger) en verwijst naar het tellen op de vingers. 
+
+Op een goede foto kan je geen pixels onderscheiden, tenzij je sterk inzoomt op de afbeelding.  
+
+![](embed/begoniazoom.png "Ingezoomde foto")
+
+In dit leerpad leer je hoe je de kleuren van een afbeelding kunt aanpassen en manipuleren.

@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 ---
 # Voorkennis
-* Leerpad *'Werken met notebooks'*
+* Leerpad ['Werken met notebooks'](https://www.dwengo.org/learning-path.html?hruid=pn_werking&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_werkingnotebooks;nl;3)
 * 'Programmeren met Python' > * Leerpad *'Operatoren'* > Deel *'Wiskundige operatoren - Rekenen'*
 * 'Python in de Wiskundeles' > Leerpad *'Spreidingsdiagram'*
 * *'Programmeren met Python'* > Leerpad *'Structuren'* > Onderdeel *'Keuzestructuur'*  > puntje 1  van de notebook 0300_Keuzestructuur.ipynb (enkel nodig voor het deel *'Vierkantsvergelijking'* van dit leerpad)

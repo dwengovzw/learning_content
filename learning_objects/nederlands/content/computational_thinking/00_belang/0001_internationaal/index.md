@@ -1,0 +1,67 @@
+---
+hruid: ct00_01
+version: 3
+language: nl
+title: "Internationaal belang"
+description: "Internationaal belang"
+keywords: [""]
+educational_goals: [
+    {source: Source, id: id}, 
+    {source: Source2, id: id2}
+]
+copyright: dwengo
+licence: dwengo
+content_type: text/markdown
+available: true
+target_ages: [12, 13, 14]
+difficulty: 3
+return_value: {
+    callback_url: callback-url-example,
+    callback_schema: {
+        att: test,
+        att2: test2
+    }
+}
+content_location: example-location
+estimated_time: 1
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
+]
+teacher_exclusive: true
+---
+
+# Internationaal belang
+
+![](@youtube/https://www.youtube.com/embed/bfizj6FUaDo "Computationeel denken - Belang")
+
+> In deze tekst wordt ‘computer’ gebruikt in de ruime zin van het woord: het geheel van hardware en software van computers, smartphones, tablets en andere informatieverwerkende systemen. 
+
+Leerlingen leren over fysica, chemie en biologie omwille van de natuurwetenschappelijke processen in de wereld waarin ze leven. **Een aanzienlijk deel van hun leven speelt zich echter digitaal af**. Denk aan sociale media, gaming en online lessen. 
+Die digitale wereld wordt steeds belangrijker. De ontwikkeling van al die digitale toestellen en toepassingen gebeurt door mensen die computationeel kunnen denken. **Het is nodig dat onze leerlingen de basisconcepten van computationeel denken begrijpen en kunnen toepassen**, om ze te laten inzien wat aan de grondslag ligt van de steeds meer gedigitaliseerde maatschappij. We willen immers dat leerlingen begrijpen welke impact de digitalisering heeft op hun eigen leven en dat ze in de toekomst, als burger, gefundeerde beslissingen kunnen nemen.
+
+**Computationeel denken is een werkwijze om inzicht te verwerven in die digitale wereld en ermee te interageren**. Het is een manier van denken die aan de basis ligt van alle digitale toepassingen. Computationeel denken is een methodologie die leerlingen kunnen aanleren om nieuwe problemen aan te pakken en die een houvast biedt als aanvulling op andere competenties die nodig zijn om problemen op te lossen. Het stelt mensen in staat om zich weerbaar en flexibel te kunnen opstellen tegenover nieuwe digitale toepassingen. Het is dan ook niet verwonderlijk dat er **overal ter wereld** een groeiende aandacht voor is in het leerplichtonderwijs (Wing, 2006; Bocconi et al., 2016; Yadav et al., 2017a). 
+ 
+Over de hele wereld wordt dan ook gepleit om de jongeren computationeel te leren denken en wordt computationeel denken aangezien als **een fundament voor de digitale competenties, één van de 21ste-eeuwse competenties** (Voogt et al., 2013; Yadav et al., 2017a, Li et al., 2020). Zo ook in Vlaanderen. <br>
+De digitale competenties zelf worden aangezien als een manier om de andere 21ste-eeuwse competenties te verwerven en te evalueren. Dat is de voornaamste reden waarom landen computationeel denken invoeren in het onderwijs. Ook de Europese Unie onderschrijft het belang van de 21ste-eeuwse competenties en de rol die computationeel denken daarin kan spelen. 
+
+Kortom, steeds meer landen kiezen ervoor om computationeel denken in de leerdoelen van het secundair onderwijs op te nemen. 
+
+> Competenties zijn een geheel van kennis, vaardigheden en attitudes.<br>
+> Meer uitleg over de 21ste-eeuwse competenties vind je in het leerpad ['Eindtermen en minimumdoelen'](https://www.dwengo.org/learning-path.html?hruid=ct8_eindtermen&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_eindtermen;nl;3). 
+
+<div class="alert alert-box alert-secondary">
+Dat men wereldwijd een groot belang hecht aan computationeel denken, weerspiegelt zich in het feit dat computationeel denken ondertussen is opgenomen in de internationale vergelijkende testen van de OECD en de IEA, resp. in het wiskundeluik van de <strong>PISA-test</strong> en in de <strong>ICILS-test</strong>. 
+</div>
+
+> [International Computer and Information Literacy Study](https://www.iea.nl/studies/iea/icils/2023#section-740)<br>
+> [PISA assessment](https://www.oecd.org/pisa/sitedocument/PISA-2021-mathematics-framework.pdf)
+
+---
+
+#### Bronnnen:  
+Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., & Engelhardt, K. (2016). *Developing Computational Thinking in Compulsory Education: Implications for policy and practice.* Luxemburg: Publications Office of the European Union.<br>
+Li, Y., Schoenfeld, A.H., diSessa, A.A. et al.  (2020). On Computational Thinking and STEM Education. *Journal for STEM Education Research, 3*, 147–166. https://doi.org/10.1007/s41979-020-00044-w  <br>
+Voogt, J., Erstad, O., Dede, C., & Mishra, P. (2013). Challenges to learning and schooling in the digital networked world of the 21st century. *Journal of Computer Assisted Learning, 29*.<br>
+Wing, J. M. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35.<br> 
+Yadav, A., Good, J., Voogt, J., & Fisser, P. (2017a). Computational Thinking as an Emerging Competence Domain. *Technical and Vocational Education and Training, 23*, 1051–1067.
+

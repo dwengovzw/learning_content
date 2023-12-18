@@ -1,0 +1,68 @@
+// HTML voor een opdracht in een leerobject
+
+<div class="dwengo-content assignment">
+<h2 class="title">Hier de titel van de opdracht</h2>
+<div class="content">
+Hier de opdracht.
+</div>
+</div>
+
+// HTML voor een weetje of extra info
+
+<div class="dwengo-content sideinfo">
+<h2 class="title">Hier de titel van het weetje</h2>
+<div class="content">
+Hier de inhoud van het weetje
+</div>
+</div>
+
+
+// HTML voor waarschuwing
+
+<div class="dwengo-content important">
+<h2 class="title">Hier de titel van de belangrijke informatie</h2>
+<div class="content">
+Hier de inhoud.
+</div>
+</div>
+
+// HTML voor een componentfiche
+
+<div class="dwengo_content fiche">
+    <h1 class="title">Titel van de fiche</h1>
+    <h2 class="subtitle">Subtitel van de fiche</h2>
+    <div class="items">
+        <div class="info_item item">
+            <h3 class="info_item_title">De titel van het item.</h3>
+            <p class="info_item_content">
+                Meer gedetaileerde info over het item.
+            </p>
+        </div>
+        <div class="example_item item">
+            <h3 class="example_item_title">Hier komt de titel van je voorbeeld.</h3>
+            <p class="example_item_content">
+                <pre><code class="language-arduino">
+    Hier komt je codevoorbeeld.
+                </code></pre> 
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+        <code class="language-cpp" data-filename="filename.cpp">
+            My code here.
+        </code>
+    </pre>
+</div>
+
+// X-scrollable  table: Set td width as desired
+<div class="dwengo_content table_container">
+    <table>
+        <tr>
+            <td style="width:375px;min-width:250px"><img src="img/levenshtein_example_step0.svg" alt="Tabel om afstand tussen woord voor te stellen" title="tabel om afstand tussen woord voor te stellen"></td>
+            <td style="min-width:250px">Om van het lege woord naar het lege woord te gaan moeten we niets doen. De kost is hier dus 0.</td>
+        </tr>
+    </table>
+</div>

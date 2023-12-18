@@ -27,11 +27,9 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
-Figuur 7.1
-
 # Inleiding
-Het KIKS-project heeft als doel de leerlingen de fundamenten van AI te leren kennen en hen bij te brengen hoe ze vat kunnen hebben op AI-systemen die ze tegenkomen in hun dagelijks leven. We willen daarom leerkrachten aanmoedigen om met KIKS en AI aan de slag te gaan in de klas (zie figuur), met of zonder programmeren. We hebben geprobeerd het project zo laagdrempelig mogelijk te houden door het materiaal online aan te bieden, door ervoor te zorgen dat er geen extra software geïnstalleerd moet worden en door in de nodige achtergrondinformatie te voorzien via deze handleiding.
-We hopen dat er tijdens de projectlessen ook tijd wordt vrijgemaakt om stil te staan bij de ethische kwesties die opduiken door de aanwezigheid van AI en deep learning-systemen in het dagelijks leven. 
-Het lesmateriaal kan ook op een andere manier worden ingezet. Men kan bv. enkele notebooks uitkiezen om de leerlingen te leren programmeren in Python of men  kan er opdrachten uit halen om te werken aan onderzoekscompetenties in de lessen biologie, aardrijkskunde of wiskunde. Men kan de leerlingen aan de hand van enkele notebooks vertrouwd maken met de principes van digitale beeldverwerking of de leerkracht Nederlands of godsdienst kan uit deze handleiding inspiratie halen voor een les over de ethische aspecten van AI.
+Wetenschappers van de Plantentuin Meise en de UGent onderzoeken **hoe bomen uit het tropisch regenwoud zich aanpassen aan de klimaatverandering**. De stomata op hun bladeren verschaffen informatie over de CO<sub>2</sub>-concentratie in de atmosfeer ten tijde van de groei van de planten. De onderzoekers **tellen** het aantal stomata op de bladeren en ze **meten** hun grootte op. Erna vergelijken ze de resultaten van recent materiaal met die van materiaal van honderd jaar terug.
+
+Het tellen en meten van stomata is echter een heel tijdrovende bezigheid. Om dit te **automatiseren**, heeft een computerwetenschapper van de UGent **een neuraal netwerk getraind**. Om zo'n netwerk te trainen zijn veel voorbeelden nodig: foto's van stomata en foto's van bladeren zonder stomata.

@@ -27,10 +27,10 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
 # Stomata zon - schaduw
-Het aanmaken van stomata wordt beïnvloed door omgevingsfactoren. Je leert aan de computer om stomata van bezonde planten en van planten in de schaduw van elkaar onderscheiden.
+Het aanmaken van stomata wordt beïnvloed door omgevingsfactoren. Je leert aan de computer om stomata van bezonde planten en van planten in de schaduw van elkaar te onderscheiden.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1802 "Stomata zon - schaduw")

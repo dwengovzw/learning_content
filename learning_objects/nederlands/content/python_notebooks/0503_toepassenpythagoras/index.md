@@ -50,3 +50,14 @@ In een tweede notebook vind je extra uitdagende oefeningen. Je wendt er bv. een 
 
 ![](@youtube/https://www.youtube.com/watch?v=O2iGX2SLLAQ "Filmpje Pythagoras")
 
+<div class="alert alert-box alert-secondary">
+    In de laatste oefening van de tweede notebook gaat over het volgende:
+<ul><li> De stelling van Pythagoras zegt:<br>als een driehoek rechthoekig is, dan volgt dat het kwadraat van de schuine zijde gelijk is aan de som van de kwadraten van de rechthoekszijden.</li></ul>
+<ul><li> Volgens de wet van de <em>contrapositie</em> uit de logica, geldt dan:<br> 
+als het kwadraat van de schuine zijde niet gelijk is aan de som van de kwadraten van de rechthoekszijden, dan is de driehoek niet rechthoekig. </li></ul>
+<ul><li> M.b.v. de cosinusregel (in een willekeurige driehoek) kan je echter ook de omgekeerde stelling van Pythagoras bewijzen. Dus:<br>
+als het kwadraat van de schuine zijde gelijk is aan de som van de kwadraten van de rechthoekszijden, dan is de driehoek rechthoekig. </li></ul>
+
+Dus afhankelijk van welke leerstof er al gezien is, kan het resultaat dat in deze oefening geprint wordt, aaangepast worden.
+
+ </div>

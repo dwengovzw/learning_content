@@ -27,10 +27,17 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Basis
-In de volgende notebook wordt er beknopt uitgelegd hoe AI aan de slag gaat bij het tellen van huidmondjes. Er is ook een kleine demonstratie voorzien zodat je alvast weet waarmee je aan de slag gaat!
+# Automatisch tellen van huidmondjes
+
+In de volgende notebook wordt er getoond hoe men AI inzet om huidmondjes te tellen op microscopische foto's.
+
+Er is ook in een kleine demonstratie voorzien, zodat je alvast weet waarmee je aan de slag gaat!
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1710 "Basis")
+
+----------
+Er wordt een convolutioneel neuraal netwerk voor gebruikt, nl. een diep neuraal netwerk voor objectherkenning.<br>
+In de rest van dit leerpad wordt uitgelegd hoe dit diepe neurale netwerk werd opgebouwd.

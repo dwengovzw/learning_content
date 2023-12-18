@@ -2,7 +2,7 @@
 hruid: un_biomimicry2
 version: 3
 language: nl
-title: "Biomimicry"
+title: "Criteria"
 description: "Biomimicry"
 keywords: [""]
 educational_goals: [
@@ -23,53 +23,23 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 1
+estimated_time: 15
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
+# Criteria en eigenschappen
 
-# Enkel-voet-ortheses
-Vandaag de dag zijn er al een heel aantal ortheses op de markt, die proberen om aan zoveel mogelijk criteria te voldoen. De ene orthese houdt al wat meer rekening met eerder genoemde criteria dan de andere. 
+Flexibiliteit en stevigheid zijn slechts twee criteria die het succes van een orthese bepalen. Bij het ontwerpen van een nieuw product moet er rekening worden gehouden met veel verschillende criteria. Criteria over het materiaal, over het productieproces, criteria die belangrijk zijn voor de patiënt, de zorgkundigen… 
 
-We bekijken enkele ortheses die nu op de markt zijn. Onderaan vind je een overzicht met de verschillende eigenschappen per criterium van de ortheses.
+> In dit leerpad gebruiken we de termen **criterium** en **eigenschap**. Een criterium is bijvoorbeeld een 'lage prijs', terwijl de eigenschap dan '€50' is. 
 
-**Malleloloc-L (van Bauerfeind)**
+Er zijn héél veel criteria die van toepassing zijn op een orthese om te bepalen of het een ‘goede’ of ‘slechte’ orthese is.
+
+## Oefening
+Denk nu zelf even na wat mogelijke criteria zouden zijn voor een enkel-voet-orthese. 
+Waaraan moet een orthese allemaal voldoen?! 
 
 ![](embed/malleloc2.jpg "afbeelding")
-
-![link](https://www.bauerfeind.nl/nl_nl/producten/braces/enkelbrace/details/product/malleoloc-l)
-
-**ROM Walker (van Medi)**
-
-![](embed/romwalker.jpeg "afbeelding")
-
-![link](https://www.medibelgium.be/producten/medi-rom-walker/)
-
-**M.Step (van Medi)**
-
-![](embed/mstep.jpeg "afbeelding")
-
-![link](https://www.medibelgium.be/producten/m-step/)
-
-**Stabili-tri (van Levamed)**
-
-![](embed/stabilitri.jpeg "afbeelding")
-
-![link](https://www.medibelgium.be/producten/levamed-stabili-tri/)
-
-**EXO-L**
-
-**B2-Foot AFO (van Spentys)**
-
-
-De eigenschappen van deze enkel-voet-ortheses kan je vinden in onderstaande tabel: 
-|                                      | **Malleloc-L**                        | **ROM Walker**                                                  | **M.Step**                                                                  | **Stabili-tri**                                                             | **EXO-L**                                 | **B2-foot**                                           |
-|--------------------------------------|---------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------|
-| **Stabilisatie letsel**              | Graad 1                               | Graad 2-3                                                       | Graad 2 (3 op einde revalidatie na  eerdere behandeling met andere orthese) | Graad 2 (3 op einde revalidatie na  eerdere behandeling met andere orthese) | Graad 1: preventie                        | Graad 2-3                                             |
-| **Prijs (euro)**                     | 85                                    | 253.8                                                           | 80                                                                          | 184.95                                                                      | 169                                       | 100                                                   |
-| **Materiaal**                        | PU en polyester                       | Aluminium, PU en katoen                                         | PU en polyester                                                             | PA, polyester en elastaan                                                   | PP en katoen                              | Polypropyleen en PLA                                  |
-| **Instelbaarheid & compatibiliteit** | Compatibel met verschillende schoenen | 7 mogelijke bewegingsbegrenzingen.  Niet compatibel met schoen. | Slank design, niet instelbaar. Compatibel met schoen.                       | 3 mogelijke bewegingsbegrenzingen.  Niet compatibel met schoen.             | Te combineren met verschillende schoenen. | Slank design, niet instelbaar. Gebruik zonder schoen. |
-| **Op maat van de patiënt**           | 1 universele maat.                    | 3 verschillende maten.                                          | 2 verschillende maten.                                                      | 4 verschillende maten.                                                      | Op maat gemaakt aan de hand van 3D-scan.  | Productie aan de hand van 3D-scan.                    |

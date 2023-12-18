@@ -32,4 +32,8 @@ skos_concepts: [
 
 # Slot
 
-In de notebooks van 'STEM klimaat' over de gletsjers zal je de for-lus nodig hebben om de opdrachten te vervullen.
+In de notebooks van [STEM klimaat](https://dwengo.org/learning-path.html?hruid=pn_klimaatverandering&language=nl&te=true&source_page=%2Fstem%2F&source_title=%20STEM#pn_inleiding_klimaat;nl;3) over de gletsjers zal je de for-lus nodig hebben om de opdrachten te vervullen. 
+
+Ook in het leerpad [Turtle](https://dwengo.org/learning-path.html?hruid=art_turtle&language=nl&te=true&source_page=%2Fart%2F&source_title=%20Kunst#art_inleidingturtle;nl;3) ga je aan de slag met herhalingsstructuren. 
+
+In meerdere leerpaden van [Python in de Wiskundeles](https://www.dwengo.org/math_with_python/) ga je aan de slag met keuzestructuren.

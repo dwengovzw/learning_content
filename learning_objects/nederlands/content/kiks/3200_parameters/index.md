@@ -2,8 +2,8 @@
 hruid: kiks_parameters
 version: 3
 language: nl
-title: "Parameters"
-description: "Parameters"
+title: "KIKS-netwerk"
+description: "Parameters NN KIKS"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,11 +27,11 @@ estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: true
+teacher_exclusive: false
 ---
 
-# Parameters
-In deze notebook train en test je jouw eigen diep neuraal netwerk om stomata te detecteren op microscopische foto's.<br> Je past daarvoor de parammeters aan in een bestaande netwerkarchitectuur, zoals het aantal lagen in het netwerk, het aantal epochs en de leersnelheid.
+# Parameters in het convolutioneel neuraal netwerk van KIKS
+In deze notebook train en test je jouw eigen diep neuraal netwerk om stomata te detecteren op microscopische foto's.<br> Je past daarvoor de parameters aan in een bestaande netwerkarchitectuur, zoals het aantal lagen in het netwerk, het aantal epochs en de leersnelheid.
 
 
 
