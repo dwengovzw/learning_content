@@ -49,7 +49,7 @@ Waar de parabool stijgt, is de raaklijn een stijgende rechte en is de richtingsc
 In een top van de parabool is de raaklijn horizontaal en de afgeleide 0.
 Hoe steiler de raaklijn, hoe groter de richtingscoëfficiënt van de raaklijn in absolute waarde, dus hoe groter de afgeleide in absolute waarde.
 
-Een functie kan meer dan een minimum hebben, als er bv. meerdere lokale minima zijn, dan is het de bedoeling om op zoek te gaan naar het globale minimum: het kleinste lokale minimum.  
+Een functie kan meer dan een minimum hebben. Als er bv. meerdere lokale minima zijn, dan is het de bedoeling om op zoek te gaan naar het globale minimum: het kleinste lokale minimum.  
 
 ---------
 #### Verband met minimumdoelen informaticawetenschappen
