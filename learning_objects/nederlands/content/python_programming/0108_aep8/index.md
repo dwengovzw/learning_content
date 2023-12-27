@@ -2,8 +2,8 @@
 hruid: pp_aep8
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Limiet"
+description: "Limiet"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,13 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Limiet
+
+## Limiet van een rij
+
+
+
+
+## Limiet van een functie
 
 
