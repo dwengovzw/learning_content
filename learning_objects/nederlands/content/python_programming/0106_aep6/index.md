@@ -2,8 +2,8 @@
 hruid: pp_aep6
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Algoritme van Dijkstra en A*-algoritme"
+description: "Algoritme van Dijkstra"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Algoritme van Dijkstra en A*-algoritme
 
+Het algoritme van Dijkstra en het A*-algoritme worden beide toegelicht in de module ['Werking routeplanner'](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=aiz_routeplanner&version=3&language=nl).<br> 
+Deze module krijgt [hier](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=ct9_2&version=3&language=nl) meer duiding.
 
