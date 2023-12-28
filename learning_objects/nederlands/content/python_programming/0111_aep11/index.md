@@ -2,8 +2,8 @@
 hruid: pp_aep11
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Riemannsom"
+description: "Riemannsom"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,13 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# De Riemannsom
+
+Stel dat een schilder een object met een speciale vorm moet verven. Hij wil berekenen hoeveel verf hij zal moeten maken in de gewenste kleur.  Om de oppervlakte te bepalen van het object beschikt hij over functies die overeenkomen met de contouren van het object. Hij kan echter geen beroep doen op de gekende formules van rechthoek, cirkel, ...,  om de oppervlakte van de figuur te berekenen. Hij kan de oppervlakte wel benaderen door de oppervlakte te benaderen door rechthoeken en daarvan de totale oppervlakte te berekenen.
+
+In de notebook leer je hoe je met de Riemannsom de oppervlakte tussen een kromme en de x-as kunt benaderen.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6600 "Riemannsom")
+
 
 
