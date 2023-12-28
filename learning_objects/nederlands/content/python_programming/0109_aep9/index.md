@@ -32,7 +32,9 @@ teacher_exclusive: false
 
 # Nulwaarden 
 
-In de wiskunde leer je de nulwaarden van een functie berekenen door vergelijkingen op te stellen en die op te lossen door technieken, zoals de regel van Horner en de methode van de discriminant, toe te passen. Soms is het echter niet mogelijk om de nulwaarden op die manier te vinden. Denk bv. aan een veeltermfunctie - wat een relatief eenvoudige functie is - met enkel niet-rationale nulpunten. In de wiskundeles zal men dan naar de grafische rekenmachine of de computer grijpen om die nulwaarden te bepalen.
+Nulwaarden spelen bijvoorbeeld een belangrijke rol in de economie. Denk aan een bedrijf dat winst wil maken. De kosten en opbrengsten die het bedrijf heeft zijn belangrijk om de winst te bepalen. Men stelt daarom functies op om de kosten, opbrengsten en de winst te monitoren. Als de winstfunctie bv. naar nul evolueert, dan wordt het maken van verlies een reëel risico.     
+
+In de wiskundeles leer je de nulwaarden van een functie berekenen door vergelijkingen op te stellen en die op te lossen door technieken, zoals de regel van Horner en de methode van de discriminant, toe te passen. Soms is het echter niet mogelijk om de nulwaarden op die manier te vinden. Denk bv. aan een veeltermfunctie - wat een relatief eenvoudige functie is - met enkel niet-rationale nulpunten. In de wiskundeles zal men dan naar de grafische rekenmachine of de computer grijpen om die nulwaarden te bepalen.
 
 Deze toestellen maken gebruik van zogenaamde numerieke methodes om de nulwaarden te bepalen: Ze passen bepaalde technieken iteratief toe om **stap voor stap** de nulwaarden te benaderen.  
 
@@ -44,13 +46,7 @@ Hier worden twee methodes voorgesteld. In een eerste notebook maak je kennis met
 ---------
 In de eerste notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, derde- en vierdegraadsfunctie (optioneel), het (rekenkundig) gemiddelde van twee getallen, continue functie, functiewaarde, snijpunt van de grafiek van een functie met de x-as.
 
-In de tweede notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, derde- en vierdegraadsfunctie (optioneel), het (rekenkundig) gemiddelde van twee getallen, continue functie, functiewaarde, snijpunt van de grafiek van een functie met de x-as.
-
-De afgeleide in een punt van een parabool is de richtingscoëfficiënt van de raaklijn in dat punt aan de parabool.<br>
-Waar de parabool stijgt, is de raaklijn een stijgende rechte en is de richtingscoëfficiënt van de raaklijn positief. Waar de parabool daalt, is ze negatief.
-In een top van de parabool is de raaklijn horizontaal en de afgeleide 0.
-Hoe steiler de raaklijn, hoe groter de richtingscoëfficiënt van de raaklijn in absolute waarde, dus hoe groter de afgeleide in absolute waarde.
- 
+In de tweede notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, continue functie, functiewaarde, afgeleide functie, raaklijn, richtingscoëfficiënt, snijpunt van de grafiek van een functie met de x-as.
 
 ---------
 #### Verband met minimumdoelen informaticawetenschappen
