@@ -58,3 +58,9 @@ Bepaal naar welk getal \(f(x)\) nadert als \(x\) nadert naar \(0\).
 Met de technieken die je leerde, kan je nu bv. irrationale getallen zoals het getal *e* en de gulden snede \(\phi\) benaderen. Je vindt hierover oefeningen in de volgende notebook.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6519 "Limiet van rij of functie")
+
+
+-----
+**Verband met minimumdoelen informaticawetenschappen**
+
+In deze notebooks leer je a.d.h.v. een numerieke methode een limiet van een rij of een functie benaderen. In de oefeningen gebruikte je deze techniek om een irrationaal getal te benaderen.
