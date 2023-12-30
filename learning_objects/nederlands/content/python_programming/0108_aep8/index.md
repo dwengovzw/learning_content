@@ -59,6 +59,10 @@ Met de technieken die je leerde, kan je nu bv. irrationale getallen zoals het ge
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6519 "Limiet van rij of functie")
 
+## Toepassing: limiet van differentiequotiënt
+Met de technieken die je leerde, kan je in een punt van een kromme de richtingscoëfficiënt van de raaklijn in dat punt aan de kromme numeriek benaderen. In de volgende notebook wordt daarop ingegaan. In deze context zal je ook het getal *e* benaderen.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6540 "Limiet van differentiequotiënt")
 
 -----
 **Verband met minimumdoelen informaticawetenschappen**
