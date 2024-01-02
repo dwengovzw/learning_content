@@ -64,6 +64,12 @@ Met de technieken die je leerde, kan je in een punt van een kromme de richtingsc
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6540 "Limiet van differentiequotiënt")
 
+## Toepassing: eindige differentiemethode
+
+De richtingscoëfficiënt van de raaklijn in een punt aan een kromme, m.a.w. de afgeleide in een punt, kan benaderd worden m.b.v. een  differentiequotiënt over een bepaald interval. In de volgende notebook zal je daarop gebaseerd een benadering zoeken van de afgeleide functie van een bepaalde functie.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6060 "Eindige differentiemethode")
+
 -----
 **Verband met minimumdoelen informaticawetenschappen**
 
