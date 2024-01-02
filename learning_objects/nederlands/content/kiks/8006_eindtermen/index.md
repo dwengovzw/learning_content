@@ -458,13 +458,11 @@ de kantlijn._
 
 **Wiskunde**<br>
 
-In machine learning en deep learning worden wiskunde en principes uit de statistiek
-gebruikt:<br>
+In *machine learning* en *deep learning* worden wiskunde en principes uit de statistiek gebruikt:<br>
 - matrices, indices, dimensie van een matrix en eigenschappen van matrices;<br>
 - bewerkingen met matrices en eigenschappen van bewerkingen met matrices;<br>
-sommatieteken;<br>
-- verloop van functies bij de grafieken over CO 2 , gletsjers... en metrics van neurale
-netwerken;<br>
+- sommatieteken;<br>
+- verloop van functies bij de grafieken over CO<sub>2</sub> , gletsjers... en metrics van neurale netwerken;<br>
 - veeltermfuncties bij regressie;<br>
 - functies met meervoudig voorschrift, bv. ReLU, sign, Heaviside;<br>
 - toepassing van logistieke functie bij de sigmoïde als activatiefunctie;<br>
@@ -589,7 +587,7 @@ kunnen matrices transponeren.<br>*
 *Ruimtemeetkunde*<br>
 *De leerlingen*<br>
 - *kennen het begrip coördinaat (of plaatsvector) van een punt in de ruimte en de betekenis van de verschillende coördinaatgetallen;* <br>
-- kunnen coördinaten van punten optellen en vermenigvuldigen met een scalair;* <br>
+- *kunnen coördinaten van punten optellen en vermenigvuldigen met een scalair;* <br>
 - *kennen de definitie van het inproduct (of scalair product) van twee (richtings)vectoren en aan de hand hiervan de volgende begrip: orthogonaliteit van richtingsvectoren.<br>*
 
 **Linken met het leerplan 'Wiskunde' (D/2004/0279/019) van het Katholiek Onderwijs Vlaanderen**<br>
@@ -627,26 +625,26 @@ AL10 Binnen een probleem bewerkingen met matrices uitvoeren: matrices optellen, 
 vermenigvuldigen.<br>
 LP1 Vraagstukken oplossen die leiden tot een ongelijkheid van de eerste graad met één onbekende en de oplossing grafisch voorstellen en/of symbolisch noteren.<br>*
 
-*Ruimtemeetkunde*<br>
-*ME1 Vectoren en coördinaatgetallen gebruiken om punten te bepalen in de ruimte.
+*Ruimtemeetkunde* <br>
+*ME1 Vectoren en coördinaatgetallen gebruiken om punten te bepalen in de ruimte.<br>
 ME2 De basiseigenschappen van een reële vectorruimte (beperkt tot dimensie twee en drie) formuleren en gebruiken.<br>
 ME3 Vectoren en coördinaatgetallen en de bewerkingen ervan gebruiken om problemen in ruimtelijke situaties op te lossen.<br>
-ME7 Hoeken tussen rechten, tussen rechten en vlakken en tussen vlakken berekenen.
-Statistiek en kansrekenen, lineaire regressie en correlatie SK1 Statistische gegevens en grafische voorstellingen van statistische gegevens
-interpreteren.<br>
+ME7 Hoeken tussen rechten, tussen rechten en vlakken en tussen vlakken berekenen.*
+
+*Statistiek en kansrekenen, lineaire regressie en correlatie*<br>
+*SK1 Statistische gegevens en grafische voorstellingen van statistische gegevens interpreteren.<br>
 SK2 Aan de hand van concrete voorbeelden aangeven dat men enkel op basis van aselecte steekproeven uitspraken kan doen over de ganse populatie en dat bij elk
 statistisch experiment toeval een rol speelt.<br>
 SK3 In betekenisvolle situaties, gebruikmaken van een normale verdeling als continu model bij data met een klokvormige frequentieverdeling en het gemiddelde en de
 standaardafwijking van de gegeven data gebruiken als schatting voor het gemiddelde en de standaardafwijking van deze normale verdeling.<br>
 LR1 Bij een reeks statistische gegevens van twee variabelen op basis van een grafiek eventuele lineaire verbanden aangeven.<br>
-LR2 Bij concrete voorbeelden de betekenis van de correlatiecoëfficiënt uitleggen.
+LR2 Bij concrete voorbeelden de betekenis van de correlatiecoëfficiënt uitleggen.<br>
 LR3 Met behulp van ICT bij statistische gegevens van twee variabelen met een grote correlatie de regressielijn bepalen en hiermee interpoleren en extrapoleren.<br>
 SK7 Systematisch tellen bij het berekenen van kansen, gebruikmaken van een kansboom, de som-, en product- en complementregel voor kansen toepassen en
-herkennen wanneer gebeurtenissen onafhankelijk van elkaar zijn.<br>
+herkennen wanneer gebeurtenissen onafhankelijk van elkaar zijn.<br>*
 
 *Mathematiseren en oplossen van problemen, onderzoekscompetenties* <br>
-*MA1 Problemen herkennen, analyseren en de probleemstelling verhelderen met
-behulp van hun wiskundekennis.<br>
+*MA1 Problemen herkennen, analyseren en de probleemstelling verhelderen met behulp van hun wiskundekennis.<br>
 MA2 Heuristische methodes gebruiken om een probleem aan te pakken.<br>
 MA3 Resultaten interpreteren binnen de context van het gestelde probleem.<br>
 MA4 Een reflecterende houding verwerven door gecontroleerd terugkijken op de oplossingsweg en de uitgevoerde berekeningen.<br>
