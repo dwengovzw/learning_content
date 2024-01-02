@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# De eindtermen van vóór de hervorming en enkele leerplandoelen 
+# De eindtermen en enkele leerplandoelen van vóór de hervorming  
 
 Toen we KIKS ontwikkelden, waren de nieuwe minimudoelen nog niet in voege. We hebben destijds de toenmalige eindtermen en enkele leerplandoelen aan de leerinhouden van het KIKS=project gelinkt. 
 Deze linken kan je hier vinden.
