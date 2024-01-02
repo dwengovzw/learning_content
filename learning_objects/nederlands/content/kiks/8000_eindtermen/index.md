@@ -33,7 +33,11 @@ teacher_exclusive: true
 # Minimumdoelen en eindtermen
 
 Binnen het KIKS-project kunnen behoorlijk veel leerdoelen aan bod komen. De leerkracht bepaalt zelf welke leerdoelen in verband gebracht worden met het project.
-In de minimumdoelen en leerplannen zijn heel wat leerdoelen te vinden die KIKS linken met biologie, aardrijkskunde, chemie en wiskunde. Momenteel zijn we bezig om de linken te leggen naar de nieuwe minimumdoelen.
+In de minimumdoelen en leerplannen zijn heel wat leerdoelen te vinden die KIKS linken met **biologie, aardrijkskunde, chemie en wiskunde**. Ook aan de **STEM**-minimumdoelen kan gewerkt worden in het KIKS-project. Momenteel zijn we bezig om de linken te leggen naar de nieuwe minimumdoelen.
+
+Sommige onderdelen van KIKS sluiten aan bij de minimumdoelen van de tweede graad, andere bij die van de derde graad. 
+
+KIKS bevat ook leerinhouden die geschikt zijn om te werken aan de minimumdoelen van **mediawijsheid van de tweede graad** en de specifieke minimumdoelen van **informaticawetenschappen in de derde graad**. Mogelijk is er op jouw school al een aanzet naar deze minimumdoelen van informaticawetenschappen in de tweede graad.
 
 *De eindtermen van vóór de hervorming waarmee KIKS verband houdt en enkele van de toenmalige leerplandoelen van het GO!, het Katholiek Onderwijs Vlaanderen en het
 OVSG kan u terugvinden in het laatste onderdeel van dit leerpad.* 
