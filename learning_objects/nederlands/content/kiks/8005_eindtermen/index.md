@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen5
 version: 3
 language: nl
-title: "Bronnen"
-description: "Bronnen"
+title: "STEM"
+description: "STEM"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,12 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-#### Bronnen
-GO! (2019). Leerplannen en lessentabellen secundair onderwijs.
-Geraadpleegd op 15 oktober 2019 via
-https://pro.g-o.be/pedagogische-begeleiding-leerplannen-nascholing/leerplannen/leerplannen-so<br>
-Katholiek Onderwijs Vlaanderen. (2019). Curriculum secundair onderwijs.
-Geraadpleegd op 15 oktober 2019 via http://ond.vvkso-ict.com/lele/leerles.asp<br>
-OVSG. (2020). Secundair onderwijs.
-Geraadpleegd op 23 januari 2020 via
-https://www.ovsg.be/leerplannen/secundair-onderwijs 
+# STEM
+
+
