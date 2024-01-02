@@ -32,4 +32,4 @@ teacher_exclusive: true
 
 # STEM
 
-
+# Informaticawetenschappen en mediawijsheid
