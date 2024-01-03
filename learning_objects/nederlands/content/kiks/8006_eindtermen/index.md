@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen6
 version: 3
 language: nl
-title: "Voor de hervorming"
-description: "Voor de hervorming"
+title: "Vóór de hervorming"
+description: "Vóór de hervorming"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,8 +32,8 @@ teacher_exclusive: true
 
 # De eindtermen en enkele leerplandoelen van vóór de hervorming  
 
-Toen we KIKS ontwikkelden, waren de nieuwe minimudoelen nog niet in voege. We hebben destijds de toenmalige eindtermen en enkele leerplandoelen aan de leerinhouden van het KIKS=project gelinkt. 
-Deze linken kan je hier vinden.
+Toen we KIKS ontwikkelden, waren de nieuwe minimudoelen nog niet in voege. We hebben destijds de toenmalige eindtermen en enkele leerplandoelen aan de leerinhouden van het KIKS-project gelinkt. 
+Deze linken zijn hier opgenomen.
 
 -----
 
@@ -105,11 +105,11 @@ van de mens;<br>
 *De leerlingen verwerven vaardigheden in het inschatten en interpreteren van feiten, gegevens en situaties op basis van verworven kennis.* <br>
 *Een geïntegreerd onderzoek waarbij de leerling de drie stappen van de onderzoekscompetentie doorloopt.* <br>
 *A1 Een verscheidenheid aan ruimtelijke wetenschappen bij naam noemen en verbinden met allerlei beroepen en onderzoeksdomeinen.<br>
-A16 Aardrijkskundige gegevens opzoeken, ordenen en op eenvoudige manier verwerken, gebruikmakend van beschikbare hedendaagse informatiebronnen en -technieken.<br>
+A16 Aardrijkskundige gegevens opzoeken, ordenen en op eenvoudige manier verwerken, gebruikmakend van beschikbare hedendaagse informatiebronnen en informatietechnieken.<br>
 A16 Interactief leren. (U)*
 
 *1.2 Warmtebalans (in- en uitstraling, natuurlijk broeikaseffect).*<br>
-*2. Onderzoeken welke mechanismen op aarde zorgen voor de verspreidng van de energie van de zon binnen de atmosfeer.<br>
+*2. Onderzoeken welke mechanismen op aarde zorgen voor de verspreiding van de energie van de zon binnen de atmosfeer.<br>
 1.1 Milieuprobleem zoals broeikaseffect.<br>
 2.1 Het probleem van de wereldvoedselvoorziening in relatie met … milieuproblemen en internationale politiek.<br>
 3.2 Milieuproblemen i.v.m. gebruik van energie.<br>
@@ -119,7 +119,7 @@ A16 Interactief leren. (U)*
 8.2 Dateringstechnieken zoals pollenanalyse, varven, isotopen, dendrochronologie.* <br>
 
 **Linken met het leerplan 'Aardrijkskunde' (D/2017/13.758/010) van het Katholiek Onderwijs Vlaanderen** <br>
-*AD2 Aardrijkskundige gegevens opzoeken, ordenen en op eenvoudige manier verwerken, gebruikmakend van beschikbare actuele informatiebronnen en -technieken.<br>
+*AD2 Aardrijkskundige gegevens opzoeken, ordenen en op eenvoudige manier verwerken, gebruikmakend van beschikbare actuele informatiebronnen en informatietechnieken.<br>
 7 Argumenten aangeven die de evolutietheorie ondersteunen.<br>
 9 De belangrijkste geologische en biologische gebeurtenissen en klimaatveranderingen situeren op de geologische tijdschaal.<br>
 14 Beschrijven hoe de energie van de zon in warmte wordt omgezet.<br>
@@ -165,6 +165,7 @@ In de biologie is het vooral het proces van fotosynthese dat aan bod komt:
 - de aanpassing van planten aan de hoeveelheid CO<sub>2</sub> in de atmosfeer en de mogelijke impact op de biodiversiteit en de voedselvoorziening;<br>
 het practicum microscopie over huidmondjes;<br>
 - de aanpassing van planten aan omgevingsfactoren: droogte, temperatuur, CO<sub>2</sub>-concentratie, zon of schaduw;<br>
+
 Maar ook de verantwoordelijkheid van de consument en de producent van AI-systemen komt aan bod. Hier kan de link gelegd worden naar duurzaamheid van een systeem.<br>
 
 **Linken met het leerplan 'Biologie' (2014/005) van het GO!** <br>
@@ -185,8 +186,7 @@ aspecten van hun leven;<br>
 66 de verschillende weefsels in verband brengen met hun functie voor de plant.*
 
 **Linken met het leerplan 'Natuurwetenschappen/Biologie' (OO-2017-006) van het GO!** <br>
-*De leerlingen kunnen<br>
-het verband tussen evolutie en maatschappij illustreren gebruikmakend van actuele thema’s.*
+*De leerlingen kunnen het verband tussen evolutie en maatschappij illustreren gebruikmakend van actuele thema’s.*
 
 **Linken met het leerplan 'Biologie' (D/2014/7841/011) van het Katholiek Onderwijs Vlaanderen** <br>
 *Bij contextrijke lessen worden verbindingen gelegd tussen de leerinhoud, de leefwereld van de leerling, de actualiteit en eventueel andere vakken.<br>
@@ -516,7 +516,7 @@ van deze vraagstukken grafisch interpreteren;* <br>
 - *kunnen in betekenisvolle situaties gebruikmaken van een normale verdeling als continu model bij data met een klokvormige frequentieverdeling en het gemiddelde
 en de standaardafwijking van de gegeven data gebruiken als schatting voor het gemiddelde en de standaardafwijking van deze normale verdeling*;<br>
 - *kunnen het gemiddelde en de standaardafwijking van een normale verdeling grafisch interpreteren;*<br>
-- *kunnen gegevens van steekproeven bestaande uit koppels waarnemingsgetallen samenvatten in een tabel en grafisch voorstellen door middel van een puntenwolk;<br>
+- *kunnen gegevens van steekproeven bestaande uit koppels waarnemingsgetallen samenvatten in een tabel en grafisch voorstellen door middel van een puntenwolk;* <br>
 - *kennen de betekenis van de lineaire correlatiecoëfficiënt;* <br>
 - *kunnen met behulp van ICT de lineaire correlatiecoëfficiënt berekenen;* <br>
 - *kennen het begrip lineaire regressie;* <br>
@@ -530,8 +530,7 @@ en de standaardafwijking van de gegeven data gebruiken als schatting voor het ge
 - *bijzonderheden van grafieken, eventueel aangevuld met tabellen, aflezen, zoals het domein, de nulwaarden, het stijgen en dalen, het tekenverloop, de periodiciteit, de
 symmetrieën, de extreme waarden;* <br>
 - *aan de hand van de grafiek het stijgen/dalen en de extrema van veeltermfuncties van de eerste en tweede graad bepalen;* <br>
-veranderingen beschrijven en vergelijken met behulp van differentiequotiënten;* <br>
-- *de grafiek opbouwen van de functie f(x) = a sin(bx + c) + d en op deze grafiek de betekenis van a, b, c en d interpreteren;* <br>
+- *veranderingen beschrijven en vergelijken met behulp van differentiequotiënten;* <br>
 - *de onderstaande rekenregels toepassen: logaritme van een product, logaritme van een quotiënt, logaritme van een macht.<br>*
 
 *Kansrekening en statistiek*<br>
@@ -557,8 +556,6 @@ van de raaklijn aan de grafiek, de maat voor de ogenblikkelijke verandering;* <b
 - *kunnen de kettingregel voor het afleiden van samengestelde functies toepassen;*<br>
 - *kennen het verband tussen het tekenverloop van de eerste afgeleide en het opsporen van extrema en kunnen het verloop van een veeltermfunctie van de derde graad
 uitleggen;* <br>
-- *kunnen de grafiek opbouwen van de functie f(x) = a sin(bx + c) + d en kunnen op deze grafiek de betekenis van a, b, c en d interpreteren;<br>
-kunnen vraagstukken/problemen oplossen die aanleiding geven tot een goniometrische vergelijking of functie;*<br>
 - *kunnen de onderstaande rekenregels toepassen: logaritme van een product, logaritme van een quotiënt, logaritme van een macht, verandering van grondtal;<br>
 kunnen de afgeleide functie bepalen van logaritmische functie.<br>*
 
@@ -571,18 +568,17 @@ als gegroepeerde gegevens;* <br>
 - *kunnen in betekenisvolle situaties gebruikmaken van een normale verdeling als continu model bij data met een klokvormige frequentieverdeling en het gemiddelde
 en de standaardafwijking van de gegeven data gebruiken als schatting voor het gemiddelde en de standaardafwijking van deze normale verdeling;* <br>
 - *kunnen het gemiddelde en de standaardafwijking van een normale verdeling grafisch interpreteren;* <br>
-- *kunnen gegevens van steekproeven bestaande uit koppels waarnemingsgetallen samenvatten in een tabel en grafisch voorstellen door middel van een puntenwolk;<br>
-kennen de betekenis van de lineaire correlatiecoëfficiënt en kunnen deze berekenen met behulp van ICT;* <br>
-- *kennen het begrip lineaire regressie;<br>
+- *kunnen gegevens van steekproeven bestaande uit koppels waarnemingsgetallen samenvatten in een tabel en grafisch voorstellen door middel van een puntenwolk;*<br>
+- *kennen de betekenis van de lineaire correlatiecoëfficiënt en kunnen deze berekenen met behulp van ICT;* <br>
+- *kennen het begrip lineaire regressie;* <br>
 - *kunnen de regressiecoëfficiënten bepalen met behulp van ICT en bepalen of de gevonden regressierechte geschikt is of niet.<br>*
 
 *Matrices*<br>
-*De leerlingen<br>
-kennen de definitie van een matrix;<br>
-kennen een rijmatrix, een kolommatrix, een vierkante matrix, een driehoeksmatrix, een
-diagonaalmatrix, de eenheidsmatrix, de nulmatrix;<br>
-kunnen matrices optellen, vermenigvuldigen met een reëel getal en vermenigvuldigen;<br>
-kunnen matrices transponeren.<br>*
+*De leerlingen*<br>
+- *kennen de definitie van een matrix;* <br>
+- *kennen een rijmatrix, een kolommatrix, een vierkante matrix, een driehoeksmatrix, een diagonaalmatrix, de eenheidsmatrix, de nulmatrix;* <br>
+- *kunnen matrices optellen, vermenigvuldigen met een reëel getal en vermenigvuldigen;* <br>
+- *kunnen matrices transponeren.<br>*
 
 *Ruimtemeetkunde*<br>
 *De leerlingen*<br>
@@ -713,5 +709,7 @@ Geraadpleegd op 15 oktober 2019 via http://ond.vvkso-ict.com/lele/leerles.asp<br
 OVSG. (2020). Secundair onderwijs.
 Geraadpleegd op 23 januari 2020 via
 https://www.ovsg.be/leerplannen/secundair-onderwijs 
+
+*Deze bronnen werden ondertussen echter verwijderd op de geraadpleegde websites.*
 
 
