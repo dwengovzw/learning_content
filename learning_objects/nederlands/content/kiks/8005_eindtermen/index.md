@@ -131,17 +131,18 @@ Er wordt ruim aandacht besteed aan de bouw en werking van neurale netwerken. In 
 
 # Cesuurdoelen informaticawetenschappen
 
-**Algoritmen en programmeren** <br>
+**Algoritmen en programmeren**<br>
 *Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Bedrijfswetenschappen, Technologische wetenschappen* 
 
-*07.01.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.* <b>
+*07.01.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.* <br>
 *Onderliggende (kennis)elementen: Controlestructuren. Gebruik van softwarebibliotheken.*
 
 **Pakket uit algoritmen en programmeren** <br>
 *Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Biotechnologische STEM wetenschappen, Bouwwetenschappen*
 
-*07.02.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.*
+*07.02.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.*<br>
 *Onderliggende (kennis)elementen: Controlestructuren. Gebruik van softwarebibliotheken.*
+
 
 # Minimumdoelen Digitale competenties derde graad - Finaliteit doorstroom en dubbele finaliteit
 
@@ -166,3 +167,7 @@ Er wordt ruim aandacht besteed aan de bouw en werking van neurale netwerken. In 
 *Onderliggende (kennis)elementen: Algoritmen en datastructuren. Algoritmische technieken. Numerieke methodes. Gebruik van softwarebibliotheken. Gestructureerde programmeertaal. Invoer van en uitvoer naar externe gegevensbronnen.* <br>
 *Memorie: Algoritmische technieken zoals recursie, brute-force, gulzig (greedy), verdeel-en-heers en dynamisch programmeren. Datastructuren zoals lijst, stapel (stack), wachtrij (queue), boom, graaf, hashtabel. Externe gegevensbronnen zoals bestanden, databank, website, cloud.*
 
+-----
+
+#### Bron
+https://onderwijsdoelen.be/
