@@ -35,6 +35,8 @@ teacher_exclusive: true
 In de chemie kan de CO<sub>2</sub>-concentratie en fotosynthese gelinkt worden aan chemisch rekenen, lewisstructuren, redoxreacties, energieomzettingen, wetenschappelijke
 vaardigheden en onderzoekscompetenties.
 
+-----
+
 # Specifieke minimumdoelen chemie
 
 **Uitgebreide chemie**<br>
@@ -58,6 +60,8 @@ vaardigheden en onderzoekscompetenties.
 # KIKS en fysica
 
 In hte KIKS-project wordt er in het kader van digitale beelden ingegaan op de digitale voorstelling van kleuren aan de hand van de RGB-code. Daarbij komen elektromagenetische golven aan bod. 
+
+-----
 
 # Minimumdoelen fysica derde graad - Finaliteit doorstroom
 *06.40 De leerlingen verklaren fenomenen of toepassingen van trillingen en golven met inbegrip van geluid, de decibelschaal en het elektromagnetisch spectrum.* <br>
