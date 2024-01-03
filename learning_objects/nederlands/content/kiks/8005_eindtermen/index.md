@@ -30,7 +30,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# STEM
+# KIKS en STEM
+In het KIKS-project is een cruciale rol weggelegd voor het convolutioneel neuraal netwerk om huidmondjes op microscopische foto's van bladeren van planten te tellen.<br>
+Dit neurale netwerk is er gekomen door de samenwerking tussen experts uit verschillende disciplines: biologie en computerwetenschappen.<br> 
+Het neurale netwerk heeft wetenschappelijk onderzoek in het kader van de klimaatverandering versneld. <br>
+Om dit wetenschappelijk onderzoek en het neurale netwerk te kunnen begrijpen, moet er een beroep gedaan worden op nog meer disciplines, zolas wiskunde en aardrijkskunde.  
 
 # Minimumdoelen STEM derde graad - Finaliteit doorstroom
 
@@ -74,4 +78,32 @@ teacher_exclusive: true
 
 ------
 
-# Informaticawetenschappen en mediawijsheid
+# KIKS en digitale competenties, informaticawetenschappen en mediawijsheid
+
+In het KIKS-project gaan leerlingen aan de slag met cijferdata in de context van de klimaatverandering, met beelddata in het kader van digitale beelden, met datasets in het kader van het trainene van een neuraal netwerk ...<br>
+In het project wordt ook aandacht besteed aan de ethische aspecten die gepaard gaan met het ontwikkelen of gebruiken van AI-systemen.<br>
+Er wordt ruim aandacht besteed aan de bouw en werking van neurale netwerken. In dat kader komen heel wat fundamenten van informaticawetenschappen aan bod. 
+
+# Minimumdoelen Digitale competenties derde graad - Finaliteit doorstroom en dubbele finaliteit
+
+*04.01 De leerlingen gebruiken doelgericht courante functionaliteiten van vergelijkbare toepassingen om digitale inhouden te creëren.* <br>
+*Voetnoot: Rekening houdend met de context waarin het minimumdoel aan bod komt.* <br>
+*Memorie: De minimumdoelen voor sleutelcompetentie 4 worden bereikt op het einde van de tweede graad. Voor de derde graad volstaat het dat er verder wordt ingezet op het toepassen van de twee geformuleerde minimumdoelen rekening houdend met de context waarin de minimumdoelen aan bod komen.* <br>
+*Digitale inhouden creëren zoals in tekst-, cijfer-, geluid-, grafische, audiovisuele bestanden.*
+
+# Specifieke minimumdoelen informaticawetenschappen
+
+**Algoritmen en programmeren**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Bedrijfsondersteunende Informaticawetenschappen, Economie-Wiskunde, Grieks-Wiskunde, Informatica- en communicatiewetenschappen, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde*
+
+*07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.* <br>
+*Onderliggende (kennis)elementen: Algoritmen en datastructuren. Algoritmische technieken. Numerieke methodes. Gebruik van softwarebibliotheken. Gestructureerde programmeertaal. Invoer van en uitvoer naar externe gegevensbronnen.* <br>
+*Memorie: Algoritmische technieken zoals recursie, brute-force, gulzig (greedy), verdeel-en-heers en dynamisch programmeren. Datastructuren zoals lijst, stapel (stack), wachtrij (queue), boom, graaf, hashtabel. Externe gegevensbronnen zoals bestanden, databank, website, cloud.*
+
+**Pakket uit algoritmen en programmeren** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtwetenschappen, Mechatronica* 
+
+*07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.* <br>
+*Onderliggende (kennis)elementen: Algoritmen en datastructuren. Algoritmische technieken. Numerieke methodes. Gebruik van softwarebibliotheken. Gestructureerde programmeertaal. Invoer van en uitvoer naar externe gegevensbronnen.* <br>
+*Memorie: Algoritmische technieken zoals recursie, brute-force, gulzig (greedy), verdeel-en-heers en dynamisch programmeren. Datastructuren zoals lijst, stapel (stack), wachtrij (queue), boom, graaf, hashtabel. Externe gegevensbronnen zoals bestanden, databank, website, cloud.*
+
