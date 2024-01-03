@@ -90,4 +90,7 @@ Maar ook de verantwoordelijkheid van de consument en de producent van AI-systeme
 *08.02.04 De leerlingen leggen cellulaire processen op moleculair en subcellulair niveau uit.* <br>
 *Onderliggende (kennis)elementen: Membraantransport. Katabole en anabole processen. Fotosynthese, aërobe en anaërobe celademhaling.*
 
+-----
+#### Bronnen
 
+https://onderwijsdoelen.be/ 
