@@ -169,7 +169,7 @@ Domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema, const
 *06.05.18 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.*<br>
 *Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
 
-**Uitgebreide wiskunde*<br>
+**Uitgebreide wiskunde**<br>
 *Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Rudolf Steinerpedagogie*
 
 *06.06.03 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.*<br>
@@ -179,52 +179,33 @@ Domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema, const
 *06.06.11 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.<br>
 *Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.* 
 
+**Gevorderde wiskunde**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Economie-Wiskunde, Grieks-Wiskunde, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde*
 
+*06.08.01 De leerlingen voeren bewerkingen uit met matrices: optelling, scalaire vermenigvuldiging, matrixvermenigvuldiging, machtsverheffing en transpositie.* 
 
+*06.08.07 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.* <br>
+*Onderliggende (kennis)elementen: Veeltermfuncties, rationale functies, (elementaire) irrationale functies, logaritmische functies f(x)=loga(x), goniometrische functies f(x)=cos x en f(x)=tan x
+Domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema, constante/toenemende/afnemende stijging/daling, symmetrie, periode, amplitude, asymptotisch gedrag, gedrag op oneindig*
 
+*06.08.29 De leerlingen rekenen met vectoren in het vlak en in de ruimte.* <br>
+*Onderliggende (kennis)elementen: Bewerkingen: optelling en vermenigvuldiging met een getal en inproduct. Norm van een vector en ontbinding van een vector in zijn componenten* 
 
-*De leerlingen kunnen<br>
-15 bij veeltermfuncties de afgeleide gebruiken als maat voor de ogenblikkelijke
-verandering en het verband leggen tussen het begrip afgeleide, het begrip
-differentiequotiënt en de richting van de raaklijn aan de grafiek;<br>
-18 bij veeltermfuncties de afgeleide functie gebruiken voor het bestuderen van het
-veranderingsgedrag en voor het opzoeken of verifiëren van extreme waarden en het
-verband leggen tussen de afgeleide functie en bijzonderheden van de grafiek;<br>
-19 het begrip afgeleide herkennen in situaties buiten de wiskunde;<br>
-33 in betekenisvolle situaties gebruikmaken van een normale verdeling als continu
-model bij data met een klokvormige frequentieverdeling en het gemiddelde en de
-standaardafwijking van de gegeven data gebruiken als schatting voor het
-gemiddelde en de standaardafwijking van deze normale verdeling;<br>
-34 het gemiddelde en de standaardafwijking van een normale verdeling grafisch
-interpreteren;<br>
-35 grafisch het verband leggen tussen een normale verdeling en de
-standaardnormale verdeling.<br>*
+*06.08.34 De leerlingen lossen telproblemen op met en zonder herhaling en waarbij de volgorde al dan niet van belang is.* <br>
+*Onderliggende (kennis)elementen: Binomium van Newton, Driehoek van Pascal*
 
-_* Met het oog op de controle door de inspectie werden de attitudes met een * aangeduid in
-de kantlijn._
+*06.08.37 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.* 
 
+**Goniometrie en vectoren**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Applicatie- en databeheer, Autotechnieken, Binnenvaarttechnieken, Biotechnologische en chemische technieken, Bouwtechnieken, Crossmedia, Dentaaltechnieken, Elektromechanische technieken, Elektronicatechnieken, Elektrotechnieken, Grafimedia, Houttechnieken, Industriële ICT, Koel- en warmtetechnieken, Martitieme technieken dek, Martitieme technieken motoren, Mechanische vormgevingstechnieken, Optiektechnieken, Orthopedietechnieken, Podiumtechnieken, Vliegtuigtechnieken*
 
+*06.09.03 De leerlingen rekenen met vectoren in het vlak.* <br>
+*Onderliggende (kennis)elementen: Bewerking: optelling en vermenigvuldiging met een getal. Norm met een vector en ontbinding van een vector in zijn componenten*
 
-*Algebra, analyse, kansrekening, wiskunde en cultuur, onderzoekscompetenties*
+**Uitgebreide analyse en algebra**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Applicatie- en databeheer, Autotechnieken, Biotechnologische en chemische technieken, Bouwtechnieken, Elektromechanische technieken, Elektronicatechnieken, Elektrotechnieken, Houttechnieken, Industriële ICT, Koel- en warmtetechnieken, Mechanische vormgevingstechnieken, Podiumtechnieken, Vliegtuigtechnieken*
 
-*De leerlingen kunnen<br>
-4 met behulp van matrices problemen wiskundig modelleren en oplossen;<br>
-5 de basiseigenschappen van een reële vectorruimte (beperkt tot dimensie 2 en 3)
-herkennen en gebruiken;<br>
-8 de eerste en de tweede afgeleide van functies berekenen en ze in concrete
-situaties gebruiken;<br>
-16 wetten van de kansrekening toepassen voor onafhankelijke en voor afhankelijke
-gebeurtenissen;<br>
-19 inzicht verwerven in de bijdrage van wiskunde tot de ontwikkeling van exacte en
-humane wetenschappen, techniek, kunst en het kritische denken;<br>
-20 zich oriënteren op een onderzoeksprobleem door gericht informatie te
-verzamelen, te ordenen en te bewerken;<br>
-21 een onderzoeksopdracht met een wiskundige component voorbereiden,
-uitvoeren en evalueren;<br>
-22 de onderzoeksresultaten en conclusies rapporteren en ze confronteren met
-andere standpunten.<br>*
+*06.10.06 De leerlingen interpreteren de afgeleide als limiet van een differentiequotiënt en als richtingscoëfficiënt van de raaklijn aan de grafiek.* 
 
-
- 
-*De leerlingen<br>*
-_13 *zijn gericht op samenwerking om de eigen mogelijkheden te vergroten.<br>_
+*06.10.07 De leerlingen leggen grafisch het verband tussen een functie en haar afgeleide functie.*
