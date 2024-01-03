@@ -116,7 +116,7 @@ De leerlingen werken met KIKS aan ICT-vaardigheden, wiskundige taalvaardigheid, 
 *06.13 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.* <br>
 *Voetnoot: Rekening houdend met concepten van de derde graad.*
 
-## Specifieke minimumdoelen 
+## Specifieke minimumdoelen wiskunde
 
 **Statistiek**<br>
 *Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Freinetpedagogie, Humane wetenschappen* 
