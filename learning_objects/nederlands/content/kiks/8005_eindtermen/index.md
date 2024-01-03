@@ -36,6 +36,8 @@ Dit neurale netwerk is er gekomen door de samenwerking tussen experts uit versch
 Het neurale netwerk heeft wetenschappelijk onderzoek in het kader van de klimaatverandering versneld. <br>
 Om dit wetenschappelijk onderzoek en het neurale netwerk te kunnen begrijpen, moet er een beroep gedaan worden op nog meer disciplines, zolas wiskunde en aardrijkskunde.  
 
+-----
+
 # Minimumdoelen STEM tweede graad - Finaliteit doorstroom
 
 *06.51 De leerlingen voeren onderzoek aan de hand van een wetenschappelijke methode om kennis te ontwikkelen en om vragen te beantwoorden.* <br>
@@ -67,6 +69,8 @@ Om dit wetenschappelijk onderzoek en het neurale netwerk te kunnen begrijpen, mo
 
 *12.01.01 De leerlingen ontwikkelen een oplossing voor een probleem door STEM-disciplines geïntegreerd toe te passen.* <br>
 *Onderliggende (kennis)elementen: Interactie tussen onderzoeken en ontwikkelen. Modelleren*
+
+-----
 
 # Minimumdoelen STEM derde graad - Finaliteit doorstroom
 
