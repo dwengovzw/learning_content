@@ -57,6 +57,81 @@ In *machine learning* en *deep learning* worden wiskunde en principes uit de sta
 Het project KIKS leent zich uitstekend om in de wiskundeles in een actieve werkvorm en met ICT aan de slag te gaan.<br>
 De leerlingen werken met KIKS aan ICT-vaardigheden, wiskundige taalvaardigheid, denk-, redeneer- en onderzoeksvaardigheden en probleemoplossende vaardigheden.<br>
 
+-----
+
+# Minimumdoelen wiskunde tweede graad - Finaliteit doorstroom
+
+*06.03 De leerlingen rekenen met reële getallen.* <br>
+*Onderliggende (kennis)elementen: Optelling, aftrekking, vermenigvuldiging, deling, machtsverheffing met gehele exponenten, vierkantsworteltrekking met rekenregels en eigenschappen met symbolen. Schatting grootteorde, afronding* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.*
+
+*06.09 De leerlingen tekenen in het vlak de som van vectoren en de vermenigvuldiging van een vector met een getal.*
+
+*06.12 De leerlingen leggen uit wat een functie is en leggen het verband tussen verschillende representaties van een functie: verwoording, tabel, grafiek en voorschrift.* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.*
+
+*06.18 De leerlingen analyseren statistische gegevens aan de hand van voorstellingswijzen en centrum- en spreidingsmaten.* <br>
+*Onderliggende (kennis)elementen: Voorstellingswijzen: absolute en relatieve frequentietabel, staafdiagram, cirkeldiagram, lijndiagram, histogram en boxplot. Centrum- en spreidingsmaten: rekenkundig gemiddelde, mediaan, modus, variatiebreedte, interkwartielafstand en standaardafwijking. Misleidingen.*
+
+*06.21 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.*
+
+*06.22 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.* <br>
+*Voetnoot: Rekening houdend met concepten van de tweede graad.*
+
+*06.23 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.* <br>
+*Voetnoot: Rekening houdend met concepten van de tweede graad.*
+
+# Minimumdoelen wiskunde tweede graad - Dubbele finaliteit
+
+*06.03 De leerlingen rekenen met reële getallen.* <br>
+*Onderliggende (kennis)elementen: Optelling, aftrekking, vermenigvuldiging, deling, machtsverheffing met gehele exponenten, vierkantsworteltrekking met rekenregels en eigenschappen. Schatting grootteorde, afronding* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.*
+
+*06.16 De leerlingen analyseren statistische gegevens aan de hand van voorstellingswijzen en centrum- en spreidingsmaten.* <br>
+*Onderliggende (kennis)elementen: Voorstellingswijzen: absolute en relatieve frequentietabel, staafdiagram, cirkeldiagram, lijndiagram, histogram en boxplot. Centrum- en spreidingsmaten: rekenkundig gemiddelde, mediaan, variatiebreedte, interkwartielafstand. Misleidingen.*
+
+*06.17 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.*
+
+*06.18 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.* <br>
+*Voetnoot: Rekening houdend met concepten van de tweede graad.*
+
+*06.19 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.* <br>
+*Voetnoot: Rekening houdend met concepten van de tweede graad.*
+
+# Cesuurdoelen wiskunde
+
+**Statistiek** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Freinetpedagogie, Humane wetenschappen*
+
+*06.01.01 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+**Uitgebreide wiskunde i.f.v. wetenschappen** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Architecturale en beeldende vorming, Biotechnologische STEM wetenschappen, Biotechnologische wetenschappen, Bouwwetenschappen, Economische wetenschappen, Grieks-Latijn, Latijn, Moderne talen (tweede graad), Sportwetenschappen, Topsport-Natuurwetenschappen*
+
+*06.04.07 De leerlingen rekenen met vectoren in het vlak.* <br>
+*Onderliggende (kennis)elementen: Bewerkingen: optelling en vermenigvuldiging met een getal. Norm van een vector en ontbinding van een vector in zijn componenten*
+
+*06.04.08 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+**Uitgebreide wiskunde i.f.v. economie** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Bedrijfswetenschappen, Topsport-Economie, Yeshiva*
+
+*06.05.05 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+**Gevorderde wiskunde** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Natuurwetenschappen, Technologische wetenschappen*
+
+*06.08.07 De leerlingen rekenen met vectoren in het vlak.*
+*Onderliggende (kennis)elementen: Bewerkingen: optelling en vermenigvuldiging met een getal. Norm van een vector en ontbinding van een vector in zijn componenten*
+
+*06.08.08 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.*
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+-----
+
 # Minimumdoelen wiskunde derde graad - Finaliteit doorstroom
 
 *06.01 De leerlingen rekenen met reële getallen.*<br>
@@ -209,3 +284,8 @@ Domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema, const
 *06.10.06 De leerlingen interpreteren de afgeleide als limiet van een differentiequotiënt en als richtingscoëfficiënt van de raaklijn aan de grafiek.* 
 
 *06.10.07 De leerlingen leggen grafisch het verband tussen een functie en haar afgeleide functie.*
+
+-----
+
+#### Bron
+https://onderwijsdoelen.be/
