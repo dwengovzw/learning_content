@@ -41,6 +41,19 @@ In de biologie is het vooral het proces van fotosynthese dat aan bod komt:
 
 Maar ook de verantwoordelijkheid van de consument en de producent van AI-systemen komt aan bod. Hier kan de link gelegd worden naar duurzaamheid van een systeem. 
 
+-----
+
+# Minimumdoelen biologie tweede graad - Finaliteit doorstroom
+
+*06.27 De leerlingen leggen uit dat plantaardige en dierlijke organismen zich kunnen handhaven dankzij homeostase.*
+
+# Minimumdoelen biologie tweede graad - Dubbele finaliteit 
+
+*06.20 De leerlingen leggen aan de hand van een voorbeeld uit dat organismen zich kunnen handhaven dankzij biologische feedback.* <br>
+*Onderliggende (kennis)elementen: Functie van hormonen*
+
+-----
+
 # Minimumdoelen biologie derde graad - Finaliteit doorstroom
 
 *06.29 De leerlingen verklaren met wetenschappelijk onderbouwde argumenten biologische evolutie.* <br>
