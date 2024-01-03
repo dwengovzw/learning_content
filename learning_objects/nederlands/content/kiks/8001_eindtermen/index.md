@@ -46,7 +46,7 @@ De volgende items uit KIKS hebben een link met het vak aardrijkskunde:<br>
 - het verwerken met ICT van de data die NOAA, NASA/GIS en Scripps online ter beschikking stellen;
 - het besef dat wetenschappers van allerhande domeinen samenwerken om klimaatmodellen op te stellen.
 
-# Minimumdoelen aardrijkskunde - Finaliteit doorstroom
+# Minimumdoelen aardrijkskunde derde graad - Finaliteit doorstroom
 
 *09.06 De leerlingen lichten atmosferische processen toe aan de hand van neerslag, temperatuur en winden en de invloed van deze processen op weerpatronen.*
 
@@ -56,7 +56,7 @@ De volgende items uit KIKS hebben een link met het vak aardrijkskunde:<br>
 *Memorie: Maatregelen zoals beleidsmaatregelen van lokaal tot mondiaal niveau om in te grijpen op klimaatveranderingen op basis van IPCC-modellen zoals: Voorbeelden van adaptatie zoals infrastructuur voor het opvangen van water, groene infrastructuur in bebouwde gebieden; Voorbeelden van mitigatie zoals energietransitie, hernieuwbare vormen van energie.*
 
 
-# Minimumdoelen aardrijkskunde - Dubbele finaliteit
+# Minimumdoelen aardrijkskunde derde graad - Dubbele finaliteit
 
 *09.06 De leerlingen lichten atmosferische processen toe aan de hand van neerslag, temperatuur en winden.*
 
@@ -65,6 +65,15 @@ De volgende items uit KIKS hebben een link met het vak aardrijkskunde:<br>
 
 
 # Specifieke minimumdoelen aardrijkskunde 
+
+**Uitgebreide aardwetenschappen** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Latijn-Wetenschappen, Moderne talen-Wetenschappen, Wetenschappen-Wiskunde*
+
+*10.01.01 De leerlingen analyseren interacties in het systeem aarde aan de hand van geowetenschappelijke methodieken.* <br>
+*Memorie: Sferen zoals atmosfeer, hydrosfeer, cryosfeer, geosfeer, biosfeer, noösfeer. Interacties zoals oorzaak en gevolg, terugkoppeling, stromen van energie en materie. Geowetenschappelijke methodieken zoals absolute en relatieve datering, radiometrische datering, pollenanalyse, dendrochronologie, isotopenanalyse, varvenchronologie, geologische structuren, seismografie, teledetectie.*
+
+
+
 
 
 
