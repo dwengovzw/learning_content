@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [14, 15, 16, 17, 18]
+target_ages: [16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
