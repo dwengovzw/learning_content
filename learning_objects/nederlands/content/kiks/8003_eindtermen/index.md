@@ -54,6 +54,7 @@ vaardigheden en onderzoekscompetenties.
 
 
 -----
+
 # KIKS en fysica
 
 In hte KIKS-project wordt er in het kader van digitale beelden ingegaan op de digitale voorstelling van kleuren aan de hand van de RGB-code. Daarbij komen elektromagenetische golven aan bod. 
@@ -72,3 +73,8 @@ In hte KIKS-project wordt er in het kader van digitale beelden ingegaan op de di
 *Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Podiumtechnieken*
 
 *11.24.01 De leerlingen beschrijven de fenomenen breking, weerkaatsing, kleurmenging en schaduwvorming bij zichtbaar licht.*
+
+-----
+
+#### Bron
+https://onderwijsdoelen.be/
