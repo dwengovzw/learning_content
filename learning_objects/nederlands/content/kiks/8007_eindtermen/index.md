@@ -38,7 +38,7 @@ In het KIKS-project gaan leerlingen aan de slag met cijferdata in de context van
 In het project wordt ook aandacht besteed aan de ethische aspecten die gepaard gaan met het ontwikkelen of gebruiken van AI-systemen.  <br>
 Er wordt ruim aandacht besteed aan de bouw en werking van neurale netwerken. In dat kader komen heel wat fundamenten van informaticawetenschappen aan bod. 
 
-Meerdere leerinhouden uit het KIKS=project sluiten aan bij de eindterm van mediawijsheid en computationeel denken in de tweede graad.
+Meerdere leerinhouden uit het KIKS-project sluiten aan bij de eindterm van mediawijsheid en computationeel denken in de tweede graad.
 
 # Minimumdoelen Digitale competenties tweede graad - Mediawijsheid - Finaliteit doorstroom en dubbele finaliteit
 
