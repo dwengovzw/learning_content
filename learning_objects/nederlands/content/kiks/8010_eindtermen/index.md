@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen10
 version: 3
 language: nl
-title: "Leercompetenties, ..."
-description: "Leercompetenties, ..."
+title: "Leercompetenties"
+description: "Leercompetenties"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,27 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Mediawijsheid
+# Leercompetenties
 
-Tekst
+In het KIKS-project gaan leerlingen aan de slag met cijferdata in de context van de klimaatverandering en met beelddata in het kader van digitale beelden. Door deze data te verwerken op een bepaalde manier, verkrijgen ze informatie uit de data.  
+
+-----
+
+# Minimumdoelen Leercompetenties tweede graad - Finaliteit doorstroom en dubbele finaliteit
+
+*13.4 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.* <br>
+*Voetnoot: Rekening houdend met de ontwikkeling van leerlingen en de context waarin het minimumdoel aan bod komt.* <br>
+*Memorie: Bronnen zoals personen, digitale en niet-digitale tijdschriften, encyclopedieën, boeken, audiovisueel materiaal.*
+
+-----
+
+# Minimumdoelen Leercompetenties derde graad - Finaliteit doorstroom en dubbele finaliteit
+
+*13.4 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.* <br>
+*Voetnoot :Rekening houdend met de ontwikkeling van leerlingen en de context waarin het minimumdoel aan bod komt.* <br>
+*Memorie: Bronnen zoals personen, digitale en niet-digitale tijdschriften, encyclopedieën, boeken, audiovisueel materiaal.*
+
+-----
+
+#### Bron
+https://onderwijsdoelen.be/
