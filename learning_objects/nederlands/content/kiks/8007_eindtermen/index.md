@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# ICT en Mediawijsheid
+# Mediawijsheid
 
 # KIKS en digitale competenties, informaticawetenschappen en mediawijsheid
 
