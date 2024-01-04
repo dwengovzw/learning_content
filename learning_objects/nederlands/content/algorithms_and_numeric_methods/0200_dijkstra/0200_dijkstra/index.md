@@ -1,5 +1,5 @@
 ---
-hruid: anm_1100
+hruid: anm_0200
 version: 3
 language: nl
 title: "Algoritme van Dijkstra en A*-algoritme"
