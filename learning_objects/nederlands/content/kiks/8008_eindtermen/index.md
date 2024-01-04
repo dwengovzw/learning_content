@@ -1,5 +1,5 @@
 ---
-hruid: kiks_eindtermen6
+hruid: kiks_eindtermen8
 version: 3
 language: nl
 title: "Vóór de hervorming"
