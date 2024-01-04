@@ -145,6 +145,21 @@
     {
       "learningobject_hruid": "kiks_eindtermen9",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "kiks_eindtermen10",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "kiks_eindtermen10",
+      "version": "3",
       "language": "nl"
     } 
   ]
