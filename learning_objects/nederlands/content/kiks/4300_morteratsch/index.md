@@ -33,4 +33,8 @@ teacher_exclusive: true
 # Morteratschgletsjer
 Ga aan de slag met echte data van de Zwitserse Morteratschgletjser en merk de invloed van de klimaatverandering op. 
 
+Ga op zoek naar een best passende rechte of kromme bij de data.
+
+Maak net zoals de computerwetenschappers gebruik van training- en testdata.
+
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1930 "Morteratsch gletsjer")
