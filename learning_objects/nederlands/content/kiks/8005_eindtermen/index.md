@@ -2,8 +2,8 @@
 hruid: kiks_eindtermen5
 version: 3
 language: nl
-title: "STEM"
-description: "STEM"
+title: "Wiskunde"
+description: "Wiskunde"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,147 +29,261 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+# KIKS en wiskunde
 
-# KIKS en STEM
-In het KIKS-project is een cruciale rol weggelegd voor het convolutioneel neuraal netwerk om huidmondjes op microscopische foto's van bladeren van planten te tellen.<br>
-Dit neurale netwerk is er gekomen door de samenwerking tussen experts uit verschillende disciplines: biologie en computerwetenschappen.<br> 
-Het neurale netwerk heeft wetenschappelijk onderzoek in het kader van de klimaatverandering versneld. <br>
-Om dit wetenschappelijk onderzoek en het neurale netwerk te kunnen begrijpen, moet er een beroep gedaan worden op nog meer disciplines, zolas wiskunde en aardrijkskunde.  
+In *machine learning* en *deep learning* worden wiskunde en principes uit de statistiek gebruikt:<br>
+- matrices, indices, dimensie van een matrix en eigenschappen van matrices;<br>
+- bewerkingen met matrices en eigenschappen van bewerkingen met matrices;<br>
+- sommatieteken;<br>
+- verloop van functies bij de grafieken over CO<sub>2</sub> , gletsjers... en metrics van neurale netwerken;<br>
+- veeltermfuncties bij regressie;<br>
+- functies met meervoudig voorschrift, bv. ReLU, sign, Heaviside;<br>
+- toepassing van logistieke functie bij de sigmoïde als activatiefunctie;<br>
+- maken en interpreteren van grafieken;<br>
+- toepassing van telproblemen, bv. byte, aantal hyperparameters;<br>
+- toepassing formule oppervlakte van een ellips;<br>
+- lokaal en globaal minimum van een functie bij gradient descent;<br>
+- afgeleiden en kettingregel bij gradient descent;<br>
+- kansrekenen (onafhankelijke kansen - productregel) bij binary cross-entropy;<br>
+- eigenschappen van logaritmen bij binary cross-entropy;<br>
+- statistiek: belang van standaardiseren, gemiddelde en standaardafwijking, Z-score;<br>
+- correlatie en regressie;<br>
+- methode van de kleinste kwadraten;<br>
+- voorbeelden van een normale en een scheve verdeling bij de verdeling van kleurintensiteit in een grijswaardenafbeelding;<br>
+- wiskunde toegepast in digitale beeldverwerking, RGB-code;<br>
+- convolutiebewerking;<br>
+- vectoren bij het Perceptron.
 
------
-
-# Minimumdoelen STEM tweede graad - Finaliteit doorstroom
-
-*06.51 De leerlingen voeren onderzoek aan de hand van een wetenschappelijke methode om kennis te ontwikkelen en om vragen te beantwoorden.* <br>
-*Voetnoot: Rekening houdend met concepten van de tweede graad.*
-
-*06.52 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.* <br>
-*Voetnoot: Rekening houdend met concepten van de tweede graad en de context waarin dit minimumdoel aan bod komt.*<br>
-*Memorie: STEM betekent per definitie dat je geïntegreerd denkt. De mate van integratie is afhankelijk van het probleem. Ook niet-STEM-disciplines kunnen aan bod komen.*
-
-*06.53 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.* <br>
-*Voetnoot: Rekening houdend met de context waarin dit minimumdoel aan bod komt.* 
-
-# Minimumdoelen STEM tweede graad - Dubbele finaliteit
-
-*06.35 De leerlingen voeren onderzoek aan de hand van een wetenschappelijke methode om kennis te ontwikkelen en om vragen te beantwoorden.* <br>
-*Voetnoot: Rekening houdend met concepten van de tweede graad.*
-
-*06.36 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.* <br>
-*Voetnoot: Rekening houdend met concepten van de tweede graad en de context waarin dit minimumdoel aan bod komt.*<br>
-*Memorie: STEM betekent per definitie dat je geïntegreerd denkt. De mate van integratie is afhankelijk van het probleem. Ook niet-STEM-disciplines kunnen aan bod komen.*
-
-*06.37 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.* <br>
-*Voetnoot: Rekening houdend met de context waarin dit minimumdoel aan bod komt.* 
-
-# Cesuurdoelen STEM
-
-**STEM - Engineering** <br>
-*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Binnenvaarttechnieken, Biotechnieken, Biotechnologische STEM wetenschappen, Biotechnologische wetenschappen, Bouwtechnieken, Bouwwetenschappen, Elektromechanische technieken, Elektrotechnieken, Houttechnieken, Martitieme technieken dek, Martitieme technieken motoren, Mechanische technieken, Technologische wetenschappen, Textielontwerp en prototyping, Textielproductietechnieken, Voertuigtechnieken*
-
-*12.01.01 De leerlingen ontwikkelen een oplossing voor een probleem door STEM-disciplines geïntegreerd toe te passen.* <br>
-*Onderliggende (kennis)elementen: Interactie tussen onderzoeken en ontwikkelen. Modelleren*
+Het project KIKS leent zich uitstekend om in de wiskundeles in een actieve werkvorm en met ICT aan de slag te gaan.<br>
+De leerlingen werken met KIKS aan ICT-vaardigheden, wiskundige taalvaardigheid, denk-, redeneer- en onderzoeksvaardigheden en probleemoplossende vaardigheden.<br>
 
 -----
 
-# Minimumdoelen STEM derde graad - Finaliteit doorstroom
+# Minimumdoelen wiskunde tweede graad - Finaliteit doorstroom
 
-*06.44 De leerlingen voeren onderzoek aan de hand van een wetenschappelijke methode om kennis te ontwikkelen en om vragen te beantwoorden.* <br>
+*06.03 De leerlingen rekenen met reële getallen.* <br>
+*Onderliggende (kennis)elementen: Optelling, aftrekking, vermenigvuldiging, deling, machtsverheffing met gehele exponenten, vierkantsworteltrekking met rekenregels en eigenschappen met symbolen. Schatting grootteorde, afronding* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.*
+
+*06.09 De leerlingen tekenen in het vlak de som van vectoren en de vermenigvuldiging van een vector met een getal.*
+
+*06.12 De leerlingen leggen uit wat een functie is en leggen het verband tussen verschillende representaties van een functie: verwoording, tabel, grafiek en voorschrift.* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.*
+
+*06.18 De leerlingen analyseren statistische gegevens aan de hand van voorstellingswijzen en centrum- en spreidingsmaten.* <br>
+*Onderliggende (kennis)elementen: Voorstellingswijzen: absolute en relatieve frequentietabel, staafdiagram, cirkeldiagram, lijndiagram, histogram en boxplot. Centrum- en spreidingsmaten: rekenkundig gemiddelde, mediaan, modus, variatiebreedte, interkwartielafstand en standaardafwijking. Misleidingen.*
+
+*06.21 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.*
+
+*06.22 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.* <br>
+*Voetnoot: Rekening houdend met concepten van de tweede graad.*
+
+*06.23 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.* <br>
+*Voetnoot: Rekening houdend met concepten van de tweede graad.*
+
+# Minimumdoelen wiskunde tweede graad - Dubbele finaliteit
+
+*06.03 De leerlingen rekenen met reële getallen.* <br>
+*Onderliggende (kennis)elementen: Optelling, aftrekking, vermenigvuldiging, deling, machtsverheffing met gehele exponenten, vierkantsworteltrekking met rekenregels en eigenschappen. Schatting grootteorde, afronding* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.*
+
+*06.16 De leerlingen analyseren statistische gegevens aan de hand van voorstellingswijzen en centrum- en spreidingsmaten.* <br>
+*Onderliggende (kennis)elementen: Voorstellingswijzen: absolute en relatieve frequentietabel, staafdiagram, cirkeldiagram, lijndiagram, histogram en boxplot. Centrum- en spreidingsmaten: rekenkundig gemiddelde, mediaan, variatiebreedte, interkwartielafstand. Misleidingen.*
+
+*06.17 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.*
+
+*06.18 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.* <br>
+*Voetnoot: Rekening houdend met concepten van de tweede graad.*
+
+*06.19 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.* <br>
+*Voetnoot: Rekening houdend met concepten van de tweede graad.*
+
+# Cesuurdoelen wiskunde
+
+**Statistiek** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Freinetpedagogie, Humane wetenschappen*
+
+*06.01.01 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+**Uitgebreide wiskunde i.f.v. wetenschappen** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Architecturale en beeldende vorming, Biotechnologische STEM wetenschappen, Biotechnologische wetenschappen, Bouwwetenschappen, Economische wetenschappen, Grieks-Latijn, Latijn, Moderne talen (tweede graad), Sportwetenschappen, Topsport-Natuurwetenschappen*
+
+*06.04.07 De leerlingen rekenen met vectoren in het vlak.* <br>
+*Onderliggende (kennis)elementen: Bewerkingen: optelling en vermenigvuldiging met een getal. Norm van een vector en ontbinding van een vector in zijn componenten*
+
+*06.04.08 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+**Uitgebreide wiskunde i.f.v. economie** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Bedrijfswetenschappen, Topsport-Economie, Yeshiva*
+
+*06.05.05 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+**Gevorderde wiskunde** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Natuurwetenschappen, Technologische wetenschappen*
+
+*06.08.07 De leerlingen rekenen met vectoren in het vlak.*
+*Onderliggende (kennis)elementen: Bewerkingen: optelling en vermenigvuldiging met een getal. Norm van een vector en ontbinding van een vector in zijn componenten*
+
+*06.08.08 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.*
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+-----
+
+# Minimumdoelen wiskunde derde graad - Finaliteit doorstroom
+
+*06.01 De leerlingen rekenen met reële getallen.*<br>
+*Onderliggende (kennis)elementen: Machten met rationale exponent, n-de machtswortels en logaritmen met willekeurig grondtal met rekenregels en eigenschappen met symbolen*<br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.* 
+
+*06.02 De leerlingen brengen met behulp van de grafiek, kenmerken van een functie in verband met de betekenisvolle situatie die door de functie beschreven wordt.* <br>
+*Memorie: Kenmerken van een functie zoals domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema,  constante/toenemende/afnemende stijging/daling, symmetrie, periode, verticale/horizontale asymptoten, gedrag op oneindig.* 
+
+*06.03 De leerlingen interpreteren de afgeleide als limiet van een differentiequotiënt en als richtingscoëfficiënt van de raaklijn aan de grafiek.* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.* 
+
+*06.05 De leerlingen analyseren kenmerken van de functie f(x)=a^x: domein, bereik, stijgen/dalen, toenemende stijging/afnemende daling, horizontale asymptoot en gedrag op oneindig.* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.* 
+
+*06.13 De leerlingen bepalen kansen met behulp van kruistabellen, boomdiagrammen en de wet van Laplace.* <br>
+*Onderliggende (kennis)elementen: Verband tussen relatieve frequentie en kans* 
+
+*06.15 De leerlingen leggen in concrete situaties het verschil uit tussen samenhang en causaliteit.* 
+
+*06.16 De leerlingen gebruiken de normale verdeling als continu model bij gegeven data.* <br>
+*Onderliggende (kennis)elementen: Grafische beoordeling van de toepasbaarheid van het model. Rekenkundig gemiddelde en de standaardafwijking van de gegeven data als schatting voor de parameters van het model. Grafische betekenis van gemiddelde en standaardafwijking van een normaal verdeelde kansvariabele in termen van de Gausskromme.* 
+
+*06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.* 
+
+*06.20 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.* <br>
 *Voetnoot: Rekening houdend met concepten van de derde graad.*
 
-*06.45 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.* <br>
-*Voetnoot: Rekening houdend met concepten van de derde graad en de context waarin dit minimumdoel aan bod komt.* <br>
-*Memorie: STEM betekent per definitie dat je geïntegreerd denkt. De mate van integratie is afhankelijk van het probleem. Ook niet-STEM-disciplines kunnen aan bod komen.*
-
-*06.46 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.* <br>
-*Voetnoot: Rekening houdend met de context waarin dit minimumdoel aan bod komt.*
-
-# Minimumdoelen STEM derde graad - Dubbele finaliteit
-
-*06.25 De leerlingen voeren onderzoek aan de hand van een wetenschappelijke methode om kennis te ontwikkelen en om vragen te beantwoorden.* <br>
+*06.21 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.* <br>
 *Voetnoot: Rekening houdend met concepten van de derde graad.*
 
-*06.26 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.* <br>
-*Voetnoot: Rekening houdend met concepten van de derde graad en de context waarin dit minimumdoel aan bod komt.* <br>
-*Memorie: STEM betekent per definitie dat je geïntegreerd denkt. De mate van integratie is afhankelijk van het probleem. Ook niet-STEM-disciplines kunnen aan bod komen.*
+# Minimumdoelen wiskunde derde graad - Dubbele finaliteit
 
-*06.27 De leerlingen illustreren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.* <br>
-*Voetnoot: Rekening houdend met de context waarin dit minimumdoel aan bod komt.*
+*06.01 De leerlingen rekenen met reële getallen.*<br>
+*Onderliggende (kennis)elementen: Machten met rationale exponent, n-de machtswortels en logaritmen met willekeurig grondtal met rekenregels en eigenschappen met symbolen*<br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.* 
 
-# Specifieke minimumdoelen STEM
+*06.02 De leerlingen brengen met behulp van de grafiek, kenmerken van een functie in verband met de betekenisvolle situatie die door de functie beschreven wordt.* <br>
+*Memorie: Kenmerken van een functie zoals domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema,  constante/toenemende/afnemende stijging/daling, symmetrie, periode, verticale/horizontale asymptoten, gedrag op oneindig.* 
 
-**STEM - Engineering** <br>
-*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Autotechnieken, Binnenvaarttechnieken, Biotechnologische en chemische STEM-wetenschappen, Biotechnologische en chemische technieken, Biotechnologische en chemische wetenschappen, Bouw- en houtwetenschappen, Dentaaltechnieken, Elektromechanische technieken, Elektronicatechnieken, Elektrotechnieken, Houttechnieken, Industriële ICT, Informatica- en communicatiewetenschappen, Koel- en warmtetechnieken, Martitieme technieken dek, Martitieme technieken motoren, Mechanische vormgevingstechnieken, Mechatronica, Optiektechnieken, Orthopedietechnieken, Podiumtechnieken, Technologische wetenschappen en engineering, Textielontwerp en prototyping, Textielproductietechnieken, Vliegtuigtechnieken*
+*06.03 De leerlingen bepalen en vergelijken gemiddelde veranderingen over intervallen met behulp van differentiequotiënten.* <br>
+*Memorie: Het is aangewezen om zowel met als zonder context te werken. Werken met contexten kan leerlingen immers motiveren. Wiskunde leren met en zonder contexten is belangrijk om kennis en vaardigheden te transfereren naar gelijkaardige en naar nieuwe situaties.*
 
-*12.01.01 De leerlingen ontwikkelen een oplossing voor een probleem door STEM-disciplines geïntegreerd toe te passen.* <br>
-*Onderliggende (kennis)elementen: Interactie tussen onderzoeken en ontwikkelen. Modelleren.* <br>
-*Memorie: Het probleem kan een maatschappelijk probleem, een probleem uit de leefwereld van de leerlingen of een probleem gelinkt aan de context van de studierichting zijn waarbij STEM-disciplines een oplossing zouden kunnen genereren. Interactie tussen onderzoeken en ontwikkelen: bij het ontwikkelen van een oplossing van een probleem nemen de leerlingen een onderzoekende houding aan.*
+*06.06 De leerlingen bepalen kansen met behulp van boomdiagrammen en de wet van Laplace.* <br>
+*Onderliggende (kennis)elementen: Verband tussen relatieve frequentie en kans*
 
-**Onderzoeksvaardigheden wetenschappen**<br>
-*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Latijn-Wetenschappen, Moderne talen-Wetenschappen, Sportwetenschappen, Wetenschappen-Wiskunde*
+*06.08 De leerlingen leggen in concrete situaties het verschil uit tussen samenhang en causaliteit.*
 
-*12.02.01 De leerlingen voeren onderzoek aan de hand van een wetenschappelijke methode om vragen te beantwoorden en oplossingen te ontwerpen.*<br>
-*Onderliggende (kennis)elementen: Interactie tussen onderzoeken en ontwerpen. Labovaardigheden.* <br>
-*Voetnoot: Rekening houdend met concepten en vaardigheden uit de wetenschapsdomeinen Biologie, Chemie, Fysica of Wiskunde.*
+*06.09 De leerlingen gebruiken de normale verdeling als continu model bij gegeven data.* <br>
+*Onderliggende (kennis)elementen: Grafische beoordeling van de toepasbaarheid van het model. Rekenkundig gemiddelde en de standaardafwijking van de gegeven data als schatting voor de parameters van het model. Grafische betekenis van gemiddelde en standaardafwijking van een normaal verdeelde kansvariabele in termen van de Gausskromme.* 
 
-------
+*06.11 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.* 
 
-# KIKS en digitale competenties, informaticawetenschappen en mediawijsheid
+*06.12 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.* <br>
+*Voetnoot: Rekening houdend met concepten van de derde graad.*
 
-In het KIKS-project gaan leerlingen aan de slag met cijferdata in de context van de klimaatverandering, met beelddata in het kader van digitale beelden, met datasets in het kader van het trainene van een neuraal netwerk ...<br>
-In het project wordt ook aandacht besteed aan de ethische aspecten die gepaard gaan met het ontwikkelen of gebruiken van AI-systemen.<br>
-Er wordt ruim aandacht besteed aan de bouw en werking van neurale netwerken. In dat kader komen heel wat fundamenten van informaticawetenschappen aan bod. 
+*06.13 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.* <br>
+*Voetnoot: Rekening houdend met concepten van de derde graad.*
 
-# Minimumdoelen Digitale competenties tweede graad - Finaliteit doorstroom en dubbele finaliteit
+## Specifieke minimumdoelen wiskunde
 
-*04.02 De leerlingen gebruiken doelgericht courante functionaliteiten van vergelijkbare toepassingen om digitale inhouden te creëren.* <br>
-*Voetnoot: Rekening houdend met de context waarin het minimumdoel aan bod komt.* <br>
-*Memorie: Digitale inhouden creëren zoals in tekst-, cijfer-, geluid-, grafische, audiovisuele bestanden.*
+**Statistiek**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Freinetpedagogie, Humane wetenschappen* 
 
-*04.03 De leerlingen gebruiken doelgericht courante functionaliteiten van vergelijkbare toepassingen om digitale inhouden te beheren.* <br>
-*Memorie: Digitale inhouden beheren zoals met behulp van informatiedragers zoals interne en externe opslag; met behulp van ordeningstechnieken zoals mappenstructuur, ordening op thema.*
+*06.01.06 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.* 
 
-*04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.* <br>
-*Memorie: De impact van digitale systemen op de maatschappij vanuit principes van computationeel denken zoals algoritmes die digitale platformen gebruiken bij het selecteren en presenteren van informatie aan gebruikers; het verzamelen van persoonlijke informatie van gebruikers en die (mis)(ge)bruiken voor eigen doeleinden; het beïnvloeden van de keuzes van gebruikers (vb. gepersonaliseerd aanbod, gepersonaliseerde reclame); het beïnvloeden van de blik op de wereld/opinie van gebruikers; het nemen van beslissingen over gebruikers (vb. over kredietaanvragen, sollicitaties, verzekeringen); het creëren van taalinteractie met behulp van artificiële intelligentie (chatbot); het creëren van kunst (beelden, muziek, poëzie, andere kunstvormen) met behulp van artificiële intelligentie; medische beeldvorming om op basis van een eerste scan eventuele afwijkingen te melden aan artsen.* <br>
-*Principes van computationeel denken zoals decompositie, patroonherkenning, abstractie en algoritmen.*
+**Pakket uit statistiek**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Welzijnswetenschappen* 
 
-# Cesuurdoelen informaticawetenschappen
+*06.02.02 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.* 
 
-**Algoritmen en programmeren**<br>
-*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Bedrijfswetenschappen, Technologische wetenschappen* 
+**Beschrijvende statistiek**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Biotechnologische en chemische technieken* 
 
-*07.01.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.* <br>
-*Onderliggende (kennis)elementen: Controlestructuren. Gebruik van softwarebibliotheken.*
+*06.03.01 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
 
-**Pakket uit algoritmen en programmeren** <br>
-*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Biotechnologische STEM wetenschappen, Bouwwetenschappen*
+**Uitgebreide wiskunde i.f.v. wetenschappen** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Architecturale vorming, Biotechnologische en chemische STEM-wetenschappen, Biotechnologische en chemische wetenschappen,
+Bouw- en houtwetenschappen, Informatica- en communicatiewetenschappen, Latijn-Wetenschappen, Mechatronica, Moderne talen-Wetenschappen, Sportwetenschappen, Topsport-Wetenschappen* 
 
-*07.02.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.*<br>
-*Onderliggende (kennis)elementen: Controlestructuren. Gebruik van softwarebibliotheken.*
+*06.04.01 De leerlingen voeren bewerkingen uit met matrices: optelling, scalaire vermenigvuldiging, matrixvermenigvuldiging, machtsverheffing en transpositie.*
 
+*06.04.06 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.* <br>
+*Onderliggende (kennis)elementen: Veeltermfuncties, (elementaire) rationale functies, (elementaire) irrationale functies, logaritmische functies f(x)=loga(x), goniometrische functie f(x)=cos x
+Domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema, constante/toenemende/afnemende stijging/daling, periode, amplitude, asymptotisch gedrag, gedrag op oneindig*
 
-# Minimumdoelen Digitale competenties derde graad - Finaliteit doorstroom en dubbele finaliteit
+*06.04.12 De leerlingen berekenen de afgeleide functie van functies die zijn opgebouwd uit veeltermfuncties, rationale functies, exponentiële functies, logaritmische functies en goniometrische functies.* <br>
+*Onderliggende (kennis)elementen: Rekenregels: afgeleide van een som, product, quotiënt van functies en afgeleide van een samengestelde functie (kettingregel)* 
 
-*04.01 De leerlingen gebruiken doelgericht courante functionaliteiten van vergelijkbare toepassingen om digitale inhouden te creëren.* <br>
-*Voetnoot: Rekening houdend met de context waarin het minimumdoel aan bod komt.* <br>
-*Memorie: De minimumdoelen voor sleutelcompetentie 4 worden bereikt op het einde van de tweede graad. Voor de derde graad volstaat het dat er verder wordt ingezet op het toepassen van de twee geformuleerde minimumdoelen rekening houdend met de context waarin de minimumdoelen aan bod komen.* <br>
-*Digitale inhouden creëren zoals in tekst-, cijfer-, geluid-, grafische, audiovisuele bestanden.*
+*06.04.24 De leerlingen rekenen met vectoren in het vlak.*
+*Onderliggende (kennis)elementen: Bewerkingen: optelling en vermenigvuldiging met een getal. Norm van een vector en ontbinding van een vector in zijn componenten.* 
 
-# Specifieke minimumdoelen informaticawetenschappen
+*06.04.26 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.* 
 
-**Algoritmen en programmeren**<br>
-*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Bedrijfsondersteunende Informaticawetenschappen, Economie-Wiskunde, Grieks-Wiskunde, Informatica- en communicatiewetenschappen, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde*
+**Uitgebreide wiskunde i.f.v. economie**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Bedrijfsondersteunende Informaticawetenschappen, Bedrijfswetenschappen, Economie-Moderne talen, Topsport-Bedrijfswetenschappen, Topsport-Economie, Yeshiva*
 
-*07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.* <br>
-*Onderliggende (kennis)elementen: Algoritmen en datastructuren. Algoritmische technieken. Numerieke methodes. Gebruik van softwarebibliotheken. Gestructureerde programmeertaal. Invoer van en uitvoer naar externe gegevensbronnen.* <br>
-*Memorie: Algoritmische technieken zoals recursie, brute-force, gulzig (greedy), verdeel-en-heers en dynamisch programmeren. Datastructuren zoals lijst, stapel (stack), wachtrij (queue), boom, graaf, hashtabel. Externe gegevensbronnen zoals bestanden, databank, website, cloud.*
+*06.05.01 De leerlingen voeren bewerkingen uit met matrices: optelling, scalaire vermenigvuldiging, matrixvermenigvuldiging, machtsverheffing en transpositie.*
 
-**Pakket uit algoritmen en programmeren** <br>
-*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Biotechnologische en chemische STEM-wetenschappen, Bouw- en houtwetenschappen, Mechatronica* 
+*06.05.06 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.*<br>
+*Onderliggende (kennis)elementen: Veeltermfuncties, (elementaire) rationale functies, (elementaire) irrationale functies, logaritmische functies f(x)=loga(x). Domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema, constante/toenemende/afnemende stijging/daling, asymptotisch gedrag, gedrag op oneindig.* 
 
-*07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.* <br>
-*Onderliggende (kennis)elementen: Algoritmen en datastructuren. Algoritmische technieken. Numerieke methodes. Gebruik van softwarebibliotheken. Gestructureerde programmeertaal. Invoer van en uitvoer naar externe gegevensbronnen.* <br>
-*Memorie: Algoritmische technieken zoals recursie, brute-force, gulzig (greedy), verdeel-en-heers en dynamisch programmeren. Datastructuren zoals lijst, stapel (stack), wachtrij (queue), boom, graaf, hashtabel. Externe gegevensbronnen zoals bestanden, databank, website, cloud.*
+*06.05.12 De leerlingen berekenen de afgeleide functie van functies die zijn opgebouwd uit veeltermfuncties, rationale functies, exponentiële functies en logaritmische functies.*<br>
+*Onderliggende (kennis)elementen: Rekenregels: afgeleide van een som, product, quotiënt van functies en afgeleide van een samengestelde functie (kettingregel)*
+
+*06.05.18 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.*<br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.*
+
+**Uitgebreide wiskunde**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Rudolf Steinerpedagogie*
+
+*06.06.03 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.*<br>
+*Onderliggende (kennis)elementen: Veeltermfuncties, (elementaire) rationale functies, (elementaire) irrationale functies, logaritmische functies f(x)=loga(x), goniometrische functie f(x)=cos x
+Domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema, constante/toenemende/afnemende stijging/daling, periode, amplitude, asymptotisch gedrag, gedrag op oneindig**
+
+*06.06.11 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.<br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.* 
+
+**Gevorderde wiskunde**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Economie-Wiskunde, Grieks-Wiskunde, Latijn-Wiskunde, Technologische wetenschappen en engineering, Wetenschappen-Wiskunde*
+
+*06.08.01 De leerlingen voeren bewerkingen uit met matrices: optelling, scalaire vermenigvuldiging, matrixvermenigvuldiging, machtsverheffing en transpositie.* 
+
+*06.08.07 De leerlingen leggen het verband tussen de grafiek van een functie en haar kenmerken.* <br>
+*Onderliggende (kennis)elementen: Veeltermfuncties, rationale functies, (elementaire) irrationale functies, logaritmische functies f(x)=loga(x), goniometrische functies f(x)=cos x en f(x)=tan x
+Domein, bereik, nulwaarden, tekenverloop, stijgen/dalen/constant, extrema, constante/toenemende/afnemende stijging/daling, symmetrie, periode, amplitude, asymptotisch gedrag, gedrag op oneindig*
+
+*06.08.29 De leerlingen rekenen met vectoren in het vlak en in de ruimte.* <br>
+*Onderliggende (kennis)elementen: Bewerkingen: optelling en vermenigvuldiging met een getal en inproduct. Norm van een vector en ontbinding van een vector in zijn componenten* 
+
+*06.08.34 De leerlingen lossen telproblemen op met en zonder herhaling en waarbij de volgorde al dan niet van belang is.* <br>
+*Onderliggende (kennis)elementen: Binomium van Newton, Driehoek van Pascal*
+
+*06.08.37 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.* <br>
+*Onderliggende (kennis)elementen: Trendlijn. Correlatiecoëfficiënt.* 
+
+**Goniometrie en vectoren**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Applicatie- en databeheer, Autotechnieken, Binnenvaarttechnieken, Biotechnologische en chemische technieken, Bouwtechnieken, Crossmedia, Dentaaltechnieken, Elektromechanische technieken, Elektronicatechnieken, Elektrotechnieken, Grafimedia, Houttechnieken, Industriële ICT, Koel- en warmtetechnieken, Martitieme technieken dek, Martitieme technieken motoren, Mechanische vormgevingstechnieken, Optiektechnieken, Orthopedietechnieken, Podiumtechnieken, Vliegtuigtechnieken*
+
+*06.09.03 De leerlingen rekenen met vectoren in het vlak.* <br>
+*Onderliggende (kennis)elementen: Bewerking: optelling en vermenigvuldiging met een getal. Norm met een vector en ontbinding van een vector in zijn componenten*
+
+**Uitgebreide analyse en algebra**<br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Applicatie- en databeheer, Autotechnieken, Biotechnologische en chemische technieken, Bouwtechnieken, Elektromechanische technieken, Elektronicatechnieken, Elektrotechnieken, Houttechnieken, Industriële ICT, Koel- en warmtetechnieken, Mechanische vormgevingstechnieken, Podiumtechnieken, Vliegtuigtechnieken*
+
+*06.10.06 De leerlingen interpreteren de afgeleide als limiet van een differentiequotiënt en als richtingscoëfficiënt van de raaklijn aan de grafiek.* 
+
+*06.10.07 De leerlingen leggen grafisch het verband tussen een functie en haar afgeleide functie.*
 
 -----
 

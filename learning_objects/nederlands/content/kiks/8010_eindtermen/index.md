@@ -1,9 +1,9 @@
 ---
-hruid: kiks_eindtermen7
+hruid: kiks_eindtermen10
 version: 3
 language: nl
-title: "Mediawijsheid"
-description: "Mediawijsheid"
+title: "Leercompetenties, ..."
+description: "Leercompetenties, ..."
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
