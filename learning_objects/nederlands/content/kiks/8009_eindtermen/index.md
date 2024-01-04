@@ -1,5 +1,5 @@
 ---
-hruid: kiks_eindtermen8
+hruid: kiks_eindtermen9
 version: 3
 language: nl
 title: "Leercompetenties, ..."

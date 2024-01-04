@@ -1,5 +1,5 @@
 ---
-hruid: kiks_eindtermen5
+hruid: kiks_eindtermen6
 version: 3
 language: nl
 title: "Mediawijsheid"

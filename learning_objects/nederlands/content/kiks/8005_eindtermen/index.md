@@ -1,5 +1,5 @@
 ---
-hruid: kiks_eindtermen7
+hruid: kiks_eindtermen5
 version: 3
 language: nl
 title: "STEM"
