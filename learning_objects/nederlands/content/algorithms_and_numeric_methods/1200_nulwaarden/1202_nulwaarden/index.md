@@ -2,7 +2,7 @@
 hruid: anm_1202
 version: 3
 language: nl
-title: "Tweede nb"
+title: "Methode van Newtonh"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
@@ -30,6 +30,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Nulwaarden 
+# Methode van Newton
+
+In een tweede notebook leer je de nulpunten van een continue functie benaderen aan de hand van de methode van Newton.
 
 In de tweede notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, continue functie, functiewaarde, afgeleide functie, raaklijn, richtingscoëfficiënt, snijpunt van de grafiek van een functie met de x-as.
