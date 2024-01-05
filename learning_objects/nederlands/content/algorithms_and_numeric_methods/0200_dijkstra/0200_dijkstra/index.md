@@ -2,8 +2,8 @@
 hruid: anm_0200
 version: 3
 language: nl
-title: "Algoritme van Dijkstra en A*-algoritme"
-description: "Algoritme van Dijkstra"
+title: "Voorkennis"
+description: "Voorkennis"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,6 +29,8 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
+
+**Voorkennis:** De leerlingen weten wat een graaf, knopen en bogen zijn. Hier komt een nieuw type van grafen op de proppen, nl. de gewogen graaf. 
 
 # Algoritme van Dijkstra en A*-algoritme
 
