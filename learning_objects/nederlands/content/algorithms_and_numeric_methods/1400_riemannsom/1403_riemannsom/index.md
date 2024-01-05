@@ -3,7 +3,7 @@ hruid: anm_1403
 version: 3
 language: nl
 title: "Minimumdoelen"
-description: "Riemannsom"
+description: "Minimumdoelen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,9 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# De Riemannsom en de trapeziummethode
+# Verband met minimumdoelen informaticawetenschappen
 
-**Verband met minimumdoelen informaticawetenschappen**
-
-In deze notebooks leer je a.d.h.v. een numerieke methode een oppervlakte benaderen. 
+In dit leerpad leer je a.d.h.v. een numerieke methode een oppervlakte benaderen. 
 
