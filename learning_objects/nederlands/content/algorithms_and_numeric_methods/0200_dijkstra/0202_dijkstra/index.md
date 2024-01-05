@@ -2,8 +2,8 @@
 hruid: anm_0202
 version: 3
 language: nl
-title: "Titel"
-description: "Algoritme van Dijkstra"
+title: "Probleem aanpakken"
+description: "Brainstorm"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,9 +27,24 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
-# Titel
+# Klassikale brainstorm  - Probleem: Kortste weg van Gent naar Mechelen via grote wegen 
 
-Tekst
+Mogelijke ideeën tijdens de brainstorm (→ computationeel denken – decompositie):<br>
+- Hoe vind je de kortste weg? 
+	- Op een kaart kijken wat de ligging is van de steden. Dat kan helpen bij het bepalen van de kortste route.
+	- Mogelijke routes een voor een afgaan → hiervoor is een visuele voorstelling nodig 
+	- Van elke mogelijke route de afstand berekenen
+	- De kortste weg komt overeen met de kleinste afstand
+- Schets maken van de steden en wegen (→ patroonherkenning /abstractie netwerk → graaf)
+	- Afstanden aanduiden op de schets (→ gewogen graaf )  
+- Hoe kan een computer helpen? 
+	- Dat bestaat al → routeplanner, bv. Google Maps
+	- Hoe werkt zo’n routeplanner eigenlijk?    
+	- Hoe programmeren dat een computer de afstanden van de mogelijke routes berekent? 
+		- Computer heeft afstanden nodig tussen de verschillende gemeenten
+		- Je kan maar in een gemeente geraken als je komt van een gemeente die ermee in verbinding staat
+		- De wegen zijn in twee richtingen, dus er is ‘symmetrie met gelijke afstand’ (dat is duidelijk door de symmetrie in de gegeven tabel)
+		- Opmerking: alle mogelijke routes afgaan is eigenlijk tijdverlies, sommige gemeenten komen door hun ligging niet in aanmerking.
