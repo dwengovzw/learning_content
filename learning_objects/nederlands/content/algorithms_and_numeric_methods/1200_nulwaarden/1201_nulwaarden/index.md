@@ -2,7 +2,7 @@
 hruid: anm_1201
 version: 3
 language: nl
-title: "Eerste nb"
+title: "Halveringsmethode"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
@@ -30,6 +30,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Nulwaarden 
+# Halveringsmethode
+
+In een eerste notebook leer je de nulpunten van een continue functie benaderen aan de hand van de halveringsmethode.
 
 In de eerste notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, derde- en vierdegraadsfunctie (optioneel), het (rekenkundig) gemiddelde van twee getallen, continue functie, functiewaarde, snijpunt van de grafiek van een functie met de x-as.
