@@ -48,3 +48,14 @@ Mogelijke ideeën tijdens de brainstorm (→ computationeel denken – decomposi
 		- Je kan maar in een gemeente geraken als je komt van een gemeente die ermee in verbinding staat
 		- De wegen zijn in twee richtingen, dus er is ‘symmetrie met gelijke afstand’ (dat is duidelijk door de symmetrie in de gegeven tabel)
 		- Opmerking: alle mogelijke routes afgaan is eigenlijk tijdverlies, sommige gemeenten komen door hun ligging niet in aanmerking.
+
+--------------
+### De leerkracht vat de brainstorm samen
+Voorbeeld:
+
+![image](https://user-images.githubusercontent.com/48352335/213933875-ae28abd8-eacd-4e3b-b5c0-a629119469a2.png)
+
+Situatie bekijken in Google Maps:
+
+![image](https://user-images.githubusercontent.com/48352335/213933904-236a21e1-9be4-4028-b475-b7ec9fec1b33.png)
+<center>Bron: Google Maps</center>  
