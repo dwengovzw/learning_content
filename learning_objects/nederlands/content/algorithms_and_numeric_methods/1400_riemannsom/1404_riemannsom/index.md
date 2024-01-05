@@ -2,8 +2,8 @@
 hruid: anm_1404
 version: 3
 language: nl
-title: "Titel"
-description: "Riemannsom"
+title: "Oefeningen"
+description: "Oefeningen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# De Riemannsom en de trapeziummethode
+# Oefeningen bij de Riemannsom en de trapeziummethode
 
-Tekst
+In opbouw.
