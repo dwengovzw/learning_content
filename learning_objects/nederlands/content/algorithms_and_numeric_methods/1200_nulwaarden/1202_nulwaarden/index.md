@@ -2,7 +2,7 @@
 hruid: anm_1202
 version: 3
 language: nl
-title: "Methode van Newtonh"
+title: "Methode van Newton"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
