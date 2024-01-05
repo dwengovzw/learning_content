@@ -60,3 +60,17 @@ Je kan je programma nu gebruiken om soortgelijke puzzels, bijvoorbeeld de onders
 <figure>
     <figcaption align = "center">Afbeelding gebruikt op basis van citaatrecht. Bron: Het Nieuwsblad - NU, 14 oktober 2023.</figcaption>
 </figure>
+
+![Puzzel](embed/tentjeboompjezesopzes.jpg "Opgave puzzel tentje-boompje 6x6")
+<figure>
+    <figcaption align = "center">Afbeelding gebruikt op basis van citaatrecht. </figcaption>
+</figure>
+
+Bron: [Het Nieuwsblad Tentje-Boompje mini](https://www.nieuwsblad.be/tentjeboompjemini)
+
+![Puzzel](embed/tentjeboompjetienoptien.jpg "Opgave puzzel tentje-boompje 10x10")
+<figure>
+    <figcaption align = "center">Afbeelding gebruikt op basis van citaatrecht. </figcaption>
+</figure>
+
+Bron: [puzzle-loop.com](https://nl.puzzle-tents.com/?size=4)

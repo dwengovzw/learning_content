@@ -2,8 +2,8 @@
 hruid: pp_aep9
 version: 3
 language: nl
-title: "titel"
-description: "titel"
+title: "Nulwaarden"
+description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,32 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Nulwaarden 
+
+Nulwaarden spelen bijvoorbeeld een belangrijke rol in de economie. Denk bijvoorbeeld aan een bedrijf dat winst moet maken. De kosten en opbrengsten die het bedrijf heeft, zijn belangrijk om de winst te bepalen. Men stelt daarom functies op om de kosten, opbrengsten en de winst te monitoren. Als de winstfunctie bv. naar nul evolueert, dan zit de kans er dik in dat het bedrijf in de nabije toekomst afstevent op verlies.     
+
+In de wiskundeles leer je de nulwaarden van een functie berekenen door vergelijkingen op te stellen en die op te lossen door technieken, zoals de regel van Horner en de methode van de discriminant, toe te passen. Soms is het echter niet mogelijk om de nulwaarden op die manier te vinden. Denk bv. aan een veeltermfunctie - wat een relatief eenvoudige functie is - met enkel niet-rationale nulpunten. In de wiskundeles zal men dan naar de grafische rekenmachine of de computer grijpen om die nulwaarden te bepalen.
+
+Deze toestellen maken gebruik van zogenaamde numerieke methodes om de nulwaarden te bepalen: Ze passen bepaalde technieken iteratief toe om **stap voor stap** de nulwaarden te benaderen.  
+
+Er bestaan meerdere numerieke methodes om de nulwaarden te bepalen. <br>
+Hier worden twee methodes voorgesteld. In een eerste notebook maak je kennis met de bissectiemethode, een tweede notebook gaat in op de methode van Newton.   
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6520 "Nulwaarden numeriek bepalen")
+
+---------
+In de eerste notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, derde- en vierdegraadsfunctie (optioneel), het (rekenkundig) gemiddelde van twee getallen, continue functie, functiewaarde, snijpunt van de grafiek van een functie met de x-as.
+
+In de tweede notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, continue functie, functiewaarde, afgeleide functie, raaklijn, richtingscoëfficiënt, snijpunt van de grafiek van een functie met de x-as.
+
+---------
+Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6525 "Nulwaarden numeriek bepalen economie")
+
+---------
+#### Verband met minimumdoelen informaticawetenschappen
+In de notebooks leer je a.d.h.v. een *numerieke methode* een nulwaarde benaderen. 
+Misschien verdiepte je je ook in het facultatief onderdeel over *recursie*.
 
 

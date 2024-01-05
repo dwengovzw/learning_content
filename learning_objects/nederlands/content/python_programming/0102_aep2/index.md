@@ -2,7 +2,7 @@
 hruid: pp_aep2
 version: 3
 language: nl
-title: "Algoritmische technieken, algoritmen en datastructuren"
+title: "Algoritmische technieken, algoritmes en datastructuren"
 description: "titel"
 keywords: [""]
 educational_goals: [
@@ -30,8 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Algoritmische technieken, algoritmen en datastructuren
-
+# Algoritmische technieken, algoritmes en datastructuren
+In ons lesmateriaal vind je voorbeelden van algoritmische technieken: binair zoeken, sorteren, verdeel-en-heers, recursie, gradient descent, enz. 
 
 
 

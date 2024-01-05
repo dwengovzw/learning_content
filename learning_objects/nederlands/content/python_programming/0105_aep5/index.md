@@ -3,7 +3,7 @@ hruid: pp_aep5
 version: 3
 language: nl
 title: "Probleem lift"
-description: "titel"
+description: "Lift"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Uitdaging: Los jij ons liftprobleem op?
 
 

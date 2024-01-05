@@ -33,8 +33,8 @@ teacher_exclusive: true
 # Welke elementen komen aan bod in ons lesmateriaal?
 
 In heel wat projecten gebruiken we Python Notebook. Python is een **gestructureerde programmeertaal**. <br>
-We maken veelvuldig gebruik van de Python **bibliotheken**. <br>
-We gebruiken csv-bestanden van real-world datasets en afbeeldingen als **externe gegevensbronnen**. 
+We maken veelvuldig gebruik van de Python-**bibliotheken**. <br>
+We gebruiken csv-bestanden (van *real-world* datasets) en afbeeldingen als **externe gegevensbronnen**. 
 
 > De leerlingen kunnen bv. ook gegenereerde grafieken extern opslaan.
 
