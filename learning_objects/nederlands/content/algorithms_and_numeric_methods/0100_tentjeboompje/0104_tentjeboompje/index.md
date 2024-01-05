@@ -3,7 +3,7 @@ hruid: anm_0104
 version: 3
 language: nl
 title: "Code"
-description: "Tentje-boompje"
+description: "Code"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+# Het opstellen van de code
 
 Om het oplossen van de puzzel te automatiseren, maak je gebruik van keuzestructuren en herhalingstucturen (zowel while- als for-lus). <br>
 Om de code leesbaarder te maken, zal je zelf functies definiëren voor code die vaak terugkomt. <br>
