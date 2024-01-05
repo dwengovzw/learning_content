@@ -2,7 +2,7 @@
 hruid: anm_0104
 version: 3
 language: nl
-title: "Titel"
+title: "Code"
 description: "Tentje-boompje"
 keywords: [""]
 educational_goals: [
@@ -27,9 +27,12 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Titel
 
-Tekst
+Om het oplossen van de puzzel te automatiseren, maak je gebruik van keuzestructuren en herhalingstucturen (zowel while- als for-lus). <br>
+Om de code leesbaarder te maken, zal je zelf functies definiëren voor code die vaak terugkomt. <br>
+
+Om de code niet ellenlang te maken, zal je ook enkele technieken toepassen, zoals het toevoegen van extra velden aan het puzzelveld of het transponeren van een matrix.
