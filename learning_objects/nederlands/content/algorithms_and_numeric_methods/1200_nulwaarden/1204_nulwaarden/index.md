@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Nulwaarden 
+# Minimumdoelen
 
 #### Verband met minimumdoelen informaticawetenschappen
 In de notebooks leer je a.d.h.v. een *numerieke methode* een nulwaarde benaderen. 
