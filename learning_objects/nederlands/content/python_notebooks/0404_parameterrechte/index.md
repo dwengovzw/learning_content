@@ -2,8 +2,8 @@
 hruid: pn_parameterrechte
 version: 3
 language: nl
-title: "Parameters"
-description: "Parameters"
+title: "Parameters rechte"
+description: "Parameters rechte"
 keywords: ["Python", "Wiskunde"]
 educational_goals: [
     {source: Source, id: id}, 
