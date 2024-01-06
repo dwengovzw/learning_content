@@ -35,7 +35,7 @@ teacher_exclusive: false
 ## Gemiddelde, mediaan en uitschieters. Kwartielen, interkwartielafstand, boxplot. 
 
 Centrummaten en spreidingsmaten geven veel informatie over een dataset.  <br>
-In enkele notebooks leer je hoe je deze met Python kan laten berekenen.
+In deze notebook leer je hoe je deze met Python kan laten berekenen.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0375 "Notebook analyse data")
 
