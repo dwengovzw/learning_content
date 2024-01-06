@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -33,7 +33,7 @@ teacher_exclusive: false
 # Minimumdoelen
 
 #### Verband met minimumdoelen informaticawetenschappen
-In de notebooks leer je a.d.h.v. een *numerieke methode* een nulwaarde benaderen. 
+In dit leerpad leerde je a.d.h.v. een *numerieke methode* een nulwaarde benaderen. 
 Misschien verdiepte je je ook in het facultatief onderdeel over *recursie*.
 
 
