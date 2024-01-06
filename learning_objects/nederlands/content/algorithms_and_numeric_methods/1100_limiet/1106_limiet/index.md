@@ -2,8 +2,8 @@
 hruid: anm_1106
 version: 3
 language: nl
-title: "minimumdoelen"
-description: "Limiet"
+title: "Minimumdoelen"
+description: "Minimumdoelen limiet"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
