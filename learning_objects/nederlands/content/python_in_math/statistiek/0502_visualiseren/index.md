@@ -32,6 +32,11 @@ teacher_exclusive: false
 
 # Data visualiseren
 
-## Taartdiagram
+## Taart- en staafdiagram, en histogram
+
+Als je werkt met data, dan is het belangrijk dat je die data op een geschikte manier visualiseert.
+
+In drie notebooks ga je aan de slag met datasets; sommige zijn aanzienlijk groot. <br>
+Je leert data visualiseren met Python in een taartdiagram, staafdiagram of een histogram.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0371 "Notebook Taartdiagram")
