@@ -36,7 +36,7 @@ teacher_exclusive: false
 
 In dit onderdeel van het leerpad zet je je eerste stappen in het werken met Python voor grote datasets.
 
-In een eerste notebook leer je extern opgeslagen datasets invoeren en hoe je elementaire zaken zoals absolute en relatieve frequentie, en de grootte van een dataset, kunt opvragen met Python.<br>
-In een tweede notebook pas je het geleerde toe op een real-world dataset.
+In een eerste notebook leer je **extern opgeslagen datasets invoeren** en hoe je elementaire zaken zoals absolute en relatieve frequentie, en de grootte van een dataset, kan opvragen met Python.<br>
+In een tweede notebook pas je het geleerde toe op een **real-world dataset**.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0361 "Notebook Frequentie")
