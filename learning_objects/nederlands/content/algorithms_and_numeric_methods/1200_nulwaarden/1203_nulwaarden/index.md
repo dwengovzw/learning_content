@@ -30,6 +30,13 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Regula falsi
 
-Tekst
+Naast de halveringsmethode en de methode van Newton is er ook nog de 'regula falsi'-methode.
+
+### Opdracht
+- Zoek op hoe de 'regula falsi'- methode om nulpunten te zoeken werkt.
+- Implementeer deze methode zelf in een Python notebook.
+  
+
+  
