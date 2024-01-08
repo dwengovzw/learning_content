@@ -89,20 +89,3 @@ Geef lijst ‘bezocht’ terug
 </p>
 </div>
 
-------------
-
-#### Leerdoelen
-- Basisconcepten van grafen toepassen om een route voor te stellen.
-- Leerlingen ontwikkelen een algoritme om de kortste weg tussen twee steden te vinden.
-- Leerlingen maken kennis met het algoritme van Dijkstra dat daarvoor geschikt is.
-- Het nut van wiskunde illustreren.
-
-Na dit onderdeel kunnen de leerlingen …
-- basisconcepten van grafen binnen deze context gebruiken
-- de kortste route vinden
-- het algoritme van Dijkstra toepassen
-- eventueel het algoritme van Dijkstra programmeren 
-- hun kritisch en logisch denken verbeterd hebben
-
-#### Eindtermen
-Grafen, computationeel denken, wisselwerking maatschappij en STEM, mediawijsheid, privacy. 
