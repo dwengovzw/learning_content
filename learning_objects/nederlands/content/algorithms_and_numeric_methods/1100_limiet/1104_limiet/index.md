@@ -2,8 +2,8 @@
 hruid: anm_1104
 version: 3
 language: nl
-title: "Limiet van differentiequotiënt"
-description: "Limiet"
+title: "Minimumdoelen"
+description: "Minimumdoelen limiet"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,7 +32,6 @@ teacher_exclusive: false
 
 # Limiet
 
-## Toepassing: limiet van differentiequotiënt
-Met de technieken die je leerde, kan je in een punt van een kromme de richtingscoëfficiënt van de raaklijn in dat punt aan de kromme numeriek benaderen. In de volgende notebook wordt daarop ingegaan. In deze context zal je ook het getal *e* benaderen.
+**Verband met minimumdoelen informaticawetenschappen**
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6540 "Limiet van differentiequotiënt")
+In deze notebooks leer je a.d.h.v. een numerieke methode een limiet van een rij of een functie benaderen. In de oefeningen gebruikte je deze techniek om een irrationaal getal te benaderen.

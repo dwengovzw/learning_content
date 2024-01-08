@@ -2,8 +2,8 @@
 hruid: anm_1403
 version: 3
 language: nl
-title: "Minimumdoelen"
-description: "Minimumdoelen"
+title: "Oefeningen"
+description: "Oefeningen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Verband met minimumdoelen informaticawetenschappen
+# Oefeningen bij de Riemannsom en de trapeziummethode
 
-In dit leerpad leer je a.d.h.v. een numerieke methode een oppervlakte benaderen. 
-
+In opbouw.

@@ -1,9 +1,9 @@
 ---
-hruid: anm_1105
+hruid: anm_1205
 version: 3
 language: nl
-title: "Slot"
-description: "Limiet"
+title: "Minimumdoelen"
+description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,10 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Limiet
+# Minimumdoelen
 
-Tekst
+#### Verband met minimumdoelen informaticawetenschappen
+In dit leerpad leerde je a.d.h.v. een *numerieke methode* een nulwaarde benaderen. 
+Misschien verdiepte je je ook in het facultatief onderdeel over *recursie*.
+
+

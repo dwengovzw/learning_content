@@ -1,9 +1,9 @@
 ---
-hruid: anm_1105
+hruid: anm_1603
 version: 3
 language: nl
-title: "Slot"
-description: "Limiet"
+title: "Titel"
+description: "Matrices"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Limiet
+# Titel
 
 Tekst
