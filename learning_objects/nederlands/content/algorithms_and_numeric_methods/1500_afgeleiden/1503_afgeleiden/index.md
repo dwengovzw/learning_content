@@ -2,8 +2,8 @@
 hruid: anm_1503
 version: 3
 language: nl
-title: "Titel"
-description: "Limiet"
+title: "Oefeningen"
+description: "Oefeningen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Oefeningen
 
-Tekst
+In opbouw
