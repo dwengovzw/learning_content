@@ -47,6 +47,9 @@ Maar ook de verantwoordelijkheid van de consument en de producent van AI-systeme
 
 *06.27 De leerlingen leggen uit dat plantaardige en dierlijke organismen zich kunnen handhaven dankzij homeostase.*
 
+*06.31 De leerlingen leggen het verband tussen materie- en energiestromen in een ecosysteem.* <br>
+*Memorie: Materie- en energiestromen zoals fotosynthese, ademhaling, watercyclus, C-cyclus, N-cyclus.*
+
 # Minimumdoelen biologie tweede graad - Dubbele finaliteit 
 
 *06.20 De leerlingen leggen aan de hand van een voorbeeld uit dat organismen zich kunnen handhaven dankzij biologische feedback.* <br>
