@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Perceptron
+# Perceptron en co
 
 Het allereerste neurale netwerk, het Perceptron, kan twee lineair scheidbare verzamelingen van elkaar scheiden gebruikmakend van een algoritme.
 Ook dit algoritme gaat stap voor stap dichter tot de oplossing van het probleem naderen.
