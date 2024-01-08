@@ -44,7 +44,7 @@ De volgende drie onderdelen zijn te situeren binnen de beschrijvende statistiek.
 
 ### Minimumdoel grote datasets
 
-**Dit leerpad sluit ook aan bij de nieuwe specifieke minimumdoelen over statistiek in de derde graad i.v.m. grote datasets.**
+**Dit leerpad sluit mooi aan bij het nieuwe specifieke minimumdoel over statistiek in de derde graad i.v.m. grote datasets.**
 
 **Statistiek**<br>
 *Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Freinetpedagogie, Humane wetenschappen* 
