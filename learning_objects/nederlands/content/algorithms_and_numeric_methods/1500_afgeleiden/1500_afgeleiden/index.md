@@ -1,8 +1,8 @@
 ---
-hruid: anm_1105
+hruid: anm_1500
 version: 3
 language: nl
-title: "Slot"
+title: "Titel"
 description: "Limiet"
 keywords: [""]
 educational_goals: [
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Limiet
+# Titel
 
 Tekst

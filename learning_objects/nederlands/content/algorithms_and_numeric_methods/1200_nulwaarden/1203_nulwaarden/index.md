@@ -2,7 +2,7 @@
 hruid: anm_1203
 version: 3
 language: nl
-title: "Oefeningen"
+title: "Regula Falsi"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
@@ -30,8 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Oefeningen bij het numeriek benaderen van nulpunten 
+# Titel
 
-Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6525 "Nulwaarden numeriek bepalen economie")
+Tekst

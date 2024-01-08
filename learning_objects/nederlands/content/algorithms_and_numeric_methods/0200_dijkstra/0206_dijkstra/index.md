@@ -1,9 +1,9 @@
 ---
-hruid: anm_1105
+hruid: anm_0204
 version: 3
 language: nl
-title: "Slot"
-description: "Limiet"
+title: "Leerdoelen"
+description: "Leerdoelen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [16, 17, 18]
+target_ages: [15, 16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Limiet
+# Titel
 
 Tekst

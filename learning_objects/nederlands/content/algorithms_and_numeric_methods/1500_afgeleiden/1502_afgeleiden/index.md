@@ -1,9 +1,9 @@
 ---
-hruid: anm_1106
+hruid: anm_1502
 version: 3
 language: nl
-title: "Minimumdoelen"
-description: "Minimumdoelen limiet"
+title: "Eindige differentiemethode"
+description: "Limiet"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,6 +32,8 @@ teacher_exclusive: false
 
 # Limiet
 
-**Verband met minimumdoelen informaticawetenschappen**
+## Toepassing: eindige differentiemethode
 
-In deze notebooks leer je a.d.h.v. een numerieke methode een limiet van een rij of een functie benaderen. In de oefeningen gebruikte je deze techniek om een irrationaal getal te benaderen.
+De richtingscoëfficiënt van de raaklijn in een punt aan een kromme, m.a.w. de afgeleide in een punt, kan benaderd worden m.b.v. een  differentiequotiënt over een bepaald interval. In de volgende notebook zal je daarop gebaseerd een benadering zoeken van de afgeleide functie van een bepaalde functie.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6060 "Eindige differentiemethode")
