@@ -55,6 +55,17 @@ Maar ook de verantwoordelijkheid van de consument en de producent van AI-systeme
 *06.20 De leerlingen leggen aan de hand van een voorbeeld uit dat organismen zich kunnen handhaven dankzij biologische feedback.* <br>
 *Onderliggende (kennis)elementen: Functie van hormonen*
 
+# Cesuurdoelen
+
+**Fysiologie en anatomie van planten** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Plant- dier- en milieutechnieken.* <br>
+*08.07.01 De leerlingen vergelijken bouw van plantendelen in functie van groei, voortplanting of transport.* <br>
+*Onderliggende (kennis)elementen: Assimilaten en water*
+
+**Plant- en dierkunde** <br>
+*Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Plant- dier- en milieutechnieken* <br>
+*08.08.01 De leerlingen onderzoeken in ecosystemen de interactie met biotische en abiotische componenten.*
+
 -----
 
 # Minimumdoelen biologie derde graad - Finaliteit doorstroom
