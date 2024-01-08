@@ -32,6 +32,12 @@ teacher_exclusive: false
 
 # Gradient descent
 
+In de volgende notebook word je ingewijd in de methode van _gradient descent_. Voor de eenvoud zal je op zoek gaan naar het minimum van enkele functies die afhankelijk zijn van slechts 1 variabele. Ook de functies worden vrij eenvoudig gehouden, de notebook beperkt zicht tot veeltermfuncties.   
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1760 "Gradient descent")
+
+-----
+
 In de notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, derde- en vierdegraadsfunctie (optioneel), de richtingscoëfficiënt van een raaklijn aan een functie, m.a.w. de afgeleide in een punt, lokaal en globaal minimum (optioneel).  
 
 De afgeleide in een punt van een parabool is de richtingscoëfficiënt van de raaklijn in dat punt aan de parabool.<br>
