@@ -34,6 +34,4 @@ teacher_exclusive: false
 
 Bij  _gradient descent_ gaat men op zoek naar het minimum door de gewichten **stap voor stap** aan te passen, en zo dichter en dichter bij het minimum te komen. Geleidelijk aan vindt men zo de meest optimale gewichten waarnaar men op zoek is. De grootte van de stappen wordt onder andere bepaald door de zogenaamde *learning rate*; afhankelijk van de waarde van de *learning rate* zullen er grote of kleine aanpassingen plaatsvinden. Maar eleke stap hangt ook af van de richtingscoëfficiënt van de raaklijn. 
 
-In de volgende notebook word je ingewijd in de methode van _gradient descent_. Voor de eenvoud zal je op zoek gaan naar het minimum van enkele functies die afhankelijk zijn van slechts 1 variabele. Ook de functies worden vrij eenvoudig gehouden, de notebook beperkt zicht tot veeltermfuncties.   
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1760 "Gradient descent")
