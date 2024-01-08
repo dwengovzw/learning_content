@@ -34,17 +34,21 @@ teacher_exclusive: true
 
 Voorkennis voor dit leerpad: het leerpad ['Werken met notebooks'](https://www.dwengo.org/learning-path.html?hruid=pn_werking&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_werkingnotebooks;nl;3).
 
-Een aanvulling op dit leerpad is bivariate statistiek: het visualiseren van een puntenwolk en het eventueel bepalen van een de bijbehorende regressielijn. Zie daarvoor de leerpaden ['Spreidingsdiagram'](https://www.dwengo.org/learning-path.html?hruid=maths_spreidingsdiagrammen&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_spreidingsdiagram;nl;3), ['Lineaire regressie'](https://www.dwengo.org/learning-path.html?hruid=maths_lineaireregressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_lineaireregressie;nl;3), ['Regressielijnen'](https://www.dwengo.org/learning-path.html?hruid=pn_regressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_voorkennis_regressielijnen;nl;3).
+**Dit leerpad sluit mooi aan bij het nieuwe specifieke minimumdoel over statistiek in de derde graad i.v.m. grote datasets.**
 
-Een inleiding tot het werken met NumPy-lijsten in het kader van lessen statistiek vind je in de tweede notebook van deze [reeks](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=pn_nplijsten&version=3&language=nl).
+De eerste drie onderdelen zijn te situeren binnen de beschrijvende statistiek. Het laatste onderdeel maakt een verbinding tussen de beschrijvende en de verklarende statistiek. 
 
-De volgende drie onderdelen zijn te situeren binnen de beschrijvende statistiek. Het laatste onderdeel maakt een verbinding tussen de beschrijvende en de verklarende statistiek. 
+------
+
+Een **aanvulling** op dit leerpad is bivariate statistiek: het visualiseren van een **spreidingsdiagram of puntenwolk** en het eventueel bepalen van een de bijbehorende **regressielijn**. Zie daarvoor de leerpaden ['Spreidingsdiagram'](https://www.dwengo.org/learning-path.html?hruid=maths_spreidingsdiagrammen&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_spreidingsdiagram;nl;3), ['Lineaire regressie'](https://www.dwengo.org/learning-path.html?hruid=maths_lineaireregressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_lineaireregressie;nl;3), ['Regressielijnen'](https://www.dwengo.org/learning-path.html?hruid=pn_regressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_voorkennis_regressielijnen;nl;3).
+
+Een inleiding tot het werken met NumPy-lijsten in het kader van lessen statistiek vind je in de tweede notebook van deze [reeks](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=pn_nplijsten&version=3&language=nl). Je gaat er onder meer aan de slag met variantie en standaardafwijking. 
+
+Het voorverwerken van gegevens in een DataFrame leer je in dit [dit onderdeel  van het leerpad 'Datatypes'](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=aiz_dataframe&version=3&language=nl).
 
 ------
 
 ### Minimumdoel grote datasets
-
-**Dit leerpad sluit mooi aan bij het nieuwe specifieke minimumdoel over statistiek in de derde graad i.v.m. grote datasets.**
 
 **Statistiek**<br>
 *Deze specifieke eindtermen zijn geldig in de volgende studierichtingen: Freinetpedagogie, Humane wetenschappen* 
