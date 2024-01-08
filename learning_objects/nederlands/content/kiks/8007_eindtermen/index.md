@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 # Mediawijsheid
 
-# KIKS en digitale competenties, informaticawetenschappen en mediawijsheid
+# KIKS en digitale competenties - mediawijsheid
 
 In het KIKS-project gaan leerlingen aan de slag met cijferdata in de context van de klimaatverandering, met beelddata in het kader van digitale beelden, met datasets in het kader van het trainen van een neuraal netwerk ...<br>
 In het project wordt ook aandacht besteed aan de ethische aspecten die gepaard gaan met het ontwikkelen of gebruiken van AI-systemen.  <br>
@@ -40,11 +40,15 @@ Er wordt ruim aandacht besteed aan de bouw en werking van neurale netwerken. In 
 
 Meerdere leerinhouden uit het KIKS-project sluiten aan bij de eindterm van mediawijsheid en computationeel denken in de tweede graad.
 
-# Minimumdoelen Digitale competenties tweede graad - Mediawijsheid - Finaliteit doorstroom en dubbele finaliteit
+# Minimumdoel Digitale competenties tweede graad - Mediawijsheid - Finaliteit doorstroom en dubbele finaliteit
 
 *04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.* <br>
 *Memorie: De impact van digitale systemen op de maatschappij vanuit principes van computationeel denken zoals algoritmes die digitale platformen gebruiken bij het selecteren en presenteren van informatie aan gebruikers; het verzamelen van persoonlijke informatie van gebruikers en die (mis)(ge)bruiken voor eigen doeleinden; het beïnvloeden van de keuzes van gebruikers (vb. gepersonaliseerd aanbod, gepersonaliseerde reclame); het beïnvloeden van de blik op de wereld/opinie van gebruikers; het nemen van beslissingen over gebruikers (vb. over kredietaanvragen, sollicitaties, verzekeringen); het creëren van taalinteractie met behulp van artificiële intelligentie (chatbot); het creëren van kunst (beelden, muziek, poëzie, andere kunstvormen) met behulp van artificiële intelligentie; medische beeldvorming om op basis van een eerste scan eventuele afwijkingen te melden aan artsen.* <br>
 *Principes van computationeel denken zoals decompositie, patroonherkenning, abstractie en algoritmen.*
+
+Over dit minimumdoel vind je meer info in het leerpad [Impact van digitale systemen](https://dwengo.org/learning-path.html?hruid=ct9_impact&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct04_00;nl;3).
+
+Computationeel denken en KIKS wordt behandeld in dit [leeronderdeel](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=ct03_73&version=3&language=nl). 
 
 -----
 
