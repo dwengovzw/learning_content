@@ -2,8 +2,8 @@
 hruid: anm_1500
 version: 3
 language: nl
-title: "Titel"
-description: "Limiet"
+title: "Inleiding"
+description: "Inleiding"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Inleiding
 
-Tekst
+In het leerpad [Limieten](https://dwengo.org/learning-path.html?hruid=anm11&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1100;nl;3) leerde je hoe je een limiet numeriek kan benaderen. In dit leerpad gebruik je die techniek om met afgeleiden te werken.
