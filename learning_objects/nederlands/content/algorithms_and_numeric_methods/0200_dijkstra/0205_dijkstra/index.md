@@ -1,5 +1,5 @@
 ---
-hruid: anm_0204
+hruid: anm_0205
 version: 3
 language: nl
 title: "A*-algoritme"
