@@ -37,6 +37,11 @@ vaardigheden en onderzoekscompetenties.
 
 -----
 
+# Minimumdoelen chemie - Finaliteit doorstroom
+
+*06.31 De leerlingen leggen het verband tussen materie- en energiestromen in een ecosysteem.* <br>
+*Memorie: Materie- en energiestromen zoals fotosynthese, ademhaling, watercyclus, C-cyclus, N-cyclus.*
+
 # Specifieke minimumdoelen chemie
 
 **Uitgebreide chemie**<br>

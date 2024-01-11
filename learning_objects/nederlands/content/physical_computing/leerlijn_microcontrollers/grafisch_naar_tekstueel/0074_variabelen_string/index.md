@@ -93,7 +93,7 @@ Wanneer we de code kijken waarin onze variabele een waarde krijgt, zien we een s
     </pre>
 </div>
 
-Merk op dat <code class="language-cpp">"Hallo Dwenguino"</code> tussen aanhalingstekens staat. Dit geeft in tekstuele code aan dat het hier over een tekstwaarde gaat. Verder zie je ook dat de tekst omringt is door nog wat extra code: <code class="language-cpp">String(...)</code>. In dit geval is deze code eigenlijk overbodig maar de grafische blokken voegen dit deel automatisch toe om ervoor te zorgen dat er geen fouten voorkomen wanneer je een getal probeert om te zetten naar een stuk tekst. Je kan de lijn <code class="language-cpp">item = String("Hallo Dwenguino");</code> dus vervangen door <code class="language-cpp">item = "Hallo Dwenguino";</code>
+Merk op dat <code class="language-cpp">"Hallo Dwenguino"</code> tussen aanhalingstekens staat. Dit geeft in tekstuele code aan dat het hier over een tekstwaarde gaat. Verder zie je ook dat de tekst omringd is door nog wat extra code: <code class="language-cpp">String(...)</code>. In dit geval is deze code eigenlijk overbodig maar de grafische blokken voegen dit deel automatisch toe om ervoor te zorgen dat er geen fouten voorkomen wanneer je een getal probeert om te zetten naar een stuk tekst. Je kan de lijn <code class="language-cpp">item = String("Hallo Dwenguino");</code> dus vervangen door <code class="language-cpp">item = "Hallo Dwenguino";</code>
 
 
 

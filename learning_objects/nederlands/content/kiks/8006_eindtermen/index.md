@@ -40,6 +40,9 @@ Om dit wetenschappelijk onderzoek en het neurale netwerk te kunnen begrijpen, mo
 
 # Minimumdoelen STEM tweede graad - Finaliteit doorstroom
 
+*06.31 De leerlingen leggen het verband tussen materie- en energiestromen in een ecosysteem.* <br>
+*Memorie: Materie- en energiestromen zoals fotosynthese, ademhaling, watercyclus, C-cyclus, N-cyclus.*
+
 *06.51 De leerlingen voeren onderzoek aan de hand van een wetenschappelijke methode om kennis te ontwikkelen en om vragen te beantwoorden.* <br>
 *Voetnoot: Rekening houdend met concepten van de tweede graad.*
 

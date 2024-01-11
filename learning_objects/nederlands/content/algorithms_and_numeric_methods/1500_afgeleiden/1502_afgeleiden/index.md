@@ -1,8 +1,8 @@
 ---
-hruid: anm_1107
+hruid: anm_1502
 version: 3
 language: nl
-title: "Titel"
+title: "Eindige differentiemethode"
 description: "Limiet"
 keywords: [""]
 educational_goals: [
@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -32,4 +32,8 @@ teacher_exclusive: false
 
 # Limiet
 
-Tekst
+## Toepassing: eindige differentiemethode
+
+De richtingscoëfficiënt van de raaklijn in een punt aan een kromme, m.a.w. de afgeleide in een punt, kan benaderd worden m.b.v. een  differentiequotiënt over een bepaald interval. In de volgende notebook zal je daarop gebaseerd een benadering zoeken van de afgeleide functie van een bepaalde functie.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6060 "Eindige differentiemethode")

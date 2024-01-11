@@ -2,7 +2,7 @@
 hruid: anm_1105
 version: 3
 language: nl
-title: "Eindige differentiemethode"
+title: "Slot"
 description: "Limiet"
 keywords: [""]
 educational_goals: [
@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -30,10 +30,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Limiet
+# Toepassingen
 
-## Toepassing: eindige differentiemethode
+In het leerpad [Afgeleiden](https://dwengo.org/learning-path.html?hruid=anm15&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1500;nl;3) en het leerpad [Riemannsom](https://dwengo.org/learning-path.html?hruid=anm14&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1400;nl;3) zal je het numeriek benaderen van een limiet toepassen om een afgeleide in een punt, een afgeleide functie of een oppervlakte te benaderen.
+In het leerpad [Matrices](https://dwengo.org/learning-path.html?hruid=anm16&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1600;nl;3) zal je hetzelfde principe gebruiken om na te gaan of een populatie, waarvan de evolutie beschrven wordt aan de hand van matrices, een evenwicht vindt. 
 
-De richtingscoëfficiënt van de raaklijn in een punt aan een kromme, m.a.w. de afgeleide in een punt, kan benaderd worden m.b.v. een  differentiequotiënt over een bepaald interval. In de volgende notebook zal je daarop gebaseerd een benadering zoeken van de afgeleide functie van een bepaalde functie.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6060 "Eindige differentiemethode")

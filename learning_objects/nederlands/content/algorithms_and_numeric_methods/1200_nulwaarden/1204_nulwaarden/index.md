@@ -2,7 +2,7 @@
 hruid: anm_1204
 version: 3
 language: nl
-title: "Minimumdoelen"
+title: "Oefeningen"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -30,10 +30,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Minimumdoelen
+# Oefeningen bij het numeriek benaderen van nulpunten 
 
-#### Verband met minimumdoelen informaticawetenschappen
-In de notebooks leer je a.d.h.v. een *numerieke methode* een nulwaarde benaderen. 
-Misschien verdiepte je je ook in het facultatief onderdeel over *recursie*.
+Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
 
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6525 "Nulwaarden numeriek bepalen economie")
