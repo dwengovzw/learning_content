@@ -45,7 +45,7 @@ Probeer LED 13 op de microcontroller te dimmen 50% door er een PWM signaal naar 
     <h2 class="title">Goed om te weten!</h2>
     <div class="content">
         <p>
-        Er bestaan een functie die voor jou een PWM signaal zal genereren (<code class="language-cpp">analogWrite(pin)</code>). Deze functie kan je enkel gebruiken wanneer een pin specifieke hardware heeft om een PWM signaal te genereren. Op elke pin van de µC kan je echter zelf een PWM-signaal genereren door zelf de pin hoog en laag te zetten op de juiste momenten.
+        Er bestaat een functie die voor jou een PWM signaal zal genereren (<code class="language-cpp">analogWrite(pin)</code>). Deze functie kan je enkel gebruiken wanneer een pin specifieke hardware heeft om een PWM signaal te genereren. Op elke pin van de µC kan je echter zelf een PWM-signaal genereren door zelf de pin hoog en laag te zetten op de juiste momenten.
         </p>
     </div>
 </div>
