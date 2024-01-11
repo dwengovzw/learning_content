@@ -2,7 +2,7 @@
 hruid: cb_6000
 version: 3
 language: nl
-title: "Titel"
+title: "Inleiding"
 description: "Journalistiek"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
@@ -32,6 +32,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Titel
+# Inleiding
 
-Tekst
+ Op sommige nieuwssites schrijven AI-systemen de sportberichten en brengen ze verslag uit over het lokale nieuws. <br>
+ Elk mediabedrijf doet zijn uiterste best om de lezer aan zich te binden, o.a. door nieuws te personaliseren met aanbevelingsalgoritmes. <br>
+ Ook journalisten gebruiken AI.
