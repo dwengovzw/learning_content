@@ -34,6 +34,8 @@ teacher_exclusive: true
 
 # Inleiding
 
- Op sommige nieuwssites schrijven AI-systemen de sportberichten en brengen ze verslag uit over het lokale nieuws. <br>
- Elk mediabedrijf doet zijn uiterste best om de lezer aan zich te binden, o.a. door nieuws te personaliseren met aanbevelingsalgoritmes. <br>
- Ook journalisten gebruiken AI.
+Op sommige nieuwssites schrijven AI-systemen de sportberichten en brengen ze verslag uit over het lokale nieuws. Sinds de komst van ChatGPT steken zogenaamde nieuwssites de kop op die informatie verstrekken maar opereren met weinig tot geen menselijk toezicht. Dit maakt de kans op het creëren en verspreiden van nepnieuws aanzienlijk groter. 
+
+Elk mediabedrijf doet zijn uiterste best om de lezer aan zich te binden, o.a. door nieuws te personaliseren met aanbevelingsalgoritmes. 
+
+Ook journalisten gebruiken AI.
