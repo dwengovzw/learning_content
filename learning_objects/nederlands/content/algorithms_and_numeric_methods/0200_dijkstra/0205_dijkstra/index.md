@@ -48,8 +48,17 @@ Je vult de gewogen graaf aan met de afstand in vogelvlucht.
 ![M024_Graaf_2](https://user-images.githubusercontent.com/48352335/216783645-5910a805-f876-4643-82f1-d98c15c2a48b.png)
 
 Aan de hand van een tabel en een boomstructuur ga je op zoek naar de kortste route.
-![image](https://user-images.githubusercontent.com/48352335/213934386-9fe136a5-ff13-46b2-9ec0-42a8161da0de.png)
+
+![sterretje1](https://github.com/dwengovzw/learning_content/assets/48352335/f5bb262f-6426-4f66-a71d-c8b6934e4179)
+
 ![M024_Boom_2](https://user-images.githubusercontent.com/48352335/216783661-d320583e-1ad3-4d09-b8a4-7180c9335c93.png)
+
+![asterretje](https://github.com/dwengovzw/learning_content/assets/48352335/365eb38f-982b-4568-8b5d-3255e6f65091)
+
+![tabel2](https://github.com/dwengovzw/learning_content/assets/48352335/af90d869-becb-45d9-b436-7fe21f087f08)
+
+![image](https://github.com/dwengovzw/learning_content/assets/48352335/7f7b2727-2655-4c7f-b971-fcd6cbaa91d4)
+
 
 # A* algoritme
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace; font-size:12px;">
