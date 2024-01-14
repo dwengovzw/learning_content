@@ -47,4 +47,7 @@ Na dit onderdeel kunnen de leerlingen …
 Grafen, computationeel denken, wisselwerking maatschappij en STEM, mediawijsheid, privacy.
 
 # Minimumdoelen
-In opbouw
+
+#### Verband met minimumdoelen informaticawetenschappen
+In dit leerpad leerde je twee *algoritmes* kennen en unplugged toepassen.<br>
+Het tweede algoritme is efficiënter dan het eerste.
