@@ -67,6 +67,8 @@ Geef lijst ‘bezocht’ terug
 ## Toepassen van het algoritme
 Aan de hand van een tabel en een boomstructuur ga je op zoek naar de kortste route.
 
+![M024_Graaf_1](https://user-images.githubusercontent.com/48352335/216783604-7ba61dcf-4e7f-41ba-a05f-017c715fb4d5.png)
+
 ![image](https://user-images.githubusercontent.com/48352335/213934175-be5b3e22-4fc8-49ca-83ad-c73cc8f94298.png)
 ![M024_Boom_1](https://user-images.githubusercontent.com/48352335/216783699-8bd9beb6-c2d6-4155-909a-a88bdac9524b.png)
 
