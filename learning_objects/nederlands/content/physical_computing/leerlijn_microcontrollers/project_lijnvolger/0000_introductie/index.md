@@ -4,7 +4,7 @@ version: 1
 language: nl
 title: "Lijnvolger"
 description: "In dit leerpad leer je een robot programmeren die autonoom een lijn kan volgen aan de hand van PID controle."
-keywords: ["lijnvolger, "dwenguino", "robot", "project", "µC", "pid", "controletheorie"]
+keywords: ["lijnvolger", "dwenguino", "robot", "project", "µC", "pid", "controletheorie"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
