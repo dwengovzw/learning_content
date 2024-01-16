@@ -36,9 +36,9 @@ Om spanning te meten pluggen we de meetsnoeren in in de volgende poorten op de m
 <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
 
 ### Modus van de multimeter
-We willen graag gelijkspanning meten. Het icoontje voor gelijkstroom of spanning is ⎓, het icoontje voor voltage is V. Kies de instelling die deze icoontjes combineert.
+We willen graag gelijkspanning meten. Het icoontje voor gelijkstroom of spanning is ⎓, het icoontje voor voltage is V. Kies de instelling die deze icoontjes combineert. Hieronder zie je een voorbeeld van de instelling op onze multimeter. Het is mogelijk dat je niet exact dezelfde multimeter hebt. Kijk goed naar de icoontjes op het toestel om te weten hoe je die correct kan instellen.
 
-TODO: voeg foto toe.
+<img src="img/mm_voltage.png"></img>
 
 
 <div class="dwengo-content assignment">
