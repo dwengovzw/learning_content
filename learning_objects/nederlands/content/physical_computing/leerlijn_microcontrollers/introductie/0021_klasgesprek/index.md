@@ -37,4 +37,8 @@ Ter info geven we hier het geschatte energieverbruik van een aantal toepassingen
 * Het jaarlijks energieverbruik van een gemiddeld Vlaams gezin is 3500 KWh ofwel 3.5e6 Wh.
 * Een dak met 10 zonnepanelen van 400Wp genereert jaarlijks ongeveer 3400 KWh aan energie ofwel 3.4e6 Wh.
 
+Je kan de leerlingen eventueel het volgende filmpje laten bekijken om meer inzicht te krijgen in het energieverbruik van verschillende toepassingen.
+
+<iframe src="https://player.ntr.nl/index.php?id=WO_NTR_16475042" width="600" height="338" frameborder="0" allow="encrypted-media; geolocation" allowfullscreen=""></iframe>
+
 
