@@ -36,9 +36,9 @@ Om weerstand te meten pluggen we de meetsnoeren in in de volgende poorten op de 
 <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
 
 ### Modus van de multimeter
-Het icoontje voor weerstand is Ω. Zoek de instelling met dit icoontje.
+Het icoontje voor weerstand is Ω. Zoek de instelling met dit icoontje. Hieronder zie je een voorbeeld van de instelling op onze multimeter. Het is mogelijk dat je niet exact dezelfde multimeter hebt. Kijk goed naar de icoontjes op het toestel om te weten hoe je die correct kan instellen.
 
-TODO: voeg foto toe.
+<img src="img/mm_weerstand.png"></img>
 
 
 <div class="dwengo-content assignment">
