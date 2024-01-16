@@ -46,8 +46,6 @@ Is die niet groter dan 10A
 ### Modus van de multimeter
 We willen graag gelijkstroom meten. Het icoontje voor gelijkstroom of spanning is ⎓, het icoontje voor stroom is A. Kies de instelling die deze icoontjes combineert. Merk op dat de instelling ook afhangt van de geschatte stroom (400 mA of 10A). 
 
-TODO: voeg foto toe.
-
 
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
