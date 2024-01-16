@@ -67,9 +67,16 @@ Geef lijst ‘bezocht’ terug
 ## Toepassen van het algoritme
 Aan de hand van een tabel en een boomstructuur ga je op zoek naar de kortste route.
 
-![image](https://user-images.githubusercontent.com/48352335/213934175-be5b3e22-4fc8-49ca-83ad-c73cc8f94298.png)
+![M024_Graaf_1](https://user-images.githubusercontent.com/48352335/216783604-7ba61dcf-4e7f-41ba-a05f-017c715fb4d5.png)
+
+![verloop1](https://github.com/dwengovzw/learning_content/assets/48352335/89fda2dc-feab-4979-8042-bf9cefa3621b)
+
 ![M024_Boom_1](https://user-images.githubusercontent.com/48352335/216783699-8bd9beb6-c2d6-4155-909a-a88bdac9524b.png)
 
+![dijkstra](https://github.com/dwengovzw/learning_content/assets/48352335/5e756e85-db15-46f7-9142-f06d30b8b82a)
+
+De kortste weg:<br>
+![resultaat1](https://github.com/dwengovzw/learning_content/assets/48352335/93f1665e-ba47-43b7-a76f-e11a1d0ac2d8)
 
 ## Oefenen met het algoritme
 **Oefening 1**
