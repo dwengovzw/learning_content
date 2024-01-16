@@ -27,8 +27,8 @@ teacher_exclusive: false
 Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een oefening. Bekijk de fiches die je van de leerkracht krijgt. Op elk van de fiches staat beschreven hoe je een bepaalde component aansluit en programmeert.
 
 <ul class="dwengo_content lijst_fiches">
-    <li><a href="/learning-path.html?hruid=pc_leerlijn_fiches_dwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_fiches_dwenguino_sonar;nl;1">Sonar-sensor</a></li>
-    <li><a href="/learning-path.html?hruid=pc_leerlijn_fiches_dwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_fiches_dwenguino_led13;nl;1">LED13</a></li>
+    <li><a target="_blank" href="/learning-path.html?hruid=pc_leerlijn_fiches_dwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_fiches_dwenguino_sonar;nl;1">Sonar-sensor</a></li>
+    <li><a target="_blank" href="/learning-path.html?hruid=pc_leerlijn_fiches_dwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_fiches_dwenguino_led13;nl;1">LED13</a></li>
 </ul>
 
 ## Hands-on: bouwen en programmeren van een bewegingssensor.
