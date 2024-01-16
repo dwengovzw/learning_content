@@ -26,10 +26,9 @@ teacher_exclusive: false
 
 Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een oefening. Bekijk de fiches die je van de leerkracht krijgt. Op elk van de fiches staat beschreven hoe je een bepaalde component aansluit en programmeert.
 
-<ul class="dwengo_content lijst_fiches">
-    <li><href src="TODO">Sonar-sensor</href></li>
-    <li><href src="TODO">LED13</href></li>
-</ul>
+* ![Sonar-sensor](@learning-object/leerlijn_fiches_dwenguino_sonar/nl/1)
+* ![led 13](@learning-object/leerlijn_fiches_dwenguino_led13/nl/1)
+
 
 ## Hands-on: bouwen en programmeren van een bewegingssensor.
 
