@@ -32,11 +32,28 @@ teacher_exclusive: true
 # Solliciteren
 
 Zal er in de toekomst nog op de klassieke manier gesolliciteerd worden? Waarschijnlijk niet. <br>
-Solliciteren is eigenlijk al grondig veranderd toen werkgevers toekomstige werknemers zijn beginnen te screenen op sociale media. <br>De digitalisering leidt bovendien tot nieuwe vormen van soliciteren, zoals het inzetten van video. Op basis van socialemediaposts en sollicitatiebrieven wordt ook aan profilering gedaan. 
+Solliciteren is eigenlijk al grondig veranderd toen werkgevers toekomstige werknemers zijn beginnen te screenen op sociale media. 
 
 **Impact: Nieuwe manieren van solliciteren**<br>
 
-Dankzij AI kan men op sommige platforms interessante vacatures in de mailbox krijgen. Maar krijgt men
+De digitalisering heeft al behoorlijk wat impact op het solliciteren. Dankzij AI kan men op sommige platforms interessante vacatures in de mailbox krijgen. Nieuwe vormen van soliciteren steken de kop op, zoals het inzetten van videointerviews. Bovendien moeten sollicitanten rekening houden met profilering en met het feit dat wat op socialemediaplatformen gepost wordt, er
+binnen enkele jaren nog steeds te vinden is. 
+
+
+## Principes van computationeel denken
+
+![ct-schema](@learning-object/m_ct04_05/nl/3)
+
+
+## Bespreking van de impact
+ Op basis van socialemediaposts en sollicitatiebrieven wordt er immers ook aan profilering gedaan. 
+
+Een Gents bedrijf werkt aan een AI-systeem dat uit sollicitatiebrieven beslist in welke mate de auteur geschikt is voor de job. Het systeem leidt daartoe persoonlijkheidskenmerken af uit wat
+de sollicitant schreef.
+Leerlingen beseffen dat wat op socialemediaplatformen gepost wordt, er
+binnen enkele jaren als zij gaan solliciteren nog steeds te vinden is.
+Dankzij AI kan men op sommige platforms interessante vacatures in de mailbox krijgen. 
+Maar krijgt men
 wel alle vacatures te zien waarin men geïnteresseerd
 is? Tot 2018 gebruikte Amazon een sterk bejubeld maar
 ondertussen afgevoerd AI-systeem om sollicitanten te
@@ -90,11 +107,8 @@ personeel aangehaald (Wall Street Journal, 2018):
 https://youtu.be/8QEK7B9GUhM
 Bespreek.
 
-## Principes van computationeel denken
 
-![ct-schema](@learning-object/m_ct04_05/nl/3)
- 
-## Bespreking van de impact
+
 
 -  
     - 
