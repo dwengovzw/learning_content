@@ -42,7 +42,7 @@ Aan de hand van het profiel van de gebruiker worden gepersonaliseerde reclame en
 ## Principes van computationeel denken
 
 ![ct-schema](@learning-object/m_ct04_01/nl/3)
- 
+
 ## Bespreking van de impact
 
 - **Mogelijkheid tot veel dataopslag**: Posts op sociale media worden door het betreffende platform zorgvuldig bijgehouden en blijvend gelinkt aan de gebruiker. Behalve de socialemediaposts worden ook het koop- en klikgedrag opgeslagen.
@@ -92,5 +92,3 @@ De Gussem, J. & Daelemans, W. (2020). Ben je wat je schrijft? *EOS Psyche & Brei
 
 Bekijk de [video](https://trends.knack.be/kanaal-z/z-nieuws/taalgebruik-op-cv-onthult-persoonlijkheid/).
 Bezoek ook de website van [traicie](https://traicie.com/) en bespreek de objectiviteit van het systeem.
-
-![ct-schema](@learning-object/m_ct04_01/nl/3)
