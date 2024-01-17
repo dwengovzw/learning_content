@@ -29,15 +29,10 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-
 # Solliciteren
 
-Kijk naar [Filmpje van Kanaal Z (De Winne, 2020)](https://kanaalz.knack.be/nieuws/taalgebruik-op-cv-onthultpersoonlijkheid/video-normal-1678309.html)
-
-
-Bekijk de [video van Furhat Robotics: Unbiased Recruiter Robot (Furhat Robotics, 2018)](https://youtu.be/rPKrdxiEkQ0)
-
-
+Zal er in de toekomst nog op de klassieke manier gesolliciteerd worden? Waarschijnlijk niet. <br>
+Solliciteren is eigenlijk al grondig veranderd toen werkgevers toekomstige werknemers zijn beginnen te screenen op sociale media. <br>De digitalisering leidt bovendien tot nieuwe vormen van soliciteren, zoals het inzetten van video. Op basis van socialemediaposts en sollicitatiebrieven wordt ook aan profilering gedaan. 
 
 **Impact: Nieuwe manieren van solliciteren**<br>
 
@@ -58,9 +53,7 @@ Daarbij wordt niet enkel rekening gehouden met wat
 de sollicitant zegt, maar ook met gelaatsuitdrukkingen
 bijvoorbeeld.
 
-Zal er in de toekomst nog op de klassieke manier gesolliciteerd worden? Waarschijnlijk niet. Solliciteren is
-eigenlijk al grondig veranderd toen werkgevers toekomstige werknemers zijn beginnen te screenen op sociale
-media.
+
 
 In het Chatbot-project worden voorbeelden gegeven van nieuwe praktijken die steeds
 meer hun weg vinden naar de sector van human resource, zoals het screenen van
@@ -123,13 +116,9 @@ bevatten als de trainingdata.
 -------------------------------
 ## Gerelateerde voorbeelden: 
 
------------------------------
-### Werking 
-In het leerpad '' wordt [de werking] uit de doeken gedaan.
-
------------------------------
-#### Leestips
-
-
+-----
 
 #### Kijktips
+Kijk naar [Filmpje van Kanaal Z (De Winne, 2020)](https://kanaalz.knack.be/nieuws/taalgebruik-op-cv-onthultpersoonlijkheid/video-normal-1678309.html)
+
+Bekijk de [video van Furhat Robotics: Unbiased Recruiter Robot (Furhat Robotics, 2018)](https://youtu.be/rPKrdxiEkQ0)
