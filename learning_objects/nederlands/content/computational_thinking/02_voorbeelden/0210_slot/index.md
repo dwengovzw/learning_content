@@ -30,3 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Samengevat
+
+Deze grote hoeveelheid aan voorbeelden kan overweldigend overkomen. Maar misschien herken je er wel een van je lesonderwerpen in, 
+en leer je zo met een 'computationeel denken'-blik naar je eigen lessen kijken. 
