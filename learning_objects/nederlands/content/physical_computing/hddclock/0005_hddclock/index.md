@@ -38,6 +38,3 @@ Nu we weten hoe een HDD klok werkt en hoe dit gerealiseerd kan worden, is het bo
 Om de HDD klok te bouwen kan je gebruik maken van de stukken die gesneden werden door de lasercutter. Met de houtstukken kan je net dezelfde constructie maken als in de foto. Let wel op dat de snelheidssensor zoals in de afbeelding bovenaan staat. De cycli waar we het daarnet over hadden start immers op de positie van de snelheidssensor en analoge klok start ook bovenaan. Voor de Dwenguino kan je net zoals bij de houtstukken de foto's raadplegen om zeker te zijn dat alles correct aangesloten is. 
 
 Programmeer de code op de Dwenguino en test ze uit! 
-
-
-

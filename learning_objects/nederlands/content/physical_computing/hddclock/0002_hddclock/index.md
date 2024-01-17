@@ -41,7 +41,7 @@ De uitleg over de componenten die je hieronder terugvindt, bevat informatie teru
 Om met de Dwenguino een theremin te maken, zal je gebruik maken van 4 onderdelen:
 
 - Lcd-scherm
-- Servomotor
+- Spindelmotor
 - Ledstrip
 - Snelheidssensor
 
@@ -56,19 +56,13 @@ Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worde
 Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. 
 In deze oefening wordt het LCD-scherm enkel gebruikt om weer te geven dat de microcontroller bezig is met de HDD-klok.
 
-### Servo motor
+### Spindelmotor
 
-![](embed/servos.png "Servo")
+![](embed/spindlemotor.gif "Spindelmotor")
 
-Een servomotor kan gebruikt worden om beweging te voorzien. 
-Er zijn twee soorten:<br>
-    <br>
-    - *De blauwe servomotor*: Deze servomotor kan slechts 180 graden draaien. Je kan deze m.a.w. gebruiken om een halve draaibeweging uit te voeren.
-    - *De zwarte servomotor*: Deze servomotor kan 360 graden draaien. Deze gebruik je bijvoorbeeld om iets constant te laten draaien.<br>
-    <br>
-    Het voordeel van de blauwe servomotor t.o.v. de zwarte servomotor is dat je de positie (de draaihoek) exact kunt bepalen. Hij is dus beter voor precieze bewegingen. Het nadeel is dan weer dat het wat ingewikkelder is om deze te programmeren
+Een spindelmotor kan gebruikt worden om een schijf te doen draaien en is een onderdeel van een harde schijf, ook wel een HDD genoemd. Het is ook daarom dat we deze klok een HDD klok noemen. Een harde schijf wordt normaal gezien gebruikt om geheugen te voorzien in een computer.  
 
-Tijdens deze oefening maken we gebruik van een zwarte servomotor die 360 graden kan draaien. We gebruiken deze om de schijf aan een hoge snelheid te laten bewegen.
+Tijdens deze oefening maken we gebruik van een spindelmotor om een schijf met een smalle gleuf aan een hoge snelheid te laten bewegen.
 
 
 ### Ledstrip
