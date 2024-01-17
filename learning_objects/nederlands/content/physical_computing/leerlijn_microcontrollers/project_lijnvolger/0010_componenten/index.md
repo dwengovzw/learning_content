@@ -55,17 +55,17 @@ Voor dit project heb je de volgende componenten nodig:
     <tr>
         <td>M3 bouten 50mm</td>
         <td>6</td>
-        <td><img src="img/chassis_render.png"></img></td>
+        <td><img src="img/bolt_render.png"></img></td>
     </tr>
     <tr>
         <td>M3 bouten 5mm</td>
         <td>8</td>
-        <td><img src="img/chassis_render.png"></img></td>
+        <td><img src="img/bolt_m3_5mm_render.png"></img></td>
     </tr>
     <tr>
         <td>M3 moeren</td>
         <td>6</td>
-        <td><img src="img/chassis_render.png"></img></td>
+        <td><img src="img/m3_nut_render.PNG"></img></td>
     </tr>
     <tr>
         <td>Male-Female kabels</td>
