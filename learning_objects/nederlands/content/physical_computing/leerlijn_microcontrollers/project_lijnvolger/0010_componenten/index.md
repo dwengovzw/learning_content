@@ -72,6 +72,16 @@ Voor dit project heb je de volgende componenten nodig:
         <td>6x3</td>
         <td><img src="img/chassis_render.png"></img></td>
     </tr>
+    <tr>
+        <td>HC-06 bluetooth module</td>
+        <td>1</td>
+        <td><img src="img/hc-06_render.PNG"></img></td>
+    </tr>
+    <tr>
+        <td>Dwenguino met breadboard</td>
+        <td>1</td>
+        <td><img src="img/chassis_render.png"></img></td>
+    </tr>
 </table>
 
 
