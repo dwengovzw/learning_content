@@ -93,7 +93,7 @@ computationeel denken en handelen.
 * modellen ontwerpen
 * modellen construeren
 
-|**Praktijken betreffende het computationeel oplossen van problemen**
+**Praktijken betreffende het computationeel oplossen van problemen**
 * problemen voorbereiden om computationeel op te lossen
 * programmeren
 * effectieve tools kiezen
