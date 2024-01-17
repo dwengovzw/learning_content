@@ -15,7 +15,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_soorten_pinnen",
+              "hruid": "leerlijn_project_lijnvolger_componenten",
               "version": "1",
               "language": "nl"
             }
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_soorten_pinnen",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_componenten",
         "version": "1",
         "language": "nl",
         "transitions": [
