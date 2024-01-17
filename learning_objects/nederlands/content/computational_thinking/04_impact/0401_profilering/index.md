@@ -64,7 +64,7 @@ Schwartz et al. illustreren dit met enkele woordenwolken die ze hebben opgesteld
 #### Bronnen
 De Gussem, J. & Daelemans, W. (2020). Ben je wat je schrijft? *EOS Psyche & Brein Special*, (pp. 40–43).<br>
 Schwartz, H., Eichstaedt, J., Kern, M., Dziurzynski, L., Ramones, S., Agrawal, M., Shah, A., Kosinski, M., Stillwell, D., Seligman, M., & Ungar, L. (2013). Personality, Gender,
-and Age in the Language of Social Media: The Open-Vocabulary Approach. *PLOS ONE,8*(9).
+and Age in the Language of Social Media: The Open-Vocabulary Approach. *PLOS ONE, 8*(9).
 
 
 
