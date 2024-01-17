@@ -188,11 +188,11 @@ Lu, J. & Fletcher, G. (2009). Thinking about Computational Thinking. *ACM Sigcse
 Mishra, P. & Yadav, A. (2013). Of Art and Algorithms: Rethinking Technology & Creativity in the 21st Century. TechTrends, 57(3), 10–14.<br>
 Weintrop, D., Beheshti, E., Horn, M., Orton, K., Jona, K., Trouille, L., & Wilensky, U. (2016). Defining Computational Thinking for Mathematics and Science Classrooms. *Journal of Science Education and Technology, 25*.<br>
 
-**Berry (2021a) en (2021b)**
-**Cansu et al. (2019)**
-**Lee et al. (2011)**
-**Lee & Malyn-Smith (2019)**
-**Taub 2014 Yevseyeva 2012**
-Weintrop et al. **(2015) **<br>
-**Yadav et al. (2016)**
+**Berry (2021a) en (2021b)**<br>
+**Cansu et al. (2019)**<br>
+**Lee et al. (2011)**<br>
+**Lee & Malyn-Smith (2019)**<br>
+**Taub 2014 Yevseyeva (2012)**<br> 
+**Weintrop et al. (2015)**<br>
+**Yadav et al. (2016)**<br>
 
