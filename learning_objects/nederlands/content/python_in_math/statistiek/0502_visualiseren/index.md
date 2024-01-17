@@ -34,7 +34,11 @@ teacher_exclusive: false
 
 ## Taart- en staafdiagram, en histogram
 
-Als je werkt met data, dan is het belangrijk dat je die data op een geschikte manier visualiseert.
+Als je werkt met data, dan is het belangrijk dat je die data op een **geschikte** manier visualiseert.
+
+Een cirkeldiagram (of taartdiagram), staafdiagram, histogram, boxplot en spreidingsdiagram zijn verschillende manieren om data voor te stellen. Maar niet elke voorstelling is altijd even geschikt. <br>
+Een taartdiagram is meestal niet de beste keuze omdat mensen niet goed in staat zijn om de verhoudingen tussen de groottes van de verschillende cirkelsectoren met elkaar te vergelijken. Als er meer dan 5 sectoren zijn, kies je beter een andere voorstelling dan een taartdiagram.
+
 
 In drie notebooks ga je aan de slag met datasets; sommige zijn aanzienlijk groot. <br>
 Je leert data visualiseren met Python in een taartdiagram, staafdiagram of een histogram.
