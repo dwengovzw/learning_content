@@ -46,19 +46,19 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
     - lengte;
     - weer;
     - karakter.
-    - - Geschiktheid van de wegen voor vrachtwagens.
-    - - Lokaal karakter zoals woonwijk of industriepark. 
+      - Geschiktheid van de wegen voor vrachtwagens.
+      - Lokaal karakter zoals woonwijk of industriepark. 
     - Tot welke databanken heeft de routeplanner toegang? 
-       -- Een databank van commerciële partners zoals bepaalde winkels, tankstations, ...
-       -- Wegenwerken
+       - Een databank van commerciële partners zoals bepaalde winkels, tankstations, ...
+       - Wegenwerken
     ...
 3. Een algoritme om het kortste, snelste of meest optimale pad te bepalen    
 4. Vastleggen of en hoe de routeplanner real time aanpassingen kan doen aan de route.
     - Een mobiele internetverbinding
     - Real time positie van de gebruiker 
-    - - Global positioning system (gps)
+      - Global positioning system (gps)
     - Real time verkeersinformatie
-    - - Wordt ervoor gekozen om real time informatie over de routes van de gebruikers te communiceren?
+      - Wordt ervoor gekozen om real time informatie over de routes van de gebruikers te communiceren?
 </decomposition>
 <patternRecognition>
 Het systeem kan informatie bekomen via **patroonherkenning**, bijvoorbeeld:

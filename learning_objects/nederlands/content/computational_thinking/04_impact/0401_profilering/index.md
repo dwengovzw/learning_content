@@ -81,6 +81,12 @@ Het Gentse bedrijf Traicie werkt aan een AI-systeem dat op basis van **sollicita
 
 Het bestuderen van socialemediaposts van een gebruiker wordt ook gebruikt om in te schatten voor wie die zou stemmen bij een aankomende **verkiezing**.
 
+Aanbevelingsalgoritmes op Netflix. 
+
+Aanbevelingsalgoritmes bij online shopping zoals op Amazon, bol, coolblue en Zalando.  
+
+Aanbevelingsalgoritmes op sociale media zoals 'wie te volgen' op Twitter.
+
 -------------------------------
 #### Leestips 
 
