@@ -1,8 +1,8 @@
 ---
-hruid: art_0034
+hruid: art_0310
 version: 1
 language: nl
-title: "Taak"
+title: "Kraken inschilderen"
 description: "Lam Gods"
 keywords: ["Lam Gods"]
 content_type: "text/markdown"
@@ -22,6 +22,6 @@ target_ages: [10, 11, 12, 13]
 
 # Lam Gods
 
-## Taak
+## Kraken inschilderen
 
-Tekst
+Lichtjes moeilijkere uitleg dan andere hoofdstukken..
