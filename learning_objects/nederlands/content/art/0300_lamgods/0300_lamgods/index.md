@@ -1,10 +1,10 @@
 ---
-hruid: art_0031
+hruid: art_0300
 version: 1
 language: nl
-title: "Titel"
+title: "Inleiding"
 description: "Lam Gods"
-keywords: ["Lam Gods"]
+keywords: ["Lam Gods", "restauratie"]
 content_type: "text/markdown"
 estimated_time: 5
 skos_concepts: [
@@ -22,4 +22,6 @@ target_ages: [10, 11, 12, 13]
 
 # Lam Gods
 
-Tekst
+## Inleiding
+
+In dit leerpad leer je hoe schilderijen beschadigd raken en hoe men deze schade opspoort en herstelt.

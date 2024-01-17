@@ -1,12 +1,12 @@
 ---
-hruid: art_0036
+hruid: org-dwengo-jommeke-images-spot
 version: 1
 language: nl
-title: "Artikel"
-description: "Lam Gods"
-keywords: ["Lam Gods"]
-content_type: "text/markdown"
-estimated_time: 5
+title: "Boston Dynamics Spot"
+description: "The spot robot created by Boston Dynamics"
+keywords: ["Robot", "AI-systeem", "artificiële intelligentie"]
+content_type: "image/image"
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -19,9 +19,3 @@ skos_concepts: [
 copyright: "CC BY dwengo"
 target_ages: [10, 11, 12, 13]
 ---
-
-# Lam Gods
-
-## Artikel
-
-Tekst

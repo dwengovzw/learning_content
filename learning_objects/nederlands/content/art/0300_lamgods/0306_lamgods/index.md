@@ -1,8 +1,8 @@
 ---
-hruid: art_0033
+hruid: art_0306
 version: 1
 language: nl
-title: "Taak"
+title: "Artikel"
 description: "Lam Gods"
 keywords: ["Lam Gods"]
 content_type: "text/markdown"
@@ -22,6 +22,6 @@ target_ages: [10, 11, 12, 13]
 
 # Lam Gods
 
-## Taak
+## Artikel
 
 Tekst
