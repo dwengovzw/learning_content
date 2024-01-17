@@ -26,6 +26,8 @@ teacher_exclusive: false
 
 In dit leerpad leer je hoe je een lijnvolger kan bouwen en programmeren. De lijnvolger heeft twee wielen, een set van sensoren om de lijn te detecteren en een Bluetooth module om telemetrie door te sturen naar de computer. Binnen dit project maak je kennis met verschillende concepten. Je leert hoe je dc-motoren moet aansluiten en programmeren, hoe je analoge sensoren moet uitlezen, hoe je data verstuurt naar de computer, hoe je deze data kan visualiseren op de computer en hoe je ee PID regeling programmeert.
 
+
 TODO: Add video
+
 
 
