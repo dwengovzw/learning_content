@@ -31,14 +31,19 @@ teacher_exclusive: true
 ---
 # ChatGPT
 
-In november 2022 lanceerde OpenAI ChatGPT. En hoewel GPT er al is sinds 2018 en toepassingen op grote taalmodellen al enige tijd aanwezig zijn op het world wide web, stelden velen plots vast dat kunstmatige intelligentie toch geen sciencefiction is. <br>
+In november 2022 lanceerde OpenAI ChatGPT. En hoewel GPT er al is sinds 2018 en toepassingen op grote taalmodellen al enige tijd aanwezig zijn op het world wide web, kwamen velen tot het besef dat kunstmatige intelligentie toch geen sciencefiction is. <br>
 Sindsdien staan de kranten er vol van en wordt de ene na de andere (commerciële) toepassing ontwikkeld. ChatGPT heeft reeds toepassingen in verschillende domeinen, zoals het aanwerven van nieuw personeel en het automatisch genereren van nieuwssites. Tegelijkertijd brengt ChatGPT ook zorgen met zich mee, zoals het verspreiden van desinformatie.<br>
 De komst van ChatGPT heeft een grote impact, bijvoorbeeld op het onderwijs. Zo zijn leerkrachten op hun hoede voor het mogelijk frauderen van leerlingen. Ze zijn bijvoorbeeld sneller achterdochtig als leerlingen een vlotte tekst indienen; heel wat leerkrachten herdenken daarom de opdrachten voor hun leerlingen. Anderzijds gebruiken ze zelf ChatGPT om oefeningen op te stellen. 
 
 In dit leerpad ga je dieper in op een van de aspecten van ChatGPT: een aspect dat van wezenlijk belang is voor de impact van het AI-systeem. 
 
 **Impact: Omdat de antwoorden van ChatGPT vlot en zelfzeker klinken, worden deze antwoorden vaak onterecht als correct aangezien.**<br>
-....
+
+<div class="alert alert-box alert-info">
+    Murray Shanahan zegt dat we goed moeten beseffen wat een groot taalmodel doet. "Veronderstel dat we de volgende prompt geven aan een LLM: “The first person to walk on the Moon was”,  en stel dat het antwoordt met “Neil Armstrong”. Wat vragen we hier eigenlijk? Het is belangrijk om in te zien dat we eigenlijk niet vragen wie de eerste persoon was die op de maan wandelde. De vraag die we echt stellen aan het model is de volgende vraag:  Gegeven de  statistische verdeling van de woorden in de uitgebreide publieke corpus van (Engelse) tekst, welke woorden volgen er het meest waarschijnlijk op de reeks “The first person to walk on the Moon was ”? Een goed antwoord op deze vraag is “Neil Armstrong” (Bron: Talking About Large Language Models, Murray Shanahan, 2022).
+</div>
+
+Het komt dus voor dat ChatGPT 'hallucineert', anders gezegd: onzin verkoopt.
 
 
 ## Principes van computationeel denken
@@ -51,9 +56,18 @@ In dit leerpad ga je dieper in op een van de aspecten van ChatGPT: een aspect da
 * ChatGPT gebruikt patroonherkenning om natuurlijke taal te begrijpen en te genereren. Het model leert patronen in tekstdata en gebruikt deze om zinnen te vormen die coherent en relevant zijn.
 
 
+
 ## Bespreking van de impact
 
-Het komt dus voor dat ChatGPT 'hallucineert', anders gezegd: onzin verkoopt.
+
+
+De training van ChatGPT is een combinatie van gesuperviseerd, ongesuperviseerd en versterkend leren:
+- Gesuperviseerd leren: Hij heeft eerst allemaal digitale teksten aangeboden gekregen, bv. wikipedia, boeken die online staan, online discussiefora … Daarin heeft hij allerlei patronen in herkend. A.d.h.v.  al die teksten leerde hij teksten genereren, gebaseerd op een gegeven stuk tekst. Dus gegeven een stuk tekst, leerde hij voorspellen welke woorden er het meest waarschijnlijk erop volgen. Vervolgens heeft men het model geleerd om ook met dialoog om te gaan, m.a.w. leren antwoorden op een prompt. - Ongesuperviseerd leren: Vervolgens heeft men hem teksten laten genereren. Mensen hebben dan telkens 3 teksten gerangschikt: goed – beter – best, naar wat zij de meest wenselijke of menselijke tekst vinden. Op basis daarvan heeft men ongesuperviseerd een scoresysteem getraind. Dit scoresysteem heeft dus zelf moeten achterhalen aan welk patroon de meest wenselijke output beantwoordt.  - Versterkingsgebaseerd leren: op basis van dat scoresysteem heeft het systeem zichzelf verbeterd om zo menselijk mogelijk te antwoorden op een prompt.
+
+![trainingchatgpt](https://github.com/dwengovzw/learning_content/assets/48352335/252a8bf4-6ff2-4f60-b81b-a23d7919fb2f)
+
+
+
 
 ------
 Tevredenheid over een chatbotgesprek kan bijdragen aan de klantentevredenheid of die voor een stuk teniet doen. <br>
