@@ -49,7 +49,7 @@ Bij elke set wordt ook een [**ficheboekje**](embed/ficheboekje_lkr.pdf "Ficheboe
 Dwengo verkoopt deze kits in sets van 5. Voor meer informatie kan je in [**onze webshop**](https://www.dwengo.org/shop/) terecht.
 
 ## Materiaal ontlenen
-Voor scholen uit de [**provincie Oost-Vlaanderen**](https://oost-vlaanderen.be/leren/educatief-materiaal/de-sociale-robot.html) stelt de provincie 6 sets ter beschikking. Deze kunnen in overleg met de verantwoordelijken ontleend worden via <a href="mailto:jorinde.lannau@oost-vlaanderen.be">mail</a>.  
+Voor scholen uit de [**provincie Oost-Vlaanderen**](https://oost-vlaanderen.be/leren/materialen-activiteiten-scholen/educatief-materiaal/stem/secundair-onderwijs/de-sociale-robot.html) stelt de provincie 6 sets ter beschikking. Deze kunnen in overleg met de verantwoordelijken ontleend worden via <a href="mailto:jorinde.lannau@oost-vlaanderen.be">mail</a>.  
 
 Scholen van het [**Provinciaal Onderwijs Vlaanderen**](https://povsites.be/stem/voorbereiding-project-sociale-robot/) kunnen terecht bij hun [pedagogische begeleidingsdienst](https://povsites.be/stem/voorbereiding-project-sociale-robot/#kits-en-lesfiches).
 
