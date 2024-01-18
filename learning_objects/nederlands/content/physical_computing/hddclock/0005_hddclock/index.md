@@ -35,6 +35,9 @@ teacher_exclusive: true
 ## HDD klok bouwen
 
 Nu we weten hoe een HDD klok werkt en hoe dit gerealiseerd kan worden, is het bouwen van een fysieke versie de logische volgende stap. 
-Om de HDD klok te bouwen kan je gebruik maken van de stukken die gesneden werden door de lasercutter. Met de houtstukken kan je net dezelfde constructie maken als in de foto. Let wel op dat de snelheidssensor zoals in de afbeelding bovenaan staat. De cycli waar we het daarnet over hadden start immers op de positie van de snelheidssensor en analoge klok start ook bovenaan. Voor de Dwenguino kan je net zoals bij de houtstukken de foto's raadplegen om zeker te zijn dat alles correct aangesloten is. 
+Om een HDD klok te bouwen hebben we de eerder vermelde componenten nodig en een constructie om het af te werken en mooier te presenteren. We hangen de schijf vast aan de spindelmotor, zorgen dat de schijf door de snelheidssensor gaat en voorzien een ledstrip achter de draaiende schijf. Dit kan allemaal gebeuren in de voorziene constructie, die kan worden gebouwd met houten stukken gesneden door een lasercutter.
+Ten slotte verbinden we alles met de Dwenguino zodat deze de componenten kan besturen en we de klok daadwerkelijk kunnen gebruiken! 
 
-Programmeer de code op de Dwenguino en test ze uit! 
+Programmeer de code op de Dwenguino en test de HDD klok eens uit, als alles goed verlopen is dan zou de klok als volgt moeten werken
+
+<img src="embed/HDDClock.png" alt="Werkende HDD klok." title="Werkende HDD klok."></img>
