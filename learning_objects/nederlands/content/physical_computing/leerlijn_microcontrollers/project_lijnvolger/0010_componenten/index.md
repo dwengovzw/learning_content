@@ -80,7 +80,7 @@ Voor dit project heb je de volgende componenten nodig:
     <tr>
         <td>Dwenguino met breadboard</td>
         <td>1</td>
-        <td><img src="img/chassis_render.png"></img></td>
+        <td><img src="img/dwenguino_render_9.png"></img></td>
     </tr>
 </table>
 
