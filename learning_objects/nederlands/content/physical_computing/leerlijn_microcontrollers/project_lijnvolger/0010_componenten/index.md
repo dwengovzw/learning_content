@@ -50,7 +50,7 @@ Voor dit project heb je de volgende componenten nodig:
     <tr>
         <td>Chassis</td>
         <td>1</td>
-        <td><img src="img/chassis_render.png"></img></td>
+        <td><img src="img/chassis_render2.png"></img></td>
     </tr>
     <tr>
         <td>M3 bouten 50mm</td>
