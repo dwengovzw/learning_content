@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-ChatGPT 
+De antwoorden van ChatGPT zijn niet altijd correct. 
 </div>
 </context>
 <decomposition>
@@ -43,14 +43,13 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 </decomposition>
 <patternRecognition>
 1. Natural Language Processing: natuurlijke taal begrijpen en genereren a.d.h.v. patronen. ChatGPT begrijpt dus geen tekst op een manier dat een mens tekst begrijpt. 
-2. Verschillende toepassingen zijn net als ChatGPT gebaseerd op grote taalmodellen, bv. automatische vertaling en zoekachines. 
-    (**patroonherkenning**)
+2. Toepassingen, zoals automatische vertaling en zoekachines, zijn net als ChatGPT gebaseerd op grote taalmodellen. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Woorden, zinsdelen, zinnen, paragrafen zijn gerepresenteerd als vectoren die rekening houden met 'veel samen voorkomen', de betekenis, ... maar worden zo ook uit hun context gerukt. ChatGPT zal gegeven een bepaalde tekst berekenen welk woord er het best op volgt. Het komt dus voor dat ChatGPT 'hallucineert', en dus onzin verkoopt. (**abstractie**)<br>
+Woorden, zinsdelen, zinnen, paragrafen zijn gerepresenteerd als vectoren die rekening houden met 'veel samen voorkomen', de betekenis, ...,  maar worden zo ook uit hun context gerukt. Als een bepaalde tekst aan ChatGPT wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt. Hij houdt daarmee dus geen rekening met het waarheidsgehalte. (**abstractie**)<br>
 </abstraction>
 <algorithms>
-Het **algoritme** achter ChatGPT is getraind aan de hand van massa's digitale teksten. Aan de hand van gelabelde voorbeelden is het model ook leren omgaan met dialoog. Om het systeem 'menselijkere' antwoorden op prompts te laten genereren heeft men mensen de gegenereerde teksten laten ordenen van minder goed naar best. Op basis daarvan heeft men een scoresysteem ontwikkeld dat gebruikt werd om ChatGPT door versterkend leren te verbeteren in die zin dat het meer menselijke antwoorden geeft. <br>
+Het **algoritme** achter ChatGPT is getraind aan de hand van massa's digitale teksten. Aan de hand van gelabelde voorbeelden is het model ook leren omgaan met dialoog. Om het systeem 'menselijkere' antwoorden op prompts te laten genereren heeft men mensen de gegenereerde teksten laten ordenen van minder goed naar best. Op basis daarvan heeft men een scoresysteem ontwikkeld dat gebruikt werd om ChatGPT door versterkend leren te verbeteren in die zin dat hij meer menselijke antwoorden geeft. <br>
 </algorithms>
 <implementation>
 </implementation>
