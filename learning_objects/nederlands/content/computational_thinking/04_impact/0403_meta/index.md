@@ -40,6 +40,7 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
     - Prompt 'begrijpen'.
     - Als een bepaalde tekst aan ChatGPT wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt.
     - ChatGPT werkt in een dialoogvorm.
+    - ChatGPT is heel snel.
 2. Training ChatGPT
     - Vertrekken van een groot taalmodel dat heeft leren genereren a.d.h.v. teksten tot begin 2021
         - massa's digitale teksten, bv. Wikipedia, Reddit, websites en Engelstalige boeken 
