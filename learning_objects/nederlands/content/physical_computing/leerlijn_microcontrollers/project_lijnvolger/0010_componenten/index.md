@@ -68,8 +68,8 @@ Voor dit project heb je de volgende componenten nodig:
         <td><img src="img/m3_nut_render.PNG"></img></td>
     </tr>
     <tr>
-        <td>Male-Female kabels</td>
-        <td>6x3</td>
+        <td>Kabels</td>
+        <td>6x3 Male-Female<br>12 Male-Male</td>
         <td><img src="img/wire_render.png"></img></td>
     </tr>
     <tr>
@@ -84,4 +84,5 @@ Voor dit project heb je de volgende componenten nodig:
     </tr>
 </table>
 
+Het kan ook nuttig zijn om een batterij te hebben met ofwel een usb aansluiting of een barrel connector zodat je de robot ook autonoom kan laten rijden.
 
