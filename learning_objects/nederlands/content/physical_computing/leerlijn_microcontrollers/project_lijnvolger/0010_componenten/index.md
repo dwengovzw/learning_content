@@ -70,7 +70,7 @@ Voor dit project heb je de volgende componenten nodig:
     <tr>
         <td>Male-Female kabels</td>
         <td>6x3</td>
-        <td><img src="img/chassis_render.png"></img></td>
+        <td><img src="img/wire_render.png"></img></td>
     </tr>
     <tr>
         <td>HC-06 bluetooth module</td>
