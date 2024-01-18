@@ -109,9 +109,14 @@ In het leerpad ['Chatbot'](https://dwengo.org/learning-path.html?hruid=cb1_chatb
 
 [ChatGPT zinvol inzetten in de klas](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=cb_chatbot6&version=3&language=nl)
 
+[Handleiding project 'Chatbot'](https://dwengo.org/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf) (paragraaf 4.3 'Tevreden over de chatbot?', p. 55-58)
+
 [brAInfood: Databescherming & chatbots](https://data-en-maatschappij.ai/publicaties/brainfood-databescherming-en-chatbots)
 
 #### Kijktips
+
+[In gesprek met robots - Eva Verhelst](https://youtu.be/Yit4JwGZjPs?si=L0tn4ET9VTZJAkzs)
+
 [Improbotics van ERLNMYR](https://youtu.be/HEilrWTMTqM?si=fbi6ViiSMESJ6cv9)  met lesmap voor [leerkrachten](https://dwengo.org/assets/files/chatbot/Improbotics_lesmap_Leerkracht.pdf) en [leerlingen](https://dwengo.org/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf).
 
 -----
