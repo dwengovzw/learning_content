@@ -24,4 +24,4 @@ teacher_exclusive: false
 
 # Het ontwerp
 
-Om de robot makkelijk te kunnen bouwen in de klas, ontwierpen we bij Dwengo een frame dat je makkelijk kan 3D printen. Je kan het bestand <a href="/assets/files/physical_computing/chassis_v6.stl">hier</a>downloaden. Het bestand bevat een 3D model in STL formaat. Dergelijke modellen kan je importeren in de slicer software van je 3D printer. Zo kan je de gepaste G-code genereren om het ontwerp op jou printer te printen.
+Om de robot makkelijk te kunnen bouwen in de klas, ontwierpen we bij Dwengo een frame dat je makkelijk kan 3D printen. Je kan het bestand <a href="/assets/files/physical_computing/chassis_v6.stl">hier</a> downloaden. Het bestand bevat een 3D model in STL formaat. Dergelijke modellen kan je importeren in de slicer software van je 3D printer. Zo kan je de gepaste G-code genereren om het ontwerp op jou printer te printen.
