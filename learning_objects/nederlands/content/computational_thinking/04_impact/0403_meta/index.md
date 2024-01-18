@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/ct-schema
 available: true
-target_ages: [12, 13, 14]
+target_ages: [12, 13, 14, 15, 16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -31,25 +31,37 @@ teacher_exclusive: true
 ---
 
 <context>
-De antwoorden van ChatGPT zijn niet altijd correct. 
+De teksten die ChatGPT (3.5) genereert, zijn niet altijd correct. 
 </div>
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. Werking groot taalmodel
-2. Training groot taalmodel
-3. Wat kan ChatGPT? 
-4. Wat kan ChatGPT niet?
+1. Werking ChatGPT 
+    - Prompt 'begrijpen'.
+    - Als een bepaalde tekst aan ChatGPT wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt.
+    - ChatGPT werkt in een dialoogvorm.
+2. Training ChatGPT
+    - Vertrekken van een groot taalmodel dat heeft leren genereren a.d.h.v. teksten tot begin 2021
+        - massa's digitale teksten, bv. Wikipedia, Reddit, websites en Engelstalige boeken 
+    - Leren omgaan met dialoog
+        - oorspronkelijke dataset werd vermengd met conversaties die opgemaakt werden door mensen
+    - Kenmerken menselijke antwoorden detecteren. 
+    - Leren 'menselijkere' antwoorden genereren.
+    - Zoveel mogelijk vermijden dat ChatGPT racistische, seksistische teksten, of haatspraak zou gaan genereren.
+3. ChatGPT heeft geen toegang tot het internet.
+4. Eenvoudige interface
+5. Ontwikkelaars gebruiken input van gebruikers om het systeem te verbeteren.
 </decomposition>
 <patternRecognition>
-1. Natural Language Processing: natuurlijke taal begrijpen en genereren a.d.h.v. patronen. ChatGPT begrijpt dus geen tekst op een manier dat een mens tekst begrijpt. 
+1. Een groot taalmodel werkt op basis van *Natural Language Processing* (NLP); het zal natuurlijke taal begrijpen en genereren a.d.h.v. **patronen**.
 2. Toepassingen, zoals automatische vertaling en zoekachines, zijn net als ChatGPT gebaseerd op grote taalmodellen. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Woorden, zinsdelen, zinnen, paragrafen zijn gerepresenteerd als vectoren die rekening houden met 'veel samen voorkomen', de betekenis, ...,  maar worden zo ook uit hun context gerukt. Als een bepaalde tekst aan ChatGPT wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt. Hij houdt daarmee dus geen rekening met het waarheidsgehalte. (**abstractie**)<br>
+Woorden, zinsdelen, zinnen, paragrafen zijn gerepresenteerd als *vectoren* die rekening houden met 'veel samen voorkomen', de betekenis, ...,  maar worden zo ook uit hun context gerukt. Als een bepaalde tekst aan ChatGPT wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt. *Hij houdt daarmee dus geen rekening met het waarheidsgehalte*. (**abstractie**)<br>
 </abstraction>
 <algorithms>
-Het **algoritme** achter ChatGPT is getraind aan de hand van massa's digitale teksten. Aan de hand van gelabelde voorbeelden is het model ook leren omgaan met dialoog. Om het systeem 'menselijkere' antwoorden op prompts te laten genereren heeft men mensen de gegenereerde teksten laten ordenen van minder goed naar best. Op basis daarvan heeft men een scoresysteem ontwikkeld dat gebruikt werd om ChatGPT door versterkend leren te verbeteren in die zin dat hij meer menselijke antwoorden geeft. <br>
+- ChatGPT is ontstaan uit een groot taalmodel GPT-3.5 (Generative Pre-trained Transformer), een model dat geleerd heeft uit voorbeelden (*gesuperviseerd leren*). Voor de training van GPT 3.5 werden machine learning **algoritmes** gebruikt, waaronder NLP. 
+- Men heeft mensen door ChatGPT gegenereerde teksten laten ordenen van minder goed naar best. Op basis daarvan werd er *ongesuperviseerd* een scoresysteem ontwikkeld. 
+- A.d.h.v. dat scoresysteem werd ChatGPT via *versterkend leren* getraind op het 'menselijker' antwoorden op prompts.
+- Bijkomende training om racisme, seksisme en haatspraak te vermijden.<br>
 </algorithms>
-<implementation>
-</implementation>
