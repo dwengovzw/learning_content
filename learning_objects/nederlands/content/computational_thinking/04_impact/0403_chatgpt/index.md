@@ -35,7 +35,7 @@ In november 2022 lanceerde OpenAI ChatGPT. En hoewel GPT er al is sinds 2018 en 
 Sindsdien staan de kranten er vol van en wordt de ene na de andere (commerciële) toepassing ontwikkeld. ChatGPT heeft reeds toepassingen in verschillende domeinen, zoals het aanwerven van nieuw personeel en het automatisch genereren van nieuwssites. Tegelijkertijd brengt ChatGPT ook zorgen met zich mee, zoals het verspreiden van desinformatie.<br>
 De komst van ChatGPT heeft een grote impact, bijvoorbeeld op het onderwijs. Zo zijn leerkrachten op hun hoede voor het mogelijk frauderen van leerlingen. Ze zijn bijvoorbeeld sneller achterdochtig als leerlingen een vlotte tekst indienen; heel wat leerkrachten herdenken daarom de opdrachten voor hun leerlingen. Anderzijds gebruiken ze zelf ChatGPT om oefeningen op te stellen. 
 
-In dit leerpad ga je dieper in op een van de aspecten van ChatGPT: een aspect dat van wezenlijk belang is voor de impact van het AI-systeem. 
+In dit leerpad ga je dieper in op een van de aspecten van ChatGPT: een aspect dat van wezenlijk bijdraagt aan de impact van het AI-systeem. 
 
 **Impact: Omdat de antwoorden van ChatGPT vlot en zelfzeker klinken, worden deze antwoorden vaak onterecht als correct aangezien.**<br>
 
@@ -43,59 +43,40 @@ In dit leerpad ga je dieper in op een van de aspecten van ChatGPT: een aspect da
     Murray Shanahan zegt dat we goed moeten beseffen wat een groot taalmodel doet. "Veronderstel dat we de volgende prompt geven aan een LLM: “The first person to walk on the Moon was”,  en stel dat het antwoordt met “Neil Armstrong”. Wat vragen we hier eigenlijk? Het is belangrijk om in te zien dat we eigenlijk niet vragen wie de eerste persoon was die op de maan wandelde. De vraag die we echt stellen aan het model is de volgende vraag:  Gegeven de  statistische verdeling van de woorden in de uitgebreide publieke corpus van (Engelse) tekst, welke woorden volgen er het meest waarschijnlijk op de reeks “The first person to walk on the Moon was ”? Een goed antwoord op deze vraag is “Neil Armstrong” (Bron: Talking About Large Language Models, Murray Shanahan, 2022).
 </div>
 
-Het komt dus voor dat ChatGPT 'hallucineert', anders gezegd: onzin verkoopt.
-
-
 ## Principes van computationeel denken
 
 ![ct-schema](@learning-object/m_ct04_03/nl/3)
 
- 
-* ChatGPT kan worden opgesplitst in verschillende componenten, zoals het taalmodel zelf, de trainingsgegevens, en de interface die mensen gebruiken om met het model te communiceren.
-
-* ChatGPT gebruikt patroonherkenning om natuurlijke taal te begrijpen en te genereren. Het model leert patronen in tekstdata en gebruikt deze om zinnen te vormen die coherent en relevant zijn.
-
-
-
 ## Bespreking van de impact
 
+- ChatGPT kent verschillende aspecten: het taalmodel waarop het gebaseerd is, de trainingsdata en de interface die mensen gebruiken om met het model te communiceren.
+- Omdat ChatGPT werkt in een dialoogvorm, is het systeem zeer toegankelijk. Door de gelijkenissen met een app zoals bv. Whatsapp, komt ChatGPT heel vertrouwd over. Die toegankelijkheid is een van de redenen dat ChatGPT zoveel gebruikt wordt.
+- ChatGPT dient eigenlijk om teksten te genereren. Gebaseerd op een groot taalmodel is ChatGPT ook geschikt voor bijvoorbeeld het samenvatten van teksten, teksten om te zetten in een andere stijl, te herschrijven voor een andere doelgroep en te vertalen.
+- Mensen gebruiken ChatGPT echter ook voor zaken waar het systeem niet voor ontworpen is:
+    - ChatGPT inzetten als zoekmachine;
+    - om wiskundeproblemen op te lossen;
+    - om zijn hart bij te luchten (uit onderzoek bleek dat studenten die voordat ChatGPT bestond niet de neiging hadden om te frauderen, dat doorgaans nu ook niet doen, maar dat jongeren wel toevlucht zoeken tot ChatGPT bij emotionele problemen).
+- ChatGPT is zeer snel waardoor iemand met slechte bedoelingen er op korte tijd veel fake nieuws mee kan genereren en vervolgens verspreiden.
+- ChatGPT begrijpt dus geen tekst op een manier dat een mens tekst begrijpt. ChatGPT gebruikt patroonherkenning om natuurlijke taal te begrijpen en te genereren. Het model leert patronen in tekstdata en gebruikt deze om zinnen te vormen die coherent en relevant zijn. Om dat te doen, zal het systeem rekenen. ChatGPT heeft (vooralsnog) geen toegang tot het wereldwijde web en beschikt dus ook niet over de laatste informatie. ChatGPT zal dus zijn beweringen ook niet kunnen staven met bronnen. Het komt dus voor dat ChatGPT 'hallucineert', anders gezegd: onzin verkoopt. (*Als je ChatGPT naar bronnen vraagt, dan zal hij die verzinnen.*)
+- ChatGPT antwoordt op een 'menselijke' manier en komt vriendelijk en hoffelijk over. De stap naar 'vermenselijking', m.a.w. het behandeling van het systeem als een persoon, is dus niet groot.  - Uit een onderzoek van Følstad & Brandtzaeg uit 2020 blijkt dat een chatbotgesprek ook over koetjes en kalfjes kan gaan, of over iemands gevoelens en leven. Sommige gebruikers gaan de uitdaging aan om de chatbot te testen: in hoeverre is de chatbot in staat om als een mens te reageren. Maar voor anderen is de chatbot een manier om de dag door te komen; hoewel
+ze zich ervan bewust zijn dat ze converseren met een machine, wordt de chat aangezien als een waardevolle sociale interactie.
+- Hoewel het systeem op een zelfzekere manier antwoordt, kan je het - vanwege zijn hoffelijke en *pleasing* aard - vaak gemakkelijk overtuigen van een fout (zelf als het er geen is).
+  
+> De meeste chatbots van klantendiensten die er al waren, waren regelgebaseerde systemen. Bij zulke chatbots zijn verschillende scenario’s expliciet
+geprogrammeerd. Dit leidt automatisch tot beperkingen waardoor gebruikers zich moeten aanpassen aan de limieten van het systeem. Bijvoorbeeld als men een vraag aan de chatbot anders formuleert dan geprogrammeerd, dan zal de chatbot de vraag niet herkennen. Zulke chatbots zijn vaak niet populair.
+> Eenzelfde vraag kan bijvoorbeeld op verschillende manieren gesteld worden. Bijvoorbeeld “Zal het vandaag de hele dag regenen?” of “Wordt het vandaag een miezerige dag?”.
+Om een vraag te begrijpen kan wereldkennis, kennis van de fysieke wereld, nodig zijn. Bijvoorbeeld “Is het morgen bikiniweer?”.
+> Er kan humor, ironie of sarcasme in een boodschap verscholen zitten. Bijvoorbeeld “Joepie, mijn trein is weer goed op tijd”.  
+- Tevredenheid over een chatbotgesprek kan bijdragen aan de klantentevredenheid of die voor een stuk teniet doen. Mensen verwachten van een chatbot dat die efficiënt is, een vriendelijke, beleefde persoonlijkheid heeft, en snelle en degelijke antwoorden geeft. Omdat ChatGPT aan deze criteria voldoet, overwegen sommige bedrijven om ChatGPT in te zetten als chatbot van de klantendienst. Wanneer de chatbot dan hallucineert, is de klant daar niet bij gebaat. Bovendien willen gebruikers het duidelijk vermeld zien dat ze met een bot chatten en niet met een mens; ze verwachten dat dat wordt aangegeven. Bedrijven die ChatGPT inzetten als chatbot zouden dat gemakkelijk kunnen verzwijgen, zeker als de systemen in de toekomst nog beter worden.
 
+  
+**Bedenking:** teksten gegenereerd door generatieve AI komen ook online; het is reëel dat deze teksten als trainingdata zullen dienen voor nieuwe systemen. Zal misinformatie en desinformatie zo niet versterkt worden?
 
-De training van ChatGPT is een combinatie van gesuperviseerd, ongesuperviseerd en versterkend leren:
-- Gesuperviseerd leren: Hij heeft eerst allemaal digitale teksten aangeboden gekregen, bv. wikipedia, boeken die online staan, online discussiefora … Daarin heeft hij allerlei patronen in herkend. A.d.h.v.  al die teksten leerde hij teksten genereren, gebaseerd op een gegeven stuk tekst. Dus gegeven een stuk tekst, leerde hij voorspellen welke woorden er het meest waarschijnlijk erop volgen. Vervolgens heeft men het model geleerd om ook met dialoog om te gaan, m.a.w. leren antwoorden op een prompt. - Ongesuperviseerd leren: Vervolgens heeft men hem teksten laten genereren. Mensen hebben dan telkens 3 teksten gerangschikt: goed – beter – best, naar wat zij de meest wenselijke of menselijke tekst vinden. Op basis daarvan heeft men ongesuperviseerd een scoresysteem getraind. Dit scoresysteem heeft dus zelf moeten achterhalen aan welk patroon de meest wenselijke output beantwoordt.  - Versterkingsgebaseerd leren: op basis van dat scoresysteem heeft het systeem zichzelf verbeterd om zo menselijk mogelijk te antwoorden op een prompt.
+-----
 
 ![trainingchatgpt](https://github.com/dwengovzw/learning_content/assets/48352335/252a8bf4-6ff2-4f60-b81b-a23d7919fb2f)
 
-
-
-
 ------
-Tevredenheid over een chatbotgesprek kan bijdragen aan de klantentevredenheid of die voor een stuk teniet doen. <br>
-- Mensen verwachten van een chatbot dat die efficiënt is, en een vriendelijke, beleefde persoonlijkheid heeft. Het is daarom van belang dat reeds bij het begin van een conversatie met een chatbot wordt aangegeven waarmee de chatbot een gebruiker van dienst kan zijn.
-- Gebruikers verwachten snelle en degelijke antwoorden van de chatbot, en wensen via de chatbot effectief tot een oplossing van een probleem te komen.
-- Een chatbot herkent ook best een terugkerende gebruiker, zodat er eventueel ingepikt kan worden op een voorgaand gesprek.
-- Gebruikers zijn geërgerd of gefrustreerd als de chatbot hun vraag niet begrijpt of naast de kwestie antwoordt.
-- Bovenal willen gebruikers het duidelijk vermeld zien dat ze met een bot chatten en niet met een mens; ze verwachten dat dat wordt aangegeven.
-
-Als een bedrijf of organisatie een chatbot op de website plaatst, dan wil men ook dat die zoveel mogelijk gebruikt wordt. De chatbot moet dus tegemoetkomen aan de noden van de gebruikers.
-Vooraleer men een chatbot begint te ontwikkelen, moet men dus eerst de doelgroep afbakenen en hun noden vaststellen. Ook gaat men best na of het met de huidige technologie wel al mogelijk is om het vooropgestelde doel te bereiken. Men moet daarbij rekening houden met tal van zaken. 
-- Eenzelfde vraag kan bijvoorbeeld op verschillende manieren gesteld worden. Bijvoorbeeld “Zal het vandaag de hele dag regenen?” of “Wordt het vandaag een miezerige dag?”.
-Om een vraag te begrijpen kan wereldkennis, kennis van de fysieke wereld, nodig zijn. Bijvoorbeeld “Is het morgen bikiniweer?”.
-- Er kan humor, ironie of sarcasme in een boodschap verscholen zitten. Bijvoorbeeld “Joepie, mijn trein is weer goed op tijd”.
-
-De meest eenvoudige chatbots, waaronder de eerste chatbots zoals ELIZA, zijn regelgebaseerde systemen. Bij zulke chatbots zijn verschillende scenario’s expliciet
-geprogrammeerd. Dit leidt automatisch tot beperkingen waardoor gebruikers zich moeten aanpassen aan de limieten van het systeem. Bijvoorbeeld als men een vraag aan de chatbot anders formuleert dan geprogrammeerd, dan zal de chatbot de vraag niet herkennen. Zulke chatbots zijn vaak niet populair, maar worden toch nog op veel websites gebruikt.
-Moderne chatbots maken gebruik van Natural Language Processing (NLP), dus van machine learning; met deep learning herkent een chatbot wel al vragen met een soortgelijke inhoud.
-
-M.b.v. NLP kan men ook proberen te achterhalen hoe tevreden een gebruiker is over een dienst geleverd door een chatbot of wat de gemoedstoestand van die gebruiker is. Men wendt daarvoor sentimentanalyse en emotiedetectie aan. Geschreven tekst kan immers indicaties bevatten van de emoties, intenties (bv. ook ironie) en opinies van de auteur. Indien het bijvoorbeeld
-nodig zou blijken uit de sentimentanalyse, kan een chatbot een opgestart gesprek bijsturen of doorgeven aan een menselijke werknemer (Feine et al., 2019).
-
-Sentimentanalyse en emotiedetectie komen ook goed van pas bij een chatbot ontwikkeld voor sociale interactie. Uit een onderzoek van Følstad & Brandtzaeg uit
-2020 blijkt dat een chatbotgesprek ook over koetjes en kalfjes kan gaan, of over iemands gevoelens en leven. Sommige gebruikers gaan de uitdaging aan om
-de chatbot te testen: in hoeverre is de chatbot in staat om als een mens te reageren. Maar voor anderen is de chatbot een manier om de dag door te komen; hoewel
-ze zich ervan bewust zijn dat ze converseren met een machine, wordt de chat aangezien als een waardevolle sociale interactie.
-
--------------------------------
 ## Gerelateerde voorbeelden: 
 
 Er zijn verschillende soorten chatbots, bijvoorbeeld: 
@@ -140,6 +121,7 @@ Bingli (2021). Bingli, het slimme medische interview. Geraadpleegd op 1 augustus
 Brants, M. (2020). Vlaams Chatbot Onderzoek bij eindgebruiker. Thomas More. Geraadpleegd op 1 augustus 2021 via https://www.chatbotgids.com/post/vlaams-chatbot-onderzoek-bij-eindgebruiker<br>
 Davies, S. (2021). Love bytes. A chatbot provides emotional support to lonely hearts and potentially mines data from millions of vulnerable users. Geraadpleegd op 9 april
 2021 via https://www.theworldofchinese.com/2021/03/love-bytes/<br>
+Følstad, A. & Brandtzaeg, P. B. (2020). Users’ experiences with chatbots: findings from a questionnaire study. *Qual User Exp, 5*(3).<br>
 Feine, J., Morana, S., & Gnewuch, U. (2019). Measuring Service Encounter Satisfaction with Customer Service Chatbots using Sentiment Analysis. *14th International Conference on Wirtschaftsinformatik.*<br>
 Health, W. (2021). Welcome to the future of mental health. Geraadpleegd op 9 april 2021 via https://woebothealth.com/<br>
 Kenniscentrum Data & Maatschappij (2020a). Chatbots meer dan trouwe medewerkers van een helpdesk. Geraadpleegd op 31 maart 2021 via https://data-en-maatschappij.ai/nieuws/chatbots-meer-dan-trouwemedewerkers-van-een-helpdesk<br>
