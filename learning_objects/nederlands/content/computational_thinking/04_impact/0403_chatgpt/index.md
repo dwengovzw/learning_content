@@ -53,9 +53,9 @@ In dit leerpad ga je dieper in op een van de aspecten van ChatGPT: een aspect da
 
 ## Bespreking van de impact
 
+Het komt dus voor dat ChatGPT 'hallucineert', anders gezegd: onzin verkoopt.
 
-------------
-
+------
 Tevredenheid over een chatbotgesprek kan bijdragen aan de klantentevredenheid of die voor een stuk teniet doen. <br>
 - Mensen verwachten van een chatbot dat die efficiënt is, en een vriendelijke, beleefde persoonlijkheid heeft. Het is daarom van belang dat reeds bij het begin van een conversatie met een chatbot wordt aangegeven waarmee de chatbot een gebruiker van dienst kan zijn.
 - Gebruikers verwachten snelle en degelijke antwoorden van de chatbot, en wensen via de chatbot effectief tot een oplossing van een probleem te komen.
