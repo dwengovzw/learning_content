@@ -112,6 +112,8 @@ In het leerpad ['Chatbot'](https://dwengo.org/learning-path.html?hruid=cb1_chatb
 
 [In gesprek met robots - Eva Verhelst](https://youtu.be/Yit4JwGZjPs?si=L0tn4ET9VTZJAkzs)
 
+[Realistic lip movements](https://youtu.be/pWMPBNGwmMY?si=706_myBZPkYsFxsC&t=142)
+
 [Improbotics van ERLNMYR](https://youtu.be/HEilrWTMTqM?si=fbi6ViiSMESJ6cv9)  met lesmap voor [leerkrachten](https://dwengo.org/assets/files/chatbot/Improbotics_lesmap_Leerkracht.pdf) en [leerlingen](https://dwengo.org/assets/files/chatbot/Improbotics_lesmap_Leerling.pdf).
 
 -----
