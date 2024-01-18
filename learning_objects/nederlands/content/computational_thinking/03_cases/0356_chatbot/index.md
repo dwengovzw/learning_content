@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [12, 13, 14, 15, 16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -32,13 +32,25 @@ teacher_exclusive: true
 # Regelgebaseerde chatbot
 
 **_Case in ontwerpfase_**<br>
-**Je kan wel al een kijkje nemen op de projectpagina over [taaltechnologie](https://dwengo.org/chatbot/).**
+
+Hoe kan een chatbot een gestelde vraag, die niet in zijn 'woordenboek' staat, koppelen aan een vraag die er wel in staat en het meest lijkt op de gestelde vraag?
 
 **Doelgroep:** iedereen
 
-**Vak:** /
+**Vak:** Taaltechnologie, wiskunde (in context), PAV
 
-**Voorkennis:** De leerlingen ...
+De chatbot maakt gebruik van de **afstand** tussen woorden of zinnen.
+
+**Voorkennis:** De leerlingen kunnen lezen, tellen en werken met breuken.
+
+## Eenvoudig uitgelegd
+
+[Voorbeeld](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=cb_chatbot1&version=3&language=nl)
+
+## De Levenshteinafstand
+
+[De Levenshteinafstand](https://dwengo.org/learning-path.html?hruid=anm4&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#org_dewengo_levenshtein_intro;nl;1)
+
 
 ![ct-schema](@learning-object/m_ct03_56/nl/3)
 
