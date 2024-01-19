@@ -31,24 +31,41 @@ teacher_exclusive: true
 ---
 
 <context>
-... 
+Geeft spraakassistent input aan aanbevelingsalgoritme voor reclame?  
 </div>
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. ... 
+- Taaltechnologie
+    - speech-to-tect
+    - text-to-speech
+    - tekst analyseren
+    - tekst genereren
+- Dataopslag
+- Energieverbruik
+- Privacyaspecten
+    - tekstdata worden opgeslagen om te kunnen verwerken
+    - worden de data bewaard?
+    - wie heeft toegang tot de data?
+    - worden de data gedeeld?
+        - bv. verwarming aanzetten m.b.v. Siri vergt samenwerking tussen twee digitale systemen 
+- Manier om assistent te activeren 
+    - gesproken trigger
+- Aanbevelingsalgoritme voor gepersonaliseerde reclame
 </decomposition>
 <patternRecognition>
-...  (**patroonherkenning**)
+- Gepersonaliseerde reclame gebeurt o.a. op basis van lookalike audiences (via **patroonherkenning** worden aan een persoon dezelfde interesses toegedicht als van iemand met een soortgelijk profiel)
 </patternRecognition>
 <abstraction>
-... (**abstractie**)<br>
+(**abstractie**)<br>
 </abstraction>
 <algorithms>
-Een **algoritme** ... <br>
-- ... 
+- Spraakherkenningstechnologie om spraak om te zetten naar tekst
+- Natural language processing om betekenis te koppelen aan de tekst
+- Generatieve technologie om eventueel een antwoord te formuleren
+- Spraaksynthesetechnologie om tekst om te zetten naar spraak
+- (Eventueel) een algoritme voor sentimentanalyse
+- Aanbevelingsalgoritme voor gepersonaliseerde reclame
 </algorithms>
-<implementation>
-... 
-</implementation>
+
 
