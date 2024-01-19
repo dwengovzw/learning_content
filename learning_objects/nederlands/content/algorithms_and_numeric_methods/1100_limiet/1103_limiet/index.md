@@ -33,6 +33,6 @@ teacher_exclusive: false
 # Limiet
 
 ## Oefeningen bij limieten van rijen en functies
-Met de technieken die je leerde, kan je nu bv. irrationale getallen zoals het getal *e* en de gulden snede \(\phi\) benaderen. Je vindt hierover oefeningen in de volgende notebook.
+Met de technieken die je leerde, kan je nu bv. irrationale getallen zoals het getal *e* en de gulden snede \\(\phi\\) benaderen. Je vindt hierover oefeningen in de volgende notebook.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6519 "Limiet van rij of functie")
