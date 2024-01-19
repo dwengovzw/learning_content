@@ -31,12 +31,9 @@ teacher_exclusive: true
 ---
 # Zelfscankassa
 
-...
+Meer en meer supermarkten maken gebruik van zelfscankassa's.  
 
-**Impact: ...**<br>
-....
-
-> **Leestips:**<br>
+**Impact: Zelfscankassa's veranderen de manier waarop mensen winkelen en betalen. **<br>
 
 
 ## Principes van computationeel denken
