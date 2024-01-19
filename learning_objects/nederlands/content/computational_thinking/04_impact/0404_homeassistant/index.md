@@ -31,12 +31,14 @@ teacher_exclusive: true
 ---
 # Spraakassistent en reclame
 
+Gebruiken we binnen afzienbare tijd allemaal een spraakassistent? Sinds de komst van ChatGPT zijn steeds meer mensen daarvan overtuigd. <br>
+reeds enkele jaren kunnen we reeds een beroep doen op spraakassistenten, zoals Siri, Alexa of Google assistent. Sommigen maken er dankbaar gebruik van om in de auto iemand op te bellen, om thuis de verwarming aan te steken of om te vragen naar het weerbericht. Mensen die zich eenzaam voelen vinden in een spraakassistent een gesprekspartner. Zo'n *voice assistent* kan dus op meerder manieren impact hebben. <br>
+Hieronder wordt een voorbeeld daarvan uitgewerkt.
+
 **Wat is de impact van het gebruik van een spraakassistent op de reclame die we te zien krijgen? Worden we collectief afgeluisterd?**
 
 De volgende vraag hoor je wel vaker: Luisteren spraakassistenten de hele tijd naar wat we zeggen? En doen ze daar dan ook iets mee? Is het toevallig dat ik reclame krijg over een bepaald product, nu ik daar me een vriendin over gesproken heb?<br>
 Om hierop een duidelijk antwoord te kunnen geven, bekijk je eerst enkele aspecten van de werking van zo'n *voice assistant*, zoals Siri, Alexa of Google assistent.   
-
-> **Leestips:**<br>
 
 ## Principes van computationeel denken
 
@@ -58,14 +60,8 @@ Om hierop een duidelijk antwoord te kunnen geven, bekijk je eerst enkele aspecte
     - Een rapport uit 2019 van het Capgemini Research Institute geeft aan dat een goede samenwerking tussen de in-car voice assistant, de home assistant en de digitale assistent op de smartphone van de gebruikers gewenst is. Dan zouden ze bv. met de in-car voice assistant de garagepoort kunnen openen en de verwarming thuis kunnen aanzetten. Maar zo’n integratie brengt ook aspecten van privacy met zich mee:
 er worden dan immers data gedeeld tussen meerdere toepassingen (Walch, 2020). In theorie zou de digitale assistent op de smartphone zo te weten kunnen komen waar de gebruiker geweest is met de auto.
     - Waar zal de data terechtkomen? Kan dat gevolgen hebben later bij het aanvragen voor een lening bijvoorbeeld?
-
------------------------------
-## Gerelateerde voorbeelden: 
-
 -----------------------------
 ### Werking 
-
-In het leerpad  wordt [de werking] uit de doeken gedaan.
 
 Om via gesproken taal over en weer te kunnen communiceren met een digitale assistent, zoals Siri op een iphone, Alexa thuis en de
 voice assistant in de auto, is zowel spraakherkenningstechnologie (spraak naar tekst) als spraaksynthesesoftware (tekst naar spraak) nodig. De spraaksynthesesoftware is er om de spraakassistent te laten spreken, de spraakherkenningssoftware opdat hij de mens die tegen hem spreekt, zou begrijpen. 
