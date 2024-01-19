@@ -1,6 +1,6 @@
 ---
 hruid: art_0312
-version: 1
+version: 3
 language: nl
 title: "Opdracht"
 description: "Lam Gods"

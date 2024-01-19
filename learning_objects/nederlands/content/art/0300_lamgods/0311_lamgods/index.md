@@ -1,6 +1,6 @@
 ---
 hruid: art_0311
-version: 1
+version: 3
 language: nl
 title: "Parels"
 description: "Lam Gods"

@@ -1,6 +1,6 @@
 ---
 hruid: art_0309
-version: 1
+version: 3
 language: nl
 title: "Digitaal inschilderen"
 description: "Lam Gods"

@@ -1,6 +1,6 @@
 ---
 hruid: art_0302
-version: 1
+version: 3
 language: nl
 title: "Restauratie"
 description: "Lam Gods"

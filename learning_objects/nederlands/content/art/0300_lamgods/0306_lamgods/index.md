@@ -1,6 +1,6 @@
 ---
 hruid: art_0306
-version: 1
+version: 3
 language: nl
 title: "Artikel"
 description: "Lam Gods"

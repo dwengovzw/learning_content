@@ -1,6 +1,6 @@
 ---
 hruid: art_0305
-version: 1
+version: 3
 language: nl
 title: "Kraakdetectie"
 description: "Lam Gods"
