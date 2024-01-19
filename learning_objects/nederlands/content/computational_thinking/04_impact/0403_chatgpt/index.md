@@ -50,6 +50,7 @@ In dit leerpad ga je dieper in op een van de aspecten van ChatGPT: een aspect da
 ## Bespreking van de impact
 
 - ChatGPT kent verschillende aspecten: het taalmodel waarop het gebaseerd is, de trainingsdata en de interface die mensen gebruiken om met het model te communiceren.
+- Om een taalmodel te trainen is veel energie nodig; ook dat is een aspect om bij stil te staan. Ook het gebruiken van ChatGPT vergt energie.
 - Omdat ChatGPT werkt in een dialoogvorm, is het systeem zeer toegankelijk. Door de gelijkenissen met een app zoals bv. Whatsapp, komt ChatGPT heel vertrouwd over. Die toegankelijkheid is een van de redenen dat ChatGPT zoveel gebruikt wordt.
 - ChatGPT dient eigenlijk om teksten te genereren. Gebaseerd op een groot taalmodel is ChatGPT ook geschikt voor bijvoorbeeld het samenvatten van teksten, teksten om te zetten in een andere stijl, te herschrijven voor een andere doelgroep en te vertalen.
 - Mensen gebruiken ChatGPT echter ook voor zaken waar het systeem niet voor ontworpen is:
