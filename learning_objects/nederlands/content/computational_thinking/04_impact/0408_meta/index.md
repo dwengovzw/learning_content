@@ -39,7 +39,7 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 1. Componenten: Zelfscankassa's bestaan uit hardware (zoals scanners en betalingsterminals), software (voor het beheren van transacties en voorraad), en gebruikersinterfaces (touchscreens of mobiele apps).
 </decomposition>
 <patternRecognition>
-    Zelfscankassa's gebruiken patroonherkenning om producten te identificeren, prijzen op te halen en betalingsbewerkingen uit te voeren. Ze herkennen streepjescodes, QR-codes en andere patronen om transacties te vergemakkelijken.<br>
+Zelfscankassa's gebruiken patroonherkenning om producten te identificeren, prijzen op te halen en betalingsbewerkingen uit te voeren. Ze herkennen streepjescodes, QR-codes en andere patronen om transacties te vergemakkelijken.<br>
 -Identificatie van  producten, prijzen, en betalingsmethoden.
 - Herkennen van  streepjescodes, QR-codes, en  betalingsbewerkingpatronen.
  - Versnelling van betalingsprocessen en vermindering van wachttijden.
