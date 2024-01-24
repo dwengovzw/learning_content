@@ -40,9 +40,9 @@ Op die manier kunnen we in één lijn meerdere gegevens doorsturen naar de compu
 <pre>
 <code class="lang-python">
 
-def parse_data_packet(packet):
-    data = packet.strip().split(';')
-    return [float(x) for x in data]
+def parse_data_pakket(pakket):
+    data = pakket.strip().split(';')
+    return [float(getal) for getal in data]
 
 </code>
 </pre>
