@@ -1,6 +1,6 @@
 ---
 hruid: art_0311
-version: 1
+version: 3
 language: nl
 title: "Parels"
 description: "Lam Gods"
@@ -26,13 +26,7 @@ target_ages: [10, 11, 12, 13]
 
 Parels zijn talrijk aanwezig in het Lam Gods. 
 
-
-
-
-
-
 Digitaliseren houdt in dat het schilderij wordt omgezet in pixels. Elke pixel heeft een bepaalde kleur. Deze kleur wordt weergegeven door getallen. 
-
 
 
 Met behulp van deze getallen kan men van zo’n geschilderde parel meerdere kenmerken bestuderen. Men gaat bijvoorbeeld na hoeveel keer een bepaalde grijswaarde voorkomt en waar die voorkomt. 
@@ -46,5 +40,5 @@ Het gestolen paneel van de Rechtvaardige Rechters is vervangen door een kopie ge
 
 
 
-De manier waarop een schilder parels schildert, typeert hem. Het is afhankelijk van zijn vermogen om de natuur te observeren en van zijn kennis van lichtinval. Het is als het ware een digitale handtekening. De statistische analyse van de parels kan dus helpen om te achterhalen wie een bepaald paneel geschilderd heeft en om authentieke werken te o0311_lamgodsnderscheiden van die van andere kunstenaars.
+De manier waarop een schilder parels schildert, typeert hem. Het is afhankelijk van zijn vermogen om de natuur te observeren en van zijn kennis van lichtinval. Het is als het ware een digitale handtekening. De statistische analyse van de parels kan dus helpen om te achterhalen wie een bepaald paneel geschilderd heeft en om authentieke werken te onderscheiden van die van andere kunstenaars.
 

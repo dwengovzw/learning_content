@@ -1,6 +1,6 @@
 ---
 hruid: art_0304
-version: 1
+version: 3
 language: nl
 title: "Technologie"
 description: "Lam Gods"

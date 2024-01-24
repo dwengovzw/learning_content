@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [12, 13, 14, 15, 16, 17, 18]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -31,12 +31,9 @@ teacher_exclusive: true
 ---
 # Zelfscankassa
 
-...
+Meer en meer supermarkten maken gebruik van zelfscankassa's.  
 
-**Impact: ...**<br>
-....
-
-> **Leestips:**<br>
+**Impact: Zelfscankassa's veranderen de manier waarop mensen winkelen en betalen.**<br>
 
 
 ## Principes van computationeel denken
@@ -66,9 +63,11 @@ Om deze privacyzorgen aan te pakken, moeten bedrijven die zelfscankassa's aanbie
 -------------------------------
 ## Gerelateerde voorbeelden: 
 
+Het gebruik van QR-codes in de toerismesector.
+
 -----------------------------
 ### Werking 
-In het leerpad '' wordt [de werking] uit de doeken gedaan.
+
 
 -----------------------------
 #### Leestips

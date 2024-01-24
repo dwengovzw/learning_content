@@ -1,6 +1,6 @@
 ---
 hruid: art_0301
-version: 1
+version: 3
 language: nl
 title: "Geschiedenis"
 description: "Lam Gods"

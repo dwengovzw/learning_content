@@ -27,45 +27,49 @@ teacher_exclusive: false
     <h2 class="subtitle">Hoe werk ik met de tekstuele editor?</h2>
     <div class="items">
         <div class="info_item item">
-            <h3 class="info_item_title">Alle stappen visueel</h3>
+            <h3 class="info_item_title">1. Van grafisch naar tekstueel</h3>
             <p class="info_item_content">
-                <div class="iframe-container iframe-16-9">
-                    <iframe allowfullscreen="" src="https://www.youtube.com/embed/VpAXLlT_JP0" height="315px" width="420px"></iframe>
-                </div>
+                Om te navigeren van de grafische naar de tekstuele programmeeromgeving, klik je op linksboven op de knop.
+            </p>
+            <p class="info_item_content">
+                <img src="img/switch.png" alt="Dwenguinoblockly switch to text" title="The button to switch to the textual IDE"></img>
             </p>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">1. Editor</h3>
+            <h3 class="info_item_title">2. Code</h3>
             <p class="info_item_content">
-                Tekst
+                Wanneer je op de knop drukt, kom je terecht in de tekstuele programmeeromgeving, waar je reeds een stuk code ziet staan. Dit is de achterliggende code voor het programma dat in de grafische programmeeromgeving stond.
             </p>
+            <p class="info_item_content">
+                <img src="img/textualcode.png" alt="Dwenguinoblockly switched to text" title="The code field of the textual IDE"></img>
+            </p>        
+            <p class="info_item_content">
+                Merk ook op dat er bovenaan een tabblad staat genaamd <em>blocks.cpp</em>. 
+            </p>   
+            <p class="info_item_content">
+                <img src="img/text_tab.png" alt="The tab" title="Example of a tab in the textual IDE"></img>
+            </p>     
+            <p class="info_item_content">
+                Voor elke keer dat je van de grafische naar de tekstuele programmeeromgeving gaat of een ander programma inlaadt, komt er hier een nieuw tabblad bij.
+            </p>   
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">2. Editor</h3>
+            <h3 class="info_item_title">3. Code opslaan</h3>
             <p class="info_item_content">
-                Tekst
+                Vooraleer je de code op gaat slaan, geef je het bestand best eerst een naam. Dit kan je doen door te dubbelklikken op de tab. Vervolgens sla je op via de sneltoest <em>ctrl + s</em> of door op het opslaan-icoon rechtsboven te klikken:
             </p>
+            <p class="info_item_content">
+                <img src="img/menu_download.png" alt="Saving in textual IDE" title="Saving in the textual IDE"></img>
+            </p>                         
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">3. Editor</h3>
+            <h3 class="info_item_title">4. Code openen</h3>
             <p class="info_item_content">
-                Tekst 
+                Om in het begin van een sessie je code terug te openen, druk je op het openen-icoon rechtsboven en zoek je het gewenste bestand:
             </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">4. Editor</h3>
             <p class="info_item_content">
-                Tekst
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">5. Editor</h3>
-            <p class="info_item_content">
-                Tekst
-            </p>
+                <img src="img/menu_upload.png" alt="Saving in textual IDE" title="Saving in the textual IDE"></img>
+            </p>              
         </div>
     </div>
 </div>
-
-
-

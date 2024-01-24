@@ -91,7 +91,7 @@ Bij de **brandweer** van Genk zet men drones in om een betere inschatting te kun
 
 -----------------------------
 ### Werking 
-In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://staging.dwengo.org/backend/api/learningObject/getWrapped?hruid=aiz_routeplanner&version=3&language=nl) uit de doeken gedaan.
+In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=aiz_routeplanner&version=3&language=nl) uit de doeken gedaan.
 
 -----------------------------
 #### Leestips

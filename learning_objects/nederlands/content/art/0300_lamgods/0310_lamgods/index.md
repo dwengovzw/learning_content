@@ -1,6 +1,6 @@
 ---
 hruid: art_0310
-version: 1
+version: 3
 language: nl
 title: "Kraken inschilderen"
 description: "Lam Gods"

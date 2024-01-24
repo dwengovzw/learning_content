@@ -1,6 +1,6 @@
 ---
 hruid: art_0300
-version: 1
+version: 3
 language: nl
 title: "Inleiding"
 description: "Lam Gods"
