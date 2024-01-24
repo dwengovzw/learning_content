@@ -45,7 +45,13 @@ teacher_exclusive: false
             </p>        
             <p class="info_item_content">
                 Merk ook op dat er bovenaan een tabblad staat genaamd <em>blocks.cpp</em>. 
-            </p>          
+            </p>   
+            <p class="info_item_content">
+                <img src="img/text_tab.png" alt="The tab" title="Example of a tab in the textual IDE"></img>
+            </p>     
+            <p class="info_item_content">
+                Voor elke keer dat je van de grafische naar de tekstuele programmeeromgeving gaat of een ander programma inlaadt, komt er hier een nieuw tabblad bij.
+            </p>   
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">3. Code opslaan</h3>
@@ -54,9 +60,6 @@ teacher_exclusive: false
             </p>
             <p class="info_item_content">
                 <img src="img/menu_download.png" alt="Saving in textual IDE" title="Saving in the textual IDE"></img>
-            </p>
-            <p class="info_item_content">
-                <img src="img/text_tab.png" alt="The tab" title="Example of a tab in the textual IDE"></img>
             </p>                         
         </div>
         <div class="info_item item">
@@ -70,6 +73,3 @@ teacher_exclusive: false
         </div>
     </div>
 </div>
-
-
-
