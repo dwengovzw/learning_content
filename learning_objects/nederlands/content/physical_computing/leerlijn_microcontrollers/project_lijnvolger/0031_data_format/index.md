@@ -2,7 +2,7 @@
 hruid: leerlijn_project_lijnvolger_data_format
 version: 1
 language: nl
-title: "Telemetrie"
+title: "Dataformaat"
 description: "Hoe stuur ik telemetrie van de robot naar de computer."
 keywords: ["lijnvolger", "dwenguino", "robot", "project", "µC", "bluetooth", "telemetrie", "dataformaat"]
 educational_goals: [
@@ -34,4 +34,16 @@ We kunnen nu tekst sturen vanop de Dwenguino en deze ontvangen op de computer. N
 </code>
 </pre>
 
-Op die manier kunnen we in één lijn meerdere gegevens doorsturen naar de computer.
+Op die manier kunnen we in één lijn meerdere gegevens doorsturen naar de computer. We kunnen deze gegevens in Python gemakkelijk terug van elkaar splitsen. De volgende functie zal een pakket opsplitsen in afzonderlijke waarden en deze teruggeven als een lijst van kommagetallen.
+
+
+<pre>
+<code class="lang-python">
+
+def parse_data_packet(packet):
+    data = packet.strip().split(';')
+    return [float(x) for x in data]
+
+</code>
+</pre>
+
