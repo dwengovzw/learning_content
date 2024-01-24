@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -29,8 +29,9 @@ Voor we onze robot laten rijden, zorgen we ervoor dat we gegevens kunnen verzame
 In onze toepassing zullen we via Bluetooth gegevens over de robot versturen naar de computer. Op de computer lezen we deze gegevens en visualiseren ze in verschillende grafieken. Zo krijgen we inzicht in het gedrag van onze robot.
 
 <div class="dwengo-content sideinfo">
-<h2 class="title">Telemetrie</h2>
+<h2 class="title">Voyager</h2>
 <div class="content">
-Telemetrie is een zeer belangrijke techniek die ingenieurs heel vaak gebruiken. Denk bijvoorbeeld aan toepassingen waarbij het voor een mens onmogelijk is om in de buurt te blijven van het gemonitorde systeem. Bijvoorbeeld een satelliet of een onbemande duikboot. Ook in andere toepassingen is telemetrie nuttig. Bijvoorbeeld om de vitale functies van een patiënt in het ziekenhuis op te volgen. 
+Telemetrie is een zeer belangrijke techniek die ingenieurs heel vaak gebruiken. Denk bijvoorbeeld aan toepassingen waarbij het voor een mens onmogelijk is om in de buurt te blijven van het gemonitorde systeem. Bijvoorbeeld een satelliet of een onbemande duikboot. Hier zie je een voorbeeld van de Voyager 1 satelliet. Deze werd in 1977 de ruimte ingestuurd om de planeten en de interstellaire ruimte buiten voorbij deze planeten te verkennen. In januari 2024 bevond Voyager 1 zich op een afstand van 24.2 miljard kilometer van de aarde. Bijgevolg duurt het meer dan 22 uur tussen het versturen van telemetriegegevens vanop de Voyager tot het ontvangen van die gegevens op aarde. 
+<img src="img/voyager.png"></img>
 </div>
 </div>

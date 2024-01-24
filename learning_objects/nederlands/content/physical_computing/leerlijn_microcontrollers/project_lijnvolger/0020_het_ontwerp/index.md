@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 10
+estimated_time: 40
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -55,7 +55,7 @@ Hieronder zie je een schema van hoe je een sensor kan aansluiten op de µC. We k
 
 ### De Bluetooth module
 
-Op de Dwenguino is een UART connector voorzien. Dit zijn 4 vrouwelijke pin connectoren aan de bovenkant van het bord. Hierop kan je makkelijk een Bluetooth module aansluiten (bv. de HC-06). Hieronder zie je een voorbeeld van hoe je de module kan aansluiten. Kijk zeker goed dat de \\(\mathrm{VCC}\\) en \\(\mathrm{GND}\\) pinnen op de module overeenkomen met respectivelijk de \\(\mathrm{+}\\) en \\(\mathrm{-}\\) pinnen op de Dwenguino.
+Op de Dwenguino is een UART connector voorzien. Dit zijn 4 vrouwelijke pin connectoren aan de bovenkant van het bord. Hierop kan je makkelijk een Bluetooth module aansluiten (bv. de HC-06). Hieronder zie je een voorbeeld van hoe je de module kan aansluiten. **Kijk zeker goed** dat de \\(\mathrm{VCC}\\) en \\(\mathrm{GND}\\) pinnen op de module overeenkomen met respectivelijk de \\(\mathrm{+}\\) en \\(\mathrm{-}\\) pinnen op de Dwenguino.
 
 <img src="img/dwenguino_bt.PNG"></img>
 
