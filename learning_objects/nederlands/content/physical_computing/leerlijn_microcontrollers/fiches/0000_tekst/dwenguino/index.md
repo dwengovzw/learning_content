@@ -44,7 +44,13 @@ teacher_exclusive: false
                 <img src="img/textualcode.png" alt="Dwenguinoblockly switched to text" title="The code field of the textual IDE"></img>
             </p>        
             <p class="info_item_content">
-                Merk ook op dat er bovenaan een tabblad staat genaamd <em>blocks.cpp</em>. Voor elke keer dat je van de grafische naar de tekstuele programmeeromgeving gaat of een ander programma inlaadt, komt er hier een nieuw tabblad bij.
+                Merk ook op dat er bovenaan een tabblad staat genaamd <em>blocks.cpp</em>. 
+            </p>
+            <p class="info_item_content">
+                <img src="img/text_tab.png" alt="The tab" title="Example of a tab in the textual IDE"></img>
+            </p>
+            <p class="info_item_content">      
+                Voor elke keer dat je van de grafische naar de tekstuele programmeeromgeving gaat of een ander programma inlaadt, komt er hier een nieuw tabblad bij.
             </p>                
         </div>
         <div class="info_item item">
@@ -53,7 +59,7 @@ teacher_exclusive: false
                 Vooraleer je de code op gaat slaan, geef je het bestand best eerst een naam. Dit kan je doen door te dubbelklikken op de tab. Vervolgens sla je op via de sneltoest <em>ctrl + s</em> of door op het opslaan-icoon rechtsboven te klikken:
             </p>
             <p class="info_item_content">
-                <img src="img/download.png" alt="Saving in textual IDE" title="Saving in the textual IDE"></img>
+                <img src="img/menu_download.png" alt="Saving in textual IDE" title="Saving in the textual IDE"></img>
             </p>        
         </div>
         <div class="info_item item">
@@ -62,7 +68,7 @@ teacher_exclusive: false
                 Om in het begin van een sessie je code terug te openen, druk je op het openen-icoon rechtsboven en zoek je het gewenste bestand:
             </p>
             <p class="info_item_content">
-                <img src="img/download.png" alt="Saving in textual IDE" title="Saving in the textual IDE"></img>
+                <img src="img/menu_upload.png" alt="Saving in textual IDE" title="Saving in the textual IDE"></img>
             </p>              
         </div>
     </div>
