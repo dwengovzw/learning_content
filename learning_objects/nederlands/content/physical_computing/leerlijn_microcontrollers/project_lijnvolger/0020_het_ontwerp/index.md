@@ -51,3 +51,10 @@ De grondsensoren hebben vier pinnen waarvan we er **drie** zullen gebruiken, de 
 Hieronder zie je een schema van hoe je een sensor kan aansluiten op de µC. We kiezen in dit project voor om de sensoren aan te sluiten op de analoge pinnen van de µC (\\(\mathrm{A0}\\), \\(\mathrm{A1}\\), \\(\mathrm{A2}\\), \\(\mathrm{A3}\\), \\(\mathrm{A4}\\), \\(\mathrm{A5}\\)). Probeer de sensoren aan te sluiten op de correcte pinnen. Baseer je hiervoor op onderstaande voorbeeld van hoe je een sensor op pin \\(\mathrm{A0}\\) aansluit.
 
 <img src="img/ground_sensor_connection.svg"></img>
+
+
+### De Bluetooth module
+
+Op de Dwenguino is een UART connector voorzien. Dit zijn 4 vrouwelijke pin connectoren aan de bovenkant van het bord. Hierop kan je makkelijk een Bluetooth module aansluiten (bv. de HC-06). Hieronder zie je een voorbeeld van hoe je de module kan aansluiten. Kijk zeker goed dat de \\(\mathrm{VCC}\\) en \\(\mathrm{GND}\\) pinnen op de module overeenkomen met respectivelijk de \\(\mathrm{+}\\) en \\(\mathrm{-}\\) pinnen op de Dwenguino.
+
+<img src="img/dwenguino_bt.PNG"></img>
