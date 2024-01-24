@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_wet_van_ohm",
+              "hruid": "leerlijn_project_lijnvolger_telemetrie",
               "version": "1",
               "language": "nl"
             }
@@ -53,14 +53,14 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_wet_van_ohm",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_telemetrie",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_symbolen",
+              "hruid": "leerlijn_bluetooth_dwenguino",
               "version": "1",
               "language": "nl"
             }
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_symbolen",
+        "learningobject_hruid": "leerlijn_bluetooth_dwenguino",
         "version": "1",
         "language": "nl",
         "transitions": [

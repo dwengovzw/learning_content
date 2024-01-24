@@ -49,6 +49,8 @@ Hier de inhoud.
     </div>
 </div>
 
+
+// HTML voor code met link naar simulator.
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
         <code class="language-cpp" data-filename="filename.cpp">

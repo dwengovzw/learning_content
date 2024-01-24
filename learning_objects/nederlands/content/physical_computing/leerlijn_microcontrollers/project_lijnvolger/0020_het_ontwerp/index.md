@@ -58,3 +58,8 @@ Hieronder zie je een schema van hoe je een sensor kan aansluiten op de µC. We k
 Op de Dwenguino is een UART connector voorzien. Dit zijn 4 vrouwelijke pin connectoren aan de bovenkant van het bord. Hierop kan je makkelijk een Bluetooth module aansluiten (bv. de HC-06). Hieronder zie je een voorbeeld van hoe je de module kan aansluiten. Kijk zeker goed dat de \\(\mathrm{VCC}\\) en \\(\mathrm{GND}\\) pinnen op de module overeenkomen met respectivelijk de \\(\mathrm{+}\\) en \\(\mathrm{-}\\) pinnen op de Dwenguino.
 
 <img src="img/dwenguino_bt.PNG"></img>
+
+
+### Een batterij
+
+Om de robot van stroom te voorzien en autonoom te laten rijden, heb je een batterij nodig. De Dwenguino kan je op twee mogelijke manieren voeden. Ofwel via de barrel jack rechtsboven op het bord ofwel via de mini-USB poort linksboven op het bord. Via de barrel jack kan je een batterij van \\(7\mathrm V\\) tot \\(20\mathrm V\\) aansluiten. Op de mini-USB poort kan je een powerbank aansluiten. Deze werkt op \\(5\mathrm V\\). 
