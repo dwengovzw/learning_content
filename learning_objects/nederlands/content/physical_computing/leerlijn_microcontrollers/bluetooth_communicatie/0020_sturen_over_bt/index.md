@@ -48,7 +48,7 @@ Hieronder zie je een basisprogramma dat de twee command's integreert in een prog
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="sturen_bluetooth_eenvoudig.cpp">
-    // Bibliotheken inladen
+
     #include <LiquidCrystal.h>
     #include <Wire.h>
     #include <Dwenguino.h>
