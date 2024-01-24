@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Bluetooth communicatie: data sturen vanop de Dwenguino
 
-Wanneer je een Bluetooth module hebt aangesloten op de UART connector van de Dwenguino, kan je makkelijk gegevens versturen en ontvangen. Je kan deze data in verschillende formaten sturen. In dit voorbeeld werken we met tekst (het String datatype). We zullen deze tekst lijn per lijn sturen. De twee belangrijkste commando's die we nodig hebben zijn:
+Wanneer je een Bluetooth module hebt aangesloten op de UART connector van de Dwenguino, kan je makkelijk gegevens versturen en ontvangen. Je kan deze data in verschillende formaten sturen. In dit voorbeeld werken we met **tekst** (het String datatype). We zullen deze tekst lijn per lijn sturen. De twee belangrijkste commando's die we nodig hebben zijn:
 
 <pre>
     <code class="language-cpp">
@@ -32,7 +32,8 @@ Wanneer je een Bluetooth module hebt aangesloten op de UART connector van de Dwe
     </code>
 </pre> 
 
-Hiermee initialiseren we de communicatie en stellen we de snelheid in waarmee data verstuurd zal worden (<code class="language-cpp">baud_rate</code>). En:
+Hiermee initialiseren we de communicatie en stellen we de snelheid in waarmee data verstuurd zal worden (<code class="language-cpp">baud_rate</code>). 
+En:
 
 <pre>
     <code class="language-cpp">
@@ -46,25 +47,25 @@ Hieronder zie je een basisprogramma dat de twee command's integreert in een prog
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="language-cpp" data-filename="sturen_bluetooth_eenvoudig.cpp">
-// Bibliotheken inladen
-#include <LiquidCrystal.h>
-#include <Wire.h>
-#include <Dwenguino.h>
+<code class="language-cpp" data-filename="sturen_bluetooth_eenvoudig.cpp">
+    // Bibliotheken inladen
+    #include <LiquidCrystal.h>
+    #include <Wire.h>
+    #include <Dwenguino.h>
 
-void setup()
-{
-    initDwenguino(); // Initialiseer de basisfuncties van de Dwenguino
-    // Open communicatie via Serial1, dit is de UART poort waarmee je de Bluetooth module verbonden hebt.
-    // We gebruiken een baud rate (=snelheid) van 9600 bit/s.
-    Serial1.begin(9600);
-}
+    void setup()
+    {
+        initDwenguino(); // Initialiseer de basisfuncties van de Dwenguino
+        // Open communicatie via Serial1, dit is de UART poort waarmee je de Bluetooth module verbonden hebt.
+        // We gebruiken een baud rate (=snelheid) van 9600 bit/s.
+        Serial1.begin(9600);
+    }
 
-void loop()
-{
-    Serial1.println("Mijn eerste pakket.");
-    delay(2000);
-}
-        </code>
+    void loop()
+    {
+        Serial1.println("Mijn eerste pakket.");
+        delay(2000);
+    }
+</code>
     </pre>
 </div>
