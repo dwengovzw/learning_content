@@ -39,7 +39,14 @@ Verkennen van het probleem. Wat heb je nodig? <br>
 Subtaken (**decompositie**):<br>
 <ol>
     <li>Welke invoerelementen?</li>
+        <ol> <li>Bewegingsdetector A (bij beweging is A  = 1)</li>
+             <li>Lichtsensor B (donker B = 0)</li>
+             <li>Schakelaar C (ingedrukt C = 1)</li>
+        </ol>
     <li>Welke uitvoerelementen?</li>
+        <ol>
+            <li>Lamp X (brandt X = 1)</li>
+        </ol>
     <li>Het gevraagde weergeven d.m.v. een waarheidstabel en Karnaugh-diagram. </li>
 </ol>
 </decomposition>
@@ -52,7 +59,7 @@ Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel en een Ka
 ![Karnaughdiagram](karnaugh.png)
 </abstraction>
 <algorithms>
-De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een algoritme (hier in een flowchart en in pseudocode).<br>
+De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier in een flowchart en in pseudocode).<br>
 ![Flowchart](flowchart.png)<br>
 ![Pseudocode](pseudocode.png)
 </algorithms>
