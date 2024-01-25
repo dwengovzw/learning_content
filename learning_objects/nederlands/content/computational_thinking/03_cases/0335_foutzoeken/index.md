@@ -38,7 +38,7 @@ De leerlingen leren waarom foutzoeken belangrijk is in elektrische installaties 
 
 **Doelgroep:** Leerlingen die werken met elektrische installaties.
 
-**Vak:** /
+**Vak:** ...
 
 **Voorkennis:** De leerlingen kennen de basis van elektriciteit die nodig is voor de betreffende installatie. Ze kunnen de functies en subsystemen, de verschillende circuits en de bedrading herkennen. 
 
