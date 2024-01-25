@@ -223,7 +223,7 @@ In je Python programma krijg je dan het volgende resultaat:
 </code>
 </pre>
 
-*Je ziet hieronder het verloop van de gekalibreerde sensorwaarden. Kan je achterhalen welke beweging van de robot elk van deze patronen veroorzaakt?*
+**Je ziet hieronder het verloop van de gekalibreerde sensorwaarden. Kan je achterhalen welke beweging van de robot elk van deze patronen veroorzaakt?**
 
 *a)*
 <img src="img/verloop_sensorwaarden_gecalibreerd_wit_zwart.png"></img>
