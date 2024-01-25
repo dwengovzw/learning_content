@@ -240,7 +240,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_parallel",
+              "hruid": "leerlijn_project_lijnvolger_pid",
               "version": "1",
               "language": "nl"
             }
@@ -248,7 +248,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_parallel",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_pid",
         "version": "1",
         "language": "nl",
         "transitions": [

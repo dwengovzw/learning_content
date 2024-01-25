@@ -122,7 +122,7 @@ Hieronder zie je oplossing van de opdracht om de lijvolger rechtdoor te laten ri
         float fout = 0; // Veronderstel fout = 0
         float afwijking[AANTAL_SENSOREN] = {-3.0, -2.0, -1.0, 1.0, 2.0, 3.0};
         // Overloop de sensoren, vermenigvuldig de gemeten waarde met de overeenkomstige afwijking en tel op.
-        for (char i = 0 ; i <= AANTAL_SENSOREN ; ++i){
+        for (char i = 0 ; i < AANTAL_SENSOREN ; ++i){
             fout += afwijking[i] * sensorWaarden[i];
         }
         return fout;
