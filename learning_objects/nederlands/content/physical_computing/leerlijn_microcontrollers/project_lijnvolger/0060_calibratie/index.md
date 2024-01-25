@@ -27,7 +27,7 @@ teacher_exclusive: false
 Wanneer we een systeem kalibreren stellen we het af op een aantal gekende meetpunten. In ons geval zullen we elke sensor afstellen zodat de gemeten waarde op een wit oppervlak dicht bij nul ligt en de waarde op een zwart oppervlak dicht bij één. Hiervoor gaan we voor elke sensor een aantal waarden meten op een wit en een zwart oppervlak. We berekenen dan de gemiddelde waarde van deze metingen per oppervlak. Wanneer we een nieuwe waarde meten, zetten we deze om door de gemiddelde waarde op een wit oppervlak ervan af te trekken en te delen door het verschil tussen de gemiddelde waarde op het zwart oppervlak en de gemiddelde waarde op het wit oppervlak. Dit process noemen we *normaliseren*.
 
 \\[
-\mathrm{genormaliseerde\\_waarde} = \frac{\mathrm{originele\_waarde} - \mathrm{gemiddelde\_wit}}{\mathrm{gemiddelde\_zwart} - \mathrm{gemiddelde\_wit}}
+\mathrm{genormaliseerde\\_waarde} = \frac{\mathrm{originele\textunderscore waarde} - \mathrm{gemiddelde\_wit}}{\mathrm{gemiddelde\_zwart} - \mathrm{gemiddelde\_wit}}
 \\]
 
 In onze code berekenen we de gemiddelde waarden aan de hand van een exponentieel gemiddelde. We doen dit omdat we dan geen lijst van metingen moeten bijhouden. Een exponentieel gemiddelde neemt een weging tussen de nieuwe waarde en het vorige exponentieel gemiddelde.
