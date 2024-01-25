@@ -165,7 +165,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_stroom_oplossing",
+              "hruid": "leerlijn_project_lijnvolger_kalibratie",
               "version": "1",
               "language": "nl"
             }
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_stroom_oplossing",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_kalibratie",
         "version": "1",
         "language": "nl",
         "transitions": [
