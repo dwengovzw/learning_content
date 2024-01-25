@@ -31,8 +31,9 @@ teacher_exclusive: true
 ---
 
 <context>
-![Stormlantaarn](lantaarn.jpg) Ontwerp en realiseer een gesloten stormlantaarn. Je moet daarbij hout en plexiglas gebruiken.  <br>
-Gnangarra. <em>Tranby House kerosene lamp</em> [Afbeelding]. CC BY 2.5 AU, via Wikimedia Commons.
+Ontwerp en realiseer een gesloten stormlantaarn. Je moet daarbij hout en plexiglas gebruiken.  <br>
+![Stormlantaarn](lantaarn.jpg) <br>
+    Gnangarra. <em>Tranby House kerosene lamp</em> [Afbeelding]. CC BY 2.5 AU, via Wikimedia Commons.
 </div>
 </context>
 <decomposition>
