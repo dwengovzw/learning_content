@@ -56,7 +56,7 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
     <li>De concepten elektrische lading, stroom, spanning en weerstand zijn <strong>abstracte representaties van echte fysieke fenomenen</strong> die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.</li>
     <li>Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn <strong>abstracte</strong> voorstellingen die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.</li>
     <li>Bij het aanpakken van een vraagstuk is abstract denken betrokken bij het analyseren van het probleem en het identificeren van de kernconcepten en relaties. Dit houdt in dat je de essentiële details van het probleem abstraheert om tot de kern van het vraagstuk te komen.</li>
-    <li>De wiskundige formule van de Wet van Ohm '<em>U = I . R</em>' is een abstractr voorstelling van de fundamentele relatie tussen stroom, spanning en weerstand.</li>
+    <li>De wiskundige formule van de Wet van Ohm '<em>U = I . R</em>' is een abstracte voorstelling van de fundamentele relatie tussen stroom, spanning en weerstand.</li>
 </ul>
 </abstraction>
 <algorithms>
