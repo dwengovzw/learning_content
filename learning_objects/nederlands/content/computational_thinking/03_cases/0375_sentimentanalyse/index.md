@@ -35,7 +35,7 @@ teacher_exclusive: true
 
 **Doelgroep:** Leerlingen 2de en 3de graad van een talenrichting.
 
-**Vak:** /
+**Vak:** ...
 
 **Voorkennis:** De leerlingen weten dat sentimentanalyse kan gebeuren a.d.h.v. een lexicon.
 
