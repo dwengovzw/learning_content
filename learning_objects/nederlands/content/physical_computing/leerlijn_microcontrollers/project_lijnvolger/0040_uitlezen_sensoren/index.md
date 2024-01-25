@@ -75,3 +75,10 @@ Hieronder zie je een voorbeeld van hoe je de grondsensoren kan uitlezen.
         Bekijk de waarden goed. Wat gebeurd er met de waarden wanneer het oppervlak onder de robot lichter of donkerder wordt?
     </div>
 </div>
+
+<div class="dwengo-content sideinfo">
+    <h2 class="title">De grondsensor</h2>
+    <div class="content">
+        De grondsensoren die jullie gebruiken werken op basis van infrarood licht. De sensor bevat zowel een infrarood led als een infrarood sensor. De led stuurt infrarood licht naar het grondoppervlak. Afhankelijk van de kleur van het oppervlak zal meer of minder van dat infrarood licht weerkaatst worden. De infrarood sensor meet hoeveel van het uitgestuurde licht teruggekaatst wordt. Zo kan je dus detecteren hoe licht of hoe donker een oppervlak is.
+    </div>
+</div>
