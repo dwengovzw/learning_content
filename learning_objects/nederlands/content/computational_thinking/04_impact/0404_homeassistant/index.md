@@ -49,11 +49,11 @@ Om hierop een duidelijk antwoord te kunnen geven, bekijk je eerst enkele aspecte
 
 -  Indien een spraakassistent voortdurend actief zou meeluisteren, dan zou de **batterij** van je smartphone of ander toestel steeds snel leeg zijn.
 -  Indien een spraakassistent voortdurend actief zou meeluisteren - **actief meeluisteren betekent dat alles wat de assistent hoort ook opgeslagen wordt** - om daar iets mee te doen - wat betekent dat elk geluidsfragment omgezet wordt naar getypte tekst - dan zou dat gaan over een **enorme hoeveelheid data** in de cloud. Het is onmogelijk dat de verstrekkers van zulke systemen van alle gebruikers alles bewaren.
--  Je moet dus het onderscheid maken tussen actief en passief luisteren. De spraakassistent luistert steeds passief mee en bij het 'horen' van een trigger-woord zal deze overschakelen naar actief luisteren. Op dat moment wordt wat de assistent hoort, ook opgeslagen, en elk geluidsfragment wordt omgezet naar getypte tekst. Deze tekst wordt dan aangeboden aan een AI-systeem die er iets mee doet. Dat alles gebeurt in een oogwenk.
+-  Je moet dus het onderscheid maken tussen **actief en passief luisteren**. De spraakassistent luistert steeds passief mee en bij het 'horen' van een trigger-woord zal deze overschakelen naar actief luisteren. Op dat moment wordt wat de assistent hoort, ook opgeslagen, en elk geluidsfragment wordt omgezet naar getypte tekst. Deze tekst wordt dan aangeboden aan een AI-systeem die er iets mee doet. Dat alles gebeurt in een oogwenk.
 -  Dus krijg je reclame over een product dat je eerder met een vriendin besprak, dan is dat toeval.
 -  Heb je echter **iets gevraagd aan de spraakassistent**, en je krijgt in dat verband achteraf reclame, dan is het een ander verhaal.
 -  Je kan de indruk krijgen dat je afgeluisterd wordt als je plots reclame krijgt voor een product dat je de dag ervoor nog besprak met een vriendin. Dit valt echter te verklaren
-    -  door het *Baader-Meinhoffenomeen* (omdat je er de dag voordien over sprak, valt de advertentie meer op) (bron: factcheck);
+    -  door het *Baader-Meinhoffenomeen* of *frequency illusion* (omdat je er de dag voordien over sprak, valt de advertentie meer op) (bron: factcheck);
     -  *confirmation bias* (je vermoeden dat je afgeluisterd wordt, is bevestigd door de advertentie);
     -  of je kan het toeschrijven aan *lookalike audiences* (via **patroonherkenning** worden jou dezelfde interesses toegedicht als van iemand met een soortgelijk profiel). 
 -  Ook dit verdient voldoende aandacht: Hoe worden de data die de systemen verzamelen, bewaard, gebruikt, gedeeld en verwijderd?
@@ -66,7 +66,13 @@ er worden dan immers data gedeeld tussen meerdere toepassingen (Walch, 2020). In
 Om via gesproken taal over en weer te kunnen communiceren met een digitale assistent, zoals Siri op een iphone, Alexa thuis en de
 voice assistant in de auto, is zowel spraakherkenningstechnologie (spraak naar tekst) als spraaksynthesesoftware (tekst naar spraak) nodig. De spraaksynthesesoftware is er om de spraakassistent te laten spreken, de spraakherkenningssoftware opdat hij de mens die tegen hem spreekt, zou begrijpen. 
 
-De gesproken taal van de gebruiker wordt automatisch omgezet naar geschreven tekst via spraakherkenningstechnologie (spraak naar tekst) zodat de digitale assistent ermee aan de slag kan. Spraakherkenningstechnologie is een AI-systeem dat geluid kan verwerken. Het werkt met een opname van geluid die wordt omgezet naar een digitaal bestand. Het AI-systeem analyseert dan dat bestand. Dat is zeker geen eenvoudige taak aangezien iedereen zich op zijn eigen manier uitdrukt, zelfs in dezelfde taal. Bovendien moet het systeem menselijke spraak kunnen onderscheiden van eventueel achtergrondlawaai. ML-systemen beginnen echter ook al dialecten van eenzelfde taal van elkaar te kunnen onderscheiden.
+Spraakherkenningstechnologie is een AI-systeem dat geluid kan verwerken. Het werkt met een opname van geluid die wordt omgezet naar een digitaal bestand. De gesproken taal van de gebruiker wordt automatisch omgezet naar geschreven tekst via spraakherkenningstechnologie (spraak naar tekst) zodat de digitale assistent ermee aan de slag kan. Het AI-systeem analyseert dan deze geschrven tekst. Dat is zeker geen eenvoudige taak aangezien iedereen zich op zijn eigen manier uitdrukt, zelfs in dezelfde taal. Bovendien moet het systeem menselijke spraak kunnen onderscheiden van eventueel achtergrondlawaai. ML-systemen beginnen echter ook al dialecten van eenzelfde taal van elkaar te kunnen onderscheiden.
+
+<div class="alert alert-box alert-info">
+Wat je tegen de spraakassistent zegt, komt terecht in de cloud. Als je aan Siri het commando geeft om het licht uit te doen, dan wordt er meer dan één AI-systeem in gang gezet. Op het moment dat je ‘Hey Siri’ zegt, wordt het systeem achter Siri geactiveerd en wordt de gesproken opdracht opgeslagen. Deze opname wordt doorgestuurd naar een datacentrum. Achtereenvolgens wordt je spraakopdracht omgezet naar getypte tekst, wordt er bepaald welke actie er ondernomen moet worden, en wordt de vereiste instructie teruggestuurd naar je smartphone. Je smartphone geeft een gepaste instructie aan je verlichtingsinstallatie waarop tot slot het licht bij jou in de kamer uitgaat (Hulstaert, 2023).
+</div>
+
+Elke stap in de loop van dit proces kost energie. 
 
 Om een digitale assistent of robot te laten spreken, wordt een tekstbestand met spraaksynthesesoftware omgezet naar geluid (zie ook de kader ‘Realistisch stemgeluid’). 
 
@@ -75,19 +81,21 @@ zoals je dat rechtstreeks op geschreven tekst zou doen. Wat je zegt tegen de spr
 
 Bij sommige apps heb je (impliciet) toestemming gegeven om je microfoon te gebruiken en mee te luisteren. Die apps zullen ook niet de hele tijd luisteren, maar occasioneel zullen ze dat wel doen als ze getriggerd worden. Wat deze triggers zijn, is niet altijd duidelijk, misschien het gebruik van een bepaalde functie of gebaseerd op je locatie. 
 
-Wat je tegen de spraakassistent zegt, komt terecht in de cloud. Als je aan Siri het commando geeft om het licht uit te doen, dan wordt er meer dan één AI-systeem in gang gezet. Op het moment dat je ‘Hey Siri’ zegt, wordt het systeem achter Siri geactiveerd en wordt de gesproken opdracht opgeslagen. Deze opname wordt doorgestuurd naar een datacentrum. Achtereenvolgens wordt je spraakopdracht omgezet naar getypte tekst, wordt er bepaald welke actie er ondernomen moet worden, en wordt de vereiste instructie teruggestuurd naar je smartphone. Je smartphone geeft een gepaste instructie aan je verlichtingsinstallatie waarop tot slot het licht bij jou in de kamer uitgaat (Hulstaert, 2023).
-
-
 -----------------------------
 #### Leestips
 
 [Apps kunnen meeluisteren, maar doen ze dat wel?](https://factcheck.vlaanderen/factcheck/apps-kunnen-meeluisteren-doen-wel)<br>
 [VOICE ASSISTANTS](https://data-en-maatschappij.ai/publicaties/brainfood-databescherming-en-voice-assistants-1)<br>
-[About lookalike audiences](https://www.facebook.com/business/help/164749007013531?id=401668390442328)
+[About lookalike audiences](https://www.facebook.com/business/help/164749007013531?id=401668390442328)<br>
+[Deze is voor iedereen die denkt dat Facebook je afluistert](https://nos.nl/op3/artikel/2224246-deze-is-voor-iedereen-die-denkt-dat-facebook-je-afluistert)
 
 #### Luistertip
 
 Radio 1. Bij Debecker. Gesprek vanaf minuut 3:09. ["We hoeven niet meteen bang te zijn dat apps ons constant afluisteren"](https://radio1.be/lees/we-hoeven-niet-meteen-bang-te-zijn-dat-apps-ons-constant-afluisteren) 
+
+#### Kijktip
+
+[We zochten uit of Facebook met je meeluistert](https://nos.nl/op3/video/2224247-we-zochten-uit-of-facebook-met-je-meeluistert)
 
 ------------------------------
 #### Bronnen
