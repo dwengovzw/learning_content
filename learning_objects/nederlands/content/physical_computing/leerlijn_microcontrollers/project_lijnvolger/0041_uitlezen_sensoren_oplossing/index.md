@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 5
+estimated_time: 15
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -37,36 +37,37 @@ Op de Dwenguino kan je de data eenvoudig doorsturen door twee lijnen code toe te
 
     // Sla op op welke pinnen de sensoren zijn aangesloten.
     unsigned char sensorPinnen[AANTAL_SENSOREN] = {A0, A1, A2, A3, A4, A5};
+
     // Maak een array om de waarden van de sensoren in op te slaan.
     int sensorWaarden[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
 
     void leesSensorWaarden(){
-    // Overloop elke sensor, lees die uit en sla de waarde op.
-    for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
-        sensorWaarden[i] = analogRead(sensorPinnen[i]);
-    }
+        // Overloop elke sensor, lees die uit en sla de waarde op.
+        for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
+            sensorWaarden[i] = analogRead(sensorPinnen[i]);
+        }
     }
 
     void setup()
     {
-    initDwenguino(); 
-    // Initialiseer de Bluetooth communicatie.
-    Serial1.begin(9600);
+        initDwenguino(); 
+        // Initialiseer de Bluetooth communicatie.
+        Serial1.begin(9600);
     }
 
     void loop()
     {
-    // Lees elke halve seconde de waarden van de sensoren.
-    leesSensorWaarden();
-    // Stuur de waarde door in csv formaat.
-    Serial1.println(
-        String(sensorValues[0]) + ";" + 
-        String(sensorValues[1]) + ";" + 
-        String(sensorValues[2]) + ";" + 
-        String(sensorValues[3]) + ";" + 
-        String(sensorValues[4]) + ";" + 
-        String(sensorValues[5]));
-    delay(500);
+        // Lees elke halve seconde de waarden van de sensoren.
+        leesSensorWaarden();
+        // Stuur de waarde door in csv formaat.
+        Serial1.println(
+            String(sensorValues[0]) + ";" + 
+            String(sensorValues[1]) + ";" + 
+            String(sensorValues[2]) + ";" + 
+            String(sensorValues[3]) + ";" + 
+            String(sensorValues[4]) + ";" + 
+            String(sensorValues[5]));
+        delay(500);
     }
 </code>
     </pre>

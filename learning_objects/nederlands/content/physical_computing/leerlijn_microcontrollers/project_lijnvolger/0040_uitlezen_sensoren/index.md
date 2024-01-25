@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 5
+estimated_time: 25
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -39,7 +39,7 @@ Hieronder zie je een voorbeeld van hoe je de grondsensoren kan uitlezen.
 
     // Sla op op welke pinnen de sensoren zijn aangesloten.
     unsigned char sensorPinnen[AANTAL_SENSOREN] = {A0, A1, A2, A3, A4, A5};
-    
+
     // Maak een array om de waarden van de sensoren in op te slaan.
     int sensorWaarden[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
 
