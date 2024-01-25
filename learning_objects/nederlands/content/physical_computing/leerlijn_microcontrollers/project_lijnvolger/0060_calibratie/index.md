@@ -33,7 +33,7 @@ Wanneer we een systeem kalibreren stellen we het af op een aantal gekende meetpu
 In onze code berekenen we de gemiddelde waarden aan de hand van een exponentieel gemiddelde. We doen dit omdat we dan geen lijst van metingen moeten bijhouden. Een exponentieel gemiddelde neemt een weging tussen de nieuwe waarde en het vorige exponentieel gemiddelde.
 
 \\[
-\mathrm{exp\\_gemiddelde} = 0.05\mathrm{nieuwe\\_waarde} + 0.95\mathrm{exp\\_gemiddelde}
+\mathrm{exp\\_gemiddelde} = 0.05\cdot\mathrm{nieuwe\\_waarde} + 0.95\cdot\mathrm{exp\\_gemiddelde}
 \\]
 
 De Coëfficiënten \\(0.05\\) en \\(0.95\\) bepalen voor hoeveel procent je de nieuwe waarde in rekening brengt bij het berekenen van het gemiddelde. Je kan deze waarden zelf kiezen maar de som moet altijd gelijk zijn aan \\(1\\).
