@@ -210,7 +210,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_kortsluiting",
+              "hruid": "leerlijn_project_lijnvolger_motoren_aansturen",
               "version": "1",
               "language": "nl"
             }
@@ -218,14 +218,14 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_kortsluiting",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_motoren_aansturen",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_serie",
+              "hruid": "leerlijn_project_lijnvolger_motoren_aansturen_oplossing",
               "version": "1",
               "language": "nl"
             }
@@ -233,7 +233,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_serie",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_motoren_aansturen_oplossing",
         "version": "1",
         "language": "nl",
         "transitions": [
