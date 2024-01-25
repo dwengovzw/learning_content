@@ -61,12 +61,12 @@ Op de Dwenguino kan je de data eenvoudig doorsturen door twee lijnen code toe te
         leesSensorWaarden();
         // Stuur de waarde door in csv formaat.
         Serial1.println(
-            String(sensorValues[0]) + ";" + 
-            String(sensorValues[1]) + ";" + 
-            String(sensorValues[2]) + ";" + 
-            String(sensorValues[3]) + ";" + 
-            String(sensorValues[4]) + ";" + 
-            String(sensorValues[5]));
+            String(sensorWaarden[0]) + ";" + 
+            String(sensorWaarden[1]) + ";" + 
+            String(sensorWaarden[2]) + ";" + 
+            String(sensorWaarden[3]) + ";" + 
+            String(sensorWaarden[4]) + ";" + 
+            String(sensorWaarden[5]));
         delay(500);
     }
 </code>
