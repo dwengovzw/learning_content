@@ -79,4 +79,4 @@ Tot slot creëren ze een fysieke robot, gebaseerd op hun eigen ontwerp.
 
 Digitale competentie en mediawijsheid: 4.1, 4.3, 4.4, 4.5; BG 4.1, BG 4.3, BG 4.4.<br>
 Leercompetenties: 13.1, 13.4, 13.8, 13.12, 13.14, 13.18; BG 13.4.<br>
-Techniek: ...
+Techniek: [Eindtermen](https://dwengo.org/assets/files/socialrobot/EindtermenAStroomSsocialeRobot.pdf)
