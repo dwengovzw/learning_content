@@ -2,7 +2,7 @@
 hruid: leerlijn_project_lijnvolger_kalibratie
 version: 1
 language: nl
-title: "Calibratie"
+title: "Kalibratie"
 description: "Hoe kan ik de grondsensoren kalibreren."
 keywords: ["lijnvolger", "dwenguino", "robot", "project", "µC", "grondsensor", "kalibratie", "calibratie"]
 educational_goals: [
@@ -27,13 +27,13 @@ teacher_exclusive: false
 Wanneer we een systeem kalibreren stellen we het af op een aantal gekende meetpunten. In ons geval zullen we elke sensor afstellen zodat de gemeten waarde op een wit oppervlak dicht bij nul ligt en de waarde op een zwart oppervlak dicht bij één. Hiervoor gaan we voor elke sensor een aantal waarden meten op een wit en een zwart oppervlak. We berekenen dan de gemiddelde waarde van deze metingen per oppervlak. Wanneer we een nieuwe waarde meten, zetten we deze om door de gemiddelde waarde op een wit oppervlak ervan af te trekken en te delen door het verschil tussen de gemiddelde waarde op het zwart oppervlak en de gemiddelde waarde op het wit oppervlak. Dit process noemen we *normaliseren*.
 
 \\[
-\mathrm{genormaliseerde_waarde} = \frac{\mathrm{originele_waarde} - \mathrm{gemiddelde_wit}}{\mathrm{gemiddelde_zwart} - \mathrm{gemiddelde_wit}}
+\mathrm{genormaliseerde-waarde} = \frac{\mathrm{originele-waarde} - \mathrm{gemiddelde-wit}}{\mathrm{gemiddelde-zwart} - \mathrm{gemiddelde-wit}}
 \\]
 
 In onze code berekenen we de gemiddelde waarden aan de hand van een exponentieel gemiddelde. We doen dit omdat we dan geen lijst van metingen moeten bijhouden. Een exponentieel gemiddelde neemt een weging tussen de nieuwe waarde en het vorige exponentieel gemiddelde.
 
 \\[
-\mathrm{exp_gemiddelde} = 0.05\mathrm{nieuwe_waarde} + 0.95\mathrm{exp_gemiddelde}
+\mathrm{exp-gemiddelde} = 0.05\mathrm{nieuwe-waarde} + 0.95\mathrm{exp-gemiddelde}
 \\]
 
 De Coëfficiënten \\(0.05\\) en \\(0.95\\) bepalen voor hoeveel procent je de nieuwe waarde in rekening brengt bij het berekenen van het gemiddelde. Je kan deze waarden zelf kiezen maar de som moet altijd gelijk zijn aan \\(1\\).
