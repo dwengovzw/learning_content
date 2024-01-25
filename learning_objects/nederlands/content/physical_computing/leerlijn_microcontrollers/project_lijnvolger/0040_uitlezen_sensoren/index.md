@@ -29,39 +29,40 @@ Eerder in dit project hebben we de grondsensoren aangesloten op de pinnen (\\(\m
 Hieronder zie je een voorbeeld van hoe je de grondsensoren kan uitlezen. 
 
 <div class="dwengo-content dwengo-code-simulator">
-    <pre>
+<pre>
 <code class="language-cpp" data-filename="sensoren_uitlezen.cpp">
 
-#include <Dwenguino.h>
+    #include <Dwenguino.h>
 
-// Definieer het aantal sensoren
-#define AANTAL_SENSOREN 6
+    // Definieer het aantal sensoren
+    #define AANTAL_SENSOREN 6
 
-// Sla op op welke pinnen de sensoren zijn aangesloten.
-unsigned char sensorPinnen[AANTAL_SENSOREN] = {A0, A1, A2, A3, A4, A5};
-// Maak een array om de waarden van de sensoren in op te slaan.
-int sensorWaarden[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
+    // Sla op op welke pinnen de sensoren zijn aangesloten.
+    unsigned char sensorPinnen[AANTAL_SENSOREN] = {A0, A1, A2, A3, A4, A5};
+    // Maak een array om de waarden van de sensoren in op te slaan.
+    int sensorWaarden[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
 
-void leesSensorWaarden(){
-  // Overloop elke sensor, lees die uit en sla de waarde op.
-  for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
-    sensorWaarden[i] = analogRead(sensorPinnen[i]);
-  }
-}
+    void leesSensorWaarden(){
+    // Overloop elke sensor, lees die uit en sla de waarde op.
+    for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
+        sensorWaarden[i] = analogRead(sensorPinnen[i]);
+    }
+    }
 
-void setup()
-{
-  initDwenguino(); 
-}
+    void setup()
+    {
+    initDwenguino(); 
+    }
 
-void loop()
-{
-  // Lees elke halve seconde de waarden van de sensoren.
-  leesSensorWaarden();
-  delay(500);
-}
+    void loop()
+    {
+    // Lees elke halve seconde de waarden van de sensoren.
+    leesSensorWaarden();
+    delay(500);
+    }
+
 </code>
-    </pre>
+</pre>
 </div>
 
 
