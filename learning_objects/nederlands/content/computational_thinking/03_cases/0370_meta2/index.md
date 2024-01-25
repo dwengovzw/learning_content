@@ -52,12 +52,11 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
 
 </decomposition>
 <patternRecognition>
-In de routeplanner worden straten, pleinen, parken ... op een bepaalde manier voorgesteld. Herkennen wat straten, parken ... zijn, is een vorm van **patroonherkenning**.
 <ul>
     <li>Het stratenplan vertoont een <b>patroon</b>: de straten vormen een rechthoekig rooster.<br>
     De afstand in vogelvlucht kan dus bepaald worden als de schuine zijde van een rechthoekige driehoek.<br><br>
     Herkennen dat het probleem verwant is met een eerder opgelost probleem: de oefening is er een van het type waarbij de schuine zijde berekend wordt als de twee rechthoekszijden gekend zijn. (<b>patroonherkenning</b>)  </li>
-    <li>In de routeplanner worden straten, pleinen, parken ... op een bepaalde manier voorgesteld. Herkennen wat straten, parken ... zijn, is een vorm van **patroonherkenning**.</li>
+    <li>In de routeplanner worden straten, pleinen, parken ... op een bepaalde manier voorgesteld. Herkennen wat straten, parken ... zijn, is een vorm van <b>patroonherkenning</b>.</li>
 </ul>
 </patternRecognition>
 <abstraction>
