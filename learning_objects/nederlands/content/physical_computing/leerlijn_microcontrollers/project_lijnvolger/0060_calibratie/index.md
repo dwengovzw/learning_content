@@ -55,6 +55,7 @@ Hieronder zie je de code voor de kalibratieprocedure. Deze zal aan de gebruiker 
         dwenguinoLCD.print(lijn2);
     }
 
+    // Sla een referentiewaarde op voor het huidige oppervlak.
     void kalibreerReferentiepunt(float* kalibratieReferentiePunten){
         // Lees een eerste sensorwaarde voor elke sensor
         for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
@@ -70,6 +71,7 @@ Hieronder zie je de code voor de kalibratieprocedure. Deze zal aan de gebruiker 
         delay(500); // Debounce
     }
 
+    // Start de kalibratieprocedure
     void kalibreer(){
         printStringsToLCD("Naar zwart", "E -> Ga verder");
         while (digitalRead(SW_E) == HIGH){
