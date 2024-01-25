@@ -129,6 +129,8 @@ Nu we zowel voor de waarde op een wit als een zwart oppervlak een referentiewaar
 </code>
 </pre>
 
+Merk op dat we de sensorwaarde hier omgezet hebben van een <code class="lang-cpp">int</code> naar een <code class="lang-cpp">float</code> omdat de genormaliseerde waarde een kommagetal is tussen \\(0\\) en \\(1\\)
+
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
     <div class="content">
