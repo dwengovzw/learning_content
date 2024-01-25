@@ -65,7 +65,7 @@ Enkele instructies van het programma worden gegroepeerd in een **functie**, waar
 <implementation>
 **Programma in Python**
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-def pythagoras(a, b):<br>
+def pythagoras1(a, b):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"""Schuine zijde berekenen uit gekende rechthoekszijden."""  
 &nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return c<br><br>
