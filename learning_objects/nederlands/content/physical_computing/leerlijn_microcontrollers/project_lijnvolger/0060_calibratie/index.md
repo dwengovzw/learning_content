@@ -38,14 +38,16 @@ In onze code berekenen we de gemiddelde waarden aan de hand van een exponentieel
 
 De Coëfficiënten \\(0.05\\) en \\(0.95\\) bepalen voor hoeveel procent je de nieuwe waarde in rekening brengt bij het berekenen van het gemiddelde. Je kan deze waarden zelf kiezen maar de som moet altijd gelijk zijn aan \\(1\\).
 
+## Kalibratieprocedure
+
 Hieronder zie je de code voor de kalibratieprocedure. Deze zal aan de gebruiker vragen om voor de start de robot eerst een tijd op een zwart en daarna een tijd op een wit oppervlak te plaatsen. Je kan de procedure starten door de <code class="lang-cpp">kalibreer</code> functie op te roepen.
 
 <pre>
 <code class="lang-cpp">
 
     unsigned char sensorPinnen[AANTAL_SENSOREN] = {A0, A1, A2, A3, A4, A5};
-    float sensorCalibratieHoog[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
-    float sensorCalibratieLaag[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
+    float sensorKalibratieHoog[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
+    float sensorKalibratieLaag[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
 
     void printStringsToLCD(String lijn1, String lijn2){
         dwenguinoLCD.clear();
@@ -81,7 +83,7 @@ Hieronder zie je de code voor de kalibratieprocedure. Deze zal aan de gebruiker 
 
         printStringsToLCD("Zwart kalibreren", "E -> Ga verder");
         // Kalibreer waarde zwart
-        kalibreerReferentiepunt(sensorCalibratieHoog);
+        kalibreerReferentiepunt(sensorKalibratieHoog);
 
         printStringsToLCD("Naar wit", "E -> Ga verder");
         while (digitalRead(SW_E) == HIGH){
@@ -91,9 +93,45 @@ Hieronder zie je de code voor de kalibratieprocedure. Deze zal aan de gebruiker 
 
         printStringsToLCD("Wit kalibreren", "E -> Ga verder");
         // Kalibreer waarde wit
-        kalibreerReferentiepunt(sensorCalibratieLaag);
+        kalibreerReferentiepunt(sensorKalibratieLaag);
     }
 
 </code>
 </pre>
 
+## Normalisatie
+
+Nu we zowel voor de waarde op een wit als een zwart oppervlak een referentiewaarde hebben, kunnen we onze metingen normaliseren. Hiervoor passen we de functie <code class="lang-cpp">leesSensorWaarden()</code> aan.
+
+<pre>
+<code class="lang-cpp">
+
+    void leesSensorWaarden(){
+        // Overloop elke sensor, lees die uit en sla de waarde op.
+        for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
+            sensorWaarden[i] = analogRead(sensorPinnen[i]);
+            // Zorg ervoor dat de gemeten waarde nooit hoger is dan de hoge kalibratiewaarde
+            if (sensorWaarden[i] > sensorKalibratieHoog[i]){
+                sensorWaarden[i] = sensorKalibratieHoog[i];
+            }
+            // Zorg ervoor dat de gemeten waarde nooit lager is dan de lage kalibratiewaarde
+            if (sensorWaarden[i] < sensorKalibratieLaag[i]){
+                sensorWaarden[i] = sensorKalibratieLaag[i]; 
+            }
+            // Normaliseer
+            // Trek de lage kalibratiewaarde af van de meting
+            sensorWaarden[i] -= sensorKalibratieLaag[i]; 
+            // Deel door het verschil van de hoge en lage kalibratiewaarde
+            sensorWaarden[i] = (float)sensorWaarden[i]/(float)(sensorKalibratieHoog[i] - sensorKalibratieLaag[i]);
+        }
+    }
+
+</code>
+</pre>
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        Voeg deze kalibratieprocedure toe aan je lijnvolger code. Probeer het uit. Controleer de referentiepunten door die door te sturen naar de computer.
+    </div>
+</div>
