@@ -39,26 +39,27 @@ Hieronder zie je een voorbeeld van hoe je de grondsensoren kan uitlezen.
 
     // Sla op op welke pinnen de sensoren zijn aangesloten.
     unsigned char sensorPinnen[AANTAL_SENSOREN] = {A0, A1, A2, A3, A4, A5};
+    
     // Maak een array om de waarden van de sensoren in op te slaan.
     int sensorWaarden[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
 
     void leesSensorWaarden(){
-    // Overloop elke sensor, lees die uit en sla de waarde op.
-    for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
-        sensorWaarden[i] = analogRead(sensorPinnen[i]);
-    }
+        // Overloop elke sensor, lees die uit en sla de waarde op.
+        for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
+            sensorWaarden[i] = analogRead(sensorPinnen[i]);
+        }
     }
 
     void setup()
     {
-    initDwenguino(); 
+        initDwenguino(); 
     }
 
     void loop()
     {
-    // Lees elke halve seconde de waarden van de sensoren.
-    leesSensorWaarden();
-    delay(500);
+        // Lees elke halve seconde de waarden van de sensoren.
+        leesSensorWaarden();
+        delay(500);
     }
 
 </code>
