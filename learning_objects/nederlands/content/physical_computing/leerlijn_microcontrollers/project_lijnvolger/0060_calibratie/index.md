@@ -137,3 +137,18 @@ Merk op dat we de sensorwaarde hier omgezet hebben van een <code class="lang-cpp
         Voeg deze kalibratieprocedure toe aan je lijnvolger code. Probeer het uit. Controleer de referentiepunten door die door te sturen naar de computer.
     </div>
 </div>
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>Je ziet hieronder het verloop van de gekalibreerde sensorwaarden. Kan je achterhalen welke beweging van de robot elk van deze patronen veroorzaakt? </p>
+        <p>
+            <h4>a)</h4>
+            <img src="img/verloop_sensorwaarden_gecalibreerd_wit_zwart.png"></img>
+        </p>
+        <p>
+            <h4>b)</h4>
+            <img src="img/verloop_sensorwaarden_gecalibreerd_sweep.png"></img>
+        </p>
+    </div>
+</div>

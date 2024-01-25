@@ -32,14 +32,14 @@ Hieronder zie je de code voor de lijnvolger. Deze zal eerst de kalibratieprocedu
     <pre>
 <code class="language-cpp" data-filename="lees_sensoren_en_kalibreer.cpp">
 
-    #include <Dwenguino.h>
+   #include <Dwenguino.h>
 
     // Definieer het aantal sensoren
     #define AANTAL_SENSOREN 6
     // Sla op op welke pinnen de sensoren zijn aangesloten.
     unsigned char sensorPinnen[AANTAL_SENSOREN] = {A0, A1, A2, A3, A4, A5};
     // Maak een array om de waarden van de sensoren in op te slaan.
-    int sensorWaarden[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
+    float sensorWaarden[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
     float sensorKalibratieHoog[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
     float sensorKalibratieLaag[AANTAL_SENSOREN] = {0, 0, 0, 0, 0, 0};
 
@@ -98,18 +98,18 @@ Hieronder zie je de code voor de lijnvolger. Deze zal eerst de kalibratieprocedu
     void leesSensorWaarden(){
         // Overloop elke sensor, lees die uit en sla de waarde op.
         for (unsigned char i = 0 ; i < AANTAL_SENSOREN ; ++i){
-            sensorWaarden[i] = analogRead(sensorPinnen[i]);
+            sensorWaarden[i] = (float)analogRead(sensorPinnen[i]);
             // Zorg ervoor dat de gemeten waarde nooit hoger is dan de hoge kalibratiewaarde
             if (sensorWaarden[i] > sensorKalibratieHoog[i]){
                 sensorWaarden[i] = sensorKalibratieHoog[i];
             }
             // Zorg ervoor dat de gemeten waarde nooit lager is dan de lage kalibratiewaarde
             if (sensorWaarden[i] < sensorKalibratieLaag[i]){
-                sensorWaarden[i] = sensorKalibratieLaag[i]; 
+                sensorWaarden[i] = sensorKalibratieLaag[i];
             }
             // Normaliseer
             // Trek de lage kalibratiewaarde af van de meting
-            sensorWaarden[i] -= sensorKalibratieLaag[i]; 
+            sensorWaarden[i] -= sensorKalibratieLaag[i];
             // Deel door het verschil van de hoge en lage kalibratiewaarde
             sensorWaarden[i] = (float)sensorWaarden[i]/(float)(sensorKalibratieHoog[i] - sensorKalibratieLaag[i]);
         }
@@ -117,24 +117,24 @@ Hieronder zie je de code voor de lijnvolger. Deze zal eerst de kalibratieprocedu
 
     void setup()
     {
-    initDwenguino(); 
-    Serial1.begin(9600);
-    kalibreer();
+        initDwenguino();
+        Serial1.begin(9600);
+        kalibreer();
     }
 
     void loop()
     {
-    // Lees elke halve seconde de waarden van de sensoren.
-    leesSensorWaarden();
-    // Stuur de waarde door in csv formaat.
-    Serial1.println(
-        String(sensorWaarden[0]) + ";" +
-        String(sensorWaarden[1]) + ";" +
-        String(sensorWaarden[2]) + ";" +
-        String(sensorWaarden[3]) + ";" +
-        String(sensorWaarden[4]) + ";" +
-        String(sensorWaarden[5]));
-    delay(500);
+        // Lees elke halve seconde de waarden van de sensoren.
+        leesSensorWaarden();
+        // Stuur de waarde door in csv formaat.
+        Serial1.println(
+            String(sensorWaarden[0]) + ";" +
+            String(sensorWaarden[1]) + ";" +
+            String(sensorWaarden[2]) + ";" +
+            String(sensorWaarden[3]) + ";" +
+            String(sensorWaarden[4]) + ";" +
+            String(sensorWaarden[5]));
+        delay(500);
     }
 
 </code>
@@ -215,10 +215,22 @@ In je Python programma krijg je dan het volgende resultaat:
 <pre>
 <code class="lang-bash">
 
-    Wachten op gegevens...
-    TOP: 958.00;1003.00;1007.00;1006.00;991.00;931.95
-    Wachten op gegevens...
-    BOTTOM: 46.00;711.05;729.00;373.00;450.95;66.95
+    "Wachten op gegevens..."
+    "TOP: 994.05;1004.00;1007.00;1006.00;993.00;968.00"
+    "Wachten op gegevens..."
+    "BOTTOM: 158.00;769.00;737.05;721.95;71.95;264.00"
 
 </code>
 </pre>
+
+*Je ziet hieronder het verloop van de gekalibreerde sensorwaarden. Kan je achterhalen welke beweging van de robot elk van deze patronen veroorzaakt?*
+
+*a)*
+<img src="img/verloop_sensorwaarden_gecalibreerd_wit_zwart.png"></img>
+
+Dit patroon bekom je door de robot met alle sensoren tegelijk van een wit naar een zwart oppervlak te verschuiven en terug.
+
+*b)*
+<img src="img/verloop_sensorwaarden_gecalibreerd_sweep.png"></img>
+
+Dit patroon bekom je door de sensoren een voor een over een zwarte lijn op een wit oppervlak te bewegen.
