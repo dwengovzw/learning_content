@@ -45,10 +45,12 @@ Subtaken (**decompositie**):<br>
 </decomposition>
 <patternRecognition>
 Objectherkenning wordt al veel gedaan a.d.h.v. een AI-sytemen. Veelgebruikt zijn de diepe convolutionele neurale netwerken. (**patroonherkenning**)<br>
-Het AI-systeem zal kenmerken van huidmondjes moeten herkennen.<br>
+Het AI-systeem zal kenmerken van huidmondjes moeten herkennen. Het systeem wordt daartoe getraind a.d.h.v. gelabelde voorbeelden. Het betreft hier een probleem van binaire classificatie: huidmondje of geen huidmondje. Daarom worden aan het systeem foto's gegeven van een deel van een bladoppervlak met een huidmondje en foto's van een deel van een bladoppervlak zonder huidmondje, telkens met label 'huidmondje' of 'geen huidmondje'.<br><br>
 Bias in de dataset (**patroon**): <br>
 1. Alle huidmondjes hebben een afmeting van ongeveer 125x125 pixels
 2. De foto’s zijn grijsachtig van kleur
+<br><br>
+Om de dataset op te stellen en om de gedetecteerde huidmondjes te clusteren wordt eenzelfde techniek gebruikt: een *sliding window*.    
 </patternRecognition>
 <abstraction>
 Een kleurenfoto wordt aan de computer gegeven in de vorm van een driedimensionaal rooster van getallen. Een digitale foto bestaat uit pixels waarbij de kleur van elke pixel wordt weergegeven door de RGB-code, niets anders dan drie getallen. (**abstractie**)

@@ -45,3 +45,8 @@ Op de markt zijn zwangerschapstesten zowel in niet-digitale als in digitale vorm
 ![ct-schema](@learning-object/m_ct03_11/nl/3)
 
 **Klasgesprek:** Bij dit voorbeeld hoort ook een vorm van reflectie. Is het digitaliseren van een zwangerschapstest wel zinvol? Wat zijn de voor- en nadelen?
+
+-----
+
+Eventuele aanvulling: deze context kan gebruikt worden om het te hebben over **valpositieven** en **valsnegatieven**.
+

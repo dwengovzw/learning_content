@@ -109,3 +109,6 @@ In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://www.dwen
 [Presentatie over o.a. werking delivery robots](https://youtu.be/6rq6Hx0PRAc)<br>
 [World first: new drone network for smooth and safe traffic in Antwerp](https://youtu.be/w3bzDc5pEq0)
 
+-----
+##### Bronnen
+Gugan, G., Haque A. (2023). Path Planning for Autonomous Drones: Challenges and Future Directions. *Drones, 7*(3):169. 
