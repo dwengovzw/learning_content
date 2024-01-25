@@ -30,7 +30,7 @@ Hieronder zie je een voorbeeld van hoe je de grondsensoren kan uitlezen.
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="language-cpp" data-filename="sensoren_uitlezen.cpp">
+<code class="language-cpp" data-filename="sensoren_uitlezen.cpp">
 
 #include <Dwenguino.h>
 
@@ -60,7 +60,7 @@ void loop()
   leesSensorWaarden();
   delay(500);
 }
-        </code>
+</code>
     </pre>
 </div>
 
