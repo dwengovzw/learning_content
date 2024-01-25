@@ -195,7 +195,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_oefeningen_oplossingen",
+              "hruid": "leerlijn_project_lijnvolger_fout_berekenen",
               "version": "1",
               "language": "nl"
             }
@@ -203,7 +203,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_meten_is_weten_oefeningen_oplossingen",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_fout_berekenen",
         "version": "1",
         "language": "nl",
         "transitions": [
