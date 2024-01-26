@@ -28,6 +28,6 @@ teacher_exclusive: true
 
 <img src="img/verloop_sensorwaarden.png"></img>
 
-* Je merkt op dat de waarden van de sensoren sterk verschillen wanneer ze allemaal op een wit oppervlak staan. De oorzaken hiervan kunnen het verschil in afstand tot de grond of een variërende lichtinval zijn. Er zal een calibratiestap nodig zijn om deze verschillen weg te werken.
+* Je merkt op dat de waarden van de sensoren sterk verschillen wanneer ze allemaal op een wit oppervlak staan. De oorzaken hiervan kunnen het verschil in afstand tot de grond of een variërende lichtinval zijn. Er zal een kalibratiestap nodig zijn om deze verschillen weg te werken.
 * Je merkt dat er een duidelijke overgang is van het witte naar het zwarte oppervlak.
 * Je merkt dat de sensorwaarden minder verschillen wanneer de robot op een zwart oppervlak staat. Hier spelen verschillen in lichtinval minder een rol omdat het zwarte oppervlak het meeste licht absorbeert.

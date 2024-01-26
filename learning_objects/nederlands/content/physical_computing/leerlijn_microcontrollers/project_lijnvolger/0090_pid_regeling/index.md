@@ -28,12 +28,16 @@ In een laatste stap moeten we de snelheid van onze motoren afhankelijk maken van
 
 * **P** de proportie (proportional): dit is de fout die we op een gegeven tijdstap meten. Het is dus het resultaat van onze <code class="lang-cpp">berekenFout()</code> functie.
 * **I** de integraal (integral): dit is de som van alle fouten die we in het verleden gemaakt hebben. Met deze waarde krijg je zicht op de historische fout. Deze informatie kan je gebruiken om te compenseren voor een fout die je over een langere periode blijft maken.
-* **D** de afgeleide (differential): dit is het verschil tussen de huidige fout en de vorige fout. Deze waarde geeft aan hoe snel een fout toe- of afneemt. Deze waarde kan je gebruiken om snel bij te sturen. 
+* **D** de afgeleide (differential): dit is het verschil tussen de huidige fout en de vorige fout. Deze waarde geeft aan hoe snel een fout toe- of afneemt. Deze waarde kan je gebruiken om snel bij te sturen wanneer dat nodig is. 
 
 We zullen de snelheid van onze motoren dus laten afhangen van deze drie parameters. Daarvoor gieten we ze in de volgende formule:
 
 \\[
-\matrm{snelheid} = \mathrm{K_p}\cdot \mathrm{P} + \mathrm{K_i}\cdot \mathrm{I} + \mathrm{K_d}\cdot \mathrm{D}    
+\mathrm{snelheid} = \mathrm{K_p}\cdot \mathrm{P} + \mathrm{K_i}\cdot \mathrm{I} + \mathrm{K_d}\cdot \mathrm{D}    
 \\]
 
 waarbij \\(\mathrm{K_p}\\), \\(\mathrm{K_i}\\) en \\(\mathrm{K_d}\\) wegingsfactoren zijn die we zelf moeten kiezen. De waarde hiervan hangt af van de toepassing. Wij zullen deze waarden experimenteel bepalen. 
+
+## De P regeling
+
+Voor we een complexe PID regeling programmeren, kiezen we eerst voor een eenvoudige P regeling. We houden in dit geval dus geen rekening met de integraal en de afgeleide van de fout. 
