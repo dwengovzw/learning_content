@@ -62,7 +62,10 @@ In het leerpad [Triage](https://dwengo.org/learning-path.html?hruid=aiz5_triage&
 Ook specialisten zijn vaak overbevraagd. <br>
 Een specialist wil eigenlijk meer patiënten kunnen zien en zoekt naar manieren om dat mogelijk te maken. Ook daarvoor ontwikkelde men een digitale toepassing: de chatbot Bingli. Specialisten kunnen een beroep op een chatbot om het **anamnesegesprek** bij de patiënt af te nemen, en nadien een samenvatting van dat gesprek toegestuurd krijgen. 
 
-De triage op de speodafdeling gebeurt ook op basis van een beslissingsboom.
+De **triage op de speodafdeling** gebeurt ook op basis van een beslissingsboom.
+
+Dokters en andere zorgkundigen kunnen ook een beroep doen op AI-systemen bij het stellen van een diagnose of het opstellen van een behandelingsplan. Zulke **medische beslissingssystemen** werken ook vaak op basis van een beslissingsboom, omwille van de transparantie.<br>
+In het project [AI in de Zorg](https://dwengo.org/zorg) stellen leerlingen een algoritme op om op basis van data een beslissingsboom te genereren. Het computationeel denken dat daarbij komt kijken, is [hier](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=ct03_71&version=3&language=nl) schematisch weergegeven. 
 
 -----
 
