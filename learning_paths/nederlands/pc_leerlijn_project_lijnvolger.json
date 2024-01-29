@@ -270,7 +270,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_spanningsdeler_oplossing",
+              "hruid": "leerlijn_project_lijnvolger_pid_i_en_d",
               "version": "1",
               "language": "nl"
             }
@@ -278,14 +278,14 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_spanningsdeler_oplossing",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_pid_i_en_d",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_pull_up_weerstand",
+              "hruid": "leerlijn_project_lijnvolger_leerplandoelen",
               "version": "1",
               "language": "nl"
             }
@@ -293,52 +293,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_pull_up_weerstand",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "leerlijn_invoer_basisprincipes_pull_up_weerstand_oplossing",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_invoer_basisprincipes_pull_up_weerstand_oplossing",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "leerlijn_basisprincipes_motoren",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_basisprincipes_motoren",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "leerlijn_basisprincipes_leerplandoelen",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_basisprincipes_leerplandoelen",
+        "learningobject_hruid": "leerlijn_project_lijnvolger_leerplandoelen",
         "version": "1",
         "language": "nl"
       }

@@ -172,15 +172,16 @@ void loop()
     dcMotor1.setSpeed(snelheidMotor1);
     dcMotor2.setSpeed(snelheidMotor2);
 
+    // Stuur om de 100 iteraties telemetrie door.
     if (iters % 100){
         // Stuur de waarde door in csv formaat.
         Serial1.println(
-        String(snelheidsVerschil) + ";" +
-        String(Kp * proportie) + ";" +
-        String(Ki * integraal) + ";" +
-        String(Kd * derivative) + ";" +
-        String(meetFout) + ";" +
-        String(0));
+            String(snelheidsVerschil) + ";" +
+            String(Kp * proportie) + ";" +
+            String(Ki * integraal) + ";" +
+            String(Kd * derivative) + ";" +
+            String(meetFout) + ";" +
+            String(0));
     }
 }
 
