@@ -90,7 +90,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_bluetooth_dwenguino_send",
+              "hruid": "leerlijn_bluetooth_dwenguino_receive",
               "version": "1",
               "language": "nl"
             }
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_bluetooth_dwenguino_send",
+        "learningobject_hruid": "leerlijn_bluetooth_dwenguino_receive",
         "version": "1",
         "language": "nl"
       }

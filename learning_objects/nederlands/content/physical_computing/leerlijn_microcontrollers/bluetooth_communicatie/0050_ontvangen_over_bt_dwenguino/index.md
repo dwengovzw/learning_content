@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_bluetooth_dwenguino_send
+hruid: leerlijn_bluetooth_dwenguino_receive
 version: 1
 language: nl
 title: "Bluetooth communicatie (Dwenguino)"
