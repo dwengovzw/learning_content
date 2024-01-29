@@ -40,4 +40,59 @@ waarbij \\(\mathrm{K_p}\\), \\(\mathrm{K_i}\\) en \\(\mathrm{K_d}\\) wegingsfact
 
 ## De P regeling
 
-Voor we een complexe PID regeling programmeren, kiezen we eerst voor een eenvoudige P regeling. We houden in dit geval dus geen rekening met de integraal en de afgeleide van de fout. 
+Voor we een complexe PID regeling programmeren, kiezen we eerst voor een eenvoudige P regeling. We houden in dit geval dus geen rekening met de integraal en de afgeleide van de fout. Enkel de proportie van de fout wordt hier gebruikt om de motoren van de robot bij te sturen. Hieronder zie je de code die we moeten toevoegen om de snelheid van onze motoren afhankelijk te maken van de gemeten fout.
+
+We voegen de volgende globale variabelen toe:
+
+<pre>
+<code class="lang-cpp">
+
+    // Parameters voor PID regeling
+    float proportie = 0;
+    float Kp = 15;
+    float integraal = 0;
+    float Ki = 0;
+    float derivative = 0;
+    float Kd = 0;
+    float vorigeFout =  0;
+    int basisMotorSnelheid = 65;
+
+</code>
+</pre>
+
+Hier zijn \\(\mathrm{K_i}\\) en \\(\mathrm{K_d}\\) gelijk aan \\(0\\). Voor \\(\mathrm{K_i}\\) kiezen we hier de waarde \\(15\\). Deze waarde bepaalt hoe sterk de motoren zullen bijsturen wanneer er een fout gemeten wordt. 
+
+In de lus voegen we de volgende code toe om de nieuwe motorsnelheden te berekenen:
+
+<pre>
+<code class="lang-cpp">
+
+    // Bereken P, I and D 
+    float meetFout = berekenFout();
+
+    // De proportie is de fout die we gemeten hebben
+    proportie = meetFout;
+    // De integraal is de som van alle fouten die we al gemeten hebben.
+    integraal = integraal + meetFout;
+    // De afgeleide is het verschil tussen de huidige en de vorige fout.
+    derivative = meetFout - vorigeFout;
+
+    vorigeFout = meetFout;
+    
+    // Bereken het nieuwe snelheidsverschil
+    float snelheidsVerschil = Kp * proportie + Ki * integraal + Kd * derivative;
+    // Stel de snelheid van de motoren in
+    int snelheidMotor1 = basisMotorSnelheid - (int)snelheidsVerschil;
+    int snelheidMotor2 = basisMotorSnelheid + (int)snelheidsVerschil;
+    dcMotor1.setSpeed(snelheidMotor1);
+    dcMotor2.setSpeed(snelheidMotor2);
+
+</code>
+</pre>
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+    Programmeer je robot zodat deze een lijn kan volgen. Gebruik hiervoor een P-regeling. Hiervoor kan je de bovenstaande code toevoegen aan je programma. Daarnaast kan je de waarde van \\(\mathrm{K_p}\\) aanpassen zodat de robot de lijn mooi blijft volgen. Wat doet de robot wanneer je de waarde van \\(\mathrm{K_p}\\) groter of kleiner maakt?
+</div>
+</div>
