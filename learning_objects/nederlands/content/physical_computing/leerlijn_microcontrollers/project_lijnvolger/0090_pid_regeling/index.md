@@ -93,6 +93,6 @@ In de lus voegen we de volgende code toe om de nieuwe motorsnelheden te berekene
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
 <div class="content">
-    Programmeer je robot zodat deze een lijn kan volgen. Gebruik hiervoor een P-regeling. Hiervoor kan je de bovenstaande code toevoegen aan je programma. Daarnaast kan je de waarde van \\(\mathrm{K_p}\\) aanpassen zodat de robot de lijn mooi blijft volgen. Wat doet de robot wanneer je de waarde van \\(\mathrm{K_p}\\) groter of kleiner maakt?
+    Programmeer je robot zodat deze een lijn kan volgen. Gebruik hiervoor een P-regeling. Hiervoor kan je de bovenstaande code toevoegen aan je programma. Daarnaast kan je de waarde van \(\mathrm{K_p}\) aanpassen zodat de robot de lijn mooi blijft volgen. Wat doet de robot wanneer je de waarde van \(\mathrm{K_p}\) groter of kleiner maakt?
 </div>
 </div>
