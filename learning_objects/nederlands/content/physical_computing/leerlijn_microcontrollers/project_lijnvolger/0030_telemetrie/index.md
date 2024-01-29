@@ -24,9 +24,9 @@ teacher_exclusive: false
 
 # Telemetrie
 
-Voor we onze robot laten rijden, zorgen we ervoor dat we gegevens kunnen verzamelen over het gedrag van de robot. We zullen deze gegevens nodig hebben om fouten in het gedrag van de robot op te sporen. Omdat onze robot vrij moet kunnen rondrijden, zullen we deze data vanop afstand draadloos verzamelen. Deze techniek noemen we telemetrie ofwel het meten vanop afstand. De belangrijkste gegevens die we willen verzamelen zijn: de metingen van de sensoren, de snelheden van de motoren en het gedrag van de controlevariabelen. Je bent echter niet beperkt om enkel deze gegevens te verzamelen. Als je nog andere data wil meten, kan je de code gemakkelijk aanpassen om dat te doen.
+Om het gedrag van een microcontrollertoepassing te kunnen analyseren moeten we gegevens over dit gedrag verzamelen. We zullen deze gegevens nodig hebben om fouten op te sporen. We kunnen deze gegevens vanop afstand verzamelen. Deze techniek noemen we telemetrie ofwel het meten vanop afstand. De belangrijkste gegevens die we kunnen verzamelen zijn: metingen van sensoren, snelheden van motoren en het gedrag van controlevariabelen. Je bent echter niet beperkt om enkel deze gegevens te verzamelen. Als je nog andere data wil meten, kan je de code gemakkelijk aanpassen om dat te doen.
 
-In onze toepassing zullen we via Bluetooth gegevens over de robot versturen naar de computer. Op de computer lezen we deze gegevens en visualiseren ze in verschillende grafieken. Zo krijgen we inzicht in het gedrag van onze robot.
+Hier sturen we telemetriegegevens vanop de Dwenguino naar de computer. Op de computer lezen we deze gegevens en visualiseren ze in verschillende grafieken. Zo krijgen we inzicht in het gedrag van het systeem.
 
 <div class="dwengo-content sideinfo">
 <h2 class="title">Voyager</h2>
