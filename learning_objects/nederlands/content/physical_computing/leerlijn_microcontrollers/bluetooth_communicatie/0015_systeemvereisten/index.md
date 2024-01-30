@@ -28,7 +28,7 @@ Hier veronderstellen we dat je een computer hebt met een Bluetooth verbinding en
 
 ## Python 3
 
-Op de computer zullen we gebruik maken van een Python programma om gegevens naar de µC te sturen en gegevens van de µC te ontvangen. Je kan Python gratis downloaden en installeren via de installer. Ga daarvoor naar (https://www.python.org/downloads/)[https://www.python.org/downloads/]. Vink tijdens het installatieproces aan dat je ook **pip** wil installeren alsook de Python editor **IDLE**. Je kan er ook voor kiezen om een andere editor te gebruiken bijvoorbeeld: Visual Studio Code of Thonny.
+Op de computer zullen we gebruik maken van een Python programma om gegevens naar de µC te sturen en gegevens van de µC te ontvangen. Je kan Python gratis downloaden en installeren via de installer. Ga daarvoor naar [https://www.python.org/downloads/](https://www.python.org/downloads/). Vink tijdens het installatieproces aan dat je ook **pip** wil installeren alsook de Python editor **IDLE**. Je kan er ook voor kiezen om een andere editor te gebruiken bijvoorbeeld: Visual Studio Code of Thonny.
 
 Om gegevens te ontvangen via Bluetooth, gebruiken we de pyserial bibliotheek. Deze kan je installeren met het commando:
 
