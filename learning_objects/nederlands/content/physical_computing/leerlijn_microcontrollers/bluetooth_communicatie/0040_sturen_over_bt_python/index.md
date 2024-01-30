@@ -24,3 +24,44 @@ teacher_exclusive: false
 
 # Bluetooth communicatie: data sturen vanop de computer
 
+Vanop de computer kan je met de volgende code makkelijk gegevens sturen naar de microcontroller.
+
+<pre>
+<code class="lang-python">
+
+    # Importeer de serial bibliotheek.
+    import serial
+    import time
+
+    # Kies de juiste seriële poort en baud rate
+    serial_port = 'COM4'
+    baud_rate = 9600
+
+    # Open a serial connection
+    ser = serial.Serial(serial_port, baud_rate, timeout=1)
+
+    try:
+        while True:
+            # Vraag aan de gebruiker om data in te geven
+            data_to_send = input("Voer data in (typ 'stop' om te stoppen): ")
+
+            # Controleer of de gebruiker wil stoppen
+            if data_to_send.lower() == 'stop':
+                break
+
+            # Schrijf de data naar de seriële poort
+            ser.write(data_to_send.encode())
+
+            # Wacht eventjes (optioneel)
+            time.sleep(1)
+
+    except KeyboardInterrupt:
+        print("\nDe gebruiker heeft het programma gestopt.")
+
+    finally:
+        # Close the serial connection
+        ser.close()
+        print("De Seriële verbinding is gesloten.")
+
+</code>
+</pre>
