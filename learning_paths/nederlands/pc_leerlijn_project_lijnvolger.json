@@ -60,6 +60,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "leerlijn_bluetooth_pc_requirements",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_bluetooth_pc_requirements",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "leerlijn_bluetooth_dwenguino_send",
               "version": "1",
               "language": "nl"

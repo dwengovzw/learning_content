@@ -24,30 +24,6 @@ teacher_exclusive: false
 
 # Bluetooth communicatie: data ontvangen via Python
 
-## Systeemvereisten
-
-Hier veronderstellen we dat je een computer hebt met een Bluetooth verbinding en een Python3 installatie. Om gegevens te ontvangen via Bluetooth, gebruiken we de pyserial bibliotheek. Deze kan je installeren met het commando:
-
-<pre>
-    <code class="lang-bash">pip install pyserial</code>
-</pre>
-
-Voor je op de computer gegevens kan ontvangen van een Bluetooth module, moet je die module pairen met je computer. Dit doe je zo:
-
-* Zorg ervoor dat de Bluetooth module stroom krijgt. Hiervoor kan je de module aansluiten op de Dwenguino en de Dwenguino van stroom voorzien via de USB-kabel.
-* Zoek op Windows via het startmenu naar de instelling *Bluetooth-&-apparaten*.
-* Zorg ervoor dat Bluetooth aan staat.
-* Zoek onder *Apparaten* naar *Apparaatinstellingen* en zet dit op *Geavanceerd*. Dit zorgt ervoor dat Windows alle Bluetooth apparaten zal weergeven.
-* Klik op de knop *Voeg een Bluetooth of ander apparaat toe*.
-* Klik op *Bluetooth*.
-* De computer zal je vragen om de pin code van de Bluetooth module in te geven. Voor de HC-06 module is dit *1234*. Voor andere modules zijn veelvoorkomende codes: *0000*, *1111* of *0123*.
-* Zoek het nummer van de COM poort waarmee je Bluetooth module verbonden is. Ga daarvoor bij de *Bluetooth-&-apparaten* instellingen naar *Meer Bluetooth instellingen*.
-* Ga naar de tab *COM Poorten*.
-* Zoek in de lijst de COM poort voor jou apparaat.
-* Noteer via welke COM poort de Bluetooth module verbonden is.
-
-## Data lezen via Python
-
 Wanneer je alle systeemvereisten in orde hebt gebracht, kan je een Python programma schrijven die gegevens leest via Bluetooth. Je kan dit programma schrijven en uitvoeren via je favoriete code editor. Wij gebruiken hiervoor Visual Studio Code. Hieronder zie je de code die nodig is om lijnen tekst die binnenkomen over de Bluetooth verbinding te lezen.
 
 <pre>

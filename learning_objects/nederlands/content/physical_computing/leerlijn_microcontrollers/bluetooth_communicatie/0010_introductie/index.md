@@ -24,4 +24,4 @@ teacher_exclusive: false
 
 # Bluetooth communicatie
 
-In dit leerpad leer je hoe je data van de Dwenguino naar de computer kan sturen en omgekeerd. Op de Dwenguino maken we gebruik van Python om de data te lezen en te visualiseren. Je kan aan elke microcontrollertoepassing Bluetooth communicatie toevoegen. Deze kan je gebruiken om bij voorbeeld telemetriegegevens te verzamelen.
+In dit leerpad leer je hoe je data van de Dwenguino naar de computer kan sturen en omgekeerd. Op de Dwenguino maken we gebruik van Python om de data te lezen en te visualiseren. Je kan aan elke microcontrollertoepassing Bluetooth communicatie toevoegen. Deze kan je gebruiken om bijvoorbeeld telemetriegegevens te verzamelen.
