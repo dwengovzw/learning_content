@@ -1,6 +1,6 @@
 ---
 hruid: pc_hddclock4
-version: 3
+version: 1
 language: nl
 title: "Van afstand naar geluid"
 description: "Van afstand naar geluid"

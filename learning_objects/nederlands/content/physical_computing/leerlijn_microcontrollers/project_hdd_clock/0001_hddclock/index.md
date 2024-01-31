@@ -1,6 +1,6 @@
 ---
 hruid: pc_hddclock1
-version: 3
+version: 1
 language: nl
 title: "Een digitaal systeem"
 description: "T"

@@ -1,6 +1,6 @@
 ---
 hruid: pc_hddclock2
-version: 3
+version: 1
 language: nl
 title: "Componenten"
 description: "Componenten"

@@ -1,6 +1,6 @@
 ---
 hruid: pc_hddclock5
-version: 3
+version: 1
 language: nl
 title: "Pentatoniek"
 description: "Pentatoniek"
