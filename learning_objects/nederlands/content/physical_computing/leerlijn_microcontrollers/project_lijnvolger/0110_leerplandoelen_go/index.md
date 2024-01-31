@@ -41,5 +41,4 @@ teacher_exclusive: true
     <li>WD2_07.02.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.</li>
 
 
-test
 </ul>
