@@ -38,9 +38,15 @@ Waar je de rode meetsnoer inplugt hangt af van de verwachte stroom die je gaat m
 
 <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 400 mA </span><br>
 
+
+<img src="img/mm_stroom_400mA.svg"></img>
+
+
 Is die niet groter dan 10A
 
 <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 10 A </span><br>
+
+<img src="img/mm_stroom_10A.svg"></img>
 
 
 ### Modus van de multimeter
