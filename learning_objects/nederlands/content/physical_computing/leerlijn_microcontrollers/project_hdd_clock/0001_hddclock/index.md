@@ -47,3 +47,5 @@ Een vereenvoudigde, vertraagde weergave voor een schijf die de illusie geeft van
 
 Om een eenvoudige HDD klok te bouwen, gebruik je een Dwenguino die verbonden is aan een spindelmotor, een LED-strip en een snelheidssensor. De Dwenguino zal de spindelmotor met de schijf aan een hoge snelheid doen draaien en de LED-strip op het gepaste moment laten branden. De snelheidssensor wordt gebruikt om te weten waar de gleuf zich bevind op de schijf zodat de LED-lampjes juist getimed worden.
 
+
+
