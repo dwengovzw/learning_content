@@ -41,7 +41,7 @@ Een HDD klok is zoals de naam al verklapt een klok. Wat deze uniek maakt, is dat
 Het principe gaat als volgt; de klok maakt gebruik van een spindelmotor om een schijf, waar een smalle gleuf in gemaakt is, aan hoge snelheid te doen draaien. De smalle gleuf laat ons toe om LED-lampjes achter deze schijf te zien. Doordat de schijf zo snel draait en de ledlampjes net branden wanneer de smalle gleuf in de juiste positie staat, lijkt het alsof er wijzers weergegeven worden. 
 
 Een vereenvoudigde, vertraagde weergave voor een schijf die de illusie geeft van een analoge wijzer om 12 uur is als volgt:
-
+!["Werking HDD klok."](embed/dwengo.png)
 
 ***
 
