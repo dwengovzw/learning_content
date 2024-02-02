@@ -197,8 +197,12 @@ Hieronder zie je twee filmpjes die oscillatie en overschoot illustreren.
 
 **Oscillatie**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9gwjcw_QbvE?si=pRXL33op7gKnw721" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-container iframe-16-9">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9gwjcw_QbvE?si=pRXL33op7gKnw721" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 **Overshoot**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dRtL0PQEa7g?si=H9KLXvLZNBN9tYL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-container iframe-16-9">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dRtL0PQEa7g?si=H9KLXvLZNBN9tYL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
