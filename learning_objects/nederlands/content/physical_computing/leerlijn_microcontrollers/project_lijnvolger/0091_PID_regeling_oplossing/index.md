@@ -193,4 +193,12 @@ void loop()
 
 Wanneer de waarde van \\(\mathrm{K_p}\\) hoger wordt, begint de robot te oscilleren. Er wordt telkens te veel gecompenseerd voor de gemaakte fout. Wanneer de op dat moment \\(\mathrm{K_p}\\) nog verhogen zal de robot voorbij de lijn draaien waardoor deze niet meer in staat zal zijn om de lijn te volgen.
 
-TODO: filmpje oscillatie en overshoot.
+Hieronder zie je twee filmpjes die oscillatie en overschoot illustreren.
+
+**Oscillatie**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9gwjcw_QbvE?si=pRXL33op7gKnw721" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Overshoot**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRtL0PQEa7g?si=H9KLXvLZNBN9tYL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
