@@ -57,7 +57,7 @@ Meerdere vormen van **patroonherkenning** komen aan bod:
 De gebruikers worden herleid tot bepaalde persoonlijkheidskenmerken en hun koop- en klikgedrag (**abstractie**).<br>
 </abstraction>
 <algorithms>
-- Er worden **algoritmes** gebruikt om een perssonlijkheidsprofiel op te stellen: dat zijn algoritmes voor *natural language processing*, m.a.w. taaltechnologie. 
+- Er worden **algoritmes** gebruikt om een persoonlijkheidsprofiel op te stellen: dat zijn algoritmes voor *natural language processing*, m.a.w. taaltechnologie. 
 - Andere algoritmes herkennen patronen in het koop- en klikgedrag.
 - Met behulp van nog andere algoritmes worden er verwante profielen opgespoord. 
 - Het persoonlijkheidsprofiel, patronen in koop- en klikgedrag, en het koop- en klikgedrag van gebruikers met een verwant profiel dienen als input voor een aanbevelingsalgoritme dat voor gepersonaliseerde reclame zal zorgen.<br>
