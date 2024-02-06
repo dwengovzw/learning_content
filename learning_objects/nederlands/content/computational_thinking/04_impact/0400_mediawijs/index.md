@@ -58,3 +58,12 @@ In het leerpad ['Cases'](https://www.dwengo.org/learning-path.html?hruid=ct6_cas
 ![Schema basisconcepten](embed/schema.png "Schema basisconcepten CD")
 
 Ook in dit leerpad zal dit schema van pas komen.
+
+-----
+Verder zal je gebruikmaken van het volgende kader: 
+
+![kader](https://github.com/dwengovzw/learning_content/assets/48352335/6e39ead8-5657-406e-bbf5-cdbd85ac1ccb)
+
+Impact is pas mogelijk als er impact is op de menselijke waarden.
+
+(Bron: Michael T. Rücker.2023. Modeling Conceptual Knowledge of Computing Impacts for K-12.) 
