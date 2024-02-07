@@ -38,4 +38,4 @@ Look for a best fitting straight line or curve for the data.
 
 Just like computer scientists, make use of training and test data.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1940 "Sea Level")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1940_en "Sea Level")

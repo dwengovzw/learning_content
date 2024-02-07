@@ -42,4 +42,4 @@ You have already worked with the data from the Old Faithful Geyser in a notebook
 A geyser is a naturally heated hot spring that periodically ejects hot water and steam into the air.
 In this notebook, you will explore the relationship between the duration of eruptions and the amount of time until the next eruption.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0311 "Practice with Data Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0311_en "Practice with Data Notebooks")

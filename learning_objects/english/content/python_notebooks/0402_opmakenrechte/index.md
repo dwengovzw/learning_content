@@ -38,4 +38,4 @@ version: 3
 # Styling Charts
 Do you want to clarify the charts you've created, or give them a personal touch? Then go through these notebooks. You will work with color and dotted lines, among other things.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0402 "Styling Charts Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0402_en "Styling Charts Notebooks")

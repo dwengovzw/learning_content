@@ -40,4 +40,4 @@ version: 3
 
 Would you also like to know the finer points of working with notebooks? Then it's best to go through the following two notebooks.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0102 "Notebooks Operation")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0102_en "Notebooks Operation")

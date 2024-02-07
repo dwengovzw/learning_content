@@ -37,6 +37,6 @@ version: 3
 
 In these notebooks, you will become acquainted with several common data types, such as string and integer. You will use the (predefined) function print(). You will learn how to request information from the user. You will use input, output, concatenation, type casting...
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1003 "Notebooks Input Output")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1003_en "Notebooks Input Output")
 
 ![alt](@youtube/https://www.youtube.com/embed/JKvlzCdIvsg "video input output")

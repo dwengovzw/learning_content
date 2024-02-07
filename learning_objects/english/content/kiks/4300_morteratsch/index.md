@@ -39,5 +39,5 @@ Look for a straight or curved line that best fits the data.
 
 Just like computer scientists, use training and test data.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1930 "Morteratsch Glacier")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1930_en "Morteratsch Glacier")
 ```

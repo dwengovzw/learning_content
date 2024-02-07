@@ -39,4 +39,4 @@ In the neural network of KIKS, ReLU is used. It is a non-linear function that ma
 This notebook explains how this is possible. You will see how powerful this technique is. Very impressive!<br>
 Moreover, you will understand better what happens in the *different layers* of a deep neural network.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1752 "Re LU")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1752_en "Re LU")

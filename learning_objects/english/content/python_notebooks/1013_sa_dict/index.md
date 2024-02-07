@@ -40,4 +40,4 @@ version: 3
 # Language Technology - Dict
 In this notebook, you will use the type *dict* in language technology applications.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1013 "Notebooks Dict")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1013_en "Notebooks Dict")

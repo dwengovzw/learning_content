@@ -37,5 +37,5 @@ version: 3
 # Importance of Visualization
 This illustrates why visualizing data is important. Images convey more than numbers.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0204 "Notebooks Visualization")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0204_en "Notebooks Visualization")
 

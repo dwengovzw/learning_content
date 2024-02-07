@@ -38,4 +38,4 @@ version: 3
 # Logical Operators
 To compare variables with each other and to construct logical expressions, you use comparison operators and logical operators.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1020 "Notebooks Calculating")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1020_en "Notebooks Calculating")

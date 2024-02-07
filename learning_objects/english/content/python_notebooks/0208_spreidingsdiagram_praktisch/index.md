@@ -38,6 +38,6 @@ version: 3
 
 This notebook is useful for when you want to quickly draw a scatter plot with Python.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0208 "Practical scatter plot notebooks")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0208_en "Practical scatter plot notebooks")
 
 ![](@youtube/https://www.youtube.com/watch?v=3Y2uqOzMPgs "Scatter plot video")

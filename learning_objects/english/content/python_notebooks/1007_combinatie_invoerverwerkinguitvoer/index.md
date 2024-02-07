@@ -37,6 +37,6 @@ version: 3
 
 In these notebooks, you will become acquainted with some common data types and learn how to request information from the user.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1007 "Notebooks Input Output")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1007_en "Notebooks Input Output")
 
 ![alt](@youtube/https://www.youtube.com/embed/JKvlzCdIvsg "video input output")

@@ -43,4 +43,4 @@ The disease that killed the fastest is the Spanish Flu epidemic that killed betw
 
 Today, infectious diseases cause fewer deaths due to better medical knowledge, techniques, and resources. However, they remain a serious public health problem, as evidenced by the COVID-19 pandemic. Moreover, individuals can easily spread diseases. For example, a disease can spread to another continent in just a few hours by airplane.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1200 "Notebooks Epidemic")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1200_en "Notebooks Epidemic")

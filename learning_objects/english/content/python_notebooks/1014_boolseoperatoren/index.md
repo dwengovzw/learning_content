@@ -38,4 +38,4 @@ version: 3
 # Bool - NoneType
 In this notebook, you will get acquainted with the data type for a logical expression.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1014 "Notebooks Computing")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1014_en "Notebooks Computing")

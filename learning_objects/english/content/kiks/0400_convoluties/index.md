@@ -37,4 +37,4 @@ The first notebook delves deeper into this.
 
 Apart from convolutions, other techniques are also used, such as ReLU and max pooling. <br>The second notebook discusses these.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1712 "Convolutions")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1712_en "Convolutions")

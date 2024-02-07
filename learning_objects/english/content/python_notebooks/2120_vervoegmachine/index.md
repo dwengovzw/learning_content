@@ -44,4 +44,4 @@ version: 3
 
 This notebook delves deeper into the conjugation of verbs.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=2120 "Conjugation machine notebook")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=2120_en "Conjugation machine notebook")

@@ -37,4 +37,4 @@ In mathematics, much attention is paid to the derivative of a real function. Der
 Derivatives are also important for neural networks. They are used to minimize the cost function. One seeks the minimum by adjusting the
 weights step by step, based on the derivative at the 'current' point. This method is called _gradient descent_.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1760 "Gradient descent")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1760_en "Gradient descent")

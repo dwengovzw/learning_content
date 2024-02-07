@@ -40,4 +40,4 @@ With this regression line, the length of a petal is predicted for a known sepal 
 In this notebook, you determine the regression line and the correlation coefficient with the built-in functions of the SciPy and scikit-learn modules.<br><br>
 In a subsequent notebook, a machine learning algorithm will be explained.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1910 "Iris regression")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1910_en "Iris regression")

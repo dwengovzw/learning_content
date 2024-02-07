@@ -38,4 +38,4 @@ version: 3
 In the learning module 'Linear Regression,' you learned how to use Python to find a line that best fits a given set of points.
 Here you find a notebook that summarizes the methodology. <br>You can use this notebook to find the best fitting line, but with the necessary modifications, the code in the notebook can also be adapted to *fit* other types of curves to a dataset.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0350 "Notebook Practical Linear Regression")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0350_en "Notebook Practical Linear Regression")

@@ -36,6 +36,6 @@ version: 3
 # String, int, and float
 You will get acquainted with the data types for text and numbers.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1001 "Notebooks Datatypes")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1001_en "Notebooks Datatypes")
 
 ![alt](@youtube/https://www.youtube.com/embed/dl3q6gJ7evo "Video string - integer - float")

@@ -36,7 +36,7 @@ version: 3
 # Oblique Throw
 Here you visualize data collected from an oblique throw. You will look for a curve that fits this data.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0351 "Notebooks oblique throw")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0351_en "Notebooks oblique throw")
 <figure>
     <figcaption align = "center">Don't forget to log out before you go to the next notebook!</figcaption>
 </figure>

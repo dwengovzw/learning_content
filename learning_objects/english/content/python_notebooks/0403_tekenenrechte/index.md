@@ -38,4 +38,4 @@ version: 3
 # Drawing straight lines (practical)
 This notebook is useful for when you want to draw a straight line quickly with Python.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0403 "Drawing Straight Lines Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0403_en "Drawing Straight Lines Notebooks")

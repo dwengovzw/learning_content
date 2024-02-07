@@ -36,7 +36,7 @@ version: 3
 # Parameters in a general sine function
 In these notebooks, you will explore how the parameters in the equation of a general sine function affect the shape of the sinusoidal wave.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0903 "Notebooks parameters general sine equation")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0903_en "Notebooks parameters general sine equation")
 <figure>
     <figcaption align = "center">Don't forget to log out before you move on to the next notebook!</figcaption>
 </figure>

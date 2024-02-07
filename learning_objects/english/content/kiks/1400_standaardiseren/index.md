@@ -34,4 +34,4 @@ version: 3
 # Standardization
 In this notebook, you will learn that you cannot always estimate the degree of correlation of bivariate data by sight and why standardizing the data is important in that respect.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0207 "Standardization")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0207_en "Standardization")

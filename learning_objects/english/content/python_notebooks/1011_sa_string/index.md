@@ -42,5 +42,5 @@ version: 3
 # Language Technology - String
 In this notebook, you will use the *string* type in language technology applications.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1011 "Notebooks String")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1011_en "Notebooks String")
 ```

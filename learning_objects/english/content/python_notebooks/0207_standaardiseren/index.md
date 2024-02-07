@@ -36,4 +36,4 @@ version: 3
 ---
 # Standardize
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0207 "Standardize Notebooks")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0207_en "Standardize Notebooks")

@@ -37,4 +37,4 @@ In the following notebook, it is shown how AI is employed to count stomata in mi
 
 There is also a small demonstration provided, so that you can get an idea of what you'll be working with!
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1710 "Basic")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1710_en "Basic")

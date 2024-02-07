@@ -37,4 +37,4 @@ version: 3
 # Language Technology - Structures
 In this notebook, you apply programming structures in language technology.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1008 "Programming Structures Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1008_en "Programming Structures Notebooks")

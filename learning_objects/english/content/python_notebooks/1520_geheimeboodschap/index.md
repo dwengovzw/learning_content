@@ -48,4 +48,4 @@ version: 3
 
  This notebook illustrates how a message can be hidden within an image. By detecting a deviating pattern in the pixel values of the image, one can discover the message.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1520 "Notebooks Secret Message")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1520_en "Notebooks Secret Message")

@@ -43,4 +43,4 @@ In this series of notebooks, you will delve into the following items:
 * What is the importance of the correlation coefficient?
 * Determine the equation of the best fitting line and draw it on the scatter plot.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0301 "Notebooks Linear Regression")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0301_en "Notebooks Linear Regression")

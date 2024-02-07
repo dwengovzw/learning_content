@@ -36,7 +36,7 @@ version: 3
 # Draw a parabola
 A parabola is a collection of points. Once you can draw a scatter plot, the step to a parabola is quickly made.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0701 "Notebooks draw parabola")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0701_en "Notebooks draw parabola")
 <figure>
     <figcaption align = "center">Don't forget to log out before you move on to the next notebook!</figcaption>
 </figure>
