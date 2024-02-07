@@ -44,3 +44,14 @@ The employees of Dwengo can move between their own floors using a private elevat
 As there are not an equal number of movements between the different floors, Dwengo wants to choose the division in such a way that as few people as possible have to take the stairs. Below you will find an overview of the movements that take place on an average day.
 
 | From Floor | To Floor |
+| ----------- | ----------- |
+| 4      | 8, 10, 10, 8, 6, 6        |
+| 5   | 8, 8, 9, 9, 11, 11, 11, 9, 8         |
+| 6   | 10, 8, 10, 4         |
+| 7   | 10, 10, 11, 11, 11, 5, 11, 5, 9, 9, 5, 10, 10         |
+| 8   | 5, 5, 4, 6, 4, 6, 5, 10, 10         |
+| 9   | 5, 5, 11, 11, 7, 11, 7, 5         |
+| 10   | 6, 8, 8, 7, 6, 7, 6         |
+| 11   | 7, 5         |
+
+On which floors should each of the elevators stop to ensure that as few people as possible have to take the stairs? The two elevators each stop on their own four floors, these collections do not overlap.
