@@ -35,9 +35,7 @@ target_ages:
 - 17
 - 18
 teacher_exclusive: false
-title: The input text doesn't contain any content to translate, only the title "Karger
-  in Python (comments)". The translation for the title would be "Karger in Python
-  (comments)" as both the names and the term "comments" are the same in English.
+title: Karger in Python (comments)
 version: 1
 ---
 # Monte Carlo
