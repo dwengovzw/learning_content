@@ -62,3 +62,5 @@ Om een elektrische schakeling op een correcte manier te kunnen meten, is het nod
         </tr>
     </table>
 </div>
+
+![blockly](@learning-object/pc_shared_breadboard/nl/1)
