@@ -82,14 +82,21 @@ teacher_exclusive: false
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
 
-    void setup(){
-        initDwenguino();
+    void setup()
+    {
+        // Initialiseer de basisfuncties van de dwenguino.
+        initDwenguino(); 
+
+        // Stel de BUZZER pin in als uitvoer.
+        pinMode(BUZZER, OUTPUT);
+    }
+    
+    void loop()
+    {
+        // Genereer een toon van 440Hz.
+        tone(BUZZER, 440);
     }
 
-    void loop(){
-        pinMode(32, OUTPUT);
-        digitalWrite(32, HIGH);
-    }
 </code>
 </pre> 
             </p>
