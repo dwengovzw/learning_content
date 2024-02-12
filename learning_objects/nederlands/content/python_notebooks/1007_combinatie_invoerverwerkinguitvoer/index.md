@@ -33,6 +33,6 @@ skos_concepts: [
 
 In deze notebooks maak je kennis met enkele courante datatypes en leer je hoe je informatie opvraagt bij de gebruiker.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1007 "Notebooks Input Output")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1007 "Notebooks Input Output")
 
 ![alt](@youtube/https://www.youtube.com/embed/JKvlzCdIvsg "video input output")

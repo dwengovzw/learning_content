@@ -37,4 +37,4 @@ version: 3
 # Practice with real data
 You are now applying what you have learned to 'real' data: the stations serviced by the NMBS and the eruptions of the geyser *'Old Faithful'*.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0203_en "Notebooks Practice with Data")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0203_en "Notebooks Practice with Data")

@@ -37,4 +37,4 @@ skos_concepts: [
 
 Een van de effecten van de klimaatverandering is de stijging van het zeeniveau. In deze notebook visualiseer je de evolutie van het gemiddelde zeeniveau in Oostende.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1130 "Notebooks Klimaatverandering")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1130 "Notebooks Klimaatverandering")

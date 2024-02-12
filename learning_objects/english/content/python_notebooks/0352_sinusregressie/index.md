@@ -36,7 +36,7 @@ version: 3
 # Temperature
 Here you visualize data of the average temperature measured in Uccle over a certain period. You will look for a curve that fits this data.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0352_en "Notebooks temperature")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0352_en "Notebooks temperature")
 <figure>
     <figcaption align = "center">Don't forget to log out before you move on to the next notebook!</figcaption>
 </figure>

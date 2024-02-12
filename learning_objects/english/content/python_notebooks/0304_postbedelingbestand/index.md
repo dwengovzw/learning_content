@@ -42,4 +42,4 @@ version: 3
 You have already analyzed the data for letters and parcels for the period 2010 - 2015.  
 Now you will extend this analysis to the period 2004 - 2017. This time, however, you will also need to read in the necessary files yourself!
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0304_en "Practice with Data Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0304_en "Practice with Data Notebooks")

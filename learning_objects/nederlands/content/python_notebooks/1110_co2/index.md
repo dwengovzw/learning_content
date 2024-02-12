@@ -37,4 +37,4 @@ skos_concepts: [
 
 In deze notebooks bestudeer je de evolutie in de atmosferische CO<sub>2</sub>-concentratie door de eeuwen heen. Je visualiseert het verband met de temperatuur en je maakt zelf een voorstelling van de Keelingcurve.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1110 "Notebooks Klimaatverandering")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1110 "Notebooks Klimaatverandering")

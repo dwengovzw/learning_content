@@ -40,4 +40,4 @@ teacher_exclusive: false
 
 ![Schema](embed/schema.png "Schema basisconcepten computationeel denken")
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6210 "Puzzel Tentje-boompje")  
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6210 "Puzzel Tentje-boompje")  

@@ -41,7 +41,7 @@ Deze toestellen maken gebruik van zogenaamde numerieke methodes om de nulwaarden
 Er bestaan meerdere numerieke methodes om de nulwaarden te bepalen. <br>
 Hier worden twee methodes voorgesteld. In een eerste notebook maak je kennis met de bissectiemethode, een tweede notebook gaat in op de methode van Newton.   
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6520 "Nulwaarden numeriek bepalen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6520 "Nulwaarden numeriek bepalen")
 
 ---------
 In de eerste notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, derde- en vierdegraadsfunctie (optioneel), het (rekenkundig) gemiddelde van twee getallen, continue functie, functiewaarde, snijpunt van de grafiek van een functie met de x-as.
@@ -51,7 +51,7 @@ In de tweede notebook komen enkele **wiskundige concepten** aan bod: tweedegraad
 ---------
 Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6525 "Nulwaarden numeriek bepalen economie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6525 "Nulwaarden numeriek bepalen economie")
 
 ---------
 #### Verband met minimumdoelen informaticawetenschappen

@@ -34,5 +34,5 @@ skos_concepts: [
 # Taaltechnologie - List
 In deze notebook maak je gebruik van het type *list* in taaltechnologische toepassingen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1012 "Notebooks List")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1012 "Notebooks List")
 

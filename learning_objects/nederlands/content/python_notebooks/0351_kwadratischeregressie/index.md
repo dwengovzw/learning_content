@@ -31,7 +31,7 @@ skos_concepts: [
 # Schuine worp
 Hier visualiseer je data verzameld bij een schuine worp. Je gaat op zoek naar een kromme die past bij deze data. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0351 "Notebooks schuine worp")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0351 "Notebooks schuine worp")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>

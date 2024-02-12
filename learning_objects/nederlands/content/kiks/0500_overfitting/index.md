@@ -39,4 +39,4 @@ Links op de afbeelding is er sprake van underfitting, de rechtse grafiek illustr
 
 In de volgende notebook leer je hiermee rekening te houden.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1713 "Overfitting")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1713 "Overfitting")

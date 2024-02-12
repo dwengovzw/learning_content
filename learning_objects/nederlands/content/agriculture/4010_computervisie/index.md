@@ -36,4 +36,4 @@ Hoewel objectdetectiesystemen tegenwoordig al op heel wat plaatsen gebruikt word
 In een eerste notebook worden enkele praktijkvoorbeelden gegeven en kom je we wat meer te weten over de werking van een objectdetectiesysteem.<br>
 In een tweede notebook ga je aan de slag met een bestaand objectdetectiealgoritme: YOLO.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4010 "Computervisie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=4010 "Computervisie")

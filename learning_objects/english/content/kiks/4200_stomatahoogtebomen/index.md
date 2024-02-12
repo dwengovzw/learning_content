@@ -35,4 +35,4 @@ version: 3
 Researchers from Brazil used linear regression to examine whether there is a relationship between the number of stomata on leaves in the canopy of a tree and the height of the tree. In a first notebook, you will work with their data and apply linear regression yourself. Finally, you can compare your results with those of the scientists.<br><br>
 In a subsequent notebook, you determine the regression line using a method from machine learning. There, a distinction is made between training data and test data.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1920_en "Stomata height in trees")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1920_en "Stomata height in trees")

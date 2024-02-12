@@ -41,4 +41,4 @@ version: 3
 Do you want to know if linear regression makes sense for a specific dataset? Visualizing the data can contribute to that assessment.
 However, you can't always estimate the degree of correlation by sight. You'll learn why standardizing the data is important in that respect.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0302_en "Standardization Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0302_en "Standardization Notebooks")

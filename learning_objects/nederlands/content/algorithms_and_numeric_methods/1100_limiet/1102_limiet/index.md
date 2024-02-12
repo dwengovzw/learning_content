@@ -39,4 +39,4 @@ Beschouw de funtie \\(f(x)=\frac{1}{x}\\).  <br>
 Bepaal naar welk getal \\(f(x)\\) nadert bij heel grote en heel kleine waarden van \\(x\\). <br>
 Bepaal naar welk getal \\(f(x)\\) nadert als \\(x\\) nadert naar \\(0\\).
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6515 "Limiet van een functie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6515 "Limiet van een functie")

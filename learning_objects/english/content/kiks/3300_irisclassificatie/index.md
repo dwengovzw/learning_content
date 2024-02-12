@@ -36,4 +36,4 @@ version: 3
 You will teach the computer to distinguish between *Iris setosa* and *Iris versicolor* based on characteristics such as the length of a petal. For this purpose, you use a first notebook.
 <br>After this notebook, you will be ready to complete the task in the second notebook successfully.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1801_en "Iris-classification")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1801_en "Iris-classification")

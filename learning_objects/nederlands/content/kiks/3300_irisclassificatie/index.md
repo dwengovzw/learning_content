@@ -35,4 +35,4 @@ teacher_exclusive: false
 Je leert aan de computer om de *Iris setosa* en de *Iris versicolor* van elkaar onderscheiden op basis van kenmerken zoals de lengte van een kroonblad. Daarvoor gebruik je een eerste notebook. 
 <br>Na deze notebook ben je klaar om de opdracht in de tweede notebook tot een goed einde te brengen. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1801 "Iris-classificatie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1801 "Iris-classificatie")

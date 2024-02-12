@@ -33,4 +33,4 @@ teacher_exclusive: false
 # Met de webcam: mogelijkheden en beperkingen van een objectdetectiesysteem
 Deze tweede notebook leert je begrijpen wat de mogelijkheden en de mogelijke beperkingen zijn van een objectdetectiesysteeem. <br>
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4021 "Webcam")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=4021 "Webcam")

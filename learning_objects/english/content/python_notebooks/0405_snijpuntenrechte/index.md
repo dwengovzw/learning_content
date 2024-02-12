@@ -38,4 +38,4 @@ version: 3
 # Intersection of 2 lines
 Calculating and showing the intersection of 2 lines on a graph is a problem that involves multiple aspects of computational thinking and programming. Through this notebook, you will know exactly how to tackle it.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0405_en "Notebooks Intersections")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0405_en "Notebooks Intersections")

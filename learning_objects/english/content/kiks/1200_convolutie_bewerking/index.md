@@ -38,4 +38,4 @@ multiplied element-wise and afterwards, these products are summed.
 
 In this notebook, you will learn exactly how this operation proceeds.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1751_en "Convolution Operation")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1751_en "Convolution Operation")

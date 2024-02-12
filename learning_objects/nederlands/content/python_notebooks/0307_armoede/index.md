@@ -35,4 +35,4 @@ skos_concepts: [
 Jammer genoeg leven er nog steeds mensen in extreme armoede. Ze moeten overleven met minder dan $ 1,90 per dag.  
 Bekijk of er een trend is in het percentage van de wereldbevolking dat in extreme armoede leeft in functie van het jaartal.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0307 "Notebooks Oefenen met Data")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0307 "Notebooks Oefenen met Data")

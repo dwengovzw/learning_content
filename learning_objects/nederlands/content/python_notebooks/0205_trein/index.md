@@ -31,6 +31,6 @@ skos_concepts: [
 ---
 # Toepassing - Trein
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0205 "Notebooks Trein")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0205 "Notebooks Trein")
 
 

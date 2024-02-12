@@ -43,7 +43,7 @@ Een taartdiagram is meestal niet de beste keuze omdat mensen niet goed in staat 
 In drie notebooks ga je aan de slag met datasets; sommige zijn aanzienlijk groot. <br>
 Je leert data visualiseren met Python in een taartdiagram, staafdiagram of een histogram.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0371 "Notebook Taartdiagram")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0371 "Notebook Taartdiagram")
 
 -------
 

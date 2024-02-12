@@ -37,7 +37,7 @@ skos_concepts: [
 
 In deze notebook maak je kennis met de wiskunde achter digitale beelden in kleur. In plaats van matrices worden nu tensoren gebruikt.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1502 "Notebooks kleur")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1502 "Notebooks kleur")
 
 ------------
 Kleuren komen voor in een spectrum. 

@@ -39,4 +39,4 @@ In de eerste notebook wordt een voorbeeld gegeven van hoe je een jpg-bestand kun
 
 In de tweede notebook maak je kennis met de MNIST-dataset en pas je toe wat je leerde in de eerste notebook.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1510 "Notebooks jpeg naar npy")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1510 "Notebooks jpeg naar npy")

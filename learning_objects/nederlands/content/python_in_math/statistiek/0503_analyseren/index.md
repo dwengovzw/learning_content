@@ -37,5 +37,5 @@ teacher_exclusive: false
 Centrummaten en spreidingsmaten geven veel informatie over een dataset.  <br>
 In deze notebook leer je hoe je deze met Python kan laten berekenen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0375 "Notebook analyse data")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0375 "Notebook analyse data")
 

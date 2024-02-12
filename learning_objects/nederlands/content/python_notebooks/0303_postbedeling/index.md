@@ -36,4 +36,4 @@ Je past nu wat je leerde toe op de postbedeling in België.
 
 Je analyseert data betreffende het aantal brieven of postpakketten dat Belgen hebben verstuurd gedurende de periode 2010 - 2015 en trekt hier besluiten uit.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0303 "Notebooks Oefenen met Data")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0303 "Notebooks Oefenen met Data")

@@ -37,4 +37,4 @@ skos_concepts: [
 Je onderzoekt of je met lineaire regressie een geschikte trendlijn bekomt voor de evolutie v.h. zeeniveau in Oostende of dat je beter op zoek gaat naar een kromme die de trend weerspiegelt.
 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1150 "Notebooks Klimaatverandering")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1150 "Notebooks Klimaatverandering")

@@ -36,4 +36,4 @@ version: 3
 # Combination exercises
 In this notebook, you apply what you have learned about structures, supplemented with functions.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1041_en "Notebooks Function")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1041_en "Notebooks Function")

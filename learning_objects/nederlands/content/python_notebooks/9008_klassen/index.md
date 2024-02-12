@@ -31,4 +31,4 @@ skos_concepts: [
 # Klassen
 Python is een objectgeoriënteerde taal. In Python is alles een object: elk getal, elk stuk tekst... Gerelateerde objecten en methodes (specifieke functies voor deze objecten) groepeert men in klassen. In deze notebook leer je zelf een klasse opstellen. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1050 "Notebooks Functie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1050 "Notebooks Functie")

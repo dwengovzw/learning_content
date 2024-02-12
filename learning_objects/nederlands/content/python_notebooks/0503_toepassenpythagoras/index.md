@@ -46,7 +46,7 @@ Deze twee types van problemen vind je alvast terug in de eerste notebook. Om ze 
 
 In een tweede notebook vind je extra uitdagende oefeningen. Je wendt er bv. een _keuzestructuur_ aan en werkt er met de _afstand tussen twee punten_. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0503 "Notebooks Pythagoras")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0503 "Notebooks Pythagoras")
 
 ![](@youtube/https://www.youtube.com/watch?v=O2iGX2SLLAQ "Filmpje Pythagoras")
 

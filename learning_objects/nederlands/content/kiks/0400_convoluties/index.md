@@ -36,7 +36,7 @@ De eerste notebook gaat hier dieper op in.
 
 Behalve convoluties worden er ook nog andere technieken gebruikt, zoals ReLU en max pooling. <br>Daar gaat de tweede notebook over. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1712 "Convoluties")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1712 "Convoluties")
 
 ---
 > De convolutie is een wiskundige bewerking die enkel gebruikmaakt van optellen en vermenigvuldigen. Het komt erop neer dat men aan een pixel een bepaald gewicht geeft en men daaraan gewogen waarden van de omliggende pixels toevoegt.

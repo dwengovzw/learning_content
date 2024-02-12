@@ -34,4 +34,4 @@ skos_concepts: [
 Wil je weten of lineaire regressie zinvol is bij een bepaalde dataset? Visualiseren v.d. data kan daartoe zijn steentje bijdragen.  
 De mate van correlatie kan je echter niet altijd op het zicht inschatten. Je leert waarom het standaardiseren van de gegevens in dat opzicht belangrijk is.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0302 "Notebooks Standaardiseren")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0302 "Notebooks Standaardiseren")

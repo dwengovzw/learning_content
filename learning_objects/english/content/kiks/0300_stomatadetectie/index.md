@@ -34,4 +34,4 @@ version: 3
 # Stomata Detection
 In this notebook, a deep neural network is used to detect stomata on a large image.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1711_en "Stomata Detection")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1711_en "Stomata Detection")

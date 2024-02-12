@@ -36,7 +36,7 @@ version: 3
 # Parameters in the equation of a parabola
 In these notebooks, you investigate how the parameters in the equation of a parabola affect its graph. 
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0705_en "Notebooks parameters parabola")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0705_en "Notebooks parameters parabola")
 <figure>
     <figcaption align = "center">Don't forget to log out before you move on to the next notebook!</figcaption>
 </figure>

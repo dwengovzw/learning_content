@@ -59,6 +59,6 @@ hartaanval. Om dit te implementeren in Python, zal je dus deze beperkte dataset 
 Merk op dat de waarden van de variabelen in de tabel categorisch zijn en dat deze voor de computer omgezet zullen moeten worden naar numerieke of kwantitatieve
 variabelen. In de notebook worden de waarden van de variabelen ingegeven als numerieke waarden. Voor ‘nee’ wordt een ‘0’ gebruikt en voor ‘ja’ een ‘1’.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=3010 "Voorbeeldnotebook")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=3010 "Voorbeeldnotebook")
 
 Extra uitleg vind je in hoofdstuk 8 van de handleiding.

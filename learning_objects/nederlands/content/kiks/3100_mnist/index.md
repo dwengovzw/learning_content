@@ -45,4 +45,4 @@ In een eerste notebook werk je met een **feedforward neuraal netwerk**.<br>
 In een tweede notebook werk je met een **convolutioneel neuraal netwerk**; hier gebruik je naast een training- en testset ook een **valideringsset**.  <br>
 Je kan de opbouw en de prestaties van deze netwerken met elkaar vergelijken. Door de parameters in deze netwerken aan te passen verwerf je inzichten in de invloed van deze parameters op de training en de prestaties. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1810 "MNIST")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1810 "MNIST")

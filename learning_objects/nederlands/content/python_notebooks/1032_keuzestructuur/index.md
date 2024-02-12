@@ -32,6 +32,6 @@ skos_concepts: [
 
 Naargelang de voorwaarde waaraan voldaan is, wordt een andere instructie uitgevoerd. Dit wordt doorgaans in de vorm als - dan - anders genoteerd.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1032 "Notebooks keuzestructuur")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1032 "Notebooks keuzestructuur")
 
 

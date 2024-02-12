@@ -36,4 +36,4 @@ version: 3
 # Classes
 Python is an object-oriented language. In Python, everything is an object: every number, every piece of text... Related objects and methods (specific functions for these objects) are grouped into classes. In this notebook, you'll learn how to create a class yourself.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1050_en "Notebooks Function")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1050_en "Notebooks Function")

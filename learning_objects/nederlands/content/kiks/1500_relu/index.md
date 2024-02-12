@@ -38,4 +38,4 @@ In het neurale netwerk van KIKS wordt ReLU gebruikt. Het is een niet-lineaire fu
 In deze notebook wordt uit de doeken gedaan hoe dat mogelijk is. Je zal inzien hoe krachtig deze techniek is. Heel indrukwekkend!<br>
 Bovendien zal je beter begrijpen wat er zoal gebeurt in de *verschillende lagen* van een diep neuraal netwerk.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1752 "Re LU")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1752 "Re LU")

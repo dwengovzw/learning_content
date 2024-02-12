@@ -79,4 +79,4 @@ Modellering kan ook in deze gevallen helpen, omdat wetenschappers verschillende 
 
 In deze notebooks wordt o.a. het SIR-model toegepast op een netwerk en ga je zelf bepaalde situaties simuleren in het model.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1221 "Notebooks Epidemie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1221 "Notebooks Epidemie")

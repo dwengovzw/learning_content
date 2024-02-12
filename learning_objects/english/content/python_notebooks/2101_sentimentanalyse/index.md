@@ -40,4 +40,4 @@ In these two interactive notebooks, it becomes clear how sentiment analysis with
 
 In automatic sentiment analysis, an AI system decides whether a review is positive, negative, or neutral. Such a system is never 100% accurate.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=2101_en "Sentiment Analysis Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=2101_en "Sentiment Analysis Notebooks")

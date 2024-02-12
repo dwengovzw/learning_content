@@ -36,7 +36,7 @@ version: 3
 # Quadratic Equation
 Automate solving a quadratic equation.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0710_en "Notebooks quadratic equation parabola")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0710_en "Notebooks quadratic equation parabola")
 <figure>
     <figcaption align = "center">Don't forget to log out before you go to the next notebook!</figcaption>
 </figure>

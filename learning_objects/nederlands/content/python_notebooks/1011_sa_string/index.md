@@ -34,5 +34,5 @@ skos_concepts: [
 # Taaltechnologie - String
 In deze notebook maak je gebruik van het type *string* in taaltechnologische toepassingen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1011 "Notebooks String")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1011 "Notebooks String")
 

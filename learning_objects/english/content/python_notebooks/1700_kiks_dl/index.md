@@ -34,4 +34,4 @@ version: 3
 ---
 # Basic Deep Learning
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1700_en "Notebooks KIKS Deep Learning")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1700_en "Notebooks KIKS Deep Learning")

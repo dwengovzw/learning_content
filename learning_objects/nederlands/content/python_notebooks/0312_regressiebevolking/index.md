@@ -35,5 +35,5 @@ skos_concepts: [
 ## Bevolking
 In welke mate is de Belgische bevolking gegroeid of aan het groeien? Visualiseer deze evolutie en bespreek je bevindingen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0312 "Notebooks Oefenen met Data")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0312 "Notebooks Oefenen met Data")
 

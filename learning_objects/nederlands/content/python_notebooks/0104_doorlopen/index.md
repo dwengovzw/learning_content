@@ -31,6 +31,6 @@ skos_concepts: [
 ---
 Hier is een jupyter notebook:
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0103 "Notebooks Doorlopen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0103 "Notebooks Doorlopen")
 
 

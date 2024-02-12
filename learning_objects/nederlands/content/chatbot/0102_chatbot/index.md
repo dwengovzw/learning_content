@@ -34,4 +34,4 @@ skos_concepts: [
 # Chatbot
 In deze notebook maak je zelf een eenvoudige chatbot. Je ondervindt zijn mogelijkheden en beperkingen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2110 "Notebooks Chatbot")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=2110 "Notebooks Chatbot")

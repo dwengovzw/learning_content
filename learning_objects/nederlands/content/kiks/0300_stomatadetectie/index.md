@@ -33,7 +33,7 @@ teacher_exclusive: false
 # Stomatadetectie
 In deze notebook wordt een diep neuraal netwerk gebruikt om stomata op een grote afbeelding te herkennen.  
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1711 "Stomatadetectie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1711 "Stomatadetectie")
 
 ----------------
 Dit diep neuraal netwerk netwerk bestaat uit drie convolutionele lagen, aangevuld met één feedforward laag. De volgende afbeelding toont de architectuur van dit netwerk.

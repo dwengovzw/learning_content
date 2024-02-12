@@ -37,4 +37,4 @@ elementsgewijs vermenigvuldigd en erna worden deze producten opgeteld.
 
 In deze notebook leer je exact hoe deze bewerking verloopt.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1751 "Convolutie bewerking")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1751 "Convolutie bewerking")

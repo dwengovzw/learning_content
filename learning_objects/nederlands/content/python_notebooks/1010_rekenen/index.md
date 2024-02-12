@@ -35,5 +35,5 @@ In deze notebook leer je optellen en vermenigvuldigen in Python. Je gaat met vie
 
 Je werkt met de module math en enkele methodes. Ook kennis van datatypes wordt hier ingeoefend.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1010 "Notebooks Rekenen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1010 "Notebooks Rekenen")
 

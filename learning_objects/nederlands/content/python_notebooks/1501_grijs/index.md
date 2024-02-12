@@ -54,7 +54,7 @@ Om hiermee vertrouwd te worden, kan je twee notebooks doorlopen.
 De eerste notebook onthult hoe digitale beelden in grijswaarden zijn opgebouwd en hoe de computer ernaar kijkt.<br>
 De tweede notebook toont hoe je door bewerkingen uit te voeren op het raster, een afbeelding kan manipuleren. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1501 "Notebooks Grijswaarden")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1501 "Notebooks Grijswaarden")
 
 --------------
 #### Opdracht

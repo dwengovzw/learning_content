@@ -36,4 +36,4 @@ In this notebook, you train and test your own deep neural network to detect stom
 
 
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720_en "Parameters")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1720_en "Parameters")

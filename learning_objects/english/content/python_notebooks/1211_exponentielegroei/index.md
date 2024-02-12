@@ -40,4 +40,4 @@ COVID-19 is frequently on a steep rise. In Belgium, too, the number of infection
 
 We have developed a notebook where you learn how to do exponential regression: you will determine with Python the exponential function that best fits the data.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1210_en "Epidemic Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1210_en "Epidemic Notebooks")

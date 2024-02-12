@@ -34,4 +34,4 @@ teacher_exclusive: false
 
 In de **tweede notebook** pas je Riemannsom toe om de oppervlakte te berekenen tussen een andere kromme en de x-as. Je maakt er ook kennis met een tweede techniek, namelijk de trapeziummethode; bij deze methode benader je met behulp van trapezia in plaats van rechthoeken.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6530 "Riemannsom en trapeziummethode")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6530 "Riemannsom en trapeziummethode")

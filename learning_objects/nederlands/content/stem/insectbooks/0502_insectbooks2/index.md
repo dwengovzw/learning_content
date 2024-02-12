@@ -62,7 +62,7 @@ Het algemene voorschrift stelt nu het exponentiële groeimodel voor!
 
 Nu ga je aan de slag met een interactieve online notebook. In de notebook zet je Python in om te rekenen en om het model grafisch voor te stellen.
 
-[![](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6010 "Expon")
+[![](embed/knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6010 "Expon")
 
 ## De insecten voorbij
 

@@ -36,4 +36,4 @@ skos_concepts: [
 # Gebergtegletsjers - Regressie
 Je onderzoekt hoe de gletsjers verder inkrimpen als de huidige trend zich doorzet.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1140 "Notebooks Klimaatverandering")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1140 "Notebooks Klimaatverandering")

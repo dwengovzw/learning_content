@@ -37,4 +37,4 @@ version: 3
 # Datatypes
 At the core of language technology are the form in which text is supplied to the computer and how you can process text with a computer.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1004_en "Notebooks Datatypes")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1004_en "Notebooks Datatypes")

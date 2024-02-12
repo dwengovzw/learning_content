@@ -42,4 +42,4 @@ version: 3
 Unfortunately, there are still people living in extreme poverty. They have to survive on less than $1.90 a day.
 See if there is a trend in the percentage of the world population living in extreme poverty over the years.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0307_en "Practice with Data Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0307_en "Practice with Data Notebooks")

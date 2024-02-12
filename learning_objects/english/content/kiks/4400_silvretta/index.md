@@ -38,4 +38,4 @@ Look for a straight line or curve that best fits the data.
 
 Just like computer scientists, make use of training and test data.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1935_en "Silvretta Glacier")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1935_en "Silvretta Glacier")

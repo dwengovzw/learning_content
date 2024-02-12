@@ -38,4 +38,4 @@ In deze twee interactieve notebooks wordt duidelijk hoe sentimentanalyse met reg
 
 Bij automatische sentimentanalyse beslist een AI_systeem of een review positief, negatief of neutraal is. Zo'n systeem is nooit 100% nauwkeurig.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2101 "Notebooks Sentimentanalyse")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=2101 "Notebooks Sentimentanalyse")

@@ -33,4 +33,4 @@ teacher_exclusive: false
 # Standaardiseren
 In deze notebook leer je dat je de mate van correlatie van bivariate gegevens niet altijd op het zicht kunt inschatten en waarom het standaardiseren van de gegevens in dat opzicht belangrijk is.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0207 "Standaardiseren")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0207 "Standaardiseren")

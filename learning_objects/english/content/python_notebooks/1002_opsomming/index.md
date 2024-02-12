@@ -36,4 +36,4 @@ version: 3
 # Enumerations
 For enumerations, there are different data types. You choose the most suitable one, among other things depending on whether the order of the elements is important or not.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1002_en "Notebooks Input Output")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1002_en "Notebooks Input Output")

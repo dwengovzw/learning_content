@@ -37,4 +37,4 @@ De computer moet dus een *classificatieprobleem* oplossen, waarbij het nodig is 
 
 In deze notebook maak je stap voor stap kennis met de opbouw van een *diep neuraal netwerk* dat een oplossing biedt voor dit classificatieprobleem. Bij de ontwikkeling van een neuraal netwerk maakt de architect van het systeem meerdere keuzes en legt ook de waarden van enkele parameters vast. Deze keuzes bepalen de architectuur van het netwerk en hoe de training van het netwerk verloopt.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1701 "Diep neuraal netwerk")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1701 "Diep neuraal netwerk")

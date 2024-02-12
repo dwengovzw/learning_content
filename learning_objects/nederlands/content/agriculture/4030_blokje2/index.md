@@ -33,4 +33,4 @@ teacher_exclusive: false
 # De dataset uitbreiden
 In deze derde notebook maak je kennis met technieken om de dataset uit te breiden. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=4022 "Webcam")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=4022 "Webcam")

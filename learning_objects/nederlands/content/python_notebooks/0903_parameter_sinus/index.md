@@ -31,7 +31,7 @@ skos_concepts: [
 # Parameters in een algemene sinusfunctie
 In deze notebooks onderzoek je hoe de parameters in de vergelijking van een algemene sinusfunctie de vorm van de sinusoïde beïnvloeden. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0903 "Notebooks parameters algemene sinusvergelijking")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0903 "Notebooks parameters algemene sinusvergelijking")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>

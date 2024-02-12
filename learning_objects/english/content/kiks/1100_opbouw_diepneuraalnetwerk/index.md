@@ -38,4 +38,4 @@ The computer thus has to solve a *classification problem*, where it is necessary
 
 In this notebook, you will become acquainted step by step with the construction of a *deep neural network* that provides a solution for this classification problem. When developing a neural network, the architect of the system makes multiple choices and also sets the values of some parameters. These choices determine the architecture of the network and how the network's training proceeds.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1701_en "Deep neural network")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1701_en "Deep neural network")

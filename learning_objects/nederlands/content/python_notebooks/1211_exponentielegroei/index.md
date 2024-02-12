@@ -38,4 +38,4 @@ COVID-19 is regelmatig aan een steile opmars bezig. Ook in België vertoont het 
 
 We hebben een notebook ontwikkeld waarin je leert hoe je aan exponentiële regressie doet: je zal met Python de exponentiële functie bepalen die het best past bij de data.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1210 "Notebooks Epidemie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1210 "Notebooks Epidemie")

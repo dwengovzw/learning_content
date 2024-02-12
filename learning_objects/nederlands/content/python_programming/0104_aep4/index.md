@@ -51,7 +51,7 @@ De velden van de tenten mogen elkaar niet raken, ook niet diagonaal.
 
 ![Schema](embed/schema.png "Schema basisconcepten computationeel denken")
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6210 "Puzzel Tentje-boompje")  
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6210 "Puzzel Tentje-boompje")  
 
 ------------------
 Je kan je programma nu gebruiken om soortgelijke puzzels, bijvoorbeeld de onderstaande, op te lossen.

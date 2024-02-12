@@ -37,4 +37,4 @@ skos_concepts: [
 
 Deze notebook gaat dieper in op de vervoeging van werkwoorden.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2120 "Notebook vervoegmachine")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=2120 "Notebook vervoegmachine")

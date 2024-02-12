@@ -36,4 +36,4 @@ version: 3
 ---
 # Parameters
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0900_en "Notebooks Parameters")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0900_en "Notebooks Parameters")

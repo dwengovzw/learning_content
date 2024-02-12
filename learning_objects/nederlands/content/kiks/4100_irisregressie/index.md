@@ -39,4 +39,4 @@ Met deze regressielijn wordt de lengte van een bloemblad voorspeld voor een geke
 In deze notebook bepaal je de regressielijn en de correlatiecoëfficiënt met de ingebouwde functies van de module SciPy en scikit-learn.<br><br>
 In een volgende notebook wordt een machine learning-algoritme uit de doeken gedaan.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1910 "Irisregressie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1910 "Irisregressie")

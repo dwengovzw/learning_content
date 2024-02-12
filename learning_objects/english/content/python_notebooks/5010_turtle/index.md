@@ -38,4 +38,4 @@ In this notebook, you will program a 'turtle' that moves across the screen. With
 Gradually, you will be introduced to working with a loop structure and using functions.
 Be creative!
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=5010_en "Turtle")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=5010_en "Turtle")

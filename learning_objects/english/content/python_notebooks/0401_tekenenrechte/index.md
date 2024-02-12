@@ -38,4 +38,4 @@ version: 3
 # Drawing Lines
 In the first part of this learning path, you will modify the Python script you are already familiar with to represent data in a scatter plot.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0401_en "Notebooks Drawing Lines")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0401_en "Notebooks Drawing Lines")

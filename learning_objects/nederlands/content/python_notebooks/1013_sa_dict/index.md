@@ -34,5 +34,5 @@ skos_concepts: [
 # Taaltechnologie - Dict
 In deze notebook maak je gebruik van het type *dict* in taaltechnologische toepassingen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1013 "Notebooks Dict")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1013 "Notebooks Dict")
 

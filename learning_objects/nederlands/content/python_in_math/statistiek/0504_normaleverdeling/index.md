@@ -43,4 +43,4 @@ De bijbehorende functie, noemt men een **kansverdelingsfunctie** of kansdichthei
 In de eerste notebook leer je met Python de grafieken tekenen van de normale en de standaardnormale verdelingen. Je leert er ook hoe je met Python kansen berekent in deze context.<br>
 In de tweede notebook pas je het geleerde toe op een grote real-world dataset.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0380 "Notebook Normale verdeling")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0380 "Notebook Normale verdeling")

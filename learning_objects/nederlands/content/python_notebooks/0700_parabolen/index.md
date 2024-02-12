@@ -30,7 +30,7 @@ skos_concepts: [
 ---
 # Parabool
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0700 "Notebooks parabolen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0700 "Notebooks parabolen")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>

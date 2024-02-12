@@ -36,5 +36,5 @@ version: 3
 ---
 # Application - Train
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0205_en "Notebooks Train")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0205_en "Notebooks Train")
 

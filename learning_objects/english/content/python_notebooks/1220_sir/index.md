@@ -46,4 +46,4 @@ With the help of the SIR model, one simulates, for example, how the number of in
 
 In this notebook, you will get to know the SIR model.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1220_en "Notebooks Epidemic")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1220_en "Notebooks Epidemic")

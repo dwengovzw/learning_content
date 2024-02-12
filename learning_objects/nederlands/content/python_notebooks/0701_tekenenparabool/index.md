@@ -31,7 +31,7 @@ skos_concepts: [
 # Parabool tekenen
 Een parabool is een verzameling van punten. Eens je een spreidingsdiagram kunt tekenen, is de stap naar een parabool snel gemaakt.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0701 "Notebooks tekenen parabool")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0701 "Notebooks tekenen parabool")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>

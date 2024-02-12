@@ -34,4 +34,4 @@ teacher_exclusive: false
 
 Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6525 "Nulwaarden numeriek bepalen economie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6525 "Nulwaarden numeriek bepalen economie")

@@ -38,4 +38,4 @@ In de eerste notebook ga je aan de slag met deze opdracht:
 Beschouw de harmonische rij \\(u_{n}=\frac{1}{n}\\).<br>
 Bepaal naar welk getal \\(u_{n}\\) nadert bij heel grote waarden van \\(n\\).
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=6510 "Limiet van een rij")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6510 "Limiet van een rij")

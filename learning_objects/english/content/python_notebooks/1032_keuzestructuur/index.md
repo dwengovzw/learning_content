@@ -37,4 +37,4 @@ version: 3
 
 Depending on the condition that has been met, a different instruction is executed. This is typically denoted in the form if - then - else.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1032_en "Notebooks choice structure")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1032_en "Notebooks choice structure")

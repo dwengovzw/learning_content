@@ -34,5 +34,5 @@ skos_concepts: [
 # Parameters in de vergelijking van een rechte
 In deze notebooks onderzoek je hoe de parameters in de vergelijking van een rechte de grafiek beïnvloeden. Experimenteer met de richtingscoëfficiënt en de doorgang door de y-as.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0404 "Notebooks Parameters")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0404 "Notebooks Parameters")
 

@@ -32,5 +32,5 @@ skos_concepts: [
 
 # Standaardiseren
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0207 "Notebooks Standaardiseren")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0207 "Notebooks Standaardiseren")
 

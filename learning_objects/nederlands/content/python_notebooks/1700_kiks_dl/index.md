@@ -30,4 +30,4 @@ skos_concepts: [
 
 # Basis deep learning
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1700 "Notebooks KIKS Deep Learning")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1700 "Notebooks KIKS Deep Learning")

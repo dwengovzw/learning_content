@@ -46,4 +46,4 @@ In a first notebook, you work with a **feedforward neural network**.<br>
 In a second notebook, you work with a **convolutional neural network**; here you use a training and test set as well as a **validation set**.<br>
 You can compare the structure and performance of these networks with each other. By adjusting the parameters in these networks, you gain insights into the influence of these parameters on training and performance.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1810_en "MNIST")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1810_en "MNIST")

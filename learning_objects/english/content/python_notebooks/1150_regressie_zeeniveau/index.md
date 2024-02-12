@@ -45,4 +45,4 @@ version: 3
 You are investigating whether you can obtain a suitable trend line for the evolution of sea level in Ostend using linear regression, or whether you should look for a curve that reflects the trend.
 
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1150_en "Notebooks Climate Change")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1150_en "Notebooks Climate Change")

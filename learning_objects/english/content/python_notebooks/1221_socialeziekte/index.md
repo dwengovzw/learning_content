@@ -61,4 +61,4 @@ Scientists develop their understanding of disease spread using data such as beha
 
 In these notebooks, the SIR model will be applied to a network, and you will simulate certain situations in the model yourself.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1221_en "Notebooks Epidemic")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1221_en "Notebooks Epidemic")

@@ -45,4 +45,4 @@ Je bestudeert de inkrimping van de Morteratsch in een geleid voorbeeld.
 
 Nadien wacht je een opdracht over de Silvrettagletsjer.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1120 "Notebooks Klimaatverandering")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1120 "Notebooks Klimaatverandering")

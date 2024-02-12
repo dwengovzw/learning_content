@@ -46,4 +46,4 @@ In the first notebook, an example is provided of how you can convert a jpg file 
 
 In the second notebook, you become familiar with the MNIST dataset and apply what you learned in the first notebook.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1510_en "Notebooks jpeg to npy")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1510_en "Notebooks jpeg to npy")

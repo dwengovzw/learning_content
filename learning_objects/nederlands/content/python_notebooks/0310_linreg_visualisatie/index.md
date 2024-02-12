@@ -32,5 +32,5 @@ skos_concepts: [
 ---
 # Visualisatie
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0310 "Notebooks Visualisatie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0310 "Notebooks Visualisatie")
 

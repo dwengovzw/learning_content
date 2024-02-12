@@ -36,4 +36,4 @@ version: 3
 ---
 # Geiser Application
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0206_en "Geiser Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0206_en "Geiser Notebooks")

@@ -39,4 +39,4 @@ version: 3
 ## Population
 To what extent has the Belgian population grown or is it growing? Visualize this evolution and discuss your findings.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0312_en "Practice with Data Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0312_en "Practice with Data Notebooks")

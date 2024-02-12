@@ -67,7 +67,7 @@ klantenreview, kan dan een rij nullen en enen, zoals 0010111010000001000000100..
 
 *Eindterm 4.4 (tweede en derde graad) - Zenden, ontvangen, verwerken, opslaan, afspraken tussen digitale systemen*
 
-Om aan de slag te gaan met een notebook, wordt de URL (bv. https://kiks.ilabt.imec.be/jupyterhub/?id=2110) ingegeven in de webbrowser. Deze URL bevat een protocol (HTTPS; wat wijst op een veilige verbinding) en een domeinnaam, bv. kiks.ilabt.imec.be. <br>
+Om aan de slag te gaan met een notebook, wordt de URL (bv. https://kiks.ilabt.imec.be/hub/tmplogin?id=2110) ingegeven in de webbrowser. Deze URL bevat een protocol (HTTPS; wat wijst op een veilige verbinding) en een domeinnaam, bv. kiks.ilabt.imec.be. <br>
 De webbrowser legt via het internet contact met een DNS-server om het IP-adres (een numeriek internetadres) op te zoeken van de server van AI Op School. Vervolgens wordt de boodschap van de gebruiker (de client, hier de webbrowser van de computer
 van de leerling of leerkracht) doorgegeven aan de webserver van AI Op School. Er wordt namelijk aan deze server gevraagd om toegang te geven tot de notebooks van AI Op School.<br>
 Het Hypertext Transfer Protocol (HTTP) is een computerprotocol waarin afspraken zijn vastgelegd zodat een computer (in dit geval de computer van de leerling of leerkracht) en een andere computer (hier de webserver van AI Op School) met elkaar kunnen communiceren.<br>

@@ -35,4 +35,4 @@ skos_concepts: [
 Deze notebooks reiken een toepassing van Natural Language Processing aan binnen een context van online reviews en de automatische detectie van het sentiment ervan. Fundamentele begrippen van machinaal leren komen daarbij aan bod. In de interactieve notebooks wordt duidelijk hoe sentimentanalyse met regelgebaseerde of datagebaseerde systemen gebeurt.
 Om dit te kunnen doen, maak je in enkele voorbereidende notebooks eerst kennis met de gebruikte technieken.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=2100 "Notebooks Sentimentanalyse")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=2100 "Notebooks Sentimentanalyse")

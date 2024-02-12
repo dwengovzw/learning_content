@@ -41,4 +41,4 @@ In this notebook, you will learn to add and multiply in Python. You'll work with
 
 You will work with the math module and some methods. Knowledge of datatypes is also practiced here.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1010_en "Notebooks Arithmetic")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1010_en "Notebooks Arithmetic")

@@ -34,4 +34,4 @@ version: 3
 # Stomata sun - shade
 The creation of stomata is influenced by environmental factors. You teach the computer to distinguish stomata of sunlit plants from those of shaded plants.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1802_en "Stomata sun - shade")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1802_en "Stomata sun - shade")

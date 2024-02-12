@@ -31,5 +31,5 @@ skos_concepts: [
 ---
 # Toepassing Geiser
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0206 "Notebooks Geiser")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0206 "Notebooks Geiser")
 

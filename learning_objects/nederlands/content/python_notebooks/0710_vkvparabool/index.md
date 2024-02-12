@@ -31,7 +31,7 @@ skos_concepts: [
 # Vierkantsvergelijking
 Automatiseer het oplossen van een vierkantsvergelijking.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0710 "Notebooks vierkantsvergelijking parabool")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0710 "Notebooks vierkantsvergelijking parabool")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>

@@ -33,4 +33,4 @@ teacher_exclusive: false
 # DataFrame
 A.d.h.v. de Python-module pandas kan je op een eenvoudige manier gegevens voorverwerken. Voorbeelden zijn het omzetten van categorische variabelen naar numerieke of het verwijderen van overtollige en onvolledige gegevens.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1018 "Notebooks Dataframe")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1018 "Notebooks Dataframe")

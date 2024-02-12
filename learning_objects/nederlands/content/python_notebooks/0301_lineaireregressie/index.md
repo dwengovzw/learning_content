@@ -36,4 +36,4 @@ In deze reeks notebooks verdiep je je in de volgende items:
 * Wat is het belang van de correlatiecoëfficiënt? 
 * Bepaal de vergelijking van de best passende rechte en teken ze erbij in het spreidingsdiagram.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0301 "Notebooks Lineaire Regressie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0301 "Notebooks Lineaire Regressie")

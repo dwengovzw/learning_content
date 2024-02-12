@@ -37,7 +37,7 @@ skos_concepts: [
 
  Deze notebook illustreert hoe een boodschap verborgen kan worden in een afbeelding. Door een afwijkend patroon op te sporen in de pixelwaarden van de afbeelding kan men de boodschap ontdekken. 
  
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1520 "Notebooks Geheime boodschap")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1520 "Notebooks Geheime boodschap")
 
 --------------
 #### Link met de minimumdoelen over computationeel denken en STEM

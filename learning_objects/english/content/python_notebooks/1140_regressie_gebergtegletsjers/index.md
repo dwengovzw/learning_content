@@ -44,4 +44,4 @@ version: 3
 # Mountain Glaciers - Regression
 You are investigating how glaciers will continue to shrink if the current trend persists.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1140_en "Notebooks Climate Change")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1140_en "Notebooks Climate Change")

@@ -38,4 +38,4 @@ In Python zijn er verschillende manieren om een lus te programmeren. De meest vo
 - de 'voorwaardelijke herhaling'.   
 *De lus wordt doorlopen zolang aan de voorwaarde is voldaan.*  
   
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1031 "Notebooks herhalingsstructuur")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1031 "Notebooks herhalingsstructuur")

@@ -41,4 +41,4 @@ De ziekte die het snelst gedood heeft, is de Spaansegriepepidemie die 50 tot 100
 
 Tegenwoordig veroorzaken besmettelijke ziektes minder doden door betere medische kennis, technieken en middelen. Ze blijven echter een ernstig probleem voor de volksgezondheid, zoals bijvoorbeeld de COVID-19 pandemie. Bovendien kunnen personen gemakkelijk ziektes verspreiden. Zo kan in een paar uur tijd een ziekte naar een ander continent verspreiden via het vliegtuig.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1200 "Notebooks Epidemie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1200 "Notebooks Epidemie")

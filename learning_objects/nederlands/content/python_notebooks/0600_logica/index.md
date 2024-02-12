@@ -33,7 +33,7 @@ In een eerste notebook kan je met Python waarheidstabellen genereren. Dat is han
 
 In een tweede notebook ga je in Python met Booleaanse operatoren aan de slag om na te gaan of een bepaalde uitdrukking waar of vals is.  
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0600 "Notebooks logica")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0600 "Notebooks logica")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>

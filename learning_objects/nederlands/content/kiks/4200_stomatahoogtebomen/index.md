@@ -34,4 +34,4 @@ teacher_exclusive: true
 Onderzoekers uit Brazilië onderzochten met lineaire regressie of er een verband is tussen het aantal huidmondjes op bladeren in de kruin van een boom en de hoogte van de boom. In een eerste notebook ga je met hun data aan de slag en pas je er zelf lineaire regressie op toe. Je kan tot slot jouw resultaten vergelijken met die van de wetenschappers.<br><br>
 In een volgende notebook bepaal je de regressielijn met een methode uit machinaal leren. Daar wordt een onderscheid gemaakt tussen trainingdata en testdata.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1920 "Stomata hoogte bomen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1920 "Stomata hoogte bomen")

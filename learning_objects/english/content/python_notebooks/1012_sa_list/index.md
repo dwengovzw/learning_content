@@ -40,4 +40,4 @@ version: 3
 # Language Technology - List
 In this notebook, you will use the type *list* in language technology applications.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1012_en "Notebooks List")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1012_en "Notebooks List")

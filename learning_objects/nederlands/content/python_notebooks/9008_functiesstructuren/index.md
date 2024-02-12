@@ -31,4 +31,4 @@ skos_concepts: [
 # Combinatie-oefeningen
 In deze notebook pas je toe wat je leerde over structuren, aangevuld met functies.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1041 "Notebooks Functie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1041 "Notebooks Functie")

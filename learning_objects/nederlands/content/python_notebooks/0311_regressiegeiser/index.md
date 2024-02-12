@@ -38,5 +38,5 @@ Je werkte reeds met de data van de Old Faithful Geiser in een notebook van het l
 Een geiser is een natuurlijk verwarmde heetwaterbron die regelmatig heet water en stoom de lucht in spuit.
 In deze notebook onderzoek je het verband tussen duurtijd van de erupties (uitbarstingen) en hoeveel tijd er verstrijkt tot de volgende eruptie.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0311 "Notebooks Oefenen met Data")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0311 "Notebooks Oefenen met Data")
 

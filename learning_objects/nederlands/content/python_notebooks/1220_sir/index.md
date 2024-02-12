@@ -44,4 +44,4 @@ A.d.h.v. het SIR-model simuleert men bv. hoe het aantal besmettingen zal evoluer
 
 In deze notebook leer je het SIR-model kennen.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1220 "Notebooks Epidemie")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1220 "Notebooks Epidemie")

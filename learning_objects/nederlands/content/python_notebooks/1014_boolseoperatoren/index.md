@@ -32,5 +32,5 @@ skos_concepts: [
 # Bool - NoneType
 In deze notebook maak je kennis met het datatype voor een logische uitdrukking.  
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1014 "Notebooks Rekenen")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1014 "Notebooks Rekenen")
 

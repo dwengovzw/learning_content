@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 In de volgende notebook word je ingewijd in de methode van _gradient descent_. Voor de eenvoud zal je op zoek gaan naar het minimum van enkele functies die afhankelijk zijn van slechts 1 variabele. Ook de functies worden vrij eenvoudig gehouden, de notebook beperkt zicht tot veeltermfuncties.   
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1760 "Gradient descent")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1760 "Gradient descent")
 
 -----
 

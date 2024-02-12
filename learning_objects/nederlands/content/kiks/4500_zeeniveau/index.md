@@ -37,4 +37,4 @@ Ga op zoek naar een best passende rechte of kromme bij de data.
 
 Maak net zoals de computerwetenschappers gebruik van training- en testdata.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1940 "Zeeniveau")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1940 "Zeeniveau")

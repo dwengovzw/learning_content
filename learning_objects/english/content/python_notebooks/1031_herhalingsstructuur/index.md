@@ -43,4 +43,4 @@ In Python, there are various ways to program a loop. The most common are:
 - the 'conditional repetition'.
 *The loop is executed as long as the condition is met.*
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1031_en "Notebooks repetition structure")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1031_en "Notebooks repetition structure")

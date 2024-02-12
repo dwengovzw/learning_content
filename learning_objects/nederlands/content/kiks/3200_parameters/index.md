@@ -35,4 +35,4 @@ In deze notebook train en test je jouw eigen diep neuraal netwerk om stomata te 
 
 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1720 "Parameters")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1720 "Parameters")

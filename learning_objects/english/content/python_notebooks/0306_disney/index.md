@@ -41,4 +41,4 @@ version: 3
 ## Disney
 Take a close look at visitor numbers in Disneyland Paris. Investigate whether there is a correlation between the year and the number of visitors, and determine if you can predict how many visitors Disneyland Paris could expect after the period under investigation.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0306_en "Practice with Data Notebooks")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0306_en "Practice with Data Notebooks")

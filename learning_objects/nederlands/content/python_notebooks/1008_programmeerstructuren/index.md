@@ -32,5 +32,5 @@ skos_concepts: [
 # Taaltechnologie - Structuren
 In deze notebook pas je programmeerstructuren toe in taaltechnologie.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=1008 "Notebooks Programmeerstructuren")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1008 "Notebooks Programmeerstructuren")
 

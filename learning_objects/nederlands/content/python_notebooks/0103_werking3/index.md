@@ -34,4 +34,4 @@ skos_concepts: [
 
 Wil je ook de finesses van het werken met de notebooks kennen? Dan doorloop je best de twee volgende notebooks. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0102 "Notebooks Werking")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0102 "Notebooks Werking")

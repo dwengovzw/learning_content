@@ -31,7 +31,7 @@ skos_concepts: [
 # Parameters in de vergelijking van een parabool
 In deze notebooks onderzoek je hoe de parameters in de vergelijking van een parabool de grafiek beïnvloeden. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0705 "Notebooks parameters parabool")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0705 "Notebooks parameters parabool")
 <figure>
     <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
 </figure>

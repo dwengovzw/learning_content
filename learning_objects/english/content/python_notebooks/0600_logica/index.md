@@ -38,7 +38,7 @@ In a first notebook, you can generate truth tables with Python. This is convenie
 
 In a second notebook, you will work with Boolean operators in Python to determine if a certain expression is true or false.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0600_en "Logic Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0600_en "Logic Notebooks")
 <figure>
     <figcaption align = "center">Don't forget to log out before you move on to the next notebook!</figcaption>
 </figure>

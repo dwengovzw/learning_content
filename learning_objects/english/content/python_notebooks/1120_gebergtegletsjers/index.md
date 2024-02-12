@@ -53,4 +53,4 @@ You study the shrinkage of the Morteratsch in a guided example.
 
 Afterwards, an assignment awaits you about the Silvretta Glacier.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1120_en "Notebooks Climate Change")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1120_en "Notebooks Climate Change")

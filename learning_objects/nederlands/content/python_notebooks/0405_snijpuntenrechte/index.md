@@ -34,5 +34,5 @@ skos_concepts: [
 # Snijpunt van 2 rechten
 Een snijpunt van 2 rechten berekenen én tonen op een grafiek is een probleem waarbij meerdere aspecten van computationeel denken en programmeren aan bod komen. Via deze notebook weet je helemaal hoe je het aanpakt.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0405 "Notebooks Snijpunten")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0405 "Notebooks Snijpunten")
 

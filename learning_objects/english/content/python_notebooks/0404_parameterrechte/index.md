@@ -38,4 +38,4 @@ version: 3
 # Parameters in the equation of a straight line
 In these notebooks, you will investigate how the parameters in the equation of a straight line affect the graph. Experiment with the slope and the y-intercept.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=0404_en "Notebooks Parameters")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0404_en "Notebooks Parameters")

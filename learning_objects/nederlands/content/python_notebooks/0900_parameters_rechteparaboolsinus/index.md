@@ -32,5 +32,5 @@ skos_concepts: [
 
 # Parameters
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0900 "Notebooks Parameters")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0900 "Notebooks Parameters")
 

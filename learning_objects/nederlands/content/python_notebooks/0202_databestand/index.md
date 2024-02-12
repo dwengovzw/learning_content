@@ -32,4 +32,4 @@ skos_concepts: [
 # Data uit een bestand visualiseren
 Vaak is het handig om grote hoeveelheden data te kunnen inlezen vanuit een bestand en deze te visualiseren. Deze notebook toont de werkwijze op een klein databestand. De techniek voor een groter databestand is dezelfde.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/jupyterhub/?id=0202 "Notebooks Data uit Bestand")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0202 "Notebooks Data uit Bestand")

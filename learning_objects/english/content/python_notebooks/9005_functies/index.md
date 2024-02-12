@@ -36,6 +36,6 @@ version: 3
 # Functions
 Here you will learn how to group certain instructions from your script into a sub-algorithm and pass it to Python in a user-defined function. This function can then be called in the program.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/jupyterhub/?id=1006_en "Notebooks Function")
+[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1006_en "Notebooks Function")
 
 ![](@youtube/https://www.youtube.com/watch?v=fRRX4oE45UQ "Video functions")
