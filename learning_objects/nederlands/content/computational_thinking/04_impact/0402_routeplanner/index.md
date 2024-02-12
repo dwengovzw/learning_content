@@ -47,9 +47,6 @@ In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten
 
 ![ct-schema](@learning-object/m_ct04_02/nl/3)
 
-## Kader
-
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/b9517f2a-c31b-4af1-8858-74f332f386ca)
 
 ## Bespreking van de impact
 
