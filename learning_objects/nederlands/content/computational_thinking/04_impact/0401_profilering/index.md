@@ -46,7 +46,7 @@ Aan de hand van het profiel van de gebruiker worden gepersonaliseerde reclame en
 
 ## Kader
 
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/b9517f2a-c31b-4af1-8858-74f332f386ca)
+![image](https://github.com/dwengovzw/learning_content/assets/48352335/0be9368c-c0ef-4d74-8e21-f2a60855b47b)
 
 
 ## Bespreking van de impact
