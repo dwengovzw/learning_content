@@ -42,9 +42,9 @@ teacher_exclusive: false
             <h3 class="info_item_title">Pinnen</h3>
             <p class="info_item_content">
                 <table>
-                    <tr><td>R</td><td>...</td></tr>
-                    <tr><td>G</td><td>...</td></tr>
-                    <tr><td>B</td><td>...</td></tr>
+                    <tr><td>R</td><td>De digitale pin die instaat voor de intensiteit van het rode licht.</td></tr>
+                    <tr><td>G</td><td>De digitale pin die instaat voor de intensiteit van het groene licht.</td></tr>
+                    <tr><td>B</td><td>De digitale pin die instaat voor de intensiteit van het blauwe licht.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
                 </table>
             </p>
@@ -53,18 +53,6 @@ teacher_exclusive: false
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
                 De RGB-led is een led waarvan je de kleur van het licht zelf kan bepalen door de intensiteit van rood, groen en blauw licht (de primaire kleuren) te programmeren. De intensiteit wordt doorgegeven als een getal tussen 0 en 255 (van lage tot hoge intensiteit). Houd er rekening mee dat niet alle kleuren even goed kunnen wordenweergegeven op de RGB-led via het RGB-kleurenmodel (bv. bruin).
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
-            <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
             </p>
         </div>
         <div class="example_item item">

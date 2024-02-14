@@ -44,7 +44,7 @@ teacher_exclusive: false
                 <table>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
                     <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
+                    <tr><td>Signal</td><td>De signaal- of controlepin zorgt ervoor dat de servomotor de gewenste positie aanneemt.</td></tr>
                 </table>
             </p>
         </div>
@@ -57,18 +57,6 @@ teacher_exclusive: false
                 - *De zwarte servomotor*: Deze servomotor kan 360 graden draaien. Deze gebruik je bijvoorbeeld om iets constant te laten draaien.<br>
                 <br>
                 Het voordeel van de blauwe servomotor t.o.v. de zwarte servomotor is dat je de positie (de draaihoek) exact kunt bepalen. Hij is dus beter voor precieze bewegingen. Het nadeel is dan weer dat het wat ingewikkelder is om deze te programmeren
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
-            <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
-            </p>
         </div>
         <div class="example_item item">
             <h3 class="example_item_title">Voorbeeld: 2 servomotoren bewegen herhaaldelijk op en neer zoals armen die zwaaien.</h3>

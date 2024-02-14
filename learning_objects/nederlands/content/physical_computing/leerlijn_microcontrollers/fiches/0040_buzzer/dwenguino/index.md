@@ -41,13 +41,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Pinnen</h3>
             <p class="info_item_content">
-                <table>
-                    <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
-                    <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                </table>
+                N.v.t.
             </p>
         </div>
         <div class="info_item item">
@@ -58,18 +52,6 @@ teacher_exclusive: false
                 Geluid is een golf van luchtdruk veroorzaakt door een trillend object zoals bijvoorbeeld een instrument of luidspreker. De hoeveelheid trillingen per seconde (de frequentie) bepaalt de toonhoogte. Wanneer het aantal trillingen per seconde tussen de 20 en 20 000 ligt, dan kan je dit als mens horen. Voor trillingen per seconde gebruiken we de eenheid Hertz, afgekort Hz. De mens kan dus trillingen horen tussen de 20 Hz en 20 000 Hz.<br>
                 <br>
                 Om geluid te kunnen afspelen is de dwenguino voorzien van een eenvoudige buzzer die je een gekozen frequentie kunt laten afspelen.
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
-            <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
             </p>
         </div>
         <div class="example_item item">

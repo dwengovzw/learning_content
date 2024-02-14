@@ -41,12 +41,15 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Pinnen</h3>
             <p class="info_item_content">
+                N.v.t.
+            </p>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Pinnen</h3>
+            <p class="info_item_content">
                 <table>
                     <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
                 </table>
             </p>
         </div>
@@ -57,18 +60,6 @@ teacher_exclusive: false
                 Op het lcd-scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen.<br>
                 <br>
                 De helderheid van het scherm is aanpasbaar. Je kan dit zelf regelen door aan de gele schroef te draaien (zie figuur) met een schroevendraaier, terwijl het lcd-scherm aanstaat.
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
-            <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
             </p>
         </div>
         <div class="example_item item">
