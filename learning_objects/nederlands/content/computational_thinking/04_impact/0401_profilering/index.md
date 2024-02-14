@@ -44,6 +44,11 @@ Aan de hand van het profiel van de gebruiker worden gepersonaliseerde reclame en
 
 ![ct-schema](@learning-object/m_ct04_01/nl/3)
 
+## Kader
+
+![image](https://github.com/dwengovzw/learning_content/assets/48352335/0be9368c-c0ef-4d74-8e21-f2a60855b47b)
+
+
 ## Bespreking van de impact
 
 - **Mogelijkheid tot veel dataopslag**: Posts op sociale media worden door het betreffende platform zorgvuldig bijgehouden en blijvend gelinkt aan de gebruiker. Behalve de socialemediaposts worden ook het koop- en klikgedrag opgeslagen.

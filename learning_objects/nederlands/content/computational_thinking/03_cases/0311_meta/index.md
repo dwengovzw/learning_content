@@ -54,16 +54,21 @@ Het al dan niet zwanger zijn, wordt bij een zwangerschapstest weergegeven door e
 </abstraction>
 <algorithms>
 <strong>Algoritme bij de digitale test:</strong><br>  
-ALS de urine reageert met de stof <br>
-&nbsp;&nbsp;&nbsp;&nbsp;DAN toon boodschap + op het scherm <br>
-ANDERS toon boodschap - op het scherm<br>
-ALS de test niet goed uitgevoerd is<br>
-&nbsp;&nbsp;&nbsp;&nbsp;DAN geef een foutboodschap op het scherm
+ALS de urine reageert met de stof DAN<br>
+&nbsp;&nbsp;&nbsp;&nbsp;toon boodschap + op het scherm <br>
+ANDERS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;toon boodschap - op het scherm<br>
+EINDE ALS<br>
+ALS de test niet goed uitgevoerd is DAN<br>
+&nbsp;&nbsp;&nbsp;&nbsp;geef een foutboodschap op het scherm<br>
+EINDE ALS<br>
 
 <strong>Algoritme bij de niet-digitale test:</strong><br>
-ALS de urine reageert met de stof <br>
-&nbsp;&nbsp;&nbsp;&nbsp;DAN verschijnen er twee streepjes<br>
-ANDERS is er slechts één streepje (het controlestreepje)
+ALS de urine reageert met de stof DAN <br>
+&nbsp;&nbsp;&nbsp;&nbsp;verschijnen er twee streepjes<br>
+ANDERS<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;is er slechts één streepje (het controlestreepje)<br>
+EINDE ALS
 
 Het uitvoeren van de test zelf verloopt ook volgens een stappenplan (zowel bij de digitale als bij de niet-digitale test). 
 </algorithms>

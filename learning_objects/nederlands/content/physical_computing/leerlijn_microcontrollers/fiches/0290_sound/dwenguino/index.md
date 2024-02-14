@@ -42,10 +42,10 @@ teacher_exclusive: false
             <h3 class="info_item_title">Pinnen</h3>
             <p class="info_item_content">
                 <table>
-                    <tr><td>A</td><td>...</td></tr>
+                    <tr><td>A</td><td>Een analoge output pin die ons een directe analoge uitlezing van de geluidssensor verschaft.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
                     <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
-                    <tr><td>D</td><td>...</td></tr>
+                    <tr><td>D</td><td>Een digitale pin die aangeeft of er al dan niet geluid gedetecteerd wordt op basis van hoge of lage output.</td></tr>                
                 </table>
             </p>
         </div>
@@ -68,18 +68,6 @@ teacher_exclusive: false
                 2. Draai nu de schroef *voorzichtig* in **wijzerzin** tot de led terug aan gaat.
                 3. Draai de schroef *voorzichtig* terug in **tegenwijzerzin** en stop zodra de led terug uit gaat.
                 4. Tik nu met je vinger op de sensor. Als de led brandt tijdens de tik, dan is je sensor correct afgesteld. Anders ga je terug naar stap 2. 
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
-            <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
             </p>
         </div>
         <div class="example_item item">

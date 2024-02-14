@@ -66,4 +66,4 @@ Verder zal je gebruikmaken van het volgende kader:
 
 Impact is pas mogelijk als er impact is op de menselijke waarden.
 
-(Bron: Michael T. Rücker.2023. Modeling Conceptual Knowledge of Computing Impacts for K-12.) 
+(Bron: Michael T. Rücker. 2023. Modeling Conceptual Knowledge of Computing Impacts for K-12.) 

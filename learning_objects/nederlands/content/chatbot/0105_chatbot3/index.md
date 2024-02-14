@@ -85,3 +85,7 @@ De woorden in een tekst worden daartoe eerst omgezet naar vectoren. Een **vector
 <div class="alert alert-box alert-info">
     Murray Shanahan zegt dat we goed moeten beseffen wat een groot taalmodel doet. "Veronderstel dat we de volgende prompt geven aan een LLM: “The first person to walk on the Moon was”,  en stel dat het antwoordt met “Neil Armstrong”. Wat vragen we hier eigenlijk? Het is belangrijk om in te zien dat we eigenlijk niet vragen wie de eerste persoon was die op de maan wandelde. De vraag die we echt stellen aan het model is de volgende vraag:  Gegeven de  statistische verdeling van de woorden in de uitgebreide publieke corpus van (Engelse) tekst, welke woorden volgen er het meest waarschijnlijk op de reeks “The first person to walk on the Moon was ”? Een goed antwoord op deze vraag is “Neil Armstrong” (Bron: Talking About Large Language Models, Murray Shanahan, 2022).
 </div>
+
+## Voorbeeld
+
+![Rekensom](embed/chatgptrekent.png "Rekensom wordt geïnterpreteerd door ChatGPT")

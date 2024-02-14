@@ -41,13 +41,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Pinnen</h3>
             <p class="info_item_content">
-                <table>
-                    <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
-                    <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                </table>
+                N.v.t.
             </p>
         </div>
         <div class="info_item item">
@@ -58,18 +52,6 @@ teacher_exclusive: false
                Deze leds zijn *led 0*, *led 1*, ..., *led 7*, van rechts naar links. De eerste led is dus *led 0*. In computerwetenschappen is het vaak de conventie om te beginnen tellen vanaf 0. Dit heb je misschien ook al gemerkt bij het lcd-scherm.<br>
                <br>
                Links bovenaan is er nog een extra led: *led 13*. Dit laatste led heeft enkele speciale functionaliteiten en krijgt daarom een aparte fiche.
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
-            <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
             </p>
         </div>
         <div class="example_item item">

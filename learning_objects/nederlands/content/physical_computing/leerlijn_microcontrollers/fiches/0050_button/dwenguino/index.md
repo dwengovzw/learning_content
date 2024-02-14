@@ -41,13 +41,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Pinnen</h3>
             <p class="info_item_content">
-                <table>
-                    <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
-                    <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                    <tr><td>PIN</td><td>...</td></tr>
-                </table>
+                N.v.t.
             </p>
         </div>
         <div class="info_item item">
@@ -56,18 +50,6 @@ teacher_exclusive: false
                 Op de dwenguino vind je vijf drukknoppen. De buitenste knoppen kregen de namen NOORD, ZUID, OOST, WEST, net als in aardrijkskunde. De middelste knop heet MIDDEN.<br>
                 <br>
                 Je kan deze gebruiken om bepaalde delen van je programma niet te laten uitvoeren tot je dit expliciet aangeeft door een knop in te drukken.
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
-            <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
             </p>
         </div>
         <div class="example_item item">

@@ -46,7 +46,8 @@ In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten
 ## Principes van computationeel denken
 
 ![ct-schema](@learning-object/m_ct04_02/nl/3)
- 
+
+
 ## Bespreking van de impact
 
 -  Een van de redenen dat routeplanners zoveel gebruikt worden en daardoor de mogelijkheid hebben om impact te hebben, is de grote mate van **abstractie** in de routplanner. Indien gewenst, kan je enkel de instructies opvolgen van de weg die je moet volgen (het stappenplan). Je moet je niet bezighouden met het opzoeken van de weg op een kaart, waarbij je rekening zou moeten houden met bv. eenrichtingsverkeer, de oriëntatie van de kaart, enz. <br> Bovendien krijg je er bijkomende informatie zoals files, wegwerkzaamheden, waar je kan tanken, enz. <br> Zo'n routeplanner heeft dus een groot gebruiksgemak.

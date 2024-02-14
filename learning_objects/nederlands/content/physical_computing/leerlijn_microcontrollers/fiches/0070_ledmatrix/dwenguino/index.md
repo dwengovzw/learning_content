@@ -44,9 +44,9 @@ teacher_exclusive: false
                 <table>
                     <tr><td>VCC</td><td>De 5 V-voeding, soms ook aangeduid met een +.</td></tr>
                     <tr><td>GND</td><td>De referentiespanning of de grond, soms ook aangeduid met een -.</td></tr>
-                    <tr><td>D</td><td>...</td></tr>
-                    <tr><td>CS</td><td>...</td></tr>
-                    <tr><td>CLK</td><td>...</td></tr>
+                    <tr><td>D</td><td>Een digitale pin die een binair signaal doorgeeft tussen het moederbord en de led-matrix. Het geeft aan welke leds al dan niet moeten branden.</td></tr>
+                    <tr><td>CS</td><td>De chip select pin geeft aan of de binnenkomende data voor de beoogde chip is of niet.</td></tr>
+                    <tr><td>CLK</td><td>De klok-pin (clock pin) zorgt ervoor dat het data- en klok signaal afzonderlijk kunnen ontvangen worden. Hierdoor zijn de leds niet onderhevig aan onderbrekingen door andere processen.</td></tr>
                 </table>
             </p>
         </div>
@@ -54,18 +54,6 @@ teacher_exclusive: false
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
                 De led-matrix is een vierkante 8x8 matrix met 64 leds in een vaste kleur (rood). De matrix is ideaal om bepaalde patronen te laten oplichten, zoals een oog of een mond van de robot of een ander symbool. Je kan de matrices ook met elkaar verbinden (maximaal 4), als je meerdere matrices tegelijk wil gebruiken. Je kan programmeren welke leds er tegelijk moeten oplichten.
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Symbool</h3>
-            <p class="info_item_content">
-                <img src="img/icon.svg" title="LED symbool">
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Aansluiting</h3>
-            <p class="info_item_content">
-                <img src="img/connection.svg" title="LED aansluiting" >
             </p>
         </div>
         <div class="example_item item">
