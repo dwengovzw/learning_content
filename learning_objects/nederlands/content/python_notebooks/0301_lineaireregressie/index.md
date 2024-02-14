@@ -30,6 +30,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
 ---
+
 # Lineaire Regressie
 In deze reeks notebooks verdiep je je in de volgende items:
 * Wat is lineaire regressie nu eigenlijk? 
