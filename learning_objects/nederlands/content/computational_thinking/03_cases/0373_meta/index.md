@@ -65,7 +65,7 @@ Voor de dataset:
 Om het neurale netwerk te kunnen gebruiken:
 <ol>
     <li>Een algoritme om de aangeboden foto op te delen in vierkantjes van 125 op 125 pixels. Deze vierkantjes worden aangeboden aan het convolutioneel neurale netwerk om te zien of er een huidmondje op staat.</li>
-    <li>Een algoritme om de huidmondjes die hetzelfde zijn, te clusteren.   </li> 
+    <li>Een algoritme om de huidmondjes die dezelfde zijn, te clusteren.   </li> 
     <li>Een algoritme om de huidmondjes te tellen. </li>
 </ol>
 </algorithms>
