@@ -70,6 +70,6 @@ Om het neurale netwerk te kunnen gebruiken:
 </ol>
 </algorithms>
 <implementation>
-Voor de programma’s, zie het KIKS-project (https://dwengo.org/kiks).
+Voor de programma’s, zie het <a href="https://dwengo.org/kiks">KIKS-project</a>.
 </implementation>
 
