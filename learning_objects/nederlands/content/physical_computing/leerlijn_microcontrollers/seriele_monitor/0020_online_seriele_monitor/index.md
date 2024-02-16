@@ -24,6 +24,6 @@ teacher_exclusive: false
 
 # De seriële monitor van de Dwengo simulator
 
-In de tekstuele editor van de Dwengo simulator kan je rechtsonderaan het venster van de seriële monitor zien. Op onderstaande foto wordt de seriële monitor aangeduid met een roze kader. De seriële monitor maakt gebruik van WebSerial. Niet alle browsers ondersteunen WebSerial. Bijgevolg kan je de seriële monitor **enkel gebruiken wanneer je de Chrome browser gebruikt!**
+In de tekstuele editor van de Dwengo simulator kan je rechtsonderaan het venster van de seriële monitor zien. Op onderstaande foto wordt de seriële monitor aangeduid met een roze kader. De seriële monitor maakt gebruik van WebSerial. Niet alle browsers ondersteunen WebSerial. Bijgevolg kan je de seriële monitor **enkel gebruiken wanneer je de Chrome of Edge browser gebruikt!**
 
 <img src="img/textual_editor_serial_monitor.png" alt="Screenshot van de tekstuele editor in de Dwengo simulator met rechtsonder de seriële monitor"></img>
