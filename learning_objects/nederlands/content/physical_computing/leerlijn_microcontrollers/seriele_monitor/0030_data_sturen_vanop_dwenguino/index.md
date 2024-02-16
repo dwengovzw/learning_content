@@ -40,12 +40,12 @@ Hieronder zie je een voorbeeldprogramma die de waarden van een sinusgolf doorstu
     void setup()
     {
     initDwenguino();
-    // Stel de baud rate in van de connectie.
-    // Dit legt vast hoe snel de Dwenguino gegevens zal sturen.
-    Serial.begin(9600);
-    while (!Serial) {
-        ; // Wacht tot er op de computer verbinding wordt gemaakt.
-    }
+        // Stel de baud rate in van de connectie.
+        // Dit legt vast hoe snel de Dwenguino gegevens zal sturen.
+        Serial.begin(9600);
+        while (!Serial) {
+            ; // Wacht tot er op de computer verbinding wordt gemaakt.
+        }
     }
 
 
