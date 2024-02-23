@@ -48,3 +48,10 @@ The internet and the ubiquitous smartphone have a major impact on the labor mark
 
 The **impact** of AI may be even greater than the arrival of the internet. AI is already present in **everyday life**: facial recognition on Facebook, Google Translate, asking questions to Siri, suggestions on Netflix, in insurance firms robots sort incoming emails, on bol.com a chatbot is at your disposal, spam filters, better navigation systems... <br>
 However, AI has also penetrated the legal world, healthcare, and journalism. Education cannot escape it either; just think of learning analytics in education, and the use of ChatGPT.
+
+---
+#### References
+
+Gabriels, K. (2019). *Regels voor robots. Ethiek in tijden van AI.* Academic And Scientific Publishers.
+
+Steels, L., Berendt, B., Pizurica, A., Van Dyck D., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
