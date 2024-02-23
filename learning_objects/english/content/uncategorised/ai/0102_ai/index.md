@@ -74,3 +74,7 @@ Such an AI system must first be developed by *programming algorithms* that conta
 <center> Types of AI</center>
 
 Within the ML systems, you find the 'deep learning' systems.
+
+-------------
+#### References
+Steels, L., Berendt, B., Pizurica, Van Dyck, D., A., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
