@@ -82,7 +82,7 @@ De tijd voor een volledige cyclus van de schijf wordt uitgedrukt in ticks. Ticks
 
 Deze berekening geeft ons dus een aantal ticks dat we moeten wachten voordat de smalle gleuf in een positie staat die overeenkomt met de positie van een analoge wijzer die het huidig aantal seconden, minuten of uren aangeeft. Hierdoor kunnen we de LED-lichten exact timen om deze te laten branden en vervolgens onmiddelijk weer uit te schakelen. Indien we de LED-lichten niet onmiddelijk zouden uitschakelen, zou correct timen weinig nut hebben. 
 
-Zoals vermeld in het voorbeeld hebben de LED-lichten ook een verschillende kleur voor seconden, minuten en uren. We kunnen in de optische illusie immers geen verschillende lengte voorzien voor elke wijzer. We gebruiken hiervoor namelijk de gleuf en deze heeft een vaste lengte. Door verschillende kleuren te gebruiken kunnen we alsnog onderscheid maken tussen de verschillende tijdseenheden.
+Zoals je in het voorbeeld kan zien, hebben de LED-lichten ook een verschillende kleur voor seconden, minuten en uren. We kunnen in de optische illusie immers geen verschillende lengte voorzien voor elke wijzer. We gebruiken hiervoor namelijk de gleuf en deze heeft een vaste lengte. Door verschillende kleuren te gebruiken kunnen we alsnog onderscheid maken tussen de verschillende tijdseenheden.
 
 
 

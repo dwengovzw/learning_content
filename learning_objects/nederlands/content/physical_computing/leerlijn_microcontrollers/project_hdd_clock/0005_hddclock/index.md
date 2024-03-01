@@ -38,6 +38,6 @@ Nu we weten hoe een HDD klok werkt en hoe dit gerealiseerd kan worden, is het bo
 Om een HDD klok te bouwen hebben we de eerder vermelde componenten nodig en een constructie om het af te werken en mooier te presenteren. We hangen de schijf vast aan de spindelmotor, zorgen dat de schijf door de snelheidssensor gaat en voorzien een ledstrip achter de draaiende schijf. Dit kan allemaal gebeuren in de voorziene constructie, die kan worden gebouwd met houten stukken gesneden door een lasercutter.
 Ten slotte verbinden we alles met de Dwenguino zodat deze de componenten kan besturen en we de klok daadwerkelijk kunnen gebruiken! 
 
-Programmeer de code op de Dwenguino en test de HDD klok eens uit, als alles goed verlopen is dan zou de klok als volgt moeten werken
+Programmeer de code op de Dwenguino en test de HDD klok eens uit, als alles goed verlopen is dan zou de klok als volgt moeten werken:
 
 <img src="embed/FysiekeHDDClock.gif" alt="Werkende HDD klok." title="Werkende HDD klok."></img>
