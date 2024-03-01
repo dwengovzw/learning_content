@@ -2,7 +2,7 @@
 hruid: pc_hddclock3
 version: 1
 language: nl
-title: "Sonar-sensor"
+title: "Snelheidssensor"
 description: "T"
 keywords: ["Microcontroller"]
 educational_goals: [
