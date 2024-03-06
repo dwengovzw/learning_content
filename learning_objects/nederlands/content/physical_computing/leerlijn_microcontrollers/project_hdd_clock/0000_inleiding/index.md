@@ -38,7 +38,8 @@ Verken de boeiende wereld van microcontrollers en ontdek stap voor stap hoe je z
 
 In dit leerpad leer je wat een HDD klok is, hoe het werkt en hoe je deze zelf kan maken met behulp van een microcontroller!
 
-![](@youtube/https://www.youtube.com/embed/HS8Yjcs3j-s)
+<img src="embed/FysiekeHDDClock.gif" alt="Fysieke versie HDD klok." title="Fysieke versie HDD klok."></img>
+
 
 
 
