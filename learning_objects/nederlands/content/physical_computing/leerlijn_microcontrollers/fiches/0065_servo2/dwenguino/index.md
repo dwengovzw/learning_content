@@ -53,7 +53,7 @@ teacher_exclusive: false
             <p class="info_item_content">
                 Je beschikt over 2 soorten:<br>
                 <br>
-                - <strong>De blauwe servomotor</strong>: Deze servomotor kan slechts 180 graden draaien. Je kan deze m.a.w. gebruiken om een halve draaibeweging uit te voeren.
+                - <strong>De blauwe servomotor</strong>: Deze servomotor kan slechts 180 graden draaien. Je kan deze m.a.w. gebruiken om een halve draaibeweging uit te voeren.<br>
                 - <strong>De zwarte servomotor</strong>: Deze servomotor kan 360 graden draaien. Deze gebruik je bijvoorbeeld om iets constant te laten draaien.<br>
                 <br>
                 Het voordeel van de blauwe servomotor t.o.v. de zwarte servomotor is dat je de positie (de draaihoek) exact kunt bepalen. Hij is dus beter voor precieze bewegingen. Het nadeel is dan weer dat het wat ingewikkelder is om deze te programmeren
