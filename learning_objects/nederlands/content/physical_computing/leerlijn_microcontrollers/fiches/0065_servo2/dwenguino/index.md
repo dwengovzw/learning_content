@@ -23,7 +23,7 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">WIP - 360° servomotor</h1>
+    <h1 class="title">360° servomotor</h1>
     <h2 class="subtitle">Rotaties uitvoeren</h2>
     <div class="items">
         <div class="info_item item">
@@ -53,8 +53,8 @@ teacher_exclusive: false
             <p class="info_item_content">
                 Je beschikt over 2 soorten:<br>
                 <br>
-                - *De blauwe servomotor*: Deze servomotor kan slechts 180 graden draaien. Je kan deze m.a.w. gebruiken om een halve draaibeweging uit te voeren.
-                - *De zwarte servomotor*: Deze servomotor kan 360 graden draaien. Deze gebruik je bijvoorbeeld om iets constant te laten draaien.<br>
+                - <strong>De blauwe servomotor</strong>: Deze servomotor kan slechts 180 graden draaien. Je kan deze m.a.w. gebruiken om een halve draaibeweging uit te voeren.
+                - <strong>De zwarte servomotor</strong>: Deze servomotor kan 360 graden draaien. Deze gebruik je bijvoorbeeld om iets constant te laten draaien.<br>
                 <br>
                 Het voordeel van de blauwe servomotor t.o.v. de zwarte servomotor is dat je de positie (de draaihoek) exact kunt bepalen. Hij is dus beter voor precieze bewegingen. Het nadeel is dan weer dat het wat ingewikkelder is om deze te programmeren
         </div>
