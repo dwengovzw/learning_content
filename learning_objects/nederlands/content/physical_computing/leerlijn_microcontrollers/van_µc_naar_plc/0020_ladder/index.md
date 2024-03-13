@@ -26,6 +26,6 @@ teacher_exclusive: false
 
 Om fouten in de productielijn te vermijden is de methode waarmee je de PLC programmeert specifiek gericht op controletoepassingen. Daardoor is het programmeren  van een PLC een stuk eenvoudiger dan het programmeren van een µC. Je kan ladder logica zien als een extra abstractielaag bovenop de C++ code. Net zoals de grafische blokken in de Dwengo simulator een abstractie zijn van de tekstuele code. Hieronder zie je een voorbeeld van een ladder diagram. Deze zal een uitvoer activeren wanneer twee schakelaars ingedrukt worden.
 
-!"[Voorbeeld van een ladder diagram."](./images/sample.svg)
+![Voorbeeld van een ladder diagram.](./images/sample.svg "Voorbeeld van een ladder diagram.")
 
 
