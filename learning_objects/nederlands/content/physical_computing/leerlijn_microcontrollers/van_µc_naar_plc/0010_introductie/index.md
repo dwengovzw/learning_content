@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_microcontrollers_µc_naar_plc
+hruid: leerlijn_microcontrollers_microcontroller_naar_plc
 version: 1
 language: nl
 title: "Introductie"

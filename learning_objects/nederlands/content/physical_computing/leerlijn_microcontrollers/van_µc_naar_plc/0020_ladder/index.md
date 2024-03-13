@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_microcontrollers_µc_naar_plc_ladder
+hruid: leerlijn_microcontrollers_microcontroller_naar_plc_ladder
 version: 1
 language: nl
 title: "Ladder logica (1)"
