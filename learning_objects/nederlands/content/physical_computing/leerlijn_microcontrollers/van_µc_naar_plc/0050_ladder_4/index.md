@@ -30,7 +30,9 @@ We zagen dat er twee soorten invoer zijn in een ladder diagram: de IF invoer en 
 
 Wanneer we meerdere invoeren van het type IF in parallel schakelen, bouwen we een logisch OF poort. Dit wil zeggen dat het circuit stroom zal doorlaten wanneer er minstens een van de invoerwaarden een logische 1 is. Hieronder zie je een ladder diagram van een logische of poort met twee invoeren A en B.
 
-![Voorbeeld van een ladder diagram.](images/sample_no_labels.svg "Voorbeeld van een ladder diagram.")
+| Ladder diagram |
+|---|
+| ![Voorbeeld van een ladder diagram.](images/sample_no_labels.svg "Voorbeeld van een ladder diagram.") | 
 
 Je kan de ze logische schakeling dan beschrijven aan de hand van een logische propositie.
 
