@@ -58,11 +58,11 @@ Wanneer we meerdere invoeren van het type IF in **serie** schakelen, bouwen we e
 
 | Ladder diagram |
 |:---:|
-| ![Voorbeeld van een ladder diagram.](images/sample_no_labels.svg "Voorbeeld van een ladder diagram.") | 
+| ![Voorbeeld van een ladder diagram.](images/and.svg "Voorbeeld van een ladder diagram.") | 
 
 Je kan de ze logische schakeling dan beschrijven aan de hand van een logische propositie.
 
-\\[ A \lor B \Leftrightarrow Q\\]
+\\[ A \land B \Leftrightarrow Q\\]
 
 De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijven in een waarheidstabel.
 
@@ -71,8 +71,8 @@ De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijv
         A & B & Q \\\\
         \hline 
         0 & 0 & 0 \\\\
-        0 & 1 & 1 \\\\
-        1 & 0 & 1 \\\\
+        0 & 1 & 0 \\\\
+        1 & 0 & 0 \\\\
         1 & 1 & 1 \\\\
     \end{array}
 \\]
