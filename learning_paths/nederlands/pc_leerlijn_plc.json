@@ -120,7 +120,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_uitvoer_oplossing",
+              "hruid": "leerlijn_microcontrollers_microcontroller_naar_plc_slot",
               "version": "1",
               "language": "nl"
             }
@@ -128,67 +128,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_analoge_uitvoer_oplossing",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_bibliotheek",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_bibliotheek",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_bibliotheek_oplossing",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_bibliotheek_oplossing",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_samenvatting",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_samenvatting",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "leerlijn_invoer_verwerking_uitvoer_leerplandoelen",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_invoer_verwerking_uitvoer_leerplandoelen",
+        "learningobject_hruid": "leerlijn_microcontrollers_microcontroller_naar_plc_slot",
         "version": "1",
         "language": "nl"
       }
