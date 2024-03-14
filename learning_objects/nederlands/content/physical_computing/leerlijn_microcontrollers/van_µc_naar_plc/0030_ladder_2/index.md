@@ -2,7 +2,7 @@
 hruid: leerlijn_microcontrollers_microcontroller_naar_plc_ladder_2
 version: 1
 language: nl
-title: "Ladder logica (structuur)"
+title: "Ladder logica: structuur"
 description: "Wat is Ladder logica?"
 keywords: ["microcontroller", "plc", "automatisatie", "programmable logic controller", "µC", "ladder"]
 educational_goals: [

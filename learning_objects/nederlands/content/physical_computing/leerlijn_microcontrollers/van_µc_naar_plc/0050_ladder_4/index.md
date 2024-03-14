@@ -76,3 +76,23 @@ De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijv
         1 & 1 & 1 \\\\
     \end{array}
 \\]
+
+
+<div class="dwengo-content assignment">
+<h2 class="title">Hier de titel van de opdracht</h2>
+<div class="content">
+Hieronder zie je de waarheidstabel van de logische XOR operatie. Teken een ladder diagram die deze logica implementeert.
+
+\\[
+    \begin{array}{c|c|c}
+        A & B & Q \\\\
+        \hline 
+        0 & 0 & 0 \\\\
+        0 & 1 & 1 \\\\
+        1 & 0 & 1 \\\\
+        1 & 1 & 0 \\\\
+    \end{array}
+\\]
+
+</div>
+</div>
