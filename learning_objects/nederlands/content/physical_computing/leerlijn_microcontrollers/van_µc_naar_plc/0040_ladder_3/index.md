@@ -2,7 +2,7 @@
 hruid: leerlijn_microcontrollers_microcontroller_naar_plc_ladder_3
 version: 1
 language: nl
-title: "Ladder logica (invoer)"
+title: "Ladder logica: invoer"
 description: "Wat is Ladder logica?"
 keywords: ["microcontroller", "plc", "automatisatie", "programmable logic controller", "µC", "ladder"]
 educational_goals: [
@@ -22,7 +22,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Ladder logica (invoer)
+# Ladder logica: invoer
 
 We zagen al hoe we een eenvoudig ladder logica programma kunnen omzetten naar een microcontrollerprogramma in C++. Hier gaan we dieper in op de twee soorten invoer die je kan gebruiken in een ladder diagram.
 
@@ -38,7 +38,7 @@ We kunnen de werking van deze invoer voorstellen aan de hand van de volgende C++
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
    
-   if (A == 1){
+   if (A){
         // Laat stroom lopen van links naar rechts.
    } else {
         // Laat geen stroom lopen van links naar rechts.
@@ -51,9 +51,9 @@ We kunnen de werking van deze invoer voorstellen aan de hand van de volgende C++
 In woorden kunnen we dus zeggen dat deze invoer enkel stroom zal laten lopen van links naar rechts wanneer de logische waarde van A gelijk is aan 1.
 
 
-## Den NOT IF invoer
+## De IF NOT invoer
 
-De tweede soort invoer is de NOT IF invoer. Deze heeft het volgende symbool.
+De tweede soort invoer is de IF NOT invoer. Deze heeft het volgende symbool.
 
 ![Symbool voor de IF invoer in een ladder diagram](images/not_if_input.svg)
 
@@ -63,7 +63,7 @@ We kunnen de werking van deze invoer voorstellen aan de hand van de volgende C++
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
    
-   if (A == 0){
+   if (!A){
         // Laat stroom lopen van links naar rechts.
    } else {
         // Laat geen stroom lopen van links naar rechts.
@@ -75,3 +75,15 @@ We kunnen de werking van deze invoer voorstellen aan de hand van de volgende C++
 
 In woorden kunnen we dus zeggen dat deze invoer enkel stroom zal laten lopen van links naar rechts wanneer de logische waarde van A gelijk is aan 0. We zouden kunnen zeggen dat de NOT IF invoer de logische waarde van de invoer omdraait.
 
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>
+            We zagen eerder al het volgende ladder digagram.
+        </p>
+        <img src="images/sample.png" alt="Voorbeeld van een ladder diagram">
+        <p>
+            Welke logische poort implementeert deze schakeling?
+        </p>
+    </div>
+</div>

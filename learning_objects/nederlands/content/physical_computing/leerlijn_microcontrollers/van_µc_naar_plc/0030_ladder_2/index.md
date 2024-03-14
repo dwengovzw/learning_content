@@ -22,7 +22,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Ladder logica (structuur)
+# Ladder logica: structuur
 
 Voor je een programma kan schrijven in Ladder logica, is het nuttig om te weten hoe de PLC deze logica zal uitvoeren. We doen dat hier door de analogie te leggen met het c++ programma op de microcontroller.
 
@@ -66,7 +66,7 @@ Als we de logica van dit diagram willen implementeren op de Dwenguino, dan ziet 
 
             // Deze functie bevat de logica van ons ladder diagram.
             void voerRijLogicaUit(){
-                if(A == 1 || B == 1){
+                if(A || B){
                     Q = 1;
                 } else {
                     Q = 0;
