@@ -35,7 +35,7 @@ De PLC onderscheid zich in de volgende eigenschappen van de microcontroller:
 * **Flexibiliteit**: Een PLC is robuust en kan eenvoudig geprogrammeerd worden. Daartegenover staat dat een PLC minder flexibel is dan een microcontroller. De PLC is specifiek gericht op industriële controletoepassingen. De microcontroller kan zeer flexibel ingezet worden in verschillende situaties (bv. auto's, huishoudelectronica, industriële robots, ...).
 
 Buiten deze verschillen hebben de PLC en de µC ook veel gemeen. 
-* Je kan ze alletwee gebruiken om physieke systemen te besturen. 
+* Je kan ze alletwee gebruiken om fysieke systemen te besturen. 
 * Ze hebben alletwee verschillende manieren om met externe apparaten te communiceren.
 * Ze kunnen alletwee ingezet worden in ware-tijd toepassingen. Dit zijn toepassingen waarbij de exacte timing belangrijk is. 
 * Ze kunnen in gelijkaardige toepassingen worden ingezet. 
