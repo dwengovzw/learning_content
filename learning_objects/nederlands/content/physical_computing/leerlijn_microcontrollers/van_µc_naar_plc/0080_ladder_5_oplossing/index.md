@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_microcontrollers_microcontroller_naar_plc_ladder_4
+hruid: leerlijn_microcontrollers_microcontroller_naar_plc_ladder_5_oplossing
 version: 1
 language: nl
 title: "Ladder logica: latch (oplossing)"
