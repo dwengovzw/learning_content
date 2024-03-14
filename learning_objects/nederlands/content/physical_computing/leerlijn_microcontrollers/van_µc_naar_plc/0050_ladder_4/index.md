@@ -34,7 +34,7 @@ Wanneer we meerdere invoeren van het type IF in parallel schakelen, bouwen we ee
 
 Je kan de ze logische schakeling dan beschrijven aan de hand van een logische propositie.
 
-\\[ A \lor B\\ \Leftrightarrow Q]
+\\[ A \lor B \Leftrightarrow Q\\]
 
 De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijven in een waarheidstabel.
 
