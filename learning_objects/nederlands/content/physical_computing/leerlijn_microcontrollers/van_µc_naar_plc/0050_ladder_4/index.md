@@ -15,7 +15,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 10
+estimated_time: 15
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -51,6 +51,22 @@ De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijv
     \end{array}
 \\]
 
+Wil je deze zelfde logica implementeren op de microcontroller, gebruik dan de volgende code.
+
+<div class="dwengo-content">
+    <pre>
+<code class="language-cpp" data-filename="filename.cpp">
+   
+   if (A || B){
+        Q = 1;
+   } else {
+        Q = 0;
+   }
+
+</code>
+    </pre>
+</div>
+
 
 ## De **EN** schakeling
 
@@ -76,6 +92,23 @@ De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijv
         1 & 1 & 1 \\\\
     \end{array}
 \\]
+
+
+Wil je deze zelfde logica implementeren op de microcontroller, gebruik dan de volgende code.
+
+<div class="dwengo-content">
+    <pre>
+<code class="language-cpp" data-filename="filename.cpp">
+   
+   if (A && B){
+        Q = 1;
+   } else {
+        Q = 0;
+   }
+
+</code>
+    </pre>
+</div>
 
 
 <div class="dwengo-content assignment">
