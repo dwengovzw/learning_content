@@ -60,8 +60,8 @@ Als we de logica van dit diagram willen implementeren op de Dwenguino, dan ziet 
 
             // Lees de waarde van de pinnen en sla die op.
             void leesSchakelaars(){
-            A = digitalRead(PIN_A);
-            B = digitalRead(PIN_B);
+                A = digitalRead(PIN_A);
+                B = digitalRead(PIN_B);
             }
 
             // Deze functie bevat de logica van ons ladder diagram.
