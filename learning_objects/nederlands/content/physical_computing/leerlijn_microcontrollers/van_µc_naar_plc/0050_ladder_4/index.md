@@ -26,12 +26,38 @@ teacher_exclusive: false
 
 We zagen dat er twee soorten invoer zijn in een ladder diagram: de IF invoer en de IF NOT invoer. Met deze twee soorten invoer kunnen we logische schakelingen bouwen.
 
-## De of schakeling
+## De **OF** schakeling
 
-Wanneer we meerdere invoeren van het type IF in parallel schakelen, bouwen we een logisch OF poort. Dit wil zeggen dat het circuit stroom zal doorlaten wanneer er minstens een van de invoerwaarden een logische 1 is. Hieronder zie je een ladder diagram van een logische of poort met twee invoeren A en B.
+Wanneer we meerdere invoeren van het type IF in **parallel** schakelen, bouwen we een logisch OF poort. Dit wil zeggen dat het circuit stroom zal doorlaten wanneer er minstens een van de invoerwaarden een logische 1 is. Hieronder zie je een ladder diagram van een logische OF poort met twee invoeren A en B.
 
 | Ladder diagram |
-|---|
+|:---:|
+| ![Voorbeeld van een ladder diagram.](images/sample_no_labels.svg "Voorbeeld van een ladder diagram.") | 
+
+Je kan de ze logische schakeling dan beschrijven aan de hand van een logische propositie.
+
+\\[ A \lor B \Leftrightarrow Q\\]
+
+De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijven in een waarheidstabel.
+
+\\[
+    \begin{array}{c|c|c}
+        A & B & Q \\\\
+        \hline 
+        0 & 0 & 0 \\\\
+        0 & 1 & 1 \\\\
+        1 & 0 & 1 \\\\
+        1 & 1 & 1 \\\\
+    \end{array}
+\\]
+
+
+## De **EN** schakeling
+
+Wanneer we meerdere invoeren van het type IF in **serie** schakelen, bouwen we een logisch EN poort. Dit wil zeggen dat het circuit stroom zal doorlaten wanneer alletwee de invoerwaarden een logische 1 hebben. Hieronder zie je een ladder diagram van een logische EN poort met twee invoeren A en B.
+
+| Ladder diagram |
+|:---:|
 | ![Voorbeeld van een ladder diagram.](images/sample_no_labels.svg "Voorbeeld van een ladder diagram.") | 
 
 Je kan de ze logische schakeling dan beschrijven aan de hand van een logische propositie.
