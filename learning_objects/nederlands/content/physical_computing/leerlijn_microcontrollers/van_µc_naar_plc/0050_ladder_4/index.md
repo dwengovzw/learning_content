@@ -39,7 +39,7 @@ Je kan de ze logische schakeling dan beschrijven aan de hand van een logische pr
 De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijven in een waarheidstabel.
 
 \\[
-    begin{array} {|r|r|}
+    \begin{array} {|r|r|}
         \hline 
         A & B & Q \\ 
         \hline 
