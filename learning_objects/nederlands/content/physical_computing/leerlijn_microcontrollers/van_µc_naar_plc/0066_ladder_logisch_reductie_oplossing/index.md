@@ -37,7 +37,7 @@ teacher_exclusive: true
 
 \\[
     \begin{array}{c|c|c|c|c}
-        A & B & C A \lor B & Q \\\\
+        A & B & C & A \lor B & Q \\\\
         \hline 
         0 & 0 & 0 & 0 & 0 \\\\
         0 & 0 & 1 & 0 & 0 \\\\
