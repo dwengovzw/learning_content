@@ -38,6 +38,8 @@ Je kan de ze logische schakeling dan beschrijven aan de hand van een logische pr
 
 \\[ A \lor B \Leftrightarrow Q\\]
 
+Deze propositie lees je op de volgende manier: \\(A\\) *of* \\(B\\) *is equivalent met* \\(Q\\).
+
 De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijven in een waarheidstabel.
 
 \\[
@@ -80,6 +82,8 @@ Je kan de ze logische schakeling dan beschrijven aan de hand van een logische pr
 
 \\[ A \land B \Leftrightarrow Q\\]
 
+Deze propositie lees je op de volgende manier: \\(A\\) *en* \\(B\\) *is equivalent met* \\(Q\\).
+
 De mogelijke waarde die deze logische expressie kan hebben, kunnen we uitschrijven in een waarheidstabel.
 
 \\[
@@ -114,7 +118,7 @@ Wil je deze zelfde logica implementeren op de microcontroller, gebruik dan de vo
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
 <div class="content">
-Hieronder zie je de waarheidstabel van de logische XOR operatie. Teken een ladder diagram die deze logica implementeert.
+Hieronder zie je de waarheidstabel van de logische XOR operatie (\(\oplus\)). Teken een ladder diagram die deze logica implementeert.
 
 \\[
     \begin{array}{c|c|c}
