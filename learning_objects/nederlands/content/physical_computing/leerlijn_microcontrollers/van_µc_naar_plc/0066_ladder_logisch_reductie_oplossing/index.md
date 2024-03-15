@@ -27,6 +27,7 @@ teacher_exclusive: true
 * *Hoeveel schakelaars heeft elk diagram?*
 
 **(1): 3 schakelaars**
+
 **(2): 8 schakelaars**
 
 * *Teken de waarheidstabel van elk diagram.*
