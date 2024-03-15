@@ -37,7 +37,7 @@ teacher_exclusive: true
 <div class="dwengo-content important">
 <h2 class="title">Uitleg componenten</h2>
 <div class="content">
-De uitleg over de componenten die je hieronder terugvindt, bevat informatie te vinden in <a href="/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true"><strong>het leerpad StartToDwenguino</strong></a>. Indien je dit nog niet hebt doorlopen of nog extra informatie wilt, kan je <a href="/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true"><strong>hier</strong></a> terecht voor een meer uitgebreide uitleg.
+De uitleg over de componenten die je hieronder terugvindt, bevat informatie te vinden in <a href="/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true"><strong>het leerpad StartToDwenguino</strong></a>. Indien je dit nog niet hebt doorlopen of nog extra informatie wilt, kan je <a href="/learning-path.html?hruid=pc_starttodwenguino&language=nl&te=true"><strong>hier</strong></a> terecht voor een meer uitgebreide uitleg.  
 </div>
 </div>
 
