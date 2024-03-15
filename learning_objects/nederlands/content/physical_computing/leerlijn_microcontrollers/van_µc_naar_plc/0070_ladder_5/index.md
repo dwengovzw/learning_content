@@ -42,7 +42,7 @@ Deze logica kan je gebruiken om een apparaat aan of uit te zetten. Wil je bijvoo
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
     <div class="content">
-        Schrijf een microcontrollerprogramma die de logica van het latch circuit implementeerd.
+        Schrijf een microcontrollerprogramma dat de logica van het latch circuit implementeerd.
         <img src="images/latch_lamp.svg">
     </div>
 </div>
