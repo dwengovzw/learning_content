@@ -23,7 +23,7 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">WIP - Led</h1>
+    <h1 class="title">Led</h1>
     <h2 class="subtitle">Leds laten branden</h2>
     <div class="items">
         <div class="info_item item">
@@ -49,9 +49,9 @@ teacher_exclusive: false
             <p class="info_item_content">
                Links onderaan op het dwenguino-bord vind je acht leds.<br>
                <br>
-               Deze leds zijn *led 0*, *led 1*, ..., *led 7*, van rechts naar links. De eerste led is dus *led 0*. In computerwetenschappen is het vaak de conventie om te beginnen tellen vanaf 0. Dit heb je misschien ook al gemerkt bij het lcd-scherm.<br>
+               Deze leds zijn <strong>led 0</strong>, <strong>led 1</strong>, ..., <strong>led 7</strong>, van rechts naar links. De eerste led is dus <strong>led 0</strong>. In computerwetenschappen is het vaak de conventie om te beginnen tellen vanaf 0. Dit heb je misschien ook al gemerkt bij het lcd-scherm.<br>
                <br>
-               Links bovenaan is er nog een extra led: *led 13*. Dit laatste led heeft enkele speciale functionaliteiten en krijgt daarom een aparte fiche.
+               Links bovenaan is er nog een extra led: <strong>led 13</strong>. Dit laatste led heeft enkele speciale functionaliteiten en krijgt daarom een aparte fiche.
             </p>
         </div>
         <div class="example_item item">
@@ -60,20 +60,20 @@ teacher_exclusive: false
 <pre>
 <code class="language-arduino">
     
-    #include <Wire.h>  
-    #include <Dwenguino.h>
-    #include <LiquidCrystal.h>
+#include <Wire.h>
+#include <Dwenguino.h>
+#include <LiquidCrystal.h>
 
-    void setup(){
-        initDwenguino();
+void setup()
+{
+  initDwenguino();
+}
 
-        dwenguinoLCD.setCursor(0,0);
-        dwenguinoLCD.print(String("Welkom robot"));
-    }
-
-    void loop(){
-
-    }
+void loop()
+{
+    pinMode(32, OUTPUT);
+    digitalWrite(32, HIGH);
+}
 </code>
 </pre> 
             </p>

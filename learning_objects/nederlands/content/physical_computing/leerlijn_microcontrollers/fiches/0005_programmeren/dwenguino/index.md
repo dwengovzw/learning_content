@@ -49,16 +49,16 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">3. Zet Dwenguino in programmeermodus</h3>
             <p class="info_item_content">
-                Druk de ‘zuid’-knop van de Dwenguino in en houd de knop ingedrukt. </br>
-                Druk vervolgens de ‘reset’-knop van de Dwenguino in. </br>
-                Los dan eerst de ‘reset’-knop. </br>
-                Los daarna de ‘zuid’-knop. Op het lcd-scherm verschijnt de boodschap “Zet bestand over”. 
+                Druk de ‘ZUID’-knop van de Dwenguino in en houd de knop ingedrukt. </br>
+                Druk vervolgens de ‘RESET’-knop van de Dwenguino in. </br>
+                Los dan eerst de ‘RESET’-knop. </br>
+                Los daarna de ‘ZUID’-knop. Op het lcd-scherm verschijnt de boodschap “Zet bestand over”. 
             </p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">4. Bestand overzetten</h3>
             <p class="info_item_content">
-                De Dwenguino is nu beschikbaar in de verkenner van Windows, zoals je een USB-stick zou openen. Wanneer je de ‘Dwenguino’-map opent, kan je het programma “program.dw” uit de ‘Downloads’-map erin slepen.
+                De Dwenguino is nu beschikbaar in de verkenner van Windows, vergelijkbaar met de map die je ziet wanneer je een USB-stick inplugt. Wanneer je de ‘Dwenguino’-map opent, kan je het programma “program.dw” uit de ‘Downloads’-map erin slepen.
             </p>
             <p>
                 <img src="img/explorer1.png" alt="De Dwenguino is nu zichtbaar al een USB stick in de verkenner." title="De Dwenguino is nu zichtbaar al een usb stick in de verkenner."></img>
