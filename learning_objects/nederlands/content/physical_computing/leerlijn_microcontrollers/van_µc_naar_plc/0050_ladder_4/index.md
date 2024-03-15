@@ -118,7 +118,7 @@ Wil je deze zelfde logica implementeren op de microcontroller, gebruik dan de vo
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
 <div class="content">
-Hieronder zie je de waarheidstabel van de logische XOR operatie (\\(\oplus\\)). Teken een ladder diagram die deze logica implementeert.
+Hieronder zie je de waarheidstabel van de logische XOR operatie (\(\oplus\)). Teken een ladder diagram die deze logica implementeert.
 
 \\[
     \begin{array}{c|c|c}
