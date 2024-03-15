@@ -55,7 +55,7 @@ Om met de Dwenguino een HDD klok te maken, zal je gebruik maken van 4 onderdelen
         <div class="info_item item">
             <h3 class="info_item_title">Lcd-scherm</h3>
             <p class="info_item_content">    
-            <img src="embed/dwenguino_lcd.png" alt="Een afbeelding van een lcd-scherm." title="Een afbeelding van een lcd-scherm."></img>
+            <img src="embed/dwenguino_lcd.png" alt="Een afbeelding van een lcd-scherm." title="Een afbeelding van een lcd-scherm."></img><br>
             Het lcd-scherm kan tekst weergeven. Hiermee kan bijvoorbeeld een boodschap worden meegedeeld.
             Op het lcd-scherm van de Dwenguino passen maximaal 32 karakters, zoals letters of cijfers, verspreid over twee regels. Je kan dus 16 karakters per regel tonen. 
             In deze oefening wordt het LCD-scherm gebruikt om weer te geven dat de microcontroller bezig is met de HDD klok. 
@@ -64,7 +64,7 @@ Om met de Dwenguino een HDD klok te maken, zal je gebruik maken van 4 onderdelen
         <div class="info_item item">
             <h3 class="info_item_title">Spindelmotor</h3>
             <p class="info_item_content">
-            <img src="embed/spindlemotor.gif" alt="Een afbeelding van een spindelmotor." title="Een afbeelding van een spindelmotor."></img>
+            <img src="embed/spindlemotor.gif" alt="Een afbeelding van een spindelmotor." title="Een afbeelding van een spindelmotor."></img><br>
             Een spindelmotor kan gebruikt worden om een schijf te doen draaien en is een onderdeel van een harde schijf, ook wel een HDD genoemd. Het is ook daarom dat we deze klok een HDD klok noemen. Een harde schijf wordt normaal gezien gebruikt om geheugen te voorzien in een computer.  
             Tijdens deze oefening maken we gebruik van een spindelmotor om een schijf met een smalle gleuf aan een hoge snelheid te laten bewegen.
             </p>
@@ -72,7 +72,7 @@ Om met de Dwenguino een HDD klok te maken, zal je gebruik maken van 4 onderdelen
         <div class="info_item item">
             <h3 class="info_item_title">LED-strip</h3>
             <p class="info_item_content">
-            <img src="embed/LEDstrip.png" alt="Een afbeelding van een LED-strip." title="Een afbeelding van een LED-strip."></img>
+            <img src="embed/LEDstrip.png" alt="Een afbeelding van een LED-strip." title="Een afbeelding van een LED-strip."></img><br>
             We sluiten bovendien ook een ledstrip aan op de Dwenguino. Een LED-strip is een lint dat meerdere LED-lampjes kan bevatten. We kunnen deze lampjes op hun beurt aansturen om visuele effecten te verkijgen. 
             Tijdens deze oefening maken we gebruik van de LED-strip om op het gepaste moment een bepaalde kleur te laten schijnen. Zo kan dit in combinatie met de gleuf in de draaiende schijf de illusie geven van klokwijzers.
             </p>
@@ -80,7 +80,7 @@ Om met de Dwenguino een HDD klok te maken, zal je gebruik maken van 4 onderdelen
         <div class="info_item item">
             <h3 class="info_item_title">Snelheidssensor</h3>
             <p class="info_item_content">
-            <img src="embed/snelheidssensor.png" alt="Een afbeelding van een snelheidssensor." title="Een afbeelding van een snelheidssensor."></img>
+            <img src="embed/snelheidssensor.png" alt="Een afbeelding van een snelheidssensor." title="Een afbeelding van een snelheidssensor."></img><br>
                 Deze sensor meet snelheid door na te gaan in welke mate een infrarood signaal al dan niet doorgelaten wordt. Doordat we hierdoor de snelheid van de schijf kunnen nagaan weten we ook wanneer bepaalde LED-lampjes moeten branden zodat deze een gepast uur kunnen aanduiden. 
             </p>
         </div>
