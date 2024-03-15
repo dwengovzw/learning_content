@@ -120,6 +120,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "leerlijn_microcontrollers_microcontroller_naar_plc_ladder_logische_reductie_oplossing",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_microcontrollers_microcontroller_naar_plc_ladder_logische_reductie_oplossing",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "leerlijn_microcontrollers_microcontroller_naar_plc_ladder_5",
               "version": "1",
               "language": "nl"
