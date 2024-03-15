@@ -2,8 +2,8 @@
 hruid: pc_hddclock5
 version: 1
 language: nl
-title: "Pentatoniek"
-description: "Pentatoniek"
+title: "Fysieke versie HDD klok"
+description: "Fysieke versie HDD klok"
 keywords: ["Microcontroller"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -40,4 +40,4 @@ Ten slotte verbinden we alles met de Dwenguino zodat deze de componenten kan bes
 
 Programmeer de code op de Dwenguino en test de HDD klok eens uit, als alles goed verlopen is dan zou de klok als volgt moeten werken:
 
-<img src="embed/HDDClock.png" alt="Werkende HDD klok." title="Werkende HDD klok."></img>
+<img src="embed/FysiekeHDDClock.gif" alt="Werkende HDD klok." title="Werkende HDD klok."></img>

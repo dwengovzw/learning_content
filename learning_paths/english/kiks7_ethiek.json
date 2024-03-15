@@ -1,6 +1,6 @@
 {
   "hruid": "kiks7_ethiek",
-  "language": "nl",
+  "language": "en",
   "title": "Social aspects",
   "description": "A new technology brings with it ethical aspects. For AI systems, these include bias, energy consumption and the role of the threshold value.",
   "image": 
@@ -9,7 +9,7 @@
     {
       "learningobject_hruid": "kiks_ethiek",
       "version": "3",
-      "language": "nl",     
+      "language": "en",     
       "start_node": true,
       "transitions": [
         {
@@ -17,7 +17,7 @@
           "next": {
             "hruid": "kiks_ethiek1",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -25,14 +25,14 @@
     {
       "learningobject_hruid": "kiks_ethiek1",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "kiks_ethiek2",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -40,14 +40,14 @@
     {
       "learningobject_hruid": "kiks_ethiek2",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "kiks_ethiek3",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -55,14 +55,14 @@
     {
       "learningobject_hruid": "kiks_ethiek3",
       "version": "3",
-      "language": "nl",
+      "language": "en",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "kiks_ethiek4",
             "version": "3",
-            "language": "nl"
+            "language": "en"
           }
         }
       ]
@@ -70,7 +70,7 @@
     {
       "learningobject_hruid": "kiks_ethiek4",
       "version": "3",
-      "language": "nl"
+      "language": "en"
     } 
   ]
 }

@@ -59,3 +59,16 @@ Defining artificial intelligence, something that is used in so many different do
 - “Artificial intelligence refers to systems that exhibit intelligent behavior by analyzing their environment and acting – to a certain extent autonomously – to achieve specific objectives. AI-based systems can be purely software-based and active in the virtual world (for example, voice-driven assistants, software for image analysis, search engines, and systems for speech and facial recognition), but AI can also be integrated into hardware devices (for example, advanced robots, self-driving cars, drones, or applications of the internet of things)”, this is the definition used by the European Commission in 2018 (PwC, 2018).
 - “Artificial intelligence is non-biological intelligence” (Tegmark, 2017).
 - “AI refers to computers that do things that one would consider done by a mind. Some of these things (e.g., reasoning) are typically described as 'intelligent'. Others (e.g., seeing) not. But all require psychological skills that enable a human and an animal to achieve their goals, such as perception, association, prediction, planning, and controlling a motor” (Boden, 2016).
+
+----------
+#### References
+
+Boden, M. A. (2016). *AI: Its nature and future.* Oxford, Verenigd Koninkrijk: Oxford University Press.
+
+Legg, S. & Hutter, M. (2007). *Universal Intelligence: A Definition of Machine Intelligence.* Minds & Machines, *17*(4), 391–444.
+
+PwC (2018). *Benchmark studie over artificiële intelligentie, uitgevoerd in opdracht van het Departement Economie, Wetenschap en Innovatie van de Vlaamse Overheid. Rapport PwC.* Geraadpleegd op 29 mei 2019 via https://www.ewi-vlaanderen.be/sites/default/files/bestanden/departement_economie_wetenschap_en_innovatie_-_benchmark_studie_over_artificiele_intelligentie.pdf
+
+Steels, L., Berendt, B., Pizurica, A., Van Dyck, D., & Vandewalle, J. (2017). *Artificiële intelligentie. Naar een vierde industriële revolutie?* Brussel: KVAB Standpunt 53.
+
+Tegmark, M. (2017). *LIFE 3.0*. New York, Verenigde Staten: Vintage Books, Penguin Random House, eerste editie.

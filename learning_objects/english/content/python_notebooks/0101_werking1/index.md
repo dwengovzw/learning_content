@@ -49,3 +49,13 @@ The code used in the notebooks is Python version 3. We chose Python because it i
 Python is also on the rise and is used by companies, such as Google, NASA, Netflix, Uber, AstraZeneca, Barco, Instagram, and YouTube.
 
 We chose notebooks because there are several important advantages: teachers do not have to do advanced installations to use the notebooks, teachers can offer different types of instructional content through one platform, the notebooks are interactive, students build the solution to a problem step by step in the notebook making that process visible to the teacher ([Jeroen Van der Hooft, 2023](https://libstore.ugent.be/fulltxt/RUG01/003/151/437/RUG01-003151437_2023_0001_AC.pdf)).
+
+-----
+
+If you click the 'Open notebooks' button below, you will be redirected to another website where your personal notebooks will be loaded. (This may take a while).
+
+You will find (on the Files tab) two files with extension .ipynb. These are the two notebooks that respectively give you an overview of the structure and possibilities and how to get started. In these first two notebooks, you will learn how the notebooks are conceived and how to get started with them.
+
+After going through both notebooks, you will have a good idea of how our Python notebooks are conceived.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0101_en "Notebooks Werking")

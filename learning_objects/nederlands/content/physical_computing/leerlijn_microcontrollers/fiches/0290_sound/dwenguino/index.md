@@ -64,9 +64,9 @@ teacher_exclusive: false
                 Wanneer een geluidssensor voor de eerste keer wordt gebruikt, is deze zeer gevoelig voor geluid. Om de sensor af te stellen, ga je als volgt te werk:<br>
                 *Zorg ervoor dat het geluidsniveau op dit moment het niveau is waarop de sensor zal werken. Als het nu muisstil is, maar dit zal niet zo zijn wanneer de sensor in gebruik is, zal je deze opnieuw moeten afstellen.*<br>
                 <br>
-                1. Draai de schroef in **tegenwijzerzin** tot een led uit gaat.
-                2. Draai nu de schroef *voorzichtig* in **wijzerzin** tot de led terug aan gaat.
-                3. Draai de schroef *voorzichtig* terug in **tegenwijzerzin** en stop zodra de led terug uit gaat.
+                1. Draai de schroef in <em>tegenwijzerzin</em> tot een led uit gaat.
+                2. Draai nu de schroef <em>voorzichtig</em> in <em>wijzerzin</em> tot de led terug aan gaat.
+                3. Draai de schroef <strong>voorzichtig</strong> terug in <em>tegenwijzerzin</em> en stop zodra de led terug uit gaat.
                 4. Tik nu met je vinger op de sensor. Als de led brandt tijdens de tik, dan is je sensor correct afgesteld. Anders ga je terug naar stap 2. 
             </p>
         </div>
