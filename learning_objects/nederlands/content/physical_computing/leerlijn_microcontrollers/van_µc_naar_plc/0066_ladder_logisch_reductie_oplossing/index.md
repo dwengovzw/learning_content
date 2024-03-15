@@ -52,3 +52,24 @@ teacher_exclusive: true
 
 **(2)**
 
+\\[ \left( A \land C \right) \lor \neg \left( \neg A \lor \neg C \right) \lor \neg \right( \neg B \land \neg C \left) \Leftrightarrow Q\\]
+
+\\[
+    \begin{array}{c|c|c|c|c}
+        A & B & C & A \land B & \neg \right( \neg A \lor \neg C \left) & \neg \right( \neg B \lor \neg C \left) & Q \\\\
+        \hline 
+        0 & 0 & 0 & 0 & 0 & 0 & 0 \\\\
+        0 & 0 & 1 & 0 & 0 & 0 & 0 \\\\
+        0 & 1 & 0 & 0 & 0 & 0 & 0 \\\\
+        0 & 1 & 1 & 0 & 0 & 1 & 1 \\\\
+        1 & 0 & 0 & 0 & 0 & 0 & 0 \\\\
+        1 & 0 & 1 & 1 & 1 & 0 & 1 \\\\
+        1 & 1 & 0 & 0 & 0 & 0 & 0 \\\\
+        1 & 1 & 1 & 1 & 1 & 1 & 1 \\\\
+    \end{array}
+\\]
+
+
+* Vergelijk de waarde van Q in de twee waarheidstabellen. Wat merk je op?
+
+**De waarden zijn gelijk. Deze logische expressies zijn dus equivalent. De eerste is duidelijk een stuk eenvoudiger. Aan de hand van de regels van de Booleaanse logica, kan je complexere expressies reduceren tot eenvoudige expressies.**
