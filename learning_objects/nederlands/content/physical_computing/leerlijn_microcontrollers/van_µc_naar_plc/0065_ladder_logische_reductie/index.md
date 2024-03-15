@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Ladder logica: vereenvoudiging
 
-In on [leerpad *Logica*](https://dwengo.org/learning-path.html?hruid=maths_logica&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_voorkennis_logica;nl;3) onder het lesthema *Python in de Wiskundeles* leer je de basis van de propositielogica. Deze kennis kan jouw helpen om na te denken over hoe een ladder diagram in elkaar zit. Bovendien kan je door de regels van de propositielogica toe te passen op een logische formule, het aantal schakelaars dat je nodig hebt in je ladder diagram reduceren.
+In ons [leerpad *Logica*](https://dwengo.org/learning-path.html?hruid=maths_logica&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_voorkennis_logica;nl;3) onder het lesthema *Python in de Wiskundeles* leer je de basis van de propositielogica. Deze kennis kan jouw helpen om na te denken over hoe een ladder diagram in elkaar zit. Bovendien kan je door de regels van de propositielogica toe te passen op een logische formule, het aantal schakelaars dat je nodig hebt in je ladder diagram reduceren.
 
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
