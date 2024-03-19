@@ -22,6 +22,9 @@ target_ages: [10, 11, 12, 13]
 
 ## Tekenen maar
 
-We hebben al een aantal voorbeelden gezien van waar de inkleuring goed of minder goed werkt. Je kan nu zelf wat verder de mogelijkheden van het systeem testen. Dit doe je door zelf een zwart-wit lijntekening te maken en die via de volgende link te uploaden naar het AI-systeem.
+We hebben al een aantal voorbeelden gezien van waar de inkleuring goed of minder goed werkt. Je kan nu zelf wat verder de mogelijkheden van het systeem testen. Hiervoor hebben we een Python notebook voor jullie gemaakt. Daarin kan je zelf afbeeldingen uploaden naar het AI-systeem en uittesten wat de beperkingen zijn.
 
-[Test het AI systeem](https://kiks.ilabt.imec.be/jommeke/)
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=10010 "Jommeke notebook")
+
+
+
