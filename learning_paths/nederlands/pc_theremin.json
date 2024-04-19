@@ -45,7 +45,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "g_startpagina_sr",
+            "hruid": "pc_theremin2_0",
             "version": "3",
             "language": "nl"
           }
@@ -53,14 +53,14 @@
       ]
     },
     {
-      "learningobject_hruid": "g_startpagina_sr",
+      "learningobject_hruid": "pc_theremin2_0",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "g_inleidendeoefening_sr",
+            "hruid": "pc_theremin2_1",
             "version": "3",
             "language": "nl"
           }
@@ -68,14 +68,14 @@
       ]
     },
     {
-      "learningobject_hruid": "g_inleidendeoefening_sr",
+      "learningobject_hruid": "pc_theremin2_1",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "g_uploaden",
+            "hruid": "pc_theremin2_2",
             "version": "3",
             "language": "nl"
           }
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "learningobject_hruid": "g_uploaden",
+      "learningobject_hruid": "pc_theremin2_2",
       "version": "3",
       "language": "nl",
       "transitions": [
