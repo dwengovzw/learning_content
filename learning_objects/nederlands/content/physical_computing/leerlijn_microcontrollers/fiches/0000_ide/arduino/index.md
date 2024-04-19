@@ -35,7 +35,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">2. Code</h3>
             <p class="info_item_content">
-                Uitleg over waar je de code schrijft en hoe je deze upload naar de arduino vind je <a href="https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-uploading-a-sketch/)"><strong>hier</strong></a>.
+                Uitleg over waar je de code schrijft en hoe je deze upload naar de arduino vind je <a href="https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-uploading-a-sketch/"><strong>hier</strong></a>.
             </p>
         </div>       
         </div>
