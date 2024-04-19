@@ -95,22 +95,6 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_fiches_arduino_servo2",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "leerlijn_fiches_arduino_servo2",
-        "version": "1",
-        "language": "nl",     
-        "start_node": true,
-        "transitions": [
-          {
-            "default": true,
-            "next": {
               "hruid": "leerlijn_fiches_arduino_ledmatrix",
               "version": "1",
               "language": "nl"
