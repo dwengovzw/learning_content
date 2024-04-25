@@ -21,9 +21,9 @@ target_ages: [14, 15, 16, 17, 18]
 teacher_exclusive: true
 ---
 
-# Deel 1: ASCII
+# Deel 3: ASCII
 
-In het eerste kistje vonden de deelnemers ook nog een ASCII tabel. Deze geeft weer door welke cijfers de computer letters voorstelt. Op het einde van de notehook in deel 2 krijgen ze ook een naam van de hoofdverdachte en een hint naar de ASCII tabel. Door de letters in de naam van de hoofdverdacht om te zetten naar cijfers en deze op te tellen, komen ze aan de code van kistje 2.
+In het eerste kistje vonden de deelnemers ook nog een ASCII tabel. Deze geeft weer met welke cijfers de computer letters voorstelt. Op het einde van de notehook in deel 2 krijgen ze een naam van de hoofdverdachte en een hint naar de ASCII tabel. Door de letters in de naam van de hoofdverdacht om te zetten naar cijfers en deze op te tellen, komen ze aan de code van kistje 2.
 
 **Documenten**
 * [De ASCII tabel](content/ASCII_tabel_hint.pdf)

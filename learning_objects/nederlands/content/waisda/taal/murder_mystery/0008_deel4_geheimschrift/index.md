@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-taal-murder-mystery-deel4-geheimschrift
 version: 1
 language: nl
-title: "Deel 2: geheimschrift"
+title: "Deel 4: geheimschrift"
 description: "Python activiteit over het ontcijferen van brieven"
 keywords: ["auteursherkenning", "geheimschrift", "encryptie", "versleuteling", "Python"]
 content_type: "text/markdown"
