@@ -29,5 +29,5 @@ In het tweede kistje vinden de deelnemers opnieuw een reeks brieven. Deze keer z
 * [De brieven](content/Brieven_geheimschrift.pdf)
 * [De link naar de notebook](content/Notebook_geheimschrift.pdf)
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/spawn?id=waisda_taal_geheimschrift "Basic")
+[![](content/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/spawn?id=waisda_taal_geheimschrift "Basic")
 
