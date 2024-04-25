@@ -6,7 +6,7 @@ title: "Deel 3: ASCII"
 description: "CSUnplugged activiteit over de ASCII tabel"
 keywords: ["auteursherkenning", "ASCII"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 25
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

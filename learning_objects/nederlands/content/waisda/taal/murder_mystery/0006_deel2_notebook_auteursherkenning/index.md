@@ -6,7 +6,7 @@ title: "Deel 2: auteursherkenning"
 description: "Python activiteit over frequentieanalyse"
 keywords: ["auteursherkenning", "frequentieanalyse", "Python"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 45
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

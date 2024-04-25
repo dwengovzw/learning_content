@@ -6,7 +6,7 @@ title: "Deel 4: geheimschrift"
 description: "Python activiteit over het ontcijferen van brieven"
 keywords: ["auteursherkenning", "geheimschrift", "encryptie", "versleuteling", "Python"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 90
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

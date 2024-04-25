@@ -6,7 +6,7 @@ title: "Murder mystery: introductie"
 description: "Ga aan de slag met taaltechnologie, los het mysterie op van de dood van Heloisa."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "Taaltechnologie", "Schriftherkenning", "Encryptie", "Auteursherkenning"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

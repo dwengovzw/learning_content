@@ -6,7 +6,7 @@ title: "Murder mystery: verloop"
 description: "Hoe verloopt de activiteit"
 keywords: ["Voorkennis", "Python", "programmeren"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
