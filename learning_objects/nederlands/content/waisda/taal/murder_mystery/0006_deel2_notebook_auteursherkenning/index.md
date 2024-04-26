@@ -30,7 +30,7 @@ In het kistje vinden de deelnemers een reeks brieven aan Heloisa. Deze brieven k
 * [De brieven](content/Brieven.pdf)
 * [Link naar notebook](content/Notebook_auteursherkenning.pdf)
 
-[![](content/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/spawn?id=waisda_taal_schriftherkenning "Basic")
+[![](content/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_taal_schriftherkenning "Basic")
 
 <div class="dwengo-content sideinfo">
 <h2 class="title">Oplossingen</h2>
