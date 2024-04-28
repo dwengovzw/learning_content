@@ -1,8 +1,8 @@
 ---
-hruid: anm_1101
+hruid: anm_1103
 version: 3
 language: nl
-title: "Limiet van een rij"
+title: "Limiet van een functie"
 description: "Limiet"
 keywords: [""]
 educational_goals: [
@@ -27,15 +27,16 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 # Limiet
 
-## Limiet van een rij
+## Limiet van een functie
 
-In de eerste notebook ga je aan de slag met deze opdracht:
+In de tweede notebook ga je aan de slag met deze opdracht: 
 
-Beschouw de harmonische rij \\(u_{n}=\frac{1}{n}\\).<br>
-Bepaal naar welk getal \\(u_{n}\\) nadert bij heel grote waarden van \\(n\\).
+Beschouw de funtie \\(f(x)=\frac{1}{x}\\).  <br>
+Bepaal naar welk getal \\(f(x)\\) nadert bij heel grote en heel kleine waarden van \\(x\\). <br>
+Bepaal naar welk getal \\(f(x)\\) nadert als \\(x\\) nadert naar \\(0\\).
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6510 "Limiet van een rij")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6515 "Limiet van een functie")

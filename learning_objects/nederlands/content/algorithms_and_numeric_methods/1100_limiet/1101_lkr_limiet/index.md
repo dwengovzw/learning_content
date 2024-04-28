@@ -1,8 +1,8 @@
 ---
-hruid: anm_1103
+hruid: anm_1101
 version: 3
 language: nl
-title: "Oefeningen"
+title: "Limiet van een rij"
 description: "Limiet"
 keywords: [""]
 educational_goals: [
@@ -27,12 +27,15 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
-
 # Limiet
 
-## Oefeningen bij limieten van rijen en functies
-Met de technieken die je leerde, kan je nu bv. irrationale getallen zoals het getal *e* en de gulden snede \\(\phi\\) benaderen. Je vindt hierover oefeningen in de volgende notebook.
+## Limiet van een rij
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6519 "Limiet van rij of functie")
+In de eerste notebook ga je aan de slag met deze opdracht:
+
+Beschouw de harmonische rij \\(u_{n}=\frac{1}{n}\\).<br>
+Bepaal naar welk getal \\(u_{n}\\) nadert bij heel grote waarden van \\(n\\).
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6510 "Limiet van een rij")

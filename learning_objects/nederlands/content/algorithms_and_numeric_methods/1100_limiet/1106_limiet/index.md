@@ -1,9 +1,9 @@
 ---
-hruid: anm_1105
+hruid: anm_1106
 version: 3
 language: nl
-title: "Oefeningen"
-description: "Limiet"
+title: "Minimumdoelen"
+description: "Minimumdoelen limiet"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -27,12 +27,11 @@ estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Limiet
 
-## Oefeningen bij limieten van rijen en functies
-Met de technieken die je leerde, kan je nu bv. irrationale getallen zoals het getal *e* en de gulden snede \\(\phi\\) benaderen. Je vindt hierover oefeningen in de volgende notebook.
+**Verband met minimumdoelen informaticawetenschappen**
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6519 "Limiet van rij of functie")
+In deze notebooks leer je a.d.h.v. een numerieke methode een limiet van een rij of een functie benaderen. In de oefeningen gebruikte je deze techniek om een irrationaal getal te benaderen.
