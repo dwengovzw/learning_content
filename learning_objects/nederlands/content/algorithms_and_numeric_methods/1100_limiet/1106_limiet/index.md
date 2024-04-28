@@ -30,8 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Limiet
+# Limiet van rij of functie
 
 **Verband met minimumdoelen informaticawetenschappen**
 
-In deze notebooks leer je a.d.h.v. een numerieke methode een limiet van een rij of een functie benaderen. In de oefeningen gebruikte je deze techniek om een irrationaal getal te benaderen.
+In deze notebooks leren leerlingen a.d.h.v. een numerieke methode een limiet van een rij of een functie benaderen. In de oefeningen gebruiken ze deze techniek om een irrationaal getal te benaderen.
