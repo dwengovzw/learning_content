@@ -2,8 +2,8 @@
 hruid: anm_1104
 version: 3
 language: nl
-title: "Minimumdoelen"
-description: "Minimumdoelen limiet"
+title: "Limiet van een functie"
+description: "Limiet"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,9 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-
 # Limiet
 
-**Verband met minimumdoelen informaticawetenschappen**
+## Limiet van een functie
 
-In deze notebooks leer je a.d.h.v. een numerieke methode een limiet van een rij of een functie benaderen. In de oefeningen gebruikte je deze techniek om een irrationaal getal te benaderen.
+In de tweede notebook ga je aan de slag met deze opdracht: 
+
+Beschouw de funtie \\(f(x)=\frac{1}{x}\\).  <br>
+Bepaal naar welk getal \\(f(x)\\) nadert bij heel grote en heel kleine waarden van \\(x\\). <br>
+Bepaal naar welk getal \\(f(x)\\) nadert als \\(x\\) nadert naar \\(0\\).
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6515 "Limiet van een functie")

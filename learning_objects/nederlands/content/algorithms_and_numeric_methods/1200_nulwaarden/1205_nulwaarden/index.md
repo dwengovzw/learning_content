@@ -2,7 +2,7 @@
 hruid: anm_1205
 version: 3
 language: nl
-title: "Minimumdoelen"
+title: "Oefeningen"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
@@ -30,10 +30,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Minimumdoelen
+# Oefeningen bij het numeriek benaderen van nulpunten 
 
-#### Verband met minimumdoelen informaticawetenschappen
-In dit leerpad leerde je a.d.h.v. een *numerieke methode* een nulwaarde benaderen. 
-Misschien verdiepte je je ook in het facultatief onderdeel over *recursie*.
+Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
 
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6525 "Nulwaarden numeriek bepalen economie")

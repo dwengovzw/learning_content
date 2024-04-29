@@ -1,9 +1,9 @@
 ---
-hruid: anm_1105
+hruid: anm_1206
 version: 3
 language: nl
-title: "Oefeningen"
-description: "Limiet"
+title: "Minimumdoelen"
+description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,9 +30,10 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Limiet
+# Minimumdoelen
 
-## Oefeningen bij limieten van rijen en functies
-Met de technieken die je leerde, kan je nu bv. irrationale getallen zoals het getal *e* en de gulden snede \\(\varphi\\) benaderen. Je vindt hierover oefeningen in de volgende notebook.
+#### Verband met minimumdoelen informaticawetenschappen
+In dit leerpad leerde je a.d.h.v. een *numerieke methode* een nulwaarde benaderen. 
+Misschien verdiepte je je ook in het facultatief onderdeel over *recursie*.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6519 "Limiet van rij of functie")
+
