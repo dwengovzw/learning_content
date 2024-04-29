@@ -55,3 +55,11 @@ m.a.w. rico s →𝑓′(𝑎)
 In het leerpad [Limieten](https://dwengo.org/learning-path.html?hruid=anm11&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1100;nl;3) leerde je hoe je een limiet numeriek kan benaderen. In dit leerpad gebruik je die techniek om met afgeleiden te werken.
 
 Gezien de definitie van de afgeleide als limiet van het differentiequotiënt is het duidelijk dat dit kan. 
+
+-------------
+
+# Afgeleide functie
+
+Als men in elk punt van een functie f de afgeleide bepaalt, dan heeft men een nieuwe functie, nl. de **afgeleide functie** f’.  
+f’(x) is positief voor een x waarin f stijgt en negatief voor een x waarin f daalt. 
+
