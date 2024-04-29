@@ -2,7 +2,7 @@
 hruid: anm_1203
 version: 3
 language: nl
-title: "Regula Falsi"
+title: "Methode van Newton"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
@@ -30,13 +30,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Regula falsi
+# Methode van Newton
 
-Naast de halveringsmethode en de methode van Newton is er ook nog de 'regula falsi'-methode.
+In een tweede notebook leer je de nulpunten van een continue functie benaderen aan de hand van de methode van Newton.
 
-### Opdracht
-- Zoek op hoe de 'regula falsi'- methode om nulpunten te zoeken werkt.
-- Implementeer deze methode zelf in een Python notebook.
-  
-
-  
+In de tweede notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, continue functie, functiewaarde, afgeleide functie, raaklijn, richtingscoëfficiënt, snijpunt van de grafiek van een functie met de x-as.

@@ -2,8 +2,8 @@
 hruid: anm_1501
 version: 3
 language: nl
-title: "Limiet van differentiequotiënt"
-description: "Limiet"
+title: "Inleiding"
+description: "Inleiding"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,9 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Limiet
+# Inleiding
 
-## Toepassing: limiet van differentiequotiënt
-Met de technieken die je leerde, kan je in een punt van een kromme de richtingscoëfficiënt van de raaklijn in dat punt aan de kromme numeriek benaderen. In de volgende notebook wordt daarop ingegaan. In deze context zal je ook het getal *e* benaderen.
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6540 "Limiet van differentiequotiënt")
+In het leerpad [Limieten](https://dwengo.org/learning-path.html?hruid=anm11&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1100;nl;3) leerde je hoe je een limiet numeriek kan benaderen. In dit leerpad gebruik je die techniek om met afgeleiden te werken.

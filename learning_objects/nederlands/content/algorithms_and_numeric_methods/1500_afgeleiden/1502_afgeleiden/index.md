@@ -2,7 +2,7 @@
 hruid: anm_1502
 version: 3
 language: nl
-title: "Eindige differentiemethode"
+title: "Limiet van differentiequotiënt"
 description: "Limiet"
 keywords: [""]
 educational_goals: [
@@ -32,8 +32,7 @@ teacher_exclusive: false
 
 # Limiet
 
-## Toepassing: eindige differentiemethode
+## Toepassing: limiet van differentiequotiënt
+Met de technieken die je leerde, kan je in een punt van een kromme de richtingscoëfficiënt van de raaklijn in dat punt aan de kromme numeriek benaderen. In de volgende notebook wordt daarop ingegaan. In deze context zal je ook het getal *e* benaderen.
 
-De richtingscoëfficiënt van de raaklijn in een punt aan een kromme, m.a.w. de afgeleide in een punt, kan benaderd worden m.b.v. een  differentiequotiënt over een bepaald interval. In de volgende notebook zal je daarop gebaseerd een benadering zoeken van de afgeleide functie van een bepaalde functie.
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6060 "Eindige differentiemethode")
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6540 "Limiet van differentiequotiënt")

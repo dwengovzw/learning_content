@@ -1,9 +1,9 @@
 ---
-hruid: anm_1205
+hruid: anm_1504
 version: 3
 language: nl
 title: "Oefeningen"
-description: "Nulwaarden"
+description: "Oefeningen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,8 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Oefeningen bij het numeriek benaderen van nulpunten 
+# Oefeningen
 
-Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6525 "Nulwaarden numeriek bepalen economie")
+In opbouw

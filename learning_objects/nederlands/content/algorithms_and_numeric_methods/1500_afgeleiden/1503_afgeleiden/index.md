@@ -2,8 +2,8 @@
 hruid: anm_1503
 version: 3
 language: nl
-title: "Oefeningen"
-description: "Oefeningen"
+title: "Eindige differentiemethode"
+description: "Limiet"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,10 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Oefeningen
+# Limiet
 
-In opbouw
+## Toepassing: eindige differentiemethode
+
+De richtingscoëfficiënt van de raaklijn in een punt aan een kromme, m.a.w. de afgeleide in een punt, kan benaderd worden m.b.v. een  differentiequotiënt over een bepaald interval. In de volgende notebook zal je daarop gebaseerd een benadering zoeken van de afgeleide functie van een bepaalde functie.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6060 "Eindige differentiemethode")

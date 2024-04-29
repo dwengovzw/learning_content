@@ -2,7 +2,7 @@
 hruid: anm_1204
 version: 3
 language: nl
-title: "Oefeningen"
+title: "Regula Falsi"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
@@ -30,8 +30,13 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Oefeningen bij het numeriek benaderen van nulpunten 
+# Regula falsi
 
-Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
+Naast de halveringsmethode en de methode van Newton is er ook nog de 'regula falsi'-methode.
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6525 "Nulwaarden numeriek bepalen economie")
+### Opdracht
+- Zoek op hoe de 'regula falsi'- methode om nulpunten te zoeken werkt.
+- Implementeer deze methode zelf in een Python notebook.
+  
+
+  
