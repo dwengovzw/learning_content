@@ -6,7 +6,7 @@ title: "Emoties herkennen: data verzamelen"
 description: "Leer hoe je een AI-systeem bouwt dat emoties kan herkennen."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "neurale netwerken", "classificatie", "beelden", "emoties"]
 content_type: "text/markdown"
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
