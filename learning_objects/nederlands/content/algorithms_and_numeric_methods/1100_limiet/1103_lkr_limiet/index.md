@@ -36,11 +36,14 @@ Heel intuïtief zit het zo: stel dat je weet dat de limiet van een functie besta
 ![functielimiet](https://github.com/dwengovzw/learning_content/assets/48352335/0ea7256a-956f-4c48-8596-30ae91a5e3e9)
 
 Op deze grafiek zie je dat: 
-$$ \lim_{x \to +\infty} f(x) =  2 $$ 
-en
-$$ \lim_{x \to -\infty} f(x) = +\infty.$$
 
-Concreet betekent dat dat **elke** dalende rij 'die gelegen is op de grafiek van f' ook 2 als limiet heeft en dat **elke** stijgende rij 'die gelegen is op de grafiek van f' ook $+\infty$ als limiet heeft. 
+\\(\lim_{x \to +\infty} f(x) =  2 \\)
+
+en
+
+\\(\lim_{x \to -\infty} f(x) = +\infty\\).
+
+Concreet betekent dat dat **elke** dalende rij 'die gelegen is op de grafiek van \\(f'\\) ook 2 als limiet heeft en dat **elke** stijgende rij 'die gelegen is op de grafiek van \\(f'\\) ook \\(+\infty\\) als limiet heeft. 
 (Als de rij daalt, dan "beweegt' die zich op de functie van links naar rechts. Als de rij stijgt, dan "beweegt' die zich op de functie van rechts naar links.) 
 
 ---------
