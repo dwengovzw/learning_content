@@ -70,6 +70,21 @@
     {
       "learningobject_hruid": "anm_1404",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "anm_1405",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "anm_1405",
+      "version": "3",
       "language": "nl"
     } 
   ]
