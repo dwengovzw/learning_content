@@ -1,12 +1,12 @@
 ---
-hruid: org-dwengo-waisda-beelden-emoties-herkennen-automatische-detectie
+hruid: org-dwengo-waisda-beelden-fax-intro
 version: 1
 language: nl
-title: "Emoties herkennen: automatische detectie"
-description: "Leer hoe je een AI-systeem bouwt dat emoties kan herkennen."
+title: "Introductie"
+description: "Ervaar hoe de computer"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "neurale netwerken", "classificatie", "beelden", "emoties"]
 content_type: "text/markdown"
-estimated_time: 60
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -20,8 +20,6 @@ copyright: "CC BY dwengo"
 target_ages: [14, 15, 16, 17, 18]
 ---
 
-# Automatische detectie
+# Emoties herkennen
 
-Nu je een dataset hebt verzameld, kan je aan de slag met het AI-systeem. Daarvoor gebruik je een Python notebook. Klik op onderstaande knop om de notebook te openen.
-
-[![](content/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_beelden_emoties "Basic")
+In dit leerpad zul je zien hoe je een AI-systeem kan bouwen dat in staat is om emoties te detecteren. Bij het bouwen van het systeem zul je ervaren hoe belangrijk het is om een kwalitatieve dataset op te stellen. Daarnaast leer je ook over hoe je data op een correcte manier kan voorstellen zodat het als invoer kan dienen voor een AI-systeem.
