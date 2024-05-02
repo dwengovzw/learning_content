@@ -6,7 +6,7 @@ title: "Benodigdheden"
 description: "Wat heb je nodig voor deze activiteit?"
 keywords: ["Digitale beelden", "CSUnplugged", "unplugged", "protocol", "netwerken", "ecodering", "materiaal"]
 content_type: "text/markdown"
-estimated_time: 1
+estimated_time: 2
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
