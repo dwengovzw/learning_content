@@ -71,7 +71,7 @@ Deze voorstelling is bovendien transparant.
 *Dit is een iteratief proces: om de wortel en de knopen te bepalen wordt telkens dezelfde techniek toegepast.*
 </algorithms>
 <implementation>
-Voor het programmeren verwijzen we naar de notebooks van het project AI in de Zorg.
+De notebook ‘Hartaandoening’ in het leerpad   <a href="/learning-path.html?hruid=aiz1_zorg&language=nl&te=true&source_page=%2Fcare%2F&source_title=%20AI%20in%20de%20Zorg#aiz_oefenen;nl;3"><strong>AI in de zorg - Beslissingsboom</strong></a> bevat een oefening waarbij je met 'echte' data een beslissingsboom genereerd.
 </implementation>
 
 
