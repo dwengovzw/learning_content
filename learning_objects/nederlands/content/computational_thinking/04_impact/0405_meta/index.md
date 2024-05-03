@@ -31,23 +31,19 @@ teacher_exclusive: true
 ---
 
 <context>
-... 
+Hoe zit computationeel denken verweven in het huidige sollicatie-proces?  
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. ... 
+Het proces van solliciteren is op te splitsen in verschillende stappen en aspecten, zoals het zoeken naar vacatures, het voorbereiden van sollicitatiedocumenten, het communiceren met potentiële werkgevers en het beheren van online profielen. 
 </decomposition>
 <patternRecognition>
-...  (**patroonherkenning**)
-</patternRecognition>
+Patroonherkenning is relevant bij het analyseren van online profielen en socialemediaposts van sollicitanten. Werkgevers kunnen deze gegevens gebruiken om een beeld te vormen van de persoonlijkheid, interesses en gedragingen van sollicitanten. Dit kan invloed hebben op de beslissingen tijdens het wervingsproces. Bijvoorbeeld, als een sollicitant regelmatig negatieve opmerkingen plaatst over voorgaande werkgevers, kan dit een rode vlag zijn voor potentiële werkgevers.</patternRecognition>
 <abstraction>
-... (**abstractie**)<br>
+Zowel een vacature, als sollicitatiedocumenten zoals een CV zijn abstracties van de werkelijkheid. Een vacature geeft enkel informatie over de grote lijnen van jouw takenpakket, net zoals een CV slechts de belangrijkste aspecten van jouw kennen en kunnen weergeeft. 
 </abstraction>
 <algorithms>
-Een **algoritme** ... <br>
-- ... 
-</algorithms>
+AI-algoritmen kunnen worden gebruikt om vacatures te matchen met de profielen van sollicitanten. Deze algoritmen kunnen rekening houden met verschillende criteria, zoals opleiding, ervaring en vaardigheden, om de beste overeenkomsten te vinden. Dit verhoogt de kans op het vinden van relevante vacatures voor sollicitanten en vermindert het aantal irrelevante resultaten.</algorithms>
 <implementation>
 ... 
 </implementation>
