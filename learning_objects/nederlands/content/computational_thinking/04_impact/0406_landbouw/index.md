@@ -44,15 +44,14 @@ Het automatiseren van bepaalde taken kan de werklast van de landbouwers verminde
 
 ## Bespreking van de impact
 
--  "Bij precisielandbouw wordt gebruikgemaakt van geavanceerde technologieën zoals GPS, sensoren, drones, artificiële intelligentie, machine learning, enzovoort om de productie van gewassen op het veld te optimaliseren" (ILVO).
-    - 
+- "Bij precisielandbouw wordt gebruikgemaakt van geavanceerde technologieën zoals GPS, sensoren, drones, artificiële intelligentie, machine learning, enzovoort om de productie van gewassen op het veld te optimaliseren" (ILVO).
 
 -------------------------------
 ## Gerelateerde voorbeelden: 
 
 -----------------------------
 ### Werking 
-In het leerpad '' wordt [de werking] uit de doeken gedaan.
+In het leerpad <a href="/agriculture"><strong> AI in de landbouw</strong> kan je voorbeelden vinden over AI in land- en tuinbouw en worden praktische voorbeelden zoals het herkennen van een tomaat uit de doeken gedaan. Zo maak je kennis met de mogelijkheden van een AI-systeem voor beeldherkenning, maar leer je ook dat het beperkingen kent.</a>.
 
 -----------------------------
 #### Leestips
