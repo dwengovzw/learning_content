@@ -1,9 +1,9 @@
 ---
-hruid: anm_1101
+hruid: anm_1504
 version: 3
 language: nl
-title: "Limiet van een rij"
-description: "Limiet"
+title: "Oefeningen"
+description: "Oefeningen"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,13 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Limiet
 
-## Limiet van een rij
+# Oefeningen
 
-In de eerste notebook ga je aan de slag met deze opdracht:
-
-Beschouw de harmonische rij \\(u_{n}=\frac{1}{n}\\).<br>
-Bepaal naar welk getal \\(u_{n}\\) nadert bij heel grote waarden van \\(n\\).
-
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6510 "Limiet van een rij")
+In opbouw

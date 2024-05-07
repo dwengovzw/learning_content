@@ -85,6 +85,21 @@
     {
       "learningobject_hruid": "anm_1205",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "anm_1206",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "anm_1206",
+      "version": "3",
       "language": "nl"
     } 
   ]

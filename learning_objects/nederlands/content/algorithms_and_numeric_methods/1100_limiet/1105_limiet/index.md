@@ -2,7 +2,7 @@
 hruid: anm_1105
 version: 3
 language: nl
-title: "Slot"
+title: "Oefeningen"
 description: "Limiet"
 keywords: [""]
 educational_goals: [
@@ -30,9 +30,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Toepassingen
+# Limiet
 
-In het leerpad [Afgeleiden](https://dwengo.org/learning-path.html?hruid=anm15&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1500;nl;3) en het leerpad [Riemannsom](https://dwengo.org/learning-path.html?hruid=anm14&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1400;nl;3) zal je het numeriek benaderen van een limiet toepassen om een afgeleide in een punt, een afgeleide functie of een oppervlakte te benaderen.
-In het leerpad [Matrices](https://dwengo.org/learning-path.html?hruid=anm16&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#anm_1600;nl;3) zal je hetzelfde principe gebruiken om na te gaan of een populatie, waarvan de evolutie beschrven wordt aan de hand van matrices, een evenwicht vindt. 
+## Oefeningen bij limieten van rijen en functies
+Met de technieken die je leerde, kan je nu bv. irrationale getallen zoals het getal *e* en de gulden snede \\(\varphi\\) benaderen. Je vindt hierover oefeningen in de volgende notebook.
 
-
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6519 "Limiet van rij of functie")

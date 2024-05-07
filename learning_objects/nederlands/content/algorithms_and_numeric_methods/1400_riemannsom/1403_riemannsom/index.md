@@ -2,8 +2,8 @@
 hruid: anm_1403
 version: 3
 language: nl
-title: "Oefeningen"
-description: "Oefeningen"
+title: "Trapeziummethode"
+description: "Riemannsom"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,6 +30,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Oefeningen bij de Riemannsom en de trapeziummethode
+# De Riemannsom en de trapeziummethode
 
-In opbouw.
+In de **tweede notebook** pas je Riemannsom toe om de oppervlakte te berekenen tussen een andere kromme en de x-as. Je maakt er ook kennis met een tweede techniek, namelijk de trapeziummethode; bij deze methode benader je met behulp van trapezia in plaats van rechthoeken.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6530 "Riemannsom en trapeziummethode")
