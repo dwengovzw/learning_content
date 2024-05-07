@@ -22,6 +22,6 @@ target_ages: [14, 15, 16, 17, 18]
 
 # Automatische detectie
 
-Nu de een dataset hebt verzameld, kan je aan de slag met het AI-systeem. Daarvoor gebruik je een Python notebook. Klik op onderstaande knop om de notebook te openen.
+Nu je een dataset hebt verzameld, kan je aan de slag met het AI-systeem. Daarvoor gebruik je een Python notebook. Klik op onderstaande knop om de notebook te openen.
 
 [![](content/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_beelden_emoties "Basic")
