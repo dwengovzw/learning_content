@@ -45,7 +45,7 @@ void loop()
 }
 ```
 
-Je kan de leerlingen ook laten experimenteren met de verhouding tussen aan en uit. Op die manier kunnen ze de led dimmen tot verschillende lichtsterktes. Om dit te doen zorg je ervoor dat de duur van de **periode** gelijk blijft (bv. 10 ms) maar de tijd dat het signaal hoog (de **duty cycle**) is groter of kleinder wordt. Hieronder zie je een voorbeeld van een led die 20% gedimd wordt.
+Je kan de leerlingen ook laten experimenteren met de verhouding tussen aan en uit. Op die manier kunnen ze de led dimmen tot verschillende lichtsterktes. Om dit te doen zorg je ervoor dat de duur van de **periode** gelijk blijft (bv. 10 ms) maar de tijd dat het signaal hoog (de **duty cycle**) is groter of kleiner wordt. Hieronder zie je een voorbeeld van een led die 20% gedimd wordt.
 
 ```arduino
 #include <Wire.h>;
@@ -62,6 +62,29 @@ void loop()
     digitalWrite(13, HIGH);
     delay(8);
     digitalWrite(13, LOW);
+    delay(2);
+}
+```
+
+Wil je het effect extra duidelijk maken, kan je er ook voor kiezen om twee leds die naast elkaar staan te laten branden. De ene brandt dan met volledig vermogen, de andere via een PWM signaal. Zo kunnen leerlingen het verschil in intensiteit vergelijken.
+
+```arduino
+#include <Wire.h>;
+#include <Dwenguino.h>;
+
+void setup()
+{
+    initDwenguino();
+    pinMode(32, OUTPUT); // Op deze led passen we een PWM signaal toe.
+    pinMode(33, OUTPUT); // Deze led zal op volle kracht blijven branden.
+    digitalWrite(33, HIGH); // Zet de led aan op volle kracht
+}
+
+void loop()
+{
+    digitalWrite(32, HIGH);
+    delay(8);
+    digitalWrite(32, LOW);
     delay(2);
 }
 ```
