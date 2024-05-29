@@ -66,7 +66,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: Laat "Hallo robot" op het lcd-scherm verschijnen.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
     #include <Wire.h>
     #include <Dwenguino.h>

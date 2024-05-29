@@ -31,7 +31,7 @@ teacher_exclusive: true
     </div>
     <div class="dwengo-content dwengo-code-simulator">
         <pre>
-<code class="language-arduino">
+<code class="language-cpp">
 
     #include <Wire.h>
     #include <Dwenguino.h>
