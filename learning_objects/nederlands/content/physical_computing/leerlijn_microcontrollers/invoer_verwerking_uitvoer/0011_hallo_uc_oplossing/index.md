@@ -35,9 +35,9 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
 <code class="language-cpp" data-filename="filename.cpp">
 
     // Eerst importeren we een aantal bibliotheken.
-    #include &lt;Wire.h&gt;       // Basisfuncties communicatie
-    #include &lt;Dwenguino.h&gt;  // Basisfuncties Dwenguino
-    #include &lt;NewPing.h&gt;    // Bibliotheek van de sonarsensor
+    #include <Wire.h>       // Basisfuncties communicatie
+    #include <Dwenguino.h>  // Basisfuncties Dwenguino
+    #include <NewPing.h>    // Bibliotheek van de sonarsensor
 
     // Definities 
     #define TRIGGER_PIN 11
