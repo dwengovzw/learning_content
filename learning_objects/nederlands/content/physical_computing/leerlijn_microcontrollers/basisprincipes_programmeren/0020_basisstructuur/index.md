@@ -28,8 +28,7 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
 
 
 <div class="dwengo-content dwengo-code-simulator">
-<script type="text/plain" class="language-cpp">>
-
+<script type="text/plain" class="language-cpp">
     /*
         ONDERDEEL 1: Het koppelen van bibliotheken.
     */
