@@ -82,6 +82,10 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
 
 
 ## ONDERDEEL 1: Het koppelen van bibliotheken
+
+<script type="text/plain" class="language-cpp">
+#include <Dwenguino.h>
+</script>
  
 Bovenaan je programma koppel je de bibliotheken die je wil gebruiken. Op de Dwenguino zal je standaard altijd de Dwenguino bibliotheek (<code class="language-cpp"><!--#include <Dwenguino.h>--></code>) en de lcd bibliotheek (<code class="language-cpp">#include &lt;LiquidCrystal.h&gt;</code>) koppelen. Zo kan je makkelijk alle basisfunctionaliteiten van de Dwenguino gebruiken. Op de Arduino UNO moet je in principe geen bibliotheken koppelen. Dit bord heeft standaard immers maar een beperkte functionaliteit. 
 
