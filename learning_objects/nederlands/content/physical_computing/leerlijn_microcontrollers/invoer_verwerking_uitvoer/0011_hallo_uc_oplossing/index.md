@@ -32,7 +32,7 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-<code class="language-cpp" data-filename="filename.cpp">
+<code class="language-cpp" data-filename="filename.cpp"><!--
 
     // Eerst importeren we een aantal bibliotheken.
     #include <Wire.h>       // Basisfuncties communicatie
@@ -68,7 +68,7 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
         }
         delay(100);
     }
-
+    -->
 </code>
     </pre>
 </div>
