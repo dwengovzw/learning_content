@@ -54,7 +54,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led gaat pas branden wanneer je een knop indrukt.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
 / constants won't change. They're used here to set pin numbers:
 const int buttonPin = 2;  // the number of the pushbutton pin

@@ -59,7 +59,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: het RGB-led in een kleur naar keuze doen branden.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
 const int PIN_RED   = 5;
 const int PIN_GREEN = 6;

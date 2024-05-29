@@ -56,7 +56,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led laten branden.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
 void setup() {
   // put your setup code here, to run once:

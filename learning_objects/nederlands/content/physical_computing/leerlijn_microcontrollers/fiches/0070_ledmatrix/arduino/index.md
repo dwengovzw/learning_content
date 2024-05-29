@@ -60,7 +60,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
 // 2-dimensional array of row pin numbers:
 const int row[8] = {

@@ -74,7 +74,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: Op het lcd-scherm laten verschijnen of er geluid gedetecteerd wordt.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
 // Arduino's pin connected to OUT pin of the sound sensor
 #define SENSOR_PIN 5

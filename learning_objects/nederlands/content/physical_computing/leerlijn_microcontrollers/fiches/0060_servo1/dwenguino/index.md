@@ -62,7 +62,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: 2 servomotoren bewegen herhaaldelijk op en neer zoals armen die zwaaien.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
     #include <Wire.h>
     #include <Dwenguino.h>

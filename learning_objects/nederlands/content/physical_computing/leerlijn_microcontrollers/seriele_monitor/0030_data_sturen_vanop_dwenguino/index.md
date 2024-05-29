@@ -28,7 +28,7 @@ Hieronder zie je een voorbeeldprogramma die de waarden van een sinusgolf doorstu
 
 <div class="dwengo-content dwengo-code-simulator">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
 
     #include <Wire.h>
     #include <Dwenguino.h>
