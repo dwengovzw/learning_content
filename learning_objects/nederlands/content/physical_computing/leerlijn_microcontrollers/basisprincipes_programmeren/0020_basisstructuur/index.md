@@ -28,7 +28,9 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
 
 
 <div class="dwengo-content dwengo-code-simulator">
-<script type="text/plain" class="language-cpp">
+<pre>
+<code class="language-arduino">
+
     /*
         ONDERDEEL 1: Het koppelen van bibliotheken.
     */
@@ -74,12 +76,13 @@ Om de basisstructuur van een µC-programma uit te leggen, kijken we terug naar o
         }
         delay(100);
     }
-</script>
+</code>
+</pre>
 </div><br>
 
 
 ## ONDERDEEL 1: Het koppelen van bibliotheken
-
+ 
 Bovenaan je programma koppel je de bibliotheken die je wil gebruiken. Op de Dwenguino zal je standaard altijd de Dwenguino bibliotheek (<code class="language-cpp">#include &lt;Dwenguino.h&gt;</code>) en de lcd bibliotheek (<code class="language-cpp">#include &lt;LiquidCrystal.h&gt;</code>) koppelen. Zo kan je makkelijk alle basisfunctionaliteiten van de Dwenguino gebruiken. Op de Arduino UNO moet je in principe geen bibliotheken koppelen. Dit bord heeft standaard immers maar een beperkte functionaliteit. 
 
 Om een bibliotheek te koppelen, gebruik je steeds het <code class="language-cpp">#include</code> commando. Hierna plaats je de naam van de bibliotheek tussen <code class="language-cpp">&lt;</code> en <code class="language-cpp">&gt;</code>. Bijvoorbeeld: <code class="language-cpp">#include &lt;LiquidCrystal.h&gt;</code>.
