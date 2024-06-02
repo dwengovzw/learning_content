@@ -64,6 +64,7 @@ Men noteert:
 
 \\(\lim_{n \to +\infty} u_{n} = +\infty.\\)
 
+![Voorbeeld rekenkundige rij](embed/rr.png "RR")
 
 ## Meetkundige rij
 
@@ -71,6 +72,8 @@ Beschouw de rij \\(u\\): \\(u = -3, 6, -12, 24, -48, 96, ...\\)<br>
 De rij is gegeven door **opsomming** van de eerste zes **termen** van de rij.<br> De eerste term is \\(-3\\) en door telkens te vermenigvuldigen met de *reden* \\(-2\\), worden de volgende termen bekomen. Zo'n rij wordt een **meetkundige rij** genoemd.
 
 Wanneer je de termen van de rij verder aanvult, merk je dat de termen van de rij afwisselend positief en negatief zijn en steeds groter worden in absolute waarde. In absolute waarde naderen de termen van de rij naar \\(+\infty\\).  Omdat de rij **schommelt**, is het onmogelijk om te bepalen of de termen van de rij naar \\(+\infty\\) of naar \\(-\infty\\) naderen. De **limiet** van deze rij bestaat niet. De rij is **divergent**.
+
+![Voorbeeld meetkundige rij](embed/schommelendemr.png "MR")
 
 ## Recursief voorschrift
 
