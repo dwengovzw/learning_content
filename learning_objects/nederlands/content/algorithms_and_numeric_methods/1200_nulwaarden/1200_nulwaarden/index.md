@@ -43,7 +43,7 @@ Kies een punt \\(A\\) en een punt \\(B\\) op de grafiek van \\(f\\) aan weerszij
 
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/9aab0afb-121a-4018-ba34-fa92eff9c974)
 
-Bepaal het midden \\(m_{1}\\) van \\([a, b]\\). Het punt \\(M_{1}\\) (\\(m_{1}\\),\\(f(m_{1}\\)) zal dichter bij het snijpunt met de x-as liggen dan \\(A\\) of \\(B\\).<br>
+Bepaal het midden \\(m_{1}\\) van \\([a, b]\\). Het punt \\(M_{1}\\) (\\(m_{1}\\), \\(f(m_{1})\\)) zal dichter bij het snijpunt met de x-as liggen dan \\(A\\) of \\(B\\).<br>
 Door steeds dezelfde techniek toe te passen, wordt het nulpunt dichter en dichter benaderd.
 
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/0723a76e-416d-4114-975b-5bc5692ed64f)
