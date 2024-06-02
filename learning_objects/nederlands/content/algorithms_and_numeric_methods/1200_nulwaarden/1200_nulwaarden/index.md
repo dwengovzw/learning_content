@@ -36,7 +36,7 @@ teacher_exclusive: true
 
 Een nulwaarde van een functie f is een element a uit het domein van f waarvoor f(a) = 0. 
 
-Halveringsmethode: door steeds dezelfde techniek toe te passen, wordt het ulpunt dichter en dichter benaderd.
+Halveringsmethode: door steeds dezelfde techniek toe te passen, wordt het nulpunt dichter en dichter benaderd.
 
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/9aab0afb-121a-4018-ba34-fa92eff9c974)
 
