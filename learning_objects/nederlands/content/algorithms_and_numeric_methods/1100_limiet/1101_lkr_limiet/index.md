@@ -37,9 +37,8 @@ Om in Python met een rij aan de slag te gaan, is het datatype `list` (lijst) ges
 
 ## Limiet van een rij
 
-<div class="alert alert-box alert-success">
 Een rij waarvan de termen naderen naar \\(+\infty\\), is <b>divergent</b>; de limiet van de rij is \\(+\infty\\).<br>Een rij waarvan de termen naderen naar \\(-\infty\\), is <b>divergent</b>; de limiet van de rij is \\(-\infty\\).<br> Er zijn ook rijen die naar een bepaald getal naderen; zo'n rij is <b>convergent</b>; de limiet van de rij is dat getal.<br> Rijen die noch naar \\(+\infty\\) of \\(-\infty\\), noch naar een bepaald getal naderen, zijn ook <b>divergent</b>; van deze rijen zegt men dat de limiet niet bestaat.  
-</div>
+
 
 ## Rekenkundige rij
 
