@@ -42,7 +42,7 @@ Een rij waarvan de termen naderen naar \\(+\infty\\), is <b>divergent</b>; de li
 ## Rekenkundige rij
 
 Beschouw de rij \\(u\\): \\(u = 2, 6, 10, 14, 18, 22, ...\\)<br>
-De rij is gegeven door opsomming van de eerste zes **termen** van de rij.<br> De eerste term is \\(2\\) en door er telkens het *verschil* \\(4\\) bij op te tellen, worden de volgende termen bekomen. Zo'n rij wordt een **rekenkundige rij** genoemd. <br>
+De rij is gegeven door **opsomming** van de eerste zes **termen** van de rij.<br> De eerste term is \\(2\\) en door er telkens het *verschil* \\(4\\) bij op te tellen, worden de volgende termen bekomen. Zo'n rij wordt een **rekenkundige rij** genoemd. <br>
 Elke term van de rij heeft een **index**. Zo is bijvoorbeeld \\(u_{0} = 2, u_{1} = 6\\), en \\(u_{3} =14\\).
 
 Je kan de termen van de rij verder aanvullen.<br>
@@ -53,7 +53,7 @@ Men zegt dat de rij *divergeert* of **divergent** is.
 
 Je kan de rij \\(u\\) ook definiëren a.d.h.v. een **expliciet voorschrift**: 
 
-\\(u_{n} = 2 + n \cdot 4 \;\; \text{met} \;\; n \in 	\mathbb{N}.\\)
+\\(u_{n} = 2 + n \cdot 4 \\) met \\(n \in 	\mathbb{N}.\\)
 
 
 De term \\(u_{n}\\) wordt **de algemene term** van de rij genoemd.
@@ -67,15 +67,15 @@ Men noteert:
 ## Meetkundige rij
 
 Beschouw de rij \\(u\\): \\(u = -3, 6, -12, 24, -48, 96, ...\\)<br>
-De rij is gegeven door opsomming van de eerste zes **termen** van de rij.<br> De eerste term is \\(-3\\) en door telkens te vermenigvuldigen met de *reden* \\(-2\\), worden de volgende termen bekomen. Zo'n rij wordt een **meetkundige rij** genoemd.
+De rij is gegeven door **opsomming** van de eerste zes **termen** van de rij.<br> De eerste term is \\(-3\\) en door telkens te vermenigvuldigen met de *reden* \\(-2\\), worden de volgende termen bekomen. Zo'n rij wordt een **meetkundige rij** genoemd.
 
 Wanneer je de termen van de rij verder aanvult, merk je dat de termen van de rij afwisselend positief en negatief zijn en steeds groter worden in absolute waarde. In absolute waarde naderen de termen van de rij naar \\(+\infty\\).  Omdat de rij **schommelt**, is het onmogelijk om te bepalen of de termen van de rij naar \\(+\infty\\) of naar \\(-\infty\\) naderen. De **limiet** van deze rij bestaat niet. De rij is **divergent**.
 
 ## Recursief voorschrift
 
-In de plaats van een expliciet voorschrift zou je voor het definiëren van een rekenkundige of meetkundige rij ook een **recursief voorschrift** kunnen gebruiken:<br> De rekenkundige rij $u$ waarvoor \\(u_{n} = 2 + n \cdot 4 \; (\text{met} \;\; n \in \mathbb{N})\\) kan je ook als volgt definiëren: 
+In de plaats van een expliciet voorschrift zou je voor het definiëren van een rekenkundige of meetkundige rij ook een **recursief voorschrift** kunnen gebruiken:<br> De rekenkundige rij \\(u\\) waarvoor \\(u_{n} = 2 + n \cdot 4 \\) (met \\(n \in \mathbb{N}\\)) kan je ook als volgt definiëren: 
 
-\\(u_{0} = 2  \;\; \text{en} \;\; u_{n} = u_{n-1} + 4 \;\; \text{met} \;\; n \in \mathbb{N} \textbackslash \{0\}.\\)
+\\(u_{0} = 2  \\) en \\(u_{n} = u_{n-1} + 4 \\) met \\(n \in \mathbb{N}_{0}\\).
 
 
 -----
