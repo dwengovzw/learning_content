@@ -34,17 +34,19 @@ teacher_exclusive: true
 
 ### Decompositie
 - Het gegeven schema op een digitale manier voorstellen om aan de computer te geven.
-- De tenten moeten kunnen worden geteld.
+- De tenten moeten geteld kunnen worden.
 - Het schema bevat uiteindelijk drie soorten velden: velden met een boom, velden met een tent, en velden dieleeg blijven.
-- Tijdens het oplossen van de puzzel moet er een onderscheid zijn tussen de velden waarvan nog nietgeweten is wat er komt en de velden die leeg zullen blijven.
-- Het oplossen zal iteratief gebeuren: telkens zal moeten nagegaan worden of er velden zijn waarvan zeker isdat ze leeg zullen blijven, of bepaalde rijen of kolommen al het gevraagde aantal tenten hebben.
+- Tijdens het oplossen van de puzzel moet er een onderscheid zijn tussen de velden waarvan nog niet geweten is wat er komt en de velden die leeg zullen blijven.
+- Het oplossen zal iteratief gebeuren: telkens zal moeten nagegaan worden of er velden zijn waarvan zeker is dat ze leeg zullen blijven, en of bepaalde rijen of kolommen al het gevraagde aantal tenten hebben.
+- In deze velden komt zeker geen tent: de velden die niet onder, boven of naast een boom liggen en de velden die raken aan een tentveld.
+- In deze velden komt zeker geen tent: de nog niet ingevulde velden van een rij of kolom waarin reeds het vereiste aantal tenten staan.
 
 ### Abstractie
 - Het schema voorstellen m.b.v. een matrix.
 - Elk veld in het schema komt overeen met een element in de matrix en wordt bepaald door zijn indices(overeenkomstig de rij en de kolom).
 - Voor het gegeven schema wordt de volgende representatie gebruikt: in de matrix staat er op de plaats vande bomen het getal 100, op de lege plaatsen een 0.
 - Als de puzzel opgelost is, zal de matrix drie verschillende elementen bevatten.
-- Als de puzzel opgelost is, dan staat er op de plaats van de bomen een 100, op de plaats van de tenten een1, en op de plaatsen waar er niets staat een 10.
+- Als de puzzel opgelost is, dan staat er op de plaats van de bomen een 100, op de plaats van de tenten een 1, en op de plaatsen waar er niets staat een 10.
 - Als de puzzel opgelost is, dan staat er geen 0 meer in de matrix.
 - Een functie schrijven voor code die herhaald wordt.
 
@@ -53,9 +55,9 @@ teacher_exclusive: true
 - Wees bij het opstellen van de code alert voor code die herhaald wordt.
 
 ### Algoritme
-1. In zo'n veld komt zeker geen tent: ofwel niet onder, boven of naast een boom.
-2. In zo'n veld komt zeker geen tent: rakend aan een tentveld.
+1. In zo'n veld komt zeker geen tent: een veld niet onder, niet boven of niet naast een boom.
+2. In zo'n veld komt zeker geen tent: een veld rakend aan een tentveld.
 3. In zo'n veld komt zeker geen tent: overblijvende velden in een rij of kolom met reeds het vereiste aantaltenten.
-4. Voor elke rij en voor elke kolom: vergelijk het aantal lege velden en het aantal reeds aanwezige tenten methet vereiste aantal tenten. Zijn er net genoeg plaatsen, vul de tenten in.
+4. Voor elke rij en voor elke kolom: vergelijk het aantal lege velden en het aantal reeds aanwezige tenten met het vereiste aantal tenten. Zijn er net genoeg plaatsen, vul de tenten in.
 5. Herhaal stappen 2, 3 en 4 tot elke rij het juiste aantal tenten bevat.
 6. Gebruik een keuze- of herhalingsstructuur wanneer dat van toepassing is.
