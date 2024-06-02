@@ -44,7 +44,7 @@ Kies een punt \\(A\\) en een punt \\(B\\) op de grafiek van \\(f\\) aan weerszij
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/9aab0afb-121a-4018-ba34-fa92eff9c974)
 
 Bepaal het midden \\(m_{1}\\) van \\([a, b]\\). Het punt \\(M_{1}\\) (\\(m_{1}\\), \\(f(m_{1})\\)) zal dichter bij het snijpunt met de x-as liggen dan \\(A\\) of \\(B\\).<br>
-Door steeds dezelfde techniek toe te passen, wordt het nulpunt dichter en dichter benaderd.
+Door steeds dezelfde techniek toe te passen, wordt de nulwaarde dichter en dichter benaderd.
 
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/0723a76e-416d-4114-975b-5bc5692ed64f)
 
@@ -52,6 +52,6 @@ Door steeds dezelfde techniek toe te passen, wordt het nulpunt dichter en dichte
 
 Kies een punt \\(A\\) op de grafiek van \\(f\\). Beschouw het snijpunt \\(S(s, 0)\\) van de raaklijn in \\(A\\) aan de grafiek van \\(f\\) met de x-as. <br>
 Het punt \\(A'(s, f(s))\\) ligt dan dichter bij het snijpunt met de xa-s dan \\(A\\).<br>
-Door steeds dezelfde techniek toe te passen, wordt het nulpunt dichter en dichter benaderd.
+Door steeds dezelfde techniek toe te passen, wordt de nulwaarde dichter en dichter benaderd.
 
 ![newton](https://github.com/dwengovzw/learning_content/assets/48352335/28aedc24-5f27-403c-a64c-15ad3f28da68)
