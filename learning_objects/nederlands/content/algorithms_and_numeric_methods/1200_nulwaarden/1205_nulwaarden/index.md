@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Oefeningen bij het numeriek benaderen van nulpunten 
+# Oefeningen bij het numeriek benaderen van nulwaarden 
 
 Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
 
