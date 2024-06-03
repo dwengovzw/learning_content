@@ -34,7 +34,7 @@ teacher_exclusive: true
 
 De afgeleide van \\(f\\) in \\(a\\) is per definitie de richtingscoëfficiënt van de raaklijn in \\(a\\) aan de grafiek van \\(f\\).<br>
 Men noteert de afgeleide van \\(f\\) in \\(a\\) kort als \\(f’(𝑎)\\).
-Dus \\(f’(𝑎) = \\) rico} \\(𝑡\\), met \\(t\\) de raaklijn in het punt \\((a, f(a))\\) aan de grafiek van \\(f\\). 
+Dus \\(f’(𝑎) = \\) rico \\(𝑡\\), met \\(t\\) de raaklijn in het punt \\((a, f(a))\\) aan de grafiek van \\(f\\). 
 
 ![image](https://github.com/dwengovzw/learning_content/assets/48352335/c77daeb7-d16d-48f8-8a01-1d66b997168f)
 
@@ -60,6 +60,6 @@ Gezien de definitie van de afgeleide als limiet van het differentiequotiënt is 
 
 # Afgeleide functie
 
-Als men in elk punt van een functie f de afgeleide bepaalt, dan heeft men een nieuwe functie, nl. de **afgeleide functie** \\(f’\\).  
+Als men in elk punt van een functie f de afgeleide bepaalt, dan bekomt men een nieuwe functie, nl. de **afgeleide functie** \\(f’\\).  
 \\(f’(x)\\) is positief voor een \\(x \\) waarin \\(f\\) stijgt en negatief voor een \\(x\\) waarin \\(f\\) daalt. 
 
