@@ -105,7 +105,7 @@ void loop()
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht: gegevens ontvangen op de computer</h2>
 <div class="content">
-Hierboven staat het programma dat je nodig hebt om de afstand te meten en deze door te sturen naar de computer. Bekijk op (dwengo.org/physical_computing/)[dwengo.org/physical_computing/] de leerpaden over de seriële monitor en Bluetooth communicatie. Gebruik de informatie die je daar kan vinden om de verstuurde gegevens te ontvangen op de computer. Schrijf deze gegevens weg naar een .csv bestand waarin elke meting op een andere lijn komt. Hieronder zie je een voorbeeld van hoe zo'n bestand er moet uitzien.
+Hierboven staat het programma dat je nodig hebt om de afstand te meten en deze door te sturen naar de computer. Bekijk op [dwengo.org/physical_computing/](dwengo.org/physical_computing/) de leerpaden over de seriële monitor en Bluetooth communicatie. Gebruik de informatie die je daar kan vinden om de verstuurde gegevens te ontvangen op de computer. Schrijf deze gegevens weg naar een .csv bestand waarin elke meting op een andere lijn komt. Hieronder zie je een voorbeeld van hoe zo'n bestand er moet uitzien.
 
 <pre class="lang-csv">
 <code>
