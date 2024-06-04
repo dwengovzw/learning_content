@@ -80,7 +80,7 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
         Druk de gemeten afstand af op het scherm.
         */   
         dwenguinoLCD.setCursor(0,0);
-        dwenguinoLCD.print(String("afstand: ") + String(afstand + String("cm")));
+        dwenguinoLCD.print("afstand: " + String(afstand) + "cm");
 
         /*
         Stuur de gegevens over een seriële verbinding naar de computer.
@@ -101,7 +101,7 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht: gegevens ontvangen op de computer</h2>
 <div class="content">
-Hierboven staat het programma dat je nodig hebt om de afstand te meten en deze door te sturen naar de computer. Bekijk op [dwengo.org/physical_computing/](dwengo.org/physical_computing/) de leerpaden over de seriële monitor en Bluetooth communicatie. Gebruik de informatie die je daar kan vinden om de verstuurde gegevens te ontvangen op de computer. Schrijf deze gegevens weg naar een .csv bestand waarin elke meting op een andere lijn komt. Hieronder zie je een voorbeeld van hoe zo'n bestand er moet uitzien.
+Hierboven staat het programma dat je nodig hebt om de afstand te meten en deze door te sturen naar de computer. Bekijk op <a href="https://www.dwengo.org/physical_computing">dwengo.org/physical_computing</a> de leerpaden over de seriële monitor en Bluetooth communicatie. Gebruik de informatie die je daar kan vinden om de verstuurde gegevens te ontvangen op de computer. Schrijf deze gegevens weg naar een .csv bestand waarin elke meting op een andere lijn komt. Hieronder zie je een voorbeeld van hoe zo'n bestand er moet uitzien.
 
 <pre class="lang-csv">
 <code>
