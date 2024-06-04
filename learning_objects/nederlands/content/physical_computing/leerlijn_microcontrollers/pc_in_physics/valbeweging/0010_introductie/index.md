@@ -14,7 +14,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-digitale-competenties-en-mediawijsheid',
     'https://w3id.org/onderwijs-vlaanderen/id/vak/fysica',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-algebra-analyse',
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-redeneren',
     'https://w3id.org/onderwijs-vlaanderen/id/vak/toegepaste-fysica',
     'https://w3id.org/onderwijs-vlaanderen/id/vak/informaticawetenschappen'
