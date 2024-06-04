@@ -40,5 +40,8 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
     <li>WD3_06.08.12 De leerlingen voeren bewerkingen uit met matrices: optelling, scalaire vermenigvuldiging, matrixvermenigvuldiging, machtsverheffing en transpositie.</li>
     <li>WD3_06.08.21 De leerlingen leggen het verband tussen de grafiek en het voorschrift van een functie en haar kenmerken.</li>
     <li>WD3_06.08.28 De leerlingen berekenen de afgeleide functie van functies die zijn opgebouwd uit veeltermfuncties, rationale functies, irrationale functies, exponentiële functies, logaritmische functies, goniometrische functies en cyclometrische functies.</li>
+    <li>WD3_06.08.39 De leerlingen analyseren het verband tussen twee numerieke grootheden in een dataset met behulp van een spreidingsdiagram.</li>
+    <li>WD3_07.01.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</li>
+    <li>WD3_07.01.02 De leerlingen gebruiken de meest geschikte algoritmische technieken en hun bijhorende datastructuren om problemen computationeel op te lossen.</li>
 </ul>
 
