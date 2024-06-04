@@ -28,3 +28,6 @@ We zullen gebruik maken van een sonar-sensor om het verloop van een valbeweging 
 
 TODO: afbeelding tafel met aan de rand een sensor.
 
+## De elektronica
+
+Om metingen te kunnen doen, voegen we twee componenten toe aan de Dwenguino. Een Bluetooth module en een sonar sensor. 

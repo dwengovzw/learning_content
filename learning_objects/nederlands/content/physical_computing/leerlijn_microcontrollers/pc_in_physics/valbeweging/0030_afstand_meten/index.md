@@ -31,6 +31,7 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
+
     /*
     Hier importeer de de nodige bibliotheken.
     Deze heb je nodig om de sonar sensor uit te lezen
