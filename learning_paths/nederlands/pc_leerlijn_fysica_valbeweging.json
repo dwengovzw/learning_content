@@ -15,7 +15,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_basis_programmeren_commentaar",
+              "hruid": "org-dwengo-pc-physics-valbeweging-opstelling",
               "version": "1",
               "language": "nl"
             }
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_basis_programmeren_commentaar",
+        "learningobject_hruid": "org-dwengo-pc-physics-valbeweging-opstelling",
         "version": "1",
         "language": "nl",
         "transitions": [

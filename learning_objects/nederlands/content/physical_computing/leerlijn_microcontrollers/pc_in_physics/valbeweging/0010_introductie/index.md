@@ -21,8 +21,8 @@ skos_concepts: [
 
 ]
 copyright: "CC BY dwengo"
-target_ages: [14, 15, 16, 17, 18]
-teacher_exclusive: True
+target_ages: [16, 17, 18]
+teacher_exclusive: False
 ---
 
 # Introductie
