@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "leerlijn_basis_programmeren_delay",
+              "hruid": "org-dwengo-pc-physics-valbeweging-verwerken",
               "version": "1",
               "language": "nl"
             }
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "learningobject_hruid": "leerlijn_basis_programmeren_delay",
+        "learningobject_hruid": "org-dwengo-pc-physics-valbeweging-verwerken",
         "version": "1",
         "language": "nl",
         "transitions": [
