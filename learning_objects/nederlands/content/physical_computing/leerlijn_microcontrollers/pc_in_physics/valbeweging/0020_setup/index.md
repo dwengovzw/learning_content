@@ -2,7 +2,7 @@
 hruid: org-dwengo-pc-physics-valbeweging-opstelling
 version: 1
 language: nl
-title: "Introductie"
+title: "De opstelling"
 description: "Gebruik de Dwenguino in de les fysica!"
 keywords: ["Fysica", "Dataverzameling", "Dataverwerking", "valbeweging"]
 content_type: "text/markdown"
