@@ -49,7 +49,7 @@ Het Salamis telbord (uit 300 voor Christus) is een voorbeeld van een hulpmiddel 
 
 Later bedacht men ook nog hulpmiddelen zoals de rekenliniaal en logaritmetafels. De eerste rekentoestellen waren er pas in de 17e eeuw, en die konden eigenlijk enkel optellen en aftrekken. 
 
-In de 17de eeuw bouwde Blaise Pascal een **rekentoestel** om op te tellen en af te trekken (het zou nog tot de eerste helft van de 20ste eeuw duren dat er rekentoestellen op de markt kwamen die in staat waren om op te tellen, af te trekken, te vermenigvuldigen en te delen). Gottfried Wilhelm Leibniz verbeterde het toestel van Pascal zodat er toch vermenigvuldigd kon worden door een zelfde optelling een juist aantal keer te herhalen (Denning & Tedre, 2019; Riley & Hunt, 2014). 
+In de 17de eeuw bouwde Blaise Pascal een **rekentoestel** om op te tellen en af te trekken (het zou nog tot de eerste helft van de 20ste eeuw duren tot er rekentoestellen op de markt kwamen die in staat waren om op te tellen, af te trekken, te vermenigvuldigen en te delen). Gottfried Wilhelm Leibniz verbeterde het toestel van Pascal zodat er toch vermenigvuldigd kon worden door eenzelfde optelling een juist aantal keer te herhalen (Denning & Tedre, 2019; Riley & Hunt, 2014). 
 
 > De Pascaline was een mechanisch rekentoestel dat niet geprogrammeerd kon worden. De eerste machine die geprogrammeerd kon worden, was een 19de-eeuws weefgetouw (Riley & Hunt, 2014). 
 
