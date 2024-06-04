@@ -30,7 +30,7 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-<code class="language-cpp" data-filename="filename.cpp">
+<code class="language-cpp" data-filename="afstand_meten.cpp">
 
     /*
     Hier importeer de de nodige bibliotheken.
@@ -122,5 +122,11 @@ tijd (ms);afstand (ms)
 </pre>
 
 </div>
+</div>
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht: meet de valbeweging</h2>
+<div class="content">
+Meet nu het verloop van de valbeweging door gegevens te verzamelen over de afstand terwijl je een object onder de sensor naar beneden laat vallen. 
 </div>
 
