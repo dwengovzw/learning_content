@@ -28,12 +28,6 @@ Om de data van de val te capteren, moeten we de microcontroller programmeren om 
 
 Hieronder zie je de code die je nodig hebt om de data te capteren. In de commentaar is uitleg voorzien over waarvoor de verschillende onderdelen van het programma dienen.
 
-<pre>
-    <code class="language-cpp">
-
-    </code>
-</pre>
-
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
         <code class="language-cpp" data-filename="filename.cpp">
