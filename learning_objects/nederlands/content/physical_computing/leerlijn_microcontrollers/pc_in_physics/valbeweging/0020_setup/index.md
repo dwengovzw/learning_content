@@ -32,8 +32,8 @@ TODO: afbeelding tafel met aan de rand een sensor.
 
 Om metingen te kunnen doen, voegen we twee componenten toe aan de Dwenguino. Een Bluetooth module en een sonar sensor. De Bluetooth module kan je aansluiten op de UART connector bovenaan de Dwenguino (zie onderstaande afbeelding). Zorg dat de pinnen op de module overeen komen met de pinnen op het Dwenguino bord.
 
-!["Render van een Dwenguino waarop bovenaan een bluetooth module is aangesloten."](./images/dwenguino_bt.PNG)
+!["Render van een Dwenguino waarop bovenaan een bluetooth module is aangesloten."](images/dwenguino_bt.PNG)
 
 De sonar-sensor kan je via het breadboard verbinden met de correcte pinnen van de Dwenguino. Op het onderstaande schema kan je zien hoe je dat moet doen.
 
-!["Voorbeeld van de aansluiting op pin 11 en 12 van de Dwenguino"](./images/connection.svg)
+!["Voorbeeld van de aansluiting op pin 11 en 12 van de Dwenguino"](images/connection.svg)
