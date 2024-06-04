@@ -30,69 +30,70 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="language-cpp" data-filename="filename.cpp">
-/*
-  Hier importeer de de nodige bibliotheken.
-  Deze heb je nodig om de sonar sensor uit te lezen
-  en om gegevens naar het lcd-scherm te schrijven.
-*/
-#include <Wire.h>
-#include <Dwenguino.h>
-#include <LiquidCrystal.h>
-#include <NewPing.h>
-
-/*
-  In dit voorbeeld is de sensor verbonden met pinnen 11 en 12 van de Dwenguino.
-*/
-#define TRIGGER_PIN_11 11
-#define ECHO_PIN_12 12
-
-/*
-  De maximale afstand die we zullen meten is 200cm.
-*/
-#define MAX_DISTANCE 200
-
-/*
-  Maak een sonar sensor object aan.
-*/
-NewPing sonar1112(TRIGGER_PIN_11, ECHO_PIN_12, MAX_DISTANCE);
-
-int afstand;
-
-void setup()
-{
-  initDwenguino();      // Initialiseer de functies op het Dwenguino bord.
-  Serial1.begin(9600);  // Initialiseer de seriële verbinding met snelheid 9600 bps.
-}
-
-void loop()
-{
+<code class="language-cpp" data-filename="filename.cpp">
     /*
-      De ping() functie van het sonar object geeft de tijd dat een geluidspuls onder
-      weg is vanaf de sensor naar het object en terug.
-      We gebruiken deze functie en niet de ping_cm() functie omdat deze ons 
-      nauwkeurigere waarden zal geven. 
+    Hier importeer de de nodige bibliotheken.
+    Deze heb je nodig om de sonar sensor uit te lezen
+    en om gegevens naar het lcd-scherm te schrijven.
     */
-    afstand = sonar1112.ping();  
+    #include <Wire.h>
+    #include <Dwenguino.h>
+    #include <LiquidCrystal.h>
+    #include <NewPing.h>
 
     /*
-      Druk de gemeten afstand af op het scherm.
-    */   
-    dwenguinoLCD.setCursor(0,0);
-    dwenguinoLCD.print(String("afstand: ") + String(afstand + String(String("cm"))));
-
-    /*
-      Stuur de gegevens over een seriële verbinding naar de computer.
-      Hier maken we gebruik van Serial1. Dit is de BlueTooth verbinding van 
-      de Dwenguino. Wil je gegevens versturen via de usb kabel, gebruik dan Serial ipv. Serial1
-      We sturen het huidige tijdstip en de gemeten afstand door in csv formaat.
-      Dat wil zeggen dat we de waarde scheiden door een ;
+    In dit voorbeeld is de sensor verbonden met pinnen 11 en 12 van de Dwenguino.
     */
-    Serial1.print(millis());
-    Serial1.print(";");
-    Serial1.println(afstand); 
-}
-        </code>
+    #define TRIGGER_PIN_11 11
+    #define ECHO_PIN_12 12
+
+    /*
+    De maximale afstand die we zullen meten is 200cm.
+    */
+    #define MAX_DISTANCE 200
+
+    /*
+    Maak een sonar sensor object aan.
+    */
+    NewPing sonar1112(TRIGGER_PIN_11, ECHO_PIN_12, MAX_DISTANCE);
+
+    int afstand;
+
+    void setup()
+    {
+    initDwenguino();     // Initialiseer de functies op het Dwenguino bord.
+    Serial1.begin(9600); // Start de seriële verbinding met snelheid 9600 bps.
+    }
+
+    void loop()
+    {
+        /*
+        De ping() functie van het sonar object geeft de tijd dat een geluidspuls 
+        onderweg is vanaf de sensor naar het object en terug.
+        We gebruiken deze functie en niet de ping_cm() functie omdat deze ons 
+        nauwkeurigere waarden zal geven. 
+        */
+        afstand = sonar1112.ping();  
+
+        /*
+        Druk de gemeten afstand af op het scherm.
+        */   
+        dwenguinoLCD.setCursor(0,0);
+        dwenguinoLCD.print(String("afstand: ") + String(afstand + String("cm")));
+
+        /*
+        Stuur de gegevens over een seriële verbinding naar de computer.
+        Hier maken we gebruik van Serial1. Dit is de BlueTooth verbinding van 
+        de Dwenguino. Wil je gegevens versturen via de usb kabel, gebruik dan 
+        Serial in plaats van Serial1.
+        We sturen het huidige tijdstip en de gemeten afstand door in csv formaat.
+        Dat wil zeggen dat we de waarde scheiden door een ;
+        */
+        Serial1.print(millis());
+        Serial1.print(";");
+        Serial1.println(afstand); 
+    }
+</code>
     </pre>
 </div>
 
