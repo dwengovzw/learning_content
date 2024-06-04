@@ -12,12 +12,9 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
     'http://ilearn.ilabt.imec.be/vocab/tref1/ict',
     'http://ilearn.ilabt.imec.be/vocab/curr1/c-digitale-competenties-en-mediawijsheid',
-    'http://w3id.org/onderwijs-vlaanderen/id/vak/fysica',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-algebra-analyse',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-redeneren',
-    'http://w3id.org/onderwijs-vlaanderen/id/vak/toegepaste-fysica',
-    'http://w3id.org/onderwijs-vlaanderen/id/vak/informaticawetenschappen'
 
 ]
 copyright: "CC BY dwengo"
