@@ -66,7 +66,7 @@ Ook interrupts zijn in de kennisclips al behandeld. Lees zeker de relevante dele
             <ul>
                 <li>Het <strong>SREG</strong> register (Status REGister) bevat het globale interrupt enable bit (zie datasheet p.13).</li>
                 <li>Het <strong>EIMSK</strong> register (External Interrupt MaSK) kan je gebruiken om de interrupt enable bits in te stellen.</li>
-                <li>* Het <strong>EICRB</strong> register (External Interrupt Control Register B) gebruik je om te configureren of de interrupt voorkomt bij een rising of falling edge. (Kies voor falling edge, de knop schakelt immers van 1 naar 0 als je hem indrukt)</li>
+                <li>Het <strong>EICRB</strong> register (External Interrupt Control Register B) gebruik je om te configureren of de interrupt voorkomt bij een rising of falling edge. (Kies voor falling edge, de knop schakelt immers van 1 naar 0 als je hem indrukt)</li>
             </ul>
         </p>
         <p>
@@ -100,7 +100,7 @@ Ook interrupts zijn in de kennisclips al behandeld. Lees zeker de relevante dele
     <h2 class="title">Waarom ook al weer een interrupts?</h2>
     <div class="content">
         <p>
-            Door een interrupt te gebruiken om het indrukken van de knop af te handelen zal het interval zeer exact gemeten kunnen worden én is het timen van de reactietijd volledig onafhankelijk geworden van de code die in de main functie wordt uitgevoerd. Zo kunnen we nu bijvoorbeeld ondertussen op de onderste rij van het LCD een animatie afspelen of andere operaties uitvoeren.
+            Door een interrupt te gebruiken om het indrukken van de knop af te handelen zal het interval zeer exact gemeten kunnen worden én is het timen van de reactietijd volledig onafhankelijk geworden van de code die in de main functie wordt uitgevoerd. Zo kunnen we nu bijvoorbeeld ondertussen op de onderste rij van het lcd een animatie afspelen of andere operaties uitvoeren.
         </p>
     </div>
 </div>

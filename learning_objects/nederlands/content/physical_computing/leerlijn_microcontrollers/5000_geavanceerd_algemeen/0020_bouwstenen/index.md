@@ -43,12 +43,6 @@ Op dit moment is het voldoende om te beseffen dat je in dit project code zal sch
 De microcontroller die je zal gebruiken, de AT90USB646, kan tot 16 miljoen instructies per seconde (MIPS) uitvoeren en is voorzien van 64 KB programmageheugen en 4 KB datageheugen.<br>
 De microcontroller heeft bovendien een 8-bit architectuur, wat impliceert dat de registers en bus 8 bit breed zijn. Bij het schrijven van code hou je dit best in gedachten en gebruik je waar mogelijk 8-bit datatypes. 
 
-<div class="alert alert-box alert-success">
-Het optellen van twee 8-bit getallen kan in één kloktik gebeuren, terwijl het optellen van twee floating point getallen meer dan 100 kloktikken in beslag neemt! <br><br>
-
-Aan jullie de uitdaging om deze beperkte computerkracht efficiënt te benutten.
-</div>
-
 <div class="dwengo-content sideinfo">
     <h2 class="title">Wist je dat?</h2>
     <div class="content">

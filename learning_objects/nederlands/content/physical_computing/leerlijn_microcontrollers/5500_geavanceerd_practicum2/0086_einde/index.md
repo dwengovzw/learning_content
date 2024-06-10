@@ -37,7 +37,7 @@ Hiermee zijn we ook aan het einde gekomen van dit practicum. We hebben nu een sy
 
 * Zeer precieze wachttijden voor de stimulus kan uitvoeren
 * Zeer precies de reactietijd kan uitmeten
-* Ondertussen tijd heeft voor het uitvoeren van trage en/of minder kritische code zoals het aansturen van het LCD scherm.
+* Ondertussen tijd heeft voor het uitvoeren van trage en/of minder kritische code zoals het aansturen van het lcd scherm.
 
 Dit wordt mogelijk gemaakt door
 

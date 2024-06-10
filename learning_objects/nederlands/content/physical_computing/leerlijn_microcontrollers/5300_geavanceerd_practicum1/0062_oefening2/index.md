@@ -53,12 +53,6 @@ Bij het indrukken/loslaten van een drukknop wordt er een elektrische connectie g
 
 Dit probleem oplossen wordt "de knop debouncen" genoemd, en kan je doen door in je code te wachten nadat je hebt ingelezen dat de knop van toestand is gewisseld. Om even te wachten in code, kan je gebruik maken van de de _delay_ms(int) functie:
 
-<div class="highlight highlight-source-c">
-<pre>#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>util/delay.h<span class="pl-pds">&gt;</span></span> <span class="pl-c"><span class="pl-c">//</span> Include deze header wanneer je delays gebruikt.</span>
-
-<span class="pl-en">_delay_ms</span>(<span class="pl-c1">50</span>);  <span class="pl-c"><span class="pl-c">//</span> De microcontroller zal nu 50 ms geen nuttige instructies uitvoeren.</span></pre>
-</div>
-
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">

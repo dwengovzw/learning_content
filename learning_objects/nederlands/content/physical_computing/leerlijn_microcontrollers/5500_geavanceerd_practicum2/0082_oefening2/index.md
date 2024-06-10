@@ -47,8 +47,48 @@ In deze oefening maken we een eenvoudige eerste versie van ons meetsysteem. Hier
 
 Onderstaande pseudo-code in Python stijl geeft dit iets gestructureerder weer:
 
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+<code class="language-cpp" data-filename="filename.cpp">
+        initialise the LCD and configure the microcontroller
+            
+            while(True):
+                print UI to the top row of the LCD:
+                "T=<latest-time in ms>;Ta=<average-time in ms>;N=<#measurements>"
+                
+                print "Press W to start" to the bottom row.
+
+            # wait for a W button press to start a new experiment
+            while(True):
+                if (W button pressed):
+                    break
+                    sleep for 1ms
+
+            # start  the stimulus countdown
+            clear the LCD
+            print "LEDs -> Press C" to the top row
+            wait for 2s
+
+            # apply stimulus
+            turn on the LEDs
+
+            # start counting and check for button press
+            counter = 0
+
+            while(True):
+                counter += 1
+                if (C button pressed):
+                    Turn off LEDs
+                    break
+                    sleep for 1ms
+
+            update metric for the UI
+</code>
+    </pre>
+</div>
+
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 1</h2>
+    <h2 class="title">Opdracht 2.1</h2>
     <div class="content">
 <p>
             initialise the LCD and configure the microcontroller
