@@ -1,5 +1,5 @@
 ---
-hruid: org-dwengo-pc-bus-protocollen-introductie-soorten
+hruid: org-dwengo-pc-bus-protocollen-standaarden
 version: 1
 language: nl
 title: "Introductie"
@@ -22,3 +22,6 @@ target_ages: [16, 17, 18]
 teacher_exclusive: False
 ---
 
+# Standaarden
+
+Omdat er verschillende manieren mogelijk zijn om apparaten die op een bus aangesloten zijn te laten communiceren, is het nodig om goed af te spreken hoe die communicatie moet verlopen. Zo'n afgesproken manier van communiceren noemen we een *standaard*. Verschillende producenten van digitale elektronica gebruiken deze standaarden zodat de apparaten die ze produceren met elkaar kunnen spreken. In dit leerpad besrpeken we drie veelgebruikte standaarden voor bus communicatie. Dat zijn *I²C*, *SPI* en *CAN*. De eerste twee zijn vooral populair in de digitale elektronica. De laatste wordt vooral gebruikt in de autoindustrie om ervoor te zorgen dat de verschillende digitale systemen in de auto op een betrouwbare manier met elkaar kunnen communiceren.
