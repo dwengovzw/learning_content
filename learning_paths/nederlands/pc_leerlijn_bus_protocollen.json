@@ -15,7 +15,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-physics-valbeweging-opstelling",
+              "hruid": "org-dwengo-pc-bus-protocollen-definitie",
               "version": "1",
               "language": "nl"
             }
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-physics-valbeweging-opstelling",
+        "learningobject_hruid": "org-dwengo-pc-bus-protocollen-definitie",
         "version": "1",
         "language": "nl",
         "transitions": [
