@@ -2,7 +2,7 @@
 hruid: org-dwengo-pc-bus-protocollen-introductie-i2c
 version: 1
 language: nl
-title: "Introductie"
+title: "I²C"
 description: "Wat zijn bus protocollen en waarvoor dienen ze?"
 keywords: ["dwenguino", "microcontroller", "bus", "communicatie", "i2c", "spi", "uart", "can"]
 content_type: "text/markdown"
