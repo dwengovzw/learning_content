@@ -2,7 +2,7 @@
 hruid: org-dwengo-pc-bus-protocollen-standaarden
 version: 1
 language: nl
-title: "Introductie"
+title: "Standaarden"
 description: "Wat zijn bus protocollen en waarvoor dienen ze?"
 keywords: ["dwenguino", "microcontroller", "bus", "communicatie", "i2c", "spi", "uart", "can"]
 content_type: "text/markdown"
