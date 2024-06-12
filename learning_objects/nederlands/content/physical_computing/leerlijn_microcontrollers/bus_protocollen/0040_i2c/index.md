@@ -38,7 +38,7 @@ Op de Dwenguino zijn standaard twee pinnnen voorzien met de nodige logica om geg
 
 ## Werking
 
-Het apparaat dat de controle heeft over de bus (de master), is deze verantwoordelijk om de communicatie met een van de randapparaten (slaves) te starten. 
+Het apparaat dat de controle heeft over de bus (de master), is deze verantwoordelijk om de communicatie met een van de randapparaten (slaves) te starten. Hieronder zie je een voorbeeld van het verloop van de communicatie tussen master en slave wanneer de master een waarde wil schrijven in een register van de slave. Je leest de tabel van links naar rechts. Elke kolom stelt een transmissie op de bus voor en zal ofwel door de master ofwel door de slave verstuurd worden.
 
 <table>
     <tr>
@@ -64,6 +64,17 @@ Het apparaat dat de controle heeft over de bus (de master), is deze verantwoorde
         <td></td>
     </tr>
 </table>
+
+Elke transmissie in de tabel komt overeen met een specifiek signaal op de <code class="lang-cpp">SDA</code> en <code class="lang-cpp">SCL</code> lijnen. Hieronder lees je een korte beschrijving van deze transmissies.
+
+* **START**: De start conditie geeft aan dat er een I²C transmissie zal starten. Om dit duidelijk te maken zal de master de <code class="lang-cpp">SDA</code> en <code class="lang-cpp">SCL</code> hoog zetten en daarna de <code class="lang-cpp">SDA</code> lijn terug laag brengen. Deze overgang van de <code class="lang-cpp">SDA</code> lijn maakt aan de apparaten op de bus duidelijk dat er een transmissie gestart is.
+* **ADRES + SCHRIJF_BIT**: De volgende transmissie komt ook van de master. Deze zal het adres van de slave die hij wil aanspreken op de bus plaatsen. Dit adres bestaat uit 7 bits. Aan dat adres wordt nog een achtste bit toegevoegd die aangeeft of de master wil schrijven naar of lezen van de slave. In dit geval wil de master schrijven naar de slave dus is die achtste bit gelijk aan \\(0\\).
+* **ACK**: Dit staat voor acknowledge, het is een signaal van de slave aan de master om te laten weten dat deze de boodschap goed ontvangen heeft. De slave stuurt een acknowledge door de <code class="lang-cpp">SDA</code> lijn hoog te houden voor een volledige duty-cycle van het signaal op de <code class="lang-cpp">SCL</code> lijn (= de tijd van de hoge puls).
+* **REGISTER ADRES**: Dit is het adres van het register op de slave waar de master naar wil schrijven. Bij een temperatuursensor kan dit bijvoorbeeld een register zijn waarin je kan instellen of de temperatuur in Celsius of in Fahrenheit gemeten moet worden.
+* **DATA**: Dit is de data die in het register van de slave geschreven moet worden.
+* **STOP**: De stop conditie geeft aan dat de transmissie voorbij is. De master zal deze genereren door de <code class="lang-cpp">SDA</code> lijn laag te brengen en de <code class="lang-cpp">SCL</code> lijn hoog. En daarna de <code class="lang-cpp">SDA</code> lijn terug hoog te brengen.
+
+
 
 ## Hoe programmeren
 
