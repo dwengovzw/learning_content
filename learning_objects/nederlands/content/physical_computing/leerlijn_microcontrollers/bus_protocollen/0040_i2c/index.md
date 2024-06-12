@@ -110,3 +110,11 @@ void loop()
 </code>
     </pre>
 </div>
+
+
+<div class="dwengo-content sideinfo">
+<h2 class="title">Bibliotheken</h2>
+<div class="content">
+De Wire bibliotheek is basisbibliotheek die je altijd kan gebruiken om met apparaten te communiceren via I²C. Toch moet je de Wire bibliotheek zelf vaak niet gebruiken wanneer je via I²C wil spreken met een sensor. Dit komt omdat veel sensoren een eigen bibliotheek hebben die het makkelijk maakt om de waarde van de sensor te lezen over I²C. De communicatie met de Wire bibliotheek zit dan verborgen in de bibliotheek van de sensor.
+</div>
+</div>
