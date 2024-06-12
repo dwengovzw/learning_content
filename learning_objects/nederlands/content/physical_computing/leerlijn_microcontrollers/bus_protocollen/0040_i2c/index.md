@@ -46,7 +46,7 @@ Het apparaat dat de controle heeft over de bus (de master), is deze verantwoorde
         <td>START</td>
         <td>ADRES + SCHRIJF_BIT</td>
         <td></td>
-        <td>REGISTER_ADRES</td>
+        <td>REGISTER ADRES</td>
         <td></td>
         <td>DATA</td>
         <td></td>
@@ -56,11 +56,11 @@ Het apparaat dat de controle heeft over de bus (de master), is deze verantwoorde
         <th>Slave</th>
         <td></td>
         <td></td>
-        <td>ACKNOWLEDGE</td>
+        <td>ACK</td>
         <td></td>
-        <td>ACKNOWLEDGE</td>
+        <td>ACK</td>
         <td></td>
-        <td>ACKNOWLEDGE</td>
+        <td>ACK</td>
         <td></td>
     </tr>
 </table>
