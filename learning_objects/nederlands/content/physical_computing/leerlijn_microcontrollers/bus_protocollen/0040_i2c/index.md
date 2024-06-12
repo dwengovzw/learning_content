@@ -79,4 +79,34 @@ Elke transmissie in de tabel komt overeen met een specifiek signaal op de <code 
 ## Hoe programmeren
 
 
+Om te communiceren via I²C, kan je gebruik maken van de Wire bibliotheek. Hieronder zie je een codevoorbeeld voor de transmissie die we hierboven in het blokschema uitlegden.
 
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+<code class="language-cpp" data-filename="i2c_schrijf_voorbeeld.cpp">
+
+#include <Wire.h>
+
+#define ADR_WRITE 0b11010000
+#define ADR_REGISTER 0b00011100
+
+void setup()
+{
+  Wire.begin(); // Start de transmissie (START)
+}
+
+byte data = 0b11100011;
+
+void loop()
+{
+  Wire.beginTransmission(ADR_WRITE);    // Stuur naar apparaat met adres 0b1101000
+  Wire.write(ADR_REGISTER);             // Stuur het register adres.
+  Wire.write(data);                     // Stuur de data voor het register.
+  Wire.endTransmission();               // STOP
+
+  delay(500);
+}
+
+</code>
+    </pre>
+</div>
