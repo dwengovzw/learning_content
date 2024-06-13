@@ -60,7 +60,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-physics-valbeweging-leerplandoelen",
+              "hruid": "org-dwengo-pc-bus-protocollen-introductie-spi",
               "version": "1",
               "language": "nl"
             }
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-physics-valbeweging-leerplandoelen",
+        "learningobject_hruid": "org-dwengo-pc-bus-protocollen-introductie-spi",
         "version": "1",
         "language": "nl"
       }
