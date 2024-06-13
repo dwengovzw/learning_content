@@ -63,3 +63,5 @@ Wanneer er maar één master en één slave met elkaar communiceren, zijn er vie
 Op onderstaande afbeelding kan je zien hoe je apparaten via een SPI bus kan verbinden.
 
 ![Een voorbeeld van een SPI schakeling.](images/spi.svg)
+
+Op de Dwenguino kan je de <code class="lang-cpp">MOSI</code> lijn aansluiten op pin <code class="lang-cpp">2</code> van de uitbreidingsconnector, de <code class="lang-cpp">MISO</code> lijn op pin <code class="lang-cpp">12</code> van de uitbreidingsconnector en <code class="lang-cpp">SCLK</code> op pin <code class="lang-cpp">13</code> van de uitbreidingsconnector. De <code class="lang-cpp" style="text-decoration:overline">CS</code> lijnen kan je met gelijk welke digitale pin verbinden. Je zal in je programma dan de juiste slave moeten activeren door de overeenkomstige <code class="lang-cpp" style="text-decoration:overline">CS</code> pin laag te brengen.
