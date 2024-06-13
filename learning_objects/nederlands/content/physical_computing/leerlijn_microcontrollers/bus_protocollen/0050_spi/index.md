@@ -39,10 +39,10 @@ SPI maakt gebruik van minimaal vier draden om informatie uit te wisselen tussen 
 <tr>
 <td><code class="lang-cpp" style="text-decoration:overline">CS</code></td>
 <td>Chip Select</td>
-<td>Vanop de master vertrekt er een *chip select* draad naar elke slave. De master zal het signaal op de draad van de slave waarmee deze wil communiceren naar 0V brengen. Zo weet de slave dat die moet luisteren op de bus.</td>
+<td>Vanop de master vertrekt er een <code class="lang-cpp" style="text-decoration:overline">CS</code> draad naar elke slave. De master zal het signaal op de draad van de slave waarmee deze wil communiceren naar 0V brengen. Zo weet de slave dat die moet luisteren op de bus.</td>
 </tr>
 <tr>
-<td><code class="lang-cpp" style="text-decoration:overline">SCLK</code></td>
+<td><code class="lang-cpp">SCLK</code></td>
 <td>Serial Clock</td>
 <td>De master zal op de <code class="lang-cpp">SCLK</code> lijn een blokgolf sturen. Elke keer dat deze blokgolf van een lage waarde naar een hoge waarde gaat (rising edge) zullen de master en slave de waarde op respectivelijk de <code class="lang-cpp">MISO</code> en <code class="lang-cpp">MOSI</code> lijnen inlezen.</td>
 </tr>
@@ -58,4 +58,8 @@ SPI maakt gebruik van minimaal vier draden om informatie uit te wisselen tussen 
 </tr>
 </table>
 
- <code class="lang-cpp">CS</code> (chip select), 
+Wanneer er maar één master en één slave met elkaar communiceren, zijn er vier draden nodig. Voor elke extra slave op de bus komt er echter een <code class="lang-cpp" style="text-decoration:overline">CS</code> lijn bij. Dit is een van de nadelen van SPI. Het voordeel van SPI is dan weer dat we op hetzelfde moment in twee richtingen data kunnen sturen via de <code class="lang-cpp">MOSI</code> en <code class="lang-cpp">MISO</code> lijnen. Bijgevolg spreken we hier van een **full-duplex** protocol.
+
+Op onderstaande afbeelding kan je zien hoe je apparaten via een SPI bus kan verbinden.
+
+![Een voorbeeld van een SPI schakeling.](images/spi.svg)
