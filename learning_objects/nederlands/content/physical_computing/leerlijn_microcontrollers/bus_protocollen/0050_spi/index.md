@@ -44,7 +44,7 @@ SPI maakt gebruik van minimaal vier draden om informatie uit te wisselen tussen 
 <tr>
 <td><code class="lang-cpp">SCLK</code></td>
 <td>Serial Clock</td>
-<td>De master zal op de <code class="lang-cpp">SCLK</code> lijn een blokgolf sturen. Elke keer dat deze blokgolf van een lage waarde naar een hoge waarde gaat (rising edge) zullen de master en slave de waarde op respectivelijk de <code class="lang-cpp">MISO</code> en <code class="lang-cpp">MOSI</code> lijnen inlezen.</td>
+<td>De master zal op de <code class="lang-cpp">SCLK</code> lijn een blokgolf sturen. Elke keer dat deze blokgolf van een lage waarde naar een hoge waarde gaat (rising edge in mode 0) zullen de master en slave de waarde op respectivelijk de <code class="lang-cpp">MISO</code> en <code class="lang-cpp">MOSI</code> lijnen inlezen.</td>
 </tr>
 <tr>
 <td><code class="lang-cpp">MOSI</code></td>
@@ -65,3 +65,13 @@ Op onderstaande afbeelding kan je zien hoe je apparaten via een SPI bus kan verb
 ![Een voorbeeld van een SPI schakeling.](images/spi.svg)
 
 Op de Dwenguino kan je de <code class="lang-cpp">MOSI</code> lijn aansluiten op pin <code class="lang-cpp">2</code> van de uitbreidingsconnector, de <code class="lang-cpp">MISO</code> lijn op pin <code class="lang-cpp">12</code> van de uitbreidingsconnector en <code class="lang-cpp">SCLK</code> op pin <code class="lang-cpp">13</code> van de uitbreidingsconnector. De <code class="lang-cpp" style="text-decoration:overline">CS</code> lijnen kan je met gelijk welke digitale pin verbinden. Je zal in je programma dan de juiste slave moeten activeren door de overeenkomstige <code class="lang-cpp" style="text-decoration:overline">CS</code> pin laag te brengen.
+
+## Werking
+
+Op de onderstaande figuur zie je een voorbeeld van een timing diagram van de communicatie. Hier worden 7 bits verstuurd. Met is SPI is het mogelijk om **full-duplex** te communiceren. Dat wil zeggen dat er zowel data van de master naar de slave kan gaan als omgekeerd. SPI heeft verschillende modi, deze bepalen onder andere of de data ingelezen wordt op een rising- of falling-edge van de klok. In dit voorbeeld zien we dat de data gelezen wordt op de rising-edge. Op de falling edge wordt de volgende bit op een van de datalijnen gezet.
+
+![Voorbeeld SPI timing diagram](images/spi_timing_diagram.svg)
+
+## Hoe programmeren
+
+Om te communiceren via SPI, kan je gebruik maken van de SPI bibliotheek. 
