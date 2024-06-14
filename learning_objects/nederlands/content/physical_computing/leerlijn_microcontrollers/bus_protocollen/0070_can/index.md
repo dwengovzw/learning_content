@@ -2,7 +2,7 @@
 hruid: org-dwengo-pc-bus-protocollen-introductie-can
 version: 1
 language: nl
-title: "Introductie"
+title: "CAN bus"
 description: "Wat zijn bus protocollen en waarvoor dienen ze?"
 keywords: ["dwenguino", "microcontroller", "bus", "communicatie", "i2c", "spi", "uart", "can"]
 content_type: "text/markdown"
@@ -22,3 +22,4 @@ target_ages: [16, 17, 18]
 teacher_exclusive: False
 ---
 
+# CAN bus
