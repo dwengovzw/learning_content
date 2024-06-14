@@ -74,4 +74,87 @@ Op de onderstaande figuur zie je een voorbeeld van een timing diagram van de com
 
 ## Hoe programmeren
 
-Om te communiceren via SPI, kan je gebruik maken van de SPI bibliotheek. 
+Hieronder zie je een eenvoudig voorbeeld van hoe je vanop de microcontroller gegevens kan sturen en ontvangen naar/van een slave apparaat. De code zal continu valse (dummy) data sturen via SPI. Je zal merken dat er in de code een aantal registers gebruikt worden om de SPI communicatie correct in te stellen. In de tabel onderaan zie je een overzicht van deze registers.
+
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+<code class="language-cpp" data-filename="filename.cpp">
+
+    #include <SPI.h>
+
+    #define MOSI 2
+    #define MISO  12
+    #define SCLK  13
+    #define CS 10
+
+    unsigned char dummy_data[] = {1, 2, 4, 8, 16, 32, 64};
+
+    char stuur_byte(unsigned char byte)
+    {
+        SPDR = byte;                    // Start de transmissie
+        while (!(SPSR & (1<<SPIF)))     // Wacht tot de transmissie klaar is.
+        {};
+
+        return SPDR;                    // Geeft het antwoord op de SPI bus terug.
+    }
+
+    void setup() {
+        // Stel de SPI pinnen correct in.
+        pinMode(MOSI, OUTPUT);
+        pinMode(MISO, INPUT);
+        pinMode(SCLK,OUTPUT);
+        pinMode(CS,OUTPUT);
+
+        // Zet communicatie af door CS hoog te brengen.
+        digitalWrite(CS,HIGH); 
+
+        // Stel de juiste waarden in in het SPI controle register:
+        // SPE: SPI enable.
+        // MSTR: Stel microcontroller in als master.
+        // SPR0 en SPR1: Stellen de klokfrequentie op SCLK in.
+        SPCR = (1<<SPE)|(1<<MSTR)|(1<<SPR0);
+    }
+
+    void loop() {
+        // Stuur dummy data naar de slave.
+        for (unsigned char i = 0 ; i < 7 ; ++i){
+            // Laat de slave weten dat deze data zal ontvangen.
+            digitalWrite(CS, LOW); 
+            // Stuur een data byte.
+            stuur_byte(dummy_data[i]);
+            // Laat de slave weten dat alle data ontvangen is.
+            digitalWrite(CS, HIGH);
+
+            delay(100);
+        }
+    }
+
+
+</code>
+    </pre>
+</div>
+
+<table>
+<tr>
+<th>Afkorting</th>
+<th>Naam</th>
+<th>Beschrijving</th>
+</tr>
+<tr>
+<td><code class="lang-cpp">SPCR</code></td>
+<td>SPI controle register</td>
+<td>In dit register stel je de modus van de SPI bus in. In het voorbeeldprogramma kiezen we om deze als master te gebruiken zonder interrupts en met een specifieke klokfrequentie.</td>
+</tr>
+<tr>
+<td><code class="lang-cpp">SPDR</code></td>
+<td>SPI data register</td>
+<td>In dit register schrijf je de waarde die je op de SPI bus wil schrijven of lees je de waarde die naar jou verstuurd wordt.</td>
+</tr>
+<tr>
+<td><code class="lang-cpp">SPSR</code></td>
+<td>SPI status register</td>
+<td>Dit register bevat informatie over de status van de SPI bus. Je kan er bijvoorbeeld in zien of een transmissie voltooid is.</td>
+</tr>
+</table>
+
+Wil je meer weten over hoe je de SPI bus kan configureren en gebruiken, dan kan je terecht in hoofdstuk 18 van [de datasheet](images/AT90USB646.pdf).
