@@ -29,7 +29,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
             <p class="info_item_content">
-                <img src="img/dwenguino_lcd.png" alt="Een afbeelding van een lcd-scherm." title="Een afbeelding een lcd-scherm."></img>
+                <img src="img/lcdscreen.jpeg" alt="Een afbeelding van een lcd-scherm." title="Een afbeelding een lcd-scherm."></img>
             </p>
         </div>
         <div class="info_item item">

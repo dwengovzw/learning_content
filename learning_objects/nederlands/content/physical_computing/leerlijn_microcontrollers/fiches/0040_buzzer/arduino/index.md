@@ -29,7 +29,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
             <p class="info_item_content">
-                <img src="img/zoemer.png" alt="Een afbeelding van de zoemer." title="Een afbeelding van de zoemer."></img>
+                <img src="img/buzzer.jpeg" alt="Een afbeelding van de zoemer." title="Een afbeelding van de zoemer."></img>
             </p>
         </div>
         <div class="info_item item">
