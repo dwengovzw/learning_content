@@ -31,10 +31,12 @@ In deze leerlijn heb je al kennis gemaakt met verschillende sensoren die je kon 
 <div class="dwengo-content sideinfo">
 <h2 class="title">Het bredere plaatje</h2>
 <div class="content">
+
 De bus protocollen die we hier zien leggen vast hoe je elektrische signalen kan genereren om informatie tussen geïntegreerde schakelingen uit te wisselen. We noemen dergelijke communicatie **communicatie op laag niveau** sterk verwant is met de gekozen hardware. Communicatie op dit niveau wordt ook wel een communicatie op de **fysieke laag** genoemd.
 
 In moderne computernetwerken liggen er nog heel wat extra lagen bovenop de **fysieke laag**. Een aantal van deze lagen heb je misschien al van gehoord. De **Data link laag** zorgt bijvoorbeeld voor de addressering van apparaten aan de hand van een MAC adres. De **netwerk laag** zal zorgen dat je apparaten kan bereiken aan de hand van hun IP-adres. De **transport laag** zorgt ervoor dat wanneer je grote hoeveelheden data verstuurd, deze worden opgesplitst in kleinere deeltjes en een voor een en in de juiste volgorde worden verstuurd over het netwerk (TCP). De **applicatie** laag zal de ontvangen gegevens interpreteren en deze op de correcte manier weergeven bv. als een video in de Netflix applicatie.
 
 Deze manier om netwerkcommunicatie op te delen in lagen wordt vastgeled in het OSI-model.
+
 </div>
 </div>
