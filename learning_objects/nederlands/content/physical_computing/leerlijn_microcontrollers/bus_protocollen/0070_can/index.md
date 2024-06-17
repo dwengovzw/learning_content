@@ -51,4 +51,13 @@ Merk op dat zo'n signaal in de praktijk nooit voorkomt. Er zal altijd wat ruis z
 ![Blokgolf met ruis](images/square_noise.svg)
 
 
-In CAN wordt een minder ruisgevoelig systeem toegepast om bits om te zetten naar voltages.
+In het CAN protocol wordt een minder ruisgevoelig systeem toegepast om bits om te zetten naar voltages. Dat systeem werkt met differentiële signalen. Daarvoor plaatst de CAN controller een tegenovergesteld signaal op <code class="lang-cpp">CANH</code> en <code class="lang-cpp">CANL</code>. Hieronder zie je een voorbeeld van zo'n signaal. 
+
+![Differentieel signaal CAN bus](images/no_noise.svg)
+
+Het eigenlijke signaal bekom je door het signaal op <code class="lang-cpp">CANL</code> af te trekken van <code class="lang-cpp">CANH</code>.
+
+Door de twee signalen van elkaar af te trekken, kan je ruis op de lijn uit het signaal verwijderen. Meestal zal de ruis op de <code class="lang-cpp">CANH</code> en <code class="lang-cpp">CANL</code> lijnen gelijkaardig zijn omdat deze draden vlak naast elkaar liggen. Door het signaal op de twee lijnen van elkaar af te trekken, trek je ook de ruis van zichzelf af. Hieronder zie je daar een voorbeeld van:
+
+
+
