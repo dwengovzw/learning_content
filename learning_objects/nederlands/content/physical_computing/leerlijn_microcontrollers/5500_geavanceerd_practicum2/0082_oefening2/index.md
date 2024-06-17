@@ -90,47 +90,7 @@ Onderstaande pseudo-code in Python stijl geeft dit iets gestructureerder weer:
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht 2.1</h2>
     <div class="content">
-<p>
-            initialise the LCD and configure the microcontroller
-            
-            while(True):
-                print UI to the top row of the LCD:
-                "T=<latest-time in ms>;Ta=<average-time in ms>;N=<#measurements>"
-                
-                print "Press W to start" to the bottom row.
-
-            # wait for a W button press to start a new experiment
-            while(True):
-                if (W button pressed):
-                    break
-                    sleep for 1ms
-
-            # start  the stimulus countdown
-            clear the LCD
-            print "LEDs -> Press C" to the top row
-            wait for 2s
-
-            # apply stimulus
-            turn on the LEDs
-
-            # start counting and check for button press
-            counter = 0
-
-            while(True):
-                counter += 1
-                if (C button pressed):
-                    Turn off LEDs
-                    break
-                    sleep for 1ms
-
-            update metric for the UI
-</p>
-    </div>
-</div>
-
-<div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 2.1 - Implementeren van de eerste versie</h2>
-    <div class="content">
+        <h3>Implementeren van de eerste versie</h3>
         <p>
             <strong>Implementeer bovenstaand algoritme nu op de microcontroller</strong> door de pseudo-code om te zetten in C code voor de microcontroller. Aarzel niet om practicum 1 en de datasheet van de microcontroller erbij te nemen voor het aansturen van de leds en uitlezen van de knoppen. Je zou in staat moeten zijn om nu 5 keer je reactiesnelheid te meten, waarna het lcd eruit zou moeten zien als de bovenstaande afbeelding (op de reactietijden na natuurlijk).
         </p>
@@ -138,8 +98,9 @@ Onderstaande pseudo-code in Python stijl geeft dit iets gestructureerder weer:
 </div>
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 2.2 - Vergelijken reactietijden met de online metingen</h2>
+    <h2 class="title">Opdracht 2.2</h2>
     <div class="content">
+        <h3>Vergelijken reactietijden met de online metingen</h3>
         <p>
             Hoe zien je reactietijden eruit? Lijkt dit redelijk gegeven de informatie die je hebt gelezen in het begin van het practicum? Hoeveel extra latency werd door je PC veroorzaakt bij de metingen op de website?
         </p>
@@ -179,8 +140,9 @@ Dat is omdat de compiler extra zijn best doet om zo exact mogelijk de gewenste t
 </div>
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 2.3 - Implementeer de semi-willekeurige wachttijden</h2>
+    <h2 class="title">Opdracht 2.3</h2>
     <div class="content">
+        <h3>Implementeer de semi-willekeurige wachttijden</h3>
         <p>
             <strong>Implementeer nu de semi-willekeurige wachttijden</strong>. We kiezen tussen 2 s, 2.5 s, 3 s, 3.5 s en 4 s (aangezien we in veelvouden van 500ms gaan wachten). Voor de eerste meting nemen we altijd 3 s. Daarna dan gebruiken we de vorige reactietijd modulo 5 om de volgende wachttijd te kiezen uit de opties.
         </p>
@@ -200,15 +162,16 @@ Dat is omdat de compiler extra zijn best doet om zo exact mogelijk de gewenste t
 </div>
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 2.4 - Vergelijk de reactietijden met de vorige metingen</h2>
+    <h2 class="title">Opdracht 2.4</h2>
     <div class="content">
+        <h3>Vergelijk de reactietijden met de vorige metingen</3>
         <p>
             <strong>Meet nu nog eens 5 keer je reactiesnelheid</strong>. Wellicht zal die iets hoger liggen dan daarnet omdat je brein zich nu minder kan voorbereiden. Bij onderzoek naar reactietijden wordt de wachttijd daarom ook altijd gerandomiseerd.
         </p>
     </div>
 </div>
 
-> De AVR bibliotheek voorziet ook een PseudoRandom Numer Generator (PRNG) die een veel grotere diversiteit aan willekeurige getallen kan afleveren. Bovendien heb je er in tegenstelling tot voor onze %5-methode geen user input voor nodig. Je vindt deze rand() functie hier. Ook hier zal je echter een seed of initiëel getal nodig hebben om willekeur te genereren, anders zal je programma exact hetzelfde zijn na elke reset. Op je laptop zijn er een aantal logische bronnen voor zo'n seed, bij microcontrollers is dit minder evident. Enkele opties zijn de tijd die verstrijkt voor een eerste knop wordt ingedrukt of het wegschrijven van een getal naar het persistent geheugen zodat je na elke reset van de microncontroller het getal kan aanpassen.
+> De AVR bibliotheek voorziet ook een PseudoRandom Number Generator (PRNG) die een veel grotere diversiteit aan willekeurige getallen kan afleveren. Bovendien heb je er in tegenstelling tot voor onze %5-methode geen user input voor nodig. Je vindt deze rand() functie hier. Ook hier zal je echter een seed of initiëel getal nodig hebben om willekeur te genereren, anders zal je programma exact hetzelfde zijn na elke reset. Op je laptop zijn er een aantal logische bronnen voor zo'n seed, bij microcontrollers is dit minder evident. Enkele opties zijn de tijd die verstrijkt voor een eerste knop wordt ingedrukt of het wegschrijven van een getal naar het persistent geheugen zodat je na elke reset van de microncontroller het getal kan aanpassen.
 
 
 ## Reflectie bij het huidige meetsysteem
