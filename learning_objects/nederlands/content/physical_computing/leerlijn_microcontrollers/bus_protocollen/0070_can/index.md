@@ -59,5 +59,5 @@ Het eigenlijke signaal bekom je door het signaal op <code class="lang-cpp">CANL<
 
 Door de twee signalen van elkaar af te trekken, kan je ruis op de lijn uit het signaal verwijderen. Meestal zal de ruis op de <code class="lang-cpp">CANH</code> en <code class="lang-cpp">CANL</code> lijnen gelijkaardig zijn omdat deze draden vlak naast elkaar liggen. Door het signaal op de twee lijnen van elkaar af te trekken, trek je ook de ruis van zichzelf af. Hieronder zie je daar een voorbeeld van:
 
-
+![Ruis op differentieel signaal](images/noise.svg)
 
