@@ -2,7 +2,7 @@
 hruid: org-dwengo-pc-bus-protocollen-introductie-leerplandoelen
 version: 1
 language: nl
-title: "Introductie"
+title: "Leerplandoelen"
 description: "Wat zijn bus protocollen en waarvoor dienen ze?"
 keywords: ["dwenguino", "microcontroller", "bus", "communicatie", "i2c", "spi", "uart", "can"]
 content_type: "text/markdown"
@@ -22,3 +22,10 @@ target_ages: [16, 17, 18]
 teacher_exclusive: False
 ---
 
+# Leerplandoelen GO!
+
+Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
+
+<ul class="dwengo-content leerplandoelen">
+    <li>WD3_ 11.19.07 De leerlingen gebruiken elektronische componenten en een programmeerbare stuureenheid in een technische toepassing.</li>
+</ul>
