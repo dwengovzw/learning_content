@@ -74,10 +74,9 @@ Elke transmissie in de tabel komt overeen met een specifiek signaal op de <code 
 * **DATA**: Dit is de data die in het register van de slave geschreven moet worden.
 * **STOP**: De stop conditie geeft aan dat de transmissie voorbij is. De master zal deze genereren door de <code class="lang-cpp">SDA</code> lijn laag te brengen en de <code class="lang-cpp">SCL</code> lijn hoog. En daarna de <code class="lang-cpp">SDA</code> lijn terug hoog te brengen.
 
-
+Wil je meer nog meer diepgaande informatie over de werking van I²C dan kan je terecht in [**hoofdstuk 21 van de datasheet**](images/AT90USB646.pdf). Voor informatie over hoe je de I²C bus kan gebruiken, kan je in sectie 21.7 terecht.
 
 ## Hoe programmeren
-
 
 Om te communiceren via I²C, kan je gebruik maken van de Wire bibliotheek. Hieronder zie je een codevoorbeeld voor de transmissie die we hierboven in het blokschema uitlegden.
 
@@ -114,6 +113,6 @@ void loop()
 <div class="dwengo-content sideinfo">
 <h2 class="title">Bibliotheken</h2>
 <div class="content">
-De Wire bibliotheek is basisbibliotheek die je altijd kan gebruiken om met apparaten te communiceren via I²C. Toch moet je de Wire bibliotheek zelf vaak niet gebruiken wanneer je via I²C wil spreken met een sensor. Dit komt omdat veel sensoren een eigen bibliotheek hebben die het makkelijk maakt om de waarde van de sensor te lezen over I²C. De communicatie met de Wire bibliotheek zit dan verborgen in de bibliotheek van de sensor.
+De Wire bibliotheek is een basisbibliotheek die je altijd kan gebruiken om met apparaten te communiceren via I²C. Toch moet je de Wire bibliotheek zelf vaak niet gebruiken wanneer je via I²C wil spreken met een sensor. Dit komt omdat veel sensoren een eigen bibliotheek hebben die het makkelijk maakt om de waarde van de sensor te lezen over I²C. De communicatie met de Wire bibliotheek zit dan verborgen in de bibliotheek van de sensor.
 </div>
 </div>
