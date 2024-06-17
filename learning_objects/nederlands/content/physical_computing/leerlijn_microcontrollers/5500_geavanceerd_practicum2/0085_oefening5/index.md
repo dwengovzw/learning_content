@@ -41,8 +41,9 @@ In deze laatste oefening gaan we ook de delay bij het wachten op de stimulus ver
 Om een interrupt te koppelen aan de timer zullen we gebruik maken van de Output Compare units, waarover jullie meer vinden in sectie 15.6 van de datasheet. Concreet kan je in het OCRnX register (OCR van Output Compare Register) een bepaalde waarde schrijven, waarna de OCnx vlag gemanipuleerd wordt als het TCNTn register de waarde bereikt heeft. Wat er precies met de flag gebeurt (de operation mode van de compare unit) kan je zelf instellen. Neem daarvoor een kijkje in tabel 15.1 op pagina 137.
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 5 - Een timer interrupt gebruiken voor het meetsysteem</h2>
+    <h2 class="title">Opdracht 5</h2>
     <div class="content">
+        <h3>Een timer interrupt gebruiken voor het meetsysteem</h3>
         <p>
             Concreet zullen we net zoals in oefening 2 een timer starten, deze keer op het moment dat de wachttijd ingaat. We gebruiken de Compare Match A van <strong>Timer 3</strong>. De vlag OCnx wordt OC3A en het register is het OC3AR (of beter het OC3ARH en OC3ARL register aangezien het een 16-bit klok is). Daarvoor moeten we volgende stappen ondernemen:
         </p>

@@ -38,8 +38,9 @@ Ook interrupts zijn in de kennisclips al behandeld. Lees zeker de relevante dele
 ![](embed/interrupts.png "overzicht interrupts")
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 4.1 - Datasheet</h2>
+    <h2 class="title">Opdracht 4.1</h2>
     <div class="content">
+        <h3>Datasheet</h3>
         <p>
             Lees hoofdstuk <strong>12</strong> van de datasheet tot en met <strong>12.0.4</strong> en zoek specifiek naar volgende zaken:
         </p>
@@ -54,8 +55,9 @@ Ook interrupts zijn in de kennisclips al behandeld. Lees zeker de relevante dele
 </div>
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 4.2 - Tellen van hoe vaak een knop gedrukt is</h2>
+    <h2 class="title">Opdracht 4.2</h2>
     <div class="content">
+        <h3>Tellen van hoe vaak een knop gedrukt is</h3>
         <p>
             Bij wijze van kennismaking gaan we nu een externe interrupt gebruiken om te tellen hoeveel keer een knop wordt ingedrukt.
         </p>
@@ -82,8 +84,9 @@ Ook interrupts zijn in de kennisclips al behandeld. Lees zeker de relevante dele
 </div>
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 4.3 - Verbeterd meetsysteem</h2>
+    <h2 class="title">Opdracht 4.3</h2>
     <div class="content">
+        <h3>Verbeterd meetsysteem</h3>
         <p>
             Pas nu de code van het meetsysteem aan om het indrukken van de knop op te vangen met een interrupt. Gebruik opnieuw de knop die verbonden is met INT6 en doorloop alle stappen uit vorige opdracht. In de ISR lees je nu het TCNT register uit.
         </p>

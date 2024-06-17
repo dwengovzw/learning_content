@@ -43,8 +43,9 @@ In de kennisclips zijn timers al uitgebreid aan bod gekomen en we raden je aan o
 In essentie is een Timer een mechanisme in de microcontroller dat toelaat om bij te houden hoeveel klokcycli al verstreken zijn sinds het moment waarop de timer aangezet werd aan de mogelijkheid biedt om gepast te reageren als bepaalde aantallen bereikt zijn.
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 3.1 - Verkennen Datasheet</h2>
+    <h2 class="title">Opdracht 3.1</h2>
     <div class="content">
+        <h3>Verkennen Datasheet</h3>
         <p>
             De microcontroller heeft <strong>4 timers</strong>, in dit practicum gebruiken enkel de 16-bot timers, <strong>Timer 1</strong> en <strong>Timer 3</strong>.
         </p>
@@ -69,8 +70,9 @@ In essentie is een Timer een mechanisme in de microcontroller dat toelaat om bij
 </div>
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 3.2 - Visualiseren van het TCNT1 register</h2>
+    <h2 class="title">Opdracht 3.2</h2>
     <div class="content">
+        <h3>Visualiseren van het TCNT1 register</h3>
         <p>
             Als eerste oefening zullen het timer counter value register (TCNT1) van Timer 1 uitlezen en de waarde op het LCD scherm printen. Je mag daartoe onderstaand snippet kopiëren, compileren en uploaden op de microcontroller.
         </p>
@@ -117,8 +119,9 @@ Je zal zien dat de de counter op nul blijft staan. Ga in **Table 15-5. op p.140*
 * Check of de TCNTn registers zich inderdaad zo gedragen als je had verwacht en gebruik je smartphone om (ongeveer) te meten of je goed berekend had hoelang het duurt voor het TCNT1 register vol loopt.
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 3.3 - Implementatie van het meten van reactietijd met Timer1</h2>
+    <h2 class="title">Opdracht 3.3</h2>
     <div class="content">
+        <h3>Implementatie van het meten van reactietijd met Timer1</h3>
         <p>
             In deze opdracht gaan we de code uit de vorige oefening aanpassen zodat de <strong>Timer 1</strong> gebruikt wordt om de reactietijd te meten.
         </p>

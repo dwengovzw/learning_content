@@ -164,7 +164,7 @@ Dat is omdat de compiler extra zijn best doet om zo exact mogelijk de gewenste t
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht 2.4</h2>
     <div class="content">
-        <h3>Vergelijk de reactietijden met de vorige metingen</3>
+        <h3>Vergelijk de reactietijden met de vorige metingen</h3>
         <p>
             <strong>Meet nu nog eens 5 keer je reactiesnelheid</strong>. Wellicht zal die iets hoger liggen dan daarnet omdat je brein zich nu minder kan voorbereiden. Bij onderzoek naar reactietijden wordt de wachttijd daarom ook altijd gerandomiseerd.
         </p>

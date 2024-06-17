@@ -56,6 +56,7 @@ Dit probleem oplossen wordt "de knop debouncen" genoemd, en kan je doen door in 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
+
         #include <util/delay.h> // Include deze header wanneer je delays gebruikt.
 
         _delay_ms(50);  // De microcontroller zal nu 50 ms geen nuttige instructies uitvoeren.
