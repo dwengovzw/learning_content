@@ -61,3 +61,7 @@ Door de twee signalen van elkaar af te trekken, kan je ruis op de lijn uit het s
 
 ![Ruis op differentieel signaal](images/noise.svg)
 
+Wiskundig krijg je dan \\(\text{CANH} + \text{ruis} -(\text{CANL} + \text{ruis}) = \text{CANH} + \text{ruis} - \text{CANL} - \text{ruis} = \text{CANH} - \text{CANL}  \\). Je ziet dus dat je de ruis van zichzelf aftrekt waardoor het verdwijnt. 
+
+### Cyclic redundancy check (CRC)
+
