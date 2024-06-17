@@ -36,10 +36,11 @@ teacher_exclusive: false
 Het dwenguino bord beschikt over een 2x16 lcd-scherm. In dit practicum maken we gebruik van een voorgeprogrammeerde library om het scherm aan te sturen, maar alle details om zelf het scherm aan te sturen zijn terug te vinden in de datasheet van het lcd-scherm.
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 1.1 - Verkennen van de lcd-bibliotheek</h2>
+    <h2 class="title">Opdracht 1.1</h2>
     <div class="content">
+        <h3>Verkennen van de lcd-bibliotheek</h3>
         <p>
-            Voor je het lcd-scherm kan gebruiken moet je in je code volgende functies oproepen in je main functie:
+            Voor je het lcd-scherm kan gebruiken, moet je in je code volgende functies oproepen in je main functie:
         </p>
         <p>
             <div class="dwengo-content dwengo-code-simulator">
@@ -62,8 +63,9 @@ Het dwenguino bord beschikt over een 2x16 lcd-scherm. In dit practicum maken we 
 </div>
 
 <div class="dwengo-content assignment">
-    <h2 class="title">Opdracht 1.2 - De datum printen op het lcd</h2>
+    <h2 class="title">Opdracht 1.2</h2>
     <div class="content">
+        <h3>De datum printen op het lcd</h3>
         <p>
             Schrijf nu de volgende boodschap op je lcd-scherm: 
         </p>
