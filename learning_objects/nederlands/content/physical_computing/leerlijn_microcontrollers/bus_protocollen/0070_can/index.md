@@ -23,3 +23,5 @@ teacher_exclusive: False
 ---
 
 # CAN bus
+
+CAN staat voor *Controlled area network* en werd in 1986 uitgebracht door het duitse bedrijf Bosch. CAN werd specifiek ontworpen voor de communicatie tussen geïntegreerde schakelingen in auto's. CAN bus is een zeer betrouwbaar protocol omdat het moet voldoen aan heel wat veiligheidsvoorschriften. 

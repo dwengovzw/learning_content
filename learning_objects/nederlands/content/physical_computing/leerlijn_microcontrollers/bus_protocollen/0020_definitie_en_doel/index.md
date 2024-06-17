@@ -24,7 +24,7 @@ teacher_exclusive: False
 
  # Definitie
 
- Bus communicatie verloopt tussen complexere digitale componenten. Dit kan zijn tussen twee microcontroller maar ook tussen een microcontroller en een geavanceerde sensor. Om te kunnen communiceren zijn deze componenten meestal verbonden met een of meerdere draden (**de bus**). Eigen aan een bus protocol is dat er **meer dan twee** apparaten met die draden verbonden kunnen zijn. Op onderstaande afbeelding zie je een voorbeeld van vier apparaten die verbonden zijn met een bus (= een of meerdere draden). In dit geval is dat een microcontroller en drie sensoren.
+ Bus communicatie verloopt tussen complexere digitale componenten. Dit kan zijn tussen twee microcontroller maar ook tussen een microcontroller en een geavanceerde sensor. Om te kunnen communiceren zijn deze componenten meestal verbonden met een of meerdere draden (**de bus**). Eigen aan een bus protocol is dat er **meer dan twee** apparaten met die draden verbonden kunnen zijn. Op onderstaande afbeelding zie je een voorbeeld van vier apparaten die verbonden zijn met een bus. In dit geval is dat een microcontroller en drie sensoren.
 
  ![Voorbeeld van vier apparaten die verbonden zijn met een bus.](images/simple_bus_diagram.svg) 
 
