@@ -3,893 +3,1002 @@
 
 <svg
    version="1.1"
-   id="svg2421"
+   id="svg2"
    width="720"
-   height="380.65"
-   viewBox="0 0 544.86267 288.05734"
+   height="318.3"
+   viewBox="0 0 651.5733 288.05734"
+   sodipodi:docname="noise.pdf"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs2425" />
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.8984817"
+     inkscape:cx="309.19445"
+     inkscape:cy="143.79912"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page8"
+       width="651.5733"
+       height="288.05734" />
+  </sodipodi:namedview>
   <g
-     id="g2429"
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,0,288.05733)">
     <g
-       id="g2431"
+       id="g12"
        transform="translate(26.428,16.095)">
       <g
-         id="g2433">
+         id="g14">
         <g
-           id="g2435">
+           id="g16">
           <path
              d="M 0,0 H 283.06958"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2437" />
+             id="path18" />
           <g
-             id="g2439"
+             id="g20"
              transform="translate(283.26884)">
             <g
-               id="g2441">
+               id="g22">
               <path
                  d="M -2.07224,2.39104 C -1.69365,0.95639 -0.84999,0.27895 0,0 -0.84999,-0.27895 -1.69365,-0.95639 -2.07224,-2.39104"
                  style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-                 id="path2443" />
+                 id="path24" />
             </g>
           </g>
           <g
-             id="g2445">
+             id="g26">
             <g
-               id="g2447"
+               id="g28"
                transform="translate(286.985,-2.49)">
               <g
-                 id="g2449">
+                 id="g30">
                 <g
-                   id="g2451"
+                   id="g32"
                    transform="translate(-313.413,-13.605)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,313.413,13.605)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2455"><tspan
+                     id="text36"><tspan
                        x="0 7.1949897 9.9625998 13.007171"
                        y="0"
-                       id="tspan2453">Tijd</tspan></text>
+                       sodipodi:role="line"
+                       id="tspan34">Tijd</tspan></text>
                   <g
-                     id="g2457"
+                     id="g38"
                      transform="translate(313.413,13.605)" />
                 </g>
               </g>
               <g
-                 id="g2459"
+                 id="g40"
                  transform="translate(-286.985,2.49)" />
             </g>
           </g>
           <path
              d="M 0,0 V 183.85574"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2461" />
+             id="path42" />
           <g
-             id="g2463"
+             id="g44"
              transform="rotate(90,-92.0275,92.0275)">
             <g
-               id="g2465">
+               id="g46">
               <path
                  d="M -2.07224,2.39104 C -1.69365,0.95639 -0.84999,0.27895 0,0 -0.84999,-0.27895 -1.69365,-0.95639 -2.07224,-2.39104"
                  style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-                 id="path2467" />
+                 id="path48" />
             </g>
           </g>
           <g
-             id="g2469">
+             id="g50">
             <g
-               id="g2471"
+               id="g52"
                transform="translate(-23.107,189.709)">
               <g
-                 id="g2473">
+                 id="g54">
                 <g
-                   id="g2475"
+                   id="g56"
                    transform="translate(-3.321,-205.804)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,3.321,205.804)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2479"><tspan
+                     id="text60"><tspan
                        x="0 7.4719501 15.773785 21.309006 24.076616 26.844225 30.718681 36.253902 41.789124"
                        y="0"
-                       id="tspan2477">Amplitude</tspan></text>
+                       sodipodi:role="line"
+                       id="tspan58">Amplitude</tspan></text>
                   <g
-                     id="g2481"
+                     id="g62"
                      transform="translate(3.321,205.804)" />
                 </g>
               </g>
               <g
-                 id="g2483"
+                 id="g64"
                  transform="translate(23.107,-189.709)" />
             </g>
           </g>
           <path
              d="M 0,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2485" />
+             id="path66" />
           <g
-             id="g2487">
+             id="g68">
             <g
-               id="g2489"
+               id="g70"
                transform="translate(-2.49,-12.774)">
               <g
-                 id="g2491">
+                 id="g72">
                 <g
-                   id="g2493"
+                   id="g74"
                    transform="translate(-23.938,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,23.938,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2497"><tspan
+                     id="text78"><tspan
                        x="0"
                        y="0"
-                       id="tspan2495">0</tspan></text>
+                       id="tspan76">0</tspan></text>
                   <g
-                     id="g2499"
+                     id="g80"
                      transform="translate(23.938,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2501"
+                 id="g82"
                  transform="translate(2.49,12.774)" />
             </g>
           </g>
           <path
              d="M 28.3468,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2503" />
+             id="path84" />
           <g
-             id="g2505">
+             id="g86">
             <g
-               id="g2507"
+               id="g88"
                transform="translate(25.856,-12.774)">
               <g
-                 id="g2509">
+                 id="g90">
                 <g
-                   id="g2511"
+                   id="g92"
                    transform="translate(-52.284,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,52.284,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2515"><tspan
+                     id="text96"><tspan
                        x="0"
                        y="0"
-                       id="tspan2513">1</tspan></text>
+                       id="tspan94">1</tspan></text>
                   <g
-                     id="g2517"
+                     id="g98"
                      transform="translate(52.284,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2519"
+                 id="g100"
                  transform="translate(-25.856,12.774)" />
             </g>
           </g>
           <path
              d="M 56.69362,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2521" />
+             id="path102" />
           <g
-             id="g2523">
+             id="g104">
             <g
-               id="g2525"
+               id="g106"
                transform="translate(54.203,-12.774)">
               <g
-                 id="g2527">
+                 id="g108">
                 <g
-                   id="g2529"
+                   id="g110"
                    transform="translate(-80.631,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,80.631,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2533"><tspan
+                     id="text114"><tspan
                        x="0"
                        y="0"
-                       id="tspan2531">2</tspan></text>
+                       id="tspan112">2</tspan></text>
                   <g
-                     id="g2535"
+                     id="g116"
                      transform="translate(80.631,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2537"
+                 id="g118"
                  transform="translate(-54.203,12.774)" />
             </g>
           </g>
           <path
              d="M 85.04042,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2539" />
+             id="path120" />
           <g
-             id="g2541">
+             id="g122">
             <g
-               id="g2543"
+               id="g124"
                transform="translate(82.549,-12.774)">
               <g
-                 id="g2545">
+                 id="g126">
                 <g
-                   id="g2547"
+                   id="g128"
                    transform="translate(-108.977,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,108.977,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2551"><tspan
+                     id="text132"><tspan
                        x="0"
                        y="0"
-                       id="tspan2549">3</tspan></text>
+                       id="tspan130">3</tspan></text>
                   <g
-                     id="g2553"
+                     id="g134"
                      transform="translate(108.977,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2555"
+                 id="g136"
                  transform="translate(-82.549,12.774)" />
             </g>
           </g>
           <path
              d="M 113.38724,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2557" />
+             id="path138" />
           <g
-             id="g2559">
+             id="g140">
             <g
-               id="g2561"
+               id="g142"
                transform="translate(110.895,-12.774)">
               <g
-                 id="g2563">
+                 id="g144">
                 <g
-                   id="g2565"
+                   id="g146"
                    transform="translate(-137.323,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,137.323,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2569"><tspan
+                     id="text150"><tspan
                        x="0"
                        y="0"
-                       id="tspan2567">4</tspan></text>
+                       id="tspan148">4</tspan></text>
                   <g
-                     id="g2571"
+                     id="g152"
                      transform="translate(137.323,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2573"
+                 id="g154"
                  transform="translate(-110.895,12.774)" />
             </g>
           </g>
           <path
              d="M 141.73404,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2575" />
+             id="path156" />
           <g
-             id="g2577">
+             id="g158">
             <g
-               id="g2579"
+               id="g160"
                transform="translate(139.242,-12.774)">
               <g
-                 id="g2581">
+                 id="g162">
                 <g
-                   id="g2583"
+                   id="g164"
                    transform="translate(-165.67,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,165.67,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2587"><tspan
+                     id="text168"><tspan
                        x="0"
                        y="0"
-                       id="tspan2585">5</tspan></text>
+                       id="tspan166">5</tspan></text>
                   <g
-                     id="g2589"
+                     id="g170"
                      transform="translate(165.67,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2591"
+                 id="g172"
                  transform="translate(-139.242,12.774)" />
             </g>
           </g>
           <path
              d="M 170.08086,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2593" />
+             id="path174" />
           <g
-             id="g2595">
+             id="g176">
             <g
-               id="g2597"
+               id="g178"
                transform="translate(167.588,-12.774)">
               <g
-                 id="g2599">
+                 id="g180">
                 <g
-                   id="g2601"
+                   id="g182"
                    transform="translate(-194.016,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,194.016,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2605"><tspan
+                     id="text186"><tspan
                        x="0"
                        y="0"
-                       id="tspan2603">6</tspan></text>
+                       id="tspan184">6</tspan></text>
                   <g
-                     id="g2607"
+                     id="g188"
                      transform="translate(194.016,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2609"
+                 id="g190"
                  transform="translate(-167.588,12.774)" />
             </g>
           </g>
           <path
              d="M 198.42766,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2611" />
+             id="path192" />
           <g
-             id="g2613">
+             id="g194">
             <g
-               id="g2615"
+               id="g196"
                transform="translate(195.935,-12.774)">
               <g
-                 id="g2617">
+                 id="g198">
                 <g
-                   id="g2619"
+                   id="g200"
                    transform="translate(-222.363,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,222.363,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2623"><tspan
+                     id="text204"><tspan
                        x="0"
                        y="0"
-                       id="tspan2621">7</tspan></text>
+                       id="tspan202">7</tspan></text>
                   <g
-                     id="g2625"
+                     id="g206"
                      transform="translate(222.363,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2627"
+                 id="g208"
                  transform="translate(-195.935,12.774)" />
             </g>
           </g>
           <path
              d="M 226.77448,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2629" />
+             id="path210" />
           <g
-             id="g2631">
+             id="g212">
             <g
-               id="g2633"
+               id="g214"
                transform="translate(224.281,-12.774)">
               <g
-                 id="g2635">
+                 id="g216">
                 <g
-                   id="g2637"
+                   id="g218"
                    transform="translate(-250.709,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,250.709,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2641"><tspan
+                     id="text222"><tspan
                        x="0"
                        y="0"
-                       id="tspan2639">8</tspan></text>
+                       id="tspan220">8</tspan></text>
                   <g
-                     id="g2643"
+                     id="g224"
                      transform="translate(250.709,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2645"
+                 id="g226"
                  transform="translate(-224.281,12.774)" />
             </g>
           </g>
           <path
              d="M 255.12128,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2647" />
+             id="path228" />
           <g
-             id="g2649">
+             id="g230">
             <g
-               id="g2651"
+               id="g232"
                transform="translate(252.628,-12.774)">
               <g
-                 id="g2653">
+                 id="g234">
                 <g
-                   id="g2655"
+                   id="g236"
                    transform="translate(-279.056,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,279.056,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2659"><tspan
+                     id="text240"><tspan
                        x="0"
                        y="0"
-                       id="tspan2657">9</tspan></text>
+                       id="tspan238">9</tspan></text>
                   <g
-                     id="g2661"
+                     id="g242"
                      transform="translate(279.056,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2663"
+                 id="g244"
                  transform="translate(-252.628,12.774)" />
             </g>
           </g>
           <path
              d="M 283.4681,2.83484 V -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2665" />
+             id="path246" />
           <g
-             id="g2667">
+             id="g248">
             <g
-               id="g2669"
+               id="g250"
                transform="translate(278.483,-12.774)">
               <g
-                 id="g2671">
+                 id="g252">
                 <g
-                   id="g2673"
+                   id="g254"
                    transform="translate(-304.911,-3.321)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,304.911,3.321)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2677"><tspan
+                     id="text258"><tspan
                        x="0 4.9812999"
                        y="0"
-                       id="tspan2675">10</tspan></text>
+                       sodipodi:role="line"
+                       id="tspan256">10</tspan></text>
                   <g
-                     id="g2679"
+                     id="g260"
                      transform="translate(304.911,3.321)" />
                 </g>
               </g>
               <g
-                 id="g2681"
+                 id="g262"
                  transform="translate(-278.483,12.774)" />
             </g>
           </g>
           <path
              d="M 2.83484,0 H -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2683" />
+             id="path264" />
           <g
-             id="g2685">
+             id="g266">
             <g
-               id="g2687"
+               id="g268"
                transform="translate(-11.336,-3.21)">
               <g
-                 id="g2689">
+                 id="g270">
                 <g
-                   id="g2691"
+                   id="g272"
                    transform="translate(-15.092,-12.885)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,15.092,12.885)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2695"><tspan
+                     id="text276"><tspan
                        x="0"
                        y="0"
-                       id="tspan2693">0</tspan></text>
+                       id="tspan274">0</tspan></text>
                   <g
-                     id="g2697"
+                     id="g278"
                      transform="translate(15.092,12.885)" />
                 </g>
               </g>
               <g
-                 id="g2699"
+                 id="g280"
                  transform="translate(11.336,3.21)" />
             </g>
           </g>
           <path
              d="M 2.83484,28.3468 H -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2701" />
+             id="path282" />
           <g
-             id="g2703">
+             id="g284">
             <g
-               id="g2705"
+               id="g286"
                transform="translate(-11.336,25.137)">
               <g
-                 id="g2707">
+                 id="g288">
                 <g
-                   id="g2709"
+                   id="g290"
                    transform="translate(-15.092,-41.232)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,15.092,41.232)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2713"><tspan
+                     id="text294"><tspan
                        x="0"
                        y="0"
-                       id="tspan2711">1</tspan></text>
+                       id="tspan292">1</tspan></text>
                   <g
-                     id="g2715"
+                     id="g296"
                      transform="translate(15.092,41.232)" />
                 </g>
               </g>
               <g
-                 id="g2717"
+                 id="g298"
                  transform="translate(11.336,-25.137)" />
             </g>
           </g>
           <path
              d="M 2.83484,56.69362 H -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2719" />
+             id="path300" />
           <g
-             id="g2721">
+             id="g302">
             <g
-               id="g2723"
+               id="g304"
                transform="translate(-11.336,53.483)">
               <g
-                 id="g2725">
+                 id="g306">
                 <g
-                   id="g2727"
+                   id="g308"
                    transform="translate(-15.092,-69.578)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,15.092,69.578)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2731"><tspan
+                     id="text312"><tspan
                        x="0"
                        y="0"
-                       id="tspan2729">2</tspan></text>
+                       id="tspan310">2</tspan></text>
                   <g
-                     id="g2733"
+                     id="g314"
                      transform="translate(15.092,69.578)" />
                 </g>
               </g>
               <g
-                 id="g2735"
+                 id="g316"
                  transform="translate(11.336,-53.483)" />
             </g>
           </g>
           <path
              d="M 2.83484,85.04042 H -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2737" />
+             id="path318" />
           <g
-             id="g2739">
+             id="g320">
             <g
-               id="g2741"
+               id="g322"
                transform="translate(-11.336,81.83)">
               <g
-                 id="g2743">
+                 id="g324">
                 <g
-                   id="g2745"
+                   id="g326"
                    transform="translate(-15.092,-97.925)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,15.092,97.925)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2749"><tspan
+                     id="text330"><tspan
                        x="0"
                        y="0"
-                       id="tspan2747">3</tspan></text>
+                       id="tspan328">3</tspan></text>
                   <g
-                     id="g2751"
+                     id="g332"
                      transform="translate(15.092,97.925)" />
                 </g>
               </g>
               <g
-                 id="g2753"
+                 id="g334"
                  transform="translate(11.336,-81.83)" />
             </g>
           </g>
           <path
              d="M 2.83484,113.38724 H -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2755" />
+             id="path336" />
           <g
-             id="g2757">
+             id="g338">
             <g
-               id="g2759"
+               id="g340"
                transform="translate(-11.336,110.176)">
               <g
-                 id="g2761">
+                 id="g342">
                 <g
-                   id="g2763"
+                   id="g344"
                    transform="translate(-15.092,-126.271)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,15.092,126.271)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2767"><tspan
+                     id="text348"><tspan
                        x="0"
                        y="0"
-                       id="tspan2765">4</tspan></text>
+                       id="tspan346">4</tspan></text>
                   <g
-                     id="g2769"
+                     id="g350"
                      transform="translate(15.092,126.271)" />
                 </g>
               </g>
               <g
-                 id="g2771"
+                 id="g352"
                  transform="translate(11.336,-110.176)" />
             </g>
           </g>
           <path
              d="M 2.83484,141.73404 H -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2773" />
+             id="path354" />
           <g
-             id="g2775">
+             id="g356">
             <g
-               id="g2777"
+               id="g358"
                transform="translate(-11.336,138.523)">
               <g
-                 id="g2779">
+                 id="g360">
                 <g
-                   id="g2781"
+                   id="g362"
                    transform="translate(-15.092,-154.618)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,15.092,154.618)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2785"><tspan
+                     id="text366"><tspan
                        x="0"
                        y="0"
-                       id="tspan2783">5</tspan></text>
+                       id="tspan364">5</tspan></text>
                   <g
-                     id="g2787"
+                     id="g368"
                      transform="translate(15.092,154.618)" />
                 </g>
               </g>
               <g
-                 id="g2789"
+                 id="g370"
                  transform="translate(11.336,-138.523)" />
             </g>
           </g>
           <path
              d="M 2.83484,170.08086 H -2.83484"
              style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path2791" />
+             id="path372" />
           <g
-             id="g2793">
+             id="g374">
             <g
-               id="g2795"
+               id="g376"
                transform="translate(-11.336,166.869)">
               <g
-                 id="g2797">
+                 id="g378">
                 <g
-                   id="g2799"
+                   id="g380"
                    transform="translate(-15.092,-182.964)">
                   <text
                      xml:space="preserve"
                      transform="matrix(1,0,0,-1,15.092,182.964)"
                      style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     id="text2803"><tspan
+                     id="text384"><tspan
                        x="0"
                        y="0"
-                       id="tspan2801">6</tspan></text>
+                       id="tspan382">6</tspan></text>
                   <g
-                     id="g2805"
+                     id="g386"
                      transform="translate(15.092,182.964)" />
                 </g>
               </g>
               <g
-                 id="g2807"
+                 id="g388"
                  transform="translate(11.336,-166.869)" />
             </g>
           </g>
           <g
-             id="g2809">
+             id="g390">
             <path
-               d="m 0,70.867 5.66927,69.67496 5.66928,4.50835 5.66969,9.27836 5.66928,-6.69915 5.66928,4.18741 5.66928,-70.87092 5.66927,-12.0955 5.66971,11.31607 5.66926,-9.89517 5.6693,0.59559"
+               d="m 0,70.867 5.66927,76.89402 5.66928,-0.46152 5.66969,5.49237 5.66928,-0.79761 5.66928,-5.88467 5.66928,-66.40193 5.66927,-6.6373 5.66971,9.54698 5.66926,-11.7287 5.6693,-0.02164"
                style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 1.99255, 0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2811" />
+               id="path392" />
           </g>
           <g
-             id="g2813">
+             id="g394">
             <path
-               d="m 0,70.867 5.66927,-72.05906 5.66928,4.50831 5.66969,9.27837 5.66928,-6.69914 5.66928,4.18739 5.66928,70.86314 5.66927,-12.0955 5.66971,11.31607 5.66926,-9.89517 5.6693,0.59559"
+               d="m 0,70.867 5.66927,-64.84004 5.66928,-0.46152 5.66969,5.49238 5.66928,-0.7976 5.66928,-5.88469 5.66928,75.33213 5.66927,-6.6373 5.66971,9.54698 5.66926,-11.7287 5.6693,-0.02164"
                style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2815" />
+               id="path396" />
           </g>
           <g
-             id="g2817">
+             id="g398">
             <path
-               d="m 0,0 5.66927,-1.19206 5.66928,4.50831 5.66969,9.27837 5.66928,-6.69914 5.66928,4.18739 5.66928,-0.0039 L 39.68535,-2.01648 45.35506,9.29955 51.02432,-0.5956 56.69362,0"
+               d="m 0,0 5.66927,141.73404 h 5.66928 5.66969 5.66928 5.66928 L 34.01608,0 h 5.66927 5.66971 5.66926 5.6693"
+               style="fill:none;stroke:#00b300;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+               id="path400" />
+          </g>
+          <g
+             id="g402">
+            <path
+               d="m 0,0 5.66927,6.02696 5.66928,-0.46152 5.66969,5.49238 5.66928,-0.7976 5.66928,-5.88469 5.66928,4.46509 5.66927,-6.63728 5.66971,9.54698 L 51.02432,0.0216 56.69362,0"
                style="fill:none;stroke:#ff8000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               id="path2819" />
+               id="path404" />
           </g>
           <g
-             id="g2821">
+             id="g406">
             <path
-               d="m 56.69362,70.867 5.66926,72.76241 5.66929,8.63086 5.66969,-10.81949 5.66928,2.2068 5.66928,-1.62114 5.66928,-73.10759 5.66927,8.59972 5.66971,-10.6413 5.66926,10.47002 5.6693,-6.48029"
+               d="m 56.69362,70.867 5.66926,82.72852 5.66929,-11.57904 5.66969,2.25222 5.66928,5.22897 5.66928,-9.70791 5.66928,-64.59217 5.66927,0.08564 5.66971,-4.83276 5.66926,0.38928 5.6693,0.02725"
                style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 1.99255, 0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2823" />
+               id="path408" />
           </g>
           <g
-             id="g2825">
+             id="g410">
             <path
-               d="m 56.69362,70.867 5.66926,-68.97164 5.66929,8.63087 5.66969,-10.81947 5.66928,2.20677 5.66928,-1.62114 5.66928,68.62646 5.66927,8.59972 5.66971,-10.6413 5.66926,10.47002 5.6693,-6.48029"
+               d="m 56.69362,70.867 5.66926,-59.00553 5.66929,-11.57905 5.66969,2.25225 5.66928,5.22894 5.66928,-9.70785 5.66928,77.14183 5.66927,0.08564 5.66971,-4.83276 5.66926,0.38928 5.6693,0.02725"
                style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2827" />
+               id="path412" />
           </g>
           <g
-             id="g2829">
+             id="g414">
             <path
-               d="m 56.69362,0 5.66926,1.89536 5.66929,8.63087 5.66969,-10.81947 5.66928,2.20677 5.66928,-1.62114 5.66928,-2.24053 5.66927,8.59969 5.66971,-10.64127 5.66926,10.46999 L 113.38724,0"
+               d="m 56.69362,0 5.66926,141.73404 h 5.66929 5.66969 5.66928 5.66928 L 90.7097,0 h 5.66927 5.66971 5.66926 5.6693"
+               style="fill:none;stroke:#00b300;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+               id="path416" />
+          </g>
+          <g
+             id="g418">
+            <path
+               d="m 56.69362,0 5.66926,11.86147 5.66929,-11.57905 5.66969,2.25225 5.66928,5.22894 5.66928,-9.70785 5.66928,6.27479 5.66927,0.08565 5.66971,-4.8327 5.66926,0.38926 L 113.38724,0"
                style="fill:none;stroke:#ff8000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               id="path2831" />
+               id="path420" />
           </g>
           <g
-             id="g2833">
+             id="g422">
             <path
-               d="m 113.38724,70.867 5.66926,79.6203 5.66928,-7.54866 5.6697,-3.6744 5.66928,9.97736 5.66928,3.74058 5.66928,-80.31148 5.66927,-4.98111 5.66971,8.48941 5.66926,2.43996 5.6693,-7.75196"
+               d="m 113.38724,70.867 5.66926,70.79306 5.66928,9.94407 5.6697,-8.58156 5.66928,2.33397 5.66928,8.81686 5.66928,-80.6398 5.66927,1.59563 5.66971,-6.88297 5.66926,7.48421 5.6693,-4.86347"
                style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 1.99255, 0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2835" />
+               id="path424" />
           </g>
           <g
-             id="g2837">
+             id="g426">
             <path
-               d="m 113.38724,70.867 5.66926,-62.11373 5.66928,-7.54868 5.6697,-3.67438 5.66928,9.97734 5.66928,3.74059 5.66928,61.42256 5.66927,-4.98111 5.66971,8.48941 5.66926,2.43996 5.6693,-7.75196"
+               d="m 113.38724,70.867 5.66926,-70.94094 5.66928,9.94401 5.6697,-8.58156 5.66928,2.33397 5.66928,8.81687 5.66928,61.09425 5.66927,1.59563 5.66971,-6.88297 5.66926,7.48421 5.6693,-4.86347"
                style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2839" />
+               id="path428" />
           </g>
           <g
-             id="g2841">
+             id="g430">
             <path
-               d="m 113.38724,0 5.66926,8.75327 5.66928,-7.54868 5.6697,-3.67438 5.66928,9.97734 5.66928,3.74059 5.66928,-9.44447 5.66927,-4.98107 5.66971,8.4894 5.66926,2.43994 L 170.08086,0"
+               d="m 113.38724,0 5.66926,141.73404 h 5.66928 5.6697 5.66928 5.66928 L 147.40332,0 h 5.66927 5.66971 5.66926 5.6693"
+               style="fill:none;stroke:#00b300;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+               id="path432" />
+          </g>
+          <g
+             id="g434">
+            <path
+               d="m 113.38724,0 5.66926,-0.07394 5.66928,9.94401 5.6697,-8.58156 5.66928,2.33397 5.66928,8.81687 5.66928,-9.77277 5.66927,1.59564 5.66971,-6.88296 5.66926,7.48417 L 170.08086,0"
                style="fill:none;stroke:#ff8000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               id="path2843" />
+               id="path436" />
           </g>
           <g
-             id="g2845">
+             id="g438">
             <path
-               d="m 170.08086,70.867 5.66926,69.65722 5.66928,4.26959 5.6697,3.75789 5.66928,-3.50528 5.66928,9.42067 5.66928,-87.32163 5.66926,6.66626 5.66971,-3.50528 5.66927,8.94013 5.6693,-8.37957"
+               d="m 170.08086,70.867 5.66926,80.65752 5.66928,0.52771 5.6697,0.58522 5.66928,-9.8091 5.66928,1.3266 5.66928,-70.19832 5.66926,4.03515 5.66971,5.46771 5.66927,-0.63584 5.6693,-11.95665"
                style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 1.99255, 0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2847" />
+               id="path440" />
           </g>
           <g
-             id="g2849">
+             id="g442">
             <path
-               d="m 170.08086,70.867 5.66926,-72.0768 5.66928,4.26955 5.6697,3.75791 5.66928,-3.5053 5.66928,9.42067 5.66928,54.41243 5.66926,6.66626 5.66971,-3.50528 5.66927,8.94013 5.6693,-8.37957"
+               d="m 170.08086,70.867 5.66926,-61.07652 5.66928,0.5277 5.6697,0.58522 5.66928,-9.8091 5.66928,1.32661 5.66928,71.53572 5.66926,4.03515 5.66971,5.46771 5.66927,-0.63584 5.6693,-11.95665"
                style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2851" />
+               id="path444" />
           </g>
           <g
-             id="g2853">
+             id="g446">
             <path
-               d="m 170.08086,0 5.66926,-1.2098 5.66928,4.26955 5.6697,3.75791 5.66928,-3.5053 5.66928,9.42067 5.66928,-16.45457 5.66926,6.66624 5.66971,-3.50525 5.66927,8.9401 L 226.77448,0"
+               d="m 170.08086,0 5.66926,141.73404 h 5.66928 5.6697 5.66928 5.66928 L 204.09694,0 h 5.66926 5.66971 5.66927 5.6693"
+               style="fill:none;stroke:#00b300;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+               id="path448" />
+          </g>
+          <g
+             id="g450">
+            <path
+               d="m 170.08086,0 5.66926,9.79048 5.66928,0.5277 5.6697,0.58522 5.66928,-9.8091 5.66928,1.32661 5.66928,0.66869 5.66926,4.03516 5.66971,5.46769 5.66927,-0.63582 L 226.77448,0"
                style="fill:none;stroke:#ff8000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               id="path2855" />
+               id="path452" />
           </g>
           <g
-             id="g2857">
+             id="g454">
             <path
-               d="m 226.77448,70.867 5.66926,74.79708 5.66928,-4.2605 5.66969,9.90295 5.66929,-6.82199 5.66928,-3.65451 5.66928,-64.64238 5.66926,1.02297 5.66971,0.60511 5.66927,-2.82143 5.6693,-4.1273"
+               d="m 226.77448,70.867 5.66926,76.11242 5.66928,-2.23233 5.66969,-3.91317 5.66929,10.43152 5.66928,2.42092 5.66928,-74.27066 5.66926,-1.4927 5.66971,-0.99786 5.66927,-7.84236 5.6693,1.78422"
                style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 1.99255, 0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2859" />
+               id="path456" />
           </g>
           <g
-             id="g2861">
+             id="g458">
             <path
-               d="m 226.77448,70.867 5.66926,-66.93698 5.66928,-4.26046 5.66969,9.90292 5.66929,-6.82199 5.66928,-3.65448 5.66928,77.09164 5.66926,1.02297 5.66971,0.60511 5.66927,-2.82143 5.6693,-4.1273"
+               d="m 226.77448,70.867 5.66926,-65.62162 5.66928,-2.23233 5.66969,-3.91315 5.66929,10.43149 5.66928,2.42091 5.66928,67.4634 5.66926,-1.4927 5.66971,-0.99786 5.66927,-7.84236 5.6693,1.78422"
                style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2863" />
+               id="path460" />
           </g>
           <g
-             id="g2865">
+             id="g462">
             <path
-               d="m 226.77448,0 5.66926,3.93002 5.66928,-4.26046 5.66969,9.90292 5.66929,-6.82199 5.66928,-3.65448 5.66928,6.22462 5.66926,1.02295 5.66971,0.60514 L 277.7988,4.12727 283.4681,0"
-               style="fill:none;stroke:#ff8000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               id="path2867" />
+               d="m 226.77448,0 5.66926,141.73404 h 5.66928 5.66969 5.66929 5.66928 L 260.79056,0 h 5.66926 5.66971 5.66927 5.6693"
+               style="fill:none;stroke:#00b300;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+               id="path464" />
           </g>
           <g
-             id="g2869">
+             id="g466">
+            <path
+               d="m 226.77448,0 5.66926,5.24538 5.66928,-2.23233 5.66969,-3.91315 5.66929,10.43149 5.66928,2.42091 5.66928,-3.40362 5.66926,-1.49271 5.66971,-0.99785 5.66927,-7.84233 L 283.4681,0"
+               style="fill:none;stroke:#ff8000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path468" />
+          </g>
+          <g
+             id="g470">
             <path
                d="m 297.6415,85.04042 h 14.1734"
                style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 1.99255, 0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2871" />
+               id="path472" />
             <g
-               id="g2873">
+               id="g474">
               <g
-                 id="g2875"
+                 id="g476"
                  transform="translate(315.331,82.051)">
                 <g
-                   id="g2877">
+                   id="g478">
                   <g
-                     id="g2879"
+                     id="g480"
                      transform="translate(-341.759,-98.146)">
                     <text
                        xml:space="preserve"
                        transform="matrix(1,0,0,-1,341.759,98.146)"
                        style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                       id="text2883"><tspan
+                       id="text484"><tspan
                          x="0 7.1949897 14.66694 22.138889 32.928387 44.004803 51.338276 56.873493 59.641106"
                          y="0"
-                         id="tspan2881">CANH+Ruis</tspan></text>
+                         sodipodi:role="line"
+                         id="tspan482">CANH+Ruis</tspan></text>
                     <g
-                       id="g2885"
+                       id="g486"
                        transform="translate(341.759,98.146)" />
                   </g>
                 </g>
                 <g
-                   id="g2887"
+                   id="g488"
                    transform="translate(-315.331,-82.051)" />
               </g>
             </g>
           </g>
           <g
-             id="g2889">
+             id="g490">
             <path
                d="m 297.6415,70.867 h 14.1734"
                style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
-               id="path2891" />
+               id="path492" />
             <g
-               id="g2893">
+               id="g494">
               <g
-                 id="g2895"
+                 id="g496"
                  transform="translate(315.331,67.878)">
                 <g
-                   id="g2897">
+                   id="g498">
                   <g
-                     id="g2899"
+                     id="g500"
                      transform="translate(-341.759,-83.973)">
                     <text
                        xml:space="preserve"
                        transform="matrix(1,0,0,-1,341.759,83.973)"
                        style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                       id="text2903"><tspan
+                       id="text504"><tspan
                          x="0 7.1949897 14.66694 22.138889 31.68306 42.75948 50.092949 55.62817 58.395779"
                          y="0"
-                         id="tspan2901">CANL+Ruis</tspan></text>
+                         sodipodi:role="line"
+                         id="tspan502">CANL+Ruis</tspan></text>
                     <g
-                       id="g2905"
+                       id="g506"
                        transform="translate(341.759,83.973)" />
                   </g>
                 </g>
                 <g
-                   id="g2907"
+                   id="g508"
                    transform="translate(-315.331,-67.878)" />
               </g>
             </g>
           </g>
           <g
-             id="g2909">
+             id="g510">
             <path
                d="m 297.6415,56.69362 h 14.1734"
                style="fill:none;stroke:#ff8000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               id="path2911" />
+               id="path512" />
             <g
-               id="g2913">
+               id="g514">
               <g
-                 id="g2915"
+                 id="g516"
                  transform="translate(315.331,53.289)">
                 <g
-                   id="g2917">
+                   id="g518">
                   <g
-                     id="g2919"
+                     id="g520"
                      transform="translate(-341.759,-69.384)">
                     <text
                        xml:space="preserve"
                        transform="matrix(1,0,0,-1,341.759,69.384)"
                        style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#ff8000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                       id="text2923"><tspan
+                       id="text524"><tspan
                          x="0 7.3334699 12.86869 15.636301"
                          y="0"
-                         id="tspan2921">Ruis</tspan></text>
+                         sodipodi:role="line"
+                         id="tspan522">Ruis</tspan></text>
                     <g
-                       id="g2925"
+                       id="g526"
                        transform="translate(341.759,69.384)" />
                   </g>
                 </g>
                 <g
-                   id="g2927"
+                   id="g528"
                    transform="translate(-315.331,-53.289)" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g530">
+            <path
+               d="m 297.6415,99.21382 h 14.1734"
+               style="fill:none;stroke:#00b300;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+               id="path532" />
+            <g
+               id="g534">
+              <g
+                 id="g536"
+                 transform="translate(315.331,96.722)">
+                <g
+                   id="g538">
+                  <g
+                     id="g540"
+                     transform="translate(-341.759,-112.817)">
+                    <text
+                       xml:space="preserve"
+                       transform="matrix(1,0,0,-1,341.759,112.817)"
+                       style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#00b300;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                       id="text544"><tspan
+                         x="0 7.1949897 14.66694 22.138889 32.928387 44.004803 51.338276 56.873493 59.641106 66.887901 73.525978 77.400436 84.595428 92.067375 99.539322 109.09346 120.15991 127.49339 133.02861 135.79622 139.72546"
+                         y="0"
+                         sodipodi:role="line"
+                         id="tspan542">CANH+Ruis-(CANL+Ruis)</tspan></text>
+                    <g
+                       id="g546"
+                       transform="translate(341.759,112.817)" />
+                  </g>
+                </g>
+                <g
+                   id="g548"
+                   transform="translate(-315.331,-96.722)" />
               </g>
             </g>
           </g>
