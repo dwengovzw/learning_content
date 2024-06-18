@@ -36,7 +36,7 @@ De bus protocollen die we hier zien leggen vast hoe je elektrische signalen kan 
 
 In moderne computernetwerken liggen er nog heel wat extra lagen bovenop de **fysieke laag**. Een aantal van deze lagen heb je misschien al van gehoord. De **datalinklaag** zorgt bijvoorbeeld voor de addressering van apparaten aan de hand van een MAC adres. De **netwerklaag** zal zorgen dat je apparaten kan bereiken aan de hand van hun IP-adres. De **transportlaag** zorgt ervoor dat wanneer je grote hoeveelheden data verstuurd, deze worden opgesplitst in kleinere deeltjes en een voor een en in de juiste volgorde worden verstuurd over het netwerk (TCP). De **applicatielaag** zal de ontvangen gegevens interpreteren en deze op de correcte manier weergeven bv. als een website in je internetbrowser (HTTP).
 
-Deze manier om netwerkcommunicatie op te delen in lagen wordt vastgeled in het OSI-model (Open Systems Interconnection). Hieronder zie je een tabel met een vereenvoudigde versie van het OSI-model, het TCP/IP-model.
+Deze manier om netwerkcommunicatie op te delen in lagen van abstractie wordt vastgeled in het OSI-model (Open Systems Interconnection). Hieronder zie je een tabel met een vereenvoudigde versie van het OSI-model, het TCP/IP-model.
 
 <table>
     <tr>

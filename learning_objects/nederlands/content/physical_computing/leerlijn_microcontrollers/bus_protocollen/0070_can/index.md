@@ -42,11 +42,11 @@ Omdat het bij CAN belangrijk is dat signalen correct ontvangen kunnen worden, zi
 
 ### Differentiële signalen.
 
-In zowel I²C als SPI worden de bits die verstuurd moeten worden op de bus omgezet naar spanningen van 5V of 0V. 5V komt overeen met bitwaarde 1, 0V met bitwaarde 0. In een wagen wordt de CAN bus echter gevoelig voor ruis. De verschillende componenten in de wagen, zoals vibraties van de motor of magnetische velden opgewekt door de speakers. Deze ruis kan ervoor zorgen dat het voltage op de bus afwijkt van de verstuurde waarde. Hierdoor kunnen fouten optreden in de communicatie. Hieronder zie je een voorbeeld van een perfecte blokgolf zonder ruis.
+In zowel I²C als SPI worden de bits die verstuurd moeten worden op de bus omgezet naar spanningen van 5V of 0V. 5V komt overeen met bitwaarde 1, 0V met bitwaarde 0. In een wagen wordt de CAN bus echter bloodgesteld aan ruis. Verschillende componenten in de wagen, zoals vibraties van de motor of magnetische velden opgewekt door de speakers, kunnen ruis veroorzaken. Deze ruis kan ervoor zorgen dat het voltage op de bus afwijkt van de verstuurde waarde. Hierdoor kunnen fouten optreden in de communicatie. Hieronder zie je een voorbeeld van een perfecte blokgolf zonder ruis.
 
 ![Gewone blokgolf](images/square_wave.svg)
 
-Merk op dat zo'n signaal in de praktijk nooit voorkomt. Er zal altijd wat ruis zitten op het signaal. Daarom zal de microcontroller niet kijken of het signaal exact 5V of 0V is maar zal een waarde boven de 2.5V gelezen worden als een 1 en een waarde onder 2.5V als een 0. Wanneer er nu echter veel ruis zit op het signaal, is het mogelijk dat er een verkeerde waarde gelezen wordt. Dat kan je zien op onderstaande afbeelding.
+Merk op dat zo'n signaal in de praktijk nooit voorkomt. Er zal altijd wat ruis zitten op het signaal. Daarom zal de microcontroller niet kijken of het signaal exact 5V of 0V is maar zal een waarde boven de 2.5V gelezen worden als een 1 en een waarde onder 2.5V als een 0. Wanneer er nu echter veel ruis zit op het signaal, is het mogelijk dat er een verkeerde waarde gelezen wordt. Op onderstaande afbeelding kan je zien dat er tussen 4 en 8 ms zo veel ruis is dat het signaal op sommige plaatsen de grens van 2.5V overschrijdt. 
 
 ![Blokgolf met ruis](images/square_noise.svg)
 
@@ -74,3 +74,17 @@ De CRC wordt bij het versturen berekend op basis van de data die verstuurd zal w
 ## Op de microcontroller
 
 De Dwenguino is niet ontworpen om te communiceren via een CAN bus. Er is geen hardware voorzien die de juiste signalen kan genereren. Daarom is het nodig om gebruik te maken van een CAN bus module zoals de MCP2525 en MCP2551. Die module kan je via SPI aansluiten op de microcontroller. Meer informatie kan je vinden op [deze github pagina](https://github.com/autowp/arduino-mcp2515).
+
+div class="dwengo-content sideinfo">
+<h2 class="title">Ethernet</h2>
+<div class="content">
+
+Je hebt waarschijnlijk wel al eens een ethernet kabel gezien. Met deze kabel koppel je je computer aan het internet.
+
+<img src="images/ethernet_connector.jpg" alt="Voorbeeld van een ehternet connector"></img>
+
+ Wanneer je de connector van deze kabel bekijkt, zie je acht draden. Dit zijn eigenlijk een combinatie van vier **twisted pairs**, letterlijk rond elkaar gedraaide paren. Elk van deze paren kan net als bij CAN gebruikt worden om data te versturen. Ethernet gebruikt net als CAN de techniek met differentiële signalen om ruis te beperken.
+
+
+</div>
+</div>
