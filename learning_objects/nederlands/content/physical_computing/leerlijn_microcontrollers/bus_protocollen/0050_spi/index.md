@@ -6,7 +6,7 @@ title: "SPI"
 description: "Communicatie via spi?"
 keywords: ["dwenguino", "microcontroller", "bus", "communicatie", "i2c", "spi", "uart", "can"]
 content_type: "text/markdown"
-estimated_time: 50
+estimated_time: 30
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
