@@ -32,11 +32,47 @@ In deze leerlijn heb je al kennis gemaakt met verschillende sensoren die je kon 
 <h2 class="title">Het bredere plaatje</h2>
 <div class="content">
 
-De bus protocollen die we hier zien leggen vast hoe je elektrische signalen kan genereren om informatie tussen geïntegreerde schakelingen uit te wisselen. We noemen dergelijke communicatie **communicatie op laag niveau** sterk verwant is met de gekozen hardware. Communicatie op dit niveau wordt ook wel een communicatie op de **fysieke laag** genoemd.
+De bus protocollen die we hier zien leggen vast hoe je elektrische signalen kan genereren om informatie tussen geïntegreerde schakelingen uit te wisselen. We noemen dergelijke communicatie **communicatie op laag niveau** omdat het sterk verwant is met de gekozen hardware. Communicatie op dit niveau verloopt op de **fysieke laag** en de **datalinklaag**.
 
-In moderne computernetwerken liggen er nog heel wat extra lagen bovenop de **fysieke laag**. Een aantal van deze lagen heb je misschien al van gehoord. De **Data link laag** zorgt bijvoorbeeld voor de addressering van apparaten aan de hand van een MAC adres. De **netwerk laag** zal zorgen dat je apparaten kan bereiken aan de hand van hun IP-adres. De **transport laag** zorgt ervoor dat wanneer je grote hoeveelheden data verstuurd, deze worden opgesplitst in kleinere deeltjes en een voor een en in de juiste volgorde worden verstuurd over het netwerk (TCP). De **applicatie** laag zal de ontvangen gegevens interpreteren en deze op de correcte manier weergeven bv. als een video in de Netflix applicatie.
+In moderne computernetwerken liggen er nog heel wat extra lagen bovenop de **fysieke laag**. Een aantal van deze lagen heb je misschien al van gehoord. De **Data link laag** zorgt bijvoorbeeld voor de addressering van apparaten aan de hand van een MAC adres. De **netwerk laag** zal zorgen dat je apparaten kan bereiken aan de hand van hun IP-adres. De **transport laag** zorgt ervoor dat wanneer je grote hoeveelheden data verstuurd, deze worden opgesplitst in kleinere deeltjes en een voor een en in de juiste volgorde worden verstuurd over het netwerk (TCP). De **applicatie** laag zal de ontvangen gegevens interpreteren en deze op de correcte manier weergeven bv. als een website in je internetbrowser (HTTP).
 
-Deze manier om netwerkcommunicatie op te delen in lagen wordt vastgeled in het OSI-model.
+Deze manier om netwerkcommunicatie op te delen in lagen wordt vastgeled in het OSI-model (Open Systems Interconnection). Hieronder zie je een tabel met een vereenvoudigde versie van het OSI-model, het TCP/IP-model.
+
+<table>
+    <tr>
+        <td colspan=3>Het TCP/IP-model</td>
+    </tr>
+    <tr>
+        <td>Naam laag</td>
+        <td>Data eenheid</td>
+        <td>Functie laag</td>
+    </tr>
+    <tr>
+        <td>5. Applicatielaag</td>
+        <td>Applicatie data</td>
+        <td>Deze laag is verantwoordelijk om de gegevens die toekomen in een applicatie correct te interpreteren en weer te geven. De Netflix applicatie zal de data omzetten naar een video, je internetbrowser zal de data omzetten naar een website.</td>
+    </tr>
+    <tr>
+        <td>4. Transportlaag</td>
+        <td>Segment</td>
+        <td>Deze laag zorgt ervoor dat grote hoeveelheden data op een correcte manier verstuurd kunnen worden. Daarvoor zal deze laag de data opsplitsen in kleinere deeltjes en deze een voor een en in de correct volgorde versturen. Deze laag kan ook foutdetectie en foutcorrectie toepassen. Het meestgebruikte protocol op deze laag is TCP (Transport Control Protocol).</td>
+    </tr>
+    <tr>
+        <td>3. Netwerklaag</td>
+        <td>Packet</td>
+        <td>De netwerklaag, ook wel de IP-laag genoemd, zal ervoor zorgen dat elke computer die met het netwerk verbonden is een uniek adres krijgt (het IP-adres). Daarnaast legt het vast hoe gegevens over het internet verstuurd kunnen worden via routers. </td>
+    </tr>
+    <tr>
+        <td>2. Datalinklaag</td>
+        <td>Frame</td>
+        <td>De datalinklaag legt vast hoe gegevens verstuurd worden op de fysieke drager (bv. op een bus). Wanneer er meerdere apparaten verbonden zijn met eenzelfde bus, krijgen deze een uniek adres (bv. een MAC-adres) om ze te kunnen onderscheiden. Er zijn ook mechanismen nodig om botsingen op de bus te vermijden (bv. CSMA/CD)</td>
+    </tr>
+    <tr>
+        <td>1 Fysieke laag</td>
+        <td>Bit</td>
+        <td>Deze laag is verantwoordelijk om de binaire data die verstuurd moet worden om te zetten in elektrische signalen. Je zal hier voorbeelden van zien in het lesmateriaal over SPI en CAN.</td>
+    </tr>
+</table>
 
 </div>
 </div>
