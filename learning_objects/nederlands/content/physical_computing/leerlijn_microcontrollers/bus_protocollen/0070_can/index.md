@@ -75,7 +75,7 @@ De CRC wordt bij het versturen berekend op basis van de data die verstuurd zal w
 
 De Dwenguino is niet ontworpen om te communiceren via een CAN bus. Er is geen hardware voorzien die de juiste signalen kan genereren. Daarom is het nodig om gebruik te maken van een CAN bus module zoals de MCP2525 en MCP2551. Die module kan je via SPI aansluiten op de microcontroller. Meer informatie kan je vinden op [deze github pagina](https://github.com/autowp/arduino-mcp2515).
 
-div class="dwengo-content sideinfo">
+<div class="dwengo-content sideinfo">
 <h2 class="title">Ethernet</h2>
 <div class="content">
 
