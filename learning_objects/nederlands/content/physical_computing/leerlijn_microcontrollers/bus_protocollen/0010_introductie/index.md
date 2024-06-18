@@ -40,35 +40,38 @@ Deze manier om netwerkcommunicatie op te delen in lagen wordt vastgeled in het O
 
 <table>
     <tr>
-        <td colspan=3>Het TCP/IP-model</td>
-    </tr>
-    <tr>
+        <td>Nr.</td>
         <td>Naam laag</td>
         <td>Data eenheid</td>
         <td>Functie laag</td>
     </tr>
     <tr>
-        <td>5. Applicatielaag</td>
-        <td>Applicatie data</td>
+        <td>5</td>
+        <td>Applicatielaag</td>
+        <td>Applicatiegegevens</td>
         <td>Deze laag is verantwoordelijk om de gegevens die toekomen in een applicatie correct te interpreteren en weer te geven. De Netflix applicatie zal de data omzetten naar een video, je internetbrowser zal de data omzetten naar een website.</td>
     </tr>
     <tr>
-        <td>4. Transportlaag</td>
+        <td>4</td>
+        <td>Transportlaag</td>
         <td>Segment</td>
         <td>Deze laag zorgt ervoor dat grote hoeveelheden data op een correcte manier verstuurd kunnen worden. Daarvoor zal deze laag de data opsplitsen in kleinere deeltjes en deze een voor een en in de correct volgorde versturen. Deze laag kan ook foutdetectie en foutcorrectie toepassen. Het meestgebruikte protocol op deze laag is TCP (Transport Control Protocol).</td>
     </tr>
     <tr>
-        <td>3. Netwerklaag</td>
+        <td>3</td>
+        <td>Netwerklaag</td>
         <td>Packet</td>
         <td>De netwerklaag, ook wel de IP-laag genoemd, zal ervoor zorgen dat elke computer die met het netwerk verbonden is een uniek adres krijgt (het IP-adres). Daarnaast legt het vast hoe gegevens over het internet verstuurd kunnen worden via routers. </td>
     </tr>
     <tr>
-        <td>2. Datalinklaag</td>
+        <td>2</td>
+        <td>Datalinklaag</td>
         <td>Frame</td>
         <td>De datalinklaag legt vast hoe gegevens verstuurd worden op de fysieke drager (bv. op een bus). Wanneer er meerdere apparaten verbonden zijn met eenzelfde bus, krijgen deze een uniek adres (bv. een MAC-adres) om ze te kunnen onderscheiden. Er zijn ook mechanismen nodig om botsingen op de bus te vermijden (bv. CSMA/CD)</td>
     </tr>
     <tr>
-        <td>1 Fysieke laag</td>
+        <td>1</td>
+        <td>Fysieke laag</td>
         <td>Bit</td>
         <td>Deze laag is verantwoordelijk om de binaire data die verstuurd moet worden om te zetten in elektrische signalen. Je zal hier voorbeelden van zien in het lesmateriaal over SPI en CAN.</td>
     </tr>
