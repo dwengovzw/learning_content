@@ -65,16 +65,6 @@ Wiskundig krijg je dan
 \\[\text{CANH} + \text{ruis} -(\text{CANL} + \text{ruis}) = \text{CANH} + \text{ruis} - \text{CANL} - \text{ruis} = \text{CANH} - \text{CANL}  \\]
 Je ziet dus dat je de ruis van zichzelf aftrekt waardoor het verdwijnt. 
 
-### Cyclic redundancy check (CRC)
-
-Apparaten die verbonden zijn met de CAN bus zullen volgens een bepaalde structuur gegevens versturen. Deze structuur noemen we het data frame. Het data frame bestaat uit verschillende soorten informatie. Eerst komen er 20 bits die informatie geven over het data frame zelf. Zo bevatten ze de lengte van de data die zal komen en de prioriteit ven het bericht. Daarna volgen 0 tot 64 bytes aan data. Na de data volgen 28 bits die het bericht afsluiten. 15 van deze 28 bits bevatten de cyclic redundancy check (CRC). 
-
-De CRC wordt bij het versturen berekend op basis van de data die verstuurd zal worden. De verzender zal de data delen door een vooraf afgesproken waarde. Deze gehele deling levert dan een rest op. Deze rest is de CRC en wordt meegestuurd met de data naar de ontvanger. De ontvanger zal de ontvangen data ook delen door de vooraf afgesproken waarde en controleren of de rest overeenkomt met de CRC in het data frame. Als dat zo is, is de kans groot dat de data correct ontvangen werd. Als de CRC niet overeenkomt met de bekomen rest, dan weet de ontvanger dat er een fout is opgetreden in de communicatie. Deze kan de informatie dan opnieuw opvragen aan de verzender.
-
-## Op de microcontroller
-
-De Dwenguino is niet ontworpen om te communiceren via een CAN bus. Er is geen hardware voorzien die de juiste signalen kan genereren. Daarom is het nodig om gebruik te maken van een CAN bus module zoals de MCP2525 en MCP2551. Die module kan je via SPI aansluiten op de microcontroller. Meer informatie kan je vinden op [deze github pagina](https://github.com/autowp/arduino-mcp2515).
-
 <div class="dwengo-content sideinfo">
 <h2 class="title">Ethernet</h2>
 <div class="content">
@@ -88,3 +78,14 @@ Je hebt waarschijnlijk wel al eens een ethernet kabel gezien. Met deze kabel kop
 
 </div>
 </div>
+
+### Cyclic redundancy check (CRC)
+
+Apparaten die verbonden zijn met de CAN bus zullen volgens een bepaalde structuur gegevens versturen. Deze structuur noemen we het data frame. Het data frame bestaat uit verschillende soorten informatie. Eerst komen er 20 bits die informatie geven over het data frame zelf. Zo bevatten ze de lengte van de data die zal komen en de prioriteit ven het bericht. Daarna volgen 0 tot 64 bytes aan data. Na de data volgen 28 bits die het bericht afsluiten. 15 van deze 28 bits bevatten de cyclic redundancy check (CRC). 
+
+De CRC wordt bij het versturen berekend op basis van de data die verstuurd zal worden. De verzender zal de data delen door een vooraf afgesproken waarde. Deze gehele deling levert dan een rest op. Deze rest is de CRC en wordt meegestuurd met de data naar de ontvanger. De ontvanger zal de ontvangen data ook delen door de vooraf afgesproken waarde en controleren of de rest overeenkomt met de CRC in het data frame. Als dat zo is, is de kans groot dat de data correct ontvangen werd. Als de CRC niet overeenkomt met de bekomen rest, dan weet de ontvanger dat er een fout is opgetreden in de communicatie. Deze kan de informatie dan opnieuw opvragen aan de verzender.
+
+## Op de microcontroller
+
+De Dwenguino is niet ontworpen om te communiceren via een CAN bus. Er is geen hardware voorzien die de juiste signalen kan genereren. Daarom is het nodig om gebruik te maken van een CAN bus module zoals de MCP2525 en MCP2551. Die module kan je via SPI aansluiten op de microcontroller. Meer informatie kan je vinden op [deze github pagina](https://github.com/autowp/arduino-mcp2515).
+
