@@ -28,4 +28,11 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
 
 <ul class="dwengo-content leerplandoelen">
     <li>WD3_ 11.19.07 De leerlingen gebruiken elektronische componenten en een programmeerbare stuureenheid in een technische toepassing.</li>
+    <li>BK2_02.10.05 De leerlingen sluiten componenten rond datacommunicatie aan.</li>
+    <li>BK2_02.10.10 De leerlingen programmeren een logische stuurmodule.</li>
+    <li>WD3_ 07.07.02 De leerlingen lichten de opbouw en de werking toe van datacommunicatie en van een netwerk.</li>
+    <li>BK3_02.10.03 De leerlingen sluiten componenten met betrekking tot datacommunicatie en netwerkverbindingen aan.</li>
+    <li>BK3_02.06 De leerlingen realiseren een netwerk.</li>
+    <li>WD3_ 07.07.02 De leerlingen lichten de opbouw en de werking toe van datacommunicatie en van een netwerk.</li>
+    <li>WD3_ 07.08.02 De leerlingen lichten de opbouw en de werking toe van datacommunicatie en van een netwerk.</li>
 </ul>
