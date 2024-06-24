@@ -75,7 +75,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-bus-protocollen-introductie-can",
+              "hruid": "org-dwengo-pc-wifi-web-app",
               "version": "1",
               "language": "nl"
             }
@@ -83,7 +83,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-bus-protocollen-introductie-can",
+        "learningobject_hruid": "org-dwengo-pc-wifi-web-app",
         "version": "1",
         "language": "nl",
         "transitions": [
