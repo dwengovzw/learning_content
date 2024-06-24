@@ -83,6 +83,7 @@ DwenguinoWIFI DwenguinoWIFI(ssid, password, true);
     - result: Een string variabele waarin je het resultaat
               dat teruggestuurd moet worden, kan kopiëren.
 */
+
 void handleLEDToggle(char* query, char* result){
   ledValue ^= 1;
   digitalWrite(13, ledValue);
