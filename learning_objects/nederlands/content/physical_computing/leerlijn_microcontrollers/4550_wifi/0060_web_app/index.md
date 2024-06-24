@@ -45,6 +45,7 @@ Om met een webserver te communiceren kunnen we een eenvoudige webapplicatie make
             // Functie wordt opgeroepen bij klik op knop.
             function toggleLed() {
                 // Stuur bericht naar server
+                // Vul hier het juiste IP-adres in!
                 fetch('http://192.168.135.6/led') 
                     .then(response => {
                         if (!response.ok) {
