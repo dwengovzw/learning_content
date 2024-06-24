@@ -49,6 +49,7 @@ Hieronder zie je een basisprogramma waarmee je de Dwenguino kan gebruiken als we
    en het wachtwoord van je wifi netwerk
    correct aanvult.
 */
+
 const char* ssid = "Naam-van-het-wifi-netwerk";
 const char* password = "Wachtwoord-van-het-wifi-netwerk";
 
@@ -67,6 +68,7 @@ unsigned char ledValue = 0;
               seriële monitor.
 
 */
+
 DwenguinoWIFI DwenguinoWIFI(ssid, password, true);
 
 
@@ -115,6 +117,7 @@ void setup() {
       - De tweede paramter verwijst naar de fuctie die het
         bericht moet verwerken. Hier de handleLEDToggle functie.
   */
+  
   DwenguinoWIFI.routeManager.addRouteHandler("led", handleLEDToggle);
   
   // Initialiseer de wifi module
