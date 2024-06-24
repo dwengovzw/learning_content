@@ -63,7 +63,8 @@ Om met een webserver te communiceren kunnen we een eenvoudige webapplicatie make
             }
 
             // Luister naar drukken op de knop.
-            document.getElementById('toggleButton').addEventListener('click', toggleLed);
+            document.getElementById('toggleButton')
+                    .addEventListener('click', toggleLed);
         </script>
     </body>
     </html>
