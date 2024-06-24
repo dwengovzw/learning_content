@@ -117,7 +117,7 @@ void setup() {
       - De tweede paramter verwijst naar de fuctie die het
         bericht moet verwerken. Hier de handleLEDToggle functie.
   */
-  
+
   DwenguinoWIFI.routeManager.addRouteHandler("led", handleLEDToggle);
   
   // Initialiseer de wifi module
@@ -144,3 +144,39 @@ void loop() {
 Er zijn drie belangrijke concepten die je moet begrijpen om je eigen webserver te kunnen bouwen zijn **routes**, **queries** en **handlers**. Routes en queries kunnen we makkelijk illustreren aan de hand van een voorbeeld url. De route en de query komen op het einde van de url. Deze informatie zegt aan de webserver hoe deze de request moet verwerken. De route legt vast door welke functie de request verwerkt zal worden. De query bevat de parameters die deze methode krijgt.
 
 ![Decompositie van url.](images/url_description_plain.png)
+
+Op de webserver koppelen we een functie aan een route. Deze functie zal berichten met deze route verwerken. Zo'n functie noemen we een **handler** functie. De koppeling tussen route en handler gebeurd met de volgende lijn code.
+
+<pre>
+<code class="language-cpp" data-filename="filename.cpp">
+
+  DwenguinoWIFI.routeManager.addRouteHandler("led", handleLEDToggle);
+
+</code>
+</pre>
+
+De handler zal dan berichten verwerken. Daarvoor krijgt deze twee parameters. De **query**, deze bevat extra parameters in key=value formaat. Het **result** buffer, dit is een string variabele waar je het antwoord naartoe kan kopiëren. 
+
+<pre>
+<code class="language-cpp" data-filename="filename.cpp">
+
+void handleLEDToggle(char* query, char* result){
+  ledValue ^= 1;
+  digitalWrite(13, ledValue);
+  strcpy(result, String(ledValue).c_str());
+}
+
+</code>
+</pre>
+
+## Berichten sturen naar de Dwenguino
+
+Door bovenstaande voorbeeldcode te uploaden naar de Dwenguino zal deze in staat zijn om te verbinden met je lokaal wifi netwerk. Bovendien zal de Dwenguino luisteren naar HTTP requests en bij een request naar de route *led*, LED13 van toestand veranderen. Voor we HTTP request kunnen sturen naar de Dwenguino, moeten we het IP-adres kennen. Daarvoor moeten we de informatie lezen die de Dwenguino verstuurd naar de seriële monitor. Voer daarvoor de volgende stappen uit:
+
+- Zorg ervoor dat je bovenstaande code hebt geüpload naar de Dwenguino. Let op dat je de naam en het wachtwoord van het wifi netwerk correct ingevuld hebt.
+- Zorg dat de Dwenguino met de usb-kabel verbonden is met de computer.
+- Zorg dat je in de Dwengo simulator de seriële monitor kan zien. Bekijk indien nodig het [leerpad over de seriële monitor](https://dwengo.org/learning-path.html?hruid=pc_leerlijn_seriele_monitor&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_microcontrollers_seriele_monitor_introductie;nl;1).
+- Druk op de reset knop van de Dwenguino en zorg ervoor dat je binnen de 5 seconden verbinding maakt met het bord vanuit de seriële monitor. Zo ben je zeker dat je geen berichten gemist hebt.
+- Je ziet informatie over de verbinding met het netwerk. Ga op zoek naar een lijn die start met **+CIFSR:STAIP**. Daar zie je het IP-adres staan. Het IP-adres bevat vier cijfers die gescheiden worden door een punt (bv. 192.168.36.6).
+
+Nu we het IP-adres kennen, kunnen we vanop de computer berichten sturen naar de Dwenguino.
