@@ -42,25 +42,27 @@ Om met een webserver te communiceren kunnen we een eenvoudige webapplicatie make
         <button id="toggleButton">Toggle LED</button>
 
         <script>
-            // Function to handle button click
+            // Functie wordt opgeroepen bij klik op knop.
             function toggleLed() {
-                fetch('http://192.168.135.6/led')  // Sending GET request to the server
+                // Stuur bericht naar server
+                fetch('http://192.168.135.6/led') 
                     .then(response => {
                         if (!response.ok) {
-                            throw new Error('Network response was not ok');
+                            throw new Error('Antwoord niet OK');
                         }
-                        return response.text();  // Assuming the response is plain text
+                        // Geef het antwoord terug als tekst
+                        return response.text();  
                     })
                     .then(data => {
-                        console.log('Response:', data);  // Logging the response
-                        // You can add more handling here if needed
+                        console.log('Response:', data);  
+                        // Hier kan je de respons afhandelen
                     })
                     .catch(error => {
-                        console.error('There has been a problem with your fetch operation:', error);
+                        console.error('Netwerkfout:', error);
                     });
             }
 
-            // Attach event listener to the button
+            // Luister naar drukken op de knop.
             document.getElementById('toggleButton').addEventListener('click', toggleLed);
         </script>
     </body>
