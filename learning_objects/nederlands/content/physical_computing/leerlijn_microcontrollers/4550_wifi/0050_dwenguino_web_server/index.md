@@ -139,6 +139,7 @@ void loop() {
     </pre>
 </div>
 
+
 ## Route, query en handler
 
 Er zijn drie belangrijke concepten die je moet begrijpen om je eigen webserver te kunnen bouwen zijn **routes**, **queries** en **handlers**. Routes en queries kunnen we makkelijk illustreren aan de hand van een voorbeeld url. De route en de query komen op het einde van de url. Deze informatie zegt aan de webserver hoe deze de request moet verwerken. De route legt vast door welke functie de request verwerkt zal worden. De query bevat de parameters die deze methode krijgt.
@@ -168,6 +169,14 @@ void handleLEDToggle(char* query, char* result){
 
 </code>
 </pre>
+
+
+<div class="dwengo-content important">
+<h2 class="title">Opgelet!</h2>
+<div class="content">
+Omdat de Dwenguino maar een beperkte rekenkracht heeft, worden er grenzen gesteld aan hoe de HTTP requests eruit mogen zien. Zo kan de Dwenguino enkel <strong>GET</strong> requests ontvangen. De lengte van de <strong>route</strong> is beperkt tot <strong>maximaal 20 tekens</strong>, het <strong>aantal routes</strong> dat je kan toevoegen is beperkt tot <strong>10</strong> en de Dwenguino kan <strong>maximaal 100 tekens terugsturen</strong> als antwoord.
+</div>
+</div>
 
 ## Berichten sturen naar de Dwenguino
 
