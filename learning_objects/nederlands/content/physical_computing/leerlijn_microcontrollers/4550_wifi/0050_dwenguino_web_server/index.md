@@ -140,4 +140,4 @@ void loop() {
 
 Er zijn drie belangrijke concepten die je moet begrijpen om je eigen webserver te kunnen bouwen zijn **routes**, **queries** en **handlers**. Routes en queries kunnen we makkelijk illustreren aan de hand van een voorbeeld url. De route en de query komen op het einde van de url. Deze informatie zegt aan de webserver hoe deze de request moet verwerken. De route legt vast door welke functie de request verwerkt zal worden. De query bevat de parameters die deze methode krijgt.
 
-![Decompositie van url.](images/url_description_plain.svg)
+![Decompositie van url.](images/url_description_plain.png)
