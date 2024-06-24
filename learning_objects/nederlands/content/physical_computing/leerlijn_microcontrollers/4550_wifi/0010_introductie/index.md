@@ -21,3 +21,8 @@ copyright: "CC BY dwengo"
 target_ages: [16, 17, 18]
 teacher_exclusive: False
 ---
+
+## Introductie
+
+In dit leerpad zal je zien hoe je via wifi kan communiceren met de Dwenguino. Omdat de Dwenguino zelf geen wifi module heeft, zullen we een externe wifi module aansluiten. Met deze module, kan je de Dwenguino gebruiken als IoT (Internet of Things) apparaat. Zo zal je vanop afstand de sensoren op die aangesloten zijn op de Dwenguino kunnen lezen en de actuatoren aangesloten op de Dwenguino kunnen aansturen. 
+
