@@ -90,7 +90,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-bus-protocollen-introductie-leerplandoelen",
+              "hruid": "org-dwengo-pc-wifi-web-app-leerplandoelen",
               "version": "1",
               "language": "nl"
             }
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-bus-protocollen-introductie-leerplandoelen",
+        "learningobject_hruid": "org-dwengo-pc-wifi-web-app-leerplandoelen",
         "version": "1",
         "language": "nl"
       }
