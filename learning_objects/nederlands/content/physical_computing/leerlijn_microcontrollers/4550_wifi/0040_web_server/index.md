@@ -24,7 +24,7 @@ teacher_exclusive: False
 
 # Webserver
 
-Hier configureren we de Dwenguino als een **webserver**. Dit is een apparaat dat verbonden is met het internet en constant luistert naar inkomende berichten. Wanneer de server een bericht ontvangt, zal deze het bericht verwerken en een antwoord sturen naar de verzender van het bericht. Een webserver verwacht dat berichten een specifiek formaat hebben. Dit formaat wordt vastgelegd in de **HTTP** standaard. HTTP heeft een aantal berichttypes een aantal voorbeelden zijn **GET**, **POST** en **PUT**. 
+Een **webserver** is een apparaat/computer die verbonden is met het internet en constant luistert naar inkomende berichten. Wanneer de server een bericht ontvangt, zal deze het bericht verwerken en een antwoord sturen naar de verzender van het bericht. Een webserver verwacht dat berichten een specifiek formaat hebben. Dit formaat wordt vastgelegd in de **HTTP** standaard. HTTP heeft een aantal berichttypes een aantal voorbeelden zijn **GET**, **POST** en **PUT**. 
 
 
 <div class="dwengo-content sideinfo">
