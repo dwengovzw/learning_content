@@ -32,7 +32,7 @@ Voor we de Dwenguino met het netwerk kunnen verbinden, hebben we dus een wifi ne
 
 ## Code voor de webserver
 
-Hieronder zie je een basisprogramma waarmee je de Dwenguino kan gebruiken als webserver. In de commentaar staat uitgelegd wat de verschillende onderdelen van de code doen. De code zal verbinden met een wifi netwerk en ervoor zorgen dat de Dwenguino luistert naar HTTP berichten. Wanneer deze naar de /led url gestuurd worden, zal de Dwenguino LED13 aan of uit zetten.
+Hieronder zie je een basisprogramma waarmee je de Dwenguino kan gebruiken als webserver. In de commentaar staat uitgelegd wat de verschillende onderdelen van de code doen. De code zal verbinden met een wifi netwerk en ervoor zorgen dat de Dwenguino luistert naar HTTP berichten. Wanneer deze naar de */led* url gestuurd worden, zal de Dwenguino LED13 aan of uit zetten.
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
@@ -178,5 +178,7 @@ Door bovenstaande voorbeeldcode te uploaden naar de Dwenguino zal deze in staat 
 - Zorg dat je in de Dwengo simulator de seriële monitor kan zien. Bekijk indien nodig het [leerpad over de seriële monitor](https://dwengo.org/learning-path.html?hruid=pc_leerlijn_seriele_monitor&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_microcontrollers_seriele_monitor_introductie;nl;1).
 - Druk op de reset knop van de Dwenguino en zorg ervoor dat je binnen de 5 seconden verbinding maakt met het bord vanuit de seriële monitor. Zo ben je zeker dat je geen berichten gemist hebt.
 - Je ziet informatie over de verbinding met het netwerk. Ga op zoek naar een lijn die start met **+CIFSR:STAIP**. Daar zie je het IP-adres staan. Het IP-adres bevat vier cijfers die gescheiden worden door een punt (bv. 192.168.36.6).
+
+![Locatie IP-adres in seriële monitor.](images/ip_in_serial.png)
 
 Nu we het IP-adres kennen, kunnen we vanop de computer berichten sturen naar de Dwenguino.
