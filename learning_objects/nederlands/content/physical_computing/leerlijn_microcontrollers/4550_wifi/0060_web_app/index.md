@@ -24,7 +24,7 @@ teacher_exclusive: False
 
 # Een webapplicatie
 
-Om met een webserver te communiceren kunnen we een eenvoudige webapplicatie maken. Hier maken we een eenvoudige HTML pagina met JavaScript code. Deze website toont een knop. Wanneer er op de knop gedrukt wordt, zal een bericht gestuurd worden naar de webserver (http://192.168.135.6/led).
+Om met een webserver te communiceren kunnen we een eenvoudige webapplicatie maken. Hier maken we een eenvoudige HTML pagina met JavaScript code. Deze website toont een knop. Wanneer er op de knop gedrukt wordt, zal een bericht gestuurd worden naar de webserver (Naar url: http://192.168.135.6/led).
 
 
 <div class="dwengo-content dwengo-code-simulator">
