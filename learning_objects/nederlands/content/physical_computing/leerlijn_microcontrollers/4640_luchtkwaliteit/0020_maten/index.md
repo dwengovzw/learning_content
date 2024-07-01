@@ -1,5 +1,5 @@
 ---
-hruid: org-dwengo-pc-luchtkwaliteit-maten2
+hruid: org-dwengo-pc-luchtkwaliteit-maten
 version: 1
 language: nl
 title: "Maten voor luchtkwaliteit"
