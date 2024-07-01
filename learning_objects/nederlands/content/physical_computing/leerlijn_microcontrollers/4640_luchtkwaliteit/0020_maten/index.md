@@ -22,6 +22,7 @@ target_ages: [16, 17, 18]
 teacher_exclusive: False
 ---
 
+
 ## Maten voor luchtkwaliteit
 
 Er zijn heel wat factoren die de luchtkwaliteit in een ruimte kunnen beïnvloeden. Deze worden opgedeeld in drie grote groepen:
