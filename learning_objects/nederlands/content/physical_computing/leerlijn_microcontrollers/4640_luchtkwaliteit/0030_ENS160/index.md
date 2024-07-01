@@ -71,50 +71,52 @@ De AD0 pin legt vast wat de waarde is van de laatste bit in het I²C adres van d
     <pre>
 <code class="language-cpp" data-filename="luchtkwaliteit_serieel.cpp">
 
-// Bibliotheken inladen
-#include <Dwenguino.h>
-#include <Wire.h>
-#include "ScioSense_ENS160.h"
+    // Bibliotheken inladen
+    #include <Dwenguino.h>
+    #include <Wire.h>
+    #include "ScioSense_ENS160.h"
 
-// Sensorobject maken
-ScioSense_ENS160 ens160(ENS160_I2CADDR_0);
 
-void setup() {
-  initDwenguino();
+    // Sensorobject maken
+    ScioSense_ENS160 ens160(ENS160_I2CADDR_0);
 
-  // Start de seriële communicatie
-  Serial.begin(9600);
-  while (!Serial) {}
 
-  Serial.println("--------------------------------------------------");
-  Serial.println("ENS160 - luchtkwaliteitsensor");
-  Serial.println();
-  Serial.println("--------------------------------------------------");
-  delay(1000);
+    void setup() {
+        initDwenguino();
 
-  // Initialiseer de sensor
-  ens160.begin();
-  Serial.println(ens160.available() ? "done." : "failed!");
-  if (ens160.available()) {
-    Serial.println("Instellen op standaard modus");
-    Serial.println(ens160.setMode(ENS160_OPMODE_STD) ? "done." : "failed!");
-  }
-}
+        // Start de seriële communicatie
+        Serial.begin(9600);
+        while (!Serial) {}
 
-void loop() {
-  // Doe een meting.  
-  if (ens160.available()) {
-    ens160.measure(true);
-    ens160.measureRaw(true);
-    Serial.print("AQI: ");
-    Serial.print(ens160.getAQI());
-    Serial.print("\t");
-    Serial.print("TVOC: ");
-    Serial.print(ens160.getTVOC());
-    Serial.println("ppb");
-  }
-  delay(1000);
-}
+        Serial.println("--------------------------------------------------");
+        Serial.println("ENS160 - luchtkwaliteitsensor");
+        Serial.println();
+        Serial.println("--------------------------------------------------");
+        delay(1000);
+
+        // Initialiseer de sensor
+        ens160.begin();
+        Serial.println(ens160.available() ? "done." : "failed!");
+        if (ens160.available()) {
+            Serial.println("Instellen op standaard modus");
+            Serial.println(ens160.setMode(ENS160_OPMODE_STD) ? "done." : "failed!");
+        }
+    }
+
+    void loop() {
+        // Doe een meting.  
+        if (ens160.available()) {
+            ens160.measure(true);
+            ens160.measureRaw(true);
+            Serial.print("AQI: ");
+            Serial.print(ens160.getAQI());
+            Serial.print("\t");
+            Serial.print("TVOC: ");
+            Serial.print(ens160.getTVOC());
+            Serial.println("ppb");
+        }
+        delay(1000);
+    }
 
 </code>
     </pre>
