@@ -33,7 +33,7 @@ De ENS160 maakt gebruik van I²C. We sluiten de sensor dan ook zo aan op de Dwen
 <table>
     <tr>
         <th>Dwenguino</th>
-        <th>ESP-01</th>
+        <th>ENS160</th>
     </tr>
     <tr>
         <td>+</td>
