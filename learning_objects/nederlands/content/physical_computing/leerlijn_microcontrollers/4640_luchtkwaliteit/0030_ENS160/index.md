@@ -2,7 +2,7 @@
 hruid: org-dwengo-pc-luchtkwaliteit-ens160
 version: 1
 language: nl
-title: "Introductie"
+title: "VOS en AQI"
 description: "Hoe kan ik de luchtkwaliteit meten?"
 keywords: ["dwenguino", "microcontroller", "wifi", "i2c", "webserver", "internet", "co2", "luchtkwaliteit"]
 content_type: "text/markdown"
