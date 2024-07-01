@@ -4,9 +4,9 @@ version: 1
 language: nl
 title: "Introductie"
 description: "Hoe kan ik de luchtkwaliteit meten?"
-keywords: ["dwenguino", "microcontroller", "wifi", "i2c", "webserver", "web", "internet", "co2", "luchtkwaliteit"]
+keywords: ["dwenguino", "microcontroller", "wifi", "i2c", "webserver", "internet", "co2", "luchtkwaliteit"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 8
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
