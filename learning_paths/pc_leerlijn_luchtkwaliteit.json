@@ -30,7 +30,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-wifi-esp",
+              "hruid": "org-dwengo-pc-luchtkwaliteit-ens160",
               "version": "1",
               "language": "nl"
             }
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-wifi-esp",
+        "learningobject_hruid": "org-dwengo-pc-luchtkwaliteit-ens160",
         "version": "1",
         "language": "nl",
         "transitions": [

@@ -35,6 +35,7 @@ Zowel de chemische als fysische parameters van de luchtkwaliteit kunnen we makke
 In dit leerpad gebruiken we twee sensoren om de volgende parameters te meten:
 * Het <strong>CO<sub>2</sub></strong> gehalte in ppm (deeltjes per miljoen).
 * De hoeveelheid <strong>volatiele organische stoffen (VOS)</strong>, dit is een combinatie van de concentratie van de stoffen: ethanol, waterstof, aceton, CO en tolueen.
+* De **air quality index (AQI)**: Dit is een maat dat berekend wordt op basis van van de gemeten concentraties van giftige stoffen in de lucht. De sensor die we gebruiken geeft een waarde voor de luchtkwaliteit terug van 1 tot en met 5. Met 1 een perfecte luchtkwaliteit en 5 een zeer ongezonde luchtkwaliteit. 
 * De **temperatuur**
 * De **luchtvochtigheid**
 
