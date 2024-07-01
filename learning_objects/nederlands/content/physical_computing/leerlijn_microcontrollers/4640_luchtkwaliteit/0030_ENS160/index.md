@@ -86,10 +86,10 @@ void setup() {
   Serial.begin(9600);
   while (!Serial) {}
 
-  Serial.println("------------------------------------------------------------");
+  Serial.println("--------------------------------------------------");
   Serial.println("ENS160 - luchtkwaliteitsensor");
   Serial.println();
-  Serial.println("------------------------------------------------------------");
+  Serial.println("--------------------------------------------------");
   delay(1000);
 
   // Initialiseer de sensor
@@ -106,8 +106,12 @@ void loop() {
   if (ens160.available()) {
     ens160.measure(true);
     ens160.measureRaw(true);
-    Serial.print("AQI: ");Serial.print(ens160.getAQI());Serial.print("\t");
-    Serial.print("TVOC: ");Serial.print(ens160.getTVOC());Serial.println("ppb");
+    Serial.print("AQI: ");
+    Serial.print(ens160.getAQI());
+    Serial.print("\t");
+    Serial.print("TVOC: ");
+    Serial.print(ens160.getTVOC());
+    Serial.println("ppb");
   }
   delay(1000);
 }
