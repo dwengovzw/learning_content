@@ -60,7 +60,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-wifi-dwenguino-webserver",
+              "hruid": "org-dwengo-pc-luchtkwaliteit-integratie",
               "version": "1",
               "language": "nl"
             }
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-wifi-dwenguino-webserver",
+        "learningobject_hruid": "org-dwengo-pc-luchtkwaliteit-integratie",
         "version": "1",
         "language": "nl",
         "transitions": [
