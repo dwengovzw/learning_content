@@ -2,7 +2,7 @@
 hruid: org-dwengo-pc-luchtkwaliteit-scd40
 version: 1
 language: nl
-title: "Introductie"
+title: "CO2,tTemperatuur en luchtvochtigheid"
 description: "Hoe kan ik de luchtkwaliteit meten?"
 keywords: ["dwenguino", "microcontroller", "wifi", "i2c", "webserver", "internet", "co2", "luchtkwaliteit"]
 content_type: "text/markdown"
