@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-wifi-webserver",
+              "hruid": "org-dwengo-pc-luchtkwaliteit-scd40",
               "version": "1",
               "language": "nl"
             }
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-wifi-webserver",
+        "learningobject_hruid": "org-dwengo-pc-luchtkwaliteit-scd40",
         "version": "1",
         "language": "nl",
         "transitions": [
