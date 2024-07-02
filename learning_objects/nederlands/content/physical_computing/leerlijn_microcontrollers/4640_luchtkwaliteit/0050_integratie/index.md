@@ -41,3 +41,10 @@ CO2 (ppm);Temp (°C);Vocht (%);TVOC (ppb);AQI
 </pre>
 </div>
 </div>
+
+<div class="dwengo-content sideinfo">
+<h2 class="title">ppm en ppb</h2>
+<div class="content">
+De eenheden ppm en ppb staan respectievelijk voor <strong>parts per million</strong> en <strong>parts per billion</strong> ofwel deeltjes per miljoen en deeltjes per miljard. Omdat we hier met gassen werken, bekijken we dit per volume. Als er bijvoorbeeld 1ppm ethanol in de lucht zit, wil dat zeggen dat per 1000000 liter lucht, 1 liter ethanol zal voorkomen.
+</div>
+</div>
