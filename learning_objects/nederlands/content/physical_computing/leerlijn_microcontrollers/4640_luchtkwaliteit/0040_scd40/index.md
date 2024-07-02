@@ -33,7 +33,7 @@ Je kan de SCD40 op de volgende manier aansluiten op de Dwenguino.
 <table>
     <tr>
         <th>Dwenguino</th>
-        <th>ENS160</th>
+        <th>SCD40</th>
     </tr>
     <tr>
         <td>+</td>
@@ -152,4 +152,15 @@ Je kan de SCD40 op de volgende manier aansluiten op de Dwenguino.
 
 </code>
     </pre>
+</div>
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+  <ul>
+    <li>Sluit de SCD40 sensor aan op de Dwenguino.</li>
+    <li>Open bovenstaande voorbeeld in de Dwengo simulator, compileer de code en zet deze over naar de Dwenguino.</li>
+    <li>Bekijk de uitvoer van de sensor in de seriële monitor.</li>
+  </ul>
+</div>
 </div>
