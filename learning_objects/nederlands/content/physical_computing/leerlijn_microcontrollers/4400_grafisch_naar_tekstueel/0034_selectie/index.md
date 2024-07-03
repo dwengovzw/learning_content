@@ -28,7 +28,7 @@ Hieronder zie je hoe de selectiestructuur eruitziet in grafische code. Hier bepe
 
 ![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_selectie_blocks/nl/1)
 
-Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je te tekstuele code voor de eenvoudige selectie. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
+Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je de tekstuele code voor de eenvoudige selectie. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
