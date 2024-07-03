@@ -32,7 +32,11 @@ In het leerpad over invoer-verwerking-uitvoer zagen we al hoe we een digitale en
     </code>
 </pre> 
 
-Bovenstaande lijn code is relatief kort maar ze bevat wel heel wat programmeerconcepten die we onder de knie moeten krijgen. Eerst en vooral bestaat de lijn uit twee delen: 1) Het aanmaken van de variabele ofwel de **declaratie**. 2) Een waarde geven aan de variabele ofwel de **toekenning**.
+Bovenstaande lijn code is relatief kort maar ze bevat wel heel wat programmeerconcepten die we onder de knie moeten krijgen. Eerst en vooral bestaat de lijn uit twee delen: 
+
+1) Het aanmaken van de variabele ofwel de **declaratie**. 
+
+2) Een waarde geven aan de variabele ofwel de **toekenning**.
 
 <pre>
     <code class="language-cpp">
