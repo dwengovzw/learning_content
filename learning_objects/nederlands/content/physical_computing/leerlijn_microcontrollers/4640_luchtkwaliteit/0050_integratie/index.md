@@ -29,7 +29,7 @@ Als volgende stap combineren we de gegevens die we lezen van SCD40 en de ENS160 
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
 <div class="content">
-Integreer de code voor de meting van de SCD40 en de ENS160 in één programma. Zorg ervoor dat je, telkens je een meting doet, de resultaten in csv formaat doorstuurd via seriële communicatie. Hieronder zie je een voorbeeld van hoe die csv data eruit kan zien.
+<p>Integreer de code voor de meting van de SCD40 en de ENS160 in één programma. Zorg ervoor dat je, telkens je een meting doet, de resultaten in csv formaat doorstuurd via seriële communicatie. Hieronder zie je een voorbeeld van hoe die csv data eruit kan zien.</p>
 
 <pre>
 <code class="lang-csv">
@@ -39,6 +39,9 @@ CO2 (ppm);Temp (°C);Vocht (%);TVOC (ppb);AQI
 488;20;62;21;1
 </code>
 </pre>
+
+<p>Probeer de code zo duidelijk mogelijk op te splitsen in functies met eigen verantwoordelijkheden.</p>
+
 </div>
 </div>
 
