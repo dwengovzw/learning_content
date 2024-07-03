@@ -55,8 +55,8 @@ Op de Dwenguino combineren we nu verschillende codevoorbeelden tot een programma
     en het wachtwoord van je wifi netwerk
     correct aanvult.
     */
-    const char* ssid = "tnnet";
-    const char* password = "tnnet12345";
+    const char* ssid = "Vul-hier-de-naam-van-het-netwerk-in";
+    const char* password = "Vul-hier-het-wachtwoord-in";
     DwenguinoWIFI DwenguinoWIFI(ssid, password, true);
 
     // Verwerk request voor luchtkwaliteit.
