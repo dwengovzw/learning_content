@@ -1,8 +1,8 @@
 ---
-hruid: org-dwengo-pc-luchtkwaliteit-webinterface
+hruid: org-dwengo-pc-luchtkwaliteit-iot-sensor
 version: 1
 language: nl
-title: "Introductie"
+title: "IoT sensor"
 description: "Hoe kan ik de luchtkwaliteit meten?"
 keywords: ["dwenguino", "microcontroller", "wifi", "i2c", "webserver", "internet", "co2", "luchtkwaliteit"]
 content_type: "text/markdown"
@@ -22,7 +22,7 @@ target_ages: [16, 17, 18]
 teacher_exclusive: False
 ---
 
-# Webinterface
+# IoT sensor
 
 Om data gemakkelijk vanop afstand te kunnen opvragen en te visualiseren op onze computer, kunnen we de Dwenguino verbinden met het internet. Zo wordt het een internet of things (IoT) apparaat. 
 

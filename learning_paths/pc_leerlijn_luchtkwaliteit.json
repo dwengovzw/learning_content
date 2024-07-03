@@ -90,21 +90,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-luchtkwaliteit-webinterface",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },{
-        "learningobject_hruid": "org-dwengo-pc-luchtkwaliteit-webinterface",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-pc-wifi-web-app-leerplandoelen",
+              "hruid": "org-dwengo-pc-luchtkwaliteit-iot-sensor",
               "version": "1",
               "language": "nl"
             }
@@ -112,7 +98,37 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-wifi-web-app-leerplandoelen",
+        "learningobject_hruid": "org-dwengo-pc-luchtkwaliteit-iot-sensor",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-pc-luchtkwaliteit-iot-sensor-opl",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-pc-luchtkwaliteit-iot-sensor-opl",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-pc-luchtkwaliteit-webinterface",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-pc-luchtkwaliteit-webinterface",
         "version": "1",
         "language": "nl"
       }
