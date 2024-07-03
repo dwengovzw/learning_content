@@ -24,7 +24,9 @@ teacher_exclusive: False
 
 <h1>CO<sub>2</sub>, temperatuur en luchtvochtigheid</h1>
 
-Om CO<sub>2</sub>, temperatuur en luchtvochtigheid te meten, gebruiken we een SCD40 sensor. Deze sensor werkt aan de hand van I²C.
+Om CO<sub>2</sub>, temperatuur en luchtvochtigheid te meten, gebruiken we een SCD40 sensor. Deze sensor werkt aan de hand van I²C. Hieronder zie je een afbeelding van de sensor.
+
+![Foto van de SCD40 module.](images/scd40.JPG)
 
 ## Aansluiten van de sensor
 
