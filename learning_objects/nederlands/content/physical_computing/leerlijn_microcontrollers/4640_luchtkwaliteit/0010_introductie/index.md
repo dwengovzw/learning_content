@@ -22,7 +22,7 @@ target_ages: [16, 17, 18]
 teacher_exclusive: False
 ---
 
-[Banner met Dwenguino als luchtkwaliteitsmeter.](images/dwenguino_co2.jpg)
+![Banner met Dwenguino als luchtkwaliteitsmeter.](images/dwenguino_co2.jpg)
 
 ## Introductie
 
