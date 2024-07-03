@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Ladder: latch 
 
-Een latch is een een circuit dat twee stabiele uitvoertoestanden heeft. Deze uitvoertoestand stuurt dan bijvoorbeeld een machine aan. Het volgende ladder diagram toont de logica van een latch circuit.
+Een latch is een circuit dat twee stabiele uitvoertoestanden heeft. Deze uitvoertoestand stuurt dan bijvoorbeeld een machine aan. Het volgende ladder diagram toont de logica van een latch circuit.
 
 | Ladder diagram van het latch circuit |
 |:---:|

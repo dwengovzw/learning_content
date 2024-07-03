@@ -26,7 +26,7 @@ teacher_exclusive: false
 
 TODO: foto van PLC die opengevezen is.
 
-In deze leerlijn heb je geleerd hoe je fysische systemen kan besturen aan de hand van een microcontroller. Je hebt gezien dat een microcontroller tal van functies heeft en in verschillende contexten ingezet kan worden. Toch kan het programmeren van een microcontroller soms complex worden en is het af en toe moeilijk om het overzicht te houden over hoe de verschillende componenten aangesloten zijn. Deze exta complexiteit zorgt ervoor dat de kans op bugs (fouten) in je systeem hoger wordt. 
+In deze leerlijn heb je geleerd hoe je fysische systemen kan besturen aan de hand van een microcontroller. Je hebt gezien dat een microcontroller tal van functies heeft en in verschillende contexten ingezet kan worden. Toch kan het programmeren van een microcontroller soms complex worden en is het af en toe moeilijk om het overzicht te houden over hoe de verschillende componenten aangesloten zijn. Deze extra complexiteit zorgt ervoor dat de kans op bugs (fouten) in je systeem hoger wordt. 
 In vele industriële toepassingen is het zeer belangrijk dat er zich geen fouten voordoen. Een fout in een industriële productielijn kan een bedrijf immers miljoenen euro's kosten. Om ervoor te zorgen dat de kans op fouten in een productielijn zo klein mogelijk wordt, werd de PLC (programmable logic controller) uitgevonden. Een PLC is eigenlijk een microcontrollerplatform, gelijkaardig aan de Dwenguino, dat specifiek ontworpen is voor het gebruik in een industriële toepassing.
 
 De PLC onderscheid zich in de volgende eigenschappen van de microcontroller:
