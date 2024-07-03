@@ -23,3 +23,15 @@ teacher_exclusive: False
 ---
 
 # Webinterface
+
+Om data gemakkelijk vanop afstand te kunnen opvragen en te visualiseren op onze computer, kunnen we de Dwenguino verbinden met het internet. Zo wordt het een internet of things (IoT) apparaat. 
+
+Alle details over hoe je de Dwenguino kan instellen als webserver kan je vinden in het leerpad over [wifi communicatie](dwengo.org/learning-path.html?hruid=pc_leerlijn_wifi&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#org-dwengo-pc-wifi-intro;nl;1).
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+Gebruik de informatie uit het wifi leerpad om de Dwenguino in te stellen als web server. Voeg een <strong>route</strong> <em>luchtkwaliteit</em> met een <strong>handler</strong> waarin een meting van de luchtkwaliteit gedaan wordt (CO2, temperatuur, luchtvochtigheid, AQI en TOVC). Geeft deze waarden terug in csv formaat.
+</div>
+</div>
+
