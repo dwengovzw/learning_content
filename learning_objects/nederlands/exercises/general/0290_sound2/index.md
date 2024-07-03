@@ -40,7 +40,7 @@ Het afstellen van de geluidssensor (meer of minder gevoelig maken) gebeurt met d
 - Tegenwijzerzin: De geluidssensor wordt minder gevoelig voor geluid.
 
 Wanneer een geluidssensor voor de eerste keer wordt gebruikt, is deze zeer gevoelig voor geluid. Om de sensor af te stellen, ga je als volgt te werk:
-*Zorg ervoor dat het geluidsniveau op dit moment het niveau is waarop de sensor zal werken. Als het nu muisstil is, maar dit zal niet zo zijn wanneer de sensor in gebruik is, zal je deze opnieuw moeten afstellen.*
+Zorg ervoor dat het geluidsniveau op dit moment het niveau is waarop de sensor zal werken. Als het nu muisstil is, maar dit zal niet zo zijn wanneer de sensor in gebruik is, zal je deze opnieuw moeten afstellen.
 
 1. Draai de schroef in **tegenwijzerzin** tot een led uit gaat.
 2. Draai nu de schroef *voorzichtig* in **wijzerzin** tot de led terug aan gaat.
