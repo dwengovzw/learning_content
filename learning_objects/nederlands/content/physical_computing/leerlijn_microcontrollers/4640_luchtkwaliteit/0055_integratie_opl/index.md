@@ -41,7 +41,7 @@ teacher_exclusive: True
     SensirionI2CScd4x scd4x;
 
     void initialiseerENS(){
-    // Initialiseer de sensor
+        // Initialiseer de sensor
         ens160.begin();
         Serial.println(ens160.available() ? "done." : "failed!");
         if (ens160.available()) {
@@ -51,7 +51,7 @@ teacher_exclusive: True
     }
 
     void initialiseerSCD40(){
-    // Initialiseer I²C
+        // Initialiseer I²C
         Wire.begin();
         scd4x.begin(Wire);
 
@@ -78,7 +78,7 @@ teacher_exclusive: True
     // Vraag waarde op en vul die in als de waarde beschikbaar is.
     // Anders geef een foutmelding terug.
     int doeMetingMetENS160(unsigned int &aqi, unsigned int &tvoc){
-    if (ens160.available()) {
+        if (ens160.available()) {
             ens160.measure(true);
             ens160.measureRaw(true);
             aqi = ens160.getAQI();
@@ -92,7 +92,7 @@ teacher_exclusive: True
     // Vraag waarde op en vul die in als de waarde beschikbaar is.
     // Anders geef een foutmelding terug.
     int doeMetingMetSCD40(unsigned int &co2, float &temp, float &vocht){
-    unsigned int error;  // Foutstatus
+        unsigned int error;  // Foutstatus
         char errorMessage[256]; // Foutmelding
         bool isDataReady = false;
 
@@ -121,22 +121,22 @@ teacher_exclusive: True
     }
 
     void doeMetingMetSensoren(){
-    unsigned int aqi, tvoc, co2 = 0;
-    float temp, vocht = 0.0f;
-    int errorENS, errorSCD;
-    // Doe metingen
-    errorENS = doeMetingMetENS160(aqi, tvoc);
-    errorSCD = doeMetingMetSCD40(co2, temp, vocht);
+        unsigned int aqi, tvoc, co2 = 0;
+        float temp, vocht = 0.0f;
+        int errorENS, errorSCD;
+        // Doe metingen
+        errorENS = doeMetingMetENS160(aqi, tvoc);
+        errorSCD = doeMetingMetSCD40(co2, temp, vocht);
 
-    // Controleer op fouten en stuur data door.
-    if (!errorENS && !errorSCD){
-        // Stuur data door naar computer.
-        Serial.print(co2);Serial.print(";");
-        Serial.print(temp);Serial.print(";");
-        Serial.print(vocht);Serial.print(";");
-        Serial.print(tvoc);Serial.print(";");
-        Serial.println(aqi);
-    }  
+        // Controleer op fouten en stuur data door.
+        if (!errorENS && !errorSCD){
+            // Stuur data door naar computer.
+            Serial.print(co2);Serial.print(";");
+            Serial.print(temp);Serial.print(";");
+            Serial.print(vocht);Serial.print(";");
+            Serial.print(tvoc);Serial.print(";");
+            Serial.println(aqi);
+        }  
     }
 
 
@@ -160,8 +160,6 @@ teacher_exclusive: True
         doeMetingMetSensoren();
         delay(100);
     }
-
-
 
 </code>
     </pre>
