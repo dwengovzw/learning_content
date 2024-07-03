@@ -2,7 +2,7 @@
 hruid: org-dwengo-pc-luchtkwaliteit-webinterface
 version: 1
 language: nl
-title: "IoT sensor"
+title: "Webinterface"
 description: "Hoe kan ik de luchtkwaliteit meten?"
 keywords: ["dwenguino", "microcontroller", "wifi", "i2c", "webserver", "internet", "co2", "luchtkwaliteit"]
 content_type: "text/markdown"
@@ -22,4 +22,4 @@ target_ages: [16, 17, 18]
 teacher_exclusive: False
 ---
 
-# Web interface
+# Webinterface
