@@ -24,7 +24,9 @@ teacher_exclusive: False
 
 # Volatile organische stoffen (VOS) en air quality index (AQI)
 
-Voor het meten van VOS en AQI gebruiken we de ENS160 sensormodule. Deze bevragen we via **I²C**. De sensor heeft naast het meten van de hoeveelheid VOS ook de mogelijkheid om het CO<sub>2</sub> gehalte te schatten. Dit kan aan de hand van een berekening op basis van de hoeveelheid VOS. Deze is echter minder precies dus kiezen we er hier voor om het CO<sub>2</sub> gehalte met een andere sensor te meten.
+Voor het meten van VOS en AQI gebruiken we de ENS160 sensormodule. Deze bevragen we via **I²C**. De sensor heeft naast het meten van de hoeveelheid VOS ook de mogelijkheid om het CO<sub>2</sub> gehalte te schatten. Dit kan aan de hand van een berekening op basis van de hoeveelheid VOS. Deze is echter minder precies dus kiezen we er hier voor om het CO<sub>2</sub> gehalte met een andere sensor te meten. Hieronder zie je een afbeelding van een ENS160 module.
+
+![Afbeelding van een ENS160 module.](images/ENS160.JPG)
 
 ## Aansluiten van de sensor
  
