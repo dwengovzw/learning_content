@@ -70,3 +70,10 @@ We kunnen de data nu opvragen vanuit een webapplicatie en weergeven op een HTML 
 ```
 
 Je kan deze website zelf uitvoeren door een document te maken op je computer met de naam *index.html*. Open dit bestand eerst met een teksteditor (bv. kladblok of VSCode) en plak bovenstaande HTML in het bestand. Sluit het bestand en open het met je internetbrowser.
+
+<div class="dwengo-content important">
+<h2 class="title">Rekenkracht</h2>
+<div class="content">
+De Dwenguino heeft maar een beperkte rekenkracht. Deze zal dus maar een beperkt aantal requests kunnen sturen per tijdseenheid. <strong>Let dus op dat je het tijdsinterval niet te kort maakt! Anders zal de Dwenguino de requests niet meer snel genoeg kunnen verwerken!</strong>
+</div>
+</div>
