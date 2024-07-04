@@ -54,7 +54,7 @@ Voor het meten van temperatuur, luchtvochtigheid en CO<sub>2</sub> gehalte, make
                 <th>Advies</th>
                 <th>Maximale blootstellingstijd</th>
             </tr>
-            <tr style="background-color:red">
+            <tr style="background-color:Crimson">
                 <td>5</td>
                 <td>Ongezond</td>
                 <td>Intense ventilatie nodig.</td>
