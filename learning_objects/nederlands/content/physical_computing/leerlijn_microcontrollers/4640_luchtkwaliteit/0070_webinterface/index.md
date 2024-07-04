@@ -27,47 +27,48 @@ teacher_exclusive: False
 We kunnen de data nu opvragen vanuit een webapplicatie en weergeven op een HTML pagina in de browser. Hieronder zie je een eenvoudig voorbeeld van hoe je dat kan doen. In dit voorbeeld wordt om de tien seconden een meting van de luchtkwaliteit opgevraagd. Het resultaat van de meting wordt dan weergegeven op de pagina.
 
 <pre>
-<code class="lang-html">
+    <code class="lang-html">
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luchtkwaliteitsmeter</title>
-    </head>
-    <body>
-        <h1>Luchtkwaliteitsmeter</h1>
-        <p id="meting">Laden...</p>
-        <script>
-            // Functie om de luchtkwaliteit op te vragen.
-            function getLuchtkwaliteit() {
-                // Stuur een GET request naar de Dwenguino.
-                fetch('http://192.168.135.6/luchtkwaliteit') 
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error('Netwerk antwoord was niet ok');
-                        }
-                        // Vorm de response om naar tekst.
-                        return response.text();
-                    })
-                    .then(data => {
-                        // Log de waarde in de console.
-                        console.log('Antwoord:', data); 
-                        // Plaats de waarde in de HTML.
-                        document.querySelector('#meting').textContent = data;
-                    })
-                    .catch(error => {
-                        console.error('Er was een fout in de fetch operatie:', error);
-                    });
-            }
-            // Doe een eerste meting
-            getLuchtkwaliteit();
-            // Vraag om de 10 seconden de luchtkwaliteit op.
-            setInterval(getLuchtkwaliteit, 10000);  
-        </script>
-    </body>
-    </html>
 
-</code>
+        <!DOCTYPE html>
+        <html lang="en">
+            <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Luchtkwaliteitsmeter</title>
+            </head>
+            <body>
+                <h1>Luchtkwaliteitsmeter</h1>
+                <p id="meting">Laden...</p>
+                <script>
+                    // Functie om de luchtkwaliteit op te vragen.
+                    function getLuchtkwaliteit() {
+                        // Stuur een GET request naar de Dwenguino.
+                        fetch('http://192.168.135.6/luchtkwaliteit') 
+                            .then(response => {
+                                if (!response.ok) {
+                                    throw new Error('Netwerk antwoord was niet ok');
+                                }
+                                // Vorm de response om naar tekst.
+                                return response.text();
+                            })
+                            .then(data => {
+                                // Log de waarde in de console.
+                                console.log('Antwoord:', data); 
+                                // Plaats de waarde in de HTML.
+                                document.querySelector('#meting').textContent = data;
+                            })
+                            .catch(error => {
+                                console.error('Er was een fout in de fetch operatie:', error);
+                            });
+                    }
+                    // Doe een eerste meting
+                    getLuchtkwaliteit();
+                    // Vraag om de 10 seconden de luchtkwaliteit op.
+                    setInterval(getLuchtkwaliteit, 10000);  
+                </script>
+            </body>
+        </html>
+
+    </code>
 </pre>
