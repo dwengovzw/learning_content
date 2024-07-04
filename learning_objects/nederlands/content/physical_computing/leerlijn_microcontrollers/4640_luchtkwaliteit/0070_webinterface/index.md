@@ -26,8 +26,7 @@ teacher_exclusive: False
 
 We kunnen de data nu opvragen vanuit een webapplicatie en weergeven op een HTML pagina in de browser. Hieronder zie je een eenvoudig voorbeeld van hoe je dat kan doen. In dit voorbeeld wordt om de tien seconden een meting van de luchtkwaliteit opgevraagd. Het resultaat van de meting wordt dan weergegeven op de pagina.
 
-<pre>
-    <code class="lang-html">
+```html
 
 
         <!DOCTYPE html>
@@ -70,5 +69,4 @@ We kunnen de data nu opvragen vanuit een webapplicatie en weergeven op een HTML 
             </body>
         </html>
 
-    </code>
-</pre>
+```
