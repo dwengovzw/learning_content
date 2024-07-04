@@ -48,25 +48,25 @@ Voor het meten van temperatuur, luchtvochtigheid en CO<sub>2</sub> gehalte, make
     <div class="content">
         <p>De Air Quality Index (AQI) is een maat voor hoe goed of hoe slecht de luchtkwaliteit is. In onderstaande tabel zie je een interpretatie van die waarde.</p>
         <table>
-            <tr>
+            <tr style="background-color:red">
                 <th>Waarde</th>
                 <th>Beschrijving</th>
                 <th>Advies</th>
                 <th>Maximale blootstellingstijd</th>
             </tr>
-            <tr>
+            <tr style="background-color:orange">
                 <td>5</td>
                 <td>Ongezond</td>
                 <td>Intense ventilatie nodig.</td>
                 <td>Aantal uren</td>
             </tr>
-            <tr>
+            <tr style="background-color:gold">
                 <td>4</td>
                 <td>Slecht</td>
                 <td>Verhoog de ventilatie en ga op zoek naar de bron.</td>
                 <td>&lt; 1 maand</td>
             </tr>
-            <tr>
+            <tr style="background-color:lightgreen">
                 <td>3</td>
                 <td>Matig</td>
                 <td>Verhoog de ventilatie en ga op zoek naar de bron.</td>
@@ -78,7 +78,7 @@ Voor het meten van temperatuur, luchtvochtigheid en CO<sub>2</sub> gehalte, make
                 <td>Blijf voldoende ventileren.</td>
                 <td>Geen limiet</td>
             </tr>
-            <tr>
+            <tr style="background-color:LightSkyBlue">
                 <td>1</td>
                 <td>Perfect</td>
                 <td>Geen actie nodig.</td>
