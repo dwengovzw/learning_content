@@ -29,7 +29,12 @@ Je kan de webinterface not uitbreiden om de data op een mooiere manier weer te g
 ![Screenshot van de interface voor het weergeven van de luchtkwaliteit.](images/luchtkwaliteit_dashboard.png)
 
 
-Deze interface maakt gebruik van de volgende HTML.
+Deze interface maakt gebruik drie bestanden:
+- *index.html*
+- *styles.css*
+- *script.js*
+
+Maak deze drie bestanden aan in dezelfde map op je computer. Voeg dan aan elk bestand de respectievelijk onderstaande code toe via een teksteditor (bv. kladblok of VSCode). Open daarna het *index.html* bestand met je internetbrowser.
 
 ```html
 <!DOCTYPE html>
