@@ -46,7 +46,7 @@ Voor het meten van temperatuur, luchtvochtigheid en CO<sub>2</sub> gehalte, make
 <div class="dwengo-content sideinfo">
     <h2 class="title">Air Quality Index (AQI)</h2>
     <div class="content">
-        <p>De Air Quality Index (AQI) is een maat voor hoe goed of hoe slecht de luchtkwaliteit is. In onderstaande tabel zie je een interpretatie van die waarde.</p>
+        <p>De Air Quality Index (AQI) is een overkoepelende maat voor hoe goed of hoe slecht de luchtkwaliteit is. Deze wordt berekend op basis van verschillende metingen. In onderstaande tabel zie je een interpretatie van die waarde.</p>
         <table>
             <tr style="background-color:gray">
                 <th>Waarde</th>
@@ -54,7 +54,7 @@ Voor het meten van temperatuur, luchtvochtigheid en CO<sub>2</sub> gehalte, make
                 <th>Advies</th>
                 <th>Maximale blootstellingstijd</th>
             </tr>
-            <tr style="background-color:Crimson">
+            <tr style="background-color:IndianRed">
                 <td>5</td>
                 <td>Ongezond</td>
                 <td>Intense ventilatie nodig.</td>
