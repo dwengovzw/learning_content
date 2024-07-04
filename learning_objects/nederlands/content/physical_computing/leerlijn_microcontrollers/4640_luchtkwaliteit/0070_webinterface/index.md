@@ -6,7 +6,7 @@ title: "Webinterface"
 description: "Hoe kan ik de luchtkwaliteit meten?"
 keywords: ["dwenguino", "microcontroller", "wifi", "i2c", "webserver", "internet", "co2", "luchtkwaliteit"]
 content_type: "text/markdown"
-estimated_time: 60
+estimated_time: 20
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -27,8 +27,6 @@ teacher_exclusive: False
 We kunnen de data nu opvragen vanuit een webapplicatie en weergeven op een HTML pagina in de browser. Hieronder zie je een eenvoudig voorbeeld van hoe je dat kan doen. In dit voorbeeld wordt om de tien seconden een meting van de luchtkwaliteit opgevraagd. Het resultaat van de meting wordt dan weergegeven op de pagina.
 
 ```html
-
-
         <!DOCTYPE html>
         <html lang="en">
             <head>
@@ -58,7 +56,7 @@ We kunnen de data nu opvragen vanuit een webapplicatie en weergeven op een HTML 
                                 document.querySelector('#meting').textContent = data;
                             })
                             .catch(error => {
-                                console.error('Er was een fout in de fetch operatie:', error);
+                                console.error('Fout bij fetch operatie:', error);
                             });
                     }
                     // Doe een eerste meting
@@ -70,3 +68,5 @@ We kunnen de data nu opvragen vanuit een webapplicatie en weergeven op een HTML 
         </html>
 
 ```
+
+Je kan deze website zelf uitvoeren door een document te maken op je computer met de naam *index.html*. Open dit bestand eerst met een teksteditor (bv. kladblok of VSCode) en plak bovenstaande HTML in het bestand. Sluit het bestand en open het met je internetbrowser.
