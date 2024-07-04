@@ -54,19 +54,27 @@ Voeg de volgende code toe aan het *index.html* bestand.
         <div class="cards">
             <div class="card" id="co2-card">
                 <h2>CO<sub>2</sub></h2>
-                <p><span id="co2-value">Laden...</span><span> ppm</span></p>
+                <p>
+                    <span id="co2-value">Laden...</span><span> ppm</span>
+                </p>
             </div>
             <div class="card" id="temperature-card">
                 <h2>Temperatuur</h2>
-                <p><span  id="temperature-value">Laden...</span><span> °C</span></p>
+                <p>
+                    <span  id="temperature-value">Laden...</span><span> °C</span>
+                </p>
             </div>
             <div class="card" id="moisture-card">
                 <h2>Vochtigheid</h2>
-                <p><span id="moisture-value">Laden...</span><span> %</span></p>
+                <p>
+                    <span id="moisture-value">Laden...</span><span> %</span>
+                </p>
             </div>
             <div class="card" id="tvoc-card">
                 <h2>TVOC</h2>
-                <p><span  id="tvoc-value">Laden...</span><span> ppb</span></p>
+                <p>
+                    <span  id="tvoc-value">Laden...</span><span> ppb</span>
+                </p>
             </div>
             <div class="card" id="aqi-card">
                 <h2>AQI</h2>
@@ -148,7 +156,7 @@ Als laatste voegen we ook JavaScript toe (*script.js*). Deze code zal om de tien
                         return data;
                     })
                     .catch(error => {
-                        throw new Error('There has been a problem with your fetch operation:' + error);
+                        throw new Error('Problem with fetch:' + error);
                     });
     }
 
@@ -183,11 +191,16 @@ Als laatste voegen we ook JavaScript toe (*script.js*). Deze code zal om de tien
         const tvocColor = calculateColor(data.tvoc, 0, 65000, 0);
         const aqiColor = calculateColor(data.aqi, 1, 5, 1);
 
-        document.getElementById('co2-card').style.backgroundColor = co2Color;
-        document.getElementById('temperature-card').style.backgroundColor = temperatureColor;
-        document.getElementById('moisture-card').style.backgroundColor = moistureColor;
-        document.getElementById('tvoc-card').style.backgroundColor = tvocColor;
-        document.getElementById('aqi-card').style.backgroundColor = aqiColor;
+        document.getElementById('co2-card')
+            .style.backgroundColor = co2Color;
+        document.getElementById('temperature-card')
+            .style.backgroundColor = temperatureColor;
+        document.getElementById('moisture-card')
+            .style.backgroundColor = moistureColor;
+        document.getElementById('tvoc-card')
+            .style.backgroundColor = tvocColor;
+        document.getElementById('aqi-card')
+            .style.backgroundColor = aqiColor;
 
         document.getElementById('co2-value').textContent = data.co2;
         document.getElementById('temperature-value').textContent = data.temperature;
