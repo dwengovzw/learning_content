@@ -36,6 +36,8 @@ Deze interface maakt gebruik drie bestanden:
 
 Maak deze drie bestanden aan in dezelfde map op je computer. Voeg dan aan elk bestand de respectievelijk onderstaande code toe via een teksteditor (bv. kladblok of VSCode). Open daarna het *index.html* bestand met je internetbrowser.
 
+Voeg de volgende code toe aan het *index.html* bestand.
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -76,8 +78,7 @@ Maak deze drie bestanden aan in dezelfde map op je computer. Voeg dan aan elk be
 </html>
 ```
 
-
-Om de gegevens mooi weer te geven voegen we ook css toe aan de applicatie.
+Om de gegevens mooi weer te geven voegen we ook css toe aan de applicatie (*styles.css*).
 
 ```css
     body {
@@ -130,7 +131,7 @@ Om de gegevens mooi weer te geven voegen we ook css toe aan de applicatie.
     }
 ```
 
-Als laatste voegen we ook JavaScript toe. Deze code zal om de tien seconden een waarde opvragen van de Dwenguino. Deze wordt dan weergegeven in de interface. We mappen de gemeten waarden naar kleuren om zo aan te geven hoe goed of hoe slecht de metingen zijn.
+Als laatste voegen we ook JavaScript toe (*script.js*). Deze code zal om de tien seconden een waarde opvragen van de Dwenguino. Deze wordt dan weergegeven in de interface. We mappen de gemeten waarden naar kleuren om zo aan te geven hoe goed of hoe slecht de metingen zijn.
 
 ```javascript
     async function getAirQuality() {
