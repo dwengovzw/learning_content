@@ -61,7 +61,8 @@ Voeg de volgende code toe aan het *index.html* bestand.
             <div class="card" id="temperature-card">
                 <h2>Temperatuur</h2>
                 <p>
-                    <span  id="temperature-value">Laden...</span><span> °C</span>
+                    <span  id="temperature-value">Laden...</span>
+                    <span> °C</span>
                 </p>
             </div>
             <div class="card" id="moisture-card">
@@ -202,11 +203,16 @@ Als laatste voegen we ook JavaScript toe (*script.js*). Deze code zal om de tien
         document.getElementById('aqi-card')
             .style.backgroundColor = aqiColor;
 
-        document.getElementById('co2-value').textContent = data.co2;
-        document.getElementById('temperature-value').textContent = data.temperature;
-        document.getElementById('moisture-value').textContent = data.moisture;
-        document.getElementById('tvoc-value').textContent = data.tvoc;
-        document.getElementById('aqi-value').textContent = data.aqi;
+        document.getElementById('co2-value')
+            .textContent = data.co2;
+        document.getElementById('temperature-value')
+            .textContent = data.temperature;
+        document.getElementById('moisture-value')
+            .textContent = data.moisture;
+        document.getElementById('tvoc-value')
+            .textContent = data.tvoc;
+        document.getElementById('aqi-value')
+            .textContent = data.aqi;
     }
 
     // Laad de luchtkwaliteitsdata en update de UI.
