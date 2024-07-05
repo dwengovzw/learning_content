@@ -43,4 +43,53 @@ In dit leerpad gebruiken we twee sensoren om de volgende parameters te meten:
 Voor het meten van temperatuur, luchtvochtigheid en CO<sub>2</sub> gehalte, maken we gebruik van de SCD40 CO<sub>2</sub> sensor. Voor het meten van VOS en AQI, gebruiken we een ENS160 sensor.
 
 
+<div class="dwengo-content sideinfo">
+    <h2 class="title">Air Quality Index (AQI)</h2>
+    <div class="content">
+        <p>De Air Quality Index (AQI) is een overkoepelende maat voor hoe goed of hoe slecht de luchtkwaliteit is. Deze wordt berekend op basis van verschillende metingen. In onderstaande tabel zie je een interpretatie van die waarde.</p>
+        <table>
+            <tr style="background-color:gray">
+                <th>Waarde</th>
+                <th>Beschrijving</th>
+                <th>Advies</th>
+                <th>Maximale blootstellingstijd</th>
+            </tr>
+            <tr style="background-color:IndianRed">
+                <td>5</td>
+                <td>Ongezond</td>
+                <td>Intense ventilatie nodig.</td>
+                <td>Aantal uren</td>
+            </tr>
+            <tr style="background-color:orange">
+                <td>4</td>
+                <td>Slecht</td>
+                <td>Verhoog de ventilatie en ga op zoek naar de bron.</td>
+                <td>&lt; 1 maand</td>
+            </tr>
+            <tr style="background-color:gold">
+                <td>3</td>
+                <td>Matig</td>
+                <td>Verhoog de ventilatie en ga op zoek naar de bron.</td>
+                <td>&lt; 12 maand</td>
+            </tr>
+            <tr style="background-color:lightgreen">
+                <td>2</td>
+                <td>Goed</td>
+                <td>Blijf voldoende ventileren.</td>
+                <td>Geen limiet</td>
+            </tr>
+            <tr style="background-color:LightSkyBlue">
+                <td>1</td>
+                <td>Perfect</td>
+                <td>Geen actie nodig.</td>
+                <td>Geen limiet</td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+
+
+
 

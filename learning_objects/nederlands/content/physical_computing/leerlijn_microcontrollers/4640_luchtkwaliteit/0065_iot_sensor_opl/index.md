@@ -187,7 +187,8 @@ Op de Dwenguino combineren we nu verschillende codevoorbeelden tot een programma
         initialiseerENS();
         initialiseerSCD40();   
 
-        DwenguinoWIFI.routeManager.addRouteHandler("luchtkwaliteit", handleGETLuchtkwaliteit);
+        DwenguinoWIFI.routeManager.addRouteHandler("luchtkwaliteit", 
+                                            handleGETLuchtkwaliteit);
         // Initialiseer de wifi module
         DwenguinoWIFI.setupESP(); 
 
@@ -206,6 +207,3 @@ Op de Dwenguino combineren we nu verschillende codevoorbeelden tot een programma
     </pre>
 </div>
 
-## Webapplicatie
-
-We kunnen de data nu opvragen vanuit een webapplicatie en weergeven op een HTML pagina in de browser. Hieronder zie je een eenvoudig voorbeeld van hoe je dat kan doen. 
