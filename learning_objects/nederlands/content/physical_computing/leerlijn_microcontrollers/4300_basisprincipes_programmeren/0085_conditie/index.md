@@ -37,7 +37,7 @@ Een conditie is een stukje code dat als resultaat de waarde waar (<code class="l
     </code>
 </pre>
 
-### Operatoren
+### Vergelijkingsoperatoren
 
 Meestal zie je een conditie onder de vorm van een vergelijking tussen twee waarden. Je wil bijvoorbeeld weten of een afstand **kleiner of gelijk** is aan 100. Deze **kleiner of gelijk** noemen we in een programmeertaal een vergelijkingsoperator. In de tabel hieronder zie je een overzicht van de vergelijkingsoperatoren in C++.
 
