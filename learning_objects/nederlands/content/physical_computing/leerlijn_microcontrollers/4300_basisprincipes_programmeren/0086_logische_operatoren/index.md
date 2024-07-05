@@ -77,13 +77,13 @@ Er zijn verschillende manieren om condities met elkaar te combineren. Dat doen w
         <table>
             <tr>
                 <td rowspan="2">
-                    <h2>Logische berekeningen</h2>
+                    <h4>Logische berekeningen</h4>
                     <p>Er is een volledige tak van de wiskunde die zie bezighoudt met hoe je berekeningen kan doen met logische operatoren. Deze tak noemen we de <strong>booleaanse algebra</strong>. De booleaanse logica is genoemd naar George Boole. Hij bedacht de logische operatoren om op een eenvoudigere manier te kunnen redeneren over het gedrag van elektrische schakelingen.
                     </p>
                 </td>
                 <td><img src="images/256px-George_Boole_color.jpg"></img></td>
             </tr>
-            <tr>
+            <tr style="min-width:200px">
                 <td>George Boole. <em>Rechtenvrije afbeelding, via Wikimedia Commons</em></td>
             </tr>
         </table>
