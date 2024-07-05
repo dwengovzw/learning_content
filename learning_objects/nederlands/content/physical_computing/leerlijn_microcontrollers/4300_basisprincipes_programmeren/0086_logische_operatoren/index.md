@@ -92,7 +92,10 @@ Er zijn verschillende manieren om condities met elkaar te combineren. Dat doen w
         De booleaanse algebra legt een aantal rekenregels vast waarmee je logische expressies kan omvormen en vereenvoudigen. Een van de rekenregels zijn de wetten van De Morgan. Hieronder zie je een voorbeeld van de wetten van de morgan.
         <pre>
 <code class="lang-cpp">
+        // Niet (a of b) is gelijk aan (niet a) en (niet b)
         !(a || b) == !a && !b
+
+        // Niet (a en b) is gelijk aan (niet a) of (niet b)
         !(a && b) == !a || !b            
 </code>
         </pre>
