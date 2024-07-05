@@ -74,10 +74,9 @@ Er zijn verschillende manieren om condities met elkaar te combineren. Dat doen w
 <h2 class="title">Booleaanse algebra</h2>
 <div class="content">
     <p>
-        Er is een volledige tak van de wiskunde die zie bezighoudt met hoe je berekeningen kan doen met logische operatoren. Deze tak noemen we de <strong>booleaanse algebra</strong>. De booleaanse logica is genoemd naar George Boole. Hij bedacht de logische operatoren om op een eenvoudigere manier te kunnen redeneren over het gedrag van elektrische schakelingen. 
         <table>
             <tr>
-                <td><img src="images/256px-George_Boole_color.jpg"></img></td>
+                <td rowspan="2">Er is een volledige tak van de wiskunde die zie bezighoudt met hoe je berekeningen kan doen met logische operatoren. Deze tak noemen we de <strong>booleaanse algebra</strong>. De booleaanse logica is genoemd naar George Boole. Hij bedacht de logische operatoren om op een eenvoudigere manier te kunnen redeneren over het gedrag van elektrische schakelingen. </td><td><img src="images/256px-George_Boole_color.jpg"></img></td>
             </tr>
             <tr>
                 <td>George Boole. <em>Rechtenvrije afbeelding, via Wikimedia Commons</em></td>
