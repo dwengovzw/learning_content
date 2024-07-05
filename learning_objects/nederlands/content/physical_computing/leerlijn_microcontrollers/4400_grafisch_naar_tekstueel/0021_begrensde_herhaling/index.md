@@ -28,7 +28,7 @@ De lus waarmee we in de grafische code tellen met i van een bepaald getal tot ee
 
 ![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_begrensde_herhaling_blocks/nl/1)
 
-Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je te tekstuele code voor de begrensde herhaling. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
+Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je de tekstuele code voor de begrensde herhaling. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>

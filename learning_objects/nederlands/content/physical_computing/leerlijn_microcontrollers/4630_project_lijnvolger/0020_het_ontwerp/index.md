@@ -36,7 +36,7 @@ TODO: filmpje bouwen.
 
 ## Aansluiten van de elektronica
 
-On ze rijdende robot heeft maar drie verschillende soorten van elektronische componenten. DC-motoren, grondsensoren en een Bluetooth module. Hieronder beschrijven we hoe je elke component kan aansluiten op de dwenguino.
+Onze rijdende robot heeft maar drie verschillende soorten van elektronische componenten. DC-motoren, grondsensoren en een Bluetooth module. Hieronder beschrijven we hoe je elke component kan aansluiten op de dwenguino.
 
 ### De motoren
 
@@ -44,11 +44,11 @@ DC-motoren hebben twee draden. Deze moet je verbinden met de groene schroeftermi
 
 <img src="img/dwenguino_motor_render.PNG"></img>
 
-### De gondsensoren
+### De grondsensoren
 
 De grondsensoren hebben vier pinnen waarvan we er **drie** zullen gebruiken, de \\(\mathrm{VCC}\\), \\(\mathrm{GND}\\) en \\(\mathrm{A0}\\). De \\(\mathrm{D0}\\) pin gebruiken we in dit project niet. Via zowel \\(\mathrm{A0}\\) als \\(\mathrm{D0}\\) pin kan je de gemeten waarde lezen. Op de \\(\mathrm{A0}\\) pin krijg je een analoge waarde (een spanning tussen \\(0\mathrm V\\) of \\(5\mathrm V\\)). Op de \\(\mathrm{D0}\\) krijgen we een digitale waarde (dus \\(0\mathrm V\\) of \\(5\mathrm V\\)). De sensor bekomt de digitale waarde door een grenswaarde op te leggen op de gemeten analoge waarde. Deze grenswaarde kan je instellen met de variabele weerstand op de sensor. Wij kiezen ervoor om de analoge waarde te lezen en de grenswaarde in te stellen in onze code. Zo moeten we niet voor elk oppervlak de sensoren opnieuw bijstellen.
 
-Hieronder zie je een schema van hoe je een sensor kan aansluiten op de µC. We kiezen in dit project voor om de sensoren aan te sluiten op de analoge pinnen van de µC (\\(\mathrm{A0}\\), \\(\mathrm{A1}\\), \\(\mathrm{A2}\\), \\(\mathrm{A3}\\), \\(\mathrm{A4}\\), \\(\mathrm{A5}\\)). Probeer de sensoren aan te sluiten op de correcte pinnen. Baseer je hiervoor op onderstaande voorbeeld van hoe je een sensor op pin \\(\mathrm{A0}\\) aansluit.
+Hieronder zie je een schema van hoe je een sensor kan aansluiten op de µC. We kiezen er in dit project voor om de sensoren aan te sluiten op de analoge pinnen van de µC (\\(\mathrm{A0}\\), \\(\mathrm{A1}\\), \\(\mathrm{A2}\\), \\(\mathrm{A3}\\), \\(\mathrm{A4}\\), \\(\mathrm{A5}\\)). Probeer de sensoren aan te sluiten op de correcte pinnen. Baseer je hiervoor op onderstaand voorbeeld van hoe je een sensor op pin \\(\mathrm{A0}\\) aansluit.
 
 <img src="img/ground_sensor_connection.svg"></img>
 

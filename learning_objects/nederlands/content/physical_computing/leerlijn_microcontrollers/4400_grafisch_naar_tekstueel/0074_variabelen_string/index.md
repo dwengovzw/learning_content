@@ -30,7 +30,7 @@ We vertrekken van de volgende grafische code:
 
 ![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_variabelen_string_blocks/nl/1)
 
-Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je te tekstuele code voor de voorwaardelijke herhaling. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
+Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je de tekstuele code voor de voorwaardelijke herhaling. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
@@ -78,7 +78,7 @@ Bekijk de lijn waarop de **delcaratie** van de variabele staat:
     </pre>
 </div>
 
-Je ziet hier twee woorden: <code class="language-cpp">String</code> en <code class="language-cpp">item</code>. <code class="language-cpp">String</code> is het **type** van de variabele en geeft in dit geval aan dat je in de variabele gehele getallen zal opslaan. <code class="language-cpp">item</code> is de naam van de variabele, deze mag je zelf kiezen. Je zal deze naam doorheen je programma gebruiken om de waarde van de variabele op te vragen maar ook om deze waarde aan te passen.
+Je ziet hier twee woorden: <code class="language-cpp">String</code> en <code class="language-cpp">item</code>. <code class="language-cpp">String</code> is het **type** van de variabele en geeft in dit geval aan dat je in de variabele een reeks karakters, zoals een stuk tekst, zal opslaan. <code class="language-cpp">item</code> is de naam van de variabele, deze mag je zelf kiezen. Je zal deze naam doorheen je programma gebruiken om de waarde van de variabele op te vragen maar ook om deze waarde aan te passen.
 
 Wanneer we de code kijken waarin onze variabele een waarde krijgt, zien we een subtiel verschil met de code voor een variabele van het type <code class="language-cpp">int</code>.
 

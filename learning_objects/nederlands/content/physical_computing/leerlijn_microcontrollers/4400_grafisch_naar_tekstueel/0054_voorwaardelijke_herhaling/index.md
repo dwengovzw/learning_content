@@ -28,7 +28,7 @@ In grafische code kunnen we een *herhalen zolang* blok gebruiken om code te blij
 
 ![blockly](@learning-object/leerlijn_grafisch_naar_tekstueel_voorwaardelijke_herhaling_blocks/nl/1)
 
-Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je te tekstuele code voor de voorwaardelijke herhaling. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
+Door in de Dwengo simulator over te schakelen naar de tekstuele weergave, zie je de tekstuele code voor de voorwaardelijke herhaling. Hieronder zie je dezelfde code maar met in de commentaar wat meer uitleg over de verschillende elementen van de code.
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
