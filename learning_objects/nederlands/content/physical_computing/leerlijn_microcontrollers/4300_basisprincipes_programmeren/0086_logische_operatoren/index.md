@@ -83,8 +83,8 @@ Er zijn verschillende manieren om condities met elkaar te combineren. Dat doen w
                 </td>
                 <td><img src="images/256px-George_Boole_color.jpg"></img></td>
             </tr>
-            <tr style="min-width:200px">
-                <td>George Boole. <em>Rechtenvrije afbeelding, via Wikimedia Commons</em></td>
+            <tr>
+                <td style="min-width:200px">George Boole. <em>Rechtenvrije afbeelding, via Wikimedia Commons</em></td>
             </tr>
         </table>
     </p>
