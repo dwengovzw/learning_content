@@ -26,7 +26,7 @@ teacher_exclusive: false
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="language-cpp" data-filename="sd_card.cpp">
+<code class="language-cpp" data-filename="sd_card.cpp">
     
     // Bibliotheken inladen
     #include <LiquidCrystal.h>
@@ -135,6 +135,6 @@ teacher_exclusive: false
         }
     }
 
-        </code>
+</code>
     </pre>
 </div>
