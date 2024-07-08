@@ -26,7 +26,7 @@ teacher_exclusive: false
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
-        <code class="language-cpp" data-filename="dht11.cpp">
+<code class="language-cpp" data-filename="dht11.cpp">
     
     // Bibliotheken inladen
     #include <LiquidCrystal.h>
@@ -58,6 +58,6 @@ teacher_exclusive: false
         dwenguinoLCD.print(data_point);
     }
 
-        </code>
+</code>
     </pre>
 </div>
