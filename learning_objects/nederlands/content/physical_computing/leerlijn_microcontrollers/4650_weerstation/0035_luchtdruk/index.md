@@ -47,8 +47,6 @@ teacher_exclusive: false
             while(1);
         }
 
-        // Stel in dat de sensor luchtdruk moet meten.
-        mpl.setMode(MPL3115A2_BAROMETER);
 
         // Wacht 1s voor te starten met de hoofdlus.
         delay(1000);
@@ -56,15 +54,9 @@ teacher_exclusive: false
 
     void loop()
     {
-        // Laat de luchtdrukmeter een meting doen
-        mpl.startOneShot();
-        while (!mpl.conversionComplete()) {
-            ;
-        }
-
-        // Voeg temperatuur en vochtigheidsgraad samen in csv formaat.
+        // Sla de luchtdruk op als string.
         String data_point = 
-            String(mpl.getLastConversionResults(MPL3115A2_PRESSURE));
+            String(mpl.getPressure());
 
         // Toon de data op het scherm.
         dwenguinoLCD.clear();
