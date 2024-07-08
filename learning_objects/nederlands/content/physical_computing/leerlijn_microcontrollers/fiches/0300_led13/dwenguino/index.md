@@ -67,20 +67,7 @@ teacher_exclusive: false
             <p class="example_item_content">
                 <pre><code class="language-cpp">
 
-    #include <Wire.h>
     #include <Dwenguino.h>
-    #include <LiquidCrystal.h>
-    #include <NewPing.h>
-
-    #define TRIGGER_PIN 11
-    #define ECHO_PIN 12
-    #define MAX_DISTANCE 200
-
-    NewPing sonar = NewPing(
-        TRIGGER_PIN,
-        ECHO_PIN,
-        MAX_DISTANCE);
-    int afstand;
 
     void setup(){
         initDwenguino();
@@ -88,13 +75,12 @@ teacher_exclusive: false
     }
 
     void loop(){
-        afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
-            digitalWrite(13, HIGH);
-        } else {
-            digitalWrite(13, LOW);
-        }
-        delay(100);
+        // Knipper de led aan een 
+        // frequentie van 1 Hz.
+        digitalWrite(13, HIGH);
+        delay(500);
+        digitalWrite(13, LOW);
+        delay(500);
     }
 
 </code></pre> 
