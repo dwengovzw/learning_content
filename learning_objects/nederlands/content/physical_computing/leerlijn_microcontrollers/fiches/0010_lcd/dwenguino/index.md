@@ -76,7 +76,8 @@ teacher_exclusive: false
         initDwenguino();
 
         dwenguinoLCD.setCursor(0,0);
-        dwenguinoLCD.print(String("Welkom robot"));
+        dwenguinoLCD.print(
+            String("Welkom robot"));
     }
 
     void loop(){

@@ -77,7 +77,12 @@ teacher_exclusive: false
 
     void loop(){
         servoOnPin17.attach(17);
-        servoOnPin17.writeMicroseconds(map(constrain(255, -255, 255), -255, 255, 1500 - 500, 1500 + 500));
+        servoOnPin17.writeMicroseconds(
+            map(constrain(255, -255, 255),
+                -255, 
+                255, 
+                1500 - 500, 
+                1500 + 500));
     }
 </code>
 </pre> 

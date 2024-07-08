@@ -61,9 +61,7 @@ teacher_exclusive: false
 <pre>
 <code class="language-cpp">
     
-    #include <Wire.h>
     #include <Dwenguino.h>
-    #include <LiquidCrystal.h>
 
     int red_value;
     int green_value;

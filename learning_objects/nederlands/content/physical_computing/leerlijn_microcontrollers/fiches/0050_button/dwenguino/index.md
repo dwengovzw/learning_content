@@ -58,16 +58,15 @@ teacher_exclusive: false
 <pre>
 <code class="language-cpp">
     
-    #include <Wire.h>
     #include <Dwenguino.h>
-    #include <LiquidCrystal.h>
 
     void setup(){
         initDwenguino();
     }
 
     void loop(){
-        if (digitalRead(SW_N) == PRESSED) {
+        if (digitalRead(SW_N) 
+                == PRESSED) {
             pinMode(32, OUTPUT);
             digitalWrite(32, HIGH);
         }
