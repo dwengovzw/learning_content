@@ -45,6 +45,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "leerlijn_uc_introductie_weerstation_luchtdruk",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_uc_introductie_weerstation_luchtdruk",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "leerlijn_uc_introductie_weerstation_data_opslaan",
               "version": "1",
               "language": "nl"
