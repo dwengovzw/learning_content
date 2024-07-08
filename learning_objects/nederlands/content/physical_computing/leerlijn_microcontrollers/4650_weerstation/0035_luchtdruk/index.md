@@ -23,3 +23,57 @@ teacher_exclusive: false
 ---
 
 # Luchtdruk
+
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+<code class="language-cpp" data-filename="dht11.cpp">
+    
+    // Bibliotheken inladen
+    #include <LiquidCrystal.h>
+    #include <Adafruit_MPL3115A2.h>
+    #include <Dwenguino.h>
+
+    // Initialiseer de luchtdrukmeter.
+    Adafruit_MPL3115A2 mpl;
+
+    void setup()
+    {
+        initDwenguino(); // Initialiseer de basisfuncties van de Dwenguino
+        
+        // Test connectie met luchtdrukmeter
+        if (!mpl.begin()) {
+            dwenguinoLCD.clear();
+            dwenguinoLCD.print("ERROR luchtdruk");
+            while(1);
+        }
+
+        // Stel in dat de sensor luchtdruk moet meten.
+        mpl.setMode(MPL3115A2_BAROMETER);
+
+        // Wacht 1s voor te starten met de hoofdlus.
+        delay(1000);
+    }
+
+    void loop()
+    {
+        // Laat de luchtdrukmeter een meting doen
+        mpl.startOneShot();
+        while (!mpl.conversionComplete()) {
+            ;
+        }
+
+        // Voeg temperatuur en vochtigheidsgraad samen in csv formaat.
+        String data_point = 
+            String(mpl.getLastConversionResults(MPL3115A2_PRESSURE));
+
+        // Toon de data op het scherm.
+        dwenguinoLCD.clear();
+        dwenguinoLCD.print(data_point);
+
+        // Wacht 1s voor je een volgende meting doet.
+        delay(1000);
+    }
+
+</code>
+    </pre>
+</div>
