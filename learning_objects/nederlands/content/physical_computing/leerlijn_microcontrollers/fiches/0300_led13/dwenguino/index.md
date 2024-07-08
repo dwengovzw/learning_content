@@ -77,10 +77,10 @@ teacher_exclusive: false
     void loop(){
         // Knipper de led aan een 
         // frequentie van 1 Hz.
-        digitalWrite(13, HIGH);
-        delay(500);
-        digitalWrite(13, LOW);
-        delay(500);
+        digitalWrite(13, HIGH); // Aan
+        delay(500);             // Wacht
+        digitalWrite(13, LOW);  // Uit
+        delay(500);             // Wacht
     }
 
 </code></pre> 
