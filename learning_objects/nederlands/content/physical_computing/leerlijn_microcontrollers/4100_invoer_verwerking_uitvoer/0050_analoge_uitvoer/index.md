@@ -38,7 +38,7 @@ De µC kan eigenlijk geen analoge uitvoer genereren. Om dat in bepaalde situatie
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
     <div class="content">
-        Probeer LED 13 op de microcontroller te dimmen 50% door er een PWM signaal naar te sturen. Dat PWM signaal is de helft van de tijd 1 en de andere helft 0.
+        Probeer LED 13 op de microcontroller 50% te dimmen door er een PWM signaal naar te sturen. Dat PWM signaal is de helft van de tijd 1 en de andere helft 0.
     </div>
 </div>
 
