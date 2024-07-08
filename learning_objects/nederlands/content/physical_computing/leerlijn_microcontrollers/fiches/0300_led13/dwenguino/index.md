@@ -64,7 +64,7 @@ teacher_exclusive: false
         </div>
         <div class="example_item item">
             <h3 class="example_item_title">Voorbeeld: led 13 laten branden</h3>
-            <p class="example_item_content dwengo-code-simulator">
+            <p class="example_item_content">
                 <pre><code class="language-cpp">
 
     #include <Dwenguino.h>
