@@ -92,9 +92,10 @@ teacher_exclusive: false
 
     void loop(){
         dwenguinoLCD.setCursor(0,0);
-        dwenguinoLCD.print(
-            (digitalRead(SOUND_SENSOR_PIN_A4)) 
-            + String(String("")));
+        dwenguinoLCD.print((
+            digitalRead(SOUND_SENSOR_PIN_A4)) 
+            + String(String("")
+            ));
         delay(100);
         dwenguinoLCD.clear();
     }
