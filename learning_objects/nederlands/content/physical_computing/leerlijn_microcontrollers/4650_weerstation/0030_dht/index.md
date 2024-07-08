@@ -23,3 +23,41 @@ teacher_exclusive: false
 ---
 
 # Temperatuur en luchtvochtigheid
+
+<div class="dwengo-content dwengo-code-simulator">
+    <pre>
+        <code class="language-cpp" data-filename="dht11.cpp">
+    
+    // Bibliotheken inladen
+    #include <LiquidCrystal.h>
+    #include <dht.h>    
+    #include <Dwenguino.h>
+
+
+    // Stel in met welke digitale pin de DHT module verbonden is.
+    #define DHT11PIN 3 
+    dht DHT; 
+
+    void setup()
+    {
+        initDwenguino(); // Initialiseer de basisfuncties van de Dwenguino
+    }
+
+    void loop()
+    {
+        // Laat de DHT sensor een meting doen.    
+        int chk = DHT.read11(DHT11PIN);
+
+        // Voeg temperatuur en vochtigheidsgraad samen in csv formaat.
+        String data_point = String(DHT.temperature)
+                            + ";"
+                            + String(DHT.humidity);
+
+        // Toon de data op het scherm.
+        dwenguinoLCD.clear();
+        dwenguinoLCD.print(data_point);
+    }
+
+        </code>
+    </pre>
+</div>
