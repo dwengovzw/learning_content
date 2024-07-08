@@ -58,7 +58,7 @@ teacher_exclusive: false
                 <br>
                 Het afstellen van de geluidssensor (meer of minder gevoelig maken) gebeurt met de kleine schroef bovenaan de sensor.<br>
                 <br>
-                - Wijzerzin: De geluidssensor wordt gevoeliger voor geluid.
+                - Wijzerzin: De geluidssensor wordt gevoeliger voor geluid.<br>
                 - Tegenwijzerzin: De geluidssensor wordt minder gevoelig voor geluid.<br>
                 <br>
                 Wanneer een geluidssensor voor de eerste keer wordt gebruikt, is deze zeer gevoelig voor geluid. Om de sensor af te stellen, ga je als volgt te werk:<br>
