@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Gegevens loggen
 
-Om de metingen van het weerstation op te slaan, maken we gebruik van een micro-SD kaartje. Om naar zo'n kaartje te kunnen schrijven, hebben we een SD-kaartlezermodule nodig. Hier maken we gebruik van een eenvoudige SD-kaartmodule die communiceert via SPI. We gebruiken hier een bibliotheek die de SPI communicatie voor ons zal doen. Wil je meer weten over SPI, dan kan je terecht in ons [leerpad over bus protocollen](dwengo.org/learning-path.html?hruid=pc_leerlijn_bus_protocollen&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#org-dwengo-pc-bus-protocollen-introductie;nl;1).
+Om de metingen van het weerstation op te slaan, maken we gebruik van een micro-SD kaartje. Om naar zo'n kaartje te kunnen schrijven, hebben we een SD-kaartlezermodule nodig. Hier maken we gebruik van een eenvoudige SD-kaartmodule die communiceert via SPI. We gebruiken hier een bibliotheek die de SPI communicatie voor ons zal doen. Wil je meer weten over SPI, dan kan je terecht in ons [leerpad over bus protocollen](https://www.dwengo.org/learning-path.html?hruid=pc_leerlijn_bus_protocollen&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#org-dwengo-pc-bus-protocollen-introductie;nl;1).
 
 ## Aansluiten
 

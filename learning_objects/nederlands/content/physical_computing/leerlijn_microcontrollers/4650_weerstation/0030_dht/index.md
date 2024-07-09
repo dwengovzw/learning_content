@@ -30,7 +30,7 @@ Om de temperatuur en de luchtvochtigheid te meten maken we gebruik van de DHT-11
 
 ## Aansluiten
 
-Deze kan je eenvoudig aansluiten op de Dwenguino volgend de volgende tabel.
+Deze kan je eenvoudig aansluiten op de Dwenguino volgens de volgende tabel.
 
 <table>
     <tr>
@@ -50,6 +50,8 @@ Deze kan je eenvoudig aansluiten op de Dwenguino volgend de volgende tabel.
         <td>OUT</td>
     </tr>
 </table>
+
+*De OUT pin van de DHT-11 kan je met gelijk welke pin van de microcontroller verbinden. Wij maken hier de keuze voor pin 3. Wil je een andere pin gebruiken, dan zal je het pinnummer in de voorbeeldcode moeten aanpassen.*
 
 ## Programmeren
 
