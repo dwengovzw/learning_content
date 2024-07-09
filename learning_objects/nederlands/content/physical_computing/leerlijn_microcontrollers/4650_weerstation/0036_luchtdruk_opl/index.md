@@ -1,10 +1,10 @@
 ---
-hruid: leerlijn_uc_introductie_weerstation_dht_opl
+hruid: leerlijn_uc_introductie_weerstation_luchtdruk_opl
 version: 1
 language: nl
-title: "Temperatuur & luchtvochtigheid (oplossing)"
-description: "Wat is een weerstation"
-keywords: ["Microcontroller", "µC", "weerstation", "dht", "temperatuur", "luchtvochtigheid"]
+title: "Luchtdruk (oplossing)"
+description: "Hoe meten we de luchtdruk?"
+keywords: ["Microcontroller", "µC", "weerstation", "dht", "luchtdruk"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -22,25 +22,36 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Temperatuur en luchtvochtigheid (oplossing)
-
+# Luchtdruk (oplossing)
+ 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="dht11.cpp">
     
     // Bibliotheken inladen
     #include <LiquidCrystal.h>
-    #include <dht.h>    
+    #include <Adafruit_MPL3115A2.h>
+    #include <dht.h>  
     #include <Dwenguino.h>
 
+    // Initialiseer de luchtdrukmeter.
+    Adafruit_MPL3115A2 mpl;
 
     #define DHT11PIN 3 
     dht DHT; // Aanmaken van het DHT object.
 
     void setup()
     {
-        initDwenguino();
+        initDwenguino(); // Initialiseer de basisfuncties van de Dwenguino
+
         Serial.begin(9600);
+        
+        // Test connectie met luchtdrukmeter
+        if (!mpl.begin()) {
+            dwenguinoLCD.clear();
+            dwenguinoLCD.print("ERROR luchtdruk");
+            while(1);
+        }
     }
 
     void loop()
@@ -48,19 +59,26 @@ teacher_exclusive: true
         // Laat de DHT sensor een meting doen.    
         int chk = DHT.read11(DHT11PIN);
 
-        // Voeg temperatuur en vochtigheidsgraad samen in csv formaat.
+        // Voeg temperatuur, vochtigheidsgraad 
+        // en luchtdruk samen in csv formaat.
         String data_point = String(DHT.temperature)
                             + ";"
-                            + String(DHT.humidity);
+                            + String(DHT.humidity)
+                            + ";"
+                            + String(mpl.getPressure());
 
+        // Toon de data op het scherm.
         dwenguinoLCD.clear();
         dwenguinoLCD.print(data_point);
 
+        // Verstuur het datapunt over de seriële verbinding.
         Serial.println(data_point);
 
+        // Wacht 1s voor je een volgende meting doet.
         delay(1000);
     }
 
 </code>
     </pre>
 </div>
+
