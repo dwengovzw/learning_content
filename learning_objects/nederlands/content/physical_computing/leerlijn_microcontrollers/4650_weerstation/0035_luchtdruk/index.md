@@ -46,10 +46,6 @@ teacher_exclusive: false
             dwenguinoLCD.print("ERROR luchtdruk");
             while(1);
         }
-
-
-        // Wacht 1s voor te starten met de hoofdlus.
-        delay(1000);
     }
 
     void loop()

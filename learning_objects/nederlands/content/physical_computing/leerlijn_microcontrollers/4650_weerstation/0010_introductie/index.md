@@ -22,4 +22,12 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Een weerstation bouwen
+# Hitte-eiland effect
+
+Als het gevolg van de klimaatverandering komen er steeds vaker extreme weersomstandigheden voor. Extreme regenval maar ook langdurige hitte en droogte worden steeds meer de regel. We zullen onze omgeving dus moeten aanpassen zodat we kunnen omgaan met deze extreme omstandigheden.
+
+Extreme hitte heeft negatieve effecten op de gezondheid en wordt in verband gebracht met oversterfte. Daarbovenop komt nog eens dat onze steden niet gebouwd zijn om met deze extreme hitte om te gaan. Steden houden de warmte vast en creëren hitte-eilanden waar het moeilijk is om nog verkoeling te zoeken.
+
+Dr. Marie-Leen Verdonck van de UGent legt je in deze video van de Universiteit van Vlaanderen uit hoe we ons kunnen aanpassen aan extreme hitte ([CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)).
+
+![Universiteit van Vlaanderen: Hoe voorkomen we snikhede nachten?](images/hoe_voorkomen_we_snikhete_nachten_s.mp4)
