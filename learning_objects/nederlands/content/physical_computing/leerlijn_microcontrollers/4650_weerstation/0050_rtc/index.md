@@ -150,7 +150,6 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
         EIMSK &= ~((1<<INT7)|(1<<INT6)|(1<<INT5)|(1<<INT4));
     }
 
-
     void printStringNaarLCD(unsigned char rij, unsigned char kolom, String tekst){
         dwenguinoLCD.setCursor(kolom, rij);
         dwenguinoLCD.print(tekst);
