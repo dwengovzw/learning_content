@@ -24,6 +24,47 @@ teacher_exclusive: false
 
 # De real time clock
 
+Zoals je misschien al weet, is de microcontroller zeer goed in exacte tijdsintervallen timen. Daarvoor gebruikt de microcontroller een interne klok met een vaste en zeer precieze klokfrequentie. Toch kan je de microcontroller niet gebruiken om de ware tijd, die je op je uurwerk kan lezen, op te slaan. Telkens je de microcontroller uit zou zetten of de stroom zou wegvallen, weet deze niet meer wat de ingestelde tijd was. Dat is vervelend. Om die reden wordt er vaak een externe module gebruikt om de ware tijd bij te houden. Zo'n module noemen we een **real time clock (RTC)**. Deze module heeft een eigen klok die de tijd nauwkeurig kan meten. Bovendien heeft de module een batterij zodat deze de tijd kan onthouden, zelfs wanneer de stroom wegvalt. Hieronder zie je een afbeelding van een RTC module (zonder batterij).
+
+![Foto van RTC module zonder batterij.](images/rtc.jpg)
+
+## Aansluiten
+
+De RTC module maakt gebruik van I²C. Hier maken we gebruik van een bibliotheek die de I²C communicatie voor ons doet. Wil je meer weten over I²C, bekijk dan ons [leerpad over bus protocollen](https://www.dwengo.org/learning-path.html?hruid=pc_leerlijn_bus_protocollen&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#org-dwengo-pc-bus-protocollen-introductie;nl;1).
+
+De volgende tabel geeft weer hoe je de module kan aansluiten.
+
+<table>
+    <tr>
+        <th>Dwenguino</th>
+        <th>RTC</th>
+    </tr>
+    <tr>
+        <td>+</td>
+        <td>VCC</td>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>SDA</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>SCL</td>
+    </tr>
+</table>
+
+**Merk op dat je meerdere apparaten op dezelfde bus kan aansluiten.**
+
+## De tijd instellen
+
+De eerste keer dat we een RTC module gebruiken, moeten we de tijd ervan instellen. Eens we de tijd hebben ingesteld, zal de RTC module deze onthouden. We kunnen die dan telkens terug opvragen.
+
+Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaakt dat een menu toont op het lcd-scherm waarmee je de tijd kan instellen. Door dit programma up te loaden naar de Dwenguino, kan je de tijd van de RTC instellen. Daarna kan je je eigen code uploaden waarin je de tijd kan opvragen. Hieronder zie je de code van dat voorbeeldprogramma. 
+
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
