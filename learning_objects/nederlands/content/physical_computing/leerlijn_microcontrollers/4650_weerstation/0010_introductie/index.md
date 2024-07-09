@@ -31,3 +31,4 @@ Extreme hitte heeft negatieve effecten op de gezondheid en wordt in verband gebr
 Dr. Marie-Leen Verdonck van de UGent legt je in deze video van de Universiteit van Vlaanderen uit hoe we ons kunnen aanpassen aan extreme hitte ([CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)).
 
 ![Universiteit van Vlaanderen: Hoe voorkomen we snikhede nachten?](images/hoe_voorkomen_we_snikhete_nachten_s.mp4)
+
