@@ -76,7 +76,8 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
     DS3231 mijnRTC;
     RTClib rtcLib;
 
-    String menuItemLabels[] = {"Jaar", "Maand", "Dag", "Dag week", "Uur", "Minuut", "Seconde"};
+    String menuItemLabels[] 
+        = {"Jaar", "Maand", "Dag", "Dag week", "Uur", "Minuut", "Seconde"};
 
     unsigned char menuLocatie = 0; 
 
@@ -92,8 +93,10 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
     unsigned char debounce = 0;
 
     // De default instelling voor jaar, maand, dag, dVW, uur, minuut en seconde.
-    unsigned char tijdsinstelling[AANTAL_MENU_ITEMS] = {24, 7, 5, 5, 12, 0, 0};
-    unsigned char tijdsinstellingMaxima[AANTAL_MENU_ITEMS] = {3000, 12, 31, 7, 24, 60, 60};
+    unsigned char tijdsinstelling[AANTAL_MENU_ITEMS] 
+        = {24, 7, 5, 5, 12, 0, 0};
+    unsigned char tijdsinstellingMaxima[AANTAL_MENU_ITEMS] 
+        = {3000, 12, 31, 7, 24, 60, 60};
 
     // Knop omhoog
     ISR(INT7_vect){
