@@ -76,7 +76,8 @@ Hieronder zie je een codevoorbeeld dat elke seconde de tekst "test" naar een bes
     #include <SPI.h>
     #include "SD.h"
 
-    // Stel de pinnummers in die op de Dwenguino gebruikt worden voor SPI communicatie.
+    // Stel de pinnummers in die op de Dwenguino 
+    // gebruikt worden voor SPI communicatie.
     const int DW_CS = 10;
     const int DW_MOSI = 2;
     const int DW_MISO = 12;
