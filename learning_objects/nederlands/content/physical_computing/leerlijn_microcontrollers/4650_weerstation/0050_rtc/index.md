@@ -253,3 +253,16 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
 </code>
     </pre>
 </div>
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht: integratie</h2>
+    <div class="content">
+        <ul>
+            <li>Sluit de RTC module aan op de Dwenguino volgens bovenstaande tabel.</li>
+            <li>Open de voorbeeldcode in de simulator.</li>
+            <li>Compileer je code en zet die over naar de Dwenguino.</li>
+            <li>Stel de tijd van de RTC in.</li>
+            <li>Neem de code voor het uitlezen van de RTC over in je programma die de temperatuur, vochtigheid en luchtdruk leest. Zorg ervoor dat bij elke meting ook steeds de tijd van de meting wordt weggeschreven naar de SD-kaart.</li>
+        </ul>
+    </div>
+</div>
