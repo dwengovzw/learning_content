@@ -52,7 +52,7 @@ De volgende tabel geeft weer hoe je de module kan aansluiten.
     <tr>
         <td>14</td>
         <td>SCL</td>
-    </tr>>
+    </tr>
 </table>
 
 ## Programmeren
