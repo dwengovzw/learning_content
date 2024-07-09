@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Luchtdruk
 
-Om de luchtdruk te meten maken we gebruik van de MPL3115A2 chip. We kunnen de waarden van deze chip opvragen via I²C. In dit voorbeeld maken we gebruik van een bibliotheek om deze communicatie voor ons te doen. Wil je meer weten over I²C, neem dan een kijkje in ons [leerpad over bus protocollen](/learning-path.html?hruid=pc_leerlijn_bus_protocollen&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#org-dwengo-pc-bus-protocollen-introductie;nl;1).
+Om de luchtdruk te meten maken we gebruik van de MPL3115A2 chip. We kunnen de waarden van deze chip opvragen via I²C. In dit voorbeeld maken we gebruik van een bibliotheek om deze communicatie voor ons te doen. Wil je meer weten over I²C, neem dan een kijkje in ons [leerpad over bus protocollen](dwengo.org/learning-path.html?hruid=pc_leerlijn_bus_protocollen&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#org-dwengo-pc-bus-protocollen-introductie;nl;1).
 
 ![Foto van de MPL3115A2 module](images/mlp.jpg)
 
