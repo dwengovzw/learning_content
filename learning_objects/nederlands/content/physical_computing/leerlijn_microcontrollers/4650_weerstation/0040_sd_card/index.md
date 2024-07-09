@@ -24,23 +24,57 @@ teacher_exclusive: false
 
 # Gegevens loggen
 
+Om de metingen van het weerstation op te slaan, maken we gebruik van een micro-SD kaartje. Om naar zo'n kaartje te kunnen schrijven, hebben we een SD-kaartlezermodule nodig. Hier maken we gebruik van een eenvoudige SD-kaartmodule die communiceert via SPI. We gebruiken hier een bibliotheek die de SPI communicatie voor ons zal doen. Wil je meer weten over SPI, dan kan je terecht in ons [leerpad over bus protocollen](dwengo.org/learning-path.html?hruid=pc_leerlijn_bus_protocollen&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#org-dwengo-pc-bus-protocollen-introductie;nl;1).
+
+## Aansluiten
+
+![Foto van de sd kaart module.](images/sd-card-module.jpg)
+
+<table>
+    <tr>
+        <th>Dwenguino</th>
+        <th>SD module</th>
+    </tr>
+    <tr>
+        <td>+</td>
+        <td>VCC</td>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>MISO</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>MOSI</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>SCK</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>CS</td>
+    </tr>
+</table>
+
+## Programmeren
+
+Hieronder zie je een codevoorbeeld dat elke seconde de tekst "test" naar een bestand met de naam *weer.txt* op de SD-kaart schrijft. 
+
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="sd_card.cpp">
     
     // Bibliotheken inladen
-    #include <LiquidCrystal.h>
-    #include <Wire.h>
-    #include <dht.h>    
+    #include <LiquidCrystal.h> 
     #include <Dwenguino.h>
     #include <OneWire.h>
     #include <SPI.h>
     #include "SD.h"
-
-
-    // Stel in met welke digitale pin de DHT module verbonden is.
-    #define DHT11PIN 3 
-    dht DHT; 
 
     // Stel de pinnummers in die op de Dwenguino gebruikt worden voor SPI communicatie.
     const int DW_CS = 10;
@@ -54,29 +88,20 @@ teacher_exclusive: false
     void setup()
     {
         initDwenguino(); // Initialiseer de basisfuncties van de Dwenguino
-
-
-        // Wacht om te starten tot de gebruiker op de S(outh) knop drukt.
-        dwenguinoLCD.clear();
-        dwenguinoLCD.print("Druk op S-knop");
-        while(digitalRead(SW_S)){
-            ;
-        }
-    
+  
         // SD kaart verbinding klaarmaken
         dwenguinoLCD.clear();
         dwenguinoLCD.print("SD-kaart setup.");
 
-        // see if the SD card is present and can be initialized:
+        // Controleer of de SD-kaart geinitialiseerd kan worden:
         if (!SD.begin(DW_CS, DW_MOSI, DW_MISO, DW_CLK)) {
             dwenguinoLCD.clear();
             dwenguinoLCD.print("Geen SD-kaart?");
-            // don't do anything more:
-            return;
+            // Geen SD-kaart, blijf wachten.
+            while(1);
         }
         dwenguinoLCD.clear();
         dwenguinoLCD.print("Kaart klaar");
-
 
         /*
             Maak een bestand op de SD-kaart waar je gegevens naar
@@ -84,32 +109,20 @@ teacher_exclusive: false
             acht tekens lang zijn bv. 12345678.txt.
         */
         dataFile = SD.open("weer.txt", FILE_WRITE);
-        if (! dataFile) {
+        if (!dataFile) {
             dwenguinoLCD.clear();
             dwenguinoLCD.print("Fout bij openen.");
-            // Wait forever since we cant write data
-            while (1) ;
+            // Wacht voor altijd: niet mogelijk om data te schrijven.
+            while(1);
         }
-
-        // Wacht 1s voor te starten met de hoofdlus.
-        delay(1000);
-
-        // Schrijf een header naar het bestand
-        String data_header = "Temperatuur (°C);Luchtvochtigheid (%)";
     }
 
     void loop()
     {
-        // Doe metingen zolang de N(orth) knop niet wordt ingedrukt.
+        // Schrijf een waarde zolang de N(orth) knop niet wordt ingedrukt.
         if (digitalRead(SW_N)){
-
-            // Laat de DHT sensor een meting doen.    
-            int chk = DHT.read11(DHT11PIN);
-
-            // Voeg temperatuur en vochtigheidsgraad samen in csv formaat.
-            String data_point = String(DHT.temperature)
-                                + ";"
-                                + String(DHT.humidity);
+            // Maak test data aan.
+            String data_point = "test";
 
             // Toon de data op het scherm.
             dwenguinoLCD.clear();
@@ -129,12 +142,30 @@ teacher_exclusive: false
             dataFile.flush();
             dataFile.close();
 
-            // Gebruik  de 30s wachttijd om de Dwenguino af te sluiten.
-            delay(30000); // Wacht 30s
-
+            // Stop het programma.
+            return;
         }
     }
 
 </code>
     </pre>
+</div>
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht: integratie</h2>
+    <div class="content">
+        <ul>
+            <li>Sluit de SD-kaart module aan op de Dwenguino volgens bovenstaande tabel.</li>
+            <li>Open de voorbeeldcode in de simulator.</li>
+            <li>Compileer je code en zet die over naar de Dwenguino. Controller of de testdata correct wordt weggeschreven naar de SD-kaart. Hiervoor heb je mogelijks een SD-klaartlezer voor je computer nodig.</li>
+            <li>
+                Integreer de SD-kaartlezer met de MPL3115A2 en DHT-11 in één toepassing.
+                    <ul>
+                        <li>Sluit zowel de kaartlezer, de MPL3115A2 als de DHT-11 aan op de Dwenguino.</li>
+                        <li>Combineer de code voor het uitlezen van de sensoren en het wegschrijven van de gegevens in één programma.</li>
+                        <li>Zorg ervoor dat de metingen in csv formaat in een bestand op de SD-kaart geschreven worden.</li>
+                    </ul>
+            </li>
+        </ul>
+    </div>
 </div>

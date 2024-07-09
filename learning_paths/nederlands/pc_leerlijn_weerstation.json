@@ -105,6 +105,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "leerlijn_uc_introductie_weerstation_data_opslaan_opl",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "leerlijn_uc_introductie_weerstation_data_opslaan_opl",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "leerlijn_uc_introductie_weerstation_rtc",
               "version": "1",
               "language": "nl"

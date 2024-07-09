@@ -28,7 +28,7 @@ Om de luchtdruk te meten maken we gebruik van de MPL3115A2 chip. We kunnen de wa
 
 ![Foto van de MPL3115A2 module](images/mlp.jpg)
 
-## Aansluiting
+## Aansluiten
 
 De volgende tabel geeft weer hoe je de module kan aansluiten.
 

@@ -46,3 +46,4 @@ Voor het project heb je de volgende componenten nodig:
 - Een micro-SD kaartje.
 - Het Dwenguino breadboard.
 - Voldoende kabels om sensoren en modules te verbinden.
+- Een kaartlezer voor je computer waarmee je micro SD-kaarten kan lezen.
