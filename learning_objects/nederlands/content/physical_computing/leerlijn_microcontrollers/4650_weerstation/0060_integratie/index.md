@@ -2,7 +2,7 @@
 hruid: leerlijn_uc_introductie_weerstation_integratie
 version: 1
 language: nl
-title: "Integratie"
+title: "Real time clock (oplossing)"
 description: "Wat is een weerstation"
 keywords: ["Microcontroller", "µC", "weerstation", "dht", "temperatuur", "luchtvochtigheid", "sd", "rtc"]
 educational_goals: [
@@ -19,7 +19,7 @@ estimated_time: 3
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
-# Integratie
+# Real time clock (oplossing)
