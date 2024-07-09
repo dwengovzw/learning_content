@@ -104,7 +104,7 @@ Hieronder zie je een een codevoorbeeld dat je kan gebruiken om de temperatuur en
                     </ul>
             </li>
             <li>Compileer je code en zet die over naar de Dwenguino. Bekijk de uitvoer op het scherm.</li>
-            <li>Pas de code aan zodat de gemeten waarde ook via de Seriële verbinding naar de computer wordt doorgestuurd.</li>
+            <li>Pas de code aan zodat de gemeten waarde ook via de seriële verbinding naar de computer wordt doorgestuurd.</li>
         </ul>
     </div>
 </div>

@@ -19,7 +19,7 @@ estimated_time: 3
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
 
 # Temperatuur en luchtvochtigheid (oplossing)
