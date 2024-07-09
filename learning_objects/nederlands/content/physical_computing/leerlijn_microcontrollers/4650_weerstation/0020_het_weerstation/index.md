@@ -26,6 +26,7 @@ teacher_exclusive: false
 
 Om het hitte-eiland effect in kaart te kunnen brengen, is het nodig om op verschillende plaatsen metingen te kunnen doen. Daarvoor maken wetenschappers gebruik van een weerstation. Zo'n weerstation kan verschillende omgevingsfactoren zoals temperatuur, luchtvochtigheid en luchtdruk meten. 
 
+| Voorbeeld weerstation |
 |-|
 | ![](images/weerstation.jpg) |
 | Rechtenvrije afbeelding usgs: https://www.usgs.gov/media/images/remote-weather-station |
