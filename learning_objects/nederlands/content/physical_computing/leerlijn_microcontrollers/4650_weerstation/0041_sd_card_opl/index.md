@@ -64,13 +64,6 @@ teacher_exclusive: true
             dwenguinoLCD.print("ERROR luchtdruk");
             while(1);
         }
-
-        // Wacht om te starten tot de gebruiker op de S(outh) knop drukt.
-        dwenguinoLCD.clear();
-        dwenguinoLCD.print("Druk op S-knop");
-        while(digitalRead(SW_S)){
-            ;
-        }
     
         // SD kaart verbinding klaarmaken
         dwenguinoLCD.clear();
@@ -102,6 +95,8 @@ teacher_exclusive: true
 
         // Schrijf een header naar het bestand
         String data_header = "Temperatuur (°C);Luchtvochtigheid (%);Luchtdruk (hPa)";
+        // Schrijf de data naar het bestand.
+        dataFile.println(data_header);
     }
 
     void loop()
@@ -131,12 +126,12 @@ teacher_exclusive: true
             delay(1000);
 
         } else { // Sluit het bestand wanneer de N(orth) knop is ingedrukt.
-            dwenguinoLCD.clear();
-            dwenguinoLCD.print("closing file");
-
             // Schrijf de data weg naar het bestand en sluit het bestand.
             dataFile.flush();
             dataFile.close();
+
+            dwenguinoLCD.clear();
+            dwenguinoLCD.print("Bestand gesloten");
 
             // Stop het programma.
             while(1);
