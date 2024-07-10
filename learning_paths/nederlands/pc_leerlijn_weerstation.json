@@ -165,7 +165,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-pc-luchtkwaliteit-iot-sensor-opl",
+              "hruid": "leerlijn_uc_introductie_weerstation_wifi_opl",
               "version": "1",
               "language": "nl"
             }
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-pc-luchtkwaliteit-iot-sensor-opl",
+        "learningobject_hruid": "leerlijn_uc_introductie_weerstation_wifi_opl",
         "version": "1",
         "language": "nl"
       }

@@ -1,10 +1,10 @@
 ---
-hruid: leerlijn_uc_introductie_weerstation_integratie
+hruid: leerlijn_uc_introductie_weerstation_wifi_opl
 version: 1
 language: nl
-title: "Real time clock (oplossing)"
+title: "Uitbreiding: wifi (opl)"
 description: "Wat is een weerstation"
-keywords: ["Microcontroller", "µC", "weerstation", "dht", "temperatuur", "luchtvochtigheid", "sd", "rtc"]
+keywords: ["Microcontroller", "µC", "weerstation", "dht", "temperatuur", "luchtvochtigheid", "sd", "rtc", "wifi"]
 educational_goals: [
     {source: Source, id: id}, 
     {source: Source2, id: id2}
@@ -15,29 +15,30 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16]
 difficulty: 1
-estimated_time: 8
+estimated_time: 100
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
 teacher_exclusive: true
 ---
 
-# Real time clock (oplossing)
+# Uitbreiding: data opvragen via wifi (oplossing)
 
 <div>
     <pre>
-<code class="language-cpp" data-filename="sd_card.cpp">
-    
+<code class="language-cpp" data-filename="weerstation_wifi.cpp">
+
     // Bibliotheken inladen
     #include <LiquidCrystal.h>
     #include <Wire.h>
-    #include <dht.h>    
+    #include <dht.h>
     #include <Adafruit_MPL3115A2.h>
     #include <Dwenguino.h>
     #include <OneWire.h>
     #include <SPI.h>
     #include "SD.h"
     #include <DS3231-RTC.h>
+    #include <DwenguinoWIFI.h>
 
     // Initialiseer het RTC object.
     RTClib rtcLib;
@@ -46,8 +47,8 @@ teacher_exclusive: true
     Adafruit_MPL3115A2 mpl;
 
     // Stel in met welke digitale pin de DHT module verbonden is.
-    #define DHT11PIN 3 
-    dht DHT; 
+    #define DHT11PIN 3
+    dht DHT;
 
     // Stel de pinnummers in die op de Dwenguino gebruikt worden voor SPI communicatie.
     const int DW_CS = 10;
@@ -55,8 +56,25 @@ teacher_exclusive: true
     const int DW_MISO = 12;
     const int DW_CLK = 13;
 
-    // Maak een bestand aan 
+    char data_point[80]; 
+
+    // Maak een bestand aan
     File dataFile;
+
+    // Wi-Fi gegevens
+    /*
+    Zorg ervoor dat je hier de naam
+    en het wachtwoord van je wifi netwerk
+    correct aanvult.
+    */
+    const char* ssid = "Vul-hier-de-naam-van-het-netwerk-in";
+    const char* password = "Vul-hier-het-wachtwoord-in";
+    DwenguinoWIFI DwenguinoWIFI(ssid, password, true);
+
+    // Verwerk request voor luchtkwaliteit.
+    void handleGETWeer(char* query, char* result){
+        strcpy(result, data_point);
+    }
 
     void setup()
     {
@@ -68,7 +86,7 @@ teacher_exclusive: true
             dwenguinoLCD.print("ERROR luchtdruk");
             while(1);
         }
-    
+
         // SD kaart verbinding klaarmaken
         dwenguinoLCD.clear();
         dwenguinoLCD.print("SD-kaart setup.");
@@ -98,9 +116,14 @@ teacher_exclusive: true
         }
 
         // Schrijf een header naar het bestand
-        String data_header = "Datum en tijd;Temperatuur (°C);Luchtvochtigheid (%);Luchtdruk (hPa)";
+        String data_header = "Datum & Tijd;Temperatuur (°C);Luchtvochtigheid (%);Luchtdruk (hPa)";
         // Schrijf de data naar het bestand.
         dataFile.println(data_header);
+
+        DwenguinoWIFI.routeManager.addRouteHandler("weer",
+                                            handleGETWeer);
+        // Initialiseer de wifi module
+        DwenguinoWIFI.setupESP();
     }
 
     void loop()
@@ -108,23 +131,39 @@ teacher_exclusive: true
         // Doe metingen zolang de N(orth) knop niet wordt ingedrukt.
         if (digitalRead(SW_N)){
 
-            // Laat de DHT sensor een meting doen.    
+            // Laat de DHT sensor een meting doen.
             int chk = DHT.read11(DHT11PIN);
 
             // Vraag de huidige datum en tijd op.
             DateTime now = rtcLib.now();
 
-            // Voeg temperatuur, vochtigheidsgraad 
-            // en luchtdruk samen in csv formaat.
-            String data_point = String(now.getDay()) + "/"
-                        + String(now.getMonth()) + "/"
-                        + String(now.getYear()) + " "
-                        + String(now.getHour()) + ":"
-                        + String(now.getMinute()) + ":"
-                        + String(now.getSecond()) + ";"
-                        + String(DHT.temperature) + ";"
-                        + String(DHT.humidity) + ";"
-                        + String(mpl.getPressure());
+
+            float temp = DHT.temperature;
+            float vocht = DHT.humidity;
+            float druk = mpl.getPressure();
+
+            /* Voeg tijd, temperatuur, vochtigheidsgraad
+            en luchtdruk samen in csv formaat. 
+            Hier gebruiken we de sprintf functie om 
+            onze gegevens in een geformatte string te 
+            schrijven. Merk op dat sprintf op de µC
+            geen floats ondersteund. Daardoor moeten 
+            we de weergave van de floats zelf opsplitsen
+            en de waarde voor en na de komma zelf berekenen.*/
+            sprintf(data_point, "%d/%d/%d %d:%d:%d;%d.%d;%d.%d;%d.%d",
+                now.getDay(),
+                now.getMonth(),
+                now.getYear(),
+                now.getHour(),
+                now.getMinute(),
+                now.getSecond(),
+                int(temp),
+                int((temp - int(temp))*100),
+                int(vocht),
+                int((vocht - int(vocht))*100),
+                int(druk),
+                int((druk - int(druk))*100)
+                );
 
             // Toon de data op het scherm.
             dwenguinoLCD.clear();
@@ -147,6 +186,8 @@ teacher_exclusive: true
             // Stop het programma.
             while(1);
         }
+        // Handel HTTP request af.
+        DwenguinoWIFI.handleHTTPRequest();
     }
 
 </code>
