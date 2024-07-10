@@ -29,6 +29,7 @@ We hebben nu alles wat we nodig hebben om gegevens over het lokaal microklimaat 
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht: wifi</h2>
     <div class="content">
-        Voeg een wifi module toe aan je systeem en programmer de Dwenguino als webserver zodat je over het internet gegevens kan opvragen. Stuur de gegevens door in csv formaat.
+        <p>Voeg een wifi module toe aan je systeem en programmer de Dwenguino als webserver zodat je over het internet gegevens kan opvragen. Stuur de gegevens door in csv formaat.</p>
+        <p><strong>Tip:</strong> Je kan inspiratie opdoen in het <a href="">leerpad over het meten van de luchtkwaliteit</a>.</p>
     </div>
 </div>
