@@ -58,8 +58,7 @@ teacher_exclusive: false
                 <br>
                 Het afstellen van de geluidssensor (meer of minder gevoelig maken) gebeurt met de kleine schroef bovenaan de sensor.<br>
                 <br>
-                - Wijzerzin: De geluidssensor wordt gevoeliger voor geluid.
-
+                - Wijzerzin: De geluidssensor wordt gevoeliger voor geluid.<br>
                 - Tegenwijzerzin: De geluidssensor wordt minder gevoelig voor geluid.<br>
                 <br>
                 Wanneer een geluidssensor voor de eerste keer wordt gebruikt, is deze zeer gevoelig voor geluid. Om de sensor af te stellen, ga je als volgt te werk:<br>
@@ -86,12 +85,17 @@ teacher_exclusive: false
     void setup(){
         initDwenguino();
 
-        pinMode(SOUND_SENSOR_PIN_A4, INPUT);
+        pinMode(
+            SOUND_SENSOR_PIN_A4, 
+            INPUT);
     }
 
     void loop(){
         dwenguinoLCD.setCursor(0,0);
-        dwenguinoLCD.print((digitalRead(SOUND_SENSOR_PIN_A4)) + String(String("")));
+        dwenguinoLCD.print((
+            digitalRead(SOUND_SENSOR_PIN_A4)) 
+            + String(String("")
+            ));
         delay(100);
         dwenguinoLCD.clear();
     }

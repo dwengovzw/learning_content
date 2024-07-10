@@ -95,7 +95,8 @@ teacher_exclusive: false
 
     void loop(){
         afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
+        if (afstand > 0 && afstand < 100)
+        {
             digitalWrite(13, HIGH);
         } else {
             digitalWrite(13, LOW);

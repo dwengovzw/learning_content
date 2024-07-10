@@ -27,6 +27,7 @@ teacher_exclusive: false
 Met een selectie kunnen we "selecteren" welke code er uitgevoerd zal worden. Deze keuze gebeurt op basis van een voorwaarde of conditie. Als de conditie waar is, voeren we de ene code uit, als die vals is, de andere. Hieronder zie je een voorbeeld van een selectie.
 
 ```arduino
+// Controleer of SW_S (de zuid knop) is ingedrukt.
 if (digitalRead(SW_S) == LOW){
     // Voer deze code uit als de waarde van de pin SW_S laag is 
     // (= de zuid knop is ingedrukt).
