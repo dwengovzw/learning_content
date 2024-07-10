@@ -76,10 +76,10 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
     DS3231 mijnRTC;
     RTClib rtcLib;
 
-    String menuItemLabels[] 
+    String menuItemLabels[]
         = {"Jaar", "Maand", "Dag", "Dag week", "Uur", "Minuut", "Seconde"};
 
-    unsigned char menuLocatie = 0; 
+    char menuLocatie = 0;
 
     const unsigned char AANTAL_MENU_ITEMS = 7;
     const unsigned char JAAR = 0;
@@ -93,44 +93,49 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
     unsigned char debounce = 0;
 
     // De default instelling voor jaar, maand, dag, dVW, uur, minuut en seconde.
-    unsigned int tijdsinstelling[AANTAL_MENU_ITEMS] 
+    int tijdsinstelling[AANTAL_MENU_ITEMS]
         = {24, 7, 5, 5, 12, 0, 0};
-    unsigned int tijdsinstellingMaxima[AANTAL_MENU_ITEMS] 
-        = {3000, 12, 31, 7, 24, 60, 60};
+    int tijdsinstellingMaxima[AANTAL_MENU_ITEMS]
+        = {99, 12, 31, 7, 24, 60, 60};
 
     // Knop omhoog
     ISR(INT7_vect){
         if (debounce == 0){
             menuLocatie = (menuLocatie + 1)%AANTAL_MENU_ITEMS;
         }
-        debounce = 2;
+        debounce = 3;
     }
 
     // Knop rechts
     ISR(INT6_vect){
         if (debounce == 0){
-            tijdsinstelling[menuLocatie] = 
+            tijdsinstelling[menuLocatie] =
                 (tijdsinstelling[menuLocatie] + 1)
                 %tijdsinstellingMaxima[menuLocatie];
-                debounce = 2; 
+                debounce = 3;
         }
     }
 
     // Knop onder
     ISR(INT5_vect){
         if (debounce == 0){
-            menuLocatie = (menuLocatie - 1)%AANTAL_MENU_ITEMS;
-            debounce = 2; 
+            menuLocatie--;
+            if (menuLocatie < 0){
+            menuLocatie = AANTAL_MENU_ITEMS - 1;
+            }
+            debounce = 3;
         }
     }
 
     // Knop links
     ISR(INT4_vect){
         if (debounce == 0){
-            tijdsinstelling[menuLocatie] = 
-                (tijdsinstelling[menuLocatie] - 1)
-                %tijdsinstellingMaxima[menuLocatie];
-                debounce = 2;
+            tijdsinstelling[menuLocatie]--;
+            if (tijdsinstelling[menuLocatie] < 0){
+            tijdsinstelling[menuLocatie] 
+                = tijdsinstellingMaxima[menuLocatie] - 1;
+            }
+            debounce = 3;
         }
     }
 
@@ -157,7 +162,7 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
 
     void stelTijdIn(){
         mijnRTC.setClockMode(false);  // 24h klok
-            
+
         mijnRTC.setYear(tijdsinstelling[JAAR]);
         mijnRTC.setMonth(tijdsinstelling[MAAND]);
         mijnRTC.setDate(tijdsinstelling[DAG]);
@@ -170,17 +175,18 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
     void openTijdsinstellingsmenu(){
         zetKnopInterruptsAan();
         dwenguinoLCD.clear(); // Maak scherm leeg
-        
+
         pinMode(SW_C, INPUT_PULLUP);
 
-        // Toon het menu zolang de SW_C knop niet wordt ingedrukt. 
+        // Toon het menu zolang de SW_C knop niet wordt ingedrukt.
         while (digitalRead(SW_C)){
             // Teken controls
-            printStringNaarLCD(0, 15, '^');
-            printStringNaarLCD(1, 15, 'v' - 1);
+            printStringNaarLCD(0, 9, "^");
+            printStringNaarLCD(1, 9, "v");
+            printStringNaarLCD(0, 11, "C=OK");
             printStringNaarLCD(1, 0, "<");
             printStringNaarLCD(1, 7, ">");
-            printStringNaarLCD(0, 2, menuItemLabels[menuLocatie]);
+            printStringNaarLCD(0, 0, menuItemLabels[menuLocatie]);
             printStringNaarLCD(1, 2, String(tijdsinstelling[menuLocatie]));
             delay(100);
             dwenguinoLCD.clear(); // Maak scherm leeg
@@ -196,7 +202,7 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
 
         // Start de serial poort
         Serial.begin(9600);
-        
+
         // Start de I2C interface
         Wire.begin();
 
@@ -214,11 +220,11 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
     void stuurTijdOverSerieel(){
         DateTime now = rtcLib.now();
 
-        Serial.print(now.getYear(), DEC);
+        Serial.print(now.getDay(), DEC);
         Serial.print('/');
         Serial.print(now.getMonth(), DEC);
         Serial.print('/');
-        Serial.print(now.getDay(), DEC);
+        Serial.print(now.getYear(), DEC);
         Serial.print(' ');
         Serial.print(now.getHour(), DEC);
         Serial.print(':');
@@ -235,14 +241,14 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
         dwenguinoLCD.clear(); // Maak scherm leeg
 
         if (!digitalRead(SW_N)){
-            // Stuur tijd door over serieel 
+            // Stuur tijd door over serieel
             // wanneer de noord knop wordt ingedrukt.
             stuurTijdOverSerieel();
         } else if (!digitalRead(SW_S)){
             // Stel tijd in via menu.
             openTijdsinstellingsmenu();
             stelTijdIn();
-        }    
+        }
     }
 
 </code>
