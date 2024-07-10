@@ -68,13 +68,6 @@ teacher_exclusive: true
             dwenguinoLCD.print("ERROR luchtdruk");
             while(1);
         }
-
-        // Wacht om te starten tot de gebruiker op de S(outh) knop drukt.
-        dwenguinoLCD.clear();
-        dwenguinoLCD.print("Druk op S-knop");
-        while(digitalRead(SW_S)){
-            ;
-        }
     
         // SD kaart verbinding klaarmaken
         dwenguinoLCD.clear();
@@ -100,12 +93,14 @@ teacher_exclusive: true
         if (! dataFile) {
             dwenguinoLCD.clear();
             dwenguinoLCD.print("Fout bij openen.");
-            // Blijf wachten, lukt niet om data te lezen.
+            // Wait forever since we cant write data
             while (1) ;
         }
 
         // Schrijf een header naar het bestand
         String data_header = "Temperatuur (°C);Luchtvochtigheid (%);Luchtdruk (hPa)";
+        // Schrijf de data naar het bestand.
+        dataFile.println(data_header);
     }
 
     void loop()
@@ -119,18 +114,16 @@ teacher_exclusive: true
             // Vraag de huidige datum en tijd op.
             DateTime now = rtcLib.now();
 
-            // Voeg tijd, temperatuur, vochtigheidsgraad 
+            // Voeg temperatuur, vochtigheidsgraad 
             // en luchtdruk samen in csv formaat.
-            String data_point = String(now.getYear()) + "/"
+            String data_point = String(now.getDay()) + "/"
                         + String(now.getMonth()) + "/"
-                        + String(now.getDay()) + " "
-                        + String(now.getHour()) + ":",
+                        + String(now.getYear()) + " "
+                        + String(now.getHour()) + ":"
                         + String(now.getMinute()) + ":"
                         + String(now.getSecond()) + ";"
-                        + String(DHT.temperature)
-                        + ";"
-                        + String(DHT.humidity)
-                        + ";"
+                        + String(DHT.temperature) + ";"
+                        + String(DHT.humidity) + ";"
                         + String(mpl.getPressure());
 
             // Toon de data op het scherm.
@@ -144,15 +137,15 @@ teacher_exclusive: true
             delay(1000);
 
         } else { // Sluit het bestand wanneer de N(orth) knop is ingedrukt.
-            dwenguinoLCD.clear();
-            dwenguinoLCD.print("closing file");
-
             // Schrijf de data weg naar het bestand en sluit het bestand.
             dataFile.flush();
             dataFile.close();
 
+            dwenguinoLCD.clear();
+            dwenguinoLCD.print("Bestand gesloten");
+
             // Stop het programma.
-            return;
+            while(1);
         }
     }
 
