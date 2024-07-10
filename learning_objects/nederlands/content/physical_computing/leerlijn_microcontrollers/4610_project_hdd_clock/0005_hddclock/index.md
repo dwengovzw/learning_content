@@ -35,7 +35,7 @@ teacher_exclusive: true
 ## HDD klok bouwen
 
 Nu we weten hoe een HDD klok werkt en hoe dit gerealiseerd kan worden, is het bouwen van een fysieke versie de logische volgende stap. 
-Om een HDD klok te bouwen hebben we de eerder vermelde componenten nodig en een constructie om het af te werken en mooier te presenteren. We hangen de schijf vast aan de spindelmotor, zorgen dat de schijf door de snelheidssensor gaat en voorzien een ledstrip achter de draaiende schijf. Dit kan allemaal gebeuren in de voorziene constructie, die gebouwd kan worden met onderdelen gesneden door een lasercutter. Om deze onderdelen op maat te maken kan je [**dit bestand**](embed/hdd_clock.dxf) gebruiken (tip: dit gaat uit van een materiaaldikte van 2.5mm). 
+Om een HDD klok te bouwen hebben we de eerder vermelde componenten nodig en een constructie om het af te werken en mooier te presenteren. We hangen de schijf vast aan de spindelmotor, zorgen dat de schijf door de snelheidssensor gaat en voorzien een ledstrip achter de draaiende schijf. Dit kan allemaal gebeuren met de voorziene constructie en 3D print, de constructie kan gebouwd  worden met onderdelen gesneden door een lasercutter, voor de 3D-print zal je dan weer een 3D printer nodig hebben. Voor de constructieonderdelen op maat te maken kan je [**dit bestand**](embed/hdd_clock.dxf) gebruiken (tip: dit gaat uit van een materiaaldikte van 2.5mm), de 3D print vind je [**hier**](embed/clock_ring.stl) terug. 
 Ten slotte verbinden we alles met de Dwenguino zodat deze de componenten kan besturen en we de klok daadwerkelijk kunnen gebruiken! 
 
 Programmeer de code op de Dwenguino en test de HDD klok eens uit, als alles goed verlopen is dan zou de klok als volgt moeten werken:
