@@ -68,28 +68,28 @@ Hieronder zie je een codevoorbeeld dat elke seconde de tekst "test" naar een bes
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="sd_card.cpp">
-    
+
     // Bibliotheken inladen
-    #include <LiquidCrystal.h> 
+    #include <LiquidCrystal.h>
     #include <Dwenguino.h>
     #include <OneWire.h>
     #include <SPI.h>
     #include "SD.h"
 
-    // Stel de pinnummers in die op de Dwenguino 
+    // Stel de pinnummers in die op de Dwenguino
     // gebruikt worden voor SPI communicatie.
     const int DW_CS = 10;
     const int DW_MOSI = 2;
     const int DW_MISO = 12;
     const int DW_CLK = 13;
 
-    // Maak een bestand aan 
+    // Maak een bestand aan
     File dataFile;
 
     void setup()
     {
         initDwenguino(); // Initialiseer de basisfuncties van de Dwenguino
-  
+
         // SD kaart verbinding klaarmaken
         dwenguinoLCD.clear();
         dwenguinoLCD.print("SD-kaart setup.");
@@ -136,15 +136,15 @@ Hieronder zie je een codevoorbeeld dat elke seconde de tekst "test" naar een bes
             delay(1000);
 
         } else { // Sluit het bestand wanneer de N(orth) knop is ingedrukt.
-            dwenguinoLCD.clear();
-            dwenguinoLCD.print("closing file");
-
             // Schrijf de data weg naar het bestand en sluit het bestand.
             dataFile.flush();
             dataFile.close();
 
+            dwenguinoLCD.clear();
+            dwenguinoLCD.print("Bestand gesloten");
+
             // Stop het programma.
-            return;
+            while(1);
         }
     }
 
