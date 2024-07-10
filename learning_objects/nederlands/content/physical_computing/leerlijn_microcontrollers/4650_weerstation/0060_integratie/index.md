@@ -100,7 +100,7 @@ teacher_exclusive: true
         if (! dataFile) {
             dwenguinoLCD.clear();
             dwenguinoLCD.print("Fout bij openen.");
-            // Wait forever since we cant write data
+            // Blijf wachten, lukt niet om data te lezen.
             while (1) ;
         }
 
