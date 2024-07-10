@@ -63,7 +63,7 @@ De volgende tabel geeft weer hoe je de module kan aansluiten.
 
 De eerste keer dat we een RTC module gebruiken, moeten we de tijd ervan instellen. Eens we de tijd hebben ingesteld, zal de RTC module deze onthouden. We kunnen die dan telkens terug opvragen.
 
-Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaakt dat een menu toont op het lcd-scherm waarmee je de tijd kan instellen. Door dit programma up te loaden naar de Dwenguino, kan je de tijd van de RTC instellen. Daarna kan je je eigen code uploaden waarin je de tijd kan opvragen. Hieronder zie je de code van dat voorbeeldprogramma. 
+Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaakt dat een menu toont op het lcd-scherm waarmee je de tijd kan instellen. Door dit programma up te loaden naar de Dwenguino, kan je de tijd van de RTC instellen. Daarna kan je je eigen code uploaden waarin je de tijd kan opvragen. Hieronder zie je de code van dat voorbeeldprogramma. Het is niet de bedoeling dat je al deze code begrijpt. We maken gebruik van concepten die je nog niet gezien hebt zoals interrupts. Wil je meer leren over interrupts, neem dan een kijkje in ons [geavanceerd leerpad over de microcontroller](https://www.dwengo.org/learning-path.html?hruid=pc_leerlijn_g4&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#pc_micro_tei;nl;3).
 
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
@@ -93,9 +93,9 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
     unsigned char debounce = 0;
 
     // De default instelling voor jaar, maand, dag, dVW, uur, minuut en seconde.
-    unsigned char tijdsinstelling[AANTAL_MENU_ITEMS] 
+    unsigned int tijdsinstelling[AANTAL_MENU_ITEMS] 
         = {24, 7, 5, 5, 12, 0, 0};
-    unsigned char tijdsinstellingMaxima[AANTAL_MENU_ITEMS] 
+    unsigned int tijdsinstellingMaxima[AANTAL_MENU_ITEMS] 
         = {3000, 12, 31, 7, 24, 60, 60};
 
     // Knop omhoog
@@ -202,7 +202,7 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
 
         // Stel tijd in via waarden RTC
         DateTime now = rtcLib.now();
-        tijdsinstelling[JAAR] = now.getYear();
+        tijdsinstelling[JAAR] = now.getYear() - 2000;
         tijdsinstelling[MAAND] = now.getMonth();
         tijdsinstelling[DAG] = now.getDay();
         tijdsinstelling[DVW] = now.getWeekDay();
@@ -226,12 +226,6 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
         Serial.print(':');
         Serial.print(now.getSecond(), DEC);
         Serial.println();
-        
-        Serial.print(" since midnight 1/1/1970 = ");
-        Serial.print(now.getUnixTime());
-        Serial.print("s = ");
-        Serial.print(now.getUnixTime() / 86400L);
-        Serial.println("d");
     }
 
     void loop() {
@@ -240,10 +234,12 @@ Om de tijd te kunnen instellen, hebben we bij Dwengo een voorbeeldprograma gemaa
         delay(500);
         dwenguinoLCD.clear(); // Maak scherm leeg
 
-        // Stuur tijd door over serieel wanneer de noord knop wordt ingedrukt.
         if (!digitalRead(SW_N)){
+            // Stuur tijd door over serieel 
+            // wanneer de noord knop wordt ingedrukt.
             stuurTijdOverSerieel();
         } else if (!digitalRead(SW_S)){
+            // Stel tijd in via menu.
             openTijdsinstellingsmenu();
             stelTijdIn();
         }    
