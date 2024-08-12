@@ -29,7 +29,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
             <p class="info_item_content">
-                <img src="img/knoppen.png" alt="Een afbeelding van de knoppen." title="Een afbeelding van de knoppen."></img>
+                <img src="img/button1.jpeg" alt="Een afbeelding van de knoppen." title="Een afbeelding van de knoppen."></img>
             </p>
         </div>
         <div class="info_item item">
@@ -54,35 +54,35 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led gaat pas branden wanneer je een knop indrukt.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
-/ constants won't change. They're used here to set pin numbers:
-const int buttonPin = 2;  // the number of the pushbutton pin
-const int ledPin = 13;    // the number of the LED pin
+    // constants won't change. They're used here to set pin numbers:
+    const int buttonPin = 2;  // the number of the pushbutton pin
+    const int ledPin = 13;    // the number of the LED pin
 
-// variables will change:
-int buttonState = 0;  // variable for reading the pushbutton status
+    // variables will change:
+    int buttonState = 0;  // variable for reading the pushbutton status
 
-void setup() {
-  // initialize the LED pin as an output:
-  pinMode(ledPin, OUTPUT);
-  // initialize the pushbutton pin as an input:
-  pinMode(buttonPin, INPUT);
-}
+    void setup() {
+    // initialize the LED pin as an output:
+    pinMode(ledPin, OUTPUT);
+    // initialize the pushbutton pin as an input:
+    pinMode(buttonPin, INPUT);
+    }
 
-void loop() {
-  // read the state of the pushbutton value:
-  buttonState = digitalRead(buttonPin);
+    void loop() {
+    // read the state of the pushbutton value:
+    buttonState = digitalRead(buttonPin);
 
-  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
-  if (buttonState == HIGH) {
-    // turn LED on:
-    digitalWrite(ledPin, HIGH);
-  } else {
-    // turn LED off:
-    digitalWrite(ledPin, LOW);
-  }
-}
+    // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+    if (buttonState == HIGH) {
+        // turn LED on:
+        digitalWrite(ledPin, HIGH);
+    } else {
+        // turn LED off:
+        digitalWrite(ledPin, LOW);
+    }
+    }
 </code>
 </pre> 
             </p>

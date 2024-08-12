@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="720"
+   height="565"
+   viewBox="0 0 358.31201 281.94934"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <g
+     id="g10"
+     transform="matrix(1.3333333,0,0,-1.3333333,74.581331,178.31067)">
+    <g
+       id="g12">
+      <g
+         id="g14">
+        <g
+           id="g16">
+          <g
+             id="g18">
+            <g
+               id="g20"
+               transform="translate(-25.517,4.363)">
+              <g
+                 id="g22">
+                <g
+                   id="g24"
+                   transform="translate(-30.419,-82.092)">
+                  <text
+                     xml:space="preserve"
+                     transform="matrix(1,0,0,-1,30.419,82.092)"
+                     style="font-variant:normal;font-weight:normal;font-size:7.9701px;font-family:CMR8;-inkscape-font-specification:CMR8;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="text28"><tspan
+                       x="0 4.7047501 10.821005 16.109962"
+                       y="0"
+                       id="tspan26">SCLK</tspan></text>
+                  <g
+                     id="g30"
+                     transform="translate(30.419,82.092)" />
+                </g>
+              </g>
+              <g
+                 id="g32"
+                 transform="translate(25.517,-4.363)" />
+            </g>
+          </g>
+        </g>
+        <path
+           d="m 7.08669,0 h 7.08668"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path34" />
+        <path
+           d="m 14.17339,0 v 14.17339 h 14.1734 V 0 h 14.1734"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path36" />
+        <path
+           d="M 42.5202,0 V 14.17339 H 56.6936 V 0 h 14.17339"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path38" />
+        <path
+           d="M 70.867,0 V 14.17339 H 85.0404 V 0 h 14.1734"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path40" />
+        <path
+           d="m 99.21382,0 v 14.17339 h 14.1734 V 0 h 14.17339"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path42" />
+        <path
+           d="m 127.56062,0 v 14.17339 h 14.1734 V 0 h 14.1734"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path44" />
+        <path
+           d="m 155.90744,0 v 14.17339 h 14.1734 V 0 h 14.17339"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path46" />
+        <path
+           d="m 184.25424,0 v 14.17339 h 14.1734 V 0 h 14.1734"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path48" />
+        <g
+           id="g50">
+          <g
+             id="g52">
+            <g
+               id="g54"
+               transform="translate(-25.221,32.71)">
+              <g
+                 id="g56">
+                <g
+                   id="g58"
+                   transform="translate(-30.715,-110.439)">
+                  <text
+                     xml:space="preserve"
+                     transform="matrix(1,0,0,-1,30.715,110.439)"
+                     style="font-variant:normal;font-weight:normal;font-size:7.9701px;font-family:CMR8;-inkscape-font-specification:CMR8;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="text62"><tspan
+                       x="0 7.7541103 10.803471 15.508221"
+                       y="0"
+                       id="tspan60">MISO</tspan></text>
+                  <g
+                     id="g64"
+                     transform="translate(30.715,110.439)" />
+                </g>
+              </g>
+              <g
+                 id="g66"
+                 transform="translate(25.221,-32.71)" />
+            </g>
+          </g>
+        </g>
+        <path
+           d="m 7.08669,42.5202 h 21.2601"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path68" />
+        <path
+           d="M 28.3468,42.5202 H 56.69362 V 28.3468 h 28.3468 v 14.1734 h 85.04044 V 28.3468 h 42.5202"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path70" />
+        <g
+           id="g72">
+          <g
+             id="g74">
+            <g
+               id="g76"
+               transform="translate(-25.221,61.056)">
+              <g
+                 id="g78">
+                <g
+                   id="g80"
+                   transform="translate(-30.715,-138.785)">
+                  <text
+                     xml:space="preserve"
+                     transform="matrix(1,0,0,-1,30.715,138.785)"
+                     style="font-variant:normal;font-weight:normal;font-size:7.9701px;font-family:CMR8;-inkscape-font-specification:CMR8;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="text84"><tspan
+                       x="0 7.7541103 14.340601 19.045351"
+                       y="0"
+                       id="tspan82">MOSI</tspan></text>
+                  <g
+                     id="g86"
+                     transform="translate(30.715,138.785)" />
+                </g>
+              </g>
+              <g
+                 id="g88"
+                 transform="translate(25.221,-61.056)" />
+            </g>
+          </g>
+        </g>
+        <path
+           d="m 7.08669,56.69362 h 21.2601"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path90" />
+        <path
+           d="M 28.3468,56.69362 H 56.69362 V 70.867 h 56.69362 V 56.69362 h 28.3468 V 70.867 h 28.34682 V 56.69362 h 28.3468 V 70.867 h 14.1734"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path92" />
+        <g
+           id="g94">
+          <g
+             id="g96">
+            <g
+               id="g98"
+               transform="translate(-20.995,-24.88)">
+              <g
+                 id="g100">
+                <g
+                   id="g102"
+                   transform="translate(0,6.702)">
+                  <path
+                     d="M 0,0 H 10.821"
+                     style="fill:none;stroke:#000000;stroke-width:0.359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path104" />
+                </g>
+                <g
+                   id="g106"
+                   transform="translate(-34.941,-52.849)">
+                  <text
+                     xml:space="preserve"
+                     transform="matrix(1,0,0,-1,34.941,52.849)"
+                     style="font-variant:normal;font-weight:normal;font-size:7.9701px;font-family:CMR8;-inkscape-font-specification:CMR8;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="text110"><tspan
+                       x="0 6.1162548"
+                       y="0"
+                       id="tspan108">CS</tspan></text>
+                  <g
+                     id="g112"
+                     transform="translate(34.941,52.849)" />
+                </g>
+              </g>
+              <g
+                 id="g114"
+                 transform="translate(20.995,24.88)" />
+            </g>
+          </g>
+        </g>
+        <path
+           d="m 7.08669,-14.17339 h 3.54333"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path116" />
+        <path
+           d="m 10.63004,-14.17339 v -14.1734 h 198.42767 v 14.1734 h 3.54333"
+           style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path118" />
+        <g
+           id="g120">
+          <path
+             d="M 14.17339,-42.5202 V 85.04042"
+             style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
+             id="path122" />
+        </g>
+        <g
+           id="g124">
+          <path
+             d="M 42.5202,-42.5202 V 85.04042"
+             style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
+             id="path126" />
+        </g>
+        <g
+           id="g128">
+          <path
+             d="M 70.867,-42.5202 V 85.04042"
+             style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
+             id="path130" />
+        </g>
+        <g
+           id="g132">
+          <path
+             d="M 99.21382,-42.5202 V 85.04042"
+             style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
+             id="path134" />
+        </g>
+        <g
+           id="g136">
+          <path
+             d="M 127.56062,-42.5202 V 85.04042"
+             style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
+             id="path138" />
+        </g>
+        <g
+           id="g140">
+          <path
+             d="M 155.90744,-42.5202 V 85.04042"
+             style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
+             id="path142" />
+        </g>
+        <g
+           id="g144">
+          <path
+             d="M 184.25424,-42.5202 V 85.04042"
+             style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
+             id="path146" />
+        </g>
+        <g
+           id="g148">
+          <path
+             d="M 28.3468,85.04042 V -42.5202"
+             style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+             id="path150" />
+        </g>
+        <g
+           id="g152">
+          <path
+             d="M 56.69362,85.04042 V -42.5202"
+             style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+             id="path154" />
+        </g>
+        <g
+           id="g156">
+          <path
+             d="M 85.04042,85.04042 V -42.5202"
+             style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+             id="path158" />
+        </g>
+        <g
+           id="g160">
+          <path
+             d="M 113.38724,85.04042 V -42.5202"
+             style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+             id="path162" />
+        </g>
+        <g
+           id="g164">
+          <path
+             d="M 141.73404,85.04042 V -42.5202"
+             style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+             id="path166" />
+        </g>
+        <g
+           id="g168">
+          <path
+             d="M 170.08086,85.04042 V -42.5202"
+             style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+             id="path170" />
+        </g>
+        <g
+           id="g172">
+          <g
+             id="g174">
+            <g
+               id="g176"
+               transform="translate(-52.616,96.489)">
+              <g
+                 id="g178">
+                <g
+                   id="g180"
+                   transform="translate(-3.32,-174.218)">
+                  <text
+                     xml:space="preserve"
+                     transform="matrix(1,0,0,-1,3.32,174.218)"
+                     style="font-variant:normal;font-weight:normal;font-size:7.9701px;font-family:CMR8;-inkscape-font-specification:CMR8;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="text184"><tspan
+                       x="0 7.7541103 10.803471 15.508221 24.916126 31.149542 36.78281 42.197693"
+                       y="0"
+                       id="tspan182">MISODATA</tspan></text>
+                  <g
+                     id="g186"
+                     transform="translate(3.32,174.218)" />
+                </g>
+              </g>
+              <g
+                 id="g188"
+                 transform="translate(52.616,-96.489)" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g190">
+          <g
+             id="g192"
+             transform="translate(11.683,95.646)">
+            <g
+               id="g194">
+              <g
+                 id="g196"
+                 transform="translate(-67.619,-173.375)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,67.619,173.375)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text200"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan198">1</tspan></text>
+                <g
+                   id="g202"
+                   transform="translate(67.619,173.375)" />
+              </g>
+            </g>
+            <g
+               id="g204"
+               transform="translate(-11.683,-95.646)" />
+          </g>
+        </g>
+        <g
+           id="g206">
+          <g
+             id="g208"
+             transform="translate(40.029,95.646)">
+            <g
+               id="g210">
+              <g
+                 id="g212"
+                 transform="translate(-95.965,-173.375)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,95.965,173.375)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text216"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan214">1</tspan></text>
+                <g
+                   id="g218"
+                   transform="translate(95.965,173.375)" />
+              </g>
+            </g>
+            <g
+               id="g220"
+               transform="translate(-40.029,-95.646)" />
+          </g>
+        </g>
+        <g
+           id="g222">
+          <g
+             id="g224"
+             transform="translate(68.375,95.646)">
+            <g
+               id="g226">
+              <g
+                 id="g228"
+                 transform="translate(-124.311,-173.375)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,124.311,173.375)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text232"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan230">0</tspan></text>
+                <g
+                   id="g234"
+                   transform="translate(124.311,173.375)" />
+              </g>
+            </g>
+            <g
+               id="g236"
+               transform="translate(-68.375,-95.646)" />
+          </g>
+        </g>
+        <g
+           id="g238">
+          <g
+             id="g240"
+             transform="translate(96.722,95.646)">
+            <g
+               id="g242">
+              <g
+                 id="g244"
+                 transform="translate(-152.658,-173.375)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,152.658,173.375)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text248"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan246">1</tspan></text>
+                <g
+                   id="g250"
+                   transform="translate(152.658,173.375)" />
+              </g>
+            </g>
+            <g
+               id="g252"
+               transform="translate(-96.722,-95.646)" />
+          </g>
+        </g>
+        <g
+           id="g254">
+          <g
+             id="g256"
+             transform="translate(125.068,95.646)">
+            <g
+               id="g258">
+              <g
+                 id="g260"
+                 transform="translate(-181.004,-173.375)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,181.004,173.375)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text264"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan262">1</tspan></text>
+                <g
+                   id="g266"
+                   transform="translate(181.004,173.375)" />
+              </g>
+            </g>
+            <g
+               id="g268"
+               transform="translate(-125.068,-95.646)" />
+          </g>
+        </g>
+        <g
+           id="g270">
+          <g
+             id="g272"
+             transform="translate(153.415,95.646)">
+            <g
+               id="g274">
+              <g
+                 id="g276"
+                 transform="translate(-209.351,-173.375)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,209.351,173.375)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text280"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan278">1</tspan></text>
+                <g
+                   id="g282"
+                   transform="translate(209.351,173.375)" />
+              </g>
+            </g>
+            <g
+               id="g284"
+               transform="translate(-153.415,-95.646)" />
+          </g>
+        </g>
+        <g
+           id="g286">
+          <g
+             id="g288"
+             transform="translate(181.761,95.646)">
+            <g
+               id="g290">
+              <g
+                 id="g292"
+                 transform="translate(-237.697,-173.375)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,237.697,173.375)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text296"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan294">0</tspan></text>
+                <g
+                   id="g298"
+                   transform="translate(237.697,173.375)" />
+              </g>
+            </g>
+            <g
+               id="g300"
+               transform="translate(-181.761,-95.646)" />
+          </g>
+        </g>
+        <g
+           id="g302">
+          <g
+             id="g304">
+            <g
+               id="g306"
+               transform="translate(-52.616,124.836)">
+              <g
+                 id="g308">
+                <g
+                   id="g310"
+                   transform="translate(-3.32,-202.565)">
+                  <text
+                     xml:space="preserve"
+                     transform="matrix(1,0,0,-1,3.32,202.565)"
+                     style="font-variant:normal;font-weight:normal;font-size:7.9701px;font-family:CMR8;-inkscape-font-specification:CMR8;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="text314"><tspan
+                       x="0 7.7541103 14.340601 19.045351 24.916126 31.149542 36.78281 42.197693"
+                       y="0"
+                       id="tspan312">MOSIDATA</tspan></text>
+                  <g
+                     id="g316"
+                     transform="translate(3.32,202.565)" />
+                </g>
+              </g>
+              <g
+                 id="g318"
+                 transform="translate(52.616,-124.836)" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g320">
+          <g
+             id="g322"
+             transform="translate(11.683,123.992)">
+            <g
+               id="g324">
+              <g
+                 id="g326"
+                 transform="translate(-67.619,-201.721)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,67.619,201.721)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text330"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan328">0</tspan></text>
+                <g
+                   id="g332"
+                   transform="translate(67.619,201.721)" />
+              </g>
+            </g>
+            <g
+               id="g334"
+               transform="translate(-11.683,-123.992)" />
+          </g>
+        </g>
+        <g
+           id="g336">
+          <g
+             id="g338"
+             transform="translate(40.029,123.992)">
+            <g
+               id="g340">
+              <g
+                 id="g342"
+                 transform="translate(-95.965,-201.721)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,95.965,201.721)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text346"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan344">0</tspan></text>
+                <g
+                   id="g348"
+                   transform="translate(95.965,201.721)" />
+              </g>
+            </g>
+            <g
+               id="g350"
+               transform="translate(-40.029,-123.992)" />
+          </g>
+        </g>
+        <g
+           id="g352">
+          <g
+             id="g354"
+             transform="translate(68.375,123.992)">
+            <g
+               id="g356">
+              <g
+                 id="g358"
+                 transform="translate(-124.311,-201.721)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,124.311,201.721)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text362"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan360">1</tspan></text>
+                <g
+                   id="g364"
+                   transform="translate(124.311,201.721)" />
+              </g>
+            </g>
+            <g
+               id="g366"
+               transform="translate(-68.375,-123.992)" />
+          </g>
+        </g>
+        <g
+           id="g368">
+          <g
+             id="g370"
+             transform="translate(96.722,123.992)">
+            <g
+               id="g372">
+              <g
+                 id="g374"
+                 transform="translate(-152.658,-201.721)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,152.658,201.721)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text378"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan376">1</tspan></text>
+                <g
+                   id="g380"
+                   transform="translate(152.658,201.721)" />
+              </g>
+            </g>
+            <g
+               id="g382"
+               transform="translate(-96.722,-123.992)" />
+          </g>
+        </g>
+        <g
+           id="g384">
+          <g
+             id="g386"
+             transform="translate(125.068,123.992)">
+            <g
+               id="g388">
+              <g
+                 id="g390"
+                 transform="translate(-181.004,-201.721)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,181.004,201.721)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text394"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan392">0</tspan></text>
+                <g
+                   id="g396"
+                   transform="translate(181.004,201.721)" />
+              </g>
+            </g>
+            <g
+               id="g398"
+               transform="translate(-125.068,-123.992)" />
+          </g>
+        </g>
+        <g
+           id="g400">
+          <g
+             id="g402"
+             transform="translate(153.415,123.992)">
+            <g
+               id="g404">
+              <g
+                 id="g406"
+                 transform="translate(-209.351,-201.721)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,209.351,201.721)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text410"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan408">1</tspan></text>
+                <g
+                   id="g412"
+                   transform="translate(209.351,201.721)" />
+              </g>
+            </g>
+            <g
+               id="g414"
+               transform="translate(-153.415,-123.992)" />
+          </g>
+        </g>
+        <g
+           id="g416">
+          <g
+             id="g418"
+             transform="translate(181.761,123.992)">
+            <g
+               id="g420">
+              <g
+                 id="g422"
+                 transform="translate(-237.697,-201.721)">
+                <text
+                   xml:space="preserve"
+                   transform="matrix(1,0,0,-1,237.697,201.721)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text426"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan424">0</tspan></text>
+                <g
+                   id="g428"
+                   transform="translate(237.697,201.721)" />
+              </g>
+            </g>
+            <g
+               id="g430"
+               transform="translate(-181.761,-123.992)" />
+          </g>
+        </g>
+        <g
+           id="g432">
+          <path
+             d="M 14.17339,-56.69362 H 85.04042"
+             style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.3985, 1.99255;stroke-dashoffset:0;stroke-opacity:1"
+             id="path434" />
+        </g>
+        <g
+           id="g436">
+          <g
+             id="g438">
+            <g
+               id="g440"
+               transform="translate(91.158,-58.686)">
+              <g
+                 id="g442">
+                <g
+                   id="g444"
+                   transform="translate(-147.094,-19.043)">
+                  <text
+                     xml:space="preserve"
+                     transform="matrix(1,0,0,-1,147.094,19.043)"
+                     style="font-variant:normal;font-weight:normal;font-size:7.9701px;font-family:CMR8;-inkscape-font-specification:CMR8;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="text448"><tspan
+                       x="0 4.8147373 9.0492516 11.401228 13.761174 16.113152 20.817902 27.985413 31.748894 36.453644 40.688156"
+                       y="0"
+                       id="tspan446">Fallingedge</tspan></text>
+                  <g
+                     id="g450"
+                     transform="translate(147.094,19.043)" />
+                </g>
+              </g>
+              <g
+                 id="g452"
+                 transform="translate(-91.158,58.686)" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g454">
+          <path
+             d="M 14.17339,-70.867 H 85.04042"
+             style="fill:none;stroke:#0000ff;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.98883, 2.98883;stroke-dashoffset:0;stroke-opacity:1"
+             id="path456" />
+        </g>
+        <g
+           id="g458">
+          <g
+             id="g460">
+            <g
+               id="g462"
+               transform="translate(92.076,-72.859)">
+              <g
+                 id="g464">
+                <g
+                   id="g466"
+                   transform="translate(-148.012,-4.87)">
+                  <text
+                     xml:space="preserve"
+                     transform="matrix(1,0,0,-1,148.012,4.87)"
+                     style="font-variant:normal;font-weight:normal;font-size:7.9701px;font-family:CMR8;-inkscape-font-specification:CMR8;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="text470"><tspan
+                       x="0 6.2294302 8.5814066 11.921676 14.273652 18.978401 26.153883 29.917364 34.622116 38.856628"
+                       y="0"
+                       id="tspan468">Risingedge</tspan></text>
+                  <g
+                     id="g472"
+                     transform="translate(148.012,4.87)" />
+                </g>
+              </g>
+              <g
+                 id="g474"
+                 transform="translate(-92.076,72.859)" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

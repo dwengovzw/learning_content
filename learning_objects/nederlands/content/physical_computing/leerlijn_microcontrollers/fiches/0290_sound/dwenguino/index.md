@@ -58,11 +58,11 @@ teacher_exclusive: false
                 <br>
                 Het afstellen van de geluidssensor (meer of minder gevoelig maken) gebeurt met de kleine schroef bovenaan de sensor.<br>
                 <br>
-                - Wijzerzin: De geluidssensor wordt gevoeliger voor geluid.
+                - Wijzerzin: De geluidssensor wordt gevoeliger voor geluid.<br>
                 - Tegenwijzerzin: De geluidssensor wordt minder gevoelig voor geluid.<br>
                 <br>
                 Wanneer een geluidssensor voor de eerste keer wordt gebruikt, is deze zeer gevoelig voor geluid. Om de sensor af te stellen, ga je als volgt te werk:<br>
-                *Zorg ervoor dat het geluidsniveau op dit moment het niveau is waarop de sensor zal werken. Als het nu muisstil is, maar dit zal niet zo zijn wanneer de sensor in gebruik is, zal je deze opnieuw moeten afstellen.*<br>
+                Zorg ervoor dat het geluidsniveau op dit moment het niveau is waarop de sensor zal werken. Als het nu muisstil is, maar dit zal niet zo zijn wanneer de sensor in gebruik is, zal je deze opnieuw moeten afstellen.<br>
                 <br>
                 1. Draai de schroef in <em>tegenwijzerzin</em> tot een led uit gaat.
                 2. Draai nu de schroef <em>voorzichtig</em> in <em>wijzerzin</em> tot de led terug aan gaat.
@@ -74,7 +74,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: Op het lcd-scherm laten verschijnen of er geluid gedetecteerd wordt.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
     #include <Wire.h>
     #include <Dwenguino.h>
@@ -85,12 +85,17 @@ teacher_exclusive: false
     void setup(){
         initDwenguino();
 
-        pinMode(SOUND_SENSOR_PIN_A4, INPUT);
+        pinMode(
+            SOUND_SENSOR_PIN_A4, 
+            INPUT);
     }
 
     void loop(){
         dwenguinoLCD.setCursor(0,0);
-        dwenguinoLCD.print((digitalRead(SOUND_SENSOR_PIN_A4)) + String(String("")));
+        dwenguinoLCD.print((
+            digitalRead(SOUND_SENSOR_PIN_A4)) 
+            + String(String("")
+            ));
         delay(100);
         dwenguinoLCD.clear();
     }

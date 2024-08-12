@@ -38,7 +38,8 @@ In de wiskundeles leer je de nulwaarden van een functie berekenen door vergelijk
 
 Deze toestellen maken gebruik van zogenaamde numerieke methodes om de nulwaarden te bepalen: Ze passen bepaalde technieken iteratief toe om **stap voor stap** de nulwaarden te benaderen.  
 
-Er bestaan meerdere numerieke methodes om de nulwaarden te bepalen. <br>
-Hier worden twee methodes voorgesteld. In een eerste notebook maak je kennis met de halveringsmethode (bissectiemethode), een tweede notebook gaat in op de methode van Newton.   
+Er bestaan meerdere numerieke methodes om de nulwaarden te bepalen. 
 
-[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6520 "Nulwaarden numeriek bepalen")
+-----
+
+Hier worden twee methodes voorgesteld. In een eerste notebook maak je kennis met de halveringsmethode (bissectiemethode), een tweede notebook gaat in op de methode van Newton.   

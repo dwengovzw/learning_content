@@ -71,32 +71,32 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
-const int trigPin = 9;
-const int echoPin = 10;
+    const int trigPin = 9;
+    const int echoPin = 10;
 
-float duration, distance;
+    float duration, distance;
 
-void setup() {
-  pinMode(trigPin, OUTPUT);
-  pinMode(echoPin, INPUT);
-  Serial.begin(9600);
-}
+    void setup() {
+        pinMode(trigPin, OUTPUT);
+        pinMode(echoPin, INPUT);
+        Serial.begin(9600);
+    }
 
-void loop() {
-  digitalWrite(trigPin, LOW);
-  delayMicroseconds(2);
-  digitalWrite(trigPin, HIGH);
-  delayMicroseconds(10);
-  digitalWrite(trigPin, LOW);
+    void loop() {
+        digitalWrite(trigPin, LOW);
+        delayMicroseconds(2);
+        digitalWrite(trigPin, HIGH);
+        delayMicroseconds(10);
+        digitalWrite(trigPin, LOW);
 
-  duration = pulseIn(echoPin, HIGH);
-  distance = (duration*.0343)/2;
-  Serial.print("Distance: ");
-  Serial.println(distance);
-  delay(100);
-}
+        duration = pulseIn(echoPin, HIGH);
+        distance = (duration*.0343)/2;
+        Serial.print("Distance: ");
+        Serial.println(distance);
+        delay(100);
+    }
 </code>
 </pre> 
             </p>

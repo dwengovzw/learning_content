@@ -34,3 +34,13 @@ teacher_exclusive: false
 
 In de wiskundeles leer je limieten van rijen en functies berekenen a.d.h.v. bepaalde technieken en formules. Maar je kan een limiet ook **_numeriek benaderen_**. <br>
 Je zal hiermee experimenteren in twee notebooks. 
+
+---
+# Voorkennis
+
+* Leerpad *'Werken met notebooks'*
+* 'Programmeren met Python' > Leerpad *'Datatypes'* - String, int, float 
+* 'Programmeren met Python' > Leerpad *'Datatypes'* - Opsommingen (in de notebook puntjes 1. List en 3. Range)
+* 'Programmeren met Python' > Leerpad *'Operatoren'* - Wiskundige operatoren - Rekenen
+* 'Programmeren met Python' > Leerpad *'Structuren'* - Herhalingsstructuur en Keuzestructuur
+* 'Programmeren met Python' > Leerpad *'Functies en klassen'* - Functies

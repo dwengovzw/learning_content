@@ -32,6 +32,8 @@ teacher_exclusive: false
 
 # Methode van Newton
 
-In een tweede notebook leer je de nulpunten van een continue functie benaderen aan de hand van de methode van Newton.
+In een tweede notebook leer je de nulwaarden van een continue functie benaderen aan de hand van de methode van Newton.
 
 In de tweede notebook komen enkele **wiskundige concepten** aan bod: tweedegraadsfunctie en parabool, punt op een grafiek, continue functie, functiewaarde, afgeleide functie, raaklijn, richtingscoëfficiënt, snijpunt van de grafiek van een functie met de x-as.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6520 "Nulwaarden numeriek bepalen")

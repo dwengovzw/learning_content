@@ -71,7 +71,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
     #include <Wire.h>
     #include <Dwenguino.h>
@@ -95,7 +95,8 @@ teacher_exclusive: false
 
     void loop(){
         afstand = sonar.ping_cm();
-        if (afstand > 0 && afstand < 100){
+        if (afstand > 0 && afstand < 100)
+        {
             digitalWrite(13, HIGH);
         } else {
             digitalWrite(13, LOW);

@@ -60,20 +60,22 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led laten branden als sonar-sensor object detecteert tot een afstand van 100cm.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
     #include <Wire.h>
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
     #include <LedController.hpp>
 
-    auto led_matrix = LedController<4,1>();
+    auto led_matrix = 
+        LedController<4,1>();
     ByteBlock pattern = {};
 
     void setup(){
         initDwenguino();
 
-        auto conf = controller_configuration<4,1>();
+        auto conf = 
+            controller_configuration<4,1>();
         conf.useHardwareSpi = false;
         conf.SPI_CLK = 13;
         conf.SPI_MOSI = 2;
@@ -85,8 +87,19 @@ teacher_exclusive: false
     }
 
     void loop(){
-        pattern = {B00000000,B01100110,B11111111,B11111111,B01111110,B00111100,B00011000,B00000000};
-        led_matrix.displayOnSegment(0, pattern);
+        pattern = {
+            B00000000,
+            B01100110,
+            B11111111,
+            B11111111,
+            B01111110,
+            B00111100,
+            B00011000,
+            B00000000};
+        led_matrix
+            .displayOnSegment(
+                0, 
+                pattern);
     }
 </code>
 </pre> 

@@ -2,7 +2,7 @@
 hruid: anm_1205
 version: 3
 language: nl
-title: "Oefeningen"
+title: "Toepassingen"
 description: "Nulwaarden"
 keywords: [""]
 educational_goals: [
@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Oefeningen bij het numeriek benaderen van nulpunten 
+# Toepassingen bij het numeriek benaderen van nulwaarden 
 
 Je kan deze technieken verder inoefenen, met enkele oefeningen in een economische context.
 

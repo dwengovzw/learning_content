@@ -41,7 +41,7 @@ Hier de inhoud.
         <div class="example_item item">
             <h3 class="example_item_title">Hier komt de titel van je voorbeeld.</h3>
             <p class="example_item_content">
-                <pre><code class="language-arduino">
+                <pre><code class="language-cpp">
     Hier komt je codevoorbeeld.
                 </code></pre> 
             </p>

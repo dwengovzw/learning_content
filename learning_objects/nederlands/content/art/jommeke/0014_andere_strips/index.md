@@ -17,7 +17,7 @@ skos_concepts: [
 
 ]
 copyright: "CC BY dwengo"
-target_ages: [12, 13, 14, 15, 16]]
+target_ages: [12, 13, 14, 15, 16]
 ---
 
 ## Wat met andere strips?

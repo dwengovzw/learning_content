@@ -58,22 +58,21 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led 0 laten branden.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
-#include <Wire.h>
-#include <Dwenguino.h>
-#include <LiquidCrystal.h>
+    #include <Dwenguino.h>
 
-void setup()
-{
-  initDwenguino();
-}
+    void setup()
+    {
+        initDwenguino();
+    }
 
-void loop()
-{
-    pinMode(32, OUTPUT);
-    digitalWrite(32, HIGH);
-}
+    void loop()
+    {
+        pinMode(32, OUTPUT);
+        digitalWrite(32, HIGH);
+    }
+
 </code>
 </pre> 
             </p>

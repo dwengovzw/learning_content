@@ -62,7 +62,7 @@ teacher_exclusive: false
                 - Tegenwijzerzin: De geluidssensor wordt minder gevoelig voor geluid.<br>
                 <br>
                 Wanneer een geluidssensor voor de eerste keer wordt gebruikt, is deze zeer gevoelig voor geluid. Om de sensor af te stellen, ga je als volgt te werk:<br>
-                *Zorg ervoor dat het geluidsniveau op dit moment het niveau is waarop de sensor zal werken. Als het nu muisstil is, maar dit zal niet zo zijn wanneer de sensor in gebruik is, zal je deze opnieuw moeten afstellen.*<br>
+                Zorg ervoor dat het geluidsniveau op dit moment het niveau is waarop de sensor zal werken. Als het nu muisstil is, maar dit zal niet zo zijn wanneer de sensor in gebruik is, zal je deze opnieuw moeten afstellen.<br>
                 <br>
                 1. Draai de schroef in <em>tegenwijzerzin</em> tot een led uit gaat.
                 2. Draai nu de schroef <em>voorzichtig</em> in <em>wijzerzin</em> tot de led terug aan gaat.
@@ -74,33 +74,33 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: Op het lcd-scherm laten verschijnen of er geluid gedetecteerd wordt.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
-// Arduino's pin connected to OUT pin of the sound sensor
-#define SENSOR_PIN 5
+    // Arduino's pin connected to OUT pin of the sound sensor
+    #define SENSOR_PIN 5
 
-int lastState = HIGH;  // the previous state from the input pin
-int currentState;      // the current reading from the input pin
+    int lastState = HIGH;  // the previous state from the input pin
+    int currentState;      // the current reading from the input pin
 
-void setup() {
-  // initialize serial communication at 9600 bits per second:
-  Serial.begin(9600);
-  // initialize the Arduino's pin as an input
-  pinMode(SENSOR_PIN, INPUT);
-}
+    void setup() {
+        // initialize serial communication at 9600 bits per second:
+        Serial.begin(9600);
+        // initialize the Arduino's pin as an input
+        pinMode(SENSOR_PIN, INPUT);
+    }
 
-void loop() {
-  // read the state of the the input pin:
-  currentState = digitalRead(SENSOR_PIN);
+    void loop() {
+        // read the state of the the input pin:
+        currentState = digitalRead(SENSOR_PIN);
 
-  if (lastState == HIGH && currentState == LOW)
-    Serial.println("The sound has been detected");
-  else if (lastState == LOW && currentState == HIGH)
-    Serial.println("The sound has disappeared");
+        if (lastState == HIGH && currentState == LOW)
+            Serial.println("The sound has been detected");
+        else if (lastState == LOW && currentState == HIGH)
+            Serial.println("The sound has disappeared");
 
-  // save the the last state
-  lastState = currentState;
-}
+        // save the the last state
+        lastState = currentState;
+    }
 
 </code>
 </pre> 

@@ -29,7 +29,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
             <p class="info_item_content">
-                <img src="img/leds.png" alt="Een afbeelding van de leds." title="Een afbeelding van de leds."></img>
+                <img src="img/leds.jpeg" alt="Een afbeelding van de leds." title="Een afbeelding van de leds."></img>
             </p>
         </div>
         <div class="info_item item">
@@ -56,7 +56,7 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: led laten branden.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
 void setup() {
   // put your setup code here, to run once:

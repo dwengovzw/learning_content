@@ -33,8 +33,9 @@ teacher_exclusive: false
 
 ## Limiet van een rij
 
-In de eerste notebook ga je aan de slag met deze opdracht:
+In de eerste notebook leer je hoe je in Python een rij kan definiëren, er enkele termen van laten berekenen en laten zien. Het begrip 'limiet van een rij' wordt er opgefrist.
 
+In de tweede notebook ga je aan de slag met deze opdracht:<br>
 Beschouw de harmonische rij \\(u_{n}=\frac{1}{n}\\).<br>
 Bepaal naar welk getal \\(u_{n}\\) nadert bij heel grote waarden van \\(n\\).
 

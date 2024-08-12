@@ -70,10 +70,10 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">5. De code laten uitvoeren</h3>
             <p class="info_item_content">
-                Druk nog een laatste keer op de ‘reset’-knop van de Dwenguino om het programma definitief over te zetten en de Dwenguino te ontkoppelen. Je programma staat nu in het geheugen van de Dwenguino en zal onmiddellijk worden uitgevoerd.
+                Druk nog een laatste keer op de ‘RESET’-knop van de Dwenguino om het programma definitief over te zetten en de Dwenguino te ontkoppelen. Je programma staat nu in het geheugen van de Dwenguino en zal onmiddellijk worden uitgevoerd.
             </p>
             <p>
-                Wil je het programma op de Dwenguino opnieuw starten? Gebruik dan de ‘reset’-knop op de Dwenguino.
+                Wil je het programma op de Dwenguino opnieuw starten? Gebruik dan de ‘RESET’-knop op de Dwenguino.
             </p>
         </div>
     </div>

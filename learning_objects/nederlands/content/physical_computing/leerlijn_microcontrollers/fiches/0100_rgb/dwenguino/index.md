@@ -59,11 +59,9 @@ teacher_exclusive: false
             <h3 class="example_item_title">Voorbeeld: het RGB-led paars licht doen branden.</h3>
             <p class="example_item_content">
 <pre>
-<code class="language-arduino">
+<code class="language-cpp">
     
-    #include <Wire.h>
     #include <Dwenguino.h>
-    #include <LiquidCrystal.h>
 
     int red_value;
     int green_value;

@@ -2,7 +2,7 @@
 hruid: anm_1302
 version: 3
 language: nl
-title: "Gradient descent"
+title: "Gradient descent toegepast"
 description: "Gradient descent"
 keywords: [""]
 educational_goals: [
@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Gradient descent
+# Gradient descent toegepast
 
 In de volgende notebook word je ingewijd in de methode van _gradient descent_. Voor de eenvoud zal je op zoek gaan naar het minimum van enkele functies die afhankelijk zijn van slechts 1 variabele. Ook de functies worden vrij eenvoudig gehouden, de notebook beperkt zicht tot veeltermfuncties.   
 

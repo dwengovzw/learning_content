@@ -32,7 +32,8 @@ teacher_exclusive: true
 
 # Het opstellen van de code
 
-Om het oplossen van de puzzel te automatiseren, maak je gebruik van keuzestructuren en herhalingstucturen (zowel while- als for-lus). <br>
-Om de code leesbaarder te maken, zal je zelf functies definiëren voor code die vaak terugkomt. <br>
+Om het oplossen van de puzzel te **automatiseren**, maak je gebruik van **keuzestructuren** en **herhalingstucturen** (zowel while- als for-lus). 
 
-Om de code niet ellenlang te maken, zal je ook enkele technieken toepassen, zoals het toevoegen van extra velden aan het puzzelveld of het transponeren van een matrix.
+Om de code leesbaarder te maken, zal je zelf **functies definiëren** voor code die vaak terugkomt. <br>
+
+Om de code niet ellenlang te maken, zal je ook enkele **technieken** toepassen, zoals het toevoegen van extra velden aan het puzzelveld of het transponeren van een matrix.
