@@ -1,5 +1,5 @@
 ---
-hruid: leerlijn_basis_programmeren_leerplandoelen
+hruid: leerlijn_grafisch_tekstueel_leerplandoelen
 version: 1
 language: nl
 title: "Leerplandoelen GO!"
@@ -40,7 +40,10 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
 ### Leerplandoelen KOV
 
 <ul class="dwengo-content leerplandoelen">
-    <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
     <li>CD 07.01.01: De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen. (LPD 13)</li>
-    <li>LPD 13 De leerlingen programmeren zelf ontworpen oplossing voor concrete problemen.</li>
+    <li>LPD 13: De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</li>
+    <li>CD 11.05.04: De leerlingen berekenen de stromen en spanningen in serie-, parallelle- en gemengde elektrische gelijkstroomkringen en netwerken via verschillende oplossingsmethoden. (LPD 11)</li>
+    <li>LPD 8: De leerlingen analyseren en kwantificeren het verband tussen de spanning over en de stroom door een verbruiker in elektrische gelijkstroomkringen.</li>
+    <li>LPD 10: De leerlingen analyseren eigenschappen van serie- en parallelschakeling.</li>
+    <li>LPD 11: De leerlingen berekenen de stromen en spanningen in serie-, parallel- en gemengde elektrische gelijkstroomkringen en netwerken via verschillende oplossingsmethoden.</li>
 </ul>

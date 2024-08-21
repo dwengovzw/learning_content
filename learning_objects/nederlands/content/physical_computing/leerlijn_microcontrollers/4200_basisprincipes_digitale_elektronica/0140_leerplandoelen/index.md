@@ -22,7 +22,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Leerplandoelen GO!
+# Leerplandoelen
+
+### Leerplandoelen GO!
 
 Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
 
@@ -44,3 +46,13 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
     <li>WD3_11.08.01 De leerlingen modelleren en realiseren een elektronische schakeling als input/output-interface voor een microcontroller of PLC.</li>
 </ul>
 
+### Leerplandoelen KOV
+
+<ul class="dwengo-content leerplandoelen">
+    <li>MD 06.48: De leerlingen analyseren verbanden tussen stroomsterkte, spanning en weerstand in een gelijkstroomkring. (LPD 8)</li>
+    <li>CD 11.05.03: De leerlingen analyseren eigenschappen van een serie- en parallelschakeling. (LPD 10)</li>
+    <li>CD 11.05.04: De leerlingen berekenen de stromen en spanningen in serie-, parallelle- en gemengde elektrische gelijkstroomkringen en netwerken via verschillende oplossingsmethoden. (LPD 11)</li>
+    <li>LPD 8: De leerlingen analyseren en kwantificeren het verband tussen de spanning over en de stroom door een verbruiker in elektrische gelijkstroomkringen.</li>
+    <li>LPD 10: De leerlingen analyseren eigenschappen van serie- en parallelschakeling.</li>
+    <li>LPD 11: De leerlingen berekenen de stromen en spanningen in serie-, parallel- en gemengde elektrische gelijkstroomkringen en netwerken via verschillende oplossingsmethoden.</li>
+</ul>

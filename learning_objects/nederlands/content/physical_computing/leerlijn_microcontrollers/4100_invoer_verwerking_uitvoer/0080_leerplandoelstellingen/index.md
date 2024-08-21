@@ -22,7 +22,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Leerplandoelen GO!
+# Leerplandoelen
+
+### Leerplandoelen GO!
 
 Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
 
@@ -34,4 +36,13 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
     <li>BK2_02.12 De leerlingen maken een elektronische schakeling.</li>
     <li>WD2_11.19.04 De leerlingen gebruiken elektronische componenten en een programmeerbare stuureenheid in een technische toepassing</li>
     <li>WD2_11.08.01 De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module.</li>
+</ul>
+
+### Leerplandoelen KOV
+
+<ul class="dwengo-content leerplandoelen">
+    <li>CD 07.01.01: De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen. (LPD 13)</li>
+    <li>CD 11.08.01: De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module. (LPD 12)</li>
+    <li>LPD 12: De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module.</li>
+    <li>LPD 13 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</li>
 </ul>
