@@ -2,7 +2,7 @@
 hruid: leerlijn_invoer_verwerking_uitvoer_leerplandoelen
 version: 1
 language: nl
-title: "Leerplandoelen GO!"
+title: "Leerplandoelen"
 description: "In dit leerobject zie je de leerplandoelen die verband houden met het materiaal uit dit leerpad."
 keywords: ["leerplandoelstellingen", "GO!"]
 educational_goals: [
@@ -39,6 +39,8 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
 </ul>
 
 ### Leerplandoelen KOV
+
+2de graad Technologische wetenschappen versie D/2024/13.758/061
 
 <ul class="dwengo-content leerplandoelen">
     <li>CD 07.01.01: De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen. (LPD 13)</li>

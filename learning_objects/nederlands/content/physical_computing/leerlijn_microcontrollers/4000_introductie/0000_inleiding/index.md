@@ -28,7 +28,7 @@ In deze leerlijn ontdek je hoe microcontrollers allerlei systemen in ons dagelij
 
 ## Dankwoord
 
-Deze leerlijn over microcontrollers werd ontwikkeld in het kader van een InnoVET project in samenwerking met GO! Campus De Vesten in Herentals en het GO! Erasmusatheneum in Deinze. Dit lesmateriaal was niet tot stand gekomen zonder de waardevolle input van leerkrachten **Nele Deckx, Frank Desoppere en Geraldine Heyerick**. Ook zonder de steun van de Vlaamse overheid hadden we dit materiaal niet kunnen ontwikkelen.
+Deze leerlijn over microcontrollers werd ontwikkeld in het kader van een InnoVET project in samenwerking met GO! Campus De Vesten in Herentals en het GO! Erasmusatheneum in Deinze. Dit lesmateriaal was niet tot stand gekomen zonder de waardevolle input van leerkrachten **Nele Deckx, Frank Desoppere en Geraldine Heyerick**. Verder willen we ook nog de leden van de resonansgroep voor het project bedanken voor hun input. Specifiek willen we ook **Kris Werbrouck** bedanken voor de feedback op het lesmateriaal en de koppeling met de leerplandoelen van het KOV. Ook zonder de steun van de Vlaamse overheid hadden we dit materiaal niet kunnen ontwikkelen.
 
 ## Hardware
 Om deze leerlijn te kunnen doorlopen zal je een microcontrollerplatform nodig hebben. Binnen deze leerlijn hebben we voorbeelden uitgewerkt voor twee platformen:

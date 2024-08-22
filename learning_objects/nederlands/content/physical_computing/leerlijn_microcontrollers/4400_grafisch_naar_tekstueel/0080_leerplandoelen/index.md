@@ -2,7 +2,7 @@
 hruid: leerlijn_grafisch_tekstueel_leerplandoelen
 version: 1
 language: nl
-title: "Leerplandoelen GO!"
+title: "Leerplandoelen"
 description: "In dit leerobject zie je de leerplandoelen die verband houden met het materiaal uit dit leerpad."
 keywords: ["leerplandoelstellingen", "GO!"]
 educational_goals: [
