@@ -24,7 +24,7 @@ teacher_exclusive: true
 
 # Leerplandoelen
 
-Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
+Het lesmateriaal in de leerpad draagt bij tot het behalen van de volgende leerplandoelstellingen.
 
 ### Leerplandoelen GO!
 
@@ -41,8 +41,8 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
 2de graad Technologische wetenschappen versie D/2024/13.758/061
 
 <ul class="dwengo-content leerplandoelen">
-    <li>CD 07.01.01: De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen. (LPD 13)</li>
-    <li>CD 11.08.01: De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module. (LPD 12)</li>
-    <li>LPD 12: De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module.</li>
+    <li>CD 07.01.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen. (LPD 13)</li>
+    <li>CD 11.08.01 De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module. (LPD 12)</li>
+    <li>LPD 12 De leerlingen modelleren en realiseren een elektronische schakeling met een programmeerbare module.</li>
     <li>LPD 13 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.</li>
 </ul>
