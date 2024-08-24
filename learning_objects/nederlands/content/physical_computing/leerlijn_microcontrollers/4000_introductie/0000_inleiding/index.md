@@ -24,14 +24,14 @@ teacher_exclusive: false
 
 # Inleiding
 
-In deze leerlijn ontdek je hoe microcontrollers allerlei systemen in ons dagelijkse leven controleren. We gaan hands-on aan de slag met verschillende toepassingen die gebruik maken van microcontrollers (µC). Zo leer je deze microcontrollertoepassingen bouwen en programmeren. Naast deze praktische kennis leer je ook over de werking van de µC. Op die manier verwerf je inzicht in de manier waarop de elektrische schakelingen op de µC gebruikt kunnen worden om ons dagelijkse leven te automatiseren.
+In deze leerlijn ontdek je hoe microcontrollers allerlei systemen in ons dagelijkse leven controleren. Je gaan hands-on aan de slag met verschillende toepassingen die gebruik maken van een microcontroller (µC). Zo leer je deze microcontrollertoepassingen bouwen en programmeren. Naast deze praktische kennis leer je ook over de werking van de µC. Op die manier verwerf je inzicht in de manier waarop de elektrische schakelingen op de µC gebruikt kunnen worden om taken in ons dagelijkse leven te automatiseren.
 
 ## Dankwoord
 
 Deze leerlijn over microcontrollers werd ontwikkeld in het kader van een InnoVET project in samenwerking met GO! Campus De Vesten in Herentals en het GO! Erasmusatheneum in Deinze. Dit lesmateriaal was niet tot stand gekomen zonder de waardevolle input van leerkrachten **Nele Deckx, Frank Desoppere en Geraldine Heyerick**. Verder willen we ook nog de leden van de resonansgroep voor het project bedanken voor hun input. Specifiek willen we ook **Kris Werbrouck** bedanken voor de feedback op het lesmateriaal en de koppeling met de leerplandoelen van het KOV. Ook zonder de steun van de Vlaamse overheid hadden we dit materiaal niet kunnen ontwikkelen.
 
 ## Hardware
-Om deze leerlijn te kunnen doorlopen zal je een microcontrollerplatform nodig hebben. Binnen deze leerlijn hebben we voorbeelden uitgewerkt voor twee platformen:
+Om deze leerlijn te kunnen doorlopen heb je een microcontrollerplatform nodig. Deze leerlijn bevat voorbeelden voor twee platformen:
 
 1. Het Dwenguino-platform dat we binnen Dwengo zelf ontwikkelen.
 2. Het 'Arduino Uno'-platform.
