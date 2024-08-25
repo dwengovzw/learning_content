@@ -31,7 +31,7 @@ In onderstaande code staat in de commentaar aangegeven welke lijnen te maken heb
     #include <Dwenguino.h>
     #include <LiquidCrystal.h>
 
-    /* Met deze lijn importeer je de bibliotheek NewPing.
+    /* Met deze lijn wordt de bibliotheek NewPing geïmporteerd.
      * Deze bevat de nodige variabelen en functies om te spreken met de sonar-sensor. */
     #include <NewPing.h>
 
@@ -39,11 +39,11 @@ In onderstaande code staat in de commentaar aangegeven welke lijnen te maken heb
     #define ECHO_PIN 12
     #define MAX_DISTANCE 200
 
-    /* Met deze code definieer je het sonar object en sla
-     * je die op in de variabele sonar.
-     * Deze zal je gebruiken om op een abstracte manier
+    /* Met deze code wordt het object sonar gedefinieerd en wordt
+     * het in de variabele sonar opgeslagen.
+     * Deze variabele laat toe om op een abstracte manier
      * te communiceren met de sensor. 
-     * Hier stel je ook al in met welke pinnen de sensor verbonden is
+     * Hier wordt ingesteld met welke pinnen de sensor verbonden is
      * en wat de maximale afstand is dat die mag/kan meten.*/
     NewPing sonar = NewPing(
         TRIGGER_PIN,
@@ -57,7 +57,7 @@ In onderstaande code staat in de commentaar aangegeven welke lijnen te maken heb
     }
 
     void loop(){
-        /* Met deze lijn roep je de  ping_cm() functie op van het sonar object.
+        /* Met deze lijn roep je de methode ping_cm() op van het object sonar.
          * In deze functie zal de bibliotheek de juiste signalen sturen naar de
          * sensor zodat die een waarde kan lezen. */
         afstand = sonar.ping_cm();
