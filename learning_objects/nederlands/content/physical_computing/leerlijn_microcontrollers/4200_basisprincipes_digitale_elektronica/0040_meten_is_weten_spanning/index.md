@@ -32,14 +32,14 @@ Wanneer we spanning meten, meten we altijd het verschil in spanning tussen twee 
 
 Om spanning te meten pluggen we de meetsnoeren in in de volgende poorten op de multimeter.
 
-<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> V </span><br><br>
-<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rood meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> V </span><br><br>
+<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwart meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
 
 ### Modus van de multimeter
 We willen graag gelijkspanning meten. Het icoontje voor gelijkstroom of -spanning is ⎓, het icoontje voor voltage is V. Kies de instelling die deze icoontjes combineert. Hieronder zie je een voorbeeld van de instelling op onze multimeter. Het is mogelijk dat je niet exact dezelfde multimeter hebt. Kijk goed naar de icoontjes op het toestel om te weten hoe je die correct kan instellen.
 
 <img src="img/mm_voltage.png"></img>
-
+Dit apparaat kan je gebruiken om spanning, weerstand en stroomsterkte te meten. 
 
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
