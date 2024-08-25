@@ -24,4 +24,4 @@ teacher_exclusive: false
 
 # Introductie
 
-In het leerpad over invoer, verwerking en uitvoer zag je hoe je verschillende sensoren en actuatoren kan aansluiten op de µC. In dit leerpad leer je over waarom je die componenten op een bepaalde manier moet aansluiten. Met deze kennis zal je beter in staat zijn om problemen met je toepassing te identificeren en op te lossen (**debuggen**). 
+In het leerpad over invoer, verwerking en uitvoer zag je hoe je verschillende sensoren en actuatoren kan aansluiten op de µC. In dit leerpad leer je waarom je die componenten op een bepaalde manier moet aansluiten. Met deze kennis zal je beter in staat zijn om problemen met je toepassing te identificeren en op te lossen (**debuggen**). 
