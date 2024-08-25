@@ -28,12 +28,12 @@ In deze leerlijn ontdek je hoe microcontrollers allerlei systemen in ons dagelij
 
 ## Dankwoord
 
-Deze leerlijn over microcontrollers werd ontwikkeld in het kader van een InnoVET project in samenwerking met GO! Campus De Vesten in Herentals en het GO! Erasmusatheneum in Deinze. Dit lesmateriaal was niet tot stand gekomen zonder de waardevolle input van leerkrachten **Nele Deckx, Frank Desoppere en Geraldine Heyerick**. Verder willen we ook nog de leden van de resonansgroep voor het project bedanken voor hun input. Specifiek willen we ook **Kris Werbrouck** bedanken voor de feedback op het lesmateriaal en de koppeling met de leerplandoelen van het KOV. Ook zonder de steun van de Vlaamse overheid hadden we dit materiaal niet kunnen ontwikkelen.
+Deze leerlijn over microcontrollers werd ontwikkeld in het kader van een InnoVET project in samenwerking met GO! Campus De Vesten in Herentals en het GO! Erasmusatheneum in Deinze. Dit lesmateriaal was niet tot stand gekomen zonder de waardevolle input van leerkrachten **Nele Deckx, Frank Desoppere en Geraldine Heyerick**. Verder willen we ook nog de leden van de klankbordgroep bedanken voor hun input en de cel 'iSTEM inkleuren'. Specifiek willen we ook **Kris Werbrouck** bedanken voor de feedback op het lesmateriaal en de koppeling met de leerplandoelen van het KOV. Ook zonder de steun van de Vlaamse overheid hadden we dit materiaal niet kunnen ontwikkelen.
 
 ## Hardware
 Om deze leerlijn te kunnen doorlopen heb je een microcontrollerplatform nodig. Deze leerlijn bevat voorbeelden voor twee platformen:
 
-1. Het Dwenguino-platform dat we binnen Dwengo zelf ontwikkelen.
+1. Het Dwenguino-platform van Dwengo zelf.
 2. Het 'Arduino Uno'-platform.
 
 | Het Dwenguino-platform  |
@@ -43,8 +43,14 @@ Om deze leerlijn te kunnen doorlopen heb je een microcontrollerplatform nodig. D
 | ![Het Arduino-platform](img/Arduino_Uno_labels.png "Het Arduino-platform") |
 
 
-De basisfunctionaliteiten van het Dwenguino- en Arduino-platform zijn gelijkaardig. De Dwenguino heeft echter een aantal extra functies die het makkelijker maken om in de klas een microcontrollertoepassing te bouwen. De Dwenguino heeft onder andere een ingebouwd lcd-scherm en de mogelijkheid om motoren aan te sturen. Op de Arduino moet je zelf een lcd-scherm aansluiten en moet je, om motoren aan te sturen, gebruik maken van een externe motor driver. Daarnaast heeft de Dwenguino ook 9 aanstuurbare leds, een buzzer, vijf knoppen en speciale aansluitingen om gemakkelijk dc- en servomotoren aan te sluiten. Bovendien kan je de Dwenguino programmeren vanuit de browser zonder software te moeten installeren. Bijgevolg werkt dit op alle platformen: Windows, Linux, macOS, ChromeOS, ...
+De basisfunctionaliteiten van het Dwenguino- en Arduino-platform zijn gelijksoortig. De Dwenguino heeft echter een aantal extra functies die het makkelijker maken om in de klas een microcontrollertoepassing te bouwen. 
+- De Dwenguino heeft onder andere een lcd-scherm en de mogelijkheid om motoren aan te sturen. Op de Arduino moet je zelf een lcd-scherm aansluiten en moet je, om motoren aan te sturen, gebruikmaken van een externe *motor driver*.
+- Daarnaast heeft de Dwenguino ook 9 aanstuurbare leds, een zoemer (of *buzzer*), vijf knoppen en speciale aansluitingen om gemakkelijk DC- en servomotoren aan te sluiten.
+- Bovendien kan je de Dwenguino programmeren vanuit de browser zonder software te moeten installeren. Bijgevolg werkt dit op alle platformen: Windows, Linux, macOS, ChromeOS, ...
 
 ## Software
-De software die je voor deze leerlijn nodig hebt hangt af van het gekozen platform. Voor leerlingen van de tweede graad maken we ofwel gebruik van de Dwengo-simulator op [blockly.dwengo.org](https://blockly.dwengo.org) ofwel van de [Arduino IDE](https://www.arduino.cc/en/software). Met de Dwengo-simulator kan je de Dwenguino zowel grafisch als tekstueel programmeren. Deze werkt volledig in de browser waardoor je niets hoeft te installeren. Met de Arduino IDE kan je de Arduino Uno enkel tekstueel programmeren. Je kan de Arduino IDE makkelijk installeren op Windows, Linux en macOS
-In de derde graad kiezen we voor een professionele programmeeromgeving (VSCode) waarmee we zowel de Dwenguino als de Arduino Uno kunnen programmeren. Om dat op een efficiënte manier te kunnen doen maken we gebruik van de [PlatformIO](https://platformio.org/) plugin.
+De software die je voor deze leerlijn nodig hebt hangt af van het gekozen platform.<br>
+- Leerlingen van de tweede graad maken ofwel gebruik van de Dwengo-simulator op [blockly.dwengo.org](https://blockly.dwengo.org) ofwel van de [Arduino IDE](https://www.arduino.cc/en/software).<br>
+Met de Dwengo-simulator kan je de Dwenguino zowel grafisch (of blokgebaseerd) als tekstueel programmeren. Deze simulator werkt in de browser waardoor je niets hoeft te installeren.<br>
+Met de Arduino IDE kan je de Arduino Uno enkel tekstueel programmeren. Je kan de Arduino IDE makkelijk installeren op Windows, Linux en macOS.<br>
+- In de derde graad kiezen we voor een professionele programmeeromgeving (VSCode) waarmee we zowel de Dwenguino als de Arduino Uno kunnen programmeren. Om dat op een efficiënte manier te kunnen doen maken we gebruik van de [PlatformIO](https://platformio.org/) plugin.
