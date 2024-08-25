@@ -26,11 +26,11 @@ teacher_exclusive: true
 
 ### Leerplandoelen GO!
 
-Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
+Het lesmateriaal in de leerpad draagt bij tot het behalen van de volgende leerplandoelstellingen.
 
 <ul class="dwengo-content leerplandoelen">
     <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
-    <li>BV2_06.34 De leerlingen werken op een veilige en duurzame manier met materialen, stoffen, organismen en technische systemen </li>
+    <li>BV2_06.34 De leerlingen werken op een veilige en duurzame manier met materialen, stoffen, organismen en technische systemen. </li>
     <li>BV2_06.11 De leerlingen verklaren fenomenen of toepassingen uit het dagelijkse leven aan de hand van snelheid, kracht, hefboom, druk, zichtbaar licht, straling of elektriciteit.</li>
     <li>BV2_06.14 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.</li>
     <li>BK2_02.12 De leerlingen maken een elektronische schakeling.</li>
