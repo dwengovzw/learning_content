@@ -32,7 +32,7 @@ Ter info geven we hier het **geschatte energieverbruik van een aantal toepassing
 * De ATtiny85 heeft een gemiddeld engergieverbruik van 0,01 W. Als de chip dus een uur berekeningen moet doen, heeft deze 0,01 Wh aan energie verbruikt.
 * Alle Google datacenters samen verbruiken jaarlijks 22 288 GWh. Dit is 22 288 000 000 000 Wh ofwel 22,288.10<sup>12</sup> Wh (22.288e12 Wh). Deze datacenters worden voor heel wat toepassingen gebruikt (bv. Google Drive, Google Classroom, Google Maps, ...).
 * Eén Google zoekopdracht verbruikt ongeveer 0,3 Wh.
-* Eén vraag aan ChatGPT vebruikt tussen de 1 en 10 Wh. Dit verbruik hangt af van de lengte van de invoer en de uitvoer.
+* Eén vraag aan ChatGPT verbruikt tussen de 1 en 10 Wh. Dit verbruik hangt af van de lengte van de invoer en de uitvoer.
 * Het volledige BitCoin netwerk verbruikt jaarlijks ongeveer 127 TWh ofwel 127.10<sup>12</sup> (127e12 Wh). 
 * Het jaarlijks energieverbruik van een gemiddeld Vlaams gezin is 3500 kWh ofwel 3,5.10<sup>6</sup> (3.5e6 Wh).
 * Een dak met 10 zonnepanelen van 400 Wp genereert jaarlijks ongeveer 3400 kWh aan energie ofwel 3,4.10<sup>6</sup> (3.4e6 Wh).
