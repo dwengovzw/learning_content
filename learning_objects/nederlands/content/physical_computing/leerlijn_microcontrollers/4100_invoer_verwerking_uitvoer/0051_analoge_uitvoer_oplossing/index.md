@@ -24,7 +24,7 @@ teacher_exclusive: true
 
 # Analoge uitvoer (oplossing)
 
-Hieronder zie je de oplossing voor de opdracht waarbij de leerlingen LED 13 moeten dimmen. Merk op dat de delay tijd hier zo gekozen is dat het wisselen tussen aan en uit niet meer zichtbaar is voor het menselijke oog (100Hz). Je kan de leerlingen laten experimenteren met deze delay tijd. Zo kunnen ze achterhalen vanaf welke frequentie het oog het flikkeren kan zien.
+Hieronder zie je de oplossing voor de opdracht waarbij de leerlingen led 13 moeten dimmen. Merk op dat de wachttijd (*delay*-tijd) hier zo gekozen is dat het wisselen tussen aan en uit niet meer zichtbaar is voor het menselijke oog (100 Hz). Je kan de leerlingen laten experimenteren met deze *delay*-tijd. Zo kunnen ze achterhalen vanaf welke frequentie het oog het flikkeren kan zien.
 
 ```arduino
 #include <Wire.h>;
@@ -45,7 +45,7 @@ void loop()
 }
 ```
 
-Je kan de leerlingen ook laten experimenteren met de verhouding tussen aan en uit. Op die manier kunnen ze de led dimmen tot verschillende lichtsterktes. Om dit te doen zorg je ervoor dat de duur van de **periode** gelijk blijft (bv. 10 ms) maar de tijd dat het signaal hoog (de **duty cycle**) is groter of kleiner wordt. Hieronder zie je een voorbeeld van een led die 20% gedimd wordt.
+Je kan de leerlingen ook laten experimenteren met de verhouding tussen aan en uit. Op die manier kunnen ze de led dimmen tot verschillende lichtsterktes. Om dit te doen zorg je ervoor dat de **periode** gelijk blijft (bv. 10 ms) maar de tijd dat het signaal hoog (de ***duty cycle***) is groter of kleiner wordt. Hieronder zie je een voorbeeld van een led die 20% gedimd wordt.
 
 ```arduino
 #include <Wire.h>;
@@ -66,7 +66,7 @@ void loop()
 }
 ```
 
-Wil je het effect extra duidelijk maken, kan je er ook voor kiezen om twee leds die naast elkaar staan te laten branden. De ene brandt dan met volledig vermogen, de andere via een PWM signaal. Zo kunnen leerlingen het verschil in intensiteit vergelijken.
+Wil je het effect extra duidelijk maken, dan kan je er ook voor kiezen om twee leds die naast elkaar staan te laten branden: de ene brandt dan met volledig vermogen, de andere via een PWM-signaal. Zo kunnen leerlingen het verschil in lichtstroom vergelijken.
 
 ```arduino
 #include <Wire.h>;
@@ -75,7 +75,7 @@ Wil je het effect extra duidelijk maken, kan je er ook voor kiezen om twee leds 
 void setup()
 {
     initDwenguino();
-    pinMode(32, OUTPUT); // Op deze led passen we een PWM signaal toe.
+    pinMode(32, OUTPUT); // Op deze led passen we een PWM-signaal toe.
     pinMode(33, OUTPUT); // Deze led zal op volle kracht blijven branden.
     digitalWrite(33, HIGH); // Zet de led aan op volle kracht
 }
