@@ -42,6 +42,7 @@ Bekijk de fiches die je van de leerkracht krijgt. Elke fiche beschrijft hoe je e
             Maak een lamp met bewegingssensor.<br>
             - Als bewegingssensor maak je gebruik van de sonar-sensor. Deze meet de afstand van de sensor tot het object dat voor de sensor staat. <br>
             - Zorg ervoor dat wanneer iemand voor de sensor loopt, led 13 op het microcontrollerplatform gaat branden.<br>
+            <br>
             Bekijk de fiches van led 13 en de sonar om te achterhalen hoe je de led kan aansturen.
         </p>
     </div>
