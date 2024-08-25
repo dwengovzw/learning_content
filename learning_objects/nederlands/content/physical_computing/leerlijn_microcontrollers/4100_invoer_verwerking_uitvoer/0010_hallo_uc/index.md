@@ -24,11 +24,12 @@ teacher_exclusive: false
 
 # Hallo µC 🙂
 
-Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een oefening. Bekijk de fiches die je van de leerkracht krijgt. Op elk van de fiches staat beschreven hoe je een bepaalde component aansluit en programmeert.
+Het is misschien een beetje ongewoon, maar deze lessenreeks start met een oefening.<br>
+Bekijk de fiches die je van de leerkracht krijgt. Elke fiche beschrijft hoe je een bepaalde component aansluit en programmeert.
 
 <ul class="dwengo_content lijst_fiches">
     <li><a target="_blank" href="/learning-path.html?hruid=pc_leerlijn_fiches_dwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_fiches_dwenguino_sonar;nl;1">Sonar-sensor</a></li>
-    <li><a target="_blank" href="/learning-path.html?hruid=pc_leerlijn_fiches_dwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_fiches_dwenguino_led13;nl;1">LED13</a></li>
+    <li><a target="_blank" href="/learning-path.html?hruid=pc_leerlijn_fiches_dwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_fiches_dwenguino_led13;nl;1">led 13</a></li>
 </ul>
 
 ## Hands-on: bouwen en programmeren van een bewegingssensor.
@@ -38,7 +39,10 @@ Het is misschien een beetje ongewoon, maar we starten deze lessenreeks met een o
     <h2 class="title">Opdracht</h2>
     <div class="content">
         <p>
-            Maak gebruik van de fiches om een lamp te maken met bewegingssensor. Als bewegingssensor maak je gebruik van de sonar-sensor. Deze meet de afstand tot het object dat voor de sensor staat. Zorg ervoor dat wanneer iemand voor de sensor loopt, LED13 op de microcontroller gaat branden. Bekijk de fiches van LED13 en de sonar om te achterhalen hoe je de led kan aansturen.
+            Maak een lamp met bewegingssensor.<br>
+            - Als bewegingssensor maak je gebruik van de sonar-sensor. Deze meet de afstand van de sensor tot het object dat voor de sensor staat. <br>
+            - Zorg ervoor dat wanneer iemand voor de sensor loopt, led 13 op het microcontrollerplatform gaat branden.<br>
+            Bekijk de fiches van led 13 en de sonar om te achterhalen hoe je de led kan aansturen.
         </p>
     </div>
 </div>
