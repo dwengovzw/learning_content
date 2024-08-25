@@ -85,14 +85,14 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
 
     // Eerst importeren we een aantal bibliotheken.
     #include <Wire.h>       // Basisfuncties communicatie
-    #include <NewPing.h>    // Bibliotheek van de sonarsensor
+    #include <NewPing.h>    // Bibliotheek van de sonar-sensor
 
     // Definities 
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
     #define MAX_DISTANCE 200
 
-    // Sonar object om afstand te meten.
+    // Object sonar om afstand te meten.
     NewPing sonar = NewPing(
         TRIGGER_PIN,
         ECHO_PIN,
