@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # De wet van Ohm
 
-Nu we weten wat spanning, weerstand en stroom zijn, kunnen we analyseren wat de verhouding is tussen deze drie grootheden. De wet van Ohm beschrijft de verhouding tussen spanning, weerstand en stroom:
+Nu je weet wat spanning, weerstand en stroomsterkte zijn, kan je de verhouding tussen deze drie grootheden analyseren. De wet van Ohm beschrijft de verhouding tussen spanning, weerstand en stroomsterkte:
 
 \\[\mathrm U = \mathrm R \cdot\mathrm I\\]
 
@@ -34,30 +34,31 @@ Hier is een eenvoudige uitleg:
 
 **Spanning** (\\(\mathrm U\\)) is het elektrische potentiaalverschil, gemeten in volt (\\(\mathrm V\\)), dat aangeeft hoe sterk de elektrische "druk" is in een circuit.
 
-**Stroom** (\\(\mathrm I\\)) is de elektrische stroom, gemeten in ampère (\\(\mathrm A\\)), die aangeeft hoeveel elektronen door een geleider stromen per eenheid van tijd.
+**Stroomsterkte** (\\(\mathrm I\\)) is de elektrische stroomsterkte, gemeten in ampère (\\(\mathrm A\\)), die aangeeft hoeveel elektronen door een geleider stromen per eenheid van tijd.
 
 **Weerstand** (\\(\mathrm R\\)) is de mate waarin een materiaal de stroom van elektronen hindert, gemeten in ohm (\\(\mathrm \Omega\\)). Hoe hoger de weerstand, hoe moeilijker het is voor de stroom om te vloeien.
 
-De wet van Ohm stelt dat de spanning (\\(\mathrm U\\)) over een component in een elektrisch circuit recht evenredig is met de stroom (\\(\mathrm I\\)) die erdoorheen gaat, en omgekeerd evenredig met de weerstand (\\(\mathrm R\\)) van die component. Met andere woorden, als je de spanning en de weerstand kent, kun je de stroom berekenen, of als je de stroom en de weerstand kent, kun je de spanning berekenen.
+De wet van Ohm stelt dat de spanning (\\(\mathrm U\\)) over een component in een elektrisch circuit recht evenredig is met de hoeveelheid stroom (\\(\mathrm I\\)) die erdoorheen gaat, en recht evenredig is met de weerstand (\\(\mathrm R\\)) van die component. Met andere woorden, als je de spanning en de weerstand kent, kun je de stroomsterkte berekenen, of als je de stroom en de weerstand kent, kun je de spanning berekenen. De weerstand van die component is omgekeerd evenredig met de hoeveelheid stroom die erdoorheen gaat. 
 
 Dit eenvoudige principe is essentieel bij het ontwerpen en begrijpen van elektrische circuits en helpt ingenieurs en elektriciens om componenten te selecteren en de prestaties van elektrische systemen te voorspellen.
 
-Hieronder zie je een grafiek die het verband weergeeft tussen de spanning en de stroom voor een gegeven weerstand.
+Hieronder zie je een grafiek die de spanning weergeeft in functie van de stroomsterkte voor een gegeven weerstand.
 
 !["Relatie tussen spanning, stroom en weerstand"](img/relatie_spanning_stroom.png "Relatie tussen spanning, stroom en weerstand")
 
-Omdat de µC meestal werkt met voltages van \\(5\\,\mathrm{V}\\), kan het nuttig zijn om de weerstand te plotten in functie van de stroom bij \\(5\\,\mathrm{V}\\). Die grafiek kan je hieronder zien.
+Omdat de µC meestal werkt met een spanning van \\(5\\,\mathrm{V}\\), is het nuttig om de weerstand te plotten in functie van de stroomsterkte bij \\(5\\,\mathrm{V}\\). Die grafiek kan je hieronder zien. Het recht evenredig verband vertaalt zich in een rechte door de oorsprong.
 
 !["Relatie tussen weerstand en stroom bij 5V"](img/relatie_weerstand_stroom.png "Relatie tussen weerstand en stroom bij 5V")
 
-Merk op dat de waarden op de x-as maar gaan tot \\(40\\,\mathrm{mA}\\), dit is de maximale stroom die door een pin van de µC mag lopen. 
+Merk op dat het bereik van de horizontale as beperkt is tot \\(40\\,\mathrm{mA}\\), dit is de maximale stroom die door een pin van de µC mag lopen. 
+Het omgekeerd evenredig verband vertaalt zich in een tak van een hyperbool.
 
 <div class="dwengo-content sideinfo">
     <h2 class="title">Voorschakelweerstand bepalen</h2>
     <div class="content">
-        Zoals je kan lezen op de componentfiche van led 13, moet je altijd een weerstand in serie schakelen met een led. Dit doe je om de stroom te beperken die door de led gaat. Een led heeft zelf geen weerstand maar veroorzaakt wel een spanningsval. Deze spanningsval hangt af van het kleur en het type van de led. De weerstandswaarde hangt dus af van de spanningsval over de led en de maximale stroom die door de led mag lopen. We kunnen deze weerstandswaarde berekenen met de volgende formule.
+        Zoals je kan lezen op de componentfiche van led 13, moet je altijd een weerstand in serie schakelen met een led. Dit doe je om de stroom te beperken die door de led gaat. Een led heeft zelf geen weerstand maar veroorzaakt wel een spanningsval. Deze spanningsval hangt af van het kleur en het type van de led. De weerstandswaarde hangt dus af van de spanningsval over de led en de maximale stroom die door de led mag lopen. Je kan deze weerstandswaarde berekenen met de volgende formule.
         \[\mathrm{R} = \frac{\mathrm{U_{in}} - \mathrm{U_l}}{\mathrm{I_{max}}}\]
-        waarbij \(\mathrm{U_{in}} = 5\,\mathrm{V}\), \(\mathrm{I_{max}}\) de maximale stroom is door de led (meestal ongeveer \(20\,\mathrm{mA}\)) en \(\mathrm{U_{l}}\) gelijk is aan de spanningsval over de led. Plotten we deze functie dan kunnen we op de grafiek de weerstandswaarde aflezen voor elke \(\mathrm{U_{l}}\).
+        waarbij \(\mathrm{U_{in}} = 5\,\mathrm{V}\), \(\mathrm{I_{max}}\) de maximale stroom is door de led (meestal ongeveer \(20\,\mathrm{mA}\)) en \(\mathrm{U_{l}}\) gelijk is aan de spanningsval over de led. Plot je R in functie van \(\mathrm{U_{l}}\), dan kan je op de grafiek de weerstandswaarde aflezen voor elke \(\mathrm{U_{l}}\).
         <img src="img/weerstand_led.png"></img>
     </div>
 </div>
