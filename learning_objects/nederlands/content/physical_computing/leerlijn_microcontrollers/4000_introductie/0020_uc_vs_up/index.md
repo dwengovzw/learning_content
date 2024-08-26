@@ -24,7 +24,10 @@ teacher_exclusive: false
 
 # Microcontroller of microprocessor?
 
-We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worden. Maar wat is nu het fundamentele verschil tussen een µC in bijvoorbeeld een vaatwasmachine en de microprocessor (µP) in je smartphone? Hieronder lijsten we zowel de verschillen als gelijkenissen tussen deze systemen op. Merk op dat er tegenwoordig heel wat complexe computerchips bestaan. Soms combineren deze functionaliteiten van de twee types systemen. De grens tussen de µC en de µP kan in de praktijk dus wat vaag zijn. Het is niet de bedoeling dat je de eigenschappen van deze systemen uit het hoofd kent. Wel moet je bij het ontwikkelen van een toepassing het meest geschikte systeem kunnen kiezen.
+Je kent nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worden. Maar wat is nu het fundamentele verschil tussen een µC in bijvoorbeeld een vaatwasmachine en de microprocessor (µP) in je smartphone?<br>
+Hieronder lijsten we zowel de verschillen als gelijkenissen tussen deze systemen op.
+
+Merk op dat er tegenwoordig heel wat complexe computerchips bestaan, die soms de functionaliteiten van de twee types systemen combineren. De grens tussen de µC en de µP kan in de praktijk dus wat vaag zijn. Het is niet de bedoeling dat je de eigenschappen van deze systemen uit het hoofd kent. Wel moet je bij het ontwikkelen van een toepassing het meest geschikte systeem kunnen kiezen.
 
 ## Verschillen
 
@@ -37,22 +40,22 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
         <td colspan="2"><h5>Toepassingen</h5></td>
     </tr>
     <tr>
-        <td>Microcontrollers zijn ontworpen om zeer specifieke taken uit te voeren zoals het lezen van een sensorwaarde en op basis daarvan een actuator (bv. motor) aan te sturen. Meestal worden microcontrollers geïntegreerd in een ingebed systeem waar ze de hardware van het systeem controleren (bv. een vaatwasmachine, een auto of een elektrische boormachine). Een specifieke eigenschap van microcontrollers is dat ze goed zijn in realtime toepassingen waarbij exacte timing essentieel is. </td>
-        <td>Microprocessoren zijn rekeneenheden voor algemeen gebruik (general-purpose). Bijgevolg kunnen ze veel verschillende taken uitvoeren. Daarom worden ze gebruikt in systemen zoals laptops, desktops en servers.</td>
+        <td>Microcontrollers zijn ontworpen om zeer specifieke taken uit te voeren zoals het lezen van een sensorwaarde en op basis daarvan een actuator (bv. motor) aan te sturen. Meestal worden microcontrollers geïntegreerd in een ingebed systeem waar ze dan de hardware van het systeem controleren (bv. een vaatwasmachine, een auto of een elektrische boormachine).<br> Een specifieke eigenschap van microcontrollers is dat ze goed zijn in realtime toepassingen waarbij exacte timing essentieel is. </td>
+        <td>Microprocessoren zijn rekeneenheden voor algemeen gebruik (*general-purpose*). Bijgevolg kunnen ze veel verschillende taken uitvoeren. Daarom worden ze gebruikt in systemen zoals laptops, desktops en servers.</td>
     </tr>
     <tr>
         <td colspan="2"><h5>Integratie</h5></td>
     </tr>
     <tr>
-        <td>Microcontrollers zijn systemen op een chip (SoC) apparaten. Alle hardware die nodig is, wordt op de chip geïntegreerd. Een µC heeft zijn eigen verwerkingseenheid (CPU), geheugen, invoer/uitvoer en randapparaten.</td>
-        <td>Microprocessoren zijn gewoonlijk afhankelijk van externe apparaten. Meestal gebruiken ze extern geheugen, externe invoer/uitvoer hardware en externe randapparaten (bv. een GPU). Merk op dat recente microprocessoren steeds meer externe apparaten integreren. Zo heeft de nieuwe M3 chip van Apple zowel een geïntegreerde GPU als geïntegreerd geheugen.</td>
+        <td>Microcontrollers zijn systemen op een chip (SoC apparaten). Alle hardware die nodig is, wordt op de chip geïntegreerd. Een µC heeft zijn eigen verwerkingseenheid (<em>Central Processing Unit</em> (CPU)), geheugen, invoer/uitvoer en randapparaten.</td>
+        <td>Microprocessoren zijn gewoonlijk afhankelijk van externe apparaten. Meestal gebruiken ze extern geheugen, externe invoer/uitvoer hardware en externe randapparaten (bv. een <em>Graphics Processing Unit</em> (GPU)). Merk op dat recente microprocessoren steeds meer externe apparaten integreren. Zo heeft de nieuwe M3 chip van Apple zowel een geïntegreerde GPU als geïntegreerd geheugen.</td>
     </tr>
     <tr>
         <td colspan="2"><h5>Stroomverbruik</h5></td>
     </tr>
     <tr>
         <td>Microcontrollers hebben gewoonlijk minder rekenkracht en worden geoptimaliseerd voor een specifieke toepassing. Bijgevolg verbruiken ze ook veel minder energie dan een microprocessor.</td>
-        <td>Microprocessoren zijn ontworpen om veel rekenkracht te hebben zodat ze complexe taken kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC.</td>
+        <td>Microprocessoren zijn zo ontworpen dat ze veel rekenkracht hebben om complexe taken te kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC.</td>
     </tr>
     <tr>
         <td colspan="2"><h5>Besturingssysteem</h5></td>
@@ -66,10 +69,10 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
 
 
 ## Gelijkenissen
-- µC en µP bevatten beiden een centrale verwerkingseenheid (CVE of CPU). Deze voert de instructies uit die in een programma staan.
 - µC en µP hebben een vastgelegde verzameling van instructies die ze kunnen uitvoeren. Je schrijft een programma door deze instructies achter elkaar te plaatsen (= een programma).
+- µC en µP bevatten beide een centrale verwerkingseenheid (CVE of CPU). Deze voert de instructies uit die in een programma staan.
 - µC en µP hebben geheugen nodig om zowel programma's als data op te slaan.
-- µC en µP hebben verschillende mogelijkheiden om externe invoer te verwerken en bepaalde uitvoer te genereren.
+- µC en µP hebben verschillende mogelijkheden om externe invoer te verwerken en bepaalde uitvoer te genereren.
 - µC en µP maken gebruik van een klok. Deze legt vast wat de verwerkingssnelheid van het systeem is.
 
 
@@ -86,7 +89,7 @@ We kennen nu al heel wat voorbeelden van toepassingen waarin µCs gebruikt worde
     <h2 class="title">Opdracht</h2>
     <div class="content">
         <p>
-        Microprocessoren kunnen bijna alles wat een microcontroller kan maar vaak op een minder efficiënte manier. Efficiënte toepassingen bouwen is echter van groot belang. Zoek op wat het energieverbruik is van complexe applicaties zoals Google en ChatGPT. Welke impact hebben deze systemen op de maatschappij?
+        Microprocessoren kunnen bijna alles wat een microcontroller kan, maar vaak op een minder efficiënte manier. Efficiënte toepassingen bouwen is echter van groot belang. Zoek op wat het energieverbruik is van complexe applicaties zoals de Google zoekmachine en ChatGPT. Welke impact hebben deze systemen op de maatschappij?
         </p>
     </div>
 </div>

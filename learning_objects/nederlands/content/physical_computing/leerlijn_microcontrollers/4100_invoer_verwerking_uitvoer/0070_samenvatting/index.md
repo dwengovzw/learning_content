@@ -24,4 +24,4 @@ teacher_exclusive: false
 
 # Samenvatting
 
-In dit leerpad leerde je hoe je met de µC verschillende componenten kan uitlezen of aansturen. Je leerde over zowel digitale als analoge invoer en uitvoer. Daarnaast zag je ook dat je voor complexere componenten vaak een bibliotheek nodig hebt. 
+In dit leerpad leerde je hoe je verschillende componenten kan uitlezen of aansturen met de µC. Je leerde over zowel digitale als analoge invoer en uitvoer. Daarnaast zag je ook dat je voor complexere componenten vaak een bibliotheek nodig hebt. 

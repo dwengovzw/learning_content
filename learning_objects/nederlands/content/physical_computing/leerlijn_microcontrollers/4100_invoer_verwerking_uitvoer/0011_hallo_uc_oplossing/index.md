@@ -24,7 +24,8 @@ teacher_exclusive: true
 
 # Hallo µC (oplossing)
 
-De fiches voor deze opdracht kan je vinden in de leerpaden *Fiches Dwenguino* of *Fiches Arduino*. Het leerpad dat je kiest is afhankelijk van de hardware die je gebruikt. Op de fiches staat telkens informatie over hoe je een component kan aansluiten en programmeren.
+De fiches voor deze opdracht kan je vinden in de leerpaden *Fiches Dwenguino* of *Fiches Arduino*. (Het leerpad dat je kiest is afhankelijk van de hardware die je gebruikt.)<br>
+Op de fiches staat telkens informatie over hoe je een component kan aansluiten en programmeren.
 
 Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er zeker variaties op deze oplossing mogelijk zijn. In de commentaar is uitleg voorzien bij de code.
 
@@ -37,14 +38,14 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
     // Eerst importeren we een aantal bibliotheken.
     #include <Wire.h>       // Basisfuncties communicatie
     #include <Dwenguino.h>  // Basisfuncties Dwenguino
-    #include <NewPing.h>    // Bibliotheek van de sonarsensor
+    #include <NewPing.h>    // Bibliotheek van de sonar-sensor
 
     // Definities 
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
     #define MAX_DISTANCE 200
 
-    // Sonar object om afstand te meten.
+    // Object sonar om afstand te meten.
     NewPing sonar = NewPing(
         TRIGGER_PIN,
         ECHO_PIN,
@@ -84,14 +85,14 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
 
     // Eerst importeren we een aantal bibliotheken.
     #include <Wire.h>       // Basisfuncties communicatie
-    #include <NewPing.h>    // Bibliotheek van de sonarsensor
+    #include <NewPing.h>    // Bibliotheek van de sonar-sensor
 
     // Definities 
     #define TRIGGER_PIN 11
     #define ECHO_PIN 12
     #define MAX_DISTANCE 200
 
-    // Sonar object om afstand te meten.
+    // Object sonar om afstand te meten.
     NewPing sonar = NewPing(
         TRIGGER_PIN,
         ECHO_PIN,

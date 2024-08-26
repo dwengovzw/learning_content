@@ -30,7 +30,7 @@ teacher_exclusive: false
 
 ## GND, -
 
-De **GND** of **-** aansluiting wordt verbonden met een draad met een neutrale spanning ook wel de referentiespanning genoemd (bv. de min kant van een batterij ofwel 0V). Voor verbindingen met de **GND** wordt gewoonlijk een **zwarte draad** gebruikt. 
+De **GND** of **-** aansluiting wordt verbonden met een draad met een neutrale spanning ook wel de referentiespanning genoemd (bv. de min kant van een batterij ofwel 0 V). Voor verbindingen met de **GND** wordt gewoonlijk een **zwarte draad** gebruikt. 
 
 ## Signaal
 
@@ -56,11 +56,11 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
             <img src="img/sound.png" alt="Afbeelding geluidsensor" title="Afbeelding geluidsensor"></img>
         </td>
         <td>
-            Digitaal en analoog uitlezen
+            Digitaal en analoog uitlezen.
         </td>
         <td>
-            GND = 0V</br>
-            Vcc = 5V</br>
+            GND = 0 V</br>
+            Vcc = 5 V</br>
             D0 = digitale uitvoer</br>
             A0 = analoge uitvoer
         </td>
@@ -74,10 +74,10 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
             Via bibliotheek uitlezen.
         </td>
         <td>
-            GND = 0V</br>
-            Vcc = 5V</br>
-            Trig = trigger pin</br>
-            Echo = echo pin
+            GND = 0 V</br>
+            Vcc = 5 V</br>
+            Trig = <em>trigger</em> pin</br>
+            Echo = <em>echo</em> pin
         </td>
     </tr>
     <tr>
@@ -89,9 +89,9 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
             Via bibliotheek aansturen.
         </td>
         <td>
-            GND = 0V</br>
-            Vcc = 5V</br>
-            PWM = PWM pin
+            GND = 0 V</br>
+            Vcc = 5 V</br>
+            PWM = PWM-pin
         </td>
     </tr>
     <tr>
@@ -103,14 +103,14 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
             Digitaal uitlezen.
         </td>
         <td>
-            GND = 0V</br>
-            Vcc = 5V</br>
-            OUT = digitale uitvoer.
+            GND = 0 V</br>
+            Vcc = 5 V</br>
+            OUT = digitale uitvoer
         </td>
     </tr>
     <tr>
         <td>
-            <div>LCD-scherm</div>
+            <div>Lcd-scherm</div>
             <img src="img/lcd.png" alt="Afbeelding lcd-scherm" title="Afbeelding lcd-scherm"></img>
         </td>
         <td>
@@ -119,18 +119,18 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
         <td>
             GND = 0V</br>
             Vcc = 5V</br>
-            DB0 = data pin 0</br>
-            DB1 = data pin 1</br>
-            DB2 = data pin 2</br>
-            DB3 = data pin 3</br>
-            DB4 = data pin 4</br>
-            DB5 = data pin 5</br>
-            DB6 = data pin 6</br>
-            DB7 = data pin 7</br>
-            E = Enable</br>
-            R/W = Read/Write</br>
-            RS = Reset</br>
-            LEDK = backlight</br>
+            DB0 = <em>data</em> pin 0</br>
+            DB1 = <em>data</em> pin 1</br>
+            DB2 = <em>data</em> pin 2</br>
+            DB3 = <em>data</em> pin 3</br>
+            DB4 = <em>data</em> pin 4</br>
+            DB5 = <em>data</em> pin 5</br>
+            DB6 = <em>data</em> pin 6</br>
+            DB7 = <em>data</em> pin 7</br>
+            E = <em>Enable</em></br>
+            R/W = <em>Read/Write</em></br>
+            RS = <em>Reset</em></br>
+            LEDK = <em>backlight</em></br>
         </td>
     </tr>
     <tr>
@@ -141,6 +141,6 @@ Complexere componenten hebben vaak meerdere signaaldraden. Het LCD-scherm dat st
 <div class="dwengo-content sideinfo">
     <h2 class="title">Wist je dat</h2>
     <div class="content">
-    Het lcd-scherm is heel handig om fouten in je code op te sporen. Je kan het bijvoorbeeld gebruiken om waarden van variabelen te tonen tijdens de uitvoering van je progamma. Om het lcd-scherm aan te sluiten op de µC heb je heel wat draden nodig. Op het Dwenguino bord is het scherm al aanwezig. Dat bespaart je in de klas heel wat tijd.
+    Het lcd-scherm is heel handig om fouten in je code op te sporen. Je kan het bijvoorbeeld gebruiken om waarden van variabelen te laten zien tijdens de uitvoering van een progamma. Om het lcd-scherm aan te sluiten op de µC heb je heel wat draden nodig. Op het Dwenguino-bord is het scherm al aanwezig. Dat bespaart je in de klas heel wat tijd.
     </div>
 </div>
