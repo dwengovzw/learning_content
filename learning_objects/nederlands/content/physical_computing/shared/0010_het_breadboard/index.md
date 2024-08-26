@@ -31,7 +31,7 @@ teacher_exclusive: false
         <p>
             <figure>
                 <img src="img/breadboard_nl.jpeg" alt="Voorbeeld van het breadboard van de Dwenguino" />
-                <figcaption>Op de figuur zie je het Dwenguino expantion bord. Op dit bord is in het midden een breadboard gemonteerd. De oranje balkjes illustreren hoe de gaatjes van het breadboard vanbinnen met elkaar verbonden zijn.</figcaption>
+                <figcaption>Op de figuur zie je het Dwenguino-uitbreidingsbord. Op dit bord is in het midden een breadboard gemonteerd. De oranje balkjes illustreren hoe de gaatjes van het breadboard vanbinnen met elkaar verbonden zijn.</figcaption>
             </figure>
         </p>
     </div>
