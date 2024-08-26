@@ -33,6 +33,7 @@ Ter info geven we hier het geschatte energieverbruik van een aantal toepassingen
 * Alle Google datacenters samen verbruiken jaarlijks 22 288 GWh. Dit is 22 288 000 000 000 Wh ofwel 22,288e12 Wh. Deze datacenters worden voor heel wat toepassingen gebruikt (bv. Google Drive, Google Classroom, Google Maps, ...).
 * Eén Google zoekopdracht verbruikt ongeveer 0.3 Wh.
 * Eén vraag aan ChatGPT vebruikt tussen de 1 en 10 Wh. Dit verbruik hangt af van de lengte van de invoer en de uitvoer.
+* Je smartphone één keer opladen verbruikt ongeveer 20 Wh.
 * Het volledige BitCoin netwerk verbruikt jaarlijks ongeveer 127 TWh ofwel 127e12 Wh. 
 * Het jaarlijks energieverbruik van een gemiddeld Vlaams gezin is 3500 KWh ofwel 3.5e6 Wh.
 * Een dak met 10 zonnepanelen van 400Wp genereert jaarlijks ongeveer 3400 KWh aan energie ofwel 3.4e6 Wh.

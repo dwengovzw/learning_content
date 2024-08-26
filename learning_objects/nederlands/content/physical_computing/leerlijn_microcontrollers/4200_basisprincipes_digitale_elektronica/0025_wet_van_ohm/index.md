@@ -46,7 +46,7 @@ Hieronder zie je een grafiek die het verband weergeeft tussen de spanning en de 
 
 !["Relatie tussen spanning, stroom en weerstand"](img/relatie_spanning_stroom.png "Relatie tussen spanning, stroom en weerstand")
 
-Omdat de µC meestal werkt met voltages van \\(5\\,\mathrm{V}\\), kan het nuttig zijn om de weerstand te plotten in functie van de stroom bij \\(5\\,\mathrm{V}\\). Die grafiek kan je hieronder zien.
+Omdat de µC meestal werkt met voltages van \\(5\\,\mathrm{V}\\), kan het nuttig zijn om de stroom te plotten in functie van de weerstand bij \\(5\\,\mathrm{V}\\). Die grafiek kan je hieronder zien.
 
 !["Relatie tussen weerstand en stroom bij 5V"](img/relatie_weerstand_stroom.png "Relatie tussen weerstand en stroom bij 5V")
 

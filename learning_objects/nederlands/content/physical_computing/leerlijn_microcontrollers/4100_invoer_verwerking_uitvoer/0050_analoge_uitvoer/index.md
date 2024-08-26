@@ -51,3 +51,11 @@ De µC kan eigenlijk geen analoge uitvoer genereren. Om dat in bepaalde situatie
         </p>
     </div>
 </div>
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+    <div class="content">
+        Probeer het effect van het PWM signaal te visualiseren door twee leds naast elkaar te laten branden. Zorg dat de ene led brandt aan volledige intensiteit. Varieer de intensiteit van de tweede led aan de hand van een PWM signaal. Zie je een verschil in intensiteit? 
+        Op de Dwenguino kan je LED0 en LED1 gebruiken. Deze zitten op de pinnen 32 en 33.
+     </div>
+</div>
