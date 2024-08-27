@@ -1,5 +1,5 @@
 ---
-hruid: org-dwengo-waisda-beelden-teachable-machine
+hruid: org-dwengo-waisda-beelden-teachable-machine-example
 version: 1
 language: nl
 title: "Teachable machine"
@@ -39,7 +39,7 @@ Een algemeen misconcept is dat de Teachable machine een volledig AI-systeem zal 
             <li>Klik op <strong>Model trainen</strong></li>
             <li>Zoek terwijl nog een aantal extra balpennen en boeken</li>
             <li>Wanneer het model klaar is met trainen, kan je het testen. Gebruik de webcam en toon een van de extra voorwerpen die je bent gaan halen. Kan het systeem de voorwerpen correct classificeren?</li>
+            <li>Probeer ook eens een ander soort voorwerp. Wat is het resultaat?</li>
         </ul>
-         
     </div>
 </div>
