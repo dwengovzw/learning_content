@@ -15,7 +15,7 @@ skos_concepts: [
 ]
 copyright: "CC BY dwengo"
 target_ages: [14, 15, 16, 17, 18]
-teacher_exclusive: True
+teacher_exclusive: False
 ---
 
 # Google Teachable machine
@@ -34,8 +34,8 @@ Een algemeen misconcept is dat de Teachable machine een volledig AI-systeem zal 
             <li>Zoek een aantal objecten van twee types. Bijvoorbeeld vijf balpennen en vijf boeken.</li>
             <li>Bezoek <a href="https://teachablemachine.withgoogle.com">https://teachablemachine.withgoogle.com</a></li>
             <li>Maak een nieuw project voor afbeeldingen, kies het standaardmodel.</li>
-            <li>Voeg een klasse (class) toe voor de afbeeldingen van de balpennen. Gebruik de webcam om van elke balpen een foto te nemen.</li>
-            <li>Voeg een tweede klasse toe voor de afbeeldingen van de boeken. Maak opnieuw foto's met de webcam.</li>
+            <li>Voeg een klasse (class) toe voor de afbeeldingen van de balpennen. Gebruik de webcam om van elke balpen een foto te nemen of laadt een aantal bestaande afbeeldingen van balpennen op.</li>
+            <li>Voeg een tweede klasse toe voor de afbeeldingen van de boeken. Maak opnieuw foto's met de webcam of laadt een aantal bestaande afbeeldingen van boeken op.</li>
             <li>Klik op <strong>Model trainen</strong></li>
             <li>Zoek terwijl nog een aantal extra balpennen en boeken</li>
             <li>Wanneer het model klaar is met trainen, kan je het testen. Gebruik de webcam en toon een van de extra voorwerpen die je bent gaan halen. Kan het systeem de voorwerpen correct classificeren?</li>
