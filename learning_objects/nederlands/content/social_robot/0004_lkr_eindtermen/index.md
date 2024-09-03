@@ -33,7 +33,7 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen
+# Minimumdoelen
 
 We gaan ervan uit dat dit project vooral in de lessen Techniek of lessen STEM gegeven wordt.
 We geven mee aan welke minimumdoelen er gewerkt kan worden. We geven ook aan op welke manier dit kan gebeuren. [**Dit overzicht**](embed/MinimumdoelenA-stroomSocialeRobot.pdf "Minimumdoelen") beschrijft dit alles uitvoerig.
