@@ -33,3 +33,5 @@ unsigned char waardePin12 = digitalRead(12);
 - `waardePin12` is hier de variabele waarin de waarde van de pin wordt opgeslagen.
 - `unsigned char` is het type van de variabele. Getallen van dit type hebben een gehele **waarde tussen 0 en 255** (met inbegrip van 0 en 255). 
 - `digitalRead()` is een functie uit de Arduino-bibliotheek die de waarde op een digitale pin leest. Die pin moet je wel meegeven. `digitalRead(12)` bv. leest de waarde op pin 12.
+
+*In het leerpad over de basis van elektronica leer je meer over het concept 'spanning'.*
