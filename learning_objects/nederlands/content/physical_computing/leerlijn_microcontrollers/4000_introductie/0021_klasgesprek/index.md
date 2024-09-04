@@ -30,7 +30,7 @@ Ter info geven we hier het **geschatte energieverbruik van een aantal toepassing
 
 * De Apple M3 chip heeft een gemiddeld energieverbruik van 30 W. Als de chip dus een uur berekeningen moet doen, heeft deze 30 Wh aan energie verbruikt.
 * De ATtiny85 heeft een gemiddeld engergieverbruik van 0,01 W. Als de chip dus een uur berekeningen moet doen, heeft deze 0,01 Wh aan energie verbruikt.
-* Alle Google datacenters samen verbruiken jaarlijks 22 288 GWh. Dit is 22 288 000 000 000 Wh ofwel 22,288.10<sup>12</sup> Wh (22.288e12 Wh). Deze datacenters worden voor heel wat toepassingen gebruikt (bv. Google Drive, Google Classroom, Google Maps, ...).
+* Alle Google datacenters samen verbruiken jaarlijks 22 288 GWh. Dit is 22 288 000 000 000 Wh ofwel 22,288.10<sup>12</sup> Wh (22.288e12 Wh). Deze datacenters worden voor heel wat toepassingen gebruikt (bv. Google Drive, Google Classroom, Google Maps, Gmail, ...).
 * Eén Google zoekopdracht verbruikt ongeveer 0,3 Wh.
 * Eén vraag aan ChatGPT verbruikt tussen de 1 en 10 Wh. Dit verbruik hangt af van de lengte van de invoer en de uitvoer.
 * Je smartphone één keer opladen verbruikt ongeveer 20 Wh.
