@@ -25,7 +25,7 @@ teacher_exclusive: true
 # De pull-up weerstand (oplossing)
 
 <ul>
-    <li>Waarom gebruiken we hier een weerstand en verbinden we de pin niet gewoon met de 5V lijn?<br><em>Zonder de weerstand veroorzaak je kortsluiting.</em></li>
+    <li>Waarom gebruiken we hier een weerstand en verbinden we de pin niet gewoon met de 5 V lijn?<br><em>Zonder de weerstand veroorzaak je kortsluiting.</em></li>
     <li>Er bestaat ook een pull-down weerstand. Kan jij de schakeling tekenen van hoe we een pull-down weerstand kunnen verbinden met een pin van de µC?<br><img src="img/pull_down.svg" alt="Voorbeeld pull-down weerstand" title="Voorbeeld pull-down weerstand"></img></li>
 </ul>
 
