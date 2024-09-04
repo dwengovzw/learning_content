@@ -22,7 +22,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Een digitale waarde lezen
+# Digitale invoer - Een digitale waarde lezen
 
 De pinnen van de µC kunnen gebruikt worden om een hoge (5 V) of lage (0 V) spanning op een pin te meten. Bijgevolg zal je in een programma de waarde van een pin altijd inlezen als een logische 1 of een logische 0. Hieronder zie je hoe je met de Arduino-bibliotheek de waarde van een digitale pin kan inlezen.
 
