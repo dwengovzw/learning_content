@@ -30,7 +30,7 @@ Naar digitale pinnen kan je ook een waarde schrijven (1 of 0). Zo stel je het sp
 digitalWrite(12, HIGH)
 ```
 
-Merk op dat de waarde `HIGH` gedfinieerd wordt in de Arduino/Dwenguino-bibliotheek. De waarde van `HIGH` is gelijk aan 1. Je kan de code dus ook op de volgende manier schrijven.
+Merk op dat de waarde `HIGH` gedefinieerd wordt in de Arduino/Dwenguino-bibliotheek. De waarde van `HIGH` is gelijk aan 1. Je kan de code dus ook op de volgende manier schrijven.
 
 ```cpp
 digitalWrite(12, 1)
@@ -38,6 +38,7 @@ digitalWrite(12, 1)
 
 De eerste manier heeft de voorkeur omdat dit de **leesbaarheid** van de code beter maakt. In professionele omgevingen is leesbare code zeer belangrijk.
 
+Ook de waarde `LOW` wordt gedefinieerd in de Arduino/Dwenguino-bibliotheek. De waarde van `LOW` is gelijk aan 0.
 
 <div class="dwengo-content sideinfo">
     <h2 class="title">Wist je dat!</h2>
