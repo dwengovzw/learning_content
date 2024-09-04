@@ -2,7 +2,7 @@
 hruid: sr0_lkr_module4
 version: 3
 language: nl
-title: "Module 4"
+title: "Module 4: creatieve opdracht"
 description: "Module 4"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
@@ -34,7 +34,7 @@ teacher_exclusive: true
 ## Module 4: Creatieve opdracht en klasgesprek (± 2 lesuren)
 
 *Onderstaande link brengt je naar module 4 van 'Sociale Robot'* <br>
-[Module 4: Creatieve verwerking en nabespreking](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl&te=true&source_page=%2Fsocialrobot%2F&source_title=%20Sociale%20robot#sr4_module4;nl;3 "Module 4")  
+[Module 4: Creatieve opdracht](https://www.dwengo.org/learning-path.html?hruid=sr4&language=nl&te=true&source_page=%2Fsocialrobot%2F&source_title=%20Sociale%20robot#sr4_module4;nl;3 "Module 4")  
 
 **Lesfase A - Creatieve opdrachten**
 * Laat de leerlingen hun creatieve opdrachten voorstellen. Geef hen indien nodig nog wat tijd om dit voor te bereiden in de les.
