@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # De wet van Ohm
 
-Nu je weet wat spanning, weerstand en stroomsterkte zijn, kan je de verhouding tussen deze drie grootheden analyseren. De wet van Ohm beschrijft de verhouding tussen spanning, weerstand en stroomsterkte:
+Nu je weet wat spanning, weerstand en stroom zijn, kan je de verhouding tussen deze drie grootheden analyseren. De wet van Ohm beschrijft de verhouding tussen spanning, weerstand en stroom:
 
 \\[\mathrm U = \mathrm R \cdot\mathrm I\\]
 
@@ -32,9 +32,9 @@ De wet zegt dus dat de spanning over een component gelijk is aan de weerstand va
 
 Hier is een eenvoudige uitleg:
 
-**Spanning** (\\(\mathrm U\\)) is het elektrische potentiaalverschil, gemeten in volt (\\(\mathrm V\\)), dat aangeeft hoe sterk de elektrische "druk" is in een circuit.
+**Spanning** (\\(\mathrm U\\)) is het elektrische potentiaalverschil, gemeten in volt (\\(\mathrm V\\)), dat aangeeft hoe sterk de "druk" is in een circuit.
 
-**Stroomsterkte** (\\(\mathrm I\\)) is de elektrische stroomsterkte, gemeten in ampère (\\(\mathrm A\\)), die aangeeft hoeveel elektronen door een geleider stromen per eenheid van tijd.
+**Stroom** (\\(\mathrm I\\)) is de elektrische stroomsterkte, gemeten in ampère (\\(\mathrm A\\)), die aangeeft hoeveel elektronen door een geleider stromen per seconde.
 
 **Weerstand** (\\(\mathrm R\\)) is de mate waarin een materiaal de stroom van elektronen hindert, gemeten in ohm (\\(\mathrm \Omega\\)). Hoe hoger de weerstand, hoe moeilijker het is voor de stroom om te vloeien.
 
