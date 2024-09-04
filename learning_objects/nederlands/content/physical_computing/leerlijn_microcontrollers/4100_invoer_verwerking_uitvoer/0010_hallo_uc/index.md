@@ -25,7 +25,8 @@ teacher_exclusive: false
 # Hallo µC 🙂
 
 Het is misschien een beetje ongewoon, maar deze lessenreeks start met een oefening.<br>
-Bekijk de fiches die je van de leerkracht krijgt. Elke fiche beschrijft hoe je een bepaalde component aansluit en programmeert.
+Bekijk de fiches die je van de leerkracht krijgt. Elke fiche beschrijft hoe je een bepaalde component aansluit en programmeert.<br>
+Denk na over het type van component (invoer- of uitvoerelement).
 
 <ul class="dwengo_content lijst_fiches">
     <li><a target="_blank" href="/learning-path.html?hruid=pc_leerlijn_fiches_dwenguino&language=nl&te=true&source_page=%2Fphysical_computing%2F&source_title=%20Physical%20computing#leerlijn_fiches_dwenguino_sonar;nl;1">Sonar-sensor</a></li>
