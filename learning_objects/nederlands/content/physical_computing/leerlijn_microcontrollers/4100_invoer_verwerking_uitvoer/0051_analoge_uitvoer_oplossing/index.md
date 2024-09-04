@@ -24,7 +24,7 @@ teacher_exclusive: true
 
 # Analoge uitvoer (oplossing)
 
-Hieronder zie je de oplossing voor de opdracht waarbij de leerlingen led 13 moeten dimmen. Merk op dat de wachttijd (*delay*-tijd) hier zo gekozen is dat het wisselen tussen aan en uit niet meer zichtbaar is voor het menselijke oog (100 Hz). Je kan de leerlingen laten experimenteren met deze *delay*-tijd. Zo kunnen ze achterhalen vanaf welke frequentie het oog het flikkeren kan zien.
+Hieronder zie je de oplossing voor de opdracht waarbij de leerlingen led 13 moeten dimmen. Merk op dat de wachttijd (*delay*-tijd) hier zo gekozen is dat het wisselen tussen aan en uit niet meer zichtbaar is voor het menselijke oog (bij 100 Hz, bijvoorbeeld, is het door de mens niet waar te nemen). Je kan de leerlingen laten experimenteren met deze *delay*-tijd. Zo kunnen ze achterhalen vanaf welke frequentie het oog het flikkeren kan zien.
 
 ```arduino
 #include <Wire.h>;
