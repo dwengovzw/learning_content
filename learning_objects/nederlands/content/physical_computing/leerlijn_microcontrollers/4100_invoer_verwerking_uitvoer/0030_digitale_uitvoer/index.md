@@ -24,13 +24,13 @@ teacher_exclusive: false
 
 # Digitale uitvoer
 
-Naar digitale pinnen kan je ook een waarde schrijven (1 of 0). Zo stel je het spanningsniveau op de pin in op 5V of 0V. Hieronder zie je hoe je met de Arduino/Dwenguino-bibliotheek de waarde 1 (=HIGH) naar pin 12 kan schrijven.
+Naar digitale pinnen kan je ook een waarde schrijven (1 of 0). Zo stel je het spanningsniveau op de pin in op 5 V of 0 V. Hieronder zie je hoe je met de Arduino/Dwenguino-bibliotheek de waarde 1 (= HIGH) naar pin 12 kan schrijven.
 
 ```cpp
 digitalWrite(12, HIGH)
 ```
 
-Merk op dat de waarde `HIGH` een definitie is die vastgelegd wordt in de Arduino/Dwenguino-bibliotheek. De waarde van deze definitie is gelijk aan 1. Je kan de code dus ook op de volgende manier schrijven.
+Merk op dat de waarde `HIGH` gedfinieerd wordt in de Arduino/Dwenguino-bibliotheek. De waarde van `HIGH` is gelijk aan 1. Je kan de code dus ook op de volgende manier schrijven.
 
 ```cpp
 digitalWrite(12, 1)
