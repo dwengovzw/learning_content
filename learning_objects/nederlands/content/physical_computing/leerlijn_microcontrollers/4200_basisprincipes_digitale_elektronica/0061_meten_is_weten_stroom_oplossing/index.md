@@ -24,11 +24,11 @@ teacher_exclusive: true
 
 # Meten is weten (stroom): oplossing
 
-Maak voor deze schakeling gebruik van een weerstand van ongeveer 1KΩ
+Maak voor deze schakeling gebruik van een weerstand van ongeveer 1 KΩ
 
 <ul>
     <li>Wat gebeurt er met de stroom als je de meetsnoeren omwisselt?<br><em>Het teken van de stroom draait om.</em></li>
-    <li>Wat gebeurt er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?<br><em>De stroom is omgekeerd evenredig met de weerstand. Hoe lager de weerstand, hoe hoger de stroom.</em></li>
+    <li>Wat gebeurt er met de stroom als je een weerstand met een andere waarde neemt (bv. 550 Ω)?<br><em>De stroom is omgekeerd evenredig met de weerstand. Hoe kleiner de weerstand, hoe groter de stroom.</em></li>
 </ul>
 
 
