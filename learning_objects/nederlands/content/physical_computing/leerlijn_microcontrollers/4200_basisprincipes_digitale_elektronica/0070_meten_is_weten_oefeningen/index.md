@@ -34,7 +34,7 @@ teacher_exclusive: false
         <img src="img/diagram_01.svg" alt="Schakeling" title="Schakeling">
         <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
         <ul>
-            <li>Meet de weerstandswaarde van R1.</li>
+            <li>Meet de weerstandswaarde van R<sub>1</sub>.</li>
             <li>Bereken de stroom door het circuit wanneer we de punten a en b met elkaar verbinden.</li>
             <li>Controleer de stroom door deze te meten met de multimeter.</li>
             <li>Wat is de afwijking die je bekomt?</li>
@@ -49,9 +49,9 @@ teacher_exclusive: false
         <img src="img/diagram_02.svg"></img>
         <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
         <ul>
-            <li>Wat is de weerstandswaarde van R1?</li>
-            <li>Wat is de spanning over de weerstand R1?</li>
-            <li>Bereken de stroom die door R1 loopt?</li>
+            <li>Wat is de weerstandswaarde van R<sub>1</sub>?</li>
+            <li>Wat is de spanning over de weerstand R<sub>1</sub>?</li>
+            <li>Bereken de stroom die door R<sub>1</sub> loopt?</li>
         </ul>
     </div>
 </div>
@@ -63,7 +63,7 @@ teacher_exclusive: false
         <img src="img/diagram_03.svg"></img>
         <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
         <ul>
-            <li>Meet de weerstand van R1 en R2. Wat merk je op?</li>
+            <li>Meet de weerstand van R<sub>1</sub> en R<sub>2</sub>. Wat merk je op?</li>
             <li>Meet de spanning tussen de punten a en b, en tussen de punten b en c. Wat merk je op?</li>
             <li>Meet de weerstand en spanning tussen a en c. Wat merk je op?</li>
         </ul>
@@ -77,7 +77,7 @@ teacher_exclusive: false
         <img src="img/diagram_04.svg"></img>
         <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
         <ul>
-            <li>Meet de weerstand van R1 en R2.</li>
+            <li>Meet de weerstand van R<sub>1</sub> en R<sub>2</sub>.</li>
             <li>Meet de spanning tussen a en b.</li>
             <li>Bereken de stroom door het punt c.</li>
             <li>Bereken de stroom door het punt d.</li>
@@ -92,7 +92,7 @@ teacher_exclusive: false
         <img src="img/diagram_05.svg"></img>
         <div>Gebruik de multimeter om de volgende vragen te beantwoorden.</div>
         <ul>
-            <li>Meet de weerstand van R1, R2, R3 en R4.</li>
+            <li>Meet de weerstand van R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub> en R<sub>4</sub>.</li>
             <li>Meet de spanning tussen de punten a en b, b en c, c en d, d en e.</li>
             <li>Wat merk je als je de weerstanden en spanningen van/over een weerstand met elkaar vergelijkt?</li>
         </ul>
