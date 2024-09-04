@@ -24,7 +24,7 @@ teacher_exclusive: true
 
 # Meten is weten (stroom): oplossing
 
-Maak voor deze schakeling gebruik van een weerstand van ongeveer 1 KΩ
+Maak voor deze schakeling gebruik van een weerstand van ongeveer 1 kΩ
 
 <ul>
     <li>Wat gebeurt er met de stroom als je de meetsnoeren omwisselt?<br><em>Het teken van de stroom draait om.</em></li>
