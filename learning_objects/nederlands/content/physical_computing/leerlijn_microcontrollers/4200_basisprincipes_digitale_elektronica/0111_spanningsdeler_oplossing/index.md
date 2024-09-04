@@ -25,19 +25,19 @@ teacher_exclusive: true
 # De spanningsdeler (oplossing)
 
 
-Hieronder zie je hoe we de weerstandswaarde van R1 kunnen berekenen.
+Hieronder zie je hoe we de weerstandswaarde van R<sub>1</sub> kunnen berekenen.
 
-Eerst lijsten we de informatie op die we al kennen. Zo weten we dat onze schakeling op 5V werkt.
+Eerst lijsten we de informatie op die we al kennen. Zo weten we dat onze schakeling op 5 V werkt.
 
 \\[U_{in} = 5\\,\mathrm{V}\\]
 
-We weten ook dat het spanningsniveau waarop de µC van een logische 0 naar een logische 1 overschakelt 1.3V is.
+We weten ook dat het spanningsniveau waarop de µC van een logische 0 naar een logische 1 overschakelt 1,3 V is.
 
 \\[U_{out} = 1.3\\,\mathrm{V}\\]
 
-Verder kunnen we uit de grafiek met de karakteristiek van de lichtsensor aflezen dat die bij een lichtintensiteit van 10 Lux een weerstand van ongeveer 10KΩ zal hebben.
+Verder kunnen we uit de grafiek met de karakteristiek van de lichtsensor aflezen dat die bij een lichtintensiteit van 10 lux een weerstand van ongeveer 10 kΩ zal hebben.
 
-\\[R_2 = 10\\,\mathrm{K\Omega}\\]
+\\[R_2 = 10\\,\mathrm{k\Omega}\\]
 
 Deze waarden kunnen we nu invullen in de formule.
 
@@ -60,5 +60,5 @@ We lossen de vergelijking op om de waarde van R1 te bepalen.
 \\[R_1 = \frac{37}{1.3}\\,\mathrm{K\Omega} \thickapprox 28.46\\,\mathrm{K\Omega}\\]
 
 
-Merk op dat de verhouding tussen de berekende weerstanden (\\(10\\,\mathrm{K\Omega}\\) en \\(28.46\\,\mathrm{K\Omega}\\)) gelijk is aan de verhouding tussen de spanningsniveau's (\\(1.3\\,\mathrm{V}\\) en \\(3.7\\,\mathrm{V}\\)).
+Merk op dat de verhouding tussen de berekende weerstanden (\\(10\\,\mathrm{k\Omega}\\) en \\(28,46\\,\mathrm{k\Omega}\\)) gelijk is aan de verhouding tussen de spanningsniveau's (\\(1,3\\,\mathrm{V}\\) en \\(3,7\\,\mathrm{V}\\)).
 
