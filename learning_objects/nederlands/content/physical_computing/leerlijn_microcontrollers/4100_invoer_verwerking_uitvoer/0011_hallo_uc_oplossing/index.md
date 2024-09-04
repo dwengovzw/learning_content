@@ -100,12 +100,12 @@ Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er ze
     // Variabele om de afstand in op te slaan.
     int afstand;
 
-    // Zet klaar -> een keer bij start programma.
+    // setup() -> Zet klaar -> een keer bij start programma.
     void setup(){
         pinMode(13, OUTPUT);
     }
 
-    // Herhaal blijft herhalen tot je stroom uittrekt.
+    // loop() -> Herhaal -> blijft herhalen tot je stroom uittrekt.
     void loop(){
         afstand = sonar.ping_cm();
         if (afstand > 0 && afstand < 100){
