@@ -54,7 +54,7 @@ Merk op dat er tegenwoordig heel wat complexe computerchips bestaan, die soms de
         <td colspan="2"><h5>Stroomverbruik</h5></td>
     </tr>
     <tr>
-        <td>Microcontrollers hebben gewoonlijk minder rekenkracht en worden geoptimaliseerd voor een specifieke toepassing. Bijgevolg verbruiken ze ook veel minder energie dan een microprocessor.</td>
+        <td>Microcontrollers hebben gewoonlijk minder rekenkracht dan microprocessors en worden geoptimaliseerd voor een specifieke toepassing. Bijgevolg verbruiken ze ook veel minder energie dan een microprocessor.</td>
         <td>Microprocessoren zijn zo ontworpen dat ze veel rekenkracht hebben om complexe taken te kunnen uitvoeren. Bijgevolg verbruiken ze significant meer energie dan een µC.</td>
     </tr>
     <tr>
