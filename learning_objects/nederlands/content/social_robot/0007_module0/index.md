@@ -2,7 +2,7 @@
 hruid: sr0_lkr_module0
 version: 3
 language: nl
-title: "Module 0"
+title: "Module 0: overzicht voor leerlingen"
 description: "Module 0"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
@@ -38,9 +38,9 @@ teacher_exclusive: true
 ## Module 0: Projectoverzicht voor de leerlingen
 
 *Onderstaande link brengt je naar module 0 van 'Sociale Robot'*<br>
-[**Module 0: De Sociale Robot**](https://www.dwengo.org/learning-path.html?hruid=sr0_lln&language=nl&te=true&source_page=%2Fsocialrobot%2F&source_title=%20Sociale%20robot#sr0_lln_inleiding;nl;3 "Module 0")  
+[**Module 0: overzicht**](https://www.dwengo.org/learning-path.html?hruid=sr0_lln&language=nl&te=true&source_page=%2Fsocialrobot%2F&source_title=%20Sociale%20robot#sr0_lln_inleiding;nl;3 "Module 0")  
 
-Module 0 is het eerste leerpad dat de leerlingen zullen zien binnen dit project. Het bestaat uit een korte inleiding en 4 **links** naar de volgende modules. Deze links zullen de leerlingen doorverwijzen naar de **leerpaden voor leerlingen**.
+Module 0 biedt een overzicht van het 'Sociale robot'-project en is het eerste leerpad dat de leerlingen zullen zien binnen dit project. Het bestaat uit een korte inleiding en 4 **links** naar de volgende modules. Deze links zullen de leerlingen doorverwijzen naar de **leerpaden voor leerlingen**.
 
 <div class="alert alert-box alert-success">
 De leerpaden die op de projectpagina te vinden zijn, zijn de </strong>leerpaden voor leerkrachten</strong>,  <strong>Module 0: Leerlingen</strong> en <strong>Module 2: Oefeningen</strong>.
