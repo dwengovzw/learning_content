@@ -32,14 +32,14 @@ unsigned int analogeWaardePinA0 = analogRead(A0);
 
 - `analogeWaardePinA0` is de variabele waarin de analoge waarde wordt opgeslagen.
 - `unsigned int` is het type van de variabele `analogeWaardePinA0`. Variabelen van dit type bevatten gehele getallen tussen **0 en 65535**.
-- `analogRead(A0)` is de functie van de Arduino-bibliotheek die de waarde van een analoge pin leest. `analogRead(A0)` leest de waarde van de analoge pin A0.
+- de functie `analogRead()` van de Arduino-bibliotheek leest de waarde van een analoge pin. `analogRead(A0)` leest de waarde van de analoge pin A0.
 - `A0` is een constante gedefinieerd in de Arduino bibliotheek. Deze komt overeen met het nummer van een bepaalde pin. Bij de Arduino UNO is dit `14`. Voor de Dwenguino is dit pin nummer `24`. Op de Arduino Mega is het dan weer pin nummer `54`.
 
 <div class="dwengo-content assignment">
     <h2 class="title">Inzichtsvraag</h2>
     <div class="content">
         <p>
-        Waarom gebruiken we bij het lezen van analoge invoer <code class="language-cpp">unsigned int</code> als type van de variabele <code class="language-cpp">analogeWaardePinA0 </code> wanneer we bij het lezen van digitale invoer het type <code class="language-cpp">unsigned char</code> gebruiken?
+        Waarom gebruiken we bij het lezen van analoge invoer <code class="language-cpp">unsigned int</code> als type van de variabele <code class="language-cpp">analogeWaardePinA0 </code> terwijl we bij het lezen van digitale invoer het type <code class="language-cpp">unsigned char</code> gebruiken?
         </p>
     </div>
 </div>
