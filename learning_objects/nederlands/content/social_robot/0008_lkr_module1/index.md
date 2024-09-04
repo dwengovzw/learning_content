@@ -2,7 +2,7 @@
 hruid: sr0_lkr_module1
 version: 3
 language: nl
-title: "Module 1"
+title: "Module 1: sociale robots"
 description: "Module 1"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
@@ -38,7 +38,7 @@ teacher_exclusive: true
 ## Module 1: Inleiding en computationeel denken unplugged (± 2 lesuren)
 
 *Onderstaande link brengt je naar module 1 van 'Sociale Robot'*<br>
-[Module 1: Wat zijn sociale robots?](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl&te=true&source_page=%2Fsocialrobot%2F&source_title=%20Sociale%20robot#sr1_module1;nl;3 "Module 1")  
+[Module 1: sociale robots](https://www.dwengo.org/learning-path.html?hruid=sr1&language=nl&te=true&source_page=%2Fsocialrobot%2F&source_title=%20Sociale%20robot#sr1_module1;nl;3 "Module 1")  
 
 **Lesfase A - Wat zijn sociale robots?**
 
