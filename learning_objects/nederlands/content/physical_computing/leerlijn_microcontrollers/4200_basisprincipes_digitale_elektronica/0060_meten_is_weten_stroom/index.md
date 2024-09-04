@@ -32,17 +32,17 @@ Om de stroom te kunnen meten moet er ook effectief stroom door onze multimeter l
 
 Om spanning te meten pluggen we de meetsnoeren in in de volgende poorten op de multimeter.
 
-<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwarte meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
+<span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">Zwart meetsnoer</span>: <span style="color: white; background-color: black; padding: 3px; border-radius: 5px; overflow:hidden">COM</span>
 
 Waar je de rode meetsnoer inplugt hangt af van de verwachte stroom die je gaat meten. Is die niet groter dan 400 mA:
 
-<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 400 mA </span><br>
+<span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rood meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 400 mA </span><br>
 
 
 <img src="img/mm_stroom_400mA_new.png"></img>
 
 
-Is die niet groter dan 10A
+Is die niet groter dan 10 A
 
 <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden">Rode meetsnoer</span>: <span style="color: white; background-color: red; padding: 3px; border-radius: 5px; overflow:hidden"> 10 A </span><br>
 
@@ -50,7 +50,7 @@ Is die niet groter dan 10A
 
 
 ### Modus van de multimeter
-We willen graag gelijkstroom meten. Het icoontje voor gelijkstroom of spanning is ⎓, het icoontje voor stroom is A. Kies de instelling die deze icoontjes combineert. Merk op dat de instelling ook afhangt van de geschatte stroom (400 mA of 10A). 
+We willen graag gelijkstroom meten. Het icoontje voor gelijkstroom of spanning is ⎓, het icoontje voor stroom is A. Kies de instelling die deze icoontjes combineert. Merk op dat de instelling ook afhangt van de geschatte stroom (400 mA of 10 A). 
 
 
 <div class="dwengo-content assignment">
