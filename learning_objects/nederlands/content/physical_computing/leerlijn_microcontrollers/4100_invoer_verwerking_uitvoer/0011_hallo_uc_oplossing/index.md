@@ -29,6 +29,8 @@ Op de fiches staat telkens informatie over hoe je een component kan aansluiten e
 
 Hieronder kan je een voorbeeldoplossing zien voor de opdracht. Merk op dat er zeker variaties op deze oplossing mogelijk zijn. In de commentaar is uitleg voorzien bij de code.
 
+*De leerlingen moeten hier nog niet kunnen programmeren en zullen dus nog niet alles snappen. De volledige uitleg komt later in het leerpad over programmeren. Ze vertrekken hier uit een toepassing, testen de voorbeeldcode op de fiches uit en proberen dan te begrijpen wat het doet.*
+
 ### Oplossing Dwenguino
 
 <div class="dwengo-content dwengo-code-simulator">
