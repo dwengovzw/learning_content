@@ -46,7 +46,7 @@ teacher_exclusive: true
 
 Tekst
 
-![tekst](link)
+![tekst](link) 
 
 ![](@youtube/https://www.youtube.com/embed/EsYs4k41U6w "video")
 
