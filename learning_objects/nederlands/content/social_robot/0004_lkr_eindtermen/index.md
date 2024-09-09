@@ -2,8 +2,8 @@
 hruid: sr0_lkr_eindtermen
 version: 3
 language: nl
-title: "Eindtermen"
-description: "Eindtermen"
+title: "Minimumdoelen"
+description: "Minimumdoelen"
 keywords: ["Sociale Robot", "AI Op School", "STEM", "Computationeel denken", "Grafisch programmeren"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -33,13 +33,13 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Eindtermen
+# Minimumdoelen
 
 We gaan ervan uit dat dit project vooral in de lessen Techniek of lessen STEM gegeven wordt.
-We geven daartoe mee aan welke eindtermen er gewerkt kan worden. We geven ook aan op welke manier dit kan gebeuren. [**Dit overzicht**](embed/eindtermen_socialerobot.pdf "Eindtermen") beschrijft dit alles uitvoerig.
+We geven mee aan welke minimumdoelen er gewerkt kan worden. We geven ook aan op welke manier dit kan gebeuren. [**Dit overzicht**](embed/MinimumdoelenA-stroomSocialeRobot.pdf "Minimumdoelen") beschrijft dit alles uitvoerig.
 
-Je beslist zelf aan welke eindtermen en leerdoelen er wordt gewerkt. Als de aanpak gevolgd wordt die Dwengo voor het project voorstelt in het kader van AI Op School, zouden bepaalde eindtermen zeker aan bod moeten komen.
-**Hoe jij als leerkracht dit project invult, bepaalt welke eindtermen effectief aan bod komen en in welke mate.**
+Je beslist zelf aan welke minimumdoelen en leerdoelen er wordt gewerkt. Als de aanpak gevolgd wordt die Dwengo voor het project voorstelt, zouden bepaalde minimumdoelen zeker aan bod moeten komen.
+**Hoe jij als leerkracht dit project invult, bepaalt welke minimumdoelen effectief aan bod komen en in welke mate.**
 
 
 ## Computationeel denken

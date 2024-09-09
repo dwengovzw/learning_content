@@ -34,7 +34,7 @@ teacher_exclusive: true
 | Patiëntnummer | Pijn in de borststreek | Man | Rookt | Voldoende lichaamsbeweging | Hartaanval |
 |---------------|------------------------|-----|-------|----------------------------|------------|
 | 1             | ja                     | ja  | nee   | ja                         | ja         |
-| 2             | ja                     | ja  | ja    | nee                        | jq         |
+| 2             | ja                     | ja  | ja    | nee                        | ja         |
 | 3             | nee                    | nee | ja    | nee                        | ja         |
 | 4             | nee                    | ja  | nee   | ja                         | nee        |
 | 5             | ja                     | nee | ja    | ja                         | ja         |

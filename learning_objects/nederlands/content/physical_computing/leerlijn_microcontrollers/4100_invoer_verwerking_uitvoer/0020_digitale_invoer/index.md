@@ -22,13 +22,16 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Een digitale waarde lezen
+# Digitale invoer - Een digitale waarde lezen
 
-De pinnen van de µC kunnen gebruikt worden om een hoge (5V) of lage (0V) spanning op een pin te meten. Bijgevolg zal je in je programma de waarde van een pin altijd inlezen als een logische 1 of een logische 0. Hieronder zie je hoe je met de Arduino bibliotheek de waarde van een digitale pin kan inlezen.
+De pinnen van de µC kunnen gebruikt worden om een hoge (5 V) of lage (0 V) spanning op een pin te meten. In een programma kan een pin bijgevolg slechts twee mogelijke waarden hebben, namelijk een logische 1 of een logische 0. Dus de waarde van een pin zal altijd als een van deze twee waarden ingelezen worden.<br>
+Hieronder zie je hoe je met de Arduino-bibliotheek de waarde van een digitale pin kan inlezen.
 
 ```cpp
 unsigned char waardePin12 = digitalRead(12);
 ```
-- `waardePin12` is hier de variabele waarin we de waarde van de pin opslaan.
-- `unsigned char` is het type van de variabele. Getallen van dit type hebben een **waarde tussen 0 en 255**. 
-- `digitalRead(12)` is een functie uit de Arduino bibliotheek die de waarde op pin 12 zal lezen.
+- `waardePin12` is hier de variabele waarin de waarde van de pin wordt opgeslagen.
+- `unsigned char` is het type van de variabele. Getallen van dit type hebben een gehele **waarde tussen 0 en 255** (met inbegrip van 0 en 255). 
+- `digitalRead()` is een functie uit de Arduino-bibliotheek die de waarde op een digitale pin leest. Die pin moet je wel meegeven. `digitalRead(12)` bv. leest de waarde op pin 12.
+
+*In het leerpad over de basis van elektronica leer je meer over het concept 'spanning'.*

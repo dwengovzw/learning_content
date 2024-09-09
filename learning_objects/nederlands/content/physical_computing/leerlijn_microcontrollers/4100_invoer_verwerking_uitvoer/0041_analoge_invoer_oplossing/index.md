@@ -24,4 +24,4 @@ teacher_exclusive: true
 
 # Analoge invoer (oplossing)
 
-We gebruiken in dit geval een `unsigned int` en geen `unsigned char` omdat de analoge waarde die we lezen tussen 0 en 1023 ligt. Het datatype `unsigned char` bestaat maar uit 8 bits. Bijgevolg kun je er maar waarden van 0 tot 255 mee voorstellen. Een `unsigned int` bestaat uit 16 bits. Je kan er dus getallen van 0 tot 65536 in opslaan. Dit is meer dan voldoende voor onze analoge waarde.
+We gebruiken in dit geval een `unsigned int` en geen `unsigned char` omdat de analoge waarde die we lezen tussen 0 en 1023 ligt. Het datatype `unsigned char` bestaat maar uit 8 bits. Bijgevolg kan je er maar waarden van 0 tot 255 mee voorstellen. Een `unsigned int` bestaat uit 16 bits. Je kan er dus getallen van 0 tot 65536 in opslaan. Dit is meer dan voldoende voor onze analoge waarde.

@@ -58,7 +58,7 @@ Om een elektrische schakeling op een correcte manier te kunnen meten, is het nod
         </tr>
         <tr>
             <td style="width:375px;min-width:250px"><img src="img/open_connection.svg" alt="Symbool open connectie" title="Symbool open connectie"></td>
-            <td style="min-width:250px">Om een draad/verbinding weer te geven die nergens mee verbonden is, gebruiken we een niet gevulde stip.</td>
+            <td style="min-width:250px">Om een draad/verbinding weer te geven die nergens mee verbonden is, gebruiken we een niet-gevulde stip.</td>
         </tr>
     </table>
 </div>

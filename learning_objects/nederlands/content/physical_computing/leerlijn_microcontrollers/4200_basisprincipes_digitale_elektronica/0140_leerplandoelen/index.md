@@ -2,7 +2,7 @@
 hruid: leerlijn_basisprincipes_leerplandoelen
 version: 1
 language: nl
-title: "Leerplandoelen GO!"
+title: "Leerplandoelen"
 description: "In dit leerobject zie je de leerplandoelen die verband houden met het materiaal uit dit leerpad."
 keywords: ["leerplandoelstellingen", "GO!"]
 educational_goals: [
@@ -22,13 +22,15 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Leerplandoelen GO!
+# Leerplandoelen
 
-Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
+### Leerplandoelen GO!
+
+Het lesmateriaal in de leerpad draagt bij tot het behalen van de volgende leerplandoelstellingen.
 
 <ul class="dwengo-content leerplandoelen">
     <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
-    <li>BV2_06.34 De leerlingen werken op een veilige en duurzame manier met materialen, stoffen, organismen en technische systemen </li>
+    <li>BV2_06.34 De leerlingen werken op een veilige en duurzame manier met materialen, stoffen, organismen en technische systemen. </li>
     <li>BV2_06.11 De leerlingen verklaren fenomenen of toepassingen uit het dagelijkse leven aan de hand van snelheid, kracht, hefboom, druk, zichtbaar licht, straling of elektriciteit.</li>
     <li>BV2_06.14 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.</li>
     <li>BK2_02.12 De leerlingen maken een elektronische schakeling.</li>
@@ -44,3 +46,13 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
     <li>WD3_11.08.01 De leerlingen modelleren en realiseren een elektronische schakeling als input/output-interface voor een microcontroller of PLC.</li>
 </ul>
 
+### Leerplandoelen KOV
+
+<ul class="dwengo-content leerplandoelen">
+    <li>MD 06.48: De leerlingen analyseren verbanden tussen stroomsterkte, spanning en weerstand in een gelijkstroomkring. (LPD 8)</li>
+    <li>CD 11.05.03: De leerlingen analyseren eigenschappen van een serie- en parallelschakeling. (LPD 10)</li>
+    <li>CD 11.05.04: De leerlingen berekenen de stromen en spanningen in serie-, parallelle- en gemengde elektrische gelijkstroomkringen en netwerken via verschillende oplossingsmethoden. (LPD 11)</li>
+    <li>LPD 8: De leerlingen analyseren en kwantificeren het verband tussen de spanning over en de stroom door een verbruiker in elektrische gelijkstroomkringen.</li>
+    <li>LPD 10: De leerlingen analyseren eigenschappen van serie- en parallelschakeling.</li>
+    <li>LPD 11: De leerlingen berekenen de stromen en spanningen in serie-, parallel- en gemengde elektrische gelijkstroomkringen en netwerken via verschillende oplossingsmethoden.</li>
+</ul>

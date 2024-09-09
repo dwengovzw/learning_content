@@ -2,7 +2,7 @@
 hruid: leerlijn_basis_programmeren_leerplandoelen
 version: 1
 language: nl
-title: "Leerplandoelen GO!"
+title: "Leerplandoelen"
 description: "In dit leerobject zie je de leerplandoelen die verband houden met het materiaal uit dit leerpad."
 keywords: ["leerplandoelstellingen", "GO!"]
 educational_goals: [
@@ -22,9 +22,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Leerplandoelen GO!
+# Leerplandoelen
 
 Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
+
+### Leerplandoelen GO!
 
 <ul class="dwengo-content leerplandoelen">
     <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
@@ -33,4 +35,12 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
     <li>BV2_06.01 De leerlingen voeren met functioneel gebruik van ICT eenvoudige berekeningen uit met gehele getallen, decimale getallen, breuken, procenten en verhoudingen in betekenisvolle contexten.</li>
     <li>WD2_07.01.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.</li>
     <li>WD2_07.02.01 De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen.</li>
+</ul>
+
+### Leerplandoelen KOV
+
+<ul class="dwengo-content leerplandoelen">
+    <li>BV2_04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
+    <li>CD 07.01.01: De leerlingen passen een gestructureerde programmeertaal toe om zelf ontworpen oplossingen voor concrete problemen te ontwikkelen. (LPD 13)</li>
+    <li>LPD 13 De leerlingen programmeren zelf ontworpen oplossing voor concrete problemen.</li>
 </ul>

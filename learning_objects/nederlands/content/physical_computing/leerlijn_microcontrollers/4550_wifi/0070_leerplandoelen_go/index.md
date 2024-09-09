@@ -22,9 +22,11 @@ target_ages: [16, 17, 18]
 teacher_exclusive: True
 ---
 
-# Leerplandoelen GO!
+# Leerplandoelen
 
 Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerplandoelstellingen.
+
+### Leerplandoelen GO!
 
 <ul class="dwengo-content leerplandoelen">
     <li>WD3_ 11.19.07 De leerlingen gebruiken elektronische componenten en een programmeerbare stuureenheid in een technische toepassing.</li>
@@ -37,4 +39,12 @@ Het lesmateriaal in de leerpad draag bij tot het behalen van de volgende leerpla
     <li>WD3_ 07.08.02 De leerlingen lichten de opbouw en de werking toe van datacommunicatie en van een netwerk.</li>
     <li>WD3_07.09.01 De leerlingen bewerken software om een specifiek product te maken of om een probleem op te lossen.</li>
     <li>BK3_02.12 De leerlingen programmeren de crossmediale producties volgens aangereikte procedures.</li>
+</ul>
+
+### Leerplandoelen KOV
+
+<ul class="dwengo-content leerplandoelen">
+    <li>ICW en Mechatronica, SMD 07.07.02: De leerlingen lichten de opbouw en de werking toe van datacommunicatie en van een netwerk. (LPD 17)</li>
+    <li>ICW, LPD 17: De leerlingen lichten de opbouw en de werking toe van datacommunicatie en van een netwerk met zijn componenten en transportmedia.</li>
+    <li>Mechatronica, LPD 25: De leerlingen lichten de opbouw en de werking toe van datacommunicatie en van een netwerk.</li>
 </ul>

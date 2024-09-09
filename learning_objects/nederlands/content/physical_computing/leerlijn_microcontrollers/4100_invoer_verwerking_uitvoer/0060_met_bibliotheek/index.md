@@ -24,7 +24,7 @@ teacher_exclusive: false
 
 # Gebruik maken van een bibliotheek
 
-Vaak hebben sensoren en actuatoren hun eigen complexe elektronica die al een deel van de verwerking doen (bv. sonar sensor of servo motor). Elk van deze componenten heeft een eigen “taal” waarmee het met de microcontroller spreekt. Om in de correcte “taal” te kunnen spreken met de component, gebruik je op de microcontroller meestal een bibliotheek. Deze bibliotheek zal dan signalen genereren die de component begrijpt.
+Vaak hebben sensoren en actuatoren hun eigen complexe elektronica die al een deel van de verwerking doen (bv. een sonar-sensor of een servomotor). Elk van deze componenten heeft een eigen 'taal' waarmee het met de microcontroller communiceert. Om in de correcte 'taal' te kunnen spreken met de component, gebruik je op de microcontroller meestal een bibliotheek. Deze bibliotheek zal dan signalen genereren die de component begrijpt.
 
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
