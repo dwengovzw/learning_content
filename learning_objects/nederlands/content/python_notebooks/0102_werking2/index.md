@@ -34,7 +34,8 @@ skos_concepts: [
 
 **Notebook opslaan**
 
-Je kan de notebook downloaden als *ipynb* om er op een later tijdstip verder aan te werken. Dat doe je via 'File' > 'Save Notebook As'
+Je kan de notebook downloaden als *ipynb* om er op een later tijdstip verder aan te werken. Dat doe je via 'File' > 'Download'.<br>
+Hierna kan je de notebook terugvinden in de Downloads-map op je computer. Je kan de notebook dan in een map plaatsen waar je hem gemakkelijk kan terugvinden.
 
 Je kan de (uitgevoerde) notebook opslaan als *pdf* via de browser. Bv. in Chrome: Afdrukken > Opslaan als pdf. Hierbij zet je 'Schaal' best in op 85 procent.   
 
