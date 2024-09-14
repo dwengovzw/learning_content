@@ -46,21 +46,14 @@ We kozen voor notebooks omdat daar enkele belangrijke voordelen aan verbonden zi
 ---
 Klik je op onderstaande knop 'Open notebooks',  dan word je doorgestuurd naar een andere website waar jouw persoonlijke notebooks ingeladen worden. (Dit kan even duren.)
 
-Je vindt er (op het tabblad _Files_) twee bestanden met extensie _.ipynb_.
-Dit zijn de twee notebooks waarin je resp. een overzicht krijgt van de opbouw en mogelijkheden en hoe je er mee aan de slag kan. 
-In deze eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag kan. 
+Links op het scherm vind je er twee bestanden met extensie _.ipynb_.
+Dit zijn de twee notebooks waarin je resp. een overzicht krijgt van de opbouw en mogelijkheden en hoe je er mee aan de slag kan. Dubbelklik op de bestandsnaam om een notebook te openen.
 
+Je ziet er ook een map *images* met de afbeeldingen die in de notebooks getoond worden. 
+
+In deze eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag kan. 
 Na het doorlopen van beide notebooks heb je een goed idee van hoe onze Python notebooks zijn opgevat.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0101 "Notebooks Werking")
-<figure>
-    <figcaption align = "center">Vergeet niet uit te loggen voor je naar de volgende notebook gaat!</figcaption>
-</figure>
 
----
 
-**Ben je klaar met deze reeks notebooks, dan log je uit via de knop rechts bovenaan. Vergeet dit zeker niet!**  
-
-Doe je dit niet, dan krijg je telkens opnieuw dezelfde reeks notebooks te zien in jouw browser. 
-
-*Zie hiervoor het volgende menu-onderdeel 'Log uit'.* 
