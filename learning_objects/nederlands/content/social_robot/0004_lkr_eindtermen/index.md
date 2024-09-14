@@ -36,7 +36,7 @@ teacher_exclusive: true
 # Minimumdoelen
 
 We gaan ervan uit dat dit project vooral in de lessen Techniek of lessen STEM gegeven wordt.
-We geven mee aan welke minimumdoelen er gewerkt kan worden. We geven ook aan op welke manier dit kan gebeuren. [**Dit overzicht**](embed/MinimumdoelenA-stroomSocialeRobot.pdf "Minimumdoelen") beschrijft dit alles uitvoerig.
+We geven mee aan welke minimumdoelen er gewerkt kan worden. We geven ook aan op welke manier dit kan gebeuren. [**Dit overzicht**](embed/MinimumdoelenA-stroomSocialeRobot.pdf "Minimumdoelen") beschrijft dit alles uitvoerig voor de eerste graad A-stroom. Voor de B-stroom vind je het overzicht [hier](embed/minimumdoelenBstroomsocialerobot.pdf "Minimumdoelen") en voor de tweede graad [hier](embed/minimumdoelentweedegraadsocialerobot.pdf "Minimumdoelen").
 
 Je beslist zelf aan welke minimumdoelen en leerdoelen er wordt gewerkt. Als de aanpak gevolgd wordt die Dwengo voor het project voorstelt, zouden bepaalde minimumdoelen zeker aan bod moeten komen.
 **Hoe jij als leerkracht dit project invult, bepaalt welke minimumdoelen effectief aan bod komen en in welke mate.**
