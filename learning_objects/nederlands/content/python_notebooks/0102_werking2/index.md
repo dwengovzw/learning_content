@@ -2,7 +2,7 @@
 hruid: pn_werkingnotebooks2
 version: 3
 language: nl
-title: "Log uit"
+title: "Notebook opslaan"
 description: "Leren werken met de notebooks"
 keywords: ["Python", "KIKS", "Wiskunde", "STEM"]
 educational_goals: [
@@ -32,18 +32,12 @@ skos_concepts: [
 
 # Werken met notebooks
 
-**Let op: uitloggen**  
-
-*Wanneer je een reeks notebooks hebt afgewerkt, mag je in het tabblad met de notebookgroep niet vergeten uit te loggen via de knop rechts bovenaan.*  
-
-![](embed/LogOut.png "Log out")  
-
-Als je dit niet doet, dan zal de nieuwe link nog steeds de vorige reeks notebooks tonen, in plaats van de nieuwe reeks.
-
-Bij de notebook zelf hoef je niet uit te loggen.
-
 **Notebook opslaan**
 
-Je kan de notebook downloaden als *ipynb* om er op een later tijdstip verder aan te werken.
+Je kan de notebook downloaden als *ipynb* om er op een later tijdstip verder aan te werken. Dat doe je via 'File' > 'Download'.<br>
+Hierna kan je de notebook terugvinden in de Downloads-map op je computer. Je kan de notebook dan in een map plaatsen waar je hem gemakkelijk kan terugvinden.
 
 Je kan de (uitgevoerde) notebook opslaan als *pdf* via de browser. Bv. in Chrome: Afdrukken > Opslaan als pdf. Hierbij zet je 'Schaal' best in op 85 procent.   
+
+**Opmerking: Je hoeft niet uit te loggen, maar het mag wel. De uitlogknop vind je in het menu onder 'File', helemaal onderaan.**  
+*Voorheen moest je, wanneer je een reeks notebooks had afgewerkt, uitloggen in het tabblad met de notebookgroep. Dat hoeft dus niet meer.*  
