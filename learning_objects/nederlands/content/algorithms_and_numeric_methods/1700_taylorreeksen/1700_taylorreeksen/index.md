@@ -38,7 +38,7 @@ Je zal functies zoals *exp*, *log*, *sin*, …. benaderen door veeltermfuncties.
 
 **De methode bestaat erin de veeltermfunctie zodanig de construeren dat dat ze in één punt dezelfde functiewaarde en dezelfde eerste, tweede, ... , n-de afgeleide heeft als de oorspronkelijke functie.**
 
-Je zal bijvoorbeeld leren hoe je een exponentiële functie in de buurt van 0 benaderd door een eerste- of tweedegraadsfunctie.
+Je zal bijvoorbeeld leren hoe een exponentiële functie in de buurt van 0 benaderd kan worden door een eerste- of tweedegraadsfunctie.
 
 ![Origineel](embed/exponentielefunctie.png "Originele functie")
 
