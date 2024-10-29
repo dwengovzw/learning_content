@@ -32,7 +32,7 @@ teacher_exclusive: false
 
 # Numeriek rekenen
 
-Bij het berekenen van getallen zoals *e*, *sin 61°*, $\sqrt[4]{15}$ , … gebruik je bijvoorbeeld een rekentoestel. Hoe worden deze getallen bepaald door het rekentoestel? We willen inzicht krijgen in dat
+Bij het berekenen van getallen zoals *e*, *sin 61°*, \\(\sqrt[4]{15}\\) , … gebruik je bijvoorbeeld een rekentoestel. Hoe worden deze getallen bepaald door het rekentoestel? We willen inzicht krijgen in dat
 *numeriek rekenen*.
 Je zal functies zoals *exp*, *log*, *sin*, …. benaderen door veeltermfuncties.
 
