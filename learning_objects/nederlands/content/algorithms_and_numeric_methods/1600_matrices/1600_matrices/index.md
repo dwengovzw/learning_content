@@ -39,7 +39,9 @@ Met de methode van Gauss kan je die matrix **diagonaliseren**. In de gediagonali
 De methode van Gauss steunt op **elementaire rij-operaties**:<br>
 - twee rijen van plaats verwisselen;
 - alle elementen van een rij delen door of vermenigvuldigen met een (zelfde) getal dat niet nul is;
-- een rij vervangen door zichzelf plus of min een veelvoud van een andere rij;
+- een rij vervangen door zichzelf plus of min een veelvoud van een andere rij.
+
+De laatste twee samen uitvoeren komt neer op:<br>
 - een rij vervangen door een lineaire combinatie van zichzelf en een andere rij.
 
 
