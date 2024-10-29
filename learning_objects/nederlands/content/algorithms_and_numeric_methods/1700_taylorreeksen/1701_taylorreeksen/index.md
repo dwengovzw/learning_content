@@ -30,7 +30,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# MacLaurinveelterm voor $e^x$
+## Voorbeeld: MacLaurinveelterm voor $e^x$
 
 ### Stap 1: Benader $f(x) = e^x$ in $0$ door een eerstegraadsfunctie.
 
@@ -67,3 +67,16 @@ Vul zelf het gezochte functievoorschrift aan: $e^x \thickapprox 1 + x + \frac{x^
 ### Toepassing: Benader hiermee het getal *e*
 
 Merk op dat $e = e^{1}$
+
+## Onthoud: MacLaurinontwikkeling
+Als $f$ $n$ maal afleidbaar is in $0$ dan kan je $f(x)$ in de buurt van $0$ benaderen door een MacLaurinontwikkeling:
+$$f(x) \thickapprox f(0)  + \frac{f'(0)}{1!} x +  \frac{f''(0)}{2!} x² + ... + \frac{f^{(n)}(0)}{n!} x^n $$
+
+## Oefeningen
+
+#### Oefening 1: Geef een MacLaurinontwikkeling voor $sin \ x$ en $cos \ x$
+
+#### Oefening 2: Geef een MacLaurinontwikkeling voor $ln(x+1)$
+
+#### Oefening 3: Geef een kwadratsische benadering in de omgeving van 0 van $f(x) = \frac{1}{1+x}$
+
