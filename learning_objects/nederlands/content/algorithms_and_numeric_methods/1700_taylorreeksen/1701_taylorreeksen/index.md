@@ -38,7 +38,7 @@ Beschouw de functie $f(x) = e^x$ in een basisomgeving van $0$.<br>
 Benader ze door $f_{1}(x) = ax + b$ <br>
 Voorwaarde: $f(0) = f_{1}(0)$ en $f'(0) = f_{1}'(0)$
 
-Als je het stelsel van deze twee vergelijkingen oplost, ken je de waarden van $a$ en $b$, en dus ook de gezochte eerstegraadsfunctie.<br>
+Als je het stelsel van deze twee vergelijkingen oplost, ken je de waarden van $a$ en $b$, en dus ook de gezochte eerstegraadsfunctie.
 
 ### Stap 2: Benader $f(x) = e^x$ in $0$ door een veeltermfunctie van de tweede graad.
 
@@ -46,7 +46,11 @@ Beschouw de functie $f(x) = e^x$ in een basisomgeving van $0$.<br>
 Benader ze door $f_{2}(x) = ax^2 + b x + c$ <br>
 Voorwaarde: $f(0) = f_{2}(0)$ en $f'(0) = f_{2}'(0)$ en $f''(0) = f_{2}''(0)$
 
-Als je het stelsel van deze drie vergelijkingen oplost, ken je de waarden van $a$, $b$ en $c$, en dus ook de gezochte tweedegraadsfunctie.<br>
+Als je het stelsel van deze drie vergelijkingen oplost, ken je de waarden van $a$, $b$ en $c$, en dus ook de gezochte tweedegraadsfunctie.
+
+Gebruik Python om de grafieken te tekenen van de oorspronkelijke functie en de twee functies die haar benaderen in de omgeving van 0.
+
+[![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6550 "Notebook MacLaurin")
 
 ### Stap 3: Benader $f(x) = e^x$ in $0$ door een veeltermfunctie van de derde graad.
 
