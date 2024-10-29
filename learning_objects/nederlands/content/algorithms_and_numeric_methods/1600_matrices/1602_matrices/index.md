@@ -2,7 +2,7 @@
 hruid: anm_1602
 version: 3
 language: nl
-title: "Titel"
+title: "Werkwijze"
 description: "Matrices"
 keywords: [""]
 educational_goals: [
@@ -30,6 +30,11 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Werkwijze
 
-Tekst
+Open een Python notebook.
+
+- Definieer drie functies die overeenkomen met de elementaire rij-operaties.
+- Denk na over hoe je deze elementaire rij-operaties het beste kunt laten inzetten door de computer.
+- Schrijf een algoritme voor deze werkwijze.
+- Test uit op het vorige voorbeeld.   
