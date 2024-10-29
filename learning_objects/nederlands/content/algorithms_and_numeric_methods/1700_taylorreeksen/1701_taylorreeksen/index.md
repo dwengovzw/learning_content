@@ -42,7 +42,7 @@ Als je het stelsel van deze twee vergelijkingen oplost, ken je de waarden van\\(
 
 ### Stap 2: Benader \\(f(x) = e^x\\) in \\(0\\) door een veeltermfunctie van de tweede graad.
 
-Beschouw de functie \\(f(x) = e^x\\) in een basisomgeving van \\(0\).<br>
+Beschouw de functie \\(f(x) = e^x\\) in een basisomgeving van \\(0\\).<br>
 Benader ze door \\(f_{2}(x) = ax^2 + b x + c\\) <br>
 Voorwaarde: \\(f(0) = f_{2}(0)\\) en \\(f'(0) = f_{2}'(0)\\) en \\(f''(0) = f_{2}''(0)\\)
 
@@ -78,9 +78,12 @@ Als \\(f\) \(n\\) maal afleidbaar is in \\(0\\) dan kan je \\(f(x)\\) in de buur
 
 ## Oefeningen
 
-#### Oefening 1: Geef een MacLaurinontwikkeling voor \\(sin \ x\\) en \\(cos \ x\\)
+#### Oefening 1
+Geef een MacLaurinontwikkeling voor \\(sin \ x\\) en \\(cos \ x\\).
 
-#### Oefening 2: Geef een MacLaurinontwikkeling voor \\(ln(x+1)\\)
+#### Oefening 2
+Geef een MacLaurinontwikkeling voor \\(ln(x+1)\\).
 
-#### Oefening 3: Geef een kwadratsische benadering in de omgeving van \\(0\\) van \\(f(x) = \frac{1}{1+x}\\)
+#### Oefening 3
+Geef een kwadratische benadering in de omgeving van \\(0\\) van \\(f(x) = \frac{1}{1+x}\\).
 
