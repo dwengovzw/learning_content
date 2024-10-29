@@ -57,7 +57,7 @@ dus \\[sin \frac{61 \pi}{180}  \thickapprox 0,87452 ... \\]
 
 #### Oefening 1 
 Bepaal de eerste vier termen in x − 2 van de Taylorveelterm rond x = 2 van de volgende functies:<br>
-\\(e^{\frac{x}{2}}\\) en \\(\sqrt x\\)
+\\(f(x) = e^{\frac{x}{2}}\\) en \\(f(x) = \sqrt x\\)
 
 #### Oefening 2
 Bereken een benadering voor \\(\sqrt[3]{9}\\)  aan de hand van een Taylorontwikkeling.
