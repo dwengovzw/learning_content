@@ -2,7 +2,7 @@
 hruid: anm_1700
 version: 3
 language: nl
-title: "Titel"
+title: "Numeriek rekenen"
 description: "Taylorreeksen"
 keywords: [""]
 educational_goals: [
@@ -30,6 +30,11 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Numeriek rekenen
 
-Tekst
+Bij het berekenen van getallen zoals *e*, *sin 61°*, $\sqrt[4]{15}$ , … gebruik je bijvoorbeeld een rekentoestel. Hoe worden deze getallen bepaald door het rekentoestel? We willen inzicht krijgen in dat
+*numeriek rekenen*.
+Je zal functies zoals *exp*, *log*, *sin*, …. benaderen door veeltermfuncties.
+
+**De methode bestaat erin de veeltermfunctie zodanig de construeren dat dat ze in één punt dezelfde functiewaarde en dezelfde eerste, tweede, ... , n-de afgeleide heeft als de oorspronkelijke functie.**
+
