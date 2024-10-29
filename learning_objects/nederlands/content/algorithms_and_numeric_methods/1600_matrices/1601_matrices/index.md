@@ -33,7 +33,7 @@ teacher_exclusive: false
 # Voorbeeld
 
 Beschouw het volgende stelsel van vergelijkingen:
-\\[\left\{ \begin{matrix} 3 x + y - 4 z = 3 \\\ 3 y - 5 z = -11 \\\ x - 5 y - 2 z = 11 \end{matrix}\\]
+\\[\begin{cases} 3 x + y - 4 z = 3 \\\ 3 y - 5 z = -11 \\\ x - 5 y - 2 z = 11 \end{cases}\\]
 
 De overeenkomstige matrix is:
 \\[\begin{bmatrix} 3 & 1 & -4 & 3 \\\ 0 & 3 & -5 & -11 \\\ 1 & -5 & -2 & 11 \end{bmatrix}\\]
