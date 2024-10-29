@@ -2,7 +2,7 @@
 hruid: anm_1601
 version: 3
 language: nl
-title: "Titel"
+title: "Voorbeeld"
 description: "Matrices"
 keywords: [""]
 educational_goals: [
@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Voorbeeld
 
 Tekst
