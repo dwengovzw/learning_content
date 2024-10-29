@@ -32,16 +32,16 @@ teacher_exclusive: false
 
 # Taylorontwikkeling
 
-Omdat je niet altijd een functie wilt benaderen in 0, breid je deze techniek uit naar een andere waarde. Om het willekeurig te houden, noem je die waarde $a$.
+Omdat je niet altijd een functie wilt benaderen in 0, breid je deze techniek uit naar een andere waarde. Om het willekeurig te houden, noem je die waarde \\(a\\).
 
 ### Taylorveelterm
-Als \\(f\\) \\(n\\) maal afleidbaar is in $a$ dan kan je \\(f(x)\\) in de buurt van \\(a\\) benaderen door een Taylorontwikkeling:
+Als \\(f\\) \\(n\\) maal afleidbaar is in \\(a\\) dan kan je \\(f(x)\\) in de buurt van \\(a\\) benaderen door een Taylorontwikkeling:
 \\[f(x) \thickapprox f(a)  + \frac{f'(a)}{1!} (x - a) +  \frac{f''(a)}{2!} (x - a)² + ... + \frac{f^{(n)}(a)}{n!} (x - a)^n\\]
 
 ### Benadering van *sin 61°*
 
 \\(f(x) = sin \ x\\) en \\(x = \frac{61 \pi}{180}\\)<br>
-60° ligt in de buurt van 61°, en de goniometrische getallen van 60° ken je (\\(cos \frac{\pi}{3} = \frac{1}{2}$, $sin \frac{\pi}{3} = \frac{\sqrt{3}}{2}\\)).
+60° ligt in de buurt van 61°, en de goniometrische getallen van 60° ken je (\\(cos \frac{\pi}{3} = \frac{1}{2}\\), \\(sin \frac{\pi}{3} = \frac{\sqrt{3}}{2}\\)).
 
 \\(y = sin \ x\\) in de buurt van \\(a\\) benaderen met een Taylorveelterm:
 
