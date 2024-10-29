@@ -33,13 +33,14 @@ teacher_exclusive: true
 
 ## MacLaurinontwikkeling
 
-Als $f$ $n$ maal afleidbaar is in $0$ dan bestaat er juist één veeltermfunctie $f_n$ van de $n$-de graad zodat 
-$$f_n(0) = f(0), f_{n}'(0) = f'(0), f_{n}''(0) = f''(0), ... , f_{n}^{(n)}(0) = f^{(n)}(0)$$<br>
+Als\\(f\\) \\(n\\) maal afleidbaar is in \\(0\\) dan bestaat er juist één veeltermfunctie \\(f_n\\) van de \\(n\\)-de graad zodat 
+\\[f_n(0) = f(0), f_{n}'(0) = f'(0), f_{n}''(0) = f''(0), ... , f_{n}^{(n)}(0) = f^{(n)}(0)\\]
 namelijk
-$f_n(x) = f(0)  + \frac{f'(0)}{1!} x +  \frac{f''(0)}{2!} x² + ... + \frac{f^{(n)}(0)}{n!} x^n$
+\\(f_n(x) = f(0)  + \frac{f'(0)}{1!} x +  \frac{f''(0)}{2!} x² + ... + \frac{f^{(n)}(0)}{n!} x^n\\)
+
 ## Taylorontwikkeling
 
-Als $f$ $n$ maal afleidbaar is in $a$ dan bestaat er juist één veeltermfunctie $g_n$ van de $n$-de graad zodat 
-$$g_n(a) = f(a), g_{n}'(a) = f'(a), g_{n}''(a) = f''(a), ... , g_{n}^{(n)}(a) = f^{(n)}(a)$$<br>
+Als \\(f\\) \\(n\\) maal afleidbaar is in $a$ dan bestaat er juist één veeltermfunctie \\(g_n\\) van de \\(n\\)-de graad zodat 
+\\[g_n(a) = f(a), g_{n}'(a) = f'(a), g_{n}''(a) = f''(a), ... , g_{n}^{(n)}(a) = f^{(n)}(a)\\]
 namelijk
-$g_n(x) = f(a)  + \frac{f'(a)}{1!} (x - a) +  \frac{f''(a)}{2!} (x - a)² + ... + \frac{f^{(n)}(a)}{n!} (x - a)^n$
+\\(g_n(x) = f(a)  + \frac{f'(a)}{1!} (x - a) +  \frac{f''(a)}{2!} (x - a)² + ... + \frac{f^{(n)}(a)}{n!} (x - a)^n\\)
