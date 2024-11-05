@@ -113,4 +113,4 @@ Merk op dat in derde kolom enkel het getal op de derde rij verschillend is van n
 
 De matrix is nu gediagonaliseerd. Het stelsel is opgelost.
 
-De oplossingsverzameling van het stelsel is \\(\{\(3, -2, 1\)\}\\).
+De oplossingsverzameling van het stelsel is \\(\\{\(3, -2, 1\)\\}\\).
