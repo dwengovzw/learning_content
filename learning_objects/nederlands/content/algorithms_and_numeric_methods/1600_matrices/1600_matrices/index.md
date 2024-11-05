@@ -2,7 +2,7 @@
 hruid: anm_1600
 version: 3
 language: nl
-title: "Titel"
+title: "Stelsel lineaire vergelijkingen"
 description: "Matrices"
 keywords: [""]
 educational_goals: [
@@ -30,6 +30,19 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Titel
+# Stelsel lineaire vergelijkingen
 
-Tekst
+In de wiskundeles leerde je dat je een stelsel lineaire vergelijkingen kan weergeven aan de hand van een **matrix**. ELke rij van de matrix komt overeen met een vergelijking uit het stelsel. Het aantal kolommen van de matrix is 1 meer dan het aantal onbekenden. 
+
+Met de methode van Gauss-Jordan kan je die matrix **diagonaliseren**. In de gediagonaliseerde matrix kan je dan de oplossingen van het stelsel aflezen.
+
+De methode van Gauss-Jordan steunt op **elementaire rij-operaties**:<br>
+- twee rijen van plaats verwisselen;
+- alle elementen van een rij delen door of vermenigvuldigen met een (zelfde) getal dat niet nul is;
+- een rij vervangen door zichzelf plus of min een veelvoud van een andere rij.
+
+De laatste twee samen uitvoeren komt neer op:<br>
+- een rij vervangen door een lineaire combinatie van zichzelf en een andere rij.
+
+
+
