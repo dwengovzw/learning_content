@@ -2,7 +2,7 @@
 hruid: anm_1702
 version: 3
 language: nl
-title: "Taylor"
+title: "Taylorontwikkeling"
 description: "Taylorreeksen"
 keywords: [""]
 educational_goals: [
