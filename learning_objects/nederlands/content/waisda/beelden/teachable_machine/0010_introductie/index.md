@@ -30,6 +30,7 @@ In deze activiteit laden leerlingen een versie van het ImageNet model in. Aan da
 
 * Leerlingen komen te weten hoe de "teachable machine" van Google werkt.
 * Leerlingen leren wat het concept van een model is in machine learning.
+* Leerlingen realiseren zich dat er een verschil is tussen het trainen van een AI-model en het "tunen" van een bestaand model.
 * Leerlingen voegen een laag toe aan een bestaand machine learning model. 
 * Leerlingen trainen het aangepaste model om eigen afbeeldingen te kunnen classificeren.
 * Leerlingen leren problemen in team op te lossen. 
