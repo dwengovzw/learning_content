@@ -39,7 +39,7 @@ Op onderstaande figuur zie je een voorbeeld van een neuraal netwerk.
 
 ![Voorbeeldarchtectuur van een neuraal netwerk.](images/neural_network.svg)
 
-Je ziet dat het neurale netwerk opgebouwd is uit verschillende lagen. Hier worden die lagen van links naar rechts weergegeven. De eerste laag noemen we de invoerlaag (input layer). Deze zal de grootte hebben van onze invoerdata. Bijvoorbeeld een afbeelding van 220x220 pixels. De laatste laag heet de uitvoerlaag (output layer). Deze zal de voorspelling van het netwerk bevatten. Alle lagen daartussen noemen we de verborgen lagen (hidden layers). Het formaat van zowel de invoer-, verborgen- als uitvoerlagen kan sterk verschillen van neuraal netwerk tot neuraal netwerk. Ook het aantal verborgen lagen verschilt tussen verschillende neurale netwerken.
+Je ziet dat het neurale netwerk opgebouwd is uit verschillende lagen. Hier worden die lagen van links naar rechts weergegeven. De invoer van de eerste laag zal de grootte hebben van onze invoerdata. Bijvoorbeeld een afbeelding van 220x220 pixels. De uitvoer van de laatste laag zal de voorspelling van het netwerk bevatten. Alle lagen daartussen noemen we de verborgen lagen (hidden layers). De vorm van zowel de invoer-, verborgen- als uitvoerlagen kan sterk verschillen van neuraal netwerk tot neuraal netwerk. Ook het aantal verborgen lagen verschilt tussen verschillende neurale netwerken.
 
 Een **laag** bestaat uit een invoer, een verwerking en een uitvoer. De invoer komt van de nodes links in de laag. De verwerking gebeurd op basis van de sterkte van de verbindingen in de laag (de gewichten) en een wiskundige formule. De uitvoer wordt geschreven naar de nodes rechts van de laag. 
 
@@ -56,8 +56,15 @@ Hieronder zie je een neuraal netwerk waarin de gewichten een waarde gekregen heb
 
 ### Algoritme
 
-Er zijn verschillende algoritmes nodig om het neuraal netwerk te doen werken. Een eerste is om een afbeelding te *evalueren*. Dit algoritme zal de lagen met elkaar "verbinden" door 
+Er zijn verschillende algoritmes nodig om het neuraal netwerk te doen werken. Hier is het vooral belangrijk dat je weet dat er altijd twee soorten algoritmes nodig zijn: een **trainingsalgoritme** en een **inference-** ofwel **evaluatiealgoritme**.
 
-![Voorbeeld van agoritme van een neuraal netwerk](images/nn_architecture_algo_1.png)
-![Voorbeeld van agoritme van een neuraal netwerk](images/nn_architecture_algo2.png)
-![Voorbeeld van agoritme van een neuraal netwerk](images/nn_architecture_weights_algo3.png)
+Het **trainingsalgoritme** zal de gewichten in het netwerk aanpassen op basis van voorbeelddata.
+
+Het **evaluatiealgoritme** zal een voorspelling doen voor een nieuwe afbeelding.
+
+<div class="dwengo-content sideinfo">
+    <h2 class="title">Algoritmische overlap</h2>
+    <div class="content">
+        Bij veel AI-systemen zoals neurale netwerken is het evaluatiealgoritme een onderdeel van het trainingsalgoritme. Dat komt omdat je bij het trainen moet weten hoe goed het model al werkt. Daarvoor zijn dus tussentijdse evaluaties nodig.
+    </div>
+</div>
