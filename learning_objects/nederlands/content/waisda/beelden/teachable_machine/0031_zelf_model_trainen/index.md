@@ -22,4 +22,4 @@ teacher_exclusive: False
 
 Nu je weet wat transfer learning is, ben je klaar om het zelf eens uit te proberen. Klik daarvoor op de "Open Notebook" knop en werk verder in de Python notebook.
 
-[![](images/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0101_en "Notebook transfer learning")
+[![](images/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_teachable_machine "Notebook transfer learning")
