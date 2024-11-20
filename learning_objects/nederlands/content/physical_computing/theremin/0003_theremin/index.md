@@ -38,7 +38,7 @@ Aan de basis van heel wat muziek ligt een pentatoniek, een tonenreeks van vijf t
 
 > Volgens de Britse componist Howard Goodall is de pentatoniek een universeel gegeven: “Elk muzieksysteem in de hele wereld deelt deze vijf noten. Het lijkt alsof deze noten, net als ons instinct voor taal, in de mens ingebakken zitten.”
 
-![](@youtube/https://www.youtube.com/embed/jpvfSOP2slk "pentatoniek")
+![](@youtube/https://www.youtube.com/embed/PnbOWi6f_IM?si=CXcosxuHx84MdyKx "pentatoniek")
 
 Met een beetje programmeerkennis kan je je Dwenguino omtoveren tot een heus pentatonisch instrument: hiervoor koppel je elk van de vijf drukknoppen (N, E, S, W en C) aan een bepaalde toon. 
 
