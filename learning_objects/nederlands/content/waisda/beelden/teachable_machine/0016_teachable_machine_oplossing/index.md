@@ -6,7 +6,7 @@ title: "Teachable machine (oplossing)"
 description: "Hoe werkt de Teachable machine van Google."
 keywords: ["Neurale netwerken", "Imagenet", "Teachable machine", "fine tuning"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 6
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
