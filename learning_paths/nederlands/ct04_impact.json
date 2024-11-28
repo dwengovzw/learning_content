@@ -145,6 +145,21 @@
     {
       "learningobject_hruid": "ct04_09",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct04_10",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct04_10",
+      "version": "3",
       "language": "nl"
     } 
   ]
