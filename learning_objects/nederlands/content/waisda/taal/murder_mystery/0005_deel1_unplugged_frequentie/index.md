@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-taal-murder-mystery-deel1-unplugged
 version: 1
 language: nl
-title: "Deel 1: frequentianalyse"
+title: "Deel 1: frequentieanalyse"
 description: "CSUnplugged activiteit over frequentieanalyse"
 keywords: ["auteursherkenning", "frequentieanalyse"]
 content_type: "text/markdown"
