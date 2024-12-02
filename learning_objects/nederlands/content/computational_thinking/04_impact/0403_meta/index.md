@@ -36,33 +36,33 @@ De teksten die ChatGPT (3.5) genereert, zijn niet altijd correct.
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. Werking ChatGPT 
+- Werking ChatGPT 3.5
     - Prompt 'begrijpen'.
     - Als een bepaalde tekst aan ChatGPT wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt.
     - ChatGPT werkt in een dialoogvorm.
     - ChatGPT is heel snel.
-2. Training ChatGPT
+- Training ChatGPT 3.5
     - Vertrekken van een groot taalmodel dat heeft leren genereren a.d.h.v. teksten tot begin 2021
-        - massa's digitale teksten, bv. Wikipedia, Reddit, websites en Engelstalige boeken 
+        - Massa's digitale teksten, bv. Wikipedia, Reddit, websites en Engelstalige boeken 
     - Leren omgaan met dialoog
-        - oorspronkelijke dataset werd vermengd met conversaties die opgemaakt werden door mensen
+        - Oorspronkelijke dataset werd vermengd met conversaties die opgemaakt werden door mensen
     - Kenmerken menselijke antwoorden detecteren. 
     - Leren 'menselijkere' antwoorden genereren.
     - Zoveel mogelijk vermijden dat ChatGPT racistische, seksistische teksten, of haatspraak zou gaan genereren.
-3. ChatGPT heeft geen toegang tot het internet.
-4. Eenvoudige interface
-5. Ontwikkelaars gebruiken input van gebruikers om het systeem te verbeteren.
+- ChatGPT 3.5 heeft geen toegang tot het internet.
+- Eenvoudige interface
+- Ontwikkelaars gebruiken input van gebruikers om het systeem te verbeteren.
 </decomposition>
 <patternRecognition>
-1. Een groot taalmodel werkt op basis van *Natural Language Processing* (NLP); het zal natuurlijke taal begrijpen en genereren a.d.h.v. **patronen**.
-2. Toepassingen, zoals automatische vertaling en zoekachines, zijn net als ChatGPT gebaseerd op grote taalmodellen. (**patroonherkenning**)
+- Een groot taalmodel werkt op basis van *Natural Language Processing* (NLP); het zal natuurlijke taal begrijpen en genereren a.d.h.v. **patronen**.
+- Toepassingen, zoals automatische vertaling en zoekachines, zijn net als ChatGPT gebaseerd op grote taalmodellen. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Woorden, zinsdelen, zinnen, paragrafen zijn gerepresenteerd als *vectoren* die rekening houden met 'veel samen voorkomen', de betekenis, ...,  maar worden zo ook uit hun context gerukt. Als een bepaalde tekst aan ChatGPT wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt. *Hij houdt daarmee dus geen rekening met het waarheidsgehalte*. (**abstractie**)<br>
+Woorden, zinsdelen, zinnen, paragrafen zijn gerepresenteerd als *vectoren* die rekening houden met 'veel samen voorkomen', de betekenis, ...,  maar worden zo ook uit hun context gerukt. Als een bepaalde tekst aan ChatGPT 3.5 wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt. *Hij houdt daarmee dus geen rekening met het waarheidsgehalte*. (**abstractie**)<br>
 </abstraction>
 <algorithms>
-- ChatGPT is ontstaan uit een groot taalmodel GPT-3.5 (Generative Pre-trained Transformer), een model dat geleerd heeft uit voorbeelden (*gesuperviseerd leren*). Voor de training van GPT 3.5 werden machine learning **algoritmes** gebruikt, waaronder NLP. 
-- Men heeft mensen door ChatGPT gegenereerde teksten laten ordenen van minder goed naar best. Op basis daarvan werd er *ongesuperviseerd* een scoresysteem ontwikkeld. 
-- A.d.h.v. dat scoresysteem werd ChatGPT via *versterkend leren* getraind op het 'menselijker' antwoorden op prompts.
+- ChatGPT 3.5 is ontstaan uit een groot taalmodel GPT-3.5 (Generative Pre-trained Transformer), een model dat geleerd heeft uit voorbeelden (*gesuperviseerd leren*). Voor de training van GPT 3.5 werden machine learning **algoritmes** gebruikt, waaronder NLP. 
+- Men heeft mensen door ChatGPT 3.5 gegenereerde teksten laten ordenen van minder goed naar best. Op basis daarvan werd er *ongesuperviseerd* een scoresysteem ontwikkeld. 
+- A.d.h.v. dat scoresysteem werd ChatGPT 3.5 via *versterkend leren* getraind op het 'menselijker' antwoorden op prompts.
 - Bijkomende training om racisme, seksisme en haatspraak te vermijden.<br>
 </algorithms>
