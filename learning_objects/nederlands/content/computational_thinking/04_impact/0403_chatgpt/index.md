@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# ChatGPT
+# ChatGPT 3.5
 
 In november 2022 lanceerde OpenAI ChatGPT. En hoewel GPT er al is sinds 2018 en toepassingen op grote taalmodellen al enige tijd aanwezig zijn op het world wide web, kwamen velen tot het besef dat kunstmatige intelligentie toch geen sciencefiction is. <br>
 Sindsdien staan de kranten er vol van en wordt de ene na de andere (commerciële) toepassing ontwikkeld. ChatGPT heeft reeds toepassingen in verschillende domeinen, zoals het aanwerven van nieuw personeel en het automatisch genereren van nieuwssites. Tegelijkertijd brengt ChatGPT ook zorgen met zich mee, zoals het verspreiden van desinformatie.<br>
@@ -49,19 +49,19 @@ In dit leerpad ga je dieper in op een van de aspecten van ChatGPT: een aspect da
 
 ## Bespreking van de impact
 
-- ChatGPT kent verschillende aspecten: het taalmodel waarop het gebaseerd is, de trainingsdata en de interface die mensen gebruiken om met het model te communiceren.
+- ChatGPT 3.5 kent verschillende aspecten: het taalmodel waarop het gebaseerd is, de trainingsdata en de interface die mensen gebruiken om met het model te communiceren.
 - Om een taalmodel te trainen is veel energie nodig; ook dat is een aspect om bij stil te staan. Ook het gebruiken van ChatGPT vergt energie.
-- Omdat ChatGPT werkt in een dialoogvorm, is het systeem zeer toegankelijk. Door de gelijkenissen met een app zoals bv. Whatsapp, komt ChatGPT heel vertrouwd over. Die toegankelijkheid is een van de redenen dat ChatGPT zoveel gebruikt wordt.
-- ChatGPT dient eigenlijk om teksten te genereren. Gebaseerd op een groot taalmodel is ChatGPT ook geschikt voor bijvoorbeeld het samenvatten van teksten, teksten om te zetten in een andere stijl, te herschrijven voor een andere doelgroep en te vertalen.
-- Mensen gebruiken ChatGPT echter ook voor zaken waar het systeem niet voor ontworpen is:
+- Omdat ChatGPT 3.5 werkt in een dialoogvorm, is het systeem zeer toegankelijk. Door de gelijkenissen met een app zoals bv. WhatsApp, komt ChatGPT heel vertrouwd over. Die toegankelijkheid is een van de redenen dat ChatGPT zoveel gebruikt wordt.
+- ChatGPT 3.5 dient eigenlijk om teksten te genereren. Omdat het gebaseerd is op een groot taalmodel, is ChatGPT ook geschikt voor bijvoorbeeld het samenvatten van teksten, teksten om te zetten in een andere stijl, te herschrijven voor een andere doelgroep en te vertalen.
+- Mensen gebruiken ChatGPT 3.5 echter ook voor zaken waar het systeem niet voor ontworpen is:
     - ChatGPT inzetten als zoekmachine;
     - om wiskundeproblemen op te lossen;
     - om zijn hart bij te luchten (uit onderzoek bleek dat studenten die voordat ChatGPT bestond niet de neiging hadden om te frauderen, dat doorgaans nu ook niet doen, maar dat jongeren wel toevlucht zoeken tot ChatGPT bij emotionele problemen).
 - ChatGPT is zeer snel waardoor iemand met slechte bedoelingen er op korte tijd veel fake nieuws mee kan genereren en vervolgens verspreiden.
-- ChatGPT begrijpt dus geen tekst op een manier dat een mens tekst begrijpt. ChatGPT gebruikt patroonherkenning om natuurlijke taal te begrijpen en te genereren. Het model leert patronen in tekstdata en gebruikt deze om zinnen te vormen die coherent en relevant zijn. Om dat te doen, zal het systeem rekenen. ChatGPT heeft (vooralsnog) geen toegang tot het wereldwijde web en beschikt dus ook niet over de laatste informatie. ChatGPT zal dus zijn beweringen ook niet kunnen staven met bronnen. Het komt dus voor dat ChatGPT 'hallucineert', anders gezegd: onzin verkoopt. (*Als je ChatGPT naar bronnen vraagt, dan zal hij die verzinnen.*)
+- ChatGPT begrijpt dus geen tekst op een manier dat een mens tekst begrijpt. ChatGPT gebruikt patroonherkenning om natuurlijke taal te begrijpen en te genereren. Het model leert patronen in tekstdata en gebruikt deze om zinnen te vormen die coherent en relevant zijn. Om dat te doen, zal het systeem rekenen. ChatGPT 3.5 heeft (vooralsnog) geen toegang tot het wereldwijde web en beschikt dus ook niet over de laatste informatie. ChatGPT 3.5 zal dus zijn beweringen ook niet kunnen staven met bronnen. Het komt dus voor dat ChatGPT 'hallucineert', anders gezegd: onzin verkoopt. (*Als je ChatGPT naar bronnen vraagt, dan zal hij die verzinnen.*)
 - ChatGPT antwoordt op een 'menselijke' manier en komt vriendelijk en hoffelijk over. De stap naar 'vermenselijking', m.a.w. het behandeling van het systeem als een persoon, is dus niet groot.  - Uit een onderzoek van Følstad & Brandtzaeg uit 2020 blijkt dat een chatbotgesprek ook over koetjes en kalfjes kan gaan, of over iemands gevoelens en leven. Sommige gebruikers gaan de uitdaging aan om de chatbot te testen: in hoeverre is de chatbot in staat om als een mens te reageren. Maar voor anderen is de chatbot een manier om de dag door te komen; hoewel
 ze zich ervan bewust zijn dat ze converseren met een machine, wordt de chat aangezien als een waardevolle sociale interactie.
-- Hoewel het systeem op een zelfzekere manier antwoordt, kan je het - vanwege zijn hoffelijke en *pleasing* aard - vaak gemakkelijk overtuigen van een fout (zelf als het er geen is).
+- Hoewel het systeem op een zelfzekere manier antwoordt, kan je het - vanwege zijn hoffelijke en *pleasing* aard - vaak gemakkelijk overtuigen dat hij fout is (zelf als dat niet zo is).
   
 > De meeste chatbots van klantendiensten die er al waren, waren regelgebaseerde systemen. Bij zulke chatbots zijn verschillende scenario’s expliciet
 geprogrammeerd. Dit leidt automatisch tot beperkingen waardoor gebruikers zich moeten aanpassen aan de limieten van het systeem. Bijvoorbeeld als men een vraag aan de chatbot anders formuleert dan geprogrammeerd, dan zal de chatbot de vraag niet herkennen. Zulke chatbots zijn vaak niet populair.
