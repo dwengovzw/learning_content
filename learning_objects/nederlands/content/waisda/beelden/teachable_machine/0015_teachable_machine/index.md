@@ -2,8 +2,8 @@
 hruid: org-dwengo-waisda-beelden-teachable-machine-example
 version: 1
 language: nl
-title: "Teachable machine"
-description: "Hoe werkt de Teachable machine van Google."
+title: "Teachable Machine"
+description: "Hoe werkt de Teachable Machine van Google."
 keywords: ["Neurale netwerken", "Imagenet", "Teachable machine", "fine tuning"]
 content_type: "text/markdown"
 estimated_time: 20
