@@ -25,16 +25,16 @@ teacher_exclusive: True
 
 Je hebt zelf ook wel eens een foto verstuurd naar een vriend via het internet of via je smartphone. Maar heb je er al een bij stilgestaan hoe de computer deze afbeeldingen voorstelt?
 
-Computers, smartphones en andere toestellen zijn verbonden met het internet via een modem en kunnen zo met elkaar communiceren. Om elkaar te kunnen begrijpen, dient die communicatie volgens bepaalde afspraken te verlopen. We noemen deze afspraken een protocol.
+Computers, smartphones en andere toestellen zijn verbonden met het internet via een modem en kunnen zo met elkaar communiceren. Om ervoor te zorgen dat die toestellen elkaar kunnen 'begrijpen', verloopt die communicatie volgens bepaalde afspraken: een protocol.
 
 ## Doel
 
-In deze activiteit zullen de leerlingen zelf een protocol bedenken om een tekening te versturen van de ene plaats naar een andere.
+In deze activiteit bedenken de deelnemers zelf een protocol om een tekening te versturen van de ene plaats naar een andere.
 
 ## Vaardigheden
 
-* Leerlingen leren hoe een digitale afbeelding opgebouwd is uit pixels die je door getallen kan voorstellen. 
-* Leerlingen leren doelgericht communiceren over een probleem. 
-* Leerlingen kunnen oplossingen voor probleemstellingen bedenken en toepassen. 
-* Leerlingen leren problemen in team op te lossen. 
-* Leerlingen werken met natuurlijke getallen.
+* De deelnemers leren hoe een digitale afbeelding opgebouwd is uit pixels die je door getallen kan voorstellen. 
+* De deelnemers leren doelgericht communiceren over een probleem. 
+* De deelnemers kunnen oplossingen voor problemen bedenken en toepassen. 
+* De deelnemers leren problemen oplossen in team. 
+* De deelnemers werken met natuurlijke getallen.
