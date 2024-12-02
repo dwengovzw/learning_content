@@ -2,8 +2,8 @@
 hruid: org-dwengo-waisda-beelden-teachable-machine-example-opl
 version: 1
 language: nl
-title: "Teachable machine (oplossing)"
-description: "Hoe werkt de Teachable machine van Google."
+title: "Teachable Machine (oplossing)"
+description: "Hoe werkt de Teachable Machine van Google."
 keywords: ["Neurale netwerken", "Imagenet", "Teachable machine", "fine tuning"]
 content_type: "text/markdown"
 estimated_time: 6
@@ -18,9 +18,9 @@ target_ages: [14, 15, 16, 17, 18]
 teacher_exclusive: True
 ---
 
-# Teachable machine: oplossing
+# Teachable Machine: oplossing
 
-In onderstaande filmpjes wordt uitgelegd hoe je de Teachable machine van Google kan bijtrainen om je eigen objecten te detecteren.
+De volgende filmpjes tonen hoe je met Teachable Machine van Google een bestaand AI-model kan bijtrainen om je eigen objecten te detecteren.
 
 
 ![](@youtube/https://www.youtube.com/embed/rTg7xpj2SaY?si=iF8YZSXyS-qeCbhM "video")
@@ -29,7 +29,7 @@ In onderstaande filmpjes wordt uitgelegd hoe je de Teachable machine van Google 
 
 ## Alternatieve versies
 
-Kan of wil je school niet met Google producten werken dan bestaan er alternatieve versies van de Teachable Machine. Hieronder vind je daar een overzicht van:
+Kan of wil je school niet met Google producten werken, dan bestaan er alternatieve versies van Teachable Machine. Hieronder vind je daar een overzicht van:
 
-* [De teachable machine in de vrt edubox](https://edubox.vrtnws.be/)
-* [Installeer zelf een eigen versie van de teachable machine via de broncode op github.](https://github.com/googlecreativelab/teachable-machine-v1?tab=readme-ov-file)
+* [De Teachable Machine in de vrt edubox](https://edubox.vrtnws.be/)
+* [Installeer zelf een eigen versie van Teachable Machine via de broncode op GitHub.](https://github.com/googlecreativelab/teachable-machine-v1?tab=readme-ov-file)
