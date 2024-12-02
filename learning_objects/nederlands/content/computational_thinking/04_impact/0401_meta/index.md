@@ -36,22 +36,22 @@ Systeem voor gepersonaliseerde reclame op online platform (aanbevelingsalgoritme
 </context>
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-1. Persoonlijkheidsprofiel van de gebruiker: interesses, opinies, voorkeuren, natuur ... 
-2. Data verzamelen en opslaan over de gebruiker:
+- Persoonlijkheidsprofiel van de gebruiker: interesses, opinies, voorkeuren, natuur ... 
+- Data verzamelen en opslaan over de gebruiker:
     - Socialemediaposts
     - Koopgedrag
     - Klikgedrag  
-3. Profielen van andere gebruikers
-4. Een algoritme om persoonlijkheidskenmerken af te leiden uit taalgebruik (NLP)
-6. Een algoritme om patronen te herkennen in koop- en klikgedrag
-7. Een algoritme om verwante profielen te herkennen  
-8. Een aanbevelingsalgoritme 
+- Profielen van andere gebruikers
+- Een algoritme om persoonlijkheidskenmerken af te leiden uit taalgebruik (NLP)
+- Een algoritme om patronen te herkennen in koop- en klikgedrag
+- Een algoritme om verwante profielen te herkennen  
+- Een aanbevelingsalgoritme 
 </decomposition>
 <patternRecognition>
 Meerdere vormen van **patroonherkenning** komen aan bod:
-- Patronen in koop- en klikgedrag. 
-- Het taalgebruik van de gebruiker analyseren om er persoonlijkheidskenmerken uit af te leiden, zoals leeftijd. 
-- Vergelijken van gebruikers om verwante profielen op te sporen. 
+- Patronen in koop- en klikgedrag 
+- Het taalgebruik van de gebruiker analyseren om er persoonlijkheidskenmerken uit af te leiden, zoals leeftijd 
+- Vergelijken van gebruikers om verwante profielen op te sporen 
 </patternRecognition>
 <abstraction>
 De gebruikers worden herleid tot bepaalde persoonlijkheidskenmerken en hun koop- en klikgedrag (**abstractie**).<br>
