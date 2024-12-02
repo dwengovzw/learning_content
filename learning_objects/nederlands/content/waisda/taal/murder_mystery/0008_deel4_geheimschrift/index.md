@@ -23,7 +23,8 @@ teacher_exclusive: true
 
 # Deel 4: geheimschrift
 
-In het tweede kistje vinden de deelnemers opnieuw een reeks brieven. Deze keer zijn ze echter niet leesbaar, ze zijn geschreven in geheimschrift. In het kistje vinden ze ook een link naar de notebook die ze zullen gebruiken om de brieven te ontcijferen. 
+- In het tweede kistje vinden de deelnemers opnieuw een reeks brieven. Deze keer zijn ze echter niet leesbaar; ze zijn geschreven in geheimschrift.
+- In het kistje vinden ze ook een link naar de notebook waarmee ze de brieven zullen ontcijferen. 
 
 **Documenten**
 * [De brieven](content/Brieven_geheimschrift.pdf)
