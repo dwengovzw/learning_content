@@ -41,8 +41,14 @@ teacher_exclusive: true
 ## Principes van computationeel denken
 
 ![ct-schema](@learning-object/m_ct04_10/nl/3)
- 
+
+
+## Kader impact op de maatschappij
+
+![Kader digitale test](embed/kaderzwangerschapstest.png)
+
 ## Bespreking van de impact
+
 
 -------------------------------
 ## Gerelateerde voorbeelden: 
