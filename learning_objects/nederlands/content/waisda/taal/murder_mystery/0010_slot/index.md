@@ -23,4 +23,4 @@ teacher_exclusive: true
 
 # Slot
 
-In deze activiteit leren deelnemers principes uit verschillende domeinen zoals taaltechnologie en AI. Wil je verdergaan met deze onderwerpen? Bekijk dan zeker de andere activiteiten binnen het wAIsda project.
+In deze activiteit leren deelnemers principes uit verschillende domeinen zoals taaltechnologie en AI. Wil je verdergaan met deze onderwerpen? Bekijk dan zeker de andere activiteiten binnen het wAIsda-project.
