@@ -47,6 +47,14 @@ In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten
 
 ![ct-schema](@learning-object/m_ct04_02/nl/3)
 
+## Visualisatie mogelijke brainstorm in de klas
+
+![diagramRouteplanner](embed/diagramrouteplanner)
+
+## Kader impact op de maatschappij
+(naar model van Michael T. Rücker. 2023. Modeling Conceptual Knowledge of Computing Impacts for K-12.)
+
+![KaderRouteplanner](embed/kaderrouteplanner)
 
 ## Bespreking van de impact
 
@@ -71,15 +79,6 @@ In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten
         - De routeplanner heeft daartoe toegang tot **databanken** van restaurants, winkels, bioscopen, enz. Dat zijn andere databanken dan de strikt noodzakelijke om de routeplanner te doen werken. 
     - Routeplanners kunnen ook rekening houden met zaken die je niet zou verwachten.
       > [Navigatie Mercedes ontwijkt criminele buurten](https://www.ad.nl/auto/navigatie-mercedes-ontwijkt-criminele-buurten~a48a4169/)<br>
--------------------------------
-## Mogelijke visualisatie brainstorm
-
-![diagramRouteplanner](https://github.com/dwengovzw/learning_content/assets/48352335/ef14cb37-92e5-45e5-9215-6b19a9abb1a5)
-
-## Waarden 
-(naar model van Michael T. Rücker. 2023. Modeling Conceptual Knowledge of Computing Impacts for K-12.)
-
-![kader_routeplanner](https://github.com/dwengovzw/learning_content/assets/48352335/12e7ac98-7361-4bd6-8b3c-51e42ad66e8b)
 
 -----
 
