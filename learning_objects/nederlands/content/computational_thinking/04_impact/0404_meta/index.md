@@ -37,24 +37,24 @@ Geeft spraakassistent input aan aanbevelingsalgoritme voor reclame?
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
 - Taaltechnologie
-    - speech-to-tect
-    - text-to-speech
-    - tekst analyseren
-    - tekst genereren
+    - Speech-to-text
+    - Text-to-speech
+    - Tekst analyseren
+    - Tekst genereren
 - Dataopslag
 - Energieverbruik
 - Privacyaspecten
-    - tekstdata worden opgeslagen om te kunnen verwerken
-    - worden de data bewaard?
-    - wie heeft toegang tot de data?
-    - worden de data gedeeld?
-        - bv. verwarming aanzetten m.b.v. Siri vergt samenwerking tussen twee digitale systemen 
-- Manier om assistent te activeren 
-    - gesproken trigger
+    - Tekstdata worden opgeslagen om te kunnen verwerken.
+    - Worden de data bewaard?
+    - Wie heeft toegang tot de data?
+    - Worden de data gedeeld?
+        - Bv. verwarming aanzetten m.b.v. Siri vergt samenwerking tussen twee digitale systemen. 
+- Manier om assistent te activeren: 
+    - gesproken trigger.
 - Aanbevelingsalgoritme voor gepersonaliseerde reclame
 </decomposition>
 <patternRecognition>
-- Gepersonaliseerde reclame gebeurt o.a. op basis van lookalike audiences (via **patroonherkenning** worden aan een persoon dezelfde interesses toegedicht als van iemand met een soortgelijk profiel)
+- Gepersonaliseerde reclame gebeurt o.a. op basis van *lookalike audiences* (via **patroonherkenning** worden aan een persoon dezelfde interesses toegedicht als van iemand met een soortgelijk profiel)
 </patternRecognition>
 <abstraction>
 (**abstractie**)<br>
