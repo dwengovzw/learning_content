@@ -36,9 +36,7 @@ Dat profiel kan bv. de interesses, de opinies, de natuur en de voorkeuren van ie
 Het gebruik van een persoonlijkheidprofiel kan op meerdere manieren een impact hebben op de gebruikers van het platform. Gepersonaliseerde reclame is er een voorbeeld van. 
 
 **Impact: gepersonaliseerde reclame**<br>
-Bedrijven bestuderen socialemediaposts om een idee te krijgen van iemands persoonlijkheid. Vervolgens de auteur te proberen te overtuigen om tot een bepaalde aankoop over te gaan, gebruikmakend van die informatie. Het is een manier om reclame te personaliseren. Zo komt men ertoe diensten en producten aan te bevelen. <br>
-Aan de hand van het profiel van de gebruiker worden gepersonaliseerde reclame en gepersonaliseerd nieuws aan de gebruiker aangeboden. Aanbevelingsalgoritmes kunnen zo bijvoorbeeld een sterke invloed uitoefenen op het online shopgedrag (e-commerce).
- 
+Bedrijven bestuderen socialemediaposts om een idee te krijgen van iemands persoonlijkheid. Vervolgens proberen ze, gebruikmakend van die informatie, de gebruiker te overtuigen om tot een bepaalde aankoop over te gaan. Het is een manier om reclame te personaliseren. Zo komt men ertoe diensten en producten aan te bevelen a.d.h.v. aanbevelingsalgoritmes. Aanbevelingsalgoritmes kunnen een sterke invloed uitoefenen op het online shopgedrag (e-commerce). 
 
 ## Principes van computationeel denken
 
@@ -46,7 +44,7 @@ Aan de hand van het profiel van de gebruiker worden gepersonaliseerde reclame en
 
 ## Kader
 
-![image](https://github.com/dwengovzw/learning_content/assets/48352335/0be9368c-c0ef-4d74-8e21-f2a60855b47b)
+![image](embed/kaderprofilering.png)
 
 
 ## Bespreking van de impact
@@ -72,13 +70,10 @@ Schwartz, H., Eichstaedt, J., Kern, M., Dziurzynski, L., Ramones, S., Agrawal, M
 and Age in the Language of Social Media: The Open-Vocabulary Approach. *PLOS ONE, 8*(9).
 
 
-
-
-
-
 -------------------------------
 ## Gerelateerde voorbeelden: 
 
+Aan de hand van het profiel van de gebruiker op bv. nieuwssites wordt ook gepersonaliseerd nieuws aan die gebruiker aangeboden.<br> 
 Omdat aanbevelingsalgoritmes ook steeds meer gebruikt worden op **websites van online kranten** en ook het resultaat van een **zoekmachine** steeds meer gepersonaliseerd wordt, is men best alert voor de **filterbubbel**. Als men onderhevig is aan een filterbubbel kan het beeld dat men heeft van de wereld misvormd zijn. Als men bv. wil leren over een onderwerp waar men niet vertrouwd mee is, dan kan men door zo’n bubbel een ongenuanceerd beeld krijgen.
 
 Voor **human resources** is de persoonlijkheid van een sollicitant een interessant gegeven, sommige types zijn immers beter geschikt voor een bepaalde functie dan andere (De Gussem & Daelemans, 2020).<br>
