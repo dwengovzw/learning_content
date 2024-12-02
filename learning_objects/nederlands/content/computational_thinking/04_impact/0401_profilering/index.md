@@ -42,10 +42,9 @@ Bedrijven bestuderen socialemediaposts om een idee te krijgen van iemands persoo
 
 ![ct-schema](@learning-object/m_ct04_01/nl/3)
 
-## Kader
+## Kader impact op de maatschappij
 
 ![image](embed/kaderprofilering.png)
-
 
 ## Bespreking van de impact
 
