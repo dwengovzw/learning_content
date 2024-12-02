@@ -2,8 +2,8 @@
 hruid: m_ct04_10
 version: 3
 language: nl
-title: "Sentimentanalyse"
-description: "Sentimentanalyse"
+title: "Zwangerschapstest"
+description: "Zwangerschapsteste"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,22 +31,45 @@ teacher_exclusive: true
 ---
 
 <context>
-... 
-</div>
+Een zwangerschapstest kan je gemakkelijk zelf thuis uitvoeren. Je vindt deze in niet-digitale en digitale vorm. De digitale versie bevat een microcontroller en een display. Ontrafel de werking van een digitale zwangerschapstest. Vergelijk dit met een niet-digitale zwangerschapstest.  
 </context>
 <decomposition>
-... 
+<strong>Decompositie:</strong><br>
+<ol>
+    <li>Wat is de invoer en wat is de uitvoer bij het uitvoeren van de test.</li>
+    <li>Wat is de rol van de computer hierin?</li>
+    <li>Hoe verschilt dit van een niet-digitale zwangerschapstest?</li>
+</ol>
 </decomposition>
 <patternRecognition>
-... 
+Het gebruik van een niet-digitale en een digitale zwangerschapstest verloopt op quasi dezelfde manier. (<strong>patroonherkenning</strong>)<br> 
+<ul>
+    <li>Bij beide is de invoer een urinestaal.</li>
+    <li>Bij beide is de uitvoer een boodschap.</li>
+    <li>Bij beide reageert het urinestaal al dan niet op een bepaalde stof die aanwezig is in het meettoestel.</li>
+</ul>
 </patternRecognition>
 <abstraction>
-... 
+Het al dan niet zwanger zijn, wordt bij een zwangerschapstest weergegeven door een <strong>symbool</strong>: één of twee streepjes, een plus- of een minteken, … (<strong>abstractie</strong>)
 </abstraction>
 <algorithms>
-... 
+<strong>Algoritme bij de digitale test:</strong><br>  
+ALS de urine reageert met de stof DAN<br>
+&nbsp;&nbsp;&nbsp;&nbsp;toon boodschap + op het scherm <br>
+ANDERS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;toon boodschap - op het scherm<br>
+EINDE ALS<br>
+ALS de test niet goed uitgevoerd is DAN<br>
+&nbsp;&nbsp;&nbsp;&nbsp;geef een foutboodschap op het scherm<br>
+EINDE ALS<br>
+
+<strong>Algoritme bij de niet-digitale test:</strong><br>
+ALS de urine reageert met de stof DAN <br>
+&nbsp;&nbsp;&nbsp;&nbsp;verschijnen er twee streepjes<br>
+ANDERS<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;is er slechts één streepje (het controlestreepje)<br>
+EINDE ALS
+
+Het uitvoeren van de test zelf verloopt ook volgens een stappenplan (zowel bij de digitale als bij de niet-digitale test). 
 </algorithms>
-<implementation>
-... 
-</implementation>
 
