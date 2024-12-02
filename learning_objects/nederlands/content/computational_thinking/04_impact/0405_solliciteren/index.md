@@ -36,7 +36,7 @@ Solliciteren is eigenlijk al grondig veranderd toen werkgevers toekomstige werkn
 
 **Impact: Nieuwe manieren van solliciteren**<br>
 
-De digitalisering heeft al behoorlijk wat impact op het solliciteren. Dankzij AI kan men op sommige platforms interessante vacatures in de mailbox krijgen. Nieuwe vormen van soliciteren steken de kop op, zoals het inzetten van videointerviews. Bovendien moeten sollicitanten rekening houden met profilering en met het feit dat wat op socialemediaplatformen gepost wordt, er
+De digitalisering heeft al behoorlijk wat impact op het solliciteren. Dankzij AI kan je op sommige platforms interessante vacatures in de mailbox krijgen. Nieuwe vormen van soliciteren steken de kop op, zoals het inzetten van videointerviews. Bovendien moet je als sollicitant rekening houden met profilering en met het feit dat wat op socialemediaplatformen gepost wordt, er
 binnen enkele jaren nog steeds te vinden is. 
 
 
@@ -49,83 +49,32 @@ binnen enkele jaren nog steeds te vinden is.
  Op basis van socialemediaposts en sollicitatiebrieven wordt er immers ook aan profilering gedaan. 
 
 Een Gents bedrijf werkt aan een AI-systeem dat uit sollicitatiebrieven beslist in welke mate de auteur geschikt is voor de job. Het systeem leidt daartoe persoonlijkheidskenmerken af uit wat
-de sollicitant schreef.
-Leerlingen beseffen dat wat op socialemediaplatformen gepost wordt, er
-binnen enkele jaren als zij gaan solliciteren nog steeds te vinden is.
-Dankzij AI kan men op sommige platforms interessante vacatures in de mailbox krijgen. 
-Maar krijgt men
-wel alle vacatures te zien waarin men geïnteresseerd
-is? Tot 2018 gebruikte Amazon een sterk bejubeld maar
-ondertussen afgevoerd AI-systeem om sollicitanten te
-beoordelen. Het systeem selecteerde geen vrouwen
-voor technologische posities. Het was immers getraind
-met historische data: sollicitanten van de voorbije 10
-jaar, voornamelijk mannen aangezien zij nog steeds de
-technologiewereld domineren. Een Gents bedrijf werkt
-aan een AI-systeem dat uit sollicitatiebrieven beslist in
-welke mate de auteur geschikt is voor de job. Het systeem leidt daartoe persoonlijkheidskenmerken af uit wat
-de sollicitant schreef. Sommige bedrijven maken om
-nieuw personeel aan te werven, gebruik van een videointerview, dat ganalyseerd wordt door een algoritme.
-Daarbij wordt niet enkel rekening gehouden met wat
-de sollicitant zegt, maar ook met gelaatsuitdrukkingen
-bijvoorbeeld.
+de sollicitant schreef. <br>
+Dankzij AI kan je op sommige platforms interessante vacatures in de mailbox krijgen. 
+Maar krijg je wel alle vacatures te zien waarin je geïnteresseerd bent? Tot 2018 gebruikte Amazon een sterk bejubeld maar ondertussen afgevoerd AI-systeem om sollicitanten te
+beoordelen. Het systeem selecteerde geen vrouwen voor technologische posities. Het was immers getraind met historische data: sollicitanten van de voorbije 10 jaar, voornamelijk mannen aangezien zij nog steeds de technologiewereld domineren. <br>
+Sommige bedrijven maken om nieuw personeel aan te werven, gebruik van een videointerview, dat ganalyseerd wordt door een algoritme.
+Daarbij wordt niet enkel rekening gehouden met wat de sollicitant zegt, maar ook met gelaatsuitdrukkingen bijvoorbeeld.
 
+In het Chatbot-project worden voorbeelden gegeven van nieuwe praktijken die steeds meer hun weg vinden naar de sector van human resource, zoals het screenen van sociale media. Leerlingen beseffen dat wat op socialemediaplatformen gepost wordt, er binnen enkele jaren als zij gaan solliciteren nog steeds te vinden is.
 
+Maar het gaat al veel verder dan dat. Unilever bijvoorbeeld, start een sollicitatieprocedure met het verplicht indienen van een filmpje, wat dan door een AI-systeem wordt geanalyseerd. Men zegt dat het systeem er de meest gemotiveerde en geschikte kandidaten voor de job uithaalt (Oostra, 2019; Wall Street Journal, 2018).<br>
+Het Gentse bedrijf Traicie werkt aan een AI-systeem dat op basis van sollicitatiebrieven beslist in welke mate de auteur over de vaardigheden beschikt vereist voor een bepaalde job. Het systeem leidt daartoe persoonlijkheidskenmerken af uit wat de sollicitant schreef en zegt daarvoor een unbiased systeem te gebruiken.
+Voor human resources is de persoonlijkheid van een sollicitant een interessant gegeven, sommige types zijn immers beter geschikt voor een bepaalde functie dan andere (De Gussem & Daelemans, 2020).
 
-In het Chatbot-project worden voorbeelden gegeven van nieuwe praktijken die steeds
-meer hun weg vinden naar de sector van human resource, zoals het screenen van
-sociale media. Leerlingen beseffen dat wat op socialemediaplatformen gepost wordt, er
-binnen enkele jaren als zij gaan solliciteren nog steeds te vinden is.
-
-Maar het gaat al veel verder dan dat. Unilever bijvoor- Bekijk de video ‘The Robots Are
-Now Hiring’ (zie Kijktip). beeld, start een sollicitatieprocedure met het verplicht
-indienen van een filmpje, wat dan door een AI-systeem
-wordt geanalyseerd. Men zegt dat het systeem er de
-meest gemotiveerde en geschikte kandidaten voor de
-job uithaalt (Oostra, 2019; Wall Street Journal, 2018).
-Het Gentse bedrijf Traicie werkt aan een AI-systeem
-dat op basis van sollicitatiebrieven beslist in welke mate
-de auteur over de vaardigheden beschikt vereist voor
-een bepaalde job. Het systeem leidt daartoe persoonlijkheidskenmerken af uit wat de sollicitant schreef en
-zegt daarvoor een unbiased systeem te gebruiken.
-Voor human resources is de persoonlijkheid van een
-sollicitant een interessant gegeven, sommige types zijn
-immers beter geschikt voor een bepaalde functie dan
-andere (De Gussem & Daelemans, 2020).
-
-> **Leestips:**<br>
-
-
+> **Opdrachten**<br>
 
 Bekijk de video (De Winne, 2020):
 https://kanaalz.knack.be/nieuws/taalgebruik-op-cv-onthultpersoonlijkheid/video-normal-1678309.html.
-Bezoek ook de website https://traicie.com/ en bespreek de objectiviteit
-van het systeem.
+Bezoek ook de website https://traicie.com/ en bespreek de objectiviteit van het systeem.
 
-In de volgende video worden de nieuwe tendensen bij het aanwerven van
-personeel aangehaald (Wall Street Journal, 2018):
+In de volgende video worden de nieuwe tendensen bij het aanwerven van personeel aangehaald (Wall Street Journal, 2018):
 https://youtu.be/8QEK7B9GUhM
 Bespreek.
 
 
-
-
--  
-    - 
-
-
-Bias komt voor als de data niet representatief zijn. Als men bv. enkel groene
-appels als voorbeelden geeft aan een DL-systeem, dan zal het model geen
-rode appels herkennen. Of als men bij de training enkel foto’s van honden
-onder een stralend blauwe hemel aanbiedt, dan zal het DL-model een hond in
-de regen niet bij de klasse ’hond’ indelen. Als de gebruikte data gekleurd zijn
-door een aanwezige bias in de maatschappij, zoals stereotypen, dan zal dit ook
-doorgegeven worden aan het ML-systeem. Men moet er dus over waken dat
-het model daardoor niet discriminerend wordt voor bepaalde bevolkingsgroepen.
-Als men bv. enkel vrouwelijke verplegers in de dataset stopt, dan zullen mannen
-niet als verpleger worden geclassificeerd. Een model wordt nochtans getest
-voor het in gebruik genomen wordt. De testdata kunnen echter dezelfde bias
-bevatten als de trainingdata.
+Bias komt voor als de data niet representatief zijn. Als men bv. enkel groene appels als voorbeelden geeft aan een DL-systeem, dan zal het model geen rode appels herkennen. Of als men bij de training enkel foto’s van honden onder een stralend blauwe hemel aanbiedt, dan zal het *deep learning*-model een hond in de regen niet bij de klasse 'hond' indelen. Als de gebruikte data gekleurd zijn door een aanwezige bias in de maatschappij, zoals stereotypen, dan zal dit ook doorgegeven worden aan het ML-systeem. Men moet er dus over waken dat het model daardoor niet discriminerend wordt voor bepaalde bevolkingsgroepen. Als men bv. enkel vrouwelijke verplegers in de dataset stopt, dan zullen mannen niet als verpleger worden geclassificeerd. Een model wordt nochtans getest
+voor het in gebruik genomen wordt. De testdata kunnen echter dezelfde bias bevatten als de trainingdata.
 
 -------------------------------
 ## Gerelateerde voorbeelden: 
@@ -136,3 +85,5 @@ bevatten als de trainingdata.
 Kijk naar [Filmpje van Kanaal Z (De Winne, 2020)](https://kanaalz.knack.be/nieuws/taalgebruik-op-cv-onthultpersoonlijkheid/video-normal-1678309.html)
 
 Bekijk de [video van Furhat Robotics: Unbiased Recruiter Robot (Furhat Robotics, 2018)](https://youtu.be/rPKrdxiEkQ0)
+
+Bekijk de video ‘The Robots Are Now Hiring’.
