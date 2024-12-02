@@ -22,4 +22,4 @@ target_ages: [14, 15, 16, 17, 18]
 
 # Aan de slag
 
-De leerkracht voorziet voor jou het nodige materiaal om het mysterie op te lossen. Veel plezier!
+De begeleider voorziet voor jou het nodige materiaal om het mysterie op te lossen. Veel plezier!
