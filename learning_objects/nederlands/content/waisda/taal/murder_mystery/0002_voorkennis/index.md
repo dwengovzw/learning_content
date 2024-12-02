@@ -22,6 +22,6 @@ target_ages: [14, 15, 16, 17, 18]
 
 # Voorkennis
 
-Voor deze activiteit kan het nuttig zijn om wat programmeerkennis te hebben. We werken met Python, maar als je ervaring hebt met een andere programmeertaal zou dat ook voldoende moeten zijn. Wil je zeker zijn dat je voldoende Pythonkennis hebt voor deze activiteit, dan kan je zelfstandig [ons lesmateriaal over Python](https://dwengo.org/python_programming/) doorlopen.
+Voor deze activiteit kan het nuttig zijn om wat programmeerkennis te hebben. Je werkt hier met Python, maar als je ervaring hebt met een andere programmeertaal zou dat ook voldoende moeten zijn. Wil je zeker zijn dat je voldoende Python-kennis hebt voor deze activiteit, dan kan je zelfstandig [het lesmateriaal over Python](https://dwengo.org/python_programming/) doorlopen.
 
-Verder maken we voor deze activiteit gebruik van online Python notebooks. Dit is een eenvoudig platform waarmee je gratis, en zonder iets te installeren, Python code kan uitvoeren. Wil je weten hoe je met zo'n notebook moet werken, dan kan je terecht op [onze website](https://dwengo.org/learning-path.html?hruid=pn_werking&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#pn_werkingnotebooks;nl;3).
+Verder maak je voor deze activiteit gebruik van Jupyter Notebook. Dit is een eenvoudig onlineplatform waarmee je gratis, en zonder iets te installeren, Python-code kan uitvoeren in een interactieve Python notebook. Wil je weten hoe je met zo'n notebook moet werken, dan kan je [hier op de website](https://dwengo.org/learning-path.html?hruid=pn_werking&language=nl&te=true&source_page=%2Fkiks%2F&source_title=%20KIKS#pn_werkingnotebooks;nl;3) terecht.
