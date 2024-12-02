@@ -22,11 +22,11 @@ target_ages: [14, 15, 16, 17, 18]
 
 # Emoties tekenen
 
-Je krijgt van je begeleider een A3 blad met het volgende raster.
+Je krijgt van je begeleider een A3-blad met hetvolgende raster.
 
 ![](images/raster.svg)
 
-Kies een emotie, *blij* of *verbaasd* en teken het raster vol met smileys met die gekozen emotie. Koos je bijvoorbeeld voor *blij*, dan zou je ingevulde raster er als volgt uit kunnen zien:
+Kies een emotie, *blij* of *verbaasd*, en teken het raster vol met smileys met die gekozen emotie. Koos je bijvoorbeeld voor *blij*, dan zou je ingevulde raster er als volgt kunnen uitzien:
 
 ![](images/voorbeeld_raster_blij.jpg)
 
