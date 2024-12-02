@@ -34,7 +34,7 @@ teacher_exclusive: true
 Spoedgevallendiensten en huisartsen zijn vaak overbevraagd. Het zal bovendien jou maar overkomen dat je net in het weekend ziek wordt. Moet je de huisartsenwachtpost dan contacteren, naar de spoedgevallendienst gaan of kan je wachten tot maandag? <br>
 Om aan deze problemen tegemoet te komen, ontwikkelde men een digitale toepassing: "Moet ik naar de dokter?". <br>
 Word je bijvoorbeeld ziek in het weekend, dan beantwoord je de vragen van "Moet ik naar de dokter?" en krijg je op het einde een gepast advies. <br>
-"Moet ik naar de dokter?" werkt op basis van een beslissingsboo, maar hoe stellen we gelabelde data uit de zorgsector voor op een manier die geschikt is om er beslissingen mee te nemen betreffende een diagnose of een behandeling?
+"Moet ik naar de dokter?" werkt op basis van een beslissingsboom, maar hoe stel je gelabelde data uit de zorgsector voor op een manier die geschikt is om er beslissingen mee te nemen betreffende een diagnose of een behandeling?
 </div>
 </context>
 <decomposition>
