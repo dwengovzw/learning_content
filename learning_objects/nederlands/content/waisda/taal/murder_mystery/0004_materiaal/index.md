@@ -31,7 +31,7 @@ Per groepje heb je hetvolgende materiaal nodig:
 * Een hangslot met verstelbare code van 3 cijfers.
 * Een hangslot met verstelbare code van 4 cijfers.
 * Een afdruk van de hints voor unplugged activiteit 1 ([Personages](content/Personages.pdf), [Gesprek](content/Gesprek.pdf)).
-* Een afdruk van de hints voor unplugged activiteit 2 ([ASCII tabel](content/ASCII_tabel_hint.pdf)).
+* Een afdruk van de hints voor unplugged activiteit 2 ([ASCII-tabel](content/ASCII_tabel_hint.pdf)).
 * Een afdruk van de links naar de Python notebooks ([Link notebook auteurherkenning](content/Notebook_auteursherkenning.pdf), [Link notebook geheimschrift](content/Notebook_geheimschrift.pdf)).
 * Een afdruk van de brieven voor auteursherkenning ([Brieven](content/Brieven.pdf)).
 * Een afdruk van het testament ([Testament](content/Testament.pdf))
