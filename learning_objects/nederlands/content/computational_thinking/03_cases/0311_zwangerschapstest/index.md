@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 # Zwangerschapstest
 
-**De werking vam een digitale zwangerschapstest bestuderen en deze test vergelijken met een niet-digitale test.**
+**De werking van een digitale zwangerschapstest bestuderen en deze test vergelijken met een niet-digitale test.**
 
 Op de markt zijn zwangerschapstesten zowel in niet-digitale als in digitale vorm te vinden. De digitale zijn aanzienlijk duurder. De leerlingen vergelijken de werking van beide systemen. Vervolgens kan klassikaal besproken worden wat de voor- en nadelen van beide systemen zijn en of de meerkost de moeite loont. 
 
@@ -40,7 +40,9 @@ Op de markt zijn zwangerschapstesten zowel in niet-digitale als in digitale vorm
 
 **Vak:** PAV
 
-**Voorkennis:** De leerlingen kennen begrippen als input en output en maakten reeds kennis met keuzestructuren (ALS-DAN-constructies).
+**Voorkennis:** 
+- De leerlingen kennen begrippen als invoer en uitvoer.
+- Ze maakten reeds kennis met keuzestructuren (ALS-DAN-constructies).
 
 ![ct-schema](@learning-object/m_ct03_11/nl/3)
 
@@ -48,5 +50,6 @@ Op de markt zijn zwangerschapstesten zowel in niet-digitale als in digitale vorm
 
 -----
 
-Eventuele aanvulling: deze context kan gebruikt worden om het te hebben over **valpositieven** en **valsnegatieven**.
-
+Eventuele aanvulling: 
+- Deze context kan gebruikt worden om het te hebben over **valspositieven** en **valsnegatieven**.
+- Deze context kan ook gebruikt worden om te werken aan het [mediawijs minimumdoel over de impact van digitale systemen op de maatschappij](https://dwengo.org/learning-path.html?hruid=ct9_impact&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20denken#ct04_00;nl;3).
