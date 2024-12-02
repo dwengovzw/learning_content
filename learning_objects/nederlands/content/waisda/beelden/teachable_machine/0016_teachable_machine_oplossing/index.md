@@ -31,5 +31,5 @@ De volgende filmpjes tonen hoe je met Teachable Machine van Google een bestaand 
 
 Kan of wil je school niet met Google producten werken, dan bestaan er alternatieve versies van Teachable Machine. Hieronder vind je daar een overzicht van:
 
-* [De Teachable Machine in de vrt edubox](https://edubox.vrtnws.be/)
+* [De Teachable Machine in de VRT EDUbox](https://edubox.vrtnws.be/)
 * [Installeer zelf een eigen versie van Teachable Machine via de broncode op GitHub.](https://github.com/googlecreativelab/teachable-machine-v1?tab=readme-ov-file)
