@@ -23,7 +23,9 @@ teacher_exclusive: true
 
 # Deel 2: auteursherkenning
 
-In het kistje vinden de deelnemers een reeks brieven aan Heloisa. Deze brieven komen van verschillende personen. Daarnaast vinden ze ook nog het testament van Heloisa. Door een frequentieanalyse te doen op de documenten, achterhalen ze wie het testament van Heloisa geschreven heeft.
+- In het kistje vinden de deelnemers een reeks brieven aan Heloisa. Deze brieven komen van verschillende personen.
+- Daarnaast vinden ze ook nog het testament van Heloisa.
+- Door een frequentieanalyse te doen op de documenten, achterhalen ze wie het testament van Heloisa geschreven heeft.
 
 **Documenten**
 * [Het testament](content/Testament.pdf)
