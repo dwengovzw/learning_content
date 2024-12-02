@@ -32,12 +32,12 @@ teacher_exclusive: true
 # Spraakassistent en reclame
 
 Gebruiken we binnen afzienbare tijd allemaal een spraakassistent? Sinds de komst van ChatGPT zijn steeds meer mensen daarvan overtuigd. <br>
-reeds enkele jaren kunnen we reeds een beroep doen op spraakassistenten, zoals Siri, Alexa of Google assistent. Sommigen maken er dankbaar gebruik van om in de auto iemand op te bellen, om thuis de verwarming aan te steken of om te vragen naar het weerbericht. Mensen die zich eenzaam voelen vinden in een spraakassistent een gesprekspartner. Zo'n *voice assistent* kan dus op meerder manieren impact hebben. <br>
+reeds enkele jaren kunnen we reeds een beroep doen op spraakassistenten, zoals Siri, Alexa of Google assistent. Sommigen maken er dankbaar gebruik van om in de auto iemand op te bellen, om thuis de verwarming aan te steken of om te vragen naar het weerbericht. Mensen die zich eenzaam voelen, vinden in een spraakassistent een gesprekspartner. Zo'n *voice assistant* kan dus op meerdere manieren impact hebben. <br>
 Hieronder wordt een voorbeeld daarvan uitgewerkt.
 
 **Wat is de impact van het gebruik van een spraakassistent op de reclame die we te zien krijgen? Worden we collectief afgeluisterd?**
 
-De volgende vraag hoor je wel vaker: Luisteren spraakassistenten de hele tijd naar wat we zeggen? En doen ze daar dan ook iets mee? Is het toevallig dat ik reclame krijg over een bepaald product, nu ik daar me een vriendin over gesproken heb?<br>
+De volgende vraag hoor je wel vaker: Luisteren spraakassistenten de hele tijd naar wat we zeggen? En doen ze daar dan ook iets mee? Is het toevallig dat ik reclame krijg over een bepaald product, nu ik daar met een vriendin over gesproken heb?<br>
 Om hierop een duidelijk antwoord te kunnen geven, bekijk je eerst enkele aspecten van de werking van zo'n *voice assistant*, zoals Siri, Alexa of Google assistent.   
 
 ## Principes van computationeel denken
@@ -57,14 +57,14 @@ Om hierop een duidelijk antwoord te kunnen geven, bekijk je eerst enkele aspecte
     -  *confirmation bias* (je vermoeden dat je afgeluisterd wordt, is bevestigd door de advertentie);
     -  of je kan het toeschrijven aan *lookalike audiences* (via **patroonherkenning** worden jou dezelfde interesses toegedicht als van iemand met een soortgelijk profiel). 
 -  Ook dit verdient voldoende aandacht: Hoe worden de data die de systemen verzamelen, bewaard, gebruikt, gedeeld en verwijderd?
-    - Een rapport uit 2019 van het Capgemini Research Institute geeft aan dat een goede samenwerking tussen de in-car voice assistant, de home assistant en de digitale assistent op de smartphone van de gebruikers gewenst is. Dan zouden ze bv. met de in-car voice assistant de garagepoort kunnen openen en de verwarming thuis kunnen aanzetten. Maar zo’n integratie brengt ook aspecten van privacy met zich mee:
+    - Een rapport uit 2019 van het Capgemini Research Institute geeft aan dat een goede samenwerking tussen de *in-car voice assistant*, de *home assistant* en de digitale assistent op de smartphone van de gebruikers gewenst is. Dan zouden ze bv. met de *in-car voice assistant* de garagepoort kunnen openen en de verwarming thuis kunnen aanzetten. Maar zo’n integratie brengt ook aspecten van privacy met zich mee:
 er worden dan immers data gedeeld tussen meerdere toepassingen (Walch, 2020). In theorie zou de digitale assistent op de smartphone zo te weten kunnen komen waar de gebruiker geweest is met de auto.
     - Waar zal de data terechtkomen? Kan dat gevolgen hebben later bij het aanvragen voor een lening bijvoorbeeld?
 -----------------------------
 ### Werking 
 
 Om via gesproken taal over en weer te kunnen communiceren met een digitale assistent, zoals Siri op een iphone, Alexa thuis en de
-voice assistant in de auto, is zowel spraakherkenningstechnologie (spraak naar tekst) als spraaksynthesesoftware (tekst naar spraak) nodig. De spraaksynthesesoftware is er om de spraakassistent te laten spreken, de spraakherkenningssoftware opdat hij de mens die tegen hem spreekt, zou begrijpen. 
+voice assistant in de auto, is zowel spraakherkenningstechnologie (spraak naar tekst) als spraaksynthesesoftware (tekst naar spraak) nodig. De spraaksynthesesoftware is er om de spraakassistent te laten spreken, de spraakherkenningssoftware opdat hij de mens die tegen hem spreekt, zou 'begrijpen'. 
 
 Spraakherkenningstechnologie is een AI-systeem dat geluid kan verwerken. Het werkt met een opname van geluid die wordt omgezet naar een digitaal bestand. De gesproken taal van de gebruiker wordt automatisch omgezet naar geschreven tekst via spraakherkenningstechnologie (spraak naar tekst) zodat de digitale assistent ermee aan de slag kan. Het AI-systeem analyseert dan deze geschrven tekst. Dat is zeker geen eenvoudige taak aangezien iedereen zich op zijn eigen manier uitdrukt, zelfs in dezelfde taal. Bovendien moet het systeem menselijke spraak kunnen onderscheiden van eventueel achtergrondlawaai. ML-systemen beginnen echter ook al dialecten van eenzelfde taal van elkaar te kunnen onderscheiden.
 
@@ -74,7 +74,7 @@ Wat je tegen de spraakassistent zegt, komt terecht in de cloud. Als je aan Siri 
 
 Elke stap in de loop van dit proces kost energie. 
 
-Om een digitale assistent of robot te laten spreken, wordt een tekstbestand met spraaksynthesesoftware omgezet naar geluid (zie ook de kader ‘Realistisch stemgeluid’). 
+Om een digitale assistent of robot te laten spreken, wordt een tekstbestand met spraaksynthesesoftware omgezet naar geluid. 
 
 Alle technieken op getypte tekst, zoals sentimentanalyse, kunnen, zij het onrechtstreeks, ook toegepast worden op gesproken tekst. Het principe is net hetzelfde want spraaktekst wordt eerst omgezet naar geschreven tekst en daarop wordt sentimentanalyse uitgevoerd, net
 zoals je dat rechtstreeks op geschreven tekst zou doen. Wat je zegt tegen de spraakassistent, kan dus ook gebruikt worden voor *profilering*; via een AI-systeem wordt er een profiel van jou opgesteld dat dan kan dienen om jou gepersonaliseerde reclame te sturen. Mogelijk kan je dit door bepaalde instellingen op het betreffende digitale toestel voorkomen; hiervoor bekijk je best het privacybeleid eens.   
