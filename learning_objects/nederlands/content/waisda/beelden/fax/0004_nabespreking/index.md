@@ -23,15 +23,15 @@ teacher_exclusive: True
 
 # Nabespreking
 
-Om voldoende leereffect te hebben bij de deelnemers, is het belangrijk dat de activiteit achteraf met hen bespreekt.
+Om voldoende leereffect te hebben bij de deelnemers, is het belangrijk dat je de activiteit achteraf met hen bespreekt.
 
 * Laat achtereenvolgens per groep iemand naar voren komen.
 * Komen de tekeningen overeen?
 * Laat een leerling het gekozen protocol uitleggen.
 * Enkele mogelijke vragen die je hierbij kan stellen:
     * Hoe zou je jouw protocol veranderen als de grootte van het raster onbekend is?
-    * Hoeveel nummers zou je verzenden als je een wit beeld zou versturen of een volledig?
-    * Hoe zou je het aantal verzonden nummers kunnen verminderen?
-    * Wat is het effect van fouten in de verzonden nummers op het uiteindelijke beeld?
+    * Hoeveel nummers zou je verzenden als je een wit beeld zou versturen of een volledig zwart?
+    * Hoe zou je het aantal verzonden getallen kunnen verminderen?
+    * Wat is het effect van fouten in de verzonden getallen op het uiteindelijke beeld?
 
-Wil je een meer gedetaileerde beschrijving van de deze activeit afrukken. Dan kan je de [activiteitfiche](content/menselijkComputernetwerk.pdf) downloaden.
+Wil je een meer gedetaileerde beschrijving van de deze activeit afdrukken, dan kan je de [activiteitfiche](content/menselijkComputernetwerk.pdf) downloaden.
