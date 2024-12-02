@@ -20,8 +20,8 @@ teacher_exclusive: False
 
 # Zelf een model aanpassen 
 
-Nu je weet wat transfer learning is, ben je klaar om het zelf eens uit te proberen. Klik daarvoor op de "Open Notebook" knop en werk verder in de Python notebook.
+Nu je weet wat *transfer learning* is, ben je klaar om dat zelf uit te proberen. Klik daarvoor op de 'Open notebooks'-knop en werk verder in de Python notebook.
 
 [![](images/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_teachable_machine "Notebook transfer learning")
 
-Deze activiteit is geïnspireerd op de slimme vuilnisbak activiteit van Robbe Wulgaert. Meer info daarover kan je vinden op [Robbe zijn website](https://www.robbewulgaert.be/onderwijs/bouw-een-slimme-vuilnisbak).
+Deze activiteit is geïnspireerd op de 'slimme vuilnisbak'-activiteit van Robbe Wulgaert. Meer info daarover kan je vinden op [Robbe zijn website](https://www.robbewulgaert.be/onderwijs/bouw-een-slimme-vuilnisbak).
