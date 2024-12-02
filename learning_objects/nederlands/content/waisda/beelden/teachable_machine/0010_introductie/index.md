@@ -20,19 +20,18 @@ teacher_exclusive: True
 
 # Introductie
 
-In het [leerpad over het herkennen van emoties](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-beelden-emoties-herkennen&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-beelden-emoties-herkennen-intro;nl;1) trainden de jongeren zelf een eerste eenvoudig neuraal netwerk. Het resultaat van dat trainingsproces kan opgeslagen worden als een **machine learning model**. Zo'n model kan dan overgezet worden naar andere computers. In dit leerpad zien de jongeren hoe ze **een bestaand model kunnen gebruiken en hoe ze het kunnen aanpassen**. 
+In het [leerpad over het herkennen van emoties](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-beelden-emoties-herkennen&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-beelden-emoties-herkennen-intro;nl;1) trainden de jongeren zelf een eerste eenvoudig neuraal netwerk. Het resultaat van dat trainingsproces kan opgeslagen worden als een **machine learning model**. Zo'n model kan overgezet worden naar andere computers. In dit leerpad zien de jongeren hoe ze **een bestaand model kunnen gebruiken en hoe ze het kunnen aanpassen**. 
 
 ## Doel
 
-In deze activiteit laden leerlingen een versie van het ImageNet model in. Aan dat model voegen ze een extra laag toe die ze zelf gaan trainen om eigen afbeeldingen te kunnen herkennen 
+In deze activiteit laden de deelnemers een versie van het ImageNet model in. Aan dat model voegen ze een extra laag toe die ze zelf trainen om eigen afbeeldingen te laten herkennen. 
 
-## Vaardigheden
+## Competenties
 
-* Leerlingen komen te weten hoe de "teachable machine" van Google werkt.
-* Leerlingen gebruiken de "teachable machine" om een model bij te trainen om hun eigen afbeeldingen te classificeren.
-* Leerlingen leren wat het concept van een model is in machine learning.
-* Leerlingen realiseren zich dat er een verschil is tussen het trainen van een AI-model en het "tunen" van een bestaand model.
-* Leerlingen voegen een laag toe aan een bestaand machine learning model. 
-* Leerlingen trainen het aangepaste model om eigen afbeeldingen te kunnen classificeren.
-* Leerlingen leren problemen in team op te lossen. 
-* Leerlingen werken met natuurlijke getallen.
+* Deelnemers komen te weten hoe Teachable Machine van Google werkt.
+* Deelnemers gebruiken Teachable Machine om een model bij te trainen om hun eigen afbeeldingen te classificeren.
+* Deelnemers leren wat het concept van een model is in *machine learning*.
+* Deelnemers realiseren zich dat er een verschil is tussen het **trainen** van een nieuw AI-model en het **tunen** van een bestaand model.
+* Deelnemers voegen een laag toe aan een bestaand *machine learning*-model. 
+* Deelnemers trainen het aangepaste model om eigen afbeeldingen te classificeren.
+* Deelnemers leren problemen oplossen in team. 
