@@ -33,3 +33,4 @@ Kan of wil je school niet met Google producten werken, dan bestaan er alternatie
 
 * [De Teachable Machine in de VRT EDUbox](https://edubox.vrtnws.be/)
 * [Installeer zelf een eigen versie van Teachable Machine via de broncode op GitHub.](https://github.com/googlecreativelab/teachable-machine-v1?tab=readme-ov-file)
+* [Op Learningml kan je een gelijkaardige tool vinden.](https://web.learningml.org/en/home/)
