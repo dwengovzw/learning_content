@@ -24,10 +24,13 @@ Ja, deze activiteit start met een opdracht!
 - Neem een blaadje papier en een balpen. 
 - Probeer de volgende figuren na te tekenen zonder je pen op te heffen.
 
-![](img/euler1.svg)
-![](img/euler2.svg)
-![](img/euler3.svg)
-![](img/euler4.svg)
+|  |  |
+| - | - |
+
+| 1 | ![](img/euler1.svg) |
+| 2 | ![](img/euler2.svg) |
+| 3 | ![](img/euler3.svg) |
+| 4 | ![](img/euler4.svg) |
 
 **Tip:** Denk na over op welke punten je al dan niet moet starten om de tekening te kunnen maken.
 
