@@ -33,4 +33,6 @@ Ja, deze activiteit start met een opdracht!
 
 **Tip:** Denk na over op welke punten je al dan niet moet starten om de tekening te kunnen maken.
 
+**Tip:** De oplossing willen vinden kan verslavend zijn. Heb je na 15 minuten nog niet alle oplossingen gevonden, ga dan verder met het leerpad.
+
 
