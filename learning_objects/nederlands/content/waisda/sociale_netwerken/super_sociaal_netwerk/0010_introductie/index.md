@@ -25,8 +25,7 @@ Ja, deze activiteit start met een opdracht!
 - Probeer de volgende figuren na te tekenen zonder je pen op te heffen.
 
 |  |  |
-| - | - |
-
+|-|:-:|
 | 1 | ![](img/euler1.svg) |
 | 2 | ![](img/euler2.svg) |
 | 3 | ![](img/euler3.svg) |
