@@ -1,10 +1,10 @@
 ---
-hruid: org-dwengo-waisda-soc-netwerken-super-sociaal-netwerk
+hruid: org-dwengo-waisda-soc-netwerken-graphs-netwerk-intro
 version: 1
 language: nl
-title: "Een AI-model"
-description: "Hoe werkt de Teachable Machine van Google."
-keywords: ["Neurale netwerken", "Imagenet", "Teachable machine", "fine tuning"]
+title: "Tekenen maar"
+description: "Hoe teken ik verschillende figuren zonder mijn pen op te heffen?"
+keywords: ["grafen","Euleriaans pad"]
 content_type: "text/markdown"
 estimated_time: 10
 skos_concepts: [
@@ -17,3 +17,18 @@ copyright: "CC BY dwengo"
 target_ages: [14, 15, 16, 17, 18]
 teacher_exclusive: False
 ---
+
+# Tekenen maar!
+
+Ja, deze activiteit start met een opdracht! 
+- Neem een blaadje papier en een balpen. 
+- Probeer de volgende figuren na te tekenen zonder je pen op te heffen.
+
+![](img/euler1.svg)
+![](img/euler2.svg)
+![](img/euler3.svg)
+![](img/euler4.svg)
+
+**Tip:** Denk na over op welke punten je al dan niet moet starten om de tekening te kunnen maken.
+
+
