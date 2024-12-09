@@ -75,6 +75,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "org-dwengo-waisda-soc-netwerken-euleriaans-pad-opl",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-euleriaans-pad-opl",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org-dwengo-waisda-beelden-fax-nabespreking",
               "version": "1",
               "language": "nl"
