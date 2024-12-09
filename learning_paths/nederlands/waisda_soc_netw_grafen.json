@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-beelden-fax-nabespreking",
+              "hruid": "org-dwengo-waisda-soc-netwerken-bruggen-van-koningsbergen-graaf",
               "version": "1",
               "language": "nl"
             }
@@ -54,6 +54,21 @@
       },
       {
         "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-bruggen-van-koningsbergen-graaf",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-waisda-soc-netwerken-euleriaans-pad",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-euleriaans-pad",
         "version": "1",
         "language": "nl",
         "transitions": [
