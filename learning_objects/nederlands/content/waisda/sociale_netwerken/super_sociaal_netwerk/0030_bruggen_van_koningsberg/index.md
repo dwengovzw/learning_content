@@ -28,5 +28,7 @@ Er zijn **zeven** bruggen die de delen van de stad verbinden. Zie jij waar de br
 
 In 1736 werd aan de wiskundige Leonhard Euler gevraagd of er een manier is om een wandeling te maken doorheen de stad waarbij je elke brug maar één keer mag oversteken. 
 
-**Opdracht:** Probeer zelf eens om een pad te tekenen, is dat mogelijk?
+**Opdracht:** Probeer zelf eens om een pad te tekenen, is dat mogelijk? 
+
+<iframe src="https://dwengo.org/koningsbergen" title="koningsbergen probleem" width="600px" height="600px"></iframe>
 

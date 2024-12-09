@@ -23,6 +23,7 @@ teacher_exclusive: False
 Ja, deze activiteit start met een opdracht! 
 - Neem een blaadje papier en een balpen. 
 - Probeer de volgende figuren na te tekenen zonder je pen op te heffen.
+- Elke lijn mag je maar één keer tekenen, je mag dus geen tweede keer met je pen over dezelfde lijn gaan.
 
 |  |  |
 |-|:-:|
