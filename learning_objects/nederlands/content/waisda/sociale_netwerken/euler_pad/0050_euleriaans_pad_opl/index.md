@@ -49,28 +49,28 @@ Kijk terug naar de volgende tekeningen. Welke van deze tekeningen kan je tekenen
     <td><img src="images/euler1_graph.svg" alt="Euler Graph 1"></td>
   </tr>
   <tr>
-    <td colspan=2>Er zijn twee knopen met een oneven graad. De rest van de knopen heeft een even graad. Bijgevolg is een Euleriaans pad in de graaf mogelijk.</td>
+    <td colspan=2><strong>Oplossing: </strong>Er zijn twee knopen met een oneven graad. De rest van de knopen heeft een even graad. Bijgevolg is een Euleriaans pad in de graaf mogelijk.</td>
   </tr>
   <tr>
     <td>2</td>
     <td><img src="images/euler2_graph.svg" alt="Euler Graph 2"></td>
   </tr>
   <tr>
-    <td colspan=2>Alle knopen in de graaf hebben een even graad. Bijgevolg is een Euleriaans pad in de graaf mogelijk.</td>
+    <td colspan=2><strong>Oplossing: </strong>Alle knopen in de graaf hebben een even graad. Bijgevolg is een Euleriaans pad in de graaf mogelijk.</td>
   </tr>
   <tr>
     <td>3</td>
     <td><img src="images/euler3_graph.svg" alt="Euler Graph 3"></td>
   </tr>
   <tr>
-    <td colspan=2>Alle knopen in de graaf hebben een even graad. Bijgevolg is een Euleriaans pad in de graaf mogelijk.</td>
+    <td colspan=2><strong>Oplossing: </strong>Alle knopen in de graaf hebben een even graad. Bijgevolg is een Euleriaans pad in de graaf mogelijk.</td>
   </tr>
   <tr>
     <td>4</td>
     <td><img src="images/euler4_graph.svg" alt="Euler Graph 4"></td>
   </tr>
   <tr>
-    <td colspan=2>Er zijn meer dan twee knopen in de graaf met een oneven graad. Bijgevolg is een Euleriaans pad in de graaf niet mogelijk.</td>
+    <td colspan=2><strong>Oplossing: </strong>Er zijn meer dan twee knopen in de graaf met een oneven graad. Bijgevolg is een Euleriaans pad in de graaf niet mogelijk.</td>
   </tr>
 </table>
 </div>
