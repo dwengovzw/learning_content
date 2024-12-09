@@ -44,6 +44,9 @@ De tekeningen die we probeerden te maken, kunnen we ook voorstellen als grafen. 
 | ![](img/euler4.svg) | ![](img/euler4_graph.svg) |
 
 
+Ons initiële probleem, waarbij we een tekening willen maken zonder onze balpen op te heffen, kunnen we dus vertalen naar een grafenprobleem. Dit probleem formuleren we als volgt. Bestaat er een *wandeling* in de graaf waarbij je elke boog juist een keer oversteekt?
+
+
 **Waarom is het nu nuttig om onze tekeningen voor te stellen als een graaf?**
 
 
