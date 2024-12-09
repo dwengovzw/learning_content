@@ -45,6 +45,7 @@ De tekeningen die we probeerden te maken, kunnen we ook voorstellen als grafen. 
 
 **Waarom is het nu nuttig om onze tekeningen voor te stellen als een graaf?**
 
+
 Een graaf is een abstracte voorstelling die we voor heel wat problemen kunnen gebruiken. Daarom zijn er al heel veel slimme wiskundigen en computerwetenschappers die hebben nagedacht over de eigenschappen van die grafen. Hun kennis kunnen we gebruiken om ons tekenprobleem op te lossen.
 
 Je zou het misschien niet verwachten maar ons tekenprobleem komt sterk overeen met het probleem van de zeven bruggen van Koningsbergen.

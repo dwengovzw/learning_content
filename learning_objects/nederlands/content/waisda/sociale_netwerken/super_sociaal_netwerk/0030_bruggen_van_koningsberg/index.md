@@ -30,5 +30,5 @@ In 1736 werd aan de wiskundige Leonhard Euler gevraagd of er een manier is om ee
 
 **Opdracht:** Probeer zelf eens om een pad te tekenen, is dat mogelijk? 
 
-<iframe src="https://dwengo.org/koningsbergen" title="koningsbergen probleem" width="720px" height="650px"></iframe>
+<iframe src="https://dwengo.org/koningsbergen" title="koningsbergen probleem" width="720px" height="700px"></iframe>
 
