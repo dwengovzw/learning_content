@@ -44,9 +44,9 @@ Tel het aantal bogen dat vertrekt uit elke knoop (= de graad van de knoop) van d
 <div class="content">
 Kijk terug naar de volgende tekeningen. Welke van deze tekeningen kan je tekenen zonder je balpen op te heffen en welke niet?
 
-<img src="images/euler1_graph.svg"></img>
-<img src="images/euler2_graph.svg"></img>
-<img src="images/euler3_graph.svg"></img>
-<img src="images/euler4_graph.svg"></img>
+<img src="images/euler1_graph.svg" width="250px"></img>
+<img src="images/euler2_graph.svg" width="250px"></img>
+<img src="images/euler3_graph.svg" width="250px"></img>
+<img src="images/euler4_graph.svg" width="250px"></img>
 </div>
 </div>
