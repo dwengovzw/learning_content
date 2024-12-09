@@ -6,7 +6,7 @@ title: "Grafen"
 description: "Wat zijn grafen en wat hebben onze tekeningen ermee te maken?"
 keywords: ["grafen","Euleriaans pad"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -42,6 +42,7 @@ De tekeningen die we probeerden te maken, kunnen we ook voorstellen als grafen. 
 | ![](img/euler2.svg) | ![](img/euler2_graph.svg) |
 | ![](img/euler3.svg) | ![](img/euler3_graph.svg) |
 | ![](img/euler4.svg) | ![](img/euler4_graph.svg) |
+
 
 **Waarom is het nu nuttig om onze tekeningen voor te stellen als een graaf?**
 
