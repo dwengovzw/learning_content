@@ -24,3 +24,11 @@ Leonhard Euler loste het probleem van de bruggen van Koningsbergen op in 1736. E
 
 
 
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+Tel het aantal bogen dat vertrekt uit elke knoop van de graaf van Koningsbergen. Is het mogelijk om een Euleriaans pad te vinden in de graaf?
+
+<img src="images/koningsbergen_graph.svg"></img>
+</div>
+</div>
