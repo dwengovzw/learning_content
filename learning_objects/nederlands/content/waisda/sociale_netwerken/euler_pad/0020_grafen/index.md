@@ -26,7 +26,7 @@ Is het je gelukt? Heb je alle tekeningen kunnen maken zonder je balpen op te hef
 <div class="dwengo-content sideinfo">
 <h2 class="title">Wat is een graaf?</h2>
 <div class="content">
-Een graaf is een structuur die bestaat uit <strong>knopen</strong> en eventuele verbindingen tussen die knopen, de <strong>bogen<strong>.
+Een graaf is een structuur die bestaat uit <strong>knopen</strong> en eventuele verbindingen tussen die knopen, de <strong>bogen</strong>.
 </div>
 </div>
 
