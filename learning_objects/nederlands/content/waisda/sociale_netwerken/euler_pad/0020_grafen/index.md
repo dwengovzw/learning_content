@@ -46,6 +46,19 @@ De tekeningen die we probeerden te maken, kunnen we ook voorstellen als grafen. 
 
 Ons initiële probleem, waarbij we een tekening willen maken zonder onze balpen op te heffen, kunnen we dus vertalen naar een grafenprobleem. Dit probleem formuleren we als volgt. Bestaat er een *wandeling* in de graaf waarbij je elke boog juist een keer oversteekt?
 
+<div class="dwengo-content sideinfo">
+    <h2 class="title">Isomorfie</h2>
+    <div class="content">
+        In tegenstelling tot onze tekeningen, zijn de posities van de knopen van de graaf niet van belang. Je kan de knopen van de graaf op gelijk welke plaats tekenen zolang ze via bogen verbonden blijven met dezelfde knopen. Hieronder zie je bijvoorbeeld een aantal mogelijke graafvoorstellingen voor het huisje.
+        <table>
+            <tr><td><img src="images/euler1_graph.svg"></img></td></tr>
+            <tr><td><img src="images/euler1_graph_var2.svg"></img></td></tr>
+            <tr><td><img src="images/euler1_graph_var3.svg"></img></td></tr>
+            <tr><td><img src="images/euler1_graph_var4.svg"></img></td></tr>
+        </table>
+    </div>
+</div>
+
 
 **Waarom is het nu nuttig om onze tekeningen voor te stellen als een graaf?**
 
