@@ -49,7 +49,7 @@ Ons initiële probleem, waarbij we een tekening willen maken zonder onze balpen 
 <div class="dwengo-content sideinfo">
     <h2 class="title">Isomorfie</h2>
     <div class="content">
-        In tegenstelling tot onze tekeningen, zijn de posities van de knopen van de graaf niet van belang. Je kan de knopen van de graaf op gelijk welke plaats tekenen zolang ze via bogen verbonden blijven met dezelfde knopen. Hieronder zie je bijvoorbeeld een aantal mogelijke graafvoorstellingen voor het huisje.
+        In tegenstelling tot onze tekeningen, zijn de posities van de knopen van de graaf niet van belang. Je kan de knopen van de graaf op gelijk welke plaats tekenen zolang ze via bogen verbonden blijven met dezelfde knopen. Deze verschillende versies van de graaf zijn <strong>isomorf</strong>. Hieronder zie je bijvoorbeeld een aantal mogelijke graafvoorstellingen voor het huisje.
         <table>
             <tr><td><img src="images/euler1_graph.svg"></img></td></tr>
             <tr><td><img src="images/euler1_graph_var2.svg"></img></td></tr>
