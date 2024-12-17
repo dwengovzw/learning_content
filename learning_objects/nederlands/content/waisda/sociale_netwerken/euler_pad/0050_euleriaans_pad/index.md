@@ -25,7 +25,7 @@ Leonhard Euler loste het probleem van de bruggen van Koningsbergen op in 1736. E
  **Elke knoop in de graaf een even aantal bogen heeft of als er juist twee knopen zijn met een oneven aantal bogen**.
 
 Euler baseerde zijn stelling op twee observaties:
-1. Als je een graaf hebt waarbij elke knoop een even aantal bogen heeft, kan je nooit vas komen te zitten in een knoop dat niet de knoop is waar je gestart bent. Dit is een rechtstreeks gevolg van het even aantal bogen van elke knoop. Als je toekomt via een boog, is er altijd nog een andere om van te vertrekken. Anders zou het aantal bogen niet even zijn.
+1. Als je een graaf hebt waarbij elke knoop een even aantal bogen heeft, kan je nooit vast komen te zitten in een knoop dat niet de knoop is waar je gestart bent. Dit is een rechtstreeks gevolg van het even aantal bogen van elke knoop. Als je toekomt via een boog, is er altijd nog een andere om van te vertrekken. Anders zou het aantal bogen niet even zijn.
 2. Als je een graaf hebt met twee knopen met een oneven aantal bogen, moet je uit een van de knopen vertrekken en eindigen in de andere. Voor de andere knopen geldt observatie 1 dus kun je niet vast komen te zitten.
 
 

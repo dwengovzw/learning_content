@@ -90,6 +90,36 @@
           {
             "default": true,
             "next": {
+              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-voorstellingen",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-voorstellingen",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-zelf-programmeren",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-zelf-programmeren",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org-dwengo-waisda-beelden-fax-nabespreking",
               "version": "1",
               "language": "nl"
