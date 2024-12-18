@@ -39,5 +39,4 @@ Merk op dat enkel Adenine (A) en Thymine (T) of Guanine (G) en Cytosine (C) kunn
 
 RNA of Ribonucleïnezuur wordt door de cel gebruikt om informatie uit het DNA te kopiëren en buiten de celkern te brengen. Daar kan het RNA gebruikt worden door de cel om een eiwit te maken. RNA bestaat ook uit vier nucleotiden. Drie daarvan overlappen met DNA: Adenine (**A**), Cytosine (**C**) en Guanine (**G**). Thymine (**T**) wordt in RNA vervangen door Uracil (**U**). En RNA streng bestaat dus uit een opeenvolgen van A, C, G en U.
 
-## Sequencing
 
