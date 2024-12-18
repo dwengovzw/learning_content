@@ -6,7 +6,7 @@ title: "Genoom reconstructie"
 description: "Hoe kunnen we aan de hand van een De Bruijn graaf het volledige genoom reconstrueren."
 keywords: ["grafen","Euleriaans pad", "DNA", "sequencing", "RNA", "De Bruijn"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 90
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
