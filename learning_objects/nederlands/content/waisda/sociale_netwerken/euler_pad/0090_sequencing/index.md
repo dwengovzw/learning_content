@@ -83,10 +83,10 @@ Hieronder zie je een voorbeeld van een sequentie die meerdere keren is opgesplit
         <td rowspan=3>Shotgun sequenties 2e lezing</td><td>GTGCG--------------------</td>
     </tr>
     <tr>
-        <td>-----AGCTTTTAGTACCCTTGA--</td>
+        <td>-----AGCTTTTAGTACCCTT----</td>
     </tr>
     <tr>
-        <td>-----------------------TA</td>
+        <td>---------------------GATA</td>
     </tr>
 </table>
 
@@ -121,10 +121,10 @@ Het resultaat van bovenstaande shotgun sequencing is een lijst met korte stukjes
         <td>GTGCG</td>
     </tr>
     <tr>
-        <td>AGCTTTTAGTACCCTTGA</td>
+        <td>AGCTTTTAGTACCCTT</td>
     </tr>
     <tr>
-        <td>TA</td>
+        <td>TAGA</td>
     </tr>
 </table>
 
