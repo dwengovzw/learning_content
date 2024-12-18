@@ -27,3 +27,9 @@ Voor we deze graaf opstellen, zetten we onze stukjes DNA eerst om naar een lijst
 Nemen we bijvoorbeeld de sequentie GAGCTTTTAG, dan kunnen we deze omzetten naar 7 overlappende 3-meren: GAG, AGC, GCT, CTT, TTT, TTT, TTA en TAG. 
 
 ![](img/splitting_dna_into_overlapping_sequences.svg)
+
+Op basis van deze k-meren bouwen we de De Bruijn graaf. Daarvoor nemen we elke k-meer. Voegen we de prefix van lengte k-1 toe als knoop aan de graaf. Voegen we de suffix van lengte k-1 toe als knoop aan de graaf. En verbinden die met een boog.
+
+Voor GAG levert dat de volgende graaf op.
+
+![](img/de_bruijn_1.svg)
