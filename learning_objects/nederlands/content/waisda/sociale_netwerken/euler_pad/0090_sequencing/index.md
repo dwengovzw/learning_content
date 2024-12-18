@@ -55,21 +55,39 @@ De techniek kan DNA sequenties van maximum 1000 nucleotiden op een precieze en b
 Hieronder zie je een voorbeeld van een sequentie die meerdere keren is opgesplitst en uitgelezen.
 
 <table>
-<tr>
-    <th></th><th>sequentie</th>
-</tr>
-<tr>
-    <td>DNA streng</td><td>GTGCGAGCTTTTAGTACCCTTGATA</td>
-</tr>
-<tr>
-    <td rowspan=3>Shotgun sequenties</td><td>----GAGCTTTTAGTACCCTTGATA</td>
-</tr>
-<tr>
-    <td></td><td>GTGC----------TACCCTTGATA</td>
-</tr>
-<tr>
-    <td></td><td>GTGCGAGCTTTTAG-----------</td>
-</tr>
+    <tr>
+        <th></th><th>sequentie</th>
+    </tr>
+    <tr>
+        <td>DNA streng</td><td>GTGCGAGCTTTTAGTACCCTTGATA</td>
+    </tr>
+    <tr>
+        <td rowspan=3>Shotgun sequenties 1e lezing</td><td>----GAGCTTTTAGTACCCTTGATA</td>
+    </tr>
+    <tr>
+        <td>GTGC----------TACCCTTGATA</td>
+    </tr>
+    <tr>
+        <td>GTGCGAGCTTTTAG-----------</td>
+    </tr>
+    <tr>
+        <td rowspan=3>Shotgun sequenties 2e lezing</td><td>------------AGTACCCTTGATA</td>
+    </tr>
+    <tr>
+        <td>GTGCGAGCTTTT----------ATA</td>
+    </tr>
+    <tr>
+        <td>GTGCGAGCTTTTAGTACCCTTG---</td>
+    </tr>
+    <tr>
+        <td rowspan=3>Shotgun sequenties 2e lezing</td><td>-----AGCTTTTAGTACCCTTGATA</td>
+    </tr>
+    <tr>
+        <td>GTGCG------------------TA</td>
+    </tr>
+    <tr>
+        <td>GTGCGAGCTTTTAGTACCCTTGA--</td>
+    </tr>
 </table>
 
 
