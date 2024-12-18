@@ -31,6 +31,7 @@ DNA en RNA zijn een manier van de natuur om genetische informatie voor te stelle
 DNA of Desoxyribonucleïnezuur zit in onze celkernen en bevat de informatie over hoe ons lichaam eiwitten kan maken die essentieel zijn voor het leven. Het bestaat uit vier verschillende nucleotiden: Adenine (**A**), Thymine (**T**), Cytosine (**C**) en Guanine (**G**). Deze vier nucleotiden vormen twee lange kettingen (strengen) die in een dubbele helix "opkrullen" tot DNA. Hieronder zie je een voorbeeld van een stukje van zo'n DNA sequentie dat bestaat uit twee strengen.
 
 Streng 1: A T G C C G T A
+
 Streng 2: T A C G G C A T 
 
 Merk op dat enkel Adenine (A) en Thymine (T) of Guanine (G) en Cytosine (C) kunnen binden met elkaar. Een A op de ene streng zal dus altijd binden met een T op de andere, idem voor G en C.
