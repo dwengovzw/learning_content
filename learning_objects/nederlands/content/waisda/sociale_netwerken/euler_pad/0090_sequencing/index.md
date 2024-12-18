@@ -62,32 +62,32 @@ Hieronder zie je een voorbeeld van een sequentie die meerdere keren is opgesplit
         <td>DNA streng</td><td>GTGCGAGCTTTTAGTACCCTTGATA</td>
     </tr>
     <tr>
-        <td rowspan=3>Shotgun sequenties 1e lezing</td><td>----GAGCTTTTAGTACCCTTGATA</td>
+        <td rowspan=3>Shotgun sequenties 1e lezing</td><td>GTGC---------------------</td>
     </tr>
     <tr>
-        <td>GTGC----------TACCCTTGATA</td>
+        <td>----GAGCTTTTAG-----------</td>
     </tr>
     <tr>
-        <td>GTGCGAGCTTTTAG-----------</td>
+        <td>--------------TACCCTTGATA</td>
     </tr>
     <tr>
-        <td rowspan=3>Shotgun sequenties 2e lezing</td><td>------------AGTACCCTTGATA</td>
+        <td rowspan=3>Shotgun sequenties 2e lezing</td><td>GTGCGAGCTTTT-------------</td>
     </tr>
     <tr>
-        <td>GTGCGAGCTTTT----------ATA</td>
+        <td>------------AGTACCCTTG---</td>
     </tr>
     <tr>
-        <td>GTGCGAGCTTTTAGTACCCTTG---</td>
+        <td>----------------------ATA</td>
     </tr>
     <tr>
-        <td rowspan=3>Shotgun sequenties 2e lezing</td><td>-----AGCTTTTAGTACCCTTGATA</td>
+        <td rowspan=3>Shotgun sequenties 2e lezing</td><td>GTGCG--------------------</td>
     </tr>
     <tr>
-        <td>GTGCG------------------TA</td>
+        <td>-----AGCTTTTAGTACCCTTGA--</td>
     </tr>
     <tr>
-        <td>GTGCGAGCTTTTAGTACCCTTGA--</td>
+        <td>-----------------------TA</td>
     </tr>
 </table>
 
-
+In de tabel zie je dat 
