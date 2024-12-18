@@ -63,3 +63,7 @@ TTA
 TAG
 
 ![](img/de_bruijn_8.svg)
+
+We voegen niet enkel de k-meren voor deze ene subsequentie (GAGCTTTTAG) toe maar ook voor alle andere subsequenties die we gelezen hebben met shotgun sequencing. Door voldoende stukjes DNA toe te voegen aan de graaf, krijg je een graaf die de structuur van het volledige genoom voorstelt. De volledige DNA sequentie van dat genoom kan je dan vinden door het euleriaans pad te zoeken in die graaf.
+
+

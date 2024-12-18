@@ -128,4 +128,4 @@ Het resultaat van bovenstaande shotgun sequencing is een lijst met korte stukjes
     </tr>
 </table>
 
-De uitdaging is nu om deze korte stukjes DNA terug samen te voegen tot de volledige DNA streng. 
+De uitdaging is nu om deze korte stukjes DNA terug samen te voegen tot de volledige DNA streng.

@@ -165,7 +165,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-beelden-fax-nabespreking",
+              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-reconstructie",
               "version": "1",
               "language": "nl"
             }
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-beelden-fax-nabespreking",
+        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-reconstructie",
         "version": "1",
         "language": "nl"
       }     
