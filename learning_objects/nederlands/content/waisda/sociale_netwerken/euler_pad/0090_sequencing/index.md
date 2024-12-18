@@ -54,7 +54,7 @@ De techniek kan DNA sequenties van maximum 1000 nucleotiden op een precieze en b
 
 Hieronder zie je een voorbeeld van een sequentie die meerdere keren is opgesplitst en uitgelezen.
 
-<table>
+<table style="font-family: monospace">
     <tr>
         <th></th><th>sequentie</th>
     </tr>
