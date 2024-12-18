@@ -56,7 +56,7 @@ Hieronder zie je een voorbeeld van een sequentie die meerdere keren is opgesplit
 
 <table style="font-family: monospace">
     <tr>
-        <th></th><th>sequentie</th>
+        <th></th><th>Sequentie</th>
     </tr>
     <tr>
         <td>DNA streng</td><td>GTGCGAGCTTTTAGTACCCTTGATA</td>
@@ -100,7 +100,7 @@ Het resultaat van bovenstaande shotgun sequencing is een lijst met korte stukjes
         <th>Deeltje van de sequentie</th>
     </tr>
     <tr>
-        <td>GTGC<td>
+        <td>GTGC</td>
     </tr>
     <tr>
         <td>GAGCTTTTAG</td>
