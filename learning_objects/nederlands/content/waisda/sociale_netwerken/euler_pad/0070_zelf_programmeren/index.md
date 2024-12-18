@@ -6,7 +6,7 @@ title: "Zelf programmeren"
 description: "Hoe stel ik een graaf voor op de computer en hoe kan ik het euleriaans pad vinden in die graaf?"
 keywords: ["grafen","Euleriaans pad", "koningsbergen", "voorstellingen", "python"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 50
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

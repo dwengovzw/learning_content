@@ -6,7 +6,7 @@ title: "DNA en RNA"
 description: "Hoe helpt het euleriaand pad bij het lezen van DNA sequenties?"
 keywords: ["grafen","Euleriaans pad", "DNA", "voorstellingen", "python"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
