@@ -120,6 +120,36 @@
           {
             "default": true,
             "next": {
+              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-euler-dna",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-euler-dna",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-dna-sequencing",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-dna-sequencing",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org-dwengo-waisda-beelden-fax-nabespreking",
               "version": "1",
               "language": "nl"
