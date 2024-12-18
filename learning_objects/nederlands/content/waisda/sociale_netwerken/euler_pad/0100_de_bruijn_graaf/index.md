@@ -33,3 +33,33 @@ Op basis van deze k-meren bouwen we de De Bruijn graaf. Daarvoor nemen we elke k
 Voor GAG levert dat de volgende graaf op.
 
 ![](img/de_bruijn_1.svg)
+
+Zo voegen we elke k-meer toe aan de graaf. 
+
+AGC
+
+![](img/de_bruijn_2.svg)
+
+GCT
+
+![](img/de_bruijn_3.svg)
+
+CTT
+
+![](img/de_bruijn_4.svg)
+
+TTT
+
+![](img/de_bruijn_5.svg)
+
+TTT
+
+![](img/de_bruijn_6.svg)
+
+TTA
+
+![](img/de_bruijn_7.svg)
+
+TAG
+
+![](img/de_bruijn_8.svg)
