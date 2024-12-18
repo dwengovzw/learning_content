@@ -90,4 +90,42 @@ Hieronder zie je een voorbeeld van een sequentie die meerdere keren is opgesplit
     </tr>
 </table>
 
-In de tabel zie je dat 
+In de tabel zie je dat de sequentie drie keer gelezen wordt aan de hand van shotgun sequencing. Shotgun sequencing zal de DNA streng opdelen in willekeurige stukjes en elk van die stukjes afzonderlijk inlezen. De letters in de tabel geven aan welk deel van de sequentie gelezen werd. De streepjes staan er enkel om visueel aan te tonen welk deel van de DNA streng werd ingelezen. In de praktijk weet je niet van waar het gelezen deeltje DNA komt. 
+
+Het resultaat van bovenstaande shotgun sequencing is een lijst met korte stukjes DNA. Daarvan zie je hieronder een voorbeeld.
+
+
+<table>
+    <tr>
+        <th>Deeltje van de sequentie</th>
+    </tr>
+    <tr>
+        <td>GTGC<td>
+    </tr>
+    <tr>
+        <td>GAGCTTTTAG</td>
+    </tr>
+    <tr>
+        <td>TACCCTTGATA</td>
+    </tr>
+    <tr>
+        <td>GTGCGAGCTTTT</td>
+    </tr>
+    <tr>
+        <td>AGTACCCTTG</td>
+    </tr>
+    <tr>
+        <td>ATA</td>
+    </tr>
+    <tr>
+        <td>GTGCG</td>
+    </tr>
+    <tr>
+        <td>AGCTTTTAGTACCCTTGA</td>
+    </tr>
+    <tr>
+        <td>TA</td>
+    </tr>
+</table>
+
+De uitdaging is nu om deze korte stukjes DNA terug samen te voegen tot de volledige DNA streng. 
