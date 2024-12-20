@@ -22,7 +22,7 @@ teacher_exclusive: False
 
 Wanneer je voldoende deeltjes van een DNA sequentie hebt gelezen met shotgun sequencing en deze hebt toegevoegd aan de De Bruijn graaf, kan je de volledige DNA sequentie vinden door het euleriaans pad te zoeken in de graaf. In de volgende notebook ga je zelf aan de slag met het genoom van de MS2 bacteriofaag. Je krijgt een lijst van deeltjes van het genoom die gelezen zijn aan de hand van shotgun sequencing. In de notebook zal je leren hoe je op basis van deze data het volledige genoom van MS2 kan samenstellen.
 
-[![](images/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_sociale_netwerken_euler "Notebook transfer learning")
+[![](images/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_sociale_netwerken_dna "Notebook transfer learning")
 
 <div class="dwengo-content sideinfo">
 <h2 class="title">De MS2 bacteriofaag</h2>
