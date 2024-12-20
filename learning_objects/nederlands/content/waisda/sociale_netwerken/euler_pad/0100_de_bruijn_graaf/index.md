@@ -66,4 +66,13 @@ TAG
 
 We voegen niet enkel de k-meren voor deze ene subsequentie (GAGCTTTTAG) toe maar ook voor alle andere subsequenties die we gelezen hebben met shotgun sequencing. Door voldoende stukjes DNA toe te voegen aan de graaf, krijg je een graaf die de structuur van het volledige genoom voorstelt. De volledige DNA sequentie van dat genoom kan je dan vinden door het euleriaans pad te zoeken in die graaf.
 
+<div class="dwengo-content sideinfo">
+<h2 class="title">Gerichte grafen</h2>
+<div class="content">
+Bij de graaf van Koningsbergen hadden de bogen tussen de knopen geen richting. Het maakte bij dat probleem niet uit in welke richting je de brug overstak, beide richtingen waren mogelijk. Bij sommige problemen is het echter nodig dat je de boog maar in één richting kan oversteken. Denk bijvoorbeeld aan een glijbaan. Via de trap kan je naar boven en terug naar beneden maar via de glijbaan zelf kan je in principe enkel naar beneden. De trap heeft dus twee richtingen, de glijbaan maar één. Hieronder zie je een graaf die de mogelijke manieren om op en van een glijbaan te komen voorstelt.
+
+<img src="img/glijbaan.svg"></img>
+</div>
+</div>
+
 
