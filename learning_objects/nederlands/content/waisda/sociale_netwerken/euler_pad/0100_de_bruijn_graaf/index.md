@@ -22,9 +22,9 @@ teacher_exclusive: False
 
 Om de volledige DNA streng te reproduceren op basis van de stukjes DNA die het resultaat zijn van shotgun sequencing, kan je gebruik maken van een De Bruijn graaf. 
 
-Voor we deze graaf opstellen, zetten we onze stukjes DNA eerst om naar een lijst van overlappende **k-meren**. Een **k-meer** is een stukje DNA van k nucleotiden lang? Is k bijvoorbeeld 3 dan maken we een lijst met stukjes DNA van 3 nucleotiden lang (3-meren).
+Voor we deze graaf opstellen, zetten we onze stukjes DNA eerst om naar een lijst van overlappende **k-meren**. Een **k-meer** is een stukje DNA van k nucleotiden lang. Is k bijvoorbeeld 3 dan maken we een lijst met stukjes DNA van 3 nucleotiden lang (3-meren).
 
-Nemen we bijvoorbeeld de sequentie GAGCTTTTAG, dan kunnen we deze omzetten naar 7 overlappende 3-meren: GAG, AGC, GCT, CTT, TTT, TTT, TTA en TAG. 
+Nemen we bijvoorbeeld de sequentie GAGCTTTTAG, dan kunnen we deze omzetten naar 8 overlappende 3-meren: GAG, AGC, GCT, CTT, TTT, TTT, TTA en TAG. 
 
 ![](img/splitting_dna_into_overlapping_sequences.svg)
 

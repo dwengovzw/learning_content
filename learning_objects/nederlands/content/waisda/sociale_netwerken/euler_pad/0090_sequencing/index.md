@@ -29,9 +29,9 @@ Een voorbeeld van zo'n sequencing techniek is *Sanger sequencing*. Deze techniek
 Sanger sequencing combineert de volgende stoffen in een proefbuis:
 - De DNA sequentie die je wil lezen (Een dubbele helix van maximum 1000 nucleotiden lang).
 - Een *primer*, dit is een kort stukje DNA dat zich zal binden aan de de voorkant van de DNA sequentie die je wil lezen. De primer wordt gebruikt als "startpunt" voor het kopieerproces.
-- DNA polymerase enzym. Dit is een enzym zal zich hechten aan de *primer* en vanaf dat startpunt de DNA streng, nucleotide na nucleotide kopiëren. Daarvoor gebruikt het *vrije* nucleotiden uit de omgeving.
+- DNA polymerase enzym. Dit is een enzym dat zich zal hechten aan de *primer* en vanaf dat startpunt de DNA streng, nucleotide na nucleotide zal kopiëren. Daarvoor gebruikt het *vrije* nucleotiden uit de omgeving.
 - De nucleotiden, A, C, G en T.
-- De aangepaste versie van de A, C, G en T nucleotiden (in veel lagere concentratie dan het aantal "gewone" nucleotiden).
+- De aangepaste (gekleurde) versie van de A, C, G en T nucleotiden (in veel lagere concentratie dan het aantal "gewone" nucleotiden).
 
 Door deze stoffen te combineren kan een *Polimerase chain reaction* (PCR) gestart worden. Deze reactie zal het DNA kopiëren. 
 
@@ -45,12 +45,12 @@ Het chemisch proces verloopt als volgt:
 6. Op het einde van de buis staat een detector die de kleurstof op het einde van de sequentie kan detecteren. Door de opeenvolging van kleuren te registeren kan je de DNA sequentie lezen.
 
 
-De techniek kan DNA sequenties van maximum 1000 nucleotiden op een precieze en betrouwbare manier lezen. Toch zijn de meeste DNA en RNA sequenties veel langer, miljoenen tot miljarden nucleotiden. Daarom zijn er nog andere technieken nodig om een volledige DNA of RNA sequentie uit te lezen. Een van deze technieken is **shotgun sequencing**.
+De techniek kan DNA sequenties van maximum 1000 nucleotiden op een precieze en betrouwbare manier lezen. De meeste DNA en RNA sequenties zijn echter veel langer, ze kunnen bestaan uit miljoenen tot miljarden nucleotiden. Daarom zijn er nog andere technieken nodig om een volledige DNA of RNA sequentie te lezen. Een van deze technieken is **shotgun sequencing**.
 
 ### Shotgun sequencing
 
 
-**Shotgun sequencing** wordt gebruikt om DNA sequenties van meer dan 1000 nucleotiden lang te kunnen lezen. Bij shotgun sequencing knip je een dna streng in willekeurige stukken die korter zijn dan 1000 nucleotiden. Elk van die stukken lees je dan uit met een sequencing techniek voor korte stukken DNA (bv. Sanger sequencing). Dit doe je voor een aantal kopieën van het originele DNA. In de uitgelezen fragmenten DNA ga je dan op zoek naar overlap om zo de originele sequentie te kunnen reconstrueren.
+**Shotgun sequencing** wordt gebruikt om DNA sequenties van meer dan 1000 nucleotiden lang te kunnen lezen. Bij shotgun sequencing knip je een dna streng in willekeurige stukken die korter zijn dan 1000 nucleotiden. Elk van die stukken lees je dan met een sequencing techniek voor korte stukken DNA (bv. Sanger sequencing). Dit doe je voor een aantal kopieën van het originele DNA. In de uitgelezen fragmenten DNA ga je dan op zoek naar overlap om zo de originele sequentie te kunnen reconstrueren.
 
 Hieronder zie je een voorbeeld van een sequentie die meerdere keren is opgesplitst en uitgelezen.
 
