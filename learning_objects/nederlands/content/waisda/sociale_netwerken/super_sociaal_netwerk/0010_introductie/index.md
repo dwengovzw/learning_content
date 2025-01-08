@@ -6,7 +6,7 @@ title: "Introductie"
 description: "Leer hoe je informatie kan halen uit een sociaal netwerk."
 keywords: ["Sociale netwerken", "grafen", "AI", "Unsupervised learning"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -15,12 +15,12 @@ skos_concepts: [
 ]
 copyright: "CC BY dwengo"
 target_ages: [14, 15, 16, 17, 18]
-teacher_exclusive: True
+teacher_exclusive: False
 ---
 
 # Sociale netwerken
 
-We delen heel wat van onze persoonlijke informatie op sociale netwerken. Je staat er misschien niet bij stil maar de eigenaars van deze sociale netwerken gebruiken deze informatie om geld te verdienen. Dat kan bijvoorbeeld door jou gepersonaliseerde advertenties te laten zien of door inzichten over hun gebruikers te verkopen aan andere bedrijven. Om de informatie van hun gebruikers te analyseren, gebruiken deze bedrijven verschillende data-analyse technieken. Deze technieken zoeken bijvoorbeeld naar vriendengroepen of identificeren welke personen veel invloed hebben binnen het netwerk.  
+We delen heel wat van onze persoonlijke informatie op sociale netwerken. Je staat er misschien niet bij stil maar de eigenaars van deze sociale netwerken gebruiken deze informatie om geld te verdienen. Dat kan bijvoorbeeld door jou gepersonaliseerde advertenties te laten zien of door inzichten over de gebruikers te verkopen aan andere bedrijven. Om de informatie van hun gebruikers te analyseren, gebruiken socialmedia-platformen verschillende data-analyse technieken. Deze technieken zoeken bijvoorbeeld naar vriendengroepen of identificeren welke personen veel invloed hebben binnen het netwerk.  
 
 ## De sociale graaf
 

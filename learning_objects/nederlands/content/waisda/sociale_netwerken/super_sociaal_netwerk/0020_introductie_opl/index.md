@@ -18,6 +18,8 @@ target_ages: [14, 15, 16, 17, 18]
 teacher_exclusive: True
 ---
 
+# Sociale graaf (oplossing)
+
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
 <div class="content">
