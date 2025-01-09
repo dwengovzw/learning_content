@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-bruggen-van-koningsbergen-graaf",
+              "hruid": "org-dwengo-waisda-sociale-netwerken-super-sociaal-netwerk-verst-van-elkaar",
               "version": "1",
               "language": "nl"
             }
@@ -53,14 +53,14 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-bruggen-van-koningsbergen-graaf",
+        "learningobject_hruid": "org-dwengo-waisda-sociale-netwerken-super-sociaal-netwerk-verst-van-elkaar",
         "version": "1",
         "language": "nl",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-euleriaans-pad",
+              "hruid": "org-dwengo-waisda-sociale-netwerken-super-sociaal-netwerk-vriendengroepen",
               "version": "1",
               "language": "nl"
             }
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-euleriaans-pad",
+        "learningobject_hruid": "org-dwengo-waisda-sociale-netwerken-super-sociaal-netwerk-vriendengroepen",
         "version": "1",
         "language": "nl",
         "transitions": [
