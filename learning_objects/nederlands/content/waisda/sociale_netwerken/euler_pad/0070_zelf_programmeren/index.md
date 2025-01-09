@@ -20,7 +20,10 @@ teacher_exclusive: False
 
 # Zelf grafen programmeren
 
-Je weet intussen hoe je een graaf kan voorstellen op de computer en wat een Euleriaans pad is in die graaf. In de volgende notebook ga je zelf aan de slag met verschillende grafen. Je zal ze voorstellen aan de hand van hun adjacentielijst, controleren of ze een euleriaans pad bevatten en je zal dat pad zoeken aan de hand van het algoritme van Fleury.
+Je weet intussen hoe je een graaf kan voorstellen op de computer en wat een Euleriaans pad is in die graaf. In de volgende notebook ga je zelf aan de slag met verschillende grafen. Je zal ze voorstellen aan de hand van hun adjacentielijst, controleren of ze een euleriaans pad bevatten en je zal dat pad zoeken aan de hand van het algoritme van Fleury. Bekijk zeker eerst de video over het algoritme van Fleury om te begrijpen hoe het werkt.
+
+![](@youtube/https://www.youtube.com/embed/R9FA5VkfHrw?si=d64v4-WPlQvYVEFp "video")
+
 
 [![](images/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_sociale_netwerken_euler "Notebook transfer learning")
 
