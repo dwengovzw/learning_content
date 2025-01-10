@@ -19,3 +19,9 @@ teacher_exclusive: False
 ---
 
 # Vriendengroepen
+
+Groepen van personen die sterk met elkaar geconnecteerd zijn, zijn vaak vriendengroepen. Tussen deze groepen zijn vaak ook één of meerdere connecties. Je hebt bijvoorbeeld vrienden op school maar ook vrienden in je sportclub of jeugdbeweging. Jij bent dan de link tussen de vriendengroep op school, die in de sportclub en die in de jeugdbeweging. 
+
+## Community detectie
+
+Methodes om vriendengroepen te vinden in grafen worden technieken voor *community detectie* genoemd. Er zijn verschillende technieken voor community detectie. Een methode die werd bedacht door de Belgische wiskundige Vincent Daniel Blondel aan de UCL. Daarom wordt het ook de **Louvain methode** genoemd. Deze methode zal de *modulariteit* van de graaf berekenen waar elke knoop zijn eigen community is. Het algoritme voegt dan knopen zodanig samen in communities dat de modulariteit van de graaf stijgt. Dit blijft het algoritme herhalen totdat de modulariteit niet meer stijgt.

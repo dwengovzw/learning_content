@@ -75,7 +75,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-euleriaans-pad-opl",
+              "hruid": "org-dwengo-waisda-sociale-netwerken-super-sociaal-netwerk-notebook",
               "version": "1",
               "language": "nl"
             }
@@ -83,97 +83,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-euleriaans-pad-opl",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-voorstellingen",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-voorstellingen",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-zelf-programmeren",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-zelf-programmeren",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-euler-dna",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-euler-dna",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-dna-sequencing",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-dna-sequencing",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-de-bruijn-graaf",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-de-bruijn-graaf",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-reconstructie",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-reconstructie",
+        "learningobject_hruid": "org-dwengo-waisda-sociale-netwerken-super-sociaal-netwerk-notebook",
         "version": "1",
         "language": "nl"
       }     
