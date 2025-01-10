@@ -25,3 +25,14 @@ In de volgende notebook verken je zelf een "super" sociaal netwerk. Het netwerk 
 !["Voorbeeld super sociaal netwerk"](img/voorbeeld_sociale_graaf_min_dist.svg)
 
 In de knopen van deze graaf staan de superhelden. Wanneer er een boog tussen twee helden staat, komen die één of meerdere keren samen voor in een strip. Het getal naast de boog geeft weer in hoeveel strips ze samen voorkomen. 
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+Bekijk de afbeelding van het super sociaal netwerk. Denk na over hoe jij communities zou detecteren in deze graaf. Met welke eigenschappen zal je rekening houden?
+</div>
+</div>
+
+Ga nu zelf aan de slag met het sociale netwerk van de Marvel superhelden en ontdek welke informatie je uit het netwerk kan halen.
+
+[![](images/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_sociale_netwerken_super_sociaal_netwerk "Notebook transfer learning")
