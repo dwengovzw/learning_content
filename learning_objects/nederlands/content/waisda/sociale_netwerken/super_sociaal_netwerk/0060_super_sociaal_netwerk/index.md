@@ -35,4 +35,4 @@ Bekijk de afbeelding van het super sociaal netwerk. Denk na over hoe jij communi
 
 Ga nu zelf aan de slag met het sociale netwerk van de Marvel superhelden en ontdek welke informatie je uit het netwerk kan halen.
 
-[![](images/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_sociale_netwerken_super_sociaal_netwerk "Notebook transfer learning")
+[![](img/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_sociale_netwerken_super_sociaal_netwerk "Notebook transfer learning")
