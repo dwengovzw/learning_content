@@ -34,7 +34,8 @@ teacher_exclusive: false
 Het aanmaken van stomata wordt beïnvloed door omgevingsfactoren. Je leert aan de computer om stomata van bezonde planten en van planten in de schaduw van elkaar te onderscheiden.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1802 "Stomata zon - schaduw")
- 
+
+Deze animatie illustreert een neuraal netwerk dat vertrekt van willekeurige waarden voor de gewichten, dus van een willekeurige rechte, en dat vervolgens tijdens zijn training deze gewichten stap voor stap aanpast, tot hij een vrij goede scheidingslijn bekomt.<br> 
 ![animatie classificatie](embed/classificatiezonschaduw.gif "Classificatie van huidmondjes van bezonde en beschaduwde planten") 
 <br> Met dank aan M. Camargo en R. Marenco voor de gedeelde data.
 <br>Camargo, M. & Marenco, R. (2012). Growth, leaf and stomatal traits of crabwood (Carapa guianensis Aubl.) in Central Amazonia. Revista Árvore, 36, 07–16.
