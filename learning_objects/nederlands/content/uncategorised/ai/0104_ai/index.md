@@ -76,3 +76,8 @@ In het leerpad [Deep learning - basis](https://dwengo.org/learning-path.html?hru
     "Veronderstel dat we de volgende prompt geven aan een LLM: “The first person to walk on the moon was ”,  en stel dat het antwoordt met “Neil Armstrong”.<br>
     Wat vragen we hier eigenlijk? Het is belangrijk om in te zien dat we eigenlijk niet vragen wie de eerste persoon was die op de maan wandelde. De vraag die we echt stellen aan het model is de volgende vraag:  Gegeven de statistische verdeling van de woorden in de zeer uitgebreide publieke corpus van (Engelse) tekst, welke woorden volgen er het meest waarschijnlijk op de reeks “The first person to walk on the moon was ”? Een goed antwoord op deze vraag is “Neil Armstrong”.  (Bron: Talking About Large Language Models, Murray Shanahan, 2022)
     </div>
+
+
+Hier zie je een generatief AI-systeem aan het werk. Vertrekkend vanuit ruis wordt de afbeelding gegenereerd van een kat met een ballon. <br>
+![GenAI Appa met ballon](embed/appa.mp4 "GenAI Appa met ballon")
+<br> Stable Diffusion model bijgetraind met LoRA op foto's van de kat Appa.<br>Prompt: “8pp8, a cat holding a balloon, photography. f/8 photo. Centered subject, studio lighting, white background.”
