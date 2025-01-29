@@ -38,3 +38,7 @@ elementsgewijs vermenigvuldigd en erna worden deze producten opgeteld.
 In deze notebook leer je exact hoe deze bewerking verloopt.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1751 "Convolutie bewerking")
+
+Deze animatie geeft je alvast een voorproefje:<br>
+![animatie convolutiebewerking](embed/convolutie.gif "Convolutiebewerking") 
+<br>Bron: Afbeelding van Rob Robinson, MLNotebook. Geraadpleegd op 19 mei 2019 via  https://mlnotebook.github.io
