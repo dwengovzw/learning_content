@@ -36,7 +36,7 @@ We maakten gebruik van de volgende Python code om de lagen toe te voegen aan ons
 
 ```Python
 
-model = Sequential()
+    model = Sequential()
     
     model.add(InputLayer(input_shape=(hoogte_afbeelding, breedte_afbeelding, 1)))
     
@@ -70,7 +70,9 @@ model = Sequential()
     model.add(Dropout(0.1)) 
     model.add(Dense(2, activation="softmax"))
     
-    model.compile(optimizer="adam", loss="categorical_crossentropy", metrics=["accuracy"])
+    model.compile(optimizer="adam", 
+        loss="categorical_crossentropy", 
+        metrics=["accuracy"])
 
 ```
 
