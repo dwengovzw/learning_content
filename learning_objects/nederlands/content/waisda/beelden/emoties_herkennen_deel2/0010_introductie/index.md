@@ -1,5 +1,5 @@
 ---
-hruid: org-dwengo-waisda-beelden-emoties-deel2
+hruid: org-dwengo-waisda-beelden-emoties-deel2-intro
 version: 1
 language: nl
 title: "De lagen van het neurale netwerk"
