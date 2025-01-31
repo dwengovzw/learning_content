@@ -57,7 +57,7 @@ De datacentra wereldwijd zijn naar schatting verantwoordelijk voor 0,3 % tot 2 %
 <center>Google Data Center, Council Bluffs Iowa. chaddavis.photography from United States, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Google_Data_Center,_Council_Bluffs_Iowa_%2849062863796%29.jpg </center>
 
 <div class="alert alert-box alert-success">
-    Elke Google <b>zoekopdracht</b> verbruikt een klein beetje energie. Maar veel kleintjes maken een grote hoeveelheid en het hoeft niet gezegd dat er enorm veel zoekopdrachten plaatsvinden, miljoenen per minuut en biljoenen per jaar. Volgens Google zorgt elke zoekopdracht voor een CO<sub>2</sub>-uitstoot van 0,2 g, wat per jaar zou overeenkomen met de uitstoot van het draaien van één was.
+    Elke Google <b>zoekopdracht</b> verbruikt een klein beetje energie. Maar veel kleintjes maken een grote hoeveelheid en het hoeft niet gezegd dat er enorm veel zoekopdrachten plaatsvinden, miljoenen per minuut en biljoenen per jaar. Volgens Google zorgt elke zoekopdracht voor een CO<sub>2</sub>-uitstoot van 0,2 g, wat voor een gezin per jaar zou overeenkomen met de uitstoot van het draaien van één was per dag.
 </div> 
 
 <div class="alert alert-box alert-success">
