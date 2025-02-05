@@ -47,6 +47,8 @@ Bekijk de twee krantenkoppen:<br>
 - Wat roepen deze krantenkoppen bij je op? 
 - Vind je dit spannend? Of maakt het je een beetje bang?
 
+*Denk je aan zelfmoord en heb je nood aan een gesprek, dan kan je terecht bij de Zelfmoordlijn op het nummer 1813 of via www.zelfmoord1813.be*
+
 ### Opdracht
 
 Bekijk: [voorbeelden van kunstmatige intelligentie](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=org-dwengo-jommeke-voorbeelden-ai-systemen&version=1&language=nl).
