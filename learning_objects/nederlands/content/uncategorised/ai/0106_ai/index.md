@@ -39,6 +39,10 @@ De **impact van AI** zal mogelijk nog groter zijn dan de komst van het internet.
 
 Een AI-systeem is bv. ‘vooringenomen’, veelal te wijten aan de data waarmee het systeem werd getraind. Deze **bias** moet men zoveel mogelijk controleren en tot het minimum herleiden. Door die bias kan een AI-systeem bv. racistisch of seksistisch zijn.
 
+Sommige AI-systemen worden ontwikkeld aan de hand van gelabelde voorbeelden. Het labelen van die voorbeelden gebeurt doorgaans door mensen, in de vrije tijd via *citizen science*-projecten of beroepsmatig, bijvoorbeeld in maatwerkbedrijven. 
+
+Voorbeelden: [herkennen van verschillende types apparaten, zoals smartphones, stofzuigers en computers](https://www.sirris.be/nl/inspiratie/maatwerkbedrijven-versterken-de-circulaire-economie) of [reclameblokken annoteren](https://decorrespondent.nl/15094/in-dit-lab-werken-mensen-met-autisme-aan-kunstmatige-intelligentie-en-dat-werkt/86c63d47-8c0d-0b4b-173c-cec4a6e74622).
+
 ----------------------------
 Op de maatschappelijke aspecten van AI-systemen wordt dieper ingegaan in het leerpad ['Maatschappelijke aspecten'](https://dwengo.org/learning-path.html?hruid=kiks7_ethiek&language=nl&te=true#kiks_ethiek;nl;3) van het KIKS-project en de [kaartenset](https://dwengo.org/assets/files/care/Kaartset_AIIndeZorg_AIOpSchool_Dwengo.pdf) van het 'AI in de Zorg'-project.<br>
 Ook in de handleidingen van [KIKS](https://dwengo.org/assets/files/kiks/KIKS_handleiding_eerstedruk.pdf), het [Chatbot-project](https://dwengo.org/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf) en de [leerlingencursus van AI in de Zorg](https://dwengo.org/assets/files/care/AIindeZorg_doorstroom_eerstedruk.pdf) lees je meer hierover.
