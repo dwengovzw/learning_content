@@ -40,7 +40,7 @@ Dit diep neuraal netwerk netwerk bestaat uit drie convolutionele lagen, aangevul
 
 ![convnet kiks](embed/referentienetwerk.png "Convolutioneel neuraal netwerk om huidmondjes te herkennen") 
 
-Dit neuraal netwerk kan een classificeren tussen 2 klassen ('Stoma' of 'Geen stoma') wanneer het een afbeelding van 120 pixels op 120 pixels krijgt als invoer. 
+Dit neurale netwerk kan classificeren tussen 2 klassen ('Stoma' of 'Geen stoma') wanneer het een afbeelding van 120 pixels op 120 pixels krijgt als invoer. 
 
 Het systeem moet echter ook in staat zijn om de stomata op een grote afbeelding te vinden. Bijvoorbeeld de stomata op een microscopische foto van 1600 x 1200 pixels, hierbij verondersteld dat de stomata ongeveer 120 x 120 pixels groot zijn op de foto. <br>
 Om dit te verwezenlijken wordt een ander algoritme ingezet dat een sliding window gebruikt.
