@@ -32,18 +32,18 @@ teacher_exclusive: true
 
 # Soorten AI
 
-## Brede AI, enge AI en AGI
+## Brede AI, smalle AI en AGI
 
 Hoewel er ongetwijfeld spannende ontwikkelingen zijn op het vlak van AI, staat de kunstmatige intelligentie vooralsnog mijlenver af van menselijke intelligentie. Een mens kan behoorlijk veel bijleren uit een beperkt aantal voorbeelden, omdat hij ook zijn reeds opgedane kennis en vaardigheden benut. Een mens is bovendien zeer flexibel: we zijn in staat ons snel aan te passen aan veranderende omstandigheden en adequaat te reageren op onverwachte gebeurtenissen. Vandaag de dag kan een computer dat niet. Een AI-systeem is gericht op het invullen van een **bepaalde taak** en is maar goed in datgene waarvoor het ontworpen is.
 
 <div class="alert alert-box alert-success">
-    <strong>Brede AI, enge AI en AGI</strong><br> 
-    Bij enge AI (<em>narrow AI</em>) gaat het over AI-systemen die de specifieke taken doen waarvoor ze ontworpen werden, bv. een spamfilter. <br>
+    <strong>Brede AI, smalle (of enge) AI en AGI</strong><br> 
+    Bij smalle AI (<em>narrow AI</em>) gaat het over AI-systemen die de specifieke taken doen waarvoor ze ontworpen werden, bv. een spamfilter. <br>
     Brede AI (<em>general AI</em>) betreft systemen die al meer diverse taken aankunnen, denk bv. aan wat men zich kan voorstellen bij een robotbutler. <br>
     Bij de zogenaamde <em>Artificial General Intelligence</em> (AGI) gaat het over computersystemen met dezelfde capaciteiten als een mens. We hebben vooralsnog niet de kennis om AGI-systemen te ontwerpen. 
 </div>
 
-AI zat lang op het niveau van de enge AI, maar momenteel situeren sommige toepassingen zich ergens tussen enge en brede AI. 
+AI zat lang op het niveau van de enge AI, maar momenteel situeren sommige toepassingen zich ergens tussen smalle en brede AI. 
 
 ## Kennis- en datagebaseerde systemen
 
