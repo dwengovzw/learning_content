@@ -15,7 +15,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-beelden-emoties-herkennen-data-verzamelen",
+              "hruid": "org-dwengo-waisda-beelden-emoties-deel2-het-netwerk",
               "version": "1",
               "language": "nl"
             }
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-beelden-emoties-herkennen-data-verzamelen",
+        "learningobject_hruid": "org-dwengo-waisda-beelden-emoties-deel2-het-netwerk",
         "version": "1",
         "language": "nl",
         "transitions": [
