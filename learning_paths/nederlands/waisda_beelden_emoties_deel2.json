@@ -30,7 +30,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-beelden-emoties-herkennen-emoties-tekenen",
+              "hruid": "org-dwengo-waisda-beelden-emoties-deel2-input-layer",
               "version": "1",
               "language": "nl"
             }
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-beelden-emoties-herkennen-emoties-tekenen",
+        "learningobject_hruid": "org-dwengo-waisda-beelden-emoties-deel2-input-layer",
         "version": "1",
         "language": "nl",
         "transitions": [

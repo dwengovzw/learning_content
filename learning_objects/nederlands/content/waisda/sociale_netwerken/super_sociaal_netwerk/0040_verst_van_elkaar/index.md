@@ -35,7 +35,8 @@ We zoeken deze afstand tussen elk paar personen in het netwerk. Er zijn 10 perso
 
 Om de minimale afstand tussen twee knopen in een graaf te bepalen kunnen we het **algoritme van Dijkstra** gebruiken. Dit algoritme wordt bijvoorbeeld ook gebruikt in een routeplanner om de kortste weg tussen twee plaatsten te bepalen. Bekijk de volgende video om te weten te komen hoe het algoritme werkt.
 
-TODO: video over algoritme van Dijkstra
+![](@youtube/https://www.youtube.com/embed/O83LGOGicZ8?si=li_3kOd7z7HQyMA- "video")
+
 
 Door het algoritme van Dijkstra toe te passen op elk paar van knopen in onze sociale graaf, kennen we de minimale afstand tussen elke twee knopen. Het paar knopen met de hoogste minimale afstand zegt ons hoe uitgespreid het netwerk is.
 
