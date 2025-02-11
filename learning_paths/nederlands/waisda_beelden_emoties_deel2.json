@@ -75,7 +75,22 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-beelden-emoties-deel2-maxpool",
+              "hruid": "org-dwengo-waisda-beelden-emoties-deel2-dropout",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-beelden-emoties-deel2-dropout",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-waisda-beelden-emoties-deel2-dropout",
               "version": "1",
               "language": "nl"
             }
