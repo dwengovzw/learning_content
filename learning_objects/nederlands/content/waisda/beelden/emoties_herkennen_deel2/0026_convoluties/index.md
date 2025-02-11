@@ -18,7 +18,9 @@ target_ages: [14, 15, 16, 17, 18]
 teacher_exclusive: False
 ---
 
-# De convolutie
+# Convolutionele lagen
+
+## De convolutie operatie
 
 Wanneer je een **convolutie** toepast op een afbeelding, zal je bepaalde **eigenschappen van die afbeelding versterken of verzwakken**. Je kan de afbeelding bijvoorbeeld scherper maken of je kan de randen in de afbeelding uitvergroten. Wat het effect is van de convolutie wordt bepaald door de **filter** die je gekozen hebt. Hieronder kan je verschillende filters proberen. Wat is het effect van elk van deze filters?
 
@@ -32,3 +34,17 @@ Aan de hand van Python kan je convoluties toepassen op een afbeelding. Via de vo
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1712 "Basic")
 
+## De convolutionele laag
+
+Een convolutionele laag zal een invoerafbeelding omvormen door er een convolutie op toe te passen. De laag zal dat niet doen met een vaste **filter** maar zal **zelf een filter leren** tijdens het trainingsproces. Zo kan het neurale netwerk de eigenschappen die relevant zijn voor de taak uit de afbeelding halen. 
+
+<div class="dwengo-content sideinfo">
+<h2 class="title">Wanneer gebruik je convoluties?</h2>
+<div class="content">
+<p>Convoluties zijn vooral nuttig voor gegevens waar er een verband is tussen naburige waarden. De convolutie zal immers naburige waarden combineren tot een nieuwe waarde.</p>
+<p>Bij afbeeldingen combineren we bijvoorbeeld regio's van 3x3 pixels tot 1 nieuwe waarde. Deze waarde stelt dan een eigenschap van deze regio voor. Bijvoorbeeld of er in de regio een rand te zien is of niet.</p>
+<p>
+Naast afbeeldingen, kunnen convoluties gebruikt worden voor: geluid, financiële tijdreeksen, ECG signalen, sensorgegevens, ... Convoluties zijn niet nuttig voor gegevens zonder lokale verbanden zoals een tabel met klantengegevens of medische gegevens in een patiëntendossier.
+</p>
+</div>
+</div>
