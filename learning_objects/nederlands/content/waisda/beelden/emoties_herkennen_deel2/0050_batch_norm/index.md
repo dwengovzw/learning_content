@@ -39,4 +39,4 @@ Zo'n normalisatie kan je uitvoeren door van de waarde het gemiddelde af te trekk
 
 Hier is \\(\epsilon\\) een hele kleine waarde > 0 om ervoor te zorgen dat je nooit kan delen door nul.
 
-Batch normalisatie zal het trainingsproces stabieler maken, zorgen dat het model sneller convergeert en het minder gevoelig maken voor variaties in de invoer.
+Batch normalisatie zal het trainingsproces **stabieler maken**, zorgen dat het model **sneller convergeert** en het **minder gevoelig maken voor variaties** in de invoer.
