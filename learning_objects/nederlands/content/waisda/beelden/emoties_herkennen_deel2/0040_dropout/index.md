@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # Dropout
 
-De **dropout** laag zal elk element in de invoer met een kans van \\(p\\) op nul zetten. Hieronder zie je een voorbeeld van hoe het effect van de dropout laag eruit kan zien.
+De **dropout** laag zal elk element in de invoer met een waarschijnlijkheid van \\(p\\) op nul zetten. Hieronder zie je een voorbeeld van hoe het effect van de dropout laag eruit kan zien.
 
 !["Voorbeeld van dropout"](img/dropout.png)
 
