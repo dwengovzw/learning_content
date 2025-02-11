@@ -24,7 +24,7 @@ teacher_exclusive: False
 
 Wanneer je een **convolutie** toepast op een afbeelding, zal je bepaalde **eigenschappen van die afbeelding versterken of verzwakken**. Je kan de afbeelding bijvoorbeeld scherper maken of je kan de randen in de afbeelding uitvergroten. Wat het effect is van de convolutie wordt bepaald door de **filter** die je gekozen hebt. Hieronder kan je verschillende filters proberen. Wat is het effect van elk van deze filters?
 
-<iframe src="https://dwengo.org/convolutie" title="Voorbeeld van een convolutie" width="720px" height="720px"></iframe>
+<iframe src="https://dwengo.org/convolutie" title="Voorbeeld van een convolutie" width="720px" height="750px"></iframe>
 
 De convolutie zal de **filter** (= raster van getallen) van links naar rechts en van boven naar onder over de afbeelding schuiven. Op elke positie van het raster wordt een pixelwaarde van de uitvoerafbeelding berekend. Bekijk onderstaande video om te begrijpen hoe je een convolutie kan toepassen op een afbeelding.
 
