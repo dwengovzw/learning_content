@@ -32,7 +32,7 @@ TODO: insert video about convolutions.
 
 Aan de hand van Python kan je convoluties toepassen op een afbeelding. Via de volgende notebook leer je hoe je dat moet doen.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1712 "Basic")
+[![](img/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1712 "Basic")
 
 ## De convolutionele laag
 
