@@ -40,3 +40,15 @@ Zo'n normalisatie kan je uitvoeren door van de waarde het gemiddelde af te trekk
 Hier is \\(\epsilon\\) een hele kleine waarde > 0 om ervoor te zorgen dat je nooit kan delen door nul.
 
 Batch normalisatie zal het trainingsproces **stabieler maken**, zorgen dat het model **sneller convergeert** en het **minder gevoelig maken voor variaties** in de invoer.
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+Pas batch normalisatie toe op de volgende gegevens.
+<ul>
+    <li>\(\epslison = 0.001\), \(x_{1} = 5\), \(x_{2} = 3\), \(x_{3} = 1\), \(x_{4} = 1\), \(x_{5} = 9\)</li>
+    <li>\(\epslison = 0.0001\), \(x_{1} = -2\), \(x_{2} = 4\), \(x_{3} = -3\), \(x_{4} = -1\), \(x_{5} = 2\), \(x_{6} = 0\)</li>
+    <li>\(\epslison = 0.002\), \(x_{1} = 1\), \(x_{2} = 1\), \(x_{3} = 1\), \(x_{4} = 2\)</li>
+</ul>
+</div>
+</div>
