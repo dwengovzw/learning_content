@@ -6,7 +6,7 @@ title: "Max pooling"
 description: "Wat is max pooling?"
 keywords: ["lagen", "AI", "neurale netwerken", "max pooling"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 8
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

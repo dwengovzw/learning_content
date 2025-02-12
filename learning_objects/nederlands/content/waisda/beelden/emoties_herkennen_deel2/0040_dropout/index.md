@@ -6,7 +6,7 @@ title: "Dropout"
 description: "Wat is max dropout?"
 keywords: ["lagen", "AI", "neurale netwerken", "dropout"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 8
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
