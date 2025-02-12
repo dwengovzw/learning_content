@@ -20,5 +20,8 @@ teacher_exclusive: False
 
 # Breek het model
 
+In deel één van deze activiteit heb je een AI-model getraind dat in staat was om emoties te herkennen. Intussen weet je ook uit welke lagen dat model bestaat. In het volgende deel van dit leerpad probeer je het bestaande model te breken. Je probeert er dus voor te zorgen dat het model niet meer goed werkt. Dat kan je doen door lagen uit het model weg te halen.
+
+Via de volgende notebook kan je experimenteren met het model. Je haalt lagen weg uit het model en analyseert wat de impact is op de prestatie van het model.
 
 [![](img/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_beelden_emoties_deel2 "Basic")
