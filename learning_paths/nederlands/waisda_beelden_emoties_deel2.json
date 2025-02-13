@@ -105,6 +105,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "org-dwengo-waisda-beelden-emoties-deel2-flatten",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-beelden-emoties-deel2-flatten",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org-dwengo-waisda-beelden-emoties-deel2-dense",
               "version": "1",
               "language": "nl"
