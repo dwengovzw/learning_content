@@ -44,9 +44,9 @@ Batch normalisatie zal het trainingsproces **stabieler maken**, zorgen dat het m
 <div class="content">
 Pas batch normalisatie toe op de volgende gegevens.
 <ul>
-    <li>\(x_{1} = 5\), \(x_{2} = 3\), \(x_{3} = 1\), \(x_{4} = 1\), \(x_{5} = 9\)</li>
+    <li>\(x_{1} = 5\), \(x_{2} = 3\), \(x_{3} = 2\), \(x_{4} = 1\), \(x_{5} = 9\)</li>
     <li>\(x_{1} = -2\), \(x_{2} = 4\), \(x_{3} = -3\), \(x_{4} = -1\), \(x_{5} = 2\), \(x_{6} = 0\)</li>
-    <li>\(x_{1} = 1\), \(x_{2} = 1\), \(x_{3} = 1\), \(x_{4} = 2\)</li>
+    <li>\(x_{1} = 1\), \(x_{2} = 1\), \(x_{3} = 1\), \(x_{4} = 1\)</li>
 </ul>
 </div>
 </div>
