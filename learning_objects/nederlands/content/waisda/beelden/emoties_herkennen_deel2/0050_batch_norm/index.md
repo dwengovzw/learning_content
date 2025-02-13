@@ -34,10 +34,8 @@ Zo'n normalisatie kan je uitvoeren door van de waarde het gemiddelde af te trekk
 
 3. Normaliseer de waarde
 
-\\[\hat{x}_i = \frac{x_i - \mu}{\sqrt{\sigma^2+\epsilon}}\\]
+\\[\hat{x}_i = \frac{x_i - \mu}{\sqrt{\sigma^2}}\\]
 
-
-Hier is \\(\epsilon\\) een hele kleine waarde > 0 om ervoor te zorgen dat je nooit kan delen door nul.
 
 Batch normalisatie zal het trainingsproces **stabieler maken**, zorgen dat het model **sneller convergeert** en het **minder gevoelig maken voor variaties** in de invoer.
 
@@ -46,9 +44,9 @@ Batch normalisatie zal het trainingsproces **stabieler maken**, zorgen dat het m
 <div class="content">
 Pas batch normalisatie toe op de volgende gegevens.
 <ul>
-    <li>\(\epsilon = 0.001\), \(x_{1} = 5\), \(x_{2} = 3\), \(x_{3} = 1\), \(x_{4} = 1\), \(x_{5} = 9\)</li>
-    <li>\(\epsilon = 0.0001\), \(x_{1} = -2\), \(x_{2} = 4\), \(x_{3} = -3\), \(x_{4} = -1\), \(x_{5} = 2\), \(x_{6} = 0\)</li>
-    <li>\(\epsilon = 0.002\), \(x_{1} = 1\), \(x_{2} = 1\), \(x_{3} = 1\), \(x_{4} = 2\)</li>
+    <li>\(x_{1} = 5\), \(x_{2} = 3\), \(x_{3} = 1\), \(x_{4} = 1\), \(x_{5} = 9\)</li>
+    <li>\(x_{1} = -2\), \(x_{2} = 4\), \(x_{3} = -3\), \(x_{4} = -1\), \(x_{5} = 2\), \(x_{6} = 0\)</li>
+    <li>\(x_{1} = 1\), \(x_{2} = 1\), \(x_{3} = 1\), \(x_{4} = 2\)</li>
 </ul>
 </div>
 </div>
