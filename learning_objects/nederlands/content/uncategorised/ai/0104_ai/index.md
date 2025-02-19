@@ -87,5 +87,5 @@ Hier zie je een generatief AI-systeem aan het werk. Telkens vertrekkend vanuit r
 
 De robot in dit filmpje maakt ook gebruik van AI, maar dat is geen generatieve AI. Deze robot vouwt een t-shirt.
 
-![](@youtube/https://youtu.be/NSVEcmMpHgI "filmpje AIRO-robot vouwt t-shirt") 
+![](@youtube/https://www.youtube.com/watch?v=NSVEcmMpHgI "filmpje AIRO-robot vouwt t-shirt") 
 
