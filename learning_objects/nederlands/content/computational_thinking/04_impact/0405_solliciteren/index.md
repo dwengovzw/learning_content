@@ -46,44 +46,31 @@ binnen enkele jaren nog steeds te vinden is.
 
 
 ## Bespreking van de impact
- Op basis van socialemediaposts en sollicitatiebrieven wordt er immers ook aan profilering gedaan. 
+- Op basis van socialemediaposts en sollicitatiebrieven wordt er aan profilering gedaan aan de hand van artificieel intelligente algoritmes. Voor human resources is de persoonlijkheid van een sollicitant een interessant gegeven, sommige types zijn immers beter geschikt voor een bepaalde functie dan andere (De Gussem & Daelemans, 2020).<br> 
+Voorbeeld: Het Gentse bedrijf Traicie werkt aan een AI-systeem dat uit sollicitatiebrieven beslist in welke mate de auteur geschikt is voor de job. Het systeem leidt daartoe persoonlijkheidskenmerken af uit wat de sollicitant schreef. 
+- Dankzij AI kan je op sommige platforms interessante vacatures in de mailbox krijgen. 
+Maar krijg je wel alle vacatures te zien waarin je geïnteresseerd bent?<br>
+Voorbeeld: Tot 2018 gebruikte Amazon een sterk bejubeld maar ondertussen afgevoerd AI-systeem om sollicitanten te beoordelen. Het systeem selecteerde geen vrouwen voor technologische posities. Dat kwam omdat het systeem getraind was met historische data: sollicitanten van de voorbije 10 jaar, voornamelijk mannen aangezien zij nog steeds de technologiewereld domineren. <br>
+- Sommige bedrijven, zoals Unilever, maken gebruik van een videointerview om nieuw personeel aan te werven. Die beelden worden ganalyseerd door een algoritme. Daarbij wordt niet enkel rekening gehouden met wat de sollicitant zegt, maar bijvoorbeeld ook met gelaatsuitdrukkingen. Unilever zegt dat het systeem er de meest gemotiveerde en geschikte kandidaten voor de job uithaalt (Oostra, 2019; Wall Street Journal, 2018).<br>
+- Bedrijven die het sollicitatieproeces afhandelen met behulp van AI beroepen zich vaak op de **veronderstelde** objectiviteit van die systemen. Maar in elk AI-systeem zit er bias, deze systemen zijn steeds vooringenomen; dat is te wijten aan de manier waarop ze ontwikkeld zijn. Ook het bedrijf Traicie zegt een unbiased systeem te gebruiken. Hun AI-systeem beslist op basis van sollicitatiebrieven in welke mate de auteur over de vaardigheden beschikt vereist voor een bepaalde job.  
 
-Een Gents bedrijf werkt aan een AI-systeem dat uit sollicitatiebrieven beslist in welke mate de auteur geschikt is voor de job. Het systeem leidt daartoe persoonlijkheidskenmerken af uit wat
-de sollicitant schreef. <br>
-Dankzij AI kan je op sommige platforms interessante vacatures in de mailbox krijgen. 
-Maar krijg je wel alle vacatures te zien waarin je geïnteresseerd bent? Tot 2018 gebruikte Amazon een sterk bejubeld maar ondertussen afgevoerd AI-systeem om sollicitanten te
-beoordelen. Het systeem selecteerde geen vrouwen voor technologische posities. Het was immers getraind met historische data: sollicitanten van de voorbije 10 jaar, voornamelijk mannen aangezien zij nog steeds de technologiewereld domineren. <br>
-Sommige bedrijven maken om nieuw personeel aan te werven, gebruik van een videointerview, dat ganalyseerd wordt door een algoritme.
-Daarbij wordt niet enkel rekening gehouden met wat de sollicitant zegt, maar ook met gelaatsuitdrukkingen bijvoorbeeld.
+#### Kijktips en opdrachten
 
-In het Chatbot-project worden voorbeelden gegeven van nieuwe praktijken die steeds meer hun weg vinden naar de sector van human resource, zoals het screenen van sociale media. Leerlingen beseffen dat wat op socialemediaplatformen gepost wordt, er binnen enkele jaren als zij gaan solliciteren nog steeds te vinden is.
+- Bekijk de [video van Kanaal Z (De Winne, 2020)](https://kanaalz.knack.be/nieuws/taalgebruik-op-cv-onthultpersoonlijkheid/video-normal-1678309.html).<br>
+Bezoek ook de [website van Traicie](https://traicie.com/) en bespreek de objectiviteit van het systeem.
 
-Maar het gaat al veel verder dan dat. Unilever bijvoorbeeld, start een sollicitatieprocedure met het verplicht indienen van een filmpje, wat dan door een AI-systeem wordt geanalyseerd. Men zegt dat het systeem er de meest gemotiveerde en geschikte kandidaten voor de job uithaalt (Oostra, 2019; Wall Street Journal, 2018).<br>
-Het Gentse bedrijf Traicie werkt aan een AI-systeem dat op basis van sollicitatiebrieven beslist in welke mate de auteur over de vaardigheden beschikt vereist voor een bepaalde job. Het systeem leidt daartoe persoonlijkheidskenmerken af uit wat de sollicitant schreef en zegt daarvoor een unbiased systeem te gebruiken.
-Voor human resources is de persoonlijkheid van een sollicitant een interessant gegeven, sommige types zijn immers beter geschikt voor een bepaalde functie dan andere (De Gussem & Daelemans, 2020).
-
-> **Opdrachten**<br>
-
-Bekijk de video (De Winne, 2020):
-https://kanaalz.knack.be/nieuws/taalgebruik-op-cv-onthultpersoonlijkheid/video-normal-1678309.html.
-Bezoek ook de website https://traicie.com/ en bespreek de objectiviteit van het systeem.
-
-In de volgende video worden de nieuwe tendensen bij het aanwerven van personeel aangehaald (Wall Street Journal, 2018):
-https://youtu.be/8QEK7B9GUhM
-Bespreek.
-
-
-Bias komt voor als de data niet representatief zijn. Als men bv. enkel groene appels als voorbeelden geeft aan een DL-systeem, dan zal het model geen rode appels herkennen. Of als men bij de training enkel foto’s van honden onder een stralend blauwe hemel aanbiedt, dan zal het *deep learning*-model een hond in de regen niet bij de klasse 'hond' indelen. Als de gebruikte data gekleurd zijn door een aanwezige bias in de maatschappij, zoals stereotypen, dan zal dit ook doorgegeven worden aan het ML-systeem. Men moet er dus over waken dat het model daardoor niet discriminerend wordt voor bepaalde bevolkingsgroepen. Als men bv. enkel vrouwelijke verplegers in de dataset stopt, dan zullen mannen niet als verpleger worden geclassificeerd. Een model wordt nochtans getest
-voor het in gebruik genomen wordt. De testdata kunnen echter dezelfde bias bevatten als de trainingdata.
+ - In deze [video 'The Robots Are Now Hiring'](https://youtu.be/8QEK7B9GUhM) worden de nieuwe tendensen bij het aanwerven van personeel aangehaald (Wall Street Journal, 2018). <br>Bespreek.
 
 -------------------------------
-## Gerelateerde voorbeelden: 
 
------
+## Extra uitleg
+In het [Chatbot-project](https://dwengo.org/chatbot) worden voorbeelden gegeven van nieuwe praktijken die steeds meer hun weg vinden naar de sector van human resource, zoals het screenen van sociale media. 
 
-#### Kijktips
-Kijk naar [Filmpje van Kanaal Z (De Winne, 2020)](https://kanaalz.knack.be/nieuws/taalgebruik-op-cv-onthultpersoonlijkheid/video-normal-1678309.html)
+Door dit in de klas te bespreken, gaan leerlingen hopelijk beseffen dat wat op socialemediaplatformen gepost wordt, er binnen enkele jaren als zij gaan solliciteren nog steeds te vinden is. Maar het gaat al veel verder dan dat. 
 
+Bias komt voor als de data niet representatief zijn. Als men bv. enkel groene appels als voorbeelden geeft aan een DL-systeem, dan zal het model geen rode appels herkennen. Of als men bij de training enkel foto’s van honden onder een stralend blauwe hemel aanbiedt, dan zal het *deep learning*-model een hond in de regen niet bij de klasse 'hond' indelen. Als de gebruikte data gekleurd zijn door een aanwezige bias in de maatschappij, zoals stereotypen, dan zal dit ook doorgegeven worden aan het ML-systeem. Men moet er dus over waken dat het model daardoor niet discriminerend wordt voor bepaalde bevolkingsgroepen. Als men bv. enkel vrouwelijke verplegers in de dataset stopt, dan zullen mannen niet als verpleger worden geclassificeerd. Een model wordt nochtans getest voor het in gebruik genomen wordt. De testdata kunnen echter dezelfde bias bevatten als de trainingdata.
+
+-------------------------------
+
+#### Kijktip
 Bekijk de [video van Furhat Robotics: Unbiased Recruiter Robot (Furhat Robotics, 2018)](https://youtu.be/rPKrdxiEkQ0)
-
-Bekijk de video ‘The Robots Are Now Hiring’.
