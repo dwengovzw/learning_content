@@ -82,3 +82,10 @@ Hier zie je een generatief AI-systeem aan het werk. Telkens vertrekkend vanuit r
 
 ![](@youtube/https://www.youtube.com/watch?v=f4hHC9oiuPo "filmpje GenAI kat Appa met ballon ") 
 <br> Stable Diffusion model bijgetraind met LoRA op foto's van de kat Appa.<br>Prompt: “8pp8, a cat holding a balloon, photography. f/8 photo. Centered subject, studio lighting, white background.”
+
+Hier zie je een generatief AI-systeem aan het werk. Telkens vertrekkend vanuit ruis worden vier afbeeldingen gegenereerd van de kat Appa met een ballon. 
+
+De robot in dit filmpje maakt ook gebruik van AI, maar dat is geen generatieve AI. Deze robot vouwt een t-shirt.
+
+![](@youtube/https://youtu.be/NSVEcmMpHgI "filmpje AIRO-robot vouwt t-shirt") 
+
