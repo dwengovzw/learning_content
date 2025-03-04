@@ -39,7 +39,7 @@ De ENS160 maakt gebruik van I²C. We sluiten de sensor dan ook zo aan op de Dwen
     </tr>
     <tr>
         <td>+</td>
-        <td>VCC</td>
+        <td>VIN</td>
     </tr>
     <tr>
         <td>-</td>

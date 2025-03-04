@@ -24,10 +24,10 @@ teacher_exclusive: false
 
 # Ladder logica
 
-Om fouten in de productielijn te vermijden is de methode waarmee je de PLC programmeert specifiek gericht op controletoepassingen. Daardoor is het programmeren  van een PLC een stuk eenvoudiger dan het programmeren van een µC. Je kan ladder logica zien als een extra abstractielaag bovenop de C++ code. Net zoals de grafische blokken in de Dwengo simulator een abstractie zijn van de tekstuele code. Hieronder zie je een voorbeeld van een ladder diagram. Deze zal een uitvoer (Q) activeren wanneer twee schakelaars (A en B) ingedrukt worden.
+Om fouten in de productielijn te vermijden is de methode waarmee je de PLC programmeert specifiek gericht op controletoepassingen. Daardoor is het programmeren  van een PLC een stuk eenvoudiger dan het programmeren van een µC. Je kan ladder logica zien als een extra abstractielaag bovenop de C++ code. Net zoals de grafische blokken in de Dwengo simulator een abstractie zijn van de tekstuele code. Hieronder zie je een voorbeeld van een ladder diagram. Deze zal een uitvoer (Q) activeren wanneer een van de schakelaars (A of B) ingedrukt worden.
 
 ![Voorbeeld van een ladder diagram.](images/sample.png "Voorbeeld van een ladder diagram.")
 
 
-Een ladder diagram heeft altijd dezelfde structuur. Links heb je een verticale lijn, deze stelt een draad met positieve spanning voor. Rechts heb je ook een verticale lijn, deze stelt een draad men neutrale spanning voor. Tussen de twee spanningslijnen heb je horizontale verbindingen (rungs in het engels). Deze geven een bepaalde logische schakeling weer.
+Een ladder diagram heeft altijd dezelfde structuur. Links heb je een verticale lijn, deze stelt een draad met positieve spanning voor. Rechts heb je ook een verticale lijn, deze stelt een draad men neutrale spanning voor. Tussen de twee spanningslijnen heb je horizontale verbindingen (rungs in het Engels). Deze geven een bepaalde logische schakeling weer.
 

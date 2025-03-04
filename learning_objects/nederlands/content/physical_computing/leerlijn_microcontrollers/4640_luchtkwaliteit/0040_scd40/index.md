@@ -53,10 +53,6 @@ Je kan de SCD40 op de volgende manier aansluiten op de Dwenguino.
         <td>14</td>
         <td>SCL</td>
     </tr>
-    <tr>
-        <td>-</td>
-        <td>ADO</td>
-    </tr>
 </table>
 
 ## Waarden lezen via de seriële monitor

@@ -82,6 +82,7 @@ Als we de logica van dit diagram willen implementeren op de Dwenguino, dan ziet 
                 initDwenguino();
             }
 
+            // Blijf de drie stappen van het ladder programma herhalen.
             void loop() {
                 leesSchakelaars();
                 voerRijLogicaUit();
