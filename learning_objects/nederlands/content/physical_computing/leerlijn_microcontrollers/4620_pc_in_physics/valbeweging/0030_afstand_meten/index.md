@@ -24,7 +24,7 @@ teacher_exclusive: False
 
 # Data verzamelen
 
-Om de data van de val te capteren, moeten we de microcontroller programmeren om waarden van de sensor te lezen en deze door te sturen naar de computer. Merk op dat het object snel valt. Het zal dus nodig zijn om zo veel mogelijk metingen te doen per seconde om een realistisch beeld te krijgen van de valbeweging.
+Om de data van de val te capteren, moet je de microcontroller programmeren om waarden van de sensor te lezen en deze door te sturen naar de computer. Merk op dat het object snel valt. Het zal dus nodig zijn om zo veel mogelijk metingen te doen per seconde om een realistisch beeld te krijgen van de valbeweging.
 
 Hieronder zie je de code die je nodig hebt om de data te capteren. In de commentaar is uitleg voorzien over waarvoor de verschillende onderdelen van het programma dienen.
 
@@ -34,7 +34,7 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
 
     /*
     Hier importeer de de nodige bibliotheken.
-    Deze heb je nodig om de sonar sensor uit te lezen
+    Deze heb je nodig om de sonar-sensor uit te lezen
     en om gegevens naar het lcd-scherm te schrijven.
     */
     #include <Wire.h>
@@ -49,12 +49,12 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
     #define ECHO_PIN_12 12
 
     /*
-    De maximale afstand die we zullen meten is 200cm.
+    De maximale afstand die je zal meten is 200 cm.
     */
     #define MAX_DISTANCE 200
 
     /*
-    Maak een sonar sensor object aan.
+    Maak een sonar-sensor object aan.
     */
     NewPing sonar1112(TRIGGER_PIN_11, ECHO_PIN_12, MAX_DISTANCE);
 
@@ -71,24 +71,24 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
         /*
         De ping() functie van het sonar object geeft de tijd dat een geluidspuls 
         onderweg is vanaf de sensor naar het object en terug.
-        We gebruiken deze functie en niet de ping_cm() functie omdat deze ons 
+        Je gebruikt deze functie en niet de ping_cm()-functie omdat deze je
         nauwkeurigere waarden zal geven. 
         */
         afstand = sonar1112.ping();  
 
         /*
-        Druk de gemeten afstand af op het scherm.
+        Laat de gemeten afstand zien op het scherm.
         */   
         dwenguinoLCD.setCursor(0,0);
         dwenguinoLCD.print("afstand: " + String(afstand) + "cm");
 
         /*
         Stuur de gegevens over een seriële verbinding naar de computer.
-        Hier maken we gebruik van Serial1. Dit is de BlueTooth verbinding van 
-        de Dwenguino. Wil je gegevens versturen via de usb kabel, gebruik dan 
+        Hier maak je gebruik van Serial1. Dit is de bluetoothverbinding van 
+        de Dwenguino. Wil je gegevens versturen via de USB-kabel, gebruik dan 
         Serial in plaats van Serial1.
-        We sturen het huidige tijdstip en de gemeten afstand door in csv formaat.
-        Dat wil zeggen dat we de waarde scheiden door een ;
+        Je stuurt het huidige tijdstip en de gemeten afstand door in csv-formaat.
+        De waardes worden hier gescheiden door een ;
         */
         Serial1.print(millis());
         Serial1.print(";");
@@ -101,7 +101,7 @@ Hieronder zie je de code die je nodig hebt om de data te capteren. In de comment
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht: gegevens ontvangen op de computer</h2>
 <div class="content">
-Hierboven staat het programma dat je nodig hebt om de afstand te meten en deze door te sturen naar de computer. Bekijk op <a href="https://www.dwengo.org/physical_computing">dwengo.org/physical_computing</a> de leerpaden over de seriële monitor en Bluetooth communicatie. Gebruik de informatie die je daar kan vinden om de verstuurde gegevens te ontvangen op de computer. Schrijf deze gegevens weg naar een .csv bestand waarin elke meting op een andere lijn komt. Hieronder zie je een voorbeeld van hoe zo'n bestand er moet uitzien.
+Hierboven staat het programma dat je nodig hebt om de afstand te meten en deze door te sturen naar de computer. Bekijk op <a href="https://www.dwengo.org/physical_computing">dwengo.org/physical_computing</a> de leerpaden over de seriële monitor en bluetoothcommunicatie. Gebruik de informatie die je daar kan vinden om de verstuurde gegevens te ontvangen op de computer. Schrijf deze gegevens weg naar een bestand met extentie .csv waarin elke meting op een andere lijn komt. Hieronder zie je een voorbeeld van hoe zo'n bestand er moet uitzien.
 
 <pre class="lang-csv">
 <code>
