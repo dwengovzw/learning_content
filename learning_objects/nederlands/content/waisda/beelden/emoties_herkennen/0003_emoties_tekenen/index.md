@@ -22,7 +22,7 @@ target_ages: [14, 15, 16, 17, 18]
 
 # Emoties tekenen
 
-Je krijgt van je begeleider een A3-blad met hetvolgende raster.
+Je krijgt van je begeleider een A3-blad met het volgende raster.
 
 ![](images/raster.svg)
 
