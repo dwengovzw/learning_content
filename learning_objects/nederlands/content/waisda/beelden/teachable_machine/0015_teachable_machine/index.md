@@ -13,18 +13,18 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/tref1/ict',
 
 ]
-copyright: "CC BY dwengo"
+copyright: "CC BY Dwengo"
 target_ages: [14, 15, 16, 17, 18]
 teacher_exclusive: False
 ---
 
 # Google Teachable Machine
 
-Op [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com) stelt Google een applicatie ter beschikking om een *machine learning*-model voor classificatie af te stemmen op jouw eigen doel. Je kan er eigen afbeeldingen uploaden om een AI-systeem te tunen. Je kan bijvoorbeeld een aantal afbeeldingen van katten en honden uploaden om zo een systeem te bouwen die afbeeldingen van alle katten en honden van elkaar kan onderscheiden.
+Op [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com) stelt Google een applicatie ter beschikking om een *machine learning*-model voor classificatie af te stemmen op jouw eigen doel. Je kan er eigen afbeeldingen uploaden om een AI-systeem te **tunen**. Je kan bijvoorbeeld een aantal afbeeldingen van katten en honden uploaden om zo een systeem te bekomen dat afbeeldingen van alle katten en honden van elkaar kan onderscheiden.
 
 ## Misconceptie
 
-Een algemeen misconcept is dat de Teachable Machine een volledig nieuw AI-systeem zal trainen op basis van jouw data. **Dit klopt niet!** Wat het systeem eigenlijk doet is een **bestaand model**, dat al getraind is om heel wat objecten te kunnen detecteren, **bijtrainen** om een zo goed mogelijke classificatie van jouw objecten te maken. Zonder gebruik te maken van een voorgetraind model zou het nooit lukken om een systeem te trainen met maar een beperkt aantal afbeeldingen. Het zou ook nooit lukken in die tijdspanne.
+Een algemene misconceptie is dat de Teachable Machine een volledig nieuw AI-systeem zal trainen op basis van jouw data. **Dit klopt niet!** Wat het systeem eigenlijk doet is een **bestaand model**, dat al getraind is om heel wat objecten te kunnen detecteren, **bijtrainen** om een zo goed mogelijke classificatie van jouw objecten te maken. Zonder gebruik te maken van een voorgetraind model zou het nooit lukken om een systeem te trainen met maar een beperkt aantal afbeeldingen. Het zou ook nooit lukken in die tijdspanne.
 
 
 <div class="dwengo-content assignment">
