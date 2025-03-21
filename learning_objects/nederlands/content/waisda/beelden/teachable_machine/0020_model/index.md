@@ -22,14 +22,14 @@ teacher_exclusive: False
 
 Op de pagina van Teachable Machine, zie je twee knoppen die verwijzen naar een **'model'**. Welke knoppen zijn dat? Zoek ze op op de webpagina van Teachable Machine. **Wat is dat nu eigenlijk, een model?**
 
-Een **AI-model** is een verzamelnaam voor verschillende soorten informatie die nodig zijn om het AI-systeem te doen werken. Het model bestaat uit **een architectuur, algoritmes voor trainen en evaluatie en de geleerde parameters (de gewichten)**. Hieronder lichten we die verschillende concepten toe:
+Een **AI-model** is een verzamelnaam voor verschillende soorten informatie die nodig zijn om het AI-systeem te doen werken. Het model bestaat uit **een architectuur, algoritmes voor trainen en evaluatie, en de geleerde parameters (de gewichten)**. Hieronder lichten we die verschillende concepten toe:
 
 * **De architectuur**: De architectuur legt de vorm van het model vast. Er zijn verschillende soorten AI-modellen, allemaal met hun eigen structuur. Een neuraal netwerk bestaat bijvoorbeeld uit een aantal lagen met elk hun eigen bewerking. Er bestaan ook andere AI-modellen bijvoorbeeld *random forests*, zo'n model bestaat niet uit lagen maar wel uit een verzameling van *bomen*.
 * **De geleerde parameters**: Naast de architectuur van het model heeft het model ook waarden nodig waarop het zich kan baseren om een voorspelling te doen. Meestal zijn dit gewoon getallen. Het trainingsalgoritme zal ervoor zorgen dat de waarden zodanig ingevuld worden dat je het model kan gebruiken om voorspellingen mee te doen.
 * **Algoritmes**: Er zijn verschillende algoritmes nodig om met een model te kunnen werken. Er zal een algoritme nodig zijn om het model iets te 'leren' maar ook om het model een voorspelling te laten doen. Een bekend algoritme dat gebruikt wordt om neurale netwerken iets te leren, is **backpropagation**. Het gebruikte algoritme hangt sterk samen met de gekozen datastructuur.
 
 
-## Architectuur, paremeters en algoritmes
+## Architectuur, parameters en algoritmes
 
 Hieronder wordt er a.d.h.v. afbeeldingen uitgelegd wat de architectuur, de parameters en het algoritme van een neuraal netwerk zijn.
 
