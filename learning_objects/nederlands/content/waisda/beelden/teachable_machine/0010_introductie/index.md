@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-teachable-intro
 version: 1
 language: nl
-title: "Introductie"
+title: "Teachable Machine: inleiding"
 description: "Leer meer over voorgetrainde neurale netwerken."
 keywords: ["Neurale netwerken", "Imagenet", "Teachable machine", "fine tuning"]
 content_type: "text/markdown"
@@ -13,24 +13,25 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/tref1/ict',
 
 ]
-copyright: "CC BY dwengo"
+copyright: "CC BY Dwengo"
 target_ages: [14, 15, 16, 17, 18]
 teacher_exclusive: True
 ---
 
-# Introductie
+# Inleiding
 
-In het [leerpad over het herkennen van emoties](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-beelden-emoties-herkennen&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-beelden-emoties-herkennen-intro;nl;1) trainden de jongeren zelf een eerste eenvoudig neuraal netwerk. Het resultaat van dat trainingsproces kan opgeslagen worden als een **machine learning model**. Zo'n model kan overgezet worden naar andere computers. In dit leerpad zien de jongeren hoe ze **een bestaand model kunnen gebruiken en hoe ze het kunnen aanpassen**. 
+In het [leerpad over het herkennen van emoties](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-beelden-emoties-herkennen&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-beelden-emoties-herkennen-intro;nl;1) trainden de jongeren zelf een eerste eenvoudig neuraal netwerk. Het resultaat van dat trainingsproces kan opgeslagen worden als een **'machine learning'-model**. Zo'n model kan overgezet worden naar andere computers.<br>
+In dit leerpad leren de jongeren hoe ze **een bestaand model kunnen gebruiken en hoe ze het kunnen aanpassen**. 
 
 ## Doel
 
-In deze activiteit laden de deelnemers een versie van het ImageNet model in. Aan dat model voegen ze een extra laag toe die ze zelf trainen om eigen afbeeldingen te laten herkennen. 
+In deze activiteit laden de deelnemers een versie van het ImageNet model in. Aan dat model voegen ze een extra laag toe die ze dan trainen om eigen afbeeldingen te laten herkennen. 
 
 ## Competenties
 
 * Deelnemers komen te weten hoe Teachable Machine van Google werkt.
 * Deelnemers gebruiken Teachable Machine om een model bij te trainen om hun eigen afbeeldingen te classificeren.
-* Deelnemers leren wat het concept van een model is in *machine learning*.
+* Deelnemers leren wat het concept 'model' is in *machine learning*.
 * Deelnemers realiseren zich dat er een verschil is tussen het **trainen** van een nieuw AI-model en het **tunen** van een bestaand model.
 * Deelnemers voegen een laag toe aan een bestaand *machine learning*-model. 
 * Deelnemers trainen het aangepaste model om eigen afbeeldingen te classificeren.
