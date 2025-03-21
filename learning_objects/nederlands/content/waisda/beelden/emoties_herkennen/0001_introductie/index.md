@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-emoties-herkennen-intro
 version: 1
 language: nl
-title: "Emoties herkennen: introductie"
+title: "Emoties herkennen: inleiding"
 description: "Leer hoe je een AI-systeem bouwt dat emoties kan herkennen."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "neurale netwerken", "classificatie", "beelden", "emoties"]
 content_type: "text/markdown"
@@ -20,6 +20,6 @@ copyright: "CC BY dwengo"
 target_ages: [14, 15, 16, 17, 18]
 ---
 
-# Emoties herkennen
+# Inleiding
 
 In dit leerpadontdek je hoe je een AI-systeem kan bouwen dat in staat is om emoties te detecteren. Bij het bouwen van het systeem ervaar je hoe belangrijk het is om een kwalitatieve dataset op te stellen. Daarnaast leer je ook data op een correcte manier voorstellen, zodat het als invoer kan dienen voor een AI-systeem.
