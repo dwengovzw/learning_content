@@ -37,6 +37,6 @@ teacher_exclusive: true
 <div class="dwengo-content sideinfo">
 <h2 class="title">Oplossingen</h2>
 <div class="content">
-Wil je als leerkracht graag de oplossingen van de notebooks? Stuur ons dan een mailtje op info@dwengo.org.
+Wil je als leerkracht graag de oplossingen van de notebooks? Stuur ons dan een mailtje via info@dwengo.org.
 </div>
 </div>
