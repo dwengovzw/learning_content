@@ -24,9 +24,9 @@ teacher_exclusive: true
 # Deel 1: frequentieanalyse
 
 - De deelnemers vinden in de ruimte een kistje met daarop een gesprek tussen twee historici.
-- Aan de muur hangen verschillende afbeeldingen van historici, met daaronder informatie over die persoon alsook een frequentietabel van hoe vaak ze bepaalde woorden gebruiken.
+- Aan de muur hangen verschillende afbeeldingen van historici, met daaronder informatie over die personen, alsook een frequentietabel met hoe vaak ze bepaalde woorden gebruiken.
 
-- Door een frequentietabel op te stellen voor de teksten in het gesprek tussen de historici, kunnen ze achterhalen welke van de twee personages met elkaar spreken. 
+- Door een frequentietabel op te stellen voor het gesprek tussen de twee historici, kunnen de deelnemers achterhalen welke van de twee personages met elkaar spreken. 
 - De som van hun geboortejaren is de code voor het kistje.
 
 **Documenten**
