@@ -27,4 +27,4 @@ Voor deze activiteit heb je per groepje van 5 tot 7 deelnemers het volgende mate
 
 * Twee blanco rasters van 20 x 16 vakjes ([raster.pdf](content/sjabloon_fax.pdf)).
 * Twee potloden.
-* Een ruimte waar er genoeg plaats is om heen en weer te lopen tussen de groepjes.
+* Een ruimte waar er genoeg plaats is om heen en weer te lopen binnen de groepjes.
