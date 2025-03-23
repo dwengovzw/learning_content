@@ -16,10 +16,14 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/onddoel/sec-gr1-astroom-digitale-competenties-en-mediawijsheid-4.5',
 
 ]
-copyright: "CC BY dwengo"
+copyright: "CC BY Dwengo"
 target_ages: [14, 15, 16, 17, 18]
 ---
 
 # Het mysterie van de dood van barones Heloisa Argentoliensis
 
-In deze activiteit los je het mysterie op van de dood van barones Heloisa. Tegelijk leer je bij over taaltechnologie en AI. Afhankelijk van je voorkennis, duurt deze activiteit tussen de 2 en 3 uur. 
+*Barones Heloisa Argentoliensis werd dood aangetroffen in de torenkamer van haar kasteel. Hoe kwam ze om het leven?*
+
+In deze activiteit los je het mysterie op van de dood van barones Heloisa.<br>Tegelijk leer je bij over taaltechnologie en AI. 
+
+Afhankelijk van je voorkennis, duurt deze activiteit tussen de twee en drie uur. 
