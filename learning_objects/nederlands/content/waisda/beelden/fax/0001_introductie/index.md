@@ -23,7 +23,7 @@ teacher_exclusive: True
 
 # Introductie
 
-Je hebt zelf ook wel eens een foto verstuurd naar een vriend via het internet of via je smartphone. Maar heb je er al een bij stilgestaan hoe de computer deze afbeeldingen voorstelt?
+Je hebt zelf ook wel eens een foto verstuurd naar een vriend via de computer of via je smartphone. Maar heb je er al een bij stilgestaan hoe de computer deze afbeeldingen voorstelt?
 
 Computers, smartphones en andere toestellen zijn verbonden met het internet via een modem en kunnen zo met elkaar communiceren. Om ervoor te zorgen dat die toestellen elkaar kunnen 'begrijpen', verloopt die communicatie volgens bepaalde afspraken: een protocol.
 
