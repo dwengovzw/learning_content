@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-fax-intro
 version: 1
 language: nl
-title: "Introductie"
+title: "Digitale beelden: introductie"
 description: "Ervaar hoe de computer digitale beelden voorstelt."
 keywords: ["Digitale beelden", "CSUnplugged", "unplugged", "protocol", "netwerken", "ecodering"]
 content_type: "text/markdown"
