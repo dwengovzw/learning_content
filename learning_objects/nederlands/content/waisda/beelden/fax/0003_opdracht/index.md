@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-fax-opdracht
 version: 1
 language: nl
-title: "Verloop"
+title: "Levend netwerk: verloop"
 description: "Hoe verloopt deze activiteit?"
 keywords: ["Digitale beelden", "CSUnplugged", "unplugged", "protocol", "netwerken", "ecodering", "materiaal"]
 content_type: "text/markdown"
@@ -24,14 +24,14 @@ teacher_exclusive: True
 # Verloop
 
 Verdeel de deelnemers in groepjes van 5 à 7. Geef iedere groep twee blanco rasters en twee potloden. Per groep is er een rolverdeling:
-* Eén artiest die een tekening maakt op het blanco raster.
-* Eén printer die later in het spel een tekening die via het ‘netwerk’ verstuurd werd, reconstrueert.
-* Twee assistenten doen dienst als modem en helpen ofwel de artiest, ofwel de printer.
-* De andere jongeren zullen boodschappen in het netwerk overbrengen.
+* Een ‘artiest’ die een tekening maakt op het blanco raster.
+* Een ‘printer’ die later in het spel een tekening die via het ‘netwerk’ verstuurd werd, reconstrueert.
+* Twee assistenten doen dienst als ‘modem’ en helpen ofwel de artiest, ofwel de printer.
+* De andere jongeren zullen boodschappen in het ‘netwerk’ overbrengen.
 
-Zet de jongeren per groep samen en laat elke artiest een tekening maken. De tekening wordt gemaakt door de gewenste hokjes op het blanco raster in te kleuren. Zorg ervoor dat de andere groepen de tekening niet zien.
+Zet de jongeren per groep samen en laat elke artiest een tekening maken. De tekening wordt gemaakt door de gewenste hokjes op het blanco raster in te kleuren. Gebruik hiervoor slechts één kleur.<br> Zorg ervoor dat de andere groepen de tekening niet zien.
 
-Wanneer de tekening klaar is, vraag je aan iedere groep om een protocol te bedenken: een manier waarmee ze een getekende figuur kunnen voorstellen door middel van natuurlijke getallen, en hoe ze deze getallen één voor één zullen verzenden via het netwerk van artiest naar printer. <br>
+Wanneer de tekening klaar is, vraag je aan iedere groep om een protocol te bedenken: een manier waarmee ze een getekende figuur kunnen voorstellen door middel van natuurlijke getallen, en hoe ze deze getallen een voor een zullen verzenden via het netwerk van artiest naar printer. <br>
 Het verzenden gebeurt door deelnemers die van de ene kant naar de andere kant lopen. Het is belangrijk om goed te verduidelijken wat een natuurlijk getal is en dat er slechts één getal per keer doorgegeven mag worden. Met andere woorden, één getal komt overeen met één keer lopen, én de individuele cijfers van deze getallen kunnen niet afzonderlijk 'gespeld' worden!<br>
 De bedoeling is dat de printer de tekening van de artiest kan tekenen zonder dat de printer de tekening gezien heeft.
 
