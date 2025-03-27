@@ -22,7 +22,7 @@ target_ages: [14, 15, 16, 17, 18]
 
 # Emoties tekenen
 
-Je krijgt van je begeleider een A3-blad met hetvolgende raster.
+Je krijgt van je begeleider een A3-blad met het volgende raster.
 
 ![](images/raster.svg)
 
@@ -33,6 +33,6 @@ Kies een emotie, *blij* of *verbaasd*, en teken het raster vol met smileys met d
 <div class="dwengo-content important">
 <h2 class="title">Opgelet</h2>
 <div class="content">
-Meng geen emoties in één raster. Op een blad mogen dus enkel smileys staan met één specifieke emotie bv. blij!
+Meng geen emoties in één raster. Op een blad mogen dus enkel smileys staan met één specifieke emotie, bv. blij!
 </div>
 </div>

@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-fax-nabespreking
 version: 1
 language: nl
-title: "Nabespreking"
+title: "Levend netwerk: nabespreking"
 description: "Bespreek de activiteit met de deelnemers?"
 keywords: ["Digitale beelden", "CSUnplugged", "unplugged", "protocol", "netwerken", "ecodering", "materiaal"]
 content_type: "text/markdown"
@@ -30,7 +30,7 @@ Om voldoende leereffect te hebben bij de deelnemers, is het belangrijk dat je de
 * Laat een leerling het gekozen protocol uitleggen.
 * Enkele mogelijke vragen die je hierbij kan stellen:
     * Hoe zou je jouw protocol veranderen als de grootte van het raster onbekend is?
-    * Hoeveel nummers zou je verzenden als je een wit beeld zou versturen of een volledig zwart?
+    * Hoeveel getallen zou je verzenden als je een wit beeld zou versturen of een volledig zwart?
     * Hoe zou je het aantal verzonden getallen kunnen verminderen?
     * Wat is het effect van fouten in de verzonden getallen op het uiteindelijke beeld?
 

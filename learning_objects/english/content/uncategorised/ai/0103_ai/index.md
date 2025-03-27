@@ -37,22 +37,22 @@ version: 3
 ---
 # Machine learning
 
-Machine learning (ML) is a popular and successful part of artificial intelligence. In *machine learning*, the approach is mainly empirical but based on solid mathematics, utilizing principles from mathematical statistics (Chollet, 2018).
+Machine learning (ML) is a popular and successful part of artificial intelligence (AI). In *machine learning*, the approach is mainly empirical but based on solid mathematics, using principles from mathematical statistics (Chollet, 2018).
 
-A human develops the AI system. In this system, they incorporate parameters whose values are not yet fixed.<br>
-During training, the system learns, meaning that it searches for the optimal values for those parameters using a learning algorithm.<br>
-After training, these values are determined and one has an ML model: an ML system that is ready for use.
+AI systems are developed by humans. They incorporate parameters whose values are not yet fixed.<br>
+During training, the system learns. This means that it searches for the optimal values for the unfixed parameters using a learning algorithm.<br>
+After training, these values are determined, giving an ML model, or an ML system that is ready for use.
 
-**A machine learning system acquires knowledge from data using learning algorithms with the intention of predicting outcomes concerning new data.**
+**A machine learning system acquires knowledge from data using learning algorithms with the intention of predicting outcomes related to new data.**
 
 - The new data must be similar to the data provided.
-- These predictions are made with a certain certainty. Such ML models will therefore never be one hundred percent accurate.
+- These predictions are made with a particular level of certainty. ML models will therefore never be one hundred percent accurate.
 
 <div class="alert alert-box alert-success">
-    Learning algorithms are algorithms in which the ML system itself gradually makes adjustments to the present parameters during the learning process, to gradually achieve better performance.
+    Learning algorithms are algorithms in which the ML system itself gradually makes adjustments to the parameters during the learning process, to achieve better performance over time.
 </div>
 
-> An ML system thus does not make its decisions based on pre-programmed instructions in detail.
+> An ML system therefore does not make its decisions based on pre-programmed and detailed instructions.
 
 The decisions of an ML model are called *predictions*.
 
@@ -67,12 +67,12 @@ The decisions of an ML model are called *predictions*.
 > Instead of categories, in this context, we often speak of classes.
  
 > **Concrete examples of regression:** <br>
-> - predicting the price of an apartment or deciding (based on the prices of apartments that have already been sold);<br>
-> - deducing the sea level for the coming years from the past decades' sea levels in Ostend. <br>
+> - predicting the price of an apartment using the prices of apartments that have already been sold;<br>
+> - deducing the future sea levels in Ostend using sea levels from the past few decades. <br>
 
 > **Concrete examples of classification:** <br>
-> - determining whether an email is spam or not; <br>
-> - being able to say from a photo whether there is a skin pore on it or not.
+> - determining whether an email is spam; <br>
+> - being able to say whether a photo includes stomata.
 
 ![Regression](embed/regressie.png "Regression") 
 <figure>

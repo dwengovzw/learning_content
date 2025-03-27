@@ -38,8 +38,8 @@ version: 3
 # Social Aspects
 
 **New technologies change society, and some do so in a very profound way.** According to Gabriels (2019), "technological developments help shape the way we see the world and affect our thinking, behavior, and our values and norms".<br>
-Ethical aspects are also involved in the deployment of AI.
+Ethical aspects are also involved in the deployment of artificial intelligence (AI).
 
 The **impact of AI** may well be greater than the arrival of the internet. If AI technology is used correctly, it can contribute to a better world. But will AI always be used for a better society?
 
-An AI system is, for example, 'biased', often due to the data with which the system was trained. This **bias** needs to be controlled as much as possible and reduced to a minimum. Due to this bias, an AI system can be, for example, racist or sexist.
+An AI system is, for example, 'biased', often due to the data with which the system was trained. This **bias** means that an AI system can be, for example, racist or sexist. Bias needs to be controlled as much as possible and reduced to a minimum.

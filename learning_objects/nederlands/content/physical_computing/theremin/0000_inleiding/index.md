@@ -39,3 +39,5 @@ Verken de boeiende wereld van microcontrollers en ontdek stap voor stap hoe je z
 In dit leerpad leer je wat een theremin is en hoe je de microcontroller kan inzetten om zelf een theremin te maken.
 
 ![](@youtube/https://www.youtube.com/embed/K6KbEnGnymk)
+
+Deze [fiche](https://dwengo.org/assets/files/physical_computing/Thereminprojectfiche.pdf) geeft jou een overzicht van dit STEM-project.

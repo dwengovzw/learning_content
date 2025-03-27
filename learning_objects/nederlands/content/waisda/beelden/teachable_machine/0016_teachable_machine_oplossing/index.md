@@ -20,7 +20,7 @@ teacher_exclusive: True
 
 # Teachable Machine: oplossing
 
-De volgende filmpjes tonen hoe je met Teachable Machine van Google een bestaand AI-model kan bijtrainen om je eigen objecten te detecteren.
+De volgende filmpjes tonen hoe je met Teachable Machine van Google een bestaand AI-model kan **bij**trainen om je eigen objecten te detecteren.
 
 
 ![](@youtube/https://www.youtube.com/embed/rTg7xpj2SaY?si=iF8YZSXyS-qeCbhM "video")
@@ -29,8 +29,8 @@ De volgende filmpjes tonen hoe je met Teachable Machine van Google een bestaand 
 
 ## Alternatieve versies
 
-Kan of wil je school niet met Google producten werken, dan bestaan er alternatieve versies van Teachable Machine. Hieronder vind je daar een overzicht van:
+Kan of wil je school niet met Google-producten werken, dan bestaan er alternatieve versies van Teachable Machine. Bijvoorbeeld:
 
-* [De Teachable Machine in de VRT EDUbox](https://edubox.vrtnws.be/)
-* [Installeer zelf een eigen versie van Teachable Machine via de broncode op GitHub.](https://github.com/googlecreativelab/teachable-machine-v1?tab=readme-ov-file)
-* [Op Learningml kan je een gelijkaardige tool vinden.](https://web.learningml.org/en/home/)
+* [de Teachable Machine in de VRT EDUbox AI](https://edubox.vrtnws.be/);
+* [een eigen versie van Teachable Machine](https://github.com/googlecreativelab/teachable-machine-v1?tab=readme-ov-file) die je installeert via de broncode op GitHub;
+* [een gelijkaardige tool LerningML](https://web.learningml.org/en/home/).

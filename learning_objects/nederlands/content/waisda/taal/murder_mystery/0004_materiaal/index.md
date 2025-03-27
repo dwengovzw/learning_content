@@ -23,9 +23,9 @@ teacher_exclusive: true
 
 # Materiaal
 
-We raden aan om de escaperoom te doen met twee tot vier personen. Voor grotere groepen kan je de ruimte verdelen en voor elke groep het nodige materiaal voorzien. 
+Je doet deze 'escaperoom' best met twee tot vier personen. Voor grotere groepen kan je de ruimte verdelen en voor elke groep het nodige materiaal voorzien. 
 
-Per groepje heb je hetvolgende materiaal nodig:
+Per groep heb je het volgende materiaal nodig:
 * Een laptop met internetverbinding. Een computermuis kan ook handig zijn.
 * Twee kistjes/dozen die je kan sluiten met een cijferslot.
 * Een hangslot met verstelbare code van 3 cijfers.
