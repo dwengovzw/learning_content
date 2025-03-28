@@ -39,7 +39,7 @@ version: 3
 
 ## Supervised, Unsupervised and Reinforcement Learning
 
-Within machine learning (ML), ther are different types of learning: supervised, unsupervised, and reinforcement learning.<br>
+Within machine learning (ML), there are different types of learning: supervised, unsupervised, and reinforcement learning.<br>
 - In both supervised and unsupervised learning, you start from a set of examples.<br>
 ![voorbeeldenappelpeer](https://user-images.githubusercontent.com/48352335/222242428-3021670a-b3e7-403b-8752-e1bef9f83668.png)
 
