@@ -52,4 +52,4 @@ Within machine learning (ML), there are different types of learning: supervised,
 ![soortenmlunsupervised](https://user-images.githubusercontent.com/48352335/222239480-09ab805d-da4f-4cd2-acf0-23241c2b4c3d.png)
 
 - In **reinforcement learning**, the AI system aims for a *reward*. For instance, to become good at a certain video game, the AI system will play the game numerous times and learn which actions to avoid and which to undertake to allow it to win. Google DeepMind's AlphaGo Zero became a top Go player in 2017 through reinforcement learning. It is even better than AlphaGo, which had previously defeated the best human player of this game.<br>
-Play this [game](https://dwengo.org/rl). Then you get an idea of reinforcement learning.  
+Play this [game](https://dwengo.org/rl). It gives you an idea of reinforcement learning.  
