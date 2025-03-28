@@ -37,7 +37,7 @@ version: 3
 ---
 # Deep learning
 
-One element of machine learning (ML) is ***deep learning (DL)***. This has revolutionized the field of ML by achieving remarkable results in speech and image recognition, areas where computers have previouslyfound it challenging to match human performance. Beyond speech recognition, DL also plays a significant role in other domains of language technology.
+One element of machine learning (ML) is ***deep learning (DL)***. This has revolutionized the field of ML by achieving remarkable results in speech and image recognition, areas where computers have previously found it challenging to match human performance. Beyond speech recognition, DL also plays a significant role in other domains of language technology.
 
 > **Example:**<br>
 > Suppose you wanted to train a spam filter. This must learn to distinguish emails that are spam from those that are not.
