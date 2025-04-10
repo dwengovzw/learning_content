@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-beelden-emoties-herkennen-automatische-detectie",
+              "hruid": "org-dwengo-waisda-rl-introductie-rl-pong",
               "version": "1",
               "language": "nl"
             }
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-beelden-emoties-herkennen-automatische-detectie",
+        "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-pong",
         "version": "1",
         "language": "nl",
         "transitions": [
