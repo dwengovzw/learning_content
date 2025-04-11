@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-rl-introductie-rl-omgeving
 version: 1
 language: nl
-title: "De agent"
+title: "De omgeving"
 description: "Maak kennis met reïnforcement learning."
 keywords: ["AI", "reïnforcement learning", "omgeving"]
 content_type: "text/markdown"
