@@ -6,7 +6,7 @@ title: "Introductie"
 description: "Maak kennis met reïnforcement learning."
 keywords: ["AI", "reïnforcement learning"]
 content_type: "text/markdown"
-estimated_time: 2
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -26,7 +26,7 @@ AI-systemen leren meestal door in gegevens op zoek te gaan naar regels en patron
 - GPT-3, de voorloper van ChatGPT werd onder andere getraind aan de hand van de CommonCrawl dataset. Dit is een open source dataset die de tekst bevat van meer dan 2,7 miljard websites ([https://commoncrawl.org/overview](https://commoncrawl.org/overview)). 
 - Dall-e het model van OpenAI dat afbeeldingen kan genereren werd getraind met een dataset waarin ongeveer 650 miljoen afbeeldingen zitten ([zie OpenAI paper](https://arxiv.org/pdf/2204.06125)).
 
-Je merkt dat AI-systemen enorme hoeveelheden gegevens nodig hebben om een taak te leren. Dat staat in sterk contrast met hoe wij als mens leren. Mensen slagen erin om te leren zonder miljoenen tot miljarden voorbeelden te moeten zien. Denk bijvoorbeeld aan een baby die leert kruipen. De baby is in staat om zelfs zonder ooit voorbeelden gezien te hebben te leren kruipen (1). Als mens gebruiken we dus andere technieken om te leren dan de technieken die de meeste AI-systemen gebruiken. 
+Je merkt dat AI-systemen enorme hoeveelheden gegevens nodig hebben om een taak te leren. Dat staat in sterk contrast met hoe wij als mens leren. Mensen slagen erin om te leren zonder miljoenen tot miljarden voorbeelden te moeten zien. Denk bijvoorbeeld aan een baby die leert kruipen. De baby is in staat om zelfs zonder ooit voorbeelden gezien te hebben te leren kruipen<sup>(1)</sup>. Als mens gebruiken we dus andere technieken om te leren dan de technieken die de meeste AI-systemen gebruiken. 
 
 De manier waarop mensen leren heeft computerwetenschappers geïnspireerd om AI-systemen te ontwikkelen die niet leren op basis van grote hoeveelheden gegevens maar wel op basis van de interactie met hun omgeving. Deze systemen maken gebruik van **versterkend leren**. In dit leerpad maak je kennis met de basisprincpes van het **versterkend leren**.
 
