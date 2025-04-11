@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-rl-introductie-rl-pong
 version: 1
 language: nl
-title: "Principes versterkend leren"
+title: "Principes versterkend leren (1)"
 description: "Probeer zelf een versterkend leren probleem op te lossen."
 keywords: ["AI", "reïnforcement learning", "pong"]
 content_type: "text/markdown"
