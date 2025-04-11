@@ -90,6 +90,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "org-dwengo-waisda-rl-introductie-rl-omgeving",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-omgeving",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org-dwengo-waisda-beelden-emoties-herkennen-uitbreidingen",
               "version": "1",
               "language": "nl"
