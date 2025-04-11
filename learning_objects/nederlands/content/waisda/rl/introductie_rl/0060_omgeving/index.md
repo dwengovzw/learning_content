@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # De omgeving
 
-De omgeving kan je zien als de wereld waarin de agent zich kan bewegen. De wereld van een hamster is bijvoorbeeld alles wat er zich in zijn kooi bevindt. Voor de meeste mensen strekt hun wereld niet verder dan de aarde. In ons spel bestaat de omgeving uit de score bovenaan, de drie blokjes aan de linker kant, de twee cijfers en de knoppen onderaan. Op deze foto zie je wat de elementen zijn van de omgeving van ons spel.
+De omgeving kan je zien als de wereld waarin de agent zich kan bewegen. De wereld van een hamster is bijvoorbeeld alles wat er zich in zijn kooi bevindt. In ons spel bestaat de omgeving uit de score bovenaan, de drie blokjes aan de linker kant, de twee cijfers en de knoppen onderaan. Op deze foto zie je wat de elementen zijn van de omgeving van ons spel.
 
 ![De omgeving](img/omgeving_met_aanduidingen.png)
 
@@ -30,4 +30,4 @@ In ons spel zijn er eigenlijk maar twee waarden die de toestand van het spel bep
 
 ![De omgeving](img/toestand.png)
 
-Merk op dat je enkel deze twee waarden nodig had om te leren hoe je het spel kon spelen. Pas later in het spel, toen je meer dan 150 punten haalde, kon je zien dat je eigenlijk pong aan het spelen bent. Dit toont aan dat je kan leren om pong te spelen door enkel te kijken naar de hoogte van je pallet en de hoogte van de bal.
+Merk op dat je enkel deze twee waarden nodig had om te leren hoe je het spel kon spelen. Pas later in het spel, toen je meer dan 150 punten haalde, kon je zien dat je eigenlijk pong aan het spelen was. Dit toont aan dat je kan leren om pong te spelen door enkel te kijken naar de hoogte van je pallet en de hoogte van de bal.

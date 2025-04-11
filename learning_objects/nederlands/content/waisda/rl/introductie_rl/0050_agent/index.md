@@ -25,7 +25,7 @@ De term agent is een verzamelnaam voor elk "wezen" dat kan interageren met de om
 - Een zelfrijdende auto: de auto meet de toestand van de omgeving met sensoren en reageert, bijvoorbeeld door te stoppen aan een rood licht.
 - Een schaakcomputer: de schaakcomputer analyseert de stelling op het bord (= de toestand van de omgeving), bedenkt een volgende zet en voert die zet uit.
 - Een baby die leert lopen: de baby zal zoeken naar een plaats waar die zicht kan optrekken (bv. een stoel) en zal deze dan gebruiken om recht te komen.
-- Een dier dat op zoek is naar eten: het dier zal met zijn neus de geur van het heten opvangen en zo op zoek gaan naar het eten.
+- Een dier dat op zoek is naar eten: het dier zal met zijn neus de geur van het eten opvangen en zo op zoek gaan naar het eten.
 
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
