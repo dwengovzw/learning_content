@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # AI-model
 
-Op de pagina van Teachable Machine, zie je twee knoppen die verwijzen naar een **'model'**. Welke knoppen zijn dat? Zoek ze op op de webpagina van Teachable Machine. **Wat is dat nu eigenlijk, een model?**
+Op de webpagina van Teachable Machine zijn er twee knoppen die verwijzen naar een **'model'**. Kan je deze knoppen vinden?<br>**Maar wat is dat nu eigenlijk, een model?**
 
 Een **AI-model** is een verzamelnaam voor verschillende soorten informatie die nodig zijn om het AI-systeem te doen werken. Het model bestaat uit **een architectuur, algoritmes voor trainen en evaluatie, en de geleerde parameters (de gewichten)**. Hieronder lichten we die verschillende concepten toe:
 
