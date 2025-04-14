@@ -31,7 +31,7 @@ Computers, smartphones en andere toestellen zijn verbonden met het internet via 
 
 In deze activiteit bedenken de deelnemers zelf een protocol om een tekening te versturen van de ene plaats naar een andere.
 
-## Vaardigheden
+## Kennis en vaardigheden
 
 * De deelnemers leren hoe een digitale afbeelding opgebouwd is uit pixels die je door getallen kan voorstellen. 
 * De deelnemers leren doelgericht communiceren over een probleem. 
