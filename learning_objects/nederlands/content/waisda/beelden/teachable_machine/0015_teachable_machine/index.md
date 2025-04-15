@@ -32,12 +32,12 @@ Een algemene misconceptie is dat de Teachable Machine een volledig nieuw AI-syst
     <div class="content">
         <ul>
             <li>Zoek een aantal objecten van twee types. Bijvoorbeeld vijf balpennen en vijf boeken.</li>
-            <li>Bezoek <a href="https://teachablemachine.withgoogle.com">https://teachablemachine.withgoogle.com</a></li>
-            <li>Maak een nieuw project voor afbeeldingen, kies het standaardmodel.</li>
+            <li>Bezoek <a href="https://teachablemachine.withgoogle.com">https://teachablemachine.withgoogle.com</a>.</li>
+            <li>Maak een nieuw project voor afbeeldingen; kies het standaardmodel.</li>
             <li>Voeg een klasse (class) toe voor de afbeeldingen van de balpennen. Gebruik de webcam om van elke balpen een foto te nemen of laad een aantal bestaande afbeeldingen van balpennen op.</li>
             <li>Voeg een tweede klasse toe voor de afbeeldingen van de boeken. Maak opnieuw foto's met de webcam of laad een aantal bestaande afbeeldingen van boeken op.</li>
             <li>Klik op <strong>Model trainen</strong>.</li>
-            <li>Zoek ondertussen nog een aantal extra balpennen en boeken</li>
+            <li>Zoek ondertussen nog een aantal extra balpennen en boeken.</li>
             <li>Wanneer het model klaar is met trainen, kan je het testen. Gebruik de webcam en toon een van de extra voorwerpen die je bent gaan halen. Kan het systeem de voorwerpen correct classificeren?</li>
             <li>Probeer ook eens een ander soort voorwerp. Wat is het resultaat?</li>
         </ul>

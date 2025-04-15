@@ -22,6 +22,6 @@ target_ages: [14, 15, 16, 17, 18]
 
 # Uitbreidingen 
 
-* Je hebt nu een systeem dat twee emoties kan onderscheiden van elkaar. Je kan dit systeem makkelijk uitbreiden naar drie emoties. Daarvoor moet je wel eerst extra data verzamelen. Wanneer je deze data hebt, kan je je baseren op de programmeercode in de notebook (uit het onderdeel 'automatische detectie' van dit leerpad) om een nieuw systeem te bouwen dat drie emoties van elkaar kan onderscheiden.
+* Je hebt nu een systeem dat twee emoties kan onderscheiden van elkaar. Je kan dit systeem makkelijk uitbreiden naar drie emoties. Daarvoor moet je wel eerst extra data verzamelen. Wanneer je deze data hebt, kan je je baseren op de programmeercode in de notebook *emoties.ipynb* (uit het onderdeel 'automatische detectie' van dit leerpad) om een nieuw systeem te bouwen dat drie emoties van elkaar kan onderscheiden.
 
 * Je kan eenzelfde systeem in principe gebruiken om gelijk welke twee objecten van elkaar de onderscheiden, bijvoorbeeld katten en honden. Je moet dan, in plaats van afbeeldingen van smileys, wel tekeningen maken van katten en honden. 
