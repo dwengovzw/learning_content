@@ -26,7 +26,7 @@ De **agent** kan interageren met de **omgeving** door **acties** uit te voeren. 
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
 <div class="content">
-<p><h3>Bedenk voor elk van de volgende agent een aantal acties die ze kunnen uitvoeren om hun omgeving te beïnvloeden.</h3></p>
+<p><h5>Bedenk voor elk van de volgende agent een aantal acties die ze kunnen uitvoeren om hun omgeving te beïnvloeden.</h5></p>
 <p><ul>
 <li>Een zelfrijdende auto</li>
 <li>Een schaakcomputer</li>

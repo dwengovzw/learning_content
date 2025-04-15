@@ -20,7 +20,7 @@ teacher_exclusive: True
 
 # Hoe leren wij (oplossing)
 
-De leerlingen zochten zelf een oplossing voor de uitdaging. Tijdens dat proces pasten ze verschillende technieken to om tot een oplossing te komen. Hieronder lijsten we een aantal aspecten van het oplossingsproces toe.
+De leerlingen zochten zelf een oplossing voor de uitdaging. Tijdens dat proces pasten ze verschillende technieken toe om tot een oplossing te komen. Hieronder lijsten we een aantal aspecten van het oplossingsproces op.
 
 - **Exploratie**: bij de start weten de leerlingen niets over de uitdaging. Ze zien enkel een raster met figuurtjes. Onder het raster zien ze zes knoppen. Door op de knoppen te drukken exploreren ze wat de mogelijkheden van het spel zijn.
 - **Exploitatie** van de opgedane kennis: wanneer de leerlingen ontdekken welke invloed een knop heeft op het spel, hergebruiken ze deze kennis om makkelijker tot een oplossing te komen. Wanneer ze de lege bol bijvoorbeeld naar links willen bewegen, zullen ze weten dat ze op de rode knop moeten drukken. De vergaarde kennis wordt dus ingezet bij het oplossen van het probleem.
