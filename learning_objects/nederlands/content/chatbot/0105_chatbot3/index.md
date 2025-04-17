@@ -89,3 +89,5 @@ De woorden in een tekst worden daartoe eerst omgezet naar vectoren. Een **vector
 ## Voorbeeld
 
 ![Rekensom](embed/chatgptrekent.png "Rekensom wordt geïnterpreteerd door ChatGPT")
+
+![Zelfde rekensom later](embed/rekensomuuranalogie.png "Betere prestatie door ChatGPT op latere datum")
