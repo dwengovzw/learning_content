@@ -52,7 +52,7 @@ Een **laag** bestaat uit een invoer, een verwerking en een uitvoer. De invoer vi
 
 ![Voorbeeldarchtectuur van een neuraal netwerk.](images/neural_network_with_labels_and_layer_highlight.svg)
 
-### Parameters (ofwel gewichten)
+### Parameters (gewichten)
 
 In de lagen worden getallen opgeslagen. Deze getallen zijn de gewichten (*weights*) van het neurale netwerk; ze bepalen het gedrag van het netwerk. Tijdens de training van een netwerk past de computer deze getallen beetje bij beetje aan tot ze de best mogelijke waarde hebben. Bij optimale waarden zal het neurale netwerk goed zijn in het maken van de juiste voorspellingen. Wat 'goed' is, bepaalt de architect van het neurale netwerk, de mens dus. Een systeem dat katten en honden moet kunnen onderscheiden, kan je bijvoorbeeld als 'goed' bestempelen wanneer het 99 % van de tijd een correcte voorspelling doet.
 
@@ -63,7 +63,7 @@ Hieronder zie je een neuraal netwerk waarin de gewichten een waarde gekregen heb
 
 ### Algoritmes
 
-Er zijn verschillende algoritmes nodig om het neurale netwerk te doen werken. Hier is het vooral belangrijk dat je weet dat er altijd twee soorten algoritmes nodig zijn: een **trainingsalgoritme** en een **inferentie-** ofwel **evaluatiealgoritme**.
+Er zijn verschillende algoritmes nodig om het neurale netwerk te doen werken. Hier is het vooral belangrijk dat je weet dat er altijd twee soorten algoritmes nodig zijn: een **trainingsalgoritme** en een **inferentie-** of **evaluatiealgoritme**.
 
 Het **trainingsalgoritme** zal de gewichten in het netwerk aanpassen op basis van voorbeelddata.
 
@@ -72,6 +72,6 @@ Het **evaluatiealgoritme** zal een voorspelling doen voor een nieuwe afbeelding.
 <div class="dwengo-content sideinfo">
     <h2 class="title">Algoritmische overlap</h2>
     <div class="content">
-        Bij veel AI-systemen zoals neurale netwerken is het evaluatiealgoritme een onderdeel van het trainingsalgoritme. Dat komt omdat je bij het trainen best weet hoe goed het model al werkt. Daarvoor zijn dus tussentijdse evaluaties nodig.
+        Bij veel AI-systemen zoals neurale netwerken is het evaluatiealgoritme een onderdeel van het trainingsalgoritme. Dat komt omdat je bij het trainen best weet hoe goed het model al werkt; daarvoor zijn tussentijdse evaluaties nodig.
     </div>
 </div>

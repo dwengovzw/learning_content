@@ -47,6 +47,7 @@ Binnen ML onderscheidt men verschillende types van leren: *supervised*, *unsuper
 ![soortenmlunsupervised](https://user-images.githubusercontent.com/48352335/222239480-09ab805d-da4f-4cd2-acf0-23241c2b4c3d.png)
 
 - Bij **reinforcement learning** streeft het AI-systeem naar een *beloning*. Om bv. goed te worden in een bepaalde videogame, gaat het AI-systeem het spel heel veel spelen en daaruit leren welke acties het beter vermijdt en welke het best onderneemt om te kunnen winnen. Zo werd Google DeepMind’s AlphaGo Zero in 2017 via reinforcement learning een topspeler in Go, nog beter dan AlphaGo die de beste menselijke speler eerder al versloeg.
+  
   <br>Speel eens dit [spel](https://dwengo.org/rl). Dan krijg je alvast een idee van hoe versterkend leren eraan toe kan gaan.  
 
 

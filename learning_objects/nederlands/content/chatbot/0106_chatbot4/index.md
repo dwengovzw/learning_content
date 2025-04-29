@@ -61,7 +61,6 @@ Het Kenniscentrum Data & Maatschappij bracht een [‘brAInfood’](https://dweng
 
 **Een tijdschriftartikel genereren met GPT-2**<br>
 Lees het artikel ‘Gaan robots de job van journalist vervangen?’ in de [handleiding](https://dwengo.org/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf) van het project Chatbot op p. 43.<br>
-Probeer het [AI-systeem van ML6](https://gpt2.ml6.eu/nl).
 
 **Bias**<br>
 Stel vragen en geef opdrachten aan ChatGPT en probeer hem te betrappen op het uitvergroten van vooroordelen aanwezig in onze maatschappij.
