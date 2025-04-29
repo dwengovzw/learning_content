@@ -30,7 +30,7 @@ De toepassing "Moet ik naar de dokter" werkt op basis van regels die wij als men
     <h2 class="title">Opdracht</h2>
     <div class="content">
         Welke regels kan jij bedenken om die tomaten te detecteren?<br>
-        <img src="img/tomaten.png" alt="Tomaten" title="Tomaten"></img>
+        <img src="img/pixels_tomaat.png" alt="Tomaten" title="Tomaten"></img>
     </div>
 </div>
 
