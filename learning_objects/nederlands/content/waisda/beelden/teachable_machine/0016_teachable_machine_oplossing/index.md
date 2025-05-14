@@ -31,6 +31,7 @@ De volgende filmpjes tonen hoe je met Teachable Machine van Google een bestaand 
 
 Kan of wil je school niet met Google-producten werken, dan bestaan er alternatieve versies van Teachable Machine. Bijvoorbeeld:
 
+* [In browser versie van de teachable machine ontwikkeld binnen het Europees Generation AI project.](https://tm.gen-ai.fi/image/general)
 * [de Teachable Machine in de VRT EDUbox AI](https://edubox.vrtnws.be/);
 * [een eigen versie van Teachable Machine](https://github.com/googlecreativelab/teachable-machine-v1?tab=readme-ov-file) die je installeert via de broncode op GitHub;
 * [een gelijkaardige tool LerningML](https://web.learningml.org/en/home/).
