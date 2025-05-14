@@ -43,3 +43,5 @@ De **waardefunctie** geeft ons een schatting van hoe groot de **beloning** is di
 - Om op elk moment toch een inschatting te kunnen maken van hoe goed een **actie** is, gebruiken we de **waardefunctie**. Deze **waardefunctie** zal in elke **toestand** een inschatting maken van hoe goed een **actie** is in die **toestand**. De **waardefunctie** geeft een schatting van de **beloning** die we op lange termijn zullen krijgen door een **actie** uit te voeren, rekening houdende met de **policy** die we gekozen hadden (hier om de getallen gelijk te houden).
 
 De policy en de waardefunctie zijn sterk met elkaar verbonden. De policy zegt **wat de agent moet doen** en de waardefunctie zegt **hoe goed dat is**.
+
+test
