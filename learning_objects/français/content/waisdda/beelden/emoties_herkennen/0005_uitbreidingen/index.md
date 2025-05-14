@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-emoties-herkennen-uitbreidingen
 version: 1
 language: fr
-title: "Emoties herkennen: uitbreidingen"
+title: "Reconnaître les émotions : extensions"
 description: "Leer hoe je een AI-systeem bouwt dat emoties kan herkennen."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "neurale netwerken", "classificatie", "beelden", "emoties"]
 content_type: "text/markdown"
