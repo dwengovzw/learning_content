@@ -6,7 +6,7 @@ title: "Acties"
 description: "Maak kennis met reïnforcement learning."
 keywords: ["AI", "reïnforcement learning", "actie"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 6
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -26,7 +26,7 @@ De **agent** kan interageren met de **omgeving** door **acties** uit te voeren. 
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
 <div class="content">
-<p><h5>Bedenk voor elk van de volgende agent een aantal acties die ze kunnen uitvoeren om hun omgeving te beïnvloeden.</h5></p>
+<p><h5>Bedenk voor elk van de volgende agents een aantal acties die ze kunnen uitvoeren om hun omgeving te beïnvloeden.</h5></p>
 <p><ul>
 <li>Een zelfrijdende auto</li>
 <li>Een schaakcomputer</li>

@@ -6,7 +6,7 @@ title: "Principes versterkend leren (2)"
 description: "Maak kennis met reïnforcement learning."
 keywords: ["AI", "reïnforcement learning"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 7
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
