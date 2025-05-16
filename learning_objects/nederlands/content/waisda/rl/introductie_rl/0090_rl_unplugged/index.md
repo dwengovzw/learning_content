@@ -46,12 +46,12 @@ Het doel van het spel is om de constructie te bouwen die op het gekozen kaartje 
 3. Wanneer de bouwer een beloning gekregen heeft, weet deze dat een deel van de gebouwde constructie overeenkomt met wat er op het kaartje staat. 
 4. De bouwer blijft verder experimenteren tot de volledige constructie op het kaartje correct gebouwd is. Wanneer deze constructie correct is, legt de coach het opdrachtkaartje open op tafel.
 5. Denk na over hoe je de principes van versterken leren kan koppelen aan dit spel. Probeer daarom een antwoord te bedenken op de volgende vragen.
-  - Wie was hier de **agent**?
-  - Geef een aantal voorbeelden van de **toestand** van de **omgeving**.
-  - Geef een aantal voorbeelden van de **acties** die de **agent** heeft uitgevoerd.
-  - Welke **beloning** heb je gekozen voor jullie spel? 
-  - Welke **policy**/welk **beleid** heeft de bouwer bedacht. Hoe paste de bouwer dit **beleid** aan gedurende het spel. Was het gekozen **beleid** anders in het begin dan op het einde?
-  - Hoe besliste je om bij een bepaald **beleid** voor een bepaalde **actie** te kiezen. Met andere woorden welke waardefunctie gebruikte je?
+ - Wie was hier de **agent**?
+ - Geef een aantal voorbeelden van de **toestand** van de **omgeving**.
+ - Geef een aantal voorbeelden van de **acties** die de **agent** heeft uitgevoerd.
+ - Welke **beloning** heb je gekozen voor jullie spel? 
+ - Welke **policy**/welk **beleid** heeft de bouwer bedacht. Hoe paste de bouwer dit **beleid** aan gedurende het spel. Was het gekozen **beleid** anders in het begin dan op het einde?
+ - Hoe besliste je om bij een bepaald **beleid** voor een bepaalde **actie** te kiezen. Met andere woorden welke waardefunctie gebruikte je?
 6. Draai de rollen om en start opnieuw bij puntje 1.
 
 
