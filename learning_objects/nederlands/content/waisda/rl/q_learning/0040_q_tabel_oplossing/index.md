@@ -15,7 +15,7 @@ skos_concepts: [
 ]
 copyright: "CC BY dwengo"
 target_ages: [14, 15, 16, 17, 18]
-teacher_exclusive: False
+teacher_exclusive: True
 ---
 
 # Q-tabel (oplossing)

@@ -22,11 +22,16 @@ teacher_exclusive: False
 
 Je weet nu dat je de \\(Q\\) functie kan voorstellen aan de hand van een tabel. Met behulp van die tabel weet een agent hoe deze een beleid/policy moet uitvoeren. Bijvoorbeeld door in elke toestand de actie te kiezen met de hoogste waarde. De vraag is nu natuurlijk, hoe stellen we deze tabel op?
 
-Om de Q-tabel op te stellen, laten we de agent acties uitproberen en kijken we welke beloning deze ervoor krijgt. Op basis van deze beloning passen we de waarde in de Q-tabel aan. Zo proberen we in elke toestand een betere inschatting te krijgen van de beloning die elke actie zal opleveren. 
+Om de Q-tabel op te stellen, laten we de agent acties uitproberen en kijken we welke beloning de agent krijgt krijgt. Op basis van deze beloning passen we de waarde in de Q-tabel aan. Zo proberen we in elke toestand een betere inschatting te krijgen van de beloning die elke actie zal opleveren. 
 
 ## De update regel
 
 Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpassen telkens we een beloning hebben gekregen. Laat je niet overweldigen door de formule. We leggen die verder in het leerpad stap voor stap uit. 
+
+ ![](img/update_function_explained.png)
+
+
+ TODO: dit eventueel weglaten.
 
 \\[
   Q(T_t, A_t) \leftarrow Q(T_t, A_t) + \alpha  \left[ R_{t+1} + \gamma \max_{a} Q(T_{t+1}, a) - Q(T_t, A_t) \right]
@@ -45,4 +50,4 @@ Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpasse
 
   Hieronder zie je nog eens een overzicht van de verschillende componenten in de formule.
 
-  ![](img/update_function_explained.png)
+ 
