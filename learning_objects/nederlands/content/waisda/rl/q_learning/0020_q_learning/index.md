@@ -35,6 +35,6 @@ Deze functie \\(Q(T_t, A_t)\\) leren we door acties uit te proberen en de functi
 Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpassen telkens we een beloning hebben gekregen. Laat je niet overweldigen door de formule. We leggen die verder in het leerpad stap voor stap uit. 
 
 \\[
-  Q(T_t, A_t) = Q(T_t, A_t) + \alpha \left\[ R_{t+1} + \gamma \max_{a}_{Q(T_{t+1}, a)-Q(T_t, A_t)}\right\]
+  Q(T_t, A_t) = Q(T_t, A_t) + \alpha  R_{t+1} + \gamma \max_{a}_{Q(T_{t+1}, a)-Q(T_t, A_t)}
 \\]
 
