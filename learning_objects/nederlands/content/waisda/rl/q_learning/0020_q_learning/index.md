@@ -38,5 +38,14 @@ Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpasse
   Q(T_t, A_t) \leftarrow Q(T_t, A_t) + \alpha  \left[ R_{t+1} + \gamma \max_{a} Q(T_{t+1}, a) - Q(T_t, A_t) \right]
 \\]
 
+* De pijl \\(\leftarrow\\) geeft aan dat we een nieuwe waarde toekennen aan \\(Q(T_t, A_t)\\).
+* Deze nieuwe waarde is de huidige waarde (\\(Q(T_t, A_t)\\)) plus een correctiewaarde afhankelijk van de beloning (\\(\alpha  \left[ R_{t+1} + \gamma \max_{a} Q(T_{t+1}, a) - Q(T_t, A_t) \right]\\)).
+* De correctiewaarde bestaat uit de volgende elementen:
+  - \\(\alpha\\): Een getal tussen 0 en 1 dat beïnvloed hoe sterk we de Q-functie zullen aanpassen op basis van de reward. \\(\alpha\\) noemen we de leersnelheid.
+  - \\(R_{t+1}\\): De beloning op tijdstip \\(t\\) na het uitvoeren van actie \\(A_t\\).
+  - \\(\gamma \\): Een getal tussen 0 en 1 dat beïnvloed hoe sterk dat de toekomstige beloning de huidige beloning zal beïnvloeden. \\(\gamma\\) noemen we de *discount factor*.
+  - \\(\max_{a} Q(T_{t+1}, a)\\): De Q-waarde van de beste actie in toestand \\(T_{t+1}\\) maal een wegingsfactor \\(\gamma\\).
+  - \\(Q(T_t, A_t)\\): De huidige Q-waarde in toestand \\(T_t\\) bij het uitvoeren van actie \\(A_t\\).
+
 
 
