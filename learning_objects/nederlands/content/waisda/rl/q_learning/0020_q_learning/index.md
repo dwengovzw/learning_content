@@ -48,11 +48,12 @@ Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpasse
   - \\(Q(T_t, A_t)\\): De huidige Q-waarde in toestand \\(T_t\\) bij het uitvoeren van actie \\(A_t\\).
 
 
+
   Hieronder zie je nog eens een overzicht van de verschillende componenten in de formule.
 
   ![](img/update_function_explained.png)
 
-  
+
 
 
 
