@@ -20,8 +20,17 @@ teacher_exclusive: False
 
 # De Q-tabel
 
-De waardefunctie \((Q(T_t, A_t)\)) zegt ons hoe goed actie \\(A_t\\) is in toestand \\(T_t\\). Er zijn verschillende manieren om deze \\(Q\\)-functie voor te stellen. Een van de eenvoudigste manieren is aan de hand van een tabel. Voor elke mogelijk toestand in onze wereld voegen we een rij toe aan de tabel, voor elke mogelijke actie in de wereld voegen we een kolom toe. Op onderstaande figuur zie je een Q-tabel voor 5 acties en 7 toestanden. De waarde in de tabel zegt hoe goed de actie bovenaan de kolom is wanneer de agent in de toestand links van de rij zit.
+De waardefunctie \\((Q(T_t, A_t)\\)) zegt ons hoe goed actie \\(A_t\\) is in toestand \\(T_t\\). Er zijn verschillende manieren om deze \\(Q\\)-functie voor te stellen. Een van de eenvoudigste manieren is aan de hand van een tabel. Voor elke mogelijk toestand in onze wereld voegen we een rij toe aan de tabel, voor elke mogelijke actie in de wereld voegen we een kolom toe. Op onderstaande figuur zie je een Q-tabel voor 5 acties en 7 toestanden. De waarde in de tabel zegt hoe goed de actie bovenaan de kolom is wanneer de agent in de toestand links van de rij zit. Op de afbeelding zie je links bovenaan hoe goed actie 2 is in toestand 3.
 
 ![](img/q_table_example.png)
+
+Via deze tabel kunnen we een bepaald beleid/policy uitvoeren. Het beleid kan bijvoorbeeld zijn om in elke toestand de actie te kiezen met de hoogst mogelijke Q waarde.
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+Gegeven de Q-tabel en het beleid die we hierboven hebben beschreven, welke actie zal de agent uitvoeren wanneer deze in toestand 6 zit?
+</div>
+</div>
 
  
