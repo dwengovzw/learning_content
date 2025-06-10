@@ -60,7 +60,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-introductie-rl-pong-hints",
+              "hruid": "org-dwengo-waisda-rl-agent-trainen-q-learning-update-rule",
               "version": "1",
               "language": "nl"
             }
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-pong-hints",
+        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-q-learning-update-rule",
         "version": "1",
         "language": "nl",
         "transitions": [
