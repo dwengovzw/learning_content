@@ -45,7 +45,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-introductie-rl-pong",
+              "hruid": "org-dwengo-waisda-rl-agent-trainen-q-tabel-opl",
               "version": "1",
               "language": "nl"
             }
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-pong",
+        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-q-tabel-opl",
         "version": "1",
         "language": "nl",
         "transitions": [
