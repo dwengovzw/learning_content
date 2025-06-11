@@ -33,4 +33,11 @@ Gegeven de Q-tabel en het beleid die we hierboven hebben beschreven, welke actie
 </div>
 </div>
 
+<div class="dwengo-content sideinfo">
+<h2 class="title">De <code class="language-python">argmax</code> functie</h2>
+<div class="content">
+Wanneer we in de Q-tabel de beste actie willen selecteren in de huidige toestand, dan kijken we eerst welke rij overeenkomt met deze toestand. In deze rij gaan we op zoek naar de beste actie. Deze actie komt overeen met de index van de hoogste waarde in de rij. Om deze index te vinden, kan je in Python gebruik maken van de <code class="language-python">argmax()</code> functie. 
+</div>
+</div>
+
  

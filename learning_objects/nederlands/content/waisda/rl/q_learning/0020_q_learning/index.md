@@ -28,11 +28,8 @@ Er zijn heel wat verschillende technieken om op zoek te gaan naar een optimaal b
 
 Hierbij zijn \\(T_t\\) en \\(A_t\\) de toestand en de actie op tijdstip \\(t\\).
 
-Er zijn verschillende manieren om de functie \\(Q\\) voor te stellen. In de rest van dit leerpad stellen we de \\(Q\\) functie voor met een Q-tabel.
+Er zijn verschillende manieren om de functie \\(Q\\) voor te stellen. In de rest van dit leerpad stellen we de \\(Q\\) functie voor met een **Q-tabel**.
 
-TODO: Verplaats de volgende inhoud naar een plaats verder in het leerpad.
-
-Deze functie \\(Q(T_t, A_t)\\) leren we door acties uit te proberen en de functie aan te passen op basis van de beloning die we kregen voor een actie. Om die functie te kunnen aanpassen, leggen we een upate-regel vast.
 
 
 
