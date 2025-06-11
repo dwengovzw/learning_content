@@ -75,7 +75,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-introductie-rl-principes",
+              "hruid": "org-dwengo-waisda-rl-agent-trainen-de-worm",
               "version": "1",
               "language": "nl"
             }
@@ -83,7 +83,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-principes",
+        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-de-worm",
         "version": "1",
         "language": "nl",
         "transitions": [
