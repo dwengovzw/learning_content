@@ -22,7 +22,7 @@ teacher_exclusive: False
 
 Je weet nu hoe je de waardefunctie kan voorstellen aan de hand van een Q-tabel en hoe je de waarden in de Q-tabel kan aanpassen op basis van een beloning. Toch blijft dit wel behoorlijk abstract. Daarom gaan we hier aan de slag met een concreet voorbeeld. In dit voorbeeld zullen we een virtuele worm leren kruipen aan de hand van versterkend leren. 
 
-##Hoe kruipt een worm?
+## Hoe kruipt een worm?
 
 Je bent zeker al eens een worm tegengekomen wanneer je aan het graven was in de tuin. Heb je dan al eens stilgestaan bij hoe zo'n worm zich verplaatst onder de grond? Dat is niet zo evident, wormen hebben immers geen poten. Beeld je in dat we je omwikkelen met duct tape en we je begraven in de grond, kan je je dan nog verplaatsen?
 
