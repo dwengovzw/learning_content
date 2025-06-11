@@ -26,16 +26,20 @@ Om de Q-tabel op te stellen, laten we de agent acties uitproberen en kijken we w
 
 ## De update regel
 
-Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpassen telkens we een beloning hebben gekregen. Laat je niet overweldigen door de formule. We leggen die verder in het leerpad stap voor stap uit. 
+Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpassen telkens we een beloning hebben gekregen. Laat je niet overweldigen door de formule. Verder in het leerpad geven we nog een aantal keer extra uitleg over de formule.
 
  ![](img/update_function_explained.png)
 
 
- TODO: dit eventueel weglaten.
+Bekijk de figuur hierboven goed, probeer de verschillende onderdelen te begrijpen. Hieronder vind je een meer gedetailleerde uitleg over de formule. 
+
+**De update regel ziet er als volgt uit:**
 
 \\[
   Q(T_t, A_t) \leftarrow Q(T_t, A_t) + \alpha  \left[ R_{t+1} + \gamma \max_{a} Q(T_{t+1}, a) - Q(T_t, A_t) \right]
 \\]
+
+**Deze bestaat uit de volgende onderdelen:**
 
 * De pijl \\(\leftarrow\\) geeft aan dat we een nieuwe waarde toekennen aan \\(Q(T_t, A_t)\\).
 * Deze nieuwe waarde is de huidige waarde (\\(Q(T_t, A_t)\\)) plus een correctiewaarde (\\(\alpha  \left[ R_{t+1} + \gamma \max_{a} Q(T_{t+1}, a) - Q(T_t, A_t) \right]\\)).
@@ -45,9 +49,5 @@ Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpasse
   - \\(\gamma \\): Een getal tussen 0 en 1 dat beïnvloed hoe sterk dat de toekomstige beloning de huidige beloning zal beïnvloeden. \\(\gamma\\) noemen we de *discount factor*.
   - \\(\max_{a} Q(T_{t+1}, a)\\): De Q-waarde van de beste actie \\(a\\) in toestand \\(T_{t+1}\\) maal een wegingsfactor \\(\gamma\\).
   - \\(Q(T_t, A_t)\\): De huidige Q-waarde in toestand \\(T_t\\) bij het uitvoeren van actie \\(A_t\\).
-
-
-
-  Hieronder zie je nog eens een overzicht van de verschillende componenten in de formule.
 
  
