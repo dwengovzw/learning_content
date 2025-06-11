@@ -22,4 +22,4 @@ teacher_exclusive: False
 
 Je kent nu alle basisconcepten die nodig zijn om zelf een versterkend leren systeem te bouwen die een worm leert kruipen. Open de volgende notebook om aan de slag te gaan.
 
-[![](img/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_teachable_machine "Notebook transfer learning")
+[![](img/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=waisda_rl_worm "Notebook transfer learning")

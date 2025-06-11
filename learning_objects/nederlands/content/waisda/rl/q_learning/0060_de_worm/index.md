@@ -70,7 +70,7 @@ Een ingekort segment zorgt voor meer druk op de aarde rondom de worm. De haartje
 Door de lengte- en kringspieren in een correct patroon samen te trekken en los te laten, kan de worm zich vooruit bewegen. Het is dit patroon dat we een virtuele worm zullen proberen te leren via versterkend leren.
 
 <div class="dwengo-content sideinfo">
-<h2 class="title">Bio-geïnspireerde robotica: leren van de natuur</h2>
+<h2 class="title">Bio-geïnspireerde robotica</h2>
 <div class="content">
 Bio-geïnspireerde robotica is een onderzoeksveld waarin ingenieurs zich laten inspireren door de natuur om innovatieve technologieën te ontwikkelen. Een mooi voorbeeld hiervan is het onderzoek naar de bijzondere spierarchitectuur van de staart van het zeepaardje. Deze staart is in staat om zich stevig vast te grijpen aan objecten zoals zeewier, dankzij een unieke combinatie van lange spieren die meerdere wervels overspannen en kortere, segmentale spieren. Door dit biologische ontwerp te modelleren in simulaties en fysieke robots, hebben onderzoekers aangetoond dat deze spierstructuur efficiënter krachten omzet in beweging en tegelijkertijd robuuste grijpfuncties mogelijk maakt. Zulke inzichten bieden niet alleen een beter begrip van evolutionaire aanpassingen, maar vormen ook de basis voor het ontwerpen van nieuwe, flexibele robotarmen die bijvoorbeeld in medische of maritieme toepassingen kunnen worden ingezet.
 </div>
