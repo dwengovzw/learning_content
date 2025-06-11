@@ -15,7 +15,7 @@ skos_concepts: [
 ]
 copyright: "CC BY dwengo"
 target_ages: [14, 15, 16, 17, 18]
-teacher_exclusive: True
+teacher_exclusive: False
 ---
 
 # De worm
@@ -68,3 +68,10 @@ Omgekeerd door de kringspieren in een segment samen te trekken wordt de omtrek v
 Een ingekort segment zorgt voor meer druk op de aarde rondom de worm. De haartjes op de worm grijpen op die plaats dus de aarde vast. Een uitgezet segment zorgt ervoor dat de worm langer en dunner wordt daardoor is er minder wrijving op de aarde rondom de worm en kan dat stuk zich makkelijker vooruit en achteruit bewegen.
 
 Door de lengte- en kringspieren in een correct patroon samen te trekken en los te laten, kan de worm zich vooruit bewegen. Het is dit patroon dat we een virtuele worm zullen proberen te leren via versterkend leren.
+
+<div class="dwengo-content sideinfo">
+<h2 class="title">Biologisch geïnspireerde robotica</h2>
+<div class="content">
+
+</div>
+</div>
