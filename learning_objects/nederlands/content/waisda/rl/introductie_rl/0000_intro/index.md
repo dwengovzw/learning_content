@@ -28,7 +28,7 @@ AI-systemen leren meestal door in gegevens op zoek te gaan naar regels en patron
 
 Je merkt dat AI-systemen enorme hoeveelheden gegevens nodig hebben om een taak te leren. Dat staat in sterk contrast met hoe wij als mens leren. Mensen slagen erin om te leren zonder miljoenen tot miljarden voorbeelden te moeten zien. Denk bijvoorbeeld aan een baby die leert kruipen. De baby is in staat om zelfs zonder ooit voorbeelden gezien te hebben te leren kruipen<sup>(1)</sup>. Als mens gebruiken we dus andere technieken om te leren dan de technieken die de meeste AI-systemen gebruiken. 
 
-De manier waarop mensen leren heeft computerwetenschappers geïnspireerd om AI-systemen te ontwikkelen die niet leren op basis van grote hoeveelheden gegevens maar wel op basis van de interactie met hun omgeving. Deze systemen maken gebruik van **versterkend leren**. In dit leerpad maak je kennis met de basisprincpes van het **versterkend leren**.
+De manier waarop mensen leren heeft computerwetenschappers geïnspireerd om AI-systemen te ontwikkelen die niet leren op basis van grote hoeveelheden gegevens maar wel op basis van de interactie met hun omgeving. Deze systemen maken gebruik van **versterkend leren**. In dit leerpad maak je kennis met de basisprincipes van het **versterkend leren**.
 
 
 

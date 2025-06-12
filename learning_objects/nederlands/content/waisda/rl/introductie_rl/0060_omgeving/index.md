@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # De omgeving
 
-De omgeving kan je zien als de wereld waarin de agent zich kan bewegen. De wereld van een hamster is bijvoorbeeld alles wat er zich in zijn kooi bevindt. In ons spel bestaat de omgeving uit de score bovenaan, de drie blokjes aan de linker kant, de twee cijfers en de knoppen onderaan. Op deze foto zie je wat de elementen zijn van de omgeving van ons spel.
+De omgeving kan je zien als de wereld waarin de agent zich kan bewegen. De wereld van een hamster is bijvoorbeeld alles wat er zich in zijn kooi bevindt. In ons spel bestaat de omgeving uit de score bovenaan, de drie blokjes aan de linkerkant, de twee cijfers en de knoppen onderaan. Op deze foto zie je wat de elementen zijn van de omgeving van ons spel.
 
 ![De omgeving](img/omgeving_met_aanduidingen.png)
 
