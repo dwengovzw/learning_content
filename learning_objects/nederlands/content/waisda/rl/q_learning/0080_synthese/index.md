@@ -29,7 +29,9 @@ In dit leerpad leerde je hoe je zelf een systeem kan trainen aan de hand van ver
 <div class="content">
 <p>Wetenschappers experimenteren volop met robots die geïnspireerd zijn op de natuur. Vaak hebben deze robots specifieke eigenschappen waardoor ze een meerwaarde kunnen bieden in situaties waar een standaard industriële robot minder effectief is. Hieronder zie je een video van MIT waarin ze een demo geven van hun robotworm. Herken je de bewegingen die onze virtuele worm leerde in deze echte worm?</p>
 <p>
+<div class="iframe-container iframe-16-9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXkf62qGFII?si=aATksiik_LuK3P4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
+</div>
 </div>
 </div>
