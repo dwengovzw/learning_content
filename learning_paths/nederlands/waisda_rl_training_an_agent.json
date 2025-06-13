@@ -120,6 +120,21 @@
           {
             "default": true,
             "next": {
+              "hruid": "org-dwengo-waisda-rl-agent-trainen-pong",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-pong",
+        "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
               "hruid": "org-dwengo-waisda-rl-agent-trainen-synthese",
               "version": "1",
               "language": "nl"
