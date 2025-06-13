@@ -6,7 +6,7 @@ title: "Introductie"
 description: "In dit leerpad pas je de principes van versterkend leren toe om een AI-agent te leren hoe die een taak kan uitvoeren."
 keywords: ["AI", "reïnforcement learning", "versterkend leren"]
 content_type: "text/markdown"
-estimated_time: 5
+estimated_time: 1
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

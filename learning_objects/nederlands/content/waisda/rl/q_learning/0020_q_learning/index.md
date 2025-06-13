@@ -6,7 +6,7 @@ title: "Q-learning"
 description: "Wat is Q-learning"
 keywords: ["AI", "reïnforcement learning", "versterkend leren"]
 content_type: "text/markdown"
-estimated_time: 5
+estimated_time: 3
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',

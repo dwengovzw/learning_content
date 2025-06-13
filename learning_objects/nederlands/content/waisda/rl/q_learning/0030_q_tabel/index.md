@@ -6,7 +6,7 @@ title: "Q-tabel"
 description: "Wat is de Q-tabel"
 keywords: ["AI", "reïnforcement learning", "versterkend leren", "q-learning", "q-tabel"]
 content_type: "text/markdown"
-estimated_time: 5
+estimated_time: 3
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
