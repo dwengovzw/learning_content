@@ -164,21 +164,6 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-introductie-rl-unplugged",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-unplugged",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
               "hruid": "org-dwengo-waisda-rl-introductie-rl-samenvatting",
               "version": "1",
               "language": "nl"
@@ -186,6 +171,7 @@
           }
         ]
       },
+      
       {
         "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-samenvatting",
         "version": "1",
