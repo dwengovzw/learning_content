@@ -33,6 +33,8 @@ teacher_exclusive: false
 # Moet ik naar de dokter? 
 Met de applicatie *Moet ik naar de dokter?* kan je gemakkelijk en snel achterhalen of en wanneer je naar de dokter moet. Dat kan bijvoorbeeld handig zijn in het weekend, want dan kan je meestal niet bij je huisarts terecht voor advies.
 
+![huisartsenwachtpostenVlaanderen](https://github.com/user-attachments/assets/51b5bef2-1c31-49cb-9d98-87b4b19b5449)
+
 Deze app toont hoe een **beslissingsboom in de praktijk** in zijn werk gaat.<br><br>
 **Met dank aan het team van *Moet ik naar de dokter?* kan je de app hieronder uitproberen.<br>
 De taal van de app kan je kiezen.**
