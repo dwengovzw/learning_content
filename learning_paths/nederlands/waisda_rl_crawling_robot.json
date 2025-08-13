@@ -14,7 +14,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-q-learning",
+              "hruid": "org-dwengo-waisda-rl-crawling-robot-de-robot",
               "version": "1",
               "language": "nl"
             }
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-q-learning",
+        "learningobject_hruid": "org-dwengo-waisda-rl-crawling-robot-de-robot",
         "version": "1",
         "language": "nl",
         "transitions": [
