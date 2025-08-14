@@ -29,7 +29,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-q-tabel",
+              "hruid": "org-dwengo-waisda-rl-crawling-robot-mechanisch-ontwerp",
               "version": "1",
               "language": "nl"
             }
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-q-tabel",
+        "learningobject_hruid": "org-dwengo-waisda-rl-crawling-robot-mechanisch-ontwerp",
         "version": "1",
         "language": "nl",
         "transitions": [
