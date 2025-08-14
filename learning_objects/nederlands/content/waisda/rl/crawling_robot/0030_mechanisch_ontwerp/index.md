@@ -35,5 +35,5 @@ Het lichaam van de robot bestaat uit de volgende onderdelen:
 
 Hieronder zie je een render van de geassembleerde robot. 
 
-![Render van de krupende robot.](img/robot_zei_2.png)
+![Render van de krupende robot.](img/robot1.png)
 
