@@ -37,3 +37,4 @@ Hieronder zie je een render van de geassembleerde robot.
 
 ![Render van de krupende robot.](img/robot1.png)
 
+![Render van de krupende robot.](img/robot2.png)
