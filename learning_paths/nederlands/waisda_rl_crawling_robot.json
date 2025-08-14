@@ -44,7 +44,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-q-tabel-opl",
+              "hruid": "org-dwengo-waisda-rl-crawling-robot-3d-printing",
               "version": "1",
               "language": "nl"
             }
@@ -52,7 +52,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-q-tabel-opl",
+        "learningobject_hruid": "org-dwengo-waisda-rl-crawling-robot-3d-printing",
         "version": "1",
         "language": "nl",
         "transitions": [
