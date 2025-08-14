@@ -43,7 +43,9 @@ Afhankelijk van de printer die je ter beschikking hebt zal het printproces iets 
 4. Zet het *geslicete* bestand over naar de printer. Op sommige printers kan dat via wifi. Bij andere printers zal je de SD kaart uit de printer moeten nemen, je bestand erop zetten, en de SD kaart terug in de printer steken.
 5. Start de print en wacht.
 
+Wij hebben dit ontwerp geprint met een Bambu Labs printer. Hieronder zie je een schermafbeelding van onze slicer software.
 
+![Slicer voorbeeld](img/bambu_studio_example.png)
 
 <div class="dwengo-content sideinfo">
 <h2 class="title">Slicen</h2>
