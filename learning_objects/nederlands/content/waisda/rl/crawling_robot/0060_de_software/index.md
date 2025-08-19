@@ -96,12 +96,12 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
     * @return De index van de waarde in de array, of -1 als niet gevonden.
     */
     int zoekIndex(int arr[], int lengte_van_de_array, int waarde) {
-    for (int i = 0; i < lengte_van_de_array; i++) {
-        if (arr[i] == waarde) {
-        return i;
+        for (int i = 0; i < lengte_van_de_array; i++) {
+            if (arr[i] == waarde) {
+                return i;
+            }
         }
-    }
-    return -1;
+        return -1;
     }
 
     /**
@@ -110,10 +110,10 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
     * @return Index van de toestand in de Q-tabel.
     */
     int zoek_positie_van_toestand(int toestand[]){
-    int eerste_positie = zoekIndex(hoekenServo1, AANTAL_ACTIES/2, toestand[0]);
-    int tweede_positie = zoekIndex(hoekenServo2, AANTAL_ACTIES/2, toestand[1]);
-    int index_van_de_toestand = eerste_positie * 4 + tweede_positie;
-    return index_van_de_toestand;
+        int eerste_positie = zoekIndex(hoekenServo1, AANTAL_ACTIES/2, toestand[0]);
+        int tweede_positie = zoekIndex(hoekenServo2, AANTAL_ACTIES/2, toestand[1]);
+        int index_van_de_toestand = eerste_positie * 4 + tweede_positie;
+        return index_van_de_toestand;
     }
 
     /**
@@ -141,15 +141,15 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
     */
     void beweeg_servo(Servo* servo, int start_hoek, int eind_hoek){
         if (start_hoek > eind_hoek){
-        for (int angle = start_hoek; angle >= eind_hoek ; angle -= 1){
-            servo->write(angle);
-            delay(10);
-        }
+            for (int angle = start_hoek; angle >= eind_hoek ; angle -= 1){
+                servo->write(angle);
+                delay(10);
+            }
         } else {
-        for (int angle = start_hoek; angle <= eind_hoek ; angle += 1){
-            servo->write(angle);
-            delay(10);
-        }
+            for (int angle = start_hoek; angle <= eind_hoek ; angle += 1){
+                servo->write(angle);
+                delay(10);
+            }
         }
     }
 
@@ -158,13 +158,13 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
     * @param actie_index Index van de actie in de Q-tabel.
     */
     void voer_actie_uit(int actie_index){
-    if (actie_index >= 4){
-        beweeg_servo(&servo2, toestand[1], hoekenServo2[actie_index-4]);
-        toestand[1] = hoekenServo2[actie_index-4];
-    } else {
-        beweeg_servo(&servo1, toestand[0], hoekenServo1[actie_index]);
-        toestand[0] = hoekenServo1[actie_index];
-    }
+        if (actie_index >= 4){
+            beweeg_servo(&servo2, toestand[1], hoekenServo2[actie_index-4]);
+            toestand[1] = hoekenServo2[actie_index-4];
+        } else {
+            beweeg_servo(&servo1, toestand[0], hoekenServo1[actie_index]);
+            toestand[0] = hoekenServo1[actie_index];
+        }
     }
 
     /**
@@ -172,19 +172,19 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
     */
     void setup()
     {
-    initDwenguino();
+        initDwenguino();
 
-    servo1.attach(40);
-    servo2.attach(41);
+        servo1.attach(40);
+        servo2.attach(41);
 
-    servo1.write(hoekenServo1[0]);
-    servo2.write(hoekenServo2[0]);
+        servo1.write(hoekenServo1[0]);
+        servo2.write(hoekenServo2[0]);
 
-    initialiseer_q_tabel();
+        initialiseer_q_tabel();
 
-    // Gebruik gemeten afstand als seed voor willekeurige getallen.
-    int afstand = sonarA1A0.ping_cm();
-    randomSeed(afstand);
+        // Gebruik gemeten afstand als seed voor willekeurige getallen.
+        int afstand = sonarA1A0.ping_cm();
+        randomSeed(afstand);
     }
 
     /**
@@ -199,9 +199,9 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
 
         // Kies een willekeurige actie met kans EPSILON/1000, anders de beste actie.
         if (rand < EPSILON){
-        actie_index = random(AANTAL_ACTIES);
+            actie_index = random(AANTAL_ACTIES);
         } else {
-        actie_index = zoek_de_beste_actie(toestand_index);
+            actie_index = zoek_de_beste_actie(toestand_index);
         }
 
         // Meet afstand vóór de actie.
@@ -217,7 +217,7 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
 
         // Filter kleine beloningen weg om ruis te verminderen.
         if (beloning <= 2 && beloning >= -2){
-        beloning = 0;
+            beloning = 0;
         }
 
         // Zoek de beste actie in de nieuwe toestand.
