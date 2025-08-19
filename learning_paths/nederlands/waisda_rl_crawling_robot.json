@@ -89,7 +89,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-de-worm",
+              "hruid": "org-dwengo-waisda-rl-crawling-robot-summary",
               "version": "1",
               "language": "nl"
             }
@@ -97,52 +97,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-de-worm",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-de-worm-notebook",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-de-worm-notebook",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-pong",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-pong",
-        "version": "1",
-        "language": "nl",
-        "transitions": [
-          {
-            "default": true,
-            "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-synthese",
-              "version": "1",
-              "language": "nl"
-            }
-          }
-        ]
-      },
-      {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-synthese",
+        "learningobject_hruid": "org-dwengo-waisda-rl-crawling-robot-summary",
         "version": "1",
         "language": "nl"
       }      
