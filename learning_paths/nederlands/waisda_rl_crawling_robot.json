@@ -59,7 +59,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-q-learning-update-rule",
+              "hruid": "org-dwengo-waisda-rl-crawling-robot-elektronica",
               "version": "1",
               "language": "nl"
             }
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-q-learning-update-rule",
+        "learningobject_hruid": "org-dwengo-waisda-rl-crawling-robot-elektronica",
         "version": "1",
         "language": "nl",
         "transitions": [
