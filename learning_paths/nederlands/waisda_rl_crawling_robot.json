@@ -74,7 +74,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "org-dwengo-waisda-rl-agent-trainen-exploratie-exploitatie",
+              "hruid": "org-dwengo-waisda-rl-crawling-robot-programma",
               "version": "1",
               "language": "nl"
             }
@@ -82,7 +82,7 @@
         ]
       },
       {
-        "learningobject_hruid": "org-dwengo-waisda-rl-agent-trainen-exploratie-exploitatie",
+        "learningobject_hruid": "org-dwengo-waisda-rl-crawling-robot-programma",
         "version": "1",
         "language": "nl",
         "transitions": [
