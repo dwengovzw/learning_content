@@ -6,7 +6,7 @@ title: "De elektronica"
 description: "Welke elektronica heb je nodig?"
 keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robot", "elektronica"]
 content_type: "text/markdown"
-estimated_time: 10
+estimated_time: 30
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
