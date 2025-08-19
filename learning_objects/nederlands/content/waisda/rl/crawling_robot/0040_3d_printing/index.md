@@ -6,7 +6,7 @@ title: "3D-printen"
 description: "Naar welk doel werken we toe?"
 keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robot"]
 content_type: "text/markdown"
-estimated_time: 1
+estimated_time: 20
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -51,5 +51,12 @@ Wij hebben dit ontwerp geprint met een Bambu Labs printer. Hieronder zie je een 
 <h2 class="title">Slicen</h2>
 <div class="content">
 Het programma van je 3D-printer wordt ook wel eens de <em>slicer</em> genoemd. Dit komt van het Engelse werkwoord <em>to slice</em>, snijden in het Nederlands. De applicatie is daarnaar vernoemd omdat het je 3D-model in laagjes zal snijden en voor elk laagje een pad voor de kop van de 3D-printer zal berekenen. 
+</div>
+</div>
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+Print alle onderdelen van de kruipende robot op een 3D-printer.
 </div>
 </div>

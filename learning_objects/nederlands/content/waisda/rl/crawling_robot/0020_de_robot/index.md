@@ -6,7 +6,7 @@ title: "De robot"
 description: "Naar welk doel werken we toe?"
 keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robot"]
 content_type: "text/markdown"
-estimated_time: 1
+estimated_time: 2
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
