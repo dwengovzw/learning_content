@@ -2,9 +2,9 @@
 hruid: org-dwengo-waisda-rl-crawling-robot-elektronica
 version: 1
 language: nl
-title: "3D-printen"
-description: "Naar welk doel werken we toe?"
-keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robot"]
+title: "De elektronica"
+description: "Welke elektronica heb je nodig?"
+keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robot", "elektronica"]
 content_type: "text/markdown"
 estimated_time: 10
 skos_concepts: [
