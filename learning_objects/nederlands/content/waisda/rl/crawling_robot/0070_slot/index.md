@@ -2,8 +2,8 @@
 hruid: org-dwengo-waisda-rl-crawling-robot-summary
 version: 1
 language: nl
-title: "Het programma"
-description: "Hoe programmeer ik de robot?"
+title: "Samenvatting"
+description: "Je hebt nu alle informatie om de kruipende robot te bouwen en programmeren. Probeer het leerproces nu te optimaliseren."
 keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robot", "elektronica"]
 content_type: "text/markdown"
 estimated_time: 45
