@@ -6,7 +6,7 @@ title: "Samenvatting"
 description: "Je hebt nu alle informatie om de kruipende robot te bouwen en programmeren. Probeer het leerproces nu te optimaliseren."
 keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robot", "elektronica"]
 content_type: "text/markdown"
-estimated_time: 45
+estimated_time: 2
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
