@@ -234,3 +234,17 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
 </code>
         </pre> 
         </div>
+
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdrach</h2>
+<div class="content">
+<ul>
+<li>Open de code in de Dwengo simulator.</li>
+<li>Compileer de code.</li>
+<li>Zet het .dw bestand met gecompileerde code over naar je robot.</li>
+<li>Analyseer het resultaat, leert de robot? Het kan tot 10 minuten duren voordat de robot een kruippatroon (gate in het Engels) leert.</li>
+<li>Pas de code eventueel aan om ervoor te zorgen dat de robot sneller een gate leert.</li>
+</ul>
+</div>
+</div>
