@@ -237,7 +237,7 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
 
 
 <div class="dwengo-content assignment">
-<h2 class="title">Opdrach</h2>
+<h2 class="title">Opdracht</h2>
 <div class="content">
 <ul>
 <li>Open de code in de Dwengo simulator.</li>
