@@ -30,3 +30,14 @@ Alle elektronica die je voor deze robot nodig hebt kan je vinden in de 'sociale 
 </table>
 
 Wil je graag dat je robot autonoom kan rijden zonder verbonden te moeten zijn met de computer, dan hebt je een 9V batterij nodig en een kabeltje om die batterij te verbinden met te 5mm jack van de Dwenguino.
+
+De aansluiting van de elektronica is relatief eenvoudig. De servos kan je verbinden met de SERVO1 en SERVO2 connectoren op het Dwenguino bord. De sonarsensor kan je verbinden met de SONAR1 connector op het uitbreidingsbord. Je zal de pinnen van de sonar 90 graden moeten buigen zodat de sensor niet naar de grond kijkt.
+
+![Render van de krupende robot.](img/robot2.png)
+
+<div class="dwengo-content assignment">
+<h2 class="title">Opdracht</h2>
+<div class="content">
+Assembleer de robot. Gebruik daarvoor de opgelijste elektronica en de onderdelen die je ge-3D-print hebt. Als je een 9V batterij gebruikt, zorg dan dat je die in de behuizing steekt voordat je de Dwenguino eraan bevestigt.
+</div>
+</div>
