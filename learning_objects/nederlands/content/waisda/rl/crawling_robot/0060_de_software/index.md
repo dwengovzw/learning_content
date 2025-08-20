@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # De robot programmeren
 
-Om de robot te programmeren kan je gebruik maken van onze online programmeeromgeving. Hier leggen we niet in detail uit hoe je dat kan doen. Alle informatie over de programmeeromgeving en de basis programmeerprincipes kan je vinden op [dwengo.org/physical_computing](dwengo.org/physical_computing). Hieronder kan je onze code vinden voor de robot. In de commentaar leggen we uit wat de verschillende onderdelen doen. We raden je aan om het leerpad over de basisprincipes van versterkend leren door te nemen voor je begint met het bouwen en programmeren van de kruipende robot.
+Om de robot te programmeren kan je gebruik maken van onze online programmeeromgeving. Hier leggen we niet in detail uit hoe je dat kan doen. Alle informatie over de programmeeromgeving en de basis programmeerprincipes kan je vinden op [https://www.dwengo.org/physical_computing](https://www.dwengo.org/physical_computing). Hieronder kan je onze code vinden voor de robot. In de commentaar leggen we uit wat de verschillende onderdelen doen. We raden je aan om het leerpad over de basisprincipes van versterkend leren door te nemen voor je begint met het bouwen en programmeren van de kruipende robot.
 
 <div class="dwengo-content dwengo-code-simulator">
         <pre>
