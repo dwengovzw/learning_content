@@ -19,3 +19,7 @@ teacher_exclusive: False
 ---
 
 # Samenvatting
+
+In dit leerpad exploreerde je hoe versterkend leren toegepast kan worden in de robotica. Je hebt de onderdelen van een robot ge-3D-print en gebruikte de elektronica uit 'sociale robot'-kit van Dwengo om de robot te bouwen. Daarna gebruikte je je kennis van physical computing om de robot te programmeren. Daarbovenop dacht je na over hoe je het leerproces van de robot kon verbeteren, daarvoor steunde je op de kennis die je al hebt opgedaan over versterkend leren.
+
+Wil je graag meer projecten zoals deze uitvoeren, kijk dan eens op [dwengo.org/physical_computing](dwengo.org/physical_computing) of [dwengo.org/waisda](dwengo.org/waisda).
