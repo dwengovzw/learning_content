@@ -35,7 +35,7 @@ Het lichaam van de robot bestaat uit de volgende onderdelen:
 
 Hieronder zie je een render van de geassembleerde robot. 
 
-![Render van de krupende robot.](img/robot1.png)
+![Render van de krupende robot.](img/robot_light_1.png)
 
 
 Voor je de robot kan bouwen, zal je een aantal onderdelen moeten 3D-printen. In de volgende stap van dit leerpad geven we daar meer informatie over.

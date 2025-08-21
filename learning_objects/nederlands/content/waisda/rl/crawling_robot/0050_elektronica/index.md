@@ -35,7 +35,7 @@ Wil je graag dat je robot autonoom kan rijden zonder verbonden te moeten zijn me
 
 De aansluiting van de elektronica is relatief eenvoudig. De servos kan je verbinden met de SERVO1 en SERVO2 connectoren op het Dwenguino bord. De sonarsensor kan je verbinden met de SONAR1 connector op het uitbreidingsbord. Je zal de pinnen van de sonar 90 graden moeten buigen zodat de sensor niet naar de grond kijkt.
 
-![Render van de krupende robot.](img/robot2.png)
+![Render van de krupende robot.](img/robot2_light.png)
 
 <div class="dwengo-content assignment">
 <h2 class="title">Opdracht</h2>
