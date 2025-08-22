@@ -31,4 +31,4 @@ Extreme hitte heeft negatieve effecten op de gezondheid en wordt in verband gebr
 Dr. Marie-Leen Verdonck van de UGent legt je in deze video van de Universiteit van Vlaanderen uit hoe we ons kunnen wapenen tegen extreme hitte ([CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)).
 
 
-![](@youtube/https://https://www.youtube.com/embed/1yUisdFv5Io?si=xcNzACCC78teAMYZ)
+![](@youtube/https://www.youtube.com/embed/1yUisdFv5Io?si=xcNzACCC78teAMYZ)
