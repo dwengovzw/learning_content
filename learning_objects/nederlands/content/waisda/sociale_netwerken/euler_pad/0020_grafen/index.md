@@ -63,7 +63,13 @@ Ons initiële probleem, waarbij we een tekening willen maken zonder onze balpen 
 <div class="dwengo-content sideinfo">
 <h2 class="title">De Mercedes challenge</h2>
 <div class="content">
-<p>De Mercedes challenge is een puzzel die viraal is gegaan op TikTok. De uitdaging zou gestart zijn in een Mercedes garage in Dubai. Daar stond een groot Mercedes logo op de grond getekend. Bezoekers van de garage werden uitgedaagd om op over alle lijnen van het logo te lopen zonder twee keer over dezelfde lijn te lopen. Wanneer ze daarin slaagden, wonnen ze een auto. </p>
+<table>
+<tr>
+<td><img src="img/Mercedes-Benz_free_logo.svg"></td>
+<td><p>De Mercedes challenge is een puzzel die viraal is gegaan op TikTok. De uitdaging zou gestart zijn in een Mercedes garage in Dubai. Daar stond een groot Mercedes logo op de grond getekend. Bezoekers van de garage werden uitgedaagd om op over alle lijnen van het logo te lopen zonder twee keer over dezelfde lijn te lopen. Wanneer ze daarin slaagden, wonnen ze een auto. </p></td>
+</tr>
+</table>
+
 <p>Ga zelf op zoek naar een filmpje van de <em>Mercedes Challenge</em>. Slaag jij er in om op de correcte manier over de lijnen van het logo te lopen?</p>
 </div>
 </div>
