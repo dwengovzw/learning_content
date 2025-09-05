@@ -48,6 +48,7 @@ Subtaken (**decompositie**):<br>
             <li>Lamp L (brandt L = 1)</li>
         </ol>
     <li>Het gevraagde weergeven d.m.v. een waarheidstabel. </li>
+    <li>Een algoritme opstellen dat de verlichting aanstuurt.</li>
 </ol>
 </decomposition>
 <patternRecognition>
@@ -58,7 +59,7 @@ Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel.<br>
 ![Waarheidstabel](waarheidstabelterraslamp.png)  <br>
 </abstraction>
 <algorithms>
-De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen in een flowchart en in pseudocode).<br>
+De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen als flowchart en in pseudocode).<br>
 ![Flowchart](flowchart.jpg)<br>
 ![Flowchart](flowchart1terraslamp.jpg)<br>
 ![Flowchart](flowchart2terraslamp.jpg)<br>
