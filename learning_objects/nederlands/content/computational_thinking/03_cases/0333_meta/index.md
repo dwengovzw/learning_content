@@ -47,22 +47,22 @@ Subtaken (**decompositie**):<br>
         <ol>
             <li>Lamp L (brandt L = 1)</li>
         </ol>
-    <li>Het gevraagde weergeven d.m.v. een waarheidstabel en Karnaugh-diagram. </li>
+    <li>Het gevraagde weergeven d.m.v. een waarheidstabel. </li>
 </ol>
 </decomposition>
 <patternRecognition>
-Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en het Karnaugh-diagram. (**patroonherkenning**)
+Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel. (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel en een Karnaugh-diagram.<br>
-![Waarheidstabel](waarheidstabel.png)  <br>
-![Karnaughdiagram](karnaugh.png)
+Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel.<br>
+![Waarheidstabel](waarheidstabelterraslamp.png)  <br>
 </abstraction>
 <algorithms>
-De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier in een flowchart en in pseudocode).<br>
-![Pseudocode](pseudocode1terraslamp.png)<br>
+De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen in een flowchart en in pseudocode).<br>
 ![Flowchart](flowchart.jpg)<br>
-![Pseudocode](pseudocode2terraslamp.png)
+![Flowchart](flowchart1terraslamp.jpg)<br>
+![Flowchart](flowchart2terraslamp.jpg)<br>
+![Pseudocode](pseudocode1terraslamp.png)<br>
 ![Pseudocode](pseudocodewijterraslamp.png)
 </algorithms>
 <implementation>
