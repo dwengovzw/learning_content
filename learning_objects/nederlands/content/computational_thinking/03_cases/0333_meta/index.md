@@ -61,8 +61,9 @@ Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel en een Ka
 <algorithms>
 De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier in een flowchart en in pseudocode).<br>
 ![Pseudocode](pseudocode1terraslamp.png)<br>
-![Flowchart](flowchart.png)<br>
+![Flowchart](flowchart.jpg)<br>
 ![Pseudocode](pseudocode2terraslamp.png)
+![Pseudocode](pseudocodewijterraslamp.png)
 </algorithms>
 <implementation>
 Deze activiteit kan zonder computer gebeuren.
