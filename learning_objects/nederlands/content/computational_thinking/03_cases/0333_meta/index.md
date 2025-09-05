@@ -57,6 +57,7 @@ Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een
 <abstraction>
 Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel.<br>
 ![Waarheidstabel](waarheidstabelterraslamp.png)  <br>
+![Waarheidstabel](waarheidstabelterraslamp1.png)  <br>
 </abstraction>
 <algorithms>
 De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen als flowchart en in pseudocode).<br>
