@@ -37,7 +37,7 @@ teacher_exclusive: true
 
 **Doelgroep:** 2de graad - dubbele finaliteit 
 
-**Vak:** ...
+**Vak:** elektriciteit / elektronica
 
 **Voorkennis:** De leerlingen kennen in- en uitvoerelementen van digitale systemen. Ze kunnen werken met waarheidstabellen en Karnaugh-kaarten.
 
