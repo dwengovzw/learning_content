@@ -37,29 +37,34 @@ Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, au
 <decomposition>
 Verkennen van het probleem. Wat heb je nodig? <br> 
 Subtaken (**decompositie**):<br>
-<ol>
+<ul>
     <li>Welke invoerelementen?</li>
-        <ol> <li>Bewegingsdetector A (bij beweging is A  = 1)</li>
+        <ul> <li>Bewegingsdetector A (beweging: A  = 1)</li>
              <li>Lichtsensor B (donker: B = 0)</li>
              <li>Schakelaar C (ingedrukt: C = 1)</li>
-        </ol>
+        </ul>
     <li>Welke uitvoerelementen?</li>
-        <ol>
+        <ul>
             <li>Lamp L (brandt: L = 1)</li>
-        </ol>
+        </ul>
     <li>Het gevraagde weergeven d.m.v. een waarheidstabel. </li>
     <li>Een algoritme opstellen dat de verlichting aanstuurt.</li>
-</ol>
+</ul>
 </decomposition>
 <patternRecognition>
-    - Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. (**patroonherkenning**)<br>
-    - Opzoek gaan naar patronen in de waarheidstabe, bv. 
-    ![Waarheidstabel](waarheidstabelterraslamp1.png)  <br>
+**patroonherkenning**:<br>
+<ul>
+     <li>Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. <\li>
+    <li>Opzoek gaan naar patronen in de waarheidstabel, bv. <br> 
+    ![Waarheidstabel](waarheidstabelterraslamp1.png)  
+     </li>
+</ul>
 </patternRecognition>
 <abstraction>
 Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel.<br>
 ![Waarheidstabel](waarheidstabelterraslamp.png)  <br>
 </abstraction>
+         
 <algorithms>
 De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen in de vorm van pseudocode of een flowchart).<br>
 ![Flowchart](flowchart.png)<br>
@@ -67,6 +72,7 @@ De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in
 ![Pseudocode](pseudocode1terraslamp.png)<br>
 ![Pseudocode](pseudocodewijterraslamp.png)
 </algorithms>
+         
 <implementation>
 Deze activiteit kan zonder computer gebeuren.
 </implementation>
