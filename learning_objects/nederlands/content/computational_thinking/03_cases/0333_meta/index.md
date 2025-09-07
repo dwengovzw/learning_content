@@ -50,6 +50,7 @@ Subtaken (**decompositie**):<br>
     <li>Het gevraagde weergeven d.m.v. een waarheidstabel. </li>
     <li>Een algoritme opstellen dat de verlichting aanstuurt.</li>
 </ul>
+    ![Waarheidstabel](waarheidstabelterraslamp1.png)  <br>
 </decomposition>
 <patternRecognition>
 **patroonherkenning**:<br>
@@ -71,3 +72,7 @@ De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in
 Deze activiteit kan zonder computer gebeuren.
 </implementation>
 
+<ul>
+     <li>Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. </li>
+     <li>Opzoek gaan naar patronen in de waarheidstabel, bv.</li> 
+</ul>
