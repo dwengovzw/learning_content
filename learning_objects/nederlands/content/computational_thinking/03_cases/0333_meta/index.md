@@ -54,24 +54,22 @@ Subtaken (**decompositie**):<br>
 <patternRecognition>
 **patroonherkenning**:<br>
 <ul>
-     <li>Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. <\li>
-    <li>Opzoek gaan naar patronen in de waarheidstabel, bv.</li> 
+     <li>Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. </li>
+     <li>Opzoek gaan naar patronen in de waarheidstabel, bv.</li> 
 </ul>
-![Waarheidstabel](waarheidstabelterraslamp1.png)  
+![Waarheidstabel](waarheidstabelterraslamp1.png)<br>  
 </patternRecognition>
 <abstraction>
 Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel.<br>
 ![Waarheidstabel](waarheidstabelterraslamp.png)  <br>
 </abstraction>
-         
 <algorithms>
 De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen in de vorm van pseudocode of een flowchart).<br>
 ![Flowchart](flowchart.png)<br>
-![Flowchart](flowchart2terraslamp.png)<br>
+![Flowchart](flowchart2terraslamp.png)<br><br>
 ![Pseudocode](pseudocode1terraslamp.png)<br>
 ![Pseudocode](pseudocodewijterraslamp.png)
 </algorithms>
-         
 <implementation>
 Deze activiteit kan zonder computer gebeuren.
 </implementation>
