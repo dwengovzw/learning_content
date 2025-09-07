@@ -57,7 +57,7 @@ Subtaken (**decompositie**):<br>
      <li>Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. </li>
      <li>Opzoek gaan naar patronen in de waarheidstabel, bv.</li> 
 </ul>
-![Waarheidstabel](waarheidstabelterraslamp.png)<br>  
+![Waarheidstabel](waarheidstabelterraslamp.png)  <br>
 </patternRecognition>
 <abstraction>
 Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel.<br>
