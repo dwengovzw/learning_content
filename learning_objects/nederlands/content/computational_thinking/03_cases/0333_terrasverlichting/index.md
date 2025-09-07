@@ -39,7 +39,7 @@ teacher_exclusive: true
 
 **Vak:** elektriciteit / elektronica
 
-**Voorkennis:** De leerlingen kennen in- en uitvoerelementen van digitale systemen. Ze kunnen werken met waarheidstabellen en Karnaugh-kaarten.
+**Voorkennis:** De leerlingen kennen in- en uitvoerelementen van digitale systemen. Ze kunnen werken met waarheidstabellen.
 
 ![ct-schema](@learning-object/m_ct03_33/nl/3)
 
