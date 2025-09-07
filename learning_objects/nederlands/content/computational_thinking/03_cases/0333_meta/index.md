@@ -31,7 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
-Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, automatisch geactiveerd wordt bij beweging. Deze buitenverlichting kan ook ingeschakeld kan worden via een schakelaar binnen in de keuken. 
+Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, automatisch geactiveerd wordt bij beweging, en dat je deze buitenverlichting ook kan inschakelen via een schakelaar in de keuken. 
 </div>
 </context>
 <decomposition>
@@ -40,30 +40,30 @@ Subtaken (**decompositie**):<br>
 <ol>
     <li>Welke invoerelementen?</li>
         <ol> <li>Bewegingsdetector A (bij beweging is A  = 1)</li>
-             <li>Lichtsensor B (donker B = 0)</li>
-             <li>Schakelaar C (ingedrukt C = 1)</li>
+             <li>Lichtsensor B (donker: B = 0)</li>
+             <li>Schakelaar C (ingedrukt: C = 1)</li>
         </ol>
     <li>Welke uitvoerelementen?</li>
         <ol>
-            <li>Lamp L (brandt L = 1)</li>
+            <li>Lamp L (brandt: L = 1)</li>
         </ol>
     <li>Het gevraagde weergeven d.m.v. een waarheidstabel. </li>
     <li>Een algoritme opstellen dat de verlichting aanstuurt.</li>
 </ol>
 </decomposition>
 <patternRecognition>
-Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel. (**patroonherkenning**)
+    - Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. (**patroonherkenning**)<br>
+    - Opzoek gaan naar patronen in de waarheidstabe, bv. 
+    ![Waarheidstabel](waarheidstabelterraslamp1.png)  <br>
 </patternRecognition>
 <abstraction>
 Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel.<br>
 ![Waarheidstabel](waarheidstabelterraslamp.png)  <br>
-![Waarheidstabel](waarheidstabelterraslamp1.png)  <br>
 </abstraction>
 <algorithms>
-De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen als flowchart en in pseudocode).<br>
-![Flowchart](flowchart.jpg)<br>
-![Flowchart](flowchart1terraslamp.jpg)<br>
-![Flowchart](flowchart2terraslamp.jpg)<br>
+De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen in de vorm van pseudocode of een flowchart).<br>
+![Flowchart](flowchart.png)<br>
+![Flowchart](flowchart2terraslamp.png)<br>
 ![Pseudocode](pseudocode1terraslamp.png)<br>
 ![Pseudocode](pseudocodewijterraslamp.png)
 </algorithms>
