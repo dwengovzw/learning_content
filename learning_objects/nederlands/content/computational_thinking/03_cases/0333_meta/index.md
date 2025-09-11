@@ -56,7 +56,7 @@ Subtaken (**decompositie**):<br>
 **patroonherkenning**:<br>
 * Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. 
 * Opzoek gaan naar patronen in de waarheidstabel, bv.<br>
-![Waarheidstabel](waarheidstabelterraslamp1.png)  <br>
+![Waarheidstabel](waarheidstabelterraslamppatroon.png)  <br>
 Bekijk in welke gevallen de lamp brandt (dat is aangegeven in het lichtgroen).<br>
 Als K = 1 (donkergroen) dan zal de lamp branden (L = 1), ongeacht de waarden van B en S.<br>
 Voor K = 0 is er nog maar één geval waarbij de lamp ook brandt, nl. als S = 0 én B = 1 (oranje). <br>
