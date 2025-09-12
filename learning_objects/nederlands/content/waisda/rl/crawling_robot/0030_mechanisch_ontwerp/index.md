@@ -28,7 +28,7 @@ Het lichaam van de robot bestaat uit de volgende onderdelen:
 - een 9V batterij;
 - een kabeltje om de 9V batterij te verbinden met het Dwenguino bord;
 - een wagentje;
-- vier M3 boutjes met lengte van 1cm;
+- vier M3 boutjes van lengte 1cm;
 - vier M2 boutjes met moer van lengte 1cm;
 - een arm, deze bestaat uit een bovenarm, een onderarm en een schep.
 - Twee elastieken.

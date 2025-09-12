@@ -20,13 +20,13 @@ teacher_exclusive: False
 
 # Beloning
 
-Bij versterkend leren is de beloning het belangrijkste instrument om ervoor te zorgen dat de **agent** iets kan leren. De beloning die de **agent** krijgt, hangt af van de **actie** die deze uitvoerde en de huidige **toestand** van de **omgeving**. We spreken bij versterken leren altijd van een **beloning**. Je kan de **agent** ook bestraffen, dat komt overeen met het geven van een negatieve beloning.
+Bij versterkend leren is de beloning het belangrijkste instrument om ervoor te zorgen dat de **agent** iets kan leren. De beloning die de **agent** krijgt, hangt af van de **actie** die deze uitvoerde en de huidige **toestand** van de **omgeving**. We spreken bij versterkend leren altijd van een **beloning**. Je kan de **agent** ook bestraffen, dat komt overeen met het geven van een negatieve beloning.
 
 Wanneer we een **agent** trainen met versterkend leren is het hoofddoel van de agent om de beloningen die deze krijgt te maximaliseren. In ons spel komt dit overeen met het halen van een zo hoog mogelijke score. De score is immers de som van alle vorige beloningen.
 
 # De policy / het beleid
 
-De **policy** ofwel het beleid legt vast welke **actie** de **agent** gaat uitvoeren in een bepaalde **toestand**. De **policy** bepaalt dus hoe de **agent** zich gedraagt. Bij versterkend leren willen we een optimale **policy** leren om een bepaalde taak uit te voeren. 
+De **policy**, ofwel het beleid, legt vast welke **actie** de **agent** gaat uitvoeren in een bepaalde **toestand**. De **policy** bepaalt dus hoe de **agent** zich gedraagt. Bij versterkend leren willen we een optimale **policy** leren om een bepaalde taak uit te voeren. 
 
 In het spel bedenk jij een **policy** waarmee je een zo hoog mogelijke score probeert te halen. De **policy** kan bijvoorbeeld zijn om ervoor te zorgen dat de twee getallen op het scherm altijd gelijk zijn. Een andere policy zou kunnen zijn om ervoor te proberen zorgen dat de som van de twee getallen steeds 14 is. 
 

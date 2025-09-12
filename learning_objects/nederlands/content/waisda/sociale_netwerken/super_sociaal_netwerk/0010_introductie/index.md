@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # Sociale netwerken
 
-We delen heel wat van onze persoonlijke informatie op sociale netwerken. Je staat er misschien niet bij stil maar de eigenaars van deze sociale netwerken gebruiken deze informatie om geld te verdienen. Dat kan bijvoorbeeld door jou gepersonaliseerde advertenties te laten zien of door inzichten over de gebruikers te verkopen aan andere bedrijven. Om de informatie van hun gebruikers te analyseren, gebruiken socialmedia-platformen verschillende data-analyse technieken. Deze technieken zoeken bijvoorbeeld naar vriendengroepen of identificeren welke personen veel invloed hebben binnen het netwerk.  
+We delen heel wat van onze persoonlijke informatie op sociale netwerken. Je staat er misschien niet bij stil, maar de eigenaars van deze sociale netwerken gebruiken deze informatie om geld te verdienen. Dat kan bijvoorbeeld door jou gepersonaliseerde advertenties te laten zien of door inzichten over de gebruikers te verkopen aan andere bedrijven. Om de informatie van hun gebruikers te analyseren, hanteren socialmedia-platformen verschillende data-analyse technieken. Deze technieken zoeken bijvoorbeeld naar vriendengroepen of identificeren welke personen veel invloed hebben binnen het netwerk.  
 
 ## De sociale graaf
 
@@ -48,7 +48,7 @@ Probeer de volgende vragen te beantwoorden.
 <div class="dwengo-content sideinfo">
 <h2 class="title">Ongesuperviseerd leren</h2>
 <div class="content">
-Ongesuperviseerd of <em>unsupervised</em> leren is een AI-techniek waarmee computerwetenschappers nieuwe informatie uit gegevens proberen halen. Bijvoorbeeld, vriendengroepen zoeken in een sociale graaf. In tegenstelling tot gesuperviseerd (<em>supervised</em>) leren werkt ongesuperviseerd leren niet op basis van gelabelde voorbeelden. Je hebt dus geen trainingsverzameling om een model te trainen.  
+Ongesuperviseerd of <em>unsupervised</em> leren is een AI-techniek waarmee computerwetenschappers nieuwe informatie uit gegevens proberen halen, zoals het zoeken van vriendengroepen in een sociale graaf. In tegenstelling tot gesuperviseerd (<em>supervised</em>) leren, werkt ongesuperviseerd leren niet op basis van gelabelde voorbeelden. Je hebt dus geen trainingsverzameling om een model te trainen.  
 </div>
 </div>
 

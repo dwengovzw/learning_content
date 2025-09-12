@@ -29,7 +29,7 @@ Alle elektronica die je voor deze robot nodig hebt kan je vinden in de 'sociale 
 <tr><td><img src="img/breadboard.png" alt="Dwenguino"></td><td>Het sociale robot uitbreidingsbord.</td></tr>
 </table>
 
-Wil je graag dat je robot autonoom kan rijden zonder verbonden te moeten zijn met de computer, dan hebt je een 9V batterij nodig en een kabeltje om die batterij te verbinden met te 5mm jack van de Dwenguino.
+Wil je graag dat je robot autonoom kan rijden zonder verbonden te moeten zijn met de computer, dan hebt je een 9V batterij nodig en een kabeltje om die batterij te verbinden met de 5mm jack van de Dwenguino.
 
 ![9V clip voorbeeld](img/9V_clip.jpg)
 

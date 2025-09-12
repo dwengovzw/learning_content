@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # De zeven bruggen van Koningsbergen
 
-De stad Koningsbergen (tegenwoordig Kaliningrad) was deel van het Pruisische rijk. Door Koningsbergen loopt de Pregel, een rivier met verschillende armen die de stad in twee stukken vaste land en twee eilanden verdeelt. Hieronder zie je een afbeelding van Koningsbergen in 1652 die toont hoe de rivier loopt.
+De stad Koningsbergen (tegenwoordig Kaliningrad) was deel van het Pruisische Rijk. Door Koningsbergen loopt de Pregel, een rivier met verschillende armen die de stad in twee stukken vaste land en twee eilanden verdeelt. Hieronder zie je een afbeelding van Koningsbergen in 1652 die toont hoe de rivier loopt.
 
 ![](img/koningsbergen_in_1652.jpg)
 

@@ -40,7 +40,7 @@ Afhankelijk van de printer die je ter beschikking hebt, zal het printproces iets
 1. Voeg de onderdelen die je wil printen toe aan de bouwplaat in het programma.
 2. Kies de correcte instellingen voor je print (bv. het filament dat je gebruikt en de printkwaliteit). De meeste software heeft tegenwoordig verschillende standaardprofielen waaruit je kan kiezen zodat je niet alle instellingen individueel moet aanpassen. Als je software zo'n profiel heeft, kies dan voor een print van standaard kwaliteit. 
 3. Zet het 3D-ontwerp om in een pad dat de kop van de 3D-printer zal volgen. Deze stap noemen ze ook wel het *slicen* van het model.
-4. Zet het *geslicete* bestand over naar de printer. Op sommige printers kan dat via wifi. Bij andere printers zal je de SD kaart uit de printer moeten nemen, je bestand erop zetten, en de SD kaart terug in de printer steken.
+4. Zet het *geslicete* bestand over naar de printer. Op sommige printers kan dat via wifi. Bij andere printers zal je de SD-kaart uit de printer moeten nemen, je bestand erop zetten, en dan de SD-kaart terug in de printer steken.
 5. Start de print en wacht.
 
 Wij hebben dit ontwerp geprint met een Bambu Labs printer. Hieronder zie je een schermafbeelding van onze slicer software.
@@ -50,7 +50,7 @@ Wij hebben dit ontwerp geprint met een Bambu Labs printer. Hieronder zie je een 
 <div class="dwengo-content sideinfo">
 <h2 class="title">Slicen</h2>
 <div class="content">
-Het programma van je 3D-printer wordt ook wel eens de <em>slicer</em> genoemd. Dit komt van het Engelse werkwoord <em>to slice</em>, snijden in het Nederlands. De applicatie is daarnaar vernoemd omdat het je 3D-model in laagjes zal snijden en voor elk laagje een pad voor de kop van de 3D-printer zal berekenen. 
+Het programma van je 3D-printer wordt ook wel eens de <em>slicer</em> genoemd. Dit komt van het Engelse werkwoord <em>to slice</em> (snijden in het Nederlands). De applicatie is daarnaar vernoemd omdat het je 3D-model in laagjes zal snijden en voor elk laagje een pad voor de kop van de 3D-printer zal berekenen. 
 </div>
 </div>
 
