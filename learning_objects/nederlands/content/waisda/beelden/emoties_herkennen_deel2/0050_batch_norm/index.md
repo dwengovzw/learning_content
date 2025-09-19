@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-emoties-deel2-batchnorm
 version: 1
 language: nl
-title: "Batch normalisatie (1)"
+title: "Batch normalisatie"
 description: "Wat is de batch normalisatie?"
 keywords: ["lagen", "AI", "neurale netwerken", "batch normalisatie"]
 content_type: "text/markdown"
