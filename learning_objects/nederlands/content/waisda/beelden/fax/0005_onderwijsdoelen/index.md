@@ -27,7 +27,7 @@ Het lesmateriaal in de leerpad draagt bij tot het behalen van de volgende onderw
 
 ## 2e graad
 
-Finaliteit doorstroom
+### Finaliteit doorstroom
 <ul class="dwengo-content leerplandoelen">
     <li>04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
     <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
@@ -38,7 +38,7 @@ Finaliteit doorstroom
     <li>13.3 De leerlingen gebruiken school- en vaktaal.</li>
 </ul>
 
-Finaliteit arbeidsmarkt
+### Finaliteit arbeidsmarkt
 <ul class="dwengo-content leerplandoelen">
     <li>04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
     <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
@@ -48,7 +48,7 @@ Finaliteit arbeidsmarkt
     <li>13.3 De leerlingen gebruiken school- en vaktaal.</li>
 </ul>
 
-Dubbele finaliteit
+### Dubbele finaliteit
 <ul class="dwengo-content leerplandoelen">
     <li>04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
     <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
