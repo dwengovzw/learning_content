@@ -28,6 +28,7 @@ Bekijk de afbeelding van Jommeke. Je kan inzoomen op een bepaald deel van de fot
 
 ![](embed/banner_jommeke_2.png) <br>
 <sub>© Standaard Uitgeverij 2022</sub>
+
 Als je genoeg inzoomt, dan kan je de verschillende pixels onderscheiden. 
 
 ![](embed/banner_jommeke_22.png) 

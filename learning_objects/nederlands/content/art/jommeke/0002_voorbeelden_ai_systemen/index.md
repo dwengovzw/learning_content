@@ -47,6 +47,7 @@ De Tesla model 3 heeft een automatische piloot die sterk afhankelijk is van AI-s
 
 #### Shazam
 ![](@learning-object/org-dwengo-jommeke-images-shazam-logo/nl/1)
+
 <sub>Shazam®</sub>
 
 Shazam heeft geleerd om op basis van korte stukjes opgenomen audio te voorspellen welk liedje er speelt.

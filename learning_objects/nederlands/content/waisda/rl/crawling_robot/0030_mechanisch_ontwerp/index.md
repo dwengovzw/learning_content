@@ -33,9 +33,11 @@ Het lichaam van de robot bestaat uit de volgende onderdelen:
 - een arm, deze bestaat uit een bovenarm, een onderarm en een schep.
 - Twee elastieken.
 
-Hieronder zie je een render van de geassembleerde robot. 
+Hieronder zie je een render en een foto van de geassembleerde robot. 
 
-![Render van de krupende robot.](img/robot_light_1.png)
+![Render van de kruipende robot.](img/robot_light_1.png)
+![Foto van de kruipende robot.](img/kruipende_robot.jpg)
+
 
 
 Voor je de robot kan bouwen, zal je een aantal onderdelen moeten 3D-printen. In de volgende stap van dit leerpad geven we daar meer informatie over.
