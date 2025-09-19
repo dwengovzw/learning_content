@@ -25,8 +25,8 @@ teacher_exclusive: True
 <div class="content">
 De oplossingen zijn:
 <ul>
-    <li>$\hat{x}_1 = 0.3536$, $\hat{x}_2 = -0.3536$, $\hat{x}_3 = -0.7071$, $\hat{x}_4 = -1.0607$, $\hat{x}_5 = 1.7678$</li>
-    <li>$\hat{x}_1 = -0.8402$, $\hat{x}_2 = 1.6803$, $\hat{x}_3 = -1.2603$, $\hat{x}_4 = -0.4201$, $\hat{x}_5 = 0.8402$, $\hat{x}_6 = 0$</li>
+    <li><span>\(\hat{x}_1 = 0.3536\)</span>, <span>\(\hat{x}_2 = -0.3536\)</span>, <span>\(\hat{x}_3 = -0.7071\)</span>, <span>\(\hat{x}_4 = -1.0607\)</span>, <span>\(\hat{x}_5 = 1.7678\)</span></li>
+    <li><span>\(\hat{x}_1 = -0.8402\)</span>, <span>\(\hat{x}_2 = 1.6803\)</span>, <span>\(\hat{x}_3 = -1.2603\)</span>, <span>\(\hat{x}_4 = -0.4201\)</span>, <span>\(\hat{x}_5 = 0.8402\)</span>, <span>\(\hat{x}_6 = 0\)</span></li>
     <li>Niet nodig om te normaliseren.</li>
 </ul>
 </div>
