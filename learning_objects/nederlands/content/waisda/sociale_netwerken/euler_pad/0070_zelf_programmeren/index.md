@@ -33,6 +33,6 @@ Je weet intussen hoe je een graaf kan voorstellen op de computer en wat een Eule
 <div class="content">
 De link tussen grafen en AI-systemen is misschien nog niet helemaal duidelijk. Toch worden grafen vaak gebruikt in AI-systemen omdat het goede manier is om informatie te structureren. We kunnen informatie en de verbanden ertussen bijvoorbeeld voorstellen met een <strong>kennisgraaf</strong> (<strong>knowledge graph</strong> in het Engels). <br>
 Alle informatie op Wikipedia kunnen we bijvoorbeeld voorstellen met zo'n kennisgraaf. De artikels zijn dan de knopen van de graaf en de bogen van de graaf zijn de hyperlinks tussen de artikels. <br>
-Ook informatie van sociale netwerken kan je voorstellen aan de hand van een graaf, de **social graph**. In een social graph zijn de knopen bijvoorbeeld personen. Als twee personen bevriend zijn, dan is er een boog in de graaf die hen verbindt. 
+Ook informatie van sociale netwerken kan je voorstellen aan de hand van een graaf, de <strong>social graph</strong>. In een social graph zijn de knopen bijvoorbeeld personen. Als twee personen bevriend zijn, dan is er een boog in de graaf die hen verbindt. 
 </div>
 </div>

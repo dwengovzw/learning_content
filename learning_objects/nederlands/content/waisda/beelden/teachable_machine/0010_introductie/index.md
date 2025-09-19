@@ -20,7 +20,7 @@ teacher_exclusive: True
 
 # Inleiding
 
-In het [leerpad over het herkennen van emoties](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-beelden-emoties-herkennen&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-beelden-emoties-herkennen-intro;nl;1) trainden de jongeren zelf een eerste eenvoudig neuraal netwerk. Het resultaat van dat trainingsproces kan opgeslagen worden als een **'machine learning'-model**. Zo'n model kan overgezet worden naar andere computers.<br>
+In het [leerpad over het herkennen van emoties](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-beelden-emoties-herkennen&language=nl&te=true&source_page=%2Fwaisda%2F&source_title=%20wAIsda?#org-dwengo-waisda-beelden-emoties-herkennen-intro;nl;1) trainden de jongeren zelf een eerste, eenvoudig neuraal netwerk. Het resultaat van dat trainingsproces kan opgeslagen worden als een **'machine learning'-model**. Zo'n model kan overgezet worden naar andere computers.<br>
 In dit leerpad leren de jongeren hoe ze **een bestaand model kunnen gebruiken en hoe ze het kunnen aanpassen**. 
 
 ## Doel

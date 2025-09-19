@@ -66,15 +66,11 @@ Ook de schoonheidsindustrie zet in op de kracht van digitale toepassingen. Aan d
 Je maakte vast al gebruik van de zoekbalk in Google. Kunstmatige intelligentie zorgt ervoor dat je zoekopdracht betere resultaten oplevert.<br>
 Op reis kan je de hulp inroepen van Google Translate als er een taalprobleem opduikt, en de toepassing is nog gebruiksvriendelijker met Google Lens.
 
+#### Snapchat
 ![Snapchat](embed/ghostlogo.png)
 
-#### Filters en lenzen op Snapchat
-
-[Voorbeelden Snapchat](https://www.snapchat.com/lens)
-
-#### My AI op Snapchat
-
-Op Snapchat kan je chatten met de chatbot My AI, die gebaseerd is op de technologie achter ChatGPT.
+Snapchat maakt gebruik van AI-systemen voor hun filters en lensen ([Voorbeelden Snapchat](https://www.snapchat.com/lens)).
+Ook kan je op Snapchat chatten met de chatbot 'My AI', die gebaseerd is op de technologie achter ChatGPT.
 
 #### Spelling en grammatica controleren in Microsoft Word
 
@@ -82,4 +78,4 @@ Als je een tekst typt in Word, dan kan je via Microsoft Editor laten controleren
 
 #### Netflix
 
-Jouw ervaringen op Netflix worden gepersonaliseerd. A.d.h.v. algoritmes zullen bepaalde films en series jou aanbevolen worden.
+Jouw ervaringen op Netflix worden gepersonaliseerd. Zo bevelen algoritmes jou bepaalde films en series aan op basis van eerder bekeken items.

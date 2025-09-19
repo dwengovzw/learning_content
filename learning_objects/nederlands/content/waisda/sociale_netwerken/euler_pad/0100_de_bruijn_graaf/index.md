@@ -24,7 +24,7 @@ Om de volledige DNA streng te reproduceren op basis van de stukjes DNA die het r
 
 Voor we deze graaf opstellen, zetten we onze stukjes DNA eerst om naar een lijst van overlappende **k-meren**. Een **k-meer** is een stukje DNA van k nucleotiden lang. Is k bijvoorbeeld 3 dan maken we een lijst met stukjes DNA van 3 nucleotiden lang (3-meren).
 
-Nemen we bijvoorbeeld de sequentie GAGCTTTTAG, dan kunnen we deze omzetten naar 8 overlappende 3-meren: GAG, AGC, GCT, CTT, TTT, TTT, TTA en TAG. 
+Nemen we als voorbeeld de sequentie GAGCTTTTAG, dan kunnen we deze omzetten naar 8 overlappende 3-meren: GAG, AGC, GCT, CTT, TTT, TTT, TTA en TAG. 
 
 ![](img/splitting_dna_into_overlapping_sequences.svg)
 
@@ -64,7 +64,7 @@ TAG
 
 ![](img/de_bruijn_8.svg)
 
-We voegen niet enkel de k-meren voor deze ene subsequentie (GAGCTTTTAG) toe maar ook voor alle andere subsequenties die we gelezen hebben met shotgun sequencing. Door voldoende stukjes DNA toe te voegen aan de graaf, krijg je een graaf die de structuur van het volledige genoom voorstelt. De volledige DNA sequentie van dat genoom kan je dan vinden door het euleriaans pad te zoeken in die graaf.
+We voegen niet enkel de k-meren voor deze ene subsequentie (GAGCTTTTAG) toe, maar ook voor alle andere subsequenties die we gelezen hebben met shotgun sequencing. Door voldoende stukjes DNA toe te voegen aan de graaf, krijg je een graaf die de structuur van het volledige genoom voorstelt. 
 
 <div class="dwengo-content sideinfo">
 <h2 class="title">Gerichte grafen</h2>

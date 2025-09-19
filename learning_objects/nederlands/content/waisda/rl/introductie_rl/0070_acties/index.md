@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # Acties
 
-De **agent** kan interageren met de **omgeving** door **acties** uit te voeren. Zo zal de **agent** de **toestand** van de **omgeving** beïnvloeden. In ons spel ben jij de agent en kan je de omgeving beïnvloeden met de knoppen. Door op een van de knoppen te drukken, beweeg je de pallet naar beneden of naar boven. 
+De **agent** kan interageren met de **omgeving** door **acties** uit te voeren. Zo zal de **agent** de **toestand** van de **omgeving** beïnvloeden. In ons spel ben jij de agent en kan je de omgeving beïnvloeden met de knoppen. Door op een van de knoppen te drukken, beweeg je het palet naar beneden of naar boven. 
 
 
 <div class="dwengo-content assignment">

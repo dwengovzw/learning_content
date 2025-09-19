@@ -20,15 +20,16 @@ teacher_exclusive: False
 
 # Lezen van DNA en RNA
 
-Door een Euleriaans pad te vinden in een graaf, kan je heel wat problemen uit de echte wereld oplossen. We zagen al hoe het het probleem van de bruggen van Koningsbergen kon oplossen. Het vinden van een euleriaans pad is echter ook nuttig in andere toepassingen.
-
-## DNA en RNA
-
+Door een Euleriaans pad te vinden in een graaf, kan je heel wat problemen uit de echte wereld oplossen. We zagen al hoe het het probleem van de bruggen van Koningsbergen kon oplossen. Het vinden van een euleriaans pad is echter ook nuttig in andere toepassingen, zoals bij het lezen van DNA en RNA.
 DNA en RNA zijn een manier van de natuur om genetische informatie voor te stellen. Dat doet het aan de hand van lange sequenties van nucleotiden. 
 
 ### DNA
 
-DNA of Desoxyribonucleïnezuur zit in onze celkernen en bevat de informatie over hoe ons lichaam eiwitten kan maken die essentieel zijn voor het leven. Het bestaat uit vier verschillende nucleotiden: Adenine (**A**), Thymine (**T**), Cytosine (**C**) en Guanine (**G**). Deze vier nucleotiden vormen twee lange kettingen (strengen) die in een dubbele helix "opkrullen" tot DNA. Hieronder zie je een voorbeeld van een stukje van zo'n DNA sequentie dat bestaat uit twee strengen.
+DNA of Desoxyribonucleïnezuur zit in onze celkernen en bevat de informatie over hoe ons lichaam eiwitten kan maken die essentieel zijn voor het leven. Het bestaat uit vier verschillende nucleotiden: Adenine (**A**), Thymine (**T**), Cytosine (**C**) en Guanine (**G**). Deze vier nucleotiden vormen twee lange kettingen (strengen) die in een dubbele helix "opkrullen" tot DNA (zie afbeelding). 
+
+![](images/DNA_Double_Helix.png)
+
+Hieronder zie je een voorbeeld van een stukje van zo'n DNA sequentie dat bestaat uit twee strengen.
 
 Streng 1: A T G C C G T A
 

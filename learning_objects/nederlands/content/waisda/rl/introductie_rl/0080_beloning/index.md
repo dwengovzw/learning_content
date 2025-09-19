@@ -39,7 +39,7 @@ De **waardefunctie** geeft ons een schatting van hoe groot de **beloning** is di
 - Stel we spelen het spel en starten met een score 0.
 - We bedenken een **policy** waarbij we ervoor zorgen dat de twee getallen op het scherm steeds dezelfde waarde hebben.
 - Elke **actie** die we uitvoeren (naar boven gaan, naar beneden gaan of blijven staan) kan een beloning opleveren. Die beloning is +25 wanneer we de bal raken, -10 wanneer we de bal missen en 0 wanneer de bal zich ergens anders op het veld bevind. 
-- Wanneer de pallet op positie 5 staat en de bal op coördinaat (6, 4) zullen we de pallet naar beneden bewegen. We krijgen in dat geval echter een **beloning** van 0. We weten dus niet of onze **actie** goed of slecht was. De **beloning** komt er immers pas wanneer we de bal raken.
+- Wanneer het palet op positie 5 staat en de bal op coördinaat (6, 4) zullen we het palet naar beneden bewegen. We krijgen in dat geval echter een **beloning** van 0. We weten dus niet of onze **actie** goed of slecht was. De **beloning** komt er immers pas wanneer we de bal raken.
 - Om op elk moment toch een inschatting te kunnen maken van hoe goed een **actie** is, gebruiken we de **waardefunctie**. Deze **waardefunctie** zal in elke **toestand** een inschatting maken van hoe goed een **actie** is in die **toestand**. De **waardefunctie** geeft een schatting van de **beloning** die we op lange termijn zullen krijgen door een **actie** uit te voeren, rekening houdende met de **policy** die we gekozen hadden (hier om de getallen gelijk te houden).
 
 De policy en de waardefunctie zijn sterk met elkaar verbonden. De policy zegt **wat de agent moet doen** en de waardefunctie zegt **hoe goed dat is**.

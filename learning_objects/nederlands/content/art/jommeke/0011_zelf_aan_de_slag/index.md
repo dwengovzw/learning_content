@@ -27,7 +27,6 @@ target_ages: [12, 13, 14, 15, 16]
 <sub>© Standaard Uitgeverij 2022</sub>
 
 Jommeke is een Belgische stripreeks die werd bedacht en oorspronkelijk getekend door Jef Nys. Nu kennen we Jommeke allemaal als de jongen met het blonde haar en de blauwe trui, maar wist je dat de verhalen van Jommeke vroeger in het zwart-wit getekend werden? Hieronder zie je een aantal voorbeelden van hoe de strip er vroeger uitzag.<br>
-<sub>Gebruik van de afbeeldingen met dank aan Standaard Uitgeverij 2022</sub>
 
 ![Oude afbeelding Jommeke](img/jommeke_old/old0.png)
 ![Oude afbeelding Jommeke](img/jommeke_old/old1.png)
@@ -35,7 +34,7 @@ Jommeke is een Belgische stripreeks die werd bedacht en oorspronkelijk getekend 
 ![Oude afbeelding Jommeke](img/jommeke_old/old3.png)
 
 <div class="alert alert-box alert-secondary">
-Aan de Universiteit Gent werd door Simon Schellaert een AI-systeem ontwikkeld dat het mogelijk maakt om oude Jommeke strips in te kleuren [1]. Om het AI-systeem te leren hoe het zwart-wit afbeeldingen moet inkleuren heb je heel veel voorbeeldafbeeldingen nodig waarvan je zowel een zwart-wit als ingekleurde versie hebt. Omdat de meeste Jommekestrips in kleur zijn moeten die eerst omgezet worden naar zwart-wit. Hieronder zie je een voorbeeld van een afbeelding die naar zwart-wit werd omgezet.
+Aan de Universiteit Gent werd door Simon Schellaert een AI-systeem ontwikkeld dat het mogelijk maakt om oude Jommekestrips in te kleuren [1]. Om het AI-systeem te leren hoe het zwart-wit afbeeldingen moet inkleuren, heb je heel veel voorbeeldafbeeldingen nodig waarvan je zowel een zwart-wit als ingekleurde versie hebt. Omdat de meeste Jommekestrips in kleur zijn, moeten die eerst omgezet worden naar zwart-wit. Hieronder zie je een voorbeeld van een afbeelding die naar zwart-wit werd omgezet.
 </div>
 
 ![Jommeke apen origineel](img/jommeke_flow/origineel-apen-005.png "Origineel")

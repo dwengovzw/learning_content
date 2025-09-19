@@ -34,8 +34,8 @@ Hieronder zie je de kaart van Konginsbergen waarbij de eilanden elk een eigen kl
 ![](images/koningsbergen_color_graph.svg)
 
 
-Je merkt het misschien al maar dit probleem is identiek aan het probleem waar we een tekening moesten maken zonder onze balpen op te heffen: Bestaat er een *wandeling* in de graaf waarbij je elke boog (een brug) juist een keer oversteekt?
+Je merkt het misschien al maar dit probleem is identiek aan het probleem waar we een tekening moesten maken zonder onze balpen op te heffen. Bestaat er een *wandeling* in de graaf waarbij je elke boog (brug) juist één keer oversteekt?
 
-Zo'n *wandeling* die elke boog in de graaf juist een keer oversteekt noemen we een **Euleriaans pad**. Als zo'n pad start en eindigt in dezelfde knoop, dan noemen we het een **Euleriaans circuit**.
+Zo'n *wandeling* noemen we een **Euleriaans pad**. Als zo'n pad start en eindigt in dezelfde knoop, dan noemen we het een **Euleriaans circuit**.
 
 

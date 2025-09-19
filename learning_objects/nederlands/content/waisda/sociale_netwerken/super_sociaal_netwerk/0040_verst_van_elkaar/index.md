@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # De maximale afstand tussen twee willekeurige personen
 
-De maximale afstand tussen twee willekeurige personen in het netwerk geeft ons informatie over hoe "uitgespreid" het netwerk is. Een netwerk met veel knopen maar een korte maximale afstand zal sterk samenhangend zijn. Een netwerk met weinig knopen maar een grote maximale afstand is minder samenhangend. Delen van een netwerk die sterk samenhangend zijn komen vaak overeen met vriendengroepen.
+De maximale afstand tussen twee willekeurige personen in het netwerk geeft ons informatie over hoe "uitgespreid" het netwerk is. Een netwerk met veel knopen, maar een korte maximale afstand, zal sterk samenhangend zijn. Een netwerk met weinig knopen, maar een grote maximale afstand, is minder samenhangend. Delen van een netwerk die sterk samenhangend zijn komen vaak overeen met vriendengroepen.
 
 ## De minimale afstand tussen twee personen
 

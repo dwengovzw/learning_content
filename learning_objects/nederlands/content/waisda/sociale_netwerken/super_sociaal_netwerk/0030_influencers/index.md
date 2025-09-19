@@ -24,7 +24,7 @@ Er zijn verschillende maten om te bepalen wie er meer of minder invloed heeft bi
 
 ## Graadcentraliteit
 
-Hoeveel invloed een persoon heeft in een netwerk noemen we de *centraliteit*. Het woord verwijst naar hoe "centraal" een persoon staat binnen het netwerk. Er bestaan verschillenden manieren om de centraliteit te bepalen. Eén van die manieren is de **graadcentraliteit**. De graadcentraliteit van een knoop is gelijk aan het aantal bogen die uit die knoop vertrekt (de graad van die knoop). Hieronder zie je voor elke knoop in ons sociale netwerkje wat de graad van die knoop is.
+Hoeveel invloed een persoon heeft in een netwerk, noemen we de *centraliteit* van die persoon. Het woord verwijst naar hoe "centraal" een persoon staat binnen het netwerk. Er bestaan verschillenden manieren om de centraliteit te bepalen. Eén van die manieren is de **graadcentraliteit**. De graadcentraliteit van een knoop is gelijk aan het aantal bogen die uit die knoop vertrekt (de graad van die knoop). Hieronder zie je voor elke knoop in ons sociale netwerkje wat de graad van die knoop is.
 
 !["Onder elke persoon in ons sociaal netwerkje staat de graad van die knoop."](img/voorbeeld_sociale_graaf_graadcentraliteit.svg)
 

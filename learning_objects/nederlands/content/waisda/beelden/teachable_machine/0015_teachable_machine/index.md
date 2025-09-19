@@ -24,7 +24,7 @@ Op [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle
 
 ## Misconceptie
 
-Een algemene misconceptie is dat de Teachable Machine een volledig nieuw AI-systeem zal trainen op basis van jouw data. **Dit klopt niet!** Wat het systeem eigenlijk doet is een **bestaand model**, dat al getraind is om heel wat objecten te kunnen detecteren, **bijtrainen** om een zo goed mogelijke classificatie van jouw objecten te maken. Zonder gebruik te maken van een voorgetraind model zou het nooit lukken om een systeem te trainen met maar een beperkt aantal afbeeldingen. Het zou ook nooit lukken in die tijdspanne.
+Een algemene misconceptie is dat de Teachable Machine een volledig nieuw AI-systeem zal trainen op basis van jouw data. **Dit klopt niet!** Wat het systeem eigenlijk doet is een **bestaand model**, dat al getraind is om heel wat objecten te kunnen detecteren, **bijtrainen** om een zo goed mogelijke classificatie van jouw objecten te maken. Zonder gebruik te maken van een voorgetraind model zou het nooit lukken om een systeem te trainen met maar een beperkt aantal afbeeldingen. Het zou ook nooit lukken in een korte tijdspanne.
 
 
 <div class="dwengo-content assignment">

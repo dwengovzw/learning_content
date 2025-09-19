@@ -34,4 +34,4 @@ Zo'n systeem werkt aan de hand van een beslissingsboom. Hieronder zie je een voo
 
 ![Voorbeeld beslissingsboom](img/beslissingsboom.png "Voorbeeld beslissingsboom")
 
-Om een beslissing te nemen doorlopen we de boom van boven naar beneden. In elk vakje staat een vraag. Als het antwoord op die vraag **ja** is, dan volg je de **linkse lijn** naar beneden. Als het antwoord op de vraag **nee** is dan volg je de **rechtse lijn** naar beneden. Wanneer je helemaal onderaan de boom komt, dan zie je daar staan welke actie de peroon moet ondernemen.
+Om een beslissing te nemen doorlopen we de boom van boven naar beneden. In elk vakje staat een vraag. Als het antwoord op die vraag **ja** is, dan volg je de **linkse lijn** naar beneden. Als het antwoord op de vraag **nee** is, volg je de **rechtse lijn** naar beneden. Wanneer je helemaal onderaan de boom komt, dan zie je daar staan welke actie de peroon moet ondernemen.

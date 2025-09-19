@@ -75,9 +75,9 @@ Ons initiële probleem, waarbij we een tekening willen maken zonder onze balpen 
 </div>
 
 
-**Waarom is het nu nuttig om onze tekeningen voor te stellen als een graaf?**
+**Waarom is het nu nuttig om onze tekeningen voor te stellen als grafen?**
 
 
 Een graaf is een abstracte voorstelling die we voor heel wat problemen kunnen gebruiken. Daarom zijn er al heel veel slimme wiskundigen en computerwetenschappers die hebben nagedacht over de eigenschappen van die grafen. Hun kennis kunnen we gebruiken om ons tekenprobleem op te lossen.
 
-Je zou het misschien niet verwachten maar ons tekenprobleem komt sterk overeen met het probleem van de zeven bruggen van Koningsbergen.
+Je zou het misschien niet verwachten, maar ons tekenprobleem komt sterk overeen met het probleem van de zeven bruggen van Koningsbergen.

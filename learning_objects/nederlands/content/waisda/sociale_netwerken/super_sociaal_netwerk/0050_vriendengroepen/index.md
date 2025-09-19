@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # Vriendengroepen
 
-Groepen van personen die sterk met elkaar geconnecteerd zijn, zijn vaak vriendengroepen. Tussen deze groepen zijn vaak ook één of meerdere connecties. Je hebt bijvoorbeeld vrienden op school maar ook vrienden in je sportclub of jeugdbeweging. Jij bent dan de link tussen de vriendengroep op school, die in de sportclub en die in de jeugdbeweging. 
+Groepen van personen die sterk met elkaar geconnecteerd zijn, zijn vaak vriendengroepen. Tussen deze groepen zijn regelmatig ook één of meerdere connecties. Je hebt bijvoorbeeld vrienden op school, maar ook vrienden in je sportclub of jeugdbeweging. Jij bent dan de link tussen de vriendengroep op school, die in de sportclub en die in de jeugdbeweging. 
 
 ## Community detectie
 

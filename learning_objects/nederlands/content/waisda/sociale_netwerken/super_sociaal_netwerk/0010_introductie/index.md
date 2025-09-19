@@ -20,11 +20,11 @@ teacher_exclusive: False
 
 # Sociale netwerken
 
-We delen heel wat van onze persoonlijke informatie op sociale netwerken. Je staat er misschien niet bij stil maar de eigenaars van deze sociale netwerken gebruiken deze informatie om geld te verdienen. Dat kan bijvoorbeeld door jou gepersonaliseerde advertenties te laten zien of door inzichten over de gebruikers te verkopen aan andere bedrijven. Om de informatie van hun gebruikers te analyseren, gebruiken socialmedia-platformen verschillende data-analyse technieken. Deze technieken zoeken bijvoorbeeld naar vriendengroepen of identificeren welke personen veel invloed hebben binnen het netwerk.  
+We delen heel wat van onze persoonlijke informatie op sociale netwerken. Je staat er misschien niet bij stil, maar de eigenaars van deze sociale netwerken gebruiken je informatie om geld te verdienen. Dat kan bijvoorbeeld door jou gepersonaliseerde advertenties te laten zien of door inzichten over de gebruikers te verkopen aan andere bedrijven. Om de informatie van hun gebruikers te analyseren, hanteren socialmedia-platformen verschillende data-analyse technieken. Deze technieken zoeken bijvoorbeeld naar vriendengroepen of identificeren welke personen veel invloed hebben binnen het netwerk.  
 
 ## De sociale graaf
 
-Een sociale graaf of *social graph* is een manier om gegevens van de gebruikers in een sociaal netwerk voor te stellen. Elke knoop in zo een graaf stelt een persoon voor. Tussen twee knopen is er een verbinding (een boog) als die twee personen bevriend zijn met elkaar. Hieronder zie je een voorbeeld van zo'n sociale graaf.
+Een sociale graaf of *social graph* is een manier om gegevens van de gebruikers in een sociaal netwerk voor te stellen. Elke knoop in zo'n graaf stelt een persoon voor. Tussen twee knopen is er een verbinding (een boog) als die twee personen bevriend zijn met elkaar. Hieronder zie je een voorbeeld van een sociale graaf.
 
 !["Voorbeeld van een sociale graaf."](img/voorbeeld_sociale_graaf.svg)
 
