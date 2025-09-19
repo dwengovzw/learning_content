@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-taal-murder-mystery-intro
 version: 1
 language: nl
-title: "Murder mystery: introductie"
+title: "Introductie"
 description: "Ga aan de slag met taaltechnologie, los het mysterie op van de dood van Heloisa."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "Taaltechnologie", "Schriftherkenning", "Encryptie", "Auteursherkenning"]
 content_type: "text/markdown"

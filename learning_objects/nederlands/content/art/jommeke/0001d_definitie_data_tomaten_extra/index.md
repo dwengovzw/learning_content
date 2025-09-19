@@ -2,7 +2,7 @@
 hruid: org-dwengo-jommeke-definitie-ai-systeem-data-tomaten-extra
 version: 1
 language: nl
-title: "Definitie datagebaseerd AI-systeem (2)"
+title: "Datagebaseerd AI-systeem (2)"
 description: "Uitleg datagebaseerd AI-systeem en definitie volgens de EU"
 keywords: ["AI", "Datagebaseerd", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"

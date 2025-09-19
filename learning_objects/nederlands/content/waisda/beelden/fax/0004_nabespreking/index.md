@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-fax-nabespreking
 version: 1
 language: nl
-title: "Levend netwerk: nabespreking"
+title: "Nabespreking"
 description: "Bespreek de activiteit met de deelnemers?"
 keywords: ["Digitale beelden", "CSUnplugged", "unplugged", "protocol", "netwerken", "ecodering", "materiaal"]
 content_type: "text/markdown"

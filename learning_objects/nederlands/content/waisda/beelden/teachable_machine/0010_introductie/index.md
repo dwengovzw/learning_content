@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-teachable-intro
 version: 1
 language: nl
-title: "Teachable Machine: inleiding"
+title: "Inleiding"
 description: "Leer meer over voorgetrainde neurale netwerken."
 keywords: ["Neurale netwerken", "Imagenet", "Teachable machine", "fine tuning"]
 content_type: "text/markdown"

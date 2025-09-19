@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-emoties-herkennen-intro
 version: 1
 language: nl
-title: "Emoties herkennen: inleiding"
+title: "Inleiding"
 description: "Leer hoe je een AI-systeem bouwt dat emoties kan herkennen."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "neurale netwerken", "classificatie", "beelden", "emoties"]
 content_type: "text/markdown"

@@ -2,7 +2,7 @@
 hruid: org-dwengo-jommeke-turingtest
 version: 1
 language: nl
-title: "Turingtest"
+title: "Turingtest (1)"
 description: "Is de mens accurater dan een AI-systeem?"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"

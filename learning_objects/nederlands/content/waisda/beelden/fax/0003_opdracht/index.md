@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-fax-opdracht
 version: 1
 language: nl
-title: "Levend netwerk: verloop"
+title: "Verloop"
 description: "Hoe verloopt deze activiteit?"
 keywords: ["Digitale beelden", "CSUnplugged", "unplugged", "protocol", "netwerken", "ecodering", "materiaal"]
 content_type: "text/markdown"

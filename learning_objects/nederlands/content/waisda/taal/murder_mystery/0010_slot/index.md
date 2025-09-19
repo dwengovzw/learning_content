@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-taal-murder-mystery-slot
 version: 1
 language: nl
-title: "Murder mystery: slot"
+title: "Slot"
 description: "Alternatieve werkvormen."
 keywords: ["AI", "AI-systeem", "artificiële intelligentie", "Taaltechnologie", "Schriftherkenning", "Encryptie", "Auteursherkenning"]
 content_type: "text/markdown"

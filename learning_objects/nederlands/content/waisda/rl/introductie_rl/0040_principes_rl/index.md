@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-rl-introductie-rl-principes
 version: 1
 language: nl
-title: "Principes versterkend leren (2)"
+title: "Principes versterkend leren (3)"
 description: "Maak kennis met reïnforcement learning."
 keywords: ["AI", "reïnforcement learning"]
 content_type: "text/markdown"

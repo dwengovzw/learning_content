@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-taal-murder-mystery-verloop
 version: 1
 language: nl
-title: "Murder mystery: verloop"
+title: "Verloop"
 description: "Hoe verloopt de activiteit"
 keywords: ["Voorkennis", "Python", "programmeren"]
 content_type: "text/markdown"

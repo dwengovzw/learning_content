@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-taal-murder-mystery-voorkennis
 version: 1
 language: nl
-title: "Murder mystery: voorkennis"
+title: "Voorkennis"
 description: "Voor deze activiteit heb je een basiskennis Python nodig."
 keywords: ["Voorkennis", "Python", "programmeren"]
 content_type: "text/markdown"

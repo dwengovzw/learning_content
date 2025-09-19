@@ -29,7 +29,7 @@ DNA of Desoxyribonucleïnezuur zit in onze celkernen en bevat de informatie over
 
 ![](images/DNA_Double_Helix.png)
 
-Hieronder zie je een voorbeeld van een stukje van zo'n DNA sequentie dat bestaat uit twee strengen.
+Hieronder zie je een voorbeeld van een stukje van zo'n DNA-sequentie dat bestaat uit twee strengen.
 
 Streng 1: A T G C C G T A
 
@@ -39,6 +39,6 @@ Merk op dat enkel Adenine (A) en Thymine (T) of Guanine (G) en Cytosine (C) kunn
 
 ### RNA
 
-RNA of Ribonucleïnezuur wordt door de cel gebruikt om informatie uit het DNA te kopiëren en buiten de celkern te brengen. Daar kan het RNA gebruikt worden door de cel om een eiwit te maken. RNA bestaat ook uit vier nucleotiden. Drie daarvan overlappen met DNA: Adenine (**A**), Cytosine (**C**) en Guanine (**G**). Thymine (**T**) wordt in RNA vervangen door Uracil (**U**). RNA streng bestaat dus uit een opeenvolgen van A, C, G en U.
+RNA of Ribonucleïnezuur wordt door de cel gebruikt om informatie uit het DNA te kopiëren en buiten de celkern te brengen. Daar kan het RNA gebruikt worden door de cel om een eiwit te maken. RNA bestaat ook uit vier nucleotiden. Drie daarvan overlappen met DNA: Adenine (**A**), Cytosine (**C**) en Guanine (**G**). Thymine (**T**) wordt in RNA vervangen door Uracil (**U**). RNA bestaat dus uit een opeenvolgen van A, C, G en U.
 
 

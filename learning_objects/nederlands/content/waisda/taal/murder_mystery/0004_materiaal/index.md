@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-taal-murder-mystery-materiaal
 version: 1
 language: nl
-title: "Murder mystery: materiaal"
+title: "Materiaal"
 description: "Hoe verloopt de activiteit"
 keywords: ["Voorkennis", "Python", "programmeren", "materiaal"]
 content_type: "text/markdown"

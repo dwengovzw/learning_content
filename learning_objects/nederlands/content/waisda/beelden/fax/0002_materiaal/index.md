@@ -2,7 +2,7 @@
 hruid: org-dwengo-waisda-beelden-fax-materiaal
 version: 1
 language: nl
-title: "Levend netwerk: benodigdheden"
+title: "Benodigdheden"
 description: "Wat heb je nodig voor deze activiteit?"
 keywords: ["Digitale beelden", "CSUnplugged", "unplugged", "protocol", "netwerken", "ecodering", "materiaal"]
 content_type: "text/markdown"
