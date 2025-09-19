@@ -44,7 +44,7 @@ Over de lengte van de worm lopen lengtespieren.
 
 Naast de lengtespieren heeft de worm ook kringspieren die rondom het lichaam van de worm lopen.
 
-![Kringspieren van de worm](img/worm_long_and_short_muscles.png)
+![Kringspieren van de worm](img/worm_short_muscles.png)
 
 
 **Haartjes**

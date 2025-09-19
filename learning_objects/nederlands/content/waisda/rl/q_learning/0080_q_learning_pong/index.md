@@ -22,7 +22,7 @@ teacher_exclusive: False
 
 In dit leerpad zag je hoe je een worm kon trainen om te kruipen met behulp van versterkend leren. Versterkend leren kan in heel wat contexten toegepast worden. Denk terug aan het Pong spelletje uit het vorige leerpad. Ook voor dat spel kunnen we een agent trainen. Die agent zal dan proberen om het spel te spelen. 
 
-Hieronder kan je een agent trainen om het Pong spel te spelen. Pas daarvoor, net als bij de worm, de parameters van het trainingsproces aan tot je een goed resultaat krijgt. Volg daarvoor onderstaande instructies.
+Hieronder kan je een agent trainen om het Pong spel te spelen. Pas daarvoor, net als bij de worm, de parameters van het trainingsproces aan tot je een goed resultaat krijgt. Volg onderstaande instructies.
 
 1. Stel de parameters in van het leerproces.
 2. Druk op de **Train** knop. De AI-agent zal nu proberen te leren om het spel te spelen. Daarvoor speelt deze tegen een optimale speler die nooit fouten maakt. Het leren verloopt achter de schermen, je ziet dus niet hoe dat verloopt.
@@ -33,7 +33,7 @@ Hieronder kan je een agent trainen om het Pong spel te spelen. Pas daarvoor, net
 <iframe src="https://dwengo.org/pong" title="Voorbeeld van een convolutie" width="720px" height="800px"></iframe>
 
 <div class="dwengo-content sideinfo">
-<h2 class="title">Versterken leren en kernfusie</h2>
+<h2 class="title">Versterkend leren en kernfusie</h2>
 <div class="content">
 <p>Bij kernfusie moet hete plasma van meer dan 150 miljoen graden Celsius in de lucht gehouden worden met elektromagneten. Deze magneten moeten op elk moment het juiste magnetisch veld genereren om de plasma in de lucht te houden. Daarvoor moeten complexe controlesignalen naar de magneten gestuurd worden. Jonas Degrave, onderzoeker bij Google Deepmind en alumnus van het AI en robotica lab van de UGent, ontwikkelde zo'n controlesysteem dat gebruik maakt van versterkend leren<sup>1</sup>. Zijn werk publiceerde hij in het tijdschrift Nature.</p>
 <img src="img/fusion.png"></img>  

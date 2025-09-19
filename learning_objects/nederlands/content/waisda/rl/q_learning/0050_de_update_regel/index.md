@@ -33,7 +33,7 @@ Hieronder geven we eerst de formule waarmee we \\(Q(T_t, A_t)\\) zullen aanpasse
 
 Bekijk de figuur hierboven goed, probeer de verschillende onderdelen te begrijpen. Hieronder vind je een meer gedetailleerde uitleg over de formule. 
 
-**De update regel ziet er als volgt uit:**
+**De update regel:**
 
 \\[
   Q(T_t, A_t) \leftarrow Q(T_t, A_t) + \alpha  \left[ R_{t+1} + \gamma \max_{a} Q(T_{t+1}, a) - Q(T_t, A_t) \right]

@@ -20,7 +20,7 @@ teacher_exclusive: False
 
 # Introductie
 
-Je weet intussen uit welke basisprincipes een systeem voor versterkend leren is opgebouwd. In dit leerpad gebruik je die kennis en train je voor het eerst een agent met versterkend leren. Na het doorlopen van dit leerpad zal je een antwoord kunnen geven op de volgende vragen:
+Je weet intussen uit welke basisprincipes een systeem voor versterkend leren is opgebouwd. In dit leerpad gebruik je die kennis en train je voor het eerst een agent aan de hand van versterkend leren. Na het doorlopen van dit leerpad zal je een antwoord kunnen geven op de volgende vragen:
 
 * Hoe kan mijn *agent* een optimaal *beleid/policy* leren?
 * Hoe kan ik de *waardefunctie* aanpassen om tot een optimaal *beleid/policy* te komen?
