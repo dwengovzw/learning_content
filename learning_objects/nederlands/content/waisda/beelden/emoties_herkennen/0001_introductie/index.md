@@ -22,4 +22,4 @@ target_ages: [14, 15, 16, 17, 18]
 
 # Inleiding
 
-In dit leerpadontdek je hoe je een AI-systeem kan bouwen dat in staat is om emoties te detecteren. Bij het bouwen van het systeem ervaar je hoe belangrijk het is om een kwalitatieve dataset op te stellen. Daarnaast leer je ook data op een correcte manier voorstellen, zodat het als invoer kan dienen voor een AI-systeem.
+In dit leerpad ontdek je hoe je een AI-systeem kan bouwen dat in staat is om emoties te detecteren. Bij het bouwen van het systeem ervaar je hoe belangrijk het is om een kwalitatieve dataset op te stellen. Daarnaast leer je ook data op een correcte manier voorstellen, zodat het als invoer kan dienen voor een AI-systeem.

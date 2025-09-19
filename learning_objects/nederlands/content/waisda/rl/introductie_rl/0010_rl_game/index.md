@@ -21,7 +21,7 @@ teacher_exclusive: False
 # Hoe leren wij
 
 
-Voor we een computersysteem kunnen bouwen dat op een gelijkaardige manier leert als wij, moeten we natuurlijk begrijpen hoe wij leren. Hieronder zie je een uitdaging. Probeer een oplossing te vinden voor de uitdaging, denk tegelijk na over wat je allemaal doet om tot die oplossing te komen.
+Voor we een computersysteem kunnen bouwen dat op een gelijkaardige manier leert als wij, moeten we natuurlijk begrijpen hoe wij leren. Hieronder zie je een uitdaging. Probeer een oplossing te vinden voor de uitdaging. Denk tegelijk na over wat je allemaal doet om tot die oplossing te komen.
 
 <iframe src="https://dwengo.org/rl" title="Voorbeeld van een convolutie" width="720px" height="800px"></iframe>
 

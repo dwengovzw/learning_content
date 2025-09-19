@@ -24,7 +24,7 @@ target_ages: [12, 13, 14, 15, 16]
 Een datagebaseerd AI-systeem?
 ===============
 
-Je bedacht waarschijnlijk een aantal regels die keken naar bijvoorbeed de kleur, de vorm en de grootte van de tomaten. Dan zou je een systeem hebben dat goed werkt voor "gewone" tomaten maar natuurlijk bestaan er tomaten in allerlei soorten en maten. Bijvoorbeeld:
+Je bedacht waarschijnlijk een aantal regels die keken naar bijvoorbeed de kleur, de vorm en de grootte van de tomaten. Dan zou je een systeem hebben dat goed werkt voor "gewone" tomaten, maar natuurlijk bestaan er tomaten in allerlei soorten en maten. Bijvoorbeeld:
 
 ![gele tomaten](img/gele_tomaten.png "Gele tomaten")
 ![Verschillende soorten tomaten](img/kleur_tomaten.png "Tomaten in verschillende vormen en kleuren")

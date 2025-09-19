@@ -57,7 +57,7 @@ TikTok maakt gebruik van AI-systemen om te voorspellen welke filmpjes jij leuk z
 
 #### Beautyproducten virtueel uittesten
 
-Ook de schoonheidsindustrie zet in op de kracht van digitale toepassingen. Aan de hand van een app op je smartphone kan je bv. bekijken of een bepaalde kleur lippenstift je wel staat en kan je een bepaalde nagellak virtueel uitproberen op je eigen nagels. 
+Ook de schoonheidsindustrie zet in op de kracht van digitale toepassingen. Aan de hand van een app op je smartphone kan je bv. bekijken of een bepaalde kleur lippenstift je wel staat en kan je nagellak virtueel uitproberen op je eigen nagels. 
 
 [Kies een kleur van nagellak](https://us.manucurist.com/pages/virtual-try-on)
 
@@ -74,7 +74,7 @@ Ook kan je op Snapchat chatten met de chatbot 'My AI', die gebaseerd is op de te
 
 #### Spelling en grammatica controleren in Microsoft Word
 
-Als je een tekst typt in Word, dan kan je via Microsoft Editor laten controleren of je de woorden juist gespeld hebt, en kan je ook suggesties krijgen i.v.m. leestekens en de stijl van je tekst. 
+Als je een tekst typt in Word, dan kan je via Microsoft Editor laten controleren of je de woorden juist gespeld hebt. Je kan ook suggesties krijgen i.v.m. leestekens en de stijl van je tekst. 
 
 #### Netflix
 

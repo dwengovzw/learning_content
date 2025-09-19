@@ -27,4 +27,4 @@ Om je een idee te geven van het systeem dat we gaan bouwen, kan je hieronder een
 </div>
 
 
-In de video zie je dat de robot zich verplaatst door zichzelf vooruit te trekken met een arm. De arm bestaat uit twee gewrichten, op elk gewricht zit een motor die de arm kan bewegen. Door de motoren op de juiste manier te bewegen, kan de robot vooruit kruipen. De robot in de video slaagt er al goed in om vooruit te kruipen. Dit gedrag heeft het systeem zelf geleerd met Q-learning. 
+In de video zie je dat de robot zich verplaatst door zichzelf vooruit te trekken met een arm. De arm bestaat uit twee gewrichten, op elk gewricht zit een motor die de arm kan doen bewegen. Door de motoren op de juiste manier te bewegen, kan de robot vooruit kruipen. De robot in de video slaagt er al goed in om vooruit te kruipen. Dit gedrag heeft het systeem zelf geleerd met Q-learning. 

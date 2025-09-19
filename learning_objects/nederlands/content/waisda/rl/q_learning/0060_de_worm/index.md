@@ -42,14 +42,14 @@ Over de lengte van de worm lopen lengtespieren.
 
 ![Lengtespieren van de worm](img/worm_long_muscles.png)
 
-Naast de lentespieren heeft de worm ook kringspieren die rondom het lichaam van de worm lopen.
+Naast de lengtespieren heeft de worm ook kringspieren die rondom het lichaam van de worm lopen.
 
 ![Kringspieren van de worm](img/worm_long_and_short_muscles.png)
 
 
 **Haartjes**
 
-Op het lichaam van de worm zitten ook kleine haartjes. Deze zorgen ervoor dat de worm meer grip heeft op de aarde er rondom.
+Op het lichaam van de worm zitten ook kleine haartjes. Deze zorgen ervoor dat de worm meer grip heeft op de aarde errond.
 
 ### De bewegingen van de worm
 
@@ -57,13 +57,17 @@ De worm kan elk segment op twee mogelijke manieren bewegen.
 
 **Samentrekken lengtespieren**
 
-Door de lengtespieren in een segment samen te trekken wordt de lengte van het segment korter. Omdat het segment gevuld is met vocht en vocht niet samendrukbaar is, zorgt dat ervoor dat de buitenkant van de worm uitzet door de druk.
+Door de lengtespieren in een segment samen te trekken, wordt de lengte van het segment korter. Omdat het segment gevuld is met vocht en vocht niet samendrukbaar is, zorgt dat ervoor dat de buitenkant van de worm uitzet door de druk.
 
 ![Inkorten van een segment.](img/worm_contracted.png)
 
-Omgekeerd door de kringspieren in een segment samen te trekken wordt de omtrek van het segment korter. Daardoor zal het segment door de druk langer worden.
+**Samentrekken kringspieren**
+
+Omgekeerd, door de kringspieren in een segment samen te trekken, wordt de omtrek van het segment korter. Daardoor zal het segment door de druk langer worden.
 
 ![Uitzetten van een segment](img/worm_expanded_segment.png)
+
+**Voortbewegen**
 
 Een ingekort segment zorgt voor meer druk op de aarde rondom de worm. De haartjes op de worm grijpen op die plaats dus de aarde vast. Een uitgezet segment zorgt ervoor dat de worm langer en dunner wordt daardoor is er minder wrijving op de aarde rondom de worm en kan dat stuk zich makkelijker vooruit en achteruit bewegen.
 

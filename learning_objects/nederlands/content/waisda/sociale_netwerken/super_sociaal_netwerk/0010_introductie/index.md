@@ -48,7 +48,7 @@ Probeer de volgende vragen te beantwoorden.
 <div class="dwengo-content sideinfo">
 <h2 class="title">Ongesuperviseerd leren</h2>
 <div class="content">
-Ongesuperviseerd of <em>unsupervised</em> leren is een AI-techniek waarmee computerwetenschappers nieuwe informatie uit gegevens proberen halen. Bijvoorbeeld, vriendengroepen zoeken in een sociale graaf. In tegenstelling tot gesuperviseerd (<em>supervised</em>) leren werkt ongesuperviseerd leren niet op basis van gelabelde voorbeelden. Je hebt dus geen trainingsverzameling om een model te trainen.  
+Ongesuperviseerd of <em>unsupervised</em> leren is een AI-techniek waarmee computerwetenschappers nieuwe informatie uit gegevens proberen halen, zoals het zoeken van vriendengroepen in een sociale graaf. In tegenstelling tot gesuperviseerd (<em>supervised</em>) leren, werkt ongesuperviseerd leren niet op basis van gelabelde voorbeelden. Je hebt dus geen trainingsverzameling om een model te trainen.  
 </div>
 </div>
 

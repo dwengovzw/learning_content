@@ -3,7 +3,7 @@ hruid: org-dwengo-waisda-soc-netwerken-graaf-dna-sequencing
 version: 1
 language: nl
 title: "DNA-sequencing"
-description: "Hoe kunnen we een DNA sequentie lezen?"
+description: "Hoe kunnen we een DNA-sequentie lezen?"
 keywords: ["grafen","Euleriaans pad", "DNA", "sequencing", "RNA"]
 content_type: "text/markdown"
 estimated_time: 10
@@ -33,7 +33,7 @@ Sanger sequencing combineert de volgende stoffen in een proefbuis:
 - De nucleotiden A, C, G en T.
 - De aangepaste (gekleurde) versies van de A, C, G en T nucleotiden (in veel lagere concentratie dan het aantal "gewone" nucleotiden).
 
-Door deze stoffen te combineren kan een *Polimerase chain reaction* (PCR) gestart worden. Deze reactie zal het DNA kopiëren. 
+Door deze stoffen te combineren kan een *polimerase chain reaction* (PCR) gestart worden. Deze reactie zal het DNA kopiëren. 
 
 Het chemisch proces verloopt als volgt:
 
@@ -45,7 +45,7 @@ Het chemisch proces verloopt als volgt:
 6. Op het einde van de buis staat een detector die de kleurstof op het einde van een sequentie kan detecteren. Door de opeenvolging van kleuren te registeren kan je de DNA-sequentie lezen.
 
 
-De techniek kan DNA sequenties van maximum 1000 nucleotiden op een precieze en betrouwbare manier lezen. De meeste DNA en RNA sequenties zijn echter veel langer, ze kunnen bestaan uit miljoenen tot miljarden nucleotiden. Daarom zijn er nog andere technieken nodig om een volledige DNA of RNA sequentie te lezen. Een van deze technieken is **shotgun sequencing**.
+De techniek kan DNA-sequenties van maximum 1000 nucleotiden op een precieze en betrouwbare manier lezen. De meeste DNA- en RNA-sequenties zijn echter veel langer: ze kunnen bestaan uit miljoenen tot miljarden nucleotiden. Daarom zijn er nog andere technieken nodig om een volledige DNA- of RNA-sequentie te lezen. Een van deze technieken is **shotgun sequencing**.
 
 ### Shotgun sequencing
 
@@ -90,7 +90,7 @@ Hieronder zie je een voorbeeld van een sequentie die meerdere keren is opgesplit
     </tr>
 </table>
 
-In de tabel zie je dat de sequentie drie keer gelezen wordt aan de hand van shotgun sequencing. Shotgun sequencing zal de DNA streng opdelen in willekeurige stukjes en elk van die stukjes afzonderlijk inlezen. De letters in de tabel geven aan welk deel van de sequentie gelezen werd. De streepjes staan er enkel om visueel aan te tonen welk deel van de DNA streng werd ingelezen. In de praktijk weet je niet van waar het gelezen deeltje DNA komt. 
+In de tabel zie je dat de sequentie drie keer gelezen wordt aan de hand van shotgun sequencing. Shotgun sequencing zal de DNA-streng opdelen in willekeurige stukjes en elk van die stukjes afzonderlijk inlezen. De letters in de tabel geven aan welk deel van de sequentie gelezen werd. De streepjes staan er enkel om visueel aan te tonen welk deel van de DNA-streng werd ingelezen. In de praktijk weet je niet van waar het gelezen deeltje DNA komt. 
 
 Het resultaat van bovenstaande shotgun sequencing is een lijst met korte stukjes DNA. Daarvan zie je hieronder een voorbeeld.
 
@@ -128,4 +128,4 @@ Het resultaat van bovenstaande shotgun sequencing is een lijst met korte stukjes
     </tr>
 </table>
 
-De uitdaging is nu om deze korte stukjes DNA terug samen te voegen tot de volledige DNA streng.
+De uitdaging is nu om deze korte stukjes DNA terug samen te voegen tot de volledige DNA-streng.
