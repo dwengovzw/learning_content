@@ -28,86 +28,80 @@ Het lesmateriaal in de leerpad draagt bij tot het behalen van de volgende onderw
 ## 2e graad
 
 ### Finaliteit doorstroom
-<ul class="dwengo-content leerplandoelen">
-    <h4>Digitale competenties</h4>
-    <li>04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
-    <h4>Sociaal-relationele competenties</h4>
-    <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
-    <h4>Wiskunde - natuurwetenschappen - technologie - STEM</h4>
-    <li>06.21 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.</li>
-    <li>06.22 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</li>
-    <li>06.52 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.</li>
-    <h4>Leercompetenties</h4>
-    <li>13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.</li>
-    <li>13.3 De leerlingen gebruiken school- en vaktaal.</li>
-</ul>
+
+#### Digitale competenties
+* 04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.
+#### Sociaal-relationele competenties
+* 05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.
+#### Wiskunde - natuurwetenschappen - technologie - STEM
+* 06.21 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.
+* 06.22 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.
+* 06.52 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+#### Leercompetenties
+* 13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
+* 13.3 De leerlingen gebruiken school- en vaktaal.
 
 ### Finaliteit arbeidsmarkt
-<ul class="dwengo-content leerplandoelen">
-    <h4>Digitale competenties</h4>
-    <li>04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
-    <h4>Sociaal-relationele competenties</h4>
-    <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
-    <h4>Wiskunde - natuurwetenschappen - technologie - STEM</h4>
-    <li>06.06 De leerlingen lossen vanuit betekenisvolle contexten problemen op door wiskundige concepten en vaardigheden in te zetten.</li>
-    <li>06.14 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.</li>
-    <h4>Leercompetenties</h4>
-    <li>13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.</li>
-    <li>13.3 De leerlingen gebruiken school- en vaktaal.</li>
-</ul>
+
+#### Digitale competenties
+* 04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.
+#### Sociaal-relationele competenties
+* 05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.
+#### Wiskunde - natuurwetenschappen - technologie - STEM
+* 06.06 De leerlingen lossen vanuit betekenisvolle contexten problemen op door wiskundige concepten en vaardigheden in te zetten.
+* 06.14 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+#### Leercompetenties
+* 13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
+* 13.3 De leerlingen gebruiken school- en vaktaal.
 
 ### Dubbele finaliteit
-<ul class="dwengo-content leerplandoelen">
-    <h4>Digitale competenties</h4>
-    <li>04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.</li>
-    <h4>Sociaal-relationele competenties</h4>
-    <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
-    <h4>Wiskunde - natuurwetenschappen - technologie - STEM</h4>
-    <li>06.17 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.</li>
-    <li>06.18 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</li>
-    <li>06.36 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.</li>
-    <h4>Leercompetenties</h4>
-    <li>13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.</li>
-    <li>13.3 De leerlingen gebruiken school- en vaktaal.</li>
-</ul>
+
+#### Digitale competenties
+* 04.05 De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken.
+#### Sociaal-relationele competenties
+* 05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.
+#### Wiskunde - natuurwetenschappen - technologie - STEM
+* 06.17 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.
+* 06.18 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.
+* 06.36 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+#### Leercompetenties
+* 13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
+* 13.3 De leerlingen gebruiken school- en vaktaal.
 
 
 ## 3e graad
 
-## Finaliteit doorstroom
-<ul class="dwengo-content leerplandoelen">
-    <h4>Sociaal-relationele competenties</h4>
-    <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
-    <h4>Wiskunde - natuurwetenschappen - technologie - STEM</h4>
-    <li>06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.</li>
-    <li>06.20 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</li>
-    <li>06.45 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.</li>
-    <h4>Leercompetenties</h4>
-    <li>13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.</li>
-    <li>13.3 De leerlingen gebruiken school- en vaktaal.</li>
-</ul>
+### Finaliteit doorstroom
 
-## Finaliteit arbeidsmarkt
-<ul class="dwengo-content leerplandoelen">
-    <h4>Sociaal-relationele competenties</h4>
-    <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
-    <h4>Wiskunde - natuurwetenschappen - technologie - STEM</h4>
-    <li>06.06 De leerlingen lossen vanuit betekenisvolle contexten problemen op door wiskundige concepten en vaardigheden in te zetten.</li>
-    <li>06.12 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.</li>
-    <h4>Leercompetenties</h4>
-    <li>13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.</li>
-    <li>13.3 De leerlingen gebruiken school- en vaktaal.</li>
-</ul>
+#### Sociaal-relationele competenties
+* 05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.
+#### Wiskunde - natuurwetenschappen - technologie - STEM
+* 06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.
+* 06.20 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.
+* 06.45 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+#### Leercompetenties
+* 13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
+* 13.3 De leerlingen gebruiken school- en vaktaal.
 
-## Dubbele finaliteit
-<ul class="dwengo-content leerplandoelen">
-    <h4>Sociaal-relationele competenties</h4>
-    <li>05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.</li>
-    <h4>Wiskunde - natuurwetenschappen - technologie - STEM</h4>
-    <li>06.11 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.</li>
-    <li>06.12 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.</li>
-    <li>06.45 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.</li>
-    <h4>Leercompetenties</h4>
-    <li>13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.</li>
-    <li>13.3 De leerlingen gebruiken school- en vaktaal.</li>
-</ul>
+### Finaliteit arbeidsmarkt
+
+#### Sociaal-relationele competenties
+* 05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.
+#### Wiskunde - natuurwetenschappen - technologie - STEM
+* 06.06 De leerlingen lossen vanuit betekenisvolle contexten problemen op door wiskundige concepten en vaardigheden in te zetten.
+* 06.12 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+#### Leercompetenties
+* 13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
+* 13.3 De leerlingen gebruiken school- en vaktaal.
+
+### Dubbele finaliteit
+
+#### Sociaal-relationele competenties
+* 05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.
+#### Wiskunde - natuurwetenschappen - technologie - STEM
+* 06.11 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.
+* 06.12 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.
+* 06.45 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+#### Leercompetenties
+* 13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
+* 13.3 De leerlingen gebruiken school- en vaktaal.
