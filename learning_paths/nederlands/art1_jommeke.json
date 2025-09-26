@@ -207,7 +207,22 @@
         ]
       },
       {
-          "learningobject_hruid": "org-dwengo-jommeke-zelf-tekening-maken",
+          "learningobject_hruid": "org-dwengo-jommeke-tekening-maken",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-onderwijsdoelen",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-onderwijsdoelen",
           "language": "nl",
           "version": "1"
       }

@@ -85,6 +85,21 @@
       {
         "learningobject_hruid": "org-dwengo-waisda-beelden-teachable-machine-example-notebook",
         "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-waisda-beelden-teachable-machine-onderwijsdoelen",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-beelden-teachable-machine-onderwijsdoelen",
+        "version": "1",
         "language": "nl"
       }      
     ]

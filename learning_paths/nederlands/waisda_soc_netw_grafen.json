@@ -175,6 +175,21 @@
       {
         "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-reconstructie",
         "version": "1",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "org-dwengo-waisda-soc-netwerken-graaf-onderwijsdoelen",
+              "version": "1",
+              "language": "nl"
+            }
+          }
+        ]
+      },
+      {
+        "learningobject_hruid": "org-dwengo-waisda-soc-netwerken-graaf-onderwijsdoelen",
+        "version": "1",
         "language": "nl"
       }     
     ]

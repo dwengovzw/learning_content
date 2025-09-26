@@ -1,5 +1,5 @@
 ---
-hruid: org-dwengo-waisda-beelden-fax-onderwijsdoelen
+hruid: org-dwengo-waisda-taal-murder-mystery-onderwijsdoelen
 version: 1
 language: nl
 title: "Onderwijsdoelen"
@@ -37,10 +37,12 @@ Deze zijn de officiële formuleringen zoals gepubliceerd op [onderwijsdoelen.be]
 ##### Wiskunde - natuurwetenschappen - technologie - STEM
 * 06.21 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.
 * 06.22 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.
+* 06.23 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.
 * 06.52 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+* 06.53 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.
 ##### Leercompetenties
-* 13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
 * 13.3 De leerlingen gebruiken school- en vaktaal.
+* 13.4 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.
 ##### Ondernemingszin
 * 15.02 De leerlingen genereren creatieve ideeën om een probleem op te lossen en bespreken de uitvoerbaarheid ervan aan de hand van criteria.
 
@@ -54,8 +56,8 @@ Deze zijn de officiële formuleringen zoals gepubliceerd op [onderwijsdoelen.be]
 * 06.06 De leerlingen lossen vanuit betekenisvolle contexten problemen op door wiskundige concepten en vaardigheden in te zetten.
 * 06.14 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
 ##### Leercompetenties
-* 13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
 * 13.3 De leerlingen gebruiken school- en vaktaal.
+* 13.4 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.
 ##### Ondernemingszin
 * 15.02 De leerlingen genereren creatieve ideeën om een probleem op te lossen en bespreken de uitvoerbaarheid ervan aan de hand van criteria.
 
@@ -68,10 +70,12 @@ Deze zijn de officiële formuleringen zoals gepubliceerd op [onderwijsdoelen.be]
 ##### Wiskunde - natuurwetenschappen - technologie - STEM
 * 06.17 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de tweede graad.
 * 06.18 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.
+* 06.19 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.
 * 06.36 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+* 06.37 De leerlingen illustreren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.
 ##### Leercompetenties
-* 13.1 De leerlingen reflecteren cyclisch en vakspecifiek over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
 * 13.3 De leerlingen gebruiken school- en vaktaal.
+* 13.4 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.
 ##### Ondernemingszin
 * 15.02 De leerlingen genereren creatieve ideeën om een probleem op te lossen en bespreken de uitvoerbaarheid ervan aan de hand van criteria.
 
@@ -91,10 +95,12 @@ Deze zijn de officiële formuleringen zoals gepubliceerd op [onderwijsdoelen.be]
 ##### Wiskunde - natuurwetenschappen - technologie - STEM
 * 06.19 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.
 * 06.20 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.
+* 06.21 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.
 * 06.45 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+* 06.46 De leerlingen analyseren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.
 ##### Leercompetenties
-* 13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
 * 13.3 De leerlingen gebruiken school- en vaktaal.
+* 13.4 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.
 ##### Ondernemingszin
 * 15.02 De leerlingen genereren creatieve ideeën om een probleem op te lossen en bespreken de uitvoerbaarheid ervan aan de hand van criteria.
 
@@ -103,11 +109,12 @@ Deze zijn de officiële formuleringen zoals gepubliceerd op [onderwijsdoelen.be]
 ##### Sociaal-relationele competenties
 * 05.01 De leerlingen gaan respectvol en constructief met anderen in interactie rekening houdend met elkaars grenzen.
 ##### Wiskunde - natuurwetenschappen - technologie - STEM
+* 06.01 De leerlingen voeren met functioneel gebruik van ICT eenvoudige berekeningen uit met gehele getallen, decimale getallen, breuken, procenten en verhoudingen in betekenisvolle context.
 * 06.06 De leerlingen lossen vanuit betekenisvolle contexten problemen op door wiskundige concepten en vaardigheden in te zetten.
 * 06.12 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
 ##### Leercompetenties
-* 13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
 * 13.3 De leerlingen gebruiken school- en vaktaal.
+* 13.4 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.
 ##### Ondernemingszin
 * 15.02 De leerlingen genereren creatieve ideeën om een probleem op te lossen en bespreken de uitvoerbaarheid ervan aan de hand van criteria.
 
@@ -118,17 +125,25 @@ Deze zijn de officiële formuleringen zoals gepubliceerd op [onderwijsdoelen.be]
 ##### Wiskunde - natuurwetenschappen - technologie - STEM
 * 06.11 De leerlingen beschrijven fenomenen uit de realiteit aan de hand van wiskundige concepten uit de derde graad.
 * 06.12 De leerlingen lossen vraagstukken en problemen op door te mathematiseren en demathematiseren en door gebruik te maken van heuristieken.
+* 06.13 De leerlingen gebruiken ICT om berekeningen uit te voeren en grafische voorstellingen te maken.
 * 06.26 De leerlingen ontwerpen een oplossing voor een probleem door wetenschappen, technologie of wiskunde geïntegreerd aan te wenden.
+* 06.27 De leerlingen illustreren de wisselwerking tussen wetenschappen, technologie, wiskunde en de maatschappij aan de hand van maatschappelijke uitdagingen.
 ##### Leercompetenties
-* 13.1 De leerlingen reflecteren cyclisch, vakspecifiek en vakoverschrijdend over het eigen leerproces en sturen het op basis daarvan doelgericht bij.
 * 13.3 De leerlingen gebruiken school- en vaktaal.
+* 13.4 De leerlingen zoeken doelgericht informatie in diverse bronnen en verwerken die op een kritische en systematische manier.
 ##### Ondernemingszin
 * 15.02 De leerlingen genereren creatieve ideeën om een probleem op te lossen en bespreken de uitvoerbaarheid ervan aan de hand van criteria.
+
+### Informaticawetenschappen
+
+##### (Pakket uit) Algoritmen en programmeren
+* 07.01.01/07.02.01 De leerlingen programmeren zelf ontworpen oplossingen voor concrete problemen.
+##### Toegepaste informaticawetenschappen: software bewerken
+* 07.09.01 De leerlingen bewerken software om een specifiek product te maken of om een probleem op te lossen.
 
 ### STEM
 
 ##### STEM - Engineering
 * 12.01.01 De leerlingen ontwikkelen een oplossing voor een probleem door STEM-disciplines geïntegreerd toe te passen.
-
 ##### Onderzoeksvaardigheden wetenschappen
 * 12.02.01 De leerlingen ontwikkelen een oplossing voor een probleem door STEM-disciplines geïntegreerd toe te passen.
