@@ -49,11 +49,13 @@ Klik je op onderstaande knop 'Open notebooks',  dan word je doorgestuurd naar ee
 Eenmaal alles ingeladen is, kom je terecht in Jupyter Lab en vind je links op het scherm twee (oranje) bestanden met extensie _.ipynb_.
 Dit zijn de twee notebooks waarin je respectievelijk een overzicht krijgt van de opbouw en mogelijkheden en hoe je er mee aan de slag kan.
 Ook zie je er een map *images* staan. Deze map bevat de afbeeldingen die in de notebooks getoond worden.
+
 Om een bestand of map te openen, dubbelklik je op de bestands-/mapnaam.
+
 ![Screenshot van geopende Jupyter Lab link](embed/JupyterLab.png)
 
 In deze eerste twee notebooks leer je hoe de notebooks zijn opgevat en hoe je ermee aan de slag kan. 
-Na het doorlopen van beide notebooks heb je een goed idee van hoe onze Python notebooks zijn opgevat.
+Na het doorlopen van beide notebooks heb je een goed idee van hoe onze Python notebooks zijn opgebouwd.
 
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0101 "Notebooks Werking")
 
