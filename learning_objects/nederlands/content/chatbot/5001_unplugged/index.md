@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-estimated_time: 10
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
@@ -45,7 +45,7 @@ Er zijn regelgebaseerde chatbots en er zijn lerende chatbots. *In het [leerpad C
 
 *Kunnen leerlingen verklaren waarom ze Billy van de wijs kunnen brengen?*
 
-Billy, de chatbot van bol.com is een regelgebaseerde chatbot. Je vindt hem links onderaan op deze [webpagina](https://www.bol.com/nl/nl/m/klantenservice/).
+Billy, de chatbot van bol.com, is een regelgebaseerde chatbot. Je vindt hem links onderaan op deze [webpagina](https://www.bol.com/nl/nl/m/klantenservice/).
 
 Chat eens met Billy. Kan je hem in de war brengen?
 

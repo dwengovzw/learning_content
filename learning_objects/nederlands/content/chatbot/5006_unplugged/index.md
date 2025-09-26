@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-estimated_time: 10
+estimated_time: 30
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 

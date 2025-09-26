@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-estimated_time: 10
+estimated_time: 30
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
@@ -36,8 +36,8 @@ teacher_exclusive: true
 
 In deze lessenreeks breng je leerlingen inzichten bij in de werking van een chatbot. <br>
 * Ze krijgen eerst een inleiding tot het domein van de kunstmatige intelligentie. Daarbij is ruimte voorzien voor een klasdiscussie en het verwoorden van eigen opvattingen.  
-* Vervolgens leren ze via een rollenspel hoe een regelgebaseerde chatbot werkt. (Vandaar de naam 'Chatbot unplugged'. 
-* Afhankelijk van de leerlingengroep en de tijd die je hebt, kan je dieper ingaan op de technische kant: Hoe bepaalt een eenvoudige rekensom welk antwoord de chatbot geeft als de vraag niet in zijn 'woordenboek' staat?<br>
+* Vervolgens leren ze via een rollenspel hoe een regelgebaseerde chatbot werkt (vandaar de naam 'Chatbot unplugged'). 
+* Afhankelijk van de leerlingengroep en de tijd die je hebt, kan je dieper ingaan op de technische kant: hoe bepaalt een eenvoudige rekensom welk antwoord de chatbot geeft als de vraag niet in zijn 'woordenboek' staat?<br>
 De chatbot zoekt het best gelijkende antwoord door de 'afstand' te berekenen tussen de gestelde vraag en alle vragen die wel in zijn woordenboek staan.
 * Ook lerende chatbots gebruiken het concept 'afstand', zij het op een totaal andere manier. De leerlingen verkennen hoe ChatGPT hiermee aan de slag gaat.
 

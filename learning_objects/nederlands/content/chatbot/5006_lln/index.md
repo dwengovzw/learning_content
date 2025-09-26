@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-estimated_time: 10
+estimated_time: 30
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 # Hoe werkt een lerende chatbot?
 
-Een chatbot op basis van een lerend AI-systeem heeft geleerd door heel veel teksten te lezen. Bijvoorbeeld de teksten van Wikipedia, boodschappen op sociale media, en hele boeken die online staan.<br>  
+Een chatbot op basis van een lerend AI-systeem heeft geleerd door heel veel teksten te lezen. Bijvoorbeeld de teksten van Wikipedia, boodschappen op sociale media en hele boeken die online staan.<br>  
 In die teksten komen sommige woorden vaak samen voor. In een tekst over een hond of een kat, zal het bv. vaak ook over een dierenarts gaan. In een tekst over een school, zal het vaak over leerkrachten en leerlingen gaan, en over brooddozen, boekentassen, schoolboeken, laptops en soms ook over de schoolbel.
 
 Het AI-systeem onthoudt al die informatie door het op een bepaalde manier te structureren. Eenvoudig gezegd:<br>
