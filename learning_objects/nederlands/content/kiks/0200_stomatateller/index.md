@@ -32,7 +32,8 @@ teacher_exclusive: false
 
 # Automatisch tellen van huidmondjes
 
-In de volgende notebook wordt er getoond hoe men AI inzet om huidmondjes te tellen op microscopische foto's.
+In de volgende notebook wordt er getoond hoe men AI inzet om huidmondjes te tellen op microscopische foto's. <br>
+Indien bepaalde commando's rode waarschuwingen geven, kun je deze gewoon negeren. De notebook zal desondanks werken zoals gewenst.
 
 Er is ook in een kleine demonstratie voorzien, zodat je alvast weet waarmee je aan de slag gaat!
 
