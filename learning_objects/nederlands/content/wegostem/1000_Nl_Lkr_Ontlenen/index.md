@@ -70,7 +70,7 @@ Manon Vergote - Jurgen van Lerberghe
 Konventstraat 1  
 8500 Kortrijk
 
-* Gent [Reserveer hier](https://gent.bibliotheek.be/formulier/aanvraagformulier-wegostem "Reserveren")  
+* Gent [Reserveer hier](https://forms.office.com/e/sSx4Uq6gaf "Reserveren")  
 Miriam Makebaplein 1  
 9000 Gent
 
@@ -80,5 +80,5 @@ Straatsburgdok-Noordkaai 29
 
 * Brugge [Reserveer hier](https://brugge.bibliotheek.be/basisonderwijs "Reserveren")  
 Bibliotheek Xaverianen  
-Xaverianenstraat 3 bus 002  
+Xaverianenstraat 13/002  
 8200 Sint-Michiels (Brugge)
