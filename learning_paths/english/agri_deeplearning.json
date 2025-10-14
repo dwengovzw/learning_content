@@ -16,9 +16,8 @@
           "next": {
             "hruid": "agri_webcam",
             "version": "3",
-            "language": "nl"
-          },
-          "language": "en"
+            "language": "en"
+          }
         }
       ]
     },
@@ -32,9 +31,8 @@
           "next": {
             "hruid": "agri_webcam2",
             "version": "3",
-            "language": "nl"
-          },
-          "language": "en"
+            "language": "en"
+          }
         }
       ]
     },
@@ -48,9 +46,8 @@
           "next": {
             "hruid": "agri_webcam3",
             "version": "3",
-            "language": "nl"
-          },
-          "language": "en"
+            "language": "en"
+          }
         }
       ]
     },
@@ -64,9 +61,8 @@
           "next": {
             "hruid": "agri_tomaten",
             "version": "3",
-            "language": "nl"
-          },
-          "language": "en"
+            "language": "en"
+          }
         }
       ]
     },

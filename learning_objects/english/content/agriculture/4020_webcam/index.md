@@ -35,3 +35,6 @@ version: 3
 In a first notebook you will get started with a camera, e.g., your webcam, and YOLO.<br>
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=4020 "Webcam")
+
+--------------------------------------------
+In the following two notebooks, you will gain insight into the possibilities and limitations, and how you can partly address them.
