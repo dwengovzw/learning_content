@@ -31,51 +31,40 @@ teacher_exclusive: true
 ---
 
 <context>
-New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in kilometer?    
+**Probleemstelling**
+New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in kilometer?<br>
+
+![Kaart en GPS New York](newyork.png)
 </context>
 <decomposition>
-**Decompositie** in subtaken:<br>
-<ol>
-    <li>De wandelafstand van Times Square naar het Empire State Building kan opgevraagd worden in een routeplanner. </li>
+**Decompositie**<br>
+<ul>
     <li>Vat het probleem samen in een figuur.</li>
-    <li>Herken een rechthoekige driehoek in de figuur.</li>
-    <li>Duid op de figuur aan wat gekend is.</li>
-    <li>Zoek de lengtes van de twee rechthoekszijden op in de gegeven wandelroute.</li>
-    <li>Pas de stelling van Pythagoras toe.</li>
-</ol>
+    <li>Wat is gegeven? Haal wat relevant is uit de tekst en duid deze gegevens aan op de figuur (de lengtes van de twee rechthoekszijden in de gegeven route).</li>
+    <li>Door patroonherkenning weet je dat dit een toepassing is van de stelling van Pythagoras. Welke formule zal je moeten gebruiken?</li>
+</ul>
 
-![Kaart New York](kaartnewyork.png)
+<!-- ![Kaart New York](kaartnewyork.png) -->
     
-![GPS New York](gpsnewyork.png)
+<!-- ![GPS New York](gpsnewyork.png) -->
 </decomposition>
 <patternRecognition>
-Het stratenplan vertoont een **patroon**:<br> 
-de straten vormen een rechthoekig rooster.<br>
-De afstand in vogelvlucht kan dus bepaald worden als de schuine zijde van een rechthoekige driehoek.
-Herkennen dat het probleem verwant is met een eerder opgelost probleem: oefening is er een van het type waarbij de schuine zijde berekend wordt als de twee rechthoekszijden gekend zijn.  
+**Patroonherkenning**<br>
+<ul>
+    <li>Het stratenplan vertoont een patroon: de straten vormen een rechthoekig rooster.</li>
+    <li>In de getekende figuur herken je een rechthoekige driehoek. De afstand in vogelvlucht komt overeen met de lengte van de schuine zijde van een rechthoekige driehoek.</li>
+    <li>Je herkent dat het probleem verwant is met een eerder opgelost probleem: het is een toepassing op de stelling van Pythagoras. De schuine zijde moet berekend worden uit twee bekende rechthoekszijden.</li>
 </patternRecognition>
 <abstraction>
-De straten en kruispunten worden **geabstraheerd** tot de zijden en de hoekpunten van een rechthoekige driehoek. <br>
-Enkele instructies van het programma worden gegroepeerd in een **functie**, waarbij een abstractie wordt gemaakt van de waarden en de gedetailleerde instructies uit het probleem. 
+**Abstractie**<br>
+<ul>
+    <li>De figuur is een abstracte visualisatie van het probleem met zijn gegevens. De straten en kruispunten worden geabstraheerd tot zijden en hoeken van een rechthoekige driehoek. De gezochte afstand komt overeen met de lengte van de schuine zijde in de driehoek.</li>
 </abstraction>
 <algorithms>
-**Algoritme**: Bereken de vierkantswortel van de som van de kwadraten van de parameters.
-(De parameters zijn de lengtes van de rechthoekszijden.) 
+**Algoritmisch denken**<br>
+Het programma is gebaseerd op dit algoritme: bereken de vierkantswortel van de som van de kwadraten van de waarden van de parameters van de functie. (De parameters zijn de lengtes van de rechthoekszijden.)
 </algorithms>
 <implementation>
 **Programma in Python**
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
-def pythagoras1(a, b):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"""Schuine zijde berekenen uit gekende rechthoekszijden."""  
-&nbsp;&nbsp;&nbsp;&nbsp;c = math.sqrt(a**2 + b**2)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;return c<br><br>
-# invoer<br>
-rhz1 = float(input("Lengte van de eerste rechthoekszijde: "))<br>
-rhz2 = float(input("Geef de lengte van de tweede rechthoekszijde: "))<br><br>
-# verwerking<br>
-vogelvlucht = pythagoras1(rhz1, rhz2)<br><br>
-# uitvoer<br>
-print("De afstand in vogelvlucht is: ", vogelvlucht)
-</p>
-</div>
+De leerlingen zien in dat dit probleem kan worden opgelost met de stelling van Pythagoras en ze dus het bovenstaande programma kunnen gebruiken. Ze moeten alleen dat programma uitvoeren en de juiste waarden invoeren voor de rechthoekszijden.
 </implementation>
