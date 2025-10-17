@@ -61,7 +61,7 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
     <li>De figuur is een abstracte visualisatie van het probleem met zijn gegevens. De straten en kruispunten worden geabstraheerd tot zijden en hoeken van een rechthoekige driehoek. De gezochte afstand komt overeen met de lengte van de schuine zijde in de driehoek.</li>
 </abstraction>
 <algorithms>
-**Algoritmisch denken**<br>
+**Algoritmisch denken**<br><br>
 Het programma is gebaseerd op dit algoritme: bereken de vierkantswortel van de som van de kwadraten van de waarden van de parameters van de functie. (De parameters zijn de lengtes van de rechthoekszijden.)
 </algorithms>
 <implementation>

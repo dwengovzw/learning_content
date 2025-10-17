@@ -41,7 +41,7 @@ Automatiseer het berekenen van de schuine zijde van een rechthoekige driehoek al
 <ul>
     <li><p style="color: Gray">Algoritme opstellen om de schuine zijde te berekenen. Dit algoritme maakt gebruik van de wiskundige formule uit de stelling van Pythagoras.</p></li>
     <li><p style="color: Gray">Algoritme implementeren in de computer (keuze software, bijvoorbeeld Python).</p></li>
-    <li>Ervoor zorgen dat de gebruiker de lengte van de gegeven rechthoekszijden kan ingeven.</li>
+    <li>Ervoor zorgen dat de gebruiker de lengte van de gegeven rechthoekszijden kan ingeven.</li><br>
     <li><p style="color: Gray">Datatype kiezen voor die zijden. Welk datatype is het meest geschikt? Int of float?</p></li>
     <li><p style="color: Gray">Ervoor zorgen dat de output na de verwerking van de gegevens proper verschijnt.</p></li>
 </ul>
@@ -62,7 +62,7 @@ Automatiseer het berekenen van de schuine zijde van een rechthoekige driehoek al
 **Algoritmisch denken**<br>
 <p style="color: Gray">Het programma bevat (in deze volgorde) instructies om:</p>
 <ol>
-    <li>de gegevens op te vragen aan de gebruiker;</li>
+    <li>de gegevens op te vragen aan de gebruiker;</li><br>
     <li><p style="color: Gray">die gegevens te verwerken met als doel het bekomen van de lengte van de schuine zijde;</p></li>
     <li><p style="color: Gray">de lengte van de schuine zijde te laten zien op het scherm.</p></li>
 </ol>
