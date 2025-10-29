@@ -31,10 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Pas het ontwerp van de sociale robot aan, rekening houdend met criteria.
 </context>
 <decomposition>
-Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
+**Decompositie**<br>
+Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces.
 <ul>
     <li>Aftoetsen van het ontwerp aan de criteria</li>
     <li>‘Lichaam en acties robot’ aanpassen aan de criteria en beperkingen (bv. aanwezige hardware)</li>
@@ -52,7 +54,8 @@ Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moet
 
 </abstraction>
 <algorithms>
-Actie(s) van de robot weergeven in een **algoritme** (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
+**Algoritmisch denken**<br>
+Actie(s) van de robot weergeven in een algoritme (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
 ![schetsalgoritme](schetsalgoritme.png)
 </algorithms>
 <implementation>

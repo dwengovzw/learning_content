@@ -31,10 +31,11 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Automatiseer het berekenen van de (reële) wortels van een vierkantsvergelijking. Er wordt op zoek gegaan naar het aantal wortels en de waarde van de wortels.
 </context>
 <decomposition>
-Subtaken (**decompositie**):
+**Decompositie**<br>
 <ol>
     <li>Inzetten van de computer om de wortels van een vierkantsvergelijking te berekenen. </li>
     <li>Formules op een of andere manier aan de computer geven om de wortels te berekenen: discriminant, formules voor de wortels zelf.</li>
@@ -44,16 +45,18 @@ Subtaken (**decompositie**):
 </ol>
 </decomposition>
 <patternRecognition>
-Als eenzelfde berekening vaak moet herhaald worden, dan is het handig deze te vatten in een functie. (**patroonherkenning**)
+**Patroonherkenning**<br>
+Als eenzelfde berekening vaak moet herhaald worden, dan is het handig deze te vatten in een functie.
 De formules zullen daarom opgenomen worden in een zelfgedefinieerde functie: een voor de discriminant en een voor de wortels.
- (**patroonherkenning**)
 </patternRecognition>
 <abstraction>
-Een functie is een **abstractie** van een subalgoritme.<br><br>
+**Abstractie**<br>
+Een functie is een abstractie van een subalgoritme.<br><br>
 *Weetje: een vierkantsvergelijking is een abstractie van het zoeken naar de snijpunten van een parabool met de x-as.*
 </abstraction>
 <algorithms>
-Het **algoritme** bevat (in deze volgorde) instructies om:<br>
+**Algoritmisch denken**<br>
+Het algoritme bevat (in deze volgorde) instructies om:<br>
 <ol>
     <li>de gegevens op te vragen aan de gebruiker;</li>
     <li>die gegevens te verwerken met als doel het bekomen van de discriminant en de wortels;</li>
@@ -62,7 +65,7 @@ Het **algoritme** bevat (in deze volgorde) instructies om:<br>
 </ol>
 </algorithms>
 <implementation>
-**Programma in Python**<br>
+**Programma**<br>
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 def discriminant(a, b, c):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van discriminant."""<br>

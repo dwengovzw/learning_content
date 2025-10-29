@@ -31,10 +31,11 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vogelvlucht: Gent, Lokeren, Sint-Niklaas, Dendermonde, Willebroek, Mechelen. Bepaal de kortste weg tussen Gent en Mechelen via deze wegen? Hoe kan een computer daarbij helpen?  
 </context>
 <decomposition>
-**Decompositie:**<br>
+**Decompositie**<br>
 <ul>
     <li>Welke wegen zijn er mogelijk? Om dit te zien kan je best op een grafische voorstelling kijken, hier kiezen we voor een graaf.
         <ul>
@@ -47,25 +48,27 @@ Je kent de afstanden in km tussen bepaalde gemeenten langs grote wegen en in vog
 </ul>
 </decomposition>
 <patternRecognition>
-**Patroonherkenning:**<br>
+**Patroonherkenning**<br>
 <ul>
     <li>De wegen tussen de gemeenten vormen een netwerk. Een netwerk kan voorgesteld worden d.m.v. een graaf. Denk bv. aan de voorstelling met een graaf van een sociaal netwerk. </li>
     <li>Er is hier wel een bijkomende complexiteit, nl. de lengte van de wegen, die moet ook voorgesteld worden.  </li>
 </ul>
 </patternRecognition>
 <abstraction>
-Je gebruikt een graaf als **abstracte weergave** van de mogelijke wegen tussen de gemeenten.<br>
+**Abstractie**<br>
+Je gebruikt een graaf als abstracte weergave van de mogelijke wegen tussen de gemeenten.<br>
 De gegeven tabel dient te worden omgevormd naar een gewogen graaf: de gemeenten zijn de knopen en de wegen ertussen de bogen, elke boog krijgt de grootte van de afstand als gewicht.
 </abstraction>
 <algorithms>
+**Algoritmisch denken**<br>
 <ul>
-    <li>**Algoritme van Dijkstra** </li>
-    <li>**A* algoritme** omdat niet alle wegen in aanmerking komen, bv. de wegen langs gemeenten die uit de weg liggen, zijn overbodig na te gaan.</li>
+    <li>Algoritme van Dijkstra </li>
+    <li>A* algoritme omdat niet alle wegen in aanmerking komen, bv. de wegen langs gemeenten die uit de weg liggen, zijn overbodig na te gaan.</li>
 </ul>
 Algoritme omschrijven in woorden (en eventueel ook programmeren).  
 </algorithms>
 <implementation>
-**Programma:**<br>
+**Programma**<br>
 <ul>
     <li>Python-script van algoritme van Dijkstra</li>
     <li>Python-script van A* algoritme </li>

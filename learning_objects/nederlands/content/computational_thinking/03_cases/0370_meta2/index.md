@@ -31,18 +31,19 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire State Building, uitgedrukt in mijl? 
 </div>
 </context>
 <decomposition>
-**Decompositie** in subtaken:
-<ol>
+**Decompositie**<br>
+<ul>
     <li>Roep de hulp in van een computer → gebruik een routeplanner, bv. Google Maps.</li>
     <li>Times Square en Empire State Building aanduiden.</li>
     <li>Duid op de figuur aan wat gekend is.</li>
     <li>Zoek de lengtes van de twee rechthoekszijden op in de gegeven route.</li>
     <li>Pas de stelling van Pythagoras toe. </li>
-</ol>
+</ul>
     
 ![image](https://user-images.githubusercontent.com/48352335/206760776-a6f57eda-9706-4571-926d-5dcabc4bdd5e.png)
     
@@ -52,21 +53,25 @@ New York. Wat is de afstand in vogelvlucht van Times Square naar het Empire Stat
 
 </decomposition>
 <patternRecognition>
+**Patroonherkenning**<br>
 <ul>
-    <li>Het stratenplan vertoont een <b>patroon</b>: de straten vormen een rechthoekig rooster.<br>
+    <li>Het stratenplan vertoont een patroon: de straten vormen een rechthoekig rooster.<br>
     De afstand in vogelvlucht kan dus bepaald worden als de schuine zijde van een rechthoekige driehoek.<br><br>
-    Herkennen dat het probleem verwant is met een eerder opgelost probleem: de oefening is er een van het type waarbij de schuine zijde berekend wordt als de twee rechthoekszijden gekend zijn. (<b>patroonherkenning</b>)  </li>
-    <li>In de routeplanner worden straten, pleinen, parken ... op een bepaalde manier voorgesteld. Herkennen wat straten, parken ... zijn, is een vorm van <b>patroonherkenning</b>.</li>
+    Herkennen dat het probleem verwant is met een eerder opgelost probleem: de oefening is er een van het type waarbij de schuine zijde berekend wordt als de twee rechthoekszijden gekend zijn.</li>
+    <li>In de routeplanner worden straten, pleinen, parken ... op een bepaalde manier voorgesteld. Herkennen wat straten, parken ... zijn, is een vorm van patroonherkenning.</li>
 </ul>
 </patternRecognition>
 <abstraction>
-Het stratenplan van New York is een **abstractie** van de stad. 
+**Abstractie**<br>
+Het stratenplan van New York is een abstractie van de stad. 
 Het gebouw en het plein worden geabstraheerd tot een puntje op de kaart.  
 </abstraction>
 <algorithms>
-**Algoritme**: Bereken de vierkantswortel van de som van de kwadraten van de rechthoekszijden.
+**Algoritmisch denken**<br>
+Bereken de vierkantswortel van de som van de kwadraten van de rechthoekszijden.
 </algorithms>
 <implementation>
+**Programma**<br>
 Het gebruik van de computer beperkt zich tot het gebruik van de routeplanner. Er wordt niet geprogrammeerd.
 </implementation>
 

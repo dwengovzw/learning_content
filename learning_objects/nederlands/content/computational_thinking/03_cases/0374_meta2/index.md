@@ -31,10 +31,11 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Je wil dat een computer vingerafdrukken met elkaar vergelijkt. Hoe doe je dat?
 </context>
 <decomposition>
-Subtaken (**decompositie**):
+**Decompositie**<br>
 <ol>
     <li>In welk formaat zullen de vingerafdrukken aan de computer worden gegeven? 
         <ul>
@@ -50,16 +51,19 @@ Subtaken (**decompositie**):
 </ol>
 </decomposition>
 <patternRecognition>
-Digitale beeldverwerking gebeurt typisch via de pixelwaarden, dus ook hier zal men de pixelwaarden gebruiken om bv. de herkenningspunten op te sporen. (**patroonherkenning**)
+**Patroonherkenning**<br>
+Digitale beeldverwerking gebeurt typisch via de pixelwaarden, dus ook hier zal men de pixelwaarden gebruiken om bv. de herkenningspunten op te sporen.
 
-Om het probleem van inkleuring van kaarten aan te pakken, gebruikt men een graaf, waarbij buurlanden knopen zijn die met elkaar verbonden zijn. Hier kan men de herkenningspunten als knopen nemen van een graaf, waarbij herkenningspunten op eenzelfde lijn met elkaar worden verbonden. (**patroonherkenning**)
+Om het probleem van inkleuring van kaarten aan te pakken, gebruikt men een graaf, waarbij buurlanden knopen zijn die met elkaar verbonden zijn. Hier kan men de herkenningspunten als knopen nemen van een graaf, waarbij herkenningspunten op eenzelfde lijn met elkaar worden verbonden.
 </patternRecognition>
 <abstraction>
-De herkenningspunten samen met andere kenmerken die vastgelegd worden om de vingerafdruk te onderscheiden van andere vingerafdrukken vormen een abstracte voorstelling van de vingerafdruk. (**abstractie**)<br>    
+**Abstractie**<br>
+De herkenningspunten samen met andere kenmerken die vastgelegd worden om de vingerafdruk te onderscheiden van andere vingerafdrukken vormen een abstracte voorstelling van de vingerafdruk.<br>    
 Men kan dit bv. samenvatten d.m.v. een abstracte visualisatie, bv. een gekleurde, gewogen graaf.
 De herkenningspunten worden bepaald door van elk punt een getal te bepalen waaruit kan worden afgeleid welk soort punt het is. Dat getal is een abstractie van het type herkenningspunt.  
 </abstraction>
 <algorithms>
+**Algoritmisch denken**<br>
 Er zijn meerdere algoritmes nodig.<br>
 Een algoritme om <br>
 <ul>
@@ -75,5 +79,6 @@ Een algoritme om <br>
 </ul>
 </algorithms>
 <implementation>
+**Programma**<br>
 Bij dit voorbeeld moet er niet geprogrammeerd worden.
 </implementation>

@@ -31,11 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 De fundamentele relatie tussen stroom, spanning en weerstand wordt beschreven door de Wet van Ohm <em>U = I . R</em>.
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
+**Decompositie**<br>
 <ul>
     <li>De concepten elektrische stroom, spanning en weerstand worden elk afzonderlijk uitgelegd voordat hun relatie volgens de Wet van Ohm wordt besproken.</li>
     <li>De relatie tussen elektrische stroom, spanning en weerstand wordt onderzocht, bv. door het meten van spanning en stroom en het uitzetten van deze gegevens in een grafiek.</li>
@@ -43,7 +44,7 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 </ul>
 </decomposition>
 <patternRecognition>
-(**patroonherkenning**)<br>
+**Patroonherkenning**<br>
 <ul>
     <li>Bij het meten van spanning en stroom, en het uitzetten van deze gegevens in een grafiek, gaan de leerlingen na hoe deze elektrische grootheden zich tot elkaar verhouden en identificeren ze relevante <strong>patronen en trends</strong> in de gegevens.</li>
     <li>De Wet van Ohm geeft het verband tussen elektrische stroom, spanning en weerstand. Het herkennen van de <strong>patronen van verandering</strong> in deze grootheden wanneer je hun waarden aanpast, helpt je om de fundamentele relatie tussen hen te begrijpen.</li>
@@ -51,7 +52,7 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 </ul>
 </patternRecognition>
 <abstraction>
-(**abstractie**)<br>
+**Abstractie**<br>
 <ul>
     <li>De concepten elektrische lading, stroom, spanning en weerstand zijn <strong>abstracte representaties van echte fysieke fenomenen</strong> die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.</li>
     <li>Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn <strong>abstracte</strong> voorstellingen die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.</li>
@@ -60,7 +61,7 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 </ul>
 </abstraction>
 <algorithms>
-**algoritme**<br>
+**Algoritmisch denken**<br>
 <ul>
     <li>Het toepassen van de Wet van Ohm-formule (<em>U = I . R</em>) om de stroom, spanning en weerstand te berekenen, vereist een algoritmische aanpak. Leerlingen moeten de juiste stappen volgen en de formule op de juiste manier gebruiken om de gewenste resultaten te bereiken: gegevens identificeren, de formule toepassen, de berekeningen uitvoeren en de resultaten interpreteren.</li>
     <li>Wanneer leerlingen een laboproef uitvoeren, zullen ze algoritmisch denken gebruiken om stap voor stap de benodigde componenten en verbindingen te identificeren, metingen uit te voeren, enz.</li>

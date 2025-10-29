@@ -31,26 +31,27 @@ teacher_exclusive: true
 ---
 
 <context>
-...  
+**Probleemstelling**<br>
+......
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
+**Decompositie**<br>
 <ol>
-    <li></li>
+    <li>tekst</li>
 </ol>
 </decomposition>
 <patternRecognition>
-...  (**patroonherkenning**)
+**Patroonherkenning**<br>
 </patternRecognition>
 <abstraction>
-... (**abstractie**)<br>
+**Abstractie**<br>
 </abstraction>
 <algorithms>
-Een **algoritme** ... <br>
+**Algoritmisch denken**<br>
 - ... 
 </algorithms>
 <implementation>
+**Programma**<br>
 ... 
 </implementation>
-

@@ -31,11 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 In de elektrische installatie zit een fout. Verhelp deze fout.
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? Subtaken (**decompositie**):<br>
+**Decompositie**<br>
 <ul>
     <li>Het opdelen van de elektrische installatie in de verschillende subsystemen.</li>
     <li>Het probleemgebied isoleren.</li>
@@ -45,7 +46,7 @@ Verkennen van het probleem. Wat heb je nodig? Subtaken (**decompositie**):<br>
 </ul>
 </decomposition>
 <patternRecognition>
-**patroonherkenning**<br>
+**Patroonherkenning**<br>
 Bij het opsporen van fouten moet je vaak patronen in gegevens of gedrag identificeren. Dit kan variëren van het herkennen van herhalende problemen tot het analyseren van trends die kunnen wijzen op mogelijke oorzaken:<br>
 <ul>
     <li>Problemen die zich herhaaldelijk voordoen: dit kan wijzen op een onderliggende oorzaak.
@@ -68,7 +69,7 @@ Bij het opsporen van fouten moet je vaak patronen in gegevens of gedrag identifi
 </ul>
 </patternRecognition>
 <abstraction>
-**abstractie**<br>
+**Abstractie**<br>
 <ul>
     <li>Het begrijpen van complexe elektrische systemen vereist abstrahering, waarbij niet elk detail in beschouwing wordt genomen, maar eerder de hoog-niveau concepten en verbanden. Dit helpt bij het begrijpen van het systeem als geheel.</li>
     <li>Het lezen van een elektrisch schema vereist het vermogen om de abstracte representaties van componenten, verbindingen en functionaliteit te begrijpen.</li>
@@ -80,7 +81,8 @@ Bij het opsporen van fouten moet je vaak patronen in gegevens of gedrag identifi
 </ul>
 </abstraction>
 <algorithms>
-Het foutopsporingsproces vereist **algoritmisch denken**. Het bestaat uit het gestructureerd benaderen van het probleem en het volgen van duidelijke stappen om de oorzaak van het probleem te identificeren: een vooraf bepaalde reeks stappen, zoals visuele inspectie, metingen, logische tests en het implementeren van oplossingen.
+**Algoritmisch denken**<br>
+Het foutopsporingsproces bestaat uit het gestructureerd benaderen van het probleem en het volgen van duidelijke stappen om de oorzaak van het probleem te identificeren: een vooraf bepaalde reeks stappen, zoals visuele inspectie, metingen, logische tests en het implementeren van oplossingen.
 <ul>
     <li>Het proces van systematisch elimineren: het systeem als geheel analyseren en vervolgens specifieke componenten dichterbij bestuderen. </li>
     <li>Het uitvoeren van logische tests om bepaalde componenten of verbindingen uit te sluiten als mogelijke oorzaken van het probleem, volgt een gestructureerde logica die vergelijkbaar is met een algoritme.</li>

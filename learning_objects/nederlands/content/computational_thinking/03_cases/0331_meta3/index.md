@@ -31,10 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Realiseer een sociale robot gebaseerd op je eigen ontwerp.
 </context>
 <decomposition>
-Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
+**Decompositie**<br>
+Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces.
 <ul>
     <li>(Planning opmaken)</li>
     <li>Schets van het ontwerp ‘Lichaam en acties robot’ die beantwoordt aan de criteria en gewenste acties</li>
@@ -54,14 +56,17 @@ Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moet
 
 </patternRecognition>
 <abstraction>
-Hoek of snelheid van een servomotor worden **geabstraheerd** naar een geheel getal van -255 tot 255.
+**Abstractie**<br>
+Hoek of snelheid van een servomotor worden geabstraheerd naar een geheel getal van -255 tot 255.
 </abstraction>
 <algorithms>
-Actie(s) van de robot weergeven in een **algoritme** (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
+**Algoritmisch denken**<br>
+Actie(s) van de robot weergeven in een algoritme (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
 ![schetsalgoritme](schetsalgoritme.png)<br>
-Uit de decompositie volgt het stappenplan dat meegeeft hoe te werk te gaan. (**algoritme**)
+Uit de decompositie volgt het stappenplan dat meegeeft hoe te werk te gaan.
 </algorithms>
 <implementation>
+**Programma**<br>
 Plaats hier een screenshot van de Blockly-code.
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 tekst

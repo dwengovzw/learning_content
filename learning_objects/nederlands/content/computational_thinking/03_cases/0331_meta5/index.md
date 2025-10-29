@@ -31,6 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Zet de gewenste acties om tot een programma in de simulator.<br>
 De leerling heeft bv. gekozen: <br>
 <ul>
@@ -40,7 +41,7 @@ De leerling heeft bv. gekozen: <br>
 </ul>
 </context>
 <decomposition>
-**Decompositie**:<br>
+**Decompositie**<br>
 <ul>
     <li>opsplitsen per actie </li>
     <li>per actie de invoerelementen bepalen</li>
@@ -48,14 +49,14 @@ De leerling heeft bv. gekozen: <br>
 </ul>
 </decomposition>
 <patternRecognition>
-**Patroonherkenning**:<br>
+**Patroonherkenning**<br>
 <ul>
     <li>keuzestructuur is voor de verschillende ‘als-dan’ acties gelijklopend</li>
     <li> oogje open sturen, is gelijklopend met oogje dichtknijpen</li>
 </ul>
 </patternRecognition>
 <abstraction>
-**Abstractie:**<br>
+**Abstractie**<br>
 <ul>
     <li>Handjes zwaaien= servomotoren aansturen</li>
     <li>Oogjes = ledmatrices</li>
@@ -65,7 +66,7 @@ De leerling heeft bv. gekozen: <br>
 </ul>
 </abstraction>
 <algorithms>
-**Algoritme:**<br>
+**Algoritme**<br>
 ALS iemand dichter dan 30 cm komt<br>
 &nbsp;&nbsp;&nbsp;&nbsp;DAN robot zwaait met beide handjes en knipoogt <br>
 ANDERS zwaait hij niet en ogen wijd open <br>
@@ -73,6 +74,7 @@ ALS iemand in de handen klapt<br>
 &nbsp;&nbsp;&nbsp;&nbsp;DAN verschijnt de boodschap ‘Hallo! Hoe gaat het?’<br>
 </algorithms>
 <implementation>
+**Programma**<br>
 Plaats hier een screenshot van de Blockly-code.
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 code

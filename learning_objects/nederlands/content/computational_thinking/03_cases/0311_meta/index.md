@@ -71,13 +71,13 @@ Een zwangerschapstest kan je gemakkelijk zelf thuis uitvoeren. Je vindt ze in ni
 **Algoritmisch denken**<br>
 <ul>
     <li>Het uitvoeren van de test zelf verloopt volgens het stappenplan dat in de handleiding staat.
-    <li>Algoritme bij de niet-digitale test:
-    ALS de urine reageert met de stof
-    DAN 2 streepjes
+    <li>Algoritme bij de niet-digitale test:<br>
+    ALS de urine reageert met de stof<br>
+    DAN 2 streepjes<br>
     ANDERS 1 streepje
-    <li>Algoritme bij de digitale test:
-    ALS sensorwaarde is 1
-    DAN toon 'ZWANGER' op het scherm
+    <li>Algoritme bij de digitale test:<br>
+    ALS sensorwaarde is 1<br>
+    DAN toon 'ZWANGER' op het scherm<br>
     ANDERS toon 'NIET ZWANGER' op het scherm</li>
 </ul>
 </algorithms>

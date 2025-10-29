@@ -31,6 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 ![Maatregelen COVID-19](covid19maatregelen.png)<br>
 *Buitenplan 5 maart 2021*.<br>Afbeelding © NCCN, Brussel, België.
 <div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
@@ -38,25 +39,27 @@ Kunnen we het effect van de COVID-19-maatregelen inschatten voordat we ze invoer
 </div>
 </context>
 <decomposition>
-We identificeren 3 deelproblemen (**decompositie**):
-<ol>
+**Decompositie**<br>
+<ul>
     <li>Model voor verspreiding</li>
     <li>Menselijke interacties voorstellen </li>
     <li>Simuleren van de verspreiding a.d.h.v. het model</li>
-</ol>
+</ul>
 </decomposition>
 <patternRecognition>
-De verspreiding van de pest, cholera, COVID-19 ... gedraagt zich gelijkaardig. We onderscheiden daarbij: vatbare individuen, geïnfecteerden en resistente individuen. (**patroonherkenning**)<br><br>
-Interacties tussen mensen kunnen we op dezelfde manier voorstellen als verbindingen tussen steden (wegen), nl. met een graaf. (**patroonherkenning**)
+**Patroonherkenning**<br>
+De verspreiding van de pest, cholera, COVID-19 ... gedraagt zich gelijkaardig. We onderscheiden daarbij: vatbare individuen, geïnfecteerden en resistente individuen.<br><br>
+Interacties tussen mensen kunnen we op dezelfde manier voorstellen als verbindingen tussen steden (wegen), nl. met een graaf.
 </patternRecognition>
 <abstraction>
-We stellen de interacties tussen de mensen **abstract** voor door een graaf.
+**Abstractie**<br>
+We stellen de interacties tussen de mensen abstract voor door een graaf.
     ![Sociaal netwerk](sociaalnetwerk.png)
-De evoluties in de aantallen vatbare individuen, geïnfecteerden en resistente individuen worden **abstract** voorgesteld door differentiaalvergelijkingen.  
+De evoluties in de aantallen vatbare individuen, geïnfecteerden en resistente individuen worden abstract voorgesteld door differentiaalvergelijkingen.  
 ![Stelsel differentiaalvergeljkingen epidemie](differentiaalvergelijkingenepidemie.png)
 </abstraction>
 <algorithms>
-Stappenplan (**algoritme**):
+**Algoritmisch denken**<br>
 <ol>
     <li>Definieer het SIR-model door een stelsel van differentiaalvergelijkingen (zoals links)</li>
     <li>Kies samenstelling van de beginpopulatie</li>
@@ -67,6 +70,7 @@ Stappenplan (**algoritme**):
 </ol>
 </algorithms>
 <implementation>
-Voor het programma: zie de notebooks in leerpad 'Epidemie'.
+**Programma**<br>
+Zie de notebooks in leerpad 'Epidemie'.
 </implementation>
 

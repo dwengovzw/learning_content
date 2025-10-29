@@ -31,10 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Monteer de hardware op het lichaam van de robot.
 </context>
 <decomposition>
-**Decompositie**: Opsplitsen in de verschillende stappen:<br>
+**Decompositie**<br>
+Opsplitsen in de verschillende stappen
 <ul>
     <li>Benodigdheden verzamelen</li>
     <li>Tekening overbrengen</li>
@@ -43,18 +45,19 @@ Monteer de hardware op het lichaam van de robot.
 </ul>
 </decomposition>
 <patternRecognition>
-**Patroonherkenning**:<br>
+**Patroonherkenning**<br>
 <ul>
     <li>Gaten uitsnijden / hardware monteren gebeurt steeds op dezelfde manier </li>
 </ul>
 </patternRecognition>
 <abstraction>
-**Abstractie:**<br>
+**Abstractie**<br>
 Benodigdheden = concrete materialen + gereedschappen
 </abstraction>
 <algorithms>
 
 </algorithms>
 <implementation>
+**Programma**<br>
 Dit is een unplugged activiteit.
 </implementation>

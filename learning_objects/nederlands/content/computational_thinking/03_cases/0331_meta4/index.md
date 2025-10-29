@@ -31,10 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Realiseer een sociale robot gebaseerd op je eigen ontwerp.
 </context>
 <decomposition>
-Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces (**decompositie**):
+**Decompositie**<br>
+Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moeten doorlopen in het creëer-realiseer-evalueer proces.
 <ul>
     <li>(Planning opmaken)</li>
     <li>Schets van het ontwerp ‘Lichaam en acties robot’ die beantwoordt aan de criteria en gewenste acties</li>
@@ -51,21 +53,25 @@ Leerlingen splitsen de opdracht op in de verschillende fasen/stappen die ze moet
 ![schetsontwerp](schetsontwerp.png)
 </decomposition>
 <patternRecognition>
-Acties die meermaals terugkeren, en complexer acties, kunnen vervat worden in een zelfgedefinieerde functie. (**patroonherkenning**)
+**Patroonherkenning**<br>
+Acties die meermaals terugkeren, en complexer acties, kunnen vervat worden in een zelfgedefinieerde functie.
 </patternRecognition>
 <abstraction>
-Een actie die uit meerdere deelacties bestaat, kan **geabstraheerd** worden in een (overkoepelende) actie.<br>
+**Abstractie**<br>
+Een actie die uit meerdere deelacties bestaat, kan geabstraheerd worden in een (overkoepelende) actie.<br>
 <ul>
     <li>Hoek van een servomotor wordt **geabstraheerd** naar een geheel getal van -180 tot 180.</li>
     <li>Snelheid van een servomotor wordt **geabstraheerd** naar een geheel getal van -255 tot 255.</li>
 </ul>
 </abstraction>
 <algorithms>
-Actie(s) van de robot weergeven in een **algoritme** (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
+**Algoritmisch denken**<br>
+Actie(s) van de robot weergeven in een algoritme (Dit mag neergeschreven worden in pseudocode, omschreven worden in een zin ...)<br>
 ![schetsalgoritme](schetsalgoritme.png)<br>
-Uit de decompositie volgt het stappenplan dat meegeeft hoe te werk te gaan. (**algoritme**)
+Uit de decompositie volgt het stappenplan dat meegeeft hoe te werk te gaan.
 </algorithms>
 <implementation>
+**Programma**<br>
 Plaats hier een screenshot van de Blockly-code.
 <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 Codevoorbeeld

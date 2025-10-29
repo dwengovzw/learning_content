@@ -60,7 +60,8 @@ Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, au
 <ul>
     <li>Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. 
     <li>Op zoek gaan naar patronen in de waarheidstabel, bv.<br>
-        ![Waarheidstabel](waarheidstabelterraslamppatroon.png)  <br>
+
+![Waarheidstabel](waarheidstabelterraslamppatroon.png)  <br>
         Bekijk in welke gevallen de lamp brandt (dat is aangegeven in het lichtgroen).<br>
         Als K = 1 (donkergroen) dan zal de lamp branden (L = 1), ongeacht de waarden van B en S.<br>
         Voor K = 0 is er nog maar één geval waarbij de lamp ook brandt, nl. als S = 0 én B = 1 (oranje)</li>
@@ -68,18 +69,21 @@ Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, au
 </patternRecognition>
 <abstraction>
 **Abstractie**<br>
+<ul>
     <li>De probleemstelling wordt abstract weergegeven via een waarheidstabel. De inputs staan in de eerste drie kolommen, de output in de laatste kolom.</li>
     ![Waarheidstabel](waarheidstabelterraslamp.png)<br>
+</ul>
 </abstraction>
 <algorithms>
 **Algoritmisch denken**<br>
 <ul>
     <li>De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in via een algoritme (hier verschillende oplossingen in de vorm van pseudocode of een flowchart).<br>
-</ul>
+
 ![Flowchart](flowchart.png)<br>
 ![Flowchart](flowchart2terraslamp.png)<br><br>
 ![Pseudocode](pseudocode1terraslamp.png)<br>
 ![Pseudocode](pseudocodewijterraslamp.png)
+</ul>
 </algorithms>
 <implementation>
 **Programma**<br>
