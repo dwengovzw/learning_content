@@ -71,7 +71,8 @@ Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, au
 **Abstractie**<br>
 <ul>
     <li>De probleemstelling wordt abstract weergegeven via een waarheidstabel. De inputs staan in de eerste drie kolommen, de output in de laatste kolom.</li>
-    ![Waarheidstabel](waarheidstabelterraslamp.png)<br>
+    
+![Waarheidstabel](waarheidstabelterraslamp.png)<br>
 </ul>
 </abstraction>
 <algorithms>
