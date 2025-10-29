@@ -31,11 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Systeem voor gepersonaliseerde reclame op online platform (aanbevelingsalgoritme). 
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
+**Decompositie**<br>
 - Persoonlijkheidsprofiel van de gebruiker: interesses, opinies, voorkeuren, natuur ... 
 - Data verzamelen en opslaan over de gebruiker:
     - Socialemediaposts
@@ -48,16 +49,18 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 - Een aanbevelingsalgoritme 
 </decomposition>
 <patternRecognition>
-Meerdere vormen van **patroonherkenning** komen aan bod:
+**Patroonherkenning**<br>
 - Patronen in koop- en klikgedrag 
 - Het taalgebruik van de gebruiker analyseren om er persoonlijkheidskenmerken uit af te leiden, zoals leeftijd 
 - Vergelijken van gebruikers om verwante profielen op te sporen 
 </patternRecognition>
 <abstraction>
-De gebruikers worden herleid tot bepaalde persoonlijkheidskenmerken en hun koop- en klikgedrag (**abstractie**).<br>
+**Abstractie**<br>
+De gebruikers worden herleid tot bepaalde persoonlijkheidskenmerken en hun koop- en klikgedrag.
 </abstraction>
 <algorithms>
-- Er worden **algoritmes** gebruikt om een persoonlijkheidsprofiel op te stellen: dat zijn algoritmes voor *natural language processing*, m.a.w. taaltechnologie. 
+**Algoritmisch denken**<br>
+- Er worden algoritmes gebruikt om een persoonlijkheidsprofiel op te stellen: dat zijn algoritmes voor *natural language processing*, m.a.w. taaltechnologie. 
 - Andere algoritmes herkennen patronen in het koop- en klikgedrag.
 - Met behulp van nog andere algoritmes worden er verwante profielen opgespoord. 
 - Het persoonlijkheidsprofiel, patronen in koop- en klikgedrag, en het koop- en klikgedrag van gebruikers met een verwant profiel dienen als input voor een aanbevelingsalgoritme dat voor gepersonaliseerde reclame zal zorgen.<br>

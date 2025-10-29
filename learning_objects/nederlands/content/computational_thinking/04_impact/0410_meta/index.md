@@ -31,10 +31,11 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Een zwangerschapstest kan je gemakkelijk zelf thuis uitvoeren. Je vindt deze in niet-digitale en digitale vorm. De digitale versie bevat een microcontroller en een display. Ontrafel de werking van een digitale zwangerschapstest. Vergelijk dit met een niet-digitale zwangerschapstest.  
 </context>
 <decomposition>
-<strong>Decompositie:</strong><br>
+**Decompositie**<br>
 <ol>
     <li>Wat is de invoer en wat is de uitvoer bij het uitvoeren van de test.</li>
     <li>Wat is de rol van de computer hierin?</li>
@@ -42,7 +43,8 @@ Een zwangerschapstest kan je gemakkelijk zelf thuis uitvoeren. Je vindt deze in 
 </ol>
 </decomposition>
 <patternRecognition>
-Het gebruik van een niet-digitale en een digitale zwangerschapstest verloopt op quasi dezelfde manier. (<strong>patroonherkenning</strong>)<br> 
+**Patroonherkenning**<br>
+Het gebruik van een niet-digitale en een digitale zwangerschapstest verloopt op quasi dezelfde manier.
 <ul>
     <li>Bij beide is de invoer een urinestaal.</li>
     <li>Bij beide is de uitvoer een boodschap.</li>
@@ -50,10 +52,12 @@ Het gebruik van een niet-digitale en een digitale zwangerschapstest verloopt op 
 </ul>
 </patternRecognition>
 <abstraction>
-Het al dan niet zwanger zijn, wordt bij een zwangerschapstest weergegeven door een <strong>symbool</strong>: één of twee streepjes, een plus- of een minteken, … (<strong>abstractie</strong>)
+**Abstractie**<br>
+Het al dan niet zwanger zijn, wordt bij een zwangerschapstest weergegeven door een <strong>symbool</strong>: één of twee streepjes, een plus- of een minteken, …
 </abstraction>
 <algorithms>
-<strong>Algoritme bij de digitale test:</strong><br>  
+**Algoritmisch denken**<br>
+Algoritme bij de digitale test:<br>  
 ALS de urine reageert met de stof DAN<br>
 &nbsp;&nbsp;&nbsp;&nbsp;toon boodschap + op het scherm <br>
 ANDERS<br>

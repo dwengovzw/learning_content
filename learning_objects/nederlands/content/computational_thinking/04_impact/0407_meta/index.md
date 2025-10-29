@@ -31,6 +31,7 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Spoedgevallendiensten en huisartsen zijn vaak overbevraagd. Het zal bovendien jou maar overkomen dat je net in het weekend ziek wordt. Moet je de huisartsenwachtpost dan contacteren, naar de spoedgevallendienst gaan of kan je wachten tot maandag? <br>
 Om aan deze problemen tegemoet te komen, ontwikkelde men een digitale toepassing: "Moet ik naar de dokter?". <br>
 Word je bijvoorbeeld ziek in het weekend, dan beantwoord je de vragen van "Moet ik naar de dokter?" en krijg je op het einde een gepast advies. <br>
@@ -38,7 +39,7 @@ Word je bijvoorbeeld ziek in het weekend, dan beantwoord je de vragen van "Moet 
 </div>
 </context>
 <decomposition>
-Subtaken (**decompositie**):
+**Decompositie**<br>
 <ol>
     <li>In de voorbeelden op zoek gaan naar een patroon (een gerichte gewortelde graaf, een binaire beslissingsboom).</li>
     <li>Uit welke elementen is een beslissingsboom opgebouwd?</li>
@@ -52,15 +53,18 @@ Subtaken (**decompositie**):
 </ol>
 </decomposition>
 <patternRecognition>
-De bestaande voorbeelden tonen dat zulke data vaak worden voorgesteld door een gerichte gewortelde graaf, meetal binair. M.a.w. een binaire beslissingsboom is geschikt om de data te representeren. (**patroonherkenning**)<br><br>
-Een binaire beslissingsboom vertrekt uit een wortel en een ja-neevraag die een scheiding van de data oplevert in twee verzamelingen die zo weinig mogelijk spreiding over de categorieën vertonen. Dat gaat op een analoge manier verder met volgende ja-neevragen. De boom wordt zo opgebouwd met takken en knopen. Tot slot geven de bladeren van de beslissingsboom de mogelijke beslissingen.(**patroonherkenning**)
+**Patroonherkenning**<br>
+De bestaande voorbeelden tonen dat zulke data vaak worden voorgesteld door een gerichte gewortelde graaf, meetal binair. M.a.w. een binaire beslissingsboom is geschikt om de data te representeren.<br><br>
+Een binaire beslissingsboom vertrekt uit een wortel en een ja-neevraag die een scheiding van de data oplevert in twee verzamelingen die zo weinig mogelijk spreiding over de categorieën vertonen. Dat gaat op een analoge manier verder met volgende ja-neevragen. De boom wordt zo opgebouwd met takken en knopen. Tot slot geven de bladeren van de beslissingsboom de mogelijke beslissingen
 </patternRecognition>
 <abstraction>
-De beslissingsboom is een abstracte voorstelling van de oplossing in de vorm van een graaf. Het is een model voor de oplossing. (**abstractie**)<br>
+**Abstractie**<br>
+De beslissingsboom is een abstracte voorstelling van de oplossing in de vorm van een graaf. Het is een model voor de oplossing. 
 Deze voorstelling is bovendien transparant.
 </abstraction>
 <algorithms>
-**Algoritme** om binaire beslissingsboom op te stellen.<br>
+**Algoritmisch denken**<br>
+Algoritme om binaire beslissingsboom op te stellen.<br>
 <ol>
     <li>Bekijk welke wortel de beste splitsing oplevert. Maak takken voor de mogelijke uitkomsten van de ja-neevraag.</li>
     <li>Bekijk voor elke tak welke knoop het meest geschikt is voor de volgende splitsing. Maak takken voor de mogelijke uitkomsten van de ja-neevragen.  </li>
@@ -71,6 +75,7 @@ Deze voorstelling is bovendien transparant.
 *Dit is een iteratief proces: om de wortel en de knopen te bepalen wordt telkens dezelfde techniek toegepast.*
 </algorithms>
 <implementation>
+**Programma**<br>
 De notebook ‘Hartaandoening’ in het leerpad   <a href="/learning-path.html?hruid=aiz1_zorg&language=nl&te=true&source_page=%2Fcare%2F&source_title=%20AI%20in%20de%20Zorg#aiz_oefenen;nl;3"><strong>AI in de zorg - Beslissingsboom</strong></a> bevat een oefening waarbij je met 'echte' data een beslissingsboom genereerd.
 </implementation>
 

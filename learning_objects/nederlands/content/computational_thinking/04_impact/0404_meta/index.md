@@ -31,11 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Geeft spraakassistent input aan aanbevelingsalgoritme voor reclame?  
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
+**Decompositie**<br>
 - Taaltechnologie
     - Speech-to-text
     - Text-to-speech
@@ -54,12 +55,14 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 - Aanbevelingsalgoritme voor gepersonaliseerde reclame
 </decomposition>
 <patternRecognition>
-- Gepersonaliseerde reclame gebeurt o.a. op basis van *lookalike audiences* (via **patroonherkenning** worden aan een persoon dezelfde interesses toegedicht als van iemand met een soortgelijk profiel)
+**Patroonherkenning**<br>
+- Gepersonaliseerde reclame gebeurt o.a. op basis van *lookalike audiences* (via patroonherkenning worden aan een persoon dezelfde interesses toegedicht als van iemand met een soortgelijk profiel)
 </patternRecognition>
 <abstraction>
-(**abstractie**)<br>
+**Abstractie**<br>
 </abstraction>
 <algorithms>
+**Algoritmisch denken**<br>
 - Spraakherkenningstechnologie om spraak om te zetten naar tekst
 - Natural language processing om betekenis te koppelen aan de tekst
 - Generatieve technologie om eventueel een antwoord te formuleren
