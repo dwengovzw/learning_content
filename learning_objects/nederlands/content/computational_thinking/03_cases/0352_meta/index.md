@@ -31,36 +31,46 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Analyseer hoe het zeeniveau in Oostende in de toekomst zal evolueren. 
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb ik nodig? Subtaken (**decompositie**):<br>
-<ol>
-    <li>Nodig: data uit het verleden </li>
-    <li>Data verzamelen <span style="color: yellowgreen">→ website MIRA</span></li>
-    <li>Data visualiseren <span style="color: yellowgreen">→ keuze software, bv. Python</span></li>
-    <li>Trendlijnen bepalen</li>
-</ol>
+**Decompositie**<br>
+<ul>
+    <li>Data verzamelen. Welke? Hoe? Waar? (Data uit het verleden zoeken via internet.)</li>
+    <li>Data visualiseren.</li>
+    <li>Trendlijnen bepalen (vorm, vergelijking).</li>
+    <li>Software kiezen (bijvoorbeeld Python).</li>
+</ul>
 </decomposition>
 <patternRecognition>
-Welke trendlijn is geschikt? <br>
-Kijk naar de vorm van het spreidingsdiagram. Ellipsvormig? Dat wijst op lineaire regressie. (**patroonherkenning**)
-![image](https://user-images.githubusercontent.com/48352335/205666980-64e8bf29-3e3f-49a9-8274-8fade3ca85fb.png)
+**Patroonherkenning**<br>
+![image](https://user-images.githubusercontent.com/48352335/205666980-64e8bf29-3e3f-49a9-8274-8fade3ca85fb.png)<br>
+<ul>
+    <li>Trendlijn? Kijk naar de vorm van het spreidingsdiagram. Ellipsvormig? Dat wijst op lineaire regressie.</li>
+    <li>Als een berekening of een groep instructies (subalgoritme) vaak moet worden herhaald, dan is het handig deze te vatten in een zelfgedefinieerde functie: hier voor de gewenste gedaante van de vergelijking van de trendlijn en het bepalden van de coëfficiënten in deze vergelijking.</li>
+</ul>
 </patternRecognition>
 <abstraction>
-De trendlijn is een benadering (model) van het schommelende zeeniveau die de stijgende trend weerspiegelt, en toelaat voorspellingen te doen voor de evolutie van het zeeniveau in de toekomst. (**abstractie**)
+**Abstractie**<br>
+<ul>
+    <li>De trendlijn is een benadering (model) van het schommelende zeeniveau, die de stijgende trend weerspiegelt en toelaat voorspellingen te doen over de evolutie van het zeeniveau in de toekomst. (Een model is een abstractie van het werkelijke fenomeen.)</li>
+    <li>Een functie is een abstractie van een subalgoritme.</li>
+</ul>
 </abstraction>
 <algorithms>
-Een **algoritme** om in Python de trendlijnen te visualiseren (a.d.h.v. Python-modules):
+**Algoritmisch denken**<br>
+Een algoritme om in Python de trendlijnen te visualiseren (a.d.h.v. Python-modules):
 <ol>
-    <li>Definieer gedaante van vergelijking rechte</li>
-    <li>Definieer functie om coëfficiënten-trendlijn te bepalen passend bij gegeven datapunten</li>
-    <li>Lees data in</li>
-    <li>Bepaal a.d.h.v. data en bovenstaande definities de trendlijn</li>
-    <li>Visualiseer data en trendlijn</li>
+    <li>Definieer gedaante van vergelijking rechte.</li>
+    <li>Definieer functie om coëfficiënten in vergelijking trendlijn te bepalen passend bij gegeven datapunten.</li>
+    <li>Lees data in.</li>
+    <li>Bepaal de trendlijn aan de hand van de data en bovenstaande definities.</li>
+    <li>Visualiseer data en trendlijn.</li>
 </ol>
 </algorithms>
 <implementation>
+**Programma**<br>
 Voor de implementatie verwijzen we naar het leerpad ['Klimaat'](https://www.dwengo.org/learning-path.html?hruid=pn_klimaatverandering&language=nl&te=true&source_page=%2Fstem%2F&source_title=%20STEM#pn_inleiding_klimaat;nl;3) van het lesthema ['Python in STEM'](https://www.dwengo.org/stem/).
 </implementation>
 

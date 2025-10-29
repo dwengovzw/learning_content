@@ -31,49 +31,59 @@ teacher_exclusive: true
 ---
 
 <context>
-Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, automatisch geactiveerd wordt bij beweging, en dat je deze buitenverlichting ook kan inschakelen via een schakelaar in de keuken. <br>
-(Voorkennis: De leerlingen kennen in- en uitvoerelementen van digitale systemen. Ze kunnen werken met waarheidstabellen.)
-</div>
+**Probleemstelling**<br>
+Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, automatisch wordt geactiveerd bij beweging, en dat je deze buitenverlichting ook kan inschakelen via een schakelaar in de keuken. <br>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> 
-Subtaken (**decompositie**):<br>
+**Decompositie**<br>
 <ul>
-    <li>Welke invoerelementen?</li>
-        <ul> <li>Bewegingsdetector B (beweging: B  = 1)</li>
-             <li>Lichtsensor S (donker: S = 0)</li>
-             <li>Schakelaar K (ingedrukt: K = 1)</li>
-        </ul>
-    <li>Welke uitvoerelementen?</li>
+    <li>Verkennen van het probleem. Wat heb je nodig?
+    <li>Subtaken:
         <ul>
-            <li>Lamp L (brandt: L = 1)</li>
+            <li>Welke invoerelementen?</li>
+                <ul> <li>Bewegingsdetector B (beweging: B  = 1)</li>
+                    <li>Lichtsensor S (donker: S = 0)</li>
+                    <li>Schakelaar K (ingedrukt: K = 1)</li>
+                </ul>
+            <li>Welke uitvoerelementen?</li>
+                <ul>
+                    <li>Lamp L (brandt: L = 1)</li>
+                </ul>
         </ul>
-    <li>Het gevraagde weergeven d.m.v. een waarheidstabel. </li>
+    </li>
+    <li>Het gevraagde weergeven via een waarheidstabel. </li>
     <li>Een algoritme opstellen dat de verlichting aanstuurt.</li>
 </ul>
 </decomposition>
 <patternRecognition>
-**patroonherkenning**:<br>
-* Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. 
-* Opzoek gaan naar patronen in de waarheidstabel, bv.<br>
-![Waarheidstabel](waarheidstabelterraslamppatroon.png)  <br>
-Bekijk in welke gevallen de lamp brandt (dat is aangegeven in het lichtgroen).<br>
-Als K = 1 (donkergroen) dan zal de lamp branden (L = 1), ongeacht de waarden van B en S.<br>
-Voor K = 0 is er nog maar één geval waarbij de lamp ook brandt, nl. als S = 0 én B = 1 (oranje). <br>
+**Patroonherkenning**<br>
+<ul>
+    <li>Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. 
+    <li>Op zoek gaan naar patronen in de waarheidstabel, bv.<br>
+        ![Waarheidstabel](waarheidstabelterraslamppatroon.png)  <br>
+        Bekijk in welke gevallen de lamp brandt (dat is aangegeven in het lichtgroen).<br>
+        Als K = 1 (donkergroen) dan zal de lamp branden (L = 1), ongeacht de waarden van B en S.<br>
+        Voor K = 0 is er nog maar één geval waarbij de lamp ook brandt, nl. als S = 0 én B = 1 (oranje)</li>
+</ul>
 </patternRecognition>
 <abstraction>
-Het gevraagde wordt **abstract** weergegeven d.m.v. een waarheidstabel. De inputs staan in de eerste drie kolommen, de output in de laatste kolom.<br>
-![Waarheidstabel](waarheidstabelterraslamp.png)  <br>
+**Abstractie**<br>
+    <li>De probleemstelling wordt abstract weergegeven via een waarheidstabel. De inputs staan in de eerste drie kolommen, de output in de laatste kolom.</li>
+    ![Waarheidstabel](waarheidstabelterraslamp.png)<br>
 </abstraction>
 <algorithms>
-De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in a.d.h.v. een **algoritme** (hier verschillende oplossingen in de vorm van pseudocode of een flowchart).<br>
+**Algoritmisch denken**<br>
+<ul>
+    <li>De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in via een algoritme (hier verschillende oplossingen in de vorm van pseudocode of een flowchart).<br>
+</ul>
 ![Flowchart](flowchart.png)<br>
 ![Flowchart](flowchart2terraslamp.png)<br><br>
 ![Pseudocode](pseudocode1terraslamp.png)<br>
 ![Pseudocode](pseudocodewijterraslamp.png)
 </algorithms>
 <implementation>
-Deze activiteit kan zonder computer gebeuren.
+**Programma**<br>
+Bij deze activiteit moet niet worden geprogrammeerd.
 </implementation>
 
 

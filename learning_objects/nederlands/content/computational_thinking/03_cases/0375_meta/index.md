@@ -31,41 +31,59 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 Ontwikkel een AI-systeem dat reviews op sociale media classificeert volgens sentiment (positief, neutraal, negatief).  
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
-<ol>
-    <li>Keuze maken tussen regelgebaseerd of datagebaseerd AI-systeem.</li>
-    <li>Sentimentwoordenboek in Nederlands inladen.</li>
-    <li>Hoe is een woord terug te vinden in een woordenboek?    </li>
-    <li>De reviews voorverwerken (tokeniseren, hoofdletters en leestekens verwijderen).</li>
-    <li>De reviews representeren a.d.h.v. woordenboekvorm van de woorden erin, samen met hun woordsoort.</li>
-    <li>Matching tussen de woorden en het sentimentwoordenboek om de sentimentscore van elk woord te bepalen.</li>
-    <li>Bepaal de sentimentscore en sentiment de reviews.</li>
-</ol>
+**Decompositie**<br>
+<ul>
+    <li>Verkennen van het probleem:
+        <ul>
+            <li>Wat is het sentiment van een tekst?
+            <li>Welke technieken zijn er om het sentiment van een tekst te bepalen en wat zijn de voor- en nadelen van deze technieken?
+            <li>Welke techniek is voor jou het meest geschikt? (Keuze maken tussen regelgebaseerd of datagebaseerd AI-systeem; hier kiezen we voor regelgebaseerd.)
+        </ul>
+    <li>Wat heb je nodig?
+        <ul>
+            <li>Sentimentwoordenboek in het Nederlands (lexicon).</li>
+        </ul>
+    <li>Hoe pak je het probleem concreet aan? Subtaken:
+        <ul>
+            <li>leren werken met het lexicon (Hoe vind je een woord en de sentimentscore van dat woord erin terug?);
+            <li>een representatie kiezen voor de review zodat de computer ermee kan werken, en hiervoor een geschikt datatype kiezen (review voorverwerken: tokeniseren, hoofdletters en leestekens verwijderen, woorden representeren via hun woordenboekvorm en woordsoort (lemmatiseren en part-of-speech));
+            <li>sentimentscore van elk woord bepalen door matching tussen de woorden en het sentimentwoordenboek;
+            <li>sentiment van de review bepalen (Hoe bepaal je dit vertrekkend van de sentimentscores van de woorden?).</li>
+        </ul>
+    </li>
 </decomposition>
 <patternRecognition>
-Het gebruik van een lexicon (woordenboek specifiek voor de taak) en tokeniseren is een techniek die veel wordt toegepast in taaltechnologie, bv. cyberpestdetectie, auteursherkenning,  automatisch vertalen, tekst genereren … (**patroonherkenning**)
+**Patroonherkenning**<br>
+<ul>
+    <li>Het gebruik van een lexicon (woordenboek specifiek voor de taak) en tokeniseren, lemmatiseren en part-of-speech zijn technieken die veel worden toegepast in het domein van de taaltechnologie, bijvoorbeeld ook voor cyberpestdetectie, auteursherkenning, automatisch vertalen en tekst genereren.
+    <li>Regelgebaseerde cyberpestdetectie en sentimentanalyse gebeuren via een gelijksoortig algoritme. Alleen het lexicon verschilt.</li>
+</ul>
 </patternRecognition>
 <abstraction>
-Door te tokeniseren worden de zinnen herleid tot de woorden die ze bevatten. <br>
-De hoofdletters en leestekens worden genegeerd. De woorden worden herleid tot hun woordenboekvorm en aangevuld met hun woordsoort.(**abstractie**)<br>
-De voorverwerking laat toe om een datastructuur die geschikt is om efficiënt te zoeken, te gebruiken.
+**Abstractie**<br>
+<ul>
+    <li>Bij een regelgebaseerd systeem wordt het sentiment van een woord aan een computer voorgesteld door een getal tussen -2 en 2.
+    <li>Details van de reviews worden weggelaten, bijvoorbeeld het negeren van hoofdletters en leestekens. Tokeniseren reduceert de tekst tot de woorden die deze bevat. Lemmatiseren en part-of-speech herleiden deze woorden tot hun woordenboekvorm en woordsoort.
+    <li>De voorverwerking laat toe om een datastructuur te gebruiken die geschikt is om efficiënt te zoeken.</li>
+</ul>
 </abstraction>
 <algorithms>
+**Algoritmisch denken**<br>
 Een **algoritme** om het sentiment van een review te bepalen:<br>
 <ul>
-    <li>Maak een lijst van de woorden die in de zin voorkomen, met hun woordsoort. Negeer leestekens.</li>
-    <li>Zoek elk woord op in het sentimentwoordenboek.</li>
-    <li>Sla de score van elk woord op in een lijst.</li>
-    <li>Tel de scores op.</li>
-    <li>Bepaal het sentiment a.d.h.v. van een wiskundige uitdrukking (groter dan 0, gelijk aan 0, kleiner dan nul).</li>
+    <li>Maak een lijst van de woordenboekvormen van de woorden die in de review voorkomen, telkens met de woordsoort waarmee ze voorkomen. Negeer leestekens en hoofdletters.
+    <li>Matching tussen de woorden in deze lijst en het sentimentwoordenboek. Zoek elk woord op in het lexicon. Hou daarbij rekening met de woordsoort. Sla de sentimentscore van elk woord op in een lijst.
+    <li>Tel de sentimentscores in de lijst op. De som is de sentimentscore van de review.
+    <li>Bepaal het sentiment van de review met een wiskundige uitdrukking (sentimentscore groter dan 0, gelijk aan 0, kleiner dan 0)</li>
 </ul>
 </algorithms>
 <implementation>
-Zie het project ‘Chatbot’. Deze activiteit kan zonder computer gebeuren.<br>
-Wil je dit programmeren? Bij het project ‘Chatbot’ vind je de notebooks met het programmeergedeelte.
+**Programma**<br>
+Deze activiteit kan zonder computer gebeuren. Je kan samen met de leerlingen een algoritme voor een regelgebaseerd systeem opstellen en het vervolgens unplugged uittesten. Wil je wel programmeren? Dat kan via de Python-notebooks van Dwengo.
 </implementation>
 
