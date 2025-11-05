@@ -100,6 +100,8 @@ In de **zorgsector** zag men bv. de mogelijkheid tot het inzetten van medische *
 Bij de **brandweer** van Genk zet men drones in om een betere inschatting te kunnen van een incident.
 > [Genks proefproject met safety drones krijgt navolging in het hele land](https://www.vrt.be/vrtnws/nl/2023/03/14/genks-proefproject-met-safety-drones-krijgt-navolging-in-het-hel/)<br>
 
+Je kan ook een ander voorbeeld in verband met verkeer behandelen, zoals MobiliData, het systeem van **intelligente verkeerslichten** die op groen springen als de hulpdiensten eraan komen. Ook dat systeem maakt gebruik van data over het wegennet. En net zoals de routeplanner heeft het de positie van de gebruiker nodig. Verrassend is dat niet alleen hulpdiensten kunnen connecteren met deze intelligente lichten. Iedereen kan de verkeersapp gebruiken om met het systeem te connecteren. Zo zou het ook fietsers prioriteit kunnen geven bij slecht weer.
+
 -----------------------------
 ### Werking 
 In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=aiz_routeplanner&version=3&language=nl) uit de doeken gedaan.
