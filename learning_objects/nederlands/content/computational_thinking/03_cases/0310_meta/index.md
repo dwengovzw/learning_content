@@ -76,7 +76,7 @@ Zoek uit waar en wanneer je moet vertrekken om op tijd in Brussel aan te komen.
 </ul>
 </algorithms>
 <implementation>
-**Programma**
+**Programma**<br>
 Bij dit voorbeeld wordt er niet geprogrammeerd. 
 </implementation>
 
