@@ -66,7 +66,7 @@ Het algoritme bevat (in deze volgorde) instructies om:<br>
 </algorithms>
 <implementation>
 **Programma**<br>
-<div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
+<!-- <div class="alert alert-box alert-secondary"><p style="  font-family: 'Courier New', monospace;">
 def discriminant(a, b, c):<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"""Berekenen van discriminant."""<br>
 &nbsp;&nbsp;&nbsp;&nbsp;d = b**2 – 4 * a * c<br>
@@ -94,6 +94,52 @@ if d >= 0:<br>
 else:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;print("Er zijn geen reële wortels.")    
 </p>
-</div>
+</div> -->
+
+```Python
+
+    import math
+    def discriminant(a, b, c):
+        """Bereken discriminant van vierkantsvergelijking."""
+        d = b**2 - 4 * a * c
+        return d
+    
+    def aantal_wortels(d):
+        """Bepaal aantal wortels en multipliciteit."""
+        n = 0
+        m = 1
+        if d > 0:
+            n = 2
+        if d == 0:
+            n =  1
+            m = 2
+        return n, m
+    
+    def wortels(a, b, c, d):
+        """Bereken wortels bij niet-negatieve discriminant d."""
+        x1 = (-b + math.sqrt(d)) / (2 * a)
+        x2 = (-b - math.sqrt(d)) / (2 * a)
+        return x1, x2
+    
+    # invoer
+    a = float(input("Geef de coëfficiënt van x² (verschillend van nul): "))
+    b = float(input("Geef de coëfficiënt van x: "))
+    c = float(input("Geef de constante term: "))
+
+    # verwerking
+    d = discriminant(a, b, c)
+    n, m = aantal_wortels(d)
+
+    if n != 0:  # wortels berekenen bij niet-negatieve discriminant
+        wortel1, wortel2 = wortels(a, b, c, d)
+    
+    # uitvoer
+    if n != 0:
+        print("De wortels zijn: ", wortel1, "en ", wortel2)
+        print("Aantal oplossingen: ", n, " met multipliciteit", m)
+    else:
+        print("Er zijn geen reële wortels")
+```
+
 </implementation>
 

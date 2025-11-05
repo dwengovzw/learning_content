@@ -36,7 +36,7 @@ teacher_exclusive: true
 Op de markt zijn zwangerschapstesten zowel in niet-digitale als in digitale vorm te vinden. De digitale zijn aanzienlijk duurder. De leerlingen vergelijken de werking van beide systemen. Vervolgens kan klassikaal besproken worden wat de voor- en nadelen van beide systemen zijn en of de meerkost de moeite loont. 
 
 
-**Doelgroep:**: derde graad, finaliteit arbeidsmarkt
+**Doelgroep:** derde graad, finaliteit arbeidsmarkt
 
 **Vak:** PAV
 

@@ -43,14 +43,14 @@ Welke veiligheidsprincipes neem je in acht bij het hanteren van elektrische opst
 <patternRecognition>
 **Patroonherkenning**<br>
 <ul>
-    <li>De leerlingen passen veiligheidsprincipes toe bij verschillende elektrische apparaten en situaties en zien in dat je **universele voorzorgsmaatregelen** toepast op verschillende contexten.</li>
+    <li>De leerlingen passen veiligheidsprincipes toe bij verschillende elektrische apparaten en situaties en zien in dat je <b>universele voorzorgsmaatregelen</b> toepast op verschillende contexten.</li>
 </ul>
 </patternRecognition>
 <abstraction>
 **Abstractie**<br>
 <ul>
-    <li>De concepten zoals elektrische lading, stroom, spanning en weerstand zijn **abstracte representaties van echte fysieke fenomenen** die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.</li>
-    <li>Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn **abstracte representaties** die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.</li>
+    <li>De concepten zoals elektrische lading, stroom, spanning en weerstand zijn <b>abstracte representaties van echte fysieke fenomenen</b> die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.</li>
+    <li>Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn <b>abstracte representaties</b> die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.</li>
 </ul>
 </abstraction>
 <algorithms>

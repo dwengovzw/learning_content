@@ -31,13 +31,12 @@ teacher_exclusive: true
 ---
 # Moet ik naar de dokter
 
-Spoedgevallendiensten en huisartsen zijn vaak overbevraagd. <br>
-
-En het zal jou maar overkomen dat je net in het weekend ziek wordt. Moet je de huisartsenwachtpost dan contacteren, naar de spoedgevallendienst gaan of kan je wachten tot maandag? <br>
+Spoedgevallendiensten en huisartsen zijn vaak overbevraagd. En het zal jou maar overkomen dat je net in het weekend ziek wordt. Moet je de huisartsenwachtpost dan contacteren, naar de spoedgevallendienst gaan of kan je wachten tot maandag? <br>
 
 **Impact: Digitale applicatie als 'tussenstap' bij contact patiënt-dokter**<br>
 Om aan deze problemen tegemoet te komen, ontwikkelde men een digitale toepassing: "Moet ik naar de dokter?". <br>
-Word je ziek in het weekend dan beantwoord je de vragen van "Moet ik naar de dokter?" en krijg je op het einde een gepast advies. <br>
+Word je bijvoorbeeld ziek in het weekend, dan beantwoord je de vragen van "Moet ik naar de dokter?" en krijg je op het einde een gepast advies.
+De toepassing werkt op basis van een beslissingsboom, maar hoe stel je gelabelde data uit de zorgsector voor op een manier die geschikt is om er beslissingen mee te nemen betreffende een diagnose of een behandeling?<br>
 
 ## Principes van computationeel denken
 
