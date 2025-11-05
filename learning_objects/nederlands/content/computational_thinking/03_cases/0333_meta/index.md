@@ -73,6 +73,7 @@ Voor K = 0 is er nog maar één geval waarbij de lamp ook brandt, nl. als S = 0 
 <ul>
     <li>De probleemstelling wordt abstract weergegeven via een waarheidstabel. De inputs staan in de eerste drie kolommen, de output in de laatste kolom.</li>
 </ul>
+
 ![Waarheidstabel](waarheidstabelterraslamp.png)<br>
 </abstraction>
 <algorithms>
@@ -80,6 +81,7 @@ Voor K = 0 is er nog maar één geval waarbij de lamp ook brandt, nl. als S = 0 
 <ul>
     <li>De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in via een algoritme (hier verschillende oplossingen in de vorm van pseudocode of een flowchart).<br>
 </ul>
+
 ![Flowchart](flowchart.png)<br>
 ![Flowchart](flowchart2terraslamp.png)<br><br>
 ![Pseudocode](pseudocode1terraslamp.png)<br>
