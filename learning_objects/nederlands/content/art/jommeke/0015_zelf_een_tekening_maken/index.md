@@ -27,4 +27,4 @@ We hebben al een aantal voorbeelden gezien van waar de inkleuring goed of minder
 [![](embed/Knop.png "Knop")](https://kiks.ilabt.imec.be/hub/tmplogin?id=10010 "Jommeke notebook")
 
 
-Met dit leerpad werk je ook aan computationeel denken. Bekijk deze case vanuit dit principe [hier](https://staging.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct03_80&version=3&language=nl).
+Met dit leerpad werk je ook aan computationeel denken. Een volledige uitwerking van een gerelateerde case volgens de principes van het computationeel denken vind je [hier](https://staging.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct03_80&version=3&language=nl).

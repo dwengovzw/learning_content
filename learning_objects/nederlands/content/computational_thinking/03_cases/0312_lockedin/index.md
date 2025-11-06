@@ -35,7 +35,7 @@ teacher_exclusive: true
 
 Aan de hand van deze echt gebeurde *case* ga je unplugged aan de slag met concepten en praktijken van computationeel denken en laat je de leerlingen inzien dat de mens centraal staat bij het ontwikkelen van nieuwe technologische toepassingen. 
 
-Deze case maakt deel uit van het project 'AI in de Zorg', maar kan ook los van dat project uitgevoerd worden.
+Deze case maakt deel uit van het project ['AI in de zorg'](https://www.dwengo.org/care/), maar kan ook los van dat project uitgevoerd worden.
 
 **Doelgroep:** iedereen
 

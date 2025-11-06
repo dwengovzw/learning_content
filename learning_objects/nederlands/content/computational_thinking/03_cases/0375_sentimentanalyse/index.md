@@ -41,4 +41,4 @@ teacher_exclusive: true
 
 ![ct-schema](@learning-object/m_ct03_75/nl/3)
 
-Voor meer uitleg, zie het project "Chatbot' over taaltechnologie. 
+Voor meer uitleg, zie het project "Chatbot' over [taaltechnologie](https://www.dwengo.org/chatbot/). 

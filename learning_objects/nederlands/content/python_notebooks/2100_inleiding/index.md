@@ -47,3 +47,5 @@ Automatische sentimentanalyse gebeurt met een artificieel intelligent systeem. Z
 Voor meer uitleg kan je terecht in hoofdstuk 1 van [chatbot](embed/Chatbot_handleiding_eerstedruk.pdf "chatbot handleiding").
 
 Je gaat zelf aan de slag met notebooks voor de automatische detectie van het sentiment van online reviews. Om dit te kunnen doen, maak je in enkele voorbereidende notebooks eerst kennis met de gebruikte technieken. Fundamentele begrippen van machinaal leren komen bij sentimentanalyse aan bod.
+
+Met dit leerpad werk je ook aan computationeel denken. Een volledige uitwerking van een gerelateerde case volgens de principes van het computationeel denken vind je [hier](https://staging.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct03_75&version=3&language=nl).

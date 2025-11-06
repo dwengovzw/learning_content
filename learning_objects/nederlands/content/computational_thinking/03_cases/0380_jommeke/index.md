@@ -30,9 +30,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Jommekes inkleuren
-**Een AI-systeem om jommekesstrips in te kleuren**
+**Een AI-systeem om jommeke-strips in te kleuren**
 
-Deze case geeft je meer inzicht over wat AI allemaal kan betekenen binnen andere vakgebieden (zoals in de kunst), maar ook over zijn gebreken. Bekijk zeker ook het leerpad waaruit deze case afkomstig is: [link leerpad](https://www.dwengo.org/learning-path.html?hruid=art1&language=nl&te=true&source_page=%2Fart%2F&source_title=%20Kunst#org-dwengo-jommeke-definitie-ai-systeem;nl;1).
+Op de website van dwengo vind je een AI-systeem om Jommeke-strips automatisch in te kleuren. Het is een systeem van generatieve AI dat kan worden gebruikt om de eerste Jommekes, die nog zwart-wit waren, van kleur te voorzien. Dit inkleuren verloopt echter niet altijd even goed.
+
+Deze case geeft je meer inzicht over wat AI allemaal kan betekenen binnen andere vakgebieden (zoals in de kunst), maar ook over zijn gebreken. Bekijk zeker ook het [lesthema 'Kunst'](https://www.dwengo.org/art/) waaruit deze case afkomstig is.
 
 
 **Doelgroep:** iedereen
