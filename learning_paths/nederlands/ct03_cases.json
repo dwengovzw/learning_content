@@ -270,6 +270,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "ct03_60",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_60",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "ct03_70",
             "version": "3",
             "language": "nl"
