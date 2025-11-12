@@ -30,7 +30,9 @@ Een sonarsensor meet de afstand tot een object. Hiervoor gebruikt hij ultrasone 
 
 Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
 
-<p style="border-width:3px; border-style:solid; border-color:gray; padding:1em;"><i>Fase 1: les over echolocatie</i><br>
+<div style="border-width:3px; border-style:solid; border-color:gray; padding:1em;">
+
+<i>Fase 1: les over echolocatie</i><br>
 <ul>
     <li>Vleermuizen detecteren prooien en obstakels via echolocatie. De vleermuis stuurt een geluidssignaal uit. Dat wordt teruggekaatst door het object, waarna de vleermuis het opnieuw opvangt.
     <li>Wetenschappers hebben zich hierdoor laten inspireren om een elektronische component te ontwerpen waarmee automatisch de afstand tot een object kan worden bepaald.</li>
@@ -48,6 +50,6 @@ Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
     <li>De leerlingen stellen een formule op om de afstand te berekenen, die zou kunnen worden geprogrammeerd in de rekeneenheid van het digitale systeem.
     <li>De leerlingen vullen het schema met de basisconcepten verder in.</li>
 </ul>
-</p>
+</div>
 
 ![ct-schema](@learning-object/m_ct03_13/nl/3)
