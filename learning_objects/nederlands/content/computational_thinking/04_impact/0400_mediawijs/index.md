@@ -53,19 +53,19 @@ Voor de tweede graad is een minimumdoel geformuleerd dat beoogt dat leerlingen d
 <br><br>Bron: [AHOVOKS.Uitgangspunten bij de onderwijsdoelen](https://onderwijsdoelen.be/uitgangspunten/6185)
 -----
 
-In het leerpad ['Cases'](https://www.dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_cases0;nl;3) stelden we een schema voor waarmee leerkrachten hun lessen in het kader van computationeel denken kunnen voorbereiden. In dat leerpad maakte je ook al uitgebreid kennis met de concrete invulling ervan.
-
-![Schema basisconcepten](embed/schema.png "Schema basisconcepten CD")
-
-Ook in dit leerpad zal dit schema van pas komen.
-
------
-Verder zal je gebruikmaken van het volgende kader: 
+In het leerpad ['Cases'](https://www.dwengo.org/learning-path.html?hruid=ct6_cases&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_cases0;nl;3) stelden we een schema voor waarmee leerkrachten hun lessen in het kader van computationeel denken kunnen voorbereiden. In dat leerpad maakte je ook al uitgebreid kennis met de concrete invulling ervan. Ook hier zal dit schema van pas komen.
+Hiernaast wordt ook soms gebruik gemaakt van volgend kader om de impact op de maatschappij te verduidelijken.
 
 ![kader](embed/kader_v2.png "Kader impact CD")
+<sub>Bron: Michael T. Rücker. 2023. Modeling Conceptual Knowledge of Computing Impacts for K-12.</sub>
 
-**Impact op de maatschappij hangt nauw samen met de impact op de menselijke waarden.**
 
-Dit kader is sterk gebaseerd op het werk van Michael T. Rücker.
+Hierdoor krijgt elk leerobject binnen dit pad eenzelfde structuur:
+1. Beschrijving van het probleem.
+2. Invulling schema met principes van computationeel denken.
+3. (Eventueel) mindmap/visualisatie van een mogelijke brainstorm.
+4. (Eventueel) kader *impact op de maatschappij*.
+5. Bespreking van de impact.
+6. Gerelateerde voorbeelden.
 
-Bron: Michael T. Rücker. 2023. Modeling Conceptual Knowledge of Computing Impacts for K-12. 
+![overzicht schema's](embed/leegkader.png)

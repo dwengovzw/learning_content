@@ -41,7 +41,7 @@ teacher_exclusive: true
 
 **Voorkennis:** De leerlingen weten dat sentimentanalyse kan gebeuren a.d.h.v. een lexicon.
 
-Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
+Een mogelijk **verloop** van de casestudy gaat als volgt:<br><br>
 
 *Fase 1*<br>
 <ul>

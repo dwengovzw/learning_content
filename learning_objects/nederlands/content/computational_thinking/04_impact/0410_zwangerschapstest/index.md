@@ -41,10 +41,6 @@ Een mogelijke impact is dat mensen meer geld uitgeven dan nodig.
 
 Maar om dat te kunnen besluiten, vergelijk je best de werking van beide systemen om te kunnen nagaan of het ene systeem meer voordelen of nadelen heeft dan het andere. 
 
-> **Leestips:**<br>
-
-
-
 
 ## Principes van computationeel denken
 
@@ -59,16 +55,8 @@ Maar om dat te kunnen besluiten, vergelijk je best de werking van beide systemen
 
 ## Bespreking van de impact
 
-
--------------------------------
-## Gerelateerde voorbeelden: 
-
-
------------------------------
-### Werking 
-
------------------------------
-#### Leestips
-
-#### Kijktips
-
+- Door de elektronica die het digitale toestel bevat, is het minder robuust en bijgevolg ook minder gemakkelijk in gebruik. Je moet ervoor zorgen dat er geen vocht bij de microcontroller komt, anders gaat het toestel stuk.
+- Door de tekst op het display is het enerzijds meer geschikt voor mensen die moeite hebben met abstractie (het interpreteren van 'één streepje' tegenover 'twee streepjes'), maar anderzijds minder geschikt voor mensen die niet goed kunnen lezen of de taal van een bepaalde regio niet machtig zijn.
+- Het feit dat je zo'n test zelf kan doen, dus zonder een arts te raadplegen, zorgt ervoor dat hij toegankelijk wordt voor mensen die niet naar een dokter wensen of durven te gaan. De test zorgt dus voor onafhankelijkheid en meer privacy en heeft het in zich om bepaalde informatie bij meer mensen te krijgen.
+- De menselijke waarden die hiermee samenhangen, zijn autonomie en gezondheid. Maar dit geldt evengoed voor de niet-digitale versie van de test.
+- Door de e-waste en de batterij die de digitale versie achterlaat, heeft deze een extra impact op het milieu en is ze dus minder duurzaam dan de niet-digitale versie.

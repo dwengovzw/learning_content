@@ -46,7 +46,8 @@ teacher_exclusive: true
 * De leerlingen kennen tweedegraadsfuncties.
 * De leerlingen kregen voorbeelden van beslissingsbomen te zien.
 
-Een mogelijk verloop van de casestudy gaat als volgt:<br>
+Een mogelijk verloop van de casestudy gaat als volgt:<br><br>
+
 *Fase 1: kennismaking met beslissingsbomen en hun structuur*<br>
 <ol>
     <li>Je geeft voobeelden van reallife beslissingsbomen of leerlingen zoeken er zelf op.

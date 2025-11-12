@@ -48,7 +48,7 @@ teacher_exclusive: true
 * De leerlingen weten dat de vorm van het spreidingsdiagram een indicatie is van een mogelijke trendlijn. 
 * De leerlingen kunnen in Python een spreidingsdiagram en een trendlijn visualiseren. 
 
-Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
+Een mogelijk **verloop** van de casestudy gaat als volgt:<br><br>
 
 *Fase 1*<br>
 <ul>
