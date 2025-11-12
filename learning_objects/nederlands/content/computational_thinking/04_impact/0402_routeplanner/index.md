@@ -49,12 +49,12 @@ In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten
 
 ## Visualisatie mogelijke brainstorm in de klas
 
-![diagramRouteplanner](embed/diagramrouteplanner)
+![diagramRouteplanner](embed/diagramrouteplanner.png)
 
 ## Kader impact op de maatschappij
 (naar model van Michael T. Rücker. 2023. Modeling Conceptual Knowledge of Computing Impacts for K-12.)
 
-![KaderRouteplanner](embed/kaderrouteplanner)
+![KaderRouteplanner](embed/kaderrouteplanner.png)
 
 ## Bespreking van de impact
 

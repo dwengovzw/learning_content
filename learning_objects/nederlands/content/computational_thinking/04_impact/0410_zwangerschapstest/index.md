@@ -50,6 +50,8 @@ Maar om dat te kunnen besluiten, vergelijk je best de werking van beide systemen
 
 ![ct-schema](@learning-object/m_ct04_10/nl/3)
 
+![Mindmap](embed/mindmap.png)
+
 
 ## Kader impact op de maatschappij
 
