@@ -31,7 +31,6 @@ teacher_exclusive: true
 ---
 # Evolutie van het Oostendse zeeniveau
 
-### Doel
 **Visualiseren van een spreidingsdiagram en een trendlijn.**
 
 *In de context van de klimaatverandering gaan de leerlingen aan de slag met 'echte' data. Ze vertrekken daarbij van een uitdaging. Ze moeten zelf op zoek gaan naar de data, deze visualiseren a.d.h.v. een spreidingsdiagram en op zoek gaan naar een eventuele trendlijn.*
@@ -44,23 +43,31 @@ teacher_exclusive: true
 * Wiskunde - Wetenschappen - STEM
 * Informaticawetenschappen
 
-**Doelgroep:** 
-* derde graad - Bedrijfsondersteunende Informaticawetenschappen
-* Economie-Wiskunde, Grieks-Wiskunde
-* Informatica- en communicatiewetenschappen
-* Latijn-Wiskunde
-* Technologische wetenschappen en engineering
-* Wetenschappen-Wiskunde
-* Biotechnologische en chemische STEM-wetenschappen
-* Bouw- en houtwetenschappen
-* Mechatronica
-
-### Uitdaging: Analyseer hoe het zeeniveau in Oostende in de toekomst zal evolueren.
-
 **Voorkennis:** 
 * De leerlingen kunnen informatie verzamelen via het internet. 
 * De leerlingen weten dat de vorm van het spreidingsdiagram een indicatie is van een mogelijke trendlijn. 
 * De leerlingen kunnen in Python een spreidingsdiagram en een trendlijn visualiseren. 
+
+Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
+
+*Fase 1*<br>
+<ul>
+    <li>De leerlingen brainstormen over het probleem.
+    <li>Ze vullen al deels het schema van de basisconcepten in.</li>
+</ul>
+
+*Fase 2*<br>
+<ul>
+    <li>De leerlingen verzamelen via internet data van het zeeniveau in Oostende in de voorbije decennia.</li>
+</ul>
+
+*Fase 3*<br>
+<ul>
+    <li>De leerlingen visualiseren de data in een spreidingsdiagram. Wegens de omvang van de dataset gebruiken ze daarvoor Python.
+    <li>Ze vullen het schema van de basisconcepten verder aan.
+    <li>De leerlingen zien in dat de data een trend weerspiegelen en dat die trend kan worden benaderd door een lineair verband.
+    <li>De leerlingen laten een trendlijn geneneren via lineaire regressie.
+</ul>
 
 ![ct-schema](@learning-object/m_ct03_52/nl/3)
 

@@ -28,7 +28,7 @@ Een sonarsensor meet de afstand tot een object. Hiervoor gebruikt hij ultrasone 
 * De leerlingen kennen het concept *snelheid*
 * Eventueel weten de leerlingen dat snelheid een verhouding is van afstand tot tijdsduur
 
-Een mogelijk verloop van de casestudy gaat als volgt:<br>
+Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
 *Fase 1: les over echolocatie*<br>
 <ul>
     <li>Vleermuizen detecteren prooien en obstakels via echolocatie. De vleermuis stuurt een geluidssignaal uit. Dat wordt teruggekaatst door het object, waarna de vleermuis het opnieuw opvangt.
