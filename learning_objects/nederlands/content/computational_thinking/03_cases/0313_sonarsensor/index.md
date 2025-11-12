@@ -27,7 +27,9 @@ Een sonarsensor meet de afstand tot een object. Hiervoor gebruikt hij ultrasone 
 **Voorkennis:**<br>
 * De leerlingen kennen het concept *snelheid*
 * Eventueel weten de leerlingen dat snelheid een verhouding is van afstand tot tijdsduur
-<br>
+
+
+
 Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
 
 <b>Fase 1: les over echolocatie</b>
