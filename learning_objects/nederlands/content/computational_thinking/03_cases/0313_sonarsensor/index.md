@@ -32,23 +32,20 @@ Een sonarsensor meet de afstand tot een object. Hiervoor gebruikt hij ultrasone 
 
 Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
 
-<b>Fase 1: les over echolocatie</b>
-<ul>
-    <li>Vleermuizen detecteren prooien en obstakels via echolocatie. De vleermuis stuurt een geluidssignaal uit. Dat wordt teruggekaatst door het object, waarna de vleermuis het opnieuw opvangt.
-    <li>Wetenschappers hebben zich hierdoor laten inspireren om een elektronische component te ontwerpen waarmee automatisch de afstand tot een object kan worden bepaald.</li>
-</ul>
-<b>Fase 2: de sonar werkt precies zo</b>
-<ul>
-    <li>Je geeft de leerlingen mee dat de sonar werkt volgens het principe van echolocatie.
-    <li>Als leerlingen dat begrijpen, dan zouden ze via patroonherkenning moeten kunnen besluiten dat de sonar een (ultrasoon) geluidssignaal zal moeten uitsturen en opvangen.
-    <li>De leerlingen vullen het schema met de basisconcepten in.
-</ul>
-<b>Fase 3: formule</b>
-<ul>
-    <li>De geluidssnelheid is ongeveer 340 meter per seconde.
-    <li>Afstand berekenen voor een gegeven tijdsduur van uitzenden tot opnieuw opvangen van het signaal. De leerlingen gebruiken hierbij de correcte eenheden voor tijd en afstand.
-    <li>De leerlingen stellen een formule op om de afstand te berekenen, die zou kunnen worden geprogrammeerd in de rekeneenheid van het digitale systeem.
-    <li>De leerlingen vullen het schema met de basisconcepten verder in.</li>
-</ul>
+**Fase 1: les over echolocatie**
+* Vleermuizen detecteren prooien en obstakels via echolocatie. De vleermuis stuurt een geluidssignaal uit. Dat wordt teruggekaatst door het object, waarna de vleermuis het opnieuw opvangt.
+* Wetenschappers hebben zich hierdoor laten inspireren om een elektronische component te ontwerpen waarmee automatisch de afstand tot een object kan worden bepaald.
+
+**Fase 2: de sonar werkt precies zo**
+* Je geeft de leerlingen mee dat de sonar werkt volgens het principe van echolocatie.
+* Als leerlingen dat begrijpen, dan zouden ze via patroonherkenning moeten kunnen besluiten dat de sonar een (ultrasoon) geluidssignaal zal moeten uitsturen en opvangen.
+* De leerlingen vullen het schema met de basisconcepten in.
+
+**Fase 3: formule**
+* De geluidssnelheid is ongeveer 340 meter per seconde.
+* Afstand berekenen voor een gegeven tijdsduur van uitzenden tot opnieuw opvangen van het signaal. De leerlingen gebruiken hierbij de correcte eenheden voor tijd en afstand.
+* De leerlingen stellen een formule op om de afstand te berekenen, die zou kunnen worden geprogrammeerd in de rekeneenheid van het digitale systeem.
+* De leerlingen vullen het schema met de basisconcepten verder in.
+
 
 ![ct-schema](@learning-object/m_ct03_13/nl/3)
