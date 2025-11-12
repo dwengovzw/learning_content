@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 <context>
 **Probleemstelling**<br>
-Ontwerp een toestel dat in werking treedt als je hand op minder dan 10 cm afstand ervan is, maar zonder dat je het aanraakt.
+**EXTRA** Ontwerp een toestel dat in werking treedt als je hand op minder dan 10 cm afstand ervan is, maar zonder dat je het aanraakt.
 </context>
 <decomposition>
 **Decompositie**<br>

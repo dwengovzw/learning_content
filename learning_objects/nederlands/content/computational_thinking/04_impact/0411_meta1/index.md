@@ -32,7 +32,7 @@ teacher_exclusive: true
 
 <context>
 **Probleemstelling**<br>
-**EXTRA:** Wat is de werking van een kraan die je kan laten lopen zonder deze aan te raken?
+Wat is de werking van een kraan die je kan laten lopen zonder deze aan te raken?
 </context>
 <decomposition>
 **Decompositie**<br>
