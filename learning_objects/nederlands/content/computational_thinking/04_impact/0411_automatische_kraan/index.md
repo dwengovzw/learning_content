@@ -37,7 +37,9 @@ Een automatische kraan is een heel eenvoudig digitaal systeem, waar leerlingen b
 
 ## Principes van computationeel denken
 
-![ct-schema](@learning-object/m_ct04_11/nl/3)
+![ct-schema](@learning-object/m_ct04_11a/nl/3)
+
+![ct-schema](@learning-object/m_ct04_11b/nl/3)
 
 ![Mindmap](embed/mindmap.png)
 
