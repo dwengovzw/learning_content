@@ -30,7 +30,7 @@ Een sonarsensor meet de afstand tot een object. Hiervoor gebruikt hij ultrasone 
 
 Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
 
-<div style="border-width:3px; border-style:solid; border-color:gray; padding:1em;">
+<div style="border:1px solid #000000ff; padding:1em">
 
 <i>Fase 1: les over echolocatie</i><br>
 <ul>
@@ -51,5 +51,6 @@ Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
     <li>De leerlingen vullen het schema met de basisconcepten verder in.</li>
 </ul>
 </div>
+
 
 ![ct-schema](@learning-object/m_ct03_13/nl/3)
