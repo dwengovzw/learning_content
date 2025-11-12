@@ -32,18 +32,18 @@ Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
 
 <div style="border:1px solid #000000ff; padding:1em">
 
-<i>Fase 1: les over echolocatie</i><br>
+<i>Fase 1: les over echolocatie</i>
 <ul>
     <li>Vleermuizen detecteren prooien en obstakels via echolocatie. De vleermuis stuurt een geluidssignaal uit. Dat wordt teruggekaatst door het object, waarna de vleermuis het opnieuw opvangt.
     <li>Wetenschappers hebben zich hierdoor laten inspireren om een elektronische component te ontwerpen waarmee automatisch de afstand tot een object kan worden bepaald.</li>
 </ul>
-<i>Fase 2: de sonar werkt precies zo</i><br>
+<i>Fase 2: de sonar werkt precies zo</i>
 <ul>
     <li>Je geeft de leerlingen mee dat de sonar werkt volgens het principe van echolocatie.
     <li>Als leerlingen dat begrijpen, dan zouden ze via patroonherkenning moeten kunnen besluiten dat de sonar een (ultrasoon) geluidssignaal zal moeten uitsturen en opvangen.
     <li>De leerlingen vullen het schema met de basisconcepten in.
 </ul>
-<i>Fase 3: formule</i><br>
+<i>Fase 3: formule</i>
 <ul>
     <li>De geluidssnelheid is ongeveer 340 meter per seconde.
     <li>Afstand berekenen voor een gegeven tijdsduur van uitzenden tot opnieuw opvangen van het signaal. De leerlingen gebruiken hierbij de correcte eenheden voor tijd en afstand.
@@ -51,6 +51,6 @@ Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
     <li>De leerlingen vullen het schema met de basisconcepten verder in.</li>
 </ul>
 </div>
-
+<br>
 
 ![ct-schema](@learning-object/m_ct03_13/nl/3)
