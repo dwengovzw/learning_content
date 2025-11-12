@@ -43,7 +43,7 @@ Deze case maakt deel uit van het project ['AI in de zorg'](https://www.dwengo.or
 
 **Voorkennis:** geen
 
-Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
+Een mogelijk **verloop** van de casestudy gaat als volgt:<br><br>
 
 *Fase 1: inleiding*<br>
 <ul>

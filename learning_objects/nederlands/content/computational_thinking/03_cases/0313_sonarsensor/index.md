@@ -39,7 +39,7 @@ Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
 <ul>
     <li>Je geeft de leerlingen mee dat de sonar werkt volgens het principe van echolocatie.
     <li>Als leerlingen dat begrijpen, dan zouden ze via patroonherkenning moeten kunnen besluiten dat de sonar een (ultrasoon) geluidssignaal zal moeten uitsturen en opvangen.
-    <li>De leerlingen vullen het schema met de basisconcepten in.
+    <li>De leerlingen vullen het schema met de basisconcepten in.</li>
 </ul>
 
 *Fase 3: formule*<br>
