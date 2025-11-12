@@ -30,22 +30,18 @@ Een sonarsensor meet de afstand tot een object. Hiervoor gebruikt hij ultrasone 
 
 Een mogelijk **verloop** van de casestudy gaat als volgt:<br>
 
-<p style="border-width:3px; border-style:solid; border-color:gray; padding:1em;">
-
-*Fase 1: les over echolocatie*<br>
+<p style="border-width:3px; border-style:solid; border-color:gray; padding:1em;"><i>Fase 1: les over echolocatie</i><br>
 <ul>
     <li>Vleermuizen detecteren prooien en obstakels via echolocatie. De vleermuis stuurt een geluidssignaal uit. Dat wordt teruggekaatst door het object, waarna de vleermuis het opnieuw opvangt.
     <li>Wetenschappers hebben zich hierdoor laten inspireren om een elektronische component te ontwerpen waarmee automatisch de afstand tot een object kan worden bepaald.</li>
 </ul>
-
-*Fase 2: de sonar werkt precies zo*<br>
+<i>Fase 2: de sonar werkt precies zo</i><br>
 <ul>
     <li>Je geeft de leerlingen mee dat de sonar werkt volgens het principe van echolocatie.
     <li>Als leerlingen dat begrijpen, dan zouden ze via patroonherkenning moeten kunnen besluiten dat de sonar een (ultrasoon) geluidssignaal zal moeten uitsturen en opvangen.
     <li>De leerlingen vullen het schema met de basisconcepten in.
 </ul>
-
-*Fase 3: formule*<br>
+<i>Fase 3: formule</i><br>
 <ul>
     <li>De geluidssnelheid is ongeveer 340 meter per seconde.
     <li>Afstand berekenen voor een gegeven tijdsduur van uitzenden tot opnieuw opvangen van het signaal. De leerlingen gebruiken hierbij de correcte eenheden voor tijd en afstand.
