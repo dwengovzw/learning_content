@@ -30,7 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Conversaties in de Harry Potter-boeken
-**De Steen der Wijzen**
 
 Als je in de les Nederlands (of een ander taalvak) informatie wil halen uit een boek, kan je data uit de tekst op een gestructureerde manier visualiseren door grafen te gebruiken. Met grafen kan je bijvoorbeeld relaties tussen de personages van een boek blootleggen. In deze case hebben we de conversaties uit het boek *Harry Potter en de steen der wijzen* gevisualiseerd, eerst enkel voor hoofdstuk 11 (figuur 1), dan voor het volledige boek (figuur 2).
 
