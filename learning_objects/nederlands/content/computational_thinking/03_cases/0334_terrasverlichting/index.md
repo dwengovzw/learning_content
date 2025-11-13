@@ -1,9 +1,9 @@
 ---
-hruid: ct03_30
+hruid: ct03_34
 version: 3
 language: nl
-title: "Kleerhanger (2)"
-description: "Kleerhanger"
+title: "Terrasverlichting (2)"
+description: "Terrasverlichting"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,14 +29,17 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Kleerhanger 
+# Automatische terrasverlichting
 
-**Een kleerhanger ontwerpen.**
+**_Deze case is nog in ontwerpfase._**
 
-**Doelgroep:** 2de graad hout en 2de graad houttechnieken
+**De leerlingen ontwerpen de sturing van een automatische terrasverlichting.**
 
-**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
+**Doelgroep:** 2de graad - dubbele finaliteit 
 
-**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
+**Vak:** elektriciteit / elektronica
 
-![ct-schema](@learning-object/m_ct03_30/nl/3)
+**Voorkennis:** De leerlingen kennen in- en uitvoerelementen van digitale systemen. Ze kunnen werken met waarheidstabellen.
+
+![ct-schema](@learning-object/m_ct03_34/nl/3)
+

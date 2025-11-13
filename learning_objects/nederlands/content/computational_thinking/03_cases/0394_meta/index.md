@@ -1,9 +1,9 @@
 ---
-hruid: ct03_30
+hruid: m_ct03_94
 version: 3
 language: nl
-title: "Kleerhanger (2)"
-description: "Kleerhanger"
+title: "Sentimentanalyse"
+description: "Sentimentanalyse"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: dwengo
 licence: dwengo
-content_type: text/markdown
+content_type: text/ct-schema
 available: true
 target_ages: [12, 13, 14]
 difficulty: 3
@@ -29,14 +29,29 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Kleerhanger 
 
-**Een kleerhanger ontwerpen.**
-
-**Doelgroep:** 2de graad hout en 2de graad houttechnieken
-
-**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
-
-**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
-
-![ct-schema](@learning-object/m_ct03_30/nl/3)
+<context>
+**Probleemstelling**<br>
+......
+</div>
+</context>
+<decomposition>
+**Decompositie**<br>
+<ol>
+    <li>tekst</li>
+</ol>
+</decomposition>
+<patternRecognition>
+**Patroonherkenning**<br>
+</patternRecognition>
+<abstraction>
+**Abstractie**<br>
+</abstraction>
+<algorithms>
+**Algoritmisch denken**<br>
+- ... 
+</algorithms>
+<implementation>
+**Programma**<br>
+... 
+</implementation>

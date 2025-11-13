@@ -1,9 +1,9 @@
 ---
-hruid: ct03_30
+hruid: ct03_96
 version: 3
 language: nl
-title: "Kleerhanger (2)"
-description: "Kleerhanger"
+title: "Periodiek systeem (in ontwerp)"
+description: "Periodiek system"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,14 +29,16 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Kleerhanger 
+# Periodiek systeem
 
-**Een kleerhanger ontwerpen.**
+**_Deze case is nog in ontwerpfase._**
 
-**Doelgroep:** 2de graad hout en 2de graad houttechnieken
+**Doelgroep:** Leerlingen ...
 
-**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
+**Vak:** /
 
-**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
+**Voorkennis:** De leerlingen ...
 
-![ct-schema](@learning-object/m_ct03_30/nl/3)
+![ct-schema](@learning-object/m_ct03_96/nl/3)
+
+

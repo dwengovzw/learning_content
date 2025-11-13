@@ -1,9 +1,9 @@
 ---
-hruid: ct03_30
+hruid: ct03_92
 version: 3
 language: nl
-title: "Kleerhanger (2)"
-description: "Kleerhanger"
+title: "Tomaten en AI (in ontwerp)"
+description: "Tomaten en AI"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,14 +29,18 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Kleerhanger 
+# Toestand van tomaten detecteren 
 
-**Een kleerhanger ontwerpen.**
+**_Case in ontwerpfase._**
 
-**Doelgroep:** 2de graad hout en 2de graad houttechnieken
+**Automatsch detecteren van rotte en goede tomaten.**
 
-**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
+**Doelgroep:** ...
 
-**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
+**Vak:** /
 
-![ct-schema](@learning-object/m_ct03_30/nl/3)
+**Voorkennis:** De leerlingen ...
+
+![ct-schema](@learning-object/m_ct03_92/nl/3)
+
+

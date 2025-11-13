@@ -2,8 +2,8 @@
 hruid: m_ct03_60
 version: 3
 language: nl
-title: "Meta"
-description: "Meta"
+title: "Zwangerschapstest"
+description: "Zwangerschapstest"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -32,46 +32,57 @@ teacher_exclusive: true
 
 <context>
 **Probleemstelling**<br>
-Visualiseer en interpreteer de conversaties in Harry Potter en de steen der wijzen.
-</div>
+Een zwangerschapstest kan je gemakkelijk zelf thuis uitvoeren. Je vindt ze in niet-digitale en digitale vorm. Ontrafel de werking van een digitale zwangerschapstest. Vergelijk deze werking met die van een niet-digitale zwangerschapstest.  
 </context>
 <decomposition>
 **Decompositie**<br>
 <ul>
-    <li>Welke conversaties noteer je en welke negeer je?
-    <li>Kies met welke factoren je wel of geen rekening houdt: aantal conversaties, lengte van een conversatie...
-    <li>Hoe geef je de personages weer?
-    <li>Hoe geef je de conversaties weer?</li>
-</ul> 
+    <li>Uit welke onderdelen bestaat een digitale zwangerschapstest?
+        <ul>
+            <li>Een staafje om in contact te brengen met urine. Een bepaalde stof op dat staafje waarmee de urine al dan niet kan reageren op basis van de aanwezigheid van zwangerschapshormonen.
+            <li>In het toestel zit een papaieren strookje waarop een controlestreepje verschijnt als de test correct werd uitgevoerd en een tweede streepje verschijnt bij reactie met het urinestaal.
+            <li>Een sensor die detecteert of er al dan niet een reactie heeft plaatsgevonden. Welke sensor is dat? (kleurensensor)
+            <li>Een microcontroller die het resultaat toont op de display.
+            <li>Een display waarop het resultaat van de test verschijnt (via tekst of via een symbool).</li>
+        </ul>
+    <li>Wat gebeurt er bij zo'n test? Wat is de rol van de computer hierin?
+    <li>Wat is de invoer en wat is de uitvoer bij de digitale test?
+    <li>Wat zijn de verschillen tussen de digitale en de niet-digitale versie van een zwangerschapstest?</li>
+</ul>
 </decomposition>
 <patternRecognition>
 **Patroonherkenning**<br>
 <ul>
-    <li>Dergelijke relaties worden vaak weergegeven door een graaf.
-    <li>Je ziet door de dikte van de bogen welke personages het vaakst converseren.
-    <li>De hoofdpersonages springen zowel in de graaf van hoofdstuk 11 als in de graaf van het volledige boek in het oog.</li>
+    <li>Invoer- verwerking - uitvoer
+    <li>Het gebruik van een niet-digitale en een digitale test verloopt op quasi dezelfde manier.
+    <li>Bij beide is de invoer een urinestaal en de (uiteindelijke) uitvoer een boodschap.
+    <li>Beide testen bevatten een papieren strookje waarop een controlestreepje verschijnt. Bij de digitale test bevindt dit zich in het toestel. Bij beide reageert het urinestaal al dan niet met een bepaalde stof aanwesig in het meettoestel. Als deze reactie plaatsvindt, dan verschijnt er een tweede streepje op de papieren strip.
+    <li>De microcontroller krijgt input van de sensor. Daarvoor meet de kleurensensor of het tweede streepje gekleurd is of niet. De sensor zal dus in de microcontroller invoeren of de test positief is of niet. De microcontroller zal deze invoer verwerken en doorgeven werlke boodschap er als uitvoer op het display moet verschijnen.</li>
 </ul>
 </patternRecognition>
 <abstraction>
 **Abstractie**<br>
 <ul>
-    <li>Je focust op de conversaties. De rest van de tekst negeer je.
-    <li>Je beperkt je tot conversaties die duidelijk plaatsvinden tussen twee of meer personages. Mompelen, fluisteren, een kreet slaken... negeer je.
-    <li>Je houdt geen rekening met de lengte van een conversatie.
-    <li>Personages worden weergegeven door een knoop, conversaties door een boog en het aantal conversaties wordt weergegeven door de dikte van de boog.</li>
+    <li>De digitale waarde, een rij van nullen en enen, die de sensor teruggeeft aan de microcontroller, is een abstractie van het resultaat op de papieren strip.
+    <li>Het resultaat van een zwangerschapstest wordt vaak op een abstracte manier weergegeven door een symbool: een of twee streepjes, een plus- of minteren ...</li>
 </ul>
 </abstraction>
 <algorithms>
 **Algoritmisch denken**<br>
 <ul>
-    <li>Noteer alle personages en alle conversaties tussen twee of meer personages.
-    <li>Geef de personages weer door een knoop.
-    <li>Geef de conversaties weer door een boog.
-    <li>Voor elke bijkomende conversatie tussen dezelfde personages, maak je de boog dikker.</li>
+    <li>Het uitvoeren van de test zelf verloopt volgens het stappenplan dat in de handleiding staat.
+    <li>Algoritme bij de niet-digitale test:<br>
+    ALS de urine reageert met de stof<br>
+    DAN 2 streepjes<br>
+    ANDERS 1 streepje
+    <li>Algoritme bij de digitale test:<br>
+    ALS sensorwaarde is 1<br>
+    DAN toon 'ZWANGER' op het scherm<br>
+    ANDERS toon 'NIET ZWANGER' op het scherm</li>
 </ul>
 </algorithms>
 <implementation>
 **Programma**<br>
-In deze opdracht wordt niet geprogrammeerd.
+Dit is een activiteit waarbij niet wordt geprogrammeerd.
 </implementation>
 

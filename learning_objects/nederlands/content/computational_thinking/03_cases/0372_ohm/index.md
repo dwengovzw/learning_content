@@ -1,9 +1,9 @@
 ---
-hruid: ct03_30
+hruid: ct03_72
 version: 3
 language: nl
-title: "Kleerhanger (2)"
-description: "Kleerhanger"
+title: "Wet van Ohm (s)"
+description: "Wet van Ohm"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,14 +29,17 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Kleerhanger 
+# Wet van Ohm
 
-**Een kleerhanger ontwerpen.**
+**Aanbrengen en toepassen van de Wet van Ohm.**
 
-**Doelgroep:** 2de graad hout en 2de graad houttechnieken
+**Doelgroep:** alle leerlingen die les krijgen over de Wet van Ohm
 
-**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
+**Vak:** ...
 
-**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
+**Voorkennis:** De leerlingen kennen de basisbegrippen van elektriciteit (elektrische lading, stroom, spanning, weerstand).
 
-![ct-schema](@learning-object/m_ct03_30/nl/3)
+
+![ct-schema](@learning-object/m_ct03_72/nl/3)
+
+

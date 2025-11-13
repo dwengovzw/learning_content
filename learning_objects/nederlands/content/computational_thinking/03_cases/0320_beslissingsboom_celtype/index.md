@@ -2,7 +2,7 @@
 hruid: ct03_20
 version: 3
 language: nl
-title: "Beslissingsboom bepaling celtype"
+title: "Beslissingsboom bepaling celtype (1)"
 description: "Beslissingsboom (biologie)"
 copyright: dwengo
 licence: dwengo

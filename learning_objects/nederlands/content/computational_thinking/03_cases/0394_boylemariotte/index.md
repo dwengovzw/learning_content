@@ -1,9 +1,9 @@
 ---
-hruid: ct03_30
+hruid: ct03_94
 version: 3
 language: nl
-title: "Kleerhanger (2)"
-description: "Kleerhanger"
+title: "Wet van Boyle en Mariotte (in ontwerp)"
+description: "Wet van Boyle en Mariotte"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,14 +29,13 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Kleerhanger 
+# Wet van Boyle en Mariotte
 
-**Een kleerhanger ontwerpen.**
+**_Deze case is nog in ontwerpfase._**
 
-**Doelgroep:** 2de graad hout en 2de graad houttechnieken
+**Doelgroep:** Leerlingen ...
 
-**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
+**Voorkennis:** De leerlingen ...
 
-**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
+![ct-schema](@learning-object/m_ct03_94/nl/3)
 
-![ct-schema](@learning-object/m_ct03_30/nl/3)

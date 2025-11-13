@@ -2,7 +2,7 @@
 hruid: ct03_32
 version: 3
 language: nl
-title: "Houten lantaarn"
+title: "Houten lantaarn (2)"
 description: "Houten lantaarn"
 keywords: [""]
 educational_goals: [

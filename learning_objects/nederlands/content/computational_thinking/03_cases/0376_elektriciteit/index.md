@@ -1,9 +1,9 @@
 ---
-hruid: ct03_30
+hruid: ct03_76
 version: 3
 language: nl
-title: "Kleerhanger (2)"
-description: "Kleerhanger"
+title: "Elektriciteit (s)"
+description: "Elektriciteit"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,14 +29,16 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Kleerhanger 
+# Basisbegrippen elektriciteit
 
-**Een kleerhanger ontwerpen.**
+**Leren van de concepten elektrische lading, elektrische stroom, spanning en weerstand. Omgaan met veiligheidsprincipes.** 
 
-**Doelgroep:** 2de graad hout en 2de graad houttechnieken
+**Doelgroep:** alle leerlingen die les krijgen over de basisbegrippen van elektriciteit
 
-**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
+**Vak:** /
 
-**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
+**Voorkennis:** geen
 
-![ct-schema](@learning-object/m_ct03_30/nl/3)
+![ct-schema](@learning-object/m_ct03_76/nl/3)
+
+

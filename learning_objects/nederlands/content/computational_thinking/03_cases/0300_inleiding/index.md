@@ -38,3 +38,9 @@ We doen dit aan de hand van een schema. Dit schema biedt jou, als leerkracht, ee
 
 Bij het invullen van het schema vertrek je van de basisconcepten, maar automatisch komen ook andere concepten en praktijken van computationeel denken naar voren.<br>
 Niet alle vakken moeten verplicht worden ingevuld. Het onderste vak 'programmeren' is facultatief. Programmeren hoeft niet altijd aan bod te komen. Zelfs de computer hoeft niet altijd aan bod te komen. Let wel, in geen enkele opdracht met de computer werken is ook geen optie.  
+
+Je kan aan een titel van een voorbeeld tussen haakjes aflezen op welke doelgroep de focus ligt:
+|Symbool|Doelgroep|
+|niets|iedereen|
+|(1),(2),(3)|respectievelijk 1e, 2e en/of 3e graad|
+|(s)|specifiekere doelgroep (te lezen in het leerobject)|

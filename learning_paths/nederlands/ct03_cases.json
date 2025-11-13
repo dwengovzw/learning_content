@@ -30,21 +30,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct03_11",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct03_11",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "ct03_12",
             "version": "3",
             "language": "nl"
@@ -60,7 +45,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct03_13",
+            "hruid": "ct03_14",
             "version": "3",
             "language": "nl"
           }
@@ -68,7 +53,37 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_13",
+      "learningobject_hruid": "ct03_14",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct03_16",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_16",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct03_18",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_18",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -90,6 +105,36 @@
         {
           "default": true,
           "next": {
+            "hruid": "ct03_22",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_22",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct03_24",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_24",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "ct03_30",
             "version": "3",
             "language": "nl"
@@ -99,21 +144,6 @@
     },
     {
       "learningobject_hruid": "ct03_30",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "ct03_31",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct03_31",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -135,21 +165,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct03_33",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct03_33",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "ct03_34",
             "version": "3",
             "language": "nl"
@@ -165,7 +180,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct03_35",
+            "hruid": "ct03_36",
             "version": "3",
             "language": "nl"
           }
@@ -173,14 +188,14 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_35",
+      "learningobject_hruid": "ct03_36",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "ct03_50",
+            "hruid": "ct03_38",
             "version": "3",
             "language": "nl"
           }
@@ -188,14 +203,14 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_50",
+      "learningobject_hruid": "ct03_38",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "ct03_51",
+            "hruid": "ct03_40",
             "version": "3",
             "language": "nl"
           }
@@ -203,14 +218,14 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_51",
+      "learningobject_hruid": "ct03_40",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "ct03_52",
+            "hruid": "ct03_42",
             "version": "3",
             "language": "nl"
           }
@@ -218,14 +233,14 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_52",
+      "learningobject_hruid": "ct03_42",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "ct03_53",
+            "hruid": "ct03_44",
             "version": "3",
             "language": "nl"
           }
@@ -233,14 +248,14 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_53",
+      "learningobject_hruid": "ct03_44",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "ct03_54",
+            "hruid": "ct03_46",
             "version": "3",
             "language": "nl"
           }
@@ -248,14 +263,14 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_54",
+      "learningobject_hruid": "ct03_46",
       "version": "3",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "ct03_55",
+            "hruid": "ct03_48",
             "version": "3",
             "language": "nl"
           }
@@ -263,37 +278,7 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_55",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "ct03_56",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct03_56",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "ct03_57",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct03_57",
+      "learningobject_hruid": "ct03_48",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -315,7 +300,22 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct03_70",
+            "hruid": "ct03_62",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_62",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct03_80",
             "version": "3",
             "language": "nl"
           }
@@ -324,21 +324,6 @@
     },
     {
       "learningobject_hruid": "ct03_70",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "ct03_71",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct03_71",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -360,21 +345,6 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct03_73",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct03_73",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
             "hruid": "ct03_74",
             "version": "3",
             "language": "nl"
@@ -390,7 +360,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "ct03_75",
+            "hruid": "ct03_76",
             "version": "3",
             "language": "nl"
           }
@@ -398,22 +368,7 @@
       ]
     },
     {
-      "learningobject_hruid": "ct03_75",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "ct03_80",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct03_80",
+      "learningobject_hruid": "ct03_76",
       "version": "3",
       "language": "nl",
       "transitions": [
@@ -429,6 +384,51 @@
     },
     {
       "learningobject_hruid": "ct03_90",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct03_92",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_92",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct03_94",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_94",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct03_96",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct03_96",
       "version": "3",
       "language": "nl"
     } 

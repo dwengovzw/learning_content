@@ -1,9 +1,9 @@
 ---
-hruid: ct03_30
+hruid: ct03_70
 version: 3
 language: nl
-title: "Kleerhanger (2)"
-description: "Kleerhanger"
+title: "Bus (s)"
+description: "Bus"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,14 +29,14 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Kleerhanger 
+# Bus en trein
 
-**Een kleerhanger ontwerpen.**
+**Leerlingen plannen het openbaar vervoer voor een uitstap.**
 
-**Doelgroep:** 2de graad hout en 2de graad houttechnieken
+**Doelgroep:** B-stroom of finaliteit arbeidsmarkt
 
-**Vak:** 2de graad hout - finaliteit arbeidsmarkt; 2de graad houttechnieken - dubbele finaliteit
+**Vak:** /
 
-**Voorkennis:** De leerlingen kunnen al werken met een CAD-programma en een CNC-machine.
+**Voorkennis:** De leerlingen hebben geleerd hoe ze een verplaatsing met de bus kunnen plannen.
 
-![ct-schema](@learning-object/m_ct03_30/nl/3)
+![ct-schema](@learning-object/m_ct03_70/nl/3)
