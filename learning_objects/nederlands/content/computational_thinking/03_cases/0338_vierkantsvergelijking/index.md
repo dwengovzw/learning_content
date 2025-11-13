@@ -2,7 +2,7 @@
 hruid: ct03_38
 version: 3
 language: nl
-title: "Vierkantsvergelijking (2-3)"
+title: "Vierkantsvergelijking (2,3)"
 description: "Vierkantsvergelijking"
 keywords: [""]
 educational_goals: [

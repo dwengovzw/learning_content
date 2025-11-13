@@ -2,7 +2,7 @@
 hruid: ct03_42
 version: 3
 language: nl
-title: "Zeeniveau - trendlijn (2-3)"
+title: "Zeeniveau - trendlijn (2,3)"
 description: "Zeeniveau - trendlijn"
 keywords: [""]
 educational_goals: [

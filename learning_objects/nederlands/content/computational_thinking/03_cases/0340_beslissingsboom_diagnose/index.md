@@ -2,7 +2,7 @@
 hruid: ct03_40
 version: 3
 language: nl
-title: "Beslissingsboom medische diagnose (2-3)"
+title: "Beslissingsboom medische diagnose (2,3)"
 description: "Beslissingsboom"
 keywords: [""]
 educational_goals: [

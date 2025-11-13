@@ -2,7 +2,7 @@
 hruid: ct03_44
 version: 3
 language: nl
-title: "Huidmondjes (2-3)"
+title: "Huidmondjes (2,3)"
 description: "Huidmondjes"
 keywords: [""]
 educational_goals: [

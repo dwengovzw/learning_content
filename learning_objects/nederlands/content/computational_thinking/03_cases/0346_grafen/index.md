@@ -2,7 +2,7 @@
 hruid: ct03_46
 version: 3
 language: nl
-title: "Toepassingen grafen (2-3)"
+title: "Toepassingen grafen (2,3)"
 description: "Toepassingen grafen"
 keywords: [""]
 educational_goals: [

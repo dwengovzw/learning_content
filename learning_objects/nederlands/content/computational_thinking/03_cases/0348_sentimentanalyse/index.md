@@ -2,7 +2,7 @@
 hruid: ct03_48
 version: 3
 language: nl
-title: "Sentimentanalyse (2-3)"
+title: "Sentimentanalyse (2,3)"
 description: "Sentimentanalyse"
 keywords: [""]
 educational_goals: [

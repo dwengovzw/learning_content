@@ -2,7 +2,7 @@
 hruid: ct03_24
 version: 3
 language: nl
-title: "Sociale robot (1-2)"
+title: "Sociale robot (1,2)"
 description: "Sociale robot"
 keywords: [""]
 educational_goals: [
