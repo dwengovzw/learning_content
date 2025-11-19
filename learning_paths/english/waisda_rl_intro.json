@@ -1,0 +1,195 @@
+{
+  "hruid": "org-dwengo-waisda-rl-intro",
+  "language": "en",
+  "title": "Basic principles of reinforcement learning",
+  "description": "In addition to AI systems that learn from data, there are also AI systems that learn more like humans do. These systems use the techniques of reinforcement learning.",
+  "image": "iVBORw0KGgoAAAANSUhEUgAAAUQAAAFECAYAAABf6kfGAAAAyHpUWHRSYXcgcHJvZmlsZSB0eXBlIGV4aWYAAHjabVBbDsMwCPvPKXaEgMmD46RrK+0GO/5IoVM7zVJsJyQESNv7tafHBJMkKa1XrTUbREV5mOnZMQ6mLAcfEAlH9/P0DbApTOGBXl3pPI8Hp9IwVy6J+jMCyz2g4sr9JxG7YFY0/RqJNBKBPUCRYHhbuWpv1xaWLd/RfaVJy271zP7j8e9emk1vLfYPmDcQsjEgXgDmKgnDTDUmNLtIEPMCNS7QqMQG8m9OJ9IHsY1as98b7QEAAAGEaUNDUElDQyBwcm9maWxlAAB4nH2RPUjDQBzFX1O1Ii1S7CDikKE62UVFHKWKRbBQ2gqtOphc+gVNGpIUF0fBteDgx2LVwcVZVwdXQRD8AHEXnBRdpMT/JYUWMR4c9+PdvcfdO0BoVplq9swBqmYZ6URczOVXxcAr+hBGACGEJWbqycxiFp7j6x4+vt7FeJb3uT9HSCmYDPCJxHNMNyziDeKZTUvnvE8cYWVJIT4nnjDogsSPXJddfuNccljgmREjm54njhCLpS6Wu5iVDZV4mjiqqBrlCzmXFc5bnNVqnbXvyV8YLGgrGa7THEUCS0giBREy6qigCgsxWjVSTKRpP+7hH3H8KXLJ5KqAkWMBNaiQHD/4H/zu1ixOTbpJwTjQ+2LbH2NAYBdoNWz7+9i2WyeA/xm40jr+WhOY/SS90dGiR8DgNnBx3dHkPeByBxh+0iVDciQ/TaFYBN7P6JvywNAtMLDm9tbex+kDkKWulm+Ag0NgvETZ6x7v7u/u7d8z7f5+AFZbcps4QYDrAAANdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNC40LjAtRXhpdjIiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iCiAgICB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIgogICAgeG1sbnM6R0lNUD0iaHR0cDovL3d3dy5naW1wLm9yZy94bXAvIgogICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iCiAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgIHhtcE1NOkRvY3VtZW50SUQ9ImdpbXA6ZG9jaWQ6Z2ltcDoxNzc5MTRkMC0zYjk3LTQ3NDMtYmU2Ni03YzdkM2RiNDcwMmEiCiAgIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MzAwZTE5NWMtM2RjOS00NmY5LTg3NWQtZWY5YzIwYmM4ZTZmIgogICB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6ZGE5MDU0YjgtNDQ5My00NmJkLWI3Y2QtZTJkMTBjNjdkNDVhIgogICBHSU1QOkFQST0iMi4wIgogICBHSU1QOlBsYXRmb3JtPSJXaW5kb3dzIgogICBHSU1QOlRpbWVTdGFtcD0iMTc1MDE2NDYwMTA5MzU2MyIKICAgR0lNUDpWZXJzaW9uPSIyLjEwLjM0IgogICBkYzpGb3JtYXQ9ImltYWdlL3BuZyIKICAgdGlmZjpPcmllbnRhdGlvbj0iMSIKICAgeG1wOkNyZWF0b3JUb29sPSJHSU1QIDIuMTAiCiAgIHhtcDpNZXRhZGF0YURhdGU9IjIwMjU6MDY6MTdUMTQ6NDk6NTkrMDI6MDAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI1OjA2OjE3VDE0OjQ5OjU5KzAyOjAwIj4KICAgPHhtcE1NOkhpc3Rvcnk+CiAgICA8cmRmOlNlcT4KICAgICA8cmRmOmxpCiAgICAgIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiCiAgICAgIHN0RXZ0OmNoYW5nZWQ9Ii8iCiAgICAgIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6NWRkMjYyOGMtM2VmZi00OWMyLTlhMmYtN2FjMjdjZjhiMmYyIgogICAgICBzdEV2dDpzb2Z0d2FyZUFnZW50PSJHaW1wIDIuMTAgKFdpbmRvd3MpIgogICAgICBzdEV2dDp3aGVuPSIyMDI1LTA2LTE3VDE0OjUwOjAxIi8+CiAgICA8L3JkZjpTZXE+CiAgIDwveG1wTU06SGlzdG9yeT4KICA8L3JkZjpEZXNjcmlwdGlvbj4KIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAKPD94cGFja2V0IGVuZD0idyI/PusQovIAAAAGYktHRAAAAAAAAPlDu38AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAHdElNRQfpBhEMMgEJF7gzAAAXTUlEQVR42u3df0zTd+LH8RdQaoFKSzttBdZug80N3MEwqXfMke+x3RL+ODcTzffm4h9k34tbcstdvK/JliXn9sfi5cjMjN/kvua++3qJOd0iic7LHd72Hfc9znNfmpPhTjh0RQcKFJVSNpCKBb5/iIrYIkiLlD4fyRKFCu3n/f48+/nZpUgaFwBAqSwCACCIAEAQAYAgAgBBBACCCAAEEQAIIgAQRAAgiABAEAGAIAIAQQQAgggABBEACCIAEEQAIIgAQBABgCACAEEEAIIIAAQRAAgiABBEACCIAEAQAYAgAgBBBIDFw8AiSEjjk/6cwuIACGKyhW8qQggQxKSMHwEE5mH9I4gLM34EEJi/9XCcIBJAIJnXx8n/scvM7i+QvFuCinxiMoUgxi+ERA9YOBEcj7JRkjL5zykz3J0DgEWPC7MBgCACAEEEAIIIAAQR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",
+  "nodes": [
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-intro",
+      "version": "1",
+      "language": "en",
+      "start_node": true,
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-rl-explore-game",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-explore-game",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-rl-explore-game-oplossing",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-explore-game-oplossing",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-rl-pong",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-pong",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-rl-pong-hints",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-pong-hints",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-rl-principes",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-principes",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-rl-agent",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-agent",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-rl-omgeving",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-omgeving",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-acties",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-acties",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-beloning-policy-waarde",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-beloning-policy-waarde",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-exploratie-exploitatie",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-exploratie-exploitatie",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-rl-samenvatting",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-rl-samenvatting",
+      "version": "1",
+      "language": "en",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "org-dwengo-waisda-rl-introductie-onderwijsdoelen",
+            "version": "1",
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "org-dwengo-waisda-rl-introductie-onderwijsdoelen",
+      "version": "1",
+      "language": "en"
+    }
+  ]
+}
