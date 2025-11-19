@@ -37,4 +37,4 @@ Although object detection systems are already used in many places in society tod
 In the first notebook, several practical examples are given and you will learn a bit more about how an object detection system works.<br>
 In the second notebook, you will work with an existing object detection algorithm: YOLO.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=4010 "Computer Vision")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=4010_en "Computer Vision")
