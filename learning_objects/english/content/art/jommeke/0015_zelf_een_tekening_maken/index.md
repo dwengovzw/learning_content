@@ -29,4 +29,4 @@ version: 1
 
 We have already seen a number of examples where the coloring works well or not so well. You can now further test the capabilities of the system yourself. For this, we have created a Python notebook for you. In it, you can upload images to the AI system yourself and test what the limitations are.
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=10010 "Jommeke notebook")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=10010_en "Jommeke notebook")
