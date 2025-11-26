@@ -42,4 +42,4 @@ version: 3
 # Language Technology - String
 In this notebook, you will use the *string* type in language technology applications.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1011_en "Notebooks String")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1011_en "Notebooks String")

@@ -39,3 +39,6 @@ If you zoom in far enough, you can distinguish the individual pixels.
 ![](embed/banner_jommeke_22.png) 
 
 To adjust the colors of an image, you therefore need to adjust the color of the pixels.
+
+---
+Images © Standaard Uitgeverij 2022 

@@ -28,4 +28,10 @@ target_ages:
 title: Reflection on the problems of AI systems
 version: 1
 ---
-Reflection
+## Reflection
+
+Think about the possible disadvantages of AI systems. What problems could the above examples cause? List a number of them:
+
+<textarea id="reflectie_ai_systemen" name="reflectie_ai_systemen" rows="10" cols="70">
+
+</textarea>

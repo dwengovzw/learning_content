@@ -46,3 +46,9 @@ At Ghent University, Simon Schellaert developed an AI system that makes it possi
 ![Jommeke monkeys black and white](img/jommeke_flow/ingekleurd-apen-005.png "The version colorized by the AI system.")
 
 In the example above, it is clear that the algorithm is able to colorize the black-and-white panel. But how good is the AI system? Is it as good as a human who creates the color illustrations? Does the system exhibit human intelligence and, if so, how intelligent is it?
+
+#### Sources
+
+[1] Simon Schellaert. (2019). [Automatic Colorization of Comics through Deep Learning.](https://simonschellaert.com/img/projects/thesis/paper.pdf).
+
+Images © Standaard Uitgeverij 2022.
