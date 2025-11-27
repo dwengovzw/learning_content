@@ -45,7 +45,7 @@ But to be able to decide that, it's best to compare how both systems work to det
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_10/nl/3)
+![ct-schema](@learning-object/m_ct04_10/en/3)
 
 ![Mind map](embed/mindmap.png)
 

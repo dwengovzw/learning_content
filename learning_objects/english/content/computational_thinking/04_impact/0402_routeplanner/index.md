@@ -47,7 +47,7 @@ In the media you can find numerous reports attributing increasing traffic in res
 
 ## Principles of computational thinking
 
-![ct-scheme](@learning-object/m_ct04_02/nl/3)
+![ct-scheme](@learning-object/m_ct04_02/en/3)
 
 ## Visualization of a possible brainstorm in class
 

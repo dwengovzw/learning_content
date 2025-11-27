@@ -43,7 +43,7 @@ version: 3
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_09/nl/3)
+![ct-schema](@learning-object/m_ct04_09/en/3)
  
 ## Discussion of the impact
 

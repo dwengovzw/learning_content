@@ -42,7 +42,7 @@ Automating certain tasks can reduce farmers' workload. Through precision agricul
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_06/nl/3)
+![ct-schema](@learning-object/m_ct04_06/en/3)
 
 ## Discussion of the impact
 

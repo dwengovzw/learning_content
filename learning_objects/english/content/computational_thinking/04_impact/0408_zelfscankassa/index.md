@@ -44,7 +44,7 @@ More and more supermarkets are using self-checkouts.
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_08/nl/3)
+![ct-schema](@learning-object/m_ct04_08/en/3)
  
 ## Discussion of the impact
 

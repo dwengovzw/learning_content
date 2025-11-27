@@ -44,7 +44,7 @@ The application works on the basis of a decision tree, but how do you represent 
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_07/nl/3)
+![ct-schema](@learning-object/m_ct04_07/en/3)
  
 ## Discussion of the impact
 

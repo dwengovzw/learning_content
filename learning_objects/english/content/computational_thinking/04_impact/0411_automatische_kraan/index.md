@@ -38,9 +38,9 @@ An automatic faucet is a very simple digital system that students themselves als
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_11a/nl/3)
+![ct-schema](@learning-object/m_ct04_11a/en/3)
 
-![ct-schema](@learning-object/m_ct04_11b/nl/3)
+![ct-schema](@learning-object/m_ct04_11b/en/3)
 
 ![Mindmap](embed/mindmap.png)
 

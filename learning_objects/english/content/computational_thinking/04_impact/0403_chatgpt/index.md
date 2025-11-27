@@ -51,7 +51,7 @@ In this learning path you will delve deeper into one of the aspects of ChatGPT: 
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_03/nl/3)
+![ct-schema](@learning-object/m_ct04_03/en/3)
 
 ## Discussion of the impact
 

@@ -44,7 +44,7 @@ To give a clear answer to this, first look at some aspects of how such a *voice 
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_04/nl/3)
+![ct-schema](@learning-object/m_ct04_04/en/3)
 
 
 ## Discussion of the impact

@@ -46,7 +46,7 @@ Companies study social media posts to get an idea of someone's personality. They
 
 ## Principles of computational thinking
 
-![ct-schema](@learning-object/m_ct04_01/nl/3)
+![ct-schema](@learning-object/m_ct04_01/en/3)
 
 ## Framework: impact on society
 
