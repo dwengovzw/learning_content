@@ -41,4 +41,4 @@ version: 3
 
 **Prerequisites:** The students have learned how to plan a trip by bus.
 
-![ct-schema](@learning-object/m_ct03_70/nl/3)
+![ct-schema](@learning-object/m_ct03_70/en/3)

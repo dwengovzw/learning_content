@@ -41,4 +41,4 @@ version: 3
 
 **Prior knowledge:** The students can already work with a CAD program and a CNC machine.
 
-![ct-schema](@learning-object/m_ct03_30/nl/3)
+![ct-schema](@learning-object/m_ct03_30/en/3)

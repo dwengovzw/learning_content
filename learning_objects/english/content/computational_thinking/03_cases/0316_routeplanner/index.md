@@ -50,7 +50,7 @@ version: 3
 
 ### First possible approach
 
-![ct-schema](@learning-object/m_ct03_16a/nl/3)
+![ct-schema](@learning-object/m_ct03_16a/en/3)
 
 ### Second possible approach
 
@@ -60,4 +60,4 @@ These students can obtain the distance as the crow flies
 * find it by measuring (make a drawing themselves and measure, or measure on the figure from the route planner);
 *  **additional prior knowledge**: students know the concept of similar triangles and can relate it to the scale of a map.
 
-![ct-schema](@learning-object/m_ct03_16b/nl/3)
+![ct-schema](@learning-object/m_ct03_16b/en/3)

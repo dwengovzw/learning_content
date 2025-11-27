@@ -45,6 +45,6 @@ On the market, pregnancy tests are available in both non-digital and digital for
 - Students know concepts such as input and output.
 - They have already been introduced to selection structures (IF-THEN constructs).
 
-![ct-schema](@learning-object/m_ct03_60/nl/3)
+![ct-schema](@learning-object/m_ct03_60/en/3)
 
 **Class discussion:** This example also includes a form of reflection. Is digitizing a pregnancy test actually useful? What are the pros and cons?

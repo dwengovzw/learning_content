@@ -39,4 +39,4 @@ version: 3
 
 **Prerequisites:** The students ...
 
-![ct-schema](@learning-object/m_ct03_94/nl/3)
+![ct-schema](@learning-object/m_ct03_94/en/3)

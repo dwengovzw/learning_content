@@ -65,4 +65,4 @@ In class, you can discuss with the students how such a convolutional network is 
 
 The reflections and conclusions from the class discussion can be summarized in a diagram.
 
-![ct-schema](@learning-object/m_ct03_44/nl/3)
+![ct-schema](@learning-object/m_ct03_44/en/3)

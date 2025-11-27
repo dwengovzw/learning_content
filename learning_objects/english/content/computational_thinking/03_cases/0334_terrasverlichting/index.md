@@ -43,4 +43,4 @@ version: 3
 
 **Prerequisites:** The students know input and output elements of digital systems. They can work with truth tables.
 
-![ct-schema](@learning-object/m_ct03_34/nl/3)
+![ct-schema](@learning-object/m_ct03_34/en/3)

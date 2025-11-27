@@ -78,4 +78,4 @@ A possible **course** of the case study is as follows:<br><br>
     <li>Students discuss the impact of that system on the help-seeker.</li>
 </ul>
 
-![ct-schema](@learning-object/m_ct03_22/nl/3)
+![ct-schema](@learning-object/m_ct03_22/en/3)

@@ -71,6 +71,6 @@ A possible **sequence** for the case study is as follows:<br><br>
     <li>Whole-class debrief. Discuss the impact of such systems on society; they are used to extract information—whether correct or not—from data, such as social media posts.</li>
 </ul>
 
-![ct-schema](@learning-object/m_ct03_48/nl/3)
+![ct-schema](@learning-object/m_ct03_48/en/3)
 
 For more explanation, see the "Chatbot" project on [language technology](https://www.dwengo.org/chatbot/).

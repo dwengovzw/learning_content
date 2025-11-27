@@ -43,4 +43,4 @@ version: 3
 
 **Prior knowledge:** The students ...
 
-![ct-schema](@learning-object/m_ct03_92/nl/3)
+![ct-schema](@learning-object/m_ct03_92/en/3)

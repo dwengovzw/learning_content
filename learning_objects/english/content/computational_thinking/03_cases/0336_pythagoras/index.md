@@ -61,7 +61,7 @@ Once the students have the program, they can use it to solve complex problems th
 
 **Prior knowledge:** The students know the Pythagorean theorem in formula form. Using the Pythagorean theorem, they can manually calculate the hypotenuse of a right triangle.
 
-![ct-schema](@learning-object/m_ct03_36d/nl/3)
+![ct-schema](@learning-object/m_ct03_36d/en/3)
 
 In this video you see the programming part step by step.
 
@@ -71,7 +71,7 @@ In this video you see the programming part step by step.
 
 **Prior knowledge:** The students know how to ask the user for input, or they can learn it here.
 
-![ct-schema](@learning-object/m_ct03_36a/nl/3)
+![ct-schema](@learning-object/m_ct03_36a/en/3)
 
 <div class="alert alert-box alert-success">
     <strong>Learning objective in function of MD 04.05:</strong><br>
@@ -82,7 +82,7 @@ In this video you see the programming part step by step.
 
 **Prior knowledge:** The students may already have learned how to define a function in Python, or that can be introduced here.
 
-![ct-schema](@learning-object/m_ct03_36b/nl/3)
+![ct-schema](@learning-object/m_ct03_36b/en/3)
 
 ### Application: distance as the crow flies
 
@@ -92,7 +92,7 @@ In this video you see the programming part step by step.
 
 *The students themselves come up with the idea that they can use a route planner and the Pythagorean theorem.*
 
-![ct-schema](@learning-object/m_ct03_36c/nl/3)
+![ct-schema](@learning-object/m_ct03_36c/en/3)
 
 <div class="alert alert-box alert-success">
 <strong>Learning objective in function of MD 04.05:</strong><br> 

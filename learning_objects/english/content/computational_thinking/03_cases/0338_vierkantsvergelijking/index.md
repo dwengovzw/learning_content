@@ -58,6 +58,6 @@ With programming, you can go as far as you want. In this worked example, we cove
 * Students can solve a quadratic equation manually. They know the formulas for the discriminant and the roots.
 * Students know a selection structure (or it can be introduced here in class).
 
-![ct-schema](@learning-object/m_ct03_38/nl/3)
+![ct-schema](@learning-object/m_ct03_38/en/3)
 
 Depending on whether students have already been introduced to using functions in a program, the pattern recognition and abstraction can be addressed from the start or later. You can work step by step. You can first write a program without applying the aforementioned pattern recognition and abstraction. That program can then be the starting point for working with a user-defined function and explaining its advantages.

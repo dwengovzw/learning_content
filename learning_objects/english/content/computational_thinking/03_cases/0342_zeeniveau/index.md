@@ -71,7 +71,7 @@ A possible **progression** of the case study is as follows:<br><br>
     <li>Students have a trend line generated via linear regression.
 </ul>
 
-![ct-schema](@learning-object/m_ct03_42/nl/3)
+![ct-schema](@learning-object/m_ct03_42/en/3)
 
 
 ### Minimum objectives (Source: onderwijsdoelen.be)

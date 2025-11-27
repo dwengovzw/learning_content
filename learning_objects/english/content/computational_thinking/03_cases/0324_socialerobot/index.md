@@ -53,24 +53,24 @@ Finally, they create a physical robot based on their own design.
 
 ### Challenge: Design your dream robot and make a sketch of it. Show how this social robot communicates with people.
 
-![ct-diagram](@learning-object/m_ct03_24a/nl/3)
+![ct-diagram](@learning-object/m_ct03_24a/en/3)
 
 ### Step 2: The students adjust the design based on (self-)imposed criteria and the limitations of the sensors and actuators in the construction kit they have. (The criteria may be self-imposed and/or imposed by the teacher.)
 
-![ct-diagram](@learning-object/m_ct03_24b/nl/3)
+![ct-diagram](@learning-object/m_ct03_24b/en/3)
 
 ### Step 3: The students realize the robot based on the design first in the simulator and then as a physical robot.
 
-![ct-diagram](@learning-object/m_ct03_24c/nl/3)
+![ct-diagram](@learning-object/m_ct03_24c/en/3)
 
 ### Step 4: The students detect certain patterns and apply abstraction.
 
-![ct-diagram](@learning-object/m_ct03_24d/nl/3)
+![ct-diagram](@learning-object/m_ct03_24d/en/3)
 
 ### Specifically: The students implement desired actions in the simulator.
 
-![ct-diagram](@learning-object/m_ct03_24e/nl/3)
+![ct-diagram](@learning-object/m_ct03_24e/en/3)
 
 ### Specifically: The students mount the hardware on the body of the robot.
 
-![ct-diagram](@learning-object/m_ct03_24f/nl/3)
+![ct-diagram](@learning-object/m_ct03_24f/en/3)

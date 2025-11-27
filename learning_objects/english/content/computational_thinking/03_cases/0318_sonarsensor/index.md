@@ -53,4 +53,4 @@ A possible course of the case study is as follows:<br><br>
     <li>The students further complete the diagram with the basic concepts.</li>
 </ul>
 
-![ct-schema](@learning-object/m_ct03_18/nl/3)
+![ct-schema](@learning-object/m_ct03_18/en/3)

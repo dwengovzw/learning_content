@@ -58,4 +58,4 @@ The chatbot uses the **distance** between words or sentences.
 [The Levenshtein distance](https://dwengo.org/learning-path.html?hruid=anm4&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#org_dewengo_levenshtein_intro;nl;1)
 
 
-![ct-schema](@learning-object/m_ct03_90/nl/3)
+![ct-schema](@learning-object/m_ct03_90/en/3)

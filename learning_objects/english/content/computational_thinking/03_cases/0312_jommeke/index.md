@@ -45,4 +45,4 @@ This case study gives you more insight into what AI can mean in other fields (su
 
 **Prerequisites:** none
 
-![ct-schema](@learning-object/m_ct03_12/nl/3)
+![ct-schema](@learning-object/m_ct03_12/en/3)

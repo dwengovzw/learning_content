@@ -63,7 +63,7 @@ In class, you can discuss with the students how a computer looks at photos and h
 
 The considerations and conclusions from the class discussion can be summarized in a diagram.
 
-![ct-schema](@learning-object/m_ct03_14/nl/3)
+![ct-schema](@learning-object/m_ct03_14/en/3)
 
 It goes without saying that the solution to the problem is much more complex in reality. The shape of some pears strongly resembles that of an apple; other features, such as the texture of the skin, can then be decisive. Using a deep neural network can yield better results than programming based on rules. 
 

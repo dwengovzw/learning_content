@@ -51,13 +51,13 @@ You know the distances in km between certain municipalities along major roads an
 ![image](https://user-images.githubusercontent.com/48352335/213927739-9b9c0801-bdb0-4692-af36-eafa8f172864.png)
 ![image](https://user-images.githubusercontent.com/48352335/213927749-83781385-10f4-43f4-9d28-10bfc20d3700.png)
 
-![ct-schema](@learning-object/m_ct03_46a/nl/3)
+![ct-schema](@learning-object/m_ct03_46a/en/3)
 
 This example is an introduction to Dijkstra's algorithm and how it is applied in practice. 
 
 ### Matching fingerprints
 
-![ct-schema](@learning-object/m_ct03_46b/nl/3)
+![ct-schema](@learning-object/m_ct03_46b/en/3)
 
 
 

@@ -79,6 +79,6 @@ A possible progression of the case study is as follows:<br><br>
     <li>Students further complete the diagram with the basic concepts.</li>
 </ol>
  
-![ct-schema](@learning-object/m_ct03_40/nl/3)
+![ct-schema](@learning-object/m_ct03_40/en/3)
 
 For the elaboration of this project, see the project 'AI in de Zorg'.

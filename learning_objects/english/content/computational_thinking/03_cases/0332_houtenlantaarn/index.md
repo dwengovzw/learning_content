@@ -41,4 +41,4 @@ version: 3
 
 **Prerequisites:** The students can work with CAD and CNC. They can set up and operate a jointer and a thickness planer.
 
-![ct-schema](@learning-object/m_ct03_32/nl/3)
+![ct-schema](@learning-object/m_ct03_32/en/3)

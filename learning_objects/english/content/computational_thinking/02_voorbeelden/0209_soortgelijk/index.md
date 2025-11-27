@@ -56,12 +56,12 @@ The **first example** is situated in the **history class**. An interdisciplinary
 
 **Lesson objective:** getting to know life in the Middle Ages
 
-![ct-schema](@learning-object/m_ct02_09a/nl/3)
+![ct-schema](@learning-object/m_ct02_09a/en/3)
 
 The **second example** comes from a **science lesson**. Teachers designed a quiz to review and practice the material covered on the rock cycle. The students must program that quiz in Snap! The students also carry out a lab in which they investigate various properties of rocks and check their conclusions using the program.   
 
-![ct-schema](@learning-object/m_ct02_09b/nl/3)
+![ct-schema](@learning-object/m_ct02_09b/en/3)
 
 The **third example** is intended to practice for standardized tests in the context of the **subject of mathematics**. The teachers have programmed a test in Snap!, and the students take the test in teams using the program. Each question corresponds to a certain distance. With a correct answer the team moves forward by that distance; with an incorrect answer the team is penalized.   
 
-![ct-schema](@learning-object/m_ct02_09c/nl/3)
+![ct-schema](@learning-object/m_ct02_09c/en/3)

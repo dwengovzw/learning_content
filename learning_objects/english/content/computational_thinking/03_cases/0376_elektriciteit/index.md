@@ -41,4 +41,4 @@ version: 3
 
 **Prerequisites:** none
 
-![ct-schema](@learning-object/m_ct03_76/nl/3)
+![ct-schema](@learning-object/m_ct03_76/en/3)

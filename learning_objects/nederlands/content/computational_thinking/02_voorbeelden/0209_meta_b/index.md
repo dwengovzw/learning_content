@@ -31,24 +31,26 @@ teacher_exclusive: true
 ---
 
 <context>
-**Probleemstelling:**<br>
+**Probleemstelling**<br>
     - De leerlingen programmeren een quiz om de gesteentecyclus te herhalen en in te oefenen in Snap! 
     - De leerlingen voeren een practicum uit waarin ze verschillende eigenschappen van gesteenten onderzoeken en controleren hun conclusies a.d.h.v. het programma.  
 </context>
 <decomposition>
-Subtaken (**decompositie**):
+**Decompositie**
 - Leerlingen moeten "de samenstelling van mineralen nagaan a.d.h.v. de dichtheid, de hardheid en de sterkte" (wetenschappen). 
 - Leerlingen "herwerken delen van de reeds geschreven code voor een overzichtsspel in Snap! door regels code te vervangen door andere vragen" (coderen).
 </decomposition>
 <patternRecognition>
-- Leerlingen moeten "de samenstelling van gesteenten gedurende de hele gesteentekringloop herkennen" (wetenschappen). (**patroonherkenning**).
+**Patroonherkenning**<br>
+- Leerlingen moeten "de samenstelling van gesteenten gedurende de hele gesteentekringloop herkennen" (wetenschappen).
 - Leerlingen "herkennen **patronen** in het Snap!-programma en hoe ze lussen kunnen inbouwen" (programmeren).
 </patternRecognition>
 <abstraction>
 
 </abstraction>
 <algorithms>
-De leerlingen "voltooien sorteeractiviteiten in het programma" (coderen). (**algoritme**)
+**Algoritmisch denken**<br>
+De leerlingen "voltooien sorteeractiviteiten in het programma" (coderen).
 </algorithms>
 <implementation>
 **Programma** in Snap!

@@ -44,4 +44,4 @@ The students learn why troubleshooting is important in electrical installations 
 
 **Prerequisites:** The students know the basics of electricity required for the installation in question. They can recognize the functions and subsystems, the different circuits, and the wiring. 
 
-![ct diagram](@learning-object/m_ct03_74/nl/3)
+![ct diagram](@learning-object/m_ct03_74/en/3)

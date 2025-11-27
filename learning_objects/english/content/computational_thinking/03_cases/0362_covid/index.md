@@ -57,4 +57,4 @@ To answer these and other key questions, disease spread models are often used. T
 * graphs (optional)
 * derivatives
 
-![ct-schema](@learning-object/m_ct03_62/nl/3)
+![ct-schema](@learning-object/m_ct03_62/en/3)

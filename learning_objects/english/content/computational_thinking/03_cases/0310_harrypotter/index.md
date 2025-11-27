@@ -47,4 +47,4 @@ If, in Dutch class (or another language course), you want to extract information
 
 **Prerequisites:** none
 
-![CT schema](@learning-object/m_ct03_10/nl/3)
+![CT schema](@learning-object/m_ct03_10/en/3)

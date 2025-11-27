@@ -42,4 +42,4 @@ version: 3
 **Prior knowledge:** The students know the basic concepts of electricity (electric charge, current, voltage, resistance).
 
 
-![ct-schema](@learning-object/m_ct03_72/nl/3)
+![ct-schema](@learning-object/m_ct03_72/en/3)
