@@ -3,7 +3,7 @@ available: true
 content_location: example-location
 content_type: text/markdown
 copyright: dwengo
-description: Silvretta glacier
+description: Sprouts
 difficulty: 3
 educational_goals:
 - id: id
@@ -11,7 +11,7 @@ educational_goals:
 - id: id2
   source: Source2
 estimated_time: 10
-hruid: kiks_silvretta
+hruid: aiz_sprouts
 keywords:
 - ''
 language: en
@@ -24,19 +24,16 @@ return_value:
 skos_concepts:
 - http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen
 target_ages:
+- 14
+- 15
 - 16
 - 17
 - 18
-teacher_exclusive: true
-title: Silvretta glacier
+teacher_exclusive: false
+title: Sprouts
 version: 3
 ---
+# Sprouts
+Play this simple game as an introduction to the topic of 'graphs'. 
 
-# Silvretta Glacier
-Get to work with real data from the Swiss Silvretta Glacier and notice the impact of climate change.
-
-Look for a straight line or curve that best fits the data.
-
-Just like computer scientists, make use of training and test data.
-
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1935_en "Silvretta Glacier")
+![](@youtube/https://www.youtube.com/embed/zq5TpgqAn_A "Sprouts")

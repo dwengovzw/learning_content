@@ -31,7 +31,7 @@ teacher_exclusive: true
 title: Morteratsch Glacier
 version: 3
 ---
-```python
+
 # Morteratsch Glacier
 Start working with real data from the Swiss Morteratsch Glacier and notice the impact of climate change.
 
@@ -39,5 +39,4 @@ Look for a straight or curved line that best fits the data.
 
 Just like computer scientists, use training and test data.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1930_en "Morteratsch Glacier")
-```
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1930_en "Morteratsch Glacier")
