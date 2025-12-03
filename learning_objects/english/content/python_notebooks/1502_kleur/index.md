@@ -46,4 +46,4 @@ version: 3
 
 In this notebook, you will become familiar with the mathematics behind digital images in color. Instead of matrices, tensors are now used.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1502_en "Color Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1502_en "Color Notebooks")

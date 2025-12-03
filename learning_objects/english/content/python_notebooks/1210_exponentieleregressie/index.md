@@ -34,7 +34,7 @@ version: 3
 # Epidemic
 Here you visualize data collected when COVID-19 was on a steep rise. You will look for a curve that reflects the trend in this data.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1210_en "Notebooks epidemic")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1210_en "Notebooks epidemic")
 <figure>
     <figcaption align = "center">Don't forget to log out before you go to the next notebook!</figcaption>
 </figure>
