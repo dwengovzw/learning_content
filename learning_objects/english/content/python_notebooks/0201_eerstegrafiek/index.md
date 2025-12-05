@@ -41,6 +41,6 @@ version: 3
 
 You will learn how to create a drawing window and visualize some data points.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0201_en "Notebooks First Graph")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0201_en "Notebooks First Graph")
 
 ![](@youtube/https://www.youtube.com/watch?v=Dkq42rYIGv4 "Video drawing window")

@@ -30,10 +30,11 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 <context>
+**Probleemstelling**<br>
 Maak drie kleerhangers voor volwassenen, twee voor kinderen en vier voor baby’s.
 </context>
 <decomposition>
-Dit probleem kunnen we opsplitsen in deelproblemen (**decompositie**):
+**Decompositie**<br>
 <ul>
     <li>Welke materialen?</li>
     <li>Welke software? <span style="color: yellowgreen">→ geparametriseerd CAD-ontwerp</span></li>
@@ -45,17 +46,22 @@ Dit probleem kunnen we opsplitsen in deelproblemen (**decompositie**):
 </ul>
 </decomposition>
 <patternRecognition>
-De vorm van een kleerhanger is onafhankelijk van de maat. (**patroonherkenning**)
+ **Patroonherkenning**<br>
+De vorm van een kleerhanger is onafhankelijk van de maat.
 </patternRecognition>
 <abstraction>
-De geparametriseerde CAD-tekening is een **abstractie** van de drie maten kleerhangers.<br>
-Eigenlijk wordt een kleerhanger voorgesteld d.m.v. de waarden van de gekozen parameters. (**abstractie**)  
+**Abstractie**<br>
+<ul>
+    <li>De geparametriseerde CAD-tekening is een abstractie van de drie maten kleerhangers.
+    <li>Eigenlijk wordt een kleerhanger voorgesteld d.m.v. de waarden van de gekozen parameters.</li>
+</ul>
 </abstraction>
 <algorithms>
-**algoritme** <br>
+**Algoritmisch denken**<br>
 Om van de ene maat naar een andere maat over te gaan, dien je bepaalde parameters in de software aan te passen. De computer zorgt voor het nodige rekenwerk en het ontwerp wordt automatisch aangepast.
 </algorithms>
 <implementation>
+**Programma**<br>
 Geen implementatie. Dit is (voorlopig) een unplugged voorbeeld.
 </implementation>
 

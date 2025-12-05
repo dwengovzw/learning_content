@@ -31,19 +31,24 @@ teacher_exclusive: true
 ---
 
 <context>
-**Probleemstelling:**<br>De leerlingen leggen in teams een test af a.d.h.v. een Snap!-programma. Bij elke vraag hoort een bepaalde afstand. Bij een goed antwoord gaat het team die afstand vooruit, bij een foutief antwoord wordt het team afgestraft. 
+**Probleemstelling**<br>
+De leerlingen leggen in teams een test af a.d.h.v. een Snap!-programma. Bij elke vraag hoort een bepaalde afstand. Bij een goed antwoord gaat het team die afstand vooruit, bij een foutief antwoord wordt het team afgestraft. 
 </context>
 <decomposition>
-Bepaalde subtaken in de test zijn eruit gehaald om te definiëren a.d.h.v. zelfgedefinieerde functies in het programma. (**decompositie**)
+**Decompositie**<br>
+Bepaalde subtaken in de test zijn eruit gehaald om te definiëren a.d.h.v. zelfgedefinieerde functies in het programma.
 </decomposition>
 <patternRecognition>
-De leerlingen moeten al spelend de herhalende **patronen** in het spel opmerken en vertrouwd raken met de spelmechanismen, bv. wat er gebeurt bij een goed antwoord. 
+**Patroonherkenning**<br>
+De leerlingen moeten al spelend de herhalende patronen in het spel opmerken en vertrouwd raken met de spelmechanismen, bv. wat er gebeurt bij een goed antwoord. 
 </patternRecognition>
 <abstraction>
-Leerkrachten laten een blok zien dat overeenkomt met een zelfgedefinieerde functie en leggen uit hoe het zo vervatten van een algoritme wordt beschouwd als een **abstractie**.
+**Abstractie**<br>
+Leerkrachten laten een blok zien dat overeenkomt met een zelfgedefinieerde functie en leggen uit hoe het zo vervatten van een algoritme wordt beschouwd als een abstractie.
 </abstraction>
 <algorithms>
-Leerlingen **gebruiken algoritmen** in de loop van het spel.  
+**Algoritmisch denken**<br>
+Leerlingen gebruiken algoritmen in de loop van het spel.  
 </algorithms>
 <implementation>
 De leerlingen moeten niet zelf programmeren. De leerkrachten schreven het Snap!-programma.

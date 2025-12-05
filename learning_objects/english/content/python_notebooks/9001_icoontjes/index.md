@@ -30,8 +30,8 @@ target_ages:
 - 16
 - 17
 - 18
-title: Iconss
+title: Icons
 version: 3
 ---
 # Icons
-![](embed/Icons.png)
+![](embed/Icoontjes.png)

@@ -37,5 +37,5 @@ version: 3
 # Importance of Visualization
 This illustrates why visualizing data is important. Images convey more than numbers.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0204_en "Notebooks Visualization")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0204_en "Notebooks Visualization")
 

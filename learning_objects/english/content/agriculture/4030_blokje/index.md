@@ -34,4 +34,4 @@ version: 3
 # With the webcam: capabilities and limitations of an object detection system
 This second notebook helps you understand the capabilities and the possible limitations of an object detection system. <br>
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=4021 "Webcam")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=4021_en "Webcam")

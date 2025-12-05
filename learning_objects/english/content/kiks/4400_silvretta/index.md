@@ -31,6 +31,7 @@ teacher_exclusive: true
 title: Silvretta glacier
 version: 3
 ---
+
 # Silvretta Glacier
 Get to work with real data from the Swiss Silvretta Glacier and notice the impact of climate change.
 
@@ -38,4 +39,4 @@ Look for a straight line or curve that best fits the data.
 
 Just like computer scientists, make use of training and test data.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1935_en "Silvretta Glacier")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1935_en "Silvretta Glacier")

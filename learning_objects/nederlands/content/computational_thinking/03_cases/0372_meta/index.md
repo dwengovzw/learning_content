@@ -2,8 +2,8 @@
 hruid: m_ct03_72
 version: 3
 language: nl
-title: "SIR"
-description: "SIR"
+title: "Meta Wet van Ohm"
+description: "Meta Wet van Ohm"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,42 +31,43 @@ teacher_exclusive: true
 ---
 
 <context>
-![Maatregelen COVID-19](covid19maatregelen.png)<br>
-*Buitenplan 5 maart 2021*.<br>Afbeelding © NCCN, Brussel, België.
-<div style="position:absolute;right:0px;width:40%;height:100px;margin-top:-100px;margin-right:20px">
-Kunnen we het effect van de COVID-19-maatregelen inschatten voordat we ze invoeren?
+**Probleemstelling**<br>
+De fundamentele relatie tussen stroom, spanning en weerstand wordt beschreven door de Wet van Ohm <em>U = I . R</em>.
 </div>
 </context>
 <decomposition>
-We identificeren 3 deelproblemen (**decompositie**):
-<ol>
-    <li>Model voor verspreiding</li>
-    <li>Menselijke interacties voorstellen </li>
-    <li>Simuleren van de verspreiding a.d.h.v. het model</li>
-</ol>
+**Decompositie**<br>
+<ul>
+    <li>De concepten elektrische stroom, spanning en weerstand worden elk afzonderlijk uitgelegd voordat hun relatie volgens de Wet van Ohm wordt besproken.</li>
+    <li>De relatie tussen elektrische stroom, spanning en weerstand wordt onderzocht, bv. door het meten van spanning en stroom en het uitzetten van deze gegevens in een grafiek.</li>
+    <li>Bij het oplossen van oefenproblemen bij de Wet van Ohm, wordt het probleem opgebroken in specifieke stappen om elk van deze grootheden te berekenen. Bv. bij een vraagstuk moeten eerst de relevante gegevens in de opgave herkend worden. </li>
+</ul>
 </decomposition>
 <patternRecognition>
-De verspreiding van de pest, cholera, COVID-19 ... gedraagt zich gelijkaardig. We onderscheiden daarbij: vatbare individuen, geïnfecteerden en resistente individuen. (**patroonherkenning**)<br><br>
-Interacties tussen mensen kunnen we op dezelfde manier voorstellen als verbindingen tussen steden (wegen), nl. met een graaf. (**patroonherkenning**)
+**Patroonherkenning**<br>
+<ul>
+    <li>Bij het meten van spanning en stroom, en het uitzetten van deze gegevens in een grafiek, gaan de leerlingen na hoe deze elektrische grootheden zich tot elkaar verhouden en identificeren ze relevante <strong>patronen en trends</strong> in de gegevens.</li>
+    <li>De Wet van Ohm geeft het verband tussen elektrische stroom, spanning en weerstand. Het herkennen van de <strong>patronen van verandering</strong> in deze grootheden wanneer je hun waarden aanpast, helpt je om de fundamentele relatie tussen hen te begrijpen.</li>
+    <li>De Wet van Ohm wordt binnen verschillende situaties toegepast. Leerlingen herkennen dat de Wet van Ohm toepasbaar is op diverse elektrische circuits en problemen. Bij het oplossen van oefenproblemen moet herkend worden of het al dan niet een toepassing van de Wet van Ohm betreft. Later zullen leerlingen nog in contact komen met andere scenario's, waarbij ze verbanden zullen leggen met elektrische concepten, zoals geleiding, vermogen, en het schakelen van weerstanden.</li>
+</ul>
 </patternRecognition>
 <abstraction>
-We stellen de interacties tussen de mensen **abstract** voor door een graaf.
-    ![Sociaal netwerk](sociaalnetwerk.png)
-De evoluties in de aantallen vatbare individuen, geïnfecteerden en resistente individuen worden **abstract** voorgesteld door differentiaalvergelijkingen.  
-![Stelsel differentiaalvergeljkingen epidemie](differentiaalvergelijkingenepidemie.png)
+**Abstractie**<br>
+<ul>
+    <li>De concepten elektrische lading, stroom, spanning en weerstand zijn <strong>abstracte representaties van echte fysieke fenomenen</strong> die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.</li>
+    <li>Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn <strong>abstracte</strong> voorstellingen die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.</li>
+    <li>Bij het aanpakken van een vraagstuk is abstract denken betrokken bij het analyseren van het probleem en het identificeren van de kernconcepten en relaties. Dit houdt in dat je de essentiële details van het probleem abstraheert om tot de kern van het vraagstuk te komen.</li>
+    <li>De wiskundige formule van de Wet van Ohm '<em>U = I . R</em>' is een abstracte voorstelling van de fundamentele relatie tussen stroom, spanning en weerstand.</li>
+</ul>
 </abstraction>
 <algorithms>
-Stappenplan (**algoritme**):
-<ol>
-    <li>Definieer het SIR-model door een stelsel van differentiaalvergelijkingen (zoals links)</li>
-    <li>Kies samenstelling van de beginpopulatie</li>
-    <li>Kies het infectiepercentage</li>
-    <li>Kies het herstelpercentage</li>
-    <li>Kies een tijdsinterval</li>
-    <li>Los het stelsel numeriek op</li>
-</ol>
+**Algoritmisch denken**<br>
+<ul>
+    <li>Het toepassen van de Wet van Ohm-formule (<em>U = I . R</em>) om de stroom, spanning en weerstand te berekenen, vereist een algoritmische aanpak. Leerlingen moeten de juiste stappen volgen en de formule op de juiste manier gebruiken om de gewenste resultaten te bereiken: gegevens identificeren, de formule toepassen, de berekeningen uitvoeren en de resultaten interpreteren.</li>
+    <li>Wanneer leerlingen een laboproef uitvoeren, zullen ze algoritmisch denken gebruiken om stap voor stap de benodigde componenten en verbindingen te identificeren, metingen uit te voeren, enz.</li>
+</ul>
 </algorithms>
 <implementation>
-Voor het programma: zie de notebooks in leerpad 'Epidemie'.
+ 
 </implementation>
 

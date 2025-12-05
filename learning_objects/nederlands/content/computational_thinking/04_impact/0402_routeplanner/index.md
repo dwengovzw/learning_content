@@ -49,12 +49,12 @@ In de media vind je tal van berichten die toenemend verkeer in woonwijken wijten
 
 ## Visualisatie mogelijke brainstorm in de klas
 
-![diagramRouteplanner](embed/diagramrouteplanner)
+![diagramRouteplanner](embed/diagramrouteplanner.png)
 
 ## Kader impact op de maatschappij
 (naar model van Michael T. Rücker. 2023. Modeling Conceptual Knowledge of Computing Impacts for K-12.)
 
-![KaderRouteplanner](embed/kaderrouteplanner)
+![KaderRouteplanner](embed/kaderrouteplanner.png)
 
 ## Bespreking van de impact
 
@@ -99,6 +99,8 @@ In de **zorgsector** zag men bv. de mogelijkheid tot het inzetten van medische *
 
 Bij de **brandweer** van Genk zet men drones in om een betere inschatting te kunnen van een incident.
 > [Genks proefproject met safety drones krijgt navolging in het hele land](https://www.vrt.be/vrtnws/nl/2023/03/14/genks-proefproject-met-safety-drones-krijgt-navolging-in-het-hel/)<br>
+
+Je kan ook een ander voorbeeld in verband met verkeer behandelen, zoals MobiliData, het systeem van **intelligente verkeerslichten** die op groen springen als de hulpdiensten eraan komen. Ook dat systeem maakt gebruik van data over het wegennet. En net zoals de routeplanner heeft het de positie van de gebruiker nodig. Verrassend is dat niet alleen hulpdiensten kunnen connecteren met deze intelligente lichten. Iedereen kan de verkeersapp gebruiken om met het systeem te connecteren. Zo zou het ook fietsers prioriteit kunnen geven bij slecht weer.
 
 -----------------------------
 ### Werking 

@@ -41,7 +41,6 @@ Als je mensen met het locked-in syndroom zou willen helpen, word je dan best art
 
 Dit voorbeeld (met dank aan Paul Curzon) maakt duidelijk dat computationeel denken om mensen gaat, en dat men bij het ontwerpen van de oplossing van een probleem best de persoon betrekt voor wie het bedoeld is. Het illustreert ook dat een bestaande oplossing door computationeel te denken misschien efficiënter kan gemaakt worden. 
 
-![](@pdf/embed/lockedin.pdf)
+Een volledige uitwerking van een gerelateerde case volgens de principes van het computationeel denken vind je [hier](https://www.dwengo.org/backend/api/learningObject/getWrapped?hruid=ct03_12&version=3&language=nl).
 
-De voornaamste basisconcepten van computationeel denken die hier voorkomen zijn samengevat in dit schema:
-![Beslissingsboom](embed/lockedinschema.png "Basisconcepten computationeel denken")
+![](@pdf/embed/lockedin.pdf)

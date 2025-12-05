@@ -2,8 +2,8 @@
 hruid: m_ct03_10
 version: 3
 language: nl
-title: "Bus en trein"
-description: "Bus en trein"
+title: "Meta"
+description: "Meta"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,41 +31,47 @@ teacher_exclusive: true
 ---
 
 <context>
-Volgende week staat er een uitstap naar Brussel op het programma met de trein.<br>
-Zoek uit wanneer en waar je moet vertrekken om tijdig in Brussel aan te komen.
-
+**Probleemstelling**<br>
+Visualiseer en interpreteer de conversaties in Harry Potter en de steen der wijzen.
+</div>
 </context>
 <decomposition>
-Het probleem bestaat uit deelproblemen (<strong>decompositie</strong>):<br> 
+**Decompositie**<br>
 <ul>
-    <li>Wat is het dichtstbijzijnde station?
-        <ul>
-            <li>Zijn daar rechtstreekse treinen naar Brussel of zullen we moeten overstappen?</li>
-            <li>Hoe geraken we in dat station? Te voet, met de fiets, met de bus?</li>
-        </ul>
-    </li>
-    <li>Waar moeten we zijn in Brussel? In welk station moeten we uitstappen?</li>
-    <li>Op welk uur rijdt er een trein naar daar? 
-        <ul>
-            <li>Waar kunnen we de uren van de trein raadplegen? Bv. via de app van de NMBS.</li>
-            <li>Om hoe laat moeten we dan naar het station vertrekken?</li>
-        </ul>
-    </li>
-    <li>Op welk perron moeten we opstappen?</li>
-    <li>...</li>
-</ul>
+    <li>Welke conversaties noteer je en welke negeer je?
+    <li>Kies met welke factoren je wel of geen rekening houdt: aantal conversaties, lengte van een conversatie...
+    <li>Hoe geef je de personages weer?
+    <li>Hoe geef je de conversaties weer?</li>
+</ul> 
 </decomposition>
 <patternRecognition>
-Een reis met de bus of met de trein plannen gebeurt op een gelijksoortige manier. (<strong>patroonherkenning</strong>) <br>Voor beide kan eventueel een app gebruikt worden. Zowel de perrons als de bushaltes worden op een abstracte manier omschreven, door een naam of een perronnummer.  
+**Patroonherkenning**<br>
+<ul>
+    <li>Dergelijke relaties worden vaak weergegeven door een graaf.
+    <li>Je ziet door de dikte van de bogen welke personages het vaakst converseren.
+    <li>De hoofdpersonages springen zowel in de graaf van hoofdstuk 11 als in de graaf van het volledige boek in het oog.</li>
+</ul>
 </patternRecognition>
 <abstraction>
-Het perron wordt <strong>geabstraheerd</strong> tot een getal, het perronnummer of anders gezegd het spoor.
-De reis wordt geabstraheerd tot de te volgen route: een opeenvolging van plaatsen (huis, school, stations …) 
+**Abstractie**<br>
+<ul>
+    <li>Je focust op de conversaties. De rest van de tekst negeer je.
+    <li>Je beperkt je tot conversaties die duidelijk plaatsvinden tussen twee of meer personages. Mompelen, fluisteren, een kreet slaken... negeer je.
+    <li>Je houdt geen rekening met de lengte van een conversatie.
+    <li>Personages worden weergegeven door een knoop, conversaties door een boog en het aantal conversaties wordt weergegeven door de dikte van de boog.</li>
+</ul>
 </abstraction>
 <algorithms>
-De te volgen route is herleid tot een stappenplan: een lijst van de opeenvolgende uren en overeenkomstige plaatsen. (<strong>algoritme</strong>)
+**Algoritmisch denken**<br>
+<ul>
+    <li>Noteer alle personages en alle conversaties tussen twee of meer personages.
+    <li>Geef de personages weer door een knoop.
+    <li>Geef de conversaties weer door een boog.
+    <li>Voor elke bijkomende conversatie tussen dezelfde personages, maak je de boog dikker.</li>
+</ul>
 </algorithms>
 <implementation>
-Bij dit voorbeeld moet er niet geprogrammeerd worden. 
+**Programma**<br>
+In deze opdracht wordt niet geprogrammeerd.
 </implementation>
 

@@ -2,8 +2,8 @@
 hruid: m_ct03_90
 version: 3
 language: nl
-title: "Appels en peren"
-description: "Appels en peren"
+title: "Meta"
+description: "Meta"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,33 +31,35 @@ teacher_exclusive: true
 ---
 
 <context>
-![Face](ct_face.png)
-<div style="position:absolute;right:0px;width:60%;height:100px;margin-top:-100px;margin-right:20px">
-Probleem: Stel een algoritme op om een computer a.d.h.v. regels appels en peren van elkaar te laten onderscheiden. 
+**Probleemstelling**<br>
+De *Levenshteinafstand* is een metriek om de afstand tussen twee woorden of zinnen te bepalen. Om de afstand tussen twee woorden te bepalen, tel je het aantal letters dat je moet toevoegen, verwijderen of vervangen om het ene woord om te vormen in het andere. Indien we dit probleem willen oplossen met behulp van een computer doen we aan **computationeel denken**. We kunnen de computer dan een matrix laten opbouwen waarbij we deze stapsgewijs opvullen met de afstand van (een deel van) woord A, naar (een deel van) woord B.
+Een gedetailleerde beschrijving vind je in het<a href="/learning-path.html?hruid=anm4&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#org_dewengo_levenshtein_algorithm;nl;1"><strong> leerpad algoritmen - De Levenshteinafstand</strong></a> terug.  
 </div>
 </context>
 <decomposition>
-Dit probleem kunnen we bijvoorbeeld opsplitsen in twee deelproblemen (**decompositie**):
+**Decompositie**<br>
+Om de Levenshteinafstand te berekenen met een computer doen we het volgende:
 <ol>
-    <li>Op welke manier kan een stuk fruit aan de computer gegeven worden (*representatie*)?</li>
-    <li>De computer moet voor een stuk fruit beslissen of het een appel of een peer is (*classificatie*).</li>
+    <li>Opbouwen van een matrix</li>
+    <li>Het berekenen van de minimale hoeveelheid bewerkingen die nodig zijn om van het ene (deel van een) woord naar het andere te gaan.</li>
+    <li>Het bepalen van de gepaste bewerkingen zodat we niet te veel aanpassingen moeten doen.</li>
+    <li>Het bepalen van de uiteindelijke afstand tussen twee woorden.</li>
 </ol>
 </decomposition>
 <patternRecognition>
-Iets aanbieden aan de computer gebeurt steeds digitaal, d.w.z. door getallen te gebruiken. Zowel beeld, geluid als tekst worden omgezet naar een digitale vorm. (**patroonherkenning**)<br>
-Objecten classificeren komt voor in tal van contexten. In deze verschillende contexten worden vaak gelijksoortige oplossingen toegepast, zoals diepe neurale netwerken (een artificieel intelligente techniek voor dit doeleinde). Beseffen dat een gekende oplossing ook toepasbaar is in een nieuwe context, is **patroonherkenning**.
+**Patroonherkenning**<br>
+De Levenshtein-afstand wordt gebruikt door chatbots om een gestelde vraag die niet in het 'woordenboek' staat te koppelen aan een vraag die er wel in staat en hier het meest op lijkt. Het zoeken naar de afstand tussen twee woorden wordt ook in de genetica gebruikt. In dit vakgebied is het vaak nodig om gelijkenissen te zoeken in DNA-sequenties. Deze worden gewoonlijk voorgesteld als een opeenvolging van de letters C, G, A en T (dit zijn de vier verschillende nucleobasen voor in een DNA-sequentie). Door de afstand te berekenen tussen deze "woorden" bestaande uit deze 4 letters, kunnen we dus ook de gelijkenissen tussen DNA-sequenties vinden.
 </patternRecognition>
 <abstraction>
-![Een afbeelding bestaat uit pixels. Deze pixels komen overeen met een kleurenwaarde voor de rood, groen en blauwcomponenten. Deze waarden zijn gewoon getallen.](tensorappel.png)
-Hoe bieden we appels en peren aan aan de computer? Digitale foto's zijn eigenlijk rasters van getallen. Een kleurenfoto wordt bv. voorgesteld door RGB-codering: de voorstelling bestaat uit 3 tabellen van getallen, één voor de rood-, één voor de groen- en één voor de blauwtinten; elk drietal (R,G,B) komt overeen met één pixel. (**abstractie**)<br>
-A.d.h.v de waarden van de getallen kan de computer bv. de rand van het stuk fruit detecteren. 
+**Abstractie**<br>
+Bij het berekenen van de Levenshtein-afstand zijn we enkel geïnteresseerd in het aantal en de soort operaties die nodig zijn om van woord A naar woord B te gaan. De specifieke karakters en woorden, alsook hun betekenis, zijn hierbij details die we achterwege kunnen laten.
 </abstraction>
 <algorithms>
-Werk je met driedimensionale voorstellingen van de stukken fruit, bv. met 3D-scans, dan kunnen afmetingen van het stuk fruit bepaald worden: de omtrek A op 2 cm van de onderkant en de omtrek B op 2 cm van de bovenkant. 
-![Omtrekken boven en onder meten.](appelpeer.png)
-Op basis van deze twee getallen kan je een **algoritme** opstellen waarmee een computer appels en peren kan onderscheiden.
-![Grafiek die classificatie illustreert door op de x-as de hoogte van het stuk fruit te plotten en op de y-as de omtrek. Zo kan je een lijn tekenen die de appels en peren van elkaar scheidt.](regelappelpeer.png)
+**Algoritmisch denken**<br>
+Om de Levenshtein-afstand op een correcte manier te berekenen, moeten we een stappenplan opstellen. Zo'n stappenplan of algoritme kan worden uitgevoerd door een computer.
 </algorithms>
 <implementation>
-Geen implementatie. In dit voorbeeld wordt er niet geprogrammeerd.
+**Programma**<br>
+Een implementatie van dit algoritme is terug te vinden in het <a href="/learning-path.html?hruid=anm4&language=nl&te=true&source_page=%2Falgorithms%2F&source_title=%20Algoritmes#org_dewengo_levenshtein_algorithm_dynamic;nl;1"><strong> leerpad algoritmen - De Levenshteinafstand</strong></a>
 </implementation>
+

@@ -2,7 +2,7 @@
 hruid: ct03_30
 version: 3
 language: nl
-title: "Kleerhanger"
+title: "Kleerhanger (2)"
 description: "Kleerhanger"
 keywords: [""]
 educational_goals: [

@@ -31,11 +31,12 @@ teacher_exclusive: true
 ---
 
 <context>
+**Probleemstelling**<br>
 De teksten die ChatGPT (3.5) genereert, zijn niet altijd correct. 
 </div>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
+**Decompositie**<br>
 - Werking ChatGPT 3.5
     - Prompt 'begrijpen'.
     - Als een bepaalde tekst aan ChatGPT wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt.
@@ -54,14 +55,17 @@ Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<
 - Ontwikkelaars gebruiken input van gebruikers om het systeem te verbeteren.
 </decomposition>
 <patternRecognition>
-- Een groot taalmodel werkt op basis van *Natural Language Processing* (NLP); het zal natuurlijke taal begrijpen en genereren a.d.h.v. **patronen**.
-- Toepassingen, zoals automatische vertaling en zoekachines, zijn net als ChatGPT gebaseerd op grote taalmodellen. (**patroonherkenning**)
+**Patroonherkenning**<br>
+- Een groot taalmodel werkt op basis van *Natural Language Processing* (NLP); het zal natuurlijke taal begrijpen en genereren a.d.h.v. patronen.
+- Toepassingen, zoals automatische vertaling en zoekachines, zijn net als ChatGPT gebaseerd op grote taalmodellen.
 </patternRecognition>
 <abstraction>
-Woorden, zinsdelen, zinnen, paragrafen zijn gerepresenteerd als *vectoren* die rekening houden met 'veel samen voorkomen', de betekenis, ...,  maar worden zo ook uit hun context gerukt. Als een bepaalde tekst aan ChatGPT 3.5 wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt. *Hij houdt daarmee dus geen rekening met het waarheidsgehalte*. (**abstractie**)<br>
+**Abstractie**<br>
+Woorden, zinsdelen, zinnen, paragrafen zijn gerepresenteerd als *vectoren* die rekening houden met 'veel samen voorkomen', de betekenis, ...,  maar worden zo ook uit hun context gerukt. Als een bepaalde tekst aan ChatGPT 3.5 wordt aangeboden, m.a.w. een prompt, dan zal hij *berekenen* welke tekst er het meest waarschijnlijk op volgt. *Hij houdt daarmee dus geen rekening met het waarheidsgehalte*.
 </abstraction>
 <algorithms>
-- ChatGPT 3.5 is ontstaan uit een groot taalmodel GPT-3.5 (Generative Pre-trained Transformer), een model dat geleerd heeft uit voorbeelden (*gesuperviseerd leren*). Voor de training van GPT 3.5 werden machine learning **algoritmes** gebruikt, waaronder NLP. 
+**Algoritmisch denken**<br>
+- ChatGPT 3.5 is ontstaan uit een groot taalmodel GPT-3.5 (Generative Pre-trained Transformer), een model dat geleerd heeft uit voorbeelden (*gesuperviseerd leren*). Voor de training van GPT 3.5 werden machine learning algoritmes gebruikt, waaronder NLP. 
 - Men heeft mensen door ChatGPT 3.5 gegenereerde teksten laten ordenen van minder goed naar best. Op basis daarvan werd er *ongesuperviseerd* een scoresysteem ontwikkeld. 
 - A.d.h.v. dat scoresysteem werd ChatGPT 3.5 via *versterkend leren* getraind op het 'menselijker' antwoorden op prompts.
 - Bijkomende training om racisme, seksisme en haatspraak te vermijden.<br>

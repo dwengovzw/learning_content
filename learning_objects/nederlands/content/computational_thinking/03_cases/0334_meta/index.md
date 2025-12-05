@@ -2,8 +2,8 @@
 hruid: m_ct03_34
 version: 3
 language: nl
-title: "Meta Wet van Ohm"
-description: "Meta Wet van Ohm"
+title: "Terraslamp"
+description: "Automatische terrasverlichting"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -31,42 +31,65 @@ teacher_exclusive: true
 ---
 
 <context>
-De fundamentele relatie tussen stroom, spanning en weerstand wordt beschreven door de Wet van Ohm <em>U = I . R</em>.
-</div>
+**Probleemstelling**<br>
+Zorg ervoor dat de terrasverlichting aan een villa, als het buiten donker is, automatisch wordt geactiveerd bij beweging, en dat je deze buitenverlichting ook kan inschakelen via een schakelaar in de keuken. <br>
 </context>
 <decomposition>
-Verkennen van het probleem. Wat heb je nodig? <br> Subtaken (**decompositie**):<br>
+**Decompositie**<br>
 <ul>
-    <li>De concepten elektrische stroom, spanning en weerstand worden elk afzonderlijk uitgelegd voordat hun relatie volgens de Wet van Ohm wordt besproken.</li>
-    <li>De relatie tussen elektrische stroom, spanning en weerstand wordt onderzocht, bv. door het meten van spanning en stroom en het uitzetten van deze gegevens in een grafiek.</li>
-    <li>Bij het oplossen van oefenproblemen bij de Wet van Ohm, wordt het probleem opgebroken in specifieke stappen om elk van deze grootheden te berekenen. Bv. bij een vraagstuk moeten eerst de relevante gegevens in de opgave herkend worden. </li>
+    <li>Verkennen van het probleem. Wat heb je nodig?
+    <li>Subtaken:
+        <ul>
+            <li>Welke invoerelementen?</li>
+                <ul> <li>Bewegingsdetector B (beweging: B  = 1)</li>
+                    <li>Lichtsensor S (donker: S = 0)</li>
+                    <li>Schakelaar K (ingedrukt: K = 1)</li>
+                </ul>
+            <li>Welke uitvoerelementen?</li>
+                <ul>
+                    <li>Lamp L (brandt: L = 1)</li>
+                </ul>
+        </ul>
+    </li>
+    <li>Het gevraagde weergeven via een waarheidstabel. </li>
+    <li>Een algoritme opstellen dat de verlichting aanstuurt.</li>
 </ul>
 </decomposition>
 <patternRecognition>
-(**patroonherkenning**)<br>
+**Patroonherkenning**<br>
 <ul>
-    <li>Bij het meten van spanning en stroom, en het uitzetten van deze gegevens in een grafiek, gaan de leerlingen na hoe deze elektrische grootheden zich tot elkaar verhouden en identificeren ze relevante <strong>patronen en trends</strong> in de gegevens.</li>
-    <li>De Wet van Ohm geeft het verband tussen elektrische stroom, spanning en weerstand. Het herkennen van de <strong>patronen van verandering</strong> in deze grootheden wanneer je hun waarden aanpast, helpt je om de fundamentele relatie tussen hen te begrijpen.</li>
-    <li>De Wet van Ohm wordt binnen verschillende situaties toegepast. Leerlingen herkennen dat de Wet van Ohm toepasbaar is op diverse elektrische circuits en problemen. Bij het oplossen van oefenproblemen moet herkend worden of het al dan niet een toepassing van de Wet van Ohm betreft. Later zullen leerlingen nog in contact komen met andere scenario's, waarbij ze verbanden zullen leggen met elektrische concepten, zoals geleiding, vermogen, en het schakelen van weerstanden.</li>
+    <li>Soortgelijke problemen kennen een vaste manier van aanpak: het opstellen van een waarheidstabel en een algoritme. 
+    <li>Op zoek gaan naar patronen in de waarheidstabel, bv.<br>
 </ul>
+
+![Waarheidstabel](waarheidstabelterraslamppatroon.png)  <br>
+Bekijk in welke gevallen de lamp brandt (dat is aangegeven in het lichtgroen).<br>
+Als K = 1 (donkergroen) dan zal de lamp branden (L = 1), ongeacht de waarden van B en S.<br>
+Voor K = 0 is er nog maar één geval waarbij de lamp ook brandt, nl. als S = 0 én B = 1 (oranje)</li>
+
 </patternRecognition>
 <abstraction>
-(**abstractie**)<br>
+**Abstractie**<br>
 <ul>
-    <li>De concepten elektrische lading, stroom, spanning en weerstand zijn <strong>abstracte representaties van echte fysieke fenomenen</strong> die niet direct zichtbaar zijn, maar cruciaal zijn voor het begrijpen van elektriciteit.</li>
-    <li>Schematische voorstelling van een elektrische opstelling: de elektrische componenten, draden en verbindingen worden weergegeven als gestandaardiseerde symbolen en lijnen. Deze symbolen zijn <strong>abstracte</strong> voorstellingen die de werkelijke fysieke vorm van de componenten en draden overslaan en zich richten op hun functie en rol in het circuit.</li>
-    <li>Bij het aanpakken van een vraagstuk is abstract denken betrokken bij het analyseren van het probleem en het identificeren van de kernconcepten en relaties. Dit houdt in dat je de essentiële details van het probleem abstraheert om tot de kern van het vraagstuk te komen.</li>
-    <li>De wiskundige formule van de Wet van Ohm '<em>U = I . R</em>' is een abstracte voorstelling van de fundamentele relatie tussen stroom, spanning en weerstand.</li>
+    <li>De probleemstelling wordt abstract weergegeven via een waarheidstabel. De inputs staan in de eerste drie kolommen, de output in de laatste kolom.</li>
 </ul>
+
+![Waarheidstabel](waarheidstabelterraslamp.png)<br>
 </abstraction>
 <algorithms>
-**algoritme**<br>
+**Algoritmisch denken**<br>
 <ul>
-    <li>Het toepassen van de Wet van Ohm-formule (<em>U = I . R</em>) om de stroom, spanning en weerstand te berekenen, vereist een algoritmische aanpak. Leerlingen moeten de juiste stappen volgen en de formule op de juiste manier gebruiken om de gewenste resultaten te bereiken: gegevens identificeren, de formule toepassen, de berekeningen uitvoeren en de resultaten interpreteren.</li>
-    <li>Wanneer leerlingen een laboproef uitvoeren, zullen ze algoritmisch denken gebruiken om stap voor stap de benodigde componenten en verbindingen te identificeren, metingen uit te voeren, enz.</li>
+    <li>De oplossing van het probleem houdt de sturing van de verlichtingsinstallatie in via een algoritme (hier verschillende oplossingen in de vorm van pseudocode of een flowchart).<br>
 </ul>
+
+![Flowchart](flowchart.png)<br>
+![Flowchart](flowchart2terraslamp.png)<br><br>
+![Pseudocode](pseudocode1terraslamp.png)<br>
+![Pseudocode](pseudocodewijterraslamp.png)
 </algorithms>
 <implementation>
- 
+**Programma**<br>
+Bij deze activiteit moet niet worden geprogrammeerd.
 </implementation>
+
 

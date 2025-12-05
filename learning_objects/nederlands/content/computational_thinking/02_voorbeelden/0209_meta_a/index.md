@@ -36,25 +36,27 @@ teacher_exclusive: true
     Opdracht: De leerlingen programmeren het spel in de Snap!-omgeving. 
 </context>
 <decomposition>
-Subtaken (**decompositie**): Leerlingen moeten:<br>
-- "gebeurtenissen onderzoeken en data noteren in de tijdlijn, 
-- specifieke kenmerken ontdekken in de proloog van het spel, 
-    - de logische componenten in de puzzelspellen ontleden, enz.".
+**Decompositie**<br>
+- Gebeurtenissen onderzoeken en data noteren in de tijdlijn
+- Specifieke kenmerken ontdekken in de proloog van het spel, 
+- De logische componenten in de puzzelspellen ontleden
+- ...
 </decomposition>
 <patternRecognition>
-"Leerlingen herkennen <br>
-    - de herhaling in een spel, 
-    - de progressie van de tijdlijn, 
-    - personages, 
-    - puzzelpatronen en 
-    - de patronen in grafieken."
- (**patroonherkenning**)
+**Patroonherkenning**<br>
+Leerlingen herkennen:
+- de herhaling in een spel, 
+- de progressie van de tijdlijn, 
+- personages, 
+- puzzelpatronen en 
+- de patronen in grafieken.
 </patternRecognition>
 <abstraction>
-
+**Abstractie**<br>
 </abstraction>
 <algorithms>
-Leerlingen ontwerpen **algoritmen** om "de verschillende onderdelen van het spel te programmeren en een storyboard te maken". 
+**Algoritmisch denken**<br>
+Leerlingen ontwerpen algoritmen om "de verschillende onderdelen van het spel te programmeren en een storyboard te maken. 
 </algorithms>
 <implementation>
 **Programma** in Snap!
