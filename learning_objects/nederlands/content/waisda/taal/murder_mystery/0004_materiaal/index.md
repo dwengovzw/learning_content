@@ -27,7 +27,7 @@ Je doet deze 'escaperoom' best met twee tot vier personen. Voor grotere groepen 
 
 Per groep heb je het volgende materiaal nodig:
 * Een laptop met internetverbinding. Een computermuis kan ook handig zijn.
-* Twee kistjes/dozen die je kan sluiten met een cijferslot.
+* Twee kistjes/dozen die je kan sluiten met een cijferslot. De kistjes kan je eventueel 3D-printen ([3D-model](content/Lock_box.zip)).
 * Een hangslot met verstelbare code van 3 cijfers.
 * Een hangslot met verstelbare code van 4 cijfers.
 * Een afdruk van de hints voor unplugged activiteit 1 ([Personages](content/Personages.pdf), [Gesprek](content/Gesprek.pdf)).
@@ -36,6 +36,7 @@ Per groep heb je het volgende materiaal nodig:
 * Een afdruk van de brieven voor auteursherkenning ([Brieven](content/Brieven.pdf)).
 * Een afdruk van het testament ([Testament](content/Testament.pdf))
 * Een afdruk van de brieven in geheimschrift ([Geheimschrift](content/Brieven_geheimschrift.pdf)).
+* Optioneel kan je ook de tips afdrukken en die verspreiden. Deze helpen de deelnemers om de uitdagingen sneller op te lossen ([Tips](content/Tips.pdf)).
 
 Op de af te drukken documenten staat ook steeds vermeld waar die terecht moeten komen (bv. *In kistje 1*). Op die manier kan je de activiteit gemakkelijk klaarzetten.
 
