@@ -1,0 +1,44 @@
+---
+available: true
+content_location: example-location
+content_type: text/markdown
+copyright: dwengo
+description: "\xC9lectricit\xE9"
+difficulty: 3
+educational_goals:
+- id: id
+  source: Source
+- id: id2
+  source: Source2
+estimated_time: 1
+hruid: ct03_76
+keywords:
+- ''
+language: fr
+licence: dwengo
+return_value:
+  callback_schema:
+    att: test
+    att2: test2
+  callback_url: callback-url-example
+skos_concepts:
+- http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen
+target_ages:
+- 12
+- 13
+- 14
+teacher_exclusive: true
+title: "\xC9lectricit\xE9 (s)"
+version: 3
+---
+# Notions de base de l'électricité
+
+**Apprendre les concepts de charge électrique, de courant électrique, de tension et de résistance. Respecter les principes de sécurité.** 
+
+**Public cible :** tous les élèves qui suivent un cours sur les notions de base de l'électricité
+
+**Matière :** /
+
+**Prérequis :** aucun
+
+![schéma-ct](@learning-object/m_ct03_76/nl/3)
