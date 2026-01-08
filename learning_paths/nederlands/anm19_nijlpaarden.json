@@ -16,8 +16,8 @@
         {
           "default": true,
           "next": {
-            "hruid": "anm_1801",
-            "version": "3",
+            "hruid": "anm_1902",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -31,8 +31,8 @@
         {
           "default": true,
           "next": {
-            "hruid": "anm_1802",
-            "version": "3",
+            "hruid": "anm_1903",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -46,8 +46,8 @@
         {
           "default": true,
           "next": {
-            "hruid": "anm_1803",
-            "version": "3",
+            "hruid": "anm_1904",
+            "version": "1",
             "language": "nl"
           }
         }
