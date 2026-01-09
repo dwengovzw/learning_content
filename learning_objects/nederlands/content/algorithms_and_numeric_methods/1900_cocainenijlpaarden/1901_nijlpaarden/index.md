@@ -2,8 +2,8 @@
 hruid: anm_1901
 version: 1
 language: nl
-title: "Nijlpaarden"
-description: "Perceptron"
+title: "Historiek cocaïnenijlpaarden"
+description: "Inleiding"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,7 +30,9 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Gradient descent 
+# Cocaïnenijlpaarden veroveren Colombia
+
+Inleidende tekst: [EOS-blogpost Cocaïnenijlpaarden veroveren Colombia](https://www.eoswetenschap.eu/natuur-milieu/cocainenijlpaarden-veroveren-colombia)
 
 
 
