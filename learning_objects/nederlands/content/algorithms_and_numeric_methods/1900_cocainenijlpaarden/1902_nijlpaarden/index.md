@@ -2,8 +2,8 @@
 hruid: anm_1902
 version: 1
 language: nl
-title: "Nijlpaarden"
-description: "Perceptron"
+title: "Groei van de populatie"
+description: "Exponentiële groei"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -30,8 +30,12 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Gradient descent 
+# Groei van de populatie
 
+![41598_2023_33028_Fig3_HTML](https://github.com/user-attachments/assets/cc7d2ba7-f04d-48ea-9907-ef34f0558ede)
 
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
 
+### Bronnen
+Subalusky, A.L., Sethi, S.A., Anderson, E.P. et al. Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia. *Sci Rep 13*, 6193 (2023). https://doi.org/10.1038/s41598-023-33028-y
 
