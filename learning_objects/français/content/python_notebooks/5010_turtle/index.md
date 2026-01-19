@@ -2,7 +2,7 @@
 available: true
 content_type: text/markdown
 copyright: dwengo
-description: Drawing rights
+description: Turtle
 difficulty: 3
 educational_goals:
 - id: id
@@ -10,11 +10,9 @@ educational_goals:
 - id: id2
   source: Source2
 estimated_time: 10
-hruid: pn_rechtentekenen
-keywords:
-- Python
-- Wiskunde
-language: en
+hruid: art_turtle
+keywords: []
+language: fr
 licence: dwengo
 return_value:
   callback_schema:
@@ -25,17 +23,19 @@ skos_concepts:
 - http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen
 - http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen
 - http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-meetkunde-en-metend-rekenen
-- http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-algebra-analyse
 target_ages:
 - 14
 - 15
 - 16
 - 17
 - 18
-title: Drawing Lines
+title: "Turtle - formes g\xE9om\xE9triques"
 version: 3
 ---
-# Drawing Lines
-In the first part of this learning path, you will modify the Python script you are already familiar with to represent data in a scatter plot.
+# Turtle
 
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0401_en "Notebooks Drawing Lines")
+Dans ce notebook, vous programmerez une 'turtle' qui se déplace à l’écran. À l’aide d’une 'turtle', vous afficherez des formes géométriques à l’écran.
+Vous serez progressivement initié aux structures de répétition et à l’utilisation de fonctions.
+Soyez créatif(ve) !
+
+[![](embed/Knop.png "Bouton")](https://kiks.ilabt.imec.be/hub/tmplogin?id=5010_fr "Turtle")

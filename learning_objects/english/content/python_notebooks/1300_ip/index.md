@@ -54,3 +54,10 @@ This notebook, therefore, pays ample attention to binary, decimal, and hexadecim
 With this notebook, you can illustrate why binary and hexadecimal numerical systems are important in computer science.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1300_en "IP Address Notebooks")
+
+----
+#### Link with the minimum objectives
+
+This theme focuses on computational thinking. An IP address, after all, provides an answer to the question of how your computer can find a desired website. Through this internet protocol, the browser on your computer succeeds in displaying the website with that specific domain name on your computer screen.
+
+You can use this as a theme to work in the classroom on the minimum objective concerning the impact of digital systems. Because digital systems can communicate with each other, we can, for example, make use of the Internet of Things (IoT).

@@ -147,3 +147,12 @@ Deze zijn de officiële formuleringen zoals gepubliceerd op [onderwijsdoelen.be]
 * 12.01.01 De leerlingen ontwikkelen een oplossing voor een probleem door STEM-disciplines geïntegreerd toe te passen.
 ##### Onderzoeksvaardigheden wetenschappen
 * 12.02.01 De leerlingen ontwikkelen een oplossing voor een probleem door STEM-disciplines geïntegreerd toe te passen.
+
+### Moderne talen
+#### Pragmatiek
+* 02.04.01/02.06.01 De leerlingen analyseren hoe de context de betekenis van een taaluiting beïnvloedt.
+* 02.06.02 De leerlingen analyseren impliciete en expliciete boodschappen in taaluitingen.
+
+#### Introductie tot taaltechnologie
+* 02.07.01 De leerlingen gaan kritisch en doelgericht om met taaltechnologische hulpmiddelen.
+* 02.07.02 De leerlingen lichten het maatschappelijke en wetenschappelijke belang van taaltechnologie toe.

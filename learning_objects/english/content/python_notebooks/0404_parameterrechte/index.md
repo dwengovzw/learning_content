@@ -32,7 +32,7 @@ target_ages:
 - 16
 - 17
 - 18
-title: Parameters rights
+title: Parameters of lines
 version: 3
 ---
 # Parameters in the equation of a straight line

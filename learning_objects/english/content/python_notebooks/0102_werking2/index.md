@@ -45,9 +45,5 @@ Afterwards, you can find the notebook in your computer’s **Downloads** folder.
 
 You can also save the (executed) notebook as a **PDF** via your browser. For example, in Chrome: **Print > Save as PDF**. It is recommended to set the **Scale** to 85 percent.
 
-**Note:** You do not need to log out, but you may if you want. The logout button can be found in the menu under **File**, at the very bottom.
-Previously, when you had completed a series of notebooks, you had to log out in the tab with the notebook group. This is no longer necessary.
-
----
-
-If you want, I can also make it **slightly more concise and natural for English readers** while keeping all the instructions clear. Do you want me to do that?
+**Note: You do not need to log out, but you may if you want. The logout button can be found in the menu under File, at the very bottom.**
+*Previously, when you had completed a series of notebooks, you had to log out in the tab with the notebook group. This is no longer necessary.*

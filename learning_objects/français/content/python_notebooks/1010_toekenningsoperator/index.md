@@ -37,8 +37,8 @@ version: 3
 ---
 # Opérateur d'affectation
 
-Lorsque vous utilisez une variable en Python, par exemple la variable 'bloem' qui fait référence à la chaîne de caractères "roos", vous saisissez l'instruction suivante :  
+Lorsque vous utilisez une variable en Python, par exemple la variable 'fleur' qui fait référence à la chaîne de caractères "rose", vous saisissez l'instruction suivante :  
 
-*bloem = "roos"*  
+*fleur = "rose"*  
 
 '=' est ici un opérateur d'affectation. Il n'a donc pas la même signification que '=' en mathématiques.

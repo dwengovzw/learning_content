@@ -36,5 +36,5 @@ version: 3
 ---
 # Prérequis
 
-* Parcours d'apprentissage ['Travailler avec les notebooks'](https://www.dwengo.org/learning-path.html?hruid=pn_werking&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_werkingnotebooks;nl;3)
+* Parcours d'apprentissage ['Travailler avec les notebooks'](https://www.dwengo.org/fr/learning-path.html?hruid=pn_werking&language=fr&te=true&source_page=%2Ffr%2Fpython_programming%2F&source_title=%20Programmation%20en%20Python#pn_werkingnotebooks;fr;3)
 * _Opérateurs mathématiques - Calcul_ du parcours d'apprentissage *'Opérateurs'* de 'Programmer en Python'.

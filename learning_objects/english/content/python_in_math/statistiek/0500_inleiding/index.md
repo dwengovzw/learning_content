@@ -39,3 +39,11 @@ Prerequisite knowledge for this learning path: the learning path ['Working with 
 **This learning path fits well with the new specific minimum learning objective on statistics in the third grade regarding large datasets.**
 
 The first three sections fall within descriptive statistics. The last section makes a connection between descriptive and inferential statistics.
+
+----
+
+An **addition** to this learning pathway is bivariate statistics: visualizing a **scatter plot (point cloud)** and, if desired, determining the corresponding **regression line**. For this, see the learning pathways ['Scatter Plot'](https://www.dwengo.org/en/learning-path.html?hruid=maths_spreidingsdiagrammen&language=en&te=true&source_page=%2Fen%2Fmath_with_python%2F&source_title=%20Math%20with%20Python#pn_inleiding_spreidingsdiagram;en;3) and ['Linear Regression'](https://www.dwengo.org/en/learning-path.html?hruid=maths_lineaireregressie&language=en&te=true&source_page=%2Fen%2Fmath_with_python%2F&source_title=%20Math%20with%20Python#pn_inleiding_lineaireregressie;en;3).
+
+An introduction to working with NumPy arrays in the context of statistics lessons can be found in the second notebook of this **series**. There, you will work, among other things, with variance and standard deviation.
+
+You will learn how to preprocess data in a DataFrame in **this section of the learning pathway “Data Types.”**
