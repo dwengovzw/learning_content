@@ -34,6 +34,17 @@ teacher_exclusive: false
 
 ![41598_2023_33028_Fig3_HTML](https://github.com/user-attachments/assets/cc7d2ba7-f04d-48ea-9907-ef34f0558ede)
 
+| Jaartal | Aantal nijlpaarden |
+| --------| :-------:|
+| 1994    |  4     |
+| 2006    | 16     |
+| 2009    | 28     |
+| 2014    | 50     |
+| 2016    | 60     |
+| 2020    | 75     |
+
+1994: 3 vrouwtjes en 1 mannetje
+
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
 
 ### Bronnen
