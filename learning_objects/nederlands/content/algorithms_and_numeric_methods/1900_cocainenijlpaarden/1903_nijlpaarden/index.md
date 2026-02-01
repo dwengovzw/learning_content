@@ -56,15 +56,15 @@ Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk, de volg
 
 Wanneer je de Lesliematrix vermenigvuldigt met deze kolommatrix bekom je het aantal nul-, een- en tweejarige dieren na een periode van een jaar:
 ![matrices vermenigvuldigen](embed/uitlegvb.png)
-Noem de bekomen *'bevolkingsmatrix'* $B_{1}$
+Noem de bekomen *'bevolkingsmatrix'* \\[B_{1}\\]
 
 Voor een periode van twee jaar betekent dat:<br>
-$B_{2} = L \cdot B_{1}$, dus <br>
-$B_{2} = L \cdot (L \cdot B_{0})$, dus <br>
-$B_{2} = L^{2} \cdot B_{0}$
+\\[B_{2} = L \cdot B_{1}\\], dus <br>
+\\[B_{2} = L \cdot (L \cdot B_{0})\\], dus <br>
+\\[B_{2} = L^{2} \cdot B_{0}\\]
 
 Dus voor een periode van vijf jaar:
-$B_{2} = L^{5} \cdot B_{0}$
+\\[$B_{2} = L^{5} \cdot B_{0}\\]
 
 Voor het rekenwerk kan je ook gebruikmaken van Python. Open daarvoor de tweede notebook. 
 
