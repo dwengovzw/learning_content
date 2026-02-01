@@ -31,18 +31,51 @@ teacher_exclusive: false
 ---
 # Populatiegroei wiskundig modelleren a.d.h.v. Lesliematrix
 
+Het vorige model geeft aan in welke mate de populatie verder zou kunnen aangroeien. Het geeft echter niet weer hoeveel mannelijke en hoeveel vrouwelijke nijlpaarden er zijn, en hoe de verhouding jonge versus oude dieren is. 
+
+Om dit te bekijken kan je een wiskundig model maken dat gebaseerd is op een *Lesliematrix*.
+
 ## Lesliematrix: voorbeeld
+Vertrek van het volgende probleem:
+
+Stel dat je een populatie dieren hebt van een soort die maximum twee jaar oud wordt.<br>
+60 % van de nuljarigen wordt 1 jaar, en 40 % van de eenjarigen wordt 2 jaar. In het tweede levensjaar krijgen de vrouwtjes gemiddeld 5 nakomelingen en in het derde levensjaar krijgen ze er gemiddeld 3. <br>
+Momenteel zijn er 204 dieren in hun eerste levensjaar, 60 dieren zijn een jaar oud en 36 zijn in hun derde levensjaar.<br>
+Bekijk deze populatie dieren binnen 5 jaar.
+
+De evolutie van deze populatie kan je modelleren a.d.h.v. een graaf:
+
+Vervolgens kan je deze graaf vertalen naar een matrix:
+
+Een dergelijke matrix wordt een Lesliematrix genoemd. Het is een speciaal geval van een zogenaamde *overgangsmatrix*.
+
+Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk, de volgende kolommatrix:
+
+Wanneer je de Lesliematrix vermenigvuldigt met deze kolommatrix bekom je het aantal nul-, een- en tweejarige dieren na een periode van een jaar:
+
+Inderdaad:
+
+Voor een periode van twee jaar betekent dat:
+
+Dus voor een periode van vijf jaar:
+
+Voor het rekenwerk kan je ook gebruikmaken van Python. Open daarvoor de tweede notebook. 
+
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
+
 
 ## Lesliematrix betreffende de nijlpaarden
 
-**Tabel met achtergrondinformatie**
+**Tabel met achtergrondinformatie [1]**
 <img width="877" height="723" alt="tabel1" src="https://github.com/user-attachments/assets/20f440d0-fd1f-422f-8f31-a7d822a2ab36" />
 
 **Overlevingscijfers:**
 
-### Bronnen
-Subalusky, A.L., Sethi, S.A., Anderson, E.P. et al. Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia. *Sci Rep 13*, 6193 (2023). https://doi.org/10.1038/s41598-023-33028-y
-
+Gebruik de derde notebook om de nijpaardenpopulatie te modelleren m.b.v. een Lesliematrix.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
+
+### Bronnen
+[1] Subalusky, A.L., Sethi, S.A., Anderson, E.P. et al. Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia. *Sci Rep 13*, 6193 (2023). https://doi.org/10.1038/s41598-023-33028-y
+
 
