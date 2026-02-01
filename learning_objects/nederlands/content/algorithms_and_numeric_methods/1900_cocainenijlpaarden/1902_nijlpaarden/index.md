@@ -45,7 +45,7 @@ Enkele jaren terug poogden onderzoekers om de populatie nijlpaarden in kaart te 
 | 2016    | 60     |
 | 2020    | 75     |
 
-1994: 3 vrouwtjes en 1 mannetje
+1994: 3 vrouwtjes en 1 mannetje van 23 jaar oud
 
 In de volgende notebook ga je op zoek naar een **wiskundig model** om de populatiegroei voor te stellen. <br>
 Beantwoord eerst de volgende vragen:
