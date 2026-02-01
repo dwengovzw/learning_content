@@ -77,5 +77,5 @@ Stel dat je een populatie dieren hebt van een soort die maximum vier jaar oud wo
 Momenteel zijn er 8 dieren in hun eerste levensjaar, 72 dieren zijn een jaar oud en 36 zijn in hun derde levensjaar, er zijn 9 driejarigen en 100 vierjarigen.<br>
 Bekijk deze populatie dieren binnen 10 jaar.
 
-![graaf en Lesliematrix](embed/graafenleslieoefening.png)
+![graaf en Lesliematrix](embed/graafenleslieoefening.jpg)
 
