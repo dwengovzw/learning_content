@@ -56,7 +56,8 @@ Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk, de volg
 
 Wanneer je de Lesliematrix vermenigvuldigt met deze kolommatrix bekom je het aantal nul-, een- en tweejarige dieren na een periode van een jaar:<br>
 ![matrices vermenigvuldigen](embed/uitlegvb.png)
-Noem de bekomen *'bevolkingsmatrix' B<sub>1</sub>*
+
+Noem de bekomen *'bevolkingsmatrix' B<sub>1</sub>*.
 
 Voor een periode van twee jaar betekent dat:<br>
 \\[B_{2} = L \cdot B_{1}\\] dus <br>
