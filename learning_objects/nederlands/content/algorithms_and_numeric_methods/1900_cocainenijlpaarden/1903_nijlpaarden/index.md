@@ -55,10 +55,7 @@ Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk, de volg
 ![bevolkingsmatrix](embed/bevolkingsmatrixvb.png)
 
 Wanneer je de Lesliematrix vermenigvuldigt met deze kolommatrix bekom je het aantal nul-, een- en tweejarige dieren na een periode van een jaar:
-![matrices vermenigvuldigen](embed/vermenigvuldigenvb.png)
-
-Inderdaad:
-![uitleg](embed/uitlegvb.png)
+![matrices vermenigvuldigen](embed/uitlegvb.png)
 
 Voor een periode van twee jaar betekent dat:
 ![tweejaar](embed/tweejaarvb.png)
@@ -70,6 +67,12 @@ Voor het rekenwerk kan je ook gebruikmaken van Python. Open daarvoor de tweede n
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
 
+## Lesliematrix: oefening
+
+Stel dat je een populatie dieren hebt van een soort die maximum vier jaar oud wordt.<br>
+70 % van de nuljarigen wordt 1 jaar, 90 % van de eenjarigen wordt 2 jaar, 80 % van de tweejarigen wordt 3 jaar, en 50 % van de driejarigen wordt 4 jaar. In het derde levensjaar krijgen 100 vrouwtjes gemiddeld 20 nakomelingen en in het vierde levensjaar krijgen 100 vrouwtjes er gemiddeld 80. <br>
+Momenteel zijn er 8 dieren in hun eerste levensjaar, 72 dieren zijn een jaar oud en 36 zijn in hun derde levensjaar, er zijn 9 driejarigen en 100 vierjarigen.<br>
+Bekijk deze populatie dieren binnen 10 jaar.
 
 ## Lesliematrix betreffende de nijlpaarden
 
