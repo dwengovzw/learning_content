@@ -31,7 +31,7 @@ teacher_exclusive: false
 ---
 # Populatiegroei wiskundig modelleren a.d.h.v. Lesliematrix
 
-Het vorige model geeft aan in welke mate de populatie verder zou kunnen aangroeien. Het geeft echter niet weer hoeveel mannelijke en hoeveel vrouwelijke nijlpaarden er zijn, en hoe de verhouding jonge versus oude dieren is. 
+Het vorige model geeft aan in welke mate de populatie verder zou kunnen aangroeien. Het geeft echter niet weer hoeveel mannelijke en hoeveel vrouwelijke nijlpaarden er zijn, en hoe bijvoorbeeld de verhouding jonge versus oude dieren is. 
 
 Om dit te bekijken kan je een wiskundig model maken dat gebaseerd is op een *Lesliematrix*.
 
@@ -44,20 +44,27 @@ Momenteel zijn er 204 dieren in hun eerste levensjaar, 60 dieren zijn een jaar o
 Bekijk deze populatie dieren binnen 5 jaar.
 
 De evolutie van deze populatie kan je modelleren a.d.h.v. een graaf:
+![graaf](embed/graafvb.png)
 
 Vervolgens kan je deze graaf vertalen naar een matrix:
+![Lesliematrix](embed/leslievb.png)
 
 Een dergelijke matrix wordt een Lesliematrix genoemd. Het is een speciaal geval van een zogenaamde *overgangsmatrix*.
 
 Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk, de volgende kolommatrix:
+![bevolkingsmatrix](embed/bevolkingsmatrixvb.png)
 
 Wanneer je de Lesliematrix vermenigvuldigt met deze kolommatrix bekom je het aantal nul-, een- en tweejarige dieren na een periode van een jaar:
+![matrices vermenigvuldigen](embed/vermenigvuldigenvb.png)
 
 Inderdaad:
+![uitleg](embed/uitlegvb.png)
 
 Voor een periode van twee jaar betekent dat:
+![tweejaar](embed/tweejaarvb.png)
 
 Dus voor een periode van vijf jaar:
+![algemeen](embed/algemeenvb.png)
 
 Voor het rekenwerk kan je ook gebruikmaken van Python. Open daarvoor de tweede notebook. 
 
@@ -66,12 +73,15 @@ Voor het rekenwerk kan je ook gebruikmaken van Python. Open daarvoor de tweede n
 
 ## Lesliematrix betreffende de nijlpaarden
 
-**Tabel met achtergrondinformatie [1]**
+**Informatie i.v.m. maximale leeftijd en vruchtbaarheid [1]**
+
 <img width="877" height="723" alt="tabel1" src="https://github.com/user-attachments/assets/20f440d0-fd1f-422f-8f31-a7d822a2ab36" />
 
-**Overlevingscijfers:**
+**Overlevingscijfers [1]**
 
 Gebruik de derde notebook om de nijpaardenpopulatie te modelleren m.b.v. een Lesliematrix.
+
+Denk eerst na over hoe je de Lesliematrix die je nodig hebt om de nijlpaardenpopulatie te modelleren, zal opstellen.  
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
 
