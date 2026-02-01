@@ -74,21 +74,5 @@ Stel dat je een populatie dieren hebt van een soort die maximum vier jaar oud wo
 Momenteel zijn er 8 dieren in hun eerste levensjaar, 72 dieren zijn een jaar oud en 36 zijn in hun derde levensjaar, er zijn 9 driejarigen en 100 vierjarigen.<br>
 Bekijk deze populatie dieren binnen 10 jaar.
 
-## Lesliematrix betreffende de nijlpaarden
-
-**Informatie i.v.m. maximale leeftijd en vruchtbaarheid [1]**
-
-<img width="877" height="723" alt="tabel1" src="https://github.com/user-attachments/assets/20f440d0-fd1f-422f-8f31-a7d822a2ab36" />
-
-**Overlevingscijfers [1]**
-
-Gebruik de derde notebook om de nijpaardenpopulatie te modelleren m.b.v. een Lesliematrix.
-
-Denk eerst na over hoe je de Lesliematrix die je nodig hebt om de nijlpaardenpopulatie te modelleren, zal opstellen.  
-
-[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
-
-### Bronnen
-[1] Subalusky, A.L., Sethi, S.A., Anderson, E.P. et al. Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia. *Sci Rep 13*, 6193 (2023). https://doi.org/10.1038/s41598-023-33028-y
 
 
