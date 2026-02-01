@@ -46,17 +46,17 @@ Bekijk deze populatie dieren binnen 5 jaar.
 De evolutie van deze populatie kan je modelleren a.d.h.v. een graaf:<br>
 ![graaf](embed/graafvb.png)
 
-Vervolgens kan je deze graaf vertalen naar een matrix \[L\]:<br>
+Vervolgens kan je deze graaf vertalen naar een matrix *L*:<br>
 ![Lesliematrix](embed/leslievb.png)
 
 Een dergelijke matrix wordt een Lesliematrix genoemd. Het is een speciaal geval van een zogenaamde *overgangsmatrix*.
 
-Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk, de volgende kolommatrix $B$:
+Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk, de volgende kolommatrix *B*:
 ![bevolkingsmatrix](embed/bevolkingsmatrixvb.png)
 
 Wanneer je de Lesliematrix vermenigvuldigt met deze kolommatrix bekom je het aantal nul-, een- en tweejarige dieren na een periode van een jaar:<br>
 ![matrices vermenigvuldigen](embed/uitlegvb.png)
-Noem de bekomen *'bevolkingsmatrix'* \[B_{1}\]
+Noem de bekomen *'bevolkingsmatrix' B<sub>1</sub>*
 
 Voor een periode van twee jaar betekent dat:<br>
 \\[B_{2} = L \cdot B_{1}\\] dus <br>
