@@ -33,11 +33,10 @@ teacher_exclusive: false
 # Cocaïnenijlpaarden veroveren Colombia
 
 ![nijlpaarden in water](embed/cocainenijlpaarden_FICGmx_CC.jpg)
+Foto: FICG.mx. CC by 2.0.
 
 Inleidende tekst: [EOS-blogpost Cocaïnenijlpaarden veroveren Colombia](https://www.eoswetenschap.eu/natuur-milieu/cocainenijlpaarden-veroveren-colombia)
 
-
-
-
+Kijktip: [krantenartikel met video](https://www.nieuwsblad.be/opmerkelijk/hoe-de-kudde-nijlpaarden-die-ooit-van-pablo-escobar-was-blijft-groeien-ondanks-verwoede-pogingen-van-colombiaanse-regering/54711592.html) 
 
 
