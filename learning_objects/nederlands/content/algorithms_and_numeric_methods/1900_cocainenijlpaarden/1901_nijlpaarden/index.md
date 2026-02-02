@@ -32,7 +32,11 @@ teacher_exclusive: false
 
 # Cocaïnenijlpaarden veroveren Colombia
 
+![nijlpaarden in water](embed/cocainenijlpaarden_FICGmx_CC.jpg)
+
 Inleidende tekst: [EOS-blogpost Cocaïnenijlpaarden veroveren Colombia](https://www.eoswetenschap.eu/natuur-milieu/cocainenijlpaarden-veroveren-colombia)
+
+
 
 
 
