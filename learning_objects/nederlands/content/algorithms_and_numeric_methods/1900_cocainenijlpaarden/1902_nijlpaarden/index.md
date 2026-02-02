@@ -47,7 +47,7 @@ Enkele jaren terug poogden onderzoekers om de populatie nijlpaarden in kaart te 
 
 1994: 3 vrouwtjes en 1 mannetje van 23 jaar oud
 
-In de volgende notebook ga je op zoek naar een **wiskundig model** om de populatiegroei voor te stellen. <br>
+In de notebook ga je op zoek naar een **wiskundig model** om de populatiegroei voor te stellen. <br>
 Beantwoord eerst de volgende vragen:
 
 - Gebaseerd op de gegeven grafiek, welke soort functie zal er vermoedelijk geschikt zijn om de populatiegroei te modelleren?
@@ -55,6 +55,7 @@ Beantwoord eerst de volgende vragen:
 - Hoe zal je de parameters in het voorschrift van de gezochte functie bepalen?    
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
+en kies de eerste notebook (0100).
 
 ### Bronnen
 [1] Subalusky, A.L., Sethi, S.A., Anderson, E.P. et al. Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia. *Sci Rep 13*, 6193 (2023). https://doi.org/10.1038/s41598-023-33028-y
