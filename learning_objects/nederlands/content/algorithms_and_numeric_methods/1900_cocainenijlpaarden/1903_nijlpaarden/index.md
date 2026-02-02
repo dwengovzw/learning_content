@@ -70,8 +70,11 @@ Dus voor een periode van vijf jaar:
 Voor het rekenwerk kan je ook gebruikmaken van Python. Open daarvoor de tweede notebook. 
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=6100 "Cocaïnenijlpaarden notebooks")
+en kies de tweede notebook (0190).
 
 ## Lesliematrix: oefening
+
+(Voor het rekenwerk bij deze oefening kan je in dezelfde notebook werken.)
 
 Stel dat je een populatie dieren hebt van een soort die maximum vier jaar oud wordt.<br>
 70 % van de nuljarigen wordt 1 jaar, 90 % van de eenjarigen wordt 2 jaar, 80 % van de tweejarigen wordt 3 jaar, en 50 % van de driejarigen wordt 4 jaar. In het derde levensjaar krijgen 100 vrouwtjes gemiddeld 20 nakomelingen en in het vierde levensjaar krijgen 100 vrouwtjes er gemiddeld 80. <br>
