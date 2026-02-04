@@ -59,6 +59,6 @@ Beantwoord eerst de volgende vragen:
 en kies de eerste notebook (0100).
 
 ### Bronnen
-[1] Subalusky, A.L., Sethi, S.A., Anderson, E.P. et al. Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia. *Sci Rep 13*, 6193 (2023). https://doi.org/10.1038/s41598-023-33028-y
+[1] Subalusky, A.L., Sethi, S.A., Anderson, E.P. et al. Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia. *Sci Rep* 13, 6193 (2023). https://doi.org/10.1038/s41598-023-33028-y
  
 
