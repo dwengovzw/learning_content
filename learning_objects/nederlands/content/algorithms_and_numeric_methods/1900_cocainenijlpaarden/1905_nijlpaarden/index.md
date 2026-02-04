@@ -43,6 +43,37 @@ De opstellers van het *eindexamen* biologie in Nederland lieten zich ook inspire
 Je kan het project dus zeker uitbreiden met inhouden uit biologie en chemie.  
 
 
+------------------------
+#### Webpagina's waar je foto's kan vinden om deze leerinhouden te illustreren
+
+https://commons.wikimedia.org/w/index.php?curid=7749727 <br>
+https://www.smithsonianmag.com/science-nature/pablo-escobar-abandoned-hippos-wreaking-havoc-colombian-jungle-180984494 <br>
+https://www.vrt.be/vrtnws/nl/2020/03/25/escobars-nijlpaarden-kunnen-een-lange-erfenis-van-uitroeiingen-h/ <br>
+https://www.eltiempo.com/colombia/medellin/pablo-escobar-gaviria-imagenes-de-los-atentados-y-la-muerte-del-capo-de-medellin-298774  <br>
+https://www.buzz.ie/news/pablo-escobar-cocaine-hippos-persons-25341176 <br>
+https://commons.wikimedia.org/w/index.php?curid=30634879 <br>
+https://commons.wikimedia.org/wiki/File:Colombia_location_map.svg  <br>
+https://commons.wikimedia.org/w/index.php?curid=29191046 <br>
+https://www.dw.com/en/colombia-pablo-escobars-hippo-population-is-a-huge-problem/a-65546180 <br>
+https://reporte.humboldt.org.co/biodiversidad/2018/cap2/205/#seccion4 <br>
+https://doi.org/10.1038/s41598-023-33028-y <br>
+https://www.atlasobscura.com/articles/pablo-escobar-hippo-poop <br>
+https://www.nationalgeographic.nl/dieren/2020/02/de-nijlpaarden-van-pablo-escobar-goed-voor-het-milieu   <br>
+https://www.nieuwsblad.be, https://www.nieuwsblad.be/opmerkelijk/hoe-de-kudde-nijlpaarden-die-ooit-van-pablo-escobar-was-blijft-groeien-ondanks-verwoede-pogingen-van-colombiaanse-regering/54711592.html <br>
+https://newsmonkey.be/de-wraak-van-pablo-escobar-hoe-zijn-nijlpaarden-colombia-nu-terroriseren-en-verdelen-2  <br>
+https://krugerpark-afrika-wildlife.nl/de-nijlpaarden-van-escobar/  <br>
+https://haciendanapoles.com/ <br>
+https://www.minambiente.gov.co/wp-content/uploads/2023/04/DA_PROCESO_22-22-34390_132001000_113971031.pdf <br>
+https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2991 
+
+
+
+
+
+
+
+
+
 
 
 
