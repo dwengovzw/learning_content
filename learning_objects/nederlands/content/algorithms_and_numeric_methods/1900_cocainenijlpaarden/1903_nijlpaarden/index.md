@@ -65,7 +65,7 @@ Voor een periode van twee jaar betekent dat:<br>
 \\[B_{2} = L^{2} \cdot B_{0}\\]
 
 Dus voor een periode van vijf jaar:
-\\[B_{2} = L^{5} \cdot B_{0}\\]
+\\[B_{5} = L^{5} \cdot B_{0}\\]
 
 Voor het rekenwerk kan je ook gebruikmaken van Python. Open daarvoor de tweede notebook. 
 
