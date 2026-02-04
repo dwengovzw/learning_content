@@ -60,6 +60,5 @@ en kies de eerste notebook (0100).
 
 ### Bronnen
 [1] Subalusky, A.L., Sethi, S.A., Anderson, E.P. et al. Rapid population growth and high management costs have created a narrow window for control of introduced hippos in Colombia. *Sci Rep 13*, 6193 (2023). https://doi.org/10.1038/s41598-023-33028-y
-
-Opmerking: Voor meer uitleg over regressie kan je terecht in de leerpaden van het thema *Python in de Wiskundeles*: [Lineaire regressie](https://dwengo.org/learning-path.html?hruid=maths_lineaireregressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_lineaireregressie;nl;3) en [Regressielijnen](https://dwengo.org/learning-path.html?hruid=pn_regressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_voorkennis_regressielijnen;nl;3). 
+ 
 
