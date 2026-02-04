@@ -39,7 +39,7 @@ teacher_exclusive: false
 
 ![vruchtbaarheid](embed/vruchtbaarheidstabel.png)
 
-Gebruik de derde notebook om de nijpaardenpopulatie te modelleren m.b.v. een Lesliematrix.
+Gebruik de derde notebook om de nijlpaardenpopulatie te modelleren m.b.v. een Lesliematrix.
 
 Denk eerst na over hoe je de Lesliematrix die je nodig hebt om de nijlpaardenpopulatie te modelleren, zal opstellen.  
 
