@@ -29,7 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: false
 ---
-# Populatiegroei wiskundig modelleren a.d.h.v. Lesliematrix
+# Populatiegroei wiskundig modelleren a.d.h.v. een Lesliematrix
 
 Het vorige model geeft aan in welke mate de populatie verder zou kunnen aangroeien. Het geeft echter niet weer hoeveel mannelijke en hoeveel vrouwelijke nijlpaarden er zijn, en hoe bijvoorbeeld de verhouding jonge versus oude dieren is. 
 
@@ -51,10 +51,10 @@ Vervolgens kan je deze graaf vertalen naar een matrix *L*:<br>
 
 Een dergelijke matrix wordt een Lesliematrix genoemd. Het is een speciaal geval van een zogenaamde *overgangsmatrix*.
 
-Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk, de volgende kolommatrix *B*:
+Ook de huidige populatie kan je voorstellen m.b.v. een matrix, namelijk de volgende kolommatrix *B*:
 ![bevolkingsmatrix](embed/bevolkingsmatrixvb.png)
 
-Wanneer je de Lesliematrix vermenigvuldigt met deze kolommatrix bekom je het aantal nul-, een- en tweejarige dieren na een periode van een jaar:<br>
+Wanneer je de Lesliematrix vermenigvuldigt met deze kolommatrix, bekom je het aantal nul-, een- en tweejarige dieren na een periode van een jaar:<br>
 ![matrices vermenigvuldigen](embed/uitlegvb.png)
 
 Noem de bekomen *'bevolkingsmatrix' B<sub>1</sub>*.
