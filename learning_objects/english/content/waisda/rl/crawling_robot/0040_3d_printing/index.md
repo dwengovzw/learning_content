@@ -34,7 +34,7 @@ Before we can build the robot, we need to 3D print a number of parts. Below we p
 
 Below you can find the files to print.
 
-- The cart ([.STEP](./final_designs/dwengo_kruipende_robot_wielen.STEP), [.STL](./final_designs/dwengo_kruipende_robot_wielen.STL), [.SLDPRT](final_designs/dwengo_kruipende_robot_wielen.SLDPRT)).
+- The cart ([.STEP](./final_designs/dwengo_cart.STEP), [.STL](./final_designs/dwengo_cart.STL), [.SLDPRT](final_designs/dwengo_cart.SLDPRT)).
 - The first part of the arm with space for a servo motor ([.STEP](final_designs/servo_arm_met_servo.STEP), [.STL](./final_designs/servo_arm_met_servo.STL), [.SLDPRT](final_designs/servo_arm_met_servo.SLDPRT)).
 - The second part of the arm ([.STEP](./final_designs/servo_arm_foot.STEP), [.STL](./final_designs/servo_arm_foot.STL), [.SLDPRT](final_designs/servo_arm_foot.SLDPRT)).
 - The roller that provides more grip on the ground ([.STEP](./final_designs/servo_arm_roller.STEP), [.STL](./final_designs/servo_arm_roller.STL), [.SLDPRT](final_designs/servo_arm_roller.SLDPRT)).
