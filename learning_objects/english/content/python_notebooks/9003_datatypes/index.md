@@ -34,4 +34,4 @@ title: Datatypes
 version: 3
 ---
 # Datatypes
-See learning path ['datatypes'](https://www.dwengo.org/learning-path.html?hruid=pn_datatypes&language=nl&te=true&source_page=%2Fpython_programming%2F&source_title=%20Programming%20in%20Python#pn_introduction_datatypes;nl;3).
+See learning path ['datatypes'](https://www.dwengo.org/en/learning-path.html?hruid=pn_datatypes&language=en&te=true&source_page=%2Fen%2Fpython_programming%2F&source_title=%20Python%20Programming#pn_inleiding_datatypes;en;3).

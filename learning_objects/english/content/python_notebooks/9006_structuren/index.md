@@ -34,4 +34,4 @@ title: Structures
 version: 3
 ---
 # Structures
-See learning path ['structures'](https://www.dwengo.org/learning-path.html?hruid=pn_structuren&language=nl&te=true&source_page=%2Fpython_programming%2F&source_title=%20Programming%20in%20Python#pn_inleiding_structuren;nl;3).
+See learning path ['structures'](https://www.dwengo.org/en/learning-path.html?hruid=pn_structuren&language=en&te=true&source_page=%2Fen%2Fpython_programming%2F&source_title=%20Python%20Programming#pn_inleiding_structuren;en;3).

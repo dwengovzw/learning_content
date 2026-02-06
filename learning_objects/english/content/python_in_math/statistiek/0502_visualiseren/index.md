@@ -46,3 +46,9 @@ In three notebooks you will work with datasets; some are quite large. <br>
 You will learn to visualize data with Python in a pie chart, bar chart, or a histogram.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0371_en "Pie Chart Notebook")
+
+----
+
+More about the importance of data visualization can be found in the learning pathway 'Scatter Plot' > [Importance of Visualization](https://dwengo.org/en/learning-path.html?hruid=maths_spreidingsdiagrammen&language=en&te=true&source_page=%2Fen%2Fmath_with_python%2F&source_title=%20Math%20with%20Python#pn_belangvisualisatie;en;3).
+
+In this [presentation](embed/databelangvisualisatie.pdf), you will see additional examples, including misleading graphs and the difference between a bar chart and a histogram.

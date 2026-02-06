@@ -39,4 +39,4 @@ version: 3
 ---
 # Visualization
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0310_en "Notebooks Visualization")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0310_en "Notebooks Visualization")

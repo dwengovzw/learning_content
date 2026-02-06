@@ -37,6 +37,6 @@ version: 3
 
 In this part of the learning path, you learn how to group certain instructions from your script into a subalgorithm and pass them to Python in a user-defined function.
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1006_en "Notebooks Functions")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1006_en "Notebooks Functions")
 
 ![](@youtube/https://www.youtube.com/watch?v=fRRX4oE45UQ "Video functions")

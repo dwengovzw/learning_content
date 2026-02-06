@@ -49,3 +49,13 @@ version: 3
  This notebook illustrates how a message can be hidden within an image. By detecting a deviating pattern in the pixel values of the image, one can discover the message.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1520_en "Notebooks Secret Message")
+
+---
+#### Link with the minimum objectives on computational thinking and STEM
+
+In this assignment, you practice computational thinking.<br>
+You have to think about the digital representation of information, in this case an image.<br>
+Problem statement: Reveal the secret message hidden in the image in the notebook.<br>
+Complete the diagram.
+
+![](embed/schema.png "Diagram of basic concepts of computational thinking")

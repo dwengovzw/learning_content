@@ -36,4 +36,4 @@ version: 3
 ---
 # Conclusion
 
-Now you are ready for the learning path ['Rights'](https://www.dwengo.org/learning-path.html?hruid=maths_rechten&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_rechten;nl;3), after which you can get started with the learning path ['linear regression'](https://www.dwengo.org/learning-path.html?hruid=maths_lineaireregressie&language=nl&te=true&source_page=%2Fmath_with_python%2F&source_title=%20Python%20in%20de%20Wiskundeles#pn_inleiding_lineaireregressie;nl;3).
+Now you are ready for the learning path ['Lines'](https://www.dwengo.org/en/learning-path.html?hruid=maths_rechten&language=en&te=true&source_page=%2Fen%2Fmath_with_python%2F&source_title=%20Math%20with%20Python#pn_inleiding_rechten;en;3), after which you can get started with the learning path ['linear regression'](https://www.dwengo.org/en/learning-path.html?hruid=maths_lineaireregressie&language=en&te=true&source_page=%2Fen%2Fmath_with_python%2F&source_title=%20Math%20with%20Python#pn_inleiding_lineaireregressie;en;3).

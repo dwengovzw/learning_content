@@ -41,3 +41,6 @@ What is given about the sides of the triangles can be requested from the user. U
 
 The number of types of exercises involving the Pythagorean theorem in the third year of secondary education is quite limited. Therefore, the code needed in the exercises is often the same. It is therefore useful to capture that code in a _function_ which can then be reused in different exercises. Moreover, working with functions makes the programs more readable.
 Recognizing which type of _problem_ needs to be solved falls under _pattern recognition_.
+
+---
+This learning path first covers how to get started with input-processing-output and how to define a function yourself in Python. Afterwards, you use this knowledge to solve problems related to the Pythagorean theorem.

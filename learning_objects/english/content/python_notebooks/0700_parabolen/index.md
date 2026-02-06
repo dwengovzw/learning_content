@@ -35,7 +35,7 @@ version: 3
 ---
 # Parabola
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0700_en "Notebooks parabolas")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0700_en "Notebooks parabolas")
 <figure>
     <figcaption align = "center">Don't forget to log out before you move on to the next notebook!</figcaption>
 </figure>

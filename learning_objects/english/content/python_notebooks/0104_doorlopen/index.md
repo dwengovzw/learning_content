@@ -36,5 +36,5 @@ version: 3
 ---
 Here is a jupyter notebook:
 
-[![](embed/Button.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0103_en "Browse Notebooks")
+[![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=0103_en "Browse Notebooks")
 

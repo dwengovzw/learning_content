@@ -37,7 +37,7 @@ version: 3
 ---
 # Application
 ## Geyser
-You have already worked with the data from the Old Faithful Geyser in a notebook of the learning path ['Scatterplot'](https://www.dwengo.org/learning-path.html?hruid=maths_spreidingsdiagrammen&language=nl&te=true&source_page=%2Fstem%2F&source_title=%20STEM#pn_inleiding_spreidingsdiagram;nl;3).
+You have already worked with the data from the Old Faithful Geyser in a notebook of the learning path ['Scatterplot'](https://www.dwengo.org/en/learning-path.html?hruid=maths_spreidingsdiagrammen&language=en&te=true&source_page=%2Fen%2Fmath_with_python%2F&source_title=%20Math%20with%20Python#pn_inleiding_spreidingsdiagram;en;3).
 
 A geyser is a naturally heated hot spring that periodically ejects hot water and steam into the air.
 In this notebook, you will explore the relationship between the duration of eruptions and the amount of time until the next eruption.
