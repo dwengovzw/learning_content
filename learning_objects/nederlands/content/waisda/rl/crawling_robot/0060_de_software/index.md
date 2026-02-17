@@ -8,7 +8,7 @@ keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robo
 content_type: "text/markdown"
 estimated_time: 45
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
+    'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
     'http://ilearn.ilabt.imec.be/vocab/tref1/ict',
 
@@ -30,7 +30,7 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
     * @file robot_q_learning.ino
     * @brief Robot die leert kruipen met Q-learning.
     *
-    * Deze code gebruikt twee servo's om een robot te laten bewegen 
+    * Deze code gebruikt twee servo's om een robot te laten bewegen
     * en een Q-learning-algoritme om de beweging te optimaliseren.
     */
     #include <Wire.h>
@@ -83,7 +83,7 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
     void initialiseer_q_tabel() {
         for (int s = 0; s < AANTAL_TOESTANDEN; s++) {
             for (int a = 0; a < AANTAL_ACTIES; a++) {
-                Q[s][a] = 0.0f; 
+                Q[s][a] = 0.0f;
             }
         }
     }
@@ -225,14 +225,14 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
         int index_van_nieuwe_actie = zoek_de_beste_actie(index_van_nieuwe_toestand);
 
         // Update Q-tabel volgens Q-learning regel.
-        Q[toestand_index][actie_index] = 
-            Q[toestand_index][actie_index] + 
+        Q[toestand_index][actie_index] =
+            Q[toestand_index][actie_index] +
             ALPHA * (beloning + GAMMA * Q[index_van_nieuwe_toestand][index_van_nieuwe_actie] - Q[toestand_index][actie_index]);
     }
 
 
 </code>
-        </pre> 
+        </pre>
         </div>
 
 
@@ -243,8 +243,8 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
 <li>Open de code in de Dwengo simulator.</li>
 <li>Compileer de code.</li>
 <li>Zet het .dw bestand met gecompileerde code over naar je robot.</li>
-<li>Analyseer het resultaat: leert de robot? Het kan tot 10 minuten duren voordat de robot een kruippatroon (gate in het Engels) leert.</li>
-<li>Pas de code eventueel aan om ervoor te zorgen dat de robot sneller een gate leert.</li>
+<li>Analyseer het resultaat: leert de robot? Het kan tot 10 minuten duren voordat de robot een kruippatroon (gait in het Engels) leert.</li>
+<li>Pas de code eventueel aan om ervoor te zorgen dat de robot sneller een gait leert.</li>
 </ul>
 </div>
 </div>
