@@ -43,14 +43,14 @@ version: 3
 ---
 # Mountain Glaciers
 
-Here you work with data from 2 Swiss glaciers.
+In this notebook, you will work with data on two Swiss glaciers.
 
-You study the shrinkage of the Morteratsch in a guided example.
+You will start by studying the shrinkage of the Morteratsch Glacier in a guided example.
 ![Mountain Glacier](embed/morteratsch2018lvt.jpg "Morteratsch Glacier")
 <figure>
     <figcaption align = "center">Lander Van Tricht. Morteratsch Glacier (2018).</figcaption>
 </figure>
 
-Afterwards, an assignment awaits you about the Silvretta Glacier.
+This is followed by an assignment about the Silvretta Glacier.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1120_en "Notebooks Climate Change")
