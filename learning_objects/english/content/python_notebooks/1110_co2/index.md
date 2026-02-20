@@ -43,6 +43,6 @@ version: 3
 ---
 # CO<sub>2</sub>
 
-In these notebooks, you will study the evolution of atmospheric CO<sub>2</sub> concentration throughout the centuries. You will visualize the relationship with temperature and create your own representation of the Keeling curve.
+In these notebooks, you will study the evolution of atmospheric CO<sub>2</sub> concentration across the centuries. You will visualize the relationship of athmospheric CO<sub>2</sub> concentration with temperature and create your own representation of the Keeling curve.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1110_en "Climate Change Notebooks")
