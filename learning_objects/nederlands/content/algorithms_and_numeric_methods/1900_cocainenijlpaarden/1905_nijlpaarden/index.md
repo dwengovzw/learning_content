@@ -33,9 +33,9 @@ teacher_exclusive: true
 # STEM-project
 
 Wanneer je met dit leerpad aan de slag gaat in de klas, dan illustreer je de kracht van computers. Manueel rekenen met grote matrices vergt anders veel te veel tijd.<br>
-Bovendien toon je hoe iemand met wiskundige kennis en het gebruik van Python een steentje kan bijdragen aan de aanpak van maatschappelijke uitdagingen.
+Bovendien toon je hoe iemand met wiskundige kennis en het gebruik van Python een steentje kan bijbrengen bij de aanpak van maatschappelijke uitdagingen.
 
-Wiskundige modellering is een praktijk van **computationeel denken** die in heel wat domeinen van toepassing is. Hier wordt deze praktijk gebruikt om te zien in welke mate de nijlpaardenpopulatie in Colombia zou kunnen toenemen.
+Wiskundige modellering is een praktijk van computationeel denken die in heel wat domeinen van toepassing is. Hier wordt deze praktijk gebruikt om te zien in welke mate de nijlpaardenpopulatie in Colombia zou kunnen toenemen.
 
 Maar je kan nog heel wat andere zaken toevoegen aan dit project. De nijlpaarden veroorzaken veranderingen in de omgeving: het water van de rivier en de meren in de buurt verandert van samenstelling, ze hebben een invloed op de populaties van andere dieren en op de lokale bevolking (denk bijvoorbeeld aan impact op de veiligheid en een toename van het toerisme). Je zou de maatschappelijke relevantie van deze leerinhouden meer in de verf kunnen zetten door ruim tijd te besteden aan de impact van de dieren op de maatschappij. 
 
