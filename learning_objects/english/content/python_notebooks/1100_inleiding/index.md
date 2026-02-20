@@ -39,4 +39,4 @@ version: 3
 ---
 # Introduction
 
-In these STEM notebooks, you will work with data that concretely illustrate climate change: data on the atmospheric CO<sub>2</sub> concentration through the centuries, data on the thickness or length of two glaciers in Switzerland, data on sea level in Ostend. You will represent the data in a scatter plot and you will also receive some assignments that help you to interpret the data. If you wish, you can work with data to investigate future-oriented evolutions.
+In these STEM notebooks, you will work with data that actively show the effects of climate change: data on the atmospheric CO<sub>2</sub> concentration through the centuries, the thickness or length of two glaciers in Switzerland, and sea level in Ostend. You will represent the data in a scatter plot and you will also carry out some assignments that will help you to interpret the data. You can also use the data to investigate how things might change in the future.
