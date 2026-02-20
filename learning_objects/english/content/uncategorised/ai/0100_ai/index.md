@@ -46,7 +46,7 @@ Several applications of AI have already been successful, including facial recogn
 
 The internet and the smartphone have had a major impact on the labor market, our household and leisure activities: in other words, our everyday life. Communication applications and social media have changed the service provided by both governments and companies. Online shopping, sharing of photos, digital banking, looking up a recipe or a cheaper energy supplier on the internet, booking a hotel from your armchair ... all these ways of using computers are so well established that a life without them is almost unimaginable.
 
-The **impact** of AI may be even greater. AI is already present in **everyday life**: from facial recognition on Facebook, through Google Translate, Siri, Netflix's suggestions algorithm, chatbots, spam filters ans so in. Insurance firms even have robots sorting incoming emails. AI has also penetrated the legal world, healthcare, and journalism. Education cannot escape it either; just think of learning analytics in education, and the use of ChatGPT.
+The **impact** of AI may be even greater. AI is already present in **everyday life**: from facial recognition on Facebook, through Google Translate, Siri, Netflix's suggestions algorithm, chatbots, spam filters ans so on. Insurance firms even have robots sorting incoming emails. AI has also penetrated the legal world, healthcare, and journalism. Education cannot escape it either; just think of learning analytics in education, and the use of ChatGPT.
 
 ---
 #### References
