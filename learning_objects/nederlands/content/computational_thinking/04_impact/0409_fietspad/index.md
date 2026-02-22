@@ -35,10 +35,6 @@ teacher_exclusive: true
 [Zhaga Motion Sensor Street Lighting in Belgium](https://vimeo.com/383465814)
 
 **Impact: een veelgebruikt fietspad door jongeren veiliger maken**<br>
-....
-
-> **Leestips:**<br>
-
 
 ## Principes van computationeel denken
 
@@ -77,7 +73,7 @@ Slimme straatverlichting kan dus een grote, positieve impact hebben op de maatsc
 
 -----------------------------
 ### Werking 
-In het leerpad '' wordt [de werking] uit de doeken gedaan.
+
 
 -----------------------------
 #### Leestips
