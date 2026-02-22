@@ -99,5 +99,5 @@ De Gussem, J. & Daelemans, W. (2020). Ben je wat je schrijft? *EOS Psyche & Brei
 
 #### Kijktips 
 
-Bekijk de [video Kanaal Z: taalgebruik op cv onthult persoonlijkheid](https://www.youtube.com/watch?v=avaTZAW2vH8).
+Bekijk de [video Kanaal Z: taalgebruik op cv onthult persoonlijkheid (De Winne, 2020)](https://www.youtube.com/watch?v=avaTZAW2vH8).
 Bezoek ook de website van [traicie](https://traicie.com/) en bespreek de objectiviteit van het systeem.
