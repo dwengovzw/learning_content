@@ -65,7 +65,7 @@ Ontwikkelen van een routeplanner.
 **Patroonherkenning**<br>
 1. De gebruikers die op een bepaald stuk weg alle trager rijden, kunnen door het systeem herkend worden als file of vertraagd verkeer.
 2. Het systeem zou een patroon van herhaaldelijke file op een bepaalde plaats kunnen detecteren en aanduiden als te vermijden plaats.
-3. Een routes die doorgaans enkel gekend is door lokale bewoners zou door het rijden ervan  als mogelijk traject kunnen opgeslagen worden in het systeem. 
+3. Een route die doorgaans enkel gekend is door lokale bewoners zou door het rijden ervan  als mogelijk traject kunnen opgeslagen worden in het systeem. 
 </patternRecognition>
 <abstraction>
 **Abstractie**<br>
