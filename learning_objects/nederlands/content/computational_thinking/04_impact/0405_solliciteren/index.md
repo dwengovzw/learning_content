@@ -56,7 +56,7 @@ Voorbeeld: Tot 2018 gebruikte Amazon een sterk bejubeld maar ondertussen afgevoe
 
 #### Kijktips en opdrachten
 
-- Bekijk de [video van Kanaal Z (De Winne, 2020)](https://kanaalz.knack.be/nieuws/taalgebruik-op-cv-onthultpersoonlijkheid/video-normal-1678309.html).<br>
+- Bekijk de [video Kanaal Z: taalgebruik op cv onthult persoonlijkheid (De Winne, 2020)](https://www.youtube.com/watch?v=avaTZAW2vH8).<br>
 Bezoek ook de [website van Traicie](https://traicie.com/) en bespreek de objectiviteit van het systeem.
 
  - In deze [video 'The Robots Are Now Hiring'](https://youtu.be/8QEK7B9GUhM) worden de nieuwe tendensen bij het aanwerven van personeel aangehaald (Wall Street Journal, 2018). <br>Bespreek.
