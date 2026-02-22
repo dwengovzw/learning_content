@@ -73,4 +73,4 @@ Bias komt voor als de data niet representatief zijn. Als men bv. enkel groene ap
 -------------------------------
 
 #### Kijktip
-Bekijk de [video van Furhat Robotics: Unbiased Recruiter Robot (Furhat Robotics, 2018)](https://youtu.be/rPKrdxiEkQ0)
+Bekijk de [video over een 'unbiased recruiter robot' (BBC, 2019)](https://www.bbc.com/news/business-47442953) en de [website van Tengai](https://tengai.io/).
