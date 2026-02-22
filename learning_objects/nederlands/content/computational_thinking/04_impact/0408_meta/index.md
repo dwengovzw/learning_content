@@ -32,28 +32,28 @@ teacher_exclusive: true
 
 <context>
 **Probleemstelling**<br>
-... 
+Hoe zit de werking van een zelfscankassasysteem in elkaar?
 </div>
 </context>
 <decomposition>
 **Decompositie**<br>
 1. Componenten: Zelfscankassa's bestaan uit hardware (zoals scanners en betalingsterminals), software (voor het beheren van transacties en voorraad), en gebruikersinterfaces (touchscreens of mobiele apps).
+2. Het systeem moet producten kunnen identificeren, prijzen kunnen ophalen en betaling kunnen afhandelen. 
+    3. Het systeem moet een klantenkaart kunnen inlezen. 
+    4. Het systeem moet de voorraad aanpassen. 
 </decomposition>
 <patternRecognition>
 **Patroonherkenning**<br>
-Zelfscankassa's gebruiken patroonherkenning om producten te identificeren, prijzen op te halen en betalingsbewerkingen uit te voeren. Ze herkennen streepjescodes, QR-codes en andere patronen om transacties te vergemakkelijken.<br>
--Identificatie van  producten, prijzen, en betalingsmethoden.
-- Herkennen van  streepjescodes, QR-codes, en  betalingsbewerkingpatronen.
- - Versnelling van betalingsprocessen en vermindering van wachttijden.
+Zelfscankassa's gebruiken patroonherkenning om producten te identificeren: ze herkennen bv. streepjescodes en QR-codes.<br>
 </patternRecognition>
 <abstraction>
 **Abstractie**<br>
+    Een product wordt bv. herleid tot een streepjescode.
 </abstraction>
 <algorithms>
 **Algoritmisch denken**<br>
-Het ontwerpen van zelfscankassa's vereist algoritmisch denken voor het ontwikkelen van algoritmen die transacties, voorraadbeheer en prijsberekeningen optimaliseren. Het omvat ook de efficiënte verwerking van betalingen. 
+Het ontwerpen van zelfscankassa's vereist algoritmisch denken voor het ontwikkelen van de nodige algoritmes: algoritmen die transacties, voorraadbeheer en prijsberekeningen optimaliseren en algoritmes voor de efficiënte verwerking van betalingen. 
 </algorithms>
-<implementation>
-... 
+<implementation> 
 </implementation>
 
