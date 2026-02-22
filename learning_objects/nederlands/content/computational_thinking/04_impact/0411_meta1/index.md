@@ -41,7 +41,7 @@ Wat is de werking van een kraan die je kan laten lopen zonder deze aan te raken?
         <ul>
             <li>Bij een geactiveerd toestel: er loopt water uit de kraan.
             <li>Na een tijdje moet het water stoppen met lopen.
-            <li>Is de kraan ingesteld op een bepaald debier of bepaalde tijdsduur?</li>
+            <li>Is de kraan ingesteld op een bepaald debiet of bepaalde tijdsduur?</li>
         </ul>
     <li>Componenten identificeren: soort sensor, microcontroller
     <li>Wat is de invoer? (Afstand hand tot sensor)
