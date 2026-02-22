@@ -51,7 +51,7 @@ Het automatiseren van bepaalde taken kan de werklast van de landbouwers verminde
 
 -----------------------------
 ### Werking 
-In het leerpad <a href="/agriculture"><strong> AI in de landbouw</strong> kan je voorbeelden vinden over AI in land- en tuinbouw en worden praktische voorbeelden zoals het herkennen van een tomaat uit de doeken gedaan. Zo maak je kennis met de mogelijkheden van een AI-systeem voor beeldherkenning, maar leer je ook dat het beperkingen kent.</a>.
+In het leerpad <a href="/agriculture"><strong> AI in de landbouw</strong></a> kan je voorbeelden vinden over AI in land- en tuinbouw en worden praktische voorbeelden zoals het herkennen van een tomaat uit de doeken gedaan. Zo maak je kennis met de mogelijkheden van een AI-systeem voor beeldherkenning, maar leer je ook dat het beperkingen kent.
 
 -----------------------------
 #### Leestips
