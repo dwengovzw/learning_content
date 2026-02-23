@@ -42,7 +42,7 @@ title: Sea level regression
 version: 3
 ---
 # Sea Level - Regression
-You are investigating whether you can obtain a suitable trend line for the evolution of sea level in Ostend using linear regression, or whether you should look for a curve that reflects the trend.
+In this notebook, you will investigate whether you can obtain a suitable trend line for the changes in sea level in Ostend using linear regression, or whether you should look for a curve that better reflects the trend.
 
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1150_en "Notebooks Climate Change")
