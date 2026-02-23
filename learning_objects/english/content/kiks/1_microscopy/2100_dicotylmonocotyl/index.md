@@ -10,7 +10,7 @@ educational_goals:
   source: Source
 - id: id2
   source: Source2
-estimated_time: 1
+estimated_time: 6
 hruid: kiks_dicotylmonocotyl
 keywords:
 - ''
