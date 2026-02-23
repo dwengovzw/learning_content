@@ -43,6 +43,6 @@ version: 3
 ---
 # Sea Level
 
-One of the impacts of climate change is the rising of sea levels. In this notebook, you visualize the evolution of the average sea level in Ostend.
+One of the impacts of climate change is rising sea levels. In this notebook, you will visualise changes in average sea level in Ostend.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1130_en "Climate Change Notebooks")
