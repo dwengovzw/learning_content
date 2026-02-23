@@ -35,12 +35,12 @@ version: 3
 <div class="alert alert-box alert-warning">
 <strong>In summary</strong><br>
 
-Plants adapt to changing conditions such as light, season, temperature, water supply, and atmospheric CO<sub>2</sub> concentration. Through their stomata, they regulate their water balance and ensure that they absorb CO<sub>2</sub> to grow.<br>
-Throughout evolution, plants have found a balance in this. The higher the CO<sub>2</sub> concentration, the fewer stomata they have. The greater the stomatal density, the smaller the stomata. Therefore, the density and size of stomata can be used as a tool to reconstruct the prevailing climate in which the plants grew.
+Plants adapt to changing conditions such as light, season, temperature, water supply, and atmospheric CO<sub>2</sub> concentration. Through their stomata, they regulate their water balance and ensure that they absorb enough CO<sub>2</sub> to grow.<br>
+Throughout history, plants have evolved to find a balance in this. When the CO<sub>2</sub> concentration is higher, plants have fewer stomata. Plants with a higher stomatal density have smaller stomata. The density and size of stomata can therefore be used as a tool to reconstruct the prevailing climate in which the plants grew.
 
-It is important to know how quickly plants adapt, for example, to assess how biodiversity and food supply will be affected by an increasing CO<sub>2</sub> content. Therefore, it is interesting to investigate whether the change in CO<sub>2</sub> concentration during the past 100 years has already had a measurable effect on the stomata of plants.
+It is important to know how quickly plants adapt, for example, to assess how biodiversity and food supply will be affected by increasing CO<sub>2</sub> concentration. It is therefore interesting to investigate whether the change in CO<sub>2</sub> concentration during the past 100 years has already had a measurable effect on the stomata of plants.
 
-After this chapter, you know what the relationship is between photosynthesis and stomata.<br>
-You know what monocotyledons and dicotyledons are.<br>
+After this chapter, you now understand the relationship between photosynthesis and stomata.<br>
+You know about monocotyledons and dicotyledons, and the differences between them.<br>
 You know that the CO<sub>2</sub> concentration and other environmental factors have an influence on the formation of stomata.
 </div>
