@@ -32,9 +32,9 @@ title: Microscopy
 version: 3
 ---
 # Introduction
-No one has ever seen stomata with the naked eye, not even the students. Stomata, therefore, remain an abstract concept for them. For the students and teachers alike, it is a delightful experience to observe stomata with a microscope within the framework of the KIKS project. We use a monocular microscope with the students that magnifies 400 times.
+No one has ever seen stomata with the naked eye. Stomata, therefore, remain an abstract concept. For students and teachers alike, it is an amazing experience to observe stomata with a microscope within the framework of the KIKS project. We use a monocular microscope that magnifies 400 times.
 
 The students can also photograph the stomata through the microscope using a smartphone.
-The micrographs taken by the students can be fed into the deep neural network of KIKS to have the stomata in the photo counted.
+The micrographs taken by the students can be fed into the deep neural network of KIKS to count the stomata in the photo.
 
-This learning path covers how to recognize monocotyledons and dicotyledons in the photos. The influence of environmental factors on the formation of stomata is elucidated through a practical exercise. What atmospheric CO<sub>2</sub>, and hence the temperature of the Earth's surface, mean for the stomata, is explained in detail.
+This learning path covers how to recognize monocotyledons and dicotyledons in photos. The influence of environmental factors on the formation of stomata is explored through a practical exercise. The path also shows the effect of atmospheric CO<sub>2</sub>, and hence the temperature of the Earth's surface, on stomata.
