@@ -38,17 +38,17 @@ version: 3
     <figcaption align = "center">Figure 1: Leaf structure (Zephyris, 2011).</figcaption>
 </figure>
 
-A stomata lies between two guard cells (as seen on the leaf structure in Figure 1). When the guard cells increase in volume, the stomata opens. The guard cells increase in volume by absorbing water. The result is that the guard cells curve, causing the stomata to open (See Figure 2).
+A stoma lies between two guard cells (as seen in the leaf structure in Figure 1). When the volumie of the guard cells increases, the stoma opens. The guard cells increase in volume by absorbing water. The result is that the guard cells curve, causing the stoma to open (see Figure 2).
 
 ![](embed/stomata.png "Stomata")
 <figure>
     <figcaption align = "center">Figure 2: Closed and open stomata.</figcaption>
 </figure>
 
-**Stomata can occur on both sides of a leaf (amphistomatous), or on only one side, usually the underside (hypostomatous), exceptionally the top (epistomatous), e.g., in a water lily.**<br>
+**Stomata can occur on both sides of a leaf (amphistomatous), or on just one side. This is usually the underside (hypostomatous), but can sometimes be the top (epistomatous), e.g., in a water lily.**<br>
 Stomata and the cuticle are seen as **key elements in the evolution of plants**. They ensure that plants can live in different and changing conditions without drying out (Hetherington & Woodward, 2003).
 
-Stomata provide information about the plant's position in the phylogenetic tree of the flowering plants. Among the angiosperms or flowering plants, one distinguishes the **dicots** and the **monocots** (see Figure 3). The stomata of dicots are kidney-shaped, while those of monocots can be kidney-shaped or dumbbell-shaped, depending on the plant. The veins of monocots run parallel and their stomata too. The veins of dicots are branched and their stomata are randomly dispersed across the leaf.
+Stomata provide information about the plant's position in the phylogenetic tree of the flowering plants. The angiosperms or flowering plants are divided into the **dicotyledons (dicots)** and the **monocotyledons (monocots)** (see Figure 3). The stomata of dicots are kidney-shaped, and those of monocots can be kidney-shaped or dumbbell-shaped, depending on the plant. The veins of monocots run parallel, as do their stomata. The veins of dicots are branched and their stomata are randomly dispersed across the leaf.
 
 ![](embed/cotylen.png "Monocot and dicot")
 <figure>
@@ -57,7 +57,7 @@ Stomata provide information about the plant's position in the phylogenetic tree 
 
 <div class="alert alert-box alert-success">
     <strong>Notebook Datatypes for listings</strong><br>
-    On the webpage https://dwengo.org/python/, you'll find the learning path <em>Datatypes</em>. In the notebook <em>1000_Listings.ipynb</em> of this learning path, monocots and dicots are discussed.
+    On the webpage https://dwengo.org/python/, you'll find the learning path <em>Datatypes</em>. In the notebook <em>1000_Listings.ipynb</em> from this learning path, there is more discussion about monocots and dicots.
 </div> 
 
 <div class="alert alert-box alert-success">
