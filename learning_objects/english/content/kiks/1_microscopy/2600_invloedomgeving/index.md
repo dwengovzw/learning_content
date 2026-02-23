@@ -10,7 +10,7 @@ educational_goals:
   source: Source
 - id: id2
   source: Source2
-estimated_time: 1
+estimated_time: 15
 hruid: kiks_invloedomgeving
 keywords:
 - ''
@@ -32,7 +32,7 @@ title: Environmental influence
 version: 3
 ---
 # Influence of the environment on the formation of stomata
-**Experiments confirm that density and size can change through genetic adaptations, as well as through changes in environmental factors.** This means that variations can occur between plant species, between individual specimens of the same species, and between leaves of the same plant. Examples of change in environmental factors:
+**Experiments confirm that density and size of stomata can change through genetic adaptations, as well as through changes in environmental factors.** This means that variations can occur between plant species, between individual specimens of the same species, and between leaves of the same plant. Examples of changes in environmental factors include:
 
 <ul><li>In specimens of the same species, but growing in different conditions (i.e., in the shade or in the sun), variations can occur in stomatal density. In a study on crabwood (Carapa) in the Amazon forest, the stomatal density was greater in the sun-exposed plants (Camargo & Marenco, 2012).</li></ul>
 
@@ -40,17 +40,17 @@ version: 3
 
 ![](embed/bezondschaduw.png "stomata sun - shade")
 <figure>
-    <figcaption align = "center">Figure: Respectively sun-exposed and shaded leaf of <em>Monodora angolensis</em></figcaption>
+    <figcaption align = "center">Figure: Sun-exposed and shaded leaf of <em>Monodora angolensis</em></figcaption>
 </figure>
 
 <div class="alert alert-box alert-success">
 <strong>Machine Learning Notebook: Classification</strong><br>
 
-<ul><li>On the <a href="https://dwengo.org/kiks/">KIKS project page</a>, you will find the 'Classification' learning path, which includes the section 'Stomata sun-shade'. There, work through the notebook <em>0300_StomataZonSchaduwClassificatie.ipynb</em>. You do not yet need to understand everything in this notebook.<br> You will see that the plants that grew in the sun can be separated from the plants that grew in the shade, based solely on the measurements and the density of the stomata.</li></ul>
-<ul><li>Notice that the neural network initially chooses a line completely at random and then adjusts it step by step until a desired separating line is found?</li></ul>
+<ul><li>On the <a href="https://dwengo.org/kiks/">KIKS project page</a>, you will find the 'Classification' learning path, which includes the section 'Stomata sun-shade'. Work through the notebook <em>0300_StomataZonSchaduwClassificatie.ipynb</em>. You do not yet need to understand everything in this notebook.<br> You will see that the plants that grew in the sun can be distinguished from the plants that grew in the shade, based solely on the measurements and density of the stomata.</li></ul>
+<ul><li>Notice that the neural network initially chooses a line completely at random and then adjusts it step by step until a desired separating line is found.</li></ul>
 </div>
 
 <div class="alert alert-box alert-success">
 <strong>Notebook 'Color Images' (optional)</strong><br>
-<ul><li>On the <a href="https://dwengo.org/kiks/">KIKS project page</a>, in the 'Digital images' learning path, you'll find the section 'Color'. In the notebook <em>0200_AfbeeldingenKleur.ipynb</em>, these photos from Sofie Meeus and micro-photos from the Meise Botanic Garden are used.</li></ul>
+<ul><li>On the <a href="https://dwengo.org/kiks/">KIKS project page</a>, in the 'Digital images' learning path, you'll find the section 'Color'. The notebook <em>0200_AfbeeldingenKleur.ipynb</em> uses photos from Sofie Meeus and micro-photos from the Meise Botanic Garden.</li></ul>
 </div>
