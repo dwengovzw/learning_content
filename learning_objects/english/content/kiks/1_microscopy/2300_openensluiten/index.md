@@ -33,11 +33,11 @@ version: 3
 ---
 # Opening and Closing of Stomata 
 
-A plant is constantly seeking a balance between moisture loss and CO<sub>2</sub> uptake, depending on the plant's moisture status, humidity, light, and CO<sub>2</sub> concentration. All these factors, along with the plant’s biological clock, determine if and to what extent the stomata are open.
+Plants are constantly seeking a balance between moisture loss and CO<sub>2</sub> uptake, depending on their moisture status, humidity, light, and CO<sub>2</sub> concentration. All these factors, along with the plant’s biological clock, determine if and to what extent the stomata are open.
 
 Stomata are subject to rhythms such as day and night and the seasons.
 
-It is clear that the stomata 'respond' to **environmental factors**. In the same plant, one can sometimes see the difference between leaves at the bottom of the plant, which are much shaded, and leaves in the crown that are much more exposed to light. Even on the same leaf, stomata can behave differently, because this can be beneficial for the plant; on the same leaf, some stomata can be open while others are closed (see Figure).
+It is clear that the stomata 'respond' to **environmental factors**. In the same plant, it is sometimes even possible to see a difference between leaves at the bottom of the plant, which are more shaded, and leaves in the crown that are much more exposed to light. Even on the same leaf, stomata can behave differently (i.e., some can be open while others are closed), because this can be beneficial for the plant (see Figure).
 
 ![](embed/stomaopentoe.jpg "open and closed stomata")
 <figure>
