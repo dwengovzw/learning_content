@@ -31,7 +31,7 @@ teacher_exclusive: false
 title: Opening and closing of stomata
 version: 3
 ---
-# Opening and Closing of Stomata 
+# Opening and closing of stomata 
 
 Plants are constantly seeking a balance between moisture loss and CO<sub>2</sub> uptake, depending on their moisture status, humidity, light, and CO<sub>2</sub> concentration. All these factors, along with the plant’s biological clock, determine if and to what extent the stomata are open.
 
