@@ -33,7 +33,7 @@ teacher_exclusive: true
 # STEM-project
 
 Wanneer je met dit leerpad aan de slag gaat in de klas, dan illustreer je de kracht van computers. Manueel rekenen met grote matrices vergt anders veel te veel tijd.<br>
-Bovendien toon je hoe iemand met wiskundige kennis en het gebruik van Python een steentje kan bijbdragen aan de aanpak van maatschappelijke uitdagingen.
+Bovendien toon je hoe iemand met wiskundige kennis en het gebruik van Python een steentje kan bijdragen aan de aanpak van maatschappelijke uitdagingen.
 
 Wiskundige modellering is een praktijk van **computationeel denken** die in heel wat domeinen van toepassing is. Hier wordt deze praktijk gebruikt om te zien in welke mate de nijlpaardenpopulatie in Colombia zou kunnen toenemen.
 
