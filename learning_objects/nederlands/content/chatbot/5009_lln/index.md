@@ -1,12 +1,12 @@
 ---
-hruid: cb5_unplugged6lln
+hruid: cb5_unplugged9lln
 version: 3
 language: nl
 title: "Werking lerende chatbots"
 description: "Weking lerende chatbots"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
-    {source: Source, id: id}, 
+    {source: Source, id: id},
     {source: Source2, id: id2}
 ]
 copyright: dwengo
@@ -24,9 +24,9 @@ return_value: {
 }
 estimated_time: 30
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen', 
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen', 
-    'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen',
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-stem-onderzoek',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-wiskunde-modelleren-en-heuristiek'
 ]
 teacher_exclusive: false
@@ -34,7 +34,7 @@ teacher_exclusive: false
 
 # Hoe werkt een lerende chatbot?
 
-Een chatbot op basis van een lerend AI-systeem heeft geleerd door heel veel teksten te lezen. Bijvoorbeeld de teksten van Wikipedia, boodschappen op sociale media en hele boeken die online staan.<br>  
+Een chatbot op basis van een lerend AI-systeem heeft geleerd door heel veel teksten te lezen. Bijvoorbeeld de teksten van Wikipedia, boodschappen op sociale media en hele boeken die online staan.<br>
 In die teksten komen sommige woorden vaak samen voor. In een tekst over een hond of een kat, zal het bv. vaak ook over een dierenarts gaan. In een tekst over een school, zal het vaak over leerkrachten en leerlingen gaan, en over brooddozen, boekentassen, schoolboeken, laptops en soms ook over de schoolbel.
 
 Het AI-systeem onthoudt al die informatie door het op een bepaalde manier te structureren. Eenvoudig gezegd:<br>
@@ -44,7 +44,7 @@ Het AI-systeem onthoudt al die informatie door het op een bepaalde manier te str
 * In dat veld kan je ook verbanden terugvinden, zoals 'koning-koningin' en 'man-vrouw'.
 * De plaats van 'koningin' t.o.v. 'koning', en de plaats van 'vrouw' t.o.v. 'man' ziet er in het veld hetzelfde uit.
 
-**Door de volgende oefeningen te maken zal je beter begrijpen hoe een lerende chatbot te werk gaat en waarom hij soms foute dingen zegt.** 
+**Door de volgende oefeningen te maken zal je beter begrijpen hoe een lerende chatbot te werk gaat en waarom hij soms foute dingen zegt.**
 
 ### Opdracht 1
 
@@ -56,7 +56,7 @@ Bekijk het eerste schema. Lees de tekst die ChatGPT schreef en die hoort bij het
 
 ### Opdracht 2
 
-Bekijk nu het tweede schema. Welke tekst zou ChatGPT kunnen schrijven bij dit schema? 
+Bekijk nu het tweede schema. Welke tekst zou ChatGPT kunnen schrijven bij dit schema?
 
 ![emiliaveld](https://github.com/dwengovzw/learning_content/assets/48352335/25fcec34-9d31-4fc3-92c3-2835edec7f36)
 

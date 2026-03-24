@@ -45,7 +45,7 @@ Assembleer de robot. Gebruik daarvoor de opgelijste elektronica en de onderdelen
 </div>
 
 <div class="dwengo-content sideinfo">
-<h2 class="title">Montage van de servos</h2>
+<h2 class="title">Servos</h2>
 <div class="content">
 Om ervoor te zorgen dat je later minder aan het programma moet aanpassen, kun je nu de servos correct monteren. Zo komen de voorgeprogrammeerde hoeken beter overeen.
 <ol>
