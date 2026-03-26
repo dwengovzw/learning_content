@@ -8,7 +8,7 @@ keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robo
 content_type: "text/markdown"
 estimated_time: 30
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
+    'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
     'http://ilearn.ilabt.imec.be/vocab/tref1/ict',
 
@@ -41,5 +41,21 @@ De aansluiting van de elektronica is relatief eenvoudig. De servos kan je verbin
 <h2 class="title">Opdracht</h2>
 <div class="content">
 Assembleer de robot. Gebruik daarvoor de opgelijste elektronica en de onderdelen die je ge-3D-print hebt. Als je een 9V batterij gebruikt, zorg dan dat je die in de behuizing steekt voordat je de Dwenguino eraan bevestigt.
+</div>
+</div>
+
+<div class="dwengo-content sideinfo">
+<h2 class="title">Servos</h2>
+<div class="content">
+Om ervoor te zorgen dat je later minder aan het programma moet aanpassen, kun je nu de servos correct monteren. Zo komen de voorgeprogrammeerde hoeken beter overeen.
+<ol>
+<li>Zet beide servos eerst op 0°. Hoe je dit doet, vind je in het volledige programma of in het leerpad <a href="https://dwengo.org/physical_computing/">physical computing</a>. </li>
+<li>Bevestig dan de "armpjes" op de servos zoals op de foto's hieronder.
+</li></ol>
+<em>Tip: verwarm het metalen uiteinde van de servos een beetje (bv. met een soldeerbout). Zo kan je het plastic armpje er makkelijker op duwen.</em>
+Servo 1:
+<img src="./img/servo1.jpeg" alt="Montage servo1">
+Servo 2:
+<img src="./img/servo2.jpeg" alt="Montage servo2">
 </div>
 </div>

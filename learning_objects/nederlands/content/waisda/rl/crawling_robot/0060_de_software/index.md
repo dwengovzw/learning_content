@@ -62,9 +62,9 @@ Om de robot te programmeren kan je gebruik maken van onze online programmeeromge
     NewPing sonarA1A0(TRIGGER_PIN_A1, ECHO_PIN_A0, MAX_AFSTAND);
 
     /** @brief Servohoeken voor de eerste servo. Pas aan volgens jouw robot. */
-    int hoekenServo1[] = {165, 150, 135, 120};
+    int hoekenServo1[] = {0, 50, 100, 150};
     /** @brief Servohoeken voor de tweede servo. Pas aan volgens jouw robot. */
-    int hoekenServo2[] = {0, 50, 100, 150};
+    int hoekenServo2[] = {40, 55, 70, 85};
 
     /** @brief Huidige toestand van de robot (hoek van servo1 en servo2). */
     int toestand[] = {hoekenServo1[0], hoekenServo2[1]};
