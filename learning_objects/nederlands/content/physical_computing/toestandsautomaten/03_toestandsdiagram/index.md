@@ -1,8 +1,8 @@
 ---
-hruid: pc_toestandsautomaten2
+hruid: pc_toestandsautomaten3
 version: 3
 language: nl
-title: "Opbouw toestandsdiagram"
+title: "Toestandsdiagrammen"
 description: "We bouwen een toestandsdiagram op aan de hand van een voorbeeld"
 keywords: ["toestandsautomaat", "toestandsdiagram", "finite state machine", "toestand", "voorbeeld"]
 copyright: dwengo
@@ -18,7 +18,14 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-# Opbouw toestandsdiagram
+# Toestandsdiagrammen
+
+We kunnen een automaat voorstellen aan de hand van een toestandsdiagram. Voor elke toestand tekenen we een cirkel met daarin de naam en het nummer van de toestand. De overgangen tussen de toestanden geven we aan met behulp van pijlen tussen deze cirkels. Je ziet een voorbeeld op onderstaande afbeelding.
+
+![toestandsdiagram](./embed/ttd_vb.png)
+
+
+# Opbouw (voorbeeld)
 
 We gaan aan de hand van een voorbeeld uitwerken hoe we een toestandsdiagram voor een bepaald probleem opbouwen. Op deze manier wordt ook duidelijk dat toestandsautomaten krachtige tools zijn om complexe systemen te ontwerpen.
 

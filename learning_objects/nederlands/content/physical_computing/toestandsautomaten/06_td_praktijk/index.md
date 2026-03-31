@@ -1,5 +1,5 @@
 ---
-hruid: pc_toestandsautomaten5
+hruid: pc_toestandsautomaten6
 version: 3
 language: nl
 title: "Toestandsdiagrammen in de praktijk"
@@ -51,6 +51,8 @@ Vervolgens moeten we de toestandsovergangen programmeren bij het indrukken van d
 
 Wanneer de C-knop ingedrukt wordt, ga je naar de volgende toestand met behulp van deze code:
 
+![blockly](@learning-object/pc_toestandsautomaten6_meta1/nl/1)
+
 <div class="dwengo-content dwengo-code-simulator"><pre>
 <code class="language-cpp" data-filename="filename.cpp">
 toestandsnr = toestandsnr + 1;
@@ -62,6 +64,8 @@ if (toestandsnr == 9){
 ### LEDS
 
 Als laatste moeten de LEDs nog aangestuurd worden. Welke LED aan moet staan, hangt af van de huidige toestand. Start van de volgende code in de loop() functie (na het bijwerken van de toestand). Vul op de plaats van de '...' de nodige extra code in.
+
+![blockly](@learning-object/pc_toestandsautomaten6_meta2/nl/1)
 
 <div class="dwengo-content dwengo-code-simulator"><pre>
 <code class="language-cpp" data-filename="filename.cpp">

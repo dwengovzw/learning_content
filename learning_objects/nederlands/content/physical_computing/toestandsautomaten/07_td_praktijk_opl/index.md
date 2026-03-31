@@ -1,5 +1,5 @@
 ---
-hruid: pc_toestandsautomaten6
+hruid: pc_toestandsautomaten7
 version: 3
 language: nl
 title: "Oplossing"
@@ -22,6 +22,8 @@ teacher_exclusive: true
 
 Hieronder staat het volledig afgewerkte programma van de gegeven automaatbeschrijving.
 
+![blockly](@learning-object/pc_toestandsautomaten7_meta/nl/1)
+
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
@@ -29,11 +31,14 @@ Hieronder staat het volledig afgewerkte programma van de gegeven automaatbeschri
 #include <Wire.h>
 #include <Dwenguino.h>
 
+#define BUTTON_PIN_SW_C SW_C
+
 unsigned char toestandsnr = 0;
 
 void setup()
 {
   initDwenguino();
+  pinMode(BUTTON_PIN_SW_C, INPUT_PULLUP);
 }
 
 void loop()

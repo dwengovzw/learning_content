@@ -1,5 +1,5 @@
 ---
-hruid: pc_toestandsautomaten3
+hruid: pc_toestandsautomaten4
 version: 3
 language: nl
 title: "Opdrachten toestandsdiagrammen"
