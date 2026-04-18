@@ -45,10 +45,10 @@ teacher_exclusive: true
 Slimme straatverlichting kan een grote impact hebben op de maatschappij:
 -  Verbeterde veiligheid
     - Slimme straatverlichting verhoogt de zichtbaarheid op openbare wegen, trottoirs en fietspaden, waardoor de veiligheid van voetgangers, fietsers en automobilisten wordt verbeterd, vooral 's nachts of bij slechte weersomstandigheden.
-    - Verlichting die helderder wordt wanneer er beweging wordt gedetecteerd, kan potentiële misdaden ontmoedigen en helpen bij het verminderen van het aantal ongevallen en overvallen op straat 
+    - Verlichting die helderder wordt wanneer er beweging wordt gedetecteerd, kan potentiële misdaden ontmoedigen en helpen bij het verminderen van het aantal ongevallen en overvallen op straat. 
 -  Energie-efficiëntie en kostenbesparing
-    - Slimme straatverlichting maakt gebruik van LED-technologie en sensoren om het energieverbruik te optimaliseren. Verlichting kan worden gedimd of uitgeschakeld wanneer er geen verkeer is, wat resulteert in aanzienlijke energiebesparingen en lagere operationele kosten voor steden en gemeenten.
-    - Door het verminderen van het energieverbruik en de CO2-uitstoot draagt slimme straatverlichting bij aan de inspanningen voor duurzaamheid en milieubescherming.
+    - Slimme straatverlichting maakt gebruik van ledtechnologie en sensoren om het energieverbruik te optimaliseren. Verlichting kan worden gedimd of uitgeschakeld wanneer er geen verkeer is, wat resulteert in aanzienlijke energiebesparingen en lagere operationele kosten voor steden en gemeenten.
+    - Door het verminderen van het energieverbruik en de CO<sub>2</sub>-uitstoot draagt slimme straatverlichting bij aan de inspanningen voor duurzaamheid en milieubescherming.
 -  Verbeterde stedelijke planning
     - Gegevens verzameld door slimme straatverlichtingssystemen, zoals verkeerspatronen, drukte op bepaalde locaties en omgevingscondities, kunnen worden gebruikt voor stedelijke planning en infrastructuurverbeteringen.
     - Steden kunnen deze gegevens gebruiken om verkeersstromen te optimaliseren, openbare ruimtes beter te ontwerpen en de veiligheid te verbeteren op basis van realtime informatie over de omgeving.
@@ -68,8 +68,8 @@ Slimme straatverlichting kan dus een grote, positieve impact hebben op de maatsc
 ## Gerelateerde voorbeelden: 
 
 [Agentschap Wegen en Verkeer werkt met ML6 aan slimme verlichting langs snelwegen](https://datanews.knack.be/nieuws/agentschap-wegen-en-verkeer-werkt-met-ml6-aan-slimme-verlichting-langs-snelwegen/)<br>
-[A smart and data driven solution for the road lighting on Flemish highways](https://www.ml6.eu/client-cases/predictive-steering-of-road-lighting-on-flemish-highways-turing-project)
-
+[A smart and data driven solution for the road lighting on Flemish highways](https://www.ml6.eu/client-cases/predictive-steering-of-road-lighting-on-flemish-highways-turing-project)<br>
+[Het systeem van intelligente verkeerslichten MobiliData](https://www.mobilidata.be/nl)
 
 -----------------------------
 ### Werking 
