@@ -101,7 +101,7 @@ In de **zorgsector** zag men bv. de mogelijkheid tot het inzetten van medische *
 Bij de **brandweer** van Genk zet men drones in om een betere inschatting te kunnen van een incident.
 > [Genks proefproject met safety drones krijgt navolging in het hele land](https://www.vrt.be/vrtnws/nl/2023/03/14/genks-proefproject-met-safety-drones-krijgt-navolging-in-het-hel/)<br>
 
-Je kan ook een ander voorbeeld in verband met verkeer behandelen, zoals MobiliData, het systeem van **intelligente verkeerslichten** die op groen springen als de hulpdiensten eraan komen. Ook dat systeem maakt gebruik van data over het wegennet. En net zoals de routeplanner heeft het de positie van de gebruiker nodig. Verrassend is dat niet alleen hulpdiensten kunnen connecteren met deze intelligente lichten. Iedereen kan de verkeersapp gebruiken om met het systeem te connecteren. Zo zou het ook fietsers prioriteit kunnen geven bij slecht weer.
+Je kan ook een ander voorbeeld in verband met verkeer behandelen, zoals [MobiliData](https://www.mobilidata.be/nl), het systeem van **intelligente verkeerslichten** die op groen springen als de hulpdiensten eraan komen. Ook dat systeem maakt gebruik van data over het wegennet. En net zoals de routeplanner heeft het de positie van de gebruiker nodig. Verrassend is dat niet alleen hulpdiensten kunnen connecteren met deze intelligente lichten. Iedereen kan de verkeersapp gebruiken om met het systeem te connecteren. Zo zou het ook fietsers prioriteit kunnen geven bij slecht weer.
 
 -----------------------------
 ### Werking 
@@ -114,14 +114,16 @@ In het leerpad 'Grafen' wordt [de werking van een routeplanner](https://www.dwen
 [TomTom Mapmakers: Meet Leen D’hondt, Product Manager, TomTom Maps](https://developer.tomtom.com/blog/spotlight/tomtom-mapmakers-meet-leen-dhondt-product-manager-tomtom-maps/)<br>
 [‘Vermijden, verschuiven en verschonen: hoe kunnen we e-commerce duurzamer organiseren?’](https://www.knack.be/nieuws/vermijden-verschuiven-en-verschonen-hoe-kunnen-we-e-commerce-duurzamer-organiseren/)<br>
 [Delivery robots begin to look real](https://www.gpsworld.com/delivery-robots-begin-to-look-real/)<br>
-[Autonomous Robots for Industry 4.0](https://starshipdeliveries.com/industry/)
+[Autonomous Robots for Industry 4.0](https://starshipdeliveries.com/industry/)<br>
+[Mythes en waarheden over intelligente verkeerslichten](https://www.mobilidata.be/nl/nieuws/mythes-en-waarheden-over-intelligente-verkeerslichten)
 
 #### Kijktips
 
 [Delivery robotsStarship Completes One Million Autonomous Deliveries](https://youtu.be/tQZWe1JFR9g)<br>
 [A Day in the Life of a Starship Robot](https://youtu.be/Z417CncwQsg)<br>
 [Presentatie over o.a. werking delivery robots](https://youtu.be/6rq6Hx0PRAc)<br>
-[World first: new drone network for smooth and safe traffic in Antwerp](https://youtu.be/w3bzDc5pEq0)
+[World first: new drone network for smooth and safe traffic in Antwerp](https://youtu.be/w3bzDc5pEq0)<br>
+[Struggling delivery robots get a boost from helpful humans in Finland](https://abcnews.com/video/132083622/)
 
 -----
 ##### Bronnen
