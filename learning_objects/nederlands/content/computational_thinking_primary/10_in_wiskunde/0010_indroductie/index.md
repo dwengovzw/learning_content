@@ -35,3 +35,17 @@ Samen met Marie Crombez, een studente van de lerarenopleiding lager onderwijs, o
 
 Verder in dit leerpad maak je kennis met de tool 'de klimopladder' en kan je je ook verdiepen in enkele voorbeeldlessen.<br>
 Dit materiaal werd reeds getest in de klas. 
+
+# De klimopladder 
+
+Deze klimopladder is een instrument dat leerlingen kunnen gebruiken om problemen op te lossen in de les wiskunde.
+
+<img width="600" height="800" alt="fysiekeladder" src="https://github.com/user-attachments/assets/7110cdbd-c28d-4896-9c3f-9d2b0292872d" />
+
+<img width="707" height="1000" alt="klimopladderCDachterkant" src="https://github.com/user-attachments/assets/d314233f-d84c-4d70-a8ac-9591978be195" />
+<img width="707" height="1000" alt="klimopladderCDvoorkant" src="https://github.com/user-attachments/assets/e593b6a9-9ce7-4a6b-96f9-87867e83d1f5" />
+
+Deze [pdf](https://dwengo.org/assets/files/computational_thinking_primary/klimopladder_wiksunde.pdf) van de klimopladder kan je downloaden. 
+
+
+
