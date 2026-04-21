@@ -30,8 +30,9 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Inleiding
-Computationeel kunnen denken is noodzakelijk om de digitale wereld te begrijpen. Vandaar de introductie van de nieuwe eindtermen 'computationeel denken en handelen' in de eerste, tweede en derde graad van het Vlaamse secundair onderwijs. <br>
-Mogelijk is het voor jou nog niet helemaal duidelijk wat computationeel denken juist inhoudt en ben je nog niet vertrouwd met de nieuwe terminologie. Dan is het niet evident de concepten en praktijken van computationeel denken te herkennen, laat staan toe te passen. Nochtans gebruiken we computationeel denken vaak in ons dagdagelijkse leven, en komt het overvloedig, doch impliciet, aan bod in veel lessen. 
+Computationeel kunnen denken is noodzakelijk om de digitale wereld te begrijpen. Vandaar dat 'computationeel denken' nu ook werd opgenomen in de minimumdoelen van het Vlaamse basisonderwijs.<br>
+Mogelijk is het voor jou nog niet helemaal duidelijk wat computationeel denken juist inhoudt en ben je nog niet vertrouwd met de nieuwe terminologie. Dan is het niet evident de concepten en praktijken van computationeel denken te herkennen, laat staan toe te passen. Nochtans gebruiken we computationeel denken vaak in ons dagdagelijkse leven, en komt het overvloedig, doch impliciet, aan bod in veel lessen. <br>
+Dat betekent dat je computationeel denken niet als een apart onderwerp hoeft aan te brengen, maar zou kunnen integreren in bestaande lessen door het expliciet te maken. 
 
 <div class="alert alert-box alert-success">
     <strong>Nodige kennis</strong><br>
