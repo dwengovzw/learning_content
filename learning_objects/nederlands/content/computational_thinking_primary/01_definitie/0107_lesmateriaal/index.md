@@ -2,7 +2,7 @@
 hruid: ct01_07_basisonderwijs
 version: 3
 language: nl
-title: "Lesmateriaal"
+title: "TODO Lesmateriaal"
 description: "Principes van programmeren"
 keywords: [""]
 educational_goals: [
