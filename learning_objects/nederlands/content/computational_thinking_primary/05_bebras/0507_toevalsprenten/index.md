@@ -2,7 +2,7 @@
 hruid: ct05_07_basisonderwijs
 version: 3
 language: nl
-title: "Toevalsprenten: Abstractie en algoritme"
+title: "TODO Toevalsprenten: Abstractie en algoritme"
 description: "Toevalsprenten: Abstractie en algoritme"
 keywords: [""]
 educational_goals: [
@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14]
+target_ages: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
