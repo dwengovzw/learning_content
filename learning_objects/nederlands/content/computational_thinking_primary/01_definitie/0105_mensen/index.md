@@ -2,7 +2,7 @@
 hruid: ct01_05_basisonderwijs
 version: 3
 language: nl
-title: "Aandachtspunt: Mensen"
+title: "TODO Aandachtspunt: Mensen"
 description: "Aandachtspunt: Mensen"
 keywords: [""]
 educational_goals: [
