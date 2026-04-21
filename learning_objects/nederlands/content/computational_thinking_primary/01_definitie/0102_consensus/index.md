@@ -2,8 +2,8 @@
 hruid: ct01_02_basisonderwijs
 version: 3
 language: nl
-title: "Aandachtspunten"
-description: "Aandachtspunten"
+title: "Misconcepties"
+description: "Aandachtspunt"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,12 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Aandachtspunten
-
-## Consensus over de basisconcepten
-
-Misschien kwam je wel al definities tegen voor computationeel denken die verschillen van de definitie die wij voorstellen. Dat komt omdat computationeel denken heel wat concepten en praktijken kent en neit iedereen elk concept of praktijk even belangrijk vindt. Bovendien verandert de inhoud van de term 'computationeel denken' mee met wat computers kunnen. 
-Internationaal bestaat er dan ook geen consensus over een definitie van computationeel denken. De definitie die wij voorstellen sluit echter aan bij de Vlaamse minimumdoelen. Uit onderzoek blijkt dat er wel consensus is over de concepten die aan de basis liggen van computationeel denken (Bocconi, 2016; Grover & Pea, 2017; Lodi, 2020; Lowe & Brophy, 2017; Selby & Woolard, 2013). In de Vlaamse minimumdoelen wordt er vertrokken van de basisconcepten **decompositie, patroonherkenning, abstractie en algoritme**.
+# Aandachtspunt
 
 ## Let op voor misconcepties
 
