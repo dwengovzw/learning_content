@@ -42,6 +42,8 @@ Maar je kan nog heel wat andere zaken toevoegen aan dit project. De nijlpaarden 
 De opstellers van het *eindexamen* biologie in Nederland lieten zich ook inspireren door deze nijlpaardenpopulatie. Ze wijdden er een vraag aan in het examen van 2025. De [opgave](https://www.examenblad.nl/2025/vwo/documenten/cse-1/vw-1018-a-25-1-o) en [oplossing](https://www.examenblad.nl/2025/vwo/documenten/cse-1/vw-1018-a-25-1-c) kan je online raadplegen. In deze examenvragen hebben ze het o.a. over koolstof- en stikstofisotopen, en eutrofiëring.
 Je kan het project dus zeker uitbreiden met inhouden uit biologie en chemie.  
 
+Dit project kan leiden tot een klasdiscussie of verder onderzoek i.v.m. met [exoten (planten en dieren) bij ons](https://www.ecopedia.be/exoten). 
+
 
 ------------------------
 #### Webpagina's waar je foto's kan vinden om deze leerinhouden te illustreren
