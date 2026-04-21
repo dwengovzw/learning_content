@@ -2,7 +2,7 @@
 hruid: ct01_03_basisonderwijs
 version: 3
 language: nl
-title: "Aandachtspunt: Misconcepties"
+title: "Uitleg bij de misconcepties"
 description: "Aandachtspunt: Misconcepties"
 keywords: [""]
 educational_goals: [
