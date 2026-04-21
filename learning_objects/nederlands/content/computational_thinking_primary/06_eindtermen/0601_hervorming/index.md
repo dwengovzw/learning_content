@@ -2,7 +2,7 @@
 hruid: ct06_01_basisonderwijs
 version: 3
 language: nl
-title: "Hervorming"
+title: "Minimumdoelen"
 description: "Hervorming"
 keywords: [""]
 educational_goals: [
