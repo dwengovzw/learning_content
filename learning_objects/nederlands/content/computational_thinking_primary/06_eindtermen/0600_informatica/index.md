@@ -2,7 +2,7 @@
 hruid: ct06_00_basisonderwijs
 version: 3
 language: nl
-title: "Informatica"
+title: "TODO Informatica"
 description: "Informatica"
 keywords: [""]
 educational_goals: [
