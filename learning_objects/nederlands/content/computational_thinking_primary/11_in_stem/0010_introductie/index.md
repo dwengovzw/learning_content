@@ -43,4 +43,4 @@ Deze aangepaste en meer uitgebreide klimopladder is een instrument dat leerlinge
 <img width="707" height="1000" alt="klimopladderSTEMachterkant" src="https://github.com/user-attachments/assets/b3a9ffca-1fa1-443f-a0df-27dcdafa2255" />
 
 
-Deze [pdf](https://dwengo.org/assets/files/computational_thinking_primary/klimopladder_STEM.pdf) van de klimopladder kan je downloaden. 
+Deze [pdf](https://dwengo.org/assets/files/computational_thinking/Klimopladder_ComputationeelDenken_STEM_Dwengo.pdf) van de klimopladder kan je downloaden. 
