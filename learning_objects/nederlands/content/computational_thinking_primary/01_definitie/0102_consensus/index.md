@@ -33,12 +33,8 @@ teacher_exclusive: true
 
 ## Consensus over de basisconcepten
 
-Computationeel denken kent heel wat concepten en praktijken. Die concepten en praktijken worden niet door iedereen op dezelfde manier gepercipieerd: de relevantie van een bepaald aspect verschilt naargelang het doel waarvoor iemand computationeel denken wil gebruiken; ook iemands opleiding speelt daar een rol in. Wat voor de ene persoon een concept is van computationeel denken, wordt door een ander mogelijk als een toepassing ervan beschouwd. Bovendien verandert de inhoud van de term 'computationeel denken' mee met wat computers kunnen. 
-Niet iedereen verstaat dus hetzelfde onder ‘computationeel denken’ en ook de manier waarop iemand computationeel denken aanwendt, verschilt (zie ook leerpad ['Historiek'](https://www.dwengo.org/learning-path.html?hruid=ct7_historiek&language=nl&te=true&source_page=%2Fcomputational_thinking%2F&source_title=%20Computationeel%20Denken#ct_historiek1;nl;3)). 
-
-Internationaal bestaat er dan ook geen consensus over een definitie van computationeel denken. Maar uit onderzoek blijkt dat er wel consensus is over bepaalde concepten die aan de basis liggen van computationeel denken, nl. **decompositie, generalisatie en patroonherkenning, abstractie en algoritme** (Bocconi, 2016; Grover & Pea, 2017; Lodi, 2020; Lowe & Brophy, 2017; Selby & Woolard, 2013). 
-
-> Om computationeel denken te kunnen introduceren in het onderwijs is het best dat het begrip duidelijk is. Voor het Vlaamse onderwijs is er een definitie van computationeel denken meegegeven met de eindtermen van de eerste graad (zie leerobject 'Definitie').
+Misschien kwam je wel al definities tegen voor computationeel denken die verschillen van de definitie die wij voorstellen. Dat komt omdat computationeel denken heel wat concepten en praktijken kent en neit iedereen elk concept of praktijk even belangrijk vindt. Bovendien verandert de inhoud van de term 'computationeel denken' mee met wat computers kunnen. 
+Internationaal bestaat er dan ook geen consensus over een definitie van computationeel denken. De definitie die wij voorstellen sluit echter aan bij de Vlaamse minimumdoelen. Uit onderzoek blijkt dat er wel consensus is over de concepten die aan de basis liggen van computationeel denken (Bocconi, 2016; Grover & Pea, 2017; Lodi, 2020; Lowe & Brophy, 2017; Selby & Woolard, 2013). In de Vlaamse minimumdoelen wordt er vertrokken van de basisconcepten **decompositie, patroonherkenning, abstractie en algoritme**.
 
 ## Let op voor misconcepties
 
