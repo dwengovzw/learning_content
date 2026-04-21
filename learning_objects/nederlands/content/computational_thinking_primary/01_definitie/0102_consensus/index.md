@@ -40,23 +40,24 @@ Internationaal bestaat er dan ook geen consensus over een definitie van computat
 
 > Om computationeel denken te kunnen introduceren in het onderwijs is het best dat het begrip duidelijk is. Voor het Vlaamse onderwijs is er een definitie van computationeel denken meegegeven met de eindtermen van de eerste graad (zie leerobject 'Definitie').
 
-## Consensus over de misconcepties
+## Let op voor misconcepties
 
-Er is echter ook heel wat consensus over wat computationeel denken **niet** is en wat het **wel** is. Helaas doen nogal wat misconcepties de ronde. 
-
-Het is belangrijk dat leerkrachten deze misconcepties kennen.
+Helaas zijn er nogal wat hardnekkige misvattingen over computationeel denken.
 
 <div class="alert alert-box alert-danger">
-    <strong><h5>Misconcepties over computationeel denken.</h5></strong>
+    <strong><h5>Help je mee om de misvattingen de wereld uit te helpen?</h5></strong>
+    We benadrukken graag:
     <ol>
-        <li>Computationeel denken is "denken als een computer".</li>
-        <li>Computationeel denken is dé beste manier van denken, en dé beste manier om een probleem op te lossen.</li>
-        <li>Computationeel denken is gelijk aan ICT.</li>
-        <li>Computationeel denken is gelijk aan programmeren.</li>
-        <li>Computationeel denken is enkel interessant voor programmeurs en andere informatici.</li>  
-        <li>Computationeel denken is een generieke vaardigheid die wordt getransfereerd.</li>
-        <li>Computationeel denken kan louter unplugged geleerd worden.</li>
-        <li>Computationeel denken is een louter technologisch fenomeen.</li>
+        <li>Computationeel denken is ook relevant buiten wiskunde en wetenschappen.</li>
+        <li>Computationeel denken is geen wiskundige discipline.</li>
+        <li>Computationeel denken is niet dé beste manier van denken, noch dé beste manier om een probleem op te lossen.</li>
+        <li>Computationeel denken is niet gelijk aan ICT.</li>
+        <li>Computationeel denken is niet gelijk aan programmeren.</li>
+        <li>Computationeel denken is niet "denken als een computer".</li>
+        <li>Computationeel denken is niet enkel interessant voor programmeurs en andere informatici.</li>  
+        <li>Computationeel denken is geen generieke vaardigheid die zomaar wordt getransfereerd.</li>
+        <li>Computationeel denken kan niet louter unplugged geleerd worden.</li>
+        <li>Computationeel denken is geen louter technologisch fenomeen.</li>
     </ol>
 </div>
 
