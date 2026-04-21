@@ -42,10 +42,10 @@ Deze klimopladder is een instrument dat leerlingen kunnen gebruiken om problemen
 
 <img width="600" height="800" alt="fysiekeladder" src="https://github.com/user-attachments/assets/7110cdbd-c28d-4896-9c3f-9d2b0292872d" />
 
-<img width="707" height="1000" alt="klimopladderCDachterkant" src="https://github.com/user-attachments/assets/d314233f-d84c-4d70-a8ac-9591978be195" />
 <img width="707" height="1000" alt="klimopladderCDvoorkant" src="https://github.com/user-attachments/assets/e593b6a9-9ce7-4a6b-96f9-87867e83d1f5" />
+<img width="707" height="1000" alt="klimopladderCDachterkant" src="https://github.com/user-attachments/assets/d314233f-d84c-4d70-a8ac-9591978be195" />
 
-Deze [pdf](https://dwengo.org/assets/files/computational_thinking_primary/klimopladder_wiksunde.pdf) van de klimopladder kan je downloaden. 
+Deze [pdf](https://dwengo.org/assets/files/computational_thinking_primary/klimopladder_wiskunde.pdf) van de klimopladder kan je downloaden. 
 
 
 
