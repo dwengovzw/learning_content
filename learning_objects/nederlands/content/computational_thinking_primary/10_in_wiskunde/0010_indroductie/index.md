@@ -13,7 +13,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [12, 13, 14, 15, 16, 17, 18]
+target_ages: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 difficulty: 3
 return_value: {
     callback_url: callback-url-example,
@@ -30,3 +30,8 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 # Inleiding
+
+Samen met Marie Crombez, een studente van de lerarenopleiding lager onderwijs, ontwierpen we **een tool en voorbeeldlessen** om computationeel denken zinvol in te zetten in de wiskundeles. Ons doel daarbij was om leerlingen meer inzicht te geven in de wiskundige praktijken die ze krijgen aangeleerd, zoals bv. bij handig rekenen of het oplossen van vraagstukken. 
+
+Verder in dit leerpadmaak kennis met de tool 'de klimopladder' en kan je je ook verdiepen in enkele voorbeeldlessen.<br>
+Dit materiaal werd reeds getests in de klas. 
