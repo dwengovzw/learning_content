@@ -1,8 +1,8 @@
 ---
-hruid: pc_rijdenderobot_basics_solution
+hruid: pc_rijdenderobot_vierkant_oplossing
 version: 3
 language: nl
-title: "Eerste programma"
+title: "Rijden in een vierkant: oplossing"
 description: "Oplossing van de oefening: laat de robot in een vierkant rijden"
 keywords: ["Blockly", "Dwenguino", "robot", "rijdende robot", "servo", "motor"]
 copyright: dwengo
@@ -15,9 +15,9 @@ estimated_time: 1
 teacher_exclusive: true
 ---
 
-# Oplossing: robot in vierkant
+# Oplossing: rijden in een vierkant
 
-![blockly](@learning-object/pc_rijdenderobot_basics_solution_blocks/nl/1)
+![blockly](@learning-object/pc_rijdenderobot_vierkant_oplossing_blocks/nl/1)
 
 
 <div class="dwengo-content important">

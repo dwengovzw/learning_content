@@ -1,5 +1,5 @@
 ---
-hruid: pc_rijdenderobot_basics_blocks
+hruid: pc_rijdenderobot_sonar_blocks
 version: 1
 language: nl
 title: "Meta"

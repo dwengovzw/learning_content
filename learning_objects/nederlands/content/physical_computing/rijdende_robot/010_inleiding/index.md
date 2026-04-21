@@ -17,6 +17,6 @@ teacher_exclusive: false
 
 # Inleiding
 
-In dit leerpad ga jij aan de slag met DwenguinoBlockly om een rijdend robotje te laten rijden.
+In dit leerpad ga jij aan de slag met de simulator in DwenguinoBlockly om een rijdend robotje te laten rijden.
 
 Je leert wat een dc-motor is, hoe onze simulator werkt en hoe je met die kennis een robotje laat rondbewegen.

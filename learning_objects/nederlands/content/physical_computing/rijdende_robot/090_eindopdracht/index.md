@@ -1,5 +1,5 @@
 ---
-hruid: pc_rijdenderobot_final_excercise
+hruid: pc_rijdenderobot_eindopdracht
 version: 3
 language: nl
 title: "Eindopdracht"

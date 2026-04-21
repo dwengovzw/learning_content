@@ -1,5 +1,5 @@
 ---
-hruid: pc_rijdenderobot_final_solution
+hruid: pc_rijdenderobot_eindopdracht_solution
 version: 3
 language: nl
 title: "Eindopdracht: oplossing"
@@ -17,4 +17,4 @@ teacher_exclusive: true
 
 # Eindopdracht: oplossing
 
-![blockly](@learning-object/pc_rijdenderobot_final_solution_blocks/nl/1)
+![blockly](@learning-object/pc_rijdenderobot_eindopdracht_oplossing_blocks/nl/1)

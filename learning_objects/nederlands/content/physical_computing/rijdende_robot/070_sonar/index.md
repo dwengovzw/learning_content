@@ -1,10 +1,10 @@
 ---
-hruid: pc_rijdenderobot_sensor
+hruid: pc_rijdenderobot_sonar
 version: 3
 language: nl
-title: "Afstandssensor"
-description: "Uitleg over de afstandssensor"
-keywords: ["Blockly", "Dwenguino", "robot", "rijdende robot", "servo", "afstandssensor", "ultrasone sensor"]
+title: "Afstandssensor - sonar"
+description: "Uitleg over afstandssensoren en de sonar"
+keywords: ["Blockly", "Dwenguino", "robot", "rijdende robot", "servo", "afstandssensor", "ultrasone sensor", "sonar"]
 copyright: dwengo
 licence: dwengo
 content_type: text/markdown
@@ -15,7 +15,7 @@ estimated_time: 1
 teacher_exclusive: false
 ---
 
-# Afstandssensor
+# Afstandssensor: sonar
 
 Een afstandssensor doet wat zijn naam zegt: het meet hoe ver iets voor de robot is. Dit is precies wat we zoeken!
 
@@ -27,7 +27,7 @@ Er zijn verschillende soorten afstandssensors. Wij gebruiken een ultrasone senso
 
 Het programmeerblokje voor de sonar vind je opnieuw onder 'Dwenguino'. We geven een voorbeeldje over hoe je het moet gebruiken. Het gegeven programma leest de waarde van de sonar uit en print deze op het lcd.
 
-![blockly](@learning-object/pc_rijdenderobot_sensor_blocks/nl/1)
+![blockly](@learning-object/pc_rijdenderobot_sonar_blocks/nl/1)
 
 <div class="dwengo-content assignment">
 <h2 class="title">Stoppen voor de muur</h2>

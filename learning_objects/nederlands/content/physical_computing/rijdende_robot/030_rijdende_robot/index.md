@@ -17,7 +17,7 @@ teacher_exclusive: false
 
 # De Rijdende Robot
 
-Straks gaan jullie een robotje laten rondbewegen. Maar wat is zo een **rijdende robot**?
+Straks gaan jullie een robotje laten rondbewegen. Maar wat heb je nodig om een **rijdende robot** te laten rijden?
 
 Onze rijdende robot heeft twee wielen. Elk wiel heeft een motor die het laat draaien. Als beide motoren even snel draaien, rijdt het robotje recht vooruit. Als één wiel sneller draait dan het andere, draait de robot. Zo kan hij alle kanden op bewegen. Deze manier van rijden noemen we *differentiële aandrijving* (elk wiel kan apart draaien).
 

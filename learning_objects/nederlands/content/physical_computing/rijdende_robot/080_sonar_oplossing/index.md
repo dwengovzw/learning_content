@@ -1,9 +1,9 @@
 ---
-hruid: pc_rijdenderobot_wall_solution
+hruid: pc_rijdenderobot_sonar_oplossing
 version: 3
 language: nl
-title: "Eerste programma"
-description: "Oplossing van de oefening: laat de robot in een vierkant rijden"
+title: "Afstandssensor: oplossing"
+description: "Oplossing van de oefening: laat de robot stoppen voor de muur"
 keywords: ["Blockly", "Dwenguino", "robot", "rijdende robot", "servo", "motor"]
 copyright: dwengo
 licence: dwengo
@@ -15,9 +15,9 @@ estimated_time: 1
 teacher_exclusive: true
 ---
 
-# Oplossing: stoppen voor muur
+# Oplossing: stoppen voor de muur
 
-![blockly](@learning-object/pc_rijdenderobot_wall_solution_blocks/nl/1)
+![blockly](@learning-object/pc_rijdenderobot_sonar_oplossing_blocks/nl/1)
 
 
 <div class="dwengo-content important">
