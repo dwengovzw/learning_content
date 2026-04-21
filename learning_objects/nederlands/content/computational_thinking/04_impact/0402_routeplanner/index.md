@@ -91,7 +91,8 @@ Het gebruik van routeplanners kan ervoor zorgen dat een bedrijf **de kosten en d
 > ["Without location technology, delivering packages for Christmas would be a nightmare!"](https://www.here.com/learn/blog/last-mile-holiday-season-2021)
 
 **Rijdende robots** worden gebruikt om in de buurt van de supermarkt etenswaren en andere boodschappen te bezorgen.
-> [GETEST. Wij lieten onze boodschappen leveren door robot van Carrefour: “We geloven onze ogen niet ”](https://www.nieuwsblad.be/cnt/dmf20230726_96924324)
+> [GETEST. Wij lieten onze boodschappen leveren door robot van Carrefour: “We geloven onze ogen niet ”](https://www.nieuwsblad.be/cnt/dmf20230726_96924324)<br>
+> [Colruyt levert in Leuven boodschappen aan huis met wagentje zonder chauffeur](https://www.vrt.be/vrtnws/nl/2026/03/31/colruyt-levert-boodschappen-aan-huis-met-wagentje-zonder-chauffe/)
 
 Behalve in de verkoop, is men ook in andere sectoren gaan nadenken over de opportuniteiten van navigatiesystemen.<br> Robots en drones kunnen a.d.h.v. een digitaal navigatiesysteem de weg vinden.
 
