@@ -2,8 +2,8 @@
 hruid: ct01_02_basisonderwijs
 version: 3
 language: nl
-title: "Aandachtspunt: Consensus"
-description: "Aandachtspunt: Consensus"
+title: "Aandachtspunten"
+description: "Aandachtspunten"
 keywords: [""]
 educational_goals: [
     {source: Source, id: id}, 
