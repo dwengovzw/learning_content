@@ -9,7 +9,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [10, 11, 12]
+target_ages: [13, 14, 15, 16, 17, 18]
 difficulty: 3
 estimated_time: 1
 skos_concepts: [

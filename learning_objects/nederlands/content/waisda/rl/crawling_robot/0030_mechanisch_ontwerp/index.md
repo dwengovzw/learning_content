@@ -8,7 +8,7 @@ keywords: ["AI", "reïnforcement learning", "versterkend leren", "kruipende robo
 content_type: "text/markdown"
 estimated_time: 2
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
+    'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
     'http://ilearn.ilabt.imec.be/vocab/tref1/ict',
 
@@ -33,10 +33,10 @@ Het lichaam van de robot bestaat uit de volgende onderdelen:
 - een arm, deze bestaat uit een bovenarm, een onderarm en een schep.
 - Twee elastieken.
 
-Hieronder zie je een render en een foto van de geassembleerde robot. 
+Hieronder zie je een render en een foto van de geassembleerde robot.
 
 ![Render van de kruipende robot.](img/robot_light_1.png)
-![Foto van de kruipende robot.](img/kruipende_robot.jpg)
+![Foto van de kruipende robot.](img/kruipende_robot.jpeg)
 
 
 
