@@ -9,7 +9,8 @@
     {
       "learningobject_hruid": "ct11_00_basisonderwijs",
       "version": "3",
-      "language": "nl"
+      "language": "nl",
+      "start_node": true
     } 
   ]
 }

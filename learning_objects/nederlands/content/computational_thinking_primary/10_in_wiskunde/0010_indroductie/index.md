@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+
 # Inleiding
 
 Samen met Marie Crombez, een studente van de lerarenopleiding lager onderwijs, ontwierpen we **een tool en voorbeeldlessen** om computationeel denken zinvol in te zetten in de wiskundeles. Ons doel daarbij was om leerlingen meer inzicht te geven in de wiskundige praktijken die ze krijgen aangeleerd, zoals bv. bij handig rekenen of het oplossen van vraagstukken. 
