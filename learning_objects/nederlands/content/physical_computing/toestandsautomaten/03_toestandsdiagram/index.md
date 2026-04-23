@@ -22,7 +22,7 @@ teacher_exclusive: false
 
 We kunnen een automaat voorstellen aan de hand van een toestandsdiagram. Voor elke toestand tekenen we een cirkel met daarin de naam en het nummer van de toestand. De overgangen tussen de toestanden geven we aan met behulp van pijlen tussen deze cirkels. Je ziet een voorbeeld op onderstaande afbeelding.
 
-![toestandsdiagram](./embed/ttd_vb.png)
+![toestandsdiagram](embed/ttd_vb.png)
 
 
 # Opbouw (voorbeeld)
@@ -36,17 +36,17 @@ We ontwerpen een controlesysteem voor een lift. De lift kan op één van de twee
 1) De lift staat op het gelijkvloers.
 2) De lift staat op de eerste verdieping.
 
-![toestanden in het diagram](./embed/toestanden.png)
+![toestanden in het diagram](embed/toestanden.png)
 
 ### Stap 2: Zoek andere belangrijke waarden voor elke toestand.
 Zijn er nog elementen in ons systeem die veranderen wanneer de toestand wisselt? In de liften zijn er twee lampen aanwezig. Deze zijn aan of uit afhankelijk van de toestand. Indien we deze waarden toevoegen, krijgen we:
 
-![toestanden met waarden](./embed/waarden.png)
+![toestanden met waarden](embed/waarden.png)
 
 ### Stap 3: Transities tussen toestanden identificeren.
 Om tussen twee toestanden te wisselen, moet de persoon in de lift op een knop duwen. Hoe deze overgangen verlopen, geven we aan met pijlen zoals in onderstaande afbeelding:
 
-![volledige ttd](./embed/ttd.png)
+![volledige ttd](embed/ttd.png)
 
 We kunnen het diagram dus op de volgende manieren interpreteren:
 - Wanneer de lift op verdieping 0 staat (*toestand 1*) ...
