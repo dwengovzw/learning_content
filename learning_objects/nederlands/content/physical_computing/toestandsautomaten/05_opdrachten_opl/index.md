@@ -27,13 +27,13 @@ Hieronder staan de oplossingen van voorgaande oefeningen op het maken van toesta
 
 ## Opdracht 1: verkeerslicht 🚦
 
-![toestandsdiagram opdracht 1](./embed/opl_opdracht1.png)
+![toestandsdiagram opdracht 1](embed/opl_opdracht1.png)
 
 ## Opdracht 2: parkeermeter 🅿️
 
-![toestandsdiagram opdracht 2](./embed/opl_opdracht2.png)
+![toestandsdiagram opdracht 2](embed/opl_opdracht2.png)
 
 
 ## Opdracht 3: slotmachine 🎰
 
-![toestandsdiagram opdracht 3](./embed/opl_opdracht3.png)
+![toestandsdiagram opdracht 3](embed/opl_opdracht3.png)

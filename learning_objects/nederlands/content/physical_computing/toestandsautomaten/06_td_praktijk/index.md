@@ -22,7 +22,7 @@ teacher_exclusive: false
 
 Nu zien we hoe we de abstracte voorstelling van een automaat kunnen omzetten naar code. Bekijk onderstaand toestandsdiagram.
 
-![toestandsdiagram](./embed/td_leds.png)
+![toestandsdiagram](embed/td_leds.png)
 
 Het diagram visualiseert het gedrag van het volgende programma:
 1. Eerst zijn alle LEDs op de Dwenguino uit.
