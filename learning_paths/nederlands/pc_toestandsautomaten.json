@@ -14,14 +14,14 @@
           {
             "default": true,
             "next": {
-              "hruid": "pc_theremin",
+              "hruid": "pc_toestandsautomaten1",
               "version": "3",
               "language": "nl"
             }
           }
         ]
       },{
-        "learningobject_hruid": "pc_theremin",
+        "learningobject_hruid": "pc_toestandsautomaten1",
         "version": "3",
         "language": "nl"
       }
