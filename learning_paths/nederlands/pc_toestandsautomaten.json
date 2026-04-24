@@ -6,7 +6,7 @@
     "image": "",
     "nodes": [
       {
-        "learningobject_hruid": "pc_toestandsautomaten0",
+        "learningobject_hruid": "pc_theremin",
         "version": "3",
         "language": "nl",     
         "start_node": true,
@@ -14,14 +14,14 @@
           {
             "default": true,
             "next": {
-              "hruid": "pc_toestandsautomaten1",
+              "hruid": "pc_theremin",
               "version": "3",
               "language": "nl"
             }
           }
         ]
       },{
-        "learningobject_hruid": "pc_toestandsautomaten1",
+        "learningobject_hruid": "pc_theremin",
         "version": "3",
         "language": "nl"
       }
