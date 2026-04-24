@@ -28,13 +28,18 @@ Als oplossing kan je bij het programmeren gebruik maken van een **toestandsautom
 
 De **toestanden** beschrijven de huidige omgeving waarin de machine zich bevindt. Elke toestand is een samenvatting van de acties die de automaat al uitgevoerd heeft. De machine kan zich maar in één toestand tegelijk bevinden.
 
-Toestandsautomaten zorgen ervoor dat er geen ongewilde onafhankelijkheden zijn tussen de toestanden. Er zit structuur in de code, waardoor het meteen duidelijk is in welke toestand het systeem zich bevindt en dus wat de machine aan het doen is.
+Toestandsautomaten zorgen ervoor dat er geen ongewilde afhankelijkheden zijn tussen de toestanden. Er zit structuur in de code, waardoor het meteen duidelijk is in welke toestand het systeem zich bevindt en dus wat de machine aan het doen is.
 
 <div class="dwengo-content assignment">
     <h2 class="title">Opdracht</h2>
     <div class="content">
         Hieronder staat opnieuw een programma voor hetzelfde verkeerslicht, deze keer geschreven aan de hand van een toestandsautomaat. Probeer zelf de vragen opnieuw te beantwoorden. Was dit nu gemakkelijker? Welke van de twee codes vind je duidelijker?
     </div>
+    <ul>
+          <li>Wat gebeurt er indien er op de knop wordt gedrukt en het licht rood is?
+          <li>Kunnen alle 3 de lichten tegelijk uit staan?
+          <li>In hoeveel situaties - <b>toestanden</b> - kan het verkeerslicht zich bevinden?</li>
+        </ul>
 </div>
 
 ```Python
@@ -51,12 +56,12 @@ state = GREEN
 while True:
   if state == GREEN:
     if detect_button_press():
-      state = ORANGE
+      state = ORANGE            # Ga vanuit deze toestand naar toestand ORANGE
       timer.count()             # start de timer
       print("ORANJE")
 
   elif state == ORANGE:
-    if timer >= 4:
+    if timer >= 4:            
       state = RED
       timer = 0
       timer.count()
