@@ -20,10 +20,8 @@
             }
           }
         ]
-      },
-      
-      {
-        "learningobject_hruid": "pc_toestandsautomaten9",
+      },{
+        "learningobject_hruid": "pc_toestandsautomaten1",
         "version": "3",
         "language": "nl"
       }
