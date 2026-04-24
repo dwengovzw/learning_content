@@ -23,6 +23,34 @@
       },{
         "learningobject_hruid": "pc_toestandsautomaten1",
         "version": "3",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "pc_toestandsautomaten2",
+              "version": "3",
+              "language": "nl"
+            }
+          }
+        ]
+      },{
+        "learningobject_hruid": "pc_toestandsautomaten2",
+        "version": "3",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "pc_toestandsautomaten3",
+              "version": "3",
+              "language": "nl"
+            }
+          }
+        ]
+      },{
+        "learningobject_hruid": "pc_toestandsautomaten3",
+        "version": "3",
         "language": "nl"
       }
     ]
