@@ -2,8 +2,8 @@
 hruid: cb5_unplugged9
 version: 3
 language: nl
-title: "Werking lerende chatbots"
-description: "Werking lerende chatbots"
+title: "Turingtest"
+description: "Turingtest uit Improbotics lesmap"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id},
@@ -32,68 +32,45 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Hoe werkt een lerende chatbot?
+# Extra activiteit: Turingtest
+(uit de lesmap van Improbotics)
 
-De werking van lerende chatbots wordt [hier](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=cb_chatbot3&version=3&language=nl) uitgelegd. Via *embeddings* wordt tekst omgezet naar vectoren.
+Wat is de Turingtest?<br>
+In 1950 vroeg de Britse wiskundige Alan Turing zich af of een machine er in een conversatie zou kunnen in slagen
+een mens te doen geloven dat zij een mens is. Bij de Turingtest stelt een mens vragen aan een ongekende partij in
+een andere kamer, die zowel een mens als een machine kan zijn, om dan te besluiten of die een mens is of niet. Een
+machine die wordt aangezien als een mens, slaagt in de Turingtest. Hiermee gaf Turing een eerste aanzet tot het
+onderzoeksdomein dat we nu kennen als kunstmatige intelligentie (KI of AI).
+Eigenlijk is dit een experiment om te zien of een machine menselijk intelligent gedrag kan vertonen, wat niet
+betekent dat de machine even intelligent zou zijn als een mens.
 
-Onthoud: <br>
-* Semantisch verwante teksten worden dicht bij elkaar in de vectorruimte geplaatst. Bijvoorbeeld, omdat de woorden ‘kat’ en ‘hond’ in teksten vaak samen voorkomen met het woord ‘dierenarts’, kan men de overeenkomstige drie vectoren dicht bij elkaar vinden in de vectorruimte.
-* Ook vergelijkbare relaties tussen woorden zijn in de vectorruimte vaak terug te vinden. Vergelijkbare relaties tussen elementen kunnen voorgesteld worden door een gelijke positie tussen de elementen.
+#### Opdracht: Organiseer een Turingtest in groepjes van drie, of als demo voor de klas.
+Een leerling is de proefpersoon die via twee chatvensters met andere leerlingen gaat chatten. Je kan hiervoor je
+eigen voorkeur van chatsysteem gebruiken, ELIZA is een van de mogelijkheden.<br>
+Eén van de chatters mag zelf typen wat hij of zij wil, maar de opdracht is net als bij ELIZA een luisterend oor te zijn
+voor de proefpersoon en in correcte Nederlandse volzinnen te schrijven.<br>
+De tweede chatter kopieert telkens de zin van de proefpersoon naar ELIZA en kopieert het antwoord van ELIZA terug
+naar het chatscherm. Werk bv. met CTRL-A (selecteer alles), CTRL-C (kopieer), en CTRL-V (plak) om even snel te
+kunnen werken als de andere chatter die zelf typt.<br>
+De proefpersoon weet op voorhand niet wie van de twee door de computer gestuurd wordt, maar probeert deze wel
+te ontmaskeren. Als de computer niet ontmaskerd wordt, dan slaagt die in de Turingtest.
 
-De lerende chatbot zal woorden die dicht bij elkaar liggen, gebruiken om zinnen mee te maken.
+Een versie van ELIZA in het Nederlands vind je [hier](https://www.eclecticenergies.com/nederlands/psyche/eliza).
 
-*Voordat de leerlingen aan de oefeningen beginnen, kan je best deze werking eens met hen bespreken.* <br>
-*Na de oefeningen kan je nog eens op de werking terugkomen. Je kan ook een spellingscorrector vermelden. Als bv. een woord in Word onderlijnd wordt met een rode krullijn, dan kan je suggesties opvragen om het woord te corrigeren. Kunnen leerlingen vertellen hoe het systeem die suggesties mogelijk bepaalt?*
+#### Opdracht vectorcoördinaten
+Teken voor elk van de volgende woorden een bolletje op de overeenkomstige coördinaat in de figuur. Noteer het woord onder het bolletje.
+*Het woord “bus” hebben wij al toegevoegd als voorbeeld.*
 
-### Opdracht 1
+bus (7, 10), vrachtwagen (6, 9), camionette (7, 8), kruiwagen (2, 7), bakfiets (4, 7), e-bakfiets (5, 7), limousine (7, 6), auto (8, 6), sportwagen (9, 5), benenwagen (2, 4), fiets (4, 4), e-bike (5, 4), step (4, 3), e-step (5, 3)
 
-*Deze opdracht gebruikt kenmerken van de strip 'Jommeke'.*<br>
-*Misschien kennen je leerlingen 'Jommeke' niet.* <br>
-* *Je kan dan bv. een of twee pagina's uit een Jommekestrip met de leerlingen lezen om ze te laten kennismaken met de personages.*
-* *Of je kan polsen welke strips ze wel lezen en de oefening aanpassen aan de kenmerken van een andere strip.*
-
-Bekijk het eerste schema. Lees de tekst die ChatGPT schreef en die hoort bij het eerste schema.
-
-![jommekeveld](https://github.com/dwengovzw/learning_content/assets/48352335/8daa9a5d-3886-4799-813e-10a64213fa2c)
-
-![jommeke](https://github.com/dwengovzw/learning_content/assets/48352335/9bc4010f-459d-4010-96cb-a1ade5050ca0)
-
-### Opdracht 2
-
-Bekijk nu het tweede schema. Welke tekst zou ChatGPT kunnen schrijven bij dit schema?
-
-![emiliaveld](https://github.com/dwengovzw/learning_content/assets/48352335/25fcec34-9d31-4fc3-92c3-2835edec7f36)
-
-[werkblad](embed/werkbladwieisemilia.pdf)
-
-*Mogelijk antwoord:*<br>
-*Emilia is een tekenfilm door tekenaar Kobe Devries. Ze heeft een zeehond en haar beste vriend is Arsène.*
+![figuur oefening](\embed\woordembedding.png)
 
 
-### Opdracht 3
+Voer vervolgens volgende berekeningen uit.<br>
+*Tip: vectoren kun je optellen en aftrekken van elkaar door de individuele elementen op te tellen of af te trekken. Bv. (2, 3) + (1, 3) = (3, 6).*
 
-Lees de woorden in het veld.
+bakfiets - fiets + e-bike = <br>
+kruiwagen - benenwagen + fiets = <br>
+e-bakfiets - e-bike + auto = <br>
 
-Leg de kaartjes in het veld. Hoe dichter woorden bij elkaar horen, hoe dichter je ze bij elkaar plaatst. Er zijn meerdere antwoorden goed. Misschien bedacht je wel een unieke oplossing voor dit probleem!
-
-![veld](https://github.com/dwengovzw/learning_content/assets/48352335/953abce7-119a-4ca2-a7d2-382caccac749)
-
-*Een voorbeeldoplossing (er zijn meerdere oplossingen):*<br>
-![ingevuldveld](https://github.com/dwengovzw/learning_content/assets/48352335/dad2251d-ce91-4ea0-bad8-42f8e1bcd714)<br>
-
-
-### Opdracht 4
-
-*Deze opdracht gaat over de 'Suske en Wiske'-strips.*<br>
-*Misschien kennen je leerlingen 'Suske en Wiske' niet. Breng enkele 'Suske en Wiskes' mee, dan zien de leerlingen snel wat er niet klopt.*
-
-Lees de tekst over Suske en Wiske.
-
-![vectorensuskewiske](https://github.com/dwengovzw/learning_content/assets/48352335/5a054655-f848-490e-9b03-33bb2479562b)
-
-Merk je iets vreemds op in deze tekst?
-
-*Wiske heeft geen blauwe strik, maar een rode. Heeft Lambik wel een snor?*<br>
-*Lerende chatbots durven dus heel wat te verzinnen!*
-*Regelgebaseerde chatbots doen dat niet.*
-
+Deze oefening is ook als geheel te downloaden onder het lesthema 'Taaltechnologie'.

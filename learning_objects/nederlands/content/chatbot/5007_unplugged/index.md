@@ -2,8 +2,8 @@
 hruid: cb5_unplugged7
 version: 3
 language: nl
-title: "Chatbot unplugged"
-description: "Chatbot unplugged"
+title: "Afsluiter"
+description: "Afsluiter"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id},
@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-estimated_time: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-digitale-media-en-toepassingen',
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -32,8 +32,13 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Chatbot unplugged
+# Conclusie en een leuke afsluiter
 
-Dit leerpad werd uitgewerkt door Petra Willems, Ryan Verclairen en Maarten Ravier (studenten Schakelprogramma tot Master in de pedagogische wetenschappen van de UGent) en met hun toestemming gepubliceerd op de Dwengo website. Samen met ons hopen ze dat dit leerpad veelvuldig zal gebruikt worden.
+* Lerende chatbots durven heel wat te verzinnen.
+* Lerende chatbots zijn flexibel en vlot.
+* Regelgebaseerde chtabots doen dat niet, maar ook zij geven niet altijd correcte antwoorden. Als de vraag niet 'voorgeprogrammeerd' is, geven ze soms een antwoord die eigenlijk bij een andere vraag hoort. Of soms antwoorden ze dat ze je niet kunnen helpen, wat ook vervelend is. Ze zijn dus niet flexibel. Je kan hier meer over lezen in [hoofdstuk 4 van de handleiding](https://dwengo.org/assets/files/chatbot/Chatbot_handleiding_eerstedruk.pdf) bij het chatbotproject.
 
 
+Misschien een leuke afsluiter:
+
+![ChatGPT geeft tips](embed/chatgptadvieslief.png)

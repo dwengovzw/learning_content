@@ -42,34 +42,36 @@ Toestandsautomaten zorgen ervoor dat er geen ongewilde afhankelijkheden zijn tus
         </ul>
 </div>
 
-```Python
-# mogelijke toestanden
-GREEN = "GREEN"
-ORANGE = "ORANGE"
-RED = "RED"
+```cpp
+// mogelijke toestanden
+enum Toestanden {GROEN, ORANJE, ROOD};
 
-timer = 0
+unsigned int timer = 0;
 
-# eerste toestand initialiseren
-state = GREEN
+// eerste toestand initialiseren
+Toestanden toestand = GROEN;
 
-while True:
-  if state == GREEN:
-    if detect_button_press():
-      state = ORANGE            # Ga vanuit deze toestand naar toestand ORANGE
-      timer.count()             # start de timer
-      print("ORANJE")
+void loop() {
+  if (toestand == GROEN) {
+    if (detecteer_knop()) {
+      toestand = ORANJE; // ga over van groen licht naar oranje
+      timer.start();     // start de timer
+    }
+  }
 
-  elif state == ORANGE:
-    if timer >= 4:            
-      state = RED
-      timer = 0
-      timer.count()
-      print("ROOD")
+  else if (toestand == ORANJE){
+    if (timer >= 4) {
+      toestand = ROOD;   // ga over van oranje licht naar rood
+      timer.reset();     // reset de timer
+      timer.start();     // start de timer
+    }
+  }
 
-  elif state == RED:
-    if timer >= 20:
-      state = GREEN
-      timer = 0
-      print("GROEN")
+  else if (toestand == RED) {
+    if (timer >= 20) {
+      toestand = GROEN;  // ga over van rood licht naar groen
+      timer.reset();     // reset de timer
+    }
+  }
+}
 ```

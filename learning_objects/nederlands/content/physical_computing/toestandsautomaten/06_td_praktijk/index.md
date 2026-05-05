@@ -37,7 +37,7 @@ Het diagram visualiseert het gedrag van het volgende programma:
 
 We maken een nieuw Dwenguino-programma dat dit gedrag realiseert. Je kan dit gemakkelijk doen in onze simulator.
 
-Maak om te beginnen een nieuw Dwenguino programma en voeg bovenaan een nieuwe variabele toe van het type *unsigned char*. Geef deze de naam 'toestandsnr' met als startwaarde 0 (nul). Via deze variabele gaat het programma bijhouden in welke toestand hij zit.
+Maak om te beginnen een nieuw Dwenguino programma en voeg bovenaan een nieuwe variabele toe om het nummer van de toestand bij te houden. Geef deze de naam 'toestandsnr' met als startwaarde 0 (nul). Via deze variabele gaat het programma bijhouden in welke toestand hij zit.
 
 <code class="language-cpp">
 unsigned char toestandsnr = 0;
@@ -46,8 +46,6 @@ unsigned char toestandsnr = 0;
 ### Toestandsovergangen
 
 Vervolgens moeten we de toestandsovergangen programmeren bij het indrukken van de C-knop. Voeg aan het begin van de loop() functie code toe die kijkt of de knop werd ingedrukt.
-
-*Tip: kijk voor inspiratie naar het codevoorbeeld "Buttons" of gebruik je eerdere kennis.*
 
 Wanneer de C-knop ingedrukt wordt, ga je naar de volgende toestand met behulp van deze code:
 
