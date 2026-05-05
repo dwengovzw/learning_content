@@ -11,7 +11,7 @@ content_type: text/markdown
 available: true
 target_ages: [13, 14, 15, 16, 17, 18]
 difficulty: 3
-estimated_time: 1
+estimated_time: 20
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -42,6 +42,7 @@ Maak om te beginnen een nieuw Dwenguino programma en voeg bovenaan een nieuwe va
 <code class="language-cpp">
 unsigned char toestandsnr = 0;
 </code>
+<br><br>
 
 ### Toestandsovergangen
 

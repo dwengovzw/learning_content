@@ -8,7 +8,7 @@
       {
         "learningobject_hruid": "pc_toestandsautomaten0",
         "version": "3",
-        "language": "nl",     
+        "language": "nl",
         "start_node": true,
         "transitions": [
           {
@@ -121,8 +121,22 @@
       },{
         "learningobject_hruid": "pc_toestandsautomaten8",
         "version": "3",
+        "language": "nl",
+        "transitions": [
+          {
+            "default": true,
+            "next": {
+              "hruid": "pc_toestandsautomaten9",
+              "version": "3",
+              "language": "nl"
+            }
+          }
+        ]
+      },{
+        "learningobject_hruid": "pc_toestandsautomaten9",
+        "version": "3",
         "language": "nl"
       }
     ]
   }
-  
+

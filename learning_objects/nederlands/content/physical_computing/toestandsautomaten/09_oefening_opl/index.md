@@ -1,9 +1,9 @@
 ---
-hruid: pc_toestandsautomaten8
+hruid: pc_toestandsautomaten9
 version: 3
 language: nl
-title: "Opdracht"
-description: "Oefening op het omzetten van gedragsbeschrijving naar code."
+title: "Oplossing"
+description: "Oplossing op het omzetten van gedragsbeschrijving naar code."
 keywords: ["toestandsautomaat", "toestandsdiagram", "finite state machine", "toestand", "dwenguino", "arduino", "python"]
 copyright: dwengo
 licence: dwengo

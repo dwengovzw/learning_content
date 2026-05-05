@@ -67,7 +67,7 @@ bus (7, 10), vrachtwagen (6, 9), camionette (7, 8), kruiwagen (2, 7), bakfiets (
 
 
 Voer vervolgens volgende berekeningen uit.<br>
-*Tip: vectoren kun je optellen en aftrekken van elkaar door de individuele elementen op te tellen of af te trekken. Bv. (2, 3) + (1, 3) = (3, 6).*
+*Tip: vectoren kun je optellen en aftrekken van elkaar door de overeenkomstige elementen op te tellen of af te trekken. Bv. (2, 3) + (1, 3) = (3, 6).*
 
 bakfiets - fiets + e-bike = <br>
 kruiwagen - benenwagen + fiets = <br>

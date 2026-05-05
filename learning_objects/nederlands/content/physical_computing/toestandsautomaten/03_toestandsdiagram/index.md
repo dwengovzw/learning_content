@@ -11,7 +11,7 @@ content_type: text/markdown
 available: true
 target_ages: [13, 14, 15, 16, 17, 18]
 difficulty: 3
-estimated_time: 1
+estimated_time: 20
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -20,7 +20,7 @@ teacher_exclusive: false
 
 # Toestandsdiagrammen
 
-We kunnen een automaat voorstellen aan de hand van een toestandsdiagram. Voor elke toestand tekenen we een cirkel met daarin de naam en het nummer van de toestand. De overgangen tussen de toestanden geven we aan met behulp van pijlen tussen deze cirkels. Je ziet een voorbeeld op onderstaande afbeelding.
+We kunnen een automaat voorstellen aan de hand van een toestandsdiagram. Voor elke toestand tekenen we een cirkel met daarin de naam en/of het nummer van de toestand. De overgangen tussen de toestanden geven we aan met behulp van pijlen tussen deze cirkels. Je ziet een voorbeeld op onderstaande afbeelding.
 
 ![toestandsdiagram](embed/ttd_vb.png)
 
