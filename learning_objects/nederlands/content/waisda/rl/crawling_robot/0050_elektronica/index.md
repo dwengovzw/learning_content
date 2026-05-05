@@ -54,8 +54,8 @@ Om ervoor te zorgen dat je later minder aan het programma moet aanpassen, kun je
 </li></ol>
 <em>Tip: verwarm het metalen uiteinde van de servos een beetje (bv. met een soldeerbout). Zo kan je het plastic armpje er makkelijker op duwen.</em>
 Servo 1:
-<img src="./img/servo1.jpeg" alt="Montage servo1">
+<img src="img/servo1.jpeg" alt="Montage servo1">
 Servo 2:
-<img src="./img/servo2.jpeg" alt="Montage servo2">
+<img src="img/servo2.jpeg" alt="Montage servo2">
 </div>
 </div>
