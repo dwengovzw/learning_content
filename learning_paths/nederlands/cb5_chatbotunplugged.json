@@ -234,6 +234,36 @@
     {
       "learningobject_hruid": "cb5_unplugged9",
       "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cb5_unplugged10",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged10",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cb5_unplugged_onderwijsdoelen",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged_onderwijsdoelen",
+      "version": "3",
       "language": "nl"
     }
   ]
