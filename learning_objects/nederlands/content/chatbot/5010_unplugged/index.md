@@ -32,7 +32,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-#### Opdracht vectorcoördinaten
+# Opdracht vectorcoördinaten
 Teken voor elk van de volgende woorden een bolletje op de overeenkomstige coördinaat in de figuur. Noteer het woord onder het bolletje.
 *Het woord “bus” hebben wij al toegevoegd als voorbeeld.*
 
