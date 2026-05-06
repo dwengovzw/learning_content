@@ -1,7 +1,7 @@
 ---
 available: true
 content_type: text/markdown
-copyright: dwengo
+copyright: Dwengo
 description: Notebooks on digital images
 difficulty: 3
 educational_goals:
@@ -9,7 +9,7 @@ educational_goals:
   source: Source
 - id: id2
   source: Source2
-estimated_time: 10
+estimated_time: 75
 hruid: pn_db_boodschap
 keywords:
 - Python
@@ -18,7 +18,7 @@ keywords:
 - AI Op School
 - Computationeel denken
 language: en
-licence: dwengo
+licence: Dwengo
 return_value:
   callback_schema:
     att: test
@@ -47,7 +47,7 @@ version: 3
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1520_en "Notebooks Secret Message")
 
 ---
-#### Link with the minimum learning objectives on computational thinking and STEM
+#### Link with the Minimum Learning Objectives on Computational Thinking and STEM
 
 In this assignment, you practice computational thinking.<br>
 You have to think about the digital representation of information, in this case an image.<br>
