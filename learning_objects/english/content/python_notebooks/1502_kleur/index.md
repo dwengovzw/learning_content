@@ -16,9 +16,9 @@ keywords:
 - STEM
 - Wiskunde
 - AI Op School
-- Computationeel denken"
+- Computationeel denken
 language: en
-licence: dwengo
+licence: Dwengo
 return_value:
   callback_schema:
     att: test
@@ -37,7 +37,7 @@ target_ages:
 - 16
 - 17
 - 18
-title: Color
+title: Colour
 version: 3
 ---
 # Images in Colour
