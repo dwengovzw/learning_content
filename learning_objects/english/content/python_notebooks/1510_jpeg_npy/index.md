@@ -16,9 +16,9 @@ keywords:
 - STEM
 - Wiskunde
 - AI Op School
-- Computationeel denken"
+- Computationeel denken
 language: en
-licence: dwengo
+licence: Dwengo
 return_value:
   callback_schema:
     att: test
@@ -42,7 +42,7 @@ version: 3
 ---
 # From jpeg to npy
 
-In the first notebook in this part of the learning path, you will see an example of how to convert a jpg file to a grayscale image, represented by a matrix, and how to save this image as an npy file. For this purpose, you use the scikit-image (skimage) module, which provides algorithms for digital image processing and computer vision.
+In the first notebook in this part of the learning path, you will see an example of how to convert a jpg file to a greyscale image, represented by a matrix, and how to save this image as an npy file. For this purpose, you use the scikit-image (skimage) module, which provides algorithms for digital image processing and computer vision.
 
 In the second notebook, you will become familiar with the MNIST dataset and apply what you learned in the first notebook.
 
