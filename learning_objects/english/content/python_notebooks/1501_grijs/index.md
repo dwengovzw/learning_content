@@ -1,7 +1,7 @@
 ---
 available: true
 content_type: text/markdown
-copyright: dwengo
+copyright: Dwengo
 description: Notebooks on digital images
 difficulty: 3
 educational_goals:
@@ -16,9 +16,9 @@ keywords:
 - STEM
 - Wiskunde
 - AI Op School
-- Computationeel denken"
+- Computationeel denken
 language: en
-licence: dwengo
+licence: Dwengo
 return_value:
   callback_schema:
     att: test
@@ -37,16 +37,16 @@ target_ages:
 - 16
 - 17
 - 18
-title: Grayscale
+title: Greyscale
 version: 3
 ---
-# Grayscale Images
+# Greyscale Images
 
-A grayscale image for a computer is simply a grid of numbers.
+A greyscale image for a computer is simply a grid of numbers.
 
 ![](embed/drie.jpg "A three from the MNIST dataset")
 <figure>
-    <figcaption align = "center">A three from the MNIST dataset. The MNIST dataset contains 70,000 images of handwritten digits, each 28 x 28 pixels in grayscale.</figcaption>
+    <figcaption align = "center">A three from the MNIST dataset. The MNIST dataset contains 70,000 images of handwritten digits, each 28 x 28 pixels in greyscale.</figcaption>
 </figure>
 
 ![](embed/drieraster.png "Pixel values of this three")
