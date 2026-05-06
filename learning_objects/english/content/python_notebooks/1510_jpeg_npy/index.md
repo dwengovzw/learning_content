@@ -2,14 +2,14 @@
 available: true
 content_type: text/markdown
 copyright: dwengo
-description: Notebooks about ...
+description: Notebooks on digital images
 difficulty: 3
 educational_goals:
 - id: id
   source: Source
 - id: id2
   source: Source2
-estimated_time: 10
+estimated_time: 40
 hruid: pn_db_omzetten
 keywords:
 - Python
@@ -42,8 +42,8 @@ version: 3
 ---
 # From jpeg to npy
 
-In the first notebook, an example is provided of how you can convert a jpg file to a grayscale image, represented by a matrix, and how you can save this image as an npy file. For this purpose, you use the scikit-image (skimage) module, which provides algorithms for digital image processing and computer vision.
+In the first notebook in this part of the learning path, you will see an example of how to convert a jpg file to a grayscale image, represented by a matrix, and how to save this image as an npy file. For this purpose, you use the scikit-image (skimage) module, which provides algorithms for digital image processing and computer vision.
 
-In the second notebook, you become familiar with the MNIST dataset and apply what you learned in the first notebook.
+In the second notebook, you will become familiar with the MNIST dataset and apply what you learned in the first notebook.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1510_en "Notebooks jpeg to npy")
