@@ -2,14 +2,14 @@
 available: true
 content_type: text/markdown
 copyright: dwengo
-description: Notebooks over ...
+description: Notebooks on digital images
 difficulty: 3
 educational_goals:
 - id: id
   source: Source
 - id: id2
   source: Source2
-estimated_time: 10
+estimated_time: 100
 hruid: pn_db_grijs
 keywords:
 - Python
@@ -42,11 +42,11 @@ version: 3
 ---
 # Grayscale Images
 
-A grayscale image for a computer is nothing but a grid of numbers.
+A grayscale image for a computer is simply a grid of numbers.
 
 ![](embed/drie.jpg "A three from the MNIST dataset")
 <figure>
-    <figcaption align = "center">A three from the MNIST dataset. The MNIST dataset comprises 70,000 images of handwritten digits, each 28 x 28 pixels in grayscale.</figcaption>
+    <figcaption align = "center">A three from the MNIST dataset. The MNIST dataset contains 70,000 images of handwritten digits, each 28 x 28 pixels in grayscale.</figcaption>
 </figure>
 
 ![](embed/drieraster.png "Pixel values of this three")
@@ -67,9 +67,7 @@ The second notebook shows how you can manipulate an image by performing operatio
 
 #### Assignment
 
-Within the context of the media literacy minimum objective from the second grade, **“The impact of digital systems”**
-
-Some possible lines of thought:<br>
+Within the context of the media literacy minimum objective from the second grade, **“the impact of digital systems”**, some possible lines of thought:<br>
 
 * Do you understand how photos can be manipulated?
 * Can you make the link to fake news?
