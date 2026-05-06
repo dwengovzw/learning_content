@@ -1,17 +1,15 @@
 ---
 available: true
 content_type: text/markdown
-copyright: dwengo
-description: It seems like your question was cut off before you could finish it. Please
-  provide me with the full text or context that you want to be translated from Dutch
-  to English.
+copyright: Dwengo
+description: Notebooks on digital images
 difficulty: 3
 educational_goals:
 - id: id
   source: Source
 - id: id2
   source: Source2
-estimated_time: 10
+estimated_time: 100
 hruid: pn_db_kleur
 keywords:
 - Python
@@ -42,23 +40,23 @@ target_ages:
 title: Color
 version: 3
 ---
-# Images in Color
+# Images in Colour
 
-In this notebook, you will become familiar with the mathematics behind digital images in color. Instead of matrices, tensors are now used.
+In this notebook, you will become familiar with the mathematics underlying colour digital images. Instead of matrices, tensors are used.
 
 [![](embed/Knop.png "Button")](https://kiks.ilabt.imec.be/hub/tmplogin?id=1502_en "Color Notebooks")
 
 ----
-Colors occur in a spectrum.
+Colours occur in a spectrum.
 ![](embed/spectrum.png "Color spectrum")
 
-The colors that humans see can be approximated by a combination of red (R), green (G), and blue (B) shades.<br>
-Colors can be digitally represented using RGB. In that case, a separate table is needed for the red, green, and blue components; together these form a 3D grid.
+The colours that humans see can be approximated by a combination of red (R), green (G), and blue (B) shades.<br>
+Colours can be digitally represented using RGB. In that case, a separate table is needed for the red, green, and blue components; together, these form a 3D grid.
 
 ![](embed/rgb.png "RGB")
 
 ![](embed/raster.png "3D grid")
 
-The colors on a television set, for example, are also constructed using RGB, as you can see in the following zoomed-in photo of a part of a television image.
+The colours on a television set, for example, are also constructed using RGB, as you can see in the following zoomed-in photo of a part of a television image.
 
 ![](embed/RGBtelevisie.jpg "RGB")
