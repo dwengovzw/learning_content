@@ -1,5 +1,5 @@
 ---
-hruid: sr5_sr_in_stem_intro
+hruid: sr5_sr_in_stem_intro_2
 version: 1
 language: nl
 title: "De sociale robot en STEM"

@@ -8,6 +8,38 @@
   "nodes": [
     {
       "learningobject_hruid": "sr5_sr_in_stem_intro",
+      "version": "1",
+      "language": "nl",     
+      "start_node": true,
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "sr5_sr_in_stem_intro_2",
+            "version": "1",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "sr5_sr_in_stem_intro_2",
+      "version": "1",
+      "language": "nl",     
+      "start_node": true,
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "sr5_sr_in_stem_intro_3",
+            "version": "1",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "sr5_sr_in_stem_intro_3",
       "version": "3",
       "language": "nl"
     } 
