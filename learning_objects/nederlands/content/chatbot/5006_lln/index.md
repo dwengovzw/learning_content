@@ -1,5 +1,5 @@
 ---
-hruid: cb5_unplugged9lln
+hruid: cb5_unplugged6lln
 version: 3
 language: nl
 title: "Werking lerende chatbots"
@@ -76,23 +76,3 @@ Lees de tekst over Suske en Wiske.
 ![vectorensuskewiske](https://github.com/dwengovzw/learning_content/assets/48352335/5a054655-f848-490e-9b03-33bb2479562b)
 
 Merk je iets vreemds op in deze tekst?
-
-
-### Opdracht 5
-
-Teken voor elk van de volgende woorden een bolletje op de overeenkomstige coördinaat in de figuur. Noteer het woord onder het bolletje.
-*Het woord “bus” hebben wij al toegevoegd als voorbeeld.*
-
-bus (7, 10), vrachtwagen (6, 9), camionette (7, 8), kruiwagen (2, 7), bakfiets (4, 7), e-bakfiets (5, 7), limousine (7, 6), auto (8, 6), sportwagen (9, 5), benenwagen (2, 4), fiets (4, 4), e-bike (5, 4), step (4, 3), e-step (5, 3)
-
-![figuur oefening](\embed\woordembedding.png)
-
-
-Voer vervolgens volgende berekeningen uit.<br>
-*Tip: vectoren kun je optellen en aftrekken van elkaar door de individuele elementen op te tellen of af te trekken. Bv. (2, 3) + (1, 3) = (3, 6).*
-
-bakfiets - fiets + e-bike = <br>
-kruiwagen - benenwagen + fiets = <br>
-e-bakfiets - e-bike + auto = <br>
-
-Deze oefening is ook als geheel te downloaden onder het lesthema 'Taaltechnologie'.

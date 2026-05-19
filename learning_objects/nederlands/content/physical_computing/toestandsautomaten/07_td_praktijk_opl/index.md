@@ -27,48 +27,41 @@ Hieronder staat het volledig afgewerkte programma van de gegeven automaatbeschri
 <div class="dwengo-content dwengo-code-simulator">
     <pre>
 <code class="language-cpp" data-filename="filename.cpp">
-
-#include <Wire.h>
-#include <Dwenguino.h>
-
-#define BUTTON_PIN_SW_C SW_C
-
-unsigned char toestandsnr = 0;
-
-void setup()
-{
+#include &lt;Wire.h&gt;
+#include &lt;Dwenguino.h&gt;<br>
+#define BUTTON_PIN_SW_C SW_C<br>
+unsigned char toestandsnr = 0;<br>
+void setup() {
   initDwenguino();
   pinMode(BUTTON_PIN_SW_C, INPUT_PULLUP);
-}
-
-void loop()
-{
+}<br>
+void loop() {
   if ((digitalRead(SW_C)) == PRESSED) {
     toestandsnr = toestandsnr + 1;
     if (toestandsnr == 9){
       toestandsnr = 0;
-      }
     }
-    if (toestandsnr == 0){
-      LEDS = 0b00000000;
-    } else if (toestandsnr == 1){
-      LEDS = 0b00000001;
-    } else if (toestandsnr == 2){
-      LEDS = 0b00000010;
-    } else if (toestandsnr == 3){
-      LEDS = 0b00000100;
-    } else if (toestandsnr == 4){
-      LEDS = 0b00001000;
-    } else if (toestandsnr == 5){
-      LEDS = 0b00010000;
-    } else if (toestandsnr == 6){
-      LEDS = 0b00100000;
-    } else if (toestandsnr == 7){
-      LEDS = 0b01000000;
-    } else if (toestandsnr == 8){
-      LEDS = 0b10000000;
-    }
-    delay(100);
+  }
+  if (toestandsnr == 0){
+    LEDS = 0b00000000;
+  } else if (toestandsnr == 1){
+    LEDS = 0b00000001;
+  } else if (toestandsnr == 2){
+    LEDS = 0b00000010;
+  } else if (toestandsnr == 3){
+    LEDS = 0b00000100;
+  } else if (toestandsnr == 4){
+    LEDS = 0b00001000;
+  } else if (toestandsnr == 5){
+    LEDS = 0b00010000;
+  } else if (toestandsnr == 6){
+    LEDS = 0b00100000;
+  } else if (toestandsnr == 7){
+    LEDS = 0b01000000;
+  } else if (toestandsnr == 8){
+    LEDS = 0b10000000;
+  }
+  delay(100);
 }
 </code>
     </pre>

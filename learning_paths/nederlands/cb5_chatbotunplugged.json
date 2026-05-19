@@ -179,6 +179,21 @@
         {
           "default": true,
           "next": {
+            "hruid": "cb5_unplugged6lln",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged6lln",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
             "hruid": "cb5_unplugged7",
             "version": "3",
             "language": "nl"
@@ -224,7 +239,7 @@
         {
           "default": true,
           "next": {
-            "hruid": "cb5_unplugged9lln",
+            "hruid": "cb5_unplugged10",
             "version": "3",
             "language": "nl"
           }
@@ -232,7 +247,22 @@
       ]
     },
     {
-      "learningobject_hruid": "cb5_unplugged9lln",
+      "learningobject_hruid": "cb5_unplugged10",
+      "version": "3",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "cb5_unplugged_onderwijsdoelen",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "cb5_unplugged_onderwijsdoelen",
       "version": "3",
       "language": "nl"
     }

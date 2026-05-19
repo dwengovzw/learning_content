@@ -2,8 +2,8 @@
 hruid: pc_toestandsautomaten9_meta
 version: 1
 language: nl
-title: "Opdracht motor"
-description: "Opdracht motor: oplossing"
+title: "Opdracht"
+description: "Opdracht: oplossing"
 keywords: []
 educational_goals: [
     {source: Source, id: id},

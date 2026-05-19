@@ -1,15 +1,15 @@
 ---
 available: true
 content_type: text/markdown
-copyright: dwengo
-description: Notebooks over ...
+copyright: Dwengo
+description: Notebooks on digital images
 difficulty: 3
 educational_goals:
 - id: id
   source: Source
 - id: id2
   source: Source2
-estimated_time: 10
+estimated_time: 5
 hruid: pn_db_inleiding
 keywords:
 - Python
@@ -45,7 +45,7 @@ A digital image consists of a finite number of pixels. If you place enough squar
 The word 'pixel' is derived from the English words *picture* and *element*.<br>
 The word digital comes from the Latin *digitus* (finger) and refers to counting on the fingers.
 
-On a good photo, you cannot distinguish pixels, unless you zoom in strongly on the image.
+On a good photo, you cannot distinguish pixels, unless you zoom in hard on the image.
 
 ![](embed/begoniazoom.png "Zoomed-in photo")
 

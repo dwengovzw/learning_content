@@ -11,7 +11,7 @@ content_type: text/markdown
 available: true
 target_ages: [13, 14, 15, 16, 17, 18]
 difficulty: 3
-estimated_time: 1
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -39,48 +39,59 @@ Zonder een duidelijke structuur, leidt dit snel tot ingewikkelde en moeilijk lee
     </div>
 </div>
 
-```python
-button_pressed = False
-light_green = True
-light_orange = False
-light_red = False
+```cpp
+bool knop_ingedrukt = false;
 
-orange_timer = 0
-red_timer = 0
+bool groen_licht = true;
+bool oranje_licht = false;
+bool rood_licht = false;
 
-while True:
-  # knop indrukken
-  if detect_button_press():
-    button_pressed = True
+unsigned int oranje_timer = 0;
+unsigned int rood_timer = 0;
 
-  # als knop ingedrukt en licht is groen → oranje
-  if button_pressed and light_green:
-    light_green = False
-    light_orange = True
-    orange_timer.start()        # start oranje timer
-    print("ORANJE")
 
-  # overgang oranje → rood
-  if light_orange:
-    if orange_timer >= 4:
-      light_orange = False
-      light_red = True
-      red_timer.start()         # start rode timer
-      print("ROOD")
+void loop(){
+  // knop indrukken
+  if (detecteer_knop()) {
+    knop_ingedrukt = true;
+  }
 
-  # overgang rood → groen
-  if light_red:
-    if red_timer >= 20:
-      light_red = False
-      light_green = True
-      button_pressed = False
-      print("GROEN")
+  // als knop ingedrukt is en licht is groen → oranje
+  if (knop_ingedrukt && groen_licht) {
+    groen_licht = false;
+    oranje_licht = true;
+    oranje_timer.start();        // start timer voor oranje licht
+    // Licht staat op oranje
+  }
 
-  # extra logica (maakt het erger)
-  if button_pressed and light_red:
-    # knop doet hier eigenlijk niets, maar staat er toch
-    print("Wachten...")
+  // als het licht op oranje staat, na vier seconden → rood
+  if (oranje_licht) {
+    if (oranje_timer >= 4){
+      oranje_licht = false;
+      rood_licht = true;
+      rood_timer.start();         // start timer voor rood licht
+      // Licht staat op rood
+    }
+  }
 
-  if not light_green and not light_orange and not light_red:
-    light_green = True
+  // als het licht op rood staat, na 20 seconden → groen
+  if (rood_licht) {
+    if (rood_timer >= 20){
+      rood_licht = false;
+      groen_licht = true;
+      knop_ingedrukt = false;
+      // Licht staat op groen
+    }
+  }
+
+  // extra logica (maakt spaghetticode erger)
+  if (knop_ingedrukt && rood_licht) {
+    // knop doet hier eigenlijk niets
+    Serial.println("Wachten...");
+  }
+
+  if (!groen_licht && !oranje_licht && !rood_licht) {
+    groen_licht = true;
+  }
+}
 ```
