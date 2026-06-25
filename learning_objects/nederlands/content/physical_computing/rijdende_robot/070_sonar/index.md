@@ -13,6 +13,9 @@ target_ages: [10, 11, 12]
 difficulty: 3
 estimated_time: 1
 teacher_exclusive: false
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
+]
 ---
 
 # Afstandssensor: sonar
