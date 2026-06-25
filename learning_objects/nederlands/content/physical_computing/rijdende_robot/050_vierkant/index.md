@@ -24,7 +24,7 @@ De robot laten rijden is eenvoudig. Je gebruikt volgende programmeerblokken:
 
 In dit voorbeeld rijdt de robot 3 seconden vooruit (3000 miliseconden).
 
-![blockly](@learning-object/pc_rijdenderobot_eerste_programma_blocks/nl/1)
+![blockly](@learning-object/pc_rijdenderobot_vierkant_blocks/nl/1)
 
 <div class="dwengo-content assignment">
 <h2 class="title">Nu is het aan jou!</h2>
