@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_motor
-version: 3
+version: 1
 language: nl
 title: "DC-motor"
 description: "Uitleg over de DC-motor en zijn blok"

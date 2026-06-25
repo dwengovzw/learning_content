@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_sonar
-version: 3
+version: 1
 language: nl
 title: "Afstandssensor - sonar"
 description: "Uitleg over afstandssensoren en de sonar"

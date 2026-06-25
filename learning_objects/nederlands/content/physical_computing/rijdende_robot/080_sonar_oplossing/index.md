@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_sonar_oplossing
-version: 3
+version: 1
 language: nl
 title: "Afstandssensor: oplossing"
 description: "Oplossing van de oefening: laat de robot stoppen voor de muur"

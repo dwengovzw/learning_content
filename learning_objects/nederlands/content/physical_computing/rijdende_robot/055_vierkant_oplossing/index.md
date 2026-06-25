@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_vierkant_oplossing
-version: 3
+version: 1
 language: nl
 title: "Rijden in een vierkant: oplossing"
 description: "Oplossing van de oefening: laat de robot in een vierkant rijden"

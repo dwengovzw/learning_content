@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_robot
-version: 3
+version: 1
 language: nl
 title: "Rijdende robot"
 description: "Uitleg over de rijdende robot"

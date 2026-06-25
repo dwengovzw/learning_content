@@ -8,7 +8,7 @@
   "nodes": [
     {
       "learningobject_hruid": "pc_rijdenderobot_inleiding",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "start_node": true,
       "transitions": [
@@ -16,7 +16,7 @@
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_robot",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -24,14 +24,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_robot",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_motor",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -39,14 +39,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_motor",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_vierkant",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -54,14 +54,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_vierkant",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_vierkant_oplossing",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -69,14 +69,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_vierkant_oplossing",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_muur",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -84,14 +84,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_muur",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_sonar",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -99,14 +99,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_sonar",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_sonar_oplossing",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -114,14 +114,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_sonar_oplossing",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_eindopdracht",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -129,14 +129,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_eindopdracht",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_eindopdracht_solution",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -144,14 +144,14 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_eindopdracht_solution",
-      "version": "3",
+      "version": "1",
       "language": "nl",
       "transitions": [
         {
           "default": true,
           "next": {
             "hruid": "pc_rijdenderobot_onderwijsdoelen",
-            "version": "3",
+            "version": "1",
             "language": "nl"
           }
         }
@@ -159,7 +159,7 @@
     },
     {
       "learningobject_hruid": "pc_rijdenderobot_onderwijsdoelen",
-      "version": "3",
+      "version": "1",
       "language": "nl"
     }
   ]

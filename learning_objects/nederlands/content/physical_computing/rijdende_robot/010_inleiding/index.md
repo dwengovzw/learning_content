@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_inleiding
-version: 3
+version: 1
 language: nl
 title: "Inleiding"
 description: "uitleg over DwenguinoBlockly en het leerpad"

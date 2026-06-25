@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_eindopdracht
-version: 3
+version: 1
 language: nl
 title: "Eindopdracht"
 description: "Finale opdracht met de rijdende robot"

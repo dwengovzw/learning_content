@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_vierkant
-version: 3
+version: 1
 language: nl
 title: "Rijden in een vierkant"
 description: "Eerste programma met de rijdende robot en opdracht"

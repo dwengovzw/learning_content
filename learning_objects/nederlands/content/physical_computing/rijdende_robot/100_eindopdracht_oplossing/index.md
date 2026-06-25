@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_eindopdracht_solution
-version: 3
+version: 1
 language: nl
 title: "Eindopdracht: oplossing"
 description: "Oplossing van de eindoefening"

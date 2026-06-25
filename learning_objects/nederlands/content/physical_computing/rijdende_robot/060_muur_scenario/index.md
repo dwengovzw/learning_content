@@ -1,6 +1,6 @@
 ---
 hruid: pc_rijdenderobot_muur
-version: 3
+version: 1
 language: nl
 title: "Scenario met de muur"
 description: "Uitleg over het scenario met de muur"
