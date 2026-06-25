@@ -20,4 +20,8 @@ skos_concepts: [
 
 # Eindopdracht: oplossing
 
+Een mogelijke oplossing is om de robot naar één vaste kant te laten draaien als de muur binnen een bepaald bereik is. Deze oplossing is hier uitgewerkt:
+
 ![blockly](@learning-object/pc_rijdenderobot_eindopdracht_oplossing_blocks/nl/1)
+
+Complexere oplossingen zijn ook mogelijk. Je zou bijvoorbeeld kunnen bepalen naar welke kant de robot moet draaien om vervolgens zo veel mogelijk plaats te hebben om rechtdoor te rijden.

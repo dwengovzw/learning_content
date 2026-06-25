@@ -11,7 +11,7 @@ content_type: text/markdown
 available: true
 target_ages: [10, 11, 12]
 difficulty: 3
-estimated_time: 1
+estimated_time: 10
 teacher_exclusive: false
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
@@ -32,6 +32,7 @@ In dit voorbeeld rijdt de robot 3 seconden vooruit (3000 miliseconden).
 <div class="dwengo-content assignment">
 <h2 class="title">Nu is het aan jou!</h2>
 <div class="content">
-💡 Ontwerp zelf een programma dat het robotje in een vierkant laat rijden.<br><br>
+Experimenteer met de dc-motor-blok en laat het robotje rondrijden.
+💡 Ontwerp dan zelf een programma dat het robotje in een vierkant laat rijden.<br><br>
 </div>
 </div>
