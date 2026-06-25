@@ -38,5 +38,7 @@ Per groep heb je het volgende materiaal nodig:
 * Een afdruk van de brieven in geheimschrift ([Geheimschrift](content/Brieven_geheimschrift.pdf)).
 * Optioneel kan je ook de tips afdrukken en die verspreiden. Deze helpen de deelnemers om de uitdagingen sneller op te lossen ([Tips](content/Tips.pdf)).
 
+Wil je al deze documenten in één keer afdrukken dan kan dat via [deze pdf](content/moordmysterie_alles_in_een_keer.pdf).
+
 Op de af te drukken documenten staat ook steeds vermeld waar die terecht moeten komen (bv. *In kistje 1*). Op die manier kan je de activiteit gemakkelijk klaarzetten.
 

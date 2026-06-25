@@ -2,14 +2,14 @@
 available: true
 content_type: text/markdown
 copyright: dwengo
-description: Notebooks over ...
+description: Notebooks on digital images
 difficulty: 3
 educational_goals:
 - id: id
   source: Source
 - id: id2
   source: Source2
-estimated_time: 10
+estimated_time: 5
 hruid: pn_db_voorkennis
 keywords:
 - Python
@@ -18,7 +18,7 @@ keywords:
 - AI Op School
 - Computationeel denken"
 language: en
-licence: dwengo
+licence: Dwengo
 return_value:
   callback_schema:
     att: test

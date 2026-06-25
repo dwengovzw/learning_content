@@ -1,9 +1,9 @@
 ---
-hruid: sr5_sr_in_stem_intro
+hruid: sr6_introductie_1
 version: 1
 language: nl
-title: "De sociale robot en STEM"
-description: "De sociale robot en STEM"
+title: "Evaluatie"
+description: "Evaluatie"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
