@@ -24,7 +24,7 @@ In DwenguinoBlockly programmeer je met programmeerblokken. Dit zijn de blokjes a
 
 Veel van de elektrische onderdelen die besproken worden in dat leerpad, hebben wij niet nodig. Het belangrijkste component bij de Rijdende Robot is de DC-motor. Zijn programmeerblok vind je onder 'Dwenguino' en ziet er zo uit:
 
-![programmeerblok van DC-motor](./embed/dcmotor_block.png)
+![programmeerblok van DC-motor](embed/dcmotor_block.png)
 
 De DC-motor (of *gelijkstroommotor*) is een klein motortje dat in beide richtingen kan ronddraaien. Onze rijdende robot heeft twee motoren: één per wiel. Door de snelheid te veranderen, laat je de wielen sneller of trager draaien.
 

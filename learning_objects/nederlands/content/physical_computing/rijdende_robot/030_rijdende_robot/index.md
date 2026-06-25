@@ -27,7 +27,7 @@ Onze rijdende robot heeft twee wielen. Elk wiel heeft een motor die het laat dra
 > Kun jij voertuigen bedenken die in het echt ook zo worden aangestuurd?
 
 In DwenguinoBlockly ziet de rijdende robot eruit zoals op de afbeelding. Klik rechtsboven op het gelijkaardige icoontje om op de juiste pagina te komen en het robotje in de simulator te zien.<br>
-![rijdende robot in DwenguinoBlockly](./embed/robotblockly.png)
+![rijdende robot in DwenguinoBlockly](embed/robotblockly.png)
 
 <div class="dwengo-content sideinfo">
 <h2 class="title">Rijdende robot scenario's</h2>

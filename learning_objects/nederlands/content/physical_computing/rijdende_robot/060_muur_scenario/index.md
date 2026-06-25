@@ -22,7 +22,7 @@ skos_concepts: [
 
 We gaan over naar het tweede scenario met de rijdende robot. Nu zit het robotje in een ruimte met muren. Hij kan dus niet zomaar blijven rijden, want dan botst hij.
 
-![afbeelding van muur scenario in simulator](./embed/muur_scenario.png)
+![afbeelding van muur scenario in simulator](embed/muur_scenario.png)
 
 > Laat de robot opnieuw in een vierkant rijden met je zelfgemaakte programma.
 

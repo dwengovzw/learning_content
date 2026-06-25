@@ -26,7 +26,7 @@ Er zijn verschillende soorten afstandssensors. Wij gebruiken een ultrasone senso
 
 > Vleermuizen gebruiken hetzelfde principe om in het donker te 'zien'!
 
-![afbeelding sonar](./embed/sonar_afbeelding.png)
+![afbeelding sonar](embed/sonar_afbeelding.png)
 
 Het programmeerblokje voor de sonar vind je opnieuw onder 'Dwenguino'. We geven een voorbeeldje over hoe je het moet gebruiken. Het gegeven programma leest de waarde van de sonar uit en print deze op het lcd.
 

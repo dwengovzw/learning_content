@@ -32,8 +32,6 @@ In dit voorbeeld rijdt de robot 3 seconden vooruit (3000 miliseconden).
 <div class="dwengo-content assignment">
 <h2 class="title">Nu is het aan jou!</h2>
 <div class="content">
-Ontwerp zelf een programma dat het robotje in een vierkant laat rijden.<br><br>
-
-💡
+💡 Ontwerp zelf een programma dat het robotje in een vierkant laat rijden.<br><br>
 </div>
 </div>
