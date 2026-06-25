@@ -9,8 +9,23 @@
     {
       "learningobject_hruid": "ct04_00",
       "version": "3",
-      "language": "nl",     
+      "language": "nl",
       "start_node": true,
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "ct04_11",
+            "version": "3",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "ct04_11",
+      "version": "3",
+      "language": "nl",
       "transitions": [
         {
           "default": true,
@@ -159,21 +174,6 @@
     },
     {
       "learningobject_hruid": "ct04_10",
-      "version": "3",
-      "language": "nl",
-      "transitions": [
-        {
-          "default": true,
-          "next": {
-            "hruid": "ct04_11",
-            "version": "3",
-            "language": "nl"
-          }
-        }
-      ]
-    },
-    {
-      "learningobject_hruid": "ct04_11",
       "version": "3",
       "language": "nl"
     }

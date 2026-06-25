@@ -6,7 +6,7 @@ title: "Mediawijs minimumdoel"
 description: "Mediawijs minimumdoel"
 keywords: [""]
 educational_goals: [
-    {source: Source, id: id}, 
+    {source: Source, id: id},
     {source: Source2, id: id2}
 ]
 copyright: dwengo
@@ -29,11 +29,17 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Mediawijs minimumdoel 
+# Mediawijs minimumdoel
 
 ![](@youtube/https://www.youtube.com/embed/FfqPxrT39_8 "Computationeel denken - Impact")
 
 Voor de tweede graad is een minimumdoel geformuleerd dat beoogt dat leerlingen de impact die digitale systemen hebben, leren inschatten; met de principes van computationeel denken als houvast denken ze na over de werking van deze systemen.
+
+-----
+
+![](embed/poster-CTI-computationeel-denken.png)
+
+(Deze poster kan je ook downloaden onder het [Computationeel Denken Lesthema](https://www.dwengo.org/computational_thinking/))
 
 -----
 
