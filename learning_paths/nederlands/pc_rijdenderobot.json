@@ -85,6 +85,36 @@
     {
       "learningobject_hruid": "pc_rijdenderobot_muur",
       "version": "1",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_rijdenderobot_sonar",
+            "version": "1",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_rijdenderobot_sonar",
+      "version": "1",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "pc_rijdenderobot_sonar_oplossing",
+            "version": "1",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "pc_rijdenderobot_sonar_oplossing",
+      "version": "1",
       "language": "nl"
     }
   ]
