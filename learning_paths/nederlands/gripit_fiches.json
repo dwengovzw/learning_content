@@ -1,0 +1,14 @@
+{
+    "hruid": "gripit_fiches",
+    "language": "nl",
+    "title": "Gripit: fiches",
+    "description": "Informatiefiches voor het Gripit-project.",
+    "nodes": [
+        {
+            "learningobject_hruid": "gripit_programmeren_uploaden",
+            "version": "1",
+            "language": "nl",
+            "start_node": true
+        }
+    ]
+}
