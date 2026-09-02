@@ -54,3 +54,5 @@ De software die je voor deze leerlijn nodig hebt hangt af van het gekozen platfo
 Met de Dwengo-simulator kan je de Dwenguino zowel grafisch (of blokgebaseerd) als tekstueel programmeren. Deze simulator werkt in de browser waardoor je niets hoeft te installeren.<br>
 Met de Arduino IDE kan je de Arduino Uno enkel tekstueel programmeren. Je kan de Arduino IDE makkelijk installeren op Windows, Linux en macOS.<br>
 - In de derde graad kiezen we voor een professionele programmeeromgeving (VSCode) waarmee we zowel de Dwenguino als de Arduino Uno kunnen programmeren. Om dat op een efficiënte manier te kunnen doen maken we gebruik van de [PlatformIO](https://platformio.org/) plugin.
+
+
