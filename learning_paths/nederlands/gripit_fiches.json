@@ -9,7 +9,17 @@
             "learningobject_hruid": "org_dwengo_gripit_programmeren_uploaden",
             "version": "1",
             "language": "nl",
-            "start_node": true
+            "start_node": true,
+            "transitions": [
+                {
+                "default": true,
+                "next": {
+                    "hruid": "kiks_dicotylmonocotyl",
+                    "version": "3",
+                    "language": "nl"
+                }
+                }
+            ]
         }
     ]
 }
