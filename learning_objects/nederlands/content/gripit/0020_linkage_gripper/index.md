@@ -58,6 +58,23 @@ teacher_exclusive: false
             </video>
         </div>
         <div class="info_item item">
+            <h3 class="info_item_title">Stap 2: Monteer de koppeling</h3>
+            <p class="info_item_content">
+                Monteer de koppeling zoals getoond in de video. Hiervoor heb je de volgende onderdelen nodig:
+            </p>
+            <ul class="info_item_content">
+                <li>De stang met tandwiel</li>
+                <li>De stang zonder tandwiel</li>
+                <li>De stang voor de vingerverbinding</li>
+                <li>4 M4-zeskantmoeren</li>
+                <li>4 M3 x 4 x 18-pasbouten</li>
+            </ul>
+            <video controls title="Montage van de koppeling">
+                <source src="img/finger_linkage_assembly.mp4" type="video/mp4">
+                Je browser ondersteunt deze video niet.
+            </video>
+        </div>
+        <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
                 De MG90s-servo draait het tandwiel. Via de vingerbasis wordt deze draaiende beweging doorgegeven aan de koppelingen van het parallellogram. Daardoor bewegen de vingers gelijktijdig naar binnen om een voorwerp vast te nemen, of naar buiten om het weer los te laten. De koppelingen zorgen ervoor dat de vingers tijdens het openen en sluiten ongeveer evenwijdig blijven.
