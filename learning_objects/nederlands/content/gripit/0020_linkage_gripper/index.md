@@ -34,6 +34,37 @@ teacher_exclusive: false
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Onderdelen</h3>
+            <div class="dwengo_content table_container">
+                <table>
+                    <tr>
+                        <th>Onderdeel</th>
+                        <th>Aantal</th>
+                        <th>Stap</th>
+                    </tr>
+                    <tr><td>Halberd-connectieplaat</td><td>1</td><td>1</td></tr>
+                    <tr><td>Vingerbasis</td><td>1</td><td>1</td></tr>
+                    <tr><td>MG90s-servo</td><td>1</td><td>1</td></tr>
+                    <tr><td>M3 x 6-inbusbout</td><td>4</td><td>1</td></tr>
+                    <tr><td>M2 x 6-inbusbout</td><td>2</td><td>1</td></tr>
+                    <tr><td>M2,5 x 6-inbusbout</td><td>1</td><td>1</td></tr>
+                    <tr><td>Tandwiel (d10, Z1, m10)</td><td>1</td><td>1</td></tr>
+                    <tr><td>Stang met tandwiel</td><td>1</td><td>2</td></tr>
+                    <tr><td>Stang zonder tandwiel</td><td>1</td><td>2</td></tr>
+                    <tr><td>Stang voor de vingerverbinding</td><td>1</td><td>2</td></tr>
+                    <tr><td>M4-zeskantmoer</td><td>4</td><td>2</td></tr>
+                    <tr><td>M3 x 4 x 18-pasbout</td><td>4</td><td>2</td></tr>
+                    <tr><td>Vingertop-zwaluwstaartverbinding</td><td>1</td><td>3</td></tr>
+                    <tr><td>Vingertop</td><td>1</td><td>3</td></tr>
+                    <tr><td>Sensormodule (optioneel)</td><td>1</td><td>3</td></tr>
+                    <tr><td>M5 x 8-inbusbout</td><td>1</td><td>3</td></tr>
+                </table>
+            </div>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Stap 1: Monteer de basis van de vinger</h3>
+            <p class="info_item_content">
+                In deze eerste stap monteer je de basis van de vinger. Hiervoor heb je de volgende onderdelen nodig:
+            </p>
             <ul class="info_item_content">
                 <li>De Halberd-connectieplaat</li>
                 <li>De vingerbasis</li>
@@ -43,11 +74,8 @@ teacher_exclusive: false
                 <li>1 M2,5 x 6-inbusbout</li>
                 <li>Tandwiel (d10, Z1, m10)</li>
             </ul>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Stap 1: Monteer de basis van de vinger</h3>
             <p class="info_item_content">
-                In deze eerste stap monteer je de basis van de vinger. Gebruik de vier M3 x 6-inbusbouten om de vingerbasis aan de Halberd-connectieplaat te bevestigen. Bevestig de MG90s-servo met de twee M2 x 6-inbusbouten.
+                Gebruik de vier M3 x 6-inbusbouten om de vingerbasis aan de Halberd-connectieplaat te bevestigen. Bevestig de MG90s-servo met de twee M2 x 6-inbusbouten.
             </p>
             <p class="info_item_content">
                 Bevestig vervolgens het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt.
@@ -71,6 +99,22 @@ teacher_exclusive: false
             </ul>
             <video controls title="Montage van de koppeling">
                 <source src="img/finger_linkage_assembly.mp4" type="video/mp4">
+                Je browser ondersteunt deze video niet.
+            </video>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Stap 3: Monteer de vingertop</h3>
+            <p class="info_item_content">
+                Bevestig de vingertop aan de vinger zoals getoond in de video. Hiervoor heb je de volgende onderdelen nodig:
+            </p>
+            <ul class="info_item_content">
+                <li>De vingertop-zwaluwstaartverbinding</li>
+                <li>De vingertop</li>
+                <li>De sensormodule (optioneel)</li>
+                <li>Een M5 x 8-inbusbout</li>
+            </ul>
+            <video controls title="Montage van de vingertop">
+                <source src="img/finger_fingertip_assembly.mp4" type="video/mp4">
                 Je browser ondersteunt deze video niet.
             </video>
         </div>
