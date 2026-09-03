@@ -37,22 +37,34 @@ teacher_exclusive: false
             <ul class="info_item_content">
                 <li>De Halberd-connectieplaat</li>
                 <li>De vingerbasis</li>
-                <li>De MG90-servo</li>
+                <li>De MG90s-servo</li>
                 <li>4 M3 x 6-inbusbouten</li>
                 <li>2 M2 x 6-inbusbouten</li>
                 <li>1 M2,5 x 6-inbusbout</li>
                 <li>Tandwiel (d10, Z1, m10)</li>
             </ul>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Stap 1: Monteer de vingerbasis</h3>
             <p class="info_item_content">
-                Gebruik de M3-bouten om de vingerbasis aan de connectieplaat te bevestigen. Met de M2-bouten bevestig je de servo. De M2,5-bout gebruik je om het tandwiel aan de servo te bevestigen.
-            </p>
-            <p class="info_item_content">
-                De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt.
+                Gebruik de vier M3 x 6-inbusbouten om de vingerbasis aan de Halberd-connectieplaat te bevestigen. De video toont alleen deze eerste stap van de montage.
             </p>
             <video controls title="Montage van de basis van de vinger">
                 <source src="img/finger_base_assembly.mp4" type="video/mp4">
                 Je browser ondersteunt deze video niet.
             </video>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Stap 2: Bevestig de servo</h3>
+            <p class="info_item_content">
+                Bevestig de MG90-servo met de twee M2 x 6-inbusbouten.
+            </p>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Stap 3: Monteer het tandwiel</h3>
+            <p class="info_item_content">
+                Bevestig het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt.
+            </p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
