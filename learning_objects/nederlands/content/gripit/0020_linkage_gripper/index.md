@@ -45,9 +45,12 @@ teacher_exclusive: false
             </ul>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">Stap 1: Monteer de vingerbasis</h3>
+            <h3 class="info_item_title">Stap 1: Monteer de basis van de vinger</h3>
             <p class="info_item_content">
-                Gebruik de vier M3 x 6-inbusbouten om de vingerbasis aan de Halberd-connectieplaat te bevestigen. De video toont alleen deze eerste stap van de montage.
+                In deze eerste stap monteer je de basis van de vinger. Gebruik de vier M3 x 6-inbusbouten om de vingerbasis aan de Halberd-connectieplaat te bevestigen. Bevestig de MG90s-servo met de twee M2 x 6-inbusbouten.
+            </p>
+            <p class="info_item_content">
+                Bevestig vervolgens het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt.
             </p>
             <video controls title="Montage van de basis van de vinger">
                 <source src="img/finger_base_assembly.mp4" type="video/mp4">
@@ -55,21 +58,9 @@ teacher_exclusive: false
             </video>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">Stap 2: Bevestig de servo</h3>
-            <p class="info_item_content">
-                Bevestig de MG90-servo met de twee M2 x 6-inbusbouten.
-            </p>
-        </div>
-        <div class="info_item item">
-            <h3 class="info_item_title">Stap 3: Monteer het tandwiel</h3>
-            <p class="info_item_content">
-                Bevestig het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt.
-            </p>
-        </div>
-        <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
-                [Beschrijving van de mechanische werking]
+                De MG90s-servo draait het tandwiel. Via de vingerbasis wordt deze draaiende beweging doorgegeven aan de koppelingen van het parallellogram. Daardoor bewegen de vingers gelijktijdig naar binnen om een voorwerp vast te nemen, of naar buiten om het weer los te laten. De koppelingen zorgen ervoor dat de vingers tijdens het openen en sluiten ongeveer evenwijdig blijven.
             </p>
         </div>
     </div>
