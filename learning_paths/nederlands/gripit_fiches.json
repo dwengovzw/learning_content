@@ -12,12 +12,12 @@
             "start_node": true,
             "transitions": [
                 {
-                "default": true,
-                "next": {
-                    "hruid": "kiks_dicotylmonocotyl",
-                    "version": "3",
-                    "language": "nl"
-                }
+                    "default": true,
+                    "next": {
+                        "hruid": "kiks_dicotylmonocotyl",
+                        "version": "3",
+                        "language": "nl"
+                    }
                 }
             ]
         }
