@@ -22,8 +22,6 @@ teacher_exclusive: false
 ---
 
 
-# Code uploaden
-
 <div class="dwengo_content fiche">
     <h1 class="title">Code uploaden</h1>
     <h2 class="subtitle">Hoe zet ik een programma vanuit DwenguinoBlockly op de Halberd?</h2>
