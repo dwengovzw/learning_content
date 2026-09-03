@@ -21,6 +21,8 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
+# test
+
 <div class="dwengo_content fiche">
     <h1 class="title">De mechanica van de parallellogram-grijper</h1>
     <h2 class="subtitle">Hoe werkt de parallellogram-grijper?</h2>
