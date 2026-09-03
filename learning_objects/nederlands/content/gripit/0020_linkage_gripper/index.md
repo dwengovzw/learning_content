@@ -2,7 +2,7 @@
 hruid: org_dwengo_gripit_linkage_gripper_mechanica
 version: 1
 language: nl
-title: "De mechanica van de parallellogram-grijper"
+title: "De parallellogram-grijper"
 description: "Hoe werkt de mechanica van de parallellogram-grijper?"
 keywords: ["fiche", "gripit", "parallellogram-grijper", "mechanica", "grijper"]
 educational_goals: [
@@ -32,7 +32,7 @@ teacher_exclusive: false
             <p class="info_item_content">
                 De parallellogram-grijper gebruikt een eenvoudig parallellogrammechanisme om de draaiende beweging van de motor om te zetten in een beweging van de vingers. Wanneer de motor draait, beweegt de koppeling de vingers naar elkaar toe of van elkaar weg. Door de vorm van het parallellogram blijven de vingers tijdens die beweging ongeveer evenwijdig, zodat de grijper een voorwerp recht en stevig kan vastnemen.
             </p>
-            <img src="./img/linkage_gripper3_scaled_for_web.png" alt="Render van de parallellogram-grijper" title="Parallellogram-grijper"></img>
+            <img src="img/linkage_gripper3_scaled_for_web.png" alt="Render van de parallellogram-grijper" title="Parallellogram-grijper"></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Onderdelen</h3>
@@ -52,7 +52,7 @@ teacher_exclusive: false
                 De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt.
             </p>
             <video controls title="Montage van de basis van de vinger">
-                <source src="./img/finger_base_assembly.mp4" type="video/mp4">
+                <source src="img/finger_base_assembly.mp4" type="video/mp4">
                 Je browser ondersteunt deze video niet.
             </video>
         </div>
