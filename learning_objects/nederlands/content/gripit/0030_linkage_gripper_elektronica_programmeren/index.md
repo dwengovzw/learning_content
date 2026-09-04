@@ -41,8 +41,45 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">De grijper programmeren</h3>
             <p class="info_item_content">
-                Daarna leer je hoe je met een programma de servo laat draaien om de grijper te openen en te sluiten.
+                                Met dit programma beweegt de servo die op SERVO_2 is aangesloten langzaam van 0 naar 90 graden en daarna terug naar 0 graden. De beweging wordt voortdurend herhaald. Zo opent en sluit de parallellogram-grijper. De vertraging van 10 milliseconden tussen twee hoeken zorgt voor een vloeiende beweging.
             </p>
+                        <div class="dwengo-content dwengo-code-simulator">
+                                <pre>
+<code class="language-cpp" data-filename="parallellogram_grijper.cpp">
+#include &lt;Wire.h&gt;
+#include &lt;Dwenguino.h&gt;
+#include &lt;LiquidCrystal.h&gt;
+#include &lt;Servo.h&gt;
+
+// Maak een servo-object voor de servo-aansluiting SERVO_2.
+Servo servoOnPinSERVO_2;
+
+void setup()
+{
+    // Bereid de functies van de Dwenguino voor.
+    initDwenguino();
+
+    // Koppel het servo-object aan de aansluiting SERVO_2.
+    servoOnPinSERVO_2.attach(SERVO_2);
+}
+
+void loop()
+{
+    // Beweeg de servo van 0 naar 90 graden.
+    for (int hoek = 0; hoek &lt; 90; hoek++) {
+        servoOnPinSERVO_2.write(hoek);  // Stuur de servo naar deze hoek.
+        delay(10);                       // Wacht even voor een vloeiende beweging.
+    }
+
+    // Beweeg de servo daarna terug van 90 naar 0 graden.
+    for (int hoek = 90; hoek &gt; 0; hoek--) {
+        servoOnPinSERVO_2.write(hoek);  // Stuur de servo naar deze hoek.
+        delay(10);                       // Wacht even voor een vloeiende beweging.
+    }
+}
+</code>
+                                </pre>
+                        </div>
         </div>
     </div>
 </div>

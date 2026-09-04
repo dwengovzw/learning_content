@@ -100,6 +100,29 @@ teacher_exclusive: false
 - Give every image meaningful `alt` and `title` text in the content language.
 - Do not invent facts, image descriptions, pins, or instructions not supplied by the user or supported by nearby repository content.
 
+## HTML Templates
+
+Use the established snippets in `learning_objects/html_templates.txt` when their presentation matches the content:
+
+- Assignment: `<div class="dwengo-content assignment">` with an `<h2 class="title">` and `<div class="content">`.
+- Additional information: `<div class="dwengo-content sideinfo">` with the same title/content structure.
+- Important information or warnings: `<div class="dwengo-content important">` with the same title/content structure.
+- Technical fiche: `<div class="dwengo_content fiche">` with `info_item item` sections and, for standalone examples, `example_item item` sections.
+- Runnable C++ example linked to the Dwengo programming environment:
+
+```html
+<div class="dwengo-content dwengo-code-simulator">
+        <pre>
+<code class="language-cpp" data-filename="filename.cpp">
+// C++ code here
+</code>
+        </pre>
+</div>
+```
+
+    Use a descriptive `.cpp` filename, place explanatory comments in learner-facing code when requested, and encode literal C++ angle brackets as `&lt;` and `&gt;` inside the HTML code element.
+- Horizontally scrollable table: wrap `<table>` in `<div class="dwengo_content table_container">`. Add explicit `width` and `min-width` styles to table cells when wide content needs to remain readable.
+
 ## Learning Paths
 
 Learning paths are JSON files at:
