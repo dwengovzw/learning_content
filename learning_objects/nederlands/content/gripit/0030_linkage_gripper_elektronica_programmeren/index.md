@@ -47,10 +47,10 @@ teacher_exclusive: false
 <pre>
 <code class="language-cpp" data-filename="parallellogram_grijper.cpp">
 
-    #include &lt;Wire.h&gt;
-    #include &lt;Dwenguino.h&gt;
-    #include &lt;LiquidCrystal.h&gt;
-    #include &lt;Servo.h&gt;
+    #include <Wire.h>
+    #include <Dwenguino.h>
+    #include <LiquidCrystal.h>
+    #include <Servo.h>
 
     /* Maak een servo-object
     voor de servo-aansluiting SERVO_2. */
@@ -73,12 +73,12 @@ teacher_exclusive: false
         /* Beweeg de servo van 
            0 naar 90 graden. */
         for (int hoek = 0 ; 
-                 hoek &lt; 90 ; 
+                 hoek < 90 ; 
                  hoek++) {
 
             // Stuur de servo naar deze hoek.
             servoOnPinSERVO_2.write(hoek);  
-            
+
             // Wacht voor vloeiende beweging.
             delay(10);                       
         }
@@ -86,7 +86,7 @@ teacher_exclusive: false
         /* Beweeg de servo daarna terug 
            van 90 naar 0 graden. */
         for (int hoek = 90 ; 
-                 hoek &gt; 0 ; 
+                 hoek > 0 ; 
                  hoek--) {
 
             // Stuur de servo naar deze hoek.
