@@ -43,8 +43,8 @@ teacher_exclusive: false
             <p class="info_item_content">
                                 Met dit programma beweegt de servo die op SERVO_2 is aangesloten langzaam van 0 naar 90 graden en daarna terug naar 0 graden. De beweging wordt voortdurend herhaald. Zo opent en sluit de parallellogram-grijper. De vertraging van 10 milliseconden tussen twee hoeken zorgt voor een vloeiende beweging.
             </p>
-                        <div class="dwengo-content dwengo-code-simulator">
-                                <pre>
+<div class="dwengo-content dwengo-code-simulator">
+<pre>
 <code class="language-cpp" data-filename="parallellogram_grijper.cpp">
 #include &lt;Wire.h&gt;
 #include &lt;Dwenguino.h&gt;
@@ -77,7 +77,7 @@ delay(10);                       // Wacht even voor een vloeiende beweging.
 }
 }
 </code>
-                                </pre>
+</pre>
                         </div>
         </div>
     </div>
