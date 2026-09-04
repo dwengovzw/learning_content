@@ -22,7 +22,7 @@ teacher_exclusive: false
 ---
 
 <div class="dwengo_content fiche">
-    <h1 class="title">De mechanica van de parallellogram-grijper</h1>
+    <h1 class="title">De parallellogram-grijper</h1>
     <h2 class="subtitle">Hoe werkt de parallellogram-grijper?</h2>
     <div class="items">
         <div class="info_item item">
