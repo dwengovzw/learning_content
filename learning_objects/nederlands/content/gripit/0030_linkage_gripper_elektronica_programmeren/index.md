@@ -56,26 +56,25 @@ Servo servoOnPinSERVO_2;
 
 void setup()
 {
-    // Bereid de functies van de Dwenguino voor.
-    initDwenguino();
-
-    // Koppel het servo-object aan de aansluiting SERVO_2.
-    servoOnPinSERVO_2.attach(SERVO_2);
+// Bereid de functies van de Dwenguino voor.
+initDwenguino();
+// Koppel het servo-object aan de aansluiting SERVO_2.
+servoOnPinSERVO_2.attach(SERVO_2);
 }
 
 void loop()
 {
-    // Beweeg de servo van 0 naar 90 graden.
-    for (int hoek = 0; hoek &lt; 90; hoek++) {
-        servoOnPinSERVO_2.write(hoek);  // Stuur de servo naar deze hoek.
-        delay(10);                       // Wacht even voor een vloeiende beweging.
-    }
+// Beweeg de servo van 0 naar 90 graden.
+for (int hoek = 0; hoek &lt; 90; hoek++) {
+servoOnPinSERVO_2.write(hoek);  // Stuur de servo naar deze hoek.
+delay(10);                       // Wacht even voor een vloeiende beweging.
+}
 
-    // Beweeg de servo daarna terug van 90 naar 0 graden.
-    for (int hoek = 90; hoek &gt; 0; hoek--) {
-        servoOnPinSERVO_2.write(hoek);  // Stuur de servo naar deze hoek.
-        delay(10);                       // Wacht even voor een vloeiende beweging.
-    }
+// Beweeg de servo daarna terug van 90 naar 0 graden.
+for (int hoek = 90; hoek &gt; 0; hoek--) {
+servoOnPinSERVO_2.write(hoek);  // Stuur de servo naar deze hoek.
+delay(10);                       // Wacht even voor een vloeiende beweging.
+}
 }
 </code>
                                 </pre>
