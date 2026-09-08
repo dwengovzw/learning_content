@@ -44,9 +44,9 @@ teacher_exclusive: false
                 Je hoeft niet vanaf nul te beginnen. Je kunt vertrekken van een bestaand aandrijfmechanisme, zoals de parallellogram-grijper of de rotatiegrijper. Ontwerp vervolgens je eigen robotvingers en bevestig ze met de zwaluwstaartverbinding aan de grijper.
             </p>
             <img src="img/finger_dovetail_Beauty.png" alt="Zwaluwstaartverbinding waarmee een robotvinger aan de grijper wordt bevestigd." title="Zwaluwstaartverbinding voor een robotvinger"></img>
-            <p class="info_item_content">Zwaluwstaartverbinding</p>
+            <p class="info_item_content" style="text-align: center;"><i>Zwaluwstaartverbinding</i></p>
             <img src="img/finger_build_plate_for_dovetail_Beauty.png" alt="Vingerverlenging met bouwplaat die op de zwaluwstaartverbinding past." title="Vingerverlenging met bouwplaat"></img>
-            <p class="info_item_content">Basisplaat om je vinger op te bouwen</p>
+            <p class="info_item_content" style="text-align: center;"><i>Basisplaat om je vinger op te bouwen</i></p>
             <p class="info_item_content">
                 Je kiest zelf hoeveel vingers je grijper krijgt. De Halberd-connectieplaat ondersteunt twee tot vier vingers. De vingerverlenging met bouwplaat is een goed vertrekpunt voor een eigen vinger die je eenvoudig op de zwaluwstaartverbinding kunt vastmaken.
             </p>
