@@ -98,11 +98,9 @@ teacher_exclusive: false
     }
 </code>
 </pre>
-                        </div>
-
-
-        </div>
-    </div>
+</div>
+</div>
+</div>
 </div>
 
 ### Grafisch programmeren
