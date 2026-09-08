@@ -58,5 +58,11 @@ teacher_exclusive: false
             </p>
             <img src="img/sensor_assembly_exploded_Beauty.png" alt="Voorbeeld van een vingertop met een sensormodule in een uit elkaar getoonde montage." title="Voorbeeld van een vingertop met sensormodule"></img>
         </div>
+        <div class="info_item item">
+            <h3 class="info_item_title">Gebruik de volgende fiches als referentie</h3>
+            <p class="info_item_content">
+                In de verdere fiches vind je informatie over de verschillende subcomponenten, zoals aandrijfmechanismen, programmatie, constructie en sensoren. Gebruik deze fiches als referentie terwijl je jouw grijper bouwt.
+            </p>
+        </div>
     </div>
 </div>
