@@ -84,11 +84,12 @@ teacher_exclusive: false
         <div class="dwengo-content dwengo-code-simulator">
             <pre>
 <code class="language-cpp" data-filename="halberd_blink.cpp">
-#include &lt;Dwenguino.h&gt;
+
+#include <Dwenguino.h>
 
 void setup()
 {
-  initDwenguino();
+    initDwenguino();
 }
 
 void loop()
@@ -100,6 +101,7 @@ void loop()
     digitalWrite(RGB_1_R, LOW);
     delay(1000);
 }
+
 </code>
             </pre>
         </div>
