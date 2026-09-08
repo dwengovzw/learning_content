@@ -61,21 +61,15 @@ teacher_exclusive: false
         // Initialiseer het bord.
         initDwenguino();
 
-        /* Koppel het servo-object
-          aan de aansluiting SERVO_2. */
-        servoOnPinSERVO_2.attach(
-            SERVO_2
-        );
+        /* Koppel het servo-object aan de aansluiting SERVO_2. */
+        servoOnPinSERVO_2.attach(SERVO_2);
     }
 
     void loop()
     {
         /* Beweeg de servo van 
            0 naar 90 graden. */
-        for (int hoek = 0 ; 
-                 hoek < 90 ; 
-                 hoek++) {
-
+        for (int hoek = 0 ; hoek < 90 ; hoek++) {
             // Stuur de servo naar deze hoek.
             servoOnPinSERVO_2.write(hoek);  
 
@@ -83,11 +77,8 @@ teacher_exclusive: false
             delay(10);                       
         }
 
-        /* Beweeg de servo daarna terug 
-           van 90 naar 0 graden. */
-        for (int hoek = 90 ; 
-                 hoek > 0 ; 
-                 hoek--) {
+        /* Beweeg de servo daarna terug van 90 naar 0 graden. */
+        for (int hoek = 90 ; hoek > 0 ; hoek--) {
 
             // Stuur de servo naar deze hoek.
             servoOnPinSERVO_2.write(hoek);  
