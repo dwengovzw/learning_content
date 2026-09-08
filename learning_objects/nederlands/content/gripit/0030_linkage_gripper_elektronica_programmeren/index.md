@@ -102,7 +102,9 @@ teacher_exclusive: false
             <p class="info_item_content">
                 Je kunt hetzelfde programma ook in de grafische programmeeromgeving bekijken en aanpassen.
             </p>
-![Grafisch programma voor de parallellogram-grijper](@learning-object/org_dwengo_gripit_linkage_gripper_programma_blocks/nl/1 "Grafisch programma voor de parallellogram-grijper")
+
         </div>
     </div>
 </div>
+
+![Grafisch programma voor de parallellogram-grijper](@learning-object/org_dwengo_gripit_linkage_gripper_programma_blocks/nl/1 "Grafisch programma voor de parallellogram-grijper")
