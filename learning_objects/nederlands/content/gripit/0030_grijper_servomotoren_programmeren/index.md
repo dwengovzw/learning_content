@@ -1,0 +1,100 @@
+---
+hruid: org_dwengo_gripit_servomotoren_programmeren
+version: 1
+language: nl
+title: "Servomotoren aansluiten en programmeren"
+description: "Hoe sluit je de servomotoren van een Gripit-grijper aan en bestuur je ze met een programma?"
+keywords: ["fiche", "gripit", "grijper", "elektronica", "programmeren", "servomotor"]
+educational_goals: [
+    {source: Source, id: id}
+]
+copyright: dwengo
+licence: dwengo
+content_type: text/markdown
+available: true
+target_ages: [14, 15, 16, 17, 18]
+difficulty: 1
+estimated_time: 10
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
+]
+teacher_exclusive: false
+---
+
+<div class="">
+    <h1 class="title" style="color:#85C441">Servomotoren van de grijper aansluiten en programmeren</h1>
+    <h2 class="subtitle" style="color:#0E6942">Hoe sluit je de servomotoren aan en bestuur je ze?</h2>
+    <div class="items">
+        <div class="info_item item">
+            <h3 class="info_item_title" style="color:#0E6942">Een servomotor aansluiten</h3>
+            <p class="info_item_content">
+                Elke Gripit-grijper gebruikt een of meer servomotoren. De Halberd heeft vier aansluitingen voor servo's. Elke servo-aansluiting heeft drie pinnen: GND, 5V en PWM. Sluit de stekker van een servomotor aan door de draden te laten overeenkomen met de gekleurde stippen bij de pinlabels op de Halberd.
+            </p>
+            <p class="info_item_content">
+                GND is de massapin, 5V voedt de servo en de PWM-pin stuurt de positie van de servo aan. Controleer voor je de Halberd inschakelt of elke draad bij het juiste label aangesloten is.
+            </p>
+            <img src="img/halberd_board_top_connector_servo_color_code.png" alt="Servo-aansluitingen op de Halberd met de pinlabels GND, 5V en PWM en gekleurde stippen die overeenkomen met de servodraden." title="Sluit de servodraden aan volgens de gekleurde stippen en pinlabels."></img>
+            <p class="info_item_content">
+                Sluit elke servomotor van je grijper aan op een van deze vier servo-aansluitingen. Onthoud welke aansluiting je voor elke motor gebruikt, zodat je in je programma dezelfde PWM-aansluiting kunt selecteren.
+            </p>
+        </div>
+        <div class="info_item item">
+            <h3 class="info_item_title" style="color:#0E6942">Een servomotor programmeren</h3>
+            <p class="info_item_content">
+                Met dit programma beweegt de servomotor die op SERVO_2 is aangesloten langzaam van 0 naar 90 graden en daarna terug naar 0 graden. De beweging wordt voortdurend herhaald. Zo kun je de bewegende delen van een grijper aansturen. De vertraging van 10 milliseconden tussen twee hoeken zorgt voor een vloeiende beweging.
+            </p>
+<div class="dwengo-content dwengo-code-simulator">
+<pre>
+<code class="language-cpp" data-filename="grijper_servomotor.cpp">
+
+    #include <Wire.h>
+    #include <Dwenguino.h>
+    #include <LiquidCrystal.h>
+    #include <Servo.h>
+
+    /* Maak een servomotor-object
+    voor de servo-aansluiting SERVO_2. */
+    Servo servoOnPinSERVO_2;
+
+    void setup()
+    {
+        // Initialiseer het bord.
+        initDwenguino();
+
+        /* Koppel het servo-object aan de aansluiting SERVO_2. */
+        servoOnPinSERVO_2.attach(SERVO_2);
+    }
+
+    void loop()
+    {
+        /* Beweeg de servo van 
+           0 naar 90 graden. */
+        for (int hoek = 0 ; hoek < 90 ; hoek++) {
+            // Stuur de servomotor naar deze hoek.
+            servoOnPinSERVO_2.write(hoek);  
+
+            // Wacht voor vloeiende beweging.
+            delay(10);                       
+        }
+
+        /* Beweeg de servo daarna terug van 90 naar 0 graden. */
+        for (int hoek = 90 ; hoek > 0 ; hoek--) {
+
+            // Stuur de servomotor naar deze hoek.
+            servoOnPinSERVO_2.write(hoek);  
+
+            // Wacht voor vloeiende beweging.
+            delay(10);                       
+        }
+    }
+</code>
+</pre>
+</div>
+            <h3 class="info_item_title" style="color:#0E6942">Grafisch programmeren</h3>
+            <p class="info_item_content">
+                Je kunt hetzelfde programma ook in de grafische programmeeromgeving bekijken en aanpassen.
+            </p>
+            ![Grafisch programma voor een Gripit-grijper](@learning-object/org_dwengo_gripit_servomotoren_programma_blocks/nl/1 "Grafisch programma voor een Gripit-grijper")
+        </div>
+    </div>
+</div>

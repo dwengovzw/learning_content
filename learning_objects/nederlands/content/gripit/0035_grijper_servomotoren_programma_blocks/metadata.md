@@ -1,10 +1,10 @@
 ---
-hruid: org_dwengo_gripit_linkage_gripper_programma_blocks
+hruid: org_dwengo_gripit_servomotoren_programma_blocks
 version: 1
 language: nl
-title: "Parallellogram-grijper: grafisch programma"
-description: "Een grafisch programma om de parallellogram-grijper te openen en te sluiten."
-keywords: ["gripit", "parallellogram-grijper", "servo", "programmeren", "DwenguinoBlockly"]
+title: "Grijper: grafisch programma voor een servomotor"
+description: "Een grafisch programma om een servomotor van een Gripit-grijper aan te sturen."
+keywords: ["gripit", "grijper", "servomotor", "programmeren", "DwenguinoBlockly"]
 educational_goals: [
     {source: Source, id: id}
 ]

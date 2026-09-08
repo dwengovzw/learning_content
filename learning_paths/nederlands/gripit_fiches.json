@@ -29,7 +29,7 @@
                 {
                     "default": true,
                     "next": {
-                        "hruid": "org_dwengo_gripit_linkage_gripper_elektronica_programmeren",
+                        "hruid": "org_dwengo_gripit_servomotoren_programmeren",
                         "version": "1",
                         "language": "nl"
                     }
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "learningobject_hruid": "org_dwengo_gripit_linkage_gripper_elektronica_programmeren",
+            "learningobject_hruid": "org_dwengo_gripit_servomotoren_programmeren",
             "version": "1",
             "language": "nl",
             "transitions": [
