@@ -29,21 +29,6 @@
                 {
                     "default": true,
                     "next": {
-                        "hruid": "org_dwengo_gripit_servomotoren_programmeren",
-                        "version": "1",
-                        "language": "nl"
-                    }
-                }
-            ]
-        },
-        {
-            "learningobject_hruid": "org_dwengo_gripit_servomotoren_programmeren",
-            "version": "1",
-            "language": "nl",
-            "transitions": [
-                {
-                    "default": true,
-                    "next": {
                         "hruid": "org_dwengo_gripit_rotational_gripper_mechanica",
                         "version": "1",
                         "language": "nl"
@@ -53,6 +38,21 @@
         },
         {
             "learningobject_hruid": "org_dwengo_gripit_rotational_gripper_mechanica",
+            "version": "1",
+            "language": "nl",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {
+                        "hruid": "org_dwengo_gripit_servomotoren_programmeren",
+                        "version": "1",
+                        "language": "nl"
+                    }
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_servomotoren_programmeren",
             "version": "1",
             "language": "nl"
         }
