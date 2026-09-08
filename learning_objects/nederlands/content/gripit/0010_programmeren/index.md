@@ -76,3 +76,32 @@ teacher_exclusive: false
         </div>
     </div>
 </div>
+
+<div class="dwengo-content assignment">
+    <h2 class="title">Opdracht</h2>
+    <div class="content">
+        <p>Compileer het onderstaande knipperprogramma en upload het naar de Halberd. Controleer daarna of de rode led elke seconde aan- en uitgaat.</p>
+        <div class="dwengo-content dwengo-code-simulator">
+            <pre>
+<code class="language-cpp" data-filename="halberd_blink.cpp">
+#include &lt;Dwenguino.h&gt;
+
+void setup()
+{
+  initDwenguino();
+}
+
+void loop()
+{
+    pinMode(RGB_1_R, OUTPUT);
+    digitalWrite(RGB_1_R, HIGH);
+    delay(1000);
+    pinMode(RGB_1_R, OUTPUT);
+    digitalWrite(RGB_1_R, LOW);
+    delay(1000);
+}
+</code>
+            </pre>
+        </div>
+    </div>
+</div>
