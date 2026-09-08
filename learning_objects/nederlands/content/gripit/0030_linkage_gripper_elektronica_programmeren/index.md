@@ -21,7 +21,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-<div class="dwengo_content fiche">
+<div class="dwengo_content">
     <h1 class="title">Elektronica en programmeren van de parallellogram-grijper</h1>
     <h2 class="subtitle">Hoe sluit je de grijper aan en bestuur je hem?</h2>
     <div class="items" style="grid-template-columns: 1fr;">
