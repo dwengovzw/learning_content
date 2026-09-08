@@ -26,7 +26,7 @@ teacher_exclusive: false
     <h2 class="subtitle" style="color:#0E6942">Hoe sluit je de grijper aan en bestuur je hem?</h2>
     <div class="items">
         <div class="info_item item">
-            <h3 class="info_item_title">De servo aansluiten</h3>
+            <h3 class="info_item_title" style="color:#0E6942">De servo aansluiten</h3>
             <p class="info_item_content">
                 De Halberd heeft vier aansluitingen voor servo's. Elke servo-aansluiting heeft drie pinnen: GND, 5V en PWM. Sluit de stekker van de servo aan door de draden te laten overeenkomen met de gekleurde stippen bij de pinlabels op de Halberd.
             </p>
@@ -39,7 +39,7 @@ teacher_exclusive: false
             </p>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">De grijper programmeren</h3>
+            <h3 class="info_item_title" style="color:#0E6942">De grijper programmeren</h3>
             <p class="info_item_content">
                                 Met dit programma beweegt de servo die op SERVO_2 is aangesloten langzaam van 0 naar 90 graden en daarna terug naar 0 graden. De beweging wordt voortdurend herhaald. Zo opent en sluit de parallellogram-grijper. De vertraging van 10 milliseconden tussen twee hoeken zorgt voor een vloeiende beweging.
             </p>
@@ -103,7 +103,7 @@ teacher_exclusive: false
 </div>
 </div>
 
-### Grafisch programmeren
+<h3 style="color:#0E6942">Grafisch programmeren</h3>
 
 Je kunt hetzelfde programma ook in de grafische programmeeromgeving bekijken en aanpassen.
 
