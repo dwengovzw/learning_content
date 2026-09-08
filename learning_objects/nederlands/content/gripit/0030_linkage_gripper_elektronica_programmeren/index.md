@@ -22,8 +22,8 @@ teacher_exclusive: false
 ---
 
 <div class="">
-    <h1 class="title">Elektronica en programmeren van de parallellogram-grijper</h1>
-    <h2 class="subtitle">Hoe sluit je de grijper aan en bestuur je hem?</h2>
+    <h1 class="title" style="color:#85C441">Elektronica en programmeren van de parallellogram-grijper</h1>
+    <h2 class="subtitle" style="color:#0E6942">Hoe sluit je de grijper aan en bestuur je hem?</h2>
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">De servo aansluiten</h3>
