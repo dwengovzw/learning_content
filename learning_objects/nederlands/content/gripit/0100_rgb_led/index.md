@@ -29,10 +29,37 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Halberd-aansluitingen</h3>
             <p class="info_item_content">Het testprogramma gebruikt de ingebouwde RGB-led 1 met <code>RGB_1_R</code>, <code>RGB_1_G</code> en <code>RGB_1_B</code>. Stel deze drie pinnen in als uitvoer en gebruik <code>analogWrite()</code> om de helderheid per kleurkanaal te bepalen.</p>
+            <div class="dwengo_content table_container"><table><tr><th>RGB-led</th><th>Halberd</th></tr><tr><td>Rood</td><td>RGB_1_R</td></tr><tr><td>Groen</td><td>RGB_1_G</td></tr><tr><td>Blauw</td><td>RGB_1_B</td></tr></table></div>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">De testkleuren</h3>
             <p class="info_item_content">De RGB-led geeft de toestand van het testprogramma weer: blauw wanneer de sonar een voorwerp tot 50 cm detecteert, groen wanneer de oostknop is ingedrukt en rood in alle andere gevallen.</p>
         </div>
+    </div>
+    <div class="example_item item">
+        <h3 class="example_item_title">Test de RGB-led</h3>
+        <div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="rgb_led_test.cpp">
+#include &lt;Dwenguino.h&gt;
+
+void setup() {
+    initDwenguino();
+    pinMode(RGB_1_R, OUTPUT);
+    pinMode(RGB_1_G, OUTPUT);
+    pinMode(RGB_1_B, OUTPUT);
+}
+
+void loop() {
+    analogWrite(RGB_1_R, 255);
+    analogWrite(RGB_1_G, 0);
+    analogWrite(RGB_1_B, 0);
+    delay(1000);
+    analogWrite(RGB_1_R, 0);
+    analogWrite(RGB_1_G, 255);
+    delay(1000);
+    analogWrite(RGB_1_G, 0);
+    analogWrite(RGB_1_B, 255);
+    delay(1000);
+}
+</code></pre></div>
     </div>
 </div>

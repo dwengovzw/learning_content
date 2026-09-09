@@ -22,17 +22,39 @@ teacher_exclusive: false
     <h2 class="subtitle">Gebruik een knop als invoer</h2>
     <div class="items">
         <div class="info_item item">
-            <h3 class="info_item_title">De knoppen</h3>
-            <p class="info_item_content">Knoppen geven je programma een eenvoudige invoer: ingedrukt of niet ingedrukt. Je kunt ze gebruiken om een actie te starten of een toestand van je robot te kiezen.</p>
-            <img src="img/knoppen.png" alt="De vijf knoppen van de socialrobotkit." title="Knoppen"></img>
+            <h3 class="info_item_title">Een externe knop aansluiten</h3>
+            <p class="info_item_content">De Halberd heeft geen ingebouwde knoppen. Gebruik daarom een externe knopmodule. Die geeft je programma een eenvoudige invoer: ingedrukt of niet ingedrukt.</p>
         </div>
         <div class="info_item item">
-            <h3 class="info_item_title">Knopnamen</h3>
-            <p class="info_item_content">De richtingsknoppen heten <code>SW_N</code>, <code>SW_S</code>, <code>SW_E</code> en <code>SW_W</code>. De middelste knop heet <code>SW_MIDDLE</code>. Het testprogramma kiest <code>SW_E</code>, de oostknop, en configureert die als <code>INPUT_PULLUP</code>.</p>
+            <h3 class="info_item_title">Bedrading</h3>
+            <p class="info_item_content">Een knopmodule heeft meestal de aansluitingen VCC, GND en DO (digital output). Sluit DO aan op een vrije digitale pin. In dit voorbeeld gebruiken we D2.</p>
+            <div class="dwengo_content table_container"><table><tr><th>Knopmodule</th><th>Halberd</th></tr><tr><td>VCC</td><td>3.3V of 5V, volgens de module</td></tr><tr><td>GND</td><td>GND</td></tr><tr><td>DO</td><td>D2</td></tr></table></div>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">De testreactie</h3>
-            <p class="info_item_content">Het programma leest de oostknop met <code>digitalRead(BUTTON_PIN_SW_E)</code>. Wanneer de voorwaarde voor de knop wordt bereikt en de sonar geen voorwerp dichtbij ziet, brandt RGB-led 1 groen.</p>
+            <p class="info_item_content">Het programma leest de digitale uitgang van de module met <code>digitalRead()</code>. Afhankelijk van de knopmodule is de waarde bij indrukken HIGH of LOW. Controleer dit met het testprogramma en pas de voorwaarde aan wanneer nodig.</p>
         </div>
+    </div>
+    <div class="example_item item">
+        <h3 class="example_item_title">Test een externe knopmodule</h3>
+        <div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="button_module_test.cpp">
+#include &lt;Dwenguino.h&gt;
+
+#define BUTTON_PIN D2
+
+void setup() {
+    initDwenguino();
+    pinMode(BUTTON_PIN, INPUT_PULLUP);
+    pinMode(RGB_1_G, OUTPUT);
+}
+
+void loop() {
+    if (digitalRead(BUTTON_PIN) == LOW) {
+        digitalWrite(RGB_1_G, HIGH);
+    } else {
+        digitalWrite(RGB_1_G, LOW);
+    }
+}
+</code></pre></div>
     </div>
 </div>

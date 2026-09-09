@@ -29,10 +29,35 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Aansluiten en instellen</h3>
             <p class="info_item_content">De matrix gebruikt voeding via VCC en GND en ontvangt signalen via data (D), chip select (CS) en clock (CLK). Het testprogramma gebruikt <code>LedController.hpp</code> en stelt de SPI-pinnen in met <code>PIN_SPI_SCK</code>, <code>PIN_SPI_MOSI</code> en <code>PIN_SPI_SS</code>.</p>
+            <div class="dwengo_content table_container"><table><tr><th>Led-matrix</th><th>Halberd</th></tr><tr><td>VCC</td><td>5V</td></tr><tr><td>GND</td><td>GND</td></tr><tr><td>D</td><td>PIN_SPI_MOSI</td></tr><tr><td>CS</td><td>PIN_SPI_SS</td></tr><tr><td>CLK</td><td>PIN_SPI_SCK</td></tr></table></div>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Patroon tonen</h3>
             <p class="info_item_content">Na de initialisatie activeert het programma alle segmenten, stelt het de helderheid in op 8 en wist het scherm. Daarna bevat <code>pattern</code> acht bytes: elke byte beschrijft welke leds in een rij branden. Met <code>displayOnSegment(0, pattern)</code> verschijnt het patroon op segment 0.</p>
         </div>
+    </div>
+    <div class="example_item item">
+        <h3 class="example_item_title">Test de led-matrix</h3>
+        <div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="ledmatrix_test.cpp">
+#include &lt;Dwenguino.h&gt;
+#include &lt;LedController.hpp&gt;
+
+auto ledMatrix = LedController&lt;4, 1&gt;();
+ByteBlock pattern = {B00000000, B01100110, B11111111, B11111111, B01111110, B00111100, B00011000, B00000000};
+
+void setup() {
+    initDwenguino();
+    auto configuration = controller_configuration&lt;4, 1&gt;();
+    configuration.useHardwareSpi = false;
+    configuration.SPI_CLK = PIN_SPI_SCK;
+    configuration.SPI_MOSI = PIN_SPI_MOSI;
+    configuration.SPI_CS = PIN_SPI_SS;
+    ledMatrix.init(configuration);
+    ledMatrix.setIntensity(8);
+    ledMatrix.displayOnSegment(0, pattern);
+}
+
+void loop() {}
+</code></pre></div>
     </div>
 </div>
