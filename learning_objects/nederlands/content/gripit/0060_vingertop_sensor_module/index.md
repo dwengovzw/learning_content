@@ -21,7 +21,7 @@ skos_concepts: [
 teacher_exclusive: false
 ---
 
-<div class="dwengo_content fiche">
+<div class="dwengo_content">
     <h1 class="title">Vingertopsensormodule</h1>
         <h2 class="subtitle">Meet kracht en afstand met je robotvinger</h2>
         <div class="items">
