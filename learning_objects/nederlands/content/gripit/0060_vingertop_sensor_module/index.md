@@ -24,20 +24,19 @@ teacher_exclusive: false
 <div class="dwengo_content">
     <h1 class="title">Vingertopsensormodule</h1>
         <h2 class="subtitle">Meet kracht en afstand met je robotvinger</h2>
-                <table style="width: 100%; border-collapse: separate; border-spacing: 0 0;">
-                        <tr>
-                                <td style="width: 50%; vertical-align: top; padding-right: 1rem;">
-                                        <div class="info_item item">
+                <div style="font-size: 0;">
+                        <div style="display: inline-block; width: calc(50% - 1rem); margin-right: 2rem; vertical-align: top; font-size: initial;">
+                                <div class="info_item item">
                         <h3 class="info_item_title">De sensormodule</h3>
                         <p class="info_item_content">
                                 De vingertopsensormodule bevat een druksensor en een VL53L4CD time-of-flight-afstandssensor. De druksensor meet de kracht op het sensoroppervlak. De afstandssensor meet de afstand tot een voorwerp. Zo kan je grijper voelen wanneer hij een voorwerp vastneemt en hoe ver dat voorwerp nog verwijderd is.
                         </p>
                         <img src="img/sensor_with_labels.png" alt="Boven- en onderaanzicht van de vingertopsensormodule met de druksensor, afstandssensor en connectorpinnen." title="Onderdelen en connectorpinnen van de vingertopsensormodule"></img>
                         <img src="img/sensor_assembly_exploded_Beauty.png" alt="Explosietekening van de vingertopsensormodule in een vingertopbehuizing." title="Opbouw van de vingertopsensormodule"></img>
-                                        </div>
-                                </td>
-                                <td style="width: 50%; vertical-align: top; padding-left: 1rem;">
-                                        <div class="info_item item">
+                                </div>
+                        </div>
+                        <div style="display: inline-block; width: calc(50% - 1rem); vertical-align: top; font-size: initial;">
+                                <div class="info_item item">
                         <h3 class="info_item_title">Sluit de sensormodule aan</h3>
                         <p class="info_item_content">
                                 Verbind de sensormodule met de Halberd volgens onderstaande tabel. De afstandssensor gebruikt de I2C-verbinding via SDA en SCL. De druksensor geeft zijn meetwaarde door via een analoge ingang.
@@ -56,10 +55,9 @@ teacher_exclusive: false
                                         <tr><td>Pres_out</td><td>A0</td><td>Analoge meetwaarde van de druksensor</td></tr>
                                 </table>
                         </div>
-                                        </div>
-                                </td>
-                        </tr>
-                </table>
+                                </div>
+                        </div>
+                </div>
         <div class="info_item item">
                         <h3 class="info_item_title">Meetwaarden uitlezen</h3>
                         <p class="info_item_content">
