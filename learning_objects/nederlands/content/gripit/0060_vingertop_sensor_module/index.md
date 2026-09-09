@@ -53,7 +53,7 @@ teacher_exclusive: false
                                 </table>
                         </div>
                 </div>
-                <div class="info_item item" style="grid-column: 1 / -1;">
+                <div class="info_item item" style="width: 100%; flex-basis: 100%; grid-column: 1 / -1;">
                         <h3 class="info_item_title">Meetwaarden uitlezen</h3>
                         <p class="info_item_content">
                                 Het programma leest de spanning van de druksensor en de afstand van de VL53L4CD-sensor in millimeter. Daarna stuurt het beide waarden elke lus via de seriële verbinding naar de computer. De waarden staan op elke regel, gescheiden door een puntkomma: eerst de drukmeting, daarna de afstand.
@@ -67,14 +67,14 @@ teacher_exclusive: false
  *  - de meting van de VL53L4CD time-of-flight afstandssensor.
  *
  * Bedrading:
- *  - Sensormodule SDA -&gt; Halberd SDA (pin D16).
- *  - Sensormodule SCL -&gt; Halberd SCL (pin D15).
- *  - Uitvoer krachtsensor (Pres_out) -&gt; Halberd A0.
+ *  - Sensormodule SDA -> Halberd SDA (pin D16).
+ *  - Sensormodule SCL -> Halberd SCL (pin D15).
+ *  - Uitvoer krachtsensor (Pres_out) -> Halberd A0.
  *
  * De gegevens worden via seriële communicatie naar de computer verstuurd (baud rate = 9600)
  */
-#include &lt;HalberdGripperSensor.h&gt;
-#include &lt;Arduino.h&gt;
+#include <HalberdGripperSensor.h>
+#include <Arduino.h>
 
 HalberdGripperSensor sensorsWire(PIN_A0, Wire);
 HalberdGripperSensor* sensors = nullptr;
