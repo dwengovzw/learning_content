@@ -57,6 +57,14 @@ teacher_exclusive: false
 			</div>
 		</div>
 		<div class="info_item item">
+			<h3 class="info_item_title">Alternatieve grijpvingers</h3>
+			<p class="info_item_content">
+				Deze alternatieve grijpvingers hebben een andere geometrie en zijn korter. Je kunt ze als basis gebruiken om je eigen grijpvingers te ontwerpen en verder te bouwen.
+			</p>
+			<img src="img/alternative_arm_1.png" alt="Alternatieve, korte grijpvinger voor de rotatiegrijper met een andere geometrie." title="Alternatieve korte grijpvinger"></img>
+			<img src="img/alternative_arm_2.png" alt="Tweede alternatieve, korte grijpvinger voor de rotatiegrijper met een andere geometrie." title="Alternatieve korte grijpvinger"></img>
+		</div>
+		<div class="info_item item">
 			<h3 class="info_item_title">Werking</h3>
 			<p class="info_item_content">
 				Wanneer de motor in de ene richting draait, beweegt de rotatiearm naar de gesloten stand en kan de grijper een voorwerp vastnemen. Draait de motor in de andere richting, dan beweegt de arm terug naar de open stand en laat de grijper het voorwerp los.
