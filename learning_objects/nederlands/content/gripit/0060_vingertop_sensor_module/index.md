@@ -53,7 +53,8 @@ teacher_exclusive: false
                                 </table>
                         </div>
                 </div>
-                <div class="info_item item" style="width: 100%; flex-basis: 100%; grid-column: 1 / -1;">
+        </div>
+        <div class="info_item item">
                         <h3 class="info_item_title">Meetwaarden uitlezen</h3>
                         <p class="info_item_content">
                                 Het programma leest de spanning van de druksensor en de afstand van de VL53L4CD-sensor in millimeter. Daarna stuurt het beide waarden elke lus via de seriële verbinding naar de computer. De waarden staan op elke regel, gescheiden door een puntkomma: eerst de drukmeting, daarna de afstand.
@@ -157,6 +158,7 @@ void loop() {
                                 </pre>
                         </div>
                 </div>
+        <div class="items">
                 <div class="info_item item">
                         <h3 class="info_item_title">Bekijk de waarden in de seriële monitor</h3>
                         <p class="info_item_content">
