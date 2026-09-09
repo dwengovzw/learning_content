@@ -84,6 +84,81 @@
         {
             "learningobject_hruid": "org_dwengo_gripit_vingertop_sensor_module",
             "version": "1",
+            "language": "nl",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {
+                        "hruid": "org_dwengo_gripit_ledmatrix",
+                        "version": "1",
+                        "language": "nl"
+                    }
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_ledmatrix",
+            "version": "1",
+            "language": "nl",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {
+                        "hruid": "org_dwengo_gripit_servomotor",
+                        "version": "1",
+                        "language": "nl"
+                    }
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_servomotor",
+            "version": "1",
+            "language": "nl",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {
+                        "hruid": "org_dwengo_gripit_sonar_sensor",
+                        "version": "1",
+                        "language": "nl"
+                    }
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_sonar_sensor",
+            "version": "1",
+            "language": "nl",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {
+                        "hruid": "org_dwengo_gripit_rgb_led",
+                        "version": "1",
+                        "language": "nl"
+                    }
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_rgb_led",
+            "version": "1",
+            "language": "nl",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {
+                        "hruid": "org_dwengo_gripit_knoppen",
+                        "version": "1",
+                        "language": "nl"
+                    }
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_knoppen",
+            "version": "1",
             "language": "nl"
         }
     ]
