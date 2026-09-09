@@ -34,7 +34,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">1. Bouw vanaf nul</h3>
             <p class="info_item_content">
-                Wil je een volledig eigen grijper bouwen? Bevestig je ontwerp dan op de robotpols met de Halberd-microcontroller. De pols heeft een connectieplaat met 12 x 2 radiaal geplaatste M3-inzetmoeren, zoals je op de afbeelding hieronder ziet. Daarop kun je jouw grijper of eigen onderdelen vastschroeven. Via de connectoren op het Halberd-bordje kun je ook eenvoudig elektronica aansluiten.
+                Wil je een volledig eigen grijper bouwen? Bevestig je ontwerp dan op de robotpols met de Halberd-microcontroller. De pols heeft een connectieplaat met 12 x 2 radiaal geplaatste M3-inzetmoeren, zoals je op de afbeelding hieronder ziet. Daarop kun je jouw grijper vastschroeven. Via de connectoren op het Halberd-bordje kun je ook eenvoudig elektronica aansluiten.
             </p>
             <img src="img/halberd_screw_connector_plate_Beauty.png" alt="De Halberd-polse met de connectieplaat waarop een grijper kan worden bevestigd." title="Connectieplaat op de Halberd-polse"></img>
         </div>

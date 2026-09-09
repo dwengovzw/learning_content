@@ -43,20 +43,18 @@ teacher_exclusive: false
 			<p class="info_item_content">
 				Monteer de basis van de rotatiegrijper zoals getoond in de video.
 			</p>
-			<video controls title="Montage van de basis van de rotatiegrijper">
-				<source src="img/rotational_gripper_base_assembly.mp4" type="video/mp4">
-				Je browser ondersteunt deze video niet.
-			</video>
+			<div class="iframe-container iframe-16-9">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/8SXgMIjR1F8" title="Montage van de basis van de rotatiegrijper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			</div>
 		</div>
 		<div class="info_item item">
 			<h3 class="info_item_title">Stap 2: Monteer de grijpvinger</h3>
 			<p class="info_item_content">
 				Bevestig de grijpvinger aan de rotatiegrijper zoals getoond in de video.
 			</p>
-			<video controls title="Montage van de grijpvinger van de rotatiegrijper">
-				<source src="img/rotational_gripper_finger_assembly.mp4" type="video/mp4">
-				Je browser ondersteunt deze video niet.
-			</video>
+			<div class="iframe-container iframe-16-9">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/_0uqOt-DPBY" title="Montage van de grijpvinger van de rotatiegrijper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			</div>
 		</div>
 		<div class="info_item item">
 			<h3 class="info_item_title">Werking</h3>

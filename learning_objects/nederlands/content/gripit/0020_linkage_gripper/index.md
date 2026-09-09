@@ -80,10 +80,9 @@ teacher_exclusive: false
             <p class="info_item_content">
                 Bevestig vervolgens het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt.
             </p>
-            <video controls title="Montage van de basis van de vinger">
-                <source src="img/finger_base_assembly.mp4" type="video/mp4">
-                Je browser ondersteunt deze video niet.
-            </video>
+            <div class="iframe-container iframe-16-9">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/CiEqf8ez72c" title="Montage van de basis van de vinger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Stap 2: Monteer de koppeling</h3>
@@ -97,10 +96,9 @@ teacher_exclusive: false
                 <li>4 M4-zeskantmoeren</li>
                 <li>4 M3 x 4 x 18-pasbouten</li>
             </ul>
-            <video controls title="Montage van de koppeling">
-                <source src="img/finger_linkage_assembly.mp4" type="video/mp4">
-                Je browser ondersteunt deze video niet.
-            </video>
+            <div class="iframe-container iframe-16-9">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/A24OUgLWUS8" title="Montage van de koppeling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Stap 3: Monteer de vingertop</h3>
@@ -113,10 +111,9 @@ teacher_exclusive: false
                 <li>De sensormodule (optioneel)</li>
                 <li>Een M5 x 8-inbusbout</li>
             </ul>
-            <video controls title="Montage van de vingertop">
-                <source src="img/finger_fingertip_assembly.mp4" type="video/mp4">
-                Je browser ondersteunt deze video niet.
-            </video>
+            <div class="iframe-container iframe-16-9">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/uiA6OOejIwo" title="Montage van de vingertop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
