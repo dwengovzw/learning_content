@@ -24,8 +24,8 @@ teacher_exclusive: false
 <div class="dwengo_content">
     <h1 class="title">Vingertopsensormodule</h1>
         <h2 class="subtitle">Meet kracht en afstand met je robotvinger</h2>
-        <div class="items">
-                <div class="info_item item">
+        <div class="items" style="display: flex; column-count: unset; column-width: auto; gap: 2rem;">
+                <div class="info_item item" style="flex: 1 1 0; min-width: 0;">
                         <h3 class="info_item_title">De sensormodule</h3>
                         <p class="info_item_content">
                                 De vingertopsensormodule bevat een druksensor en een VL53L4CD time-of-flight-afstandssensor. De druksensor meet de kracht op het sensoroppervlak. De afstandssensor meet de afstand tot een voorwerp. Zo kan je grijper voelen wanneer hij een voorwerp vastneemt en hoe ver dat voorwerp nog verwijderd is.
@@ -33,7 +33,7 @@ teacher_exclusive: false
                         <img src="img/sensor_with_labels.png" alt="Boven- en onderaanzicht van de vingertopsensormodule met de druksensor, afstandssensor en connectorpinnen." title="Onderdelen en connectorpinnen van de vingertopsensormodule"></img>
                         <img src="img/sensor_assembly_exploded_Beauty.png" alt="Explosietekening van de vingertopsensormodule in een vingertopbehuizing." title="Opbouw van de vingertopsensormodule"></img>
                 </div>
-                <div class="info_item item">
+                <div class="info_item item" style="flex: 1 1 0; min-width: 0;">
                         <h3 class="info_item_title">Sluit de sensormodule aan</h3>
                         <p class="info_item_content">
                                 Verbind de sensormodule met de Halberd volgens onderstaande tabel. De afstandssensor gebruikt de I2C-verbinding via SDA en SCL. De druksensor geeft zijn meetwaarde door via een analoge ingang.
