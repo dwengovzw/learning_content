@@ -90,11 +90,12 @@ teacher_exclusive: false
 </code>
 </pre>
 </div>
-            <h3 class="info_item_title" style="color:#0E6942">Grafisch programmeren</h3>
-            <p class="info_item_content">
-                Je kunt hetzelfde programma ook in de grafische programmeeromgeving bekijken en aanpassen.
-            </p>
-            ![Grafisch programma voor een Gripit-grijper](@learning-object/org_dwengo_gripit_servomotoren_programma_blocks/nl/1 "Grafisch programma voor een Gripit-grijper")
+            
         </div>
     </div>
 </div>
+
+### Grafisch programmeren
+Je kunt hetzelfde programma ook in de grafische programmeeromgeving bekijken en aanpassen.
+
+![Grafisch programma voor een Gripit-grijper](@learning-object/org_dwengo_gripit_servomotoren_programma_blocks/nl/1 "Grafisch programma voor een Gripit-grijper")
