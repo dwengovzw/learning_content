@@ -39,6 +39,8 @@ teacher_exclusive: false
     <div class="example_item item">
 <h3 class="example_item_title">Test de sonar-sensor</h3>
 <div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="sonar_test.cpp">
+
+
 #include <Dwenguino.h>
 #include <NewPing.h>
 
@@ -60,6 +62,8 @@ void loop() {
     }
     delay(100);
 }
+
+
 </code></pre></div>
 </div>
 </div>
