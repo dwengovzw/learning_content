@@ -39,29 +39,44 @@ teacher_exclusive: false
 					<tr>
 						<th>Onderdeel</th>
 						<th>Aantal</th>
+						<th>Stap</th>
 					</tr>
-					<tr><td>Rotatiearm lang</td><td>1</td></tr>
-					<tr><td>Rotatiearm kort en versprongen</td><td>1</td></tr>
-					<tr><td>Rotatiearm kort</td><td>1</td></tr>
-					<tr><td>M3 x 4 x 20-pasbout</td><td>4</td></tr>
-					<tr><td>Recht aandrijftandwiel</td><td>1</td></tr>
-					<tr><td>Groot recht tandwiel</td><td>1</td></tr>
-					<tr><td>M5-schroefdraadinzetstuk</td><td>1</td></tr>
-					<tr><td>Zwaluwstaartverbinding</td><td>1</td></tr>
-					<tr><td>M5 x 10-inbusbout</td><td>1</td></tr>
-					<tr><td>MG90s-servo</td><td>1</td></tr>
-					<tr><td>M2 x 6-inbusbout</td><td>2</td></tr>
-					<tr><td>M3-borgmoer</td><td>4</td></tr>
-					<tr><td>M2,5 x 6-inbusbout</td><td>1</td></tr>
-					<tr><td>Vingerbasis</td><td>1</td></tr>
+					<tr><td>Rotatiearm lang</td><td>1</td><td>2</td></tr>
+					<tr><td>Rotatiearm kort en versprongen</td><td>1</td><td>2</td></tr>
+					<tr><td>Rotatiearm kort</td><td>1</td><td>2</td></tr>
+					<tr><td>M3 x 4 x 20-pasbout</td><td>1</td><td>1</td></tr>
+					<tr><td>M3 x 4 x 20-pasbout</td><td>3</td><td>2</td></tr>
+					<tr><td>Recht aandrijftandwiel</td><td>1</td><td>1</td></tr>
+					<tr><td>Groot recht tandwiel</td><td>1</td><td>1</td></tr>
+					<tr><td>M5-schroefdraadinzetstuk</td><td>1</td><td>2</td></tr>
+					<tr><td>Zwaluwstaartverbinding</td><td>1</td><td>2</td></tr>
+					<tr><td>M5 x 10-inbusbout</td><td>1</td><td>2</td></tr>
+					<tr><td>MG90s-servo</td><td>1</td><td>1</td></tr>
+					<tr><td>M2 x 6-inbusbout</td><td>2</td><td>1</td></tr>
+					<tr><td>M3-borgmoer</td><td>1</td><td>1</td></tr>
+					<tr><td>M3-borgmoer</td><td>3</td><td>2</td></tr>
+					<tr><td>M2,5 x 6-inbusbout</td><td>1</td><td>1</td></tr>
+					<tr><td>Vingerbasis</td><td>1</td><td>1</td></tr>
+					<tr><td>Afstandhouder</td><td>1</td><td>1</td></tr>
 				</table>
 			</div>
 		</div>
 		<div class="info_item item">
 			<h3 class="info_item_title">Stap 1: Monteer de basis</h3>
 			<p class="info_item_content">
-				Monteer de basis van de rotatiegrijper zoals getoond in de video.
+				Monteer de basis van de rotatiegrijper zoals getoond in de video. Hiervoor heb je de volgende onderdelen nodig:
 			</p>
+			<ul class="info_item_content">
+				<li>De MG90s-servo</li>
+				<li>2 M2 x 6-inbusbouten</li>
+				<li>1 M2,5 x 6-inbusbout</li>
+				<li>1 M3 x 4 x 20-pasbout</li>
+				<li>1 recht aandrijftandwiel</li>
+				<li>1 groot recht tandwiel</li>
+				<li>1 afstandhouder</li>
+				<li>1 M3-borgmoer</li>
+				<li>De vingerbasis</li>
+			</ul>
 			<div class="iframe-container iframe-16-9">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/8SXgMIjR1F8" title="Montage van de basis van de rotatiegrijper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 			</div>
@@ -69,8 +84,18 @@ teacher_exclusive: false
 		<div class="info_item item">
 			<h3 class="info_item_title">Stap 2: Monteer de grijpvinger</h3>
 			<p class="info_item_content">
-				Bevestig de grijpvinger aan de rotatiegrijper zoals getoond in de video.
+				Bevestig de grijpvinger aan de rotatiegrijper zoals getoond in de video. Hiervoor heb je de volgende onderdelen nodig:
 			</p>
+			<ul class="info_item_content">
+				<li>De lange rotatiearm</li>
+				<li>De korte, versprongen rotatiearm</li>
+				<li>De korte rotatiearm</li>
+				<li>3 M3 x 4 x 20-pasbouten</li>
+				<li>1 M5-schroefdraadinzetstuk</li>
+				<li>1 zwaluwstaartverbinding</li>
+				<li>1 M5 x 10-inbusbout</li>
+				<li>3 M3-borgmoeren</li>
+			</ul>
 			<div class="iframe-container iframe-16-9">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/_0uqOt-DPBY" title="Montage van de grijpvinger van de rotatiegrijper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 			</div>

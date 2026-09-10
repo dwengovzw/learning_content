@@ -91,8 +91,6 @@ teacher_exclusive: false
 </pre>
 </div>
             
-        </div>
-    </div>
 </div>
 
 ### Grafisch programmeren
