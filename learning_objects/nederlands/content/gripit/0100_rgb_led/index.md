@@ -38,8 +38,9 @@ teacher_exclusive: false
     </div>
     <div class="example_item item">
         <h3 class="example_item_title">Test de RGB-led</h3>
-        <div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="rgb_led_test.cpp">
-#include &lt;Dwenguino.h&gt;
+<div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="rgb_led_test.cpp">
+
+#include <Dwenguino.h>
 
 void setup() {
     initDwenguino();
@@ -60,6 +61,8 @@ void loop() {
     analogWrite(RGB_1_B, 255);
     delay(1000);
 }
-</code></pre></div>
-    </div>
+</code>
+</pre>
+</div>
+</div>
 </div>

@@ -37,8 +37,9 @@ teacher_exclusive: false
     </div>
     <div class="example_item item">
         <h3 class="example_item_title">Test een externe knopmodule</h3>
-        <div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="button_module_test.cpp">
-#include &lt;Dwenguino.h&gt;
+<div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="button_module_test.cpp">
+
+#include <Dwenguino.h>
 
 #define BUTTON_PIN D2
 
@@ -55,6 +56,10 @@ void loop() {
         digitalWrite(RGB_1_G, LOW);
     }
 }
-</code></pre></div>
-    </div>
+
+
+</code>
+</pre>
+</div>
+</div>
 </div>

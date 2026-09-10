@@ -37,10 +37,10 @@ teacher_exclusive: false
         </div>
     </div>
     <div class="example_item item">
-        <h3 class="example_item_title">Test de sonar-sensor</h3>
-        <div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="sonar_test.cpp">
-#include &lt;Dwenguino.h&gt;
-#include &lt;NewPing.h&gt;
+<h3 class="example_item_title">Test de sonar-sensor</h3>
+<div class="dwengo-content dwengo-code-simulator"><pre><code class="language-cpp" data-filename="sonar_test.cpp">
+#include <Dwenguino.h>
+#include <NewPing.h>
 
 #define TRIGGER_PIN_A1 A1
 #define ECHO_PIN_A0 A0
@@ -53,7 +53,7 @@ void setup() {
 }
 
 void loop() {
-    if (sonarA1A0.ping_cm() &lt;= 50) {
+    if (sonarA1A0.ping_cm() <= 50) {
         digitalWrite(RGB_1_B, HIGH);
     } else {
         digitalWrite(RGB_1_B, LOW);
@@ -61,5 +61,5 @@ void loop() {
     delay(100);
 }
 </code></pre></div>
-    </div>
+</div>
 </div>
