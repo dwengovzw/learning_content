@@ -129,6 +129,21 @@
         {
             "learningobject_hruid": "org_dwengo_gripit_knoppen",
             "version": "1",
+            "language": "nl",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {
+                        "hruid": "org_dwengo_gripit_bluetooth_le",
+                        "version": "1",
+                        "language": "nl"
+                    }
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_bluetooth_le",
+            "version": "1",
             "language": "nl"
         }
     ]
