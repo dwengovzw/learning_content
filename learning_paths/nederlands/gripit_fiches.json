@@ -89,36 +89,6 @@
                 {
                     "default": true,
                     "next": {
-                        "hruid": "org_dwengo_gripit_ledmatrix",
-                        "version": "1",
-                        "language": "nl"
-                    }
-                }
-            ]
-        },
-        {
-            "learningobject_hruid": "org_dwengo_gripit_ledmatrix",
-            "version": "1",
-            "language": "nl",
-            "transitions": [
-                {
-                    "default": true,
-                    "next": {
-                        "hruid": "org_dwengo_gripit_servomotor",
-                        "version": "1",
-                        "language": "nl"
-                    }
-                }
-            ]
-        },
-        {
-            "learningobject_hruid": "org_dwengo_gripit_servomotor",
-            "version": "1",
-            "language": "nl",
-            "transitions": [
-                {
-                    "default": true,
-                    "next": {
                         "hruid": "org_dwengo_gripit_sonar_sensor",
                         "version": "1",
                         "language": "nl"
