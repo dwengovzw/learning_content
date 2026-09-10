@@ -44,15 +44,19 @@ teacher_exclusive: false
 #include <Dwenguino.h>
 #include <NewPing.h>
 
+
 #define TRIGGER_PIN_A1 A1
 #define ECHO_PIN_A0 A0
 #define MAX_DISTANCE 200
 
+
 NewPing sonarA1A0(TRIGGER_PIN_A1, ECHO_PIN_A0, MAX_DISTANCE);
+
 
 void setup() {
     initDwenguino();
 }
+
 
 void loop() {
     if (sonarA1A0.ping_cm() <= 50) {

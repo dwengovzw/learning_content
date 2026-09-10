@@ -42,12 +42,14 @@ teacher_exclusive: false
 
 #include <Dwenguino.h>
 
+
 void setup() {
     initDwenguino();
     pinMode(RGB_1_R, OUTPUT);
     pinMode(RGB_1_G, OUTPUT);
     pinMode(RGB_1_B, OUTPUT);
 }
+
 
 void loop() {
     analogWrite(RGB_1_R, 255);
