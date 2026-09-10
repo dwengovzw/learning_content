@@ -34,9 +34,28 @@ teacher_exclusive: false
 		</div>
 		<div class="info_item item">
 			<h3 class="info_item_title">Onderdelen</h3>
-			<p class="info_item_content">
-				De onderdelen die je voor elke montagestap nodig hebt, worden in de bijhorende video getoond.
-			</p>
+			<div class="dwengo_content table_container">
+				<table>
+					<tr>
+						<th>Onderdeel</th>
+						<th>Aantal</th>
+					</tr>
+					<tr><td>Rotatiearm lang</td><td>1</td></tr>
+					<tr><td>Rotatiearm kort en versprongen</td><td>1</td></tr>
+					<tr><td>Rotatiearm kort</td><td>1</td></tr>
+					<tr><td>M3 x 4 x 20-pasbout</td><td>4</td></tr>
+					<tr><td>Recht aandrijftandwiel</td><td>1</td></tr>
+					<tr><td>Groot recht tandwiel</td><td>1</td></tr>
+					<tr><td>M5-schroefdraadinzetstuk</td><td>1</td></tr>
+					<tr><td>Zwaluwstaartverbinding</td><td>1</td></tr>
+					<tr><td>M5 x 10-inbusbout</td><td>1</td></tr>
+					<tr><td>MG90s-servo</td><td>1</td></tr>
+					<tr><td>M2 x 6-inbusbout</td><td>2</td></tr>
+					<tr><td>M3-borgmoer</td><td>4</td></tr>
+					<tr><td>M2,5 x 6-inbusbout</td><td>1</td></tr>
+					<tr><td>Vingerbasis</td><td>1</td></tr>
+				</table>
+			</div>
 		</div>
 		<div class="info_item item">
 			<h3 class="info_item_title">Stap 1: Monteer de basis</h3>
