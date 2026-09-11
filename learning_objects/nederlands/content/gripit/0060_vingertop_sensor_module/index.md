@@ -66,6 +66,7 @@ teacher_exclusive: false
                         <div class="dwengo-content dwengo-code-simulator">
                                 <pre>
 <code class="language-cpp" data-filename="vingertop_sensor_module.cpp">
+
 /**
  * Met dit voorbeeld kan je de sensoren op de Halberd vingertop sensormodule lezen:
  *  - kracht op het sensoroppervlak (een analoge waarde tussen 0 en 1024), en
@@ -177,7 +178,6 @@ void loop() {
         delay(100);
         digitalWrite(LED_BLUE, LOW);
         delay(100);
-
 
         delay(10);
 }
