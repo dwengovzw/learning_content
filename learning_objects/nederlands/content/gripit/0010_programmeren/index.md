@@ -29,7 +29,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">1. De binaire code downloaden</h3>
             <p class="info_item_content">
-                Selecteer in het menu eerst het Halberd-bord. Klik vervolgens op de knop om je programma te compileren en te downloaden. Op de afbeelding hieronder is de bordkeuze aangeduid met een blauwe rechthoek en de compileer- en downloadknop met een rode rechthoek.
+                Selecteer in het menu eerst het Halberd-bord (zie blauwe rechthoek op afbeelding). Klik vervolgens op de play-knop om je programma te compileren en te downloaden (zie rode rechthoek op de afbeelding).
             </p>
             <p class="info_item_content">
                 <img src="img/overzicht_menu.png" alt="Afbeelding van het menu van DwenguinoBlockly: de bordkeuze voor de Halberd is aangeduid met een blauwe rechthoek en de knop om code te compileren en te downloaden met een rode rechthoek." title="Op deze afbeelding duidt de blauwe rechthoek de bordkeuze aan en de rode rechthoek de compileer- en downloadknop."></img>
@@ -47,7 +47,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">3. De Halberd in programmeermodus zetten</h3>
             <p class="info_item_content">
-                Druk twee keer snel na elkaar op de knop op de Halberd die op de afbeelding hieronder is aangeduid. De Halberd start nu zijn UF2 USB-bootloader en verschijnt als een USB-apparaat in de Verkenner van Windows.
+                Druk twee keer snel na elkaar op de knop op het Halberd bord (zie onderstaande afbeelding). De Halberd start nu zijn UF2 USB-bootloader en verschijnt als een USB-apparaat in de Verkenner van Windows.
             </p>
             <p class="info_item_content">
                 <img src="img/halberd_board_button.png" alt="De knop op de Halberd waarmee je de USB-bootloader start." title="Druk twee keer snel na elkaar op deze knop om de USB-bootloader te starten."></img>

@@ -28,7 +28,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Kies jouw vertrekpunt</h3>
             <p class="info_item_content">
-                Met het Halberd-platform kun je een robotgrijper volledig zelf ontwerpen. Je kunt ook vertrekken van een bestaand mechanisme en daar eigen vingers of vingertoppen aan toevoegen. Kies de aanpak die het best past bij jouw ontwerp.
+                Met het Halberd-platform kun je een robotgrijper volledig zelf ontwerpen. Je kunt ook vertrekken van een bestaand mechanisme en daar eigen vingers of vingertoppen aan toevoegen. Kies de aanpak die het best past bij jouw leercontext.
             </p>
         </div>
         <div class="info_item item">
@@ -48,7 +48,7 @@ teacher_exclusive: false
             <img src="img/finger_build_plate_for_dovetail_Beauty.png" alt="Vingerverlenging met bouwplaat die op de zwaluwstaartverbinding past." title="Vingerverlenging met bouwplaat"></img>
             <p class="info_item_content" style="text-align: center;"><i>Basisplaat om je vinger op te bouwen</i></p>
             <p class="info_item_content">
-                Je kiest zelf hoeveel vingers je grijper krijgt. De Halberd-connectieplaat ondersteunt twee tot vier vingers. De vingerverlenging met bouwplaat is een goed vertrekpunt voor een eigen vinger die je eenvoudig op de zwaluwstaartverbinding kunt vastmaken.
+                Je kiest zelf hoeveel vingers je grijper krijgt. De Halberd-connectieplaat ondersteunt twee tot vier vingers. De basisplaat is een goed vertrekpunt voor een eigen vinger die je eenvoudig op de zwaluwstaartverbinding kunt vastmaken.
             </p>
         </div>
         <div class="info_item item">

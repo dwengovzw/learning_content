@@ -28,13 +28,14 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">De parallellogram-grijper</h3>
             <p class="info_item_content">
-                De parallellogram-grijper gebruikt een eenvoudig parallellogrammechanisme om de draaiende beweging van de motor om te zetten in een beweging van de vingers. Wanneer de motor draait, beweegt de koppeling de vingers naar elkaar toe of van elkaar weg. Door de vorm van het parallellogram blijven de vingers tijdens die beweging ongeveer evenwijdig, zodat de grijper een voorwerp recht en stevig kan vastnemen.
+                De parallellogram-grijper gebruikt een eenvoudig parallellogrammechanisme om de draaiende beweging van de motor om te zetten in een beweging van de vingers. Wanneer de motor draait, beweegt de koppeling de vingers naar elkaar toe of van elkaar weg. Door de vorm van het parallellogram blijven de vingers tijdens die beweging evenwijdig, zodat de grijper een voorwerp recht en stevig kan vastnemen.
             </p>
             <img src="img/linkage_gripper3_scaled_for_web.png" alt="Render van de parallellogram-grijper" title="Parallellogram-grijper"></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Onderdelen</h3>
             <div class="dwengo_content table_container">
+            Hieronder zie je de onderdelen die nodig zijn om één vinger te bouwen.
                 <table>
                     <tr>
                         <th>Onderdeel</th>
@@ -51,7 +52,7 @@ teacher_exclusive: false
                     <tr><td>Stang met tandwiel</td><td>1</td><td>2</td></tr>
                     <tr><td>Stang zonder tandwiel</td><td>1</td><td>2</td></tr>
                     <tr><td>Stang voor de vingerverbinding</td><td>1</td><td>2</td></tr>
-                    <tr><td>M4-zeskantmoer</td><td>4</td><td>2</td></tr>
+                    <tr><td>M3-borgmoer</td><td>4</td><td>2</td></tr>
                     <tr><td>M3 x 4 x 18-pasbout</td><td>4</td><td>2</td></tr>
                     <tr><td>Vingertop-zwaluwstaartverbinding</td><td>1</td><td>3</td></tr>
                     <tr><td>Vingertop</td><td>1</td><td>3</td></tr>
@@ -78,7 +79,7 @@ teacher_exclusive: false
                 Gebruik de vier M3 x 6-inbusbouten om de vingerbasis aan de Halberd-connectieplaat te bevestigen. Bevestig de MG90s-servo met de twee M2 x 6-inbusbouten.
             </p>
             <p class="info_item_content">
-                Bevestig vervolgens het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt.
+                Bevestig vervolgens het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt. Je kan eventueel een M2,5 rondel gebruiken om de druk op het tandwiel meer te verdelen bij het vastschroeven.
             </p>
             <div class="iframe-container iframe-16-9">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/CiEqf8ez72c" title="Montage van de basis van de vinger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -118,7 +119,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
             <p class="info_item_content">
-                De MG90s-servo draait het tandwiel. Via de vingerbasis wordt deze draaiende beweging doorgegeven aan de koppelingen van het parallellogram. Daardoor bewegen de vingers gelijktijdig naar binnen om een voorwerp vast te nemen, of naar buiten om het weer los te laten. De koppelingen zorgen ervoor dat de vingers tijdens het openen en sluiten ongeveer evenwijdig blijven.
+                De MG90s-servo draait het tandwiel. Via de vingerbasis wordt deze draaiende beweging doorgegeven aan de koppelingen van het parallellogram. Daardoor bewegen de vingers gelijktijdig naar binnen om een voorwerp vast te nemen, of naar buiten om het weer los te laten. De koppelingen zorgen ervoor dat de vingers tijdens het openen en sluiten evenwijdig blijven.
             </p>
         </div>
     </div>

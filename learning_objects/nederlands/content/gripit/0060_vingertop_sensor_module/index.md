@@ -78,6 +78,8 @@ teacher_exclusive: false
  *
  * De gegevens worden via seriële communicatie naar de computer verstuurd (baud rate = 9600)
  */
+
+ 
 #include <HalberdGripperSensor.h>
 #include <Arduino.h>
 

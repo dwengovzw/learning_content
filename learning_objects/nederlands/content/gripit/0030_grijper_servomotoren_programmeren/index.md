@@ -28,7 +28,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title" style="color:#0E6942">Een servomotor aansluiten</h3>
             <p class="info_item_content">
-                Elke Gripit-grijper gebruikt een of meer servomotoren. De Halberd heeft vier aansluitingen voor servo's. Elke servo-aansluiting heeft drie pinnen: GND, 5V en PWM. Sluit de stekker van een servomotor aan door de draden te laten overeenkomen met de gekleurde stippen bij de pinlabels op de Halberd.
+                Elke Gripit-grijper gebruikt een of meer servomotoren. Halberd heeft vier aansluitingen voor servo's. Elke servo-aansluiting heeft drie pinnen: GND, 5V en PWM. Sluit de stekker van een servomotor aan door de draden te laten overeenkomen met de gekleurde stippen bij de pinlabels op de Halberd.
             </p>
             <p class="info_item_content">
                 GND is de massapin, 5V voedt de servo en de PWM-pin stuurt de positie van de servo aan. Controleer voor je de Halberd inschakelt of elke draad bij het juiste label aangesloten is.
