@@ -113,7 +113,7 @@ void setup() {
         while (!Serial) {
             delay(10);
             // Knipper de rode led zolang er geen verbinding is.
-            digitalWrite(LED_RED, millis() % 500 &lt; 250 ? HIGH : LOW);
+            digitalWrite(LED_RED, millis() % 500 < 250 ? HIGH : LOW);
         }
 
         sensorsWire.setDebugOutput(kEnableSensorDebug);
