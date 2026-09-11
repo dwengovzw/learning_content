@@ -84,15 +84,19 @@ teacher_exclusive: false
 #include <Arduino.h>
 
 
+
 HalberdGripperSensor sensorsWire(PIN_A0, Wire);
 HalberdGripperSensor* sensors = nullptr;
+
 
 
 const char* activeBusName = "none";
 const bool kEnableSensorDebug = false;
 
 
+
 void setup() {
+
         // Stel LED pinnen in als uitvoer.
         pinMode(LED_GREEN, OUTPUT);
         pinMode(LED_RED, OUTPUT);
@@ -144,6 +148,7 @@ void setup() {
 
 
 void loop() {
+
         if (sensors == nullptr) {
             delay(250);
             return;
