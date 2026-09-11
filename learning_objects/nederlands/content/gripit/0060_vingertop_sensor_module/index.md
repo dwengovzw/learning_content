@@ -79,28 +79,35 @@ teacher_exclusive: false
  * De gegevens worden via seriële communicatie naar de computer verstuurd (baud rate = 9600)
  */
 
- 
+
 #include <HalberdGripperSensor.h>
 #include <Arduino.h>
 
+
 HalberdGripperSensor sensorsWire(PIN_A0, Wire);
 HalberdGripperSensor* sensors = nullptr;
+
+
 const char* activeBusName = "none";
 const bool kEnableSensorDebug = false;
+
 
 void setup() {
     // Stel LED pinnen in als uitvoer.
     pinMode(LED_GREEN, OUTPUT);
     pinMode(LED_RED, OUTPUT);
     pinMode(LED_BLUE, OUTPUT);
+
   
     // Start de seriële communicatie.
     Serial.begin(9600);
+
 
     // Zet leds uit.
     digitalWrite(LED_GREEN, LOW);
     digitalWrite(LED_RED, LOW);
     digitalWrite(LED_BLUE, LOW);
+
 
     while (!Serial) {
         delay(10);
@@ -108,14 +115,17 @@ void setup() {
         digitalWrite(LED_RED, millis() % 500 &lt; 250 ? HIGH : LOW);
     }
 
+
     sensorsWire.setDebugOutput(kEnableSensorDebug);
     // Optional tuning APIs:
      sensorsWire.setRangeTimingMs(10, 0);   // faster updates, less averaging
     // sensorsWire.setDistanceOffsetMm(-3);    // close-range calibration offset
 
+
     if (sensorsWire.begin()) {
         sensors = &amp;sensorsWire;
     }
+
 
     // Controleer of de sensor gevonden is.
     if (sensors == nullptr) {
@@ -132,14 +142,17 @@ void setup() {
     }
 }
 
+
 void loop() {
     if (sensors == nullptr) {
         delay(250);
         return;
     }
 
+
     // Lees de kracht op de druksensor.
     float pressureVolts = sensors-&gt;readPressureVoltage();
+
 
     // Lees de afstand van de tof sensor.
     uint16_t distanceMm;
@@ -147,19 +160,24 @@ void loop() {
         distanceMm = -1;
     }
 
+
     // Stuur de waarden naar de computer.
     Serial.print(pressureVolts, 3);
     Serial.print(";");
     Serial.println(distanceMm);
 
+
     // Knipper met de blauwe led.
-        digitalWrite(LED_BLUE, HIGH);
-        delay(100);
-        digitalWrite(LED_BLUE, LOW);
-        delay(100);
+    digitalWrite(LED_BLUE, HIGH);
+    delay(100);
+    digitalWrite(LED_BLUE, LOW);
+    delay(100);
+
 
     delay(10);
 }
+
+
 </code>
                                 </pre>
                         </div>
