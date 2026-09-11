@@ -67,7 +67,7 @@ teacher_exclusive: false
                                 <pre>
 <code class="language-cpp" data-filename="vingertop_sensor_module.cpp">
 
-/**
+/*
  * Met dit voorbeeld kan je de sensoren op de Halberd vingertop sensormodule lezen:
  *  - kracht op het sensoroppervlak (een analoge waarde tussen 0 en 1024), en
  *  - de meting van de VL53L4CD time-of-flight afstandssensor.
