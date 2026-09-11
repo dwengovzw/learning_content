@@ -122,7 +122,7 @@ void setup() {
         // sensorsWire.setDistanceOffsetMm(-3);    // close-range calibration offset
 
         if (sensorsWire.begin()) {
-            sensors = &amp;sensorsWire;
+            sensors = &sensorsWire;
         }
 
         // Controleer of de sensor gevonden is.
@@ -149,11 +149,11 @@ void loop() {
         }
 
         // Lees de kracht op de druksensor.
-        float pressureVolts = sensors-&gt;readPressureVoltage();
+        float pressureVolts = sensors->readPressureVoltage();
 
         // Lees de afstand van de tof sensor.
         uint16_t distanceMm;
-        if (!sensors-&gt;readDistance(distanceMm)) {
+        if (!sensors->readDistance(distanceMm)) {
             distanceMm = -1;
         }
 
