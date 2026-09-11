@@ -93,88 +93,88 @@ const bool kEnableSensorDebug = false;
 
 
 void setup() {
-    // Stel LED pinnen in als uitvoer.
-    pinMode(LED_GREEN, OUTPUT);
-    pinMode(LED_RED, OUTPUT);
-    pinMode(LED_BLUE, OUTPUT);
+        // Stel LED pinnen in als uitvoer.
+        pinMode(LED_GREEN, OUTPUT);
+        pinMode(LED_RED, OUTPUT);
+        pinMode(LED_BLUE, OUTPUT);
 
-  
-    // Start de seriële communicatie.
-    Serial.begin(9600);
-
-
-    // Zet leds uit.
-    digitalWrite(LED_GREEN, LOW);
-    digitalWrite(LED_RED, LOW);
-    digitalWrite(LED_BLUE, LOW);
+    
+        // Start de seriële communicatie.
+        Serial.begin(9600);
 
 
-    while (!Serial) {
-        delay(10);
-        // Knipper de rode led zolang er geen verbinding is.
-        digitalWrite(LED_RED, millis() % 500 &lt; 250 ? HIGH : LOW);
-    }
-
-
-    sensorsWire.setDebugOutput(kEnableSensorDebug);
-    // Optional tuning APIs:
-     sensorsWire.setRangeTimingMs(10, 0);   // faster updates, less averaging
-    // sensorsWire.setDistanceOffsetMm(-3);    // close-range calibration offset
-
-
-    if (sensorsWire.begin()) {
-        sensors = &amp;sensorsWire;
-    }
-
-
-    // Controleer of de sensor gevonden is.
-    if (sensors == nullptr) {
+        // Zet leds uit.
         digitalWrite(LED_GREEN, LOW);
-        digitalWrite(LED_RED, HIGH);
-        digitalWrite(LED_BLUE, LOW);
-        Serial.println("VL53L4CD time-of-flight sensor not found, check wiring!");
-    } else {
-        digitalWrite(LED_GREEN, HIGH);
         digitalWrite(LED_RED, LOW);
         digitalWrite(LED_BLUE, LOW);
-        Serial.print("VL53L4CD detected on ");
-        Serial.println(".");
-    }
+
+
+        while (!Serial) {
+            delay(10);
+            // Knipper de rode led zolang er geen verbinding is.
+            digitalWrite(LED_RED, millis() % 500 &lt; 250 ? HIGH : LOW);
+        }
+
+
+        sensorsWire.setDebugOutput(kEnableSensorDebug);
+        // Optional tuning APIs:
+        sensorsWire.setRangeTimingMs(10, 0);   // faster updates, less averaging
+        // sensorsWire.setDistanceOffsetMm(-3);    // close-range calibration offset
+
+
+        if (sensorsWire.begin()) {
+            sensors = &amp;sensorsWire;
+        }
+
+
+        // Controleer of de sensor gevonden is.
+        if (sensors == nullptr) {
+            digitalWrite(LED_GREEN, LOW);
+            digitalWrite(LED_RED, HIGH);
+            digitalWrite(LED_BLUE, LOW);
+            Serial.println("VL53L4CD time-of-flight sensor not found, check wiring!");
+        } else {
+            digitalWrite(LED_GREEN, HIGH);
+            digitalWrite(LED_RED, LOW);
+            digitalWrite(LED_BLUE, LOW);
+            Serial.print("VL53L4CD detected on ");
+            Serial.println(".");
+        }
 }
 
 
 void loop() {
-    if (sensors == nullptr) {
-        delay(250);
-        return;
-    }
+        if (sensors == nullptr) {
+            delay(250);
+            return;
+        }
 
 
-    // Lees de kracht op de druksensor.
-    float pressureVolts = sensors-&gt;readPressureVoltage();
+        // Lees de kracht op de druksensor.
+        float pressureVolts = sensors-&gt;readPressureVoltage();
 
 
-    // Lees de afstand van de tof sensor.
-    uint16_t distanceMm;
-    if (!sensors-&gt;readDistance(distanceMm)) {
-        distanceMm = -1;
-    }
+        // Lees de afstand van de tof sensor.
+        uint16_t distanceMm;
+        if (!sensors-&gt;readDistance(distanceMm)) {
+            distanceMm = -1;
+        }
 
 
-    // Stuur de waarden naar de computer.
-    Serial.print(pressureVolts, 3);
-    Serial.print(";");
-    Serial.println(distanceMm);
+        // Stuur de waarden naar de computer.
+        Serial.print(pressureVolts, 3);
+        Serial.print(";");
+        Serial.println(distanceMm);
 
 
-    // Knipper met de blauwe led.
-    digitalWrite(LED_BLUE, HIGH);
-    delay(100);
-    digitalWrite(LED_BLUE, LOW);
-    delay(100);
+        // Knipper met de blauwe led.
+        digitalWrite(LED_BLUE, HIGH);
+        delay(100);
+        digitalWrite(LED_BLUE, LOW);
+        delay(100);
 
 
-    delay(10);
+        delay(10);
 }
 
 
