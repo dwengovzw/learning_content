@@ -68,16 +68,15 @@ teacher_exclusive: false
 <code class="language-cpp" data-filename="vingertop_sensor_module.cpp">
 
 /*
- * Met dit voorbeeld kan je de sensoren op de Halberd vingertop sensormodule lezen:
- *  - kracht op het sensoroppervlak (een analoge waarde tussen 0 en 1024), en
- *  - de meting van de VL53L4CD time-of-flight afstandssensor.
- *
- * Bedrading:
- *  - Sensormodule SDA -> Halberd SDA (pin D16).
- *  - Sensormodule SCL -> Halberd SCL (pin D15).
- *  - Uitvoer krachtsensor (Pres_out) -> Halberd A0.
- *
- * De gegevens worden via seriële communicatie naar de computer verstuurd (baud rate = 9600)
+Met dit voorbeeld kan je de sensoren op de Halberd vingertop sensormodule lezen:
+- kracht op het sensoroppervlak (een analoge waarde tussen 0 en 1024), en
+- de meting van de VL53L4CD time-of-flight afstandssensor.
+
+Bedrading:
+- Sensormodule SDA -> Halberd SDA (pin D16).
+- Sensormodule SCL -> Halberd SCL (pin D15).
+- Uitvoer krachtsensor (Pres_out) -> Halberd A0.
+De gegevens worden via seriële communicatie naar de computer verstuurd (baud rate = 9600)
  */
 
 
@@ -103,16 +102,13 @@ void setup() {
         pinMode(LED_RED, OUTPUT);
         pinMode(LED_BLUE, OUTPUT);
 
-    
         // Start de seriële communicatie.
         Serial.begin(9600);
-
 
         // Zet leds uit.
         digitalWrite(LED_GREEN, LOW);
         digitalWrite(LED_RED, LOW);
         digitalWrite(LED_BLUE, LOW);
-
 
         while (!Serial) {
             delay(10);
@@ -120,17 +116,14 @@ void setup() {
             digitalWrite(LED_RED, millis() % 500 &lt; 250 ? HIGH : LOW);
         }
 
-
         sensorsWire.setDebugOutput(kEnableSensorDebug);
         // Optional tuning APIs:
         sensorsWire.setRangeTimingMs(10, 0);   // faster updates, less averaging
         // sensorsWire.setDistanceOffsetMm(-3);    // close-range calibration offset
 
-
         if (sensorsWire.begin()) {
             sensors = &amp;sensorsWire;
         }
-
 
         // Controleer of de sensor gevonden is.
         if (sensors == nullptr) {
@@ -155,10 +148,8 @@ void loop() {
             return;
         }
 
-
         // Lees de kracht op de druksensor.
         float pressureVolts = sensors-&gt;readPressureVoltage();
-
 
         // Lees de afstand van de tof sensor.
         uint16_t distanceMm;
@@ -166,12 +157,10 @@ void loop() {
             distanceMm = -1;
         }
 
-
         // Stuur de waarden naar de computer.
         Serial.print(pressureVolts, 3);
         Serial.print(";");
         Serial.println(distanceMm);
-
 
         // Knipper met de blauwe led.
         digitalWrite(LED_BLUE, HIGH);
