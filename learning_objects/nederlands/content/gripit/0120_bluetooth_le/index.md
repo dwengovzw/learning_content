@@ -59,10 +59,12 @@ teacher_exclusive: false
 		</div>
 	</div>
 
-	<div class="dwengo_content dwengo-code-simulator">
-		<pre>
+<div class="dwengo_content dwengo-code-simulator">
+<pre>
 <code class="language-cpp" data-filename="halberd_ble_uart.cpp">
-#include &lt;bluefruit.h&gt;
+
+
+#include <bluefruit.h>
 
 BLEUart bleuart;
 String ontvangenBericht;
@@ -106,13 +108,18 @@ void loop() {
     bleuart.println(teller++);
   }
 }
-</code>
-		</pre>
-	</div>
 
-	<div class="dwengo_content dwengo-code-simulator">
-		<pre>
+
+</code>
+</pre>
+</div>
+
+<div class="dwengo_content dwengo-code-simulator">
+
+<pre>
 <code class="language-python" data-filename="halberd_ble.py">
+
+
 import asyncio
 
 from bleak import BleakClient, BleakScanner
@@ -147,8 +154,10 @@ async def main():
 
 
 asyncio.run(main())
+
+
 </code>
-		</pre>
+</pre>
 	</div>
 
 	<div class="items">

@@ -23,12 +23,12 @@ teacher_exclusive: false
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">Een externe knop aansluiten</h3>
-            <p class="info_item_content">De Halberd heeft geen ingebouwde knoppen. Gebruik daarom een externe knopmodule. Die geeft je programma een eenvoudige invoer: ingedrukt of niet ingedrukt.</p>
+            <p class="info_item_content">De Halberd heeft geen ingebouwde knoppen (enkel een reset knop). Gebruik daarom een externe knopmodule. Die geeft je programma een eenvoudige invoer: ingedrukt of niet ingedrukt.</p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Bedrading</h3>
             <p class="info_item_content">Een knopmodule heeft meestal de aansluitingen VCC, GND en DO (digital output). Sluit DO aan op een vrije digitale pin. In dit voorbeeld gebruiken we D2.</p>
-            <div class="dwengo_content table_container"><table><tr><th>Knopmodule</th><th>Halberd</th></tr><tr><td>VCC</td><td>3.3V of 5V, volgens de module</td></tr><tr><td>GND</td><td>GND</td></tr><tr><td>DO</td><td>D2</td></tr></table></div>
+            <div class="dwengo_content table_container"><table><tr><th>Knopmodule</th><th>Halberd</th></tr><tr><td>VCC</td><td>3.3V, volgens de module</td></tr><tr><td>GND</td><td>GND</td></tr><tr><td>DO</td><td>D2</td></tr></table></div>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">De testreactie</h3>
