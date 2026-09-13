@@ -82,6 +82,7 @@ void startAdvertising() {
   Bluefruit.Advertising.start(0);
 }
 
+
 void setup() {
   Bluefruit.begin();
   Bluefruit.setName("Halberd-BLE");
@@ -89,9 +90,12 @@ void setup() {
   startAdvertising();
 }
 
+
 void loop() {
   while (bleuart.available()) {
+
     char teken = (char) bleuart.read();
+
 
     if (teken == '\n') {
       bleuart.print("Halberd ontving: ");
@@ -158,27 +162,27 @@ asyncio.run(main())
 
 </code>
 </pre>
-	</div>
+</div>
 
-	<div class="items">
-		<div class="info_item item">
-			<h3 class="info_item_title">Testen</h3>
-			<ol class="info_item_content">
-				<li>Upload eerst het Halberd-programma en wacht tot de Halberd opnieuw is opgestart.</li>
-				<li>Sla het Python-programma op als <code>halberd_ble.py</code>.</li>
-				<li>Voer het uit met <code>py halberd_ble.py</code>.</li>
-				<li>Typ een bericht en druk op Enter. De computer ontvangt daarna <code>Halberd ontving: ...</code>.</li>
-				<li>Wacht ook twee seconden: de computer ontvangt dan <code>Teller van Halberd: ...</code>. Daarmee test je de richting van Halberd naar computer.</li>
-				<li>Typ <code>stop</code> om de verbinding netjes te sluiten.</li>
-			</ol>
-		</div>
-		<div class="info_item item">
-			<h3 class="info_item_title">Problemen oplossen</h3>
-			<ul class="info_item_content">
-				<li>Verschijnt de Halberd niet? Druk eenmaal op de resetknop en start het Python-programma opnieuw. De Halberd moet als <code>Halberd-BLE</code> adverteren.</li>
-				<li>Krijg je een fout over <code>bleak</code>? Installeer de bibliotheek in dezelfde Python-omgeving waarmee je het programma uitvoert: <code>py -m pip install bleak</code>.</li>
-				<li>Gebruik de RX-UUID uitsluitend om van de computer naar de Halberd te schrijven en abonneer je uitsluitend op de TX-UUID voor berichten van de Halberd.</li>
-			</ul>
-		</div>
+<div class="items">
+	<div class="info_item item">
+		<h3 class="info_item_title">Testen</h3>
+		<ol class="info_item_content">
+			<li>Upload eerst het Halberd-programma en wacht tot de Halberd opnieuw is opgestart.</li>
+			<li>Sla het Python-programma op als <code>halberd_ble.py</code>.</li>
+			<li>Voer het uit met <code>py halberd_ble.py</code>.</li>
+			<li>Typ een bericht en druk op Enter. De computer ontvangt daarna <code>Halberd ontving: ...</code>.</li>
+			<li>Wacht ook twee seconden: de computer ontvangt dan <code>Teller van Halberd: ...</code>. Daarmee test je de richting van Halberd naar computer.</li>
+			<li>Typ <code>stop</code> om de verbinding netjes te sluiten.</li>
+		</ol>
 	</div>
+	<div class="info_item item">
+		<h3 class="info_item_title">Problemen oplossen</h3>
+		<ul class="info_item_content">
+			<li>Verschijnt de Halberd niet? Druk eenmaal op de resetknop en start het Python-programma opnieuw. De Halberd moet als <code>Halberd-BLE</code> adverteren.</li>
+			<li>Krijg je een fout over <code>bleak</code>? Installeer de bibliotheek in dezelfde Python-omgeving waarmee je het programma uitvoert: <code>py -m pip install bleak</code>.</li>
+			<li>Gebruik de RX-UUID uitsluitend om van de computer naar de Halberd te schrijven en abonneer je uitsluitend op de TX-UUID voor berichten van de Halberd.</li>
+		</ul>
+	</div>
+</div>
 </div>
