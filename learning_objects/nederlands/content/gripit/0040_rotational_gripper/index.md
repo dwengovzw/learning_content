@@ -14,7 +14,7 @@ content_type: text/markdown
 available: true
 target_ages: [14, 15, 16, 17, 18]
 difficulty: 1
-estimated_time: 10
+estimated_time: 30
 skos_concepts: [
 	'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
