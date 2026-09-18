@@ -3,7 +3,7 @@ hruid: cb_6000
 version: 3
 language: nl
 title: "Inleiding"
-description: "Journalistiek"
+description: "Journalistiek en juridische sector"
 keywords: ["voorbeeld", "voorbeeld2"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -39,3 +39,5 @@ Op sommige nieuwssites schrijven AI-systemen de sportberichten en brengen ze ver
 Elk mediabedrijf doet zijn uiterste best om de lezer aan zich te binden, o.a. door nieuws te personaliseren met aanbevelingsalgoritmes. 
 
 Ook journalisten gebruiken AI.
+
+Een andere sector die veel gebruikmaakt van taal, is de juridische sector. Ook daar leiden de ontwikkelingen in het AI-domein tot een andere manier van werken. Denk bijvoorbeeld aan advocaten en rechters. Ook zij gebruiken AI.
