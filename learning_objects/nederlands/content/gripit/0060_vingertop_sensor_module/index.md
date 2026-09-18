@@ -57,6 +57,7 @@ teacher_exclusive: false
                         </div>
                                 </div>
                         </div>
+                        <img src="img/halberd_board_top_connector.png" alt="Connectoren op het Halberd bord" title="Connectoren op het Halberd bord"></img>
                 </div>
         <div class="info_item item">
                         <h3 class="info_item_title">Meetwaarden uitlezen</h3>

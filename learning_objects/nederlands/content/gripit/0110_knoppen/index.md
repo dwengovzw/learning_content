@@ -29,6 +29,7 @@ teacher_exclusive: false
             <h3 class="info_item_title">Bedrading</h3>
             <p class="info_item_content">Een knopmodule heeft meestal de aansluitingen VCC, GND en DO (digital output). Sluit DO aan op een vrije digitale pin. In dit voorbeeld gebruiken we D2.</p>
             <div class="dwengo_content table_container"><table><tr><th>Knopmodule</th><th>Halberd</th></tr><tr><td>VCC</td><td>3.3V, volgens de module</td></tr><tr><td>GND</td><td>GND</td></tr><tr><td>DO</td><td>D2</td></tr></table></div>
+            <img src="img/halberd_board_top_connector.png" alt="Connectoren op het Halberd bord" title="Connectoren op het Halberd bord"></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">De testreactie</h3>

@@ -30,6 +30,7 @@ teacher_exclusive: false
             <h3 class="info_item_title">Aansluiten</h3>
             <p class="info_item_content">De sensor gebruikt VCC voor 5V, GND voor massa, TRIG om een meting te starten en ECHO om de weerkaatsing te ontvangen. Het testprogramma gebruikt <code>A1</code> als TRIG en <code>A0</code> als ECHO, met een maximumafstand van 200 cm.</p>
             <div class="dwengo_content table_container"><table><tr><th>Sonar-sensor</th><th>Halberd</th></tr><tr><td>VCC</td><td>5V</td></tr><tr><td>GND</td><td>GND</td></tr><tr><td>TRIG</td><td>A1</td></tr><tr><td>ECHO</td><td>A0</td></tr></table></div>
+            <img src="img/halberd_board_top_connector.png" alt="Connectoren op het Halberd bord" title="Connectoren op het Halberd bord"></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">De testmeting</h3>

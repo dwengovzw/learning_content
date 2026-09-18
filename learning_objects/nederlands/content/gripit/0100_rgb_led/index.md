@@ -30,6 +30,7 @@ teacher_exclusive: false
             <h3 class="info_item_title">Halberd-aansluitingen</h3>
             <p class="info_item_content">Het testprogramma gebruikt de ingebouwde RGB-led 1 met <code>RGB_1_R</code>, <code>RGB_1_G</code> en <code>RGB_1_B</code>. Stel deze drie pinnen in als uitvoer en gebruik <code>analogWrite()</code> om de helderheid per kleurkanaal te bepalen.</p>
             <div class="dwengo_content table_container"><table><tr><th>RGB-led</th><th>Halberd</th></tr><tr><td>Rood</td><td>RGB_1_R</td></tr><tr><td>Groen</td><td>RGB_1_G</td></tr><tr><td>Blauw</td><td>RGB_1_B</td></tr></table></div>
+            <img src="img/halberd_board_top_connector.png" alt="Connectoren op het Halberd bord" title="Connectoren op het Halberd bord"></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">De testkleuren</h3>
