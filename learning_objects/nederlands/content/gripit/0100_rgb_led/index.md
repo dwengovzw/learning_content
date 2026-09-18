@@ -23,7 +23,7 @@ teacher_exclusive: false
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">De RGB-led</h3>
-            <p class="info_item_content">Een RGB-led combineert rood, groen en blauw licht. Door de intensiteit van elk kanaal te kiezen, maak je verschillende kleuren. Elke intensiteit ligt tussen 0, uit, en 255, volledig helder.</p>
+            <p class="info_item_content">Een RGB-led combineert rood, groen en blauw licht. Door de intensiteit van elk kanaal te kiezen, maak je verschillende kleuren. Elke intensiteit ligt tussen 0 (uit) en 255 (volledig helder).</p>
             <img src="img/rgb.png" alt="Een RGB-led uit de socialrobotkit." title="RGB-led"></img>
         </div>
         <div class="info_item item">
@@ -33,7 +33,7 @@ teacher_exclusive: false
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">De testkleuren</h3>
-            <p class="info_item_content">De RGB-led geeft de toestand van het testprogramma weer: blauw wanneer de sonar een voorwerp tot 50 cm detecteert, groen wanneer de oostknop is ingedrukt en rood in alle andere gevallen.</p>
+            <p class="info_item_content">De RGB-led geeft de toestand van het testprogramma weer: blauw wanneer de sonar een voorwerp tot 50 cm detecteert, groen wanneer de knop is ingedrukt en rood in alle andere gevallen.</p>
         </div>
     </div>
     <div class="example_item item">

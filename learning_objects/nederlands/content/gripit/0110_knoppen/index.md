@@ -23,7 +23,7 @@ teacher_exclusive: false
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">Een externe knop aansluiten</h3>
-            <p class="info_item_content">De Halberd heeft geen ingebouwde knoppen (enkel een reset knop). Gebruik daarom een externe knopmodule. Die geeft je programma een eenvoudige invoer: ingedrukt of niet ingedrukt.</p>
+            <p class="info_item_content">De Halberd heeft geen ingebouwde knoppen (alleen één resetknop). Gebruik daarom een externe knopmodule. Die geeft je programma een eenvoudige invoer: ingedrukt of niet ingedrukt.</p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Bedrading</h3>
@@ -32,7 +32,7 @@ teacher_exclusive: false
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">De testreactie</h3>
-            <p class="info_item_content">Het programma leest de digitale uitgang van de module met <code>digitalRead()</code>. Afhankelijk van de knopmodule is de waarde bij indrukken HIGH of LOW. Controleer dit met het testprogramma en pas de voorwaarde aan wanneer nodig.</p>
+            <p class="info_item_content">Het programma leest de digitale uitgang van de module met <code>digitalRead()</code>. Afhankelijk van de knopmodule is de waarde bij het indrukken HIGH of LOW. Controleer dit met het testprogramma en pas de voorwaarde aan als dat nodig is.</p>
         </div>
     </div>
     <div class="example_item item">

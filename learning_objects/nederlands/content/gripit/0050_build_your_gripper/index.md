@@ -36,7 +36,7 @@ teacher_exclusive: false
             <p class="info_item_content">
                 Wil je een volledig eigen grijper bouwen? Bevestig je ontwerp dan op de robotpols met de Halberd-microcontroller. De pols heeft een connectieplaat met 12 x 2 radiaal geplaatste M3-inzetmoeren, zoals je op de afbeelding hieronder ziet. Daarop kun je jouw grijper vastschroeven. Via de connectoren op het Halberd-bordje kun je ook eenvoudig elektronica aansluiten.
             </p>
-            <img src="img/halberd_screw_connector_plate_Beauty.png" alt="De Halberd-polse met de connectieplaat waarop een grijper kan worden bevestigd." title="Connectieplaat op de Halberd-polse"></img>
+                <img src="img/halberd_screw_connector_plate_Beauty.png" alt="De Halberd-pols met de connectieplaat waarop een grijper kan worden bevestigd." title="Connectieplaat op de Halberd-pols"></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">2. Bouw je eigen vinger(s)</h3>
@@ -48,7 +48,7 @@ teacher_exclusive: false
             <img src="img/finger_build_plate_for_dovetail_Beauty.png" alt="Vingerverlenging met bouwplaat die op de zwaluwstaartverbinding past." title="Vingerverlenging met bouwplaat"></img>
             <p class="info_item_content" style="text-align: center;"><i>Basisplaat om je vinger op te bouwen</i></p>
             <p class="info_item_content">
-                Je kiest zelf hoeveel vingers je grijper krijgt. De Halberd-connectieplaat ondersteunt twee tot vier vingers. De basisplaat is een goed vertrekpunt voor een eigen vinger die je eenvoudig op de zwaluwstaartverbinding kunt vastmaken.
+                Je kiest zelf hoeveel vingers jouw grijper krijgt. De Halberd-connectieplaat ondersteunt twee tot vier vingers. De basisplaat is een goed vertrekpunt voor een eigen vinger die je eenvoudig op de zwaluwstaartverbinding kunt vastmaken.
             </p>
         </div>
         <div class="info_item item">

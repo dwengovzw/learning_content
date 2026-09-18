@@ -23,7 +23,7 @@ teacher_exclusive: false
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">De sonar-sensor</h3>
-            <p class="info_item_content">De sonar-sensor stuurt een ultrasoon geluidssignaal uit en meet wanneer de weerkaatsing terugkomt. Uit die tijd berekent de sensor de afstand tot een voorwerp in centimeter.</p>
+            <p class="info_item_content">De sonar-sensor stuurt een ultrasoon geluidssignaal uit en meet wanneer de weerkaatsing terugkomt. Uit die tijd berekent de sensor de afstand tot een voorwerp in centimeters.</p>
             <img src="img/sonar.png" alt="Een ultrasone sonar-sensor." title="Sonar-sensor"></img>
         </div>
         <div class="info_item item">

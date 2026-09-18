@@ -94,7 +94,7 @@ teacher_exclusive: false
 			</p>
 			<ul class="info_item_content">
 				<li>De lange, korte of versprongen rotatiearm</li>
-				<li>1 M3 x 4 x 20-pasbouten</li>
+				<li>1 M3 x 4 x 20-pasbout</li>
 				<li>1 M5-schroefdraadinzetstuk</li>
 				<li>1 zwaluwstaartverbinding</li>
 				<li>1 M5 x 10-inbusbout</li>

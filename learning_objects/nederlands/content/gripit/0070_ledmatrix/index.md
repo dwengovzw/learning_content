@@ -28,7 +28,7 @@ teacher_exclusive: false
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Aansluiten en instellen</h3>
-            <p class="info_item_content">De matrix gebruikt voeding via VCC en GND en ontvangt signalen via data (D), chip select (CS) en clock (CLK). Het testprogramma gebruikt <code>LedController.hpp</code> en stelt de SPI-pinnen in met <code>PIN_SPI_SCK</code>, <code>PIN_SPI_MOSI</code> en <code>PIN_SPI_SS</code>.</p>
+            <p class="info_item_content">De matrix gebruikt voeding via VCC en GND en ontvangt signalen via data (D), chip select (CS) en het kloksignaal (CLK). Het testprogramma gebruikt <code>LedController.hpp</code> en stelt de SPI-pinnen in met <code>PIN_SPI_SCK</code>, <code>PIN_SPI_MOSI</code> en <code>PIN_SPI_SS</code>.</p>
             <div class="dwengo_content table_container"><table><tr><th>Led-matrix</th><th>Halberd</th></tr><tr><td>VCC</td><td>5V</td></tr><tr><td>GND</td><td>GND</td></tr><tr><td>D</td><td>PIN_SPI_MOSI</td></tr><tr><td>CS</td><td>PIN_SPI_SS</td></tr><tr><td>CLK</td><td>PIN_SPI_SCK</td></tr></table></div>
         </div>
         <div class="info_item item">

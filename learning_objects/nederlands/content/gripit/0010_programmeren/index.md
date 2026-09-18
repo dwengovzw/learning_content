@@ -47,7 +47,7 @@ teacher_exclusive: false
         <div class="info_item item">
             <h3 class="info_item_title">3. De Halberd in programmeermodus zetten</h3>
             <p class="info_item_content">
-                Druk twee keer snel na elkaar op de knop op het Halberd bord (zie onderstaande afbeelding). De Halberd start nu zijn UF2 USB-bootloader en verschijnt als een USB-apparaat in de Verkenner van Windows.
+                Druk twee keer snel na elkaar op de knop op het Halberd-bord (zie onderstaande afbeelding). De Halberd start nu zijn UF2 USB-bootloader en verschijnt als een USB-apparaat in de Verkenner van Windows.
             </p>
             <p class="info_item_content">
                 <img src="img/halberd_board_button.png" alt="De knop op de Halberd waarmee je de USB-bootloader start." title="Druk twee keer snel na elkaar op deze knop om de USB-bootloader te starten."></img>

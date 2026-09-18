@@ -23,7 +23,7 @@ teacher_exclusive: false
 
 <div class="">
     <h1 class="title" style="color:#85C441">Servomotoren aansluiten en programmeren</h1>
-    <h2 class="subtitle" style="color:#0E6942">Hoe verbindt en programmeer je servomotoren?</h2>
+    <h2 class="subtitle" style="color:#0E6942">Hoe verbind en programmeer je servomotoren?</h2>
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title" style="color:#0E6942">Een servomotor aansluiten</h3>
@@ -73,7 +73,7 @@ teacher_exclusive: false
             // Stuur de servomotor naar deze hoek.
             servoOnPinSERVO_2.write(hoek);  
 
-            // Wacht voor vloeiende beweging.
+            // Wacht voor een vloeiende beweging.
             delay(10);                       
         }
 

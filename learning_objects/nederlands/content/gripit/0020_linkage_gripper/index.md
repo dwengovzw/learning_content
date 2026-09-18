@@ -79,7 +79,7 @@ teacher_exclusive: false
                 Gebruik de vier M3 x 6-inbusbouten om de vingerbasis aan de Halberd-connectieplaat te bevestigen. Bevestig de MG90s-servo met de twee M2 x 6-inbusbouten.
             </p>
             <p class="info_item_content">
-                Bevestig vervolgens het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt. Je kan eventueel een M2,5 rondel gebruiken om de druk op het tandwiel meer te verdelen bij het vastschroeven.
+                Bevestig vervolgens het tandwiel aan de servo met de M2,5 x 6-inbusbout. De eerste keer dat je het tandwiel op de servo schroeft, kan dat vrij stroef gaan. Een 3D-printer kan de fijne vorm van de servohoorn niet volledig afdrukken. Daarom wordt de vorm van de servohoorn bij de eerste montage vast in het tandwiel gedrukt. Je kunt eventueel een M2,5-rondel gebruiken om de druk op het tandwiel beter te verdelen bij het vastschroeven.
             </p>
             <div class="iframe-container iframe-16-9">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/CiEqf8ez72c" title="Montage van de basis van de vinger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -94,7 +94,7 @@ teacher_exclusive: false
                 <li>De stang met tandwiel</li>
                 <li>De stang zonder tandwiel</li>
                 <li>De stang voor de vingerverbinding</li>
-                <li>4 M4-zeskantmoeren</li>
+                <li>4 M3-borgmoeren</li>
                 <li>4 M3 x 4 x 18-pasbouten</li>
             </ul>
             <div class="iframe-container iframe-16-9">

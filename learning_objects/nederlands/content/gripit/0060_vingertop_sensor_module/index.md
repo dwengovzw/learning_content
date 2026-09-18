@@ -61,14 +61,14 @@ teacher_exclusive: false
         <div class="info_item item">
                         <h3 class="info_item_title">Meetwaarden uitlezen</h3>
                         <p class="info_item_content">
-                                Het programma leest de spanning van de druksensor en de afstand van de VL53L4CD-sensor in millimeter. Daarna stuurt het beide waarden elke lus via de seriële verbinding naar de computer. De waarden staan op elke regel, gescheiden door een puntkomma: eerst de drukmeting, daarna de afstand.
+                                Het programma leest de spanning van de druksensor en de afstand van de VL53L4CD-sensor in millimeters. Daarna stuurt het beide waarden in elke lus via de seriële verbinding naar de computer. De waarden staan op elke regel, gescheiden door een puntkomma: eerst de drukmeting, daarna de afstand.
                         </p>
                         <div class="dwengo-content dwengo-code-simulator">
                                 <pre>
 <code class="language-cpp" data-filename="vingertop_sensor_module.cpp">
 
 /*
-Met dit voorbeeld kan je de sensoren op de Halberd vingertop sensormodule lezen:
+Met dit voorbeeld kun je de sensoren op de Halberd-vingertopsensormodule uitlezen:
 - kracht op het sensoroppervlak (een analoge waarde tussen 0 en 1024), en
 - de meting van de VL53L4CD time-of-flight afstandssensor.
 
@@ -151,7 +151,7 @@ void loop() {
         // Lees de kracht op de druksensor.
         float pressureVolts = sensors->readPressureVoltage();
 
-        // Lees de afstand van de tof sensor.
+        // Lees de afstand van de ToF-sensor.
         uint16_t distanceMm;
         if (!sensors->readDistance(distanceMm)) {
             distanceMm = -1;
