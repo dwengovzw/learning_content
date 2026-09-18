@@ -23,18 +23,18 @@ teacher_exclusive: false
 
 <div class="dwengo_content fiche">
     <h1 class="title">Bouw je eigen grijper</h1>
-    <h2 class="subtitle">Ontwerp een grijper die past bij jouw opdracht</h2>
+    <h2 class="subtitle">Ontwerp een grijper die past bij jouw leercontext</h2>
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">Kies jouw vertrekpunt</h3>
             <p class="info_item_content">
-                Met het Halberd-platform kun je een robotgrijper volledig zelf ontwerpen. Je kunt ook vertrekken van een bestaand mechanisme en daar eigen vingers of vingertoppen aan toevoegen. Kies de aanpak die het best past bij jouw leercontext.
+                Met het Halberd-platform kun je een robotgrijper volledig zelf ontwerpen. Je kunt ook vertrekken van een bestaand mechanisme en daar eigen vingers of vingertoppen aan toevoegen. Je kiest zelf, of samen met je leerkracht, de aanpak die het best past bij jouw leercontext.
             </p>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">1. Bouw vanaf nul</h3>
             <p class="info_item_content">
-                Wil je een volledig eigen grijper bouwen? Bevestig je ontwerp dan op de robotpols met de Halberd-microcontroller. De pols heeft een connectieplaat met 12 x 2 radiaal geplaatste M3-inzetmoeren, zoals je op de afbeelding hieronder ziet. Daarop kun je jouw grijper vastschroeven. Via de connectoren op het Halberd-bordje kun je ook eenvoudig elektronica aansluiten.
+                Wil je een volledig eigen grijper bouwen? Ga je gang! Wanneer je ontwerp, klaar is, bevestig je het op de robotpols met de Halberd-microcontroller. De pols heeft een connectieplaat met 12 x 2 radiaal geplaatste M3-inzetmoeren, zoals je op de afbeelding hieronder ziet. Daarop kun je jouw grijper vastschroeven. Via de connectoren op het Halberd-bordje kun je ook eenvoudig elektronica aansluiten.
             </p>
                 <img src="img/halberd_screw_connector_plate_Beauty.png" alt="De Halberd-pols met de connectieplaat waarop een grijper kan worden bevestigd." title="Connectieplaat op de Halberd-pols"></img>
         </div>
