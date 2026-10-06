@@ -65,4 +65,4 @@ De deskundigheidsverplichting houdt in dat juristen over voldoende inhoudelijke 
 
 AI-tools hebben het potentieel om de manier waarop juristen hun werk doen deels te automatiseren en te verbeteren. Daarnaast bieden ze opportuniteiten voor innovatie binnen de juridische sector, bijvoorbeeld via nieuwe bedrijfsmodellen[^1] die de drempel naar juridische hulp verlagen. Mensen moeten echter altijd de zekerheid hebben dat ze een beroep kunnen doen op een onafhankelijke en deskundige jurist die hun geheimen waarborgt.
 
-[^1]: Denk aan bestaande toepassingen, zoals deze [EOT tool](https://www.echtscheidingshulp.be/eot) en [Garfield AI](https://www.garfield.law/), maar ook aan ideeën, zoals een AI-rechtbank voor verkeersovertredingen. 
+[^1]: Denk aan bestaande toepassingen, zoals deze [EOT-tool](https://www.echtscheidingshulp.be/eot) en [Garfield AI](https://www.garfield.law/), maar ook aan nieuwe ideeën, zoals een AI-rechtbank voor verkeersovertredingen. 
