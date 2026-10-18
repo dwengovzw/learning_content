@@ -23,9 +23,11 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 60
+estimated_time: 20
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
+# Voorbeeld Evalueren van de leeractiviteit `Verkennen van de constructiekit sociale robot'
+Zie https://dwengo.org/backend/api/learningObject/getWrapped?hruid=ct09_07&version=3&language=nl 
