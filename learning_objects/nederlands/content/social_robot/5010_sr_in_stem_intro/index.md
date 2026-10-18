@@ -23,9 +23,16 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 60
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
+# Competenties
+
+In een STEM-project komt kennis uit verschillende domeinen op een concrete manier samen. Omdat abstracte concepten in STEM een concrete invulling krijgen, worden concepten toegankelijker voor de leerlingen. Dat kan leiden tot (dieper) inzicht in die concepten. Bovendien kan wiskundige kennis inzicht verdiepen in wetenschappelijke concepten of omgekeerd.
+
+In dit STEM-project komen ook minimumdoelen aan bod van andere sleutelcompetenties, zoals ondernemingszin en cultureel bewustzijn. 
+
+
