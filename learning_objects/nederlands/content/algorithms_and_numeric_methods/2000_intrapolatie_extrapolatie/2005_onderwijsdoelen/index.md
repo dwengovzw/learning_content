@@ -1,5 +1,5 @@
 ---
-hruid: anm_2004
+hruid: anm_2005
 version: 1
 language: nl
 title: "Onderwijsdoelen"
