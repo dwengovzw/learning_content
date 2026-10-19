@@ -23,9 +23,13 @@ return_value: {
     }
 }
 content_location: example-location
-estimated_time: 60
+estimated_time: 10
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
-teacher_exclusive: false
+teacher_exclusive: true
 ---
+# Evaluatie van een STEM-project
+Dit STEM-project laat verschillende evaluatievormen toe. Er is zowel mogelijkheid tot proces- als productevaluatie. 
+In de loop van het project worden meerdere zaken opgeleverd, bijvoorbeeld een gekozen maatschappelijk probleem, een technische fiche, een computerprogramma, een fysieke robot. Leerlingen zullen brainstormen en keuzes beargumenteren.  
+
