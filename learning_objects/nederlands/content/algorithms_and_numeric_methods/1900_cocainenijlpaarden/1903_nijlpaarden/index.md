@@ -43,7 +43,7 @@ Stel dat je een populatie dieren hebt van een soort die maximum twee jaar oud wo
 Momenteel zijn er 204 dieren in hun eerste levensjaar, 60 dieren zijn een jaar oud en 36 zijn in hun derde levensjaar.<br>
 Bekijk deze populatie dieren binnen 5 jaar.
 
-De evolutie van deze populatie kan je modelleren a.d.h.v. een graaf:<br>
+De evolutie van deze populatie kan je modelleren a.d.h.v. een graaf[^1]:<br>
 ![graaf](embed/graafvb.png)
 
 Vervolgens kan je deze graaf vertalen naar een matrix *L*:<br>
@@ -84,4 +84,6 @@ Momenteel zijn er 8 dieren in hun eerste levensjaar, 72 dieren zijn een jaar oud
 Bekijk deze populatie dieren binnen 10 jaar.
 
 ![graaf en Lesliematrix](embed/graafenleslieoefening.png)
+
+[^1]: Wil je meer weten over grafen, dan kan je terecht in de leerpaden [Grafen](https://dwengo.org/learning-path.html?hruid=aiz2_grafen&language=nl&te=true&source_page=%2Fcare%2F&source_title=%20AI%20in%20de%20Zorg#aiz_sprouts;nl;3), [wAIsda een graaf?](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-soc-netw-euler&language=nl&te=true&source_page=%2Fbasics_ai%2F&source_title=%20Basisprincipes%20van%20AI#org-dwengo-waisda-soc-netwerken-graphs-netwerk-intro;nl;1) en [Super sociaal netwerk?](https://dwengo.org/learning-path.html?hruid=org-dwengo-waisda-soc-netw-super-soc-netw&language=nl&te=true&source_page=%2Fbasics_ai%2F&source_title=%20Basisprincipes%20van%20AI#org-dwengo-waisda-sociale-netwerken-super-sociaal-netwerk-introductie;nl;1).  
 
