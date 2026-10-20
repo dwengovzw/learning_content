@@ -3,7 +3,7 @@
   "language": "nl",
   "title": "Evaluatie",
   "description": "In dit leerpad krijg je concrete tips rond de evaluatie van de studievoortgang van leerlingen in het 'Sociale robot'-project.",
-  "image": ""
+  "image": "",
   "nodes": [
     {
       "learningobject_hruid": "sr6_introductie",
@@ -39,7 +39,7 @@
     },
     {
       "learningobject_hruid": "sr6_introductie_2",
-      "version": "3",
+      "version": "1",
       "language": "nl"
     } 
   ]
