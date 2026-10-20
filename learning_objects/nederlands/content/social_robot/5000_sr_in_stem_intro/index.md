@@ -34,7 +34,7 @@ teacher_exclusive: true
 In het 'Sociale robot'-project komen meerdere STEM-disciplines geïntegreerd aan bod.
 
 **Engineering**<br>
-De leerlingen ontwerpen een oplossing voor een probleem, startend met een brainstormsessie gevisualiseerd in een technische fiche, het ontwerp van het robotlichaam met de nodige sensoren en actuatoren, het ontwerp van de nodige computerprogramma's om de senoren en actuatoren aan te sturen. 
+De leerlingen ontwerpen een oplossing voor een probleem, startend met een brainstormsessie gevisualiseerd in een technische fiche, het ontwerp van het robotlichaam met de nodige sensoren en actuatoren, het ontwerp van de nodige computerprogramma's om de sensoren en actuatoren aan te sturen. Bij het probleemoplossend denken kunnen de principes van computationeel denken een houvast bieden.  
 
 **Techniek**<br>
 De leerlingen bouwen de fysieke robot en moeten daarbij verschillende technieken toepassen, bijvoorbeeld, bij het bevestigen van de verschillende onderdelen van de robot. ELders in het project moeten ze ook concepten uit het vak techniek toepassen, zoals invoer-verwerking-uitvoer. De leerlingen moeten ook technologie gebruiken: ze moeten kennis hebben of verwerven van elektronische onderdelen en een microcontrollerplatform (leren) gebruiken. In het bijzonder zullen de leerlingen de tekortkomingen van een simulator ervaren bij het overstappen naar de fysieke robot. 
