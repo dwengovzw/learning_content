@@ -2,8 +2,8 @@
 hruid: sr5_sr_in_stem_intro_3
 version: 1
 language: nl
-title: "De sociale robot en STEM"
-description: "De sociale robot en STEM"
+title: "Computationeel denken"
+description: "De sociale robot en computationeel denken"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,7 +29,10 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Vaardigheden
+# Computationeel denken
 
-STEM-competenties omvatten kennis en vaardigheden. Daarbij horen ook generieke vaardigheden die niet exclusief voorbehouden zijn aan STEM, zoals kunnen communiceren en samenwerken.
-In dit project gaan leerlingen nadenken over robots in een maatschappelijke context, wat veel kansen biedt om aan te sturen op *kritisch denken*.
+Het 'Sociale robot'-project laat toe om leerlingen de basisconcepten van computationeel denken te laten toepassen in een relevante context. 
+
+We geven alvast twee voorbeelden:<br>
+- Het aanpakken van een probleem start bijvoorbeeld met een decompositie van het probleem, door leerlingen te laten brainstormen, wat de opportuniteit geeft om leerlingen meer eigenaarschap te geven. <br>
+- Algoritmisch denken komt aan bod bij het programmeergedeelte. 
