@@ -25,7 +25,6 @@
       "learningobject_hruid": "sr5_sr_in_stem_intro_2",
       "version": "1",
       "language": "nl",     
-      "start_node": true,
       "transitions": [
         {
           "default": true,

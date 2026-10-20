@@ -25,7 +25,6 @@
       "learningobject_hruid": "sr6_introductie_1",
       "version": "1",
       "language": "nl",     
-      "start_node": true,
       "transitions": [
         {
           "default": true,
