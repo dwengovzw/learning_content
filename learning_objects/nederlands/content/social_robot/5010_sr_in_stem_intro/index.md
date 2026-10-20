@@ -2,8 +2,8 @@
 hruid: sr5_sr_in_stem_intro_2
 version: 1
 language: nl
-title: "De sociale robot en STEM"
-description: "De sociale robot en STEM"
+title: "Competenties"
+description: "Competenties"
 keywords: ["Sociale Robot"]
 educational_goals: [
     {source: Source, id: id}, 
@@ -29,10 +29,13 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-# Competenties
+# STEM-competenties: kennis en vaardigheden
 
 In een STEM-project komt kennis uit verschillende domeinen op een concrete manier samen. Omdat abstracte concepten in STEM een concrete invulling krijgen, worden concepten toegankelijker voor de leerlingen. Dat kan leiden tot (dieper) inzicht in die concepten. Bovendien kan wiskundige kennis inzicht verdiepen in wetenschappelijke concepten of omgekeerd.
 
 In dit STEM-project komen ook minimumdoelen aan bod van andere sleutelcompetenties, zoals ondernemingszin en cultureel bewustzijn. 
+
+Bij de vaardigheden die belangrijk zijn binnen STEM, horen ook generieke vaardigheden die niet exclusief voorbehouden zijn aan STEM, zoals kunnen *communiceren* en *samenwerken*.
+In dit project gaan leerlingen nadenken over robots in een maatschappelijke context, wat veel kansen biedt om aan te sturen op *kritisch denken*.
 
 
