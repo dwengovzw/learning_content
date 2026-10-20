@@ -30,6 +30,6 @@ skos_concepts: [
 teacher_exclusive: true
 ---
 
-# Voorbeeld Evalueren van de leeractiviteit `Verkennen van de constructiekit sociale robot'
-Zie https://dwengo.org/backend/api/learningObject/getWrapped?hruid=ct09_07&version=3&language=nl 
+# Voorbeeld Evalueren van de leeractiviteit 'Verkennen van de constructiekit sociale robot'
+Zie [https://dwengo.org/backend/api/learningObject/getWrapped?hruid=ct09_07&version=3&language=nl](https://dwengo.org/backend/api/learningObject/getWrapped?hruid=ct09_07&version=3&language=nl) 
 
