@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+
 # STEM-competenties: kennis en vaardigheden
 
 In een STEM-project komt kennis uit verschillende domeinen op een concrete manier samen. Omdat abstracte concepten in STEM een concrete invulling krijgen, worden concepten toegankelijker voor de leerlingen. Dat kan leiden tot (dieper) inzicht in die concepten. Bovendien kan wiskundige kennis inzicht verdiepen in wetenschappelijke concepten of omgekeerd.

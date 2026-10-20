@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+
 # Evaluatie van een STEM-project
 Dit STEM-project laat verschillende evaluatievormen toe. Er is zowel mogelijkheid tot proces- als productevaluatie. 
 In de loop van het project worden meerdere zaken opgeleverd, bijvoorbeeld een gekozen maatschappelijk probleem, een technische fiche, een computerprogramma, een fysieke robot. Leerlingen zullen brainstormen en keuzes beargumenteren.  

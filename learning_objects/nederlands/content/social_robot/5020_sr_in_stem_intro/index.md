@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+
 # Computationeel denken
 
 Het 'Sociale robot'-project laat toe om leerlingen de basisconcepten van computationeel denken te laten toepassen in een relevante context. 

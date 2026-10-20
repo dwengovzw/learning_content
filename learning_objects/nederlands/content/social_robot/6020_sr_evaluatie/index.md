@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+
 # Minimumdoel tweede graad over impact van digitale systemen
 In de tweede graad biedt het `Sociale robot'-project de kans om tegelijk te werken aan het minimumdoel van de tweede graad: *De leerlingen analyseren de impact van digitale systemen op de maatschappij vanuit principes van computationeel denken*.
 

@@ -29,6 +29,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
+
 # STEM-disciplines
 
 In het 'Sociale robot'-project komen meerdere STEM-disciplines geïntegreerd aan bod.
