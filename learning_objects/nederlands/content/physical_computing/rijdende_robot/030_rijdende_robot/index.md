@@ -32,6 +32,6 @@ In DwenguinoBlockly ziet de rijdende robot eruit zoals op de afbeelding. Klik re
 <div class="dwengo-content sideinfo">
 <h2 class="title">Rijdende robot scenario's</h2>
 <div class="content">
-Er zijn twee scenario's die het icoontje van de rijdende robot gebruiken. Ééntje met en ééntje zonder muren. Kies voor nu het scenario zonder muren, later wordt degene met muren gebruikt.
+Er zijn twee scenario's die het icoontje van de rijdende robot gebruiken. Eetje met en eentje zonder muren. Kies voor nu het scenario zonder muren, later wordt degene met muren gebruikt.
 </div>
 </div>
