@@ -10,7 +10,37 @@
       "learningobject_hruid": "blocks_lcd",
       "version": "1",
       "language": "nl",
-      "start_node": true
+      "start_node": true,
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "blocks_leds",
+            "version": "1",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "blocks_leds",
+      "version": "1",
+      "language": "nl",
+      "transitions": [
+        {
+          "default": true,
+          "next": {
+            "hruid": "blocks_buzzer",
+            "version": "1",
+            "language": "nl"
+          }
+        }
+      ]
+    },
+    {
+      "learningobject_hruid": "blocks_buzzer",
+      "version": "1",
+      "language": "nl"
     }
   ]
 }
