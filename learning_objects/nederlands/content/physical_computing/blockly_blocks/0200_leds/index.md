@@ -26,7 +26,7 @@ teacher_exclusive: false
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
-                <img src="img/led_echt.png" alt="De LEDs die op de Dwenguino te vinden zijn."></img>
+                <img src="img/led_echt.jpg" alt="De LEDs die op de Dwenguino te vinden zijn."></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">In de simulator</h3>

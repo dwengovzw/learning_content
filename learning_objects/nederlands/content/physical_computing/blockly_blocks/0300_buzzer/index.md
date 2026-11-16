@@ -26,7 +26,7 @@ teacher_exclusive: false
     <div class="items">
         <div class="info_item item">
             <h3 class="info_item_title">In het echt</h3>
-                <img src="img/buzzer.png" alt="De buzzer dat op de Dwenguino te vinden is."></img>
+                <img src="img/buzzer.jpg" alt="De buzzer dat op de Dwenguino te vinden is."></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">In de simulator</h3>
