@@ -34,7 +34,7 @@ teacher_exclusive: false
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Programmeerblokken</h3>
-                <img src="img/buzzer_blocks.png" alt="DwenguinoBlockly blokken die te maken hebben met de buzzer."></img>
+                <img src="img/buzzer_blocks_nr.png" alt="DwenguinoBlockly blokken die te maken hebben met de buzzer."></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>

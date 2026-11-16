@@ -34,7 +34,7 @@ teacher_exclusive: false
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Programmeerblokken</h3>
-                <img src="img/lcd_blocks.png" alt="DwenguinoBlockly blokken die te maken hebben met het LCD."></img>
+                <img src="img/lcd_blocks_nr.png" alt="DwenguinoBlockly blokken die te maken hebben met het LCD."></img>
         </div>
         <div class="info_item item">
             <h3 class="info_item_title">Werking</h3>
