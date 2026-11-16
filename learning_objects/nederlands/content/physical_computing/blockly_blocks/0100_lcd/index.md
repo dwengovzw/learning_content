@@ -12,9 +12,9 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [14, 15, 16, 17, 18]
-difficulty: 2
-estimated_time: 15
+target_ages: [12, 13, 14, 15, 16, 17, 18]
+difficulty: 1
+estimated_time: 5
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen'
 ]
@@ -41,7 +41,8 @@ teacher_exclusive: false
             <p class="info_item_content">
                 Een LCD kan tekst weergeven om bijvoorbeeld een boodschap mee te delen.<br>
                 Op het scherm van de dwenguino passen maximaal 32 karakters, zoals letters of cijfers. Dit is verspreid over twee regels, dus je kan 16 karakters per regel tonen.<br><br>
-                Blok 1 maakt het LCD op de dwenguino leeg. Blok 2 kun je in combinatie met een 'tekst'-blok gebruiken om ergens op het scherm iets te printen.
+                <b>Blok 1</b> maakt het LCD op de dwenguino leeg.<br>
+                <b>Blok 2</b> kun je in combinatie met een 'tekst'-blok gebruiken om ergens op het scherm iets te printen.
             </p>
         </div>
         <div class="info_item item">
