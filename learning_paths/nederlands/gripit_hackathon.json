@@ -1,0 +1,36 @@
+{
+    "hruid": "gripit_hackathon",
+    "language": "nl",
+    "title": "Grip->IT hackathon: bouw en bestuur een robotgrijper",
+    "description": "Installeer Arduino en de Halberd-bibliotheken en bestuur je grijper vanuit Python via Bluetooth Low Energy.",
+    "nodes": [
+        {
+            "learningobject_hruid": "org_dwengo_gripit_hackathon_halberd_arduino",
+            "version": "1",
+            "language": "nl",
+            "start_node": true,
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {"hruid": "org_dwengo_gripit_hackathon_bibliotheken_firmware", "version": "1", "language": "nl"}
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_hackathon_bibliotheken_firmware",
+            "version": "1",
+            "language": "nl",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {"hruid": "org_dwengo_gripit_hackathon_python_ble", "version": "1", "language": "nl"}
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_hackathon_python_ble",
+            "version": "1",
+            "language": "nl"
+        }
+    ]
+}
