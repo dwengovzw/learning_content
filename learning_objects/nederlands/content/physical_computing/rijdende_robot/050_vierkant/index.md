@@ -22,8 +22,8 @@ skos_concepts: [
 
 De robot laten rijden is eenvoudig. Je gebruikt volgende programmeerblokken:
 
-- één *DC-motor*-blok per motor
-- een *wacht*-blok om te kiezen hoe lang de robot rijdt
+- één *DC-motor*-blok per motor;
+- een *wacht*-blok om te kiezen hoe lang de robot rijdt.
 
 In dit voorbeeld rijdt de robot 3 seconden vooruit (3000 miliseconden).
 
@@ -32,7 +32,7 @@ In dit voorbeeld rijdt de robot 3 seconden vooruit (3000 miliseconden).
 <div class="dwengo-content assignment">
 <h2 class="title">Nu is het aan jou!</h2>
 <div class="content">
-Experimenteer met de dc-motor-blok en laat het robotje rondrijden.
+Experimenteer met de dc-motor-blok en laat het robotje rondrijden.<br>
 💡 Ontwerp dan zelf een programma dat het robotje in een vierkant laat rijden.<br><br>
 </div>
 </div>

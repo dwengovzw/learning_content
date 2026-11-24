@@ -20,6 +20,8 @@ skos_concepts: [
 
 # Inleiding
 
-In dit leerpad ga jij aan de slag met de simulator in DwenguinoBlockly om een rijdend robotje te laten rijden.
+In dit leerpad ga jij aan de slag met de simulator in DwenguinoBlockly om een robotje te laten rondrijden.
 
-Je leert wat een dc-motor is, hoe onze simulator werkt en hoe je met die kennis een robotje laat rondbewegen.
+Je leert wat een dc-motor is, hoe onze simulator werkt en hoe je met die kennis onze rijdende robot kan aansturen.
+
+Open ook onze [DwenguinoBlocky](https://blockly.dwengo.org/) simulator om mee te kunnen volgen.
