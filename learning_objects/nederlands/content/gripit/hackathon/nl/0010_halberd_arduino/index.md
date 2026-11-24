@@ -10,7 +10,7 @@ copyright: dwengo
 licence: dwengo
 content_type: text/markdown
 available: true
-target_ages: [18]
+target_ages: [17, 18]
 difficulty: 2
 estimated_time: 20
 skos_concepts: ['http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen']
