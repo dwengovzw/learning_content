@@ -3,7 +3,7 @@ hruid: org_dwengo_gripit_hackathon_bibliotheken_firmware
 version: 1
 language: nl
 title: "Grijperbibliotheken en BLE-firmware"
-description: "Installeer de Halberd-bibliotheken en bereid de firmware voor je grijper voor."
+description: "Gebruik de Halberd-bibliotheken uit de Dwengo nRF52-core en bereid de firmware voor je grijper voor."
 keywords: ["gripit", "hackathon", "halberd", "arduino", "servo", "sensor", "ble"]
 educational_goals: []
 copyright: dwengo
@@ -19,21 +19,18 @@ teacher_exclusive: false
 
 # Grijperbibliotheken en BLE-firmware
 
-Wij hebben al een aantal bibliotheken voorzien die het makkelijker maken om je eigen robotgrijper te bouwen. Hieronder lees je hoe je die kan installeren.
+De bibliotheken die je nodig hebt voor de grijper zijn opgenomen in de [Dwengo nRF52-core](https://github.com/dwengovzw/dwengo_nrf52_core). Installeer het pakket `Dwengo nRF52 Boards` via de Boards Manager; je hoeft de bibliotheken niet apart te downloaden of te installeren.
 
 ### Wat doen de bibliotheken?
 
-- [DwengoCompatibilityLayer](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/DwengoCompatibilityLayer) zorgt dat alle functies die ook beschikbaar zijn inde [dwengo simulator](https://blockly.dwengo.org) ook gebruikt kunnen worden in de Arduino IDE.
-- [HalberdGripper](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripper) implementeert het Airo Gripper Protocol (AGP) over BLE. Je sketch beschrijft de assen en posities en bepaalt hoe de motoren reageren. 
-- [HalberdGripperSensor](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripperSensor) leest de analoge druksensor en de VL53L4CD-afstandssensor van de vingertopmodule. De sensorbibliotheek is optioneel voor het eerste BLE-voorbeeld.
+- `DwengoCompatibilityLayer` zorgt dat functies die ook beschikbaar zijn in de [Dwengo-simulator](https://blockly.dwengo.org) gebruikt kunnen worden in de Arduino IDE.
+- `HalberdGripper` implementeert het Airo Gripper Protocol (AGP) over BLE. Je sketch beschrijft de assen en posities en bepaalt hoe de motoren reageren.
+- `HalberdGripperSensor` leest de analoge druksensor en de VL53L4CD-afstandssensor van de vingertopmodule. De sensorbibliotheek is optioneel voor het eerste BLE-voorbeeld.
 
-De bibliotheken worden ook gebruikt in de online programmeeromgeving, maar zijn niet automatisch beschikbaar in je Arduino-sketchbook.
+### Gebruik de ingebouwde voorbeelden
 
-### Installeer vanuit GitHub
-
-1.  Download de bibliotheken: [DwengoCompatibilityLayer.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/DwengoCompatibilityLayer/DwengoCompatibilityLayer.zip), [HalberdGripper.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripper/HalberdGripper.zip) en [HalberdGripperSensor.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripperSensor/HalberdGripperSensor.zip).
-2.  Kies in Arduino IDE *Sketch \> Include Library \> Add .ZIP Library...* en selecteer de gedownloade ZIP-bestanden één voor één.
-3.  Herstart de IDE, selecteer de Halberd en controleer onder *File \> Examples* of de voorbeelden van `HalberdGripper` zichtbaar zijn en, indien geïnstalleerd, ook die van `HalberdGripperSensor`.
+1.  Installeer of update `Dwengo nRF52 Boards` via de Boards Manager, zoals beschreven in het vorige leerobject. Daarmee worden de bibliotheken en voorbeelden geïnstalleerd.
+2.  Selecteer de Halberd en open *File \> Examples \> HalberdGripper* of *File \> Examples \> HalberdGripperSensor*. Alle voorbeelden van beide bibliotheken zijn beschikbaar in de core.
 
 ### Bereid een parallelle grijper voor
 

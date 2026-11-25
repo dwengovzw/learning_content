@@ -35,7 +35,7 @@ Voor fysieke beweging heb je bovendien een correct aangesloten en gevoede grijpe
 1.  Open *File \> Preferences* en voeg bij *Additional Boards Manager URLs* deze URL toe, zonder eventuele bestaande URL's te verwijderen:\
     `https://dwengovzw.github.io/dwengo_nrf52_core/package_dwengo_index.json`
 2.  Open *Tools \> Board \> Boards Manager*, zoek `Dwengo nRF52 Boards` en installeer het pakket.
-3.  Verbind de Halberd met de USB-datakabel. Selecteer onder *Tools \> Board* het bord `Halberd nRF52840 (DWENGO)` en selecteer onder *Tools \> Port* de bijbehorende poort.
+3.  Verbind de Halberd met de USB-datakabel. Selecteer onder *Tools \> Board* het bord `Halberd nRF52840 (DWENGO)` en selecteer onder *Tools \> Port* de bijbehorende poort. Zie je geen poort met `Halberd nRF52840 (DWENGO)` ernaast, dubbelklik dan op de resetknop van het bord.
 4.  Open *File \> Examples \> 01.Basics \> Blink*. Klik op *Verify* en daarna op *Upload*. Controleer of de ingebouwde LED (groen) knippert.
 
 De officiële instructies en updates staan in de [Dwengo nRF52-core](https://github.com/dwengovzw/dwengo_nrf52_core).
