@@ -19,20 +19,21 @@ teacher_exclusive: false
 
 # Grijperbibliotheken en BLE-firmware
 
-## Laat de Halberd spreken met airo-robots
+Wij hebben al een aantal bibliotheken voorzien die het makkelijker maken om je eigen robotgrijper te bouwen. Hieronder lees je hoe je die kan installeren.
 
 ### Wat doen de bibliotheken?
 
-[HalberdGripper](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripper) implementeert het Airo Gripper Protocol (AGP) over BLE. Je sketch beschrijft de assen en posities en bepaalt hoe de motoren reageren. [HalberdGripperSensor](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripperSensor) leest de analoge druksensor en de VL53L4CD-afstandssensor van de vingertopmodule. De sensorbibliotheek is optioneel voor het eerste BLE-voorbeeld.
+- [DwengoCompatibilityLayer](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/DwengoCompatibilityLayer) zorgt dat alle functies die ook beschikbaar zijn inde [dwengo simulator](https://blockly.dwengo.org) ook gebruikt kunnen worden in de Arduino IDE.
+- [HalberdGripper](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripper) implementeert het Airo Gripper Protocol (AGP) over BLE. Je sketch beschrijft de assen en posities en bepaalt hoe de motoren reageren. 
+- [HalberdGripperSensor](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripperSensor) leest de analoge druksensor en de VL53L4CD-afstandssensor van de vingertopmodule. De sensorbibliotheek is optioneel voor het eerste BLE-voorbeeld.
 
-De bibliotheken worden ook gebruikt in de online programmeeromgeving, maar zijn niet automatisch beschikbaar in je Arduino-sketchbook. Het boardpakket levert onder meer Servo en Bluefruit; installeer de twee grijperbibliotheken apart.
+De bibliotheken worden ook gebruikt in de online programmeeromgeving, maar zijn niet automatisch beschikbaar in je Arduino-sketchbook.
 
 ### Installeer vanuit GitHub
 
-1.  Open de [unified-tak van Blockly-for-Dwenguino](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified) en kies *Code \> Download ZIP*. Pak het volledige archief uit. De ZIP bevat de volledige repository, niet alleen de bibliotheken.
-2.  Zoek in de uitgepakte map naar `backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries`. Kopieer de volledige mappen `HalberdGripper` en `HalberdGripperSensor`, inclusief `library.properties`, `src` en `examples`.
-3.  Open in Arduino IDE *File \> Preferences* en zoek de *Sketchbook location*. Plaats beide mappen rechtstreeks in de submap `libraries` daarvan; maak die submap indien nodig aan. Het resultaat is bijvoorbeeld `libraries/HalberdGripper/library.properties`, niet een extra geneste map.
-4.  Herstart de IDE, selecteer de Halberd en controleer onder *File \> Examples* of de voorbeelden van beide bibliotheken zichtbaar zijn. Installeer geen volledige repository-ZIP via *Add .ZIP Library*: dat is geen afzonderlijke Arduino-bibliotheek.
+1.  Download de bibliotheken: [DwengoCompatibilityLayer.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/DwengoCompatibilityLayer/DwengoCompatibilityLayer.zip), [HalberdGripper.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripper/HalberdGripper.zip) en [HalberdGripperSensor.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripperSensor/HalberdGripperSensor.zip).
+2.  Kies in Arduino IDE *Sketch \> Include Library \> Add .ZIP Library...* en selecteer de gedownloade ZIP-bestanden één voor één.
+3.  Herstart de IDE, selecteer de Halberd en controleer onder *File \> Examples* of de voorbeelden van `HalberdGripper` zichtbaar zijn en, indien geïnstalleerd, ook die van `HalberdGripperSensor`.
 
 ### Bereid een parallelle grijper voor
 

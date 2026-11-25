@@ -17,25 +17,28 @@ skos_concepts: ['http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen
 teacher_exclusive: false
 ---
 
-# Halberd programmeren met Arduino
+# Halberd programmeren met de Arduino IDE
 
-## Van een werkende ontwikkelomgeving naar je eigen robotgrijper
+### Voor je start
 
-### De uitdaging
+Voor je start met dit leerpad moet je zorgen dat aan de volgende voorwaarden voldaan is.
 
-Ontwerp, bouw en programmeer een grijper die verschillende alledaagse voorwerpen kan oppakken. Net als bij [Grip-\>IT](https://www.dwengo.org/gripit/) combineer je mechanica, elektronica en software. In dit traject installeer je de ontwikkelomgeving, maak je de grijper bereikbaar via Bluetooth Low Energy (BLE) en stuur je hem aan vanuit Python.
+1. Je hebt een Halberd microcontroller en een usb-c datakabel om de microcontroller met je computer te verbinden.
+2. Je computer heeft Bluetooth.
+3. De [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) is geïnstalleerd.
+4. [Python 3.11](https://www.python.org/downloads) of hoger is geïnstalleerd.
 
-Je hebt een Halberd, een USB-datakabel, een computer met Bluetooth, Arduino IDE 2 en later Python 3.11 of nieuwer nodig. Voor fysieke beweging heb je bovendien een correct aangesloten en gevoede grijper met servo's nodig. Maak eerst kennis met de hardware en de voeding van jouw kit.
+Voor fysieke beweging heb je bovendien een correct aangesloten en gevoede grijper met servo's nodig. Maak eerst kennis met de hardware en de voeding van jouw kit.
 
-### Installeer het boardpakket
+### Installeer het Hablerd bord
 
-1.  Installeer [Arduino IDE](https://www.arduino.cc/en/software/). Open *File \> Preferences* en voeg bij *Additional Boards Manager URLs* deze URL toe, zonder eventuele bestaande URL's te verwijderen:\
+1.  Open *File \> Preferences* en voeg bij *Additional Boards Manager URLs* deze URL toe, zonder eventuele bestaande URL's te verwijderen:\
     `https://dwengovzw.github.io/dwengo_nrf52_core/package_dwengo_index.json`
 2.  Open *Tools \> Board \> Boards Manager*, zoek `Dwengo nRF52 Boards` en installeer het pakket.
 3.  Verbind de Halberd met de USB-datakabel. Selecteer onder *Tools \> Board* het bord `Halberd nRF52840 (DWENGO)` en selecteer onder *Tools \> Port* de bijbehorende poort.
-4.  Open *File \> Examples \> 01.Basics \> Blink*. Klik op *Verify* en daarna op *Upload*. Controleer of de ingebouwde LED knippert.
+4.  Open *File \> Examples \> 01.Basics \> Blink*. Klik op *Verify* en daarna op *Upload*. Controleer of de ingebouwde LED (groen) knippert.
 
-De officiële instructies en updates staan in de [Dwengo nRF52-core](https://github.com/dwengovzw/dwengo_nrf52_core). Deze installatie gebruikt de aanwezige bootloader; kies niet zomaar *Burn Bootloader* of een andere boarddefinitie.
+De officiële instructies en updates staan in de [Dwengo nRF52-core](https://github.com/dwengovzw/dwengo_nrf52_core).
 
 ### Als uploaden niet lukt
 

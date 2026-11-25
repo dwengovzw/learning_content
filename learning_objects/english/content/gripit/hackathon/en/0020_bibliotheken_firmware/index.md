@@ -25,14 +25,13 @@ teacher_exclusive: false
 
 [HalberdGripper](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripper) implements the Airo Gripper Protocol (AGP) over BLE. Your sketch describes the axes and poses and decides how the motors respond. [HalberdGripperSensor](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripperSensor) reads the analogue pressure sensor and VL53L4CD distance sensor on the fingertip module. The sensor library is optional for the first BLE example.
 
-These libraries are also used by the online programming environment, but are not automatically available in your Arduino sketchbook. The board package supplies Servo and Bluefruit, among others; install the two gripper libraries separately.
+These libraries are also used by the online programming environment, but are not automatically available in your Arduino sketchbook. The board package supplies Servo and Bluefruit, among others; you must also install the [DwengoCompatibilityLayer](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/DwengoCompatibilityLayer) and both gripper libraries separately.
 
 ### Install from GitHub
 
-1.  Open the [unified branch of Blockly-for-Dwenguino](https://github.com/dwengovzw/Blockly-for-Dwenguino/tree/unified) and choose *Code \> Download ZIP*. Extract the complete archive. The ZIP contains the whole repository, not just the libraries.
-2.  In the extracted directory, find `backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries`. Copy the complete `HalberdGripper` and `HalberdGripperSensor` folders, including `library.properties`, `src` and `examples`.
-3.  In Arduino IDE open *File \> Preferences* and find the *Sketchbook location*. Place both folders directly in its `libraries` subfolder, creating it if needed. The result should be, for example, `libraries/HalberdGripper/library.properties`, not an extra nested folder.
-4.  Restart the IDE, select Halberd and check that both libraries' examples appear under *File \> Examples*. Do not use *Add .ZIP Library* with the complete repository ZIP: it is not an individual Arduino library.
+1.  Download the libraries individually: [DwengoCompatibilityLayer.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/DwengoCompatibilityLayer/DwengoCompatibilityLayer.zip), [HalberdGripper.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripper/HalberdGripper.zip) and [HalberdGripperSensor.zip](https://raw.githubusercontent.com/dwengovzw/Blockly-for-Dwenguino/refs/heads/unified/backend/compilation/hardware/dwengo/nrf52/1.0.0/libraries/HalberdGripperSensor/HalberdGripperSensor.zip). The sensor library is optional for the first BLE example.
+2.  In Arduino IDE, choose *Sketch \> Include Library \> Add .ZIP Library...* and select the downloaded ZIP files one at a time. Install at least `DwengoCompatibilityLayer` and `HalberdGripper`; install `HalberdGripperSensor` if you use the sensor examples.
+3.  Restart the IDE, select Halberd and check under *File \> Examples* that the `HalberdGripper` examples appear and, if installed, the `HalberdGripperSensor` examples too.
 
 ### Prepare a parallel gripper
 
