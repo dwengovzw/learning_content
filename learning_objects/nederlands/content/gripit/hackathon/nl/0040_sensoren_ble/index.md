@@ -51,14 +51,12 @@ De sketch declareert de kanalen `tof` (afstand in millimeter) en `pressure` (spa
 
 Gebruik dezelfde werkmap en actieve virtuele omgeving als voor `gripper.py`. Installeer daarin eenmaal de extra grafiekbibliotheek:
 
-```bash
-python -m pip install matplotlib
-```
+<pre><code class="language-bash">python -m pip install matplotlib
+</code></pre>
 
 Maak in die werkmap een nieuw bestand `sensoren.py` met onderstaande code. De standaardnaam komt overeen met de sensorsketch; vervang `gripper-left-sensors` door jouw `GRIPPER_NAME` als je die wijzigde. Sluit eerst `gripper.py` of een andere BLE-client af.
 
-```python
-import time
+<pre><code class="language-python" data-filename="sensoren.py">import time
 from collections import deque
 
 import matplotlib.pyplot as plt
@@ -106,7 +104,7 @@ try:
         plt.pause(0.2)
 finally:
     gripper.disconnect()
-```
+</code></pre>
 
 Voer `python sensoren.py` uit. Het venster toont de laatst ontvangen afstand en drukspanning doorheen de tijd. Houd een voorwerp voor de afstandssensor of druk voorzichtig op de druksensor en bekijk hoe de grafieken veranderen. Sluit het venster om de verbinding te verbreken.
 

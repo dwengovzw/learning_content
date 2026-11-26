@@ -38,7 +38,7 @@ De voorbeeldwaarden zijn **niet automatisch veilig** voor jouw sensor, servomoto
 | Onderdeel | Functie |
 |---|---|
 | `targetPressure`, `pressureDeadband` | Doelwaarde en toegelaten afwijking in ruwe ADC-counts; niet in newton. |
-| `kp`, `ki`, `kd` | Versterkingen voor de drukregeling. Standaard is `ki = kd = 0`: alleen P werkt mee. |
+| `kp`, `ki`, `kd` | Versterkingen voor de drukregeling. Standaard is \\(\mathrm\{ki\} = \mathrm\{kd\} = 0\\): alleen P werkt mee. |
 | `pressureSpeed(error, dt)` | Berekent een begrensde servohoeksnelheid op basis van fout en tijd. |
 | `OPENING` | Beweegt naar de openhoek en meldt de opdracht daarna als voltooid. |
 | `ACQUIRE_PRESSURE` | Regelt naar de drukdoelwaarde. Na 100 ms binnen de dode zone meldt de sketch voltooiing; na 10 s zonder stabiele meting meldt ze een fout. |
@@ -53,8 +53,7 @@ De sketch implementeert de standen `open` en `closed`, maar geen callback voor e
 
 Gebruik de bestaande werkmap en virtuele omgeving uit de vorige stappen. Sluit `sensoren.py` en andere BLE-clients voordat je verbindt. Maak een nieuw bestand `pid_grijper.py` en gebruik dezelfde naam als `GRIPPER_NAME` in de firmware. Lees de veiligheidsinstructies hierboven voordat je een commando uitvoert.
 
-```python
-import time
+<pre><code class="language-python" data-filename="pid_grijper.py">import time
 
 from airo_robots.grippers import GenericHalberdGripper
 from airo_robots.grippers.hardware.halberd_ble.client import CommandStatus
@@ -64,7 +63,7 @@ try:
     def pose(name):
         sequence = gripper.client.move_pose(name)
         deadline = time.monotonic() + 15
-        while time.monotonic() < deadline:
+        while time.monotonic() &lt; deadline:
             if not gripper.client.is_connected:
                 raise ConnectionError("BLE-verbinding verloren")
             status = gripper.client.command_status(sequence)
@@ -84,7 +83,7 @@ try:
     pose("open")
 finally:
     gripper.disconnect()
-```
+</code></pre>
 
 Start met `python pid_grijper.py`. De eerste Enter geeft een opencommando; de tweede geeft pas een sluitcommando. De derde opent opnieuw. Een leeg of ongeschikt voorwerp kan ervoor zorgen dat de druk niet bereikt wordt: de firmware meldt dan na de timeout een fout. Het programma controleert expliciet `DONE` en `FAILED`, omdat de gewone `.wait()` in deze driver ook bij een mislukt commando kan terugkeren. Controleer bij een fout of time-out de seriële uitvoer; ga niet automatisch verder.
 
