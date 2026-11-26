@@ -38,7 +38,7 @@ De code op het Halberdbord noemen we de *firmware*. Met het voorbeeld `identify_
 <pre><code class="language-cpp" data-filename="identify_only.ino">
 
 
-#include <HalberdGripper.h>
+#include &lt;HalberdGripper.h&gt;
 
 HalberdGripper gripper;
 
@@ -105,7 +105,7 @@ try:
     gripper.identify()
 finally:
     gripper.disconnect()
-    
+
 </code></pre>
 
 Voer `python identify.py` uit in de actieve omgeving. Het `identify`-commando laat de ingebouwde led van de Halberd kort knipperen, zodat je het verbonden bord kunt herkennen. De bibliotheek verzorgt dit knipperen; de sketch hoeft de led niet zelf aan te sturen. `disconnect()` sluit de verbinding.
