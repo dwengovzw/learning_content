@@ -23,7 +23,7 @@ Je hebt de sensorwaarden van de grijper bekeken. Hoe kan de grijper die metingen
 
 ## Van meting naar correctie
 
-<img src="./img/feedback.svg" alt="Regellus: de gemeten sensorwaarde y en het doel r vormen de fout e. De regelaar berekent de aansturing u voor de servo; de sensor meet opnieuw." title="Terugkoppeling van sensor naar regelaar"></img>
+<img src="img/feedback.svg" alt="Regellus: de gemeten sensorwaarde y en het doel r vormen de fout e. De regelaar berekent de aansturing u voor de servo; de sensor meet opnieuw." title="Terugkoppeling van sensor naar regelaar"></img>
 
 In de afbeelding is `r` de gewenste sensorwaarde, `y` de meting, `e` de afwijking en `u` de aansturing. De servo en grijper beïnvloeden de fysieke druk `p`; de sensor zet die om naar meting `y`. In deze grijper berekent de firmware specifiek `e = y - r`: de gemeten ADC-waarde min de doelwaarde. Andere regelaars gebruiken soms de omgekeerde afspraak; ook de richting van de aansturing moet dan aangepast worden.
 
@@ -41,7 +41,7 @@ Dit zijn illustratieve waarden, geen veilige instellingen. De aansturing is hier
 
 Een PID-regelaar telt drie bijdragen op: `u = Kp × e + Ki × I + Kd × D`. De letters `Kp`, `Ki` en `Kd` zijn instelbare versterkingen; `I` en `D` zijn de opgebouwde fout en de verandering van de fout. De eenheid van elke bijdrage moet samen overeenkomen met die van `u`.
 
-<img src="./img/pid_termen.svg" alt="Drie opeenvolgende foutmetingen 100, 60 en 40. P gebruikt de laatste fout, I telt de rechthoeken op en D kijkt naar de daling tussen de laatste twee." title="P, I en D bij drie foutmetingen"></img>
+<img src="img/pid_termen.svg" alt="Drie opeenvolgende foutmetingen 100, 60 en 40. P gebruikt de laatste fout, I telt de rechthoeken op en D kijkt naar de daling tussen de laatste twee." title="P, I en D bij drie foutmetingen"></img>
 
 Stel dat de fout tijdens drie gelijke intervallen van 0,1 seconde achtereenvolgens 100, 60 en 40 counts is. De rechthoeken tonen een vereenvoudigd voorbeeld: hun breedte is telkens 0,1 s.
 
