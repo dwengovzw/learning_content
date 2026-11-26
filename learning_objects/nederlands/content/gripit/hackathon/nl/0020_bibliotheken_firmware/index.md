@@ -36,6 +36,8 @@ De code op het Halberdbord noemen we de *firmware*. Met het voorbeeld `identify_
 1. Open *File \> Examples \> HalberdGripper \> identify_only*. Sla eventueel een eigen kopie op om die te wijzigen. Het voorbeeld bevat deze code:
 
 <pre><code class="language-cpp" data-filename="identify_only.ino">
+
+
 #include <HalberdGripper.h>
 
 HalberdGripper gripper;
@@ -58,6 +60,8 @@ void loop() {
   gripper.update();
   delay(10);
 }
+
+
 </code></pre>
 
 `configureAxis` beschrijft een fictieve as die de Python-driver verwacht. De grenzen en snelheid zijn hier enkel beschrijvende waarden: er wordt geen positie gemeten en niets beweegt. `begin` start BLE en maakt het bord vindbaar onder de naam `my-first-gripper`. Als opstarten mislukt, verschijnt een foutmelding en stopt de sketch in de `while`-lus. `gripper.update()` verwerkt onder meer het knipperen van de led en moet regelmatig worden uitgevoerd.
@@ -69,29 +73,39 @@ void loop() {
 
 Laat de Halberd ingeschakeld en schakel Bluetooth op je computer in. Maak een map op je computer waarin je het Python programma zal opslaan. Open een terminal in deze map (PowerShell op Windows, bash op linux) Installeer de Python-driver in een virtuele omgeving met Python 3.11 of nieuwer. Gebruik op Windows PowerShell:
 
-<pre><code class="language-powershell">py -3 -m venv .venv
+<pre><code class="language-powershell">
+
+py -3 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install "airo-robots[halberd]"
+
+
 </code></pre>
 
 Gebruik op macOS of Linux:
 
-<pre><code class="language-bash">python3 -m venv .venv
+<pre><code class="language-bash">
+
+python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install "airo-robots[halberd]"
+
 </code></pre>
 
 Controleer met `python --version` of de actieve omgeving Python 3.11 of nieuwer gebruikt. Bewaar deze omgeving voor de latere Python-stap.
 
 Sla het volgende op als `identify.py`. Als je de naam in de firmware wijzigde, gebruik dan hier dezelfde naam:
 
-<pre><code class="language-python" data-filename="identify.py">from airo_robots.grippers import HalberdBLEGripper
+<pre><code class="language-python" data-filename="identify.py">
+
+from airo_robots.grippers import HalberdBLEGripper
 
 gripper = HalberdBLEGripper.connect(name="my-first-gripper")
 try:
     gripper.identify()
 finally:
     gripper.disconnect()
+    
 </code></pre>
 
 Voer `python identify.py` uit in de actieve omgeving. Het `identify`-commando laat de ingebouwde led van de Halberd kort knipperen, zodat je het verbonden bord kunt herkennen. De bibliotheek verzorgt dit knipperen; de sketch hoeft de led niet zelf aan te sturen. `disconnect()` sluit de verbinding.

@@ -31,7 +31,9 @@ Gebruik dezelfde werkmap en virtuele omgeving als bij `identify.py`. Als je een 
 
 Maak een nieuw bestand `gripper.py` in dezelfde werkmap en sla daarin deze code op. Vervang de naam door jouw `GRIPPER_NAME`. Test eerst zonder voorwerp, nadat de bewegingen en grenzen in de firmware veilig zijn gekalibreerd.
 
-<pre><code class="language-python" data-filename="gripper.py">from airo_robots.grippers import HalberdBLEGripper
+<pre><code class="language-python" data-filename="gripper.py">
+
+from airo_robots.grippers import HalberdBLEGripper
 
 print("Gevonden:", HalberdBLEGripper.discover())
 gripper = HalberdBLEGripper.connect(name="my-first-gripper")
@@ -42,6 +44,8 @@ try:
     gripper.open().wait()
 finally:
     gripper.disconnect()
+
+    
 </code></pre>
 
 Start met `python gripper.py`. De LED knippert kort bij `identify()`; de grijper opent, sluit en opent opnieuw. `wait()` wacht op de voltooiingsmelding van de firmware, niet op een onafhankelijke meting. Ontbreekt beweging of volgt een fout, controleer dan de firmware en onderbreek indien nodig de voeding.

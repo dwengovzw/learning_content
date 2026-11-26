@@ -56,7 +56,9 @@ Gebruik dezelfde werkmap en actieve virtuele omgeving als voor `gripper.py`. Ins
 
 Maak in die werkmap een nieuw bestand `sensoren.py` met onderstaande code. De standaardnaam komt overeen met de sensorsketch; vervang `gripper-left-sensors` door jouw `GRIPPER_NAME` als je die wijzigde. Sluit eerst `gripper.py` of een andere BLE-client af.
 
-<pre><code class="language-python" data-filename="sensoren.py">import time
+<pre><code class="language-python" data-filename="sensoren.py">
+
+import time
 from collections import deque
 
 import matplotlib.pyplot as plt
@@ -104,6 +106,7 @@ try:
         plt.pause(0.2)
 finally:
     gripper.disconnect()
+    
 </code></pre>
 
 Voer `python sensoren.py` uit. Het venster toont de laatst ontvangen afstand en drukspanning doorheen de tijd. Houd een voorwerp voor de afstandssensor of druk voorzichtig op de druksensor en bekijk hoe de grafieken veranderen. Sluit het venster om de verbinding te verbreken.

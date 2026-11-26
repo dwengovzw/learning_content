@@ -53,7 +53,9 @@ De sketch implementeert de standen `open` en `closed`, maar geen callback voor e
 
 Gebruik de bestaande werkmap en virtuele omgeving uit de vorige stappen. Sluit `sensoren.py` en andere BLE-clients voordat je verbindt. Maak een nieuw bestand `pid_grijper.py` en gebruik dezelfde naam als `GRIPPER_NAME` in de firmware. Lees de veiligheidsinstructies hierboven voordat je een commando uitvoert.
 
-<pre><code class="language-python" data-filename="pid_grijper.py">import time
+<pre><code class="language-python" data-filename="pid_grijper.py">
+
+import time
 
 from airo_robots.grippers import GenericHalberdGripper
 from airo_robots.grippers.hardware.halberd_ble.client import CommandStatus
@@ -83,6 +85,7 @@ try:
     pose("open")
 finally:
     gripper.disconnect()
+    
 </code></pre>
 
 Start met `python pid_grijper.py`. De eerste Enter geeft een opencommando; de tweede geeft pas een sluitcommando. De derde opent opnieuw. Een leeg of ongeschikt voorwerp kan ervoor zorgen dat de druk niet bereikt wordt: de firmware meldt dan na de timeout een fout. Het programma controleert expliciet `DONE` en `FAILED`, omdat de gewone `.wait()` in deze driver ook bij een mislukt commando kan terugkeren. Controleer bij een fout of time-out de seriële uitvoer; ga niet automatisch verder.
