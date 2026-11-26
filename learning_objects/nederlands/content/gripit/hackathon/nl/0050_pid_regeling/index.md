@@ -47,7 +47,7 @@ De letters \\(K_p\\), \\(K_i\\) en \\(K_d\\) zijn instelbare versterkingen; \\(I
 
 <img src="./img/pid_termen.svg" alt="Drie grafieken tonen de gesimuleerde fout, de opgetelde fout en de verandering van de fout. Na 0,3 seconde zijn ze respectievelijk 40 counts, 20 countseconden en min 200 counts per seconde." title="Fout, integraal en verandering bij gesimuleerde meetwaarden"></img>
 
-De grafieken tonen gesimuleerde gegevens, geen metingen van een echte grijper. We bekijken de situatie na 0,3 s: aan het einde van drie intervallen van 0,1 s is de fout achtereenvolgens 100, 60 en 40 counts. De grijze punten tonen hoe deze simulatie daarna verdergaat.
+De grafieken tonen gesimuleerde gegevens, geen metingen van een echte grijper. We bekijken de situatie na 0,3 s: aan het einde van drie intervallen van 0,1 s is de fout achtereenvolgens 100, 60 en 40 counts. De grijze punten tonen hoe deze simulatie daarna verdergaat: de fout en haar verandering naderen nul. De opgetelde fout blijft bestaan en vlakt af; ze hoeft niet terug naar nul te gaan wanneer de huidige fout nul wordt.
 
 De fout van 40 counts is het verschil tussen de gemeten en de gewenste ruwe sensorwaarde. Bij een doel van 1250 counts en een meting van 1290 counts is de fout dus \\(e = 1290 - 1250 = 40\\) counts. Counts zijn stappen van de analoog-digitaalomzetter, geen eenheid van kracht.
 
@@ -68,6 +68,26 @@ Als de servo al aan een grens zit, kan verder opstapelen tot een te grote latere
 De **differentiële** term kijkt naar de helling: \\(D = \frac\{e_\{\mathrm\{nieuw\}\} - e_\{\mathrm\{vorig\}\}\}\{\Delta t\}\\). Hier is dat \\(\frac\{40 - 60\}\{0\{,\}1\} = -200\\,\mathrm\{count/s\}\\). Bij een positieve \\(K_d\\) levert dit een negatieve bijdrage: de fout neemt al af, dus de correctie wordt geremd. Een hoge D-versterking kan meetruis juist sterk versterken. Voor de eerste meting is er geen vorige fout; de firmware gebruikt dan een D-bijdrage van nul.
 
 De drie bijdragen zijn geen voorspelling van de uiteindelijke positie: het effect hangt ook af van de grijper, de sensor, de grenzen en de tijd tussen metingen.
+
+## Hoe reageert een systeem op langere termijn?
+
+De volgende simulaties gebruiken vereenvoudigde wiskundige modellen, geen echte grijper of Halberd-firmware. Ze tonen een **meetwaarde als percentage van de doelwaarde**: 100% betekent dat de meting gelijk is aan het doel. De tijd en instellingen zijn voorbeelden, geen veilige instellingen voor een echte grijper.
+
+<img src="./img/pid_demping.svg" alt="Gesimuleerde ondergedempte reactie schommelt voorbij het doel en komt uiteindelijk tot rust; een overgedempte reactie nadert het doel zonder overshoot." title="Onder- en overgedempte reactie"></img>
+
+- Een **ondergedempt** systeem gaat in dit voorbeeld voorbij het doel (*overshoot*) en schommelt er een aantal keer rond voordat het tot rust komt.
+- Een **overgedempt** systeem nadert hier het doel zonder er voorbij te gaan, maar reageert aanvankelijk trager. Deze twee curves hebben dezelfde doelwaarde; het zijn twee afzonderlijke modelreacties.
+
+Hoe veranderen de versterkingen het gedrag? De vier grafieken hieronder gebruiken telkens dezelfde vereenvoudigde tweede-orde-installatie en dezelfde doelwaarde. De legenda toont de versterkingen van de regelaar; niet-vermelde versterkingen zijn nul. Per vergelijking veranderen we één instelling. In dit model is de fout doel min meting en werkt D op de verandering van de meting. Dat is een andere tekenafspraak dan bij de grijperfirmware, die meting min doel gebruikt.
+
+<img src="./img/pid_invloed.svg" alt="Vier vergelijkingen van gesimuleerde reacties: meer P geeft hier meer overshoot; I brengt de meetwaarde naar het doel; D vermindert de overshoot bij P en bij PI." title="Invloed van P, I en D op de reactie"></img>
+
+1. **Meer P:** de sterkere P-reactie komt sneller op gang en schiet in dit voorbeeld voorbij het doel. Met alleen P blijft de meetwaarde hier uiteindelijk onder het doel: bij de twee gekozen instellingen ongeveer 50% en 80%.
+2. **I erbij:** door de blijvende fout op te tellen brengt de I-term de meetwaarde in dit model uiteindelijk naar het doel. De eerste overshoot wordt hier wel groter; te veel I kan schommelingen of windup veroorzaken.
+3. **D erbij:** de D-term vermindert in deze simulatie de overshoot. Zonder I blijft de uiteindelijke waarde hier echter op ongeveer 80%: D alleen lost die blijvende fout niet op.
+4. **P, I en D samen:** vergeleken met PI zorgt D in dit voorbeeld voor minder overshoot terwijl I de blijvende fout wegwerkt.
+
+Dit zijn geen algemene garanties: de uitkomst hangt af van de installatie en de gekozen versterkingen. Het model bevat onder meer geen meetruis of motorbegrenzingen; in de praktijk kan D meetruis versterken en kan I blijven opstapelen als de motor zijn grens bereikt.
 
 ## Van formule naar voorbeeldfirmware
 
