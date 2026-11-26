@@ -27,10 +27,11 @@ Voor je start met dit leerpad moet je zorgen dat aan de volgende voorwaarden vol
 2. Je computer heeft Bluetooth.
 3. De [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) is geïnstalleerd.
 4. [Python 3.11](https://www.python.org/downloads) of hoger is geïnstalleerd.
+5. Enkel voor Linux/Mac: `pip install adafruit-nrfutil`
 
 Voor fysieke beweging heb je bovendien een correct aangesloten en gevoede grijper met servo's nodig. Maak eerst kennis met de hardware en de voeding van jouw kit.
 
-### Installeer het Hablerd bord
+### Installeer het Halberd bord
 
 1.  Open *File \> Preferences* en voeg bij *Additional Boards Manager URLs* deze URL toe, zonder eventuele bestaande URL's te verwijderen:\
     `https://dwengovzw.github.io/dwengo_nrf52_core/package_dwengo_index.json`

@@ -67,7 +67,7 @@ void loop() {
 `configureAxis` beschrijft een fictieve as die de Python-driver verwacht. De grenzen en snelheid zijn hier enkel beschrijvende waarden: er wordt geen positie gemeten en niets beweegt. `begin` start BLE en maakt het bord vindbaar onder de naam `my-first-gripper`. Als opstarten mislukt, verschijnt een foutmelding en stopt de sketch in de `while`-lus. `gripper.update()` verwerkt onder meer het knipperen van de led en moet regelmatig worden uitgevoerd.
 
 2. Gebruik voor elk team een unieke naam in `gripper.begin(...)`. Pas ook de tekst in de daaropvolgende `Serial.println(...)` aan zodat de melding overeenkomt. Gebruik straks exact dezelfde naam in Python.
-3. Selecteer de Halberd en de juiste poort, compileer en upload de sketch. Open de seriële monitor op 115200 baud. Bij de standaardnaam verschijnt `HalberdGripper advertising as my-first-gripper`; een foutmelding wijst erop dat BLE niet is gestart.
+3. Selecteer de Halberd en de juiste poort, compileer en upload de sketch. Open de seriële monitor op 115200 baud. Bij de standaardnaam verschijnt `HalberdGripper advertising as my-first-gripper` en een foutmelding wijst erop dat BLE niet is gestart. Het is mogelijk dat je een korte delay moet toevoegen om te voorkomen dat de monitor nog niet is opgestart als het bericht verstuurd wordt: `while (!Serial) delay(10);`.
 
 ### Test de verbinding met Python
 

@@ -29,7 +29,7 @@ Gebruik dezelfde werkmap en virtuele omgeving als bij `identify.py`. Als je een 
 
 ### Verbind, open en sluit
 
-Maak een nieuw bestand `gripper.py` in dezelfde werkmap en sla daarin deze code op. Vervang de naam door jouw `GRIPPER_NAME`. Test eerst zonder voorwerp, nadat de bewegingen en grenzen in de firmware veilig zijn gekalibreerd.
+Maak een nieuw bestand `gripper.py` in dezelfde werkmap en sla daarin volgende code op. Vervang de naam door jouw `GRIPPER_NAME`. Test eerst zonder voorwerp, nadat de bewegingen en grenzen in de firmware veilig zijn gekalibreerd.
 
 <pre><code class="language-python" data-filename="gripper.py">
 
@@ -45,16 +45,16 @@ try:
 finally:
     gripper.disconnect()
 
-    
+
 </code></pre>
 
-Start met `python gripper.py`. De LED knippert kort bij `identify()`; de grijper opent, sluit en opent opnieuw. `wait()` wacht op de voltooiingsmelding van de firmware, niet op een onafhankelijke meting. Ontbreekt beweging of volgt een fout, controleer dan de firmware en onderbreek indien nodig de voeding.
+Start met `python gripper.py`. De LED knippert kort bij `identify()` en de grijper opent, sluit en opent opnieuw. `wait()` wacht op de voltooiingsmelding van de firmware, niet op een onafhankelijke meting. Ontbreekt beweging of volgt een fout, controleer dan de firmware en onderbreek indien nodig de voeding.
 
-Voor beweging naar een specifieke opening, bijvoorbeeld met `gripper.move(0.02).wait()`, moet de firmware ook een `onMove`-callback implementeren. Het basisvoorbeeld `parallel_gripper_servo` ondersteunt alleen de standen `open` en `closed`; gebruik een aangepaste firmware met veilig gekalibreerde grenzen voor andere doelposities.
+Voor beweging naar een specifieke opening, bijvoorbeeld met `gripper.move(0.02).wait()`, moet de firmware ook een `onMove`-callback implementeren. Het basisvoorbeeld `parallel_gripper_servo` ondersteunt alleen de standen `open` en `closed`. Gebruik een aangepaste firmware met veilig gekalibreerde grenzen voor andere doelposities.
 
 ### Problemen oplossen
 
 - Geen grijper gevonden? Controleer Bluetooth, voeding, de AGP-firmware, de exacte naam en of een andere client al verbonden is. Een verbonden grijper adverteert niet.
-- Meerdere grijpers met dezelfde naam? Geef elk team een unieke naam in de sketch; de driver meldt anders een dubbelzinnige naam. Indien nodig kun je ook `connect(name="gripper-left", address="...")` gebruiken met het adres uit de ontdekking.
+- Meerdere grijpers met dezelfde naam? Geef elk team een unieke naam in de sketch. De driver meldt anders een dubbelzinnige naam. Indien nodig kun je ook `connect(name="gripper-left", address="...")` gebruiken met het adres uit de ontdekking.
 - Importfout? Activeer dezelfde virtuele omgeving waarmee je het pakket installeerde. Controleer je Python-versie en herhaal de installatie in die omgeving.
 - Geen voltooiing? Controleer de seriële output, callbacks, `reportPosition()` en `update()`. Een gemelde positie bewijst niet dat de mechaniek werkelijk bewogen heeft.
