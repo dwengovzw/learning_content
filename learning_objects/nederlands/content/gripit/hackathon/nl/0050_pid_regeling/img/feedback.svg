@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Feedback loop</title>
+  <desc id="desc">The measured sensor value and target form an error, which the controller uses to command the servo and gripper. The sensor feeds the result back.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#26394d"/></marker></defs>
+  <rect x="10" y="10" width="980" height="230" rx="14" fill="#f7fafc"/>
+  <g fill="#e1efff" stroke="#2466a5" stroke-width="2">
+    <rect x="205" y="60" width="160" height="65" rx="10"/><rect x="435" y="60" width="170" height="65" rx="10"/><rect x="685" y="60" width="170" height="65" rx="10"/><rect x="435" y="160" width="170" height="55" rx="10"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#143453" text-anchor="middle" font-size="24">
+    <text x="100" y="84">r</text><text x="285" y="100">e = y − r</text><text x="520" y="100">PID</text><text x="770" y="100">servo</text><text x="520" y="195">sensor</text><text x="945" y="84">p</text><text x="400" y="82">e</text><text x="645" y="82">u</text><text x="390" y="177">y</text>
+  </g>
+  <g fill="none" stroke="#26394d" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M120 92 H205"/><path d="M365 92 H435"/><path d="M605 92 H685"/><path d="M855 92 H920"/><path d="M890 92 V187 H605"/><path d="M435 187 H285 V125"/>
+  </g>
+</svg>

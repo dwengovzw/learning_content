@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+  <title id="title">PID error samples</title>
+  <desc id="desc">Three equal time intervals have errors 100, 60 and 40. Proportional uses the latest error; integral sums the areas; derivative uses the change between the latest two.</desc>
+  <rect x="10" y="10" width="980" height="310" rx="14" fill="#f7fafc"/>
+  <g stroke="#26394d" stroke-width="2"><path d="M70 245 H580"/><path d="M70 245 V35"/></g>
+  <g fill="#a5d4fb" stroke="#2466a5" stroke-width="2"><rect x="110" y="65" width="120" height="180"/><rect x="230" y="137" width="120" height="108"/><rect x="350" y="173" width="120" height="72"/></g>
+  <g font-family="Arial,sans-serif" fill="#143453" font-size="23" text-anchor="middle"><text x="170" y="57">100</text><text x="290" y="129">60</text><text x="410" y="165">40</text><text x="170" y="277">1</text><text x="290" y="277">2</text><text x="410" y="277">3</text><text x="530" y="277">t</text></g>
+  <g font-family="Arial,sans-serif" fill="#143453" font-size="27"><text x="625" y="100">P: e₃</text><text x="625" y="165">I: Σ(e × Δt)</text><text x="625" y="230">D: (e₃ − e₂) / Δt</text></g>
+  <path d="M290 135 L410 171" fill="none" stroke="#bc4c21" stroke-width="4"/>
+</svg>

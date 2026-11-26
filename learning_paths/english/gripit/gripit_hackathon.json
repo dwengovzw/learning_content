@@ -53,6 +53,28 @@
         {
             "learningobject_hruid": "org_dwengo_gripit_hackathon_sensoren_ble",
             "version": "1",
+            "language": "en",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {"hruid": "org_dwengo_gripit_hackathon_pid_regeling", "version": "1", "language": "en"}
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_hackathon_pid_regeling",
+            "version": "1",
+            "language": "en",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {"hruid": "org_dwengo_gripit_hackathon_pid_grijper", "version": "1", "language": "en"}
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_hackathon_pid_grijper",
+            "version": "1",
             "language": "en"
         }
     ]
