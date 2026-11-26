@@ -71,7 +71,7 @@ De drie bijdragen zijn geen voorspelling van de uiteindelijke positie: het effec
 
 ## Hoe reageert een systeem op langere termijn?
 
-De volgende simulaties gebruiken vereenvoudigde wiskundige modellen, geen echte grijper of Halberd-firmware. Ze tonen een **meetwaarde als percentage van de doelwaarde**: 100% betekent dat de meting gelijk is aan het doel. De tijd en instellingen zijn voorbeelden, geen veilige instellingen voor een echte grijper.
+De volgende simulaties tonen een **meetwaarde als percentage van de doelwaarde**: 100% betekent dat de meting gelijk is aan het doel. 
 
 <img src="img/pid_demping.svg" alt="Gesimuleerde ondergedempte reactie schommelt voorbij het doel en komt uiteindelijk tot rust; een overgedempte reactie nadert het doel zonder overshoot." title="Onder- en overgedempte reactie"></img>
 
