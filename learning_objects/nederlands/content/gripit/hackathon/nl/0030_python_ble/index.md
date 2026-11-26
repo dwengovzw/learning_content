@@ -21,35 +21,21 @@ teacher_exclusive: false
 
 ## Van draadloze verbinding naar een eerste grijptaak
 
-### Installeer de Python-driver
+### Maak je programma klaar
 
 Upload eerst de aangepaste `parallel_gripper_servo`-firmware uit de vorige stap en laat de Halberd ingeschakeld. Schakel Bluetooth op je computer in. Deze firmware gebruikt AGP, niet de Nordic UART Service uit andere BLE-voorbeelden.
 
-Maak met Python 3.11 of nieuwer een virtuele omgeving aan in je werkmap en installeer de driver. Gebruik op Windows PowerShell:
-
-    py -3 --version
-    py -3 -m venv .venv
-    .\.venv\Scripts\Activate.ps1
-    python -m pip install "airo-robots[halberd]"
-
-Gebruik op macOS of Linux:
-
-    python3 --version
-    python3 -m venv .venv
-    source .venv/bin/activate
-    python -m pip install "airo-robots[halberd]"
-
-Controleer met `python --version` of de geactiveerde omgeving Python 3.11 of nieuwer gebruikt. Op Linux moet de Bluetooth-service actief zijn en moet de gebruiker toegang hebben tot BlueZ. De [airo-mono-documentatie](https://github.com/airo-ugent/airo-mono/blob/main/airo-robots/airo_robots/grippers/hardware/halberd_ble.md) beschrijft de driver en extra mogelijkheden.
+Gebruik dezelfde werkmap en virtuele omgeving als bij `identify.py`. Als je een nieuwe terminal opent, activeer je de bestaande omgeving opnieuw met `.\.venv\Scripts\Activate.ps1` in Windows PowerShell of `source .venv/bin/activate` op macOS of Linux. Je hoeft de omgeving of de driver niet opnieuw te installeren.
 
 ### Verbind, open en sluit
 
-Sla dit op als `gripper.py`. Vervang de naam door jouw `GRIPPER_NAME`. Test eerst zonder voorwerp, nadat de bewegingen en grenzen in de firmware veilig zijn gekalibreerd.
+Maak een nieuw bestand `gripper.py` in dezelfde werkmap en sla daarin deze code op. Vervang de naam door jouw `GRIPPER_NAME`. Test eerst zonder voorwerp, nadat de bewegingen en grenzen in de firmware veilig zijn gekalibreerd.
 
 ``` python
 from airo_robots.grippers import HalberdBLEGripper
 
 print("Gevonden:", HalberdBLEGripper.discover())
-gripper = HalberdBLEGripper.connect(name="gripper-left")
+gripper = HalberdBLEGripper.connect(name="my-first-gripper")
 try:
     gripper.identify()
     gripper.open().wait()
@@ -61,7 +47,7 @@ finally:
 
 Start met `python gripper.py`. De LED knippert kort bij `identify()`; de grijper opent, sluit en opent opnieuw. `wait()` wacht op de voltooiingsmelding van de firmware, niet op een onafhankelijke meting. Ontbreekt beweging of volgt een fout, controleer dan de firmware en onderbreek indien nodig de voeding.
 
-Voor een parallelle grijper kun je ook `gripper.move(0.02).wait()` gebruiken: de gewenste opening is hier 0,02 meter en moet binnen je gekalibreerde bereik liggen. De driver begrenst aanvragen tot de door de firmware opgegeven grenzen. Andere mechanismen kunnen `GenericHalberdGripper` met eigen assen en poses gebruiken.
+Voor beweging naar een specifieke opening, bijvoorbeeld met `gripper.move(0.02).wait()`, moet de firmware ook een `onMove`-callback implementeren. Het basisvoorbeeld `parallel_gripper_servo` ondersteunt alleen de standen `open` en `closed`; gebruik een aangepaste firmware met veilig gekalibreerde grenzen voor andere doelposities.
 
 ### Problemen oplossen
 
@@ -72,4 +58,4 @@ Voor een parallelle grijper kun je ook `gripper.move(0.02).wait()` gebruiken: de
 
 ### Hackathonopdracht
 
-Test je ontwerp met verschillende alledaagse voorwerpen. Noteer per voorwerp de openingsbreedte, het resultaat en mogelijke oorzaken van falen. Verander één eigenschap tegelijk en vergelijk opnieuw. Gebruik sensoren alleen na kalibratie en implementeer expliciet wat de grijper bij contact, blokkering en verbindingsverlies moet doen.
+Test je ontwerp met verschillende alledaagse voorwerpen. Noteer per voorwerp de openingsbreedte, het resultaat en mogelijke oorzaken van falen. Verander één eigenschap tegelijk en vergelijk opnieuw. Implementeer expliciet wat de grijper bij contact, blokkering en verbindingsverlies moet doen.

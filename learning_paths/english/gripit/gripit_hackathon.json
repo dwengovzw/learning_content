@@ -24,12 +24,34 @@
             "transitions": [
                 {
                     "default": true,
+                    "next": {"hruid": "org_dwengo_gripit_hackathon_parallelle_grijper_firmware", "version": "1", "language": "en"}
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_hackathon_parallelle_grijper_firmware",
+            "version": "1",
+            "language": "en",
+            "transitions": [
+                {
+                    "default": true,
                     "next": {"hruid": "org_dwengo_gripit_hackathon_python_ble", "version": "1", "language": "en"}
                 }
             ]
         },
         {
             "learningobject_hruid": "org_dwengo_gripit_hackathon_python_ble",
+            "version": "1",
+            "language": "en",
+            "transitions": [
+                {
+                    "default": true,
+                    "next": {"hruid": "org_dwengo_gripit_hackathon_sensoren_ble", "version": "1", "language": "en"}
+                }
+            ]
+        },
+        {
+            "learningobject_hruid": "org_dwengo_gripit_hackathon_sensoren_ble",
             "version": "1",
             "language": "en"
         }
