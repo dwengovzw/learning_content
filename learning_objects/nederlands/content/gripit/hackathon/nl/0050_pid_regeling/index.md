@@ -45,9 +45,13 @@ Een PID-regelaar telt drie bijdragen op:
 
 De letters \\(K_p\\), \\(K_i\\) en \\(K_d\\) zijn instelbare versterkingen; \\(I\\) en \\(D\\) zijn de opgebouwde fout en de verandering van de fout. De eenheid van elke bijdrage moet samen overeenkomen met die van \\(u\\).
 
-<img src="img/pid_termen.svg" alt="Drie opeenvolgende foutmetingen 100, 60 en 40. P gebruikt de laatste fout, I telt de rechthoeken op en D kijkt naar de daling tussen de laatste twee." title="P, I en D bij drie foutmetingen"></img>
+<img src="./img/pid_termen.svg" alt="Drie grafieken tonen de gesimuleerde fout, de opgetelde fout en de verandering van de fout. Na 0,3 seconde zijn ze respectievelijk 40 counts, 20 countseconden en min 200 counts per seconde." title="Fout, integraal en verandering bij gesimuleerde meetwaarden"></img>
 
-Stel dat de fout tijdens drie gelijke intervallen van 0,1 seconde achtereenvolgens 100, 60 en 40 counts is. De rechthoeken tonen een vereenvoudigd voorbeeld: hun breedte is telkens 0,1 s.
+De grafieken tonen gesimuleerde gegevens, geen metingen van een echte grijper. We bekijken de situatie na 0,3 s: aan het einde van drie intervallen van 0,1 s is de fout achtereenvolgens 100, 60 en 40 counts. De grijze punten tonen hoe deze simulatie daarna verdergaat.
+
+De fout van 40 counts is het verschil tussen de gemeten en de gewenste ruwe sensorwaarde. Bij een doel van 1250 counts en een meting van 1290 counts is de fout dus \\(e = 1290 - 1250 = 40\\) counts. Counts zijn stappen van de analoog-digitaalomzetter, geen eenheid van kracht.
+
+De middelste grafiek toont de opgebouwde fout \\(I\\); de onderste toont de verandering \\(D\\) per seconde. Voor de vereenvoudigde integraalberekening gebruiken we per interval van 0,1 s de fout aan het einde van dat interval en beginnen we met een integraal van nul. De eerste verandering wordt berekend bij de tweede meting, omdat er voor de eerste nog geen vorige meting is. De trappen tonen de waarden na elke berekening; ze zijn nog niet vermenigvuldigd met de versterkingen.
 
 ### P: de huidige fout
 
