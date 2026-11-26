@@ -33,9 +33,9 @@ Schakel de voeding uit voordat je iets aansluit. Verbind de sensormodule met de 
 | `SCL` | `D15` | I2C-klok voor de afstandssensor |
 | `Pres_out` | `A0` | Analoge meetwaarde van de druksensor |
 
-<img src="./img/sensor_with_labels.png" alt="Boven- en onderaanzicht van de sensormodule met de sensoren en connectorpinnen aangeduid" title="Sensormodule en connectorpinnen"></img>
+<img src="img/sensor_with_labels.png" alt="Boven- en onderaanzicht van de sensormodule met de sensoren en connectorpinnen aangeduid" title="Sensormodule en connectorpinnen"></img>
 
-<img src="./img/halberd_board_top_connector.png" alt="Aansluitingen en pinlabels op het Halberd-bord" title="Aansluitingen op het Halberd-bord"></img>
+<img src="img/halberd_board_top_connector.png" alt="Aansluitingen en pinlabels op het Halberd-bord" title="Aansluitingen op het Halberd-bord"></img>
 
 Controleer de labels, bedrading en voedingsspanning van jouw module en bord. De afstandssensor gebruikt I2C via `Wire`; de druksensor gebruikt de analoge ingang `A0`.
 
@@ -106,7 +106,7 @@ try:
         plt.pause(0.2)
 finally:
     gripper.disconnect()
-    
+
 </code></pre>
 
 Voer `python sensoren.py` uit. Het venster toont de laatst ontvangen afstand en drukspanning doorheen de tijd. Houd een voorwerp voor de afstandssensor of druk voorzichtig op de druksensor en bekijk hoe de grafieken veranderen. Sluit het venster om de verbinding te verbreken.
