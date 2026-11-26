@@ -55,7 +55,3 @@ Voor beweging naar een specifieke opening, bijvoorbeeld met `gripper.move(0.02).
 - Meerdere grijpers met dezelfde naam? Geef elk team een unieke naam in de sketch; de driver meldt anders een dubbelzinnige naam. Indien nodig kun je ook `connect(name="gripper-left", address="...")` gebruiken met het adres uit de ontdekking.
 - Importfout? Activeer dezelfde virtuele omgeving waarmee je het pakket installeerde. Controleer je Python-versie en herhaal de installatie in die omgeving.
 - Geen voltooiing? Controleer de seriële output, callbacks, `reportPosition()` en `update()`. Een gemelde positie bewijst niet dat de mechaniek werkelijk bewogen heeft.
-
-### Hackathonopdracht
-
-Test je ontwerp met verschillende alledaagse voorwerpen. Noteer per voorwerp de openingsbreedte, het resultaat en mogelijke oorzaken van falen. Verander één eigenschap tegelijk en vergelijk opnieuw. Implementeer expliciet wat de grijper bij contact, blokkering en verbindingsverlies moet doen.

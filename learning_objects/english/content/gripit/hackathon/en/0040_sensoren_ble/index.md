@@ -23,7 +23,23 @@ In the previous step you controlled a parallel gripper over BLE. Now you will us
 
 ### Connect the sensor module
 
-Turn off the power before making connections. Connect the module to Halberd: `3.3V` to `3.3V`, `GND` to `GND`, `SDA` to `D16`, `SCL` to `D15` and `Pres_out` to `A0`. Check the labels, wiring and supply voltage of your module and board. The distance sensor uses I2C via `Wire`; the pressure sensor uses analogue input `A0`.
+Turn off the power before making connections. Connect the sensor module to Halberd:
+
+| Sensor module pin | Halberd pin | Function |
+| --- | --- | --- |
+| `3.3V` | `3.3V` | Power |
+| `GND` | `GND` | Ground |
+| `SDA` | `D16` | I2C data for the distance sensor |
+| `SCL` | `D15` | I2C clock for the distance sensor |
+| `Pres_out` | `A0` | Analogue pressure sensor reading |
+
+<img src="./img/sensor_with_labels.png" alt="Top and bottom views of the sensor module showing the sensors and connector pins" title="Sensor module and connector pins"></img>
+
+The image labels are in Dutch: *bovenaanzicht* means top view, *onderaanzicht* means bottom view, *druksensor* means pressure sensor, *afstandssensor* means distance sensor and *pinnen op connector* means connector pins.
+
+<img src="./img/halberd_board_top_connector.png" alt="Connectors and pin labels on the Halberd board" title="Halberd board connectors"></img>
+
+Check the labels, wiring and supply voltage of your module and board. The distance sensor uses I2C via `Wire`; the pressure sensor uses analogue input `A0`.
 
 ### Upload the sensor firmware
 

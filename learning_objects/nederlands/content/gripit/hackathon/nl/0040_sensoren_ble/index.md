@@ -23,7 +23,21 @@ In de vorige stap bestuurde je een parallelle grijper via BLE. Nu gebruik je de 
 
 ### Sluit de sensormodule aan
 
-Schakel de voeding uit voordat je iets aansluit. Verbind de module met de Halberd: `3.3V` met `3.3V`, `GND` met `GND`, `SDA` met `D16`, `SCL` met `D15` en `Pres_out` met `A0`. Controleer de labels, bedrading en voedingsspanning van jouw module en bord. De afstandssensor gebruikt I2C via `Wire`; de druksensor gebruikt de analoge ingang `A0`.
+Schakel de voeding uit voordat je iets aansluit. Verbind de sensormodule met de Halberd:
+
+| Pin op de sensormodule | Pin op de Halberd | Functie |
+| --- | --- | --- |
+| `3.3V` | `3.3V` | Voeding |
+| `GND` | `GND` | Massa |
+| `SDA` | `D16` | I2C-data voor de afstandssensor |
+| `SCL` | `D15` | I2C-klok voor de afstandssensor |
+| `Pres_out` | `A0` | Analoge meetwaarde van de druksensor |
+
+<img src="./img/sensor_with_labels.png" alt="Boven- en onderaanzicht van de sensormodule met de sensoren en connectorpinnen aangeduid" title="Sensormodule en connectorpinnen"></img>
+
+<img src="./img/halberd_board_top_connector.png" alt="Aansluitingen en pinlabels op het Halberd-bord" title="Aansluitingen op het Halberd-bord"></img>
+
+Controleer de labels, bedrading en voedingsspanning van jouw module en bord. De afstandssensor gebruikt I2C via `Wire`; de druksensor gebruikt de analoge ingang `A0`.
 
 ### Upload de firmware met sensoren
 
